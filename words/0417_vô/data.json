@@ -13,9 +13,9 @@
   ],
   "rank": 417,
   "choices": [
-    "vào",
+    "ra",
     "vô",
-    "ra"
+    "lên"
   ],
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
@@ -29,20 +29,20 @@
     "audioUrl": "multi_choice.mp3",
     "content": {
       "translation": {
-        "en": "We will go on an adventure."
+        "en": "Please enter the house."
       },
       "answer": "vô",
       "choices": [
         "vô",
-        "điều",
-        "mới"
+        "ra",
+        "lên"
       ],
       "hint": "v__",
       "language": "vi",
-      "sentence": "Chúng ta sẽ ___ một cuộc phiêu lưu.",
+      "sentence": "Mời bạn ___ nhà.",
       "word": "vô",
       "translatedAnswer": {
-        "en": "go"
+        "en": "enter"
       }
     },
     "createdAt": "2025-03-12T13:44:19.721Z",
@@ -56,21 +56,21 @@
   ],
   "flashcard": {
     "definitions": {
-      "en": "A Vietnamese word meaning 'extremely' or 'very'.",
-      "es": "Una palabra vietnamita que significa 'extremadamente' o 'muy'.",
-      "vi": "Một từ tiếng Việt có nghĩa là 'rất' hoặc 'cực kỳ'."
+      "en": "To enter; to move from outside to inside.",
+      "es": "Entrar; moverse de afuera hacia adentro.",
+      "vi": "Đi vào; di chuyển từ ngoài vào trong."
     },
     "audioUrl": "flashcard.mp3",
     "example": {
-      "en": "She is extremely smart.",
-      "es": "Ella es extremadamente inteligente.",
-      "vi": "Cô ấy vô cùng thông minh."
+      "en": "Please enter the house.",
+      "es": "Por favor entra a la casa.",
+      "vi": "Mời bạn vô nhà."
     },
     "createdAt": "2025-01-28T11:22:38.966Z",
     "translations": {
-      "es": "extremadamente",
+      "es": "entrar",
       "vi": "vô",
-      "en": "extremely"
+      "en": "enter / go in"
     }
   },
   "fillBlankQuiz": {
@@ -80,13 +80,13 @@
     "createdAt": "2025-03-12T13:44:19.721Z",
     "content": {
       "word": "vô",
-      "sentence": "Tôi sẽ ___ đi đến bữa tiệc.",
+      "sentence": "Mời bạn ___ nhà.",
       "language": "vi",
       "translatedAnswer": {
-        "en": "go"
+        "en": "enter"
       },
       "translation": {
-        "en": "I will go to the party."
+        "en": "Please enter the house."
       },
       "answer": "vô",
       "choices": []
