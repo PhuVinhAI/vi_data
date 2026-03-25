@@ -25,14 +25,14 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "translatedAnswer": {
-        "en": "unique"
+        "en": "poisonous"
       },
       "answer": "độc",
       "choices": [],
-      "sentence": "Sách này rất ___ và thú vị.",
+      "sentence": "Đừng ăn nấm này vì nó rất ___.",
       "word": "độc",
       "translation": {
-        "en": "This book is very unique and interesting."
+        "en": "Don't eat this mushroom because it is very poisonous."
       },
       "language": "vi"
     }
@@ -73,19 +73,19 @@
     "audioUrl": "multi_choice.mp3",
     "content": {
       "translatedAnswer": {
-        "en": "unique"
+        "en": "poisonous"
       },
       "answer": "độc",
-      "hint": "d___",
+      "hint": "đ___",
       "choices": [
         "độc",
         "ngon",
         "bình thường"
       ],
-      "sentence": "Món ăn này rất ___ và ngon.",
+      "sentence": "Con rắn này rất ___.",
       "language": "vi",
       "translation": {
-        "en": "This dish is very unique and delicious."
+        "en": "This snake is very poisonous."
       },
       "word": "độc"
     }

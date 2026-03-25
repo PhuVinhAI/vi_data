@@ -1,100 +1,80 @@
 {
-  "exampleSentencesAudioUrlsNorthern": [
-    "northern_1.mp3",
-    "northern_2.mp3",
-    "northern_3.mp3"
-  ],
-  "multiChoiceQuiz": {
-    "id": "dfe5eb24-8204-4eab-becc-44ed0bd54fbf",
-    "createdAt": "2025-03-12T15:14:31.602Z",
-    "audioUrl": "multi_choice.mp3",
-    "type": "multiChoiceQuiz",
-    "content": {
-      "translation": {
-        "en": "They need a supply to complete the project."
-      },
-      "translatedAnswer": {
-        "en": "supply"
-      },
-      "choices": [
-        "cung",
-        "bán",
-        "mua"
-      ],
-      "hint": "c___g",
-      "answer": "cung",
-      "language": "vi",
-      "word": "cung",
-      "sentence": "Họ cần ___ để hoàn thành dự án."
-    },
-    "updatedAt": "2025-03-12T15:14:31.602Z"
-  },
   "word": "cung",
-  "notes": "cùng = together / with (doing something side by side). It shows people doing an action as a group.\n\nIt goes before the person or action.  \n\nCùng focuses on shared action; với just means “with” in a more neutral way.  \nYou’ll often see cùng nhau to emphasize “together.”",
-  "exampleSentences": [
-    "Anh muốn đi xem phim cung em vào cuối tuần này không?",
-    "Chị và bạn bè thường nấu ăn cung nhau mỗi tối thứ bảy.",
-    "Em sẽ học tiếng Việt cung các bạn trong lớp vào chiều nay."
-  ],
-  "choices": [
-    "cùng",
-    "cung",
-    "cũng"
-  ],
   "rank": 2473,
-  "createdAt": "2025-01-27T21:23:43.157Z",
-  "notes_md": "**cùng** = together / with (doing something side by side). It shows people doing an action as a group.\n\nIt goes before the person or action.  \n\n**Cùng** focuses on shared action; **với** just means “with” in a more neutral way.  \nYou’ll often see **cùng nhau** to emphasize “together.”",
-  "definition": "together",
-  "exampleSentencesTranslated": [
-    "Do you want to go to the movies together this weekend?",
-    "My friends and I usually cook together every Saturday evening.",
-    "I will study Vietnamese together with my classmates this afternoon."
-  ],
-  "exampleSentencesAudioUrls": [
-    "southern_1.mp3",
-    "southern_2.mp3",
-    "southern_3.mp3"
-  ],
-  "updatedAt": "2026-03-03T10:39:17.193Z",
-  "fillBlankQuiz": {
-    "createdAt": "2025-03-12T15:14:31.602Z",
-    "type": "fillBlankQuiz",
-    "audioUrl": "fill_blank.mp3",
-    "content": {
-      "sentence": "Chúng ta cần ___ mới để làm việc.",
-      "word": "cung",
-      "language": "vi",
-      "answer": "cung",
-      "translatedAnswer": {
-        "en": "supply"
-      },
-      "translation": {
-        "en": "We need a new supply to work."
-      }
-    },
-    "updatedAt": "2025-03-12T15:14:31.602Z",
-    "id": "e5e622e0-92bd-449d-8ece-888c37976920"
-  },
+  "definition": "supply",
+  "level": "B2",
+  "topic": "Business & Economy",
+  "notes_md": "**cung** = supply. In economics, it refers to the amount of a product or service available.  \n\nIt is almost always used in the context of **cung và cầu** (supply and demand).  \n\nCommon pairings: **cung ứng** (to supply/provide), **nhà cung cấp** (supplier), **nguồn cung** (source of supply).  \n\nDon't confuse it with **cùng** (together) — different tone, different word.",
+  "notes": "cung = supply. In economics, it refers to the amount of a product or service available. It is almost always used in the context of cung và cầu (supply and demand). Common pairings: cung ứng (to supply/provide), nhà cung cấp (supplier), nguồn cung (source of supply). Don't confuse it with cùng (together) — different tone, different word.",
   "flashcard": {
-    "definitions": {
-      "en": "A term referring to a bow or a zodiac sign.",
-      "es": "Un término que se refiere a un arco o un signo zodiacal.",
-      "vi": "Một thuật ngữ chỉ một cái cung hoặc một cung hoàng đạo."
-    },
-    "createdAt": "2025-01-28T12:49:15.027Z",
-    "audioUrl": "flashcard.mp3",
     "translations": {
-      "en": "bow or zodiac sign",
-      "es": "arco o signo zodiacal",
-      "vi": "cái cung hoặc cung hoàng đạo"
+      "vi": "cung",
+      "en": "supply",
+      "es": "oferta"
+    },
+    "definitions": {
+      "vi": "Lượng hàng hóa hoặc dịch vụ sẵn có trên thị trường.",
+      "en": "The amount of goods or services available in the market.",
+      "es": "La cantidad de bienes hoặc servicios disponibles tiếng el mercado."
     },
     "example": {
-      "en": "My zodiac sign is Aries.",
-      "es": "Mi signo zodiacal es Aries.",
-      "vi": "Cung hoàng đạo của tôi là Bạch Dương."
+      "vi": "Cung luôn phải đi đôi với cầu.",
+      "en": "Supply must always go along with demand.",
+      "es": "La oferta siempre debe ir đi đôi với la demanda."
     }
   },
-  "_id": "av0Wq1XtFZQlukULqm7w",
-  "level": "B2",
-  "topic": "Business & Economy"
+  "exampleSentences": [
+    "Công ty này chuyên cung ứng nguyên liệu cho chúng tôi.",
+    "Nguồn cung gạo năm nay rất dồi dào.",
+    "Giá cả tăng do cung không đủ cầu."
+  ],
+  "exampleSentencesTranslated": [
+    "This company specializes in supplying raw materials to us.",
+    "The rice supply this year is very abundant.",
+    "Prices increased because supply was not enough for demand."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Họ đang tìm nhà ___ cấp mới.",
+      "word": "cung",
+      "language": "vi",
+      "answer": "cung",
+      "translatedAnswer": {
+        "en": "supply"
+      },
+      "translation": {
+        "en": "They are looking for a new supplier."
+      }
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Giá tăng do ___ không đủ cầu.",
+      "word": "cung",
+      "answer": "cung",
+      "choices": [
+        "cung",
+        "cầu",
+        "bán"
+      ],
+      "hint": "c___g",
+      "translation": {
+        "en": "Prices rose because supply was not enough for demand."
+      },
+      "translatedAnswer": {
+        "en": "supply"
+      },
+      "language": "vi"
+    }
+  },
+  "choices": [
+    "cung",
+    "cầu",
+    "mua"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:39:17.193Z",
+  "_id": "av0Wq1XtFZQlukULqm7w"
 }
