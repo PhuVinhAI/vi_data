@@ -35,7 +35,7 @@
   "multiChoiceQuiz": {
     "content": {
       "translation": {
-        "en": "Do you have a few friends coming over?"
+        "en": "How many friends do you have coming over?"
       },
       "language": "vi",
       "choices": [
@@ -47,7 +47,7 @@
       "word": "mấy",
       "sentence": "Bạn có ___ người bạn đến chơi không?",
       "translatedAnswer": {
-        "en": "few"
+        "en": "how many"
       },
       "answer": "mấy"
     },
@@ -71,11 +71,11 @@
       "choices": [],
       "language": "vi",
       "translation": {
-        "en": "Do you have a few friends coming over?"
+        "en": "How many friends do you have coming over?"
       },
       "answer": "mấy",
       "translatedAnswer": {
-        "en": "few"
+        "en": "how many"
       }
     },
     "type": "fillBlankQuiz"

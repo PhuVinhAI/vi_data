@@ -33,19 +33,19 @@
       "hint": "th___",
       "choices": [
         "thành",
-        "bình",
-        "hòa"
+        "làm",
+        "được"
       ],
       "translation": {
-        "en": "They will build a new city."
+        "en": "She wants to become a doctor."
       },
       "answer": "thành",
       "translatedAnswer": {
-        "en": "build"
+        "en": "become"
       },
       "language": "vi",
       "word": "thành",
-      "sentence": "Họ sẽ ___ phố mới."
+      "sentence": "Chị ấy muốn ___ bác sĩ."
     },
     "createdAt": "2025-03-12T13:45:41.633Z"
   },
@@ -56,20 +56,20 @@
   ],
   "flashcard": {
     "example": {
-      "vi": "Tôi muốn thành công trong cuộc sống.",
-      "es": "Quiero tener éxito en la vida.",
-      "en": "I want to succeed in life."
+      "vi": "Tôi muốn thành một người tốt.",
+      "es": "Quiero convertirme en una buena persona.",
+      "en": "I want to become a good person."
     },
     "createdAt": "2025-01-28T11:24:04.435Z",
     "translations": {
-      "en": "succeed",
-      "vi": "thành công",
-      "es": "tener éxito"
+      "en": "become",
+      "vi": "thành / trở thành",
+      "es": "convertirse en"
     },
     "definitions": {
-      "en": "to succeed or to become something.",
-      "vi": "để thành công hoặc trở thành một cái gì đó.",
-      "es": "tener éxito o convertirse en algo."
+      "en": "To turn into or become something else.",
+      "vi": "Trở nên hoặc biến thành một cái gì đó khác.",
+      "es": "Convertirse en o llegar a ser algo más."
     },
     "audioUrl": "flashcard.mp3"
   },
@@ -82,13 +82,13 @@
     "content": {
       "choices": [],
       "translation": {
-        "en": "I want to build a house."
+        "en": "He wants to become a teacher."
       },
       "answer": "thành",
       "translatedAnswer": {
-        "en": "build"
+        "en": "become"
       },
-      "sentence": "Tôi muốn ___ một ngôi nhà.",
+      "sentence": "Anh ấy muốn ___ giáo viên.",
       "word": "thành",
       "language": "vi"
     }
@@ -97,5 +97,5 @@
   "updatedAt": "2026-03-03T06:46:11.048Z",
   "_id": "EwsWjQZRFw9DosZ0Rj1S",
   "level": "B1",
-  "topic": "Conjunctions & Connectors"
+  "topic": "Core Verbs"
 }

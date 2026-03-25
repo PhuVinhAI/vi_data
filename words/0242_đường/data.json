@@ -15,18 +15,18 @@
     "content": {
       "language": "vi",
       "translation": {
-        "en": "I walk on the road."
+        "en": "Coffee is better with a little sugar."
       },
       "answer": "đường",
       "choices": [
         "đường",
-        "cầu",
-        "nhà"
+        "muối",
+        "ớt"
       ],
       "translatedAnswer": {
-        "en": "road"
+        "en": "sugar"
       },
-      "sentence": "Tôi đi bộ trên ___.",
+      "sentence": "Cà phê sẽ ngon hơn nếu thêm một ít ___.",
       "hint": "đ___g",
       "word": "đường"
     },
@@ -44,19 +44,19 @@
   "updatedAt": "2026-03-03T06:44:53.343Z",
   "flashcard": {
     "translations": {
-      "es": "calle",
-      "en": "street",
+      "es": "azúcar",
+      "en": "sugar",
       "vi": "đường"
     },
     "definitions": {
-      "es": "Un camino o vía para vehículos o peatones.",
-      "en": "A path or way for vehicles or pedestrians.",
-      "vi": "Một con đường hoặc lối đi cho phương tiện hoặc người đi bộ."
+      "es": "Một chất ngọt thu được từ mía hoặc củ cải đường.",
+      "en": "A sweet substance obtained from sugar cane or sugar beet.",
+      "vi": "Một chất ngọt thu được từ mía hoặc củ cải đường."
     },
     "example": {
-      "vi": "Tôi đi bộ trên đường.",
-      "es": "Camino por la calle.",
-      "en": "I walk on the street."
+      "vi": "Tôi muốn thêm đường vào trà.",
+      "es": "Quiero añadir azúcar al té.",
+      "en": "I want to add sugar to the tea."
     },
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T14:13:03.282Z"
@@ -75,14 +75,14 @@
     "content": {
       "language": "vi",
       "translation": {
-        "en": "I walk on the road."
+        "en": "I don't like to eat too much sugar."
       },
       "answer": "đường",
       "choices": [],
       "translatedAnswer": {
-        "en": "road"
+        "en": "sugar"
       },
-      "sentence": "Tôi đi bộ trên ___.",
+      "sentence": "Tôi không thích ăn quá nhiều ___.",
       "word": "đường"
     },
     "updatedAt": "2025-03-12T16:41:32.996Z"
@@ -97,5 +97,5 @@
   ],
   "_id": "x78bbo1EYfDOUURf5HFk",
   "level": "A1",
-  "topic": "Places & Directions"
+  "topic": "Food & Drinks"
 }

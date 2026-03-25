@@ -3,7 +3,7 @@
     "translations": {
       "vi": "nhà",
       "es": "casa",
-      "en": "house"
+      "en": "house / home"
     },
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T14:14:01.294Z",
@@ -18,7 +18,7 @@
       "en": "My house is very beautiful."
     }
   },
-  "definition": "house",
+  "definition": "house / home",
   "fillBlankQuiz": {
     "updatedAt": "2025-03-12T13:34:49.604Z",
     "type": "fillBlankQuiz",
@@ -32,11 +32,11 @@
       "translation": {
         "en": "I will go home now."
       },
-      "answer": "nha",
+      "answer": "nhà",
       "choices": [],
       "sentence": "Tôi về ___ ngay bây giờ.",
       "language": "vi",
-      "word": "nha"
+      "word": "nhà"
     }
   },
   "exampleSentencesTranslated": [
@@ -45,19 +45,19 @@
     "My parents are renovating the house to celebrate Tet."
   ],
   "exampleSentences": [
-    "Em sẽ về nha lúc sáu giờ tối nay.",
-    "Anh có muốn đến nha của chị chơi cuối tuần này không?",
-    "Ba mẹ đang sửa lại nha để đón Tết."
+    "Em sẽ về nhà lúc sáu giờ tối nay.",
+    "Anh có muốn đến nhà của chị chơi cuối tuần này không?",
+    "Ba mẹ đang sửa lại nhà để đón Tết."
   ],
   "updatedAt": "2026-03-03T06:47:17.524Z",
-  "notes": "nha is a sentence‑ending particle that makes your tone softer, friendlier, or a bit persuasive. It’s like saying “okay?”, “please?”, or adding a gentle vibe.\n\nIt comes at the end of a sentence to soften requests, suggestions, or confirmations.  \n\nIt doesn’t change the core meaning, just the feeling — more warm and casual.\n\nIn the North, people often say “nhé” instead of nha.  \nDon’t confuse it with “nhà” (with a falling tone), which means house/home.",
+  "notes": "nhà = house or home. It is one of the most fundamental nouns in Vietnamese.\n\nUse it as a noun to describe a building where people live. When you say \"về nhà,\" it means \"go home.\"\n\nIt is also used to refer to family members or as a classifier for some buildings (though infrequently). In everyday speech, it mostly means house or home.\n\nDon't confuse it with the particle \"nha\" (softener), which has no tone mark.",
   "rank": 261,
   "choices": [
-    "nha",
+    "nhà",
     "bàn",
     "trường"
   ],
-  "notes_md": "**nha** is a sentence‑ending particle that makes your tone softer, friendlier, or a bit persuasive. It’s like saying “okay?”, “please?”, or adding a gentle vibe.\n\nIt comes at the **end of a sentence** to soften requests, suggestions, or confirmations.  \n\nIt doesn’t change the core meaning, just the feeling — more warm and casual.\n\nIn the North, people often say **“nhé”** instead of *nha*.  \nDon’t confuse it with **“nhà”** (with a falling tone), which means *house/home*.",
+  "notes_md": "**nhà** = *house* or *home*. It is one of the most fundamental nouns in Vietnamese.\n\nUse it as a noun to describe a building where people live. When you say **\"về nhà,\"** it means **\"go home.\"**\n\nIt is also used to refer to family members or as a classifier for some buildings (though infrequently). In everyday speech, it mostly means house or home.\n\n\nDon't confuse it with the particle **\"nha\"** (softener), which has no tone mark.",
   "exampleSentencesAudioUrlsNorthern": [
     "northern_1.mp3",
     "northern_2.mp3",
@@ -69,26 +69,26 @@
     "createdAt": "2025-03-12T13:34:49.604Z",
     "content": {
       "choices": [
-        "nha",
-        "nhas",
-        "NHA"
+        "nhà",
+        "trường",
+        "phòng"
       ],
-      "sentence": "Tôi về ___ ngay bây giờ.",
+      "sentence": "Tôi đang ở ___.",
       "language": "vi",
-      "word": "nha",
+      "word": "nhà",
       "translatedAnswer": {
         "en": "home"
       },
       "translation": {
-        "en": "I will go home now."
+        "en": "I am at home."
       },
-      "answer": "nha",
-      "hint": "n___a"
+      "answer": "nhà",
+      "hint": "nh__"
     },
     "type": "multiChoiceQuiz",
     "updatedAt": "2025-03-12T13:34:49.604Z"
   },
-  "word": "nha",
+  "word": "nhà",
   "createdAt": "2025-01-27T21:23:43.157Z",
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
@@ -96,6 +96,6 @@
     "southern_3.mp3"
   ],
   "_id": "C0mxp65LNyKSW7yVcySL",
-  "level": "A2",
-  "topic": "Conversational Particles"
+  "level": "A1",
+  "topic": "Places & Locations"
 }
