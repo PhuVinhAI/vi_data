@@ -7,20 +7,20 @@
     "audioUrl": "multi_choice.mp3",
     "id": "ab4f2692-28f8-4aee-bc5c-f36f8a2d6523",
     "content": {
-      "sentence": "Họ có một ___ ở nhà.",
+      "sentence": "Anh ấy còn rất ___.",
       "word": "trẻ",
       "answer": "trẻ",
       "language": "vi",
       "choices": [
-        "máy",
         "trẻ",
-        "người lớn"
+        "già",
+        "mới"
       ],
       "translatedAnswer": {
-        "en": "child"
+        "en": "young"
       },
       "translation": {
-        "en": "They have a child at home."
+        "en": "He is still very young."
       },
       "hint": "tr__"
     },
@@ -33,15 +33,15 @@
     "type": "fillBlankQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "child"
+        "en": "young"
       },
       "translation": {
-        "en": "They have a child at home."
+        "en": "He is still very young."
       },
       "language": "vi",
       "answer": "trẻ",
       "word": "trẻ",
-      "sentence": "Họ có một ___ ở nhà."
+      "sentence": "Anh ấy còn rất ___."
     },
     "id": "0c79f653-dcc0-4a43-acf8-6df4b4b042af",
     "createdAt": "2025-03-12T16:15:18.071Z",
@@ -68,19 +68,19 @@
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T13:47:10.003Z",
     "definitions": {
-      "es": "Una persona joven, típicamente un niño.",
-      "en": "A young person, typically a child.",
-      "vi": "Một người trẻ tuổi, thường là trẻ em."
+      "es": "Una persona joven, típicamente alguien con poca edad.",
+      "en": "A young person, typically someone with little age.",
+      "vi": "Một người trẻ tuổi, có ít tuổi."
     },
     "example": {
-      "vi": "Đứa trẻ đang chơi trong công viên.",
-      "es": "El niño está jugando en el parque.",
-      "en": "The child is playing in the park."
+      "vi": "Cô ấy trông còn rất trẻ.",
+      "es": "Ella se ve rất trẻ.",
+      "en": "She looks very young."
     },
     "translations": {
       "vi": "trẻ",
-      "es": "niño",
-      "en": "child"
+      "es": "joven",
+      "en": "young"
     }
   },
   "exampleSentences": [

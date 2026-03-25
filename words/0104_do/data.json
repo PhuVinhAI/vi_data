@@ -3,11 +3,11 @@
   "originalFrequency": 0.0927,
   "addedReason": "because",
   "exampleSentences": [
-    "Anh có thể cho em một do rõ ràng để tin không?",
-    "Không có do tốt nào để anh ấy đến muộn như vậy.",
-    "Vì do gia đình, chị phải hoãn chuyến đi tuần này."
+    "Anh ấy phải nghỉ học do bị bệnh nặng.",
+    "Do công việc quá bận nên tôi không thể đi chơi.",
+    "Chuyến bay bị hoãn do thời tiết xấu ở Hà Nội."
   ],
-  "notes": "do = reason, the cause of something. It explains why something happens.\n\nIn real life, you’ll almost always hear lý do (full word for “reason”), not just do alone. It’s a noun, so you can count it: một lý do, nhiều lý do, các lý do.  \n\nStrong synonym to remember: lý do; without lý, it sounds incomplete in most situations.",
+  "notes": "do = due to, because of. It is a conjunction used to explain the reason or cause of an event.\n\nWhile it can be used like lý do (reason), its most common role in daily Vietnamese is as a connector. It’s slightly more formal than vì.\n\nStructure: do + noun/phrase + nên + result.",
   "exampleSentencesAudioUrlsNorthern": [
     "northern_1.mp3",
     "northern_2.mp3",
@@ -17,18 +17,18 @@
   "rank": 104,
   "choices": [
     "do",
-    "độ",
-    "dù"
+    "đang",
+    "nhưng"
   ],
-  "definition": "reason",
-  "notes_md": "**do** = reason, the cause of something. It explains *why* something happens.\n\nIn real life, you’ll almost always hear **lý do** (full word for “reason”), not just *do* alone. It’s a noun, so you can count it: *một lý do, nhiều lý do, các lý do*.  \n\n\nStrong synonym to remember: **lý do**; without *lý*, it sounds incomplete in most situations.",
+  "definition": "Due to / Because of",
+  "notes_md": "**do** = *due to, because of*. It is a conjunction used to explain the reason or cause of an event.\n\nWhile it can be used like *lý do* (reason), its most common role in daily Vietnamese is as a connector. It’s slightly more formal than *vì*.\n\n\nStructure: **do + noun/phrase + nên + result.**",
   "source": "frequency_analysis",
   "createdAt": "2025-07-21T10:58:28.077Z",
   "originalCount": 105,
   "exampleSentencesTranslated": [
-    "Can you give me a clear reason to believe?",
-    "There is no good reason for him to be that late.",
-    "Because of family reason, she has to postpone the trip this week."
+    "He had to miss school due to a serious illness.",
+    "Because of a busy workload, I cannot go out.",
+    "The flight was delayed due to bad weather in Hanoi."
   ],
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
@@ -37,10 +37,25 @@
   ],
   "updatedAt": "2026-03-03T06:13:37.579Z",
   "sentenceBreakdowns": [
-    "Anh (older brother / I - male) + có thể (can) + cho (give) + em (you / me - younger) + một (a) + do (reason) + rõ ràng (clear) + để (to) + tin (believe) + không (question particle)?",
-    "Không (not / no) + có (have) + do (reason) + tốt (good) + nào (any) + để (for) + anh ấy (he) + đến (arrive/come) + muộn (late) + như vậy (like that).",
-    "Vì (because of) + do (reason) + gia đình (family) + chị (older sister / I - female) + phải (must) + hoãn (postpone) + chuyến đi (trip) + tuần này (this week)."
+    "Anh ấy (he) + phải (must) + nghỉ học (miss school) + do (due to) + bị bệnh (sick/ill) + nặng (serious)",
+    "Do (Because of) + công việc (work) + quá bận (too busy) + nên (so) + tôi (I) + không thể (cannot) + đi chơi (go out)",
+    "Chuyến bay (the flight) + bị hoãn (delayed) + do (due to) + thời tiết (weather) + xấu (bad) + ở Hà Nội (in Hanoi)"
   ],
+  "fillBlankQuiz": {
+    "content": {
+      "word": "do",
+      "language": "vi",
+      "answer": "do",
+      "sentence": "Học sinh nghỉ học ___ trời mưa to.",
+      "translation": {
+        "en": "Students missed school due to heavy rain."
+      },
+      "translatedAnswer": {
+        "en": "due to"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
   "_id": "b41uTf7OSqhxgjo36Nw0",
   "level": "B1",
   "topic": "Conjunctions & Connectors"
