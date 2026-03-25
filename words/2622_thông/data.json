@@ -13,20 +13,20 @@
     "createdAt": "2025-03-12T15:38:59.953Z",
     "content": {
       "translation": {
-        "en": "He needs to inform the latest news."
+        "en": "Da Lat has many pine forests."
       },
       "translatedAnswer": {
-        "en": "inform"
+        "en": "pine tree"
       },
       "hint": "th___",
       "answer": "thông",
       "choices": [
-        "tin",
         "thông",
-        "báo"
+        "dừa",
+        "sồi"
       ],
       "word": "thông",
-      "sentence": "Anh ấy cần ___ tin tức mới.",
+      "sentence": "Đà Lạt có rất nhiều rừng ___.",
       "language": "vi"
     },
     "type": "multiChoiceQuiz"
@@ -72,14 +72,14 @@
     "type": "fillBlankQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "inform"
+        "en": "pine tree"
       },
       "translation": {
-        "en": "She wants to inform about this issue."
+        "en": "This pine tree is very tall."
       },
       "answer": "thông",
       "choices": [],
-      "sentence": "Cô ấy muốn ___ về vấn đề này.",
+      "sentence": "Cây ___ này rất cao.",
       "language": "vi",
       "word": "thông"
     },

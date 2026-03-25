@@ -8,15 +8,15 @@
     "createdAt": "2025-03-12T14:32:44.249Z",
     "updatedAt": "2025-03-12T14:32:44.249Z",
     "content": {
-      "sentence": "Cá ___ bơi rất nhanh.",
+      "sentence": "Công ty đang trên ___ phát triển.",
       "translatedAnswer": {
-        "en": "fast"
+        "en": "momentum"
       },
       "language": "vi",
       "word": "đà",
       "choices": [],
       "translation": {
-        "en": "The fish swims very fast."
+        "en": "The company is on the momentum of growth."
       },
       "answer": "đà"
     }
@@ -77,20 +77,20 @@
     "createdAt": "2025-03-12T14:32:44.249Z",
     "updatedAt": "2025-03-12T14:32:44.249Z",
     "content": {
-      "hint": "d__",
+      "hint": "đ_",
       "answer": "đà",
       "translation": {
-        "en": "The fish swims very fast."
+        "en": "The work currently has momentum for very good development."
       },
       "word": "đà",
       "choices": [
-        "bơi",
         "đà",
-        "nhanh"
+        "đá",
+        "đã"
       ],
-      "sentence": "Cá ___ bơi rất nhanh.",
+      "sentence": "Công việc hiện tại đang có ___ phát triển rất tốt.",
       "translatedAnswer": {
-        "en": "fast"
+        "en": "momentum"
       },
       "language": "vi"
     }

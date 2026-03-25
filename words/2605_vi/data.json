@@ -8,12 +8,12 @@
     "content": {
       "choices": [],
       "translatedAnswer": {
-        "en": "vi"
+        "en": "violin"
       },
       "translation": {
-        "en": "I like to eat vi."
+        "en": "He is playing the violin."
       },
-      "sentence": "Tôi thích ăn ___.",
+      "sentence": "Anh ấy đang chơi đàn ___.",
       "word": "vi",
       "language": "vi",
       "answer": "vi"
@@ -31,22 +31,20 @@
     "I want to buy a new violin to practice for the performance."
   ],
   "flashcard": {
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T12:34:37.836Z",
     "definitions": {
-      "en": "to visit; to go see someone.",
-      "es": "visitar; ir a ver a alguien.",
-      "vi": "thăm; đi gặp ai đó."
+      "en": "A string instrument played with a bow; violin.",
+      "vi": "Một nhạc cụ có dây được chơi bằng vĩ; đàn vĩ cầm.",
+      "es": "Un instrumento de cuerda tocado con un arco; violín."
     },
     "example": {
-      "en": "I am visiting my grandmother.",
-      "es": "Estoy visitando a mi abuela.",
-      "vi": "Tôi đi viếng thăm bà ngoại."
+      "vi": "Anh ấy chơi đàn vi rất hay.",
+      "en": "He plays the violin very well.",
+      "es": "Él toca el violín muy bien."
     },
     "translations": {
-      "en": "visit",
-      "es": "visitar",
-      "vi": "vi"
+      "vi": "đàn vi (vĩ cầm)",
+      "en": "violin",
+      "es": "violín"
     }
   },
   "createdAt": "2025-01-27T21:23:43.157Z",
@@ -62,19 +60,19 @@
     "content": {
       "word": "vi",
       "language": "vi",
-      "hint": "g___n",
+      "hint": "v_",
       "answer": "vi",
-      "sentence": "Tôi thích ăn ___.",
+      "sentence": "Tiếng đàn ___ thật du dương.",
       "translation": {
-        "en": "I like to eat vi."
+        "en": "The violin sound is so melodious."
       },
       "choices": [
-        "bánh",
+        "guitar",
         "vi",
-        "cơm"
+        "trống"
       ],
       "translatedAnswer": {
-        "en": "vi"
+        "en": "violin"
       }
     },
     "updatedAt": "2025-03-12T15:01:52.598Z",
