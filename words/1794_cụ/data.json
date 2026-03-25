@@ -8,13 +8,13 @@
   "fillBlankQuiz": {
     "content": {
       "word": "cụ",
-      "sentence": "Tôi cần ___ để làm bài tập.",
+      "sentence": "Chúng ta nên bày tỏ lòng kính trọng với các ___.",
       "translatedAnswer": {
-        "en": "tool"
+        "en": "elders"
       },
       "answer": "cụ",
       "translation": {
-        "en": "I need a tool to do the homework."
+        "en": "We should show respect to the elders."
       },
       "choices": [],
       "language": "vi"
@@ -65,21 +65,21 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "tool"
+        "en": "elders"
       },
       "choices": [
-        "củ",
+        "ông",
         "cụ",
-        "cụm"
+        "anh"
       ],
       "answer": "cụ",
       "translation": {
-        "en": "I need a tool to do the homework."
+        "en": "We should show respect to the elders."
       },
       "language": "vi",
       "word": "cụ",
       "hint": "c__",
-      "sentence": "Tôi cần ___ để làm bài tập."
+      "sentence": "Chúng ta nên kính trọng các ___."
     },
     "updatedAt": "2025-03-12T16:34:42.849Z"
   },

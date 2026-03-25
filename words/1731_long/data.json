@@ -4,21 +4,19 @@
   "flashcard": {
     "audioUrl": "flashcard.mp3",
     "translations": {
-      "en": "long",
-      "es": "largo",
-      "vi": "dài"
+      "en": "dragon",
+      "es": "dragón",
+      "vi": "long"
     },
     "example": {
-      "es": "Esta mesa es muy larga.",
-      "en": "This table is very long.",
-      "vi": "Chiếc bàn này rất dài."
+      "es": "El dragón es rất quyền năng.",
+      "en": "The dragon is very powerful.",
+      "vi": "Con long rất quyền năng."
     },
     "definitions": {
-      "vi": "Có chiều dài lớn hơn bình thường.",
-      "es": "Tener una longitud mayor de lo habitual.",
-      "en": "Having a greater length than usual."
-    },
-    "createdAt": "2025-01-28T13:20:34.464Z"
+      "vi": "Một sinh vật huyền thoại tượng trưng cho sức mạnh.",
+      "en": "A mythical creature symbolizing strength."
+    }
   },
   "word": "long",
   "exampleSentencesTranslated": [
@@ -38,19 +36,19 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "long"
+        "en": "dragon"
       },
       "answer": "long",
       "hint": "l___g",
-      "sentence": "Cuốn sách này rất ___.",
+      "sentence": "Hoàng đế thường mặc áo thêu hình ___.",
       "choices": [
-        "ngắn",
-        "cũ",
+        "hổ",
+        "ngựa",
         "long"
       ],
       "language": "vi",
       "translation": {
-        "en": "This book is very long."
+        "en": "The emperor often wore robes embroidered with dragons."
       },
       "word": "long"
     },
@@ -75,14 +73,14 @@
     "audioUrl": "fill_blank.mp3",
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Bây giờ là ___ thời gian.",
+      "sentence": "Triều đình coi ___ là biểu tượng của vua.",
       "choices": [],
       "translatedAnswer": {
-        "en": "long"
+        "en": "dragon"
       },
       "answer": "long",
       "translation": {
-        "en": "Now is a long time."
+        "en": "The court considered the dragon a symbol of the king."
       },
       "word": "long",
       "language": "vi"
