@@ -6,21 +6,19 @@
   ],
   "flashcard": {
     "definitions": {
-      "en": "A vowel sound in Vietnamese that is pronounced with a rounded lip.",
-      "es": "Un sonido de vocal en vietnamita que se pronuncia con los labios redondeados.",
-      "vi": "Một âm nguyên âm trong tiếng Việt được phát âm với môi tròn."
+      "en": "A sentence-ending particle used to express doubt, surprise, or a question.",
+      "vi": "Một trợ từ cuối câu dùng để diễn tả sự nghi ngờ, ngạc nhiên hoặc một câu hỏi.",
+      "es": "Una partícula final de oración utilizada para expresar duda, sorpresa o una pregunta."
     },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T11:28:18.837Z",
     "example": {
-      "en": "I think that ư is a very special sound.",
-      "es": "Creo que ư es un sonido muy especial.",
-      "vi": "Tôi thấy rằng ư là một âm rất đặc biệt."
+      "en": "You don't believe me, really?",
+      "vi": "Bạn không tin tôi ư?",
+      "es": "¿No me crees, de verdad?"
     },
     "translations": {
-      "vi": "một âm đặc biệt",
-      "es": "un sonido especial",
-      "en": "a special sound"
+      "vi": "ư (trợ từ nghi vấn)",
+      "en": "really? / is that so?",
+      "es": "¿de verdad?"
     }
   },
   "multiChoiceQuiz": {
@@ -31,19 +29,19 @@
     "content": {
       "hint": "___",
       "choices": [
-        "và",
+        "à",
         "ư",
-        "nhưng"
+        "thế"
       ],
       "translation": {
-        "en": "She has a special request."
+        "en": "You don't believe me, really?"
       },
       "answer": "ư",
       "translatedAnswer": {
-        "en": "request"
+        "en": "really"
       },
       "word": "ư",
-      "sentence": "Cô ấy có ___ yêu cầu đặc biệt.",
+      "sentence": "Bạn không tin tôi ___?",
       "language": "vi"
     },
     "updatedAt": "2025-03-12T13:50:16.341Z"
@@ -53,14 +51,14 @@
   "fillBlankQuiz": {
     "content": {
       "translatedAnswer": {
-        "en": "request"
+        "en": "really"
       },
-      "sentence": "Cô ấy có ___ yêu cầu đặc biệt.",
+      "sentence": "Định đi bây giờ ___?",
       "word": "ư",
       "language": "vi",
       "choices": [],
       "translation": {
-        "en": "She has a special request."
+        "en": "Are you leaving now?"
       },
       "answer": "ư"
     },

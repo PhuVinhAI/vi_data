@@ -3,21 +3,19 @@
   "flashcard": {
     "translations": {
       "vi": "chế",
-      "es": "hacer",
-      "en": "make"
+      "en": "older sister (slang)",
+      "es": "hermana mayor"
     },
     "definitions": {
-      "vi": "Tạo ra hoặc làm một cái gì đó.",
-      "es": "Crear o hacer algo.",
-      "en": "To create or make something."
+      "vi": "Cách gọi thân mật hoặc hài hước với người phụ nữ lớn tuổi hơn (phổ biến ở miền Nam).",
+      "en": "A close or humorous way to address an older woman (common in Southern Vietnam).",
+      "es": "Una forma cercana o humorística de dirigirse a una mujer mayor (común en el sur de Vietnam)."
     },
-    "createdAt": "2025-01-28T11:45:39.451Z",
     "example": {
-      "vi": "Tôi chế tạo một chiếc xe đạp mới.",
-      "es": "Hice una bicicleta nueva.",
-      "en": "I made a new bicycle."
-    },
-    "audioUrl": "flashcard.mp3"
+      "vi": "Chế ơi, giúp em với!",
+      "en": "Sister, help me!",
+      "es": "¡Hermana, ayúdame!"
+    }
   },
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
@@ -43,20 +41,20 @@
     "audioUrl": "multi_choice.mp3",
     "content": {
       "translatedAnswer": {
-        "en": "create"
+        "en": "sister"
       },
       "answer": "chế",
-      "hint": "c__",
+      "hint": "ch_",
       "word": "chế",
-      "sentence": "Họ sẽ ___ một cách làm mới.",
+      "sentence": "___ nhà em rất hiền.",
       "translation": {
-        "en": "They will create a new way."
+        "en": "My sister is very gentle."
       },
       "language": "vi",
       "choices": [
-        "thay đổi",
+        "chị",
         "chế",
-        "xây dựng"
+        "mẹ"
       ]
     },
     "type": "multiChoiceQuiz"
@@ -70,14 +68,14 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "word": "chế",
-      "sentence": "Tôi không ___ được điều đó.",
+      "sentence": "Tối nay ___ muốn ăn gì?",
       "translation": {
-        "en": "I cannot create that."
+        "en": "What does sister want to eat tonight?"
       },
       "choices": [],
       "language": "vi",
       "translatedAnswer": {
-        "en": "create"
+        "en": "sister"
       },
       "answer": "chế"
     },

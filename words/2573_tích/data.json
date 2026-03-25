@@ -1,22 +1,20 @@
 {
   "flashcard": {
+    "definitions": {
+      "vi": "Đánh dấu vào một ô trống hoặc mục cụ thể trên giấy tờ.",
+      "en": "To mark a specific box or item on a document.",
+      "es": "Marcar una casilla o un artículo específico tiếng un documento."
+    },
     "translations": {
-      "vi": "tích lũy",
-      "es": "acumular",
-      "en": "accumulate"
+      "vi": "tích (đánh dấu)",
+      "en": "tick / check",
+      "es": "marcar"
     },
     "example": {
-      "vi": "Tôi đã tích lũy được nhiều kinh nghiệm trong công việc.",
-      "en": "I have accumulated a lot of experience in my job.",
-      "es": "He acumulado mucha experiencia en mi trabajo."
-    },
-    "definitions": {
-      "es": "Acumular o reunir con el tiempo.",
-      "en": "To accumulate or gather over time.",
-      "vi": "Tích lũy hoặc gom góp theo thời gian."
-    },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T14:13:30.665Z"
+      "vi": "Hãy tích vào ô đồng ý.",
+      "en": "Please tick the agree box.",
+      "es": "Por favor, marque la casilla de acuerdo."
+    }
   },
   "notes": "tích = to tick / check a box (like putting a ✓ on a form).  \n\nIt’s a verb, often used when filling out forms, tests, or surveys. You usually use it with “vào” to show where you mark.  \n\nVery close synonym: đánh dấu (more general = mark something). “Tích” is more specific to checkboxes.",
   "exampleSentencesAudioUrlsNorthern": [
@@ -42,20 +40,20 @@
     "content": {
       "language": "vi",
       "translatedAnswer": {
-        "en": "know"
+        "en": "tick"
       },
       "choices": [
         "tích",
-        "có",
-        "không"
+        "đánh",
+        "ghi"
       ],
       "answer": "tích",
       "translation": {
-        "en": "I know this."
+        "en": "Please tick the answer."
       },
-      "sentence": "Tôi ___ biết điều này.",
+      "sentence": "Vui lòng ___ vào đáp án.",
       "word": "tích",
-      "hint": "t__"
+      "hint": "t___h"
     },
     "updatedAt": "2025-03-12T16:42:15.776Z",
     "type": "multiChoiceQuiz"
@@ -76,16 +74,16 @@
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Tôi ___ biết điều này.",
+      "sentence": "Vui lòng ___ vào đây.",
       "word": "tích",
       "language": "vi",
       "translatedAnswer": {
-        "en": "know"
+        "en": "tick"
       },
       "choices": [],
       "answer": "tích",
       "translation": {
-        "en": "I know this."
+        "en": "Please tick here."
       }
     },
     "updatedAt": "2025-03-12T16:42:15.776Z",

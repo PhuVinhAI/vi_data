@@ -1,17 +1,17 @@
 {
   "exampleSentencesTranslated": [
-    "If I study hard, I will get good results.",
-    "I always try to keep my promises to my friends.",
-    "When I am sad, I often listen to music to feel better."
+    "If we study hard, we will get good results.",
+    "We always try to keep our promises to our friends.",
+    "When we are sad, we often listen to music to feel better."
   ],
-  "notes": "ta = “I”, but it sounds poetic, old-fashioned, or very intimate.\n\nIt’s a first-person pronoun used in literature, speeches, historical dramas, or when someone wants a serious or emotional tone. In real daily conversation, people usually say tôi, mình, or tao instead.  \n\nIt can be used as the subject before a verb, just like other pronouns.  \n\nFor memory: tôi = neutral “I”, tao = rough/casual “I”, ta = poetic or grand “I”.",
+  "notes": "ta = we (inclusive). It’s a pronoun that includes both the speaker and the listener. It sounds very warm and close, creating a sense of shared belonging.\n\nYou often hear it as chúng ta for a more formal or clear plural. In many contexts, especially in signs, rules, or friendly invitations, ta alone is used to mean “our / us”.  \n\nIt can also be a poetic or grand way to say “I”, but for A2 level, we focuses on the plural “we/us” meaning which is essential for group talk.",
   "updatedAt": "2026-03-03T10:45:53.256Z",
   "choices": [
     "ta",
     "chúng",
     "họ"
   ],
-  "definition": "I",
+  "definition": "we (inclusive)",
   "fillBlankQuiz": {
     "updatedAt": "2025-03-12T17:18:33.945Z",
     "createdAt": "2025-03-12T17:18:33.945Z",
@@ -19,14 +19,14 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "word": "ta",
-      "sentence": "___ là một phần của con người.",
+      "sentence": "___ cùng nhau đi chơi nhé.",
       "translation": {
-        "en": "I am a part of humanity."
+        "en": "Let's go out together."
       },
       "choices": [],
       "language": "vi",
       "translatedAnswer": {
-        "en": "I"
+        "en": "we"
       },
       "answer": "ta"
     },
@@ -38,11 +38,11 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "I"
+        "en": "we"
       },
       "answer": "ta",
       "translation": {
-        "en": "I am a part of humanity."
+        "en": "We should protect the environment."
       },
       "choices": [
         "ta",
@@ -52,7 +52,7 @@
       "language": "vi",
       "hint": "t_",
       "word": "ta",
-      "sentence": "___ là một phần của con người."
+      "sentence": "___ nên bảo vệ môi trường."
     },
     "audioUrl": "multi_choice.mp3",
     "id": "c585cc10-a73f-430a-b1a3-07888d17bbbd"

@@ -6,12 +6,12 @@
     "content": {
       "answer": "mô",
       "translatedAnswer": {
-        "en": "model"
+        "en": "tissue"
       },
       "translation": {
-        "en": "I want to model this lesson."
+        "en": "The injury only affects the outer tissue."
       },
-      "sentence": "Tôi muốn ___ bài học này.",
+      "sentence": "Vết thương chỉ ở ___ mềm.",
       "language": "vi",
       "word": "mô",
       "choices": []
@@ -27,22 +27,20 @@
   "definition": "tissue",
   "flashcard": {
     "definitions": {
-      "en": "A model or representation of something.",
-      "vi": "Một mô hình hoặc đại diện cho một cái gì đó.",
-      "es": "Un modelo o representación de algo."
+      "en": "A group of cells with a similar structure and function in the body.",
+      "vi": "Một nhóm các tế bào có cấu trúc và chức năng tương tự trong cơ thể.",
+      "es": "Un grupo de células con một estructura y función tương tự en el cuerpo."
     },
     "example": {
-      "en": "This model is very beautiful.",
-      "vi": "Mô hình này rất đẹp.",
-      "es": "Este modelo es muy bonito."
+      "vi": "Cơ thể có nhiều loại mô.",
+      "en": "The body has many types of tissue.",
+      "es": "El cuerpo tiene nhiều loại de tejido."
     },
     "translations": {
-      "en": "model",
-      "es": "modelo",
-      "vi": "mô"
-    },
-    "createdAt": "2025-01-28T13:05:11.849Z",
-    "audioUrl": "flashcard.mp3"
+      "vi": "mô (tế bào)",
+      "en": "tissue",
+      "es": "tejido"
+    }
   },
   "notes": "mô = tissue in the body (like muscle tissue, fat tissue). It’s a biology word, not paper tissue.\n\nIt’s an uncountable noun, but you can say một loại mô (a type of tissue) or các mô when talking about different tissues.  \n\nVery common pairings: mô cơ (muscle tissue), mô mỡ (fat tissue), mô sẹo (scar tissue).  \n\nIt’s more scientific than everyday body words like thịt (meat/flesh), so you’ll hear it in medical or school contexts.",
   "updatedAt": "2026-03-03T11:25:21.934Z",
@@ -58,20 +56,20 @@
     "content": {
       "choices": [
         "mô",
-        "hình",
-        "cách"
+        "da",
+        "xương"
       ],
-      "sentence": "Họ đang tìm ___ cho dự án.",
+      "sentence": "Cơ bắp được cấu tạo từ ___ cơ.",
       "language": "vi",
       "word": "mô",
       "translatedAnswer": {
-        "en": "model"
+        "en": "tissue"
       },
       "translation": {
-        "en": "They are looking for a model for the project."
+        "en": "Muscles are made of muscle tissue."
       },
       "answer": "mô",
-      "hint": "m__"
+      "hint": "m_"
     },
     "type": "multiChoiceQuiz",
     "updatedAt": "2025-03-12T15:30:10.790Z"
