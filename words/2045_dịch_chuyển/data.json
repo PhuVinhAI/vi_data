@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:52:10.664Z",
+    "updatedAt": "2025-03-12T12:52:10.664Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "di chuyển",
+        "dịch chuyển",
+        "chuyển động"
+      ],
+      "translation": {
+        "en": "We need to move to a new location."
+      },
+      "word": "dịch chuyển",
+      "translatedAnswer": {
+        "en": "move"
+      },
+      "language": "vi",
+      "hint": "dịch c___n",
+      "sentence": "Chúng ta cần ___ đến vị trí mới.",
+      "answer": "dịch chuyển"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "5e4ac354-94f0-45d4-a07e-caf45b8665e8"
+  },
+  "exampleSentences": [
+    "Anh có thể giúp em dịch chuyển chiếc bàn này sang bên kia không?",
+    "Khi gặp tắc đường, chúng ta nên dịch chuyển sang lối khác.",
+    "Mỗi sáng, chị thường dịch chuyển xe máy ra ngoài sân."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2045,
+  "definition": "move",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Necesitamos mover los muebles al nuevo lugar.",
+      "en": "We need to move the furniture to the new place.",
+      "vi": "Chúng ta cần dịch chuyển đồ đạc đến nơi mới."
+    },
+    "translations": {
+      "en": "move",
+      "vi": "dịch chuyển",
+      "es": "mover"
+    },
+    "createdAt": "2025-01-28T10:36:20.420Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Di chuyển hoặc chuyển từ nơi này sang nơi khác.",
+      "en": "To move or shift from one place to another.",
+      "es": "Mover o trasladar de un lugar a otro."
+    }
+  },
+  "notes": "dịch chuyển = to move or shift something/someone from one place to another. It’s about changing position, often in a physical or spatial sense.\n\nIt’s a verb, usually used with objects like đồ vật, vị trí, hướng, lực, dân số. Slightly more formal or technical than di chuyển (which is more common in everyday talk).\n\nIn science or formal contexts, it can also mean “shift” (like dịch chuyển quỹ đạo, dịch chuyển dân cư).",
+  "choices": [
+    "di chuyển",
+    "dịch chuyển",
+    "diễn ra"
+  ],
+  "word": "dịch chuyển",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you help me move this table over there?",
+    "When there is a traffic jam, we should move to another route.",
+    "Every morning, I usually move the motorbike out to the yard."
+  ],
+  "notes_md": "**dịch chuyển** = to move or shift something/someone from one place to another. It’s about changing position, often in a physical or spatial sense.\n\nIt’s a verb, usually used with objects like đồ vật, vị trí, hướng, lực, dân số. Slightly more formal or technical than **di chuyển** (which is more common in everyday talk).\n\n\nIn science or formal contexts, it can also mean “shift” (like dịch chuyển quỹ đạo, dịch chuyển dân cư).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:52:10.664Z",
+    "updatedAt": "2025-03-12T12:52:10.664Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We need to move to a new location."
+      },
+      "word": "dịch chuyển",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "move"
+      },
+      "sentence": "Chúng ta cần ___ đến vị trí mới.",
+      "answer": "dịch chuyển"
+    },
+    "type": "fillBlankQuiz",
+    "id": "c600872b-9b32-47a3-b58b-0daed1ec6507",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T09:54:27.436Z",
+  "_id": "0pmwNHowyPWfUXD0Lj3L"
+}

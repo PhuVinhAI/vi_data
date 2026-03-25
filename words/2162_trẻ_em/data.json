@@ -1,0 +1,99 @@
+{
+  "word": "trẻ em",
+  "rank": 2162,
+  "exampleSentences": [
+    "Ở công viên này có rất nhiều trẻ em chơi vào buổi chiều.",
+    "Chị thường tặng sách cho trẻ em vào dịp Tết Trung Thu.",
+    "Hôm nay, lớp học tiếng Anh dành cho trẻ em bắt đầu lúc tám giờ."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "children",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "trẻ em",
+    "giáo viên",
+    "người lớn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "085d575b-af09-4ef0-8dda-034cbb899658",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:52:50.988Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "The children love to play."
+      },
+      "answer": "trẻ em",
+      "translatedAnswer": {
+        "en": "children"
+      },
+      "sentence": "Các ___ rất thích chơi đùa.",
+      "word": "trẻ em",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:52:50.988Z"
+  },
+  "notes": "trẻ em = children (kids), usually from babies up to early teens.  \n\nIt’s a plural noun in meaning, but you don’t add “s” like in English. Use classifiers like một em bé / một đứa trẻ, but trẻ em already sounds collective.  \n\nOften paired with người lớn (adults) to contrast age groups.  \nClose synonym: thiếu nhi (more formal, often in school or official contexts).",
+  "updatedAt": "2026-03-03T10:06:34.884Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "tr___m",
+      "choices": [
+        "trẻ em",
+        "người lớn",
+        "thú cưng"
+      ],
+      "translation": {
+        "en": "There are many children in the park."
+      },
+      "answer": "trẻ em",
+      "translatedAnswer": {
+        "en": "children"
+      },
+      "sentence": "Trong công viên có nhiều ___.",
+      "word": "trẻ em",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:52:50.988Z",
+    "updatedAt": "2025-03-12T13:52:50.988Z",
+    "id": "594681a1-e5d2-4d02-9d9f-d69dbfb4dd77",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**trẻ em** = children (kids), usually from babies up to early teens.  \n\nIt’s a plural noun in meaning, but you don’t add “s” like in English. Use classifiers like **một em bé / một đứa trẻ**, but **trẻ em** already sounds collective.  \n\nOften paired with **người lớn** (adults) to contrast age groups.  \nClose synonym: **thiếu nhi** (more formal, often in school or official contexts).",
+  "exampleSentencesTranslated": [
+    "There are many children playing in this park in the afternoon.",
+    "She often gives books to children during the Mid-Autumn Festival.",
+    "Today, the English class for children starts at eight o'clock."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A young human being below the age of puberty.",
+      "es": "Un ser humano joven que está por debajo de la edad de la pubertad.",
+      "vi": "Một con người trẻ tuổi dưới độ tuổi dậy thì."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trẻ em",
+      "es": "niños",
+      "en": "children"
+    },
+    "example": {
+      "en": "Children need care and education.",
+      "vi": "Trẻ em cần được chăm sóc và giáo dục.",
+      "es": "Los niños necesitan cuidado y educación."
+    },
+    "createdAt": "2025-01-28T11:30:40.412Z"
+  },
+  "_id": "GWOYQegZMc8vJBVEiZef"
+}

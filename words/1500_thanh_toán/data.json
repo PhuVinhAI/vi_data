@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I want to use a credit card for the payment of this meal.",
+    "Can you help me with the payment of the electricity and water bill?",
+    "I will check the amount again before the payment at the cashier."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To settle a debt or make a payment.",
+      "es": "Liquidar una deuda o hacer un pago.",
+      "vi": "Để thanh toán một khoản nợ hoặc thực hiện một khoản thanh toán."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi muốn thanh toán hóa đơn này.",
+      "es": "Quiero pagar esta factura.",
+      "en": "I want to pay this bill."
+    },
+    "createdAt": "2025-01-28T11:28:47.382Z",
+    "translations": {
+      "vi": "thanh toán",
+      "es": "pago",
+      "en": "payment"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "84a221aa-23f2-4409-96f2-22987c995877",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:50:45.212Z",
+    "content": {
+      "choices": [
+        "thanh toán",
+        "mua hàng",
+        "gửi tiền"
+      ],
+      "hint": "th___n",
+      "translation": {
+        "en": "Have you paid the money yet?"
+      },
+      "answer": "thanh toán",
+      "translatedAnswer": {
+        "en": "paid"
+      },
+      "sentence": "Bạn đã ___ tiền chưa?",
+      "word": "thanh toán",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:50:45.212Z"
+  },
+  "notes_md": "**thanh toán** = to pay for something, to make a payment. It’s what you say when you complete a transaction.\n\nIt’s a verb, usually used with bills, orders, fees, debts, or services.  \n\nIt can also mean “to settle” a debt or account, not just physically hand over money.  \nClose synonym: **trả tiền** (more casual, everyday “pay money”); *thanh toán* sounds a bit more formal or business-like.",
+  "updatedAt": "2026-03-03T08:56:38.097Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:50:45.212Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "pay"
+      },
+      "language": "vi",
+      "word": "thanh toán",
+      "sentence": "Tôi cần ___ hóa đơn này.",
+      "choices": [],
+      "translation": {
+        "en": "I need to pay this bill."
+      },
+      "answer": "thanh toán"
+    },
+    "updatedAt": "2025-03-12T13:50:45.212Z",
+    "id": "07d967ed-1b5b-4a19-9ad3-09c69cbeaeff",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "thanh toán = to pay for something, to make a payment. It’s what you say when you complete a transaction.\n\nIt’s a verb, usually used with bills, orders, fees, debts, or services.  \n\nIt can also mean “to settle” a debt or account, not just physically hand over money.  \nClose synonym: trả tiền (more casual, everyday “pay money”); thanh toán sounds a bit more formal or business-like.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "payment",
+  "exampleSentences": [
+    "Anh muốn dùng thẻ tín dụng để thanh toán bữa ăn này.",
+    "Chị có thể giúp em thanh toán hóa đơn điện nước không?",
+    "Em sẽ kiểm tra lại số tiền trước khi thanh toán ở quầy thu ngân."
+  ],
+  "rank": 1500,
+  "word": "thanh toán",
+  "choices": [
+    "thanh toán",
+    "giảm giá",
+    "đặt chỗ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "G0nG8VsmoIlYrW0ywzNJ"
+}

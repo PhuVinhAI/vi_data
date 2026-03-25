@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "pandemic",
+  "word": "đại dịch",
+  "exampleSentences": [
+    "Trong thời gian đại dịch, nhiều người phải làm việc ở nhà.",
+    "Anh có nhớ những khó khăn mà đại dịch đã gây ra không?",
+    "Gia đình em thường xuyên gọi video cho nhau trong đại dịch."
+  ],
+  "rank": 1635,
+  "choices": [
+    "bệnh tật",
+    "đại dịch",
+    "dịch bệnh"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đại dịch** = pandemic, a very large disease outbreak that spreads across many countries or globally.  \n\nIt’s a noun. You can say *một đại dịch*, *các đại dịch*.  \n\nOften used with verbs like *bùng phát* (break out), *lan rộng* (spread), *gây ra* (cause), *kết thúc* (end).  \n\nRelated word: *dịch* = epidemic (smaller scale). *Dịch bệnh* is more general, any infectious disease situation.",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "đ___g",
+      "choices": [
+        "khủng hoảng",
+        "đại dịch",
+        "bệnh tật"
+      ],
+      "translation": {
+        "en": "We are living in a pandemic."
+      },
+      "answer": "đại dịch",
+      "translatedAnswer": {
+        "en": "pandemic"
+      },
+      "word": "đại dịch",
+      "sentence": "Chúng ta đang sống trong ___.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:56:43.410Z",
+    "updatedAt": "2025-03-12T13:56:43.410Z",
+    "id": "4e4344a3-085c-43fd-ab1e-59e20129850a",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "During the pandemic, many people had to work from home.",
+    "Do you remember the difficulties that the pandemic caused?",
+    "My family often made video calls to each other during the pandemic."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A widespread outbreak of an infectious disease.",
+      "es": "Un brote generalizado de una enfermedad infecciosa.",
+      "vi": "Một đợt bùng phát rộng rãi của một bệnh truyền nhiễm."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Đại dịch COVID-19 đã ảnh hưởng đến toàn cầu.",
+      "es": "La pandemia de COVID-19 ha afectado a todo el mundo.",
+      "en": "The COVID-19 pandemic has affected the whole world."
+    },
+    "createdAt": "2025-01-28T11:34:35.685Z",
+    "translations": {
+      "en": "pandemic",
+      "vi": "đại dịch",
+      "es": "pandemia"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "24cc1359-3bbe-442d-aa19-5b08cae95918",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:56:43.410Z",
+    "content": {
+      "translation": {
+        "en": "We are facing a pandemic."
+      },
+      "answer": "đại dịch",
+      "choices": [],
+      "language": "vi",
+      "word": "đại dịch",
+      "sentence": "Chúng ta đang đối mặt với ___.",
+      "translatedAnswer": {
+        "en": "pandemic"
+      }
+    },
+    "updatedAt": "2025-03-12T13:56:43.410Z"
+  },
+  "notes": "đại dịch = pandemic, a very large disease outbreak that spreads across many countries or globally.  \n\nIt’s a noun. You can say một đại dịch, các đại dịch.  \n\nOften used with verbs like bùng phát (break out), lan rộng (spread), gây ra (cause), kết thúc (end).  \n\nRelated word: dịch = epidemic (smaller scale). Dịch bệnh is more general, any infectious disease situation.",
+  "updatedAt": "2026-03-03T09:10:53.617Z",
+  "_id": "Hz73XJ6JZKvYdoBwbfs1"
+}

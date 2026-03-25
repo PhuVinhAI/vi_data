@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "số",
+      "translation": {
+        "en": "This number is very important."
+      },
+      "translatedAnswer": {
+        "en": "number"
+      },
+      "word": "số",
+      "sentence": "Số ___ này rất quan trọng.",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:25.275Z",
+    "id": "623caf5c-86f8-41fa-8d79-7686e2b21f7e",
+    "updatedAt": "2025-03-12T15:16:25.275Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you tell me your phone number?",
+    "You need to write the room number on this paper to get the key.",
+    "I have to memorize the number of the bus routes in the city."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This number is my lucky number.",
+      "vi": "Số này là số may mắn của tôi.",
+      "es": "Este número es mi número de la suerte."
+    },
+    "definitions": {
+      "en": "A numeral or digit used to represent a quantity or position.",
+      "es": "Un numeral o dígito utilizado para representar una cantidad o posición.",
+      "vi": "Một số hoặc chữ số được sử dụng để đại diện cho một lượng hoặc vị trí."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:50:57.427Z",
+    "translations": {
+      "es": "número",
+      "vi": "số",
+      "en": "number"
+    }
+  },
+  "definition": "number",
+  "notes": "số = number. It’s used for counting, phone numbers, room numbers, addresses, etc.\n\nIt’s a noun, often paired with con → con số (a figure/number, often in reports or statistics).  \nYou’ll see it before another noun to show a specific number or label.  \n\nmột số means some/a few (an unspecified small amount).  \n\nVery common extra meaning: số = fate/destiny (like “that’s your lot in life”), especially in phrases like số phận.",
+  "exampleSentences": [
+    "Anh có thể cho em biết số điện thoại của anh được không?",
+    "Chị cần ghi số phòng trên giấy này để nhận chìa khóa.",
+    "Em phải học thuộc số của các tuyến xe buýt trong thành phố."
+  ],
+  "updatedAt": "2026-03-03T06:47:05.319Z",
+  "multiChoiceQuiz": {
+    "id": "38ba6638-678b-401a-abe1-fde619769883",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:16:25.275Z",
+    "content": {
+      "choices": [
+        "số",
+        "địa chỉ",
+        "tên"
+      ],
+      "sentence": "Tôi cần biết ___ điện thoại của bạn.",
+      "language": "vi",
+      "word": "số",
+      "translatedAnswer": {
+        "en": "number"
+      },
+      "translation": {
+        "en": "I need to know your phone number."
+      },
+      "answer": "số",
+      "hint": "s__"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:16:25.275Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 260,
+  "choices": [
+    "số",
+    "màu",
+    "giờ"
+  ],
+  "notes_md": "**số** = number. It’s used for counting, phone numbers, room numbers, addresses, etc.\n\nIt’s a noun, often paired with **con** → **con số** (a figure/number, often in reports or statistics).  \nYou’ll see it before another noun to show a specific number or label.  \n\n**một số** means *some/a few* (an unspecified small amount).  \n\nVery common extra meaning: **số** = fate/destiny (like “that’s your lot in life”), especially in phrases like **số phận**.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "số",
+  "_id": "bJaDoVuuHYBs6cIAJQXs"
+}

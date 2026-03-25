@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:19:11.973Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b9583e43-3016-4dd7-a0d0-799507f9eacf",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy là một ___ nổi tiếng.",
+      "hint": "h___ sĩ",
+      "translation": {
+        "en": "She is a famous artist."
+      },
+      "translatedAnswer": {
+        "en": "artist"
+      },
+      "word": "họa sĩ",
+      "choices": [
+        "họa sĩ",
+        "nhà văn",
+        "nhạc sĩ"
+      ],
+      "language": "vi",
+      "answer": "họa sĩ"
+    },
+    "updatedAt": "2025-03-12T16:19:11.973Z"
+  },
+  "definition": "artist",
+  "rank": 2384,
+  "notes_md": "**họa sĩ** = artist, usually a *painter* (someone who creates visual art).\n\nIt’s a countable noun: *một họa sĩ, hai họa sĩ*. Often used with **vẽ (tranh)**, like someone who paints pictures.  \nCommon pairings: **họa sĩ nổi tiếng** (famous artist), **họa sĩ truyện tranh** (comic artist), **họa sĩ tự do** (freelance artist).  \n\nDon’t mix it up with **nghệ sĩ** — that’s broader and can mean performer, singer, actor, etc., while **họa sĩ** is specifically about visual art.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:19:11.973Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "She is a famous artist."
+      },
+      "translatedAnswer": {
+        "en": "artist"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "họa sĩ",
+      "word": "họa sĩ",
+      "sentence": "Cô ấy là một ___ nổi tiếng."
+    },
+    "id": "5c69e8fa-0bc0-47a3-889f-11924d84a22b",
+    "createdAt": "2025-03-12T16:19:11.973Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "họa sĩ",
+  "notes": "họa sĩ = artist, usually a painter (someone who creates visual art).\n\nIt’s a countable noun: một họa sĩ, hai họa sĩ. Often used with vẽ (tranh), like someone who paints pictures.  \nCommon pairings: họa sĩ nổi tiếng (famous artist), họa sĩ truyện tranh (comic artist), họa sĩ tự do (freelance artist).  \n\nDon’t mix it up with nghệ sĩ — that’s broader and can mean performer, singer, actor, etc., while họa sĩ is specifically about visual art.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:30:05.525Z",
+  "exampleSentencesTranslated": [
+    "I want to become an artist to draw pictures for children.",
+    "Your brother is an artist, he often paints beautiful landscapes.",
+    "Yesterday, a famous artist came to my school to give a talk."
+  ],
+  "exampleSentences": [
+    "Em muốn trở thành họa sĩ để vẽ tranh cho trẻ em.",
+    "Anh của chị là họa sĩ, anh ấy thường vẽ phong cảnh rất đẹp.",
+    "Hôm qua, họa sĩ nổi tiếng đã đến trường em để nói chuyện."
+  ],
+  "choices": [
+    "bác sĩ",
+    "họa sĩ",
+    "nhạc sĩ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:50:23.561Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una persona que crea arte, especialmente pinturas.",
+      "en": "A person who creates art, especially paintings.",
+      "vi": "Một người tạo ra nghệ thuật, đặc biệt là tranh vẽ."
+    },
+    "translations": {
+      "vi": "họa sĩ",
+      "es": "artista",
+      "en": "artist"
+    },
+    "example": {
+      "es": "El artista pintó un cuadro hermoso.",
+      "en": "The artist painted a beautiful picture.",
+      "vi": "Họa sĩ vẽ một bức tranh đẹp."
+    }
+  },
+  "_id": "rJzF5mna5MwagYAokab0"
+}

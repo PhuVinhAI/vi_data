@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I will press the fruit."
+      },
+      "translatedAnswer": {
+        "en": "press"
+      },
+      "language": "vi",
+      "word": "ép",
+      "sentence": "Tôi sẽ ___ trái cây.",
+      "answer": "ép"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "bb7f5b45-088d-48a5-b64f-3853d279e9fb",
+    "createdAt": "2025-03-12T13:12:43.755Z",
+    "updatedAt": "2025-03-12T13:12:43.755Z"
+  },
+  "updatedAt": "2026-03-03T09:34:37.320Z",
+  "exampleSentencesTranslated": [
+    "I don't want to force you to do something you don't like.",
+    "Parents usually do not force their children to choose a career.",
+    "Friends should not force each other to drink alcohol at the party."
+  ],
+  "notes_md": "**ép** = to force someone to do something they don’t want to do. It can also mean to press or squeeze something to get liquid out.\n\nAs a verb, it’s often about pressure — emotional, social, or physical.  \n\nIt’s also used for physical actions like squeezing fruit or pressing something flat.  \nClose synonym: **buộc** (stronger, more formal “force”).",
+  "word": "ép",
+  "choices": [
+    "ép",
+    "làm",
+    "đẩy"
+  ],
+  "notes": "ép = to force someone to do something they don’t want to do. It can also mean to press or squeeze something to get liquid out.\n\nAs a verb, it’s often about pressure — emotional, social, or physical.  \n\nIt’s also used for physical actions like squeezing fruit or pressing something flat.  \nClose synonym: buộc (stronger, more formal “force”).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh không muốn ép em làm điều gì em không thích.",
+    "Ba mẹ thường không ép con cái chọn nghề nghiệp.",
+    "Bạn bè không nên ép nhau uống rượu trong buổi tiệc."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:12:43.755Z",
+    "updatedAt": "2025-03-12T13:12:43.755Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I will press the fruit."
+      },
+      "choices": [
+        "để",
+        "ép",
+        "chế biến"
+      ],
+      "hint": "ép",
+      "word": "ép",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "press"
+      },
+      "sentence": "Tôi sẽ ___ trái cây.",
+      "answer": "ép"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "018f73e2-0c78-4d9d-aef9-9b41bfed6b33"
+  },
+  "flashcard": {
+    "example": {
+      "es": "Voy a exprimir jugo de naranja para el desayuno.",
+      "en": "I will squeeze orange juice for breakfast.",
+      "vi": "Tôi sẽ ép nước cam cho bữa sáng."
+    },
+    "translations": {
+      "es": "exprimir",
+      "en": "squeeze",
+      "vi": "ép"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To press or squeeze something to extract juice or liquid.",
+      "vi": "Ép là hành động ấn hoặc bóp một cái gì đó để lấy nước hoặc chất lỏng.",
+      "es": "Presionar o exprimir algo para extraer jugo o líquido."
+    },
+    "createdAt": "2025-01-28T10:53:57.015Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "force",
+  "rank": 1857,
+  "_id": "69zFP7WHkjhVN7zS1LvU"
+}

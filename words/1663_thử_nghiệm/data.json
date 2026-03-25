@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He is conducting a new experiment in the laboratory.",
+    "She wants to participate in this experiment to gain more experience.",
+    "My group will report the experiment results at the end of the week."
+  ],
+  "notes": "Thử nghiệm means an experiment or a test to see what happens. It’s used for science, products, ideas, or methods.\n\nIt’s a countable noun: một thử nghiệm, các thử nghiệm. Common pairings: tiến hành thử nghiệm, làm thử nghiệm, kết quả thử nghiệm, thử nghiệm lâm sàng.\n\nIt can also mean a general trial/test run (like testing a new app or method).  \n\nClose word: thí nghiệm (more scientific/formal, often in labs).",
+  "choices": [
+    "thử nghiệm",
+    "bài kiểm tra",
+    "kết luận"
+  ],
+  "updatedAt": "2026-03-03T09:13:56.570Z",
+  "definition": "experiment",
+  "fillBlankQuiz": {
+    "id": "480f3293-b2ba-40c1-9e54-bec49fdc9ce6",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "thử nghiệm",
+      "sentence": "Chúng tôi sẽ ___ một sản phẩm mới.",
+      "translation": {
+        "en": "We will test a new product."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "test"
+      },
+      "answer": "thử nghiệm"
+    },
+    "updatedAt": "2025-03-12T14:24:43.303Z",
+    "createdAt": "2025-03-12T14:24:43.303Z"
+  },
+  "word": "thử nghiệm",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "test"
+      },
+      "answer": "thử nghiệm",
+      "word": "thử nghiệm",
+      "hint": "th___ nghiệm",
+      "sentence": "Chúng tôi sẽ ___ một sản phẩm mới.",
+      "translation": {
+        "en": "We will test a new product."
+      },
+      "language": "vi",
+      "choices": [
+        "thực nghiệm",
+        "thử nghiệm",
+        "nghiên cứu"
+      ]
+    },
+    "id": "eb4255a6-274a-4279-b659-0b5a0164d09b",
+    "createdAt": "2025-03-12T14:24:43.303Z",
+    "updatedAt": "2025-03-12T14:24:43.303Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Thử nghiệm** means an *experiment* or a *test* to see what happens. It’s used for science, products, ideas, or methods.\n\nIt’s a **countable noun**: *một thử nghiệm, các thử nghiệm*. Common pairings: *tiến hành thử nghiệm, làm thử nghiệm, kết quả thử nghiệm, thử nghiệm lâm sàng*.\n\nIt can also mean a general *trial/test run* (like testing a new app or method).  \n\nClose word: **thí nghiệm** (more scientific/formal, often in labs).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đang thực hiện một thử nghiệm mới trong phòng thí nghiệm.",
+    "Chị muốn tham gia vào thử nghiệm này để học hỏi thêm kinh nghiệm.",
+    "Nhóm của em sẽ báo cáo kết quả thử nghiệm vào cuối tuần."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Chúng tôi sẽ thực hiện một thử nghiệm mới.",
+      "es": "Realizaremos un nuevo experimento.",
+      "en": "We will conduct a new experiment."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "experiment",
+      "es": "experimento",
+      "vi": "thử nghiệm"
+    },
+    "definitions": {
+      "es": "Una prueba o ensayo para descubrir algo o para demostrar un hecho conocido.",
+      "vi": "Một bài kiểm tra hoặc thử nghiệm để khám phá điều gì đó hoặc để chứng minh một sự thật đã biết.",
+      "en": "A test or trial to discover something or to demonstrate a known fact."
+    },
+    "createdAt": "2025-01-28T12:00:37.309Z"
+  },
+  "rank": 1663,
+  "_id": "OBJIOQxz2h9JBrlQy9yk"
+}

@@ -1,0 +1,99 @@
+{
+  "notes": "góc độ = perspective, angle you look at something from (not physical, but mental viewpoint).  \n\nIt’s a noun. You often use it with từ / dưới + góc độ + gì to show “from what perspective.”  \n\nCommon pairings: góc độ cá nhân (personal), góc độ pháp lý (legal), góc độ kinh tế (economic).  \n\nThink of it like changing the camera angle in your head — similar to quan điểm, but quan điểm is more like “opinion,” while góc độ is the angle of analysis.",
+  "choices": [
+    "góc độ",
+    "khía cạnh",
+    "quan điểm"
+  ],
+  "updatedAt": "2026-03-03T08:24:36.492Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "a01bd1e3-6470-4b60-87e7-f952e03a9030",
+    "createdAt": "2025-03-12T14:42:46.512Z",
+    "updatedAt": "2025-03-12T14:42:46.512Z",
+    "content": {
+      "hint": "g___ độ",
+      "answer": "góc độ",
+      "translation": {
+        "en": "I look at the problem from this angle."
+      },
+      "word": "góc độ",
+      "choices": [
+        "góc độ",
+        "hướng nhìn",
+        "khía cạnh"
+      ],
+      "sentence": "Tôi nhìn vấn đề từ ___ này.",
+      "translatedAnswer": {
+        "en": "angle"
+      },
+      "language": "vi"
+    }
+  },
+  "word": "góc độ",
+  "rank": 1209,
+  "exampleSentencesTranslated": [
+    "I want to hear your opinion from a personal perspective.",
+    "When we look at this problem from another perspective, everything becomes clearer.",
+    "We should analyze the event from many perspectives to understand better."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "perspective",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:42:46.512Z",
+    "id": "6766b5ee-9ae6-49f7-bb91-227357e247ec",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "angle"
+      },
+      "sentence": "Tôi nhìn vấn đề từ ___ này.",
+      "translation": {
+        "en": "I look at the problem from this angle."
+      },
+      "answer": "góc độ",
+      "choices": [],
+      "word": "góc độ"
+    },
+    "updatedAt": "2025-03-12T14:42:46.512Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**góc độ** = perspective, angle you look at something from (not physical, but mental viewpoint).  \n\nIt’s a noun. You often use it with **từ / dưới + góc độ + gì** to show “from what perspective.”  \n\nCommon pairings: *góc độ cá nhân* (personal), *góc độ pháp lý* (legal), *góc độ kinh tế* (economic).  \n\nThink of it like changing the camera angle in your head — similar to **quan điểm**, but *quan điểm* is more like “opinion,” while *góc độ* is the angle of analysis.",
+  "exampleSentences": [
+    "Anh muốn nghe ý kiến của em từ góc độ cá nhân.",
+    "Khi nhìn vấn đề này từ góc độ khác, mọi thứ sẽ rõ hơn.",
+    "Chúng ta nên phân tích sự việc dưới nhiều góc độ để hiểu rõ hơn."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "ángulo",
+      "vi": "góc độ",
+      "en": "angle"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Veo este problema desde un ángulo diferente.",
+      "en": "I see this issue from a different angle.",
+      "vi": "Tôi nhìn vấn đề này từ một góc độ khác."
+    },
+    "definitions": {
+      "en": "A particular way of considering or approaching something.",
+      "vi": "Một cách đặc biệt để xem xét hoặc tiếp cận một vấn đề.",
+      "es": "Una forma particular de considerar o abordar algo."
+    },
+    "createdAt": "2025-01-28T12:17:25.776Z"
+  },
+  "_id": "SUa88UTmKlYcvqlMzQAh"
+}

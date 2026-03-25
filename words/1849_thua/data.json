@@ -1,0 +1,99 @@
+{
+  "rank": 1849,
+  "exampleSentencesTranslated": [
+    "If you are not careful, you will lose in this game.",
+    "She is sad because her football team just lose an important match.",
+    "I have to try harder so I do not lose to my classmates."
+  ],
+  "word": "thua",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "thua",
+      "choices": [
+        "thua",
+        "thắng",
+        "chơi"
+      ],
+      "hint": "t___a",
+      "translation": {
+        "en": "I don't want to lose again."
+      },
+      "answer": "thua",
+      "sentence": "Tôi không muốn ___ lần nữa.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "lose"
+      }
+    },
+    "updatedAt": "2025-03-12T14:30:07.917Z",
+    "createdAt": "2025-03-12T14:30:07.917Z",
+    "id": "3361ae0e-180a-41ff-ad08-23f9d2e055c3",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T09:33:38.975Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thua",
+    "thắng",
+    "học"
+  ],
+  "notes": "thua = to lose (a game, fight, competition). It’s the opposite of thắng (to win).\n\nUse it when someone loses to someone or something.  \n\nYou can also say thua + số điểm/tỉ số to show by how much.  \nAnother common meaning: thua kém = to be worse or inferior in ability/quality (often followed by ai or về + lĩnh vực).",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:06:12.985Z",
+    "definitions": {
+      "es": "Perder; ser derrotado.",
+      "vi": "Thua; bị đánh bại.",
+      "en": "To lose; to be defeated."
+    },
+    "example": {
+      "es": "Perdí en este juego.",
+      "vi": "Tôi thua trong trò chơi này.",
+      "en": "I lost in this game."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "perder",
+      "en": "lose",
+      "vi": "thua"
+    }
+  },
+  "exampleSentences": [
+    "Nếu anh không cẩn thận, anh sẽ thua trong trò chơi này.",
+    "Chị ấy buồn vì đội bóng của chị vừa mới thua trận đấu quan trọng.",
+    "Em phải cố gắng hơn nữa để không thua bạn cùng lớp."
+  ],
+  "notes_md": "**thua** = to lose (a game, fight, competition). It’s the opposite of **thắng** (to win).\n\nUse it when someone loses to someone or something.  \n\nYou can also say **thua + số điểm/tỉ số** to show by how much.  \nAnother common meaning: **thua kém** = to be worse or inferior in ability/quality (often followed by *ai* or *về + lĩnh vực*).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "thua",
+      "translation": {
+        "en": "I lost in the game."
+      },
+      "choices": [],
+      "word": "thua",
+      "sentence": "Tôi đã ___ trong trò chơi.",
+      "translatedAnswer": {
+        "en": "lost"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:30:07.917Z",
+    "createdAt": "2025-03-12T14:30:07.917Z",
+    "id": "eb54b903-e779-49d7-b60d-a726ab0f2b80",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "lose",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "PaKcrso894JJoDGHzkOW"
+}

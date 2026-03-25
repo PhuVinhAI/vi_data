@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "trừ",
+    "thêm",
+    "và"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "except",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "trừ",
+  "rank": 2070,
+  "exampleSentences": [
+    "Anh ăn tất cả các loại rau, trừ rau mùi.",
+    "Mọi người đều đến dự tiệc, trừ Minh vì bận công việc.",
+    "Chị thích đi du lịch vào mọi mùa, trừ mùa mưa."
+  ],
+  "multiChoiceQuiz": {
+    "id": "7d9cace3-c21e-42c9-95be-7a301badcac2",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "t__",
+      "choices": [
+        "trừ",
+        "trong",
+        "vì"
+      ],
+      "translation": {
+        "en": "Everyone goes except me."
+      },
+      "answer": "trừ",
+      "translatedAnswer": {
+        "en": "except"
+      },
+      "language": "vi",
+      "word": "trừ",
+      "sentence": "Tất cả mọi người đi ___ tôi."
+    },
+    "createdAt": "2025-03-12T13:45:57.296Z",
+    "updatedAt": "2025-03-12T13:45:57.296Z"
+  },
+  "notes_md": "**Trừ** most often means **“except” / “excluding.”** It’s used to remove someone or something from a group.\n\nIt usually comes after a general statement, then adds the thing being excluded.  \n\nIt also means **“to subtract”** in math (trừ 5, trừ tiền). As a verb, it often pairs with numbers or money.\n\nClose synonym for “except”: **ngoại trừ** (more formal).",
+  "flashcard": {
+    "definitions": {
+      "es": "Restar; quitar un número de otro.",
+      "vi": "Trừ; lấy đi một số từ một số khác.",
+      "en": "To subtract; to take away a number from another."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Dos menos tres es igual a menos uno.",
+      "vi": "Hai trừ ba bằng âm một.",
+      "en": "Two minus three equals negative one."
+    },
+    "createdAt": "2025-01-28T11:24:22.187Z",
+    "translations": {
+      "en": "subtract",
+      "vi": "trừ",
+      "es": "restar"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He eats all kinds of vegetables, except parsley.",
+    "Everyone came to the party, except Minh because of work.",
+    "She likes to travel in every season, except monsoon season."
+  ],
+  "notes": "Trừ most often means “except” / “excluding.” It’s used to remove someone or something from a group.\n\nIt usually comes after a general statement, then adds the thing being excluded.  \n\nIt also means “to subtract” in math (trừ 5, trừ tiền). As a verb, it often pairs with numbers or money.\n\nClose synonym for “except”: ngoại trừ (more formal).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "1b2d1a71-ff48-4299-9474-49a10b943ef8",
+    "updatedAt": "2025-03-12T13:45:57.296Z",
+    "createdAt": "2025-03-12T13:45:57.296Z",
+    "content": {
+      "answer": "trừ",
+      "translation": {
+        "en": "I will go except tomorrow."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi sẽ đi ___ ngày mai.",
+      "word": "trừ",
+      "translatedAnswer": {
+        "en": "except"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T09:57:12.815Z",
+  "_id": "F2gtoD6iY4BNBUT0a39L"
+}

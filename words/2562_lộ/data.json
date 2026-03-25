@@ -1,0 +1,99 @@
+{
+  "definition": "road",
+  "fillBlankQuiz": {
+    "id": "58ea2962-1fa6-4ab2-b021-2362c3b461ad",
+    "content": {
+      "answer": "lộ",
+      "translatedAnswer": {
+        "en": "road"
+      },
+      "sentence": "Tôi đã đi ___ đường này.",
+      "word": "lộ",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I have traveled this road."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:09:45.972Z",
+    "createdAt": "2025-03-12T14:09:45.972Z"
+  },
+  "notes": "lộ = road, usually a public road for vehicles.  \n\nIt’s a noun. You’ll often see it in compounds like quốc lộ (national highway) and tỉnh lộ (provincial road). For counting, people normally say con đường or tuyến lộ, not just một lộ.  \n\nIn everyday speech, đường is much more common and flexible. Think of lộ as slightly more formal or official, and it appears a lot in road names.  \n\nDialect note: In the South, lộ sounds more natural in daily use; in the North, people strongly prefer đường except in official names like quốc lộ.",
+  "exampleSentencesTranslated": [
+    "This morning, I walked on the road to the market.",
+    "You should not leave your bicycle on the road at night.",
+    "I see many motorbikes going fast on the road during rush hour."
+  ],
+  "choices": [
+    "lộ",
+    "nhà",
+    "bàn"
+  ],
+  "updatedAt": "2026-03-04T08:50:45.548Z",
+  "notes_md": "**lộ** = road, usually a public road for vehicles.  \n\nIt’s a noun. You’ll often see it in compounds like **quốc lộ** (national highway) and **tỉnh lộ** (provincial road). For counting, people normally say **con đường** or **tuyến lộ**, not just *một lộ*.  \n\nIn everyday speech, **đường** is much more common and flexible. Think of **lộ** as slightly more formal or official, and it appears a lot in road names.  \n\nDialect note: In the South, **lộ** sounds more natural in daily use; in the North, people strongly prefer **đường** except in official names like *quốc lộ*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lộ",
+  "multiChoiceQuiz": {
+    "id": "6c8f4988-8121-4eb1-9f08-338cfe3fe6f2",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "open"
+      },
+      "answer": "lộ",
+      "translation": {
+        "en": "This road is very open."
+      },
+      "language": "vi",
+      "choices": [
+        "hẹp",
+        "lộ",
+        "đẹp"
+      ],
+      "word": "lộ",
+      "hint": "l__",
+      "sentence": "Đường này rất ___."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:09:45.972Z",
+    "createdAt": "2025-03-12T14:09:45.972Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "en": "Exposed or revealed; can refer to something being visible or apparent.",
+      "vi": "Bị lộ ra, có thể chỉ điều gì đó rõ ràng hoặc hiển nhiên.",
+      "es": "Expuesto o revelado; puede referirse a algo que es visible o evidente."
+    },
+    "translations": {
+      "es": "expuesto",
+      "vi": "lộ",
+      "en": "exposed"
+    },
+    "createdAt": "2025-01-28T11:47:01.056Z",
+    "example": {
+      "es": "Este camino está muy expuesto.",
+      "vi": "Con đường này rất lộ.",
+      "en": "This road is very exposed."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa đi bộ trên lộ để đến chợ sáng nay.",
+    "Chị không nên để xe đạp ngoài lộ khi trời tối.",
+    "Em thấy có nhiều xe máy chạy nhanh trên lộ vào giờ cao điểm."
+  ],
+  "rank": 2562,
+  "_id": "KpEI3qxQOe5Y9yWbsvJ0"
+}

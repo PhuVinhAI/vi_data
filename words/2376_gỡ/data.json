@@ -1,0 +1,98 @@
+{
+  "word": "gỡ",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "gỡ",
+      "hint": "g__",
+      "sentence": "Tôi cần ___ sợi dây này.",
+      "translation": {
+        "en": "I need to untie this rope."
+      },
+      "language": "vi",
+      "choices": [
+        "buộc",
+        "gỡ",
+        "cắt"
+      ],
+      "translatedAnswer": {
+        "en": "untie"
+      },
+      "answer": "gỡ"
+    },
+    "id": "b0a49a8f-68e9-44ca-a6fd-8a53f74692c8",
+    "createdAt": "2025-03-12T14:14:03.685Z",
+    "updatedAt": "2025-03-12T14:14:03.685Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**gỡ** = to remove something that is attached, tied, stuck, or connected. Think “take off” or “detach,” not just “take away.”\n\nYou use it when something is physically or technically connected: gỡ tranh, gỡ dây, gỡ phần mềm, gỡ bài đăng. It often implies a bit of effort because the thing is fixed or tangled.\n\nIt’s also very common in **gỡ rối** (untangle, solve a tricky problem) — both literal and figurative.\n\nClose cousin: **tháo** (unscrew/disassemble, more mechanical). Opposite idea: **lắp** (assemble, put on/install).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "gỡ = to remove something that is attached, tied, stuck, or connected. Think “take off” or “detach,” not just “take away.”\n\nYou use it when something is physically or technically connected: gỡ tranh, gỡ dây, gỡ phần mềm, gỡ bài đăng. It often implies a bit of effort because the thing is fixed or tangled.\n\nIt’s also very common in gỡ rối (untangle, solve a tricky problem) — both literal and figurative.\n\nClose cousin: tháo (unscrew/disassemble, more mechanical). Opposite idea: lắp (assemble, put on/install).",
+  "exampleSentencesTranslated": [
+    "Can you help me remove this picture?",
+    "You need to remove the old software from the computer before installing the new one.",
+    "I removed the necklace before going to bed last night."
+  ],
+  "updatedAt": "2026-03-03T10:29:19.791Z",
+  "choices": [
+    "gỡ",
+    "lắp",
+    "đặt"
+  ],
+  "definition": "remove",
+  "fillBlankQuiz": {
+    "id": "02429557-a7ff-45a2-a40e-6f28c714194e",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "untie"
+      },
+      "answer": "gỡ",
+      "word": "gỡ",
+      "sentence": "Tôi cần ___ sợi dây này.",
+      "translation": {
+        "en": "I need to untie this rope."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:14:03.685Z",
+    "createdAt": "2025-03-12T14:14:03.685Z"
+  },
+  "rank": 2376,
+  "exampleSentences": [
+    "Anh có thể giúp em gỡ bức tranh này xuống không?",
+    "Chị cần gỡ phần mềm cũ khỏi máy tính trước khi cài cái mới.",
+    "Em đã gỡ dây chuyền ra trước khi đi ngủ tối qua."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "untie",
+      "vi": "gỡ",
+      "es": "deshacer"
+    },
+    "definitions": {
+      "vi": "Gỡ bỏ hoặc tháo dỡ một cái gì đó.",
+      "es": "Eliminar o deshacer algo.",
+      "en": "To remove or untie something."
+    },
+    "createdAt": "2025-01-28T11:51:11.415Z",
+    "example": {
+      "en": "I need to untie this knot.",
+      "vi": "Tôi cần gỡ cái nút thắt này.",
+      "es": "Necesito deshacer este nudo."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "Ldggl9jHgQoGZCNglq4o"
+}

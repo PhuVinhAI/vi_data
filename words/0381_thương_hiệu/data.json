@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh thích mua quần áo từ thương hiệu nổi tiếng này.",
+    "Chị đang tìm hiểu về lịch sử của một thương hiệu Việt Nam.",
+    "Em nghĩ thương hiệu này có chất lượng sản phẩm rất tốt."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:49:37.812Z",
+    "translations": {
+      "es": "marca",
+      "vi": "thương hiệu",
+      "en": "brand"
+    },
+    "definitions": {
+      "en": "A name, term, design, symbol, or any other feature that distinguishes one seller's goods or services from those of others.",
+      "es": "Un nombre, término, diseño, símbolo o cualquier otra característica que distingue los bienes o servicios de un vendedor de los de otros.",
+      "vi": "Một tên, thuật ngữ, thiết kế, biểu tượng hoặc bất kỳ đặc điểm nào khác phân biệt hàng hóa hoặc dịch vụ của một người bán với những người khác."
+    },
+    "example": {
+      "vi": "Thương hiệu này rất nổi tiếng ở Việt Nam.",
+      "es": "Esta marca es muy famosa en Vietnam.",
+      "en": "This brand is very famous in Vietnam."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 381,
+  "choices": [
+    "thương hiệu",
+    "cửa hàng",
+    "sản phẩm"
+  ],
+  "updatedAt": "2026-03-03T07:00:13.763Z",
+  "notes": "Thương hiệu = brand — the public identity or image of a company, product, or person.\n\nIt’s a noun: một thương hiệu, nhiều thương hiệu. Often used with verbs like xây dựng thương hiệu (build a brand), phát triển thương hiệu, quảng bá thương hiệu.  \n\nClose word: nhãn hiệu (more about the registered label/trademark on a product), while thương hiệu is broader — reputation + image + recognition.  \n\nYou’ll often hear it with adjectives like nổi tiếng, lớn, uy tín, cao cấp.",
+  "exampleSentencesTranslated": [
+    "I like to buy clothes from this brand.",
+    "She is learning about the history of a Vietnamese brand.",
+    "I think this brand has very good product quality."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "brand"
+      },
+      "answer": "thương hiệu",
+      "translation": {
+        "en": "This product has a famous brand."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "thương hiệu",
+      "sentence": "Sản phẩm này có ___ nổi tiếng."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "d9937744-ce8f-4545-b96f-49eeef0e140c",
+    "createdAt": "2025-03-12T14:12:32.824Z",
+    "updatedAt": "2025-03-12T14:12:32.824Z"
+  },
+  "definition": "brand",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:12:32.824Z",
+    "createdAt": "2025-03-12T14:12:32.824Z",
+    "id": "03f5807f-09e8-4f01-b6c1-f34db5d1ee75",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "brand"
+      },
+      "answer": "thương hiệu",
+      "hint": "th___ hiệu",
+      "word": "thương hiệu",
+      "sentence": "Họ đang xây dựng ___ mới.",
+      "translation": {
+        "en": "They are building a new brand."
+      },
+      "language": "vi",
+      "choices": [
+        "thương hiệu",
+        "sản phẩm",
+        "dịch vụ"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "thương hiệu",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Thương hiệu** = brand — the public identity or image of a company, product, or person.\n\nIt’s a noun: *một thương hiệu*, *nhiều thương hiệu*. Often used with verbs like *xây dựng thương hiệu* (build a brand), *phát triển thương hiệu*, *quảng bá thương hiệu*.  \n\nClose word: *nhãn hiệu* (more about the registered label/trademark on a product), while *thương hiệu* is broader — reputation + image + recognition.  \n\nYou’ll often hear it with adjectives like *nổi tiếng*, *lớn*, *uy tín*, *cao cấp*.",
+  "_id": "LKk2DPb3UT1dFUI6ukW1"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "to play",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:26:39.009Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Họ thường ___ bóng đá vào cuối tuần.",
+      "hint": "c___i",
+      "translation": {
+        "en": "They often play football on weekends."
+      },
+      "translatedAnswer": {
+        "en": "play"
+      },
+      "word": "chơi",
+      "choices": [
+        "đi",
+        "chơi",
+        "học"
+      ],
+      "language": "vi",
+      "answer": "chơi"
+    },
+    "id": "85f2275b-8fd6-4a80-8eb7-0be5c5bee797",
+    "createdAt": "2025-03-12T16:26:39.009Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**chơi** = to play. It’s used for games, sports, and fun activities.\n\nUse **chơi + trò chơi / môn thể thao / nhạc cụ** for activities.  \nUse **chơi với + person** when you say who you play with.  \nIt can also mean “hang out / have fun” in a relaxed way (like going out for fun).",
+  "rank": 332,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chơi",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Bọn trẻ thích ___ trong công viên.",
+      "translation": {
+        "en": "The kids like to play in the park."
+      },
+      "translatedAnswer": {
+        "en": "play"
+      },
+      "choices": [],
+      "word": "chơi",
+      "language": "vi",
+      "answer": "chơi"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:26:39.009Z",
+    "createdAt": "2025-03-12T16:26:39.009Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "940bf19f-d322-44ce-9bed-618529c32d33"
+  },
+  "notes": "chơi = to play. It’s used for games, sports, and fun activities.\n\nUse chơi + trò chơi / môn thể thao / nhạc cụ for activities.  \nUse chơi với + person when you say who you play with.  \nIt can also mean “hang out / have fun” in a relaxed way (like going out for fun).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "This afternoon I want to go to the park to play with friends.",
+    "He usually plays soccer every weekend with colleagues.",
+    "Do you like to play video games?"
+  ],
+  "updatedAt": "2026-03-03T06:55:34.219Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chơi",
+    "học",
+    "làm"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:57:26.562Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "tham gia vào một hoạt động để giải trí hoặc vui chơi.",
+      "es": "participar en una actividad por diversión o recreación.",
+      "en": "to engage in an activity for enjoyment or recreation."
+    },
+    "example": {
+      "vi": "Chúng ta sẽ chơi bóng đá vào cuối tuần này.",
+      "en": "We will play soccer this weekend.",
+      "es": "Vamos a jugar al fútbol este fin de semana."
+    },
+    "translations": {
+      "es": "jugar",
+      "en": "play",
+      "vi": "chơi"
+    }
+  },
+  "exampleSentences": [
+    "Chiều nay em muốn ra công viên để chơi với bạn bè.",
+    "Anh thường chơi bóng đá vào mỗi cuối tuần cùng đồng nghiệp.",
+    "Chị có thích chơi các trò chơi điện tử không?"
+  ],
+  "_id": "t4Z4xl9rgH0UHhuRESl7"
+}

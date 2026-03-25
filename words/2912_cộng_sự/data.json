@@ -1,0 +1,99 @@
+{
+  "word": "cộng sự",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**cộng sự** = a work partner, someone you collaborate with on a project or in business. It’s more professional than “friend” and not necessarily equal like “boss” or “employee.”\n\nIt’s a **countable noun**: một cộng sự, hai cộng sự. Often used with **của + person/organization** to show who they work with.\n\n\nClose words: **đồng nghiệp** (coworker, broader — just works at the same place) vs. **cộng sự** (closer collaboration, same project/team).",
+  "rank": 2912,
+  "choices": [
+    "cộng sự",
+    "đồng nghiệp",
+    "bạn bè"
+  ],
+  "multiChoiceQuiz": {
+    "id": "439d9722-1d84-4d67-8d2c-32b92ae33991",
+    "content": {
+      "word": "cộng sự",
+      "sentence": "Tôi cần một ___ để hoàn thành dự án.",
+      "language": "vi",
+      "choices": [
+        "đối tác",
+        "cộng sự",
+        "bạn bè"
+      ],
+      "hint": "c___i",
+      "answer": "cộng sự",
+      "translation": {
+        "en": "I need a partner to complete the project."
+      },
+      "translatedAnswer": {
+        "en": "partner"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:17:28.288Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:17:28.288Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:11:46.822Z",
+  "exampleSentences": [
+    "Anh ấy là cộng sự thân thiết của tôi trong dự án mới này.",
+    "Chị và cộng sự của mình thường trao đổi ý tưởng mỗi ngày.",
+    "Em cần một cộng sự đáng tin cậy để hoàn thành công việc này."
+  ],
+  "notes": "cộng sự = a work partner, someone you collaborate with on a project or in business. It’s more professional than “friend” and not necessarily equal like “boss” or “employee.”\n\nIt’s a countable noun: một cộng sự, hai cộng sự. Often used with của + person/organization to show who they work with.\n\nClose words: đồng nghiệp (coworker, broader — just works at the same place) vs. cộng sự (closer collaboration, same project/team).",
+  "flashcard": {
+    "example": {
+      "en": "I work with a very talented colleague.",
+      "vi": "Tôi làm việc với một cộng sự rất tài năng.",
+      "es": "Trabajo con un colega muy talentoso."
+    },
+    "definitions": {
+      "en": "A person with whom one works, especially in a profession or business.",
+      "es": "Una persona con la que uno trabaja, especialmente en una profesión o negocio.",
+      "vi": "Một người mà bạn làm việc cùng, đặc biệt trong một nghề nghiệp hoặc kinh doanh."
+    },
+    "createdAt": "2025-01-28T10:57:58.976Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cộng sự",
+      "es": "colega",
+      "en": "colleague"
+    }
+  },
+  "definition": "partner (in work or business)",
+  "fillBlankQuiz": {
+    "id": "f099e8b4-4ccb-4cb9-8d9b-51c1a1ba4945",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:17:28.288Z",
+    "content": {
+      "answer": "cộng sự",
+      "translation": {
+        "en": "I need a partner to complete the project."
+      },
+      "translatedAnswer": {
+        "en": "partner"
+      },
+      "word": "cộng sự",
+      "sentence": "Tôi cần một ___ để hoàn thành dự án.",
+      "language": "vi",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:17:28.288Z"
+  },
+  "exampleSentencesTranslated": [
+    "He is my close partner on this new project.",
+    "She and her partner often exchange ideas every day.",
+    "I need a reliable partner to complete this task."
+  ],
+  "_id": "7Yb35zuVdhtpo35YkpIY"
+}

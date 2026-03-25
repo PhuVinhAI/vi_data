@@ -1,0 +1,101 @@
+{
+  "definition": "it",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:25:56.260Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "nó",
+      "answer": "nó",
+      "language": "vi",
+      "choices": [
+        "cái đó",
+        "nó",
+        "điều đó"
+      ],
+      "translatedAnswer": {
+        "en": "it"
+      },
+      "translation": {
+        "en": "Do you see it?"
+      },
+      "hint": "n__",
+      "sentence": "Bạn có thấy ___ không?"
+    },
+    "id": "476b75f9-a855-4dea-ab82-70f8bf586369",
+    "createdAt": "2025-03-12T16:25:56.260Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 7,
+  "notes_md": "**nó** = *it*. It’s a 3rd person singular pronoun, usually for animals, objects, or young children.\n\nYou can also use **nó** for a person who is younger or lower in status, but it can sound rude if you’re not close. With friends, it can be neutral in pairs like *tao – nó*.\n\n\nIf you need to be polite for an adult, use **anh ấy / cô ấy** instead.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nó",
+  "sentenceBreakdowns": [
+    "nó (it) + ăn (eat) + một (a) + bát (bowl) + cơm (rice)",
+    "nó (it) + uống (drink) + một (a) + ly (glass) + nước (water)",
+    "nó (it) + thích (like) + con (classifier) + mèo (cat) + nhỏ (small)"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thấy ___ ở trong vườn.",
+      "choices": [],
+      "word": "nó",
+      "answer": "nó",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "it"
+      },
+      "translation": {
+        "en": "I see it in the garden."
+      }
+    },
+    "updatedAt": "2025-03-12T16:25:56.260Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:25:56.260Z",
+    "id": "f462ade5-8359-4c02-84d5-f9c27744095c"
+  },
+  "notes": "nó = it. It’s a 3rd person singular pronoun, usually for animals, objects, or young children.\n\nYou can also use nó for a person who is younger or lower in status, but it can sound rude if you’re not close. With friends, it can be neutral in pairs like tao – nó.\n\nIf you need to be polite for an adult, use anh ấy / cô ấy instead.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "It eats a bowl of rice.",
+    "It drinks a glass of water.",
+    "It likes the small cat."
+  ],
+  "updatedAt": "2026-03-03T06:03:44.668Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "cô",
+    "họ",
+    "nó"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "The dog is very smart; it can understand my commands.",
+      "vi": "Con chó rất thông minh, nó có thể hiểu lệnh của tôi."
+    },
+    "translations": {
+      "en": "it"
+    },
+    "word": "nó",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:35:31.653Z",
+    "definitions": {
+      "vi": "Đại từ dùng để chỉ người, con vật hoặc đồ vật (thường không phải là người nói hoặc người nghe).",
+      "en": "A pronoun used to refer to a person, animal, or object (usually not the speaker or listener)."
+    }
+  },
+  "exampleSentences": [
+    "nó ăn một bát cơm.",
+    "nó uống một ly nước.",
+    "nó thích con mèo nhỏ."
+  ],
+  "_id": "stUEMBbn2ywzoSiBZSsn"
+}

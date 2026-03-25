@@ -1,0 +1,96 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "châu phi",
+    "châu á",
+    "châu âu"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi muốn du lịch đến châu Âu vào mùa hè này.",
+      "en": "I want to travel to Europe this summer."
+    },
+    "translations": {
+      "en": "Europe"
+    },
+    "word": "châu âu",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:33:35.499Z",
+    "definitions": {
+      "vi": "Một châu lục nằm chủ yếu ở phía bắc bán cầu, bao gồm nhiều quốc gia như Pháp, Đức, Ý.",
+      "en": "A continent located mainly in the Northern Hemisphere, including countries such as France, Germany, and Italy."
+    }
+  },
+  "exampleSentences": [
+    "Anh trai em đang học đại học ở châu âu nên em rất nhớ anh ấy.",
+    "Năm ngoái, chị đã đi du lịch châu âu cùng với bạn bè của mình.",
+    "Em muốn tìm hiểu về các nền văn hóa khác nhau ở châu âu."
+  ],
+  "exampleSentencesTranslated": [
+    "My older brother is studying at a university in Europe so I really miss him.",
+    "Last year, I traveled to Europe with my friends.",
+    "I want to learn about different cultures in Europe."
+  ],
+  "updatedAt": "2026-03-03T09:10:44.610Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "châu Âu means Europe, the continent. It’s a proper noun, so both words are capitalized.\n\nIt often appears after prepositions like ở (in), đến (to), từ (from). You’ll also hear it in phrases like các nước châu Âu (European countries) or thị trường châu Âu (European market).\n\nMemory tip: châu = continent → châu Á (Asia), châu Âu (Europe), châu Phi (Africa).",
+  "word": "châu âu",
+  "fillBlankQuiz": {
+    "id": "c5af7145-d097-4868-8c0b-d87ffcf23217",
+    "createdAt": "2025-03-12T16:07:41.647Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:07:41.647Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "châu âu",
+      "language": "vi",
+      "word": "châu âu",
+      "choices": [],
+      "translation": {
+        "en": "I want to travel to Europe."
+      },
+      "translatedAnswer": {
+        "en": "Europe"
+      },
+      "sentence": "Tôi muốn đi du lịch ___."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**châu Âu** means **Europe**, the continent. It’s a proper noun, so both words are capitalized.\n\nIt often appears after prepositions like **ở** (in), **đến** (to), **từ** (from). You’ll also hear it in phrases like **các nước châu Âu** (European countries) or **thị trường châu Âu** (European market).\n\n\nMemory tip: **châu** = continent → *châu Á* (Asia), *châu Âu* (Europe), *châu Phi* (Africa).",
+  "rank": 1634,
+  "definition": "Europe",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:07:41.647Z",
+    "id": "6ae12253-9a4f-45d1-8009-530d840c9eb2",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn đi du lịch ___.",
+      "hint": "c___ âu",
+      "translation": {
+        "en": "I want to travel to Europe."
+      },
+      "translatedAnswer": {
+        "en": "Europe"
+      },
+      "language": "vi",
+      "choices": [
+        "châu á",
+        "châu âu",
+        "châu phi"
+      ],
+      "answer": "châu âu",
+      "word": "châu âu"
+    },
+    "updatedAt": "2025-03-12T16:07:41.647Z"
+  },
+  "_id": "oEqAQEaP0wBBQTeew3et"
+}

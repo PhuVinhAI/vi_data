@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "ed950daf-b112-4dd8-a5ca-6d2404f0beb3",
+    "createdAt": "2025-03-12T14:28:13.859Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I need a little bit of direction."
+      },
+      "answer": "một tí",
+      "word": "một tí",
+      "choices": [],
+      "sentence": "Tôi cần ___ đường đi.",
+      "translatedAnswer": {
+        "en": "a little bit"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:28:13.859Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "a little",
+  "flashcard": {
+    "example": {
+      "es": "¿Puedo tener un poco de agua?",
+      "en": "Can I have a little water?",
+      "vi": "Cho tôi một tí nước."
+    },
+    "createdAt": "2025-01-28T12:04:24.344Z",
+    "definitions": {
+      "es": "Una pequeña cantidad; un poco.",
+      "vi": "Một lượng nhỏ; một tí.",
+      "en": "A small amount; a little."
+    },
+    "translations": {
+      "vi": "một tí",
+      "en": "a little",
+      "es": "un poco"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**một tí** means “a little” or “a tiny bit.” It’s very small in amount, time, or degree, and sounds soft and casual.\n\nYou put it after verbs or adjectives to make them gentler or smaller in scale. It can talk about time (a short moment), quantity, or intensity.\n\n\nVery close to **một chút** (almost the same meaning). Compared to **một ít**, *một tí* feels more informal and lighter.",
+  "exampleSentences": [
+    "Anh có thể chờ em một tí được không?",
+    "Chị muốn uống cà phê ngọt một tí thôi.",
+    "Em chỉ mệt một tí sau khi tập thể dục."
+  ],
+  "choices": [
+    "một chút",
+    "một tí",
+    "một lần"
+  ],
+  "notes": "một tí means “a little” or “a tiny bit.” It’s very small in amount, time, or degree, and sounds soft and casual.\n\nYou put it after verbs or adjectives to make them gentler or smaller in scale. It can talk about time (a short moment), quantity, or intensity.\n\nVery close to một chút (almost the same meaning). Compared to một ít, một tí feels more informal and lighter.",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "Do you have a little bit of time?"
+      },
+      "answer": "một tí",
+      "hint": "m___ t__",
+      "word": "một tí",
+      "choices": [
+        "một tí",
+        "một chút",
+        "một ít"
+      ],
+      "translatedAnswer": {
+        "en": "a little bit"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ thời gian không?"
+    },
+    "updatedAt": "2025-03-12T14:28:13.859Z",
+    "createdAt": "2025-03-12T14:28:13.859Z",
+    "id": "821894f4-aaaa-4e57-bfb6-c4140cf1af72",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "một tí",
+  "rank": 879,
+  "exampleSentencesTranslated": [
+    "Can you wait for me a little?",
+    "I want my coffee a little sweet only.",
+    "I am just a little tired after exercising."
+  ],
+  "updatedAt": "2026-03-03T07:50:06.401Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "P5gGQsEDALAPl4fTfRh9"
+}

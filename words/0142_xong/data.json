@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:20:55.379Z",
+    "type": "multiChoiceQuiz",
+    "id": "2e432da8-a23a-4ec5-b942-e96270aae710",
+    "content": {
+      "translatedAnswer": {
+        "en": "finished"
+      },
+      "translation": {
+        "en": "I have finished the work."
+      },
+      "hint": "x___g",
+      "answer": "xong",
+      "choices": [
+        "xong",
+        "đủ",
+        "hết"
+      ],
+      "sentence": "Tôi đã làm ___ công việc.",
+      "language": "vi",
+      "word": "xong"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:20:55.379Z"
+  },
+  "notes_md": "**xong** means *finished* or *done*. It shows that an action is completed.\n\nIt usually comes **after a verb** to say the action is done.  \n\nYou can also say **xong rồi** to emphasize “already finished.”  \nClose friend: **hoàn thành** (more formal = complete). Opposite idea: **chưa xong** (not finished yet).",
+  "rank": 142,
+  "choices": [
+    "xong",
+    "chậm",
+    "đang"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "xong",
+  "exampleSentencesTranslated": [
+    "I have finished my homework so now I want to rest.",
+    "I will call you when this work is finished.",
+    "We can have lunch when the meeting is finished."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:20:55.379Z",
+    "content": {
+      "word": "xong",
+      "language": "vi",
+      "sentence": "Tôi đã làm ___ công việc.",
+      "choices": [],
+      "answer": "xong",
+      "translation": {
+        "en": "I have finished the work."
+      },
+      "translatedAnswer": {
+        "en": "finished"
+      }
+    },
+    "id": "0c296a0a-8ebe-40ae-b7e4-a0e4307c96ea",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T17:20:55.379Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "To finish or complete something.",
+      "vi": "Hoàn thành một việc gì đó."
+    },
+    "word": "xong",
+    "example": {
+      "en": "I have finished my homework.",
+      "vi": "Tôi đã làm xong bài tập về nhà."
+    },
+    "translations": {
+      "en": "finished"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:29:58.767Z"
+  },
+  "definition": "finished",
+  "notes": "xong means finished or done. It shows that an action is completed.\n\nIt usually comes after a verb to say the action is done.  \n\nYou can also say xong rồi to emphasize “already finished.”  \nClose friend: hoàn thành (more formal = complete). Opposite idea: chưa xong (not finished yet).",
+  "updatedAt": "2026-03-03T06:34:36.837Z",
+  "exampleSentences": [
+    "Anh đã làm bài tập về nhà xong nên bây giờ muốn nghỉ ngơi.",
+    "Em sẽ gọi cho chị khi công việc này xong nhé.",
+    "Chúng ta có thể đi ăn trưa khi cuộc họp xong."
+  ],
+  "_id": "et66tXPB4ANPRocVYA3K"
+}

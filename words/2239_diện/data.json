@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:41:53.433Z",
+    "id": "c578d29a-d0aa-4a9c-93da-2eb51c69bf72",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "She is very presentable in the performance."
+      },
+      "answer": "diện",
+      "translatedAnswer": {
+        "en": "presentable"
+      },
+      "sentence": "Cô ấy rất ___ trong buổi trình diễn.",
+      "word": "diện"
+    },
+    "updatedAt": "2025-03-12T16:41:53.433Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2239,
+  "definition": "appearance",
+  "notes_md": "**diện** usually means *to dress up / wear something stylish*. It’s about putting effort into how you look, not just wearing clothes.\n\nIt’s a **verb**, often used with clothes or outfits: you “diện” something a bit special or eye-catching.  \n\nIt often implies looking polished or fashionable, not everyday casual wear.  \nClose idea: *ăn diện* (very common) = to dress up nicely.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I am getting my appearance ready to go to the party tonight.",
+    "He always pays attention to his appearance when going to work.",
+    "She likes her appearance in new clothes during Tet holidays."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "diện",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "diện",
+      "hint": "d____",
+      "sentence": "Cô ấy rất ___ trong buổi trình diễn.",
+      "translatedAnswer": {
+        "en": "presentable"
+      },
+      "translation": {
+        "en": "She is very presentable in the performance."
+      },
+      "choices": [
+        "đẹp",
+        "diện",
+        "xuất sắc"
+      ],
+      "answer": "diện",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:41:53.433Z",
+    "type": "multiChoiceQuiz",
+    "id": "b7188f5b-43b8-4030-a4ec-7fa19847aa80",
+    "createdAt": "2025-03-12T16:41:53.433Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Em chuẩn bị diện đẹp để đi dự tiệc tối nay.",
+    "Anh ấy luôn chú ý đến diện mỗi khi đi làm.",
+    "Chị thích diện quần áo mới vào dịp lễ Tết."
+  ],
+  "updatedAt": "2026-03-03T10:15:04.215Z",
+  "choices": [
+    "diện",
+    "giản",
+    "điền"
+  ],
+  "notes": "diện usually means to dress up / wear something stylish. It’s about putting effort into how you look, not just wearing clothes.\n\nIt’s a verb, often used with clothes or outfits: you “diện” something a bit special or eye-catching.  \n\nIt often implies looking polished or fashionable, not everyday casual wear.  \nClose idea: ăn diện (very common) = to dress up nicely.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy có một diện mạo xinh đẹp.",
+      "es": "Ella tiene una apariencia hermosa.",
+      "en": "She has a beautiful appearance."
+    },
+    "definitions": {
+      "es": "El aspecto exterior o la apariencia de alguien o algo.",
+      "en": "The outward aspect or appearance of someone or something.",
+      "vi": "Diện mạo hoặc vẻ bề ngoài của ai đó hoặc một cái gì đó."
+    },
+    "translations": {
+      "vi": "diện",
+      "en": "appearance",
+      "es": "apariencia"
+    },
+    "createdAt": "2025-01-28T14:13:19.015Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "xBUxAEoUQrSOc8Pq6K2y"
+}

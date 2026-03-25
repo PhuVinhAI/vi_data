@@ -1,0 +1,99 @@
+{
+  "notes_md": "**Chân** usually means **foot**, but in Vietnamese it also covers **leg** (from the hip down). One word for both, so context tells you which part.\n\nIt’s a noun. For body parts, you usually don’t need a classifier, just add a number + possessive: *hai chân*, *chân tôi*. Common pairings: *tay chân* (arms and legs), *đau chân*, *rửa chân*.\n\nIt also means the **base/leg of objects**: *chân bàn* (table leg), *chân núi* (foot of a mountain).\n\nStrong memory link: *tay* = hand/arm ↔ *chân* = foot/leg (upper vs lower limbs).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9cc61db8-b5cd-4544-af0e-b6bd6c33abbd",
+    "updatedAt": "2025-03-12T13:53:49.321Z",
+    "createdAt": "2025-03-12T13:53:49.321Z",
+    "content": {
+      "translation": {
+        "en": "She has an injury in her leg."
+      },
+      "answer": "chân",
+      "hint": "c___n",
+      "choices": [
+        "tay",
+        "chân",
+        "đầu"
+      ],
+      "language": "vi",
+      "word": "chân",
+      "sentence": "Cô ấy bị chấn thương ở ___.",
+      "translatedAnswer": {
+        "en": "leg"
+      }
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "The lower limb of the human body, used for standing and walking.",
+      "vi": "Chi dưới của cơ thể con người, được sử dụng để đứng và đi bộ.",
+      "es": "El miembro inferior del cuerpo humano, utilizado para estar de pie y caminar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "pierna",
+      "vi": "chân",
+      "en": "leg"
+    },
+    "example": {
+      "en": "I have a pain in my leg after running.",
+      "vi": "Tôi bị đau chân sau khi chạy.",
+      "es": "Me duele la pierna después de correr."
+    },
+    "createdAt": "2025-01-28T11:31:38.460Z"
+  },
+  "exampleSentencesTranslated": [
+    "My foot hurts after jogging around the park this morning.",
+    "If you stand for too long, your foot will feel tired.",
+    "She wore new shoes but her foot hurt because she was not used to them."
+  ],
+  "notes": "Chân usually means foot, but in Vietnamese it also covers leg (from the hip down). One word for both, so context tells you which part.\n\nIt’s a noun. For body parts, you usually don’t need a classifier, just add a number + possessive: hai chân, chân tôi. Common pairings: tay chân (arms and legs), đau chân, rửa chân.\n\nIt also means the base/leg of objects: chân bàn (table leg), chân núi (foot of a mountain).\n\nStrong memory link: tay = hand/arm ↔ chân = foot/leg (upper vs lower limbs).",
+  "fillBlankQuiz": {
+    "id": "ed016098-5825-430d-8307-a97ffddda720",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:53:49.321Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I have a pain in my leg."
+      },
+      "answer": "chân",
+      "translatedAnswer": {
+        "en": "leg"
+      },
+      "language": "vi",
+      "word": "chân",
+      "sentence": "Tôi bị đau ___."
+    },
+    "updatedAt": "2025-03-12T13:53:49.321Z"
+  },
+  "updatedAt": "2026-03-03T07:39:32.882Z",
+  "definition": "foot",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "chân",
+  "exampleSentences": [
+    "Em bị đau chân sau khi chạy bộ quanh công viên sáng nay.",
+    "Nếu đứng lâu quá, chân của anh sẽ cảm thấy mỏi.",
+    "Chị mang đôi giày mới nhưng chân bị đau vì chưa quen."
+  ],
+  "rank": 777,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chân",
+    "tay",
+    "đầu"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Guz8LqHWVLzxwscIsm4g"
+}

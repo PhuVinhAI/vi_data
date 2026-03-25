@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "Một người thân thiết hoặc người yêu quý.",
+      "es": "Un pariente cercano o ser querido.",
+      "en": "A close relative or loved one."
+    },
+    "example": {
+      "en": "I always make time for my loved ones.",
+      "es": "Siempre hago tiempo para mis seres queridos.",
+      "vi": "Tôi luôn dành thời gian cho người thân."
+    },
+    "translations": {
+      "es": "seres queridos",
+      "vi": "người thân",
+      "en": "loved ones"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:05:07.846Z"
+  },
+  "definition": "family member",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:30:06.493Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I often call my relatives."
+      },
+      "translatedAnswer": {
+        "en": "relatives"
+      },
+      "answer": "người thân",
+      "choices": [],
+      "word": "người thân",
+      "sentence": "Tôi thường gọi điện cho ___ của mình.",
+      "language": "vi"
+    },
+    "id": "8bea4151-ff39-41f2-bcdb-158a4aba0ee7",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:30:06.493Z"
+  },
+  "exampleSentencesTranslated": [
+    "She always calls her family member whenever she misses home.",
+    "He will introduce his family member to you when you come to the party.",
+    "I spend weekends visiting my family member in the countryside."
+  ],
+  "exampleSentences": [
+    "Chị luôn gọi điện cho người thân mỗi khi nhớ nhà.",
+    "Anh sẽ giới thiệu người thân với bạn khi đến dự tiệc.",
+    "Em dành thời gian cuối tuần để thăm người thân ở quê."
+  ],
+  "updatedAt": "2026-03-03T09:11:44.847Z",
+  "notes": "Người thân means a family member or someone very close in your family. It’s about emotional closeness, not just blood relation.\n\nIt’s a noun. You can say một người thân (one family member) or những người thân (family members). Often paired with gia đình (family) or bạn bè và người thân (friends and family).\n\nClose synonym: họ hàng (relatives), but họ hàng focuses more on extended family, while người thân feels warmer and more personal. The word thân means “close/intimate,” so it highlights closeness.",
+  "rank": 1643,
+  "choices": [
+    "người thân",
+    "bạn bè",
+    "đồng nghiệp"
+  ],
+  "notes_md": "**Người thân** means a family member or someone very close in your family. It’s about emotional closeness, not just blood relation.\n\nIt’s a noun. You can say *một người thân* (one family member) or *những người thân* (family members). Often paired with **gia đình** (family) or **bạn bè và người thân** (friends and family).\n\nClose synonym: **họ hàng** (relatives), but *họ hàng* focuses more on extended family, while *người thân* feels warmer and more personal. The word **thân** means “close/intimate,” so it highlights closeness.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:30:06.493Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:30:06.493Z",
+    "content": {
+      "word": "người thân",
+      "sentence": "Tôi thường gọi điện cho ___ của mình.",
+      "language": "vi",
+      "choices": [
+        "bạn bè",
+        "người thân",
+        "hàng xóm"
+      ],
+      "hint": "g___n",
+      "answer": "người thân",
+      "translation": {
+        "en": "I often call my relatives."
+      },
+      "translatedAnswer": {
+        "en": "relatives"
+      }
+    },
+    "id": "4d7ff286-a064-47cb-b7a5-7756afb016b9"
+  },
+  "word": "người thân",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "ewYrDIVqKJmh5tpuo2UB"
+}

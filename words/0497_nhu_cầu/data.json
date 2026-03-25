@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "51cac51f-4e41-458c-bd35-eb59446e5ca9",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:51:19.124Z",
+    "content": {
+      "answer": "nhu cầu",
+      "translation": {
+        "en": "The company meets the needs of customers."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Công ty đáp ứng ___ của khách hàng.",
+      "word": "nhu cầu",
+      "translatedAnswer": {
+        "en": "needs"
+      }
+    },
+    "updatedAt": "2025-03-12T13:51:19.124Z"
+  },
+  "notes": "Nhu cầu means need — something necessary or strongly wanted. It’s a noun.\n\nYou’ll often see it with có nhu cầu (to have a need) and đáp ứng nhu cầu (to meet a need). It pairs naturally with của + person/group to show whose need it is.\n\nClose words: nhu cầu (more formal, broad “need”) vs cần (verb “to need”). Opposite idea: dư thừa (excess).",
+  "updatedAt": "2026-03-03T07:11:56.047Z",
+  "multiChoiceQuiz": {
+    "id": "24e92318-5b0f-4864-b516-e28527948c8c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:51:19.124Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "needs"
+      },
+      "sentence": "Công ty đáp ứng ___ của khách hàng.",
+      "word": "nhu cầu",
+      "language": "vi",
+      "hint": "n___u cầu",
+      "choices": [
+        "nhu cầu",
+        "khả năng",
+        "tình hình"
+      ],
+      "translation": {
+        "en": "The company meets the needs of customers."
+      },
+      "answer": "nhu cầu"
+    },
+    "updatedAt": "2025-03-12T13:51:19.124Z"
+  },
+  "notes_md": "**Nhu cầu** means *need* — something necessary or strongly wanted. It’s a noun.\n\nYou’ll often see it with **có nhu cầu** (to have a need) and **đáp ứng nhu cầu** (to meet a need). It pairs naturally with **của + person/group** to show whose need it is.\n\n\nClose words: **nhu cầu** (more formal, broad “need”) vs **cần** (verb “to need”). Opposite idea: **dư thừa** (excess).",
+  "exampleSentencesTranslated": [
+    "I have to work overtime to meet the need of my family.",
+    "The need to learn English is increasing for me.",
+    "I want to know the need of the customers to serve them better."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A requirement or necessity for something.",
+      "vi": "Một yêu cầu hoặc nhu cầu về điều gì đó.",
+      "es": "Un requisito o necesidad de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "need",
+      "vi": "nhu cầu",
+      "es": "necesidad"
+    },
+    "example": {
+      "vi": "Mọi người đều có nhu cầu cơ bản về thực phẩm.",
+      "es": "Todos tienen una necesidad básica de alimentos.",
+      "en": "Everyone has a basic need for food."
+    },
+    "createdAt": "2025-01-28T11:29:10.677Z"
+  },
+  "word": "nhu cầu",
+  "exampleSentences": [
+    "Anh phải làm thêm giờ để đáp ứng nhu cầu của gia đình.",
+    "Nhu cầu học tiếng Anh của em ngày càng tăng.",
+    "Chị muốn biết nhu cầu của khách hàng để phục vụ tốt hơn."
+  ],
+  "rank": 497,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "need",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhu cầu",
+    "cơ hội",
+    "kế hoạch"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "G7vBGLFsxJhle7Qzut0G"
+}

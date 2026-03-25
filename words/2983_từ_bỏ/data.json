@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:56:11.399Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi không muốn ___ giấc mơ của mình.",
+      "word": "từ bỏ",
+      "language": "vi",
+      "hint": "t___ bỏ",
+      "answer": "từ bỏ",
+      "choices": [
+        "từ bỏ",
+        "quên lãng",
+        "chấp nhận"
+      ],
+      "translatedAnswer": {
+        "en": "give up"
+      },
+      "translation": {
+        "en": "I do not want to give up my dream."
+      }
+    },
+    "updatedAt": "2025-03-12T14:56:11.399Z",
+    "id": "27b608e1-6614-41d6-b881-b1e5329f6895"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "từ bỏ = to give up, quit, or abandon something you decided to stop doing or pursuing.\n\nIt’s a verb, used when you stop a habit, a plan, a goal, or even a relationship. It often sounds more serious and final than just bỏ.  \n\nClose synonym: bỏ cuộc (give up in a competition or effort).  \nOpposite idea: tiếp tục, kiên trì (continue, persist).",
+  "exampleSentences": [
+    "Anh đã phải từ bỏ thói quen xấu để sống khỏe mạnh hơn.",
+    "Chị ấy không muốn từ bỏ ước mơ dù gặp nhiều khó khăn.",
+    "Khi gặp thử thách, em không nên từ bỏ quá sớm."
+  ],
+  "word": "từ bỏ",
+  "choices": [
+    "bắt đầu",
+    "từ bỏ",
+    "giữ lại"
+  ],
+  "rank": 2983,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**từ bỏ** = to give up, quit, or abandon something you decided to stop doing or pursuing.\n\nIt’s a verb, used when you stop a habit, a plan, a goal, or even a relationship. It often sounds more serious and final than just *bỏ*.  \n\nClose synonym: **bỏ cuộc** (give up in a competition or effort).  \nOpposite idea: **tiếp tục**, **kiên trì** (continue, persist).",
+  "definition": "give up",
+  "fillBlankQuiz": {
+    "id": "9ee20a38-05e0-4dfd-96d9-e8654cd3f454",
+    "createdAt": "2025-03-12T14:56:11.399Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi sẽ ___ tất cả mọi thứ.",
+      "answer": "từ bỏ",
+      "word": "từ bỏ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "give up"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I will give up everything."
+      }
+    },
+    "updatedAt": "2025-03-12T14:56:11.399Z"
+  },
+  "updatedAt": "2026-03-03T18:19:28.358Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He had to give up bad habits to live healthier.",
+    "She does not want to give up her dream even when facing many difficulties.",
+    "When facing challenges, you should not give up too soon."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:29:19.492Z",
+    "definitions": {
+      "en": "To cease doing something; to abandon or relinquish.",
+      "es": "Dejar de hacer algo; abandonar o renunciar.",
+      "vi": "Ngừng làm một điều gì đó; từ bỏ hoặc từ chối."
+    },
+    "example": {
+      "en": "I decided to give up my bad habit.",
+      "es": "Decidí renunciar a mi mal hábito.",
+      "vi": "Tôi quyết định từ bỏ thói quen xấu."
+    },
+    "translations": {
+      "en": "give up",
+      "es": "renunciar",
+      "vi": "từ bỏ"
+    }
+  },
+  "_id": "Vkq9spGOBTL7UGnURJ1d"
+}

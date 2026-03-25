@@ -1,0 +1,99 @@
+{
+  "word": "như thế nào",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "như vậy",
+    "như thế nào",
+    "thế nào"
+  ],
+  "rank": 2661,
+  "notes_md": "**như thế nào** means **“how”** or **“what … like”**. You use it to ask about the way something happens or the condition/quality of something.\n\nIt often comes at the **end of a clause**, after the thing you’re asking about.  \n\nIt can ask about **method** (“how to do something”) or **feeling/quality** (“how someone/something is”).  \n\nVery close to **ra sao** (slightly more formal/literary), but *như thế nào* is more neutral and flexible.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "nh__ t__ n__",
+      "answer": "như thế nào",
+      "translatedAnswer": {
+        "en": "how"
+      },
+      "translation": {
+        "en": "How do you feel?"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ cảm thấy không?",
+      "word": "như thế nào",
+      "choices": [
+        "như thế nào",
+        "có thể",
+        "không biết"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:20:15.021Z",
+    "id": "addc264e-2b93-4693-942b-2b818d836c55",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:20:15.021Z"
+  },
+  "exampleSentences": [
+    "Anh có thể chỉ cho em cách làm món này như thế nào không?",
+    "Chị biết em cảm thấy như thế nào sau khi nghe tin đó.",
+    "Em muốn biết cuộc sống ở Hà Nội như thế nào."
+  ],
+  "updatedAt": "2026-03-03T11:33:20.368Z",
+  "notes": "như thế nào means “how” or “what … like”. You use it to ask about the way something happens or the condition/quality of something.\n\nIt often comes at the end of a clause, after the thing you’re asking about.  \n\nIt can ask about method (“how to do something”) or feeling/quality (“how someone/something is”).  \n\nVery close to ra sao (slightly more formal/literary), but như thế nào is more neutral and flexible.",
+  "definition": "how",
+  "flashcard": {
+    "translations": {
+      "en": "how",
+      "vi": "như thế nào",
+      "es": "cómo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:55:02.953Z",
+    "definitions": {
+      "es": "Cómo; de qué manera.",
+      "vi": "Như thế nào; theo cách nào.",
+      "en": "How; in what way."
+    },
+    "example": {
+      "en": "Can you tell me how to get there?",
+      "vi": "Bạn có thể cho tôi biết như thế nào để đến đó không?",
+      "es": "¿Puedes decirme cómo llegar allí?"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:20:15.021Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:20:15.021Z",
+    "content": {
+      "word": "như thế nào",
+      "sentence": "Bạn có ___ cảm thấy không?",
+      "language": "vi",
+      "choices": [],
+      "answer": "như thế nào",
+      "translation": {
+        "en": "How do you feel?"
+      },
+      "translatedAnswer": {
+        "en": "how"
+      }
+    },
+    "id": "a61151bf-47e3-4fb2-8a14-5139b83dab3f"
+  },
+  "exampleSentencesTranslated": [
+    "Can you show me how to make this dish?",
+    "You know how I feel after hearing that news.",
+    "I want to know how life is in Hanoi."
+  ],
+  "_id": "cGAftA1F2FUY08IXx7pX"
+}

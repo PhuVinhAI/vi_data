@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:39:11.287Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:40:05.614Z",
+    "createdAt": "2025-03-12T13:40:05.614Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to overcome this challenge."
+      },
+      "answer": "thử thách",
+      "translatedAnswer": {
+        "en": "challenge"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn vượt qua ___ này.",
+      "word": "thử thách"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "32e1871c-98fa-49eb-8187-2dc1f77a5ab0",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "thử thách = a challenge — something difficult that tests your ability or patience.\n\nIt’s a countable noun: một thử thách, nhiều thử thách. Very common with verbs like đối mặt với, vượt qua, tạo ra, đặt ra.  \n\nIt can also act like a verb: thử thách ai = to challenge/test someone.  \nClose synonym: thách thức (very similar meaning, often interchangeable).",
+  "exampleSentencesTranslated": [
+    "Working in a team is always a big challenge for many people.",
+    "He likes to face challenge to develop himself.",
+    "This is the first challenge that I have to overcome in my new job."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A challenge is a difficult task or situation that requires effort and determination to overcome.",
+      "vi": "Thử thách là một nhiệm vụ hoặc tình huống khó khăn cần nỗ lực và quyết tâm để vượt qua.",
+      "es": "Un desafío es una tarea o situación difícil que requiere esfuerzo y determinación para superar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "challenge",
+      "es": "desafío",
+      "vi": "thử thách"
+    },
+    "createdAt": "2025-01-28T11:18:57.101Z",
+    "example": {
+      "vi": "Cuộc sống luôn có những thử thách mà chúng ta phải vượt qua.",
+      "es": "La vida siempre tiene desafíos que debemos superar.",
+      "en": "Life always has challenges that we must overcome."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "af2c1934-a619-42fd-bcd8-36dd44cdba40",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:40:05.614Z",
+    "content": {
+      "translation": {
+        "en": "She has completed her challenge."
+      },
+      "answer": "thử thách",
+      "hint": "th___h",
+      "choices": [
+        "bài học",
+        "thử thách",
+        "cơ hội"
+      ],
+      "language": "vi",
+      "sentence": "Cô ấy đã hoàn thành ___ của mình.",
+      "word": "thử thách",
+      "translatedAnswer": {
+        "en": "challenge"
+      }
+    },
+    "updatedAt": "2025-03-12T13:40:05.614Z"
+  },
+  "notes_md": "**thử thách** = a challenge — something difficult that tests your ability or patience.\n\nIt’s a **countable noun**: *một thử thách, nhiều thử thách*. Very common with verbs like **đối mặt với**, **vượt qua**, **tạo ra**, **đặt ra**.  \n\nIt can also act like a **verb**: **thử thách ai** = to challenge/test someone.  \nClose synonym: **thách thức** (very similar meaning, often interchangeable).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "giải pháp",
+    "thử thách",
+    "kết quả"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 774,
+  "exampleSentences": [
+    "Làm việc nhóm luôn là một thử thách lớn đối với nhiều người.",
+    "Anh thích đối mặt với thử thách để phát triển bản thân.",
+    "Đây là thử thách đầu tiên mà em phải vượt qua trong công việc mới."
+  ],
+  "word": "thử thách",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "challenge",
+  "_id": "DQ0hg4JIZThwWzTd5u7H"
+}

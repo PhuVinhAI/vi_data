@@ -1,0 +1,98 @@
+{
+  "word": "yêu quý",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "yêu quý",
+    "thất vọng",
+    "ngưỡng mộ"
+  ],
+  "rank": 2347,
+  "notes_md": "**yêu quý** = to cherish, to care about someone/something deeply in a warm, affectionate way. It’s strong but softer and more stable than romantic *yêu*.\n\nUsed for people, pets, memories, teachers, hometowns—things you feel attached to. It shows both love (*yêu*) and respect/appreciation (*quý*).\n\n\nClose words: *thương* (more about feeling sorry/affection), *quý mến* (more about respect and liking). Stronger and deeper than just *thích*.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "fff33be9-168b-4738-9812-1a54c3c56a30",
+    "content": {
+      "choices": [
+        "yêu quý",
+        "ghét bỏ",
+        "tôn trọng"
+      ],
+      "sentence": "Tôi rất ___ mọi người.",
+      "language": "vi",
+      "word": "yêu quý",
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "translation": {
+        "en": "I really love everyone."
+      },
+      "answer": "yêu quý",
+      "hint": "y___q"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:13.150Z",
+    "updatedAt": "2025-03-12T15:22:13.150Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh luôn yêu quý gia đình và bạn bè của mình.",
+    "Chị rất yêu quý những kỷ niệm thời học sinh cũ.",
+    "Em yêu quý con chó nhỏ mà em nuôi ở nhà."
+  ],
+  "updatedAt": "2026-03-03T10:26:45.309Z",
+  "notes": "yêu quý = to cherish, to care about someone/something deeply in a warm, affectionate way. It’s strong but softer and more stable than romantic yêu.\n\nUsed for people, pets, memories, teachers, hometowns—things you feel attached to. It shows both love (yêu) and respect/appreciation (quý).\n\nClose words: thương (more about feeling sorry/affection), quý mến (more about respect and liking). Stronger and deeper than just thích.",
+  "definition": "cherish",
+  "flashcard": {
+    "translations": {
+      "en": "cherish",
+      "es": "apreciar",
+      "vi": "yêu quý"
+    },
+    "createdAt": "2025-01-28T12:57:02.801Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To hold someone or something in high regard; to cherish.",
+      "es": "Tener a alguien o algo en alta estima; apreciar.",
+      "vi": "Để coi ai đó hoặc cái gì đó là quan trọng và đáng trân trọng."
+    },
+    "example": {
+      "en": "I cherish you very much.",
+      "es": "Te aprecio mucho.",
+      "vi": "Tôi yêu quý bạn rất nhiều."
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "778fcfd3-5699-48dc-8b83-ce6167a924de",
+    "content": {
+      "sentence": "Tôi rất ___ anh ấy.",
+      "language": "vi",
+      "word": "yêu quý",
+      "answer": "yêu quý",
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "translation": {
+        "en": "I really love him."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:13.150Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:22:13.150Z"
+  },
+  "exampleSentencesTranslated": [
+    "He always cherish his family and friends.",
+    "She cherish her old school memories very much.",
+    "I cherish the little dog I raise at home."
+  ],
+  "_id": "d0q57SNzlwjybAaz7v7z"
+}

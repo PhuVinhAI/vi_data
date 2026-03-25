@@ -1,0 +1,99 @@
+{
+  "rank": 949,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:54:32.662Z",
+    "definitions": {
+      "en": "A nation or territory considered as an organized political community under one government.",
+      "vi": "Một quốc gia hoặc lãnh thổ được coi là một cộng đồng chính trị có tổ chức dưới một chính phủ.",
+      "es": "Una nación o territorio considerado como una comunidad política organizada bajo un gobierno."
+    },
+    "translations": {
+      "en": "country",
+      "vi": "đất nước",
+      "es": "país"
+    },
+    "example": {
+      "en": "I love my country.",
+      "es": "Amo mi país.",
+      "vi": "Tôi yêu đất nước của mình."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh rất tự hào về đất nước của mình và những truyền thống lâu đời.",
+    "Chị muốn đi du lịch khắp đất nước để khám phá nhiều vùng miền khác nhau.",
+    "Em đang học về lịch sử và văn hóa của đất nước trong lớp hôm nay."
+  ],
+  "notes_md": "**đất nước** means *country* — the nation you belong to, including its land, people, and culture. It feels a bit emotional and patriotic, not just geographical.\n\nIt’s a noun. You usually don’t need a classifier when speaking generally about your country.  \n\nLiterally, **đất** = land and **nước** = water, so it paints a picture of the whole homeland.  \n\nClose word: **quốc gia** (more formal, political tone). Strong connection: **Tổ quốc** = fatherland (very patriotic, emotional).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "c94ec126-09d8-4f55-95ba-2cdb05af98c0",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "đ___n",
+      "word": "đất nước",
+      "sentence": "Tôi yêu ___ của tôi.",
+      "translation": {
+        "en": "I love my country."
+      },
+      "choices": [
+        "thế giới",
+        "đất nước",
+        "nền văn hóa"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "country"
+      },
+      "answer": "đất nước"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:17:47.138Z",
+    "createdAt": "2025-03-12T14:17:47.138Z"
+  },
+  "word": "đất nước",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "country",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I love my country."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "đất nước",
+      "sentence": "Tôi yêu ___ của tôi.",
+      "translatedAnswer": {
+        "en": "country"
+      },
+      "answer": "đất nước"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "ec3f27fd-5ab9-4ec6-a022-02af57ab2465",
+    "createdAt": "2025-03-12T14:17:47.138Z",
+    "updatedAt": "2025-03-12T14:17:47.138Z"
+  },
+  "exampleSentencesTranslated": [
+    "I am very proud of my country and its long-standing traditions.",
+    "I want to travel around the country to explore different regions.",
+    "I am learning about the history and culture of the country in class today."
+  ],
+  "notes": "đất nước means country — the nation you belong to, including its land, people, and culture. It feels a bit emotional and patriotic, not just geographical.\n\nIt’s a noun. You usually don’t need a classifier when speaking generally about your country.  \n\nLiterally, đất = land and nước = water, so it paints a picture of the whole homeland.  \n\nClose word: quốc gia (more formal, political tone). Strong connection: Tổ quốc = fatherland (very patriotic, emotional).",
+  "choices": [
+    "quốc gia",
+    "đất nước",
+    "thành phố"
+  ],
+  "updatedAt": "2026-03-03T07:56:46.873Z",
+  "_id": "MdQlYBMI8558GKbTgKkF"
+}

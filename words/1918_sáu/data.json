@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:40:55.475Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:49:22.175Z",
+    "updatedAt": "2025-03-12T12:49:22.175Z",
+    "content": {
+      "answer": "sáu",
+      "sentence": "Tôi có ___ chiếc bánh.",
+      "word": "sáu",
+      "translatedAnswer": {
+        "en": "six"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I have six cakes."
+      },
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "id": "429a88c0-0e58-429a-a442-8b0136f5a17d",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**sáu** means **six**. Just the number 6.\n\nIt’s used before a classifier + noun when counting things. Vietnamese always needs a classifier after numbers.\n\n`Structure: sáu + classifier + noun` (i.e. sáu cái bàn)\n\nYou’ll also hear it in time (six o’clock), dates, phone numbers, and prices. It comes after **năm** (five) and before **bảy** (seven), and has a rising tone (sắc).",
+  "exampleSentencesTranslated": [
+    "I have six English books on my study desk.",
+    "I will meet you at six o'clock in the evening at the coffee shop.",
+    "I want to buy six loaves of bread for breakfast tomorrow."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "sáu means six. Just the number 6.\n\nIt’s used before a classifier + noun when counting things. Vietnamese always needs a classifier after numbers.\n\nStructure: sáu + classifier + noun (i.e. sáu cái bàn)\n\nYou’ll also hear it in time (six o’clock), dates, phone numbers, and prices. It comes after năm (five) and before bảy (seven), and has a rising tone (sắc).",
+  "choices": [
+    "sáu",
+    "bảy",
+    "năm"
+  ],
+  "word": "sáu",
+  "definition": "six",
+  "rank": 1918,
+  "flashcard": {
+    "createdAt": "2025-01-28T10:34:14.189Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The number six.",
+      "vi": "Số sáu.",
+      "es": "El número seis."
+    },
+    "example": {
+      "en": "I have six apples.",
+      "vi": "Tôi có sáu quả táo.",
+      "es": "Tengo seis manzanas."
+    },
+    "translations": {
+      "vi": "sáu",
+      "en": "six",
+      "es": "seis"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:49:22.175Z",
+    "updatedAt": "2025-03-12T12:49:22.175Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "1c2bc629-dc1c-4d52-bdc5-804300278360",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "bốn",
+        "sáu",
+        "tám"
+      ],
+      "translation": {
+        "en": "I have six cakes."
+      },
+      "word": "sáu",
+      "translatedAnswer": {
+        "en": "six"
+      },
+      "language": "vi",
+      "hint": "s__",
+      "sentence": "Tôi có ___ chiếc bánh.",
+      "answer": "sáu"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có sáu quyển sách tiếng Anh trên bàn học.",
+    "Anh sẽ gặp bạn lúc sáu giờ tối ở quán cà phê.",
+    "Chị muốn mua sáu cái bánh mì cho bữa sáng mai."
+  ],
+  "_id": "0Odkma8zn0Zg9US3cQPx"
+}

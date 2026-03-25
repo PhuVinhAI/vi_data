@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A branch of study or profession.",
+      "es": "Una rama de estudio o profesión.",
+      "vi": "Một lĩnh vực học tập hoặc nghề nghiệp."
+    },
+    "example": {
+      "vi": "Tôi đang học ngành công nghệ thông tin.",
+      "en": "I am studying the field of information technology.",
+      "es": "Estoy estudiando el campo de la tecnología de la información."
+    },
+    "translations": {
+      "vi": "ngành",
+      "en": "field",
+      "es": "campo"
+    },
+    "createdAt": "2025-01-28T13:59:49.228Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Ngành means a field of study or area of work. Think “major” in university or “industry” in jobs.\n\nIt’s a countable noun: một ngành, nhiều ngành. Common pairings: ngành học (academic major), ngành nghề (occupation/line of work), ngành công nghiệp (industry), chọn ngành, đổi ngành, làm trong ngành....\n\nIt can also mean a broader industry sector, not just school-related.\n\nClose synonym: lĩnh vực (field/area) — a bit more general and flexible.",
+  "choices": [
+    "nghề",
+    "ngành",
+    "bằng"
+  ],
+  "updatedAt": "2026-03-03T06:50:22.489Z",
+  "exampleSentences": [
+    "Chị đang học ngành kinh tế tại một trường đại học lớn ở Hà Nội.",
+    "Anh muốn chuyển sang ngành công nghệ thông tin vì có nhiều cơ hội việc làm.",
+    "Em hỏi thầy giáo về ngành phù hợp với sở thích của mình."
+  ],
+  "multiChoiceQuiz": {
+    "id": "31c5816f-4650-4020-88d8-c96bbd25885b",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:28:53.714Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I work in the industry of healthcare."
+      },
+      "answer": "ngành",
+      "choices": [
+        "ngành",
+        "khoa",
+        "lĩnh vực"
+      ],
+      "translatedAnswer": {
+        "en": "industry"
+      },
+      "sentence": "Tôi làm việc trong ___ y tế.",
+      "hint": "n___",
+      "word": "ngành"
+    },
+    "updatedAt": "2025-03-12T16:28:53.714Z",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "ngành",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She is studying the field at a big university in Hanoi.",
+    "He wants to change to the field because there are many job opportunities.",
+    "I asked the teacher about the field that matches my interests."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Ngành** means a field of study or area of work. Think “major” in university or “industry” in jobs.\n\nIt’s a countable noun: *một ngành, nhiều ngành*. Common pairings: *ngành học* (academic major), *ngành nghề* (occupation/line of work), *ngành công nghiệp* (industry), *chọn ngành*, *đổi ngành*, *làm trong ngành...*.\n\nIt can also mean a broader industry sector, not just school-related.\n\nClose synonym: **lĩnh vực** (field/area) — a bit more general and flexible.",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi làm việc trong ___ công nghệ.",
+      "word": "ngành",
+      "language": "vi",
+      "choices": [],
+      "answer": "ngành",
+      "translation": {
+        "en": "I work in the industry of technology."
+      },
+      "translatedAnswer": {
+        "en": "industry"
+      }
+    },
+    "updatedAt": "2025-03-12T16:28:53.714Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:28:53.714Z",
+    "id": "a401d9c5-ad33-4a9d-808e-4fccc3e62644"
+  },
+  "rank": 288,
+  "definition": "field (of study or work)",
+  "_id": "tlSTmHoqAfU3LI8jy0cM"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "a9de1487-ad0b-47be-9700-ecfabbc4c399",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:08:30.661Z",
+    "updatedAt": "2025-03-12T15:08:30.661Z",
+    "content": {
+      "translation": {
+        "en": "The door is locked when it gets dark."
+      },
+      "choices": [
+        "mở",
+        "khóa",
+        "chốt"
+      ],
+      "translatedAnswer": {
+        "en": "locked"
+      },
+      "hint": "c___t",
+      "answer": "chốt",
+      "word": "chốt",
+      "language": "vi",
+      "sentence": "Cửa đã ___ lại khi trời tối."
+    }
+  },
+  "notes": "chốt = a checkpoint, usually a police or military control point on the road. You’ll often hear một chốt, lập chốt (set up a checkpoint), or qua chốt (go through a checkpoint).\n\nIt’s a countable noun, and commonly appears as chốt kiểm soát, chốt công an, etc.\n\nVery common extra meaning: chốt (verb) = to finalize or lock in something after discussion.  \n\nThis verb meaning is super useful in work and daily life — similar to “seal the deal” or “confirm for sure.”",
+  "exampleSentences": [
+    "Anh phải dừng xe lại ở chốt để kiểm tra giấy tờ.",
+    "Tối qua, em đi qua chốt rất đông người trên đường về nhà.",
+    "Chị nhớ mang theo giấy tờ khi đi qua chốt kiểm soát nhé."
+  ],
+  "word": "chốt",
+  "choices": [
+    "chốt",
+    "trạm",
+    "cửa"
+  ],
+  "rank": 2466,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chốt** = a checkpoint, usually a police or military control point on the road. You’ll often hear **một chốt**, **lập chốt** (set up a checkpoint), or **qua chốt** (go through a checkpoint).\n\nIt’s a countable noun, and commonly appears as **chốt kiểm soát**, **chốt công an**, etc.\n\nVery common extra meaning: **chốt** (verb) = to finalize or lock in something after discussion.  \n\n\nThis verb meaning is super useful in work and daily life — similar to “seal the deal” or “confirm for sure.”",
+  "definition": "checkpoint",
+  "updatedAt": "2026-03-03T10:38:26.966Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:08:30.661Z",
+    "updatedAt": "2025-03-12T15:08:30.661Z",
+    "content": {
+      "answer": "chốt",
+      "word": "chốt",
+      "language": "vi",
+      "sentence": "Cửa đã ___ lại khi trời tối.",
+      "translation": {
+        "en": "The door is locked when it gets dark."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "locked"
+      }
+    },
+    "id": "16890791-522f-46f0-8ac7-01ac1ab344e9"
+  },
+  "exampleSentencesTranslated": [
+    "You must stop your vehicle at the checkpoint to show your papers.",
+    "Last night, I passed a very crowded checkpoint on the way home.",
+    "Remember to bring your papers when you go through the checkpoint."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A term used to indicate a final decision or conclusion.",
+      "es": "Un término utilizado para indicar una decisión final o conclusión.",
+      "vi": "Một thuật ngữ được sử dụng để chỉ một quyết định hoặc kết luận cuối cùng."
+    },
+    "createdAt": "2025-01-28T12:43:01.851Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "finalize",
+      "es": "finalizar",
+      "vi": "chốt"
+    },
+    "example": {
+      "en": "To finalize, we will meet at 3 o'clock.",
+      "es": "Para finalizar, nos encontraremos a las 3 en punto.",
+      "vi": "Chốt lại, chúng ta sẽ gặp nhau vào lúc 3 giờ."
+    }
+  },
+  "_id": "ZDCxe8FtHVJKvOPiop3P"
+}

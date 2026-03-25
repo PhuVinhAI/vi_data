@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "half",
+  "word": "rưỡi",
+  "exampleSentences": [
+    "Anh ngủ đến bảy rưỡi sáng mới dậy đi làm.",
+    "Chị uống một lít rưỡi nước mỗi ngày để khỏe mạnh.",
+    "Em đặt báo thức lúc sáu rưỡi để kịp đi học."
+  ],
+  "rank": 1608,
+  "choices": [
+    "rưỡi",
+    "rồi",
+    "rượu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "793110bb-f2b9-4af1-b9cd-3a0e9c4503c4",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:55:47.512Z",
+    "content": {
+      "answer": "rưỡi",
+      "translation": {
+        "en": "It is half past three now."
+      },
+      "hint": "r___",
+      "choices": [
+        "rưỡi",
+        "một giờ",
+        "bốn giờ"
+      ],
+      "language": "vi",
+      "sentence": "Bây giờ là ___ ba giờ.",
+      "word": "rưỡi",
+      "translatedAnswer": {
+        "en": "half past"
+      }
+    },
+    "updatedAt": "2025-03-12T13:55:47.512Z"
+  },
+  "notes_md": "**rưỡi** means **“half”**, usually added after a number. Most often it means **“and a half”** (like 2.5, 3:30, etc.).\n\nIt comes **after a number** to add 0.5 to it. Very common with **time, age, money, and measurements**.\n\n\nDon’t use it alone — it always follows a number.  \nClose cousin: **nửa** = “half,” but used before nouns (nửa giờ = half an hour).",
+  "exampleSentencesTranslated": [
+    "I slept until half past seven in the morning before going to work.",
+    "She drinks one and a half liters of water every day to stay healthy.",
+    "I set an alarm for half past six to be on time for school."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:33:35.536Z",
+    "example": {
+      "es": "Este pastel pesa una y media.",
+      "vi": "Chiếc bánh này nặng một rưỡi.",
+      "en": "This cake weighs one and a half."
+    },
+    "translations": {
+      "en": "one and a half",
+      "es": "uno y medio",
+      "vi": "một rưỡi"
+    },
+    "definitions": {
+      "es": "Un término utilizado para denotar uno y medio de algo.",
+      "vi": "Một thuật ngữ được sử dụng để chỉ một rưỡi của cái gì đó.",
+      "en": "A term used to denote one and a half of something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:55:47.512Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "It is half past three now."
+      },
+      "answer": "rưỡi",
+      "translatedAnswer": {
+        "en": "half past"
+      },
+      "word": "rưỡi",
+      "sentence": "Bây giờ là ___ ba giờ.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:55:47.512Z",
+    "id": "12ee260b-44af-4aa5-86b0-9c2b460691fc",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "rưỡi means “half”, usually added after a number. Most often it means “and a half” (like 2.5, 3:30, etc.).\n\nIt comes after a number to add 0.5 to it. Very common with time, age, money, and measurements.\n\nDon’t use it alone — it always follows a number.  \nClose cousin: nửa = “half,” but used before nouns (nửa giờ = half an hour).",
+  "updatedAt": "2026-03-03T09:08:02.034Z",
+  "_id": "HfkUvxX7BZ4Pl1xLS1Kq"
+}

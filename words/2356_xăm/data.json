@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "xăm",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "0818a6d8-aa1c-4a8b-8043-26f84353c415",
+    "content": {
+      "sentence": "Tôi thích ___ trên cơ thể.",
+      "language": "vi",
+      "word": "xăm",
+      "choices": [
+        "xăm",
+        "xăms",
+        "XĂM"
+      ],
+      "hint": "x___m",
+      "answer": "xăm",
+      "translatedAnswer": {
+        "en": "tattoos"
+      },
+      "translation": {
+        "en": "I like tattoos on the body."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:19:28.504Z",
+    "updatedAt": "2025-03-12T15:19:28.504Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "xăm",
+    "vẽ",
+    "sơn"
+  ],
+  "rank": 2356,
+  "notes_md": "**xăm** = to tattoo (put permanent ink on the skin).\n\nIt’s a verb: **xăm + hình/chữ/tên + ở + body part**. You’ll often hear *xăm hình* (get a tattoo) or *xăm mình* (tattoo one’s body, slightly more formal).  \nAs a noun, it shows up as **hình xăm** (a tattoo), counted with *một*: *một hình xăm*.  \n\nThink: **xăm = action**, **hình xăm = the tattoo itself**.",
+  "notes": "xăm = to tattoo (put permanent ink on the skin).\n\nIt’s a verb: xăm + hình/chữ/tên + ở + body part. You’ll often hear xăm hình (get a tattoo) or xăm mình (tattoo one’s body, slightly more formal).  \nAs a noun, it shows up as hình xăm (a tattoo), counted with một: một hình xăm.  \n\nThink: xăm = action, hình xăm = the tattoo itself.",
+  "exampleSentences": [
+    "Anh muốn đi xăm một hình nhỏ trên cổ tay vào cuối tuần.",
+    "Chị thấy bạn thân vừa xăm một bông hoa rất đẹp trên vai.",
+    "Em đã suy nghĩ kỹ trước khi quyết định xăm lần đầu tiên."
+  ],
+  "updatedAt": "2026-03-03T10:27:35.482Z",
+  "exampleSentencesTranslated": [
+    "I want to get a small tattoo on my wrist this weekend.",
+    "She saw her best friend get a beautiful tattoo of a flower on her shoulder.",
+    "I thought carefully before deciding to get my first tattoo."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:19:28.504Z",
+    "createdAt": "2025-03-12T15:19:28.504Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "tattoos"
+      },
+      "translation": {
+        "en": "I like tattoos on the body."
+      },
+      "answer": "xăm",
+      "choices": [],
+      "sentence": "Tôi thích ___ trên cơ thể.",
+      "language": "vi",
+      "word": "xăm"
+    },
+    "id": "3785c947-5968-4673-a960-21ef457683b5",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "tattoo",
+  "flashcard": {
+    "definitions": {
+      "en": "A form of body art created by inserting ink into the skin.",
+      "vi": "Một hình thức nghệ thuật cơ thể được tạo ra bằng cách chèn mực vào da.",
+      "es": "Una forma de arte corporal creada al insertar tinta en la piel."
+    },
+    "example": {
+      "en": "She likes to get tattoos on her body.",
+      "es": "A ella le gusta hacerse tatuajes en el cuerpo.",
+      "vi": "Cô ấy thích xăm hình trên cơ thể."
+    },
+    "translations": {
+      "en": "tattoo",
+      "vi": "xăm",
+      "es": "tatuaje"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:54:22.091Z"
+  },
+  "_id": "c3LKPuSfIpNg5unjzHW6"
+}

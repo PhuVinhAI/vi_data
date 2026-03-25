@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I will go outside in the afternoon."
+      },
+      "translatedAnswer": {
+        "en": "afternoon"
+      },
+      "answer": "chiều",
+      "choices": [],
+      "word": "chiều",
+      "sentence": "Tôi sẽ đi ra ngoài vào ___.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:49.572Z",
+    "id": "f5529a54-0f9c-4109-ad21-d6ff1354daca",
+    "updatedAt": "2025-03-12T15:18:49.572Z"
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to walk in the park with me this afternoon?",
+    "She usually drinks coffee every afternoon after work.",
+    "I like to study in the afternoon because it is quieter."
+  ],
+  "definition": "afternoon",
+  "flashcard": {
+    "definitions": {
+      "en": "The time of day between noon and evening.",
+      "es": "El momento del día entre el mediodía y la tarde.",
+      "vi": "Thời gian trong ngày giữa buổi trưa và buổi tối."
+    },
+    "example": {
+      "es": "Me gusta pasear por la tarde.",
+      "vi": "Tôi thích đi dạo vào chiều.",
+      "en": "I like to take a walk in the afternoon."
+    },
+    "translations": {
+      "vi": "chiều",
+      "es": "tarde",
+      "en": "afternoon"
+    },
+    "createdAt": "2025-01-28T12:53:39.532Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Chiều usually means afternoon (after noon until early evening). It’s a time noun, often used with words like nay, qua, mai to say which afternoon.\n\nIt often appears in fixed phrases like buổi chiều (the afternoon). You don’t need a classifier with it.\n\nVery common second meaning: direction (like left/right direction or life direction). Also in phrases like chiều cao (height) and chiều dài (length), where chiều means “dimension.”",
+  "exampleSentences": [
+    "Chiều nay anh có muốn đi dạo công viên với em không?",
+    "Chị thường uống cà phê vào mỗi buổi chiều sau giờ làm việc.",
+    "Em thích học bài vào chiều vì không khí yên tĩnh hơn."
+  ],
+  "updatedAt": "2026-03-03T07:41:09.106Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:18:49.572Z",
+    "type": "multiChoiceQuiz",
+    "id": "54531712-07a4-409c-8f9d-66d110bb0357",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:18:49.572Z",
+    "content": {
+      "answer": "chiều",
+      "hint": "c___",
+      "translation": {
+        "en": "Let's meet in the afternoon."
+      },
+      "translatedAnswer": {
+        "en": "afternoon"
+      },
+      "word": "chiều",
+      "sentence": "Chúng ta gặp nhau vào ___ nhé.",
+      "language": "vi",
+      "choices": [
+        "sáng",
+        "chiều",
+        "tối"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "sáng",
+    "chiều",
+    "tối"
+  ],
+  "rank": 794,
+  "notes_md": "**Chiều** usually means **afternoon** (after noon until early evening). It’s a time noun, often used with words like *nay, qua, mai* to say which afternoon.\n\nIt often appears in fixed phrases like *buổi chiều* (the afternoon). You don’t need a classifier with it.\n\nVery common second meaning: **direction** (like left/right direction or life direction). Also in phrases like *chiều cao* (height) and *chiều dài* (length), where *chiều* means “dimension.”",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chiều",
+  "_id": "bqzEgSgr1gdWhSv7qEUS"
+}

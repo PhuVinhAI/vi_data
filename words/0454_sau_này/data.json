@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:08:33.688Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta sẽ gặp lại ___ nhé.",
+      "word": "sau này",
+      "answer": "sau này",
+      "language": "vi",
+      "choices": [
+        "trước đây",
+        "sau này",
+        "mãi mãi"
+      ],
+      "translatedAnswer": {
+        "en": "later"
+      },
+      "translation": {
+        "en": "We will meet again later."
+      },
+      "hint": "s___i"
+    },
+    "id": "be229d22-79c4-486f-add7-7d8740b662d2",
+    "createdAt": "2025-03-12T16:08:33.688Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "in the future",
+  "notes_md": "**sau này** = *later on, in the future* (not right away, but some time from now). It’s used for a general, often distant future.\n\nIt works as a time phrase and can go at the beginning or end of a clause.  \n\nIt’s more casual and flexible than **tương lai** (which is a noun = “the future”).  \nDon’t confuse it with **sau đó** (= after that, next in sequence).",
+  "rank": 454,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I will learn later to succeed."
+      },
+      "translatedAnswer": {
+        "en": "later"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "sau này",
+      "word": "sau này",
+      "sentence": "Tôi sẽ học hỏi ___ để thành công."
+    },
+    "updatedAt": "2025-03-12T16:08:33.688Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:08:33.688Z",
+    "id": "f806f65d-4ce6-4305-a39c-54b6b67e0f3e"
+  },
+  "word": "sau này",
+  "notes": "sau này = later on, in the future (not right away, but some time from now). It’s used for a general, often distant future.\n\nIt works as a time phrase and can go at the beginning or end of a clause.  \n\nIt’s more casual and flexible than tương lai (which is a noun = “the future”).  \nDon’t confuse it with sau đó (= after that, next in sequence).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:07:48.326Z",
+  "exampleSentencesTranslated": [
+    "I hope I will see you again in the future.",
+    "I want to learn more skills to have more opportunities in the future.",
+    "You should save money now to use in the future."
+  ],
+  "exampleSentences": [
+    "Anh hy vọng mình sẽ gặp lại em sau này trong cuộc sống.",
+    "Chị muốn học thêm kỹ năng để có nhiều cơ hội hơn sau này.",
+    "Em nên tiết kiệm tiền từ bây giờ để sử dụng sau này."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sau này",
+    "hôm nay",
+    "lúc này"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "más tarde",
+      "en": "later",
+      "vi": "sau này"
+    },
+    "example": {
+      "vi": "Sau này, tôi sẽ đi du lịch khắp thế giới.",
+      "en": "Later, I will travel around the world.",
+      "es": "Más tarde, viajaré por todo el mundo."
+    },
+    "createdAt": "2025-01-28T13:40:23.444Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "En el futuro; en un momento posterior.",
+      "en": "In the future; at a later time.",
+      "vi": "Trong tương lai; vào một thời điểm sau."
+    }
+  },
+  "_id": "ocVz9Tz5Q8fUgGKdsjfp"
+}

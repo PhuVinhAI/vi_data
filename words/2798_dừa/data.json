@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I like to drink coconut water when it's hot because it's very refreshing.",
+    "I bought a coconut at the market this morning for the whole family.",
+    "She often uses coconut to cook sweet soup on weekends."
+  ],
+  "notes": "dừa = coconut (the fruit of the coconut tree). It can refer to the whole fruit, the water inside, or the white flesh depending on context.\n\nIt’s a noun. Use classifiers like trái dừa or quả dừa (both mean “a coconut”).  \nCommon pairings: nước dừa (coconut water), cơm dừa (coconut flesh), cây dừa (coconut tree).\n\nVietnam is famous for coconuts in the South, so you’ll often hear it in food and drink names.",
+  "choices": [
+    "dưa",
+    "dừa",
+    "đũa"
+  ],
+  "updatedAt": "2026-03-03T17:58:23.879Z",
+  "definition": "coconut",
+  "fillBlankQuiz": {
+    "id": "4a249570-c43c-468b-b2a9-47602fb3d55a",
+    "content": {
+      "translatedAnswer": {
+        "en": "coconut"
+      },
+      "answer": "dừa",
+      "word": "dừa",
+      "sentence": "Tôi thích uống nước ___.",
+      "translation": {
+        "en": "I like to drink coconut water."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:18:13.176Z",
+    "createdAt": "2025-03-12T14:18:13.176Z"
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:18:13.176Z",
+    "createdAt": "2025-03-12T14:18:13.176Z",
+    "id": "db024ae0-242f-42a0-aa72-37caee53f052",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "dừa",
+      "translatedAnswer": {
+        "en": "coconut"
+      },
+      "language": "vi",
+      "choices": [
+        "trái cây",
+        "dừa",
+        "xoài"
+      ],
+      "translation": {
+        "en": "This summer, I will eat coconut."
+      },
+      "sentence": "Mùa hè này, tôi sẽ ăn ___.",
+      "hint": "d____",
+      "word": "dừa"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "dừa",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**dừa** = coconut (the fruit of the coconut tree). It can refer to the whole fruit, the water inside, or the white flesh depending on context.\n\nIt’s a noun. Use classifiers like **trái dừa** or **quả dừa** (both mean “a coconut”).  \nCommon pairings: **nước dừa** (coconut water), **cơm dừa** (coconut flesh), **cây dừa** (coconut tree).\n\nVietnam is famous for coconuts in the South, so you’ll often hear it in food and drink names.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích uống nước dừa khi trời nóng vì rất mát.",
+    "Anh mua một trái dừa ở chợ sáng nay cho cả nhà.",
+    "Chị thường dùng dừa để nấu chè vào cuối tuần."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:54:49.565Z",
+    "definitions": {
+      "es": "Una fruta tropical con una cáscara dura y pulpa comestible dulce, a menudo utilizada por su agua.",
+      "vi": "Một loại trái cây nhiệt đới có vỏ cứng và thịt ăn được ngọt, thường được sử dụng để lấy nước.",
+      "en": "A tropical fruit with a hard shell and sweet, edible flesh, often used for its water."
+    },
+    "translations": {
+      "en": "coconut",
+      "es": "coco",
+      "vi": "dừa"
+    },
+    "example": {
+      "es": "Me gusta beber agua de coco en verano.",
+      "vi": "Tôi thích uống nước dừa vào mùa hè.",
+      "en": "I like to drink coconut water in the summer."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2798,
+  "_id": "MeBaNuV7coJB8mUzoGFr"
+}

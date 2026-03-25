@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:32:22.660Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:12:25.049Z",
+    "updatedAt": "2025-03-12T13:12:25.049Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need to control this computer."
+      },
+      "translatedAnswer": {
+        "en": "control"
+      },
+      "language": "vi",
+      "word": "điều khiển",
+      "sentence": "Tôi cần ___ máy tính này.",
+      "answer": "điều khiển"
+    },
+    "type": "fillBlankQuiz",
+    "id": "c8c03e18-5c68-4b33-b96f-a7326cda0374",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**điều khiển** usually means **to control or operate** something, especially a machine or vehicle. It can also be a **noun**, meaning a remote control.\n\nAs a verb, it’s used with machines, vehicles, or systems.  \n\nAs a noun, you’ll often hear **cái điều khiển** for a TV remote.\n\nFor more abstract “control” (like control emotions or a situation), **kiểm soát** is more natural.",
+  "exampleSentencesTranslated": [
+    "Can you use the control to turn on the TV?",
+    "Every time I drive, I like the feeling of control over the vehicle.",
+    "She has difficulty learning how to use the new computer control."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "điều khiển",
+    "hướng dẫn",
+    "thay đổi"
+  ],
+  "notes": "điều khiển usually means to control or operate something, especially a machine or vehicle. It can also be a noun, meaning a remote control.\n\nAs a verb, it’s used with machines, vehicles, or systems.  \n\nAs a noun, you’ll often hear cái điều khiển for a TV remote.\n\nFor more abstract “control” (like control emotions or a situation), kiểm soát is more natural.",
+  "word": "điều khiển",
+  "rank": 2408,
+  "definition": "control",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:53:41.803Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Để chỉ đạo hoặc quản lý hoạt động của một cái gì đó.",
+      "en": "To direct or manage the operation of something.",
+      "es": "Dirigir o gestionar el funcionamiento de algo."
+    },
+    "example": {
+      "es": "Necesito controlar este coche.",
+      "vi": "Tôi cần điều khiển chiếc xe này.",
+      "en": "I need to control this car."
+    },
+    "translations": {
+      "en": "control",
+      "vi": "điều khiển",
+      "es": "control"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "65a78010-a8c9-4582-9200-5113e34f6d60",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "điều khiển",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "controller"
+      },
+      "hint": "đ___ khiển",
+      "translation": {
+        "en": "Do you have a controller for the game?"
+      },
+      "choices": [
+        "điều khiển",
+        "điện thoại",
+        "máy tính"
+      ],
+      "answer": "điều khiển",
+      "sentence": "Bạn có ___ trò chơi không?"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:12:25.049Z",
+    "updatedAt": "2025-03-12T13:12:25.049Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể dùng điều khiển để bật tivi không?",
+    "Mỗi khi em lái xe, em thích cảm giác điều khiển phương tiện.",
+    "Chị ấy gặp khó khăn khi học cách điều khiển máy tính mới."
+  ],
+  "_id": "5yR6FYcCD4IQeoq9PZuc"
+}

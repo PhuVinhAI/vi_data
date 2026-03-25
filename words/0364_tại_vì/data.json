@@ -1,0 +1,99 @@
+{
+  "rank": 364,
+  "exampleSentences": [
+    "Anh không đi làm hôm nay tại vì anh bị cảm.",
+    "Chị đến muộn tại vì xe buýt bị kẹt đường.",
+    "Em không ăn sáng tại vì em dậy trễ quá."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I didn't go to school today because I was sick.",
+      "vi": "Tôi không đi học hôm nay tại vì tôi bị ốm.",
+      "es": "No fui a la escuela hoy porque estaba enfermo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "because",
+      "es": "porque",
+      "vi": "tại vì"
+    },
+    "definitions": {
+      "vi": "Một liên từ được sử dụng để chỉ ra lý do cho một điều gì đó.",
+      "es": "Una conjunción utilizada para indicar la razón de algo.",
+      "en": "A conjunction used to indicate the reason for something."
+    },
+    "createdAt": "2025-01-28T11:58:12.417Z"
+  },
+  "word": "tại vì",
+  "multiChoiceQuiz": {
+    "id": "8f132df9-7909-4ad7-b146-0f7a73cdc96e",
+    "content": {
+      "translatedAnswer": {
+        "en": "because"
+      },
+      "answer": "tại vì",
+      "hint": "t___ vì",
+      "word": "tại vì",
+      "sentence": "Tôi ở nhà ___ trời lạnh.",
+      "translation": {
+        "en": "I stay at home because it is cold."
+      },
+      "language": "vi",
+      "choices": [
+        "tại vì",
+        "không phải",
+        "cũng được"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:22:08.704Z",
+    "createdAt": "2025-03-12T14:22:08.704Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tại vì** = “because.” You use it to give a reason for something.\n\nIt’s a linking word that connects a result with its cause.  \n\nThe reason usually comes after **tại vì**, and it can be a full clause (subject + verb).  \nClose synonym: **vì**, **bởi vì** (same meaning, slightly more neutral). Don’t confuse with **nên** (“so”), which gives the result, not the reason.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tại vì = “because.” You use it to give a reason for something.\n\nIt’s a linking word that connects a result with its cause.  \n\nThe reason usually comes after tại vì, and it can be a full clause (subject + verb).  \nClose synonym: vì, bởi vì (same meaning, slightly more neutral). Don’t confuse with nên (“so”), which gives the result, not the reason.",
+  "exampleSentencesTranslated": [
+    "I didn't go to work today because I am sick.",
+    "She was late because the bus was stuck in traffic.",
+    "I didn't eat breakfast because I woke up too late."
+  ],
+  "updatedAt": "2026-03-03T06:58:47.788Z",
+  "choices": [
+    "tại vì",
+    "bởi vì",
+    "mặc dù"
+  ],
+  "definition": "because",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:22:08.704Z",
+    "createdAt": "2025-03-12T14:22:08.704Z",
+    "id": "3ef688cf-b7c8-4930-9ef0-57b8b60fd60b",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "tại vì",
+      "translatedAnswer": {
+        "en": "because"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I am not going because it is raining."
+      },
+      "sentence": "Tôi không đi ___ trời mưa.",
+      "word": "tại vì"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "NbXVlqfyFLK5TH1Mywcz"
+}

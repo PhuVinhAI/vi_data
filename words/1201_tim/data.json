@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:16:25.101Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "heart"
+      },
+      "translation": {
+        "en": "She has a heart."
+      },
+      "answer": "tim",
+      "hint": "t___m",
+      "choices": [
+        "tim",
+        "tims",
+        "TIM"
+      ],
+      "sentence": "Cô ấy có một trái ___.",
+      "language": "vi",
+      "word": "tim"
+    },
+    "id": "add86623-a30a-4051-b857-e1499c6450bd",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:16:25.101Z"
+  },
+  "notes_md": "**tim** = heart (the body organ that pumps blood). It also means your emotional “heart” — feelings, love, courage.\n\nIt’s a noun. You’ll often hear **trái tim** (more complete, emotional tone) and sometimes **quả tim** (more physical/medical).  \n\nCommon pairings: **nhịp tim** (heartbeat), **đau tim** (heart pain / heart attack in casual talk), **tận đáy tim** (from the bottom of one’s heart).  \n\nMetaphorically, **tim** can mean the emotional center of something, like the “heart” of a problem or a city.",
+  "choices": [
+    "tim",
+    "tai",
+    "mắt"
+  ],
+  "rank": 1201,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tim",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "586d14b9-33b3-4ced-855b-289cf102cd78",
+    "createdAt": "2025-03-12T13:16:25.101Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "heart"
+      },
+      "translation": {
+        "en": "She has a heart."
+      },
+      "answer": "tim",
+      "choices": [],
+      "sentence": "Cô ấy có một trái ___.",
+      "language": "vi",
+      "word": "tim"
+    },
+    "updatedAt": "2025-03-12T13:16:25.101Z"
+  },
+  "exampleSentencesTranslated": [
+    "I feel my heart beating very fast when I meet you.",
+    "The doctor said the health of the heart is very important for life.",
+    "When sad, she often hugs her chest where the heart is to feel it."
+  ],
+  "definition": "heart",
+  "flashcard": {
+    "translations": {
+      "es": "corazón",
+      "vi": "tim",
+      "en": "heart"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:56:51.071Z",
+    "definitions": {
+      "en": "The organ in your chest that sends the blood around your body.",
+      "es": "El órgano en tu pecho que envía la sangre por todo tu cuerpo.",
+      "vi": "Cơ quan trong ngực của bạn gửi máu đi khắp cơ thể."
+    },
+    "example": {
+      "en": "I feel my heart beating fast.",
+      "es": "Siento mi corazón latiendo rápido.",
+      "vi": "Tôi cảm thấy tim mình đập nhanh."
+    }
+  },
+  "notes": "tim = heart (the body organ that pumps blood). It also means your emotional “heart” — feelings, love, courage.\n\nIt’s a noun. You’ll often hear trái tim (more complete, emotional tone) and sometimes quả tim (more physical/medical).  \n\nCommon pairings: nhịp tim (heartbeat), đau tim (heart pain / heart attack in casual talk), tận đáy tim (from the bottom of one’s heart).  \n\nMetaphorically, tim can mean the emotional center of something, like the “heart” of a problem or a city.",
+  "updatedAt": "2026-03-03T08:23:47.196Z",
+  "exampleSentences": [
+    "Em cảm thấy tim mình đập rất nhanh khi gặp anh.",
+    "Bác sĩ nói sức khỏe của tim rất quan trọng cho cuộc sống.",
+    "Khi buồn, chị ấy thường ôm ngực nơi trái tim để cảm nhận."
+  ],
+  "_id": "7G0HOs3aaqT5cPuaYmn9"
+}

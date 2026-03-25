@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:05:53.183Z",
+    "updatedAt": "2025-03-12T14:05:53.183Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "This has a fee higher than that."
+      },
+      "sentence": "Cái này có ___ cao hơn cái kia.",
+      "word": "phi",
+      "answer": "phi",
+      "translatedAnswer": {
+        "en": "fee"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "1826b132-3053-4734-bea5-8ce5fc403145"
+  },
+  "definition": "fee",
+  "updatedAt": "2026-03-03T11:40:48.062Z",
+  "choices": [
+    "phi",
+    "vé",
+    "giấy"
+  ],
+  "notes": "Phí means a fee — money you have to pay for a service, activity, or process.\n\nIt’s a noun. You usually use it with verbs like đóng, trả, or nộp (all mean “pay,” depending on context).  \n\nCommon combinations: phí dịch vụ (service fee), học phí (tuition), phí gửi xe (parking fee).  \nClose word: lệ phí = fee too, but more official (government paperwork, admin stuff).",
+  "exampleSentencesTranslated": [
+    "You have to pay a fee to register for this service each month.",
+    "When studying, you need to pay a fee for the school library.",
+    "I want to know how much the fee to join this club is."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Phí** means a *fee* — money you have to pay for a service, activity, or process.\n\nIt’s a noun. You usually use it with verbs like **đóng**, **trả**, or **nộp** (all mean “pay,” depending on context).  \n\n\nCommon combinations: **phí dịch vụ** (service fee), **học phí** (tuition), **phí gửi xe** (parking fee).  \nClose word: **lệ phí** = fee too, but more official (government paperwork, admin stuff).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "b7242a6a-041e-47e9-808d-abf158ee8f4d",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "phi",
+      "translatedAnswer": {
+        "en": "fee"
+      },
+      "sentence": "Cái này có ___ cao hơn cái kia.",
+      "word": "phi",
+      "hint": "p__",
+      "language": "vi",
+      "choices": [
+        "giá",
+        "phi",
+        "tiền"
+      ],
+      "translation": {
+        "en": "This has a fee higher than that."
+      }
+    },
+    "updatedAt": "2025-03-12T14:05:53.183Z",
+    "createdAt": "2025-03-12T14:05:53.183Z"
+  },
+  "word": "phi",
+  "flashcard": {
+    "example": {
+      "es": "Aprendí sobre phi en la clase de matemáticas.",
+      "vi": "Tôi đã học về phi trong lớp toán.",
+      "en": "I learned about phi in math class."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "phi",
+      "vi": "phi",
+      "en": "phi"
+    },
+    "definitions": {
+      "vi": "Phi là một hằng số toán học xấp xỉ bằng 1.618, thường được ký hiệu bằng chữ cái Hy Lạp φ.",
+      "es": "Phi es una constante matemática aproximadamente igual a 1.618, a menudo denotada por la letra griega φ.",
+      "en": "Phi is a mathematical constant approximately equal to 1.618, often denoted by the Greek letter φ."
+    },
+    "createdAt": "2025-01-28T11:43:38.359Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị phải trả phi để đăng ký dịch vụ này mỗi tháng.",
+    "Khi đi học, anh cần đóng phi cho thư viện trường.",
+    "Em muốn biết phi tham gia câu lạc bộ này là bao nhiêu."
+  ],
+  "rank": 2729,
+  "_id": "K3TACEj3fFrfspHwAjUw"
+}

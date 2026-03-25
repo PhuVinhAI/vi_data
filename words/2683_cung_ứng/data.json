@@ -1,0 +1,99 @@
+{
+  "definition": "supply",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cung ứng",
+  "exampleSentences": [
+    "Công ty anh đang cố gắng cung ứng sản phẩm đúng thời hạn cho khách hàng.",
+    "Chị muốn tìm nhà cung ứng rau sạch cho nhà hàng của mình.",
+    "Họ cần cung ứng nước sạch cho người dân vùng xa."
+  ],
+  "rank": 2683,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cung ứng",
+    "bán lẻ",
+    "nhập khẩu"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:49:19.838Z",
+    "content": {
+      "translation": {
+        "en": "This company supplies goods to customers."
+      },
+      "answer": "cung ứng",
+      "choices": [
+        "cung ứng",
+        "giao hàng",
+        "mua sắm"
+      ],
+      "hint": "c___g",
+      "sentence": "Công ty này ___ hàng hóa cho khách.",
+      "word": "cung ứng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "supplies"
+      }
+    },
+    "createdAt": "2025-03-12T13:49:19.838Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2d09a38e-ae4a-412e-b7f7-012e370187e3",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**cung ứng** = to supply or provide something that is needed. It’s about making sure goods or services are available.\n\nUsed for products, materials, electricity, water, manpower, etc. Often used in business, logistics, and government contexts.\n\n\nVery close to **cung cấp** (to provide). *Cung ứng* feels a bit more about steady supply or system-level supply, while *cung cấp* is more general.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động cung cấp hàng hóa hoặc dịch vụ.",
+      "es": "El acto de proporcionar o suministrar bienes o servicios.",
+      "en": "The act of providing or supplying goods or services."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:27:31.530Z",
+    "example": {
+      "es": "Nuestra empresa se especializa en suministrar productos al mercado.",
+      "vi": "Công ty chúng tôi chuyên cung ứng sản phẩm cho thị trường.",
+      "en": "Our company specializes in supplying products to the market."
+    },
+    "translations": {
+      "es": "suministro",
+      "vi": "cung ứng",
+      "en": "supply"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "His company is trying to supply products to customers on time.",
+    "She wants to find a supplier to supply clean vegetables for her restaurant.",
+    "They need to supply clean water to people in remote areas."
+  ],
+  "notes": "cung ứng = to supply or provide something that is needed. It’s about making sure goods or services are available.\n\nUsed for products, materials, electricity, water, manpower, etc. Often used in business, logistics, and government contexts.\n\nVery close to cung cấp (to provide). Cung ứng feels a bit more about steady supply or system-level supply, while cung cấp is more general.",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "This company supplies goods to customers."
+      },
+      "answer": "cung ứng",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Công ty này ___ hàng hóa cho khách.",
+      "word": "cung ứng",
+      "translatedAnswer": {
+        "en": "supplies"
+      }
+    },
+    "createdAt": "2025-03-12T13:49:19.838Z",
+    "updatedAt": "2025-03-12T13:49:19.838Z",
+    "id": "245f5df6-bb6d-4433-9399-78220ae2f2bd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T11:35:41.963Z",
+  "_id": "Fg6XinJcv51LfVtBXR5B"
+}

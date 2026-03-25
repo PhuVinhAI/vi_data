@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Currently, the traffic situation in the city is very complicated.",
+    "The doctor asked me about my health situation recently.",
+    "I need to report the work situation to my boss every week."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:32:11.713Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:32:11.713Z",
+    "content": {
+      "translation": {
+        "en": "I want to know the status of the project."
+      },
+      "translatedAnswer": {
+        "en": "status"
+      },
+      "answer": "tình trạng",
+      "choices": [],
+      "word": "tình trạng",
+      "sentence": "Tôi muốn biết ___ của dự án.",
+      "language": "vi"
+    },
+    "id": "f7e28e8a-c212-46c9-b693-89d803115cd5"
+  },
+  "definition": "situation",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:07:06.524Z",
+    "translations": {
+      "vi": "tình trạng",
+      "es": "condición",
+      "en": "condition"
+    },
+    "example": {
+      "vi": "Tình trạng sức khỏe của anh ấy đang cải thiện.",
+      "es": "La condición de salud de él está mejorando.",
+      "en": "His health condition is improving."
+    },
+    "definitions": {
+      "es": "Un estado o condición de algo.",
+      "vi": "Một trạng thái hoặc tình huống của một cái gì đó.",
+      "en": "A state or condition of something."
+    }
+  },
+  "notes": "Tình trạng means the state or condition of something at a certain time. It’s about how things are right now.\n\nIt’s a noun and usually uncountable in practice; you don’t add classifiers. It often goes with words like hiện tại, nghiêm trọng, ổn định, xấu, tốt.  \n\nVery close to tình hình, but tình hình is broader (overall situation), while tình trạng focuses more on the specific condition of something.",
+  "exampleSentences": [
+    "Hiện tại tình trạng giao thông ở thành phố rất phức tạp.",
+    "Bác sĩ hỏi em về tình trạng sức khỏe gần đây của em.",
+    "Anh cần báo cáo tình trạng công việc cho sếp mỗi tuần."
+  ],
+  "updatedAt": "2026-03-03T09:22:20.794Z",
+  "multiChoiceQuiz": {
+    "id": "dd6b15a4-52e0-42a3-8768-6b01e5157612",
+    "content": {
+      "hint": "t____n",
+      "answer": "tình trạng",
+      "translatedAnswer": {
+        "en": "status"
+      },
+      "translation": {
+        "en": "They are surveying the current status."
+      },
+      "language": "vi",
+      "sentence": "Họ đang khảo sát ___ hiện tại.",
+      "word": "tình trạng",
+      "choices": [
+        "tình trạng",
+        "kết quả",
+        "thông tin"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:32:11.713Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:32:11.713Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "tình trạng",
+    "kết quả",
+    "thời gian"
+  ],
+  "rank": 1741,
+  "notes_md": "**Tình trạng** means the state or condition of something at a certain time. It’s about how things are right now.\n\nIt’s a noun and usually uncountable in practice; you don’t add classifiers. It often goes with words like *hiện tại, nghiêm trọng, ổn định, xấu, tốt*.  \n\n\nVery close to **tình hình**, but *tình hình* is broader (overall situation), while *tình trạng* focuses more on the specific condition of something.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tình trạng",
+  "_id": "fRZ6dkmGwx2qbk6AMXxI"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:19:35.049Z",
+    "translations": {
+      "en": "receive",
+      "es": "recibir",
+      "vi": "nhận"
+    },
+    "definitions": {
+      "vi": "Nhận hoặc chấp nhận một cái gì đó.",
+      "es": "Recibir o aceptar algo.",
+      "en": "To receive or accept something."
+    },
+    "example": {
+      "vi": "Tôi nhận được thư từ bạn.",
+      "es": "Recibí una carta de ti.",
+      "en": "I received a letter from you."
+    }
+  },
+  "notes": "nhận = to receive or accept something that is given or sent to you. It’s used for physical things, messages, money, tasks, or roles.\n\nYou use it when something comes to you and you take it. It also means “accept” (like accepting a job, responsibility, or invitation).\n\nVery common extension: nhận ra = realize / recognize (suddenly understand or recognize someone).  \nOpposite idea: gửi (send), cho (give).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "I receive a birthday present from my close friend this morning.",
+    "You will receive a confirmation email when the order is shipped.",
+    "Can you receive this document at the reception desk?"
+  ],
+  "word": "nhận",
+  "choices": [
+    "nhớ",
+    "nhận",
+    "nhìn"
+  ],
+  "updatedAt": "2026-03-03T06:38:50.450Z",
+  "exampleSentences": [
+    "Em đã nhận món quà sinh nhật từ bạn thân sáng nay.",
+    "Anh sẽ nhận email xác nhận khi đơn hàng được gửi đi.",
+    "Chị có thể nhận tài liệu này ở phòng lễ tân không?"
+  ],
+  "multiChoiceQuiz": {
+    "id": "a793e5b5-9ce4-4c7c-a716-bea269a646ba",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:49:11.976Z",
+    "content": {
+      "translation": {
+        "en": "I will receive this document."
+      },
+      "choices": [
+        "đưa",
+        "nhận",
+        "cho"
+      ],
+      "answer": "nhận",
+      "translatedAnswer": {
+        "en": "receive"
+      },
+      "language": "vi",
+      "hint": "n___n",
+      "word": "nhận",
+      "sentence": "Tôi sẽ ___ tài liệu này."
+    },
+    "updatedAt": "2025-03-12T16:49:11.976Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi không ___ món quà.",
+      "word": "nhận",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "receive"
+      },
+      "translation": {
+        "en": "I do not receive the gift."
+      },
+      "answer": "nhận",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:49:11.976Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:49:11.976Z",
+    "id": "7e222b39-1efb-4a54-ad36-37bdbd487680"
+  },
+  "definition": "receive",
+  "rank": 181,
+  "notes_md": "**nhận** = to receive or accept something that is given or sent to you. It’s used for physical things, messages, money, tasks, or roles.\n\nYou use it when something comes to you and you take it. It also means “accept” (like accepting a job, responsibility, or invitation).\n\n\nVery common extension: **nhận ra** = realize / recognize (suddenly understand or recognize someone).  \nOpposite idea: **gửi** (send), **cho** (give).",
+  "_id": "ynujvb5RNX3tw4Togikb"
+}

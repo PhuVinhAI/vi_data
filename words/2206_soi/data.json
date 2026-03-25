@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He turns on a flashlight to shine the way home tonight.",
+    "She looks in the mirror and fixes her hair to shine before going out.",
+    "I stand under the sun, and the light can shine on my face clearly."
+  ],
+  "notes": "soi means to shine a light on something, or to look at something very closely. It often implies checking or examining carefully.\n\nAs a verb, it’s used with light sources (đèn pin, ánh sáng) or with reflective surfaces like soi gương (look in the mirror). It can also mean to inspect or scrutinize something in detail, sometimes with a slightly critical feeling.\n\nClose idea: chiếu (shine on) — more neutral for light; soi often feels more focused or intentional.",
+  "updatedAt": "2026-03-03T10:11:28.320Z",
+  "choices": [
+    "sói",
+    "cáo",
+    "soi"
+  ],
+  "definition": "shine",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "soi",
+      "translatedAnswer": {
+        "en": "look"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I want to look in the mirror."
+      },
+      "sentence": "Tôi muốn ___ vào gương.",
+      "word": "soi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "18720d0f-5bf6-457a-ba86-04839b299a3a",
+    "createdAt": "2025-03-12T14:10:55.204Z",
+    "updatedAt": "2025-03-12T14:10:55.204Z"
+  },
+  "word": "soi",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:10:55.204Z",
+    "createdAt": "2025-03-12T14:10:55.204Z",
+    "id": "52a300dc-7818-4c99-a788-43898fb994ab",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "soi",
+      "translatedAnswer": {
+        "en": "look"
+      },
+      "language": "vi",
+      "choices": [
+        "nhìn",
+        "soi",
+        "đánh giá"
+      ],
+      "translation": {
+        "en": "I often look in the mirror every morning."
+      },
+      "sentence": "Tôi thường ___ vào gương mỗi sáng.",
+      "word": "soi",
+      "hint": "s__"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**soi** means to shine a light on something, or to look at something very closely. It often implies checking or examining carefully.\n\nAs a verb, it’s used with light sources (đèn pin, ánh sáng) or with reflective surfaces like *soi gương* (look in the mirror). It can also mean to inspect or scrutinize something in detail, sometimes with a slightly critical feeling.\n\n\nClose idea: *chiếu* (shine on) — more neutral for light; *soi* often feels more focused or intentional.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh bật đèn pin để soi đường về nhà tối nay.",
+    "Chị soi gương rồi chỉnh tóc trước khi ra ngoài.",
+    "Em đứng dưới nắng, ánh sáng soi lên mặt rất rõ."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I look in the mirror to fix my hair.",
+      "vi": "Tôi soi gương để chỉnh sửa tóc.",
+      "es": "Miro en el espejo para arreglarme el cabello."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "espejo",
+      "vi": "gương",
+      "en": "mirror"
+    },
+    "definitions": {
+      "es": "Mirar a uno mismo en un espejo o superficie reflectante.",
+      "vi": "Nhìn vào gương hoặc bề mặt phản chiếu.",
+      "en": "To look at oneself in a mirror or reflective surface."
+    },
+    "createdAt": "2025-01-28T11:48:12.551Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2206,
+  "_id": "KzCAqCVMBz6MiF2Jl1el"
+}

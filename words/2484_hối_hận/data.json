@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hối hận",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:32:42.578Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:32:42.578Z",
+    "content": {
+      "translation": {
+        "en": "He has no regret about that."
+      },
+      "translatedAnswer": {
+        "en": "regret"
+      },
+      "hint": "h___n",
+      "answer": "hối hận",
+      "choices": [
+        "hối hận",
+        "niềm vui",
+        "sự tiếc nuối"
+      ],
+      "word": "hối hận",
+      "language": "vi",
+      "sentence": "Anh ấy không có ___ nào về việc đó."
+    },
+    "id": "f4a5d4df-6ffc-43c1-9288-924bf0df1c4c",
+    "type": "multiChoiceQuiz"
+  },
+  "choices": [
+    "hối hận",
+    "tin tưởng",
+    "tự hào"
+  ],
+  "rank": 2484,
+  "notes_md": "**Hối hận** = to regret, to feel sorry about something you did (or didn’t do). It’s a strong, personal feeling after you realize you made a mistake.\n\nIt’s usually used as a verb of feeling, often with **vì** (because of) or **về** (about).  \n\nYou’ll often see it after words like *cảm thấy* or *rất* to show emotion level.  \nClose synonym: **ân hận** (a bit deeper, heavier regret).",
+  "notes": "Hối hận = to regret, to feel sorry about something you did (or didn’t do). It’s a strong, personal feeling after you realize you made a mistake.\n\nIt’s usually used as a verb of feeling, often with vì (because of) or về (about).  \n\nYou’ll often see it after words like cảm thấy or rất to show emotion level.  \nClose synonym: ân hận (a bit deeper, heavier regret).",
+  "exampleSentences": [
+    "Em đã nói những lời không nên nói và bây giờ rất hối hận.",
+    "Anh thường cảm thấy hối hận khi quên sinh nhật của bạn bè.",
+    "Chị ấy hối hận vì không dành nhiều thời gian cho gia đình hơn."
+  ],
+  "updatedAt": "2026-03-03T10:40:25.269Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "1edf0169-9206-48a3-8d30-8fd5c2625e12",
+    "content": {
+      "answer": "hối hận",
+      "translatedAnswer": {
+        "en": "regret"
+      },
+      "translation": {
+        "en": "I feel regret about that decision."
+      },
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ về quyết định đó.",
+      "word": "hối hận",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:32:42.578Z",
+    "updatedAt": "2025-03-12T15:32:42.578Z"
+  },
+  "exampleSentencesTranslated": [
+    "I said things I shouldn’t have and now I really regret.",
+    "He often regret when he forgets his friends’ birthdays.",
+    "She regret not spending more time with her family."
+  ],
+  "definition": "regret",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm giác buồn bã hoặc thất vọng về một điều gì đó đã xảy ra hoặc đã được thực hiện.",
+      "es": "Un sentimiento de tristeza o decepción por algo que ha sucedido o se ha hecho.",
+      "en": "A feeling of sadness or disappointment over something that has happened or been done."
+    },
+    "example": {
+      "en": "I regret not listening to my mother.",
+      "es": "Lamento no haber escuchado a mi madre.",
+      "vi": "Tôi hối hận vì đã không nghe lời mẹ."
+    },
+    "translations": {
+      "vi": "hối hận",
+      "es": "lamento",
+      "en": "regret"
+    },
+    "createdAt": "2025-01-28T13:07:27.629Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "fVrngAgggZcFNsR9Mh9F"
+}

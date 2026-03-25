@@ -1,0 +1,96 @@
+{
+  "rank": 101,
+  "notes_md": "**hỏi** = to ask (a question), to inquire.\n\nUse it when you want information from someone. It often goes with a person + about something.  \n\nYou can also use it for asking permission or asking a favor, not just questions.  \nClose synonym: **đặt câu hỏi** (more formal, like “pose a question”).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:21:36.415Z",
+    "content": {
+      "sentence": "Tôi muốn ___ về bài học.",
+      "translatedAnswer": {
+        "en": "ask"
+      },
+      "translation": {
+        "en": "I want to ask about the lesson."
+      },
+      "hint": "h___",
+      "word": "hỏi",
+      "answer": "hỏi",
+      "language": "vi",
+      "choices": [
+        "hỏi",
+        "đọc",
+        "viết"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "217d9fba-6b4b-40b6-a68a-c0a7b111d2ac",
+    "createdAt": "2025-03-12T16:21:36.415Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "ask",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "Do you ask that?"
+      },
+      "translatedAnswer": {
+        "en": "ask"
+      },
+      "choices": [],
+      "word": "hỏi",
+      "language": "vi",
+      "answer": "hỏi",
+      "sentence": "Bạn có ___ điều đó không?"
+    },
+    "updatedAt": "2025-03-12T16:21:36.415Z",
+    "createdAt": "2025-03-12T16:21:36.415Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "39e39fb2-ed02-4012-bc8b-39b90ac5bc6e"
+  },
+  "word": "hỏi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "hỏi = to ask (a question), to inquire.\n\nUse it when you want information from someone. It often goes with a person + about something.  \n\nYou can also use it for asking permission or asking a favor, not just questions.  \nClose synonym: đặt câu hỏi (more formal, like “pose a question”).",
+  "exampleSentences": [
+    "Em muốn hỏi anh về kế hoạch đi chơi cuối tuần này.",
+    "Chị có thể hỏi thầy giáo nếu chưa hiểu bài tập không?",
+    "Khi cần giúp đỡ, anh đừng ngại hỏi mọi người xung quanh."
+  ],
+  "flashcard": {
+    "createdAt": "2025-05-24T16:34:34.286Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "hỏi",
+    "definitions": {
+      "vi": "Đề nghị ai đó trả lời hoặc cung cấp thông tin.",
+      "en": "To request information or an answer from someone."
+    },
+    "translations": {
+      "en": "ask"
+    },
+    "example": {
+      "en": "I want to ask you a question.",
+      "vi": "Tôi muốn hỏi bạn một câu hỏi."
+    }
+  },
+  "choices": [
+    "học",
+    "hỏi",
+    "nghỉ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "updatedAt": "2026-03-03T06:13:18.532Z",
+  "exampleSentencesTranslated": [
+    "I want to ask you about the weekend plan.",
+    "Can you ask the teacher if you do not understand the exercise?",
+    "When you need help, do not hesitate to ask people around you."
+  ],
+  "_id": "rlWjNGYXmu3Gmcu4zHUB"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh thích loại cà phê nào nhất vào buổi sáng?",
+    "Chị có thể giới thiệu cho em một loại sách hay không?",
+    "Em muốn thử loại bánh mới mà tiệm vừa làm hôm nay."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:21:27.842Z",
+    "updatedAt": "2025-03-12T17:21:27.842Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "What type of music do you like?"
+      },
+      "word": "loại",
+      "choices": [],
+      "sentence": "Bạn thích ___ nhạc nào?",
+      "translatedAnswer": {
+        "en": "type"
+      },
+      "answer": "loại"
+    },
+    "id": "cdd4ad96-6d95-4580-9c62-1cc2451a8f55",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "choices": [
+    "loại",
+    "lớp",
+    "món"
+  ],
+  "rank": 402,
+  "definition": "type",
+  "notes": "Loại means type / kind / category. You use it to group things into different categories.\n\nIt’s a noun and often comes before another noun to classify it. You can say một loại, các loại, etc.  \n\nA close synonym is kiểu or dạng, but loại feels more about categories, while kiểu can feel more like “style.”  \n\nVery common extra meaning: in loại bỏ, it means to remove / eliminate (physically or abstractly).",
+  "notes_md": "**Loại** means *type / kind / category*. You use it to group things into different categories.\n\nIt’s a noun and often comes before another noun to classify it. You can say **một loại**, **các loại**, etc.  \n\n\nA close synonym is **kiểu** or **dạng**, but **loại** feels more about categories, while **kiểu** can feel more like “style.”  \n\nVery common extra meaning: in **loại bỏ**, it means *to remove / eliminate* (physically or abstractly).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e9297bda-7972-4be3-b5e3-5042367e43b5",
+    "content": {
+      "translation": {
+        "en": "What type of music do you like?"
+      },
+      "word": "loại",
+      "language": "vi",
+      "choices": [
+        "loại",
+        "màu",
+        "hình"
+      ],
+      "sentence": "Bạn thích ___ nhạc nào?",
+      "hint": "l___i",
+      "translatedAnswer": {
+        "en": "type"
+      },
+      "answer": "loại"
+    },
+    "updatedAt": "2025-03-12T17:21:27.842Z",
+    "createdAt": "2025-03-12T17:21:27.842Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "vi": "loại",
+      "es": "tipo",
+      "en": "type"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I like this type of book.",
+      "es": "Me gusta este tipo de libro.",
+      "vi": "Tôi thích loại sách này."
+    },
+    "createdAt": "2025-01-28T13:15:33.153Z",
+    "definitions": {
+      "vi": "Một loại hoặc kiểu của một cái gì đó.",
+      "es": "Una categoría o tipo de algo.",
+      "en": "A category or kind of something."
+    }
+  },
+  "word": "loại",
+  "updatedAt": "2026-03-03T07:02:33.987Z",
+  "exampleSentencesTranslated": [
+    "Which type of coffee do you like most in the morning?",
+    "Can you recommend me a type of book?",
+    "I want to try the new type of cake the shop made today."
+  ],
+  "_id": "hocgSYNOLPU95Zin6Vac"
+}

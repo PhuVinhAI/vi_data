@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "Each locality has its own customs.",
+      "es": "Cada localidad tiene sus propias costumbres.",
+      "vi": "Mỗi địa phương có những phong tục tập quán riêng."
+    },
+    "translations": {
+      "en": "locality",
+      "es": "localidad",
+      "vi": "địa phương"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A specific area or region, often referring to local customs or characteristics.",
+      "es": "Una área o región específica, a menudo refiriéndose a costumbres o características locales.",
+      "vi": "Một khu vực hoặc vùng cụ thể, thường đề cập đến phong tục hoặc đặc điểm địa phương."
+    },
+    "createdAt": "2025-01-28T12:39:52.071Z"
+  },
+  "exampleSentencesTranslated": [
+    "He often buys food from the local market on weekends.",
+    "She wants to learn about the local culture when traveling.",
+    "The local dishes here are very delicious and special."
+  ],
+  "updatedAt": "2026-03-03T08:58:53.261Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng ta cần tìm hiểu ___ này.",
+      "answer": "địa phương",
+      "word": "địa phương",
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "locality"
+      },
+      "translation": {
+        "en": "We need to learn about this locality."
+      }
+    },
+    "updatedAt": "2025-03-12T15:07:06.527Z",
+    "createdAt": "2025-03-12T15:07:06.527Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "17dba360-8919-4f00-901d-eb3ac485c47f"
+  },
+  "definition": "local",
+  "notes_md": "**địa phương** = local area, locality. It refers to a specific place (a town, province, region) rather than the whole country.\n\nIt’s a **noun**, but it often works like an adjective before another noun. You can say *một địa phương*, *các địa phương* when counting. Very common pairings: *chính quyền địa phương* (local government), *người dân địa phương* (local people), *kinh tế địa phương* (local economy).\n\nOpposite idea: **trung ương** (central, national level).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 1521,
+  "choices": [
+    "địa phương",
+    "quốc tế",
+    "truyền thống"
+  ],
+  "word": "địa phương",
+  "exampleSentences": [
+    "Anh thường mua thực phẩm từ chợ địa phương vào cuối tuần.",
+    "Chị muốn tìm hiểu về văn hóa địa phương khi đi du lịch.",
+    "Những món ăn địa phương ở đây rất ngon và đặc biệt."
+  ],
+  "notes": "địa phương = local area, locality. It refers to a specific place (a town, province, region) rather than the whole country.\n\nIt’s a noun, but it often works like an adjective before another noun. You can say một địa phương, các địa phương when counting. Very common pairings: chính quyền địa phương (local government), người dân địa phương (local people), kinh tế địa phương (local economy).\n\nOpposite idea: trung ương (central, national level).",
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "địa phương",
+      "hint": "đ___n",
+      "word": "địa phương",
+      "language": "vi",
+      "sentence": "Chúng ta cần tìm hiểu ___ này.",
+      "translation": {
+        "en": "We need to learn about this locality."
+      },
+      "translatedAnswer": {
+        "en": "locality"
+      },
+      "choices": [
+        "khu vực",
+        "địa phương",
+        "khu dân cư"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:07:06.527Z",
+    "createdAt": "2025-03-12T15:07:06.527Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "c6060907-7eb1-4da6-9e96-4a9f8ba16cd8"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "YtjVePybxbb6NpQtoUv7"
+}

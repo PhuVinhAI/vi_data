@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Today there is a lot of wind outside so I have to wear a warm jacket.",
+    "I like walking on the beach when there is gentle wind.",
+    "She hears the sound of wind through the window every night."
+  ],
+  "updatedAt": "2026-03-03T10:02:44.138Z",
+  "flashcard": {
+    "translations": {
+      "vi": "gió",
+      "en": "wind",
+      "es": "viento"
+    },
+    "example": {
+      "vi": "Hôm nay có gió mạnh.",
+      "en": "Today there is a strong wind.",
+      "es": "Hoy hay un viento fuerte."
+    },
+    "createdAt": "2025-01-28T13:39:31.905Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một chuyển động tự nhiên của không khí, đặc biệt là một chuyển động đáng chú ý.",
+      "en": "A natural movement of air, especially a noticeable one.",
+      "es": "Un movimiento natural del aire, especialmente uno notable."
+    }
+  },
+  "choices": [
+    "mưa",
+    "gió",
+    "nắng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Hôm nay ngoài trời có nhiều gió nên em phải mặc áo ấm.",
+    "Anh thích đi dạo trên bãi biển khi có gió thổi nhẹ.",
+    "Chị nghe tiếng gió qua cửa sổ mỗi khi đêm về."
+  ],
+  "notes": "gió means wind — moving air outside.\n\nIt’s a noun. You often use classifiers like cơn gió (a gust of wind) or làn gió / luồng gió (a light stream of wind).  \n\nCommon pairings: gió mạnh (strong wind), gió nhẹ (light wind), gió to (big wind), and the verb thổi (wind blows).  \n\nYou’ll also hear gió mùa (seasonal/monsoon wind), especially in weather talk.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "gió",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:07:48.845Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "3aa2c6fd-03b2-440d-b872-d5aa091ee172",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "The weather today has a nice wind."
+      },
+      "translatedAnswer": {
+        "en": "wind"
+      },
+      "choices": [],
+      "word": "gió",
+      "language": "vi",
+      "answer": "gió",
+      "sentence": "Trời hôm nay có ___ rất mát."
+    },
+    "updatedAt": "2025-03-12T16:07:48.845Z"
+  },
+  "definition": "wind",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:07:48.845Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Có một cơn ___ thổi qua công viên.",
+      "word": "gió",
+      "choices": [
+        "bão",
+        "mưa",
+        "gió"
+      ],
+      "language": "vi",
+      "answer": "gió",
+      "hint": "g__",
+      "translation": {
+        "en": "There is a wind blowing through the park."
+      },
+      "translatedAnswer": {
+        "en": "wind"
+      }
+    },
+    "id": "cba6909f-fc54-420d-a881-c75c884837d1",
+    "createdAt": "2025-03-12T16:07:48.845Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2124,
+  "notes_md": "**gió** means *wind* — moving air outside.\n\nIt’s a noun. You often use classifiers like **cơn gió** (a gust of wind) or **làn gió / luồng gió** (a light stream of wind).  \n\nCommon pairings: **gió mạnh** (strong wind), **gió nhẹ** (light wind), **gió to** (big wind), and the verb **thổi** (wind blows).  \n\nYou’ll also hear **gió mùa** (seasonal/monsoon wind), especially in weather talk.",
+  "_id": "oMW9EcXadgLyutJPMjGl"
+}

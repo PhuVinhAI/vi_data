@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Sáng nay, anh nhận được một lệnh từ sếp yêu cầu hoàn thành dự án.",
+    "Chị phải làm theo lệnh của giáo viên khi ở trong lớp học.",
+    "Khi có lệnh di chuyển, mọi người cần chuẩn bị rời khỏi khu vực."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một mệnh lệnh hoặc chỉ thị được đưa ra bởi người có thẩm quyền.",
+      "es": "Un comando o directiva dada por alguien en autoridad.",
+      "en": "A command or directive given by someone in authority."
+    },
+    "translations": {
+      "es": "orden",
+      "vi": "lệnh",
+      "en": "order"
+    },
+    "createdAt": "2025-01-28T11:40:32.252Z",
+    "example": {
+      "vi": "Tôi đã nhận được lệnh từ sếp.",
+      "es": "Recibí una orden del jefe.",
+      "en": "I received an order from the boss."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2192,
+  "exampleSentencesTranslated": [
+    "This morning, I received an order from my boss to finish the project.",
+    "You must follow the order of the teacher when in class.",
+    "When there is an order to move, everyone needs to get ready to leave the area."
+  ],
+  "notes": "Lệnh means an order or command from someone with authority (boss, teacher, military, police). It’s a noun.\n\nYou usually say một lệnh (classifier: một). Common verbs: ra lệnh (give an order), nhận lệnh (receive an order), theo lệnh / tuân lệnh (follow/obey an order).\n\nClose word: mệnh lệnh (more formal/serious, often in military or official contexts).",
+  "choices": [
+    "lệnh",
+    "bài",
+    "việc"
+  ],
+  "updatedAt": "2026-03-03T10:10:03.586Z",
+  "definition": "order (an instruction or command given by someone in authority)",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:02:38.326Z",
+    "createdAt": "2025-03-12T14:02:38.326Z",
+    "id": "c6771d57-fe2b-4518-8000-74ae9fcc88b5",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I received an order from the boss."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "lệnh",
+      "sentence": "Tôi đã nhận được ___ từ sếp.",
+      "translatedAnswer": {
+        "en": "order"
+      },
+      "answer": "lệnh"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "order"
+      },
+      "answer": "lệnh",
+      "hint": "l___n",
+      "word": "lệnh",
+      "sentence": "Tôi đã nhận được ___ từ sếp.",
+      "translation": {
+        "en": "I received an order from the boss."
+      },
+      "language": "vi",
+      "choices": [
+        "mệnh lệnh",
+        "lệnh",
+        "quyết định"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "c2dfba7a-6155-4229-839e-322c137c67c5",
+    "createdAt": "2025-03-12T14:02:38.326Z",
+    "updatedAt": "2025-03-12T14:02:38.326Z"
+  },
+  "word": "lệnh",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Lệnh** means an *order* or *command* from someone with authority (boss, teacher, military, police). It’s a noun.\n\nYou usually say **một lệnh** (classifier: *một*). Common verbs: **ra lệnh** (give an order), **nhận lệnh** (receive an order), **theo lệnh / tuân lệnh** (follow/obey an order).\n\n\nClose word: **mệnh lệnh** (more formal/serious, often in military or official contexts).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "JJxVWPUoIytnCl0O0Wls"
+}

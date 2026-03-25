@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:39:11.048Z",
+    "definitions": {
+      "vi": "Không có khả năng thay đổi hoặc thất bại; được thiết lập vững chắc.",
+      "es": "No es probable que cambie o falle; firmemente establecido.",
+      "en": "Not likely to change or fail; firmly established."
+    },
+    "translations": {
+      "en": "stable",
+      "es": "estable",
+      "vi": "ổn định"
+    },
+    "example": {
+      "en": "The current economic situation is stable.",
+      "vi": "Tình hình kinh tế hiện tại đang ổn định.",
+      "es": "La situación económica actual es estable."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Công việc của anh hiện tại khá ổn định nên anh cảm thấy yên tâm.",
+    "Sau một thời gian khó khăn, cuộc sống của gia đình em đã ổn định trở lại.",
+    "Chị muốn tìm một môi trường làm việc ổn định để phát triển lâu dài."
+  ],
+  "rank": 1362,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:01:14.847Z",
+    "updatedAt": "2025-03-12T14:01:14.847Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "ổn định",
+      "translatedAnswer": {
+        "en": "stabilized"
+      },
+      "sentence": "Tình hình đã ___ hơn trước.",
+      "word": "ổn định",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "The situation has stabilized more than before."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "7b4d3818-6a1e-481f-8b52-8de28321c45c"
+  },
+  "definition": "stable",
+  "choices": [
+    "ổn định",
+    "bất ngờ",
+    "tạm thời"
+  ],
+  "updatedAt": "2026-03-03T08:41:26.774Z",
+  "exampleSentencesTranslated": [
+    "His current job is quite stable so he feels secure.",
+    "After a difficult time, my family's life has become stable again.",
+    "She wants to find a stable working environment to develop for the long term."
+  ],
+  "notes": "Ổn định = stable, steady, not changing much. It describes something that is safe, balanced, or under control.\n\nIt’s an adjective, used for things like công việc (job), cuộc sống (life), kinh tế (economy), sức khỏe (health), giá cả (prices), mối quan hệ (relationships). You can also use it as a verb meaning “to stabilize” or “to make stable.”\n\nClose opposites: bất ổn (unstable), không ổn định. Related idea: bền vững = stable in a long-term, sustainable way.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ổn định** = stable, steady, not changing much. It describes something that is safe, balanced, or under control.\n\nIt’s an adjective, used for things like công việc (job), cuộc sống (life), kinh tế (economy), sức khỏe (health), giá cả (prices), mối quan hệ (relationships). You can also use it as a verb meaning “to stabilize” or “to make stable.”\n\n\nClose opposites: **bất ổn** (unstable), **không ổn định**. Related idea: **bền vững** = stable in a long-term, sustainable way.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:01:14.847Z",
+    "updatedAt": "2025-03-12T14:01:14.847Z",
+    "content": {
+      "hint": "ổ___n",
+      "word": "ổn định",
+      "sentence": "Tình hình đã ___ hơn trước.",
+      "translation": {
+        "en": "The situation has stabilized more than before."
+      },
+      "choices": [
+        "ổn định",
+        "khó khăn",
+        "thay đổi"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "stabilized"
+      },
+      "answer": "ổn định"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "28cc3402-b2a1-49b7-b097-68d7d3e991dc"
+  },
+  "word": "ổn định",
+  "_id": "Ixud9xRfGyYxHb4ziXGj"
+}

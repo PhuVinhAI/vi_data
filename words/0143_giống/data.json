@@ -1,0 +1,99 @@
+{
+  "rank": 143,
+  "notes": "Giống means similar or to resemble. It’s used when two things or people look alike or share the same features.\n\nIt can act like an adjective or a verb. You can say two things giống nhau (similar to each other) or say someone/something giống + a person/thing.\n\nCommon stronger form: giống hệt = almost exactly the same.  \nOpposite: khác (different). Similar but more formal: tương tự.",
+  "definition": "similar",
+  "exampleSentences": [
+    "Anh thấy hai chiếc áo này màu sắc rất giống nhau.",
+    "Em có nhận ra giọng nói của chị ấy rất giống mẹ không?",
+    "Chị nghĩ món ăn này không giống món ở nhà hàng lắm."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "cd8e64d1-a1ea-4dfc-8b1f-8aca9ad33433",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "She is similar to being very smart."
+      },
+      "word": "giống",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "similar"
+      },
+      "answer": "giống",
+      "choices": [],
+      "sentence": "Cô ấy ___ rất thông minh."
+    },
+    "updatedAt": "2025-03-12T15:50:51.705Z",
+    "createdAt": "2025-03-12T15:50:51.705Z"
+  },
+  "choices": [
+    "giống",
+    "khác",
+    "mới"
+  ],
+  "updatedAt": "2026-03-03T06:34:44.510Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "giống",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "similar",
+      "en": "similar",
+      "vi": "giống"
+    },
+    "example": {
+      "es": "Este árbol es similar a ese árbol.",
+      "en": "This tree is similar to that tree.",
+      "vi": "Cây này giống cây kia."
+    },
+    "definitions": {
+      "en": "Similar or alike.",
+      "es": "Similar o parecido.",
+      "vi": "Giống nhau hoặc tương tự."
+    },
+    "createdAt": "2025-01-28T14:15:43.748Z"
+  },
+  "exampleSentencesTranslated": [
+    "I think the colors of these two shirts are very similar.",
+    "Do you notice her voice is very similar to mom's?",
+    "I think this dish is not very similar to the one at the restaurant."
+  ],
+  "notes_md": "**Giống** means *similar* or *to resemble*. It’s used when two things or people look alike or share the same features.\n\nIt can act like an adjective or a verb. You can say two things **giống nhau** (similar to each other) or say someone/something **giống** + a person/thing.\n\n\nCommon stronger form: **giống hệt** = almost exactly the same.  \nOpposite: **khác** (different). Similar but more formal: **tương tự**.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "3e142b63-f45d-4e03-bf59-63cd7cbbd861",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We are similar in many aspects."
+      },
+      "word": "giống",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "similar"
+      },
+      "answer": "giống",
+      "sentence": "Chúng ta ___ nhau ở nhiều điểm.",
+      "choices": [
+        "khác",
+        "giống",
+        "mới"
+      ],
+      "hint": "g___n"
+    },
+    "updatedAt": "2025-03-12T15:50:51.705Z",
+    "createdAt": "2025-03-12T15:50:51.705Z"
+  },
+  "_id": "jlVUQikfxawdZ66XZxnL"
+}

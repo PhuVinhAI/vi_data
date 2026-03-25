@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:27:03.616Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:27:03.616Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "kèm",
+      "translatedAnswer": {
+        "en": "tutor"
+      },
+      "translation": {
+        "en": "I will tutor you in studying."
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ bạn trong học tập.",
+      "word": "kèm",
+      "choices": []
+    },
+    "id": "d1c22a63-6e1c-43f9-8988-33c3022debae"
+  },
+  "exampleSentencesTranslated": [
+    "Please send me the contract with the new price list today.",
+    "I want to order pho with iced tea; can you place it for me?",
+    "I study Vietnamese with listening to music every night to remember longer."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một từ được sử dụng để chỉ một cái gì đó đi kèm hoặc được thêm vào cái khác.",
+      "es": "Una palabra utilizada para indicar algo que acompaña o se añade a otra cosa.",
+      "en": "A word used to indicate something that accompanies or is added to something else."
+    },
+    "example": {
+      "en": "I want a cake with cream.",
+      "vi": "Tôi muốn một cái bánh kèm kem.",
+      "es": "Quiero un pastel con crema."
+    },
+    "translations": {
+      "en": "with",
+      "es": "con",
+      "vi": "kèm"
+    },
+    "createdAt": "2025-01-28T13:01:51.855Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "with",
+  "notes": "kèm means “with” in the sense of accompanied by or included together. It’s used when one thing comes together with another.\n\nIt often links two nouns, where the second thing is extra or added on. You’ll see it a lot with food, drinks, documents, or extra items.\n\nVery common pattern is kèm theo, which sounds a bit more formal and means “attached” or “included along with.”  \n\nClose in meaning to cùng (với), but kèm feels more like something extra added on, not just two things happening together.",
+  "exampleSentences": [
+    "Chị gửi cho em hợp đồng kèm bảng giá mới hôm nay nhé.",
+    "Anh muốn gọi phở kèm trà đá, em đặt giúp anh được không?",
+    "Em học tiếng Việt kèm nghe nhạc mỗi tối để nhớ lâu."
+  ],
+  "updatedAt": "2026-03-03T08:52:52.846Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:03.616Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "kèm",
+      "sentence": "Tôi sẽ ___ bạn trong học tập.",
+      "language": "vi",
+      "choices": [
+        "dạy",
+        "kèm",
+        "hỗ trợ"
+      ],
+      "answer": "kèm",
+      "hint": "k___",
+      "translation": {
+        "en": "I will tutor you in studying."
+      },
+      "translatedAnswer": {
+        "en": "tutor"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:03.616Z",
+    "id": "1906d3df-66ad-4862-9b7a-87ad5dbec4d3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1469,
+  "choices": [
+    "dạy",
+    "kèm",
+    "học"
+  ],
+  "notes_md": "**kèm** means “with” in the sense of *accompanied by* or *included together*. It’s used when one thing comes together with another.\n\nIt often links two nouns, where the second thing is extra or added on. You’ll see it a lot with food, drinks, documents, or extra items.\n\nVery common pattern is **kèm theo**, which sounds a bit more formal and means “attached” or “included along with.”  \n\n\nClose in meaning to **cùng (với)**, but **kèm** feels more like something extra added on, not just two things happening together.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "kèm",
+  "_id": "eHcJvOqhT8n8TXUkolqz"
+}

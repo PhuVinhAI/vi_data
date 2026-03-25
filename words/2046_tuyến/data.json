@@ -1,0 +1,99 @@
+{
+  "rank": 2046,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A line or path along which something moves or is arranged.",
+      "es": "Una línea o camino a lo largo del cual algo se mueve o se organiza.",
+      "vi": "Một đường hoặc lối đi mà cái gì đó di chuyển hoặc được sắp xếp."
+    },
+    "translations": {
+      "en": "route",
+      "vi": "tuyến",
+      "es": "ruta"
+    },
+    "createdAt": "2025-01-28T11:55:35.011Z",
+    "example": {
+      "es": "Esta ruta es muy hermosa.",
+      "vi": "Tuyến đường này rất đẹp.",
+      "en": "This route is very beautiful."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh biết tuyến xe buýt nào đi đến trung tâm thành phố không?",
+    "Ngày mai chị sẽ đi làm theo tuyến mới để tránh kẹt xe.",
+    "Em thường chọn tuyến ngắn nhất để về nhà sau giờ học."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Tuyến** means a route or line — a fixed path that transport follows. Think bus lines, flight routes, train lines.\n\nIt’s a noun, and you can count it directly: *một tuyến, hai tuyến*. Very common pairings: *tuyến xe buýt, tuyến đường, tuyến tàu, tuyến bay, tuyến metro*. It often implies an organized, official route (more fixed than just *đường*).\n\nIt also commonly means **gland** in medical contexts (*tuyến giáp* = thyroid gland), so watch the context.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tuyến",
+  "multiChoiceQuiz": {
+    "id": "b9a22fa2-80e0-4a06-882b-08b0cb4c025e",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "route"
+      },
+      "answer": "tuyến",
+      "word": "tuyến",
+      "hint": "t__n",
+      "sentence": "Chúng ta cần tìm ___ tốt nhất.",
+      "translation": {
+        "en": "We need to find the best route."
+      },
+      "language": "vi",
+      "choices": [
+        "đường",
+        "tuyến",
+        "hướng"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:19:04.275Z",
+    "createdAt": "2025-03-12T14:19:04.275Z"
+  },
+  "fillBlankQuiz": {
+    "id": "83df7b51-e8e2-42df-85ce-0bce45dfa029",
+    "content": {
+      "sentence": "Chúng ta cần tìm ___ tốt nhất.",
+      "word": "tuyến",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need to find the best route."
+      },
+      "answer": "tuyến",
+      "translatedAnswer": {
+        "en": "route"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:19:04.275Z",
+    "createdAt": "2025-03-12T14:19:04.275Z"
+  },
+  "definition": "route",
+  "choices": [
+    "tuyến",
+    "bến",
+    "trạm"
+  ],
+  "updatedAt": "2026-03-03T09:54:33.566Z",
+  "exampleSentencesTranslated": [
+    "Do you know which bus route goes to the city center?",
+    "Tomorrow I will take a new route to work to avoid traffic jams.",
+    "I usually choose the shortest route to go home after school."
+  ],
+  "notes": "Tuyến means a route or line — a fixed path that transport follows. Think bus lines, flight routes, train lines.\n\nIt’s a noun, and you can count it directly: một tuyến, hai tuyến. Very common pairings: tuyến xe buýt, tuyến đường, tuyến tàu, tuyến bay, tuyến metro. It often implies an organized, official route (more fixed than just đường).\n\nIt also commonly means gland in medical contexts (tuyến giáp = thyroid gland), so watch the context.",
+  "_id": "MqjEem3TjnkBqTGHIHgO"
+}

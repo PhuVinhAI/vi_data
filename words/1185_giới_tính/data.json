@@ -1,0 +1,99 @@
+{
+  "word": "giới tính",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1185,
+  "choices": [
+    "giới tính",
+    "quốc tịch",
+    "nghề nghiệp"
+  ],
+  "notes_md": "**Giới tính** means *gender* — usually male, female, etc. It’s a noun.\n\nYou’ll often see it with verbs like **xác định**, **thay đổi**, **tiết lộ**, **phân biệt**. It commonly appears in forms or surveys.\n\nIt’s usually uncountable in daily use (no classifier needed), but you can say **các giới tính** when talking about multiple gender categories.\n\nClose words: **giống** (older, more biological feeling) and **phái** (more formal, like *phái nam / phái nữ*).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:58.345Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:58.345Z",
+    "content": {
+      "word": "giới tính",
+      "sentence": "Con tôi đang tìm hiểu về ___.",
+      "language": "vi",
+      "choices": [
+        "giới tính",
+        "đặc tính",
+        "nhân tính"
+      ],
+      "hint": "g___t",
+      "answer": "giới tính",
+      "translation": {
+        "en": "My child is learning about gender."
+      },
+      "translatedAnswer": {
+        "en": "gender"
+      }
+    },
+    "id": "5cf93892-f6eb-42f2-b9c4-8f25149b58b5"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em muốn biết trong lớp mình có bao nhiêu giới tính khác nhau.",
+    "Khi điền vào mẫu đơn, anh cần chọn giới tính của mình.",
+    "Nghiên cứu này tập trung vào sự khác biệt giữa các giới tính."
+  ],
+  "updatedAt": "2026-03-03T08:21:52.223Z",
+  "notes": "Giới tính means gender — usually male, female, etc. It’s a noun.\n\nYou’ll often see it with verbs like xác định, thay đổi, tiết lộ, phân biệt. It commonly appears in forms or surveys.\n\nIt’s usually uncountable in daily use (no classifier needed), but you can say các giới tính when talking about multiple gender categories.\n\nClose words: giống (older, more biological feeling) and phái (more formal, like phái nam / phái nữ).",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:02:38.266Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "giới tính",
+      "es": "género",
+      "en": "gender"
+    },
+    "example": {
+      "en": "The gender of children is often determined at birth.",
+      "es": "El género de los niños a menudo se determina al nacer.",
+      "vi": "Giới tính của trẻ em thường được xác định từ khi sinh."
+    },
+    "definitions": {
+      "vi": "Phân loại cá nhân thành nam hoặc nữ dựa trên các đặc điểm sinh học hoặc xã hội.",
+      "es": "La clasificación de individuos como masculinos o femeninos basada en características biológicas o sociales.",
+      "en": "The classification of individuals as male or female based on biological or social characteristics."
+    }
+  },
+  "definition": "gender",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:27:58.345Z",
+    "id": "49760cca-84a0-4e3a-b50a-c8cd0faeade7",
+    "createdAt": "2025-03-12T15:27:58.345Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "giới tính",
+      "sentence": "Có nhiều loại ___ khác nhau.",
+      "language": "vi",
+      "translation": {
+        "en": "There are many different types of gender."
+      },
+      "translatedAnswer": {
+        "en": "gender"
+      },
+      "answer": "giới tính"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I want to know how many different gender are in our class.",
+    "When filling out the form, you need to choose your gender.",
+    "This research focuses on the differences between gender."
+  ],
+  "_id": "eSFm9gTsEDJZ1bANMGsk"
+}

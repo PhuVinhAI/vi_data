@@ -1,0 +1,99 @@
+{
+  "definition": "subject",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "môn",
+      "answer": "môn",
+      "translation": {
+        "en": "I like to study this subject."
+      },
+      "sentence": "Tôi thích học ___ này.",
+      "translatedAnswer": {
+        "en": "subject"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:44:39.124Z",
+    "createdAt": "2025-03-12T14:44:39.124Z",
+    "id": "f705c3ea-fe9f-4597-ac89-e9226aa1e057",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**môn** = a school subject (like math, history, English).  \n\nIt’s a noun. You count it directly: *một môn, hai môn*. Often used as **môn học** (school subject).  \n\nIt’s also very common for sports or disciplines: **môn thể thao**, **môn võ** (a martial art).  \n\n\nThink: *môn* = any organized field you study or practice.",
+  "exampleSentences": [
+    "Em thích học môn Toán hơn các môn khác ở trường.",
+    "Anh đã chọn môn tiếng Anh để cải thiện kỹ năng giao tiếp của mình.",
+    "Mỗi học sinh cần đăng ký ít nhất ba môn cho học kỳ này."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "materia",
+      "vi": "môn",
+      "en": "subject"
+    },
+    "createdAt": "2025-01-28T12:18:48.624Z",
+    "definitions": {
+      "en": "A subject or discipline of study.",
+      "vi": "Một môn học hoặc lĩnh vực nghiên cứu.",
+      "es": "Una materia o disciplina de estudio."
+    },
+    "example": {
+      "en": "This subject is very interesting.",
+      "vi": "Môn học này rất thú vị.",
+      "es": "Esta materia es muy interesante."
+    }
+  },
+  "notes": "môn = a school subject (like math, history, English).  \n\nIt’s a noun. You count it directly: một môn, hai môn. Often used as môn học (school subject).  \n\nIt’s also very common for sports or disciplines: môn thể thao, môn võ (a martial art).  \n\nThink: môn = any organized field you study or practice.",
+  "choices": [
+    "môn",
+    "lớp",
+    "bài"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:52:59.275Z",
+  "exampleSentencesTranslated": [
+    "I prefer studying the subject Math over other subjects at school.",
+    "I chose the subject English to improve my communication skills.",
+    "Each student needs to register for at least three subjects this semester."
+  ],
+  "rank": 1470,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:44:39.124Z",
+    "id": "bcdfcd97-1af9-459c-ab24-240a438afdf4",
+    "content": {
+      "translatedAnswer": {
+        "en": "subject"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích học ___ này.",
+      "word": "môn",
+      "choices": [
+        "môn",
+        "môns",
+        "MÔN"
+      ],
+      "translation": {
+        "en": "I like to study this subject."
+      },
+      "answer": "môn",
+      "hint": "m___n"
+    },
+    "updatedAt": "2025-03-12T14:44:39.124Z"
+  },
+  "word": "môn",
+  "_id": "SsPydEOcI5LDsRYW7O1C"
+}

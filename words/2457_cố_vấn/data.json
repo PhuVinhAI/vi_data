@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:37:33.495Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2457,
+  "exampleSentencesTranslated": [
+    "He is the advisor of my group in this project.",
+    "She wants to meet the advisor to ask for career advice.",
+    "Each student has an advisor who helps with studying at school."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "817ad193-f191-440e-a2fa-0d872c8d139a",
+    "createdAt": "2025-03-12T14:26:33.180Z",
+    "content": {
+      "word": "cố vấn",
+      "choices": [
+        "cố vấn",
+        "học sinh",
+        "giáo viên"
+      ],
+      "hint": "c___n",
+      "translation": {
+        "en": "She is my advisor."
+      },
+      "answer": "cố vấn",
+      "sentence": "Cô ấy là ___ của tôi.",
+      "translatedAnswer": {
+        "en": "advisor"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:26:33.180Z"
+  },
+  "word": "cố vấn",
+  "notes": "cố vấn = advisor; someone who gives expert advice and guidance. Often used for professional, academic, business, or political contexts.\n\nIt’s a countable noun: một cố vấn, các cố vấn.  \nCommon pairings: cố vấn tài chính, cố vấn pháp lý, cố vấn học tập, cố vấn chiến lược.  \n\nClose word: tư vấn (to advise / consultation) — cố vấn is the person, tư vấn is the action or service.",
+  "choices": [
+    "giáo viên",
+    "cố vấn",
+    "bác sĩ"
+  ],
+  "exampleSentences": [
+    "Anh ấy là cố vấn của nhóm em trong dự án này.",
+    "Chị muốn gặp cố vấn để xin lời khuyên về nghề nghiệp.",
+    "Mỗi sinh viên đều có một cố vấn hỗ trợ học tập ở trường."
+  ],
+  "notes_md": "**cố vấn** = advisor; someone who gives expert advice and guidance. Often used for professional, academic, business, or political contexts.\n\nIt’s a countable noun: *một cố vấn, các cố vấn*.  \nCommon pairings: *cố vấn tài chính, cố vấn pháp lý, cố vấn học tập, cố vấn chiến lược*.  \n\nClose word: **tư vấn** (to advise / consultation) — *cố vấn* is the person, *tư vấn* is the action or service.",
+  "flashcard": {
+    "translations": {
+      "vi": "cố vấn",
+      "en": "advisor",
+      "es": "asesor"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Él es un buen asesor en la empresa.",
+      "en": "He is a good advisor in the company.",
+      "vi": "Ông ấy là một cố vấn giỏi trong công ty."
+    },
+    "createdAt": "2025-01-28T12:02:40.598Z",
+    "definitions": {
+      "en": "A person who gives advice, typically in a professional context.",
+      "vi": "Một người đưa ra lời khuyên, thường trong bối cảnh chuyên nghiệp.",
+      "es": "Una persona que da consejos, típicamente en un contexto profesional."
+    }
+  },
+  "definition": "advisor",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:26:33.180Z",
+    "content": {
+      "choices": [],
+      "word": "cố vấn",
+      "translation": {
+        "en": "I want to meet my advisor."
+      },
+      "answer": "cố vấn",
+      "sentence": "Tôi muốn gặp ___ của mình.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "advisor"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "57aa2a3a-3f75-48ca-8f66-46b08fae424c",
+    "createdAt": "2025-03-12T14:26:33.180Z"
+  },
+  "_id": "Oo7yWg4dlvAGs5h9PUF8"
+}

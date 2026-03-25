@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A fraction representing one part of two equal parts.",
+      "vi": "Một phân số đại diện cho một phần trong hai phần bằng nhau.",
+      "es": "Una fracción que representa una parte de dos partes iguales."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "mitad",
+      "vi": "một nửa",
+      "en": "half"
+    },
+    "createdAt": "2025-01-28T11:30:21.969Z",
+    "example": {
+      "vi": "Tôi đã ăn một nửa chiếc bánh.",
+      "es": "Comí la mitad del pastel.",
+      "en": "I ate half of the cake."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I only ate half the bread this morning.",
+    "Do you want to share half the pizza with me?",
+    "I have finished reading half this book already."
+  ],
+  "notes_md": "**một nửa** means *half* — 50% of something.\n\nIt’s a quantity phrase used before a noun, or after a noun to show division. It often refers to a specific whole (one half of that thing), not just “half” in general.\n\n\nRelated word: **nửa** = half, but shorter and more general (like *nửa giờ* = half an hour). **một nửa** feels more exact or emphasizes “one of two equal parts.”",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:52:30.071Z",
+    "content": {
+      "translation": {
+        "en": "She has completed half of the work."
+      },
+      "answer": "một nửa",
+      "hint": "m___ n____",
+      "choices": [
+        "một nửa",
+        "một phần",
+        "một lần"
+      ],
+      "word": "một nửa",
+      "sentence": "Cô ấy đã hoàn thành ___ công việc.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "half"
+      }
+    },
+    "updatedAt": "2025-03-12T13:52:30.071Z",
+    "id": "f42422c2-7d4c-4688-a895-0215e3791762",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T10:40:19.642Z",
+  "notes": "một nửa means half — 50% of something.\n\nIt’s a quantity phrase used before a noun, or after a noun to show division. It often refers to a specific whole (one half of that thing), not just “half” in general.\n\nRelated word: nửa = half, but shorter and more general (like nửa giờ = half an hour). một nửa feels more exact or emphasizes “one of two equal parts.”",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "078d2498-57a1-4cbb-90a9-4ac897e533cc",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I only eat half of the cake."
+      },
+      "answer": "một nửa",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi chỉ ăn ___ bánh.",
+      "word": "một nửa",
+      "translatedAnswer": {
+        "en": "half"
+      }
+    },
+    "createdAt": "2025-03-12T13:52:30.071Z",
+    "updatedAt": "2025-03-12T13:52:30.071Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "một nửa",
+    "một chút",
+    "một lần"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "half",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em chỉ ăn một nửa chiếc bánh mì vào buổi sáng nay.",
+    "Anh muốn chia một nửa cái bánh pizza với em không?",
+    "Chị đã đọc xong một nửa cuốn sách này rồi."
+  ],
+  "rank": 2483,
+  "word": "một nửa",
+  "_id": "GRD4iz4hTHxMx8SqU7wH"
+}

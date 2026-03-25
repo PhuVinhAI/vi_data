@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:26:34.737Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "8f97ef79-2524-4102-b76b-647fd9cb2689",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:51:47.244Z",
+    "content": {
+      "word": "hà nội",
+      "sentence": "Tôi đã đến ___ một lần.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "Hanoi"
+      },
+      "translation": {
+        "en": "I have been to Hanoi once."
+      },
+      "answer": "hà nội",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:51:47.244Z"
+  },
+  "notes": "Hà Nội is the capital city of Vietnam. It’s a proper noun, so both words are capitalized.\n\nYou don’t use a classifier with it. It often follows prepositions like ở (in/at), đến (to), or từ (from).\n\nIt’s commonly paired with words like thủ đô (capital) or miền Bắc (the North), since Hà Nội is the political and cultural center of northern Vietnam.\n\nThink: Hà Nội = the capital of Vietnam — similar to how you’d say “London” or “Paris” in English.",
+  "exampleSentencesTranslated": [
+    "I visited Hanoi last autumn and really liked this place.",
+    "She wants to visit the famous historical sites in Hanoi.",
+    "My friend lives in Hanoi so I often visit on weekends."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Hà Nội là thủ đô của Việt Nam.",
+      "es": "Hanoi es la capital de Vietnam.",
+      "en": "Hanoi is the capital of Vietnam."
+    },
+    "createdAt": "2025-01-28T11:29:39.276Z",
+    "translations": {
+      "en": "Hanoi",
+      "vi": "Hà Nội",
+      "es": "Hanoi"
+    },
+    "definitions": {
+      "es": "Hanoi es la ciudad capital de Vietnam, conocida por su rica historia y cultura.",
+      "vi": "Hà Nội là thành phố thủ đô của Việt Nam, nổi tiếng với lịch sử và văn hóa phong phú.",
+      "en": "Hanoi is the capital city of Vietnam, known for its rich history and culture."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "id": "002089ad-f765-48e6-a83b-165472c7ba69",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:51:47.244Z",
+    "content": {
+      "translation": {
+        "en": "I want to go to Hanoi in the summer."
+      },
+      "answer": "hà nội",
+      "choices": [
+        "hà nội",
+        "đà nẵng",
+        "hải phòng"
+      ],
+      "hint": "h___i",
+      "sentence": "Tôi muốn đi ___ vào mùa hè.",
+      "word": "hà nội",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "Hanoi"
+      }
+    },
+    "updatedAt": "2025-03-12T13:51:47.244Z"
+  },
+  "notes_md": "**Hà Nội** is the capital city of Vietnam. It’s a proper noun, so both words are capitalized.\n\nYou don’t use a classifier with it. It often follows prepositions like **ở** (in/at), **đến** (to), or **từ** (from).\n\nIt’s commonly paired with words like **thủ đô** (capital) or **miền Bắc** (the North), since Hà Nội is the political and cultural center of northern Vietnam.\n\nThink: *Hà Nội = the capital of Vietnam* — similar to how you’d say “London” or “Paris” in English.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sài gòn",
+    "hà nội",
+    "đà nẵng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 648,
+  "exampleSentences": [
+    "Anh đã đến hà nội vào mùa thu năm ngoái và rất thích nơi này.",
+    "Chị muốn tham quan các di tích lịch sử nổi tiếng ở hà nội.",
+    "Bạn em sống ở hà nội nên em thường đến thăm vào dịp cuối tuần."
+  ],
+  "word": "hà nội",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "Hanoi",
+  "_id": "GF6wVr2J6WxvWdiWBOm8"
+}

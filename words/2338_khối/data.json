@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "khối",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "khối",
+      "hint": "k___",
+      "translatedAnswer": {
+        "en": "block"
+      },
+      "translation": {
+        "en": "We want to buy a large block."
+      },
+      "sentence": "Chúng tôi muốn mua một ___ lớn.",
+      "language": "vi",
+      "word": "khối",
+      "choices": [
+        "khối",
+        "viên",
+        "gói"
+      ]
+    },
+    "createdAt": "2025-03-12T13:19:53.313Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "1d90b426-e3b8-4c3b-a326-93fe01595ba2",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:19:53.313Z"
+  },
+  "rank": 2338,
+  "choices": [
+    "khói",
+    "khối",
+    "khởi"
+  ],
+  "notes_md": "**khối** = a block, a solid chunk (like a cube or a big solid piece of something). It’s used for physical blocks, but also for volume (like a cubic meter).\n\nIt’s a noun. You can say *một khối, hai khối* when counting, or use it before a noun to show volume.  \n\nIt can also mean a big mass of something (khối đá, khối bê tông). Close words: **cục** (smaller lump), **tảng** (bigger chunk).",
+  "notes": "khối = a block, a solid chunk (like a cube or a big solid piece of something). It’s used for physical blocks, but also for volume (like a cubic meter).\n\nIt’s a noun. You can say một khối, hai khối when counting, or use it before a noun to show volume.  \n\nIt can also mean a big mass of something (khối đá, khối bê tông). Close words: cục (smaller lump), tảng (bigger chunk).",
+  "exampleSentences": [
+    "Em vừa mua một khối để xây mô hình trong lớp học.",
+    "Anh thấy có một khối màu đỏ ở góc phòng kia.",
+    "Chị dùng khối này để làm bài tập toán hôm qua."
+  ],
+  "updatedAt": "2026-03-03T10:25:54.603Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:19:53.313Z",
+    "content": {
+      "answer": "khối",
+      "translation": {
+        "en": "She is holding a block that is red."
+      },
+      "translatedAnswer": {
+        "en": "block"
+      },
+      "word": "khối",
+      "sentence": "Cô ấy cầm một ___ màu đỏ.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "2bb0a267-0c22-4af2-be04-3b752d150b84",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:19:53.313Z"
+  },
+  "exampleSentencesTranslated": [
+    "I just bought a block to build a model in class.",
+    "I see a red block in that corner of the room.",
+    "She used this block to do her math homework yesterday."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một hình khối rắn có ba chiều; một hình dạng hình học.",
+      "es": "Una figura sólida con tres dimensiones; una forma geométrica.",
+      "en": "A solid figure with three dimensions; a geometric shape."
+    },
+    "example": {
+      "en": "I bought a block of ice.",
+      "vi": "Tôi đã mua một khối băng.",
+      "es": "Compré un bloque de hielo."
+    },
+    "translations": {
+      "en": "block",
+      "vi": "khối",
+      "es": "bloque"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:00:13.010Z"
+  },
+  "definition": "block",
+  "_id": "8K2tC4nYkPO7f6V3qMan"
+}

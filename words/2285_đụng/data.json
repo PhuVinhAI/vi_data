@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "This morning I bump into an old friend at the supermarket.",
+    "I don't want to bump into a car when driving in a crowded city.",
+    "She bump into the table and her leg hurt a little."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:21:23.027Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:21:23.027Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "đụng",
+      "translation": {
+        "en": "I don't want to touch you."
+      },
+      "translatedAnswer": {
+        "en": "touch"
+      },
+      "word": "đụng",
+      "sentence": "Tôi không muốn ___ vào bạn.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "2a338c94-c4e7-49e7-aaec-850c438cb175"
+  },
+  "flashcard": {
+    "example": {
+      "en": "I bumped into the table.",
+      "vi": "Tôi đã đụng vào cái bàn.",
+      "es": "Me choqué con la mesa."
+    },
+    "definitions": {
+      "en": "To touch or collide with something.",
+      "vi": "Chạm hoặc va chạm với một cái gì đó.",
+      "es": "Tocar o chocar con algo."
+    },
+    "createdAt": "2025-01-28T12:56:13.409Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "bump",
+      "vi": "đụng",
+      "es": "chocar"
+    }
+  },
+  "definition": "bump into",
+  "notes": "đụng = to bump into or hit something, usually by accident. It can also mean to touch something with contact.\n\nYou use it with objects or people: đụng người, đụng xe, đụng tường. It often implies accidental contact, not intentional.\n\nIt can also mean “to touch” in the sense of handling something, especially in warnings. With abstract things, it can mean “to mess with” or “get involved in.”\n\nClose synonym: va (vào) = collide with (a bit more physical/impact-focused).",
+  "updatedAt": "2026-03-03T10:20:09.653Z",
+  "exampleSentences": [
+    "Sáng nay em đụng một người bạn cũ ở siêu thị.",
+    "Anh không muốn đụng xe khi lái trong thành phố đông đúc.",
+    "Chị đã đụng cái bàn và bị đau chân một chút."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:21:23.027Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "đụng",
+      "hint": "đ___",
+      "translatedAnswer": {
+        "en": "touch"
+      },
+      "translation": {
+        "en": "I don't want to touch you."
+      },
+      "sentence": "Tôi không muốn ___ vào bạn.",
+      "language": "vi",
+      "word": "đụng",
+      "choices": [
+        "chạm",
+        "đụng",
+        "va chạm"
+      ]
+    },
+    "createdAt": "2025-03-12T15:21:23.027Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e7a02806-6a3a-4e5d-b500-7c550f674d1a"
+  },
+  "notes_md": "**đụng** = to bump into or hit something, usually by accident. It can also mean to touch something with contact.\n\nYou use it with objects or people: đụng người, đụng xe, đụng tường. It often implies accidental contact, not intentional.\n\nIt can also mean “to touch” in the sense of handling something, especially in warnings. With abstract things, it can mean “to mess with” or “get involved in.”\n\n\nClose synonym: **va (vào)** = collide with (a bit more physical/impact-focused).",
+  "rank": 2285,
+  "choices": [
+    "đụng",
+    "đứng",
+    "đúng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đụng",
+  "_id": "cgbIAzhamqRtsXzZDR8I"
+}

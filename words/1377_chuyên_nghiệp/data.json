@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chuyên nghiệp",
+    "tự nhiên",
+    "truyền thống"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "professional",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "chuyên nghiệp",
+  "rank": 1377,
+  "exampleSentences": [
+    "Anh ấy làm việc rất chuyên nghiệp trong mọi tình huống.",
+    "Chị muốn trở thành một nhiếp ảnh gia chuyên nghiệp trong tương lai.",
+    "Dịch vụ ở nhà hàng này rất chuyên nghiệp và thân thiện với khách hàng."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b8bfa85a-f649-4115-886c-576a1077e060",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "chuyên nghiệp",
+        "hài lòng",
+        "năng động"
+      ],
+      "hint": "c___n",
+      "translation": {
+        "en": "They always work very professionally."
+      },
+      "answer": "chuyên nghiệp",
+      "translatedAnswer": {
+        "en": "professionally"
+      },
+      "language": "vi",
+      "sentence": "Họ luôn làm việc rất ___.",
+      "word": "chuyên nghiệp"
+    },
+    "createdAt": "2025-03-12T13:47:00.339Z",
+    "updatedAt": "2025-03-12T13:47:00.339Z"
+  },
+  "notes_md": "**Chuyên nghiệp** means *professional* — doing something with skill, training, and the right attitude. It describes how a person works or how a service/activity is done.\n\nIt’s an adjective, so it usually comes after the noun: *phong cách chuyên nghiệp, tác phong chuyên nghiệp*. You’ll often see it with **rất / cực kỳ / khá** to show level.\n\nIt can describe people, behavior, services, work style, or attitude. Strong opposite: **nghiệp dư** (amateur). A close synonym is **bài bản** (well-trained, systematic), but *chuyên nghiệp* sounds broader and more about overall professionalism.",
+  "flashcard": {
+    "definitions": {
+      "en": "Relating to a profession or a job that requires special training or skill.",
+      "es": "Relativo a una profesión o trabajo que requiere formación o habilidad especial.",
+      "vi": "Liên quan đến một nghề nghiệp hoặc công việc đòi hỏi đào tạo hoặc kỹ năng đặc biệt."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "profesional",
+      "vi": "chuyên nghiệp",
+      "en": "professional"
+    },
+    "createdAt": "2025-01-28T11:25:27.943Z",
+    "example": {
+      "vi": "Anh ấy làm việc rất chuyên nghiệp.",
+      "es": "Él trabaja de manera muy profesional.",
+      "en": "He works very professionally."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He works in a very professional way in every situation.",
+    "She wants to become a professional photographer in the future.",
+    "The service at this restaurant is very professional and friendly to customers."
+  ],
+  "notes": "Chuyên nghiệp means professional — doing something with skill, training, and the right attitude. It describes how a person works or how a service/activity is done.\n\nIt’s an adjective, so it usually comes after the noun: phong cách chuyên nghiệp, tác phong chuyên nghiệp. You’ll often see it with rất / cực kỳ / khá to show level.\n\nIt can describe people, behavior, services, work style, or attitude. Strong opposite: nghiệp dư (amateur). A close synonym is bài bản (well-trained, systematic), but chuyên nghiệp sounds broader and more about overall professionalism.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:47:00.339Z",
+    "createdAt": "2025-03-12T13:47:00.339Z",
+    "content": {
+      "sentence": "Công ty này rất ___ trong ngành.",
+      "word": "chuyên nghiệp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "professional"
+      },
+      "translation": {
+        "en": "This company is very professional in the industry."
+      },
+      "answer": "chuyên nghiệp",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "f41287cb-0a2f-4306-8c33-fd1231d9cc5f",
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T08:43:16.216Z",
+  "_id": "FDyVW3Z79fuekuk18ot8"
+}

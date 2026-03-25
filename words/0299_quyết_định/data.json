@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đã suy nghĩ rất lâu trước khi đưa ra quyết định này.",
+    "Chị cảm thấy hài lòng với quyết định của mình về công việc mới.",
+    "Em muốn hỏi ý kiến mọi người trước khi đưa ra quyết định cuối cùng."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "0705b6b0-ea6e-4171-962c-27670eb00cbc",
+    "content": {
+      "translatedAnswer": {
+        "en": "decide"
+      },
+      "answer": "quyết định",
+      "sentence": "Bạn cần ___ ngay bây giờ.",
+      "choices": [],
+      "translation": {
+        "en": "You need to decide right now."
+      },
+      "word": "quyết định",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:44:35.563Z",
+    "createdAt": "2025-03-12T15:44:35.563Z"
+  },
+  "choices": [
+    "quyết định",
+    "khởi hành",
+    "thảo luận"
+  ],
+  "rank": 299,
+  "definition": "decision",
+  "notes": "quyết định = decision. It can also mean to decide (same word, used as a verb).\n\nAs a noun, it’s countable: một quyết định, nhiều quyết định. Very common with đưa ra quyết định (to make a decision) and ra quyết định. You’ll often see quyết định của + someone (someone’s decision).\n\nAs a verb, it goes before another verb: quyết định + V (Structure: quyết định nghỉ việc, quyết định mua nhà).  \n\nClose synonym: lựa chọn (choice) – but lựa chọn is more about options, while quyết định is the final call.",
+  "notes_md": "**quyết định** = decision. It can also mean **to decide** (same word, used as a verb).\n\nAs a **noun**, it’s countable: *một quyết định, nhiều quyết định*. Very common with **đưa ra quyết định** (to make a decision) and **ra quyết định**. You’ll often see **quyết định của + someone** (someone’s decision).\n\nAs a **verb**, it goes before another verb: **quyết định + V** (Structure: quyết định nghỉ việc, quyết định mua nhà).  \n\nClose synonym: **lựa chọn** (choice) – but *lựa chọn* is more about options, while *quyết định* is the final call.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a2e7719e-23f0-4934-a64c-189060b7ecf8",
+    "content": {
+      "hint": "q______n",
+      "sentence": "Bạn cần ___ ngay bây giờ.",
+      "choices": [
+        "quyết định",
+        "quyết tâm",
+        "quyền lực"
+      ],
+      "translatedAnswer": {
+        "en": "decide"
+      },
+      "answer": "quyết định",
+      "language": "vi",
+      "translation": {
+        "en": "You need to decide right now."
+      },
+      "word": "quyết định"
+    },
+    "updatedAt": "2025-03-12T15:44:35.563Z",
+    "createdAt": "2025-03-12T15:44:35.563Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "es": "decisión",
+      "en": "decision",
+      "vi": "quyết định"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:17:15.890Z",
+    "definitions": {
+      "en": "A conclusion or resolution reached after consideration.",
+      "es": "Una conclusión o resolución alcanzada después de considerar.",
+      "vi": "Một kết luận hoặc quyết định được đưa ra sau khi xem xét."
+    },
+    "example": {
+      "vi": "Tôi đã đưa ra một quyết định quan trọng.",
+      "en": "I made an important decision.",
+      "es": "Tomé una decisión importante."
+    }
+  },
+  "word": "quyết định",
+  "updatedAt": "2026-03-03T06:51:26.922Z",
+  "exampleSentencesTranslated": [
+    "He thought for a long time before making this decision.",
+    "She feels satisfied with her decision about the new job.",
+    "I want to ask everyone’s opinion before making the final decision."
+  ],
+  "_id": "iHbeuaRdisDFiljPBMuB"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta cần ___ thử thách này.",
+      "word": "vượt",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need to overcome this challenge."
+      },
+      "answer": "vượt",
+      "translatedAnswer": {
+        "en": "overcome"
+      }
+    },
+    "id": "abb53177-bf72-4980-a5ce-b03e01495f10",
+    "createdAt": "2025-03-12T14:14:15.508Z",
+    "updatedAt": "2025-03-12T14:14:15.508Z"
+  },
+  "definition": "overcome",
+  "choices": [
+    "vượt",
+    "giữ",
+    "nhận"
+  ],
+  "updatedAt": "2026-03-03T07:16:56.595Z",
+  "exampleSentencesTranslated": [
+    "He had to overcome many difficulties to achieve success at work.",
+    "She always tries to overcome her own limits every day.",
+    "I believe the whole team will overcome all challenges ahead together."
+  ],
+  "notes": "vượt = to overcome or get past something difficult. It also very often means to surpass or exceed (a limit, number, level, person).\n\nYou use it with obstacles, limits, records, other people, or numbers.  \nCommon patterns: vượt + noun (vượt khó, vượt giới hạn), vượt qua + noun (a bit stronger, emphasizes getting through), vượt hơn + number (exceed a number).\n\nIt can mean “beat” or “outdo” someone in performance.  \nClose synonym: vượt qua (slightly fuller form).  \nOpposite idea: thua (lose to) or không đạt (not reach).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**vượt** = to overcome or get past something difficult. It also very often means to surpass or exceed (a limit, number, level, person).\n\nYou use it with obstacles, limits, records, other people, or numbers.  \nCommon patterns: **vượt + noun** (vượt khó, vượt giới hạn), **vượt qua + noun** (a bit stronger, emphasizes getting through), **vượt hơn + number** (exceed a number).\n\nIt can mean “beat” or “outdo” someone in performance.  \nClose synonym: **vượt qua** (slightly fuller form).  \nOpposite idea: **thua** (lose to) or **không đạt** (not reach).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "vượt",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "overcome"
+      },
+      "answer": "vượt",
+      "translation": {
+        "en": "They want to overcome difficulties."
+      },
+      "language": "vi",
+      "choices": [
+        "vượt",
+        "chạy",
+        "leo"
+      ],
+      "hint": "v__t",
+      "word": "vượt",
+      "sentence": "Họ muốn ___ qua khó khăn."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "4f93dbec-8b6f-48d3-9fd7-7b51eda6d89b",
+    "createdAt": "2025-03-12T14:14:15.508Z",
+    "updatedAt": "2025-03-12T14:14:15.508Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "He superado el examen difícil.",
+      "vi": "Tôi đã vượt qua bài kiểm tra khó khăn.",
+      "en": "I have passed the difficult exam."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:51:19.232Z",
+    "definitions": {
+      "en": "to surpass or overcome something",
+      "es": "superar o vencer algo",
+      "vi": "vượt qua hoặc vượt lên trên một cái gì đó"
+    },
+    "translations": {
+      "vi": "vượt",
+      "es": "superar",
+      "en": "to surpass"
+    }
+  },
+  "exampleSentences": [
+    "Anh đã phải vượt nhiều khó khăn để đạt được thành công trong công việc.",
+    "Chị ấy luôn cố gắng vượt giới hạn của bản thân mỗi ngày.",
+    "Em tin rằng cả nhóm sẽ cùng nhau vượt mọi thử thách phía trước."
+  ],
+  "rank": 547,
+  "_id": "Lf5FZIksOFw5ziP7rdbt"
+}

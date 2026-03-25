@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:57:31.160Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:53:09.890Z",
+    "content": {
+      "choices": [],
+      "answer": "chúng em",
+      "translation": {
+        "en": "We go to school together."
+      },
+      "translatedAnswer": {
+        "en": "we"
+      },
+      "sentence": "Chúng em ___ đi học cùng nhau.",
+      "word": "chúng em",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:53:09.890Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "a7161752-a3ff-43ec-9995-3449e1026c31"
+  },
+  "notes": "Chúng em = we (not including you), used when the speaker is younger than the listener. It shows respect toward someone older (teacher, parent, older person).\n\nIt’s a personal pronoun, so it replaces a subject like “we” in a sentence. The word em signals the speakers see themselves as younger/lower in status.\n\nCompare:\nchúng tôi = we (neutral, not including you)\nchúng ta = we (including you)\n\nIf you’re talking to a teacher about yourself and your classmates, chúng em is the natural choice.",
+  "exampleSentencesTranslated": [
+    "Tomorrow we will go on a picnic with the class.",
+    "The teacher always reminds we to study hard.",
+    "After class, we often play football in the schoolyard."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Un pronombre utilizado por un grupo de personas para referirse a sí mismos, típicamente usado por hablantes más jóvenes.",
+      "vi": "Một đại từ được sử dụng bởi một nhóm người để chỉ về chính họ, thường được sử dụng bởi những người nói trẻ tuổi.",
+      "en": "A pronoun used by a group of people to refer to themselves, typically used by younger speakers."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:30:56.964Z",
+    "example": {
+      "vi": "Chúng em sẽ đi chơi vào cuối tuần này.",
+      "es": "Nosotros saldremos este fin de semana.",
+      "en": "We will go out this weekend."
+    },
+    "translations": {
+      "en": "we (used by younger speakers)",
+      "es": "nosotros (usado por hablantes más jóvenes)",
+      "vi": "chúng em"
+    }
+  },
+  "notes_md": "**Chúng em** = *we* (not including you), used when the speaker is younger than the listener. It shows respect toward someone older (teacher, parent, older person).\n\nIt’s a personal pronoun, so it replaces a subject like “we” in a sentence. The word **em** signals the speakers see themselves as younger/lower in status.\n\nCompare:\n- **chúng tôi** = we (neutral, not including you)\n- **chúng ta** = we (including you)\n\nIf you’re talking to a teacher about yourself and your classmates, **chúng em** is the natural choice.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:53:09.890Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "we"
+      },
+      "language": "vi",
+      "word": "chúng em",
+      "sentence": "Chúng em ___ đi chơi vào cuối tuần.",
+      "hint": "c___ em",
+      "choices": [
+        "chúng ta",
+        "các bạn",
+        "chúng em"
+      ],
+      "translation": {
+        "en": "We go out on the weekend."
+      },
+      "answer": "chúng em"
+    },
+    "updatedAt": "2025-03-12T13:53:09.890Z",
+    "id": "7dbca42c-9ebc-4a97-9f17-cc1c8f447dce",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chúng tôi",
+    "chúng em",
+    "chúng ta"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Ngày mai chúng em sẽ đi dã ngoại cùng lớp.",
+    "Cô giáo luôn nhắc nhở chúng em học tập chăm chỉ.",
+    "Sau giờ học, chúng em thường chơi bóng đá ở sân trường."
+  ],
+  "rank": 2074,
+  "word": "chúng em",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "we (excluding listener)",
+  "_id": "Gh1uiIWt7YEjTmZVRQuz"
+}

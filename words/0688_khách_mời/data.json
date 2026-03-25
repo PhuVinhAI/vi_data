@@ -1,0 +1,99 @@
+{
+  "rank": 688,
+  "definition": "guest",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Invité a un invitado especial a la fiesta.",
+      "vi": "Tôi đã mời một khách mời đặc biệt đến bữa tiệc.",
+      "en": "I invited a special guest to the party."
+    },
+    "translations": {
+      "en": "guest",
+      "vi": "khách mời",
+      "es": "invitado"
+    },
+    "definitions": {
+      "vi": "Một người được mời tham dự một sự kiện.",
+      "en": "A person who is invited to attend an event.",
+      "es": "Una persona que es invitada a asistir a un evento."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:44:52.942Z"
+  },
+  "multiChoiceQuiz": {
+    "id": "dc35846b-4329-42fa-a6af-0cd8138b4327",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng ta có ___ đến bữa tiệc.",
+      "answer": "khách mời",
+      "translation": {
+        "en": "We have guests to the party."
+      },
+      "choices": [
+        "đối tác",
+        "khách mời",
+        "người thân"
+      ],
+      "word": "khách mời",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "guests"
+      },
+      "hint": "k___ m___"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:02:20.241Z",
+    "updatedAt": "2025-03-12T13:02:20.241Z"
+  },
+  "exampleSentences": [
+    "Anh là khách mời đặc biệt trong bữa tiệc sinh nhật tối nay.",
+    "Chị đã chuẩn bị nhiều món ăn ngon cho khách mời đến nhà.",
+    "Sau khi khách mời đến, em sẽ bắt đầu buổi họp."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "khách mời",
+    "bạn bè",
+    "đồng nghiệp"
+  ],
+  "notes": "khách mời = guest, someone invited to an event or place (party, show, meeting).\n\nIt’s a noun. You can count it: một khách mời, hai khách mời (no classifier needed in most cases). Often used with đặc biệt (special), quan trọng (important), or danh dự (honored).\n\nCommon pairings: mời khách mời, đón khách mời, khách mời của + ai/sự kiện.\n\nStrong connection: khách = guest in general; khách mời = invited guest (more specific).",
+  "word": "khách mời",
+  "notes_md": "**khách mời** = guest, someone invited to an event or place (party, show, meeting).\n\nIt’s a noun. You can count it: *một khách mời, hai khách mời* (no classifier needed in most cases). Often used with **đặc biệt** (special), **quan trọng** (important), or **danh dự** (honored).\n\nCommon pairings: **mời khách mời**, **đón khách mời**, **khách mời của + ai/sự kiện**.\n\nStrong connection: **khách** = guest in general; **khách mời** = invited guest (more specific).",
+  "exampleSentencesTranslated": [
+    "You are a special guest at the birthday party tonight.",
+    "She prepared many delicious dishes for the guest at home.",
+    "After the guest arrives, I will start the meeting."
+  ],
+  "updatedAt": "2026-03-03T07:30:28.679Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "08016438-9447-4937-bcc0-c462659e79e4",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We have guests to the party."
+      },
+      "translatedAnswer": {
+        "en": "guests"
+      },
+      "language": "vi",
+      "word": "khách mời",
+      "sentence": "Chúng ta có ___ đến bữa tiệc.",
+      "answer": "khách mời"
+    },
+    "createdAt": "2025-03-12T13:02:20.241Z",
+    "updatedAt": "2025-03-12T13:02:20.241Z"
+  },
+  "_id": "3bJcl7DSISi6mdBJcVJi"
+}

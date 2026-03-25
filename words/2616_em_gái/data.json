@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:28:50.073Z",
+  "word": "em gái",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "em gái",
+      "choices": [
+        "em trai",
+        "em gái",
+        "anh trai"
+      ],
+      "hint": "em g___",
+      "translation": {
+        "en": "I have a very cute sister."
+      },
+      "answer": "em gái",
+      "translatedAnswer": {
+        "en": "sister"
+      },
+      "language": "vi",
+      "sentence": "Tôi có một ___ rất dễ thương."
+    },
+    "updatedAt": "2025-03-12T14:29:34.476Z",
+    "createdAt": "2025-03-12T14:29:34.476Z",
+    "id": "a7dbb0ad-2991-4915-accf-9afa1814079c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Anh often helps his younger sister with homework after school.",
+    "Every weekend, chị and her younger sister go shopping together at the supermarket.",
+    "The younger sister likes to listen to music and read books in the evening."
+  ],
+  "rank": 2616,
+  "notes": "Em gái means younger sister (your sister who is younger than you).  \n\nIt’s a noun: một em gái, hai em gái (no classifier needed in casual speech). In Vietnamese, family words often replace “I/you,” so an older sibling may call herself chị and call the younger one em gái.  \n\nYou usually put a possessive word in front: em gái tôi, em gái anh ấy.  \n\nStrong pair to remember: anh trai / chị gái (older brother / older sister) ↔ em gái (younger sister).",
+  "choices": [
+    "em gái",
+    "bạn bè",
+    "bà ngoại"
+  ],
+  "exampleSentences": [
+    "Anh thường giúp em gái làm bài tập về nhà sau giờ học.",
+    "Mỗi cuối tuần, chị và em gái đi siêu thị mua sắm cùng nhau.",
+    "Em gái thích nghe nhạc và đọc sách vào buổi tối."
+  ],
+  "notes_md": "**Em gái** means *younger sister* (your sister who is younger than you).  \n\nIt’s a noun: **một em gái, hai em gái** (no classifier needed in casual speech). In Vietnamese, family words often replace “I/you,” so an older sibling may call herself **chị** and call the younger one **em gái**.  \n\nYou usually put a possessive word in front: **em gái tôi, em gái anh ấy**.  \n\nStrong pair to remember: **anh trai / chị gái** (older brother / older sister) ↔ **em gái** (younger sister).",
+  "flashcard": {
+    "translations": {
+      "en": "younger sister",
+      "vi": "em gái",
+      "es": "hermana menor"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "A mi hermana le encanta leer libros.",
+      "en": "My sister loves to read books.",
+      "vi": "Em gái tôi rất thích đọc sách."
+    },
+    "createdAt": "2025-01-28T12:05:38.685Z",
+    "definitions": {
+      "es": "Hermana menor.",
+      "vi": "Em gái.",
+      "en": "Younger sister."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "younger sister",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "em gái",
+      "translation": {
+        "en": "I have a very cute sister."
+      },
+      "choices": [],
+      "word": "em gái",
+      "sentence": "Tôi có một ___ rất dễ thương.",
+      "translatedAnswer": {
+        "en": "sister"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:29:34.476Z",
+    "createdAt": "2025-03-12T14:29:34.476Z",
+    "id": "e569a21c-9ec3-48bb-847e-dc10f200d99f",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "PQ6UXmOZOCDtxn4DxfEE"
+}

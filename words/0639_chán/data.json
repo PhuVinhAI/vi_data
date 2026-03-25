@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:25:48.155Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:36:56.304Z",
+    "content": {
+      "word": "chán",
+      "sentence": "Tôi cảm thấy ___ ngày hôm nay.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "bored"
+      },
+      "translation": {
+        "en": "I feel bored today."
+      },
+      "answer": "chán",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:36:56.304Z",
+    "id": "0e963ce0-21d0-4609-b5ae-7eaa30ede6b4",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "chán = bored. It’s the feeling of not being interested or mentally tired of something.\n\nIt’s an adjective, often used with cảm thấy or just directly after the subject. You can also use it to mean “fed up with / sick of”, stronger than just bored.\n\nDon’t confuse it with buồn (sad). Chán is about lack of interest; buồn is emotional sadness. Opposite idea: thích (to like).",
+  "exampleSentencesTranslated": [
+    "I feel very bored when staying home all weekend.",
+    "He often feels bored when there is nothing to do.",
+    "She is bored because she has to hear the same story many times."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm thấy mệt mỏi và thiếu kiên nhẫn vì không có việc gì làm hoặc không có hứng thú với hoạt động hiện tại.",
+      "es": "Sentirse cansado e impaciente porque uno está desocupado o carece de interés en la actividad actual.",
+      "en": "Feeling weary and impatient because one is unoccupied or lacks interest in one's current activity."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:16:16.686Z",
+    "example": {
+      "en": "I feel bored when there's nothing to do.",
+      "es": "Me siento aburrido cuando no hay nada que hacer.",
+      "vi": "Tôi cảm thấy chán khi không có gì để làm."
+    },
+    "translations": {
+      "es": "aburrido",
+      "vi": "chán",
+      "en": "bored"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "c617f978-d2fb-4005-bf17-f96c87fe498d",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:36:56.304Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "bored"
+      },
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ ngày hôm nay.",
+      "word": "chán",
+      "hint": "c___n",
+      "choices": [
+        "mệt",
+        "chán",
+        "vui"
+      ],
+      "answer": "chán",
+      "translation": {
+        "en": "I feel bored today."
+      }
+    },
+    "createdAt": "2025-03-12T13:36:56.304Z"
+  },
+  "notes_md": "**chán** = bored. It’s the feeling of not being interested or mentally tired of something.\n\nIt’s an **adjective**, often used with *cảm thấy* or just directly after the subject. You can also use it to mean **“fed up with / sick of”**, stronger than just bored.\n\n\nDon’t confuse it with *buồn* (sad). *Chán* is about lack of interest; *buồn* is emotional sadness. Opposite idea: *thích* (to like).",
+  "rank": 639,
+  "exampleSentences": [
+    "Em thấy rất chán khi ở nhà suốt cuối tuần.",
+    "Anh ấy thường cảm thấy chán khi không có việc gì làm.",
+    "Chị bị chán vì phải nghe cùng một câu chuyện nhiều lần."
+  ],
+  "word": "chán",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "bored",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chán",
+    "vui",
+    "mệt"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "CidYnZ2osFaZ9eCcPeNE"
+}

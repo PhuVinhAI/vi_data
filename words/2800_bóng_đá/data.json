@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T10:40:59.285Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un deporte de equipo que se juega con una pelota redonda que no puede ser tocada con las manos o los brazos durante el juego, excepto por los porteros.",
+      "en": "A team sport played with a round ball that may not be touched with the hands or arms during play, except by the goalkeepers.",
+      "vi": "Một môn thể thao đồng đội chơi với một quả bóng tròn mà không được chạm vào bằng tay hoặc cánh tay trong suốt trận đấu, ngoại trừ các thủ môn."
+    },
+    "example": {
+      "es": "Me gusta jugar al fútbol los fines de semana.",
+      "en": "I like to play soccer on the weekends.",
+      "vi": "Tôi thích chơi bóng đá vào cuối tuần."
+    },
+    "translations": {
+      "vi": "bóng đá",
+      "en": "soccer",
+      "es": "fútbol"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2800,
+  "definition": "football",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chiều nay anh rủ em đi xem trận bóng đá ở sân vận động nhé.",
+    "Nhiều bạn nhỏ rất thích chơi bóng đá sau giờ học ở công viên.",
+    "Chủ nhật này gia đình chị sẽ cùng nhau xem bóng đá trên tivi."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:57:42.345Z",
+    "updatedAt": "2025-03-12T12:57:42.345Z",
+    "content": {
+      "choices": [
+        "bóng rổ",
+        "bóng đá",
+        "bóng chuyền"
+      ],
+      "translation": {
+        "en": "They often watch football on TV."
+      },
+      "hint": "b___a",
+      "word": "bóng đá",
+      "translatedAnswer": {
+        "en": "football"
+      },
+      "language": "vi",
+      "sentence": "Họ thường xem ___ trên tivi.",
+      "answer": "bóng đá"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "d6a0b52a-3c21-49d0-b880-d13f652bb56f",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bóng đá",
+  "notes": "bóng đá means football / soccer — the sport where two teams kick a ball into a goal.\n\nIt’s a noun. You often say môn bóng đá (the sport), trận bóng đá (a football match), or đội bóng đá (a football team).  \nVery common verb pairing: chơi bóng đá (to play football), xem bóng đá (to watch football).  \n\nThere’s also the word túc cầu, but that sounds formal or old-fashioned — most people just say bóng đá.",
+  "choices": [
+    "bóng chuyền",
+    "bóng đá",
+    "bóng rổ"
+  ],
+  "notes_md": "**bóng đá** means *football / soccer* — the sport where two teams kick a ball into a goal.\n\nIt’s a noun. You often say **môn bóng đá** (the sport), **trận bóng đá** (a football match), or **đội bóng đá** (a football team).  \nVery common verb pairing: **chơi bóng đá** (to play football), **xem bóng đá** (to watch football).  \n\nThere’s also the word **túc cầu**, but that sounds formal or old-fashioned — most people just say *bóng đá*.",
+  "exampleSentencesTranslated": [
+    "This afternoon, I invite you to watch a football match at the stadium.",
+    "Many children really like playing football in the park after school.",
+    "This Sunday, my family will watch football together on TV."
+  ],
+  "updatedAt": "2026-03-03T17:58:34.671Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "bóng đá",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "football"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I like to play football on the weekend."
+      },
+      "answer": "bóng đá",
+      "sentence": "Tôi thích chơi ___ vào cuối tuần."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "9125c4a4-8ef8-4aca-a6ae-9875fdcd2259",
+    "createdAt": "2025-03-12T12:57:42.345Z",
+    "updatedAt": "2025-03-12T12:57:42.345Z"
+  },
+  "_id": "2EcIdmTnwEBQva60qZMH"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:24:49.424Z",
+    "id": "c8b0d699-f7bd-4818-9074-daa1dc45f2e3",
+    "content": {
+      "translatedAnswer": {
+        "en": "calm"
+      },
+      "translation": {
+        "en": "This sound is very calm."
+      },
+      "hint": "t___n",
+      "answer": "tĩnh lặng",
+      "choices": [
+        "ồn ào",
+        "tĩnh lặng",
+        "nhộn nhịp"
+      ],
+      "language": "vi",
+      "sentence": "Âm thanh này thật ___.",
+      "word": "tĩnh lặng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:24:49.424Z",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**tĩnh lặng** means calm and quiet, with no noise or disturbance. It often describes places, moments, or atmosphere where everything feels still.\n\nIt’s an adjective, so it comes after the noun: *không gian tĩnh lặng*, *đêm tĩnh lặng*. It can also describe a feeling or mood, not just sound.\n\nClose to **yên tĩnh**, but *tĩnh lặng* feels deeper and more still, sometimes more emotional. Opposite idea: **ồn ào** (noisy, chaotic).",
+  "choices": [
+    "ồn ào",
+    "tĩnh lặng",
+    "vội vàng"
+  ],
+  "rank": 2291,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tĩnh lặng",
+  "exampleSentencesTranslated": [
+    "The morning in the countryside is very calm and quiet and comfortable.",
+    "After a tiring workday, he likes to sit in a calm and quiet room.",
+    "When I read books, I need a calm and quiet space to focus."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:24:49.424Z",
+    "content": {
+      "answer": "tĩnh lặng",
+      "translatedAnswer": {
+        "en": "calm"
+      },
+      "translation": {
+        "en": "This place is very calm and quiet."
+      },
+      "sentence": "Nơi đây rất ___ và yên tĩnh.",
+      "language": "vi",
+      "word": "tĩnh lặng",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:24:49.424Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "f57c8ff7-4a4d-44b5-908e-3bae0111b0cf",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "calm and quiet",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:05:23.224Z",
+    "translations": {
+      "en": "quiet",
+      "es": "tranquilo",
+      "vi": "tĩnh lặng"
+    },
+    "example": {
+      "en": "The morning here is very quiet.",
+      "vi": "Buổi sáng ở đây thật tĩnh lặng.",
+      "es": "La mañana aquí es muy tranquila."
+    },
+    "definitions": {
+      "vi": "Đặc trưng bởi sự thiếu tiếng ồn hoặc rối loạn; yên bình.",
+      "es": "Caracterizado por la falta de ruido o disturbio; pacífico.",
+      "en": "Characterized by a lack of noise or disturbance; peaceful."
+    }
+  },
+  "notes": "tĩnh lặng means calm and quiet, with no noise or disturbance. It often describes places, moments, or atmosphere where everything feels still.\n\nIt’s an adjective, so it comes after the noun: không gian tĩnh lặng, đêm tĩnh lặng. It can also describe a feeling or mood, not just sound.\n\nClose to yên tĩnh, but tĩnh lặng feels deeper and more still, sometimes more emotional. Opposite idea: ồn ào (noisy, chaotic).",
+  "updatedAt": "2026-03-03T10:20:53.031Z",
+  "exampleSentences": [
+    "Buổi sáng ở vùng quê rất tĩnh lặng và dễ chịu.",
+    "Sau một ngày làm việc mệt mỏi, anh thích ngồi trong phòng tĩnh lặng.",
+    "Khi em đọc sách, em cần một không gian tĩnh lặng để tập trung."
+  ],
+  "_id": "9jkncAvKcXiwD4nwYIra"
+}

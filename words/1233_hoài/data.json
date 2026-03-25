@@ -1,0 +1,99 @@
+{
+  "word": "hoài",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:28:09.789Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ thích nghe nhạc.",
+      "translation": {
+        "en": "I always like to listen to music."
+      },
+      "translatedAnswer": {
+        "en": "always"
+      },
+      "choices": [],
+      "word": "hoài",
+      "language": "vi",
+      "answer": "hoài"
+    },
+    "id": "7a639c38-647e-4927-b8c4-210ce3f674eb",
+    "createdAt": "2025-03-12T16:28:09.789Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**hoài** = always / over and over (something keeps happening). It often has a slightly annoyed or emotional feeling.\n\nIt’s an adverb and usually comes **after the verb**.  \n\nIt’s close to **mãi** (for a long time, repeatedly) and sometimes **luôn**, but *hoài* feels more repetitive and sometimes complaining.\n\nMostly used in Southern Vietnamese; in the North, people prefer **mãi** or **suốt** instead.",
+  "rank": 1233,
+  "definition": "always",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:28:09.789Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "de20ca81-ed3a-465a-ad8a-d205ea6e8181",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "hoài",
+      "choices": [
+        "thường",
+        "hoài",
+        "hiếm khi"
+      ],
+      "language": "vi",
+      "answer": "hoài",
+      "hint": "h___i",
+      "translation": {
+        "en": "I always walk every morning."
+      },
+      "translatedAnswer": {
+        "en": "always"
+      },
+      "sentence": "Tôi ___ đi bộ mỗi sáng."
+    },
+    "updatedAt": "2025-03-12T16:28:09.789Z"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T13:58:57.865Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Nhớ lại hoặc nghĩ về quá khứ một cách đầy cảm xúc.",
+      "en": "To reminisce or to think fondly about the past.",
+      "es": "Recordar o pensar con cariño sobre el pasado."
+    },
+    "translations": {
+      "es": "recordar",
+      "en": "reminisce",
+      "vi": "hoài niệm"
+    },
+    "example": {
+      "vi": "Tôi luôn hoài niệm về những ngày xưa.",
+      "en": "I always reminisce about the old days.",
+      "es": "Siempre recuerdo los viejos tiempos."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mãi",
+    "hoài",
+    "luôn"
+  ],
+  "exampleSentences": [
+    "Anh ấy hoài quên chìa khoá ở nhà mỗi sáng.",
+    "Em hoài nghĩ về chuyến đi Đà Lạt năm ngoái.",
+    "Chị hoài đến muộn khi đi học nên bị phạt."
+  ],
+  "exampleSentencesTranslated": [
+    "He always forgets his keys at home every morning.",
+    "I always think about the trip to Da Lat last year.",
+    "She is always late to school so she gets punished."
+  ],
+  "updatedAt": "2026-03-03T08:27:21.869Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "hoài = always / over and over (something keeps happening). It often has a slightly annoyed or emotional feeling.\n\nIt’s an adverb and usually comes after the verb.  \n\nIt’s close to mãi (for a long time, repeatedly) and sometimes luôn, but hoài feels more repetitive and sometimes complaining.\n\nMostly used in Southern Vietnamese; in the North, people prefer mãi or suốt instead.",
+  "_id": "tW29IbES1WZhdgOaRWdl"
+}

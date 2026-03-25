@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "ed94e9a5-98d9-4854-9dcf-39091a1538b4",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:43:35.235Z",
+    "content": {
+      "sentence": "Tôi rất ___ khi nghe tin đó.",
+      "word": "tức",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "upset"
+      },
+      "translation": {
+        "en": "I am very upset when I hear that news."
+      },
+      "answer": "tức",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:43:35.235Z"
+  },
+  "notes": "tức = angry, mad, upset (with a hot, irritated feeling inside). It’s stronger and more emotional than just being a bit annoyed.\n\nIt describes a person’s feeling and often goes with a reason.  \n\nClose words: giận (angry, more general), bực (annoyed, irritated). Tức often feels sharper, like something really hits your ego or pride.",
+  "updatedAt": "2026-03-03T09:19:15.064Z",
+  "notes_md": "**tức** = angry, mad, upset (with a hot, irritated feeling inside). It’s stronger and more emotional than just being a bit annoyed.\n\nIt describes a person’s feeling and often goes with a reason.  \n\nClose words: **giận** (angry, more general), **bực** (annoyed, irritated). *Tức* often feels sharper, like something really hits your ego or pride.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "989a7bb4-c9b9-4793-9321-47794102384c",
+    "updatedAt": "2025-03-12T13:43:35.235Z",
+    "createdAt": "2025-03-12T13:43:35.235Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "upset"
+      },
+      "sentence": "Tôi cảm thấy ___ vì không được mời.",
+      "word": "tức",
+      "language": "vi",
+      "hint": "t__c",
+      "choices": [
+        "vui",
+        "tức",
+        "buồn"
+      ],
+      "answer": "tức",
+      "translation": {
+        "en": "I feel upset because I was not invited."
+      }
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He is very angry when someone speaks badly behind his back.",
+    "You should not be angry just because of such a small thing.",
+    "I heard the date got canceled at the last minute, and I was really angry."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A feeling of strong annoyance or displeasure.",
+      "es": "Una sensación de fuerte molestia o desagrado.",
+      "vi": "Cảm giác khó chịu hoặc không hài lòng mạnh mẽ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Me siento enojado cuando escucho esta noticia.",
+      "vi": "Tôi cảm thấy tức giận khi nghe tin này.",
+      "en": "I feel angry when I hear this news."
+    },
+    "createdAt": "2025-01-28T11:21:57.517Z",
+    "translations": {
+      "en": "angry",
+      "es": "enojado",
+      "vi": "tức giận"
+    }
+  },
+  "word": "tức",
+  "rank": 1712,
+  "exampleSentences": [
+    "Anh ấy rất tức khi bị ai đó nói xấu sau lưng.",
+    "Chị không nên tức chỉ vì một chuyện nhỏ như vậy.",
+    "Em nghe tin bị hủy hẹn phút chót, tức lắm luôn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "angry",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tức",
+    "vui",
+    "buồn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "EPKFPD7DgsAGbYzvFCVY"
+}

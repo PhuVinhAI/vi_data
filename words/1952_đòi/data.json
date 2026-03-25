@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "4fb691ef-6f53-4a29-baac-7c116343374c",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "demand"
+      },
+      "sentence": "Anh ấy sẽ ___ lại tiền cho tôi.",
+      "word": "đòi",
+      "language": "vi",
+      "choices": [],
+      "answer": "đòi",
+      "translation": {
+        "en": "He will demand the money back from me."
+      }
+    },
+    "createdAt": "2025-03-12T13:46:05.157Z",
+    "updatedAt": "2025-03-12T13:46:05.157Z"
+  },
+  "notes": "đòi = to demand, to insist on getting something. It often feels strong, pushy, or a bit childish depending on context.\n\nYou use đòi + object (đòi tiền, đòi quà) or đòi + ai + làm gì when someone insists that another person do something. It can sound emotional, not calm or polite.\n\nClose word: yêu cầu (more neutral, formal “request/require”); đòi feels more forceful or impatient.",
+  "updatedAt": "2026-03-03T09:44:39.505Z",
+  "notes_md": "**đòi** = to demand, to insist on getting something. It often feels strong, pushy, or a bit childish depending on context.\n\nYou use **đòi + object** (đòi tiền, đòi quà) or **đòi + ai + làm gì** when someone insists that another person do something. It can sound emotional, not calm or polite.\n\n\nClose word: **yêu cầu** (more neutral, formal “request/require”); **đòi** feels more forceful or impatient.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "f1ffbe8c-3c85-40ab-b270-4d30afa72953",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:46:05.157Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "demand"
+      },
+      "sentence": "Cô ấy muốn ___ một cái bánh.",
+      "word": "đòi",
+      "language": "vi",
+      "hint": "d___",
+      "choices": [
+        "đòi",
+        "nhận",
+        "cho"
+      ],
+      "answer": "đòi",
+      "translation": {
+        "en": "She wants to demand a cake."
+      }
+    },
+    "createdAt": "2025-03-12T13:46:05.157Z"
+  },
+  "exampleSentencesTranslated": [
+    "You demand that I buy you a new phone.",
+    "The son often demands his mother tell a story before bed.",
+    "The customer demands the store give the money back because the product is faulty."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "demand",
+      "vi": "đòi",
+      "es": "exigir"
+    },
+    "createdAt": "2025-01-28T11:24:33.200Z",
+    "example": {
+      "vi": "Tôi đòi lại tiền đã cho mượn.",
+      "es": "Exijo de vuelta el dinero que presté.",
+      "en": "I demand back the money I lent."
+    },
+    "definitions": {
+      "en": "to demand or request something back",
+      "es": "exigir o solicitar algo de vuelta",
+      "vi": "để yêu cầu hoặc xin lại một cái gì đó"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "đòi",
+  "exampleSentences": [
+    "Em đòi anh mua cho em một chiếc điện thoại mới.",
+    "Con trai thường đòi mẹ kể truyện trước khi đi ngủ.",
+    "Khách hàng đòi cửa hàng trả lại tiền vì sản phẩm bị lỗi."
+  ],
+  "rank": 1952,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "demand",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đòi",
+    "đợi",
+    "đẩy"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "F3jhn8u0yBjcASTUTkIa"
+}

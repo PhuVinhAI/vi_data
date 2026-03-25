@@ -1,0 +1,99 @@
+{
+  "definition": "meaning",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:08:29.038Z",
+    "updatedAt": "2025-03-12T14:08:29.038Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "nghĩa",
+      "translatedAnswer": {
+        "en": "meaning"
+      },
+      "sentence": "Từ này có ___ quan trọng.",
+      "word": "nghĩa",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "This word has an important meaning."
+      }
+    },
+    "id": "0616857b-4b6d-49c1-ad52-7906d1b6e3f5"
+  },
+  "notes": "nghĩa = meaning. It’s the idea or message behind a word, sentence, or action.\n\nIt’s a noun. You often say nghĩa của + noun to show “the meaning of” something.  \n\nYou can count it when a word has multiple meanings: một nghĩa, hai nghĩa.  \nVery common pairings: theo nghĩa đen (literal meaning), theo nghĩa bóng (figurative meaning), vô nghĩa (meaningless).\n\nDon’t confuse it with ý nghĩa — that’s more like “significance” or “meaningfulness,” not just dictionary meaning.",
+  "exampleSentencesTranslated": [
+    "I don't understand the meaning of this word in the passage I just read.",
+    "Can you explain the meaning of that sentence to me?",
+    "She often uses a dictionary to know the meaning of new words."
+  ],
+  "choices": [
+    "nghĩa",
+    "người",
+    "ngày"
+  ],
+  "updatedAt": "2026-03-03T06:53:05.326Z",
+  "notes_md": "**nghĩa** = meaning. It’s the idea or message behind a word, sentence, or action.\n\nIt’s a noun. You often say **nghĩa của + noun** to show “the meaning of” something.  \n\nYou can count it when a word has multiple meanings: *một nghĩa, hai nghĩa*.  \nVery common pairings: **theo nghĩa đen** (literal meaning), **theo nghĩa bóng** (figurative meaning), **vô nghĩa** (meaningless).\n\nDon’t confuse it with **ý nghĩa** — that’s more like “significance” or “meaningfulness,” not just dictionary meaning.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nghĩa",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:08:29.038Z",
+    "createdAt": "2025-03-12T14:08:29.038Z",
+    "id": "07fa048f-8669-4944-a60e-3c9ab723e614",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "nghĩa",
+      "translatedAnswer": {
+        "en": "meaning"
+      },
+      "language": "vi",
+      "choices": [
+        "nghĩa",
+        "cách",
+        "hình thức"
+      ],
+      "translation": {
+        "en": "This word has a clear meaning."
+      },
+      "sentence": "Từ này có ___ rõ ràng.",
+      "hint": "n____",
+      "word": "nghĩa"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Từ này có nhiều nghĩa khác nhau.",
+      "es": "Esta palabra tiene muchos significados.",
+      "en": "This word has many meanings."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:45:48.696Z",
+    "translations": {
+      "en": "meaning",
+      "vi": "nghĩa",
+      "es": "significado"
+    },
+    "definitions": {
+      "vi": "Ý nghĩa hoặc tầm quan trọng của một từ hoặc cụm từ.",
+      "es": "Significado o importancia de una palabra o frase.",
+      "en": "Meaning or significance of a word or phrase."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em chưa hiểu nghĩa của từ này trong đoạn văn vừa đọc.",
+    "Anh có thể giải thích nghĩa của câu đó cho em được không?",
+    "Chị thường tra từ điển để biết nghĩa của những từ mới."
+  ],
+  "rank": 310,
+  "_id": "KbhNP0neMMAbUWDm5t46"
+}

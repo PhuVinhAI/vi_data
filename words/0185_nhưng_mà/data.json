@@ -1,0 +1,99 @@
+{
+  "rank": 185,
+  "flashcard": {
+    "definitions": {
+      "es": "Una conjunción utilizada para introducir un contraste o excepción.",
+      "vi": "Một liên từ được sử dụng để giới thiệu sự tương phản hoặc ngoại lệ.",
+      "en": "A conjunction used to introduce a contrast or exception."
+    },
+    "translations": {
+      "vi": "nhưng",
+      "es": "pero",
+      "en": "but"
+    },
+    "createdAt": "2025-01-28T11:55:24.579Z",
+    "example": {
+      "vi": "Tôi thích ăn phở, nhưng mà hôm nay tôi muốn ăn sushi.",
+      "es": "Me gusta comer pho, pero hoy quiero comer sushi.",
+      "en": "I like to eat pho, but today I want to eat sushi."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em muốn đi xem phim, nhưng mà hôm nay trời mưa to quá.",
+    "Anh thích món ăn này, nhưng mà nó hơi cay đối với anh.",
+    "Chị đã cố gắng dậy sớm, nhưng mà vẫn bị trễ học."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nhưng mà** = **but**. It connects two opposite or contrasting ideas.\n\nIt links two full clauses and usually sits in the middle of the sentence.  \n\nIt feels a bit more spoken and natural than just **nhưng**.  \nThink of **nhưng** as slightly shorter/more neutral, and **nhưng mà** as softer and more conversational.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "id": "3d8ac70f-bb03-4d1e-a28e-511c46f2a9e5",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi thích ăn, ___ không có thời gian.",
+      "hint": "n___ mà",
+      "word": "nhưng mà",
+      "choices": [
+        "tuy nhiên",
+        "nhưng mà",
+        "mặc dù"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "I like to eat, but I have no time."
+      },
+      "answer": "nhưng mà",
+      "translatedAnswer": {
+        "en": "but"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:19:00.118Z",
+    "createdAt": "2025-03-12T14:19:00.118Z"
+  },
+  "word": "nhưng mà",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:19:00.118Z",
+    "updatedAt": "2025-03-12T14:19:00.118Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "nhưng mà",
+      "sentence": "Tôi muốn đi, ___ trời mưa.",
+      "translation": {
+        "en": "I want to go, but it rains."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "but"
+      },
+      "answer": "nhưng mà"
+    },
+    "type": "fillBlankQuiz",
+    "id": "b3a0d6e1-2281-4ec9-8e29-666234265bf1"
+  },
+  "definition": "but",
+  "choices": [
+    "nhưng mà",
+    "tuy nhiên",
+    "vì vậy"
+  ],
+  "updatedAt": "2026-03-03T06:39:09.935Z",
+  "exampleSentencesTranslated": [
+    "I want to go to the movies, but it is raining heavily today.",
+    "I like this dish, but it is a bit too spicy for me.",
+    "I tried to wake up early, but I was still late for school."
+  ],
+  "notes": "nhưng mà = but. It connects two opposite or contrasting ideas.\n\nIt links two full clauses and usually sits in the middle of the sentence.  \n\nIt feels a bit more spoken and natural than just nhưng.  \nThink of nhưng as slightly shorter/more neutral, and nhưng mà as softer and more conversational.",
+  "_id": "Mmrde0co0K36FKubPiPh"
+}

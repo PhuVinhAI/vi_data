@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I feel happy today."
+      },
+      "answer": "vui",
+      "translatedAnswer": {
+        "en": "happy"
+      },
+      "sentence": "Tôi cảm thấy ___ hôm nay.",
+      "word": "vui"
+    },
+    "updatedAt": "2025-03-12T16:49:17.600Z",
+    "type": "fillBlankQuiz",
+    "id": "419c4f71-deb0-44b9-9746-197ccf475733",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:49:17.600Z"
+  },
+  "definition": "happy",
+  "rank": 237,
+  "notes_md": "**vui** = happy, glad. It describes a positive, cheerful feeling.\n\nIt’s an **adjective**, so it goes after linking verbs like *là*, *thấy*, *cảm thấy*, *trở nên*. You can use it for people, moods, events, or atmosphere (*buổi tiệc vui* = a fun party).  \n\n\nStrong contrasts: **buồn** (sad). Similar vibe: **hạnh phúc** (happier, deeper feeling than *vui*).",
+  "flashcard": {
+    "example": {
+      "en": "Today I feel very happy.",
+      "es": "Hoy me siento muy feliz.",
+      "vi": "Hôm nay tôi cảm thấy rất vui."
+    },
+    "definitions": {
+      "en": "happy; joyful; cheerful",
+      "es": "feliz; alegre; contento",
+      "vi": "vui vẻ; hạnh phúc"
+    },
+    "translations": {
+      "vi": "vui",
+      "en": "happy",
+      "es": "feliz"
+    },
+    "createdAt": "2025-01-28T14:19:39.103Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "vui = happy, glad. It describes a positive, cheerful feeling.\n\nIt’s an adjective, so it goes after linking verbs like là, thấy, cảm thấy, trở nên. You can use it for people, moods, events, or atmosphere (buổi tiệc vui = a fun party).  \n\nStrong contrasts: buồn (sad). Similar vibe: hạnh phúc (happier, deeper feeling than vui).",
+  "word": "vui",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "Today I feel very happy because I met an old friend.",
+    "I am always happy when having dinner with my family every day.",
+    "She became happy after receiving good news."
+  ],
+  "choices": [
+    "buồn",
+    "vui",
+    "mệt"
+  ],
+  "exampleSentences": [
+    "Hôm nay em cảm thấy rất vui vì được gặp lại bạn cũ.",
+    "Anh luôn vui khi cùng gia đình ăn cơm tối mỗi ngày.",
+    "Chị ấy trở nên vui hơn sau khi nhận được tin tốt."
+  ],
+  "updatedAt": "2026-03-03T06:44:21.947Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:49:17.600Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "45587afb-539d-46ff-ab4b-53c72795176b",
+    "content": {
+      "hint": "v__",
+      "word": "vui",
+      "sentence": "Hôm nay tôi rất ___.",
+      "answer": "vui",
+      "choices": [
+        "buồn",
+        "vui",
+        "lo lắng"
+      ],
+      "translation": {
+        "en": "Today I am very happy."
+      },
+      "translatedAnswer": {
+        "en": "happy"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:49:17.600Z",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "yo88H7cIZ1LY1tiLxu0m"
+}

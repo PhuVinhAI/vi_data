@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "a4d9ccce-913f-4a41-a7bb-0cfa9729ede5",
+    "updatedAt": "2025-03-12T14:54:34.256Z",
+    "content": {
+      "word": "lợi nhuận",
+      "language": "vi",
+      "answer": "lợi nhuận",
+      "hint": "l___n",
+      "sentence": "Công ty này cần tăng ___ để phát triển.",
+      "translation": {
+        "en": "This company needs to increase profit to grow."
+      },
+      "translatedAnswer": {
+        "en": "profit"
+      },
+      "choices": [
+        "chi phí",
+        "lợi nhuận",
+        "doanh thu"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:54:34.256Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Công ty của anh đạt được lợi nhuận cao trong năm nay.",
+    "Nếu em muốn tăng lợi nhuận, em phải giảm chi phí sản xuất.",
+    "Chị thường xuyên kiểm tra báo cáo lợi nhuận của cửa hàng mỗi tháng."
+  ],
+  "notes": "Lợi nhuận means profit — the money you have left after paying all costs. It’s what a business actually earns.\n\nIt’s an uncountable noun in most cases; you don’t usually count it, just talk about “mức lợi nhuận” (level of profit) or “khoản lợi nhuận” (a profit amount).  \nCommon pairings: tăng lợi nhuận, giảm lợi nhuận, đạt lợi nhuận, tạo ra lợi nhuận.\n\nClose synonym: lãi (more everyday, casual). Opposite idea: lỗ (loss).",
+  "word": "lợi nhuận",
+  "choices": [
+    "lợi nhuận",
+    "doanh thu",
+    "chi phí"
+  ],
+  "rank": 1240,
+  "notes_md": "**Lợi nhuận** means *profit* — the money you have left after paying all costs. It’s what a business actually earns.\n\nIt’s an uncountable noun in most cases; you don’t usually count it, just talk about “mức lợi nhuận” (level of profit) or “khoản lợi nhuận” (a profit amount).  \nCommon pairings: **tăng lợi nhuận**, **giảm lợi nhuận**, **đạt lợi nhuận**, **tạo ra lợi nhuận**.\n\n\nClose synonym: **lãi** (more everyday, casual). Opposite idea: **lỗ** (loss).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "profit",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:54:34.256Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "This company makes a profit every month."
+      },
+      "translatedAnswer": {
+        "en": "profit"
+      },
+      "choices": [],
+      "word": "lợi nhuận",
+      "language": "vi",
+      "answer": "lợi nhuận",
+      "sentence": "Công ty này kiếm được ___ hàng tháng."
+    },
+    "updatedAt": "2025-03-12T14:54:34.256Z",
+    "id": "767b1a81-2e44-4781-af0c-df4197139c67"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:28:00.884Z",
+  "exampleSentencesTranslated": [
+    "My company achieved high profit this year.",
+    "If you want to increase profit, you have to reduce production costs.",
+    "She regularly checks the profit reports of the shop every month."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:27:36.985Z",
+    "definitions": {
+      "en": "The financial gain made in a transaction or business operation.",
+      "es": "La ganancia financiera obtenida en una transacción o operación comercial.",
+      "vi": "Lợi ích tài chính thu được từ một giao dịch hoặc hoạt động kinh doanh."
+    },
+    "example": {
+      "en": "The company has increased its profits this year.",
+      "es": "La empresa ha aumentado sus ganancias este año.",
+      "vi": "Công ty đã tăng lợi nhuận trong năm nay."
+    },
+    "translations": {
+      "en": "profit",
+      "es": "ganancia",
+      "vi": "lợi nhuận"
+    }
+  },
+  "_id": "VGKnYDM3JaO3MQff2Bsb"
+}

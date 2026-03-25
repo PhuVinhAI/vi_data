@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "embarrassed",
+      "es": "avergonzado",
+      "vi": "xấu hổ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:09:49.639Z",
+    "definitions": {
+      "es": "Sentirse cohibido o avergonzado.",
+      "vi": "Cảm thấy tự ti hoặc xấu hổ.",
+      "en": "Feeling self-conscious or ashamed."
+    },
+    "example": {
+      "en": "I feel embarrassed when speaking in front of a crowd.",
+      "vi": "Tôi cảm thấy xấu hổ khi nói trước đám đông.",
+      "es": "Me siento avergonzado al hablar frente a una multitud."
+    }
+  },
+  "definition": "embarrassed",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "xấu hổ",
+      "translation": {
+        "en": "I feel embarrassed when speaking in front of a crowd."
+      },
+      "translatedAnswer": {
+        "en": "embarrassed"
+      },
+      "word": "xấu hổ",
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ khi nói trước đám đông.",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:55.818Z",
+    "id": "3294a56e-2e5f-4e97-af2e-caff5e63cead",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:29:55.818Z"
+  },
+  "exampleSentencesTranslated": [
+    "I feel embarrassed when speaking in front of the whole class.",
+    "He was embarrassed for forgetting his best friend's birthday.",
+    "She was embarrassed when she made a small mistake in the meeting."
+  ],
+  "exampleSentences": [
+    "Em cảm thấy xấu hổ khi nói chuyện trước lớp đông người.",
+    "Anh rất xấu hổ vì quên sinh nhật của bạn thân.",
+    "Chị ấy xấu hổ khi mắc lỗi nhỏ trong buổi họp."
+  ],
+  "updatedAt": "2026-03-03T10:28:32.829Z",
+  "notes": "xấu hổ = embarrassed or ashamed. It’s that uncomfortable feeling when you think you did something silly or wrong.\n\nIt’s an adjective, often used with cảm thấy / thấy (to feel).  \n\nIt describes a person’s emotion, not the situation itself.  \n\nClose words: ngại (more like shy/awkward, lighter feeling), mắc cỡ (Southern, similar meaning but softer).",
+  "rank": 2367,
+  "choices": [
+    "vui vẻ",
+    "xấu hổ",
+    "tự tin"
+  ],
+  "notes_md": "**xấu hổ** = embarrassed or ashamed. It’s that uncomfortable feeling when you think you did something silly or wrong.\n\nIt’s an adjective, often used with **cảm thấy / thấy** (to feel).  \n\nIt describes a person’s emotion, not the situation itself.  \n\nClose words: **ngại** (more like shy/awkward, lighter feeling), **mắc cỡ** (Southern, similar meaning but softer).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:29:55.818Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy cảm thấy ___ khi bị chỉ trích.",
+      "language": "vi",
+      "word": "xấu hổ",
+      "choices": [
+        "hạnh phúc",
+        "xấu hổ",
+        "tự hào"
+      ],
+      "answer": "xấu hổ",
+      "hint": "x___ h__",
+      "translatedAnswer": {
+        "en": "embarrassed"
+      },
+      "translation": {
+        "en": "She feels embarrassed when criticized."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:55.818Z",
+    "id": "d2ae5459-a66f-4f69-9f4e-ba38074d48a4"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "xấu hổ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "AuHkVZhCRqD7MuG1O0Rs"
+}

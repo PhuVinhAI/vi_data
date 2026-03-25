@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Trời dần sáng lên sau một đêm dài.",
+    "Anh dần quen với công việc mới của mình.",
+    "Sức khỏe của bà nội dần tốt hơn sau khi điều trị."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "dần",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "gradually"
+      },
+      "hint": "d___",
+      "translation": {
+        "en": "Everything is changing gradually."
+      },
+      "choices": [
+        "chậm",
+        "dần",
+        "mạnh mẽ"
+      ],
+      "answer": "dần",
+      "sentence": "Mọi thứ đang ___ thay đổi."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "c1cff5c8-ae45-4517-bf40-b20900399c17",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:03:17.313Z",
+    "updatedAt": "2025-03-12T13:03:17.313Z"
+  },
+  "flashcard": {
+    "example": {
+      "es": "El sol se está poniendo gradualmente en el oeste.",
+      "vi": "Mặt trời dần lặn xuống phía tây.",
+      "en": "The sun is gradually setting in the west."
+    },
+    "translations": {
+      "es": "gradualmente",
+      "en": "gradually",
+      "vi": "dần"
+    },
+    "createdAt": "2025-01-28T10:45:39.141Z",
+    "definitions": {
+      "es": "Gradualmente; lentamente a lo largo del tiempo.",
+      "en": "Gradually; slowly over time.",
+      "vi": "Dần; từ từ theo thời gian."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1004,
+  "definition": "gradually",
+  "word": "dần",
+  "choices": [
+    "đột ngột",
+    "dần",
+    "luôn luôn"
+  ],
+  "notes": "dần means gradually — something changes little by little over time, not all at once.\n\nIt usually comes after a verb or adjective to show a slow change.  \n\nYou’ll also see dần dần for extra emphasis — same meaning, just stronger feeling of “step by step.”  \n\nClose to từ từ (slowly), but dần focuses more on a process of change over time.  \nOpposite idea: đột ngột (suddenly).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The sky is gradually getting brighter after a long night.",
+    "He is gradually getting used to his new job.",
+    "Grandma's health is gradually getting better after treatment."
+  ],
+  "notes_md": "**dần** means *gradually* — something changes little by little over time, not all at once.\n\nIt usually comes **after a verb or adjective** to show a slow change.  \n\nYou’ll also see **dần dần** for extra emphasis — same meaning, just stronger feeling of “step by step.”  \n\nClose to **từ từ** (slowly), but *dần* focuses more on a process of change over time.  \nOpposite idea: **đột ngột** (suddenly).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Time passes gradually."
+      },
+      "word": "dần",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "gradually"
+      },
+      "sentence": "Thời gian trôi ___ hơn.",
+      "answer": "dần"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "011a6313-a1c5-4d2e-b767-c55e90d8d68b",
+    "createdAt": "2025-03-12T13:03:17.313Z",
+    "updatedAt": "2025-03-12T13:03:17.313Z"
+  },
+  "updatedAt": "2026-03-03T08:02:58.042Z",
+  "_id": "3m8uNVAQNbDaH11k2JUW"
+}

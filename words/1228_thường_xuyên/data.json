@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "147b63b1-5284-4bfe-be4f-4ffffc77e0e2",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "thường xuyên",
+      "translatedAnswer": {
+        "en": "regularly"
+      },
+      "sentence": "Tôi tập thể dục ___.",
+      "word": "thường xuyên",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I exercise regularly."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:13:25.335Z",
+    "createdAt": "2025-03-12T14:13:25.335Z"
+  },
+  "definition": "frequently",
+  "choices": [
+    "hiếm khi",
+    "thường xuyên",
+    "đôi khi"
+  ],
+  "updatedAt": "2026-03-03T08:26:48.004Z",
+  "exampleSentencesTranslated": [
+    "He frequently goes for a walk in the morning to stay healthy.",
+    "You should frequently check your email so you don't miss important information.",
+    "My friends and I frequently meet on weekends to chat."
+  ],
+  "notes": "Thường xuyên means frequently or regularly — something happens many times, not just once in a while.\n\nIt’s an adverb, so it usually goes before the verb to describe how often something happens. It talks about repeated actions over time.\n\nClose synonym: hay (more casual, can also mean “often”).  \nOpposite idea: hiếm khi (rarely).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Thường xuyên** means *frequently* or *regularly* — something happens many times, not just once in a while.\n\nIt’s an adverb, so it usually goes before the verb to describe how often something happens. It talks about repeated actions over time.\n\n\nClose synonym: **hay** (more casual, can also mean “often”).  \nOpposite idea: **hiếm khi** (rarely).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "adb1e591-078b-4391-b900-ea3272df52d4",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "regularly"
+      },
+      "answer": "thường xuyên",
+      "hint": "th____n",
+      "word": "thường xuyên",
+      "sentence": "Tôi học tiếng Anh ___.",
+      "translation": {
+        "en": "I study English regularly."
+      },
+      "language": "vi",
+      "choices": [
+        "thường xuyên",
+        "thỉnh thoảng",
+        "hiếm khi"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:13:25.335Z",
+    "createdAt": "2025-03-12T14:13:25.335Z"
+  },
+  "word": "thường xuyên",
+  "flashcard": {
+    "example": {
+      "en": "I often walk in the morning.",
+      "vi": "Tôi thường xuyên đi bộ vào buổi sáng.",
+      "es": "A menudo camino por la mañana."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:50:33.751Z",
+    "translations": {
+      "en": "often",
+      "es": "a menudo",
+      "vi": "thường xuyên"
+    },
+    "definitions": {
+      "en": "Regularly or frequently occurring.",
+      "vi": "Xảy ra một cách thường xuyên hoặc liên tục.",
+      "es": "Ocurriendo de manera regular o frecuente."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh thường xuyên đi bộ vào buổi sáng để rèn luyện sức khỏe.",
+    "Chị nên kiểm tra email thường xuyên để không bỏ lỡ thông tin quan trọng.",
+    "Em và bạn bè thường xuyên gặp nhau vào cuối tuần để trò chuyện."
+  ],
+  "rank": 1228,
+  "_id": "LSR6HJIU4ZGXFTa7V2y6"
+}

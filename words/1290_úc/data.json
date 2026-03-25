@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "95d9be4d-5063-461d-bc4c-e4e96e36c700",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:22:23.037Z",
+    "updatedAt": "2025-03-12T16:22:23.037Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn đi ___ vào mùa hè.",
+      "translatedAnswer": {
+        "en": "Australia"
+      },
+      "translation": {
+        "en": "I want to go to Australia in the summer."
+      },
+      "hint": "u__",
+      "word": "úc",
+      "answer": "úc",
+      "language": "vi",
+      "choices": [
+        "Mỹ",
+        "úc",
+        "Nhật Bản"
+      ]
+    }
+  },
+  "definition": "Australia",
+  "rank": 1290,
+  "notes_md": "**Úc** means **Australia**, the country. It’s a proper noun, so always capitalize it: **Úc**.\n\nOften used after prepositions like **ở, đến, sang, từ** (ở Úc, sang Úc, từ Úc). You can also say **nước Úc** when you want to stress “the country of Australia.”\n\nTo describe people or things, use it like: **người Úc** (Australian person), **tiếng Anh Úc** (Australian English).\n\nThink: **Úc = Australia** (same place, just Vietnamese name).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:22:23.037Z",
+    "id": "8d6e16b9-9cb6-40a9-a352-75fcaa78f5ed",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "Australia"
+      },
+      "translation": {
+        "en": "I want to go to Australia in the summer."
+      },
+      "choices": [],
+      "word": "úc",
+      "answer": "úc",
+      "language": "vi",
+      "sentence": "Tôi muốn đi ___ vào mùa hè."
+    },
+    "updatedAt": "2025-03-12T16:22:23.037Z"
+  },
+  "word": "úc",
+  "notes": "Úc means Australia, the country. It’s a proper noun, so always capitalize it: Úc.\n\nOften used after prepositions like ở, đến, sang, từ (ở Úc, sang Úc, từ Úc). You can also say nước Úc when you want to stress “the country of Australia.”\n\nTo describe people or things, use it like: người Úc (Australian person), tiếng Anh Úc (Australian English).\n\nThink: Úc = Australia (same place, just Vietnamese name).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:33:46.210Z",
+  "exampleSentencesTranslated": [
+    "His sister has lived in Australia for more than three years.",
+    "I want to travel to Australia to visit friends in the summer.",
+    "My parents like to watch Australia football on the weekends."
+  ],
+  "exampleSentences": [
+    "Chị của anh đã sống ở úc hơn ba năm rồi.",
+    "Em muốn du lịch đến úc để thăm bạn bè vào mùa hè.",
+    "Bố mẹ em thích xem bóng đá của úc vào cuối tuần."
+  ],
+  "choices": [
+    "mỹ",
+    "úc",
+    "anh"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "es": "Australia, un país y continente ubicado en el hemisferio sur.",
+      "en": "Australia, a country and continent located in the Southern Hemisphere.",
+      "vi": "Úc, một quốc gia và lục địa nằm ở bán cầu nam."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:53:05.983Z",
+    "translations": {
+      "vi": "Úc",
+      "en": "Australia",
+      "es": "Australia"
+    },
+    "example": {
+      "es": "Quiero viajar a Australia.",
+      "en": "I want to travel to Australia.",
+      "vi": "Tôi muốn đi du lịch đến Úc."
+    }
+  },
+  "_id": "rtiD5p5dO3VNOazpcdrP"
+}

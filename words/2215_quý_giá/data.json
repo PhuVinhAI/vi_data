@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "quý giá",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:17:47.622Z",
+    "type": "multiChoiceQuiz",
+    "id": "6a28a8d7-09a8-4504-93ca-3aee27369fd0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:47.622Z",
+    "content": {
+      "hint": "q___a",
+      "answer": "quý giá",
+      "translatedAnswer": {
+        "en": "precious"
+      },
+      "translation": {
+        "en": "Antiques are very precious in culture."
+      },
+      "sentence": "Đồ cổ rất ___ trong văn hóa.",
+      "language": "vi",
+      "word": "quý giá",
+      "choices": [
+        "hữu ích",
+        "quý giá",
+        "đẹp đẽ"
+      ]
+    }
+  },
+  "notes_md": "**Quý giá** means *precious* or *very valuable*, usually in an emotional or meaningful way, not just about money.  \n\nIt’s an adjective and goes before a noun: **quý giá + noun** (quý giá + món quà / kỷ niệm / cơ hội). It describes things like memories, time, relationships, opportunities, or special objects.  \n\nYou can also say something **trở nên quý giá hơn** when it becomes more meaningful over time.  \n\nClose synonym: **quý báu** (very similar, slightly more formal). Opposite idea: **vô giá trị** (worthless).",
+  "choices": [
+    "quý giá",
+    "bình thường",
+    "hài lòng"
+  ],
+  "rank": 2215,
+  "notes": "Quý giá means precious or very valuable, usually in an emotional or meaningful way, not just about money.  \n\nIt’s an adjective and goes before a noun: quý giá + noun (quý giá + món quà / kỷ niệm / cơ hội). It describes things like memories, time, relationships, opportunities, or special objects.  \n\nYou can also say something trở nên quý giá hơn when it becomes more meaningful over time.  \n\nClose synonym: quý báu (very similar, slightly more formal). Opposite idea: vô giá trị (worthless).",
+  "updatedAt": "2026-03-03T10:12:26.903Z",
+  "exampleSentences": [
+    "Em luôn giữ gìn những kỷ niệm quý giá với gia đình mình.",
+    "Chiếc đồng hồ này là món quà quý giá mà ông ngoại để lại cho anh.",
+    "Chị cảm thấy thời gian bên bạn bè thật quý giá sau một tuần bận rộn."
+  ],
+  "fillBlankQuiz": {
+    "id": "115987ef-caa1-44f6-8b73-1b4efa518e0a",
+    "content": {
+      "answer": "quý giá",
+      "translatedAnswer": {
+        "en": "precious"
+      },
+      "translation": {
+        "en": "Time is precious for everyone."
+      },
+      "sentence": "Thời gian là ___ cho mỗi người.",
+      "language": "vi",
+      "word": "quý giá",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T15:17:47.622Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:17:47.622Z"
+  },
+  "exampleSentencesTranslated": [
+    "I always keep the precious memories with my family.",
+    "This watch is a precious gift that my grandfather left for me.",
+    "She feels that time with friends is precious after a busy week."
+  ],
+  "definition": "precious",
+  "flashcard": {
+    "definitions": {
+      "vi": "Có giá trị; quý báu; có giá trị lớn.",
+      "es": "Valioso; precioso; de gran valor.",
+      "en": "Valuable; precious; of great worth."
+    },
+    "example": {
+      "en": "Time is the most valuable thing in life.",
+      "es": "El tiempo es lo más valioso en la vida.",
+      "vi": "Thời gian là thứ quý giá nhất trong cuộc sống."
+    },
+    "translations": {
+      "es": "valioso",
+      "vi": "quý giá",
+      "en": "valuable"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:52:22.485Z"
+  },
+  "_id": "bZZjFUerVWHqMxkgt75n"
+}

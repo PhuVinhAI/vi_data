@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "Be careful with fire in the kitchen."
+      },
+      "translatedAnswer": {
+        "en": "fire"
+      },
+      "hint": "l__a",
+      "answer": "lửa",
+      "choices": [
+        "nước",
+        "lửa",
+        "khói"
+      ],
+      "word": "lửa",
+      "sentence": "Cẩn thận với ___ trong bếp.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:35.414Z",
+    "id": "24096b15-5493-45fb-b065-8529faa9a540",
+    "updatedAt": "2025-03-12T13:29:35.414Z"
+  },
+  "rank": 1735,
+  "choices": [
+    "nước",
+    "lửa",
+    "gió"
+  ],
+  "notes_md": "**lửa** = fire, flame, something that burns and gives heat and light.  \n\nIt’s an uncountable noun in general, but you can use classifiers like **ngọn lửa** (a flame) or **đống lửa** (a fire pile).  \n\nCommon pairings: **bật lửa** (lighter), **cháy lửa** (burn intensely), **lửa lớn / lửa nhỏ** (high/low heat when cooking).  \n\nIt also often means strong emotion, like passion or anger: **lửa đam mê** (passion), **lửa giận** (anger).  \n\nFor memory: think of **lửa** not just as physical fire, but the “fire” inside someone too.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "lửa",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:29:35.414Z",
+    "id": "b2c94dbb-4275-46f1-b51a-62980e9e1973",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:35.414Z",
+    "content": {
+      "choices": [],
+      "word": "lửa",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để nấu ăn.",
+      "translation": {
+        "en": "We need fire to cook."
+      },
+      "translatedAnswer": {
+        "en": "fire"
+      },
+      "answer": "lửa"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Remember to turn off the fire before leaving the kitchen.",
+    "I like to sit around the fire and tell stories with friends in the evening.",
+    "When camping, people usually light a fire to cook and keep warm."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "El fuego es muy importante en la vida diaria.",
+      "vi": "Lửa rất quan trọng trong cuộc sống hàng ngày.",
+      "en": "Fire is very important in daily life."
+    },
+    "definitions": {
+      "es": "Un proceso de oxidación rápida que produce calor y luz.",
+      "vi": "Một quá trình oxi hóa nhanh tạo ra nhiệt và ánh sáng.",
+      "en": "A rapid oxidation process that produces heat and light."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:09:33.777Z",
+    "translations": {
+      "es": "fuego",
+      "vi": "lửa",
+      "en": "fire"
+    }
+  },
+  "definition": "fire",
+  "notes": "lửa = fire, flame, something that burns and gives heat and light.  \n\nIt’s an uncountable noun in general, but you can use classifiers like ngọn lửa (a flame) or đống lửa (a fire pile).  \n\nCommon pairings: bật lửa (lighter), cháy lửa (burn intensely), lửa lớn / lửa nhỏ (high/low heat when cooking).  \n\nIt also often means strong emotion, like passion or anger: lửa đam mê (passion), lửa giận (anger).  \n\nFor memory: think of lửa not just as physical fire, but the “fire” inside someone too.",
+  "exampleSentences": [
+    "Anh nhớ tắt lửa trước khi rời khỏi bếp nhé.",
+    "Em thích ngồi quanh lửa và kể chuyện với bạn bè vào buổi tối.",
+    "Khi cắm trại, mọi người thường đốt lửa để nấu ăn và sưởi ấm."
+  ],
+  "updatedAt": "2026-03-03T09:21:41.119Z",
+  "_id": "AnCkaK6D5oAEOzwgmWnu"
+}

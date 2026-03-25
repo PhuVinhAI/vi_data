@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hiểu biết",
+    "kỹ năng",
+    "thành công"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "hiểu biết",
+  "exampleSentences": [
+    "Anh ấy có nhiều hiểu biết về công nghệ thông tin.",
+    "Chị muốn mở rộng hiểu biết của mình về văn hóa Việt Nam.",
+    "Người có hiểu biết sẽ dễ dàng giải quyết vấn đề hơn."
+  ],
+  "rank": 1321,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "knowledge",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:52:11.732Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need knowledge about this topic."
+      },
+      "answer": "hiểu biết",
+      "translatedAnswer": {
+        "en": "knowledge"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ về chủ đề này.",
+      "word": "hiểu biết"
+    },
+    "updatedAt": "2025-03-12T13:52:11.732Z",
+    "id": "dab9fa5a-6898-4f3d-81af-2808f3e18c4f",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "hiểu biết = knowledge or understanding about something. It’s what you know and how well you understand it.\n\nIt’s a noun. Usually uncountable, but you can say những hiểu biết or một số hiểu biết when talking about specific pieces of knowledge.  \nOften used with có hiểu biết về + topic (có hiểu biết về kinh tế).  \nClose to kiến thức (more academic, book knowledge). Opposite idea: thiếu hiểu biết = lacking knowledge.",
+  "updatedAt": "2026-03-03T08:37:09.053Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:52:11.732Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi có ___ về văn hóa Việt Nam.",
+      "word": "hiểu biết",
+      "translatedAnswer": {
+        "en": "knowledge"
+      },
+      "translation": {
+        "en": "I have knowledge about Vietnamese culture."
+      },
+      "answer": "hiểu biết",
+      "choices": [
+        "kiến thức",
+        "hiểu biết",
+        "thông tin"
+      ],
+      "hint": "h____"
+    },
+    "createdAt": "2025-03-12T13:52:11.732Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "1f679ec5-5479-4155-b46c-50e45842e101"
+  },
+  "notes_md": "**hiểu biết** = knowledge or understanding about something. It’s what you know and how well you understand it.\n\nIt’s a **noun**. Usually uncountable, but you can say *những hiểu biết* or *một số hiểu biết* when talking about specific pieces of knowledge.  \nOften used with **có hiểu biết về + topic** (có hiểu biết về kinh tế).  \nClose to **kiến thức** (more academic, book knowledge). Opposite idea: **thiếu hiểu biết** = lacking knowledge.",
+  "exampleSentencesTranslated": [
+    "He has a lot of knowledge about information technology.",
+    "She wants to expand her knowledge of Vietnamese culture.",
+    "A person with knowledge will solve problems more easily."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Tengo conocimiento sobre la cultura vietnamita.",
+      "vi": "Tôi có hiểu biết về văn hóa Việt Nam.",
+      "en": "I have knowledge about Vietnamese culture."
+    },
+    "createdAt": "2025-01-28T11:30:05.664Z",
+    "translations": {
+      "en": "knowledge",
+      "vi": "hiểu biết",
+      "es": "conocimiento"
+    },
+    "definitions": {
+      "vi": "Khả năng hiểu và tiếp thu thông tin.",
+      "es": "La capacidad de entender y adquirir información.",
+      "en": "The ability to understand and gain information."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "GO7N77s1N4zVggVDmKGp"
+}

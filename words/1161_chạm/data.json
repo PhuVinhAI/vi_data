@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chạm",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:23:03.255Z",
+    "id": "e9835a61-d811-46db-acb6-4688fe76a65b",
+    "content": {
+      "choices": [
+        "chạm",
+        "nhìn",
+        "sờ"
+      ],
+      "word": "chạm",
+      "sentence": "Tôi không thể ___ vào bức tranh.",
+      "language": "vi",
+      "translation": {
+        "en": "I cannot touch the painting."
+      },
+      "translatedAnswer": {
+        "en": "touch"
+      },
+      "answer": "chạm",
+      "hint": "c___m"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:03.255Z",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**chạm** = to touch something with your hand or body. It’s about physical contact, usually light or brief.\n\nYou almost always say **chạm vào + object** when you mean “touch something.”  \n\nIt can also be more abstract: “reach” or “touch” a level, number, or goal (like touching a limit).  \n\nClose synonym: **đụng (vào)** — similar meaning, but can feel a bit more accidental or rough.",
+  "choices": [
+    "chạm",
+    "cảm",
+    "chạy"
+  ],
+  "rank": 1161,
+  "notes": "chạm = to touch something with your hand or body. It’s about physical contact, usually light or brief.\n\nYou almost always say chạm vào + object when you mean “touch something.”  \n\nIt can also be more abstract: “reach” or “touch” a level, number, or goal (like touching a limit).  \n\nClose synonym: đụng (vào) — similar meaning, but can feel a bit more accidental or rough.",
+  "updatedAt": "2026-03-03T08:19:14.908Z",
+  "exampleSentences": [
+    "Em đừng chạm vào bức tranh này vì nó rất dễ bị hỏng.",
+    "Anh vô tình chạm vào điện thoại của chị khi lấy áo khoác.",
+    "Nếu muốn mở cửa, em chỉ cần chạm nhẹ vào nút màu xanh."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:23:03.255Z",
+    "type": "fillBlankQuiz",
+    "id": "b294e9e6-7afd-4f5b-a1e0-9628af46b961",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:23:03.255Z",
+    "content": {
+      "translation": {
+        "en": "I want to touch your hand."
+      },
+      "translatedAnswer": {
+        "en": "touch"
+      },
+      "answer": "chạm",
+      "choices": [],
+      "word": "chạm",
+      "sentence": "Tôi muốn ___ vào tay của bạn.",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Don't touch this painting because it is very easy to damage.",
+    "I accidentally touch your phone when getting my jacket.",
+    "If you want to open the door, you just need to touch the green button lightly."
+  ],
+  "definition": "touch",
+  "flashcard": {
+    "example": {
+      "en": "I touch the painting.",
+      "es": "Toco la pintura.",
+      "vi": "Tôi chạm vào bức tranh."
+    },
+    "definitions": {
+      "es": "Hacer contacto físico con algo.",
+      "vi": "Tạo ra sự tiếp xúc vật lý với một cái gì đó.",
+      "en": "To make physical contact with something."
+    },
+    "createdAt": "2025-01-28T12:57:48.438Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "touch",
+      "es": "tocar",
+      "vi": "chạm"
+    }
+  },
+  "_id": "dAVVDaUM9wog0FuqoHNR"
+}

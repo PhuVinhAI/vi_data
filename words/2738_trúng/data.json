@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "hit, strike, win",
+      "es": "acertar, golpear, ganar",
+      "vi": "trúng"
+    },
+    "example": {
+      "en": "I won the lottery and I'm very happy.",
+      "es": "Gané la lotería y estoy muy feliz.",
+      "vi": "Tôi đã trúng số và rất vui."
+    },
+    "definitions": {
+      "en": "to hit, to strike, to win (as in a lottery or game)",
+      "es": "acertar, golpear, ganar (como en una lotería o juego)",
+      "vi": "đánh trúng, trúng thưởng, thắng (như trong xổ số hoặc trò chơi)"
+    },
+    "createdAt": "2025-01-28T12:37:24.495Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "If I win the lottery, I will buy a new car.",
+    "I hope I will win the big prize in this contest.",
+    "She is very happy because she finally win the study abroad scholarship."
+  ],
+  "fillBlankQuiz": {
+    "id": "b19e5a43-ea8b-4082-a436-b66b4e78f2d0",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:04:58.245Z",
+    "updatedAt": "2025-03-12T15:04:58.245Z",
+    "content": {
+      "word": "trúng",
+      "language": "vi",
+      "answer": "trúng",
+      "sentence": "Tôi đã ___ số vé xổ số.",
+      "translation": {
+        "en": "I won the lottery tickets."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "won"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T11:41:54.932Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "win",
+  "notes_md": "**trúng** = to win (a prize, lottery, competition). That’s the most common meaning.\n\nIt’s a verb: **trúng + giải/xổ số/cuộc thi** to talk about winning something by luck or competition.  \nIt also means “hit” physically or correctly, like hitting a target or getting something right.  \n\nAnother very common meaning: to be affected by something bad, especially illness or bad wind.  \n\nOpposite idea for “win” is **thua** (lose) — nice clear pair to remember.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2738,
+  "choices": [
+    "trúng",
+    "giúp",
+    "chọn"
+  ],
+  "word": "trúng",
+  "exampleSentences": [
+    "Nếu em trúng xổ số, em sẽ mua một chiếc xe mới.",
+    "Anh hy vọng mình sẽ trúng giải thưởng lớn trong cuộc thi này.",
+    "Chị rất vui vì cuối cùng cũng trúng học bổng du học."
+  ],
+  "notes": "trúng = to win (a prize, lottery, competition). That’s the most common meaning.\n\nIt’s a verb: trúng + giải/xổ số/cuộc thi to talk about winning something by luck or competition.  \nIt also means “hit” physically or correctly, like hitting a target or getting something right.  \n\nAnother very common meaning: to be affected by something bad, especially illness or bad wind.  \n\nOpposite idea for “win” is thua (lose) — nice clear pair to remember.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:04:58.245Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I hope that I will win the prize."
+      },
+      "translatedAnswer": {
+        "en": "win"
+      },
+      "choices": [
+        "trúng",
+        "thua",
+        "mất"
+      ],
+      "answer": "trúng",
+      "hint": "t___ng",
+      "word": "trúng",
+      "language": "vi",
+      "sentence": "Tôi mong rằng tôi sẽ ___ giải thưởng."
+    },
+    "updatedAt": "2025-03-12T15:04:58.245Z",
+    "id": "7e57a249-f787-450c-b6be-16bcb131796b"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "YEjz5oQbULoYmh28e19S"
+}

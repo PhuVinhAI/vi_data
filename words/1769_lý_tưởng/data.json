@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "ideal",
+      "es": "ideal",
+      "vi": "lý tưởng"
+    },
+    "example": {
+      "en": "Everyone has their own ideal to live by.",
+      "es": "Cada persona tiene su propio ideal para vivir.",
+      "vi": "Mỗi người đều có một lý tưởng sống riêng."
+    },
+    "createdAt": "2025-01-28T12:29:55.693Z",
+    "definitions": {
+      "en": "A standard of perfection or excellence.",
+      "es": "Un estándar de perfección o excelencia.",
+      "vi": "Một tiêu chuẩn của sự hoàn hảo hoặc xuất sắc."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T09:25:26.603Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "71819799-9ac8-4546-ab11-8e981badd82c",
+    "createdAt": "2025-03-12T14:56:50.071Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "ideal"
+      },
+      "choices": [],
+      "translation": {
+        "en": "Everyone has their own ideal."
+      },
+      "sentence": "Mọi người đều có ___ riêng.",
+      "answer": "lý tưởng",
+      "word": "lý tưởng",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:56:50.071Z"
+  },
+  "exampleSentencesTranslated": [
+    "He is always looking for an ideal job to develop himself.",
+    "She thinks that a house near the sea is ideal for her family.",
+    "For me, an ideal life is doing what I love every day."
+  ],
+  "definition": "ideal",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**lý tưởng** = ideal, perfect for a purpose. It describes something that fits your needs or expectations very well.\n\nAs an adjective, it usually comes **after the noun**: *N + lý tưởng*. It often talks about jobs, places, plans, lifestyles, partners, etc.\n\nIt can also be a **noun** meaning “ideal” or “life ideal,” often in phrases like *lý tưởng sống* (life ideal) or *có lý tưởng* (to have ideals).\n\n\nClose to **hoàn hảo** (perfect), but *lý tưởng* is more about being right for a purpose, not flawless.",
+  "rank": 1769,
+  "choices": [
+    "lý tưởng",
+    "hiện thực",
+    "bình thường"
+  ],
+  "notes": "lý tưởng = ideal, perfect for a purpose. It describes something that fits your needs or expectations very well.\n\nAs an adjective, it usually comes after the noun: N + lý tưởng. It often talks about jobs, places, plans, lifestyles, partners, etc.\n\nIt can also be a noun meaning “ideal” or “life ideal,” often in phrases like lý tưởng sống (life ideal) or có lý tưởng (to have ideals).\n\nClose to hoàn hảo (perfect), but lý tưởng is more about being right for a purpose, not flawless.",
+  "exampleSentences": [
+    "Anh luôn tìm kiếm một công việc lý tưởng để phát triển bản thân.",
+    "Chị nghĩ rằng một ngôi nhà gần biển là lý tưởng cho gia đình mình.",
+    "Đối với em, cuộc sống lý tưởng là được làm việc mình yêu thích mỗi ngày."
+  ],
+  "word": "lý tưởng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "a03d61b5-89ea-44a8-8041-6cda1e2109c5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:56:50.071Z",
+    "updatedAt": "2025-03-12T14:56:50.071Z",
+    "content": {
+      "sentence": "Họ luôn theo đuổi ___ của mình.",
+      "language": "vi",
+      "word": "lý tưởng",
+      "hint": "l___n",
+      "answer": "lý tưởng",
+      "translatedAnswer": {
+        "en": "ideal"
+      },
+      "choices": [
+        "mục tiêu",
+        "lý tưởng",
+        "kế hoạch"
+      ],
+      "translation": {
+        "en": "They always pursue their ideal."
+      }
+    }
+  },
+  "_id": "VyBsU4QnKWBF3hwK5rCC"
+}

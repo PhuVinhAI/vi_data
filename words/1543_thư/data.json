@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-03-03T09:01:12.799Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "word": "thư",
+    "createdAt": "2025-05-24T16:31:42.619Z",
+    "definitions": {
+      "en": "A written message sent to someone, usually by mail.",
+      "vi": "Văn bản viết để gửi tin tức, thông điệp cho ai đó."
+    },
+    "example": {
+      "vi": "Tôi vừa nhận được một bức thư từ bạn thân.",
+      "en": "I just received a letter from my close friend."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "letter"
+    }
+  },
+  "word": "thư",
+  "exampleSentencesTranslated": [
+    "I received a letter from an old friend yesterday.",
+    "I like to write a letter by hand to send to my parents in the countryside.",
+    "I will read your letter tonight when I am free."
+  ],
+  "notes_md": "**thư** = letter (a written message you send to someone).\n\nIt’s a countable noun. You often say **một lá thư** or **một bức thư** (both mean “a letter”), and use **những / các** for plural. Common verbs with it: **viết thư, gửi thư, nhận thư, đọc thư, trả lời thư**.\n\nIt can also appear in fixed phrases like **thư mời** (invitation letter) or **thư điện tử** (email).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:51:09.491Z",
+    "updatedAt": "2025-03-12T15:51:09.491Z",
+    "content": {
+      "translation": {
+        "en": "She received a letter from her mother."
+      },
+      "word": "thư",
+      "language": "vi",
+      "choices": [
+        "thư",
+        "quà",
+        "hình"
+      ],
+      "sentence": "Cô ấy nhận được ___ từ mẹ.",
+      "hint": "th__",
+      "translatedAnswer": {
+        "en": "letter"
+      },
+      "answer": "thư"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4561bf67-dced-495e-bac7-1f88f38aad35"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1543,
+  "notes": "thư = letter (a written message you send to someone).\n\nIt’s a countable noun. You often say một lá thư or một bức thư (both mean “a letter”), and use những / các for plural. Common verbs with it: viết thư, gửi thư, nhận thư, đọc thư, trả lời thư.\n\nIt can also appear in fixed phrases like thư mời (invitation letter) or thư điện tử (email).",
+  "definition": "letter",
+  "exampleSentences": [
+    "Em đã nhận được một thư từ người bạn cũ hôm qua.",
+    "Anh thích viết thư tay gửi cho bố mẹ ở quê.",
+    "Chị sẽ đọc thư của em vào tối nay khi rảnh."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:51:09.491Z",
+    "createdAt": "2025-03-12T15:51:09.491Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "048cb3a2-c1f4-45cb-93ea-e919cfc44478",
+    "content": {
+      "translation": {
+        "en": "I have sent a letter to you."
+      },
+      "word": "thư",
+      "language": "vi",
+      "choices": [],
+      "sentence": "Tôi đã gửi ___ cho bạn.",
+      "answer": "thư",
+      "translatedAnswer": {
+        "en": "letter"
+      }
+    }
+  },
+  "choices": [
+    "thơ",
+    "thư",
+    "thứ"
+  ],
+  "_id": "jsX461CmEL8o9NCQcuj6"
+}

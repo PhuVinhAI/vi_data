@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:56:02.877Z",
+    "updatedAt": "2025-03-12T12:56:02.877Z",
+    "content": {
+      "word": "đêm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "night"
+      },
+      "hint": "d___m",
+      "translation": {
+        "en": "We will go for a walk at night."
+      },
+      "choices": [
+        "sáng",
+        "trưa",
+        "đêm"
+      ],
+      "answer": "đêm",
+      "sentence": "Chúng ta sẽ đi dạo vào ___."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "39468021-3131-49fc-9f57-a732d5fa7e23",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Tối qua anh không ngủ được nên thức suốt cả đêm.",
+    "Chị thích đi dạo ngoài trời vào đêm vì không khí rất mát.",
+    "Em thường học bài vào đêm để chuẩn bị cho kỳ thi."
+  ],
+  "definition": "night",
+  "rank": 824,
+  "flashcard": {
+    "createdAt": "2025-01-28T10:39:29.083Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+      "vi": "Thời gian tối trong mỗi hai mươi bốn giờ; thời gian từ lúc mặt trời lặn đến khi mặt trời mọc.",
+      "es": "El período de oscuridad en cada veinticuatro horas; el tiempo desde el atardecer hasta el amanecer."
+    },
+    "example": {
+      "es": "Me gusta pasear por la noche.",
+      "en": "I like to take walks at night.",
+      "vi": "Tôi thích đi dạo vào đêm."
+    },
+    "translations": {
+      "es": "noche",
+      "en": "night",
+      "vi": "đêm"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "đêm = night, the time from late evening until early morning when it’s dark. It’s a noun.\n\nYou can count it with một đêm, hai đêm… (no classifier needed). Common pairings: ban đêm (at night), giữa đêm (in the middle of the night), suốt đêm (all night), qua đêm (overnight).\n\nCompare with tối (evening). Tối is earlier (after sunset), while đêm feels later and deeper into the night.\n\nOpposite idea: ban ngày (daytime).",
+  "choices": [
+    "đêm",
+    "sáng",
+    "chiều"
+  ],
+  "word": "đêm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Last night I couldn't sleep so I stayed up all night.",
+    "She likes to take a walk outside at night because the air is very cool.",
+    "I usually study at night to prepare for the exam."
+  ],
+  "notes_md": "**đêm** = night, the time from late evening until early morning when it’s dark. It’s a **noun**.\n\nYou can count it with **một đêm, hai đêm…** (no classifier needed). Common pairings: **ban đêm** (at night), **giữa đêm** (in the middle of the night), **suốt đêm** (all night), **qua đêm** (overnight).\n\nCompare with **tối** (evening). *Tối* is earlier (after sunset), while *đêm* feels later and deeper into the night.\n\nOpposite idea: **ban ngày** (daytime).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:56:02.877Z",
+    "updatedAt": "2025-03-12T12:56:02.877Z",
+    "id": "ca67b4ed-547c-4a8b-ab3e-c4e35881ba4e",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "đêm",
+      "sentence": "Tôi thích nhìn sao vào ___.",
+      "word": "đêm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "night"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I like to look at stars at night."
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T07:44:01.056Z",
+  "_id": "1keTaorM5QxyIG9TTOQi"
+}

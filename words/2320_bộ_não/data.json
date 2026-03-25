@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:24:06.147Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "b___ n__",
+      "answer": "bộ não",
+      "translation": {
+        "en": "Humans use the brain to think."
+      },
+      "word": "bộ não",
+      "choices": [
+        "bộ não",
+        "tâm trí",
+        "trí tuệ"
+      ],
+      "translatedAnswer": {
+        "en": "brain"
+      },
+      "language": "vi",
+      "sentence": "Con người sử dụng ___ để suy nghĩ."
+    },
+    "updatedAt": "2025-03-12T14:31:59.945Z",
+    "id": "28db7dae-83bd-4c93-8a21-53eb45c69674",
+    "createdAt": "2025-03-12T14:31:59.945Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "bộ não",
+  "exampleSentencesTranslated": [
+    "I think the human brain is very complex.",
+    "You need to rest so your brain works better.",
+    "I read books every day to train my brain."
+  ],
+  "rank": 2320,
+  "notes": "bộ não = brain, the organ in your head that controls thinking, memory, and the body. It’s used for both humans and animals.\n\n“Bộ” is part of the fixed noun; you don’t drop it in normal speech. You’ll often see it in possessive phrases.\n\nStructure: bộ não của + someone/something (bộ não của tôi)\n\nIt can also be used metaphorically for a very smart person (like “the brain” of a team). Related word: trí óc (mind, more abstract than the physical brain).",
+  "choices": [
+    "bộ não",
+    "trái tim",
+    "dạ dày"
+  ],
+  "exampleSentences": [
+    "Anh nghĩ rằng bộ não của con người rất phức tạp.",
+    "Chị cần nghỉ ngơi để bộ não hoạt động tốt hơn.",
+    "Em đọc sách mỗi ngày để rèn luyện bộ não của mình."
+  ],
+  "notes_md": "**bộ não** = brain, the organ in your head that controls thinking, memory, and the body. It’s used for both humans and animals.\n\n“Bộ” is part of the fixed noun; you don’t drop it in normal speech. You’ll often see it in possessive phrases.\n\n`Structure: bộ não của + someone/something` (bộ não của tôi)\n\nIt can also be used metaphorically for a very smart person (like “the brain” of a team). Related word: **trí óc** (mind, more abstract than the physical brain).",
+  "flashcard": {
+    "definitions": {
+      "en": "The organ in the body that controls thought, memory, feelings, and activity.",
+      "vi": "Cơ quan trong cơ thể điều khiển suy nghĩ, trí nhớ, cảm xúc và hoạt động.",
+      "es": "El órgano en el cuerpo que controla el pensamiento, la memoria, los sentimientos y la actividad."
+    },
+    "createdAt": "2025-01-28T12:07:50.281Z",
+    "example": {
+      "es": "El cerebro humano es muy complejo.",
+      "vi": "Bộ não của con người rất phức tạp.",
+      "en": "The human brain is very complex."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bộ não",
+      "en": "brain",
+      "es": "cerebro"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "brain",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:31:59.945Z",
+    "id": "282714ce-6381-411a-9e25-ef7881ed7dfd",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "bộ não",
+      "translation": {
+        "en": "Humans use the brain to think."
+      },
+      "answer": "bộ não",
+      "translatedAnswer": {
+        "en": "brain"
+      },
+      "language": "vi",
+      "sentence": "Con người sử dụng ___ để suy nghĩ."
+    },
+    "updatedAt": "2025-03-12T14:31:59.945Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "QCJHeV6pBaOmctMSxvGu"
+}

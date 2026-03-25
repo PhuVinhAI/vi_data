@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:48:37.877Z",
+    "createdAt": "2025-03-12T15:48:37.877Z",
+    "id": "af25bc8e-82c3-4e43-9028-176e70ea7e7d",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Người ___ lặng lẽ đứng ở đó.",
+      "choices": [
+        "đàn bà",
+        "đàn ông",
+        "trẻ em"
+      ],
+      "hint": "đ___n",
+      "translatedAnswer": {
+        "en": "man"
+      },
+      "answer": "đàn ông",
+      "translation": {
+        "en": "The man stood quietly over there."
+      },
+      "word": "đàn ông",
+      "language": "vi"
+    }
+  },
+  "notes_md": "**đàn ông** = adult man (a grown male person). It’s used for men, usually adults, not boys.\n\nIt’s a countable noun: *một người đàn ông*, *hai người đàn ông*. The word **đàn ông** doesn’t change in plural; the number shows it.\n\nIt feels more “adult” than *con trai* (boy/son). A more formal synonym is *nam giới* (often used in news or official talk), and the opposite is *phụ nữ* (women).  \n\nSometimes it also implies “manly” qualities in context, but basically it just means “man.”",
+  "exampleSentencesTranslated": [
+    "He is a kind man and always helps everyone.",
+    "Many man like to play sports with friends on the weekend.",
+    "My father is a hardworking man and loves his family very much."
+  ],
+  "updatedAt": "2026-03-03T07:36:03.650Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đàn ông",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đàn ông",
+      "en": "man",
+      "es": "hombre"
+    },
+    "definitions": {
+      "es": "Un ser humano masculino.",
+      "en": "A male human being.",
+      "vi": "Một con người nam giới."
+    },
+    "createdAt": "2025-01-28T13:21:14.250Z",
+    "example": {
+      "es": "Los hombres suelen gustar del deporte.",
+      "en": "Men often like sports.",
+      "vi": "Đàn ông thường thích thể thao."
+    }
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:48:37.877Z",
+    "updatedAt": "2025-03-12T15:48:37.877Z",
+    "content": {
+      "sentence": "Đó là ___ trong gia đình.",
+      "translatedAnswer": {
+        "en": "man"
+      },
+      "answer": "đàn ông",
+      "language": "vi",
+      "word": "đàn ông",
+      "translation": {
+        "en": "He is the man in the family."
+      }
+    },
+    "id": "de5c0db6-bf4f-46da-bdc1-9028b2548381",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "choices": [
+    "phụ nữ",
+    "đàn ông",
+    "trẻ em"
+  ],
+  "exampleSentences": [
+    "Anh ấy là một đàn ông tốt bụng và luôn giúp đỡ mọi người.",
+    "Nhiều đàn ông thích chơi thể thao vào cuối tuần cùng bạn bè.",
+    "Bố em là một đàn ông chăm chỉ và rất yêu gia đình."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "đàn ông = adult man (a grown male person). It’s used for men, usually adults, not boys.\n\nIt’s a countable noun: một người đàn ông, hai người đàn ông. The word đàn ông doesn’t change in plural; the number shows it.\n\nIt feels more “adult” than con trai (boy/son). A more formal synonym is nam giới (often used in news or official talk), and the opposite is phụ nữ (women).  \n\nSometimes it also implies “manly” qualities in context, but basically it just means “man.”",
+  "definition": "man",
+  "rank": 743,
+  "_id": "j9WdOfOTNRUvDY4Pq8a8"
+}

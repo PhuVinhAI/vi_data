@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:44:47.837Z",
+    "definitions": {
+      "es": "La combinación de características o cualidades que forman el carácter distintivo de un individuo.",
+      "en": "The combination of characteristics or qualities that form an individual's distinctive character.",
+      "vi": "Sự kết hợp của các đặc điểm hoặc phẩm chất tạo thành tính cách đặc trưng của một cá nhân."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Ella tiene una personalidad muy alegre.",
+      "en": "She has a very cheerful personality.",
+      "vi": "Cô ấy có một tính cách rất vui vẻ."
+    },
+    "translations": {
+      "vi": "tính cách",
+      "en": "personality",
+      "es": "personalidad"
+    }
+  },
+  "rank": 1162,
+  "definition": "personality",
+  "exampleSentences": [
+    "Anh ấy có tính cách vui vẻ nên ai cũng quý mến.",
+    "Chị muốn biết thêm về tính cách của bạn mới.",
+    "Mỗi người đều có tính cách riêng biệt không ai giống ai."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "67e2210b-ed0c-4950-bdab-9d45a94088e3",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Cô ấy có ___ tốt.",
+      "answer": "tính cách",
+      "choices": [
+        "tính cách",
+        "tâm hồn",
+        "hành động"
+      ],
+      "translation": {
+        "en": "She has a good personality."
+      },
+      "hint": "t___cách",
+      "word": "tính cách",
+      "translatedAnswer": {
+        "en": "personality"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:02:14.654Z",
+    "updatedAt": "2025-03-12T13:02:14.654Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tính cách",
+  "choices": [
+    "tính cách",
+    "kỹ năng",
+    "thành công"
+  ],
+  "notes": "Tính cách = personality, the way someone usually thinks, feels, and behaves. It describes someone’s inner character, not their mood right now.\n\nIt’s a noun. Often used with có (có tính cách mạnh, có tính cách hiền) or with adjectives after it (tính cách hướng ngoại, tính cách trầm). You can also say tính cách của + someone to show whose personality it is.\n\nClose words: tính tình (more about temperament/behavior style), nhân cách (more formal, about moral character).",
+  "notes_md": "**Tính cách** = personality, the way someone usually thinks, feels, and behaves. It describes someone’s inner character, not their mood right now.\n\nIt’s a noun. Often used with **có** (có tính cách mạnh, có tính cách hiền) or with adjectives after it (tính cách hướng ngoại, tính cách trầm). You can also say **tính cách của + someone** to show whose personality it is.\n\nClose words: **tính tình** (more about temperament/behavior style), **nhân cách** (more formal, about moral character).",
+  "exampleSentencesTranslated": [
+    "He has a cheerful personality so everyone likes him.",
+    "I want to know more about the new friend's personality.",
+    "Everyone has their own unique personality."
+  ],
+  "updatedAt": "2026-03-03T08:19:19.834Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:02:14.654Z",
+    "updatedAt": "2025-03-12T13:02:14.654Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy có ___ tốt.",
+      "answer": "tính cách",
+      "choices": [],
+      "translation": {
+        "en": "She has a good personality."
+      },
+      "word": "tính cách",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "personality"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "206aec9d-fce1-436e-acbb-cab443d6e1ab"
+  },
+  "_id": "3bDNM7pmsQDsGjvNAjKv"
+}

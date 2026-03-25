@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một phản hồi hoặc phản ứng đối với một kích thích hoặc tình huống.",
+      "en": "A response or reaction to a stimulus or situation.",
+      "es": "Una respuesta o reacción a un estímulo o situación."
+    },
+    "createdAt": "2025-01-28T10:42:18.369Z",
+    "example": {
+      "es": "Cuando me enfrento a una situación difícil, siempre tengo una reacción rápida.",
+      "en": "When faced with a difficult situation, I always have a quick reaction.",
+      "vi": "Khi gặp tình huống khó khăn, tôi luôn có phản ứng nhanh."
+    },
+    "translations": {
+      "es": "reacción",
+      "vi": "phản ứng",
+      "en": "reaction"
+    }
+  },
+  "rank": 1654,
+  "definition": "reaction",
+  "exampleSentences": [
+    "Anh muốn biết phản ứng của em khi nghe tin này.",
+    "Phản ứng của mọi người với món ăn mới thật thú vị.",
+    "Khi gặp tình huống bất ngờ, chị luôn giữ phản ứng bình tĩnh."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:59:15.157Z",
+    "updatedAt": "2025-03-12T12:59:15.157Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "Students need to have a good reaction in class."
+      },
+      "choices": [
+        "phản ứng",
+        "phản hồi",
+        "trả lời"
+      ],
+      "word": "phản ứng",
+      "translatedAnswer": {
+        "en": "reaction"
+      },
+      "language": "vi",
+      "hint": "p___n",
+      "sentence": "Học sinh cần có ___ tốt trong lớp.",
+      "answer": "phản ứng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "a44326c1-1090-49ee-b0c1-20cf8c628403"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "phản ứng",
+  "notes": "phản ứng = reaction. It’s what someone does or feels after something happens.\n\nIt’s a noun: một phản ứng, những phản ứng. Often used with words like nhanh, mạnh, tiêu cực, tích cực.  \n\nIt also very commonly means a chemical reaction (phản ứng hóa học).  \nClose words: đáp ứng (response, more about meeting a need), phản hồi (feedback, usually verbal).",
+  "choices": [
+    "phản ứng",
+    "kết quả",
+    "thảo luận"
+  ],
+  "notes_md": "**phản ứng** = reaction. It’s what someone does or feels after something happens.\n\nIt’s a noun: *một phản ứng, những phản ứng*. Often used with words like *nhanh, mạnh, tiêu cực, tích cực*.  \n\n\nIt also very commonly means a **chemical reaction** (*phản ứng hóa học*).  \nClose words: *đáp ứng* (response, more about meeting a need), *phản hồi* (feedback, usually verbal).",
+  "exampleSentencesTranslated": [
+    "I want to know your reaction when you hear this news.",
+    "The reaction of everyone to the new dish was really interesting.",
+    "When facing unexpected situations, she always keeps a calm reaction."
+  ],
+  "updatedAt": "2026-03-03T09:12:55.961Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:59:15.157Z",
+    "updatedAt": "2025-03-12T12:59:15.157Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "phản ứng",
+      "sentence": "Cô ấy không có ___ với tình huống này.",
+      "translatedAnswer": {
+        "en": "reaction"
+      },
+      "language": "vi",
+      "word": "phản ứng",
+      "translation": {
+        "en": "She has no reaction to this situation."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "88107f3d-b4fb-4f27-b29d-028279282a46"
+  },
+  "_id": "2f3HCUkpn9JGuwe1PR9a"
+}

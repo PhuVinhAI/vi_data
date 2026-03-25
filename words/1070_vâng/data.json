@@ -1,0 +1,99 @@
+{
+  "rank": 1070,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Yes, I will do that.",
+      "es": "Sí, lo haré.",
+      "vi": "Vâng, tôi sẽ làm điều đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vâng",
+      "es": "sí",
+      "en": "yes"
+    },
+    "definitions": {
+      "vi": "Một từ được sử dụng để diễn đạt sự đồng ý hoặc xác nhận.",
+      "es": "Una palabra utilizada para expresar acuerdo o afirmación.",
+      "en": "A word used to express agreement or affirmation."
+    },
+    "createdAt": "2025-01-28T11:59:35.514Z"
+  },
+  "exampleSentences": [
+    "Vâng, em sẽ giúp anh dọn dẹp phòng khách ngay bây giờ.",
+    "Nếu chị cần thêm thông tin, vâng, em có thể gửi email cho chị.",
+    "Vâng, anh đồng ý đi xem phim cùng em vào tối nay."
+  ],
+  "notes_md": "**vâng** = yes (polite). It’s a respectful way to say “yes,” especially to someone older, higher status, or in a formal situation.\n\nIt’s usually used alone as a response, or at the beginning of a reply to show respect. Softer and more polite than **ừ** (casual “yeah”).  \n\nIn the South, people often say **dạ** instead of **vâng** in everyday speech; in the North, **vâng** is more common.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:12:23.786Z",
+    "updatedAt": "2025-03-12T14:12:23.786Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "vâng",
+      "translatedAnswer": {
+        "en": "yes"
+      },
+      "choices": [
+        "không",
+        "có",
+        "vâng"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "She answered yes when I asked."
+      },
+      "sentence": "Cô ấy đã trả lời ___ khi tôi hỏi.",
+      "hint": "v___g",
+      "word": "vâng"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "19129ecb-b7f7-4f3f-92ec-63447bf01d30"
+  },
+  "word": "vâng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "yes",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "vâng",
+      "translatedAnswer": {
+        "en": "yes"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "Do you want to go yes?"
+      },
+      "sentence": "Bạn có ___ muốn đi không?",
+      "word": "vâng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "cc23cc70-1f17-42ae-ae20-f2301d617457",
+    "createdAt": "2025-03-12T14:12:23.786Z",
+    "updatedAt": "2025-03-12T14:12:23.786Z"
+  },
+  "notes": "vâng = yes (polite). It’s a respectful way to say “yes,” especially to someone older, higher status, or in a formal situation.\n\nIt’s usually used alone as a response, or at the beginning of a reply to show respect. Softer and more polite than ừ (casual “yeah”).  \n\nIn the South, people often say dạ instead of vâng in everyday speech; in the North, vâng is more common.",
+  "exampleSentencesTranslated": [
+    "Yes, I will help you clean the living room right now.",
+    "If you need more information, yes, I can email you.",
+    "Yes, I agree to go to the movies with you tonight."
+  ],
+  "choices": [
+    "không",
+    "vâng",
+    "có thể"
+  ],
+  "updatedAt": "2026-03-03T08:10:05.314Z",
+  "_id": "LHvmi5apogE2xmxOREQa"
+}

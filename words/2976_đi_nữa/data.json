@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:41:49.912Z",
+    "content": {
+      "hint": "đ___a",
+      "choices": [
+        "đi nữa",
+        "đi chơi",
+        "đi về"
+      ],
+      "translation": {
+        "en": "Do you want to go again?"
+      },
+      "answer": "đi nữa",
+      "translatedAnswer": {
+        "en": "go again"
+      },
+      "word": "đi nữa",
+      "sentence": "Bạn có muốn ___ không?",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:41:49.912Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b19fc5c5-728a-420a-89fc-9e38b62c1363",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**đi nữa** means *even if / even though*, often adding a “no matter what” feeling to what you just said.\n\nIt’s a function phrase placed **after the main clause**, to show that the result won’t change despite a condition. It often sounds determined or reassuring.\n\n\nIt’s similar to **dù… cũng…**, but *đi nữa* is usually shorter and comes after the first statement instead of starting the sentence.\n\nYou’ll hear it when someone wants to emphasize commitment or persistence, like “I’ll still do it, even if…”",
+  "exampleSentencesTranslated": [
+    "I will still help you, even if/though it rains heavily.",
+    "She will try to finish the work, even if/though there are difficulties.",
+    "I want to study Vietnamese every day, even if/though I am busy."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:20:31.096Z",
+    "example": {
+      "en": "Let's go further to the beach.",
+      "es": "Vamos a ir más lejos a la playa.",
+      "vi": "Chúng ta hãy đi nữa đến bãi biển."
+    },
+    "translations": {
+      "en": "go further",
+      "vi": "đi nữa",
+      "es": "ir más lejos"
+    },
+    "definitions": {
+      "es": "ir más lejos; continuar yendo",
+      "vi": "đi tiếp; tiếp tục đi",
+      "en": "to go further; to continue going"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "id": "efa467b4-2561-4199-97df-b1753ee7afa5",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:41:49.912Z",
+    "content": {
+      "answer": "đi nữa",
+      "translation": {
+        "en": "Do you want to go again?"
+      },
+      "translatedAnswer": {
+        "en": "go again"
+      },
+      "language": "vi",
+      "word": "đi nữa",
+      "sentence": "Bạn có muốn ___ không?"
+    },
+    "updatedAt": "2025-03-12T13:41:49.912Z"
+  },
+  "notes": "đi nữa means even if / even though, often adding a “no matter what” feeling to what you just said.\n\nIt’s a function phrase placed after the main clause, to show that the result won’t change despite a condition. It often sounds determined or reassuring.\n\nIt’s similar to dù… cũng…, but đi nữa is usually shorter and comes after the first statement instead of starting the sentence.\n\nYou’ll hear it when someone wants to emphasize commitment or persistence, like “I’ll still do it, even if…”",
+  "updatedAt": "2026-03-03T18:18:34.043Z",
+  "choices": [
+    "đi nữa",
+    "dù sao",
+    "vẫn còn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "even if/though",
+  "word": "đi nữa",
+  "exampleSentences": [
+    "Anh vẫn sẽ giúp em, đi nữa trời có mưa to.",
+    "Chị sẽ cố gắng hoàn thành công việc, đi nữa có khó khăn gì.",
+    "Em muốn đi học tiếng Việt mỗi ngày, đi nữa có bận rộn."
+  ],
+  "rank": 2976,
+  "_id": "DsgRIgM2fayuysQQsqEm"
+}

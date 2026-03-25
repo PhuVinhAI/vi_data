@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:36:38.664Z",
+    "definitions": {
+      "en": "A word by which a person or thing is known.",
+      "es": "Una palabra por la cual se conoce a una persona o cosa.",
+      "vi": "Một từ mà một người hoặc một vật được biết đến."
+    },
+    "example": {
+      "en": "My name is An.",
+      "es": "Mi nombre es An.",
+      "vi": "Tên của tôi là An."
+    },
+    "translations": {
+      "en": "name",
+      "es": "nombre",
+      "vi": "tên"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you tell me your name?",
+    "Please write your name on this list for me.",
+    "He forgot the name of the person he met yesterday."
+  ],
+  "fillBlankQuiz": {
+    "id": "1554a34b-7193-4154-9a0c-80926e2104e9",
+    "createdAt": "2025-03-12T15:04:21.632Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "word": "tên",
+      "answer": "tên",
+      "sentence": "Tên của tôi là ___.",
+      "translation": {
+        "en": "My name is name."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "name"
+      }
+    },
+    "updatedAt": "2025-03-12T15:04:21.632Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:50:03.137Z",
+  "definition": "name",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tên** = name (what someone or something is called).\n\nIt’s a noun. You usually don’t need a classifier with it. Often used in patterns like saying your name, asking someone’s name, or calling someone’s name.\n\n\nCommon pairings: **họ tên** (full name), **tên gọi** (the name something is called), **đổi tên** (change name), **gọi tên** (call someone’s name).",
+  "rank": 286,
+  "choices": [
+    "tên",
+    "tuổi",
+    "nhà"
+  ],
+  "word": "tên",
+  "notes": "tên = name (what someone or something is called).\n\nIt’s a noun. You usually don’t need a classifier with it. Often used in patterns like saying your name, asking someone’s name, or calling someone’s name.\n\nCommon pairings: họ tên (full name), tên gọi (the name something is called), đổi tên (change name), gọi tên (call someone’s name).",
+  "exampleSentences": [
+    "Em có thể cho anh biết tên của em được không?",
+    "Chị ghi tên vào danh sách này giúp em nhé.",
+    "Anh ấy quên mất tên người bạn mới gặp hôm qua."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "3b818437-d56d-48fe-b8df-b25826a56f96",
+    "updatedAt": "2025-03-12T15:04:21.632Z",
+    "content": {
+      "sentence": "Tôi muốn biết ___ của bạn.",
+      "hint": "t__n",
+      "answer": "tên",
+      "language": "vi",
+      "word": "tên",
+      "translatedAnswer": {
+        "en": "name"
+      },
+      "choices": [
+        "họ",
+        "tên",
+        "tuổi"
+      ],
+      "translation": {
+        "en": "I want to know your name."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:04:21.632Z"
+  },
+  "_id": "Xzd6o5z9qpPib4vpIv8U"
+}

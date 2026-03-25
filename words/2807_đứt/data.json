@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đứt",
+    "dài",
+    "chặt"
+  ],
+  "rank": 2807,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:11:47.304Z",
+    "updatedAt": "2025-03-12T15:11:47.304Z",
+    "content": {
+      "sentence": "Dây điện bị ___ ở đây.",
+      "hint": "đ___",
+      "answer": "đứt",
+      "word": "đứt",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "broken"
+      },
+      "choices": [
+        "hỏng",
+        "đứt",
+        "rách"
+      ],
+      "translation": {
+        "en": "The wire is broken here."
+      }
+    },
+    "id": "7dedd4ec-c630-4c3e-9f88-acc1c1fed00c"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đứt",
+  "notes": "đứt = to snap / be broken (for things like rope, wire, string, connection). It’s used when something is separated because it breaks under force.\n\nUsually intransitive: something bị đứt (it snaps).  \n\nIt’s common for thin, long things: dây, sợi, cáp, gân, mạch. It can also be figurative: đứt liên lạc (lose contact), đứt hơi (out of breath), đứt quãng (interrupted).\n\nStrong contrast: đứt (snap apart) vs rách (tear, like paper or fabric).",
+  "exampleSentences": [
+    "Sáng nay dây điện ở ngoài đường bị đứt vì gió mạnh.",
+    "Em cẩn thận kéo nhẹ thôi kẻo sợi chỉ sẽ đứt.",
+    "Anh thấy tai nghe của mình bị đứt nên không dùng được nữa."
+  ],
+  "exampleSentencesTranslated": [
+    "This morning, the electric wire outside was broken because of strong wind.",
+    "Be careful to pull gently or the thread will be broken.",
+    "I see that my headphones are broken so I can't use them anymore."
+  ],
+  "updatedAt": "2026-03-03T17:59:23.336Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "broken"
+      },
+      "choices": [],
+      "translation": {
+        "en": "The wire is broken here."
+      },
+      "sentence": "Dây điện bị ___ ở đây.",
+      "word": "đứt",
+      "language": "vi",
+      "answer": "đứt"
+    },
+    "updatedAt": "2025-03-12T15:11:47.304Z",
+    "createdAt": "2025-03-12T15:11:47.304Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "ec68d0bb-8d42-4bf4-9b6e-0d21563b941f"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To break or snap, especially in reference to a physical object.",
+      "es": "Romperse o quebrarse, especialmente en referencia a un objeto físico.",
+      "vi": "Bị gãy hoặc bị đứt, đặc biệt là liên quan đến một vật thể."
+    },
+    "createdAt": "2025-01-28T12:46:30.859Z",
+    "example": {
+      "en": "The rope broke when pulled too hard.",
+      "es": "La cuerda se rompió cuando se tiró demasiado fuerte.",
+      "vi": "Dây thừng bị đứt khi kéo quá mạnh."
+    },
+    "translations": {
+      "en": "break",
+      "es": "romper",
+      "vi": "đứt"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đứt** = to snap / be broken (for things like rope, wire, string, connection). It’s used when something is separated because it breaks under force.\n\nUsually intransitive: something **bị đứt** (it snaps).  \n\nIt’s common for thin, long things: dây, sợi, cáp, gân, mạch. It can also be figurative: *đứt liên lạc* (lose contact), *đứt hơi* (out of breath), *đứt quãng* (interrupted).\n\nStrong contrast: **đứt** (snap apart) vs **rách** (tear, like paper or fabric).",
+  "definition": "broken (usually referring to something like a string, rope, or connection that has snapped or separated)",
+  "_id": "aD01BtEcv2IcwKUIu2G2"
+}

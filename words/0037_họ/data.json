@@ -1,0 +1,101 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f7bc3ebf-7a85-4bde-adac-be546c91b7f6",
+    "content": {
+      "choices": [
+        "họ",
+        "bạn",
+        "cô"
+      ],
+      "word": "họ",
+      "language": "vi",
+      "sentence": "Tôi gặp ___ ở trường.",
+      "translation": {
+        "en": "I met them at school."
+      },
+      "translatedAnswer": {
+        "en": "them"
+      },
+      "hint": "h__",
+      "answer": "họ"
+    },
+    "createdAt": "2025-03-12T13:27:44.152Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T13:27:44.152Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 37,
+  "sentenceBreakdowns": [
+    "Họ (they) + ăn (eat) + cơm (rice) + tối (evening) + nay (this)",
+    "Họ (they) + uống (drink) + cà (coffee) + phê (coffee) + sáng (morning) + nay (this)",
+    "Họ (they) + mua (buy) + áo (shirt) + mới (new) + hôm (day) + nay (this)"
+  ],
+  "choices": [
+    "anh",
+    "họ",
+    "chị"
+  ],
+  "notes_md": "**họ** = **they** (a group of people). It’s used for third person plural, when you’re not including yourself.\n\nIt’s neutral and works for any group: friends, coworkers, strangers. It doesn’t show age or gender.\n\nVietnamese often drops the subject if it’s clear, so **họ** may be omitted in conversation.\n\nStronger contrast: **họ** (they) vs **chúng tôi / chúng ta** (we).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "họ",
+  "exampleSentencesTranslated": [
+    "They eat rice tonight.",
+    "They drink coffee this morning.",
+    "They buy a new shirt today."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:27:44.152Z",
+    "id": "a84d80c9-d63f-450f-b824-caca49181cbf",
+    "createdAt": "2025-03-12T13:27:44.152Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I know them very well."
+      },
+      "translatedAnswer": {
+        "en": "them"
+      },
+      "answer": "họ",
+      "choices": [],
+      "word": "họ",
+      "sentence": "Tôi biết ___ ấy rất tốt.",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "createdAt": "2025-05-24T16:19:51.244Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "they"
+    },
+    "example": {
+      "en": "They are playing soccer outside.",
+      "vi": "Họ đang chơi bóng đá ngoài sân."
+    },
+    "definitions": {
+      "en": "A pronoun used to refer to a group of people, usually third person plural.",
+      "vi": "Đại từ dùng để chỉ một nhóm người, thường là ngôi thứ ba số nhiều."
+    },
+    "word": "họ"
+  },
+  "definition": "they",
+  "notes": "họ = they (a group of people). It’s used for third person plural, when you’re not including yourself.\n\nIt’s neutral and works for any group: friends, coworkers, strangers. It doesn’t show age or gender.\n\nVietnamese often drops the subject if it’s clear, so họ may be omitted in conversation.\n\nStronger contrast: họ (they) vs chúng tôi / chúng ta (we).",
+  "exampleSentences": [
+    "Họ ăn cơm tối nay.",
+    "Họ uống cà phê sáng nay.",
+    "Họ mua áo mới hôm nay."
+  ],
+  "updatedAt": "2026-03-03T06:06:53.818Z",
+  "_id": "AJmPu5QcnjbZjPUDz87z"
+}

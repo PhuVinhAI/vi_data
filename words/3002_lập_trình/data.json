@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T18:21:44.179Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:54:48.759Z",
+    "content": {
+      "translation": {
+        "en": "I am learning programming."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "programming"
+      },
+      "word": "lập trình",
+      "language": "vi",
+      "answer": "lập trình",
+      "sentence": "Tôi đang học ___ mới."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:54:48.759Z",
+    "id": "fa9a5bce-f681-43df-ba30-7848d6f9bbbe"
+  },
+  "exampleSentencesTranslated": [
+    "I am learning computer programming to create mobile applications.",
+    "I find computer programming very interesting and want to try it.",
+    "I want to join a computer programming course this summer."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I am learning programming to develop applications.",
+      "es": "Estoy aprendiendo a programar para desarrollar aplicaciones.",
+      "vi": "Tôi đang học lập trình để phát triển ứng dụng."
+    },
+    "translations": {
+      "en": "programming",
+      "es": "programación",
+      "vi": "lập trình"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The process of designing and building executable computer software to accomplish a specific task.",
+      "es": "El proceso de diseñar y construir software informático ejecutable para realizar una tarea específica.",
+      "vi": "Quá trình thiết kế và xây dựng phần mềm máy tính có thể thực thi để hoàn thành một nhiệm vụ cụ thể."
+    },
+    "createdAt": "2025-01-28T12:27:56.152Z"
+  },
+  "notes_md": "**lập trình** means *to program* — to write code so a computer, app, or machine does something. It can also mean *programming* as an activity or field.\n\nIt’s usually used as a verb, but Vietnamese doesn’t change the form when it acts like a noun. You’ll often see it with things like **máy tính, web, game, phần mềm, robot**.  \n\n\nCommon pairings: **ngôn ngữ lập trình** (programming language), **dân lập trình** (coders/programmers, casual), **học lập trình** (to study programming).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "computer programming",
+  "choices": [
+    "lập trình",
+    "thiết kế",
+    "dịch thuật"
+  ],
+  "rank": 3002,
+  "multiChoiceQuiz": {
+    "id": "05a6fe68-9a8f-42e8-ac58-ee10a134c346",
+    "content": {
+      "answer": "lập trình",
+      "hint": "l___g",
+      "word": "lập trình",
+      "language": "vi",
+      "sentence": "Tôi học ___ mỗi ngày.",
+      "translation": {
+        "en": "I study programming every day."
+      },
+      "translatedAnswer": {
+        "en": "programming"
+      },
+      "choices": [
+        "lập trình",
+        "toán học",
+        "ngôn ngữ"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:54:48.759Z",
+    "createdAt": "2025-03-12T14:54:48.759Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đang học lập trình để tạo ra ứng dụng di động.",
+    "Em thấy lập trình rất thú vị và muốn thử sức với nó.",
+    "Chị muốn tham gia khóa học lập trình vào mùa hè này."
+  ],
+  "notes": "lập trình means to program — to write code so a computer, app, or machine does something. It can also mean programming as an activity or field.\n\nIt’s usually used as a verb, but Vietnamese doesn’t change the form when it acts like a noun. You’ll often see it with things like máy tính, web, game, phần mềm, robot.  \n\nCommon pairings: ngôn ngữ lập trình (programming language), dân lập trình (coders/programmers, casual), học lập trình (to study programming).",
+  "word": "lập trình",
+  "_id": "VIZ13mbpfvcJOXFF0lLC"
+}

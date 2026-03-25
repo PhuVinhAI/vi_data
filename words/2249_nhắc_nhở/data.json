@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "The teacher always reminds the students to do their homework.",
+      "vi": "Cô giáo luôn nhắc nhở học sinh làm bài tập về nhà.",
+      "es": "La maestra siempre recuerda a los estudiantes que hagan su tarea."
+    },
+    "definitions": {
+      "vi": "Nhắc ai đó về một điều gì đó.",
+      "es": "Recordar a alguien sobre algo.",
+      "en": "To remind someone about something."
+    },
+    "createdAt": "2025-01-28T13:07:14.926Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "remind",
+      "vi": "nhắc nhở",
+      "es": "recordar"
+    }
+  },
+  "definition": "remind",
+  "exampleSentencesTranslated": [
+    "I often have to remind you to go to bed early to stay healthy.",
+    "Can you remind me to bring an umbrella when it is about to rain?",
+    "Every morning, mom always remind me to have breakfast before going to school."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "word": "nhắc nhở",
+      "language": "vi",
+      "sentence": "Tôi cần ___ bạn về cuộc hẹn.",
+      "choices": [],
+      "answer": "nhắc nhở",
+      "translation": {
+        "en": "I need to remind you about the appointment."
+      },
+      "translatedAnswer": {
+        "en": "remind"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:32:29.341Z",
+    "id": "d76f3faf-5316-4739-9d00-5a431114968a",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:32:29.341Z"
+  },
+  "updatedAt": "2026-03-03T10:16:05.611Z",
+  "exampleSentences": [
+    "Em thường phải nhắc nhở anh đi ngủ sớm để giữ sức khỏe.",
+    "Chị có thể nhắc nhở em mang ô khi trời sắp mưa không?",
+    "Mỗi sáng, mẹ luôn nhắc nhở con ăn sáng trước khi đến trường."
+  ],
+  "notes": "nhắc nhở = to remind someone, often with a slight sense of warning or correcting. It’s stronger than just nhắc — it can imply “don’t forget” or “you should do better.”\n\nUsed when someone points out a mistake or tells you to pay attention. Often about rules, duties, habits, behavior.\n\nClose words: nhắc (lighter, more neutral), dặn (more caring, like advice), cảnh cáo (much stronger, like a warning from authority).",
+  "notes_md": "**nhắc nhở** = to remind someone, often with a slight sense of warning or correcting. It’s stronger than just *nhắc* — it can imply “don’t forget” or “you should do better.”\n\nUsed when someone points out a mistake or tells you to pay attention. Often about rules, duties, habits, behavior.\n\n\nClose words: *nhắc* (lighter, more neutral), *dặn* (more caring, like advice), *cảnh cáo* (much stronger, like a warning from authority).",
+  "rank": 2249,
+  "choices": [
+    "quên",
+    "nhắc nhở",
+    "chào hỏi"
+  ],
+  "multiChoiceQuiz": {
+    "id": "9d9e363a-8fb7-4465-9b38-fab141d6951f",
+    "content": {
+      "translatedAnswer": {
+        "en": "remind"
+      },
+      "translation": {
+        "en": "She will remind us on Monday."
+      },
+      "hint": "n___ n___",
+      "answer": "nhắc nhở",
+      "choices": [
+        "nhắc nhở",
+        "hướng dẫn",
+        "khuyên bảo"
+      ],
+      "sentence": "Cô ấy sẽ ___ chúng ta vào thứ Hai.",
+      "language": "vi",
+      "word": "nhắc nhở"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:32:29.341Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:32:29.341Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhắc nhở",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "fU4vr8Vus2BznqujJHmZ"
+}

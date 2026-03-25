@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you wait for me a moment?",
+    "We have to wait for the bus at this stop.",
+    "Mom told me to wait outside the door after school."
+  ],
+  "updatedAt": "2026-03-03T07:58:03.002Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:27:12.503Z",
+    "definitions": {
+      "en": "To wait for something or someone.",
+      "es": "Esperar algo o a alguien.",
+      "vi": "Chờ đợi một cái gì đó hoặc một ai đó."
+    },
+    "example": {
+      "en": "I am waiting for the bus.",
+      "es": "Estoy esperando el autobús.",
+      "vi": "Tôi đang chờ xe buýt."
+    },
+    "translations": {
+      "es": "esperar",
+      "en": "wait",
+      "vi": "chờ"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "chờ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I need to wait a bit."
+      },
+      "word": "chờ",
+      "hint": "c___",
+      "choices": [
+        "đợi",
+        "chờ",
+        "ngừng"
+      ],
+      "sentence": "Tôi cần ___ một chút.",
+      "translatedAnswer": {
+        "en": "wait"
+      },
+      "answer": "chờ"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f8ed26fe-011e-45df-aca0-0b2ed919c8da",
+    "createdAt": "2025-03-12T15:55:06.908Z",
+    "updatedAt": "2025-03-12T15:55:06.908Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chờ** = to wait. You stay in one place or delay action until someone/something happens.\n\nIt’s a verb, usually followed by a person or thing: you wait **for** someone/something (no extra word like “for” in Vietnamese).  \n\nYou can also use **chờ để + verb** when there’s a purpose.  \n\nClose synonym: **đợi** (very similar; often interchangeable). **Chờ đợi** feels longer or more patient, like waiting for a long time.",
+  "notes": "chờ = to wait. You stay in one place or delay action until someone/something happens.\n\nIt’s a verb, usually followed by a person or thing: you wait for someone/something (no extra word like “for” in Vietnamese).  \n\nYou can also use chờ để + verb when there’s a purpose.  \n\nClose synonym: đợi (very similar; often interchangeable). Chờ đợi feels longer or more patient, like waiting for a long time.",
+  "definition": "wait",
+  "rank": 960,
+  "choices": [
+    "chơi",
+    "chờ",
+    "chở"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:55:06.908Z",
+    "updatedAt": "2025-03-12T15:55:06.908Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "wait"
+      },
+      "answer": "chờ",
+      "choices": [],
+      "sentence": "Tôi sẽ ___ bạn ở đây.",
+      "translation": {
+        "en": "I will wait for you here."
+      },
+      "word": "chờ",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "85124609-07d0-4dc5-b609-b6f08cade706"
+  },
+  "exampleSentences": [
+    "Anh có thể chờ em một chút được không?",
+    "Chúng ta phải chờ xe buýt ở trạm này.",
+    "Mẹ dặn em chờ ở ngoài cửa khi tan học."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "kpeUGc6XXgKYp4hz4rls"
+}

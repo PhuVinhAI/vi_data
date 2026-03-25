@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "anh chị",
+    "bạn bè",
+    "cha mẹ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "anh chị",
+  "exampleSentences": [
+    "Anh chị thường giúp em làm bài tập về nhà mỗi tối.",
+    "Khi anh chị đi làm về, cả nhà cùng nhau ăn cơm tối.",
+    "Anh chị đã dạy em rất nhiều điều bổ ích trong cuộc sống."
+  ],
+  "rank": 744,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "older siblings",
+  "fillBlankQuiz": {
+    "id": "428a98db-ec2d-486b-9dca-94dfa8ad45a0",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi đã gặp ___ ở trường.",
+      "word": "anh chị",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "you"
+      },
+      "answer": "anh chị",
+      "translation": {
+        "en": "I met you at school."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:55:59.683Z",
+    "updatedAt": "2025-03-12T13:55:59.683Z"
+  },
+  "notes": "Anh chị means older siblings (older brother and/or older sister). It can refer to one or both, depending on context.\n\nIt’s a noun phrase: anh = older brother, chị = older sister. You’ll often hear it as a pair to mean “older siblings” in general.\n\nVery commonly, anh or chị is also used as a polite way to address someone slightly older than you (like “you” with respect).  \n\nStrong connection: contrasts with em (younger sibling / younger person).",
+  "updatedAt": "2026-03-03T07:36:07.804Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi đã gặp ___ ở trường.",
+      "word": "anh chị",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "you"
+      },
+      "answer": "anh chị",
+      "translation": {
+        "en": "I met you at school."
+      },
+      "hint": "a___h",
+      "choices": [
+        "các bạn",
+        "anh chị",
+        "bạn bè"
+      ]
+    },
+    "createdAt": "2025-03-12T13:55:59.683Z",
+    "updatedAt": "2025-03-12T13:55:59.683Z",
+    "id": "1b7f5c70-cbfa-4c4e-aad0-07e58b0a167d",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Anh chị** means *older siblings* (older brother and/or older sister). It can refer to one or both, depending on context.\n\nIt’s a noun phrase: **anh** = older brother, **chị** = older sister. You’ll often hear it as a pair to mean “older siblings” in general.\n\nVery commonly, **anh** or **chị** is also used as a polite way to address someone slightly older than you (like “you” with respect).  \n\nStrong connection: contrasts with **em** (younger sibling / younger person).",
+  "exampleSentencesTranslated": [
+    "Older siblings often help me with homework every night.",
+    "When older siblings come home from work, the whole family has dinner together.",
+    "Older siblings have taught me many useful things in life."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "brother or sister",
+      "es": "hermano o hermana",
+      "vi": "anh chị"
+    },
+    "createdAt": "2025-01-28T11:33:49.208Z",
+    "example": {
+      "en": "Can you help me, brother or sister?",
+      "vi": "Anh chị có thể giúp tôi không?",
+      "es": "¿Puedes ayudarme, hermano o hermana?"
+    },
+    "definitions": {
+      "es": "Hermano o hermana; se utiliza para referirse a hermanos mayores o como una forma educada de dirigirse a alguien.",
+      "vi": "Anh chị; dùng để chỉ anh em ruột lớn hơn hoặc như một cách xưng hô lịch sự.",
+      "en": "Brother or sister; used to refer to older siblings or as a polite form of address."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "HlL17i1SYurWHUDxRNz6"
+}

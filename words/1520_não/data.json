@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T14:11:23.740Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Cơ quan trong cơ thể điều khiển suy nghĩ, trí nhớ, cảm xúc và hoạt động.",
+      "es": "El órgano en el cuerpo que controla el pensamiento, la memoria, los sentimientos y la actividad.",
+      "en": "The organ in the body that controls thought, memory, feelings, and activity."
+    },
+    "example": {
+      "en": "I have a very good brain.",
+      "es": "Tengo un cerebro muy bueno.",
+      "vi": "Tôi có một cái não rất tốt."
+    },
+    "translations": {
+      "vi": "não",
+      "en": "brain",
+      "es": "cerebro"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Não means brain — the physical organ in your head.  \n\nIt’s a noun. You’ll often hear bộ não (more natural than just não alone) when talking about the brain as a system or as “the mind.”  \n\nCommon pairings: tổn thương não (brain damage), chảy máu não (brain hemorrhage), động não (to brainstorm).  \n\nThere’s also não bộ, which is more formal/scientific and often used in medical or academic contexts.",
+  "choices": [
+    "não",
+    "tim",
+    "phổi"
+  ],
+  "updatedAt": "2026-03-03T08:58:45.580Z",
+  "exampleSentences": [
+    "Bác sĩ nói rằng tập thể dục rất tốt cho não của em.",
+    "Em cảm thấy não mình mệt sau một ngày làm việc dài.",
+    "Anh đọc sách mỗi ngày để giữ cho não luôn khỏe mạnh."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "n__",
+      "word": "não",
+      "sentence": "Tôi đau ___ quá.",
+      "translation": {
+        "en": "I have a headache."
+      },
+      "answer": "não",
+      "choices": [
+        "tim",
+        "não",
+        "mắt"
+      ],
+      "translatedAnswer": {
+        "en": "headache"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:39:37.853Z",
+    "createdAt": "2025-03-12T16:39:37.853Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "867309f0-47a2-46c3-87d1-58ff5bca76a2"
+  },
+  "word": "não",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The doctor said that exercising is very good for your brain.",
+    "I feel my brain is tired after a long day of work.",
+    "I read books every day to keep my brain healthy."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Não** means *brain* — the physical organ in your head.  \n\nIt’s a noun. You’ll often hear **bộ não** (more natural than just *não* alone) when talking about the brain as a system or as “the mind.”  \n\nCommon pairings: **tổn thương não** (brain damage), **chảy máu não** (brain hemorrhage), **động não** (to brainstorm).  \n\nThere’s also **não bộ**, which is more formal/scientific and often used in medical or academic contexts.",
+  "definition": "brain",
+  "rank": 1520,
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "não",
+      "sentence": "Tôi đau ___ quá.",
+      "translatedAnswer": {
+        "en": "headache"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I have a headache."
+      },
+      "answer": "não",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:39:37.853Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:39:37.853Z",
+    "id": "321aa0a4-2740-49f7-9b5b-05fcf5623e2f"
+  },
+  "_id": "whQzDThPkAVO8kud2C2J"
+}

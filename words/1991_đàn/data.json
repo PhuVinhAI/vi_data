@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T13:50:49.363Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un instrumento musical, especialmente instrumentos de cuerda como la guitarra o el violín.",
+      "en": "A musical instrument, especially stringed instruments like guitar or violin.",
+      "vi": "Một nhạc cụ, đặc biệt là các nhạc cụ dây như guitar hoặc violin."
+    },
+    "translations": {
+      "vi": "đàn",
+      "es": "guitarra",
+      "en": "guitar"
+    },
+    "example": {
+      "en": "She plays the guitar very well.",
+      "es": "Ella toca la guitarra muy bien.",
+      "vi": "Cô ấy chơi đàn rất hay."
+    }
+  },
+  "choices": [
+    "đèn",
+    "đàn",
+    "đạn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Cuối tuần này anh dạy em chơi đàn ở công viên nhé.",
+    "Chị mua một cây đàn mới để tập mỗi tối.",
+    "Em mang đàn theo, lát nữa mình hát chung ở quán cà phê."
+  ],
+  "exampleSentencesTranslated": [
+    "This weekend, I will teach you to play guitar in the park.",
+    "She bought a new guitar to practice every night.",
+    "Bring the guitar; later we will sing together at the café."
+  ],
+  "updatedAt": "2026-03-03T09:48:45.933Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đàn usually means a musical instrument, especially a string instrument like a guitar or piano. Alone, it often implies “guitar” in casual talk.\n\nIt’s a noun. Use cây đàn when counting (một cây đàn, hai cây đàn). Common verbs: chơi đàn (play an instrument), đánh đàn (play, often piano/zither style).\n\nVery common second meaning: đàn = a herd/flock of animals (đàn bò, đàn gà), so context matters.",
+  "word": "đàn",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I like to play the guitar every day."
+      },
+      "translatedAnswer": {
+        "en": "guitar"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "đàn",
+      "word": "đàn",
+      "sentence": "Tôi thích chơi ___ mỗi ngày."
+    },
+    "updatedAt": "2025-03-12T16:19:41.681Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:19:41.681Z",
+    "id": "79f33c7b-2656-46a0-913e-779d3088373d"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1991,
+  "notes_md": "**đàn** usually means a musical instrument, especially a **string instrument** like a guitar or piano. Alone, it often implies “guitar” in casual talk.\n\nIt’s a noun. Use **cây đàn** when counting (một cây đàn, hai cây đàn). Common verbs: **chơi đàn** (play an instrument), **đánh đàn** (play, often piano/zither style).\n\n\nVery common second meaning: **đàn** = a herd/flock of animals (đàn bò, đàn gà), so context matters.",
+  "definition": "guitar",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:19:41.681Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "06f16b91-a690-47e0-86e4-8ef931252b2a",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "đàn",
+      "answer": "đàn",
+      "language": "vi",
+      "choices": [
+        "đàn",
+        "sáo",
+        "trống"
+      ],
+      "translation": {
+        "en": "She is learning a new instrument."
+      },
+      "translatedAnswer": {
+        "en": "instrument"
+      },
+      "hint": "d___n",
+      "sentence": "Cô ấy đang học ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:19:41.681Z"
+  },
+  "_id": "rN2qFZ6cFSHmyncW7zNf"
+}

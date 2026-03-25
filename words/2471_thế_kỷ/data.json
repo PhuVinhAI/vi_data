@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "siglo",
+      "en": "century",
+      "vi": "thế kỷ"
+    },
+    "definitions": {
+      "es": "Un período de cien años.",
+      "vi": "Một khoảng thời gian một trăm năm.",
+      "en": "A period of one hundred years."
+    },
+    "createdAt": "2025-01-28T12:13:14.012Z",
+    "example": {
+      "vi": "Thế kỷ 21 là thời đại công nghệ.",
+      "en": "The 21st century is the age of technology.",
+      "es": "El siglo XXI es la era de la tecnología."
+    }
+  },
+  "notes_md": "**Thế kỷ** means *century* — a period of 100 years. It’s used to talk about history, time periods, or big changes over long time.\n\nIt’s a countable noun: *một thế kỷ, hai thế kỷ, vài thế kỷ*.  \nYou often combine it with time markers like *đầu thế kỷ* (early), *giữa thế kỷ* (mid), *cuối thế kỷ* (late).\n\n\nIt’s more formal than *100 năm* — use *thế kỷ* when talking about historical periods, not just counting years.",
+  "exampleSentences": [
+    "Anh thích tìm hiểu về lịch sử của thế kỷ trước.",
+    "Cuốn sách này nói về các phát minh trong thế kỷ hai mươi.",
+    "Bức tranh này được vẽ vào đầu thế kỷ mười chín."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:37:30.636Z",
+    "content": {
+      "translation": {
+        "en": "We are living in this century."
+      },
+      "answer": "thế kỷ",
+      "word": "thế kỷ",
+      "choices": [],
+      "sentence": "Chúng ta đang sống ở ___ này.",
+      "translatedAnswer": {
+        "en": "century"
+      },
+      "language": "vi"
+    },
+    "id": "cf084669-b89f-4c6e-b1c4-b9ebdcf924b0",
+    "createdAt": "2025-03-12T14:37:30.636Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "century",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "thế kỷ",
+      "choices": [
+        "thế hệ",
+        "thế kỷ",
+        "thế giới"
+      ],
+      "hint": "th___ kỷ",
+      "translation": {
+        "en": "We are living in this century."
+      },
+      "answer": "thế kỷ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "century"
+      },
+      "sentence": "Chúng ta đang sống ở ___ này."
+    },
+    "updatedAt": "2025-03-12T14:37:30.636Z",
+    "type": "multiChoiceQuiz",
+    "id": "e81ecd37-59cc-42ca-8e8f-8ce320e4b8b8",
+    "createdAt": "2025-03-12T14:37:30.636Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "thế kỷ",
+  "rank": 2471,
+  "exampleSentencesTranslated": [
+    "He likes learning about the history of the century before.",
+    "This book is about inventions in the twentieth century.",
+    "This painting was made at the beginning of the nineteenth century."
+  ],
+  "updatedAt": "2026-03-03T10:39:06.216Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thập niên",
+    "thế kỷ",
+    "năm"
+  ],
+  "notes": "Thế kỷ means century — a period of 100 years. It’s used to talk about history, time periods, or big changes over long time.\n\nIt’s a countable noun: một thế kỷ, hai thế kỷ, vài thế kỷ.  \nYou often combine it with time markers like đầu thế kỷ (early), giữa thế kỷ (mid), cuối thế kỷ (late).\n\nIt’s more formal than 100 năm — use thế kỷ when talking about historical periods, not just counting years.",
+  "_id": "RJ8N4ntMJ94eZrYWGcYJ"
+}

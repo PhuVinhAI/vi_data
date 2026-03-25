@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Tiến means to move forward or to advance. It can be physical (moving ahead) or abstract (making progress).\n\nAs a verb, it often goes with things like công việc, dự án, sự nghiệp, quân đội, tiền bạc. You’ll also see it in fixed pairs like tiến bộ (to improve) and tiến hành (to carry out).\n\nOpposite idea: lùi (to move back). Think of tiến = forward energy.",
+  "exampleSentences": [
+    "Anh luôn cố gắng tiến trong công việc để đạt được mục tiêu.",
+    "Nếu mọi người cùng hợp tác, dự án sẽ tiến nhanh hơn.",
+    "Chị ấy muốn tiến lên phía trước để nhìn rõ hơn."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "lùi",
+    "tiến",
+    "nghỉ"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "di chuyển về phía trước hoặc tiến lên.",
+      "es": "moverse hacia adelante o avanzar.",
+      "en": "to move forward or advance."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:38:47.552Z",
+    "translations": {
+      "vi": "tiến",
+      "es": "avanzar",
+      "en": "advance"
+    },
+    "example": {
+      "es": "Necesitamos avanzar.",
+      "en": "We need to move forward.",
+      "vi": "Chúng ta cần tiến lên phía trước."
+    }
+  },
+  "updatedAt": "2026-03-03T08:50:58.214Z",
+  "exampleSentencesTranslated": [
+    "He always tries to advance in his job to achieve his goals.",
+    "If everyone works together, the project will advance faster.",
+    "She wants to advance to the front to see more clearly."
+  ],
+  "notes_md": "**Tiến** means *to move forward* or *to advance*. It can be physical (moving ahead) or abstract (making progress).\n\nAs a verb, it often goes with things like **công việc, dự án, sự nghiệp, quân đội, tiền bạc**. You’ll also see it in fixed pairs like **tiến bộ** (to improve) and **tiến hành** (to carry out).\n\n\nOpposite idea: **lùi** (to move back). Think of *tiến* = forward energy.",
+  "rank": 1451,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "progress"
+      },
+      "translation": {
+        "en": "We need progress in work."
+      },
+      "hint": "t___n",
+      "word": "tiến",
+      "answer": "tiến",
+      "language": "vi",
+      "choices": [
+        "tiến",
+        "dừng",
+        "thụt lùi"
+      ],
+      "sentence": "Chúng ta cần ___ trong công việc."
+    },
+    "updatedAt": "2025-03-12T16:07:08.199Z",
+    "createdAt": "2025-03-12T16:07:08.199Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f2931a87-14da-4dde-92e2-c865270ea597"
+  },
+  "definition": "advance",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:07:08.199Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ trong công việc.",
+      "choices": [],
+      "word": "tiến",
+      "language": "vi",
+      "answer": "tiến",
+      "translation": {
+        "en": "We need progress in work."
+      },
+      "translatedAnswer": {
+        "en": "progress"
+      }
+    },
+    "id": "8a2f1cea-f25a-41cd-b152-f088768733bc",
+    "createdAt": "2025-03-12T16:07:08.199Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "tiến",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "o6nYL8kV6TDnz0O22DEJ"
+}

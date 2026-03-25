@@ -1,0 +1,99 @@
+{
+  "rank": 1199,
+  "exampleSentences": [
+    "Anh có thể lấy giúp em một cốc nước không?",
+    "Mỗi sáng chị thường uống cà phê bằng một cốc lớn.",
+    "Trên bàn có ba cốc trà dành cho khách."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:52:48.338Z",
+    "translations": {
+      "vi": "cốc",
+      "es": "taza",
+      "en": "cup"
+    },
+    "definitions": {
+      "en": "A small container used for drinking beverages.",
+      "es": "Un pequeño recipiente utilizado para beber líquidos.",
+      "vi": "Một cái chứa nhỏ dùng để uống đồ uống."
+    },
+    "example": {
+      "en": "I drink water from a cup.",
+      "es": "Bebo agua de una taza.",
+      "vi": "Tôi uống nước trong một cái cốc."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:15:55.108Z",
+    "createdAt": "2025-03-12T14:15:55.108Z",
+    "id": "61b722da-323d-40c0-9fdc-4585a838c4e6",
+    "content": {
+      "translation": {
+        "en": "I bought a new cup."
+      },
+      "language": "vi",
+      "choices": [
+        "bát",
+        "cốc",
+        "chén"
+      ],
+      "hint": "c___",
+      "word": "cốc",
+      "sentence": "Tôi đã mua một ___ mới.",
+      "translatedAnswer": {
+        "en": "cup"
+      },
+      "answer": "cốc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "cốc",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cốc** = cup (for drinks like water, coffee, tea). It usually means a regular drinking cup you hold in your hand.\n\nIt’s a countable noun: *một cái cốc, hai cái cốc*. The classifier is **cái**.  \nCommon pairings: **cốc nước, cốc cà phê, cốc trà**.\n\nIn the South, people often say **ly** instead of *cốc* (same meaning in daily use), so hearing *một ly nước* is totally normal there.",
+  "updatedAt": "2026-03-03T08:23:25.811Z",
+  "choices": [
+    "cốc",
+    "bát",
+    "đĩa"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you get me a cup of water?",
+    "Every morning, she usually drinks coffee in a big cup.",
+    "There are three cups of tea on the table for the guests."
+  ],
+  "notes": "cốc = cup (for drinks like water, coffee, tea). It usually means a regular drinking cup you hold in your hand.\n\nIt’s a countable noun: một cái cốc, hai cái cốc. The classifier is cái.  \nCommon pairings: cốc nước, cốc cà phê, cốc trà.\n\nIn the South, people often say ly instead of cốc (same meaning in daily use), so hearing một ly nước is totally normal there.",
+  "fillBlankQuiz": {
+    "id": "205b354d-3e51-43aa-95b6-7bbd824bdb7c",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi cần một ___ nước.",
+      "word": "cốc",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I need a cup of water."
+      },
+      "answer": "cốc",
+      "translatedAnswer": {
+        "en": "cup"
+      }
+    },
+    "updatedAt": "2025-03-12T14:15:55.108Z",
+    "createdAt": "2025-03-12T14:15:55.108Z"
+  },
+  "definition": "cup",
+  "_id": "M8Ea82NiwBqih5uPuWJk"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A particle used to emphasize a high degree or intensity.",
+      "es": "Una partícula utilizada para enfatizar un alto grado o intensidad.",
+      "vi": "Một từ dùng để nhấn mạnh mức độ hoặc cường độ cao."
+    },
+    "createdAt": "2025-01-28T12:47:28.418Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "very",
+      "es": "muy",
+      "vi": "lắm"
+    },
+    "example": {
+      "en": "The weather is very nice today.",
+      "es": "El clima está muy bonito hoy.",
+      "vi": "Hôm nay trời đẹp lắm."
+    }
+  },
+  "updatedAt": "2026-03-03T06:37:42.843Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:12:48.081Z",
+    "content": {
+      "sentence": "Hôm nay trời nóng ___.",
+      "answer": "lắm",
+      "language": "vi",
+      "word": "lắm",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "very"
+      },
+      "translation": {
+        "en": "Today the weather is very hot."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:12:48.081Z",
+    "id": "b154149f-b903-45cb-8dce-7396d3c9fc36"
+  },
+  "exampleSentencesTranslated": [
+    "I like this cake very much because the sweetness is pleasant.",
+    "I miss my family very much whenever it rains.",
+    "I am very much tired after working all day at the office."
+  ],
+  "definition": "very much",
+  "notes_md": "**lắm** means *very / very much*. It adds strong intensity to a feeling, state, or action.\n\nIt usually comes **after** adjectives or verbs to make them stronger.  \n\nIt’s often used for emotions and personal feelings like liking, missing, loving, being tired, etc. Stronger than just saying the adjective alone.\n\nClose synonym: **rất** (more neutral, comes before the adjective). *Rất* sounds more formal; *lắm* feels more emotional and personal.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "rank": 170,
+  "choices": [
+    "lắm",
+    "lâu",
+    "lạnh"
+  ],
+  "exampleSentences": [
+    "Em thích món bánh này lắm vì vị ngọt rất dễ chịu.",
+    "Anh nhớ gia đình ở quê lắm mỗi khi trời mưa.",
+    "Chị mệt lắm sau khi làm việc cả ngày ở văn phòng."
+  ],
+  "notes": "lắm means very / very much. It adds strong intensity to a feeling, state, or action.\n\nIt usually comes after adjectives or verbs to make them stronger.  \n\nIt’s often used for emotions and personal feelings like liking, missing, loving, being tired, etc. Stronger than just saying the adjective alone.\n\nClose synonym: rất (more neutral, comes before the adjective). Rất sounds more formal; lắm feels more emotional and personal.",
+  "word": "lắm",
+  "multiChoiceQuiz": {
+    "id": "73a1fb83-b3f0-4537-915f-8f9df44fa502",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:12:48.081Z",
+    "updatedAt": "2025-03-12T15:12:48.081Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "very"
+      },
+      "choices": [
+        "lắm",
+        "rất",
+        "quá"
+      ],
+      "translation": {
+        "en": "Today the weather is very hot."
+      },
+      "sentence": "Hôm nay trời nóng ___.",
+      "language": "vi",
+      "word": "lắm",
+      "hint": "l___",
+      "answer": "lắm"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "aX8KPaIxEuEW9NTmNvBs"
+}

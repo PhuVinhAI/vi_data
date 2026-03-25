@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:40:01.385Z",
+  "exampleSentencesTranslated": [
+    "This market sells many types of fruit that are diverse.",
+    "I like working in a company with diverse staff.",
+    "My school's curriculum is diverse in subjects."
+  ],
+  "rank": 1349,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:25:30.121Z",
+    "id": "1b86937c-b0d7-4c78-a354-5008bc2de31e",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "đa dạng",
+      "choices": [
+        "phong phú",
+        "đa dạng",
+        "hạn chế"
+      ],
+      "translation": {
+        "en": "Our products are very diverse."
+      },
+      "answer": "đa dạng",
+      "hint": "d____n",
+      "translatedAnswer": {
+        "en": "diverse"
+      },
+      "language": "vi",
+      "sentence": "Sản phẩm của chúng tôi rất ___."
+    },
+    "updatedAt": "2025-03-12T14:25:30.121Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "đa dạng",
+  "notes": "đa dạng = diverse, varied; many different types, not just one kind.\n\nIt’s an adjective, used to describe things like products, ideas, cultures, styles, choices. Often goes after a noun it describes.\n\nStrong synonym: phong phú (rich, abundant) — đa dạng focuses on variety, phong phú on richness/amount.  \nOpposite idea: đơn điệu (monotonous, not varied).",
+  "choices": [
+    "phong phú",
+    "đa dạng",
+    "đặc biệt"
+  ],
+  "exampleSentences": [
+    "Khu chợ này bán rất nhiều loại trái cây đa dạng.",
+    "Anh thích làm việc trong môi trường có nhân viên đa dạng.",
+    "Chương trình học của trường em rất đa dạng về môn học."
+  ],
+  "notes_md": "**đa dạng** = diverse, varied; many different types, not just one kind.\n\nIt’s an adjective, used to describe things like products, ideas, cultures, styles, choices. Often goes after a noun it describes.\n\n\nStrong synonym: *phong phú* (rich, abundant) — *đa dạng* focuses on variety, *phong phú* on richness/amount.  \nOpposite idea: *đơn điệu* (monotonous, not varied).",
+  "flashcard": {
+    "translations": {
+      "en": "diverse",
+      "vi": "đa dạng",
+      "es": "diverso"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Thế giới tự nhiên rất đa dạng.",
+      "en": "The natural world is very diverse.",
+      "es": "El mundo natural es muy diverso."
+    },
+    "definitions": {
+      "en": "Varied and different; having a range of different elements.",
+      "vi": "Đầy sự khác biệt và phong phú; có nhiều yếu tố khác nhau.",
+      "es": "Variado y diferente; que tiene una gama de diferentes elementos."
+    },
+    "createdAt": "2025-01-28T12:01:22.787Z"
+  },
+  "definition": "diverse",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "dc6eb1d5-2deb-4bc6-a66d-53be314becfb",
+    "createdAt": "2025-03-12T14:25:30.121Z",
+    "content": {
+      "sentence": "Sản phẩm của chúng tôi rất ___.",
+      "translatedAnswer": {
+        "en": "diverse"
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "đa dạng",
+      "answer": "đa dạng",
+      "translation": {
+        "en": "Our products are very diverse."
+      }
+    },
+    "updatedAt": "2025-03-12T14:25:30.121Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "OXtcMydOHYrbUsl6ILGD"
+}

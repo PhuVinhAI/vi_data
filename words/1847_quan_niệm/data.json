@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "49f9f8d4-e487-4fa0-acd8-73154d188483",
+    "createdAt": "2025-03-12T16:22:07.215Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:22:07.215Z",
+    "content": {
+      "translation": {
+        "en": "Everyone has their own concept about life."
+      },
+      "translatedAnswer": {
+        "en": "concept"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "quan niệm",
+      "word": "quan niệm",
+      "sentence": "Mỗi người có ___ riêng về cuộc sống."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "word": "quan niệm",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Mỗi người có ___ riêng về cuộc sống.",
+      "word": "quan niệm",
+      "choices": [
+        "khái niệm",
+        "quan niệm",
+        "ý tưởng"
+      ],
+      "language": "vi",
+      "answer": "quan niệm",
+      "hint": "qu___m",
+      "translation": {
+        "en": "Everyone has their own concept about life."
+      },
+      "translatedAnswer": {
+        "en": "concept"
+      }
+    },
+    "updatedAt": "2025-03-12T16:22:07.215Z",
+    "createdAt": "2025-03-12T16:22:07.215Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7b7ee914-05e7-4410-8da4-5c44beb6720a"
+  },
+  "definition": "belief",
+  "notes_md": "**Quan niệm** means a *belief* or *way of thinking* about something — how someone sees or understands an issue.\n\nIt’s a **noun**. You often use it with **có** (to have), **thay đổi** (to change), **giữ** (to keep), or **về + topic**.  \n\nIt usually talks about abstract topics like love, success, family, gender roles, morality.  \n\nClose words: **niềm tin** (belief, more emotional/faith-based) and **ý kiến** (opinion, more personal and lighter). **Quan niệm** sounds deeper and more long-term than *ý kiến*.",
+  "rank": 1847,
+  "updatedAt": "2026-03-03T09:33:27.571Z",
+  "exampleSentencesTranslated": [
+    "He has the belief that hard work will bring success.",
+    "In each region, people have different belief about happiness.",
+    "She thinks this belief is no longer suitable for modern society."
+  ],
+  "exampleSentences": [
+    "Anh có quan niệm rằng làm việc chăm chỉ sẽ mang lại thành công.",
+    "Ở mỗi vùng miền, người ta có quan niệm khác nhau về hạnh phúc.",
+    "Chị nghĩ quan niệm này không còn phù hợp với xã hội hiện đại."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "quan niệm",
+    "thái độ",
+    "quan hệ"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:52:49.842Z",
+    "definitions": {
+      "vi": "Một niềm tin hoặc ý tưởng về một điều gì đó.",
+      "en": "A belief or idea about something.",
+      "es": "Una creencia o idea sobre algo."
+    },
+    "example": {
+      "en": "Everyone has a different concept of happiness.",
+      "es": "Cada persona tiene un concepto diferente de la felicidad.",
+      "vi": "Mỗi người có một quan niệm khác nhau về hạnh phúc."
+    },
+    "translations": {
+      "vi": "quan niệm",
+      "es": "concepto",
+      "en": "concept"
+    }
+  },
+  "notes": "Quan niệm means a belief or way of thinking about something — how someone sees or understands an issue.\n\nIt’s a noun. You often use it with có (to have), thay đổi (to change), giữ (to keep), or về + topic.  \n\nIt usually talks about abstract topics like love, success, family, gender roles, morality.  \n\nClose words: niềm tin (belief, more emotional/faith-based) and ý kiến (opinion, more personal and lighter). Quan niệm sounds deeper and more long-term than ý kiến.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "rrg7we8MpAt4Q8DSYHSA"
+}

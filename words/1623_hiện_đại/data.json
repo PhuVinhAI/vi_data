@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:27:10.249Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:27:10.249Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "hiện đại",
+      "sentence": "Phong cách của ngôi nhà này rất ___.",
+      "language": "vi",
+      "translation": {
+        "en": "The style of this house is very modern."
+      },
+      "translatedAnswer": {
+        "en": "modern"
+      },
+      "answer": "hiện đại"
+    },
+    "id": "54f38920-a385-4ff0-a4a1-9a203ef63b7f"
+  },
+  "exampleSentencesTranslated": [
+    "Your apartment is very modern and comfortable.",
+    "Nowadays, many schools are built in a modern style.",
+    "Modern technology makes our lives easier."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:07:36.684Z",
+    "translations": {
+      "vi": "hiện đại",
+      "es": "moderno",
+      "en": "modern"
+    },
+    "example": {
+      "es": "Esta casa es muy moderna.",
+      "vi": "Căn nhà này rất hiện đại.",
+      "en": "This house is very modern."
+    },
+    "definitions": {
+      "en": "Relating to the present or recent times; contemporary.",
+      "es": "Relativo al presente o tiempos recientes; contemporáneo.",
+      "vi": "Liên quan đến hiện tại hoặc thời gian gần đây; đương đại."
+    }
+  },
+  "definition": "modern",
+  "notes": "hiện đại = modern, up-to-date, not old-fashioned. It describes things that feel new in style, design, or technology.\n\nIt’s an adjective, so it goes after the noun: nhà hiện đại, thiết kế hiện đại, xã hội hiện đại. You can modify it with degree words like rất, khá, cực kỳ.\n\nOften used for buildings, fashion, technology, lifestyle, thinking. Opposite idea: cổ or cổ điển (old / classical).",
+  "exampleSentences": [
+    "Căn hộ của anh rất hiện đại và tiện nghi.",
+    "Ngày nay, nhiều trường học được xây dựng theo phong cách hiện đại.",
+    "Công nghệ hiện đại giúp cuộc sống của chúng ta dễ dàng hơn."
+  ],
+  "updatedAt": "2026-03-03T09:09:38.782Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:27:10.249Z",
+    "content": {
+      "word": "hiện đại",
+      "language": "vi",
+      "sentence": "Phong cách của ngôi nhà này rất ___.",
+      "choices": [
+        "cổ điển",
+        "hiện đại",
+        "truyền thống"
+      ],
+      "hint": "h___ đ___",
+      "answer": "hiện đại",
+      "translation": {
+        "en": "The style of this house is very modern."
+      },
+      "translatedAnswer": {
+        "en": "modern"
+      }
+    },
+    "createdAt": "2025-03-12T13:27:10.249Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4755b89f-2860-4e2c-a74a-841232b9198f",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1623,
+  "choices": [
+    "hiện đại",
+    "truyền thống",
+    "cổ điển"
+  ],
+  "notes_md": "**hiện đại** = modern, up-to-date, not old-fashioned. It describes things that feel new in style, design, or technology.\n\nIt’s an adjective, so it goes after the noun: *nhà hiện đại, thiết kế hiện đại, xã hội hiện đại*. You can modify it with degree words like *rất, khá, cực kỳ*.\n\nOften used for buildings, fashion, technology, lifestyle, thinking. Opposite idea: *cổ* or *cổ điển* (old / classical).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "hiện đại",
+  "_id": "AIEqKlLZIzsvE5Dajlxj"
+}

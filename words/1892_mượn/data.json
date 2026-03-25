@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "cho",
+    "mượn",
+    "mua"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:42:41.311Z",
+    "createdAt": "2025-03-12T15:42:41.311Z",
+    "id": "12c0c78f-cd07-4886-b9aa-f64167fc8b74",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "Do you want to borrow this book?"
+      },
+      "word": "mượn",
+      "language": "vi",
+      "answer": "mượn",
+      "translatedAnswer": {
+        "en": "borrow"
+      },
+      "choices": [],
+      "sentence": "Bạn có ___ quyển sách này không?"
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể mượn cây bút của em một lát được không?",
+    "Chị thường mượn sách ở thư viện vào cuối tuần.",
+    "Em muốn mượn điện thoại của anh để gọi cho mẹ."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "mượn = to borrow. You take something from someone and will give it back later.\n\nUsed for physical things (sách, tiền, xe, đồ) and sometimes abstract things like ý tưởng. It focuses on the person who receives the item.  \n\nOpposite idea: cho mượn = to lend (the giver’s side).  \nAfter borrowing, you trả (return) it.",
+  "definition": "borrow",
+  "rank": 1892,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:42:41.311Z",
+    "updatedAt": "2025-03-12T15:42:41.311Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Do you want to borrow this book?"
+      },
+      "word": "mượn",
+      "hint": "m____n",
+      "sentence": "Bạn có ___ quyển sách này không?",
+      "choices": [
+        "mượn",
+        "cho",
+        "đọc"
+      ],
+      "translatedAnswer": {
+        "en": "borrow"
+      },
+      "answer": "mượn"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "660914df-b304-454a-8bf8-ffe83b439c7e"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mượn** = to borrow. You take something from someone and will give it back later.\n\nUsed for physical things (sách, tiền, xe, đồ) and sometimes abstract things like ý tưởng. It focuses on the person who receives the item.  \n\nOpposite idea: **cho mượn** = to lend (the giver’s side).  \nAfter borrowing, you **trả** (return) it.",
+  "exampleSentencesTranslated": [
+    "Can I borrow your pen for a moment?",
+    "She often borrows books from the library on weekends.",
+    "I want to borrow your phone to call my mom."
+  ],
+  "updatedAt": "2026-03-03T09:38:13.587Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Lấy và sử dụng một cái gì đó thuộc về người khác với ý định trả lại.",
+      "es": "Tomar y usar algo que pertenece a otra persona con la intención de devolverlo.",
+      "en": "To take and use something belonging to someone else with the intention of returning it."
+    },
+    "createdAt": "2025-01-28T13:15:37.852Z",
+    "example": {
+      "vi": "Tôi muốn mượn quyển sách này.",
+      "es": "Quiero pedir prestado este libro.",
+      "en": "I want to borrow this book."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "pedir prestado",
+      "en": "borrow",
+      "vi": "mượn"
+    }
+  },
+  "word": "mượn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "hpxlwtkJt1HEVp1qpBmc"
+}

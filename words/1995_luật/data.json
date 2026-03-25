@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "es": "ley",
+      "en": "law",
+      "vi": "luật"
+    },
+    "example": {
+      "en": "Everyone needs to follow the law.",
+      "es": "Todos deben seguir la ley.",
+      "vi": "Mọi người cần tuân theo luật."
+    },
+    "createdAt": "2025-01-28T13:52:03.463Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một hệ thống quy tắc mà xã hội hoặc chính phủ phát triển để xử lý tội phạm, thỏa thuận kinh doanh và mối quan hệ xã hội.",
+      "es": "Un sistema de reglas que una sociedad o gobierno desarrolla para tratar con el crimen, acuerdos comerciales y relaciones sociales.",
+      "en": "A system of rules that a society or government develops to deal with crime, business agreements, and social relationships."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "luật",
+    "giấy",
+    "bàn"
+  ],
+  "exampleSentences": [
+    "Anh phải tuân theo luật khi tham gia giao thông trên đường.",
+    "Chị đang học về luật để trở thành một luật sư giỏi.",
+    "Nếu em vi phạm luật, em sẽ bị phạt tiền đấy nhé."
+  ],
+  "exampleSentencesTranslated": [
+    "You must follow the law when participating in traffic on the road.",
+    "She is studying about law to become a good lawyer.",
+    "If you break the law, you will be fined."
+  ],
+  "updatedAt": "2026-03-03T09:49:17.856Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Luật means law — rules made by the state that people must follow.\n\nIt’s a noun. You can count it with một luật / các luật, but more often it’s used in fixed phrases. Common pairings: luật pháp (the legal system), luật hình sự (criminal law), luật dân sự (civil law), ra luật (to make laws).  \n\nDon’t confuse it with quy định (regulation, more specific rule) or nội quy (internal rules, like in a school or company).  \n\nYou’ll also see it in compounds like luật sư (lawyer) and bộ luật (a law code).",
+  "word": "luật",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:21:13.882Z",
+    "content": {
+      "sentence": "Chúng ta phải tuân theo ___ của xã hội.",
+      "translation": {
+        "en": "We must follow the laws of society."
+      },
+      "translatedAnswer": {
+        "en": "laws"
+      },
+      "choices": [],
+      "word": "luật",
+      "language": "vi",
+      "answer": "luật"
+    },
+    "type": "fillBlankQuiz",
+    "id": "aa5d923e-6c64-4b35-9f31-849b9d79d4e9",
+    "createdAt": "2025-03-12T16:21:13.882Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Luật** means *law* — rules made by the state that people must follow.\n\nIt’s a noun. You can count it with **một luật / các luật**, but more often it’s used in fixed phrases. Common pairings: **luật pháp** (the legal system), **luật hình sự** (criminal law), **luật dân sự** (civil law), **ra luật** (to make laws).  \n\nDon’t confuse it with **quy định** (regulation, more specific rule) or **nội quy** (internal rules, like in a school or company).  \n\nYou’ll also see it in compounds like **luật sư** (lawyer) and **bộ luật** (a law code).",
+  "rank": 1995,
+  "definition": "law",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:21:13.882Z",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "quy định",
+        "luật",
+        "thông lệ"
+      ],
+      "answer": "luật",
+      "word": "luật",
+      "hint": "l__t",
+      "translation": {
+        "en": "Everyone must understand the laws when participating in traffic."
+      },
+      "translatedAnswer": {
+        "en": "laws"
+      },
+      "sentence": "Mọi người phải hiểu ___ khi tham gia giao thông."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "7cd2e8e9-cd0f-4774-badb-00547dbe010a",
+    "createdAt": "2025-03-12T16:21:13.882Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "rghY1spG6MzCcvfUnadw"
+}

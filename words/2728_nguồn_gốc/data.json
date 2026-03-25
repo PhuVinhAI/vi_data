@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "The point or place where something begins, arises, or is derived.",
+      "vi": "Điểm hoặc nơi mà một cái gì đó bắt đầu, phát sinh hoặc được lấy từ.",
+      "es": "El punto o lugar donde algo comienza, surge o se deriva."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "origen",
+      "vi": "nguồn gốc",
+      "en": "origin"
+    },
+    "createdAt": "2025-01-28T11:28:11.324Z",
+    "example": {
+      "en": "I want to know the origin of this dish.",
+      "vi": "Tôi muốn biết nguồn gốc của món ăn này.",
+      "es": "Quiero saber el origen de este plato."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Anh wants to learn about the origin of this dish.",
+    "Can you tell me about our family's origin?",
+    "Many people care about the origin of the products they buy."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "f2b70bb8-e20f-4abc-a5b5-ff699539db09",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:50:05.876Z",
+    "createdAt": "2025-03-12T13:50:05.876Z",
+    "content": {
+      "sentence": "Tôi muốn biết ___ của cây cối.",
+      "word": "nguồn gốc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "origin"
+      },
+      "answer": "nguồn gốc",
+      "translation": {
+        "en": "I want to know the origin of plants."
+      },
+      "hint": "n___ g___",
+      "choices": [
+        "gốc rễ",
+        "nguồn gốc",
+        "địa điểm"
+      ]
+    }
+  },
+  "notes_md": "**Nguồn gốc** means *origin* or *where something comes from* (its source or roots). It’s a noun.\n\nYou usually say **nguồn gốc của + noun** to show what something originates from.  \n\nIt’s often used for people, cultures, ideas, words, diseases, or objects — anything that has a starting point.  \n\nClose synonym: **xuất xứ** (more about place of production or manufacture).",
+  "updatedAt": "2026-03-03T11:40:41.954Z",
+  "notes": "Nguồn gốc means origin or where something comes from (its source or roots). It’s a noun.\n\nYou usually say nguồn gốc của + noun to show what something originates from.  \n\nIt’s often used for people, cultures, ideas, words, diseases, or objects — anything that has a starting point.  \n\nClose synonym: xuất xứ (more about place of production or manufacture).",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "origin"
+      },
+      "language": "vi",
+      "word": "nguồn gốc",
+      "sentence": "Tôi muốn biết ___ của cây cối.",
+      "choices": [],
+      "translation": {
+        "en": "I want to know the origin of plants."
+      },
+      "answer": "nguồn gốc"
+    },
+    "createdAt": "2025-03-12T13:50:05.876Z",
+    "updatedAt": "2025-03-12T13:50:05.876Z",
+    "id": "5b9e4b0f-f503-4912-ba3c-ad61c18d31bd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nguồn gốc",
+    "thành phố",
+    "thời gian"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "origin",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2728,
+  "exampleSentences": [
+    "Anh muốn tìm hiểu nguồn gốc của món ăn này.",
+    "Chị có thể kể cho em nghe về nguồn gốc gia đình mình không?",
+    "Nhiều người quan tâm đến nguồn gốc của sản phẩm họ mua."
+  ],
+  "word": "nguồn gốc",
+  "_id": "FrbCcJFgCsIyiVhq44Gp"
+}

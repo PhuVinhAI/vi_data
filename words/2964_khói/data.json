@@ -1,0 +1,99 @@
+{
+  "rank": 2964,
+  "exampleSentences": [
+    "Anh nhìn thấy khói bay lên từ bếp khi đang nấu ăn.",
+    "Em không thích ngồi gần nơi có nhiều khói vì bị cay mắt.",
+    "Chị nhớ đóng cửa sổ khi ngoài trời có nhiều khói."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một sự treo lơ lửng có thể nhìn thấy của carbon hoặc các hạt khác trong không khí, thường được tạo ra bởi sự cháy.",
+      "es": "Una suspensión visible de carbono u otras partículas en el aire, producida típicamente por la combustión.",
+      "en": "A visible suspension of carbon or other particles in air, typically produced by burning."
+    },
+    "translations": {
+      "en": "smoke",
+      "es": "humo",
+      "vi": "khói"
+    },
+    "createdAt": "2025-01-28T11:44:36.788Z",
+    "example": {
+      "es": "El humo de la cocina se eleva hacia el cielo.",
+      "vi": "Khói từ bếp bay lên trời.",
+      "en": "The smoke from the kitchen rises into the sky."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "khói",
+  "multiChoiceQuiz": {
+    "id": "d149edf5-24c4-416a-8adc-a93ddbad9252",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "khói",
+        "lửa",
+        "nước"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "There is smoke coming from the rice cooker."
+      },
+      "sentence": "Trong bếp có ___ từ nồi cơm.",
+      "hint": "k___i",
+      "word": "khói",
+      "answer": "khói",
+      "translatedAnswer": {
+        "en": "smoke"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:07:04.474Z",
+    "createdAt": "2025-03-12T14:07:04.474Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Khói** means *smoke* — the gray/white stuff that goes up when something burns.\n\nIt’s an uncountable noun in general, but you can use classifiers like **làn khói** (a wisp of smoke) or **cột khói** (a column of smoke) when you want to describe shape.  \nVery common pairings: **khói thuốc** (cigarette smoke), **khói bụi** (smog/dust + smoke pollution), **khói bếp** (cooking smoke).  \nWith verbs, you’ll often see **bốc khói** (to give off smoke) or **nghi ngút** to describe thick, rising smoke.  \n\nThink: *lửa* (fire) makes **khói** — that link helps it stick.",
+  "updatedAt": "2026-03-03T18:17:09.642Z",
+  "choices": [
+    "khói",
+    "mây",
+    "bụi"
+  ],
+  "exampleSentencesTranslated": [
+    "He saw smoke rising from the kitchen while cooking.",
+    "I don't like sitting near places with a lot of smoke because it hurts my eyes.",
+    "Remember to close the window when there is a lot of smoke outside."
+  ],
+  "notes": "Khói means smoke — the gray/white stuff that goes up when something burns.\n\nIt’s an uncountable noun in general, but you can use classifiers like làn khói (a wisp of smoke) or cột khói (a column of smoke) when you want to describe shape.  \nVery common pairings: khói thuốc (cigarette smoke), khói bụi (smog/dust + smoke pollution), khói bếp (cooking smoke).  \nWith verbs, you’ll often see bốc khói (to give off smoke) or nghi ngút to describe thick, rising smoke.  \n\nThink: lửa (fire) makes khói — that link helps it stick.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:07:04.474Z",
+    "createdAt": "2025-03-12T14:07:04.474Z",
+    "id": "0004b4dc-e9b9-4580-8bb3-b086dfd2dcd7",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Trong bếp có ___ từ nồi cơm.",
+      "word": "khói",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "There is smoke coming from the rice cooker."
+      },
+      "answer": "khói",
+      "translatedAnswer": {
+        "en": "smoke"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "smoke",
+  "_id": "KMISrX8wRIDm6ujfZr0u"
+}

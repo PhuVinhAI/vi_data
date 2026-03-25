@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "473d1750-eaa6-493d-914e-ff0841b7df3a",
+    "createdAt": "2025-03-12T16:07:23.268Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:07:23.268Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy có ___ trong công việc.",
+      "translatedAnswer": {
+        "en": "enthusiasm"
+      },
+      "translation": {
+        "en": "She has enthusiasm in her work."
+      },
+      "choices": [],
+      "word": "nhiệt huyết",
+      "answer": "nhiệt huyết",
+      "language": "vi"
+    }
+  },
+  "word": "nhiệt huyết",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:07:23.268Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "93e867e5-239d-4a9c-a2c5-c8474574f0ce",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Anh ấy luôn tràn đầy ___ khi học.",
+      "word": "nhiệt huyết",
+      "choices": [
+        "nhiệt huyết",
+        "cảm xúc",
+        "sự chú ý"
+      ],
+      "language": "vi",
+      "answer": "nhiệt huyết",
+      "hint": "n____ h____",
+      "translation": {
+        "en": "He is always full of enthusiasm when studying."
+      },
+      "translatedAnswer": {
+        "en": "enthusiasm"
+      }
+    },
+    "updatedAt": "2025-03-12T16:07:23.268Z"
+  },
+  "definition": "enthusiasm",
+  "notes_md": "**Nhiệt huyết** means strong enthusiasm and inner fire for doing something. It’s more intense than just “liking” something — it feels driven and energetic.\n\nIt’s an uncountable noun, so you don’t use numbers with it. Often used with **có**, **đầy / tràn đầy**, or **mất** (to lose).  \n\nIt often goes with work, teaching, sports, or goals — anywhere passion and energy matter.  \nClose to **đam mê** (passion) and **hăng hái** (eager); opposite feeling is **thờ ơ** (indifferent).",
+  "rank": 2818,
+  "updatedAt": "2026-03-03T18:00:31.028Z",
+  "exampleSentencesTranslated": [
+    "He always works with a lot of enthusiasm and responsibility.",
+    "She shares her enthusiasm when teaching children English.",
+    "My team won the match thanks to enthusiasm during the game."
+  ],
+  "exampleSentences": [
+    "Anh luôn làm việc với nhiều nhiệt huyết và tinh thần trách nhiệm.",
+    "Chị ấy chia sẻ nhiệt huyết của mình khi dạy các bạn nhỏ học tiếng Anh.",
+    "Đội bóng của em đã giành chiến thắng nhờ có nhiệt huyết trong trận đấu."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhiệt huyết",
+    "kinh nghiệm",
+    "trách nhiệm"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Un fuerte sentimiento de entusiasmo o deseo.",
+      "en": "A strong feeling of enthusiasm or eagerness.",
+      "vi": "Một cảm giác mạnh mẽ về sự nhiệt tình hoặc mong muốn."
+    },
+    "createdAt": "2025-01-28T13:39:05.271Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "passion",
+      "es": "pasión",
+      "vi": "nhiệt huyết"
+    },
+    "example": {
+      "vi": "Cô ấy luôn làm việc với nhiệt huyết.",
+      "en": "She always works with passion.",
+      "es": "Ella siempre trabaja con pasión."
+    }
+  },
+  "notes": "Nhiệt huyết means strong enthusiasm and inner fire for doing something. It’s more intense than just “liking” something — it feels driven and energetic.\n\nIt’s an uncountable noun, so you don’t use numbers with it. Often used with có, đầy / tràn đầy, or mất (to lose).  \n\nIt often goes with work, teaching, sports, or goals — anywhere passion and energy matter.  \nClose to đam mê (passion) and hăng hái (eager); opposite feeling is thờ ơ (indifferent).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "oCSoVtC71jYb81xWL1XN"
+}

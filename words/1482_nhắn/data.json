@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:28:35.379Z",
+    "id": "712010cf-3b8f-4639-a314-58aab6b043ab",
+    "createdAt": "2025-03-12T15:28:35.379Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "nhắn",
+      "sentence": "Tôi đã ___ cho cô ấy.",
+      "language": "vi",
+      "choices": [
+        "gọi",
+        "nhắn",
+        "viết"
+      ],
+      "hint": "n____",
+      "answer": "nhắn",
+      "translation": {
+        "en": "I have texted her."
+      },
+      "translatedAnswer": {
+        "en": "texted"
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nhắn** = to send a (short) message or tell someone something briefly. It’s usually about texting or passing on a quick message.\n\nIt often goes with **cho + person** (the receiver).  \n\nVery common in **nhắn tin** = to text (send a text message). Compared to **gửi** (send), *nhắn* feels shorter and more personal; compared to **báo**, it’s less formal and more casual.",
+  "choices": [
+    "nhắn",
+    "nghe",
+    "hỏi"
+  ],
+  "rank": 1482,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhắn",
+  "exampleSentencesTranslated": [
+    "I will message you when I arrive safely.",
+    "Can you message your friend the address of the coffee shop?",
+    "Message mom to let her know you will be home late today."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "1c7d0652-2bab-44c5-acdf-29af8fa21e00",
+    "content": {
+      "translatedAnswer": {
+        "en": "text"
+      },
+      "translation": {
+        "en": "I will text you later."
+      },
+      "answer": "nhắn",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ cho bạn sau.",
+      "word": "nhắn"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:28:35.379Z",
+    "updatedAt": "2025-03-12T15:28:35.379Z"
+  },
+  "definition": "message",
+  "flashcard": {
+    "definitions": {
+      "vi": "Gửi một tin nhắn hoặc ghi chú cho ai đó.",
+      "es": "Enviar un mensaje o nota a alguien.",
+      "en": "To send a message or note to someone."
+    },
+    "example": {
+      "en": "I will message you later.",
+      "vi": "Tôi sẽ nhắn cho bạn sau.",
+      "es": "Te enviaré un mensaje más tarde."
+    },
+    "translations": {
+      "es": "mensaje",
+      "vi": "nhắn",
+      "en": "message"
+    },
+    "createdAt": "2025-01-28T13:03:11.273Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "nhắn = to send a (short) message or tell someone something briefly. It’s usually about texting or passing on a quick message.\n\nIt often goes with cho + person (the receiver).  \n\nVery common in nhắn tin = to text (send a text message). Compared to gửi (send), nhắn feels shorter and more personal; compared to báo, it’s less formal and more casual.",
+  "updatedAt": "2026-03-03T08:54:24.059Z",
+  "exampleSentences": [
+    "Anh sẽ nhắn cho em khi anh đến nơi an toàn.",
+    "Chị có thể nhắn cho bạn địa chỉ của quán cà phê không?",
+    "Em nhắn cho mẹ biết rằng em sẽ về muộn hôm nay nhé."
+  ],
+  "_id": "eVhtQKXA31AvTwtnQg5P"
+}

@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "They can go at the same time together."
+      },
+      "translatedAnswer": {
+        "en": "at the same time"
+      },
+      "choices": [
+        "đồng thời",
+        "cùng nhau",
+        "ngay lập tức"
+      ],
+      "answer": "đồng thời",
+      "hint": "đ___ t___",
+      "word": "đồng thời",
+      "language": "vi",
+      "sentence": "Họ có thể đi ___ với nhau."
+    },
+    "updatedAt": "2025-03-12T15:08:48.140Z",
+    "createdAt": "2025-03-12T15:08:48.140Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "281e1ee0-7d1c-4e9e-9c82-86c78711a9ae"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy vừa làm việc vừa học tiếng Anh đồng thời.",
+    "Chị muốn đi du lịch và học hỏi kinh nghiệm đồng thời.",
+    "Em nghe nhạc và làm bài tập đồng thời để thư giãn."
+  ],
+  "notes": "đồng thời = at the same time, simultaneously. It connects two actions or events happening together.\n\nIt’s a linking word, often used between two clauses to show parallel actions or goals. Slightly more formal than cùng lúc, and common in writing or presentations.\n\n(You can also put it at the start: Đồng thời, ...)\n\nClose synonym: cùng lúc (more casual). Opposite idea: lần lượt (one by one).",
+  "word": "đồng thời",
+  "choices": [
+    "đồng thời",
+    "bất ngờ",
+    "thường xuyên"
+  ],
+  "rank": 1166,
+  "notes_md": "**đồng thời** = at the same time, simultaneously. It connects two actions or events happening together.\n\nIt’s a linking word, often used between two clauses to show parallel actions or goals. Slightly more formal than *cùng lúc*, and common in writing or presentations.\n\n(You can also put it at the start: *Đồng thời, ...*)\n\nClose synonym: *cùng lúc* (more casual). Opposite idea: *lần lượt* (one by one).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "at the same time",
+  "fillBlankQuiz": {
+    "id": "d8321799-3ee7-468f-ab34-a0a046698e3e",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:08:48.140Z",
+    "updatedAt": "2025-03-12T15:08:48.140Z",
+    "content": {
+      "sentence": "Chúng ta có thể học ___ làm việc.",
+      "language": "vi",
+      "word": "đồng thời",
+      "answer": "đồng thời",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "at the same time"
+      },
+      "translation": {
+        "en": "We can learn and work at the same time."
+      }
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:19:47.604Z",
+  "exampleSentencesTranslated": [
+    "He works and studies English at the same time.",
+    "She wants to travel and gain experience at the same time.",
+    "I listen to music and do homework at the same time to relax."
+  ],
+  "flashcard": {
+    "word": "đồng thời",
+    "translations": {
+      "en": "at the same time; simultaneously"
+    },
+    "example": {
+      "en": "She studies and works at the same time.",
+      "vi": "Cô ấy vừa học vừa làm đồng thời."
+    },
+    "createdAt": "2025-05-24T16:23:30.683Z",
+    "definitions": {
+      "en": "Happening or being done at the same time as something else.",
+      "vi": "Xảy ra hoặc được thực hiện cùng một lúc với một việc khác."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "ZH7txuLgXARE0vFdVAzO"
+}

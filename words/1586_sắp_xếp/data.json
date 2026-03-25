@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:17:07.448Z",
+    "id": "37b2b527-2f33-41d7-b8b0-064fda87dbd0",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "sắp xếp",
+      "word": "sắp xếp",
+      "translation": {
+        "en": "We need to arrange the documents."
+      },
+      "translatedAnswer": {
+        "en": "arrange"
+      },
+      "sentence": "Chúng ta cần ___ lại tài liệu."
+    },
+    "updatedAt": "2025-03-12T16:17:07.448Z"
+  },
+  "word": "sắp xếp",
+  "multiChoiceQuiz": {
+    "id": "5444a556-db65-4339-b0c3-5ddddf89dfae",
+    "createdAt": "2025-03-12T16:17:07.448Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:17:07.448Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ lại tài liệu.",
+      "translation": {
+        "en": "We need to arrange the documents."
+      },
+      "translatedAnswer": {
+        "en": "arrange"
+      },
+      "hint": "s___p",
+      "word": "sắp xếp",
+      "answer": "sắp xếp",
+      "language": "vi",
+      "choices": [
+        "sắp xếp",
+        "điều chỉnh",
+        "tổ chức"
+      ]
+    }
+  },
+  "definition": "arrange",
+  "rank": 1586,
+  "notes_md": "**Sắp xếp** means *to arrange* or *put things in order*. You use it when organizing objects, plans, time, or ideas so they’re neat or logical.\n\nIt often goes with things like đồ đạc (things), lịch (schedule), công việc (tasks), chỗ ngồi (seats), or thời gian (time). You’ll also hear **sắp xếp lại** (rearrange) when something needs fixing.\n\n\nClose synonym: **tổ chức** (organize, more about planning) and **bố trí** (arrange/position, more about physical layout). Opposite idea: làm rối or bừa bộn (make messy / messy).",
+  "updatedAt": "2026-03-03T09:05:58.693Z",
+  "exampleSentencesTranslated": [
+    "You need to arrange the books on the shelf to be neater.",
+    "Can you help me arrange the work schedule this week?",
+    "Before traveling, everyone should arrange their luggage carefully."
+  ],
+  "exampleSentences": [
+    "Em cần sắp xếp lại sách trên kệ cho gọn gàng hơn.",
+    "Anh có thể giúp chị sắp xếp lịch làm việc tuần này không?",
+    "Trước khi đi du lịch, mọi người nên sắp xếp hành lý cẩn thận."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:48:49.114Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Sắp đặt hoặc tổ chức một cái gì đó theo một thứ tự nhất định.",
+      "en": "To arrange or organize something in a particular order.",
+      "es": "Organizar o disponer algo en un orden particular."
+    },
+    "translations": {
+      "vi": "sắp xếp",
+      "es": "organizar",
+      "en": "to arrange"
+    },
+    "example": {
+      "en": "I will rearrange the furniture in the room.",
+      "es": "Voy a reorganizar los muebles en la habitación.",
+      "vi": "Tôi sẽ sắp xếp lại đồ đạc trong phòng."
+    }
+  },
+  "choices": [
+    "sắp xếp",
+    "giải thích",
+    "chuẩn bị"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "Sắp xếp means to arrange or put things in order. You use it when organizing objects, plans, time, or ideas so they’re neat or logical.\n\nIt often goes with things like đồ đạc (things), lịch (schedule), công việc (tasks), chỗ ngồi (seats), or thời gian (time). You’ll also hear sắp xếp lại (rearrange) when something needs fixing.\n\nClose synonym: tổ chức (organize, more about planning) and bố trí (arrange/position, more about physical layout). Opposite idea: làm rối or bừa bộn (make messy / messy).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "qxTqqceCflCJOR8EZn8R"
+}

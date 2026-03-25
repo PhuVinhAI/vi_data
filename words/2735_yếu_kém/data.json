@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:24:54.189Z",
+    "id": "6b36b035-1d34-42b2-a32a-646f66704a76",
+    "createdAt": "2025-03-12T15:24:54.189Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "yếu kém",
+        "mạnh mẽ",
+        "hạn chế"
+      ],
+      "word": "yếu kém",
+      "language": "vi",
+      "sentence": "Kỹ năng của anh ấy khá ___ trong lĩnh vực này.",
+      "translation": {
+        "en": "His skills are quite weak in this field."
+      },
+      "translatedAnswer": {
+        "en": "weak"
+      },
+      "hint": "y___m",
+      "answer": "yếu kém"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2735,
+  "choices": [
+    "yếu kém",
+    "xuất sắc",
+    "chăm chỉ"
+  ],
+  "notes_md": "**yếu kém** means *weak, poor, not good enough* in ability or quality. It’s used for people, skills, performance, results, or systems.\n\nIt’s an adjective and usually comes after nouns: *học lực yếu kém, nền kinh tế yếu kém*.  \n\nClose to **kém** or **yếu**, but *yếu kém* feels a bit stronger and more critical. Opposite: **giỏi, mạnh, tốt**.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "yếu kém",
+  "fillBlankQuiz": {
+    "id": "5953963c-08a3-42e9-9651-f67c668b4601",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:24:54.189Z",
+    "content": {
+      "answer": "yếu kém",
+      "translatedAnswer": {
+        "en": "weaker"
+      },
+      "translation": {
+        "en": "This product is weaker than I thought."
+      },
+      "language": "vi",
+      "sentence": "Sản phẩm này còn ___ hơn tôi nghĩ.",
+      "word": "yếu kém",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:24:54.189Z"
+  },
+  "exampleSentencesTranslated": [
+    "If you are weak in Math, you should take extra classes.",
+    "She feels worried because of her weak results in the exam.",
+    "Weak communication skills can cause difficulties at work."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:59:40.139Z",
+    "translations": {
+      "vi": "yếu kém",
+      "es": "deficiente",
+      "en": "poor"
+    },
+    "example": {
+      "en": "His academic performance is very poor.",
+      "vi": "Kết quả học tập của anh ấy rất yếu kém.",
+      "es": "Su rendimiento académico es muy deficiente."
+    },
+    "definitions": {
+      "vi": "Thiếu sức mạnh hoặc chất lượng; không đủ.",
+      "es": "Faltando en fuerza o calidad; inadecuado.",
+      "en": "Lacking in strength or quality; inadequate."
+    }
+  },
+  "definition": "weak",
+  "notes": "yếu kém means weak, poor, not good enough in ability or quality. It’s used for people, skills, performance, results, or systems.\n\nIt’s an adjective and usually comes after nouns: học lực yếu kém, nền kinh tế yếu kém.  \n\nClose to kém or yếu, but yếu kém feels a bit stronger and more critical. Opposite: giỏi, mạnh, tốt.",
+  "exampleSentences": [
+    "Nếu anh yếu kém trong môn Toán, anh nên học thêm.",
+    "Cô ấy cảm thấy lo lắng vì kết quả yếu kém trong kỳ thi.",
+    "Kỹ năng giao tiếp yếu kém có thể gây khó khăn trong công việc."
+  ],
+  "updatedAt": "2026-03-03T11:41:31.692Z",
+  "_id": "dfBgOW4mLGwxxC4yXTTD"
+}

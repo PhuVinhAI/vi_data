@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:49:22.125Z",
+    "updatedAt": "2025-03-12T15:49:22.125Z",
+    "content": {
+      "hint": "c__c",
+      "choices": [
+        "miếng",
+        "cục",
+        "mẩu"
+      ],
+      "sentence": "Tôi cần một ___ để làm việc.",
+      "translatedAnswer": {
+        "en": "piece"
+      },
+      "answer": "cục",
+      "language": "vi",
+      "translation": {
+        "en": "I need a piece to work."
+      },
+      "word": "cục"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "133e2929-9059-4e0c-af6f-83856d5c3880"
+  },
+  "notes_md": "**cục** = a lump, chunk, or small solid piece of something. Think of something compact and a bit rounded.\n\nIt’s a noun and often works like a classifier for small solid masses.  \n\nIt’s used for physical lumps (sugar, stone, clay) and also for things like clots or lumps in the body.  \nCompare: **viên** (small neat unit like a pill) vs **cục** (more rough, solid lump); **khối** is usually bigger and more block-like.",
+  "exampleSentencesTranslated": [
+    "I just found a small lump of stone under the tree.",
+    "There is a brown lump of sugar in the milk tea that is very sweet.",
+    "I see a white lump of cotton on your study desk."
+  ],
+  "updatedAt": "2026-03-03T09:11:23.210Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cục",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã mua một cục phấn.",
+      "es": "Compré un trozo de tiza.",
+      "en": "I bought a piece of chalk."
+    },
+    "createdAt": "2025-01-28T13:21:51.502Z",
+    "definitions": {
+      "vi": "Một mảnh hoặc cục của cái gì đó.",
+      "es": "Un trozo o bulto de algo.",
+      "en": "A piece or lump of something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cục",
+      "en": "piece",
+      "es": "trozo"
+    }
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Tôi cầm một ___ nhỏ.",
+      "translatedAnswer": {
+        "en": "piece"
+      },
+      "answer": "cục",
+      "word": "cục",
+      "translation": {
+        "en": "I hold a small piece."
+      },
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "a951ee0f-18d8-4e65-b069-2212560517d4",
+    "createdAt": "2025-03-12T15:49:22.125Z",
+    "updatedAt": "2025-03-12T15:49:22.125Z"
+  },
+  "choices": [
+    "cục",
+    "bút",
+    "ghế"
+  ],
+  "exampleSentences": [
+    "Anh vừa tìm thấy một cục đá nhỏ dưới gốc cây.",
+    "Trong trà sữa có một cục đường màu nâu rất ngọt.",
+    "Em thấy có một cục bông trắng trên bàn học của chị."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "cục = a lump, chunk, or small solid piece of something. Think of something compact and a bit rounded.\n\nIt’s a noun and often works like a classifier for small solid masses.  \n\nIt’s used for physical lumps (sugar, stone, clay) and also for things like clots or lumps in the body.  \nCompare: viên (small neat unit like a pill) vs cục (more rough, solid lump); khối is usually bigger and more block-like.",
+  "definition": "lump",
+  "rank": 1639,
+  "_id": "jTopUyurqRyhduIzXYbF"
+}

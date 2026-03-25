@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "cause"
+      },
+      "translation": {
+        "en": "This action will cause trouble."
+      },
+      "sentence": "Hành động này sẽ ___ rắc rối.",
+      "word": "gây",
+      "language": "vi",
+      "answer": "gây"
+    },
+    "updatedAt": "2025-03-12T15:13:59.820Z",
+    "createdAt": "2025-03-12T15:13:59.820Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "2debc829-c7c4-4499-a3ae-2229ea732ce3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:13:52.611Z",
+  "exampleSentencesTranslated": [
+    "He is afraid that his actions will cause misunderstanding for everyone.",
+    "Please don’t do anything that could cause trouble for the group.",
+    "Loud noise at night can cause discomfort for the neighbors."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:48:46.544Z",
+    "definitions": {
+      "en": "to cause or create something, often used in the context of causing an effect or impression.",
+      "es": "causar o crear algo, a menudo utilizado en el contexto de causar un efecto o impresión.",
+      "vi": "gây ra hoặc tạo ra một cái gì đó, thường được sử dụng trong ngữ cảnh gây ra một hiệu ứng hoặc ấn tượng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "to cause",
+      "es": "causar",
+      "vi": "gây"
+    },
+    "example": {
+      "en": "She makes a strong impression on everyone.",
+      "es": "Ella causa una fuerte impresión en todos.",
+      "vi": "Cô ấy gây ấn tượng mạnh với mọi người."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**gây** means *to cause* or *to bring about*, usually something negative or serious.\n\nIt’s a verb and is often used before nouns like problems, damage, accidents, pressure, misunderstandings. It often implies an unwanted result. Compared to **làm** (do/make), *gây* feels heavier and more about consequences.\n\n\nIt can also mean *to provoke* in phrases like **gây sự** (pick a fight) or **gây chiến** (start a conflict).",
+  "definition": "cause",
+  "choices": [
+    "gãy",
+    "gây",
+    "gửi"
+  ],
+  "rank": 1106,
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "gây",
+      "language": "vi",
+      "hint": "g__",
+      "answer": "gây",
+      "sentence": "Hành động này sẽ ___ điều không hay.",
+      "translation": {
+        "en": "This action will cause something unpleasant."
+      },
+      "choices": [
+        "gây",
+        "tạo",
+        "góp phần"
+      ],
+      "translatedAnswer": {
+        "en": "cause"
+      }
+    },
+    "updatedAt": "2025-03-12T15:13:59.820Z",
+    "createdAt": "2025-03-12T15:13:59.820Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "3a4346bd-ee8a-452c-b58f-0bc57ae00377"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "gây means to cause or to bring about, usually something negative or serious.\n\nIt’s a verb and is often used before nouns like problems, damage, accidents, pressure, misunderstandings. It often implies an unwanted result. Compared to làm (do/make), gây feels heavier and more about consequences.\n\nIt can also mean to provoke in phrases like gây sự (pick a fight) or gây chiến (start a conflict).",
+  "exampleSentences": [
+    "Anh ấy sợ rằng hành động của mình sẽ gây hiểu lầm cho mọi người.",
+    "Chị đừng làm gì có thể gây rắc rối cho nhóm nhé.",
+    "Tiếng ồn lớn vào ban đêm có thể gây khó chịu cho hàng xóm."
+  ],
+  "word": "gây",
+  "_id": "aqhOH3NSQ1LnB1bxBfPm"
+}

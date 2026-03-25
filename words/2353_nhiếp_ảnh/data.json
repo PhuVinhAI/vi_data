@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh rất thích học nhiếp ảnh vào cuối tuần cùng bạn bè.",
+    "Chị đang tham gia một lớp nhiếp ảnh để chụp ảnh đẹp hơn.",
+    "Em mua một cuốn sách về nhiếp ảnh để tìm hiểu thêm."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "2554c46f-bafd-44a3-bfa9-3e9806cd07e1",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "nhiếp ảnh",
+      "sentence": "Tôi đang học ___ ở trường.",
+      "word": "nhiếp ảnh",
+      "translatedAnswer": {
+        "en": "photography"
+      },
+      "language": "vi",
+      "hint": "n___h",
+      "choices": [
+        "hội họa",
+        "nhiếp ảnh",
+        "điện ảnh"
+      ],
+      "translation": {
+        "en": "I am studying photography at school."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:06:55.655Z",
+    "updatedAt": "2025-03-12T13:06:55.655Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El arte o la práctica de tomar y procesar fotografías.",
+      "en": "The art or practice of taking and processing photographs.",
+      "vi": "Nghệ thuật hoặc thực hành chụp và xử lý ảnh."
+    },
+    "createdAt": "2025-01-28T10:48:54.477Z",
+    "example": {
+      "en": "I love photography and often take pictures on the weekends.",
+      "vi": "Tôi yêu thích nhiếp ảnh và thường chụp ảnh vào cuối tuần.",
+      "es": "Me encanta la fotografía y a menudo tomo fotos los fines de semana."
+    },
+    "translations": {
+      "en": "photography",
+      "vi": "nhiếp ảnh",
+      "es": "fotografía"
+    }
+  },
+  "rank": 2353,
+  "definition": "photography",
+  "word": "nhiếp ảnh",
+  "choices": [
+    "nhiếp ảnh",
+    "hội họa",
+    "âm nhạc"
+  ],
+  "notes": "nhiếp ảnh = photography, the art or practice of taking photos.\n\nIt’s an uncountable noun in general, but you’ll often see it with classifiers like môn, ngành, or bộ môn when talking about it as a subject or field (môn nhiếp ảnh, ngành nhiếp ảnh).  \nCommon pairings: học nhiếp ảnh, theo đuổi nhiếp ảnh, đam mê nhiếp ảnh, nghệ thuật nhiếp ảnh.  \nIf you mean the person, that’s nhiếp ảnh gia (photographer).  \n\nThink of it as the artistic side of taking photos, not just snapping pictures.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I really like learning photography with friends on the weekends.",
+    "She is taking a photography class to take better pictures.",
+    "I bought a book about photography to learn more."
+  ],
+  "notes_md": "**nhiếp ảnh** = photography, the art or practice of taking photos.\n\nIt’s an uncountable noun in general, but you’ll often see it with classifiers like **môn**, **ngành**, or **bộ môn** when talking about it as a subject or field (môn nhiếp ảnh, ngành nhiếp ảnh).  \nCommon pairings: **học nhiếp ảnh**, **theo đuổi nhiếp ảnh**, **đam mê nhiếp ảnh**, **nghệ thuật nhiếp ảnh**.  \nIf you mean the person, that’s **nhiếp ảnh gia** (photographer).  \n\nThink of it as the artistic side of taking photos, not just snapping pictures.",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "nhiếp ảnh",
+      "translatedAnswer": {
+        "en": "photography"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I like photography in the afternoon."
+      },
+      "choices": [],
+      "answer": "nhiếp ảnh",
+      "sentence": "Tôi thích ___ vào buổi chiều."
+    },
+    "type": "fillBlankQuiz",
+    "id": "2ea9fe19-16a3-43ff-911e-d25e95f7c0ae",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:06:55.655Z",
+    "updatedAt": "2025-03-12T13:06:55.655Z"
+  },
+  "updatedAt": "2026-03-03T10:27:19.976Z",
+  "_id": "4reMBjoKe7pJQEcLo7hy"
+}

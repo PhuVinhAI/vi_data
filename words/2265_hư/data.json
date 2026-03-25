@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:17:52.333Z",
+  "choices": [
+    "hư",
+    "mới",
+    "tốt"
+  ],
+  "exampleSentencesTranslated": [
+    "My phone is broken so I can't call you.",
+    "He bought a new fan because the old one is broken.",
+    "The printer in the office is broken, so she can't print documents today."
+  ],
+  "notes": "hư = broken, damaged, not working anymore. You use it for things that stop functioning or are spoiled.\n\nIt describes objects: machines, electronics, food, relationships, plans. Very often used with bị to show something “gets” broken.  \n\nClose synonym: hỏng (very similar; many people use them interchangeably).  \nOpposite idea: còn tốt / còn xài được (still good / still usable).",
+  "fillBlankQuiz": {
+    "id": "8bb64ab6-a293-42af-99d6-8e635c5e2e4c",
+    "content": {
+      "word": "hư",
+      "sentence": "Bức tranh này bị ___.",
+      "translation": {
+        "en": "This painting is damaged."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "damaged"
+      },
+      "answer": "hư"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:15:21.354Z",
+    "createdAt": "2025-03-12T14:15:21.354Z"
+  },
+  "definition": "broken",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hư",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:15:21.354Z",
+    "createdAt": "2025-03-12T14:15:21.354Z",
+    "id": "cb051102-fb54-4730-8452-c4a092a67a4d",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "hư",
+      "translatedAnswer": {
+        "en": "broken"
+      },
+      "language": "vi",
+      "choices": [
+        "mới",
+        "hư",
+        "cũ"
+      ],
+      "translation": {
+        "en": "This car is broken."
+      },
+      "sentence": "Chiếc xe này đã ___.",
+      "hint": "h__",
+      "word": "hư"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hư** = broken, damaged, not working anymore. You use it for things that stop functioning or are spoiled.\n\nIt describes objects: machines, electronics, food, relationships, plans. Very often used with **bị** to show something “gets” broken.  \n\nClose synonym: **hỏng** (very similar; many people use them interchangeably).  \nOpposite idea: **còn tốt / còn xài được** (still good / still usable).",
+  "exampleSentences": [
+    "Cái điện thoại của em bị hư nên không thể gọi cho anh được.",
+    "Anh mua cái quạt mới vì cái cũ đã hư từ tuần trước.",
+    "Máy in ở văn phòng bị hư, chị không thể in tài liệu hôm nay."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "broken",
+      "es": "roto",
+      "vi": "hư"
+    },
+    "definitions": {
+      "en": "Damaged or not functioning properly.",
+      "es": "Dañado o que no funciona correctamente.",
+      "vi": "Bị hỏng hoặc không hoạt động đúng cách."
+    },
+    "createdAt": "2025-01-28T11:52:21.464Z",
+    "example": {
+      "en": "This machine is broken.",
+      "es": "Esta máquina está rota.",
+      "vi": "Cái máy này bị hư rồi."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 2265,
+  "_id": "Lu5mcyn2s31kgH3mqNUL"
+}

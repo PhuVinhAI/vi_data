@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "51b6be31-11a7-425c-94e4-0fa606b9a8af",
+    "createdAt": "2025-03-12T16:47:02.348Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "solution"
+      },
+      "answer": "phương án",
+      "choices": [
+        "giải pháp",
+        "phương án",
+        "đề xuất"
+      ],
+      "translation": {
+        "en": "We need a solution for this issue."
+      },
+      "sentence": "Chúng ta cần ___ cho vấn đề này.",
+      "word": "phương án",
+      "hint": "p___n"
+    },
+    "updatedAt": "2025-03-12T16:47:02.348Z"
+  },
+  "exampleSentences": [
+    "Anh đang tìm một phương án tốt nhất cho vấn đề này.",
+    "Chị nghĩ phương án này sẽ giúp nhóm hoàn thành công việc nhanh hơn.",
+    "Nếu phương án đầu tiên không thành công, em sẽ thử phương án khác."
+  ],
+  "updatedAt": "2026-03-03T10:10:29.889Z",
+  "choices": [
+    "phương án",
+    "kế hoạch",
+    "giải pháp"
+  ],
+  "exampleSentencesTranslated": [
+    "He is looking for the best solution for this problem.",
+    "She thinks this solution will help the team finish the work faster.",
+    "If the first solution does not succeed, I will try another solution."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "phương án",
+  "notes": "Phương án means a plan or solution you choose to deal with a problem or situation. It’s often about options you consider before deciding.\n\nIt’s a noun: một phương án, các phương án. Common verbs: đưa ra phương án (propose), chọn phương án (choose), đề xuất phương án, thực hiện phương án.\n\nVery close to giải pháp, but giải pháp focuses more on solving the problem, while phương án feels like one option among several possible plans.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:17:50.868Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một kế hoạch hoặc đề xuất để đạt được một mục tiêu cụ thể.",
+      "en": "A plan or proposal for achieving a specific goal.",
+      "es": "Un plan o propuesta para lograr un objetivo específico."
+    },
+    "example": {
+      "en": "We need a better plan for this project.",
+      "es": "Necesitamos un mejor plan para este proyecto.",
+      "vi": "Chúng ta cần một phương án tốt hơn cho dự án này."
+    },
+    "translations": {
+      "es": "plan",
+      "en": "plan",
+      "vi": "phương án"
+    }
+  },
+  "notes_md": "**Phương án** means a plan or solution you choose to deal with a problem or situation. It’s often about options you consider before deciding.\n\nIt’s a noun: *một phương án, các phương án*. Common verbs: *đưa ra phương án* (propose), *chọn phương án* (choose), *đề xuất phương án*, *thực hiện phương án*.\n\nVery close to **giải pháp**, but *giải pháp* focuses more on solving the problem, while *phương án* feels like one option among several possible plans.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "option"
+      },
+      "choices": [],
+      "answer": "phương án",
+      "translation": {
+        "en": "We need the best option for the project."
+      },
+      "sentence": "Chúng ta cần ___ tốt nhất cho dự án.",
+      "word": "phương án"
+    },
+    "updatedAt": "2025-03-12T16:47:02.348Z",
+    "id": "c70c7f7c-c4d1-4dd0-a95c-695e524b6dd0",
+    "createdAt": "2025-03-12T16:47:02.348Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "rank": 2196,
+  "definition": "solution",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "yGPYucUBWUDH7zw9gKgB"
+}

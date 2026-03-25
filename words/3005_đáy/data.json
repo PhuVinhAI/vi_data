@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "Fish live at the bottom of the river.",
+      "es": "Los peces viven en el fondo del río.",
+      "vi": "Cá sống ở đáy sông."
+    },
+    "translations": {
+      "en": "bottom",
+      "es": "fondo",
+      "vi": "đáy"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The lowest part or surface of something.",
+      "es": "La parte o superficie más baja de algo.",
+      "vi": "Phần thấp nhất hoặc bề mặt của một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:49:55.067Z"
+  },
+  "exampleSentencesTranslated": [
+    "I found the ring at the bottom of my bag yesterday.",
+    "There is only a little water left at the bottom.",
+    "He put the key at the bottom of the drawer, so it was hard to find."
+  ],
+  "fillBlankQuiz": {
+    "id": "782ea08d-49f8-4463-899e-266196cfcb62",
+    "content": {
+      "sentence": "Cá sống ở ___ hồ.",
+      "answer": "đáy",
+      "language": "vi",
+      "word": "đáy",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "bottom"
+      },
+      "translation": {
+        "en": "Fish live at the bottom of the lake."
+      }
+    },
+    "updatedAt": "2025-03-12T15:15:20.236Z",
+    "createdAt": "2025-03-12T15:15:20.236Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:22:04.746Z",
+  "definition": "bottom",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đáy** = the bottom of something (a container, the sea, a hole, etc.). It’s the lowest part.\n\nIt’s a noun. You usually say **đáy + noun** to show what something is the bottom of.  \n\nIt’s often paired with containers or natural places: túi, ly, hộp, sông, biển.  \nIt can also be more abstract, like **đáy lòng** (the bottom of one’s heart) or **chạm đáy** (hit rock bottom).\n\nOpposite idea: **đỉnh** (top/peak) or **mặt trên** (upper surface).",
+  "rank": 3005,
+  "choices": [
+    "đỉnh",
+    "đáy",
+    "cạnh"
+  ],
+  "word": "đáy",
+  "notes": "đáy = the bottom of something (a container, the sea, a hole, etc.). It’s the lowest part.\n\nIt’s a noun. You usually say đáy + noun to show what something is the bottom of.  \n\nIt’s often paired with containers or natural places: túi, ly, hộp, sông, biển.  \nIt can also be more abstract, like đáy lòng (the bottom of one’s heart) or chạm đáy (hit rock bottom).\n\nOpposite idea: đỉnh (top/peak) or mặt trên (upper surface).",
+  "exampleSentences": [
+    "Em tìm thấy chiếc nhẫn ở đáy túi xách của mình hôm qua.",
+    "Nước trong chai chỉ còn lại một ít ở đáy.",
+    "Anh để chìa khóa ở đáy ngăn kéo nên khó tìm ra."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:15:20.236Z",
+    "updatedAt": "2025-03-12T15:15:20.236Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "bottom"
+      },
+      "choices": [
+        "bề mặt",
+        "đáy",
+        "trên cao"
+      ],
+      "translation": {
+        "en": "Fish live at the bottom of the lake."
+      },
+      "sentence": "Cá sống ở ___ hồ.",
+      "hint": "d___y",
+      "answer": "đáy",
+      "word": "đáy",
+      "language": "vi"
+    },
+    "id": "9f7ef4c3-2473-4616-a7bc-f50c90334ac3"
+  },
+  "_id": "b2Y7aBtXYZsqBtDbZ9GT"
+}

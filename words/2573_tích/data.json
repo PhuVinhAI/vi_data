@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "tích lũy",
+      "es": "acumular",
+      "en": "accumulate"
+    },
+    "example": {
+      "vi": "Tôi đã tích lũy được nhiều kinh nghiệm trong công việc.",
+      "en": "I have accumulated a lot of experience in my job.",
+      "es": "He acumulado mucha experiencia en mi trabajo."
+    },
+    "definitions": {
+      "es": "Acumular o reunir con el tiempo.",
+      "en": "To accumulate or gather over time.",
+      "vi": "Tích lũy hoặc gom góp theo thời gian."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:13:30.665Z"
+  },
+  "notes": "tích = to tick / check a box (like putting a ✓ on a form).  \n\nIt’s a verb, often used when filling out forms, tests, or surveys. You usually use it with “vào” to show where you mark.  \n\nVery close synonym: đánh dấu (more general = mark something). “Tích” is more specific to checkboxes.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "tích",
+    "giữ",
+    "kéo"
+  ],
+  "exampleSentences": [
+    "Anh nhớ tích vào ô đúng khi làm bài kiểm tra nhé.",
+    "Chị vui lòng tích vào đây nếu đồng ý với nội quy.",
+    "Em quên tích vào phần lựa chọn quan trọng trên mẫu đơn rồi."
+  ],
+  "updatedAt": "2026-03-03T11:24:37.263Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:42:15.776Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "92b2087c-695c-49de-b20f-4f7ed2a55cdc",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "know"
+      },
+      "choices": [
+        "tích",
+        "có",
+        "không"
+      ],
+      "answer": "tích",
+      "translation": {
+        "en": "I know this."
+      },
+      "sentence": "Tôi ___ biết điều này.",
+      "word": "tích",
+      "hint": "t__"
+    },
+    "updatedAt": "2025-03-12T16:42:15.776Z",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "tích",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Remember to mark the correct box when taking the test.",
+    "Please mark here if you agree with the rules.",
+    "You forgot to mark the important option on the form."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**tích** = to tick / check a box (like putting a ✓ on a form).  \n\nIt’s a verb, often used when filling out forms, tests, or surveys. You usually use it with **“vào”** to show where you mark.  \n\nVery close synonym: **đánh dấu** (more general = mark something). “Tích” is more specific to checkboxes.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ biết điều này.",
+      "word": "tích",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "know"
+      },
+      "choices": [],
+      "answer": "tích",
+      "translation": {
+        "en": "I know this."
+      }
+    },
+    "updatedAt": "2025-03-12T16:42:15.776Z",
+    "id": "29111c62-5c17-4d97-8232-8faff16020dd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:42:15.776Z"
+  },
+  "definition": "mark",
+  "rank": 2573,
+  "_id": "xFTolzktqOaskugm7cyh"
+}

@@ -1,0 +1,96 @@
+{
+  "exampleSentences": [
+    "Sáng nay anh mua một bó hoa tươi để tặng mẹ.",
+    "Em thích trồng hoa trong vườn vào cuối tuần.",
+    "Chị nhận được rất nhiều hoa vào ngày sinh nhật."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:01:27.538Z",
+    "updatedAt": "2025-03-12T16:01:27.538Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi thích ngửi ___ trong vườn.",
+      "answer": "hoa",
+      "translatedAnswer": {
+        "en": "flowers"
+      },
+      "translation": {
+        "en": "I like to smell the flowers in the garden."
+      },
+      "word": "hoa",
+      "language": "vi"
+    },
+    "id": "2714bfc7-a285-47ce-9fc7-ba0d11ba1555",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "choices": [
+    "hoa",
+    "bánh",
+    "cá"
+  ],
+  "rank": 967,
+  "notes": "hoa = flower. It’s the general word for any kind of flower.\n\nIt’s a countable noun; common classifiers are bông and đóa (more poetic/romantic). For plural, use những / các + hoa.\n\nVery common pairings: hoa hồng (rose), hoa mai, hoa sen, cắm hoa (arrange flowers), bó hoa (bouquet).\n\nIt can also mean a floral pattern on clothes (áo hoa) and appears in expressions like hoa mắt (dizzy, “see stars”).",
+  "definition": "flower",
+  "notes_md": "**hoa** = flower. It’s the general word for any kind of flower.\n\nIt’s a countable noun; common classifiers are **bông** and **đóa** (more poetic/romantic). For plural, use **những / các** + hoa.\n\nVery common pairings: **hoa hồng** (rose), **hoa mai**, **hoa sen**, **cắm hoa** (arrange flowers), **bó hoa** (bouquet).\n\nIt can also mean a floral pattern on clothes (**áo hoa**) and appears in expressions like **hoa mắt** (dizzy, “see stars”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:01:27.538Z",
+    "updatedAt": "2025-03-12T16:01:27.538Z",
+    "content": {
+      "language": "vi",
+      "word": "hoa",
+      "translation": {
+        "en": "She buys flowers for decoration."
+      },
+      "hint": "h__",
+      "sentence": "Cô ấy mua ___ để trang trí.",
+      "choices": [
+        "hoa",
+        "cây",
+        "trái cây"
+      ],
+      "translatedAnswer": {
+        "en": "flowers"
+      },
+      "answer": "hoa"
+    },
+    "id": "3c7dbe84-b3e3-449c-bedf-8dd3696ab4ce",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T07:58:40.636Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hoa",
+  "flashcard": {
+    "word": "hoa",
+    "createdAt": "2025-05-24T16:33:04.147Z",
+    "definitions": {
+      "en": "The part of a plant, often colorful and attractive, used for reproduction and decoration.",
+      "vi": "Bộ phận của cây thường có màu sắc, hình dạng đẹp, dùng để sinh sản và trang trí."
+    },
+    "example": {
+      "vi": "Bà tặng tôi một bó hoa rất đẹp.",
+      "en": "Grandma gave me a very beautiful bouquet of flowers."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "flower"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "This morning I bought a bouquet of fresh flower to give to my mom.",
+    "I like to plant flower in the garden on weekends.",
+    "She received a lot of flower on her birthday."
+  ],
+  "_id": "mU2MIjRpqRnwcuvQPbAl"
+}

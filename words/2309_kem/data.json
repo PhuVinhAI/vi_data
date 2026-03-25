@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "kem",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "0a09be03-71dd-4f01-aeed-e2bad3b28c36",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:55.509Z",
+    "content": {
+      "choices": [
+        "bánh",
+        "kem",
+        "trà"
+      ],
+      "word": "kem",
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ vào mùa hè.",
+      "translation": {
+        "en": "I like to eat ice cream in summer."
+      },
+      "translatedAnswer": {
+        "en": "ice cream"
+      },
+      "hint": "k__",
+      "answer": "kem"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:17:55.509Z"
+  },
+  "choices": [
+    "bánh",
+    "kem",
+    "sữa"
+  ],
+  "rank": 2309,
+  "notes_md": "**Kem** usually means *ice cream* — the sweet frozen dessert.  \n\nIt’s a noun. You often count it with **cây** (popsicle), **que** (stick ice cream), **ly** (cup), or **viên** (scoop): *một cây kem*, *một ly kem*.  \n\nCommon pairings: **kem sô-cô-la**, **kem vani**, **kem dâu** (flavors).  \n\nVery common second meaning: **cream** (for skin), like *kem dưỡng da* (skin cream). The food and cosmetic meanings are both everyday, so context matters.",
+  "notes": "Kem usually means ice cream — the sweet frozen dessert.  \n\nIt’s a noun. You often count it with cây (popsicle), que (stick ice cream), ly (cup), or viên (scoop): một cây kem, một ly kem.  \n\nCommon pairings: kem sô-cô-la, kem vani, kem dâu (flavors).  \n\nVery common second meaning: cream (for skin), like kem dưỡng da (skin cream). The food and cosmetic meanings are both everyday, so context matters.",
+  "exampleSentences": [
+    "Anh muốn ăn kem vị sô-cô-la vào buổi chiều nay.",
+    "Chị thường mua kem cho các em nhỏ vào cuối tuần.",
+    "Em thích ăn kem khi đi dạo cùng bạn bè ở công viên."
+  ],
+  "updatedAt": "2026-03-03T10:22:44.433Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:17:55.509Z",
+    "id": "f03f375d-b52e-499e-8ac8-b2184cea9b39",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:17:55.509Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ vào mùa hè.",
+      "word": "kem",
+      "translatedAnswer": {
+        "en": "ice cream"
+      },
+      "translation": {
+        "en": "I like to eat ice cream in summer."
+      },
+      "answer": "kem"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I want to eat ice cream this afternoon.",
+    "She often buys ice cream for the kids on weekends.",
+    "I like to eat ice cream when hanging out with friends in the park."
+  ],
+  "definition": "ice cream",
+  "flashcard": {
+    "translations": {
+      "en": "ice cream",
+      "es": "helado",
+      "vi": "kem"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:52:29.791Z",
+    "definitions": {
+      "en": "A sweet frozen food made from cream or milk, often flavored.",
+      "es": "Un dulce alimento congelado hecho de crema o leche, a menudo con sabor."
+    },
+    "example": {
+      "vi": "Tôi thích ăn kem vào mùa hè.",
+      "es": "Me gusta comer helado en verano.",
+      "en": "I like to eat ice cream in the summer."
+    }
+  },
+  "_id": "bZyfzvPxICcmXRPAqSvJ"
+}

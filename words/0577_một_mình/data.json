@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Hôm qua anh đi xem phim một mình vì bạn bận.",
+    "Chị không thích ăn tối một mình ở nhà vào cuối tuần.",
+    "Em thường cảm thấy thoải mái khi học bài một mình trong phòng."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "một mình",
+    "cùng nhau",
+    "bên cạnh"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Por uno mismo; solo.",
+      "en": "By oneself; alone.",
+      "vi": "Một mình; không có ai khác."
+    },
+    "createdAt": "2025-01-28T13:43:24.952Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "solo",
+      "en": "alone",
+      "vi": "một mình"
+    },
+    "example": {
+      "vi": "Tôi thích làm việc một mình.",
+      "en": "I like to work alone.",
+      "es": "Me gusta trabajar solo."
+    }
+  },
+  "updatedAt": "2026-03-03T07:19:50.940Z",
+  "exampleSentencesTranslated": [
+    "Yesterday I went to the movies alone because my friend was busy.",
+    "She does not like to have dinner alone at home on weekends.",
+    "I usually feel comfortable studying alone in my room."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "một mình means alone or by oneself — no other people with you. It focuses on doing something without company.\n\nIt usually comes after a verb to show how you do something.  \n\nIt can describe both a neutral situation (just solo) or a slightly lonely feeling, depending on context.  \nClose idea: một mình ≈ alone; opposite idea: cùng người khác / cùng bạn bè (with others).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:11:20.425Z",
+    "content": {
+      "translation": {
+        "en": "I feel alone when at home."
+      },
+      "translatedAnswer": {
+        "en": "alone"
+      },
+      "choices": [],
+      "word": "một mình",
+      "language": "vi",
+      "answer": "một mình",
+      "sentence": "Tôi cảm thấy ___ khi ở nhà."
+    },
+    "type": "fillBlankQuiz",
+    "id": "c286eb23-597e-4c4c-a8ec-365aabaf4eac",
+    "createdAt": "2025-03-12T16:11:20.425Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "một mình",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**một mình** means *alone* or *by oneself* — no other people with you. It focuses on doing something without company.\n\nIt usually comes after a verb to show how you do something.  \n\nIt can describe both a neutral situation (just solo) or a slightly lonely feeling, depending on context.  \nClose idea: **một mình** ≈ *alone*; opposite idea: **cùng người khác / cùng bạn bè** (with others).",
+  "rank": 577,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:11:20.425Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "một mình",
+      "choices": [
+        "một mình",
+        "cùng nhau",
+        "điều đó"
+      ],
+      "language": "vi",
+      "answer": "một mình",
+      "hint": "m___n",
+      "translation": {
+        "en": "I don't like to work alone."
+      },
+      "translatedAnswer": {
+        "en": "alone"
+      },
+      "sentence": "Tôi không thích làm việc ___."
+    },
+    "id": "61291c4f-af09-4bb0-8ff6-60752aa3dc90",
+    "createdAt": "2025-03-12T16:11:20.425Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "alone",
+  "_id": "pOETVUQ2VHTkYySgKJYS"
+}

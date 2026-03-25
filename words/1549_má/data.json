@@ -1,0 +1,98 @@
+{
+  "word": "má",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1549,
+  "choices": [
+    "má",
+    "bác",
+    "dì"
+  ],
+  "notes_md": "**má** = mom / mother. It’s a casual, warm way to say “mother.”\n\nIt’s a noun, but also used as a pronoun when talking to or about your mom. You usually don’t use a classifier with close family words like this; just say *má tôi*, *má em*, etc.\n\nIn the South, people often say **má**; in the North, **mẹ** is much more common. Think of **má** as slightly more intimate and homey.",
+  "multiChoiceQuiz": {
+    "id": "c9a16e32-f676-4d19-9976-474097cecdad",
+    "createdAt": "2025-03-12T13:24:22.770Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi gọi ___ của tôi.",
+      "word": "má",
+      "choices": [
+        "bà",
+        "má",
+        "chị"
+      ],
+      "hint": "m__",
+      "answer": "má",
+      "translatedAnswer": {
+        "en": "mom"
+      },
+      "translation": {
+        "en": "I call my mom."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:24:22.770Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Má của em nấu ăn rất ngon nên cả nhà đều thích.",
+    "Khi em bị ốm, má luôn chăm sóc em rất chu đáo.",
+    "Tối nay anh sẽ gọi điện về hỏi thăm sức khỏe của má."
+  ],
+  "updatedAt": "2026-03-03T09:01:54.098Z",
+  "notes": "má = mom / mother. It’s a casual, warm way to say “mother.”\n\nIt’s a noun, but also used as a pronoun when talking to or about your mom. You usually don’t use a classifier with close family words like this; just say má tôi, má em, etc.\n\nIn the South, people often say má; in the North, mẹ is much more common. Think of má as slightly more intimate and homey.",
+  "flashcard": {
+    "translations": {
+      "es": "mamá",
+      "vi": "má",
+      "en": "mom"
+    },
+    "createdAt": "2025-01-28T11:04:51.741Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Mother; mom.",
+      "vi": "Mẹ; má.",
+      "es": "Madre; mamá."
+    },
+    "example": {
+      "vi": "Má của tôi nấu ăn rất ngon.",
+      "es": "Mi mamá cocina muy bien.",
+      "en": "My mom cooks very well."
+    }
+  },
+  "definition": "mother",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:24:22.770Z",
+    "type": "fillBlankQuiz",
+    "id": "8e4135b7-f01c-4faa-9c07-df548b4550c8",
+    "createdAt": "2025-03-12T13:24:22.770Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I call my mom."
+      },
+      "translatedAnswer": {
+        "en": "mom"
+      },
+      "answer": "má",
+      "word": "má",
+      "sentence": "Tôi gọi ___ của tôi.",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "My mother cooks very well so everyone in the family likes it.",
+    "When I am sick, my mother always takes care of me very carefully.",
+    "Tonight I will call home to ask about my mother's health."
+  ],
+  "_id": "9eoHo5pFklrRi1Jx3jgq"
+}

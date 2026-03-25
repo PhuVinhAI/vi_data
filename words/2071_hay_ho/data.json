@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "hay ho",
+    "mệt mỏi",
+    "nhanh nhẹn"
+  ],
+  "rank": 2071,
+  "multiChoiceQuiz": {
+    "id": "67458b48-c7c1-4f2c-86e8-c5ddd2bc1ccf",
+    "content": {
+      "language": "vi",
+      "word": "hay ho",
+      "hint": "h___o",
+      "answer": "hay ho",
+      "sentence": "Bộ phim này rất ___.",
+      "translation": {
+        "en": "This movie is very interesting."
+      },
+      "translatedAnswer": {
+        "en": "interesting"
+      },
+      "choices": [
+        "khó hiểu",
+        "chán ngắt",
+        "hay ho"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:08:38.911Z",
+    "createdAt": "2025-03-12T15:08:38.911Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hay ho",
+  "notes": "Hay ho means interesting, cool, or worth paying attention to. It’s used when something feels fun, creative, or pleasantly surprising.\n\nIt’s an adjective, so it describes ideas, stories, experiences, plans, etc. You can say something “rất hay ho” to make it stronger.\n\nIt’s a bit playful and positive, not formal. Close synonyms: thú vị, hấp dẫn. Opposite idea: nhàm chán (boring).",
+  "exampleSentences": [
+    "Anh vừa đọc một cuốn sách rất hay ho về du lịch Việt Nam.",
+    "Chị nghĩ ý tưởng của em cho dự án này thật sự hay ho đấy.",
+    "Em luôn tìm kiếm những điều hay ho để chia sẻ với bạn bè."
+  ],
+  "exampleSentencesTranslated": [
+    "I just read a very interesting book about traveling in Vietnam.",
+    "I think your idea for this project is really interesting.",
+    "I always look for interesting things to share with my friends."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:08:38.911Z",
+    "content": {
+      "translation": {
+        "en": "This movie is very interesting."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "interesting"
+      },
+      "answer": "hay ho",
+      "word": "hay ho",
+      "language": "vi",
+      "sentence": "Bộ phim này rất ___."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:08:38.911Z",
+    "id": "d21cca94-af3d-407d-acc8-17a18b9175fd"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:57:17.424Z",
+  "flashcard": {
+    "example": {
+      "en": "This painting is really cool.",
+      "es": "Esta pintura es realmente genial.",
+      "vi": "Bức tranh này thật hay ho."
+    },
+    "translations": {
+      "en": "cool",
+      "es": "genial",
+      "vi": "hay ho"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "An expression used to describe something interesting or cool.",
+      "es": "Una expresión utilizada para describir algo interesante o genial.",
+      "vi": "Một biểu hiện được sử dụng để mô tả điều gì đó thú vị hoặc hay ho."
+    },
+    "createdAt": "2025-01-28T12:43:11.918Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Hay ho** means *interesting, cool, or worth paying attention to*. It’s used when something feels fun, creative, or pleasantly surprising.\n\nIt’s an **adjective**, so it describes ideas, stories, experiences, plans, etc. You can say something “rất hay ho” to make it stronger.\n\nIt’s a bit playful and positive, not formal. Close synonyms: **thú vị**, **hấp dẫn**. Opposite idea: **nhàm chán** (boring).",
+  "definition": "interesting",
+  "_id": "ZGbNlKfFv1lwB2ZdINGs"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:12:41.752Z",
+  "exampleSentences": [
+    "Chiếc váy này được làm từ chất liệu rất mềm mại và thoải mái.",
+    "Anh muốn biết chất liệu của chiếc bàn này là gì.",
+    "Em thích mua quần áo có chất liệu bền để mặc lâu dài."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chiếc áo này làm từ ___ tốt.",
+      "hint": "ch__t liệu",
+      "word": "chất liệu",
+      "language": "vi",
+      "choices": [
+        "vải",
+        "chất liệu",
+        "bông"
+      ],
+      "answer": "chất liệu",
+      "translation": {
+        "en": "This shirt is made from good material."
+      },
+      "translatedAnswer": {
+        "en": "material"
+      }
+    },
+    "updatedAt": "2025-03-12T16:33:03.263Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:33:03.263Z",
+    "id": "43eedd5e-535f-4a46-89d1-a3f2f2192f2c"
+  },
+  "choices": [
+    "chất liệu",
+    "kích thước",
+    "màu sắc"
+  ],
+  "word": "chất liệu",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "This dress is made from a very soft and comfortable material.",
+    "I want to know what the material of this table is.",
+    "I like to buy clothes with durable material to wear for a long time."
+  ],
+  "notes": "Chất liệu means material — what something is made from (fabric, wood, metal, plastic, etc.). It’s a noun.\n\nYou usually use it when talking about clothes, furniture, bags, or design. Often paired with làm từ / làm bằng to say what something is made of.\n\nYou can say một chất liệu or loại chất liệu when being specific. Close word: vật liệu (more technical, used for construction and industry).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "material",
+      "es": "material",
+      "vi": "chất liệu"
+    },
+    "definitions": {
+      "vi": "Chất liệu là chất hoặc vật liệu mà một cái gì đó được làm ra.",
+      "en": "The substance or material from which something is made.",
+      "es": "La sustancia o material del que está hecho algo."
+    },
+    "example": {
+      "vi": "Chất liệu của chiếc áo này rất mềm mại.",
+      "en": "The material of this shirt is very soft.",
+      "es": "El material de esta camisa es muy suave."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:04:26.001Z"
+  },
+  "notes_md": "**Chất liệu** means *material* — what something is made from (fabric, wood, metal, plastic, etc.). It’s a noun.\n\nYou usually use it when talking about clothes, furniture, bags, or design. Often paired with **làm từ / làm bằng** to say what something is made of.\n\n\nYou can say **một chất liệu** or **loại chất liệu** when being specific. Close word: **vật liệu** (more technical, used for construction and industry).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:33:03.263Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "0f6d0071-983e-4243-a7e3-f323e8857dc0",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "This shirt is made from good material."
+      },
+      "answer": "chất liệu",
+      "translatedAnswer": {
+        "en": "material"
+      },
+      "sentence": "Chiếc áo này làm từ ___ tốt.",
+      "word": "chất liệu"
+    },
+    "updatedAt": "2025-03-12T16:33:03.263Z"
+  },
+  "definition": "material",
+  "rank": 1652,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uurQrRVgCYwtmkCkhSXA"
+}

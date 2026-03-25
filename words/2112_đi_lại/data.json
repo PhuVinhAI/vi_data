@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:26:13.938Z",
+    "definitions": {
+      "en": "To move from one place to another; to travel.",
+      "es": "Moverse de un lugar a otro; viajar.",
+      "vi": "Di chuyển từ nơi này đến nơi khác; đi lại."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "to travel",
+      "es": "viajar",
+      "vi": "đi lại"
+    },
+    "example": {
+      "en": "I usually travel by bus.",
+      "es": "Normalmente viajo en autobús.",
+      "vi": "Tôi thường đi lại bằng xe buýt."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I usually travel or move from one place to another between home and school by bicycle every day.",
+    "I feel tired because I had to travel or move from one place to another a lot in the city today.",
+    "She wants to know the fastest way to travel or move from one place to another from the hotel to the airport."
+  ],
+  "updatedAt": "2026-03-03T10:01:35.541Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "216e7f4a-8a28-4b37-acae-606838a72cae",
+    "createdAt": "2025-03-12T14:52:46.353Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to travel more."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "travel"
+      },
+      "language": "vi",
+      "word": "đi lại",
+      "answer": "đi lại",
+      "sentence": "Chúng ta cần ___ nhiều hơn."
+    },
+    "updatedAt": "2025-03-12T14:52:46.353Z"
+  },
+  "definition": "travel or move from one place to another",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đi lại** = to travel or move from place to place, usually regularly or back and forth. It often suggests repeated movement, not just one single trip.\n\nUsed for daily commuting, business trips, or general mobility. You’ll often see it with words like *giữa… và…* (between), *bằng* + transport, or *nhiều / ít* to show frequency.\n\n\nIt can also mean “to get around” in general, like being able (or unable) to move around easily. Close to *di chuyển*, but *đi lại* feels more about routine or back-and-forth movement.",
+  "rank": 2112,
+  "choices": [
+    "đi lại",
+    "ăn uống",
+    "nghỉ ngơi"
+  ],
+  "word": "đi lại",
+  "notes": "đi lại = to travel or move from place to place, usually regularly or back and forth. It often suggests repeated movement, not just one single trip.\n\nUsed for daily commuting, business trips, or general mobility. You’ll often see it with words like giữa… và… (between), bằng + transport, or nhiều / ít to show frequency.\n\nIt can also mean “to get around” in general, like being able (or unable) to move around easily. Close to di chuyển, but đi lại feels more about routine or back-and-forth movement.",
+  "exampleSentences": [
+    "Em thường đi lại giữa nhà và trường bằng xe đạp mỗi ngày.",
+    "Anh cảm thấy mệt vì phải đi lại nhiều trong thành phố hôm nay.",
+    "Chị muốn biết cách đi lại từ khách sạn đến sân bay nhanh nhất."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "đi lại",
+      "language": "vi",
+      "hint": "đ___ l___",
+      "answer": "đi lại",
+      "sentence": "Bạn có thể ___ bằng xe buýt.",
+      "translation": {
+        "en": "You can travel by bus."
+      },
+      "choices": [
+        "đi lại",
+        "đi bộ",
+        "đi chậm"
+      ],
+      "translatedAnswer": {
+        "en": "travel"
+      }
+    },
+    "updatedAt": "2025-03-12T14:52:46.353Z",
+    "createdAt": "2025-03-12T14:52:46.353Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "f9ac15d7-747c-4d14-91c1-1d0f6a9df41d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "Ujpu2rxcKZsTL2FA16SH"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "trơn",
+    "lồi",
+    "nhám"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2674,
+  "exampleSentences": [
+    "Cẩn thận nhé em, sàn nhà hôm nay rất trơn vì mới lau xong.",
+    "Anh thích mặc áo sơ mi vải trơn khi đi làm hơn áo có họa tiết.",
+    "Đôi giày này bị trơn nên chị dễ bị trượt ngã khi trời mưa."
+  ],
+  "word": "trơn",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "smooth",
+  "updatedAt": "2026-03-03T11:34:40.253Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "9a11850a-1025-49a2-a884-49441c075ddf",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:44:23.401Z",
+    "createdAt": "2025-03-12T13:44:23.401Z",
+    "content": {
+      "choices": [],
+      "answer": "trơn",
+      "translation": {
+        "en": "This surface is very smooth."
+      },
+      "translatedAnswer": {
+        "en": "smooth"
+      },
+      "sentence": "Bề mặt này rất ___.",
+      "word": "trơn",
+      "language": "vi"
+    }
+  },
+  "notes": "trơn = smooth; often also means slippery. It describes surfaces that are not rough and easy to slide on.\n\nUse it for floors, roads, skin, glass, metal, fabric, etc. If something makes you slide or lose grip, you can also say trơn trượt (stronger = very slippery).\n\nIt can also mean “plain” (no pattern), like plain fabric or plain paper.\n\nOpposite ideas: nhám / ráp (rough).",
+  "exampleSentencesTranslated": [
+    "Be careful, the floor is very smooth today because it was just cleaned.",
+    "I prefer to wear a smooth fabric shirt to work rather than a patterned one.",
+    "These shoes are smooth so you can easily slip when it rains."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Smooth or slippery; lacking roughness.",
+      "vi": "Mịn hoặc trơn; không có độ thô.",
+      "es": "Suave o resbaladizo; sin aspereza."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:22:42.747Z",
+    "example": {
+      "es": "El suelo está muy resbaladizo.",
+      "vi": "Sàn nhà này rất trơn.",
+      "en": "The floor is very slippery."
+    },
+    "translations": {
+      "vi": "trơn",
+      "es": "resbaladizo",
+      "en": "slippery"
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "ff0f8787-11e8-41c9-bd7c-b5b5c212e424",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "smooth"
+      },
+      "word": "trơn",
+      "sentence": "Bề mặt này rất ___.",
+      "language": "vi",
+      "hint": "t___n",
+      "choices": [
+        "thô",
+        "trơn",
+        "nhám"
+      ],
+      "translation": {
+        "en": "This surface is very smooth."
+      },
+      "answer": "trơn"
+    },
+    "createdAt": "2025-03-12T13:44:23.401Z",
+    "updatedAt": "2025-03-12T13:44:23.401Z"
+  },
+  "notes_md": "**trơn** = smooth; often also means slippery. It describes surfaces that are not rough and easy to slide on.\n\nUse it for floors, roads, skin, glass, metal, fabric, etc. If something makes you slide or lose grip, you can also say **trơn trượt** (stronger = very slippery).\n\nIt can also mean “plain” (no pattern), like plain fabric or plain paper.\n\nOpposite ideas: **nhám / ráp** (rough).",
+  "_id": "EZQNaHctVprLrlpA98gZ"
+}

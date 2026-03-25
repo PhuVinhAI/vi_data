@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:01:56.880Z",
+    "translations": {
+      "vi": "thiền",
+      "es": "meditación",
+      "en": "meditation"
+    },
+    "example": {
+      "es": "A menudo medito por la mañana.",
+      "vi": "Tôi thường thiền vào buổi sáng.",
+      "en": "I often meditate in the morning."
+    },
+    "definitions": {
+      "en": "A practice of focused thought or contemplation, often for spiritual purposes.",
+      "vi": "Một thực hành suy nghĩ hoặc thiền định tập trung, thường nhằm mục đích tâm linh.",
+      "es": "Una práctica de pensamiento o contemplación enfocada, a menudo con fines espirituales."
+    }
+  },
+  "definition": "meditation",
+  "exampleSentencesTranslated": [
+    "In the morning, I usually spend ten minutes on meditation before going to work.",
+    "He feels calmer after practicing meditation every day.",
+    "I want to learn how to do meditation to reduce stress in life."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:21:29.596Z",
+    "type": "fillBlankQuiz",
+    "id": "8fdd1d1f-2ef8-4e53-8b50-9e64b0d602d1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:21:29.596Z",
+    "content": {
+      "translation": {
+        "en": "I like to meditate in the morning."
+      },
+      "translatedAnswer": {
+        "en": "meditate"
+      },
+      "answer": "thiền",
+      "choices": [],
+      "word": "thiền",
+      "language": "vi",
+      "sentence": "Tôi thích ___ vào buổi sáng."
+    }
+  },
+  "exampleSentences": [
+    "Buổi sáng, chị thường dành mười phút để thiền trước khi đi làm.",
+    "Anh cảm thấy bình tĩnh hơn sau khi thực hành thiền mỗi ngày.",
+    "Em muốn học cách thiền để giảm căng thẳng trong cuộc sống."
+  ],
+  "updatedAt": "2026-03-03T09:48:23.480Z",
+  "notes": "thiền means meditation — sitting quietly to calm your mind and focus your breathing or thoughts.\n\nIt’s a noun. You often hear ngồi thiền (sit in meditation), thực hành thiền (practice meditation), or thiền định (more formal, deeper meditation).  \nYou can count it by time or session: mười phút thiền, một buổi thiền.  \n\nIt’s strongly linked to Buddhism, but in daily life it can just mean a relaxation or mindfulness practice.",
+  "rank": 1987,
+  "choices": [
+    "thiền",
+    "chạy bộ",
+    "ngủ"
+  ],
+  "notes_md": "**thiền** means *meditation* — sitting quietly to calm your mind and focus your breathing or thoughts.\n\nIt’s a **noun**. You often hear **ngồi thiền** (sit in meditation), **thực hành thiền** (practice meditation), or **thiền định** (more formal, deeper meditation).  \nYou can count it by time or session: **mười phút thiền**, **một buổi thiền**.  \n\nIt’s strongly linked to Buddhism, but in daily life it can just mean a relaxation or mindfulness practice.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:21:29.596Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:21:29.596Z",
+    "content": {
+      "hint": "t____n",
+      "answer": "thiền",
+      "translatedAnswer": {
+        "en": "meditate"
+      },
+      "translation": {
+        "en": "I like to meditate in the morning."
+      },
+      "sentence": "Tôi thích ___ vào buổi sáng.",
+      "language": "vi",
+      "word": "thiền",
+      "choices": [
+        "thiền",
+        "đọc sách",
+        "ngủ"
+      ]
+    },
+    "id": "d5d432dd-a67c-48e2-8383-2871571dedbc"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thiền",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "8noRZewABjFJPLu9WMXO"
+}

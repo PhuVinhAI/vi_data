@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:08:27.466Z",
+    "updatedAt": "2025-03-12T13:08:27.466Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "dấu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sign"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need a new sign."
+      },
+      "answer": "dấu",
+      "sentence": "Tôi cần một ___ mới."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "8a045b3a-54a2-4bb9-867c-a55dc647b39d"
+  },
+  "updatedAt": "2026-03-03T09:46:55.159Z",
+  "exampleSentencesTranslated": [
+    "I see a mark on this paper.",
+    "You need to make a mark to remember this.",
+    "Can you erase the old mark and write a new mark?"
+  ],
+  "notes_md": "**dấu** = a mark, sign, or trace left on something. It’s anything visible that shows something happened.\n\nIt’s a countable noun: *một dấu, hai dấu*. Often used in combos like *dấu vết* (trace), *dấu chấm / dấu phẩy* (period / comma), *dấu hỏi* (question mark), *dấu tay / dấu chân* (handprint / footprint).\n\nVery common with **đánh dấu** = to mark (something).  \n\nIn writing, *dấu* also means accent marks in Vietnamese (like tone marks). *Có dấu / không dấu* = with accents / without accents.",
+  "choices": [
+    "dấu",
+    "giấy",
+    "bàn"
+  ],
+  "notes": "dấu = a mark, sign, or trace left on something. It’s anything visible that shows something happened.\n\nIt’s a countable noun: một dấu, hai dấu. Often used in combos like dấu vết (trace), dấu chấm / dấu phẩy (period / comma), dấu hỏi (question mark), dấu tay / dấu chân (handprint / footprint).\n\nVery common with đánh dấu = to mark (something).  \n\nIn writing, dấu also means accent marks in Vietnamese (like tone marks). Có dấu / không dấu = with accents / without accents.",
+  "word": "dấu",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:08:27.466Z",
+    "updatedAt": "2025-03-12T13:08:27.466Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "She wrote a sign on the paper."
+      },
+      "choices": [
+        "dấu",
+        "chữ",
+        "hình"
+      ],
+      "word": "dấu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sign"
+      },
+      "hint": "d___",
+      "sentence": "Cô ấy đã viết một ___ trên giấy.",
+      "answer": "dấu"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "8e0aa6db-a1e1-4805-a0ba-acc852737604"
+  },
+  "exampleSentences": [
+    "Anh nhìn thấy một dấu trên tờ giấy này.",
+    "Em cần ghi một dấu để nhớ việc này nhé.",
+    "Chị có thể xóa dấu cũ và viết dấu mới không?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1972,
+  "definition": "mark",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Dejé una marca en la mesa.",
+      "en": "I left a mark on the table.",
+      "vi": "Tôi đã để lại một dấu trên bàn."
+    },
+    "translations": {
+      "es": "marca",
+      "vi": "dấu",
+      "en": "mark"
+    },
+    "createdAt": "2025-01-28T10:49:37.821Z",
+    "definitions": {
+      "es": "Una marca o signo hecho en una superficie.",
+      "en": "A mark or sign made on a surface.",
+      "vi": "Một dấu hiệu hoặc dấu vết được tạo ra trên bề mặt."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "4zBxNUKTZNDMa5U0BVzA"
+}

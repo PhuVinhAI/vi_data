@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Khi nghe tiếng chuông báo cháy, mọi người lao ra ngoài rất nhanh.",
+    "Em nhỏ vô tình lao vào sân khi đang đuổi theo quả bóng.",
+    "Anh ấy lao đến giúp chị khi thấy chị bị ngã."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:46:43.562Z",
+    "translations": {
+      "en": "to work hard",
+      "vi": "lao",
+      "es": "trabajar duro"
+    },
+    "definitions": {
+      "es": "Trabajar duro o laborar intensamente.",
+      "vi": "Làm việc chăm chỉ hoặc lao động một cách mãnh liệt.",
+      "en": "To work hard or labor intensively."
+    },
+    "example": {
+      "en": "He works very hard and never seems to get tired.",
+      "vi": "Ông ấy làm việc rất chăm chỉ, không biết mệt mỏi.",
+      "es": "Él trabaja muy duro y nunca parece cansarse."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 1820,
+  "exampleSentencesTranslated": [
+    "When they heard the fire alarm, everyone rush outside very quickly.",
+    "The child accidentally rush into the yard while chasing the ball.",
+    "He rush to help her when he saw her fall."
+  ],
+  "notes": "Lao = to rush, dash, or throw yourself quickly toward something. It often feels sudden and a bit forceful, sometimes almost out of control.\n\nUsed for fast physical movement: people, animals, vehicles, even objects. It’s stronger and more intense than chạy (just “run”).  \n\nIt can also mean “throw oneself into” an activity (like starting something with lots of energy). Close synonym: xông vào (rush in, often more aggressive). Opposite idea: dừng lại, chậm lại.",
+  "choices": [
+    "nhảy",
+    "lao",
+    "chạy"
+  ],
+  "updatedAt": "2026-03-03T09:30:43.376Z",
+  "definition": "rush",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "work hard"
+      },
+      "answer": "lao",
+      "translation": {
+        "en": "I have to work hard on this."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "lao",
+      "sentence": "Tôi phải ___ công việc này."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "662d80bd-9884-422d-8af4-5a0caa3f6da0",
+    "createdAt": "2025-03-12T14:09:32.700Z",
+    "updatedAt": "2025-03-12T14:09:32.700Z"
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:09:32.700Z",
+    "createdAt": "2025-03-12T14:09:32.700Z",
+    "id": "84d8e52a-57d3-4210-a616-9a554ddf61ba",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "lao",
+      "translatedAnswer": {
+        "en": "work hard"
+      },
+      "sentence": "Chúng ta cần phải ___ cho tương lai.",
+      "hint": "l__",
+      "word": "lao",
+      "language": "vi",
+      "choices": [
+        "đi",
+        "lao",
+        "ngồi"
+      ],
+      "translation": {
+        "en": "We need to work hard for the future."
+      }
+    }
+  },
+  "word": "lao",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Lao** = to rush, dash, or throw yourself quickly toward something. It often feels sudden and a bit forceful, sometimes almost out of control.\n\nUsed for fast physical movement: people, animals, vehicles, even objects. It’s stronger and more intense than *chạy* (just “run”).  \n\n\nIt can also mean “throw oneself into” an activity (like starting something with lots of energy). Close synonym: *xông vào* (rush in, often more aggressive). Opposite idea: *dừng lại*, *chậm lại*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "KmPmFIkSebaEeOzz88fX"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 1780,
+  "exampleSentencesTranslated": [
+    "I am very happy to hear that you have recovered.",
+    "The whole family is happy because the baby was born safely.",
+    "I am happy to see my friend again after many years apart."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:47:13.141Z",
+    "id": "3dc94bc6-bfcd-468f-be10-01f2a5da18c3",
+    "content": {
+      "sentence": "Tôi ___ vì bạn đã đến.",
+      "translatedAnswer": {
+        "en": "happy"
+      },
+      "language": "vi",
+      "word": "mừng",
+      "choices": [
+        "buồn",
+        "mừng",
+        "lo lắng"
+      ],
+      "translation": {
+        "en": "I am happy that you came."
+      },
+      "answer": "mừng",
+      "hint": "m____"
+    },
+    "updatedAt": "2025-03-12T14:47:13.141Z"
+  },
+  "word": "mừng",
+  "updatedAt": "2026-03-03T09:26:41.349Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mừng",
+    "buồn",
+    "giận"
+  ],
+  "notes": "mừng = glad, happy because of good news or something positive. It’s often a warm, relieved kind of happiness.\n\nIt describes a person’s feeling, usually about an event or result. Very often followed by vì (because of), khi (when), or được (to get/receive something good).\n\nClose to vui, but mừng is more about good news or relief. Common set phrase: chúc mừng = congratulations.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm thấy vui vẻ hoặc hạnh phúc.",
+      "en": "To feel joy or happiness.",
+      "es": "Sentir alegría o felicidad."
+    },
+    "createdAt": "2025-01-28T12:21:21.763Z",
+    "example": {
+      "en": "I am very happy to hear the good news.",
+      "vi": "Tôi rất mừng khi nghe tin tốt.",
+      "es": "Estoy muy feliz de escuchar las buenas noticias."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "feliz",
+      "vi": "mừng",
+      "en": "happy"
+    }
+  },
+  "exampleSentences": [
+    "Anh rất mừng khi nghe tin em đã khỏi bệnh.",
+    "Cả gia đình đều mừng vì em bé chào đời an toàn.",
+    "Chị mừng khi được gặp lại bạn sau nhiều năm xa cách."
+  ],
+  "notes_md": "**mừng** = glad, happy *because of good news or something positive*. It’s often a warm, relieved kind of happiness.\n\nIt describes a person’s feeling, usually about an event or result. Very often followed by **vì** (because of), **khi** (when), or **được** (to get/receive something good).\n\n\nClose to **vui**, but *mừng* is more about good news or relief. Common set phrase: **chúc mừng** = congratulations.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "5cb87e91-3e28-4804-bc75-45d0165b4732",
+    "createdAt": "2025-03-12T14:47:13.141Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "happy"
+      },
+      "language": "vi",
+      "sentence": "Tôi rất ___ khi gặp lại bạn.",
+      "translation": {
+        "en": "I am very happy to see you again."
+      },
+      "answer": "mừng",
+      "choices": [],
+      "word": "mừng"
+    },
+    "updatedAt": "2025-03-12T14:47:13.141Z"
+  },
+  "definition": "happy",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "TWxJCJ1uMgwiwQSavrel"
+}

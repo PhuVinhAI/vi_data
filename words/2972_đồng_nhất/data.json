@@ -1,0 +1,99 @@
+{
+  "rank": 2972,
+  "definition": "uniform",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Consistent or uniform in nature or character.",
+      "vi": "Nhất quán hoặc đồng nhất về bản chất hoặc tính cách.",
+      "es": "Consistente o uniforme en naturaleza o carácter."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:52:22.388Z",
+    "example": {
+      "vi": "Chúng ta cần một kế hoạch đồng nhất để đạt được mục tiêu.",
+      "en": "We need a unified plan to achieve our goals.",
+      "es": "Necesitamos un plan unificado para alcanzar nuestros objetivos."
+    },
+    "translations": {
+      "es": "unificado",
+      "en": "unified",
+      "vi": "đồng nhất"
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "1d88f3c5-b018-4ffe-8120-efd83d297c8b",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We need to unify the rules."
+      },
+      "choices": [
+        "đồng nhất",
+        "khác biệt",
+        "tương đồng"
+      ],
+      "word": "đồng nhất",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "unify"
+      },
+      "hint": "đ___t",
+      "sentence": "Chúng ta cần ___ các quy tắc.",
+      "answer": "đồng nhất"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:11:07.760Z",
+    "updatedAt": "2025-03-12T13:11:07.760Z"
+  },
+  "exampleSentences": [
+    "Mọi người trong nhóm nên mặc áo đồng nhất khi đi sự kiện nhé.",
+    "Công ty muốn tất cả các phòng ban làm việc theo quy trình đồng nhất.",
+    "Chị thấy màu sắc trong thiết kế này rất đồng nhất và hài hòa."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đồng nhất",
+    "khác biệt",
+    "đa dạng"
+  ],
+  "notes": "đồng nhất = uniform, consistent, all the same in a system or group. It means there’s no difference or variation.\n\nIt’s an adjective, used after nouns to describe things like màu sắc, chất lượng, quy trình, thông tin, tiêu chuẩn. It often talks about systems, data, design, or rules being aligned and not contradictory.\n\nIt can also mean “identical” in a more abstract sense (gần với giống hệt, but more formal). Opposite idea: không đồng nhất, khác biệt, rời rạc.",
+  "word": "đồng nhất",
+  "notes_md": "**đồng nhất** = uniform, consistent, all the same in a system or group. It means there’s no difference or variation.\n\nIt’s an adjective, used after nouns to describe things like màu sắc, chất lượng, quy trình, thông tin, tiêu chuẩn. It often talks about systems, data, design, or rules being aligned and not contradictory.\n\nIt can also mean “identical” in a more abstract sense (gần với *giống hệt*, but more formal). Opposite idea: *không đồng nhất*, *khác biệt*, *rời rạc*.",
+  "exampleSentencesTranslated": [
+    "Everyone in the group should wear a uniform shirt for the event.",
+    "The company wants all departments to follow a uniform process.",
+    "She thinks the colors in this design are very uniform and harmonious."
+  ],
+  "updatedAt": "2026-03-03T18:18:00.218Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:11:07.760Z",
+    "updatedAt": "2025-03-12T13:11:07.760Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "ce2da135-0e1a-47c7-b53b-9d7c840752d3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We need to unify the rules."
+      },
+      "word": "đồng nhất",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "unify"
+      },
+      "sentence": "Chúng ta cần ___ các quy tắc.",
+      "answer": "đồng nhất"
+    }
+  },
+  "_id": "5lbrdAfi47QwNoL0UQpq"
+}

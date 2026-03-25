@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Câu nói của bạn rất hay.",
+      "es": "Tus palabras son muy hermosas.",
+      "en": "Your words are very beautiful."
+    },
+    "definitions": {
+      "es": "Una palabra o frase utilizada para expresar algo.",
+      "vi": "Một từ hoặc cụm từ được sử dụng để diễn đạt điều gì đó.",
+      "en": "A word or phrase used to express something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:05:27.077Z",
+    "translations": {
+      "vi": "lời",
+      "es": "palabra",
+      "en": "word"
+    }
+  },
+  "definition": "words",
+  "exampleSentencesTranslated": [
+    "He wants to send you the best words on your birthday.",
+    "She was touched when she heard words from her friends.",
+    "You need to think carefully before saying important words."
+  ],
+  "fillBlankQuiz": {
+    "id": "9c90af27-e587-4742-9b9a-ddbfaf12b304",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:24:53.448Z",
+    "content": {
+      "answer": "lời",
+      "translatedAnswer": {
+        "en": "words"
+      },
+      "translation": {
+        "en": "I want to hear your words."
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn nghe ___ của bạn.",
+      "word": "lời",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:24:53.448Z"
+  },
+  "exampleSentences": [
+    "Anh muốn gửi đến em những lời chúc tốt đẹp nhất trong ngày sinh nhật.",
+    "Chị ấy cảm động khi nghe những lời động viên từ bạn bè.",
+    "Em cần suy nghĩ kỹ trước khi nói ra những lời quan trọng."
+  ],
+  "updatedAt": "2026-03-03T06:54:04.100Z",
+  "notes": "lời = words; what someone says (spoken or written). It’s about the content of speech, not the voice itself.\n\nIt’s a noun, and you often say một lời (one word/one thing said) or những lời (words). Very common in set pairs like lời nói (spoken words), lời hứa (promise), lời mời (invitation), lời khuyên (advice).  \n\nIt focuses on meaning or intention behind what’s said, so it often carries emotional weight.\n\nClose word: tiếng = sound/voice (more about the sound itself), while lời = the actual words and message.",
+  "rank": 320,
+  "choices": [
+    "lời",
+    "giấy",
+    "bàn"
+  ],
+  "notes_md": "**lời** = words; what someone says (spoken or written). It’s about the content of speech, not the voice itself.\n\nIt’s a **noun**, and you often say **một lời** (one word/one thing said) or **những lời** (words). Very common in set pairs like **lời nói** (spoken words), **lời hứa** (promise), **lời mời** (invitation), **lời khuyên** (advice).  \n\nIt focuses on meaning or intention behind what’s said, so it often carries emotional weight.\n\nClose word: **tiếng** = sound/voice (more about the sound itself), while **lời** = the actual words and message.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:24:53.448Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I want to hear your words."
+      },
+      "translatedAnswer": {
+        "en": "words"
+      },
+      "answer": "lời",
+      "hint": "l___",
+      "choices": [
+        "nhạc",
+        "lời",
+        "âm thanh"
+      ],
+      "word": "lời",
+      "sentence": "Tôi muốn nghe ___ của bạn.",
+      "language": "vi"
+    },
+    "id": "6e1d0c41-6c46-4420-a30a-472f33f10dfe",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:24:53.448Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lời",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9k8jgqyh0E5WLfOkm6Y1"
+}

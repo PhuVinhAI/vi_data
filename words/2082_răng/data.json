@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "răng",
+      "choices": [
+        "răng",
+        "răngs",
+        "RĂNG"
+      ],
+      "hint": "r___g",
+      "translation": {
+        "en": "I have a toothache in my mouth."
+      },
+      "answer": "răng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "tooth"
+      },
+      "sentence": "Tôi bị đau ___ trong miệng."
+    },
+    "updatedAt": "2025-03-12T14:48:54.439Z",
+    "id": "68732b6a-8801-48ba-a7ae-18e844545256",
+    "createdAt": "2025-03-12T14:48:54.439Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "răng",
+  "exampleSentencesTranslated": [
+    "This morning, I forgot to brush my tooth before going to school.",
+    "She goes to the dentist to check her tooth every six months.",
+    "He had a toothache so he couldn't eat spicy food yesterday."
+  ],
+  "rank": 2082,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:58:22.804Z",
+  "choices": [
+    "răng",
+    "mắt",
+    "tai"
+  ],
+  "notes": "răng = tooth. It usually refers to one tooth, but Vietnamese often doesn’t mark plural clearly, so context tells you if it’s “tooth” or “teeth.”\n\nIt’s a countable noun; use cái for one tooth (một cái răng), but in daily speech people often just say the number + răng. Very common pairings: đánh răng (brush teeth), đau răng (toothache), nhổ răng (pull a tooth), sâu răng (cavity).  \n\nYou’ll also hear bộ răng for a set of teeth (like someone’s whole smile).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "răng",
+      "en": "tooth",
+      "es": "diente"
+    },
+    "definitions": {
+      "es": "Una estructura dura y ósea en las mandíbulas de los vertebrados, utilizada para morder y masticar.",
+      "vi": "Một cấu trúc cứng, xương trong hàm của động vật có xương sống, được sử dụng để cắn và nhai.",
+      "en": "A hard, bony structure in the jaws of vertebrates, used for biting and chewing."
+    },
+    "createdAt": "2025-01-28T12:22:44.412Z",
+    "example": {
+      "es": "Necesito ir al dentista por mis dientes.",
+      "vi": "Tôi cần đi khám răng.",
+      "en": "I need to go to the dentist for my teeth."
+    }
+  },
+  "notes_md": "**răng** = tooth. It usually refers to one tooth, but Vietnamese often doesn’t mark plural clearly, so context tells you if it’s “tooth” or “teeth.”\n\nIt’s a countable noun; use **cái** for one tooth (một cái răng), but in daily speech people often just say the number + răng. Very common pairings: **đánh răng** (brush teeth), **đau răng** (toothache), **nhổ răng** (pull a tooth), **sâu răng** (cavity).  \n\nYou’ll also hear **bộ răng** for a set of teeth (like someone’s whole smile).",
+  "exampleSentences": [
+    "Sáng nay, em quên đánh răng trước khi đi học.",
+    "Chị đi nha sĩ để kiểm tra răng mỗi sáu tháng một lần.",
+    "Anh bị đau răng nên không ăn được món cay hôm qua."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:48:54.439Z",
+    "content": {
+      "translation": {
+        "en": "I have a toothache in my mouth."
+      },
+      "answer": "răng",
+      "choices": [],
+      "word": "răng",
+      "sentence": "Tôi bị đau ___ trong miệng.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "tooth"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "7c060674-cf24-42df-8668-a9795d929fb9",
+    "createdAt": "2025-03-12T14:48:54.439Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "tooth",
+  "_id": "Tvx1YeE7QKOC6ZGWk2d1"
+}

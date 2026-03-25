@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đánh đổi",
+    "giải thích",
+    "thay đổi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "sacrifice",
+  "word": "đánh đổi",
+  "rank": 2340,
+  "exampleSentences": [
+    "Để có thành công, anh phải đánh đổi nhiều thời gian cá nhân.",
+    "Chị ấy đã đánh đổi sở thích riêng để chăm lo cho gia đình.",
+    "Nhiều người nghĩ rằng muốn giàu có thì cần phải đánh đổi tự do."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:39:29.482Z",
+    "createdAt": "2025-03-12T13:39:29.482Z",
+    "content": {
+      "answer": "đánh đổi",
+      "translation": {
+        "en": "Do you have to make sacrifices for this project?"
+      },
+      "hint": "đ___ đổi",
+      "choices": [
+        "đánh đổi",
+        "thay đổi",
+        "tăng cường"
+      ],
+      "language": "vi",
+      "sentence": "Bạn có ___ thời gian cho dự án này không?",
+      "word": "đánh đổi",
+      "translatedAnswer": {
+        "en": "make sacrifices"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "574dc3db-ad32-4a68-8836-dc4b3994d30d",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**đánh đổi** = to sacrifice or trade one thing to get something else. It often implies you lose something important to gain something you want.\n\nIt’s a verb, usually followed by what you lose. Very common pattern: you **đánh đổi A để (lấy) B** — give up A to get B.  \n\nIt often carries a serious or emotional tone, like success, freedom, health, happiness.  \nClose synonym: **hy sinh** (more emotional, noble sacrifice).",
+  "exampleSentencesTranslated": [
+    "To have success, you have to sacrifice a lot of personal time.",
+    "She sacrificed her own hobbies to take care of her family.",
+    "Many people think that to be rich, you need to sacrifice freedom."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To exchange or trade something for something else.",
+      "vi": "Để trao đổi hoặc đánh đổi một cái gì đó cho một cái khác.",
+      "es": "Intercambiar o comerciar algo por otra cosa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi phải đánh đổi thời gian để hoàn thành dự án.",
+      "es": "Tengo que intercambiar tiempo para completar el proyecto.",
+      "en": "I have to trade time to complete the project."
+    },
+    "createdAt": "2025-01-28T11:18:28.103Z",
+    "translations": {
+      "en": "to trade",
+      "vi": "đánh đổi",
+      "es": "intercambiar"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:39:29.482Z",
+    "createdAt": "2025-03-12T13:39:29.482Z",
+    "content": {
+      "word": "đánh đổi",
+      "sentence": "Tôi cần ___ để có thành công.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "make sacrifices"
+      },
+      "translation": {
+        "en": "I need to make sacrifices to achieve success."
+      },
+      "answer": "đánh đổi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "ae900971-24e4-43a2-9d23-89c09e18535d",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "đánh đổi = to sacrifice or trade one thing to get something else. It often implies you lose something important to gain something you want.\n\nIt’s a verb, usually followed by what you lose. Very common pattern: you đánh đổi A để (lấy) B — give up A to get B.  \n\nIt often carries a serious or emotional tone, like success, freedom, health, happiness.  \nClose synonym: hy sinh (more emotional, noble sacrifice).",
+  "updatedAt": "2026-03-03T10:26:04.437Z",
+  "_id": "DGdGwAVbXGZoNDAIYCNp"
+}

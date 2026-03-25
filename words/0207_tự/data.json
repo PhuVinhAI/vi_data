@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T14:08:14.119Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "bản thân; tự mình; tự",
+      "es": "uno mismo; por uno mismo; propio",
+      "en": "oneself; by oneself; self"
+    },
+    "example": {
+      "vi": "Tôi tự làm bài tập về nhà.",
+      "en": "I do my homework by myself.",
+      "es": "Hago mi tarea por mí mismo."
+    },
+    "translations": {
+      "en": "self",
+      "es": "sí mismo",
+      "vi": "tự"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tự = oneself / by oneself. It shows that someone does something alone or without help.\n\nIt usually goes before a verb to mean “do it yourself.”  \n\nYou can add mình for emphasis: tự mình = by oneself (stronger, more independent feeling).\n\nIt highlights independence or personal responsibility. Opposite idea: nhờ (ai đó) = ask someone to do it for you.",
+  "choices": [
+    "từ",
+    "tự",
+    "tứ"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "tự",
+      "hint": "t__",
+      "sentence": "Tôi có thể ___ làm điều đó.",
+      "translatedAnswer": {
+        "en": "myself"
+      },
+      "translation": {
+        "en": "I can do that by myself."
+      },
+      "answer": "tự",
+      "choices": [
+        "mình",
+        "tự",
+        "riêng"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:36:55.163Z",
+    "type": "multiChoiceQuiz",
+    "id": "c754cf89-af0f-46d6-924d-0185b4391220",
+    "createdAt": "2025-03-12T16:36:55.163Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Em tự làm bài tập về nhà mà không cần ai giúp.",
+    "Anh ấy thích tự nấu ăn mỗi khi rảnh rỗi ở nhà.",
+    "Chị cảm thấy tự hào khi tự hoàn thành dự án lớn này."
+  ],
+  "updatedAt": "2026-03-03T06:41:26.560Z",
+  "exampleSentencesTranslated": [
+    "I do my homework by oneself without anyone's help.",
+    "He likes to cook by oneself whenever he is free at home.",
+    "She feels proud when she completes this big project by oneself."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "tự",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**tự** = oneself / by oneself. It shows that someone does something alone or without help.\n\nIt usually goes **before a verb** to mean “do it yourself.”  \n\nYou can add **mình** for emphasis: **tự mình** = by oneself (stronger, more independent feeling).\n\nIt highlights independence or personal responsibility. Opposite idea: **nhờ (ai đó)** = ask someone to do it for you.",
+  "rank": 207,
+  "definition": "oneself",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi làm việc ___ theo ý mình.",
+      "word": "tự",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "freely"
+      },
+      "translation": {
+        "en": "I work freely according to my own wishes."
+      },
+      "answer": "tự",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:36:55.163Z",
+    "id": "0ae48d9d-63a8-422f-9ca4-5a268f15d30d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:36:55.163Z"
+  },
+  "_id": "vzA9H8d7VmpufmO0XkEl"
+}

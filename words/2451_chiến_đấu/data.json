@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chiến đấu",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "d6926d41-e20b-4c61-aa5c-8da5d86bc8e3",
+    "content": {
+      "choices": [
+        "bảo vệ",
+        "chiến đấu",
+        "tranh cãi"
+      ],
+      "language": "vi",
+      "sentence": "Họ quyết tâm ___ vì tự do.",
+      "word": "chiến đấu",
+      "translatedAnswer": {
+        "en": "fight"
+      },
+      "translation": {
+        "en": "They are determined to fight for freedom."
+      },
+      "hint": "c___ đấu",
+      "answer": "chiến đấu"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:38:12.175Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:38:12.175Z"
+  },
+  "choices": [
+    "chiến đấu",
+    "nghỉ ngơi",
+    "học tập"
+  ],
+  "rank": 2451,
+  "notes_md": "**chiến đấu** = to fight, to battle. It can be physical (war, combat) or more abstract (fighting a disease, fighting difficulties).\n\nIt’s a **verb**. Often used with **với / chống lại / vì** to show who or what you’re fighting against or for.  \n\nCommon pairings: *chiến đấu đến cùng* (fight to the end), *chiến đấu anh dũng* (fight bravely).  \nClose words: **đánh nhau** (more like “fight each other,” physical), **đấu tranh** (more political or social struggle).",
+  "notes": "chiến đấu = to fight, to battle. It can be physical (war, combat) or more abstract (fighting a disease, fighting difficulties).\n\nIt’s a verb. Often used with với / chống lại / vì to show who or what you’re fighting against or for.  \n\nCommon pairings: chiến đấu đến cùng (fight to the end), chiến đấu anh dũng (fight bravely).  \nClose words: đánh nhau (more like “fight each other,” physical), đấu tranh (more political or social struggle).",
+  "exampleSentences": [
+    "Anh ấy phải chiến đấu để bảo vệ gia đình của mình.",
+    "Trong cuộc sống, đôi khi em cần chiến đấu cho ước mơ của mình.",
+    "Chị luôn tin rằng mọi người nên chiến đấu vì công lý và sự thật."
+  ],
+  "updatedAt": "2026-03-03T10:36:56.377Z",
+  "exampleSentencesTranslated": [
+    "He has to fight to protect his family.",
+    "In life, sometimes you need to fight for your dreams.",
+    "She always believes that everyone should fight for justice and truth."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:38:12.175Z",
+    "type": "fillBlankQuiz",
+    "id": "ab0129ed-cc04-494e-ac43-837d54919f22",
+    "content": {
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để bảo vệ đất nước.",
+      "word": "chiến đấu",
+      "choices": [],
+      "answer": "chiến đấu",
+      "translatedAnswer": {
+        "en": "fight"
+      },
+      "translation": {
+        "en": "We need to fight to protect the country."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:38:12.175Z"
+  },
+  "definition": "fight",
+  "flashcard": {
+    "translations": {
+      "en": "fight",
+      "es": "luchar",
+      "vi": "chiến đấu"
+    },
+    "createdAt": "2025-01-28T13:12:13.215Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To engage in combat or struggle.",
+      "vi": "Tham gia vào một cuộc chiến hoặc cuộc đấu tranh.",
+      "es": "Participar en un combate o lucha."
+    },
+    "example": {
+      "en": "We must fight for freedom.",
+      "es": "Debemos luchar por la libertad.",
+      "vi": "Chúng ta phải chiến đấu vì tự do."
+    }
+  },
+  "_id": "gp88hPcLX3Ss5eJGQsFK"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "vật",
+    "việc",
+    "vực"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể đưa cho em vật trên bàn không?",
+    "Mỗi vật trong phòng này đều có ý nghĩa riêng của nó.",
+    "Chị vừa tìm thấy một vật lạ ở ngoài sân."
+  ],
+  "rank": 1767,
+  "word": "vật",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "object",
+  "updatedAt": "2026-03-03T09:25:10.229Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:44:43.234Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need to find a new object."
+      },
+      "answer": "vật",
+      "translatedAnswer": {
+        "en": "object"
+      },
+      "sentence": "Tôi cần tìm một ___ mới.",
+      "word": "vật",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:44:43.234Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "eed5a923-2ff5-48e7-b6a0-fae58fd83606",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "vật means a physical object or thing — something you can see or touch. It’s a general, slightly formal word for “object.”\n\nIt’s a countable noun: một vật, hai vật, but in daily speech people often say đồ or thứ instead. Vật feels more neutral or written.\n\nVery common combinations: đồ vật (objects/things), sự vật (things/phenomena), vật thể (physical object), động vật (animal).  \n\nQuick memory tip: if you’d say “an object” in English, vật fits — if you’d say “stuff,” đồ is usually more natural.",
+  "exampleSentencesTranslated": [
+    "Can you pass me the object on the table?",
+    "Every object in this room has its own meaning.",
+    "I just found a strange object in the yard."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Un artículo o cosa, especialmente uno que es tangible.",
+      "vi": "Một món đồ hoặc vật thể, đặc biệt là một cái có thể chạm vào.",
+      "en": "An item or thing, especially one that is tangible."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:23:05.805Z",
+    "example": {
+      "vi": "Đây là một vật rất quý giá.",
+      "es": "Este es un objeto muy valioso.",
+      "en": "This is a very valuable object."
+    },
+    "translations": {
+      "en": "object",
+      "es": "objeto",
+      "vi": "vật"
+    }
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I find this object very interesting."
+      },
+      "answer": "vật",
+      "hint": "v___",
+      "choices": [
+        "vật",
+        "sự việc",
+        "đồ vật"
+      ],
+      "word": "vật",
+      "sentence": "Tôi thấy ___ này rất thú vị.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "object"
+      }
+    },
+    "createdAt": "2025-03-12T13:44:43.234Z",
+    "updatedAt": "2025-03-12T13:44:43.234Z",
+    "id": "cc93e057-85cd-4e63-8c13-c802bb8ba816",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**vật** means a physical object or thing — something you can see or touch. It’s a general, slightly formal word for “object.”\n\nIt’s a countable noun: *một vật, hai vật*, but in daily speech people often say **đồ** or **thứ** instead. **Vật** feels more neutral or written.\n\nVery common combinations: **đồ vật** (objects/things), **sự vật** (things/phenomena), **vật thể** (physical object), **động vật** (animal).  \n\nQuick memory tip: if you’d say “an object” in English, **vật** fits — if you’d say “stuff,” **đồ** is usually more natural.",
+  "_id": "EdnzDgjOxbtWuW6apZUl"
+}

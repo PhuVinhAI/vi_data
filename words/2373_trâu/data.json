@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "The buffalo is eating grass in the field.",
+      "vi": "Con trâu đang ăn cỏ trên đồng.",
+      "es": "El búfalo está comiendo hierba en el campo."
+    },
+    "translations": {
+      "es": "búfalo",
+      "en": "buffalo",
+      "vi": "trâu"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un gran animal domesticado utilizado para la agricultura y el trabajo, especialmente en Asia.",
+      "en": "A large domesticated animal used for farming and labor, especially in Asia.",
+      "vi": "Một loài động vật lớn được thuần hóa, thường được sử dụng trong nông nghiệp và lao động, đặc biệt ở châu Á."
+    },
+    "createdAt": "2025-01-28T10:53:53.647Z"
+  },
+  "definition": "water buffalo",
+  "rank": 2373,
+  "exampleSentences": [
+    "Anh thấy con trâu đang ăn cỏ ngoài đồng sáng nay.",
+    "Bố của em nuôi một con trâu để giúp cày ruộng.",
+    "Mỗi khi về quê, chị thường dắt trâu ra bờ sông uống nước."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:12:39.718Z",
+    "updatedAt": "2025-03-12T13:12:39.718Z",
+    "id": "74da4f2f-2494-4acb-9d23-3d4f23913457",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "trâu",
+      "translatedAnswer": {
+        "en": "buffalo"
+      },
+      "language": "vi",
+      "hint": "t___",
+      "choices": [
+        "gà",
+        "trâu",
+        "cá"
+      ],
+      "translation": {
+        "en": "She has a big buffalo."
+      },
+      "answer": "trâu",
+      "sentence": "Cô ấy có một con ___ lớn."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trâu",
+  "notes": "trâu = water buffalo, the big farm animal used for plowing rice fields.  \n\nIt’s a noun. Use the classifier con → một con trâu, hai con trâu.  \n\nOften paired with farming words like cày ruộng (plow fields) or grouped as trâu bò (buffalo and cows, livestock in general).  \n\nFiguratively, calling someone trâu can mean they’re very strong or very stubborn (usually a bit negative).  \n\nIn the zodiac, tuổi Sửu is the Year of the Buffalo.",
+  "choices": [
+    "trâu",
+    "bò",
+    "ngựa"
+  ],
+  "notes_md": "**trâu** = water buffalo, the big farm animal used for plowing rice fields.  \n\nIt’s a noun. Use the classifier **con** → *một con trâu, hai con trâu*.  \n\nOften paired with farming words like **cày ruộng** (plow fields) or grouped as **trâu bò** (buffalo and cows, livestock in general).  \n\nFiguratively, calling someone **trâu** can mean they’re very strong or very stubborn (usually a bit negative).  \n\nIn the zodiac, **tuổi Sửu** is the Year of the Buffalo.",
+  "exampleSentencesTranslated": [
+    "This morning, I saw a water buffalo eating grass in the field.",
+    "My father raises a water buffalo to help plow the field.",
+    "Whenever she goes to the countryside, she often leads the water buffalo to the riverbank to drink water."
+  ],
+  "updatedAt": "2026-03-03T10:29:04.221Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "58dfb11f-7137-4f4f-9837-e85121a2943e",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cái ___ đang ăn cỏ.",
+      "answer": "trâu",
+      "choices": [],
+      "translation": {
+        "en": "The buffalo is eating grass."
+      },
+      "word": "trâu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "buffalo"
+      }
+    },
+    "createdAt": "2025-03-12T13:12:39.718Z",
+    "updatedAt": "2025-03-12T13:12:39.718Z"
+  },
+  "_id": "63lAdZULnV00qNkcB9HF"
+}

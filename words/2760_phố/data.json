@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "2e3aec72-e9b7-43d5-84cb-e7d30fcfb6fe",
+    "content": {
+      "translatedAnswer": {
+        "en": "street"
+      },
+      "choices": [
+        "đường",
+        "phố",
+        "ngõ"
+      ],
+      "translation": {
+        "en": "I like to walk on the street."
+      },
+      "sentence": "Tôi thích đi dạo trên ___.",
+      "hint": "p___",
+      "answer": "phố",
+      "word": "phố",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:10:59.815Z",
+    "createdAt": "2025-03-12T15:10:59.815Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Phố means street—a road in a town or city, usually with houses and shops on both sides.  \n\nIt’s a noun. You often hear con phố (classifier con for streets) and phrases like trên phố (on the street) or ngoài phố (out in the street/outside).  \n\nCommon pairings: phố cổ (old quarter), phố chính (main street), phố xá (streets in general, more collective feel).  \n\nCompared to đường (road), phố feels more urban and lively—think city streets with activity, not highways.",
+  "exampleSentences": [
+    "Anh thường đi dạo trên phố vào buổi tối sau khi làm việc.",
+    "Chị mua hoa ở cửa hàng nhỏ bên phố mỗi sáng cuối tuần.",
+    "Bạn của em sống gần phố nên rất tiện đi học và mua sắm."
+  ],
+  "word": "phố",
+  "choices": [
+    "phố",
+    "bếp",
+    "vườn"
+  ],
+  "rank": 2760,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Phố** means *street*—a road in a town or city, usually with houses and shops on both sides.  \n\nIt’s a noun. You often hear **con phố** (classifier *con* for streets) and phrases like **trên phố** (on the street) or **ngoài phố** (out in the street/outside).  \n\nCommon pairings: **phố cổ** (old quarter), **phố chính** (main street), **phố xá** (streets in general, more collective feel).  \n\nCompared to **đường** (road), *phố* feels more urban and lively—think city streets with activity, not highways.",
+  "definition": "street",
+  "fillBlankQuiz": {
+    "id": "87fe50b3-a034-4d8b-a5d8-ff2a5dcf17c9",
+    "updatedAt": "2025-03-12T15:10:59.815Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "street"
+      },
+      "translation": {
+        "en": "I live on this street."
+      },
+      "sentence": "Tôi sống trên ___ này.",
+      "answer": "phố",
+      "language": "vi",
+      "word": "phố"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:10:59.815Z"
+  },
+  "updatedAt": "2026-03-03T12:07:37.466Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He usually walks on the street in the evening after work.",
+    "She buys flowers at the small shop by the street every weekend morning.",
+    "My friend lives near the street so it is very convenient for studying and shopping."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "street",
+      "es": "calle",
+      "vi": "phố"
+    },
+    "example": {
+      "en": "I like to stroll down the street in the evening.",
+      "es": "Me gusta pasear por la calle por la noche.",
+      "vi": "Tôi thích đi dạo trên phố vào buổi tối."
+    },
+    "definitions": {
+      "en": "A street or road in a city or town.",
+      "es": "Una calle o camino en una ciudad o pueblo.",
+      "vi": "Một con đường hoặc lối đi trong một thành phố hoặc thị trấn."
+    },
+    "createdAt": "2025-01-28T12:45:20.846Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "ZqZasADkDe7zXhVbPcZJ"
+}

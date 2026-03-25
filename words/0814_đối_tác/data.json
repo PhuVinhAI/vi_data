@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "65558fd6-1192-4481-b872-0df0d7296a15",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:46:12.930Z",
+    "content": {
+      "choices": [],
+      "answer": "đối tác",
+      "translation": {
+        "en": "We need a new partner for the project."
+      },
+      "translatedAnswer": {
+        "en": "partner"
+      },
+      "sentence": "Chúng tôi cần ___ mới cho dự án.",
+      "word": "đối tác",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:46:12.930Z"
+  },
+  "notes": "đối tác = partner, usually in business or work. It’s someone you cooperate with for a shared goal, not a romantic partner.\n\nIt’s a countable noun: một đối tác, các đối tác. Often used in business contexts like đối tác kinh doanh, đối tác chiến lược, tìm kiếm đối tác.\n\nDon’t confuse it with bạn (friend) or cộng sự (colleague/associate). Đối tác focuses on cooperation between two sides, often equal and formal.",
+  "updatedAt": "2026-03-03T07:43:08.929Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:46:12.930Z",
+    "content": {
+      "translation": {
+        "en": "We need a new partner for the project."
+      },
+      "answer": "đối tác",
+      "hint": "đ___t",
+      "choices": [
+        "hợp tác",
+        "đối tác",
+        "người cùng làm"
+      ],
+      "language": "vi",
+      "word": "đối tác",
+      "sentence": "Chúng tôi cần ___ mới cho dự án.",
+      "translatedAnswer": {
+        "en": "partner"
+      }
+    },
+    "updatedAt": "2025-03-12T13:46:12.930Z",
+    "id": "93ff76eb-1377-44ee-bd29-69597577d0f8",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**đối tác** = partner, usually in business or work. It’s someone you cooperate with for a shared goal, not a romantic partner.\n\nIt’s a countable noun: *một đối tác, các đối tác*. Often used in business contexts like *đối tác kinh doanh, đối tác chiến lược, tìm kiếm đối tác*.\n\n\nDon’t confuse it with **bạn** (friend) or **cộng sự** (colleague/associate). *Đối tác* focuses on cooperation between two sides, often equal and formal.",
+  "exampleSentencesTranslated": [
+    "My company is looking for a new partner for long-term cooperation.",
+    "She often meets the partner in the morning to discuss the project.",
+    "I want to learn experience from a foreign partner in this field."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:24:42.750Z",
+    "example": {
+      "en": "We need to find a new partner for this project.",
+      "vi": "Chúng tôi cần tìm một đối tác mới cho dự án này.",
+      "es": "Necesitamos encontrar un nuevo socio para este proyecto."
+    },
+    "translations": {
+      "en": "partner",
+      "es": "socio",
+      "vi": "đối tác"
+    },
+    "definitions": {
+      "en": "A person or organization that works with another person or organization in a business or other venture.",
+      "es": "Una persona u organización que trabaja con otra persona u organización en un negocio u otra empresa.",
+      "vi": "Một người hoặc tổ chức làm việc với một người hoặc tổ chức khác trong một doanh nghiệp hoặc dự án khác."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đối tác",
+    "khách hàng",
+    "người quản lý"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đối tác",
+  "rank": 814,
+  "exampleSentences": [
+    "Công ty của anh đang tìm kiếm một đối tác mới để hợp tác lâu dài.",
+    "Chị ấy thường gặp đối tác vào buổi sáng để bàn về dự án.",
+    "Em muốn học hỏi kinh nghiệm từ đối tác nước ngoài trong lĩnh vực này."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "partner",
+  "_id": "F5tJTD7aVATiRKujMmvV"
+}

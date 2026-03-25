@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "yêu",
+    "ghét",
+    "thích"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ghét",
+  "exampleSentences": [
+    "Em rất ghét phải dậy sớm vào mỗi buổi sáng.",
+    "Anh ghét ăn rau mùi trong các món ăn.",
+    "Chị ấy ghét khi trời mưa vào cuối tuần."
+  ],
+  "rank": 1335,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "hate",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I hate this dish."
+      },
+      "answer": "ghét",
+      "choices": [],
+      "sentence": "Tôi ___ món ăn này.",
+      "word": "ghét",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "hate"
+      }
+    },
+    "createdAt": "2025-03-12T13:52:34.488Z",
+    "updatedAt": "2025-03-12T13:52:34.488Z",
+    "type": "fillBlankQuiz",
+    "id": "447d8b9e-8aa5-43e5-bb39-b386b196f967",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "ghét = to hate, to strongly dislike something. It’s stronger than không thích (don’t like).\n\nUse it for things, actions, or situations you really can’t stand. It often expresses personal feelings, not polite opinions.\n\nOpposite: yêu (love). Softer option: không thích (don’t like).",
+  "updatedAt": "2026-03-03T08:38:38.261Z",
+  "notes_md": "**ghét** = to hate, to strongly dislike something. It’s stronger than *không thích* (don’t like).\n\nUse it for things, actions, or situations you really can’t stand. It often expresses personal feelings, not polite opinions.\n\n\nOpposite: **yêu** (love). Softer option: **không thích** (don’t like).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "1d79ecd3-ffdb-481c-a29b-e6d527faa635",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:52:34.488Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "hate"
+      },
+      "language": "vi",
+      "word": "ghét",
+      "sentence": "Tôi ___ món ăn này.",
+      "hint": "g__t",
+      "choices": [
+        "thích",
+        "ghét",
+        "yêu"
+      ],
+      "translation": {
+        "en": "I hate this dish."
+      },
+      "answer": "ghét"
+    },
+    "createdAt": "2025-03-12T13:52:34.488Z"
+  },
+  "exampleSentencesTranslated": [
+    "I really hate having to wake up early every morning.",
+    "I hate eating cilantro in dishes.",
+    "She hates when it rains on the weekend."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "hate",
+      "vi": "ghét",
+      "es": "odio"
+    },
+    "createdAt": "2025-01-28T11:30:25.818Z",
+    "example": {
+      "en": "I hate eating vegetables.",
+      "es": "Odio comer verduras.",
+      "vi": "Tôi ghét ăn rau."
+    },
+    "definitions": {
+      "en": "To feel intense or passionate dislike for someone or something.",
+      "es": "Sentir un intenso o apasionado desagrado por alguien o algo.",
+      "vi": "Cảm thấy sự không thích hoặc ghê tởm mãnh liệt đối với ai đó hoặc điều gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "GS0aGyP4aMSQBVkPUmqu"
+}

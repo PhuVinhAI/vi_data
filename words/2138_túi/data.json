@@ -1,0 +1,99 @@
+{
+  "word": "túi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mũ",
+    "túi",
+    "ghế"
+  ],
+  "rank": 2138,
+  "notes_md": "**túi** = bag. Any kind of bag or pouch you put things in.\n\nIt’s a noun. Use the classifier **cái**: *một cái túi, hai cái túi*. Very common combinations: **túi xách** (handbag), **túi tiền** (wallet/money bag), **túi nilon** (plastic bag), **túi áo / túi quần** (pocket).\n\nIt can also mean a small built‑in pocket in clothes, not just a separate bag.  \n\nFor “bag” as in luggage, you’ll often hear **vali** (suitcase) instead.",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "t__i",
+      "answer": "túi",
+      "translatedAnswer": {
+        "en": "bag"
+      },
+      "translation": {
+        "en": "She has a big bag."
+      },
+      "sentence": "Cô ấy có một ___ lớn.",
+      "language": "vi",
+      "word": "túi",
+      "choices": [
+        "hộp",
+        "túi",
+        "giỏ"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:19:17.092Z",
+    "id": "204f5f45-778a-43d3-be9e-d6b997cb8899",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:19:17.092Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị có thể để sách của em vào trong túi được không?",
+    "Anh vừa mua một cái túi mới để đi làm mỗi ngày.",
+    "Em thấy chìa khóa của em ở trong túi áo khoác rồi."
+  ],
+  "updatedAt": "2026-03-03T10:04:01.956Z",
+  "notes": "túi = bag. Any kind of bag or pouch you put things in.\n\nIt’s a noun. Use the classifier cái: một cái túi, hai cái túi. Very common combinations: túi xách (handbag), túi tiền (wallet/money bag), túi nilon (plastic bag), túi áo / túi quần (pocket).\n\nIt can also mean a small built‑in pocket in clothes, not just a separate bag.  \n\nFor “bag” as in luggage, you’ll often hear vali (suitcase) instead.",
+  "definition": "bag",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:54:07.323Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "bag",
+      "vi": "túi",
+      "es": "bolsa"
+    },
+    "example": {
+      "vi": "Tôi có một cái túi mới.",
+      "es": "Tengo una bolsa nueva.",
+      "en": "I have a new bag."
+    },
+    "definitions": {
+      "en": "A bag or pouch used for carrying items.",
+      "es": "Una bolsa o funda utilizada para llevar objetos.",
+      "vi": "Một cái túi hoặc bao dùng để mang đồ."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:19:17.092Z",
+    "id": "0d48b995-aece-4666-8848-a2841bef216e",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:19:17.092Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "bag"
+      },
+      "translation": {
+        "en": "I need to buy a new bag."
+      },
+      "answer": "túi",
+      "choices": [],
+      "sentence": "Tôi cần mua một ___ mới.",
+      "language": "vi",
+      "word": "túi"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Can you put my books in the bag?",
+    "I just bought a new bag to use for work every day.",
+    "I found my keys in the bag of my jacket."
+  ],
+  "_id": "c0oRo33gaAAIfoaLISFG"
+}

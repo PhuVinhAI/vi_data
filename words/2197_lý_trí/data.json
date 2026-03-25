@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "reason"
+      },
+      "answer": "lý trí",
+      "translation": {
+        "en": "You need reason when making a decision."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "lý trí",
+      "sentence": "Bạn cần ___ khi đưa ra quyết định."
+    },
+    "type": "fillBlankQuiz",
+    "id": "46dc4bd5-0e61-4b79-bbbd-036ceca6552d",
+    "createdAt": "2025-03-12T14:01:38.121Z",
+    "updatedAt": "2025-03-12T14:01:38.121Z"
+  },
+  "definition": "reason",
+  "choices": [
+    "lý trí",
+    "cảm xúc",
+    "trí nhớ"
+  ],
+  "updatedAt": "2026-03-03T10:10:34.652Z",
+  "exampleSentencesTranslated": [
+    "When angry, you should use reason to solve the problem.",
+    "She always lets reason guide her decisions.",
+    "I think reason is more important than emotion in this case."
+  ],
+  "notes": "Lý trí = reason, rational thinking. It’s the part of you that thinks logically, not emotionally.\n\nIt’s an uncountable noun — you don’t say một lý trí. Often paired with verbs like giữ lý trí (stay rational), mất lý trí (lose control), dùng lý trí (use reason).  \n\nOften contrasted with cảm xúc (emotion) — this pair helps you remember: lý trí vs. cảm xúc.  \n\nClose synonym: lý tính (more formal, academic). Antonym vibe: cảm tính (emotional, subjective).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Lý trí** = reason, rational thinking. It’s the part of you that thinks logically, not emotionally.\n\nIt’s an uncountable noun — you don’t say *một lý trí*. Often paired with verbs like **giữ lý trí** (stay rational), **mất lý trí** (lose control), **dùng lý trí** (use reason).  \n\nOften contrasted with **cảm xúc** (emotion) — this pair helps you remember: *lý trí vs. cảm xúc*.  \n\nClose synonym: **lý tính** (more formal, academic). Antonym vibe: **cảm tính** (emotional, subjective).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lý trí",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "cảm xúc",
+        "lý trí",
+        "giả thiết"
+      ],
+      "translation": {
+        "en": "You need reason when making a decision."
+      },
+      "sentence": "Bạn cần ___ khi đưa ra quyết định.",
+      "hint": "l___i",
+      "word": "lý trí",
+      "answer": "lý trí",
+      "translatedAnswer": {
+        "en": "reason"
+      }
+    },
+    "id": "0b7a0995-0099-452d-b50a-a309c2300785",
+    "createdAt": "2025-03-12T14:01:38.121Z",
+    "updatedAt": "2025-03-12T14:01:38.121Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "She always uses reason to solve problems.",
+      "vi": "Cô ấy luôn dùng lý trí để giải quyết vấn đề.",
+      "es": "Ella siempre usa la razón para resolver problemas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:39:32.608Z",
+    "definitions": {
+      "vi": "Khả năng suy nghĩ một cách hợp lý và đưa ra quyết định dựa trên tư duy hợp lý.",
+      "es": "La capacidad de pensar lógicamente y tomar decisiones basadas en el pensamiento racional.",
+      "en": "The ability to think logically and make decisions based on rational thought."
+    },
+    "translations": {
+      "en": "reason",
+      "vi": "lý trí",
+      "es": "razón"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Khi giận, anh nên dùng lý trí để giải quyết vấn đề.",
+    "Chị ấy luôn để lý trí dẫn dắt quyết định của mình.",
+    "Em nghĩ rằng lý trí quan trọng hơn cảm xúc trong trường hợp này."
+  ],
+  "rank": 2197,
+  "_id": "J1IE4HWOyCS3r3r6Pl77"
+}

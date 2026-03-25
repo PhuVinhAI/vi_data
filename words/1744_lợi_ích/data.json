@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:22:38.287Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:10:08.612Z",
+    "updatedAt": "2025-03-12T13:10:08.612Z",
+    "id": "a1f18e14-3a70-454a-8e96-d28a8a62fb57",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta cần biết ___ của việc học.",
+      "answer": "lợi ích",
+      "choices": [],
+      "translation": {
+        "en": "We need to know the benefits of learning."
+      },
+      "word": "lợi ích",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "benefits"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**Lợi ích** means *benefit* — something good you get from an action, situation, or decision.\n\nIt’s a noun. You can say *một lợi ích* (one benefit) or *nhiều lợi ích* (many benefits); no plural ending needed. It often goes with verbs like *mang lại* (bring), *có* (have), or *đem lại*.  \n\n\nA strong opposite is **tác hại** (harm), which helps you remember it as the “positive result” side of something.",
+  "exampleSentencesTranslated": [
+    "I think exercising every day will bring many benefit for health.",
+    "She wants to know what the benefit of learning Vietnamese is.",
+    "Working in a group can help you understand the benefit of cooperation better."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lợi ích",
+  "choices": [
+    "lợi ích",
+    "kết quả",
+    "thành công"
+  ],
+  "notes": "Lợi ích means benefit — something good you get from an action, situation, or decision.\n\nIt’s a noun. You can say một lợi ích (one benefit) or nhiều lợi ích (many benefits); no plural ending needed. It often goes with verbs like mang lại (bring), có (have), or đem lại.  \n\nA strong opposite is tác hại (harm), which helps you remember it as the “positive result” side of something.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:51:19.356Z",
+    "definitions": {
+      "es": "Una ventaja o beneficio obtenido de algo.",
+      "en": "An advantage or profit gained from something.",
+      "vi": "Một lợi thế hoặc lợi nhuận thu được từ một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Aprender inglés trae muchos beneficios.",
+      "vi": "Việc học tiếng Anh mang lại nhiều lợi ích.",
+      "en": "Learning English brings many benefits."
+    },
+    "translations": {
+      "es": "beneficio",
+      "en": "benefit",
+      "vi": "lợi ích"
+    }
+  },
+  "rank": 1744,
+  "definition": "benefit",
+  "exampleSentences": [
+    "Anh nghĩ việc tập thể dục mỗi ngày sẽ mang lại nhiều lợi ích cho sức khỏe.",
+    "Chị muốn biết lợi ích của việc học tiếng Việt là gì.",
+    "Làm việc nhóm có thể giúp em hiểu rõ hơn về lợi ích của sự hợp tác."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:10:08.612Z",
+    "updatedAt": "2025-03-12T13:10:08.612Z",
+    "content": {
+      "answer": "lợi ích",
+      "sentence": "Học có nhiều ___ cho chúng ta.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "benefits"
+      },
+      "word": "lợi ích",
+      "hint": "l___c",
+      "translation": {
+        "en": "Learning has many benefits for us."
+      },
+      "choices": [
+        "lợi ích",
+        "khó khăn",
+        "thách thức"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "f17417c8-4bc2-4c67-8a6d-f897e7cf6b0a",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "5OOR0kgddEkSe7wgKNbE"
+}

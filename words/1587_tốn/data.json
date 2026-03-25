@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tốn",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:32:14.166Z",
+    "content": {
+      "answer": "tốn",
+      "hint": "t___n",
+      "translation": {
+        "en": "That can cost money."
+      },
+      "translatedAnswer": {
+        "en": "cost"
+      },
+      "word": "tốn",
+      "sentence": "Điều đó có thể ___ tiền.",
+      "language": "vi",
+      "choices": [
+        "tiêu",
+        "tốn",
+        "mất"
+      ]
+    },
+    "id": "63901e8b-8880-4a38-9aeb-7ed1dd7c82fa",
+    "updatedAt": "2025-03-12T13:32:14.166Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Tốn** means “to cost” or “to take up (money, time, effort).” It’s used when something requires you to spend or use resources.\n\nIt usually goes with money, time, or effort: *tốn tiền, tốn thời gian, tốn công sức*. You can also use it with “bao nhiêu” to ask how much something costs.\n\n\nClose word: **tốn kém** (more negative, “costly/expensive” in a painful way). Opposite idea: **tiết kiệm** (to save, economical).",
+  "rank": 1587,
+  "choices": [
+    "tốn",
+    "tặng",
+    "tắm"
+  ],
+  "notes": "Tốn means “to cost” or “to take up (money, time, effort).” It’s used when something requires you to spend or use resources.\n\nIt usually goes with money, time, or effort: tốn tiền, tốn thời gian, tốn công sức. You can also use it with “bao nhiêu” to ask how much something costs.\n\nClose word: tốn kém (more negative, “costly/expensive” in a painful way). Opposite idea: tiết kiệm (to save, economical).",
+  "updatedAt": "2026-03-03T09:06:05.015Z",
+  "exampleSentences": [
+    "Đi lại bằng taxi ở thành phố này rất tốn tiền.",
+    "Mua đồ ăn ở nhà hàng sang trọng sẽ tốn nhiều hơn ăn ở nhà.",
+    "Em nghĩ mình nên tiết kiệm để không tốn quá nhiều mỗi tháng."
+  ],
+  "exampleSentencesTranslated": [
+    "Taking a taxi in this city will cost money.",
+    "Buying food at a fancy restaurant will cost more than eating at home.",
+    "I think I should save so I do not cost too much each month."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "641fcab5-1abf-42d9-b2de-93c45ba3e9c5",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Điều này ___ nhiều thời gian.",
+      "word": "tốn",
+      "translatedAnswer": {
+        "en": "takes"
+      },
+      "translation": {
+        "en": "This takes a lot of time."
+      },
+      "answer": "tốn"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:32:14.166Z",
+    "updatedAt": "2025-03-12T13:32:14.166Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "Costar o consumir (tiempo, dinero, recursos).",
+      "vi": "Tốn là tiêu tốn hoặc chiếm dụng (thời gian, tiền bạc, tài nguyên).",
+      "en": "To cost or to take up (time, money, resources)."
+    },
+    "example": {
+      "es": "Esta tarea toma mucho tiempo.",
+      "vi": "Việc này tốn nhiều thời gian.",
+      "en": "This task takes a lot of time."
+    },
+    "translations": {
+      "vi": "tốn",
+      "es": "costoso",
+      "en": "costly"
+    },
+    "createdAt": "2025-01-28T11:11:55.168Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "cost",
+  "_id": "BRB0GZvVab0DcC3hb9Mn"
+}

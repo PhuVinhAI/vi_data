@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "d7ff54bd-3cdb-45ae-aee6-3c04bac699c5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:13.244Z",
+    "content": {
+      "answer": "ánh sáng",
+      "hint": "á___g",
+      "translation": {
+        "en": "The sun creates light during the day."
+      },
+      "translatedAnswer": {
+        "en": "light"
+      },
+      "word": "ánh sáng",
+      "sentence": "Mặt trời tạo ra ___ vào ban ngày.",
+      "language": "vi",
+      "choices": [
+        "ánh sáng",
+        "bóng tối",
+        "mưa"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:29:13.244Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ánh sáng** means *light* — the brightness that lets you see things. It can be natural (sunlight) or artificial (lamp light).\n\nIt’s usually uncountable, but you can say **một ánh sáng** when you mean a specific light source or a beam/glow. Common pairings: **ánh sáng mặt trời** (sunlight), **ánh sáng đèn**, **ánh sáng tự nhiên**, **ánh sáng mạnh/yếu**.\n\nOpposite idea: **bóng tối** (darkness). Think of it as the general word for light in any situation.",
+  "rank": 1724,
+  "choices": [
+    "ánh sáng",
+    "bóng tối",
+    "màu sắc"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ánh sáng",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "light"
+      },
+      "translation": {
+        "en": "We need light to see clearly."
+      },
+      "answer": "ánh sáng",
+      "choices": [],
+      "sentence": "Cần có ___ để nhìn rõ.",
+      "language": "vi",
+      "word": "ánh sáng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:13.244Z",
+    "id": "7ce18645-b12d-4710-bd1f-537a7d07fbba",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:29:13.244Z"
+  },
+  "exampleSentencesTranslated": [
+    "In the morning, light from the window makes my room brighter.",
+    "I like to read books under the light of the desk lamp at night.",
+    "When there is a power outage, we need to use candles to have light."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:09:13.899Z",
+    "translations": {
+      "en": "light",
+      "es": "luz",
+      "vi": "ánh sáng"
+    },
+    "example": {
+      "en": "The sunlight is very beautiful.",
+      "es": "La luz del sol es muy hermosa.",
+      "vi": "Ánh sáng mặt trời rất đẹp."
+    },
+    "definitions": {
+      "en": "Light; the natural agent that stimulates sight and makes things visible.",
+      "es": "Luz; el agente natural que estimula la vista y hace que las cosas sean visibles.",
+      "vi": "Ánh sáng; tác nhân tự nhiên kích thích thị giác và làm cho mọi thứ trở nên rõ ràng."
+    }
+  },
+  "definition": "light",
+  "notes": "Ánh sáng means light — the brightness that lets you see things. It can be natural (sunlight) or artificial (lamp light).\n\nIt’s usually uncountable, but you can say một ánh sáng when you mean a specific light source or a beam/glow. Common pairings: ánh sáng mặt trời (sunlight), ánh sáng đèn, ánh sáng tự nhiên, ánh sáng mạnh/yếu.\n\nOpposite idea: bóng tối (darkness). Think of it as the general word for light in any situation.",
+  "updatedAt": "2026-03-03T09:20:33.214Z",
+  "exampleSentences": [
+    "Buổi sáng, ánh sáng từ cửa sổ làm phòng em sáng hơn.",
+    "Anh thích đọc sách dưới ánh sáng của đèn bàn vào buổi tối.",
+    "Khi mất điện, chúng ta cần dùng nến để có ánh sáng."
+  ],
+  "_id": "AiliHSVXwruxCmSuU96u"
+}

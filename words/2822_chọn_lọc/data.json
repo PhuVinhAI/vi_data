@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh phải chọn lọc thông tin cẩn thận khi làm bài tập lớn.",
+    "Chị ấy luôn chọn lọc bạn bè để xây dựng mối quan hệ tốt.",
+    "Khi đọc sách, em thường chọn lọc những ý quan trọng để ghi nhớ."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Chọn hoặc lựa chọn một cách cẩn thận từ một nhóm.",
+      "es": "Elegir o seleccionar cuidadosamente de un grupo.",
+      "en": "To choose or select carefully from a group."
+    },
+    "translations": {
+      "en": "selective",
+      "es": "selectivo",
+      "vi": "chọn lọc"
+    },
+    "createdAt": "2025-01-28T11:52:08.461Z",
+    "example": {
+      "vi": "Tôi cần chọn lọc thông tin quan trọng.",
+      "es": "Necesito seleccionar información importante.",
+      "en": "I need to select important information."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2822,
+  "exampleSentencesTranslated": [
+    "You have to select information carefully when doing a big assignment.",
+    "She always selects friends to build good relationships.",
+    "When reading books, I usually select important ideas to remember."
+  ],
+  "notes": "chọn lọc = to select carefully, to filter and pick only what’s good or suitable. It’s stronger than just chọn because it implies careful thinking or clear criteria.\n\nYou use it with things like thông tin, sản phẩm, ứng viên, nội dung, tài liệu — usually when quality matters.  \n\nClose to lựa chọn, but lựa chọn is more general; chọn lọc feels more strict and selective. Opposite idea: chọn đại / chọn bừa (pick randomly, without care).",
+  "choices": [
+    "chọn lọc",
+    "phân tích",
+    "bổ sung"
+  ],
+  "updatedAt": "2026-03-03T18:00:58.752Z",
+  "definition": "select",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:15:05.655Z",
+    "updatedAt": "2025-03-12T14:15:05.655Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "select"
+      },
+      "answer": "chọn lọc",
+      "word": "chọn lọc",
+      "sentence": "Chúng tôi sẽ ___ thông tin cần thiết.",
+      "translation": {
+        "en": "We will select the necessary information."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "id": "17d27928-a5ba-471a-b6d6-4bfc4fd023b1"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "ch___ l___c",
+      "word": "chọn lọc",
+      "sentence": "Bạn có ___ những cuốn sách này không?",
+      "translation": {
+        "en": "Do you select these books?"
+      },
+      "choices": [
+        "nổi bật",
+        "chọn lọc",
+        "thông thường"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "select"
+      },
+      "answer": "chọn lọc"
+    },
+    "id": "4f647b34-58d8-4479-9481-74c758d908d9",
+    "createdAt": "2025-03-12T14:15:05.655Z",
+    "updatedAt": "2025-03-12T14:15:05.655Z"
+  },
+  "word": "chọn lọc",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chọn lọc** = to select carefully, to filter and pick only what’s good or suitable. It’s stronger than just *chọn* because it implies careful thinking or clear criteria.\n\nYou use it with things like thông tin, sản phẩm, ứng viên, nội dung, tài liệu — usually when quality matters.  \n\nClose to **lựa chọn**, but *lựa chọn* is more general; *chọn lọc* feels more strict and selective. Opposite idea: **chọn đại / chọn bừa** (pick randomly, without care).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "LsLOEWeW3dVi3P4qKIyM"
+}

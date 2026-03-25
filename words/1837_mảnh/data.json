@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I just picked up a small piece of paper on the floor.",
+    "Can you give me a piece of bread?",
+    "We each need a piece of the map to find the treasure."
+  ],
+  "notes": "mảnh means a piece or small fragment of something that was whole before. It’s used for thin, flat, or broken parts.\n\nIt’s a noun and usually goes with classifiers like một mảnh. You’ll often hear it with things like paper, glass, cloth, land, or memories (mảnh vỡ, mảnh đất, mảnh ký ức).\n\nIt suggests something small or broken off, smaller and more fragile than miếng (which is a more solid “piece,” like food). Think: mảnh = thin/broken fragment; miếng = chunk.",
+  "choices": [
+    "mảnh",
+    "bức",
+    "tờ"
+  ],
+  "updatedAt": "2026-03-03T09:32:22.757Z",
+  "definition": "piece",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:16:19.683Z",
+    "updatedAt": "2025-03-12T14:16:19.683Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "mảnh",
+      "translatedAnswer": {
+        "en": "piece"
+      },
+      "sentence": "Tôi cần một ___ giấy.",
+      "word": "mảnh",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I need a piece of paper."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "9ed6700d-12c4-4cae-b3dd-cb29c27d0eb1"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "mảnh",
+      "translatedAnswer": {
+        "en": "piece"
+      },
+      "sentence": "Tôi đã tìm thấy một ___ của bức tranh.",
+      "hint": "m___",
+      "word": "mảnh",
+      "language": "vi",
+      "choices": [
+        "mảnh",
+        "miếng",
+        "đoạn"
+      ],
+      "translation": {
+        "en": "I found a piece of the painting."
+      }
+    },
+    "id": "b667e82e-d529-450b-a3ba-7926d017ae93",
+    "createdAt": "2025-03-12T14:16:19.683Z",
+    "updatedAt": "2025-03-12T14:16:19.683Z"
+  },
+  "word": "mảnh",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**mảnh** means a *piece* or small fragment of something that was whole before. It’s used for thin, flat, or broken parts.\n\nIt’s a noun and usually goes with classifiers like **một mảnh**. You’ll often hear it with things like paper, glass, cloth, land, or memories (**mảnh vỡ**, **mảnh đất**, **mảnh ký ức**).\n\nIt suggests something small or broken off, smaller and more fragile than **miếng** (which is a more solid “piece,” like food). Think: *mảnh* = thin/broken fragment; *miếng* = chunk.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa nhặt được một mảnh giấy nhỏ trên sàn nhà.",
+    "Em có thể cho chị một mảnh bánh mì không?",
+    "Chúng ta cần mỗi người một mảnh bản đồ để tìm kho báu."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:53:11.562Z",
+    "translations": {
+      "es": "trozo",
+      "vi": "mảnh",
+      "en": "piece"
+    },
+    "definitions": {
+      "vi": "Một mảnh hoặc phần của cái gì đó.",
+      "es": "Un trozo o fragmento de algo.",
+      "en": "A piece or fragment of something."
+    },
+    "example": {
+      "en": "I need a piece of paper to write on.",
+      "es": "Necesito un trozo de papel para escribir.",
+      "vi": "Tôi cần một mảnh giấy để viết."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1837,
+  "_id": "MHT2RS4w2f59QnOcckPA"
+}

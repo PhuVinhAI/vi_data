@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "thông thường = usual, typical, what normally happens. It can mean “as usual” or “generally.”\n\nIt works as an adjective before a noun, or like an adverb in a sentence. It describes things that are not special or different.\n\nClose to thường (usually), but thông thường feels a bit more neutral/formal. Don’t confuse with bình thường = normal (not strange).",
+  "exampleSentences": [
+    "Anh đi làm vào giờ thông thường mỗi ngày.",
+    "Chị uống cà phê vào buổi sáng như thông thường.",
+    "Em chọn món ăn thông thường khi đến nhà hàng này."
+  ],
+  "choices": [
+    "thông thường",
+    "bất ngờ",
+    "cao cấp"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "People usually go to work in the morning.",
+      "es": "La gente normalmente va a trabajar por la mañana.",
+      "vi": "Mọi người thường đi làm vào buổi sáng."
+    },
+    "translations": {
+      "es": "normalmente",
+      "en": "usually",
+      "vi": "thông thường"
+    },
+    "definitions": {
+      "es": "Comúnmente o generalmente; de una manera habitual.",
+      "en": "Commonly or generally; in a usual manner.",
+      "vi": "Một cách thông thường; theo cách thường thấy."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:37:46.487Z"
+  },
+  "updatedAt": "2026-03-03T09:45:43.675Z",
+  "exampleSentencesTranslated": [
+    "I go to work at the usual time every day.",
+    "She drinks coffee in the morning as usual.",
+    "I choose the usual dish when I come to this restaurant."
+  ],
+  "rank": 1961,
+  "notes_md": "**thông thường** = usual, typical, what normally happens. It can mean “as usual” or “generally.”\n\nIt works as an adjective before a noun, or like an adverb in a sentence. It describes things that are not special or different.\n\n\nClose to **thường** (usually), but *thông thường* feels a bit more neutral/formal. Don’t confuse with **bình thường** = normal (not strange).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:06:14.017Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "usually"
+      },
+      "translation": {
+        "en": "We usually have dinner at 7 o'clock."
+      },
+      "hint": "th___n",
+      "word": "thông thường",
+      "answer": "thông thường",
+      "language": "vi",
+      "choices": [
+        "thường xuyên",
+        "thông thường",
+        "không thường"
+      ],
+      "sentence": "Chúng ta ___ ăn tối lúc 7 giờ."
+    },
+    "id": "e8505ac8-7d14-45a6-b1d9-9e45c51e6ee8",
+    "createdAt": "2025-03-12T16:06:14.017Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "usual",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:06:14.017Z",
+    "content": {
+      "sentence": "Chúng ta ___ ăn tối lúc 7 giờ.",
+      "choices": [],
+      "language": "vi",
+      "answer": "thông thường",
+      "word": "thông thường",
+      "translation": {
+        "en": "We usually have dinner at 7 o'clock."
+      },
+      "translatedAnswer": {
+        "en": "usually"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "8a7e28af-eeb0-4168-b23f-c29320b5b46a",
+    "createdAt": "2025-03-12T16:06:14.017Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "thông thường",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "nnSEgRDW1rpnmdLqEm8R"
+}

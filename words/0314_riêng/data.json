@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "riêng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1793cb63-6b5d-4908-a95d-113a7a4eb158",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:34:11.879Z",
+    "content": {
+      "word": "riêng",
+      "language": "vi",
+      "sentence": "Mỗi người đều có ___ ý kiến.",
+      "choices": [
+        "riêng",
+        "khác",
+        "chung"
+      ],
+      "hint": "r___n",
+      "answer": "riêng",
+      "translation": {
+        "en": "Everyone has their own opinion."
+      },
+      "translatedAnswer": {
+        "en": "own"
+      }
+    },
+    "updatedAt": "2025-03-12T13:34:11.879Z"
+  },
+  "notes_md": "**riêng** means *private* or *separate* — something just for one person, not shared.\n\nIt usually comes **after a noun** to describe it: a private room, personal life, personal matter. It can also mean *separately* or *individually* depending on context.\n\n\nClose synonym: **tư** (in *riêng tư* = private).  \nOpposite idea: **chung** = shared, common.",
+  "rank": 314,
+  "choices": [
+    "chung",
+    "riêng",
+    "lớn"
+  ],
+  "notes": "riêng means private or separate — something just for one person, not shared.\n\nIt usually comes after a noun to describe it: a private room, personal life, personal matter. It can also mean separately or individually depending on context.\n\nClose synonym: tư (in riêng tư = private).  \nOpposite idea: chung = shared, common.",
+  "updatedAt": "2026-03-03T06:53:28.993Z",
+  "exampleSentences": [
+    "Anh muốn có một phòng riêng để làm việc cho yên tĩnh.",
+    "Chị ấy thích giữ cuộc sống riêng và không chia sẻ nhiều với người khác.",
+    "Em cần một khoảng thời gian riêng sau khi kết thúc công việc."
+  ],
+  "exampleSentencesTranslated": [
+    "He wants to have a private room to work in peace.",
+    "She likes to keep her life private and does not share much with others.",
+    "I need some private time after finishing work."
+  ],
+  "fillBlankQuiz": {
+    "id": "5eeb125b-dce6-4714-ac89-17ccca7d39c5",
+    "content": {
+      "answer": "riêng",
+      "translation": {
+        "en": "Everyone has their own opinion."
+      },
+      "translatedAnswer": {
+        "en": "own"
+      },
+      "word": "riêng",
+      "sentence": "Mỗi người đều có ___ ý kiến.",
+      "language": "vi",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:34:11.879Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:34:11.879Z"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:13:42.306Z",
+    "translations": {
+      "es": "privado",
+      "vi": "riêng",
+      "en": "private"
+    },
+    "example": {
+      "es": "Quiero tener un espacio privado para trabajar.",
+      "vi": "Tôi muốn có một không gian riêng để làm việc.",
+      "en": "I want to have a private space to work."
+    },
+    "definitions": {
+      "es": "Separado o privado; no compartido con otros.",
+      "vi": "Riêng biệt hoặc riêng tư; không chia sẻ với người khác.",
+      "en": "Separate or private; not shared with others."
+    }
+  },
+  "definition": "private",
+  "_id": "BqTPTRuf029643sWmmTo"
+}

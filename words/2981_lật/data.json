@@ -1,0 +1,99 @@
+{
+  "rank": 2981,
+  "exampleSentences": [
+    "Em giúp anh lật trang sách này cho dễ đọc được không?",
+    "Chị nhớ lật bánh khi bên dưới đã vàng đều nhé.",
+    "Khi chơi bài, mọi người cùng lật lá bài cùng một lúc."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "voltear",
+      "vi": "lật",
+      "en": "flip"
+    },
+    "definitions": {
+      "en": "To turn over or flip something.",
+      "es": "Dar la vuelta o voltear algo.",
+      "vi": "Lật một vật gì đó."
+    },
+    "createdAt": "2025-01-28T11:42:56.575Z",
+    "example": {
+      "vi": "Hãy lật trang sách để tiếp tục đọc.",
+      "es": "Por favor, voltea la página para continuar leyendo.",
+      "en": "Please flip the page to continue reading."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "lật",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:05:00.657Z",
+    "updatedAt": "2025-03-12T14:05:00.657Z",
+    "content": {
+      "translation": {
+        "en": "You can flip this page."
+      },
+      "language": "vi",
+      "choices": [
+        "đọc",
+        "lật",
+        "viết"
+      ],
+      "word": "lật",
+      "hint": "l__t",
+      "sentence": "Bạn có thể ___ trang sách này.",
+      "translatedAnswer": {
+        "en": "flip"
+      },
+      "answer": "lật"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "1b52f7e3-5f8b-46b7-94dc-3f0deb27f1f4"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**lật** = to turn something over or flip it to the other side. It’s used when you change the position of something from one side to the other.\n\nIt works with physical objects you can flip: books, clothes, food, furniture, vehicles.  \n\nIt can also mean “overturn” in accidents (lật xe) or “overthrow” in politics (lật đổ).  \nFiguratively, **lật mặt** means to suddenly change attitude or show your “true face” — often negative.\n\nClose memory link: **lật ngược / lật úp** = flip upside down.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you help me turn over this page so it is easier to read?",
+    "Remember to turn over the pancake when the bottom is golden.",
+    "When playing cards, everyone turns over their card at the same time."
+  ],
+  "notes": "lật = to turn something over or flip it to the other side. It’s used when you change the position of something from one side to the other.\n\nIt works with physical objects you can flip: books, clothes, food, furniture, vehicles.  \n\nIt can also mean “overturn” in accidents (lật xe) or “overthrow” in politics (lật đổ).  \nFiguratively, lật mặt means to suddenly change attitude or show your “true face” — often negative.\n\nClose memory link: lật ngược / lật úp = flip upside down.",
+  "updatedAt": "2026-03-03T18:19:08.073Z",
+  "choices": [
+    "lật",
+    "lên",
+    "lấy"
+  ],
+  "definition": "turn over",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:05:00.657Z",
+    "createdAt": "2025-03-12T14:05:00.657Z",
+    "id": "f81ec8a6-7dbc-49dd-9f71-ec8d06cf13f6",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "lật",
+      "translatedAnswer": {
+        "en": "flip"
+      },
+      "sentence": "Bạn có thể ___ trang sách này.",
+      "word": "lật",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "You can flip this page."
+      }
+    }
+  },
+  "_id": "JpZ4AjOGJQ1HrUp72vbf"
+}

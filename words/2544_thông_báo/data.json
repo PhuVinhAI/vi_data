@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "thông báo",
+    "báo cáo",
+    "kế hoạch"
+  ],
+  "rank": 2544,
+  "notes_md": "**thông báo** = announcement, notice — information officially shared so people know something.\n\nIt’s a **countable noun**: *một thông báo, các thông báo*. Often used with verbs like **nhận** (receive), **đưa ra** (issue), **đăng** (post), **phát** (broadcast), **gửi** (send).  \n\nClose words: **thông tin** = information (broader, not always official); **tin tức** = news (usually from media).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7cd452b5-1150-4243-9ce8-c675a779c7dd",
+    "content": {
+      "choices": [
+        "thông báo",
+        "cập nhật",
+        "giới thiệu"
+      ],
+      "word": "thông báo",
+      "sentence": "Chúng tôi sẽ ___ tin tức sớm.",
+      "language": "vi",
+      "translation": {
+        "en": "We will announce the news soon."
+      },
+      "translatedAnswer": {
+        "en": "announce"
+      },
+      "answer": "thông báo",
+      "hint": "th___ báo"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:18:42.990Z",
+    "updatedAt": "2025-03-12T13:18:42.990Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thông báo",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "announcement",
+  "flashcard": {
+    "definitions": {
+      "es": "Una notificación o anuncio.",
+      "vi": "Một thông báo hoặc thông tin.",
+      "en": "A notification or announcement."
+    },
+    "example": {
+      "es": "Recibí una notificación de la escuela.",
+      "vi": "Tôi đã nhận được thông báo từ trường.",
+      "en": "I received a notification from the school."
+    },
+    "translations": {
+      "en": "notification",
+      "es": "notificación",
+      "vi": "thông báo"
+    },
+    "createdAt": "2025-01-28T10:59:10.445Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "She just received a new announcement from the school about the schedule.",
+    "This morning, he saw an announcement posted at the company entrance.",
+    "I will send this announcement to everyone in the group by email."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:18:42.990Z",
+    "type": "fillBlankQuiz",
+    "id": "c219956c-169a-4a52-83d1-4f71d501386c",
+    "createdAt": "2025-03-12T13:18:42.990Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "thông báo",
+      "translatedAnswer": {
+        "en": "announce"
+      },
+      "translation": {
+        "en": "We will announce the news soon."
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi sẽ ___ tin tức sớm.",
+      "word": "thông báo",
+      "choices": []
+    }
+  },
+  "exampleSentences": [
+    "Chị vừa nhận được một thông báo mới từ trường về lịch học.",
+    "Sáng nay, anh đọc thấy thông báo treo ở trước cửa công ty.",
+    "Em sẽ gửi thông báo này cho mọi người trong nhóm qua email."
+  ],
+  "updatedAt": "2026-03-03T10:47:08.024Z",
+  "notes": "thông báo = announcement, notice — information officially shared so people know something.\n\nIt’s a countable noun: một thông báo, các thông báo. Often used with verbs like nhận (receive), đưa ra (issue), đăng (post), phát (broadcast), gửi (send).  \n\nClose words: thông tin = information (broader, not always official); tin tức = news (usually from media).",
+  "_id": "7uqoDsdFR3I306Gmm9IP"
+}

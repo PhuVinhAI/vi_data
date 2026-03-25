@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "lẫn",
+    "giữa",
+    "với"
+  ],
+  "word": "lẫn",
+  "rank": 1394,
+  "exampleSentences": [
+    "Anh thích lẫn cà phê lẫn trà vào buổi sáng.",
+    "Chị ấy nói được lẫn tiếng Anh lẫn tiếng Pháp rất tốt.",
+    "Trong bữa tiệc, em gặp lẫn bạn cũ lẫn bạn mới."
+  ],
+  "definition": "both",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "lẫn most often appears in the pattern “lẫn A lẫn B” = “both A and B.” It links two things and stresses that both are included.\n\nYou can’t use lẫn alone to mean “both” — it normally comes in this pair structure. It’s similar to cả… lẫn… and sometimes close to vừa… vừa… (but vừa… vừa… often implies two actions or qualities at the same time).\n\nAs a verb, lẫn can also mean “to mix” or “to confuse (with)” — like mixing things together or mixing them up mentally.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:52:07.753Z",
+    "createdAt": "2025-03-12T13:52:07.753Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "mix"
+      },
+      "language": "vi",
+      "word": "lẫn",
+      "sentence": "Tôi không muốn ___ giữa hai người.",
+      "choices": [],
+      "translation": {
+        "en": "I don't want to mix between two people."
+      },
+      "answer": "lẫn"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "5df95707-0a26-496e-8c97-0586247e6005"
+  },
+  "updatedAt": "2026-03-03T08:45:08.912Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "l___",
+      "choices": [
+        "trộn",
+        "lẫn",
+        "hòa trộn"
+      ],
+      "answer": "lẫn",
+      "translation": {
+        "en": "I don't want to mix between two people."
+      },
+      "translatedAnswer": {
+        "en": "mix"
+      },
+      "language": "vi",
+      "sentence": "Tôi không muốn ___ giữa hai người.",
+      "word": "lẫn"
+    },
+    "createdAt": "2025-03-12T13:52:07.753Z",
+    "updatedAt": "2025-03-12T13:52:07.753Z",
+    "id": "b4c512b9-b71b-461d-beea-e36f5dfd5a6f",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**lẫn** most often appears in the pattern **“lẫn A lẫn B” = “both A and B.”** It links two things and stresses that *both are included*.\n\n\nYou can’t use **lẫn** alone to mean “both” — it normally comes in this pair structure. It’s similar to **cả… lẫn…** and sometimes close to **vừa… vừa…** (but *vừa… vừa…* often implies two actions or qualities at the same time).\n\nAs a verb, **lẫn** can also mean “to mix” or “to confuse (with)” — like mixing things together or mixing them up mentally.",
+  "flashcard": {
+    "translations": {
+      "en": "mix up",
+      "es": "confundir",
+      "vi": "lẫn"
+    },
+    "example": {
+      "en": "I mix up the two colors.",
+      "vi": "Tôi lẫn lộn giữa hai màu sắc.",
+      "es": "Confundo los dos colores."
+    },
+    "createdAt": "2025-01-28T11:29:59.190Z",
+    "definitions": {
+      "en": "To mix up or confuse.",
+      "es": "Confundir o mezclar.",
+      "vi": "Làm lẫn lộn hoặc nhầm lẫn."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He likes both coffee and tea in the morning.",
+    "She can speak both English and French very well.",
+    "At the party, I met both old friends and new friends."
+  ],
+  "_id": "GNCRRQqnm4e1NdUxFtiC"
+}

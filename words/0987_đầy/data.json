@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:19:08.241Z",
+    "content": {
+      "sentence": "Cái bình này ___ nước.",
+      "translatedAnswer": {
+        "en": "full"
+      },
+      "translation": {
+        "en": "This bottle is full of water."
+      },
+      "word": "đầy",
+      "language": "vi",
+      "answer": "đầy"
+    },
+    "type": "fillBlankQuiz",
+    "id": "d29b90b0-a6c0-488c-b43d-cf6e67704164",
+    "createdAt": "2025-03-12T16:19:08.241Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "đầy",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:19:08.241Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cái bình này ___ nước.",
+      "hint": "___y",
+      "translation": {
+        "en": "This bottle is full of water."
+      },
+      "translatedAnswer": {
+        "en": "full"
+      },
+      "language": "vi",
+      "choices": [
+        "trống",
+        "đầy",
+        "mới"
+      ],
+      "answer": "đầy",
+      "word": "đầy"
+    },
+    "id": "038c1fbf-636b-4953-b0ad-589b8b14d23e",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:19:08.241Z"
+  },
+  "definition": "full",
+  "notes_md": "**đầy** means **full** — no more space inside something. It describes containers, places, or even feelings.\n\nIt usually comes **after the noun**: *cốc đầy*, *bình đầy*.  \nYou also use **đầy + noun** to mean “full of …” (a lot inside).\n\n\nStrong opposites: **vơi / cạn** (less and less, for liquids), **trống** (empty space).  \nFor extra emphasis, you’ll hear **đầy ắp** = very full, almost overflowing.",
+  "rank": 987,
+  "updatedAt": "2026-03-03T08:01:04.805Z",
+  "exampleSentencesTranslated": [
+    "My glass is full so I won't pour any more.",
+    "The restaurant is very crowded today, every table is full of people.",
+    "My parents often tell me to keep my wallet full of money when going out."
+  ],
+  "exampleSentences": [
+    "Ly nước của em đã đầy nên em không rót thêm nữa.",
+    "Nhà hàng hôm nay rất đông, bàn nào cũng đầy người.",
+    "Ba mẹ thường bảo anh phải giữ ví luôn đầy tiền khi ra ngoài."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cái chai này đầy nước.",
+      "es": "Esta botella está llena de agua.",
+      "en": "This bottle is full of water."
+    },
+    "translations": {
+      "vi": "đầy",
+      "en": "full",
+      "es": "lleno"
+    },
+    "definitions": {
+      "en": "Having no empty space; filled to capacity.",
+      "es": "Sin espacio vacío; lleno hasta el límite.",
+      "vi": "Không có khoảng trống; đầy đủ."
+    },
+    "createdAt": "2025-01-28T13:50:20.010Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đầy",
+    "dài",
+    "đẹp"
+  ],
+  "notes": "đầy means full — no more space inside something. It describes containers, places, or even feelings.\n\nIt usually comes after the noun: cốc đầy, bình đầy.  \nYou also use đầy + noun to mean “full of …” (a lot inside).\n\nStrong opposites: vơi / cạn (less and less, for liquids), trống (empty space).  \nFor extra emphasis, you’ll hear đầy ắp = very full, almost overflowing.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "rJl93fNf77OKiFBV6b3Q"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T10:37:53.319Z",
+    "definitions": {
+      "es": "Literatura; un conjunto de obras escritas.",
+      "en": "Literature; a body of written works.",
+      "vi": "Văn học; một tập hợp các tác phẩm viết."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Disfruto leer literatura.",
+      "en": "I enjoy reading literature.",
+      "vi": "Tôi thích đọc văn học."
+    },
+    "translations": {
+      "vi": "văn",
+      "en": "literature",
+      "es": "literatura"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1698,
+  "definition": "literature",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích học môn văn vì được đọc nhiều truyện hay.",
+    "Anh ấy muốn trở thành giáo viên dạy văn trong tương lai.",
+    "Chị thường đến thư viện để tìm tài liệu về văn cổ điển."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I like to read the writing of that author."
+      },
+      "choices": [
+        "thơ",
+        "văn",
+        "truyện"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "writing"
+      },
+      "word": "văn",
+      "hint": "v__n",
+      "sentence": "Tôi thích đọc ___ của tác giả đó.",
+      "answer": "văn"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "0ff11891-e2a9-4e91-924f-e716ca1b71a3",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T12:53:46.672Z",
+    "updatedAt": "2025-03-12T12:53:46.672Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "văn",
+  "notes": "văn usually means literature as a school subject — reading and studying stories, poems, and essays. It’s a noun.\n\nYou often hear it in combinations like môn văn (Literature class), học văn (to study literature), and bài văn (a composition/essay). It’s uncountable when talking about the subject, but countable in things like một bài văn.\n\nIt can also mean writing style or “literary expression” in some contexts. Related word: văn học = literature in a broader, academic sense (like the field of study).",
+  "choices": [
+    "văn",
+    "toán",
+    "nhạc"
+  ],
+  "notes_md": "**văn** usually means **literature** as a school subject — reading and studying stories, poems, and essays. It’s a **noun**.\n\nYou often hear it in combinations like **môn văn** (Literature class), **học văn** (to study literature), and **bài văn** (a composition/essay). It’s uncountable when talking about the subject, but countable in things like *một bài văn*.\n\nIt can also mean **writing style** or “literary expression” in some contexts. Related word: **văn học** = literature in a broader, academic sense (like the field of study).",
+  "exampleSentencesTranslated": [
+    "I like studying literature because I get to read many good stories.",
+    "He wants to become a literature teacher in the future.",
+    "She often goes to the library to find materials about classic literature."
+  ],
+  "updatedAt": "2026-03-03T09:17:37.985Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "văn",
+      "translatedAnswer": {
+        "en": "writing"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I like to read the writing of that author."
+      },
+      "choices": [],
+      "answer": "văn",
+      "sentence": "Tôi thích đọc ___ của tác giả đó."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "cd20bec3-e269-4a7c-a765-abfd1f3eecc7",
+    "createdAt": "2025-03-12T12:53:46.672Z",
+    "updatedAt": "2025-03-12T12:53:46.672Z"
+  },
+  "_id": "1HkBj12cn2Gwm5CKIvFq"
+}

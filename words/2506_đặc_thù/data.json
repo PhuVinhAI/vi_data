@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "unique characteristic",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "đặc thù",
+      "translation": {
+        "en": "Each region has its own characteristics."
+      },
+      "answer": "đặc thù",
+      "sentence": "Mỗi vùng có ___ riêng.",
+      "translatedAnswer": {
+        "en": "characteristics"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:36:33.350Z",
+    "createdAt": "2025-03-12T14:36:33.350Z",
+    "id": "f994b516-1f18-4bb8-b63b-0fa6f0f50dea",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Mỗi ngành nghề đều có những đặc thù riêng biệt mà em cần hiểu.",
+    "Anh thấy công việc này có đặc thù nên cần người có kinh nghiệm.",
+    "Chị muốn tìm một sản phẩm có đặc thù để kinh doanh hiệu quả hơn."
+  ],
+  "notes_md": "**đặc thù** = specific to something; a unique characteristic of a field, group, or situation. It’s about what makes something different from others.\n\nIt’s usually an adjective after a noun: *vấn đề đặc thù, yếu tố đặc thù, tính chất đặc thù*.  \nYou can also use it like a noun in the pattern **đặc thù của + N** to talk about “the specific nature of…”  \n\n\nClose ideas: **riêng / riêng biệt** (separate, distinct). Opposite vibe: **chung, phổ biến** (general, common).",
+  "flashcard": {
+    "example": {
+      "es": "Cada región tiene sus propias características únicas.",
+      "en": "Each region has its own unique characteristics.",
+      "vi": "Mỗi vùng miền có đặc thù văn hóa riêng."
+    },
+    "definitions": {
+      "vi": "Một đặc điểm hoặc tính chất đặc trưng hoặc độc đáo của một nhóm hoặc bối cảnh cụ thể.",
+      "en": "A characteristic or feature that is distinctive or unique to a particular group or context.",
+      "es": "Una característica o rasgo que es distintivo o único de un grupo o contexto particular."
+    },
+    "createdAt": "2025-01-28T12:12:14.336Z",
+    "translations": {
+      "en": "unique characteristic",
+      "vi": "đặc thù",
+      "es": "característica única"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "đặc thù = specific to something; a unique characteristic of a field, group, or situation. It’s about what makes something different from others.\n\nIt’s usually an adjective after a noun: vấn đề đặc thù, yếu tố đặc thù, tính chất đặc thù.  \nYou can also use it like a noun in the pattern đặc thù của + N to talk about “the specific nature of…”  \n\nClose ideas: riêng / riêng biệt (separate, distinct). Opposite vibe: chung, phổ biến (general, common).",
+  "choices": [
+    "đặc thù",
+    "phổ biến",
+    "bình thường"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:42:44.885Z",
+  "word": "đặc thù",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b3d20d68-f7af-49ab-b90c-c4f615a382b2",
+    "createdAt": "2025-03-12T14:36:33.350Z",
+    "content": {
+      "word": "đặc thù",
+      "choices": [
+        "đặc thù",
+        "phổ biến",
+        "tương tự"
+      ],
+      "hint": "đ___h",
+      "answer": "đặc thù",
+      "translation": {
+        "en": "Each region has its own characteristics."
+      },
+      "translatedAnswer": {
+        "en": "characteristics"
+      },
+      "language": "vi",
+      "sentence": "Mỗi vùng có ___ riêng."
+    },
+    "updatedAt": "2025-03-12T14:36:33.350Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Every profession has its own unique characteristic that you need to understand.",
+    "I think this job has a unique characteristic, so it needs someone with experience.",
+    "She wants to find a product with a unique characteristic to run her business more effectively."
+  ],
+  "rank": 2506,
+  "_id": "R3Ons24mcphURZDwdzKq"
+}

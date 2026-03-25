@@ -1,0 +1,99 @@
+{
+  "rank": 2785,
+  "exampleSentences": [
+    "Anh rất tự hào khi nhận được danh hiệu trong cuộc thi năm nay.",
+    "Chị ấy đã cố gắng nhiều năm để đạt được danh hiệu này.",
+    "Em mong muốn một ngày nào đó sẽ giành được danh hiệu ở trường."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "title",
+      "es": "título",
+      "vi": "danh hiệu"
+    },
+    "definitions": {
+      "en": "A title or honor given to someone to recognize their achievements.",
+      "vi": "Một danh hiệu hoặc vinh dự được trao cho ai đó để công nhận những thành tựu của họ.",
+      "es": "Un título u honor otorgado a alguien para reconocer sus logros."
+    },
+    "createdAt": "2025-01-28T11:41:10.139Z",
+    "example": {
+      "en": "He received the title of 'Best Performer'.",
+      "vi": "Anh ấy đã nhận được danh hiệu 'Người xuất sắc nhất'.",
+      "es": "Él recibió el título de 'Mejor Intérprete'."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:03:22.361Z",
+    "createdAt": "2025-03-12T14:03:22.361Z",
+    "id": "de47a31a-a259-4778-826b-b20f173c8399",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "She received a title in the competition."
+      },
+      "language": "vi",
+      "choices": [
+        "giải thưởng",
+        "danh hiệu",
+        "huy chương"
+      ],
+      "word": "danh hiệu",
+      "hint": "d___hệu",
+      "sentence": "Cô ấy nhận được ___ trong cuộc thi.",
+      "translatedAnswer": {
+        "en": "title"
+      },
+      "answer": "danh hiệu"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "danh hiệu",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Danh hiệu** means a title or honor given to someone for achievement or status. It’s often about recognition, not just a physical prize.\n\nIt’s a countable noun: *một danh hiệu, nhiều danh hiệu*. Common verbs: **đạt / giành / nhận / trao / phong + danh hiệu** (đạt danh hiệu, phong danh hiệu).  \n\nIt’s close to **giải thưởng** (award), but *danh hiệu* focuses more on the status or title you earn, not the trophy or money.  \n\nOften used in school, competitions, sports, or official recognition (like honorary titles).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He is very proud when he receives the title in this year's competition.",
+    "She has tried for many years to achieve this title.",
+    "I hope that one day I will win the title at school."
+  ],
+  "notes": "Danh hiệu means a title or honor given to someone for achievement or status. It’s often about recognition, not just a physical prize.\n\nIt’s a countable noun: một danh hiệu, nhiều danh hiệu. Common verbs: đạt / giành / nhận / trao / phong + danh hiệu (đạt danh hiệu, phong danh hiệu).  \n\nIt’s close to giải thưởng (award), but danh hiệu focuses more on the status or title you earn, not the trophy or money.  \n\nOften used in school, competitions, sports, or official recognition (like honorary titles).",
+  "choices": [
+    "danh hiệu",
+    "giải thưởng",
+    "học bổng"
+  ],
+  "updatedAt": "2026-03-03T17:30:23.544Z",
+  "definition": "title",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:03:22.361Z",
+    "updatedAt": "2025-03-12T14:03:22.361Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "danh hiệu",
+      "translatedAnswer": {
+        "en": "title"
+      },
+      "sentence": "Ông ấy đạt được ___ cao nhất.",
+      "word": "danh hiệu",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "He achieved the highest title."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "dfb61344-6dad-472c-a72b-72911a109a6e"
+  },
+  "_id": "JUKeFDqPXLHWe1hdZaMU"
+}

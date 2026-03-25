@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "63ece15b-e677-4615-82e2-547fcf1fba68",
+    "createdAt": "2025-03-12T14:26:10.057Z",
+    "updatedAt": "2025-03-12T14:26:10.057Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "tradition"
+      },
+      "language": "vi",
+      "sentence": "Tết Nguyên Đán là một ___ của người Việt.",
+      "translation": {
+        "en": "Tet Nguyen Dan is a tradition of the Vietnamese."
+      },
+      "answer": "truyền thống",
+      "word": "truyền thống",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "tradition",
+  "flashcard": {
+    "example": {
+      "en": "Tet Nguyen Dan is an important tradition for Vietnamese people.",
+      "vi": "Tết Nguyên Đán là một truyền thống quan trọng của người Việt.",
+      "es": "El Tet Nguyen Dan es una tradición importante para el pueblo vietnamita."
+    },
+    "createdAt": "2025-01-28T12:02:10.231Z",
+    "definitions": {
+      "en": "A long-established custom or belief that has been passed down through generations.",
+      "vi": "Một phong tục hoặc niềm tin đã được thiết lập lâu dài và được truyền lại qua các thế hệ.",
+      "es": "Una costumbre o creencia de larga data que se ha transmitido a través de generaciones."
+    },
+    "translations": {
+      "es": "tradición",
+      "en": "tradition",
+      "vi": "truyền thống"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**truyền thống** = tradition — ideas, customs, or ways of doing things passed down over time in a family, community, or country.\n\nIt’s a noun. You’ll often see it with verbs like **giữ gìn**, **bảo tồn**, or **phát huy** (protect, preserve, promote).  \nIt can describe culture, festivals, clothing, values, or habits.  \n\nClose opposite for memory: **hiện đại** (modern).",
+  "exampleSentences": [
+    "Gia đình anh luôn giữ gìn truyền thống vào dịp Tết.",
+    "Áo dài là truyền thống của người Việt Nam trong nhiều dịp lễ.",
+    "Chúng ta nên tôn trọng truyền thống của mỗi vùng miền."
+  ],
+  "choices": [
+    "truyền thống",
+    "hiện đại",
+    "phát triển"
+  ],
+  "notes": "truyền thống = tradition — ideas, customs, or ways of doing things passed down over time in a family, community, or country.\n\nIt’s a noun. You’ll often see it with verbs like giữ gìn, bảo tồn, or phát huy (protect, preserve, promote).  \nIt can describe culture, festivals, clothing, values, or habits.  \n\nClose opposite for memory: hiện đại (modern).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:26:10.057Z",
+    "id": "2d024d9b-6d54-4366-a04f-08eb6313b90b",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tết Nguyên Đán là một ___ của người Việt.",
+      "translatedAnswer": {
+        "en": "tradition"
+      },
+      "language": "vi",
+      "word": "truyền thống",
+      "choices": [
+        "tập quán",
+        "truyền thống",
+        "thói quen"
+      ],
+      "hint": "t___n",
+      "translation": {
+        "en": "Tet Nguyen Dan is a tradition of the Vietnamese."
+      },
+      "answer": "truyền thống"
+    },
+    "updatedAt": "2025-03-12T14:26:10.057Z"
+  },
+  "word": "truyền thống",
+  "exampleSentencesTranslated": [
+    "His family always keeps the tradition during Tet.",
+    "The ao dai is a tradition of Vietnamese people on many occasions.",
+    "We should respect the tradition of each region."
+  ],
+  "rank": 898,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:51:58.079Z",
+  "_id": "Oe73lWQ7cXUissKSDH33"
+}

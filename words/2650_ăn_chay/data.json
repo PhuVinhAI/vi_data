@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "ăn chay",
+    "ăn sáng",
+    "ăn thịt"
+  ],
+  "rank": 2650,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:09:32.710Z",
+    "updatedAt": "2025-03-12T15:09:32.710Z",
+    "content": {
+      "translation": {
+        "en": "Do you eat vegetarian food?"
+      },
+      "choices": [
+        "ăn mặn",
+        "ăn chay",
+        "ăn nhanh"
+      ],
+      "translatedAnswer": {
+        "en": "vegetarian"
+      },
+      "hint": "ăn c___",
+      "answer": "ăn chay",
+      "word": "ăn chay",
+      "language": "vi",
+      "sentence": "Bạn có ___ không?"
+    },
+    "id": "697fe039-c2ff-45c7-a63a-e27913a38825"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Ăn chay means to eat vegetarian food (no meat, often no fish). It’s a verb phrase: ăn (eat) + chay (vegetarian/lean).\n\nYou use it like a normal verb: ăn chay + time, reason, or frequency.  \n\nIn Vietnam, many people ăn chay for religious reasons (especially Buddhist) or for health. Opposite idea: ăn mặn (eat meat / non-vegetarian food).",
+  "exampleSentences": [
+    "Mỗi tháng, mẹ anh thường ăn chay ba ngày để giữ sức khỏe.",
+    "Chị có muốn cùng em ăn chay vào cuối tuần này không?",
+    "Bạn của anh quyết định ăn chay vì lý do cá nhân."
+  ],
+  "word": "ăn chay",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:09:32.710Z",
+    "content": {
+      "translation": {
+        "en": "Are you vegetarian today?"
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "vegetarian"
+      },
+      "answer": "ăn chay",
+      "language": "vi",
+      "word": "ăn chay",
+      "sentence": "Bạn có ___ hôm nay không?"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:09:32.710Z",
+    "id": "6d3eb96a-a8b7-4b86-b547-c3ebe416c854"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:32:16.573Z",
+  "exampleSentencesTranslated": [
+    "Every month, his mother usually eat vegetarian food for three days to stay healthy.",
+    "Do you want to eat vegetarian food with me this weekend?",
+    "His friend decided to eat vegetarian food for personal reasons."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "vegetarian",
+      "es": "vegetariano",
+      "vi": "ăn chay"
+    },
+    "example": {
+      "en": "I eat vegetarian to protect animals.",
+      "es": "Yo como vegetariano para proteger a los animales.",
+      "vi": "Tôi ăn chay để bảo vệ động vật."
+    },
+    "definitions": {
+      "en": "The practice of abstaining from the consumption of meat and sometimes other animal products.",
+      "es": "La práctica de abstenerse del consumo de carne y a veces de otros productos de origen animal.",
+      "vi": "Hành động kiêng ăn thịt và đôi khi các sản phẩm từ động vật khác."
+    },
+    "createdAt": "2025-01-28T12:43:56.802Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Ăn chay** means to eat vegetarian food (no meat, often no fish). It’s a verb phrase: *ăn* (eat) + *chay* (vegetarian/lean).\n\nYou use it like a normal verb: ăn chay + time, reason, or frequency.  \n\nIn Vietnam, many people ăn chay for religious reasons (especially Buddhist) or for health. Opposite idea: **ăn mặn** (eat meat / non-vegetarian food).",
+  "definition": "eat vegetarian food",
+  "_id": "ZbYvzQa3Cx4s74lo68wk"
+}

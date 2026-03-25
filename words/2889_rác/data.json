@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "b5a55ad4-a07b-4d7c-a6db-92533edc2572",
+    "content": {
+      "word": "rác",
+      "sentence": "Chúng ta nên dọn ___ trong công viên.",
+      "language": "vi",
+      "choices": [
+        "bụi",
+        "rác",
+        "xác chết"
+      ],
+      "answer": "rác",
+      "hint": "r__",
+      "translation": {
+        "en": "We should clean the trash in the park."
+      },
+      "translatedAnswer": {
+        "en": "trash"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:07.542Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:33:07.542Z"
+  },
+  "notes_md": "**rác** = trash, garbage, unwanted waste.\n\nIt’s an uncountable noun, so you don’t count it directly; use words like **đống rác** (a pile), **túi rác** (a bag), **thùng rác** (trash can). Common verb pairings: **đổ rác** (take out trash), **vứt rác** (throw away), **nhặt rác** (pick up trash), **quét rác** (sweep trash).\n\nVery common extended meaning: something low-quality or unwanted, like **tin rác** (spam) or **cuộc gọi rác** (spam calls).  \n\nRelated word: **rác rưởi** = trash/junk, but stronger and more insulting when talking about things or even people.",
+  "rank": 2889,
+  "choices": [
+    "rác",
+    "nước",
+    "bàn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "rác",
+  "exampleSentencesTranslated": [
+    "Remember to put the trash in the bin before going to work.",
+    "Every morning, I usually see a lot of trash on the sidewalk.",
+    "You should not throw trash on the street because it will make the environment dirty."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:07.542Z",
+    "content": {
+      "word": "rác",
+      "language": "vi",
+      "sentence": "Chúng ta nên dọn ___ trong công viên.",
+      "translation": {
+        "en": "We should clean the trash in the park."
+      },
+      "translatedAnswer": {
+        "en": "trash"
+      },
+      "answer": "rác"
+    },
+    "id": "2c6fc3cb-ce94-4cf8-8e0a-1d71e48b9298",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:33:07.542Z"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Hãy vứt rác vào thùng rác.",
+      "es": "Por favor, tira la basura en el cubo.",
+      "en": "Please throw the trash in the bin."
+    },
+    "definitions": {
+      "en": "Waste material; refuse or litter.",
+      "vi": "Chất thải; đồ bỏ đi hoặc rác.",
+      "es": "Material de desecho; basura o desperdicio."
+    },
+    "createdAt": "2025-01-28T11:12:42.628Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "trash",
+      "es": "basura",
+      "vi": "rác"
+    }
+  },
+  "definition": "trash",
+  "notes": "rác = trash, garbage, unwanted waste.\n\nIt’s an uncountable noun, so you don’t count it directly; use words like đống rác (a pile), túi rác (a bag), thùng rác (trash can). Common verb pairings: đổ rác (take out trash), vứt rác (throw away), nhặt rác (pick up trash), quét rác (sweep trash).\n\nVery common extended meaning: something low-quality or unwanted, like tin rác (spam) or cuộc gọi rác (spam calls).  \n\nRelated word: rác rưởi = trash/junk, but stronger and more insulting when talking about things or even people.",
+  "updatedAt": "2026-03-03T18:09:13.788Z",
+  "exampleSentences": [
+    "Anh nhớ bỏ rác vào thùng trước khi đi làm nhé.",
+    "Mỗi sáng, em thường thấy nhiều rác trên vỉa hè.",
+    "Chị không nên vứt rác ra đường vì sẽ làm bẩn môi trường."
+  ],
+  "_id": "Beugy6FKrtFHAat6Q9JL"
+}

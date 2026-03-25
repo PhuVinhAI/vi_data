@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "win"
+      },
+      "choices": [
+        "thua",
+        "thắng",
+        "hòa"
+      ],
+      "translation": {
+        "en": "I want to win this prize."
+      },
+      "sentence": "Tôi muốn ___ giải thưởng này.",
+      "answer": "thắng",
+      "hint": "t___g",
+      "word": "thắng",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:55:16.587Z",
+    "createdAt": "2025-03-12T14:55:16.587Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "7a9732c2-d6ba-46f5-8f90-6f160f56654a"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nếu anh cố gắng luyện tập nhiều hơn, anh sẽ thắng trận đấu tiếp theo.",
+    "Đội bóng của em vừa thắng trận chung kết rất căng thẳng tối qua.",
+    "Chị ấy rất vui vì đã thắng giải thưởng lớn trong cuộc thi hát."
+  ],
+  "notes": "thắng = to win, to beat someone in a competition, game, fight, or contest.\n\nIt’s a verb. You use it when someone gets the better result or defeats another person/team. Very often used with games, matches, competitions, arguments, bets.\n\nOpposite: thua (to lose). Remember the pair: thắng – thua (win – lose).",
+  "word": "thắng",
+  "choices": [
+    "thua",
+    "thắng",
+    "chơi"
+  ],
+  "rank": 1621,
+  "notes_md": "**thắng** = to win, to beat someone in a competition, game, fight, or contest.\n\nIt’s a verb. You use it when someone gets the better result or defeats another person/team. Very often used with games, matches, competitions, arguments, bets.\n\n\nOpposite: **thua** (to lose). Remember the pair: *thắng – thua* (win – lose).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "win",
+  "fillBlankQuiz": {
+    "id": "f158bae8-d399-4f5a-bb89-30f3cd5409a5",
+    "content": {
+      "translation": {
+        "en": "We will win this match."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "win"
+      },
+      "word": "thắng",
+      "language": "vi",
+      "answer": "thắng",
+      "sentence": "Chúng tôi sẽ ___ trận đấu này."
+    },
+    "updatedAt": "2025-03-12T14:55:16.587Z",
+    "createdAt": "2025-03-12T14:55:16.587Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T09:09:27.182Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "If you try to practice more, you will win the next match.",
+    "My team just win the very intense final match last night.",
+    "She is very happy because she win the big prize in the singing contest."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Our team won the match yesterday.",
+      "es": "Nuestro equipo ganó el partido de ayer.",
+      "vi": "Đội bóng của chúng ta đã thắng trận đấu hôm qua."
+    },
+    "translations": {
+      "en": "win",
+      "es": "ganar",
+      "vi": "thắng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To win or to be victorious in a competition or contest.",
+      "es": "Ganar o ser victorioso en una competencia o concurso.",
+      "vi": "Chiến thắng hoặc đạt được chiến thắng trong một cuộc thi hoặc cuộc đấu."
+    },
+    "createdAt": "2025-01-28T12:34:23.292Z"
+  },
+  "_id": "VT6DFj0oPwgHZQLPr6ba"
+}

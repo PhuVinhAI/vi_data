@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Con mèo này nhỏ xíu.",
+      "en": "This cat is tiny.",
+      "es": "Este gato es muy pequeño."
+    },
+    "translations": {
+      "es": "pequeño",
+      "en": "tiny",
+      "vi": "nhỏ xíu"
+    },
+    "createdAt": "2025-01-28T10:46:22.788Z",
+    "definitions": {
+      "en": "Very small or tiny.",
+      "vi": "Rất nhỏ hoặc bé tí.",
+      "es": "Muy pequeño o diminuto."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "very tiny",
+  "rank": 2961,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Con mèo con này nhỏ xíu nên em có thể bế nó bằng một tay.",
+    "Anh mua một chiếc bánh nhỏ xíu cho em ăn thử hôm nay.",
+    "Căn phòng của chị hồi nhỏ xíu nhưng chị rất thích nó."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Con chó của tôi rất ___.",
+      "answer": "nhỏ xíu",
+      "translation": {
+        "en": "My dog is very small."
+      },
+      "choices": [
+        "nhỏ xíu",
+        "to lớn",
+        "trung bình"
+      ],
+      "hint": "n___ x___",
+      "word": "nhỏ xíu",
+      "translatedAnswer": {
+        "en": "small"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "5d4a8061-3265-4f7e-8898-fb67474a70f8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:04:26.962Z",
+    "updatedAt": "2025-03-12T13:04:26.962Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhỏ xíu",
+  "choices": [
+    "to lớn",
+    "nhỏ xíu",
+    "dài rộng"
+  ],
+  "notes": "nhỏ xíu means very, very small — tiny to the point of cute or surprising. It’s stronger and more emotional than just nhỏ.\n\nIt’s an adjective, used after the noun it describes, and often adds a feeling of cuteness or delicacy. You’ll hear it for animals, kids, objects, portions — anything physically small.\n\nClose synonyms: bé xíu, tí xíu (same “super small” vibe).  \nFun opposites for contrast: to đùng, to bự (really big).",
+  "notes_md": "**nhỏ xíu** means *very, very small* — tiny to the point of cute or surprising. It’s stronger and more emotional than just *nhỏ*.\n\nIt’s an adjective, used after the noun it describes, and often adds a feeling of cuteness or delicacy. You’ll hear it for animals, kids, objects, portions — anything physically small.\n\n\nClose synonyms: **bé xíu, tí xíu** (same “super small” vibe).  \nFun opposites for contrast: **to đùng, to bự** (really big).",
+  "exampleSentencesTranslated": [
+    "This kitten is very tiny so I can hold it with one hand.",
+    "He bought a very tiny cake for me to try today.",
+    "Her room used to be very tiny but she really liked it."
+  ],
+  "updatedAt": "2026-03-03T18:16:51.578Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:04:26.962Z",
+    "updatedAt": "2025-03-12T13:04:26.962Z",
+    "content": {
+      "sentence": "Con mèo này thật ___.",
+      "answer": "nhỏ xíu",
+      "choices": [],
+      "translation": {
+        "en": "This cat is very small."
+      },
+      "word": "nhỏ xíu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "small"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "dbafb222-6147-4852-b437-31676de422ea",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "40YAXQkzhynKNPoGkwjY"
+}

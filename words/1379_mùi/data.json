@@ -1,0 +1,99 @@
+{
+  "rank": 1379,
+  "exampleSentences": [
+    "Anh thích mùi cà phê buổi sáng trong nhà bếp.",
+    "Chị cảm thấy khó chịu vì mùi khói từ ngoài đường bay vào.",
+    "Em nhớ mùi thơm của hoa sữa mỗi khi mùa thu đến."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Mùi hoa rất thơm.",
+      "es": "El olor de la flor es muy fragante.",
+      "en": "The smell of the flower is very fragrant."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A characteristic or quality of something that can be perceived by the sense of smell.",
+      "vi": "Một đặc điểm hoặc chất lượng của một cái gì đó có thể được cảm nhận bằng giác quan khứu giác.",
+      "es": "Una característica o cualidad de algo que se puede percibir por el sentido del olfato."
+    },
+    "translations": {
+      "en": "smell",
+      "vi": "mùi",
+      "es": "olor"
+    },
+    "createdAt": "2025-01-28T11:43:00.413Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "648c5a7b-3258-439d-8a3c-7c6149eb668e",
+    "content": {
+      "translatedAnswer": {
+        "en": "scent"
+      },
+      "answer": "mùi",
+      "translation": {
+        "en": "I feel the scent in the air."
+      },
+      "language": "vi",
+      "choices": [
+        "mùi",
+        "hương",
+        "màu"
+      ],
+      "hint": "m__i",
+      "word": "mùi",
+      "sentence": "Tôi cảm thấy ___ trong không khí."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:05:09.245Z",
+    "createdAt": "2025-03-12T14:05:09.245Z"
+  },
+  "word": "mùi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mùi** = smell, the way something smells (good or bad). It’s a noun.\n\nUsually uncountable, but you can say *một mùi* when you want to point out a specific smell. Very often used with adjectives: *mùi thơm* (nice smell), *mùi hôi* (bad smell), *mùi lạ* (strange smell).\n\n\nFor a pleasant, light fragrance, people often say **mùi hương** — that helps you remember it’s usually something nice.",
+  "choices": [
+    "màu",
+    "mùi",
+    "mui"
+  ],
+  "updatedAt": "2026-03-03T08:43:31.990Z",
+  "notes": "mùi = smell, the way something smells (good or bad). It’s a noun.\n\nUsually uncountable, but you can say một mùi when you want to point out a specific smell. Very often used with adjectives: mùi thơm (nice smell), mùi hôi (bad smell), mùi lạ (strange smell).\n\nFor a pleasant, light fragrance, people often say mùi hương — that helps you remember it’s usually something nice.",
+  "exampleSentencesTranslated": [
+    "I like the smell of coffee in the kitchen in the morning.",
+    "She feels uncomfortable because the smell of smoke comes in from the street.",
+    "I remember the smell of milk flowers every time autumn comes."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:05:09.245Z",
+    "updatedAt": "2025-03-12T14:05:09.245Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I smell the scent of the flower."
+      },
+      "sentence": "Tôi ngửi thấy ___ của hoa.",
+      "word": "mùi",
+      "answer": "mùi",
+      "translatedAnswer": {
+        "en": "scent"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "74e1cbbe-49c1-445f-b3ec-b61bd3d98523"
+  },
+  "definition": "smell",
+  "_id": "Jq0t7tS0UbiSIYRi3oIx"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "vợ chồng",
+  "flashcard": {
+    "example": {
+      "vi": "Vợ chồng tôi rất hạnh phúc.",
+      "en": "My spouse and I are very happy.",
+      "es": "Mi pareja y yo somos muy felices."
+    },
+    "definitions": {
+      "vi": "Một cặp vợ chồng.",
+      "es": "Una pareja casada.",
+      "en": "A married couple."
+    },
+    "createdAt": "2025-01-28T13:34:51.215Z",
+    "translations": {
+      "en": "spouse",
+      "es": "pareja",
+      "vi": "vợ chồng"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:23:27.281Z",
+  "exampleSentencesTranslated": [
+    "The married couple is discussing buying a house on an installment plan.",
+    "I heard that the neighbor’s married couple is about to move to the city.",
+    "My parents are a married couple who have lived together for over thirty years."
+  ],
+  "notes_md": "**vợ chồng** = husband and wife together, a married couple. It talks about two people as one unit.\n\nIt’s a fixed pair — always **vợ chồng**, not *chồng vợ*. To count, say **một cặp vợ chồng** (one married couple).  \n\nVietnamese also says **hai vợ chồng** to mean “both of us (husband and wife)” — it doesn’t mean two couples.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:03:14.826Z",
+    "updatedAt": "2025-03-12T16:03:14.826Z",
+    "content": {
+      "translation": {
+        "en": "They are a happy couple."
+      },
+      "word": "vợ chồng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "couple"
+      },
+      "answer": "vợ chồng",
+      "sentence": "Họ là ___ hạnh phúc.",
+      "choices": [
+        "bạn bè",
+        "vợ chồng",
+        "người yêu"
+      ],
+      "hint": "v___g"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "19ffc48c-fe0b-416d-b1f2-995c4766d831"
+  },
+  "rank": 1752,
+  "definition": "married couple",
+  "notes": "vợ chồng = husband and wife together, a married couple. It talks about two people as one unit.\n\nIt’s a fixed pair — always vợ chồng, not chồng vợ. To count, say một cặp vợ chồng (one married couple).  \n\nVietnamese also says hai vợ chồng to mean “both of us (husband and wife)” — it doesn’t mean two couples.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Vợ chồng anh chị đang bàn chuyện mua nhà trả góp.",
+    "Em nghe vợ chồng chị hàng xóm sắp chuyển sang thành phố.",
+    "Bố mẹ em là vợ chồng đã sống cùng nhau hơn ba mươi năm."
+  ],
+  "choices": [
+    "vợ chồng",
+    "anh em",
+    "bạn bè"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "They are a happy couple."
+      },
+      "word": "vợ chồng",
+      "choices": [],
+      "sentence": "Họ là ___ hạnh phúc.",
+      "answer": "vợ chồng",
+      "translatedAnswer": {
+        "en": "couple"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8f07bfc1-2c45-46ff-8c5c-cfeccc60294e",
+    "createdAt": "2025-03-12T16:03:14.826Z",
+    "updatedAt": "2025-03-12T16:03:14.826Z"
+  },
+  "_id": "mxMTQanEtpaaHwcFePJy"
+}

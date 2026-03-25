@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Mỗi người đều có những sở thích riêng biệt.",
+      "en": "Everyone has their own unique preferences.",
+      "es": "Cada persona tiene sus propias preferencias únicas."
+    },
+    "definitions": {
+      "es": "Distinto o separado; no igual que los demás.",
+      "en": "Distinct or separate; not the same as others.",
+      "vi": "Khác biệt hoặc tách biệt; không giống như những cái khác."
+    },
+    "createdAt": "2025-01-28T13:33:46.018Z",
+    "translations": {
+      "vi": "riêng biệt",
+      "en": "distinct",
+      "es": "distinto"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "riêng biệt",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T11:42:02.736Z",
+  "exampleSentencesTranslated": [
+    "He wants to have a separate room to work at home.",
+    "She puts winter clothes in a separate closet in the bedroom.",
+    "Each student has a separate desk in the classroom today."
+  ],
+  "notes_md": "**riêng biệt** = separate, kept apart from others. It can be physical (not together) or more abstract (clearly distinct).\n\nIt’s an **adjective**, placed after the noun: *khu vực riêng biệt, phần riêng biệt, hệ thống riêng biệt*. It describes things that are divided, not shared, or clearly different.\n\nClose to **tách biệt** (more strongly separated) and **riêng** (more personal/individual). Opposite idea: **chung** (shared).  \n\nIt can also mean “distinct” in meaning or characteristics, not just physically separate.",
+  "multiChoiceQuiz": {
+    "id": "449d40d9-15d9-4fae-a157-4e4dd6a3a9dd",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "riêng biệt",
+      "translation": {
+        "en": "This product is unique."
+      },
+      "language": "vi",
+      "sentence": "Sản phẩm này là ___.",
+      "choices": [
+        "riêng biệt",
+        "khác nhau",
+        "đặc biệt"
+      ],
+      "hint": "r____ b___t",
+      "translatedAnswer": {
+        "en": "unique"
+      },
+      "answer": "riêng biệt"
+    },
+    "updatedAt": "2025-03-12T16:01:58.376Z",
+    "createdAt": "2025-03-12T16:01:58.376Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2739,
+  "definition": "separate",
+  "notes": "riêng biệt = separate, kept apart from others. It can be physical (not together) or more abstract (clearly distinct).\n\nIt’s an adjective, placed after the noun: khu vực riêng biệt, phần riêng biệt, hệ thống riêng biệt. It describes things that are divided, not shared, or clearly different.\n\nClose to tách biệt (more strongly separated) and riêng (more personal/individual). Opposite idea: chung (shared).  \n\nIt can also mean “distinct” in meaning or characteristics, not just physically separate.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn có một phòng riêng biệt để làm việc tại nhà.",
+    "Chị để quần áo mùa đông ở một tủ riêng biệt trong phòng ngủ.",
+    "Mỗi học sinh có một bàn riêng biệt trong lớp học hôm nay."
+  ],
+  "choices": [
+    "riêng biệt",
+    "chung",
+    "giống nhau"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Sản phẩm này là ___.",
+      "answer": "riêng biệt",
+      "translatedAnswer": {
+        "en": "unique"
+      },
+      "translation": {
+        "en": "This product is unique."
+      },
+      "word": "riêng biệt",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "70711e38-77c1-46a2-a017-13214ab96888",
+    "createdAt": "2025-03-12T16:01:58.376Z",
+    "updatedAt": "2025-03-12T16:01:58.376Z"
+  },
+  "_id": "mZXCd9YITxEFTC3J2d3L"
+}

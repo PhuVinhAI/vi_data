@@ -1,0 +1,99 @@
+{
+  "rank": 1468,
+  "definition": "floor",
+  "notes": "tầng = floor of a building. It’s what level you’re on inside a house, office, mall, etc.\n\nIt’s a noun. You usually just use a number after it: tầng + số (tầng 2, tầng 10, tầng hầm). No extra classifier needed.\n\nIt can also mean a “layer” or “level” in a more abstract way, like layers of society (tầng lớp).\n\nIn the South, people often say lầu instead of tầng for upper floors, which helps you recognize regional speech.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nhà anh có ba tầng và mỗi tầng đều có ban công rộng.",
+    "Chị muốn thuê một căn hộ ở tầng cao để ngắm cảnh đẹp.",
+    "Em để chìa khóa ở tầng một trước cửa phòng khách rồi nhé."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:00:52.401Z",
+    "createdAt": "2025-03-12T16:00:52.401Z",
+    "id": "567cb4a6-84dd-4428-b961-f3495aced7fc",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "floor"
+      },
+      "answer": "tầng",
+      "choices": [],
+      "sentence": "Căn hộ của tôi ở ___ thứ hai.",
+      "word": "tầng",
+      "translation": {
+        "en": "My apartment is on the second floor."
+      },
+      "language": "vi"
+    }
+  },
+  "choices": [
+    "tầng",
+    "bàn",
+    "cửa"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tầng",
+  "flashcard": {
+    "translations": {
+      "vi": "tầng",
+      "en": "floor",
+      "es": "piso"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Esta casa tiene tres pisos.",
+      "en": "This house has three floors.",
+      "vi": "Nhà này có ba tầng."
+    },
+    "createdAt": "2025-01-28T13:32:50.338Z",
+    "definitions": {
+      "en": "A level or story of a building.",
+      "es": "Un nivel o piso de un edificio.",
+      "vi": "Một cấp độ hoặc tầng của một tòa nhà."
+    }
+  },
+  "updatedAt": "2026-03-03T08:52:44.174Z",
+  "exampleSentencesTranslated": [
+    "My house has three floors and each floor has a spacious balcony.",
+    "I want to rent an apartment on a high floor to enjoy the beautiful view.",
+    "I left the key on the first floor in front of the living room door."
+  ],
+  "notes_md": "**tầng** = floor of a building. It’s what level you’re on inside a house, office, mall, etc.\n\nIt’s a noun. You usually just use a number after it: *tầng + số* (tầng 2, tầng 10, tầng hầm). No extra classifier needed.\n\nIt can also mean a “layer” or “level” in a more abstract way, like layers of society (*tầng lớp*).\n\nIn the South, people often say **lầu** instead of *tầng* for upper floors, which helps you recognize regional speech.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9390213d-c0df-479e-a15c-95f4948bb21c",
+    "content": {
+      "hint": "t___g",
+      "choices": [
+        "tầng",
+        "mặt",
+        "cửa"
+      ],
+      "sentence": "Căn hộ của tôi ở ___ thứ hai.",
+      "translatedAnswer": {
+        "en": "floor"
+      },
+      "answer": "tầng",
+      "language": "vi",
+      "translation": {
+        "en": "My apartment is on the second floor."
+      },
+      "word": "tầng"
+    },
+    "updatedAt": "2025-03-12T16:00:52.401Z",
+    "createdAt": "2025-03-12T16:00:52.401Z"
+  },
+  "_id": "mLWAk05m1tzmXsc0u0Vj"
+}

@@ -1,0 +1,96 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cuối cùng",
+    "bắt đầu",
+    "ngay lập tức"
+  ],
+  "word": "cuối cùng",
+  "exampleSentences": [
+    "Anh ấy đã tìm được chìa khóa bị mất cuối cùng sau nhiều giờ tìm kiếm.",
+    "Chúng ta cuối cùng cũng hoàn thành xong bài tập nhóm hôm nay.",
+    "Em cuối cùng đã gặp được ca sĩ mà em yêu thích từ lâu."
+  ],
+  "rank": 355,
+  "definition": "finally",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Cuối cùng means finally / in the end — after a long time, effort, or waiting. It shows a result that happens at the end of a process.\n\nIt usually goes before the verb or at the beginning of the sentence for emphasis.  \n\nIt can also mean the last / final when it describes a noun (like “the last person” or “the final choice”). In that case, it comes after the noun.\n\nStrong synonym to remember: rốt cuộc (more dramatic, like “after everything”).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:40:35.413Z",
+    "createdAt": "2025-03-12T13:40:35.413Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "end"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta sẽ đến ___ trong tuần tới.",
+      "word": "cuối cùng",
+      "choices": [],
+      "answer": "cuối cùng",
+      "translation": {
+        "en": "We will arrive at the end next week."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "888ec971-81de-4659-bf7f-adcac8e53c0b",
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T06:57:55.310Z",
+  "notes_md": "**Cuối cùng** means **finally / in the end** — after a long time, effort, or waiting. It shows a result that happens at the end of a process.\n\nIt usually goes before the verb or at the beginning of the sentence for emphasis.  \n\nIt can also mean **the last / final** when it describes a noun (like “the last person” or “the final choice”). In that case, it comes **after** the noun.\n\nStrong synonym to remember: **rốt cuộc** (more dramatic, like “after everything”).",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "c___g",
+      "choices": [
+        "ban đầu",
+        "cuối cùng",
+        "giữa"
+      ],
+      "translation": {
+        "en": "We will arrive at the end next week."
+      },
+      "answer": "cuối cùng",
+      "translatedAnswer": {
+        "en": "end"
+      },
+      "word": "cuối cùng",
+      "sentence": "Chúng ta sẽ đến ___ trong tuần tới.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:40:35.413Z",
+    "updatedAt": "2025-03-12T13:40:35.413Z",
+    "id": "a585ce97-2eb7-4065-970c-f31a129433b5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "Used to indicate something happening at the end or as the final result after a process.",
+      "vi": "Diễn tả điều xảy ra sau cùng hoặc kết quả sau một quá trình."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "After many years of effort, I finally achieved my goal.",
+      "vi": "Sau nhiều năm cố gắng, cuối cùng tôi cũng đạt được mục tiêu."
+    },
+    "word": "cuối cùng",
+    "createdAt": "2025-05-24T16:20:19.085Z",
+    "translations": {
+      "en": "finally; at last; in the end"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He finally found the missing key after many hours of searching.",
+    "We finally finished the group assignment today.",
+    "I finally met the singer I have liked for a long time."
+  ],
+  "_id": "DZfONEdsLSZuisBpl0DL"
+}

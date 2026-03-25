@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:45:30.384Z",
+    "updatedAt": "2025-03-12T15:45:30.384Z",
+    "content": {
+      "translation": {
+        "en": "I like learning English, besides I also learn French."
+      },
+      "word": "ngoài ra",
+      "language": "vi",
+      "choices": [
+        "bên cạnh",
+        "ngoài ra",
+        "thêm nữa"
+      ],
+      "sentence": "Tôi thích học tiếng Anh, ___ tôi cũng học tiếng Pháp.",
+      "hint": "n___ ra",
+      "translatedAnswer": {
+        "en": "besides"
+      },
+      "answer": "ngoài ra"
+    },
+    "id": "8c8a1d12-a8c2-45f0-8bdc-92f8fd22ee86",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ngoài ra** means “in addition” or “besides that.” It adds extra information after you’ve already said something.\n\nIt’s a linking phrase, usually placed at the beginning of a sentence, followed by a comma. It connects two related ideas, with the second idea being extra or supplementary.\n\n\nClose synonyms: **thêm vào đó**, **bên cạnh đó** (a bit more formal, but similar meaning).",
+  "exampleSentencesTranslated": [
+    "In addition, I also like to play football on weekends.",
+    "She finished her homework, in addition helped me cook.",
+    "In addition, I will bring an umbrella if it rains today."
+  ],
+  "updatedAt": "2026-03-03T09:18:32.302Z",
+  "word": "ngoài ra",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "besides; in addition; moreover"
+    },
+    "example": {
+      "vi": "Ngoài ra, tôi còn thích đọc sách vào cuối tuần.",
+      "en": "Besides, I also like to read books on weekends."
+    },
+    "word": "ngoài ra",
+    "createdAt": "2025-05-24T16:31:06.875Z",
+    "definitions": {
+      "vi": "Từ dùng để bổ sung thêm thông tin hoặc ý kiến ngoài những điều đã nêu trước đó.",
+      "en": "A phrase used to add additional information or opinions apart from what has already been mentioned."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ngoài ra",
+    "bên cạnh",
+    "bởi vì"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:45:30.384Z",
+    "createdAt": "2025-03-12T15:45:30.384Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "03dca2c0-67bc-4532-85db-cba9c829fbaf",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I like this dish, besides I also like another dish."
+      },
+      "word": "ngoài ra",
+      "answer": "ngoài ra",
+      "translatedAnswer": {
+        "en": "besides"
+      },
+      "choices": [],
+      "sentence": "Tôi thích món này, ___ tôi cũng thích món khác."
+    }
+  },
+  "exampleSentences": [
+    "Ngoài ra, anh còn thích chơi bóng đá vào cuối tuần.",
+    "Chị đã hoàn thành bài tập, ngoài ra còn giúp em nấu ăn.",
+    "Ngoài ra, em sẽ mang theo ô nếu trời mưa hôm nay."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Ngoài ra means “in addition” or “besides that.” It adds extra information after you’ve already said something.\n\nIt’s a linking phrase, usually placed at the beginning of a sentence, followed by a comma. It connects two related ideas, with the second idea being extra or supplementary.\n\nClose synonyms: thêm vào đó, bên cạnh đó (a bit more formal, but similar meaning).",
+  "definition": "in addition",
+  "rank": 1706,
+  "_id": "iLUNQ15O5y63PcmJK47n"
+}

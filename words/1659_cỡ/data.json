@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cỡ",
+  "fillBlankQuiz": {
+    "id": "5a31d908-16c3-4d65-bf55-c05b71e6c5a7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:05:39.117Z",
+    "updatedAt": "2025-03-12T16:05:39.117Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chiếc áo này có ___ lớn.",
+      "answer": "cỡ",
+      "language": "vi",
+      "word": "cỡ",
+      "choices": [],
+      "translation": {
+        "en": "This shirt has a size."
+      },
+      "translatedAnswer": {
+        "en": "size"
+      }
+    }
+  },
+  "definition": "size",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:05:39.117Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "9afcdb95-954b-4229-94e8-79eacc4315fc",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chiếc váy này có ___ vừa.",
+      "hint": "c__",
+      "translation": {
+        "en": "This dress has a size."
+      },
+      "translatedAnswer": {
+        "en": "size"
+      },
+      "language": "vi",
+      "choices": [
+        "cỡ",
+        "màu",
+        "kiểu"
+      ],
+      "answer": "cỡ",
+      "word": "cỡ"
+    },
+    "updatedAt": "2025-03-12T16:05:39.117Z"
+  },
+  "rank": 1659,
+  "notes_md": "**cỡ** = size. It’s used for clothes, shoes, objects — basically how big or small something is.\n\nAs a noun, it often goes with clothes and measurements (cỡ áo, cỡ giày). You’ll also hear **kích cỡ**, which is a bit more formal but means the same thing.\n\nVery commonly, **cỡ** also means “about / approximately” when talking about numbers.  \n\nIt can also imply “level/type” of something (like what level or category it belongs to).",
+  "exampleSentencesTranslated": [
+    "I will buy this shirt no matter how much it costs.",
+    "Any size is fine, as long as it fits my budget.",
+    "No matter the size, I will try my best to complete this assignment."
+  ],
+  "updatedAt": "2026-03-03T09:13:31.954Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:37:04.605Z",
+    "definitions": {
+      "vi": "Kích thước hoặc chiều kích của một vật.",
+      "es": "Tamaño o dimensión de un objeto.",
+      "en": "Size or dimension of an object."
+    },
+    "example": {
+      "vi": "Chiếc áo này có cỡ vừa.",
+      "es": "Esta camisa es de tamaño mediano.",
+      "en": "This shirt is a medium size."
+    },
+    "translations": {
+      "es": "tamaño",
+      "en": "size",
+      "vi": "cỡ"
+    }
+  },
+  "choices": [
+    "cỡ",
+    "màu",
+    "kiểu"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Chiếc áo này cỡ nào thì em cũng sẽ mua.",
+    "Cỡ nào cũng được, miễn là nó phù hợp với túi tiền của tôi.",
+    "Cỡ nào tôi cũng sẽ cố gắng hoàn thành bài tập này."
+  ],
+  "notes": "cỡ = size. It’s used for clothes, shoes, objects — basically how big or small something is.\n\nAs a noun, it often goes with clothes and measurements (cỡ áo, cỡ giày). You’ll also hear kích cỡ, which is a bit more formal but means the same thing.\n\nVery commonly, cỡ also means “about / approximately” when talking about numbers.  \n\nIt can also imply “level/type” of something (like what level or category it belongs to).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "nYlEDh2Weq9tan0Url3C"
+}

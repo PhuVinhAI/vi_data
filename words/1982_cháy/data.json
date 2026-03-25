@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:40:03.505Z",
+    "type": "multiChoiceQuiz",
+    "id": "69cab760-e7c0-45db-8a3f-b527c3dfb0b6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:40:03.505Z",
+    "content": {
+      "word": "cháy",
+      "sentence": "Ngọn lửa đang ___ trong rừng.",
+      "language": "vi",
+      "choices": [
+        "đang",
+        "cháy",
+        "tắt"
+      ],
+      "hint": "c__y",
+      "answer": "cháy",
+      "translation": {
+        "en": "The fire is burning in the forest."
+      },
+      "translatedAnswer": {
+        "en": "burning"
+      }
+    }
+  },
+  "choices": [
+    "chạy",
+    "cháy",
+    "chảy"
+  ],
+  "rank": 1982,
+  "notes_md": "**cháy** = to burn, to be on fire. It’s usually intransitive: something *cháy* by itself (fire, candle, house, food).\n\nFor burning something on purpose, use **đốt cháy** (đốt = set on fire). Opposite idea: **tắt** (go out, be extinguished).\n\nIt also means “be burnt/overcooked” for food, and very commonly “sold out” in **cháy hàng** (literally “goods burned up” = all gone).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cháy",
+  "exampleSentencesTranslated": [
+    "You have to be careful when cooking so you do not burn the food.",
+    "I saw the candle on the table still burn when everyone left.",
+    "If the wire is damaged, it can easily burn and cause danger."
+  ],
+  "fillBlankQuiz": {
+    "id": "80a12a34-2d3a-4112-83f9-a2c48eee6e47",
+    "content": {
+      "choices": [],
+      "sentence": "Ngọn lửa đang ___ lớn.",
+      "language": "vi",
+      "word": "cháy",
+      "translatedAnswer": {
+        "en": "burning"
+      },
+      "translation": {
+        "en": "The fire is burning large."
+      },
+      "answer": "cháy"
+    },
+    "createdAt": "2025-03-12T15:40:03.505Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:40:03.505Z"
+  },
+  "definition": "burn",
+  "flashcard": {
+    "example": {
+      "es": "El fuego está ardiendo muy grande.",
+      "vi": "Ngọn lửa cháy rất lớn.",
+      "en": "The fire is burning very large."
+    },
+    "definitions": {
+      "en": "To burn; to be on fire.",
+      "vi": "Bị cháy; đang bốc lửa.",
+      "es": "Arder; estar en llamas."
+    },
+    "createdAt": "2025-01-28T13:13:37.401Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "burn",
+      "es": "quemar",
+      "vi": "cháy"
+    }
+  },
+  "notes": "cháy = to burn, to be on fire. It’s usually intransitive: something cháy by itself (fire, candle, house, food).\n\nFor burning something on purpose, use đốt cháy (đốt = set on fire). Opposite idea: tắt (go out, be extinguished).\n\nIt also means “be burnt/overcooked” for food, and very commonly “sold out” in cháy hàng (literally “goods burned up” = all gone).",
+  "exampleSentences": [
+    "Em phải cẩn thận khi nấu ăn để không làm cháy thức ăn.",
+    "Anh thấy ngọn nến trên bàn vẫn còn cháy khi mọi người rời đi.",
+    "Nếu dây điện bị hỏng, nó có thể dễ dàng cháy và gây nguy hiểm."
+  ],
+  "updatedAt": "2026-03-03T09:47:57.207Z",
+  "_id": "hAOIr6gpoxw7KMspR5y7"
+}

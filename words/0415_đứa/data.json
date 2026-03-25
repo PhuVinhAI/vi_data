@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Yesterday, I met a very cute child at the park.",
+    "Do you know which child lost this book?",
+    "Each child has their own hobbies and is very active."
+  ],
+  "updatedAt": "2026-03-03T07:03:45.337Z",
+  "flashcard": {
+    "example": {
+      "vi": "Đứa trẻ đang chơi ở công viên.",
+      "es": "El niño está jugando en el parque.",
+      "en": "The child is playing in the park."
+    },
+    "translations": {
+      "en": "child",
+      "es": "niño",
+      "vi": "đứa"
+    },
+    "definitions": {
+      "vi": "Một thuật ngữ được sử dụng để chỉ một đứa trẻ hoặc một người trẻ tuổi.",
+      "es": "Un término utilizado para referirse a un niño o una persona joven.",
+      "en": "A term used to refer to a child or a young person."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:46:17.314Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đứa",
+    "bút",
+    "bà"
+  ],
+  "exampleSentences": [
+    "Anh mới gặp một đứa rất dễ thương ở công viên hôm qua.",
+    "Chị có biết đứa nào đã làm mất quyển sách này không?",
+    "Mỗi đứa đều có sở thích riêng và rất năng động."
+  ],
+  "notes": "đứa means “child” or “kid.” It refers to a young person and sounds casual.\n\nIt’s a noun and usually comes after numbers or words like một, hai, mấy (một đứa, hai đứa). It often pairs with pointing words like này, đó, kia to specify which kid.  \n\nTone matters: with children it’s normal, but using đứa for adults sounds rude or insulting.  \n\nStronger neutral word: trẻ em (children, more formal). Another common word: con (more neutral when talking about someone’s child).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đứa",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:14:30.530Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Đó là ___ mà tôi đã thấy.",
+      "translatedAnswer": {
+        "en": "child"
+      },
+      "translation": {
+        "en": "That is a child that I saw."
+      },
+      "choices": [],
+      "word": "đứa",
+      "answer": "đứa",
+      "language": "vi"
+    },
+    "id": "b6dbbab2-7bb9-4e38-996a-f43d4d48ae43",
+    "createdAt": "2025-03-12T16:14:30.530Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "child",
+  "multiChoiceQuiz": {
+    "id": "99845637-a7f7-4a1f-8279-cea70288d53b",
+    "createdAt": "2025-03-12T16:14:30.530Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:14:30.530Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "đứa",
+      "answer": "đứa",
+      "language": "vi",
+      "choices": [
+        "đứa",
+        "nhà",
+        "bóng"
+      ],
+      "translation": {
+        "en": "I met a child in the park."
+      },
+      "translatedAnswer": {
+        "en": "child"
+      },
+      "hint": "d___",
+      "sentence": "Tôi gặp ___ ở công viên."
+    }
+  },
+  "notes_md": "**đứa** means “child” or “kid.” It refers to a young person and sounds casual.\n\nIt’s a noun and usually comes after numbers or words like *một, hai, mấy* (một đứa, hai đứa). It often pairs with pointing words like *này, đó, kia* to specify which kid.  \n\nTone matters: with children it’s normal, but using **đứa** for adults sounds rude or insulting.  \n\nStronger neutral word: *trẻ em* (children, more formal). Another common word: *con* (more neutral when talking about someone’s child).",
+  "rank": 415,
+  "_id": "q7fcxqxU2P8RifcXKuH4"
+}

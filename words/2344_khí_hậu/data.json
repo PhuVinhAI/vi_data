@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "The weather affects the climate."
+      },
+      "answer": "khí hậu",
+      "word": "khí hậu",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "climate"
+      },
+      "language": "vi",
+      "sentence": "Thời tiết ảnh hưởng đến ___."
+    },
+    "updatedAt": "2025-03-12T14:36:46.038Z",
+    "id": "8cdd220f-a661-456f-b7f1-1dd702697d95",
+    "createdAt": "2025-03-12T14:36:46.038Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "climate",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:12:27.837Z",
+    "definitions": {
+      "en": "The long-term pattern of weather in a particular area.",
+      "vi": "Mô hình thời tiết lâu dài ở một khu vực cụ thể.",
+      "es": "El patrón a largo plazo del tiempo en un área particular."
+    },
+    "example": {
+      "vi": "Khí hậu ở Việt Nam rất đa dạng.",
+      "en": "The climate in Vietnam is very diverse.",
+      "es": "El clima en Vietnam es muy diverso."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "clima",
+      "en": "climate",
+      "vi": "khí hậu"
+    }
+  },
+  "notes_md": "**Khí hậu** means *climate* — the general weather pattern of a place over a long time (not just today’s weather).\n\nIt’s a noun. You often say **khí hậu + nơi/country** (khí hậu Việt Nam) or add adjectives like **nhiệt đới, ôn đới, lạnh, khô, ẩm**. A common topic is **biến đổi khí hậu** (climate change).  \n\nDon’t confuse it with **thời tiết** (weather) — *thời tiết* is short-term, *khí hậu* is long-term.",
+  "exampleSentences": [
+    "Anh thích sống ở nơi có khí hậu mát mẻ quanh năm.",
+    "Khí hậu ở miền Nam Việt Nam thường nóng và ẩm vào mùa hè.",
+    "Chị đang tìm hiểu về khí hậu của các quốc gia khác nhau để chuẩn bị du lịch."
+  ],
+  "choices": [
+    "khí hậu",
+    "thời tiết",
+    "mùa hè"
+  ],
+  "notes": "Khí hậu means climate — the general weather pattern of a place over a long time (not just today’s weather).\n\nIt’s a noun. You often say khí hậu + nơi/country (khí hậu Việt Nam) or add adjectives like nhiệt đới, ôn đới, lạnh, khô, ẩm. A common topic is biến đổi khí hậu (climate change).  \n\nDon’t confuse it with thời tiết (weather) — thời tiết is short-term, khí hậu is long-term.",
+  "exampleSentencesTranslated": [
+    "He likes to live in places with a cool climate all year round.",
+    "The climate in southern Vietnam is usually hot and humid in the summer.",
+    "She is learning about the climate of different countries to prepare for traveling."
+  ],
+  "rank": 2344,
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "k____u",
+      "translation": {
+        "en": "The weather affects the climate."
+      },
+      "answer": "khí hậu",
+      "word": "khí hậu",
+      "choices": [
+        "khí hậu",
+        "môi trường",
+        "thời tiết"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "climate"
+      },
+      "sentence": "Thời tiết ảnh hưởng đến ___."
+    },
+    "updatedAt": "2025-03-12T14:36:46.038Z",
+    "createdAt": "2025-03-12T14:36:46.038Z",
+    "id": "2fa87256-bf7f-4537-95e2-940da6330017",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "khí hậu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:26:28.120Z",
+  "_id": "R54dnsWSUA3OCThUFGK8"
+}

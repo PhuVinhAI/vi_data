@@ -1,0 +1,104 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "luôn",
+      "answer": "luôn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "always"
+      },
+      "translation": {
+        "en": "I always ask you for help."
+      },
+      "sentence": "Tôi ___ yêu cầu bạn giúp."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:18:30.130Z",
+    "createdAt": "2025-03-12T16:18:30.130Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "af08170d-a32a-4fa3-9cad-25cc5e31a282"
+  },
+  "sentenceBreakdowns": [
+    "Anh (he) + luôn (always) + uống (drink) + một (a) + ly (cup) + trà (tea)",
+    "Chị (she) + luôn (always) + mua (buy) + bánh (cake) + ngọt (sweet)",
+    "Em (I) + luôn (always) + học (study) + một (a) + bài (lesson) + mới (new)"
+  ],
+  "word": "luôn",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:18:30.130Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "l___n",
+      "translation": {
+        "en": "I always ask you for help."
+      },
+      "translatedAnswer": {
+        "en": "always"
+      },
+      "language": "vi",
+      "choices": [
+        "thường",
+        "luôn",
+        "không bao giờ"
+      ],
+      "answer": "luôn",
+      "word": "luôn",
+      "sentence": "Tôi ___ yêu cầu bạn giúp."
+    },
+    "id": "827fd01e-1c4c-4202-b4c2-c11a0353e665",
+    "createdAt": "2025-03-12T16:18:30.130Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "always",
+  "rank": 81,
+  "notes_md": "**Luôn** means *always* — something happens all the time, not just sometimes. It shows strong consistency.\n\nIt’s an adverb and usually comes **before the main verb**.  \n\nYou can also use it to emphasize a personal trait or habit (luôn đúng giờ, luôn bận).\n\nClose synonym: **lúc nào cũng** (a bit more conversational).  \nOpposite: **không bao giờ** (never).",
+  "updatedAt": "2026-03-03T06:11:18.299Z",
+  "exampleSentencesTranslated": [
+    "He always drinks a cup of tea.",
+    "She always buys sweet cake.",
+    "I always study a new lesson."
+  ],
+  "exampleSentences": [
+    "Anh luôn uống một ly trà.",
+    "Chị luôn mua bánh ngọt.",
+    "Em luôn học một bài mới."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "thường",
+    "luôn",
+    "đôi khi"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi luôn cố gắng học tốt.",
+      "en": "I always try to study well.",
+      "es": "Siempre trato de estudiar bien."
+    },
+    "translations": {
+      "es": "siempre",
+      "en": "always",
+      "vi": "luôn"
+    },
+    "definitions": {
+      "en": "Always; at all times.",
+      "es": "Siempre; en todo momento.",
+      "vi": "Luôn; trong mọi lúc."
+    },
+    "createdAt": "2025-01-28T13:49:50.328Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Luôn means always — something happens all the time, not just sometimes. It shows strong consistency.\n\nIt’s an adverb and usually comes before the main verb.  \n\nYou can also use it to emphasize a personal trait or habit (luôn đúng giờ, luôn bận).\n\nClose synonym: lúc nào cũng (a bit more conversational).  \nOpposite: không bao giờ (never).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "rFTfcMlBwcAduRLlWUVV"
+}

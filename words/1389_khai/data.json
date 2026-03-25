@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "khai",
+    "đóng",
+    "giấu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "declare",
+  "rank": 1389,
+  "exampleSentences": [
+    "Anh phải khai thông tin cá nhân khi đăng ký tài khoản mới.",
+    "Chị ấy cần khai hàng hóa mang theo khi đến sân bay.",
+    "Em đã khai số tiền thu nhập trong mẫu đơn này rồi."
+  ],
+  "word": "khai",
+  "exampleSentencesTranslated": [
+    "You must declare personal information when registering a new account.",
+    "She needs to declare the goods she brings when arriving at the airport.",
+    "I have already declared the amount of income in this form."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:33:22.105Z",
+    "example": {
+      "en": "She made a statement to the police.",
+      "vi": "Cô ấy khai báo với cảnh sát.",
+      "es": "Ella hizo una declaración a la policía."
+    },
+    "translations": {
+      "en": "declare",
+      "vi": "khai",
+      "es": "declarar"
+    },
+    "definitions": {
+      "vi": "Khai báo hoặc tuyên bố điều gì đó một cách chính thức.",
+      "es": "Declarar o afirmar algo de manera formal.",
+      "en": "To declare or state something formally."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:55:31.342Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "disclose"
+      },
+      "word": "khai",
+      "sentence": "Bạn có muốn ___ điều này không?",
+      "language": "vi",
+      "hint": "k___",
+      "choices": [
+        "khai",
+        "nói",
+        "hỏi"
+      ],
+      "translation": {
+        "en": "Do you want to disclose this?"
+      },
+      "answer": "khai"
+    },
+    "updatedAt": "2025-03-12T13:55:31.342Z",
+    "type": "multiChoiceQuiz",
+    "id": "df82a0b9-1aff-4a8d-bc33-d6755343932a",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**khai** = to declare or officially report information, usually to an authority. It’s used when you give formal information that becomes a record.\n\nIt often appears in paperwork or legal situations: taxes, birth registration (*khai sinh*), police statements, customs, etc. It feels more official than just *nói* (say) or *báo* (inform).\n\n\nStrong contrast: **giấu** (hide) — if you *khai*, you’re not hiding.",
+  "updatedAt": "2026-03-03T08:44:37.850Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "49b9ac9a-6986-4ca7-89e6-a2db0802f88b",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:55:31.342Z",
+    "createdAt": "2025-03-12T13:55:31.342Z",
+    "content": {
+      "word": "khai",
+      "sentence": "Chúng ta cần ___ thông tin này.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "disclose"
+      },
+      "translation": {
+        "en": "We need to disclose this information."
+      },
+      "answer": "khai",
+      "choices": []
+    }
+  },
+  "notes": "khai = to declare or officially report information, usually to an authority. It’s used when you give formal information that becomes a record.\n\nIt often appears in paperwork or legal situations: taxes, birth registration (khai sinh), police statements, customs, etc. It feels more official than just nói (say) or báo (inform).\n\nStrong contrast: giấu (hide) — if you khai, you’re not hiding.",
+  "_id": "HYzlrScegJuI4eJM1Vwd"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T13:11:02.161Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "mentality",
+      "es": "mentalidad",
+      "vi": "tâm lý"
+    },
+    "example": {
+      "en": "His mentality is very stable.",
+      "vi": "Tâm lý của anh ấy rất ổn định.",
+      "es": "Su mentalidad es muy estable."
+    },
+    "definitions": {
+      "en": "The mental state or psychological condition of a person.",
+      "es": "El estado mental o la condición psicológica de una persona.",
+      "vi": "Trạng thái tâm trí hoặc tình trạng tâm lý của một người."
+    }
+  },
+  "definition": "psychology",
+  "fillBlankQuiz": {
+    "id": "2f97b616-703f-4687-860b-aefd4dff0d3f",
+    "content": {
+      "translatedAnswer": {
+        "en": "psychology"
+      },
+      "translation": {
+        "en": "I am interested in the psychology of children."
+      },
+      "answer": "tâm lý",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi quan tâm đến ___ của trẻ em.",
+      "word": "tâm lý"
+    },
+    "createdAt": "2025-03-12T15:37:03.569Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:37:03.569Z"
+  },
+  "exampleSentencesTranslated": [
+    "He is very interested in psychology so he often reads many books on this topic.",
+    "She wants to understand the psychology of her son to teach him better.",
+    "Studying psychology helps me communicate with people more easily."
+  ],
+  "exampleSentences": [
+    "Anh rất quan tâm đến tâm lý nên thường đọc nhiều sách về chủ đề này.",
+    "Chị muốn hiểu tâm lý của con trai mình để dạy dỗ tốt hơn.",
+    "Việc học tâm lý giúp em giao tiếp với mọi người dễ dàng hơn."
+  ],
+  "updatedAt": "2026-03-03T07:22:03.768Z",
+  "notes": "Tâm lý usually means psychology — the study of the mind and behavior. It can also mean someone’s mental state or inner feelings in everyday talk.\n\nIt’s a noun. You’ll often see it in phrases like tâm lý học (psychology as a field), vấn đề tâm lý (mental/psychological issues), or tâm lý của + someone (a person’s psychology/mindset).\n\nIt’s uncountable in most cases — you don’t count “tâm lý,” you talk about aspects of it.\n\nRelated word: tinh thần (mental/spiritual state) — close, but tâm lý is more about thoughts and emotions, while tinh thần is more about spirit or morale.",
+  "rank": 599,
+  "choices": [
+    "tâm lý",
+    "tài liệu",
+    "khoa học"
+  ],
+  "notes_md": "**Tâm lý** usually means *psychology* — the study of the mind and behavior. It can also mean someone’s *mental state* or *inner feelings* in everyday talk.\n\nIt’s a noun. You’ll often see it in phrases like **tâm lý học** (psychology as a field), **vấn đề tâm lý** (mental/psychological issues), or **tâm lý của + someone** (a person’s psychology/mindset).\n\nIt’s uncountable in most cases — you don’t count “tâm lý,” you talk about aspects of it.\n\nRelated word: **tinh thần** (mental/spiritual state) — close, but *tâm lý* is more about thoughts and emotions, while *tinh thần* is more about spirit or morale.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "8e62d982-7e76-4c50-89d6-427eccdb15e9",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:37:03.569Z",
+    "content": {
+      "word": "tâm lý",
+      "sentence": "Họ nghiên cứu về ___ con người.",
+      "language": "vi",
+      "choices": [
+        "tâm lý",
+        "hành vi",
+        "tri thức"
+      ],
+      "answer": "tâm lý",
+      "hint": "t___y",
+      "translation": {
+        "en": "They study the psychology of humans."
+      },
+      "translatedAnswer": {
+        "en": "psychology"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:37:03.569Z"
+  },
+  "word": "tâm lý",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "gNqMzZEVqVzNpGFEUscR"
+}

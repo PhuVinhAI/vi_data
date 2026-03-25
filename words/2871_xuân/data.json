@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Mỗi khi xuân đến, anh thường đi dạo trong công viên gần nhà.",
+    "Chị rất thích ăn bánh chưng vào dịp xuân cùng gia đình.",
+    "Em thường mua hoa tươi về trang trí phòng khách vào mùa xuân."
+  ],
+  "choices": [
+    "hạ",
+    "xuân",
+    "thu"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:46:55.053Z",
+    "updatedAt": "2025-03-12T15:46:55.053Z",
+    "content": {
+      "choices": [],
+      "sentence": "Mùa ___ đến với hoa nở.",
+      "answer": "xuân",
+      "translatedAnswer": {
+        "en": "spring"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "Spring comes with blooming flowers."
+      },
+      "word": "xuân"
+    },
+    "id": "695e29e7-7292-4758-8c2c-676c40c87570",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2871,
+  "definition": "spring",
+  "notes": "xuân = spring, the season between winter and summer. It’s also strongly linked to Tết (Lunar New Year) in Vietnam.\n\nIt’s a noun. You usually say mùa xuân (spring season), not just xuân in everyday speech.  \n\nIt appears in fixed sets like xuân hạ thu đông (spring, summer, autumn, winter).  \nIt can also mean youth in a poetic way, like tuổi xuân (your young years).\n\nAntonym to remember: đông (winter).",
+  "notes_md": "**xuân** = spring, the season between winter and summer. It’s also strongly linked to **Tết** (Lunar New Year) in Vietnam.\n\nIt’s a noun. You usually say **mùa xuân** (spring season), not just *xuân* in everyday speech.  \n\nIt appears in fixed sets like **xuân hạ thu đông** (spring, summer, autumn, winter).  \nIt can also mean **youth** in a poetic way, like **tuổi xuân** (your young years).\n\nAntonym to remember: **đông** (winter).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:46:55.053Z",
+    "updatedAt": "2025-03-12T15:46:55.053Z",
+    "content": {
+      "sentence": "Mùa ___ là thời gian đẹp nhất.",
+      "choices": [
+        "hạ",
+        "đông",
+        "xuân"
+      ],
+      "hint": "x___n",
+      "translatedAnswer": {
+        "en": "spring"
+      },
+      "answer": "xuân",
+      "translation": {
+        "en": "Spring is the most beautiful season."
+      },
+      "word": "xuân",
+      "language": "vi"
+    },
+    "id": "40b027d1-3664-46be-b8ae-2391472286ec",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "xuân",
+  "flashcard": {
+    "translations": {
+      "es": "primavera",
+      "en": "spring",
+      "vi": "xuân"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:19:26.608Z",
+    "definitions": {
+      "vi": "Mùa trong năm giữa mùa đông và mùa hè, khi thời tiết trở nên ấm áp và cây cối hồi sinh.",
+      "en": "The season of the year between winter and summer, during which the weather becomes warmer and plants revive.",
+      "es": "La estación del año entre el invierno y el verano, durante la cual el clima se calienta y las plantas reviven."
+    },
+    "example": {
+      "vi": "Mùa xuân là thời điểm cây cối đâm chồi nảy lộc.",
+      "es": "La primavera es el momento en que las plantas comienzan a crecer.",
+      "en": "Spring is the time when plants start to grow."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T18:07:07.911Z",
+  "exampleSentencesTranslated": [
+    "Whenever spring arrives, I often take walks in the park near my house.",
+    "She really likes eating banh chung with her family during spring.",
+    "I usually buy fresh flowers to decorate the living room in spring."
+  ],
+  "_id": "ikpgpbzWd4MHa8lVMDG2"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "giày",
+    "quần",
+    "nón"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "shoes",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "giày",
+  "exampleSentences": [
+    "Sáng nay em quên mang giày khi đi học nên phải quay về nhà.",
+    "Chị mua đôi giày màu trắng mới ở cửa hàng gần nhà hôm qua.",
+    "Anh để giày ngoài cửa trước khi vào nhà để giữ sàn sạch."
+  ],
+  "rank": 2032,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:38:26.033Z",
+    "content": {
+      "sentence": "Tôi có đôi ___ mới.",
+      "word": "giày",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "shoes"
+      },
+      "translation": {
+        "en": "I have a new pair of shoes."
+      },
+      "answer": "giày",
+      "hint": "g___y",
+      "choices": [
+        "quần",
+        "giày",
+        "áo"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:38:26.033Z",
+    "id": "4c0b530f-0548-4667-9fd6-b9ce78f939bf",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Giày** means *shoes* — the kind you wear outside (sneakers, dress shoes, etc.).  \n\nIt’s a noun. In Vietnamese, shoes are usually counted as a pair: **một đôi giày** (one pair of shoes). If you talk about just one shoe, say **một chiếc giày**.  \n\nCommon pairings: *giày thể thao* (sneakers), *giày da* (leather shoes), *giày cao gót* (high heels).  \n\nDon’t confuse it with **dép**, which means sandals or flip-flops — more open and casual.  \n\nStructure: một đôi giày / một chiếc giày (i.e. mua một đôi giày)",
+  "flashcard": {
+    "definitions": {
+      "en": "A covering for the foot, typically made of leather, canvas, or plastic.",
+      "es": "Una cobertura para el pie, típicamente hecha de cuero, lona o plástico.",
+      "vi": "Một vật che cho bàn chân, thường được làm bằng da, vải hoặc nhựa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi mua một đôi giày mới.",
+      "es": "Compré un par de zapatos nuevos.",
+      "en": "I bought a new pair of shoes."
+    },
+    "createdAt": "2025-01-28T11:17:36.297Z",
+    "translations": {
+      "en": "shoes",
+      "vi": "giày",
+      "es": "zapatos"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "This morning I forgot to bring my shoes to school so I had to go back home.",
+    "She bought a new pair of white shoes at the store near her house yesterday.",
+    "He leaves his shoes outside the door before entering the house to keep the floor clean."
+  ],
+  "notes": "Giày means shoes — the kind you wear outside (sneakers, dress shoes, etc.).  \n\nIt’s a noun. In Vietnamese, shoes are usually counted as a pair: một đôi giày (one pair of shoes). If you talk about just one shoe, say một chiếc giày.  \n\nCommon pairings: giày thể thao (sneakers), giày da (leather shoes), giày cao gót (high heels).  \n\nDon’t confuse it with dép, which means sandals or flip-flops — more open and casual.  \n\nStructure: một đôi giày / một chiếc giày (i.e. mua một đôi giày)",
+  "fillBlankQuiz": {
+    "id": "a6173684-88a2-43cd-b23c-b46494b56442",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I need to buy a pair of shoes."
+      },
+      "answer": "giày",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần mua một đôi ___.",
+      "word": "giày",
+      "translatedAnswer": {
+        "en": "shoes"
+      }
+    },
+    "createdAt": "2025-03-12T13:38:26.033Z",
+    "updatedAt": "2025-03-12T13:38:26.033Z"
+  },
+  "updatedAt": "2026-03-03T09:53:10.041Z",
+  "_id": "D7xp4PkzPPG5kGJG4SKn"
+}

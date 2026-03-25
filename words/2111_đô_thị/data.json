@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "sentence": "Thành phố này là một ___ lớn.",
+      "word": "đô thị",
+      "choices": [],
+      "answer": "đô thị",
+      "translatedAnswer": {
+        "en": "urban area"
+      },
+      "translation": {
+        "en": "This city is a large urban area."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:25:56.157Z",
+    "id": "68609576-5074-4a0f-b52a-f30346f35590",
+    "updatedAt": "2025-03-12T15:25:56.157Z"
+  },
+  "exampleSentencesTranslated": [
+    "He lived in a big city before moving to the countryside.",
+    "She likes the lively atmosphere of the city at night.",
+    "Many young people want to go to the city to find better jobs."
+  ],
+  "definition": "city",
+  "flashcard": {
+    "translations": {
+      "en": "urban area",
+      "vi": "đô thị",
+      "es": "área urbana"
+    },
+    "createdAt": "2025-01-28T13:00:45.791Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A city or town that is characterized by a high population density and vast human-built features.",
+      "vi": "Một thành phố hoặc thị trấn có mật độ dân số cao và nhiều đặc điểm do con người xây dựng.",
+      "es": "Una ciudad o pueblo caracterizado por una alta densidad de población y amplias características construidas por humanos."
+    },
+    "example": {
+      "vi": "Hà Nội là một đô thị lớn của Việt Nam.",
+      "es": "Hanói es una gran área urbana en Vietnam.",
+      "en": "Hanoi is a major urban area in Vietnam."
+    }
+  },
+  "notes": "đô thị = city, urban area. It’s a bit more formal than thành phố and often used in planning, news, or policy talk.\n\nIt’s a noun: một đô thị, các đô thị. You’ll often see it in compounds like khu đô thị (urban area), đô thị hóa (urbanization), vùng đô thị (metropolitan area).\n\nStrong contrast: đô thị ↔ nông thôn (countryside).  \nThink of đô thị as the “urban” concept, not just a specific city name.",
+  "updatedAt": "2026-03-03T10:01:28.632Z",
+  "exampleSentences": [
+    "Anh đã sống ở một đô thị lớn trước khi chuyển về quê.",
+    "Chị thích không khí nhộn nhịp của đô thị vào buổi tối.",
+    "Nhiều người trẻ muốn đến đô thị để tìm việc làm tốt hơn."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Thành phố này là một ___ lớn.",
+      "language": "vi",
+      "word": "đô thị",
+      "choices": [
+        "nông thôn",
+        "đô thị",
+        "vùng quê"
+      ],
+      "hint": "đ___i",
+      "answer": "đô thị",
+      "translatedAnswer": {
+        "en": "urban area"
+      },
+      "translation": {
+        "en": "This city is a large urban area."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:25:56.157Z",
+    "id": "6a36d18e-469e-4bf5-b235-e2e2fd58bbb5",
+    "updatedAt": "2025-03-12T15:25:56.157Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đô thị** = city, urban area. It’s a bit more formal than *thành phố* and often used in planning, news, or policy talk.\n\nIt’s a noun: *một đô thị, các đô thị*. You’ll often see it in compounds like *khu đô thị* (urban area), *đô thị hóa* (urbanization), *vùng đô thị* (metropolitan area).\n\nStrong contrast: **đô thị** ↔ **nông thôn** (countryside).  \nThink of *đô thị* as the “urban” concept, not just a specific city name.",
+  "choices": [
+    "đô thị",
+    "nông thôn",
+    "làng quê"
+  ],
+  "rank": 2111,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đô thị",
+  "_id": "e6OdaT5R5R7gEZ8zFPjD"
+}

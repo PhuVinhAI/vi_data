@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "hồ sơ",
+    "bài tập",
+    "lịch trình"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "document",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị đã nộp hồ sơ xin việc cho công ty này tuần trước.",
+    "Anh cần chuẩn bị hồ sơ đầy đủ trước khi đi phỏng vấn.",
+    "Em có thể giúp anh kiểm tra lại hồ sơ không?"
+  ],
+  "rank": 2355,
+  "word": "hồ sơ",
+  "flashcard": {
+    "definitions": {
+      "es": "Un documento o colección de documentos que proporcionan información sobre una persona o tema.",
+      "vi": "Một tài liệu hoặc tập hợp tài liệu cung cấp thông tin về một người hoặc chủ đề.",
+      "en": "A document or collection of documents that provide information about a person or subject."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "archivo",
+      "vi": "hồ sơ",
+      "en": "file"
+    },
+    "createdAt": "2025-01-28T11:28:02.077Z",
+    "example": {
+      "vi": "Tôi cần xem hồ sơ của bạn.",
+      "es": "Necesito ver tu archivo.",
+      "en": "I need to see your file."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "She submitted her document to this company last week.",
+    "He needs to prepare a complete document before going to the interview.",
+    "Can you help me check the document again?"
+  ],
+  "notes_md": "**Hồ sơ** = a set of documents in one file, usually about a person or a case. It’s not just one paper, but a collection.\n\nIt’s a **noun**. You often say *một bộ hồ sơ* (a full set), *nộp hồ sơ*, *chuẩn bị hồ sơ*, *xét hồ sơ*.  \n\nVery common for jobs, school, legal or medical cases. It can also mean a “profile” in digital contexts (like a user profile).\n\nClose words: **tài liệu** = documents in general (more individual papers), while **hồ sơ** feels more official and organized as a file.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:49:56.592Z",
+    "createdAt": "2025-03-12T13:49:56.592Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "file"
+      },
+      "sentence": "Tôi đã gửi ___ cho họ.",
+      "word": "hồ sơ",
+      "language": "vi",
+      "hint": "h___",
+      "choices": [
+        "giấy tờ",
+        "hồ sơ",
+        "tài liệu"
+      ],
+      "translation": {
+        "en": "I have sent the file to them."
+      },
+      "answer": "hồ sơ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "7e733f8a-b3a4-4633-8933-3d542101cdfe",
+    "type": "multiChoiceQuiz"
+  },
+  "updatedAt": "2026-03-03T10:27:28.496Z",
+  "notes": "Hồ sơ = a set of documents in one file, usually about a person or a case. It’s not just one paper, but a collection.\n\nIt’s a noun. You often say một bộ hồ sơ (a full set), nộp hồ sơ, chuẩn bị hồ sơ, xét hồ sơ.  \n\nVery common for jobs, school, legal or medical cases. It can also mean a “profile” in digital contexts (like a user profile).\n\nClose words: tài liệu = documents in general (more individual papers), while hồ sơ feels more official and organized as a file.",
+  "fillBlankQuiz": {
+    "id": "4011c45c-4b5f-45e3-89c9-4c7a4b3660f3",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:49:56.592Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "file"
+      },
+      "language": "vi",
+      "word": "hồ sơ",
+      "sentence": "Tôi cần ___ này để đăng ký.",
+      "choices": [],
+      "translation": {
+        "en": "I need this file to register."
+      },
+      "answer": "hồ sơ"
+    },
+    "updatedAt": "2025-03-12T13:49:56.592Z"
+  },
+  "_id": "FktRrmx068cOlGAOSzPq"
+}

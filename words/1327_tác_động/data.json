@@ -1,0 +1,99 @@
+{
+  "definition": "impact",
+  "rank": 1327,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Climate change has a significant impact on the environment.",
+      "vi": "Sự thay đổi khí hậu có tác động lớn đến môi trường.",
+      "es": "El cambio climático tiene un gran impacto en el medio ambiente."
+    },
+    "translations": {
+      "vi": "tác động",
+      "en": "impact",
+      "es": "impacto"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El efecto o influencia de una cosa sobre otra.",
+      "vi": "Ảnh hưởng hoặc tác động của một điều này lên một điều khác.",
+      "en": "The effect or influence of one thing on another."
+    },
+    "createdAt": "2025-01-28T10:45:16.922Z"
+  },
+  "multiChoiceQuiz": {
+    "id": "4ee92f06-c121-41df-ab5e-6719efd02ae3",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "tác động",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "impact"
+      },
+      "hint": "t__ d____",
+      "translation": {
+        "en": "This can impact many people."
+      },
+      "choices": [
+        "ảnh hưởng",
+        "tác động",
+        "ảnh hưởng xấu"
+      ],
+      "answer": "tác động",
+      "sentence": "Điều này có thể ___ đến nhiều người."
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:02:47.309Z",
+    "updatedAt": "2025-03-12T13:02:47.309Z"
+  },
+  "exampleSentences": [
+    "Anh nghĩ thời tiết xấu có thể tác động đến chuyến đi của mình.",
+    "Em lo lắng mạng xã hội sẽ tác động tiêu cực đến học sinh.",
+    "Chị nhận thấy quyết định mới sẽ tác động lớn đến công việc của anh."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tác động",
+    "phản ứng",
+    "giải pháp"
+  ],
+  "notes": "Tác động means impact or effect — when something influences or changes something else. It can be both a noun and a verb.\n\nAs a verb, it often goes with đến + noun (tác động đến ai/cái gì). It’s used for physical impact and also abstract influence (policy, emotions, economy).\n\nAs a noun, it’s usually uncountable and paired with words like lớn, mạnh, tích cực, tiêu cực.\n\nClose synonyms: ảnh hưởng (more common, softer influence).  \nStronger feeling: gây ảnh hưởng mạnh or tạo ảnh hưởng lớn.",
+  "word": "tác động",
+  "notes_md": "**Tác động** means *impact* or *effect* — when something influences or changes something else. It can be both a **noun** and a **verb**.\n\nAs a **verb**, it often goes with **đến + noun** (tác động đến ai/cái gì). It’s used for physical impact and also abstract influence (policy, emotions, economy).\n\nAs a **noun**, it’s usually uncountable and paired with words like **lớn, mạnh, tích cực, tiêu cực**.\n\nClose synonyms: **ảnh hưởng** (more common, softer influence).  \nStronger feeling: **gây ảnh hưởng mạnh** or **tạo ảnh hưởng lớn**.",
+  "exampleSentencesTranslated": [
+    "I think bad weather can impact our trip.",
+    "I worry that social media will impact students negatively.",
+    "She noticed the new decision will have a big impact on his job."
+  ],
+  "updatedAt": "2026-03-03T08:37:47Z",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Điều này sẽ ___ đến quyết định của tôi.",
+      "answer": "tác động",
+      "choices": [],
+      "translation": {
+        "en": "This will impact my decision."
+      },
+      "word": "tác động",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "impact"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "4675c861-f225-4ec5-813b-1393ca38223e",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:02:47.309Z",
+    "updatedAt": "2025-03-12T13:02:47.309Z"
+  },
+  "_id": "3iSopJ0vCWamgJzcB2Pi"
+}

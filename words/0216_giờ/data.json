@@ -1,0 +1,95 @@
+{
+  "fillBlankQuiz": {
+    "id": "6a19d9e7-db86-440b-9816-26eee69dd0d2",
+    "createdAt": "2025-03-12T17:22:59.867Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi sẽ về nhà lúc 5 ___.",
+      "word": "giờ",
+      "language": "vi",
+      "translation": {
+        "en": "I will go home at 5 o'clock."
+      },
+      "answer": "giờ",
+      "translatedAnswer": {
+        "en": "o'clock"
+      }
+    },
+    "updatedAt": "2025-03-12T17:22:59.867Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "hour",
+  "rank": 216,
+  "notes_md": "**Giờ** = hour; it also means a point in time on the clock.\n\nUse a number + **giờ** to tell clock time (Structure: số + giờ), like 1 giờ, 7 giờ. For duration, Vietnamese often uses **tiếng** instead (1 giờ = 1 o’clock; 1 tiếng = one hour long).\n\nVery common in fixed phrases: **bây giờ** (now), **đúng giờ** (on time), **trễ giờ** (late), **giờ giấc** (schedule/routine).  \n\nQuick memory tip: **giờ** = clock time, **tiếng** = length of time.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "Can you tell me what hour it is now?",
+    "She will take a break at three hour this afternoon.",
+    "Which hour do you usually have breakfast on weekdays?"
+  ],
+  "word": "giờ",
+  "updatedAt": "2026-03-03T06:42:18.909Z",
+  "exampleSentences": [
+    "Anh có thể cho em biết bây giờ là mấy giờ không?",
+    "Chị sẽ nghỉ giải lao vào lúc ba giờ chiều hôm nay.",
+    "Em thường ăn sáng vào giờ nào mỗi ngày trong tuần?"
+  ],
+  "multiChoiceQuiz": {
+    "id": "d1fc809d-b11a-460f-8843-796c813a5345",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:22:59.867Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "giờ",
+      "hint": "g___",
+      "sentence": "Tôi sẽ về nhà lúc 5 ___.",
+      "translatedAnswer": {
+        "en": "o'clock"
+      },
+      "translation": {
+        "en": "I will go home at 5 o'clock."
+      },
+      "answer": "giờ",
+      "choices": [
+        "giờ",
+        "phút",
+        "ngày"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T17:22:59.867Z"
+  },
+  "choices": [
+    "giày",
+    "giờ",
+    "giới"
+  ],
+  "notes": "Giờ = hour; it also means a point in time on the clock.\n\nUse a number + giờ to tell clock time (Structure: số + giờ), like 1 giờ, 7 giờ. For duration, Vietnamese often uses tiếng instead (1 giờ = 1 o’clock; 1 tiếng = one hour long).\n\nVery common in fixed phrases: bây giờ (now), đúng giờ (on time), trễ giờ (late), giờ giấc (schedule/routine).  \n\nQuick memory tip: giờ = clock time, tiếng = length of time.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "word": "giờ",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:36:10.758Z",
+    "translations": {
+      "en": "hour; time"
+    },
+    "example": {
+      "vi": "Bây giờ là mấy giờ?",
+      "en": "What time is it now?"
+    },
+    "definitions": {
+      "en": "A unit of time in a day or the present moment.",
+      "vi": "Đơn vị chỉ thời gian trong ngày hoặc thời điểm hiện tại."
+    }
+  },
+  "_id": "uOQEqq12WpMtAW2vHtpR"
+}

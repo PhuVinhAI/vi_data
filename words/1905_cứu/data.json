@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cần cứu người bị nạn.",
+      "en": "I need to save the person in trouble.",
+      "es": "Necesito salvar a la persona en problemas."
+    },
+    "createdAt": "2025-01-28T12:22:12.720Z",
+    "definitions": {
+      "vi": "Giải cứu hoặc cứu ai đó khỏi nguy hiểm.",
+      "en": "To rescue or save someone from danger.",
+      "es": "Rescatar o salvar a alguien del peligro."
+    },
+    "translations": {
+      "en": "save",
+      "vi": "cứu",
+      "es": "salvar"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh đã nhảy xuống hồ để cứu một em bé bị ngã.",
+    "Chị mong ai đó sẽ đến nhanh để cứu con mèo khỏi cây cao.",
+    "Khi gặp nguy hiểm, em sẽ gọi người lớn đến cứu mình."
+  ],
+  "notes_md": "**cứu** = to save or rescue someone/something from danger. It’s used when someone is in real trouble and needs help fast.\n\nIt’s a verb, so you put the person or thing right after it: cứu người, cứu mạng, cứu động vật. Often used in urgent situations like accidents, disasters, or medical emergencies (cấp cứu = emergency care, cứu sống = save someone’s life).\n\n\nRelated words that stick: **cứu giúp** (help/save), opposite idea is **hại** (harm).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "save"
+      },
+      "sentence": "Tôi cần bạn ___ tôi khỏi rắc rối.",
+      "choices": [],
+      "word": "cứu",
+      "translation": {
+        "en": "I need you to save me from trouble."
+      },
+      "answer": "cứu"
+    },
+    "updatedAt": "2025-03-12T14:48:04.270Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:48:04.270Z",
+    "id": "629d8355-b81b-46c9-a5bc-5e9fd3a88afe"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "save",
+  "word": "cứu",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "cứu",
+      "choices": [
+        "cứu",
+        "giúp",
+        "bảo vệ"
+      ],
+      "hint": "c__u",
+      "answer": "cứu",
+      "translation": {
+        "en": "She wants to save everyone from the disaster."
+      },
+      "sentence": "Cô ấy muốn ___ mọi người khỏi thiên tai.",
+      "translatedAnswer": {
+        "en": "save"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:48:04.270Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:48:04.270Z",
+    "id": "bcbb5f26-9aab-44d6-9fd6-02f3ae405911"
+  },
+  "rank": 1905,
+  "exampleSentencesTranslated": [
+    "He jumped into the lake to save a child who fell.",
+    "She hopes someone will come quickly to save the cat from the tall tree.",
+    "When in danger, I will call an adult to save me."
+  ],
+  "updatedAt": "2026-03-03T09:39:35.952Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cứu",
+    "chơi",
+    "mua"
+  ],
+  "notes": "cứu = to save or rescue someone/something from danger. It’s used when someone is in real trouble and needs help fast.\n\nIt’s a verb, so you put the person or thing right after it: cứu người, cứu mạng, cứu động vật. Often used in urgent situations like accidents, disasters, or medical emergencies (cấp cứu = emergency care, cứu sống = save someone’s life).\n\nRelated words that stick: cứu giúp (help/save), opposite idea is hại (harm).",
+  "_id": "TnBqjUvnauflthrdlh0z"
+}

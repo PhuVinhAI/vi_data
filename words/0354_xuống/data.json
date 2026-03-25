@@ -1,0 +1,99 @@
+{
+  "word": "xuống",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you go down to the kitchen to get me some water?",
+    "After school, the kids usually go down to the basketball court.",
+    "She doesn't like taking the elevator so she usually goes down by the stairs."
+  ],
+  "choices": [
+    "lên",
+    "xuống",
+    "vào"
+  ],
+  "exampleSentences": [
+    "Anh có thể xuống nhà bếp lấy giúp em ít nước không?",
+    "Sau khi tan học, các em thường xuống sân chơi bóng rổ.",
+    "Chị ấy không thích đi thang máy nên thường xuống bằng cầu thang bộ."
+  ],
+  "updatedAt": "2026-03-03T06:57:48.819Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:23:45.483Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "ca83b5fb-9ebd-4c02-bc02-b0421af38d00",
+    "content": {
+      "language": "vi",
+      "answer": "xuống",
+      "choices": [
+        "xuống",
+        "lên",
+        "qua"
+      ],
+      "translation": {
+        "en": "We need to go down."
+      },
+      "translatedAnswer": {
+        "en": "down"
+      },
+      "sentence": "Chúng ta cần đi ___.",
+      "hint": "x___ng",
+      "word": "xuống"
+    },
+    "updatedAt": "2025-03-12T17:23:45.483Z",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T14:22:24.686Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Di chuyển từ vị trí cao xuống vị trí thấp.",
+      "es": "Moverse de una posición más alta a una más baja.",
+      "en": "To move from a higher to a lower position."
+    },
+    "example": {
+      "es": "Estoy bajando las escaleras.",
+      "en": "I am going down the stairs.",
+      "vi": "Tôi đi xuống cầu thang."
+    },
+    "translations": {
+      "vi": "xuống",
+      "es": "abajo",
+      "en": "down"
+    }
+  },
+  "notes": "xuống = to go down, move downward. It’s the opposite of lên (go up).\n\nUse it for physical movement from a higher place to a lower one: stairs, floors, hills, vehicles, or going from upstairs to downstairs. It also works for direction in general: getting off, coming down, stepping down.\n\nVery common in movement verbs: đi xuống, chạy xuống, bước xuống, leo xuống.  \n\nIt can also mean something decreases: prices, mood, quality, energy (giảm xuống, “go down” in level).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:23:45.483Z",
+    "id": "4f6a621d-13d3-4405-90fe-42a5c9ae458d",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "down"
+      },
+      "choices": [],
+      "answer": "xuống",
+      "translation": {
+        "en": "He steps down the stairs."
+      },
+      "sentence": "Anh ấy bước ___ cầu thang.",
+      "word": "xuống"
+    },
+    "updatedAt": "2025-03-12T17:23:45.483Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "to go down",
+  "rank": 354,
+  "notes_md": "**xuống** = to go down, move downward. It’s the opposite of **lên** (go up).\n\nUse it for physical movement from a higher place to a lower one: stairs, floors, hills, vehicles, or going from upstairs to downstairs. It also works for direction in general: getting off, coming down, stepping down.\n\nVery common in movement verbs: **đi xuống, chạy xuống, bước xuống, leo xuống**.  \n\nIt can also mean something decreases: prices, mood, quality, energy (**giảm xuống**, “go down” in level).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "znMABwt69aJK4CjZc0pr"
+}

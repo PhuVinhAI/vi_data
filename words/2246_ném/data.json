@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:36:53.502Z",
+    "content": {
+      "sentence": "Anh ấy sẽ ___ bóng vào rổ.",
+      "translatedAnswer": {
+        "en": "throw"
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "ném",
+      "translation": {
+        "en": "He will throw the ball into the basket."
+      },
+      "answer": "ném"
+    },
+    "id": "a87f0674-b52d-4e08-8640-f9ebc60f0cbb",
+    "createdAt": "2025-03-12T14:36:53.502Z",
+    "type": "fillBlankQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "throw",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:12:35.239Z",
+    "definitions": {
+      "en": "To throw something with force.",
+      "vi": "Ném một cái gì đó với sức mạnh.",
+      "es": "Lanzar algo con fuerza."
+    },
+    "example": {
+      "es": "Ella lanza la pelota en la canasta.",
+      "en": "She throws the ball into the basket.",
+      "vi": "Cô ấy ném bóng vào rổ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "to throw",
+      "vi": "ném",
+      "es": "lanzar"
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể ném quả bóng cho em được không?",
+    "Chị thường ném rác vào thùng sau khi ăn xong.",
+    "Em thấy bạn ấy ném giấy vào bảng trong lớp học."
+  ],
+  "notes_md": "**ném** = to throw or toss something with your hand. It’s used for physical objects you send through the air.\n\nYou usually ném concrete things: bóng (ball), đá (stone), đồ vật (objects), rác (trash). It often goes with direction words like **vào, ra, lên, xuống** to show where the object goes.\n\n`Structure: ném + object + vào/ra/lên/xuống + place/person` (i.e. ném bóng vào sân)\n\nClose synonym: **quăng** (more casual, sometimes rougher). Antonym idea: **nhặt** (pick up) — first you nhặt it, then you ném it.",
+  "choices": [
+    "ném",
+    "lấy",
+    "chạy"
+  ],
+  "notes": "ném = to throw or toss something with your hand. It’s used for physical objects you send through the air.\n\nYou usually ném concrete things: bóng (ball), đá (stone), đồ vật (objects), rác (trash). It often goes with direction words like vào, ra, lên, xuống to show where the object goes.\n\nStructure: ném + object + vào/ra/lên/xuống + place/person (i.e. ném bóng vào sân)\n\nClose synonym: quăng (more casual, sometimes rougher). Antonym idea: nhặt (pick up) — first you nhặt it, then you ném it.",
+  "word": "ném",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:36:53.502Z",
+    "content": {
+      "hint": "n__m",
+      "translation": {
+        "en": "We will throw the leaf."
+      },
+      "answer": "ném",
+      "word": "ném",
+      "choices": [
+        "ném",
+        "cầm",
+        "đưa"
+      ],
+      "sentence": "Chúng ta sẽ ___ chiếc lá.",
+      "translatedAnswer": {
+        "en": "throw"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "47451c51-cc91-4510-af51-cf29f00f5966",
+    "createdAt": "2025-03-12T14:36:53.502Z"
+  },
+  "rank": 2246,
+  "exampleSentencesTranslated": [
+    "Can you throw the ball to me?",
+    "She usually throws trash into the bin after eating.",
+    "I saw him throw paper at the board in the classroom."
+  ],
+  "updatedAt": "2026-03-03T10:15:48.559Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "R6TMOWB6EjmSRuAf5lvF"
+}

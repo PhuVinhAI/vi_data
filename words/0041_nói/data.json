@@ -1,0 +1,104 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "nói",
+  "notes": "nói = “to say” or “to speak.” It’s the basic verb for expressing something in words.\n\nUse it for both short statements and general speaking. You usually put the content right after nói, or add với + person to show who you’re speaking to.\n\nVery common combos: nói chuyện (chat), nói tiếng + language (speak a language), nói dối (lie).  \nClose synonym: bảo (tell) — more like giving information or instructions to someone specific.",
+  "choices": [
+    "nghe",
+    "nói",
+    "đọc"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "nói hoặc trò chuyện",
+      "en": "to speak or talk",
+      "es": "hablar o conversar"
+    },
+    "createdAt": "2025-01-28T11:45:16.306Z",
+    "example": {
+      "vi": "Tôi thích nói chuyện với bạn.",
+      "en": "I like to talk to you.",
+      "es": "Me gusta hablar contigo."
+    },
+    "translations": {
+      "en": "to speak",
+      "vi": "nói",
+      "es": "hablar"
+    }
+  },
+  "rank": 41,
+  "definition": "say",
+  "exampleSentences": [
+    "Anh nói một câu ngắn.",
+    "Chị nói tên của em.",
+    "Em nói một câu nữa."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Anh (you) + nói (say) + một (a) + câu (sentence) + ngắn (short)",
+    "Chị (you) + nói (say) + tên (name) + của (of) + em (me)",
+    "Em (I) + nói (say) + một (a) + câu (sentence) + nữa (another)"
+  ],
+  "multiChoiceQuiz": {
+    "id": "c6ae650c-e9e6-4155-bd0c-227ae2a99392",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Bạn có ___ với tôi không?",
+      "answer": "nói",
+      "choices": [
+        "nói",
+        "nghe",
+        "đọc"
+      ],
+      "translation": {
+        "en": "Do you want to talk to me?"
+      },
+      "hint": "n__i",
+      "word": "nói",
+      "translatedAnswer": {
+        "en": "talk"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:10:59.664Z",
+    "updatedAt": "2025-03-12T13:10:59.664Z"
+  },
+  "updatedAt": "2026-03-03T06:07:14.699Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:10:59.664Z",
+    "updatedAt": "2025-03-12T13:10:59.664Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "6d0df7f1-269a-4511-b9fe-a1af588b46f7",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "say"
+      },
+      "language": "vi",
+      "word": "nói",
+      "choices": [],
+      "translation": {
+        "en": "I want to say that."
+      },
+      "answer": "nói",
+      "sentence": "Tôi muốn ___ điều đó."
+    }
+  },
+  "notes_md": "**nói** = “to say” or “to speak.” It’s the basic verb for expressing something in words.\n\nUse it for both short statements and general speaking. You usually put the content right after **nói**, or add **với + person** to show who you’re speaking to.\n\n\nVery common combos: **nói chuyện** (chat), **nói tiếng + language** (speak a language), **nói dối** (lie).  \nClose synonym: **bảo** (tell) — more like giving information or instructions to someone specific.",
+  "exampleSentencesTranslated": [
+    "You say a short sentence.",
+    "You say my name.",
+    "I say another sentence."
+  ],
+  "_id": "5hq0ijJxxNNhQMNCT5rL"
+}

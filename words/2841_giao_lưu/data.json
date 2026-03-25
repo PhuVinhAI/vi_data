@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:42:51.609Z",
+    "translations": {
+      "en": "cultural exchange",
+      "es": "intercambio cultural",
+      "vi": "giao lưu văn hóa"
+    },
+    "definitions": {
+      "en": "An interaction or exchange between people or groups, often for cultural or educational purposes.",
+      "es": "Una interacción o intercambio entre personas o grupos, a menudo con fines culturales o educativos.",
+      "vi": "Một sự tương tác hoặc trao đổi giữa người hoặc nhóm, thường nhằm mục đích văn hóa hoặc giáo dục."
+    },
+    "example": {
+      "en": "We will organize a cultural exchange event this weekend.",
+      "es": "Organizaremos un evento de intercambio cultural este fin de semana.",
+      "vi": "Chúng ta sẽ tổ chức một buổi giao lưu văn hóa vào cuối tuần này."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Tối nay anh sẽ đi giao lưu với nhóm bạn mới ở quán cà phê.",
+    "Cô giáo khuyến khích học sinh giao lưu với các bạn nước ngoài để luyện tiếng Anh.",
+    "Chị rất thích tham gia các buổi giao lưu văn hóa ở trường đại học."
+  ],
+  "rank": 2841,
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "giao lưu",
+      "translatedAnswer": {
+        "en": "interact"
+      },
+      "sentence": "Chúng ta cần ___ với các bạn quốc tế.",
+      "word": "giao lưu",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need to interact with international friends."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "d297a61f-bf56-4fe5-a505-7882a6f36651",
+    "createdAt": "2025-03-12T14:04:56.166Z",
+    "updatedAt": "2025-03-12T14:04:56.166Z"
+  },
+  "definition": "exchange ideas or connect with others",
+  "choices": [
+    "giao lưu",
+    "học hỏi",
+    "trò chuyện"
+  ],
+  "updatedAt": "2026-03-03T18:03:17.542Z",
+  "notes": "Giao lưu means to interact, connect, or exchange ideas with other people. It’s about social or cultural connection, not just talking.\n\nIt’s a verb and usually goes with với + person/group.  \n\nYou’ll often see it in phrases like giao lưu văn hóa, giao lưu thể thao, or buổi giao lưu (as a noun phrase for an exchange event).  \n\nClose ideas: tương tác (more formal, like “interact”), kết nối (focuses more on building a connection).",
+  "exampleSentencesTranslated": [
+    "Tonight I will exchange ideas or connect with others with a new group of friends at the coffee shop.",
+    "The teacher encourages students to exchange ideas or connect with others with foreign friends to practice English.",
+    "She really likes to participate in cultural exchange ideas or connect with others events at the university."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Giao lưu** means to interact, connect, or exchange ideas with other people. It’s about social or cultural connection, not just talking.\n\nIt’s a verb and usually goes with **với + person/group**.  \n\nYou’ll often see it in phrases like **giao lưu văn hóa**, **giao lưu thể thao**, or **buổi giao lưu** (as a noun phrase for an exchange event).  \n\nClose ideas: **tương tác** (more formal, like “interact”), **kết nối** (focuses more on building a connection).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "giao lưu",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:04:56.166Z",
+    "updatedAt": "2025-03-12T14:04:56.166Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "giao lưu",
+      "translatedAnswer": {
+        "en": "interact"
+      },
+      "sentence": "Chúng ta cần ___ với các bạn quốc tế.",
+      "hint": "g____u",
+      "word": "giao lưu",
+      "choices": [
+        "học hỏi",
+        "giao lưu",
+        "tìm hiểu"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "We need to interact with international friends."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "fac476d3-e0fd-4835-aeeb-4fbef29f0597"
+  },
+  "_id": "JpIGjBCnYC1cC7k8GvAw"
+}

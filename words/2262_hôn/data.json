@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "aece6585-11a0-4de7-9471-07cd890aba92",
+    "createdAt": "2025-03-12T14:48:58.933Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "kiss"
+      },
+      "sentence": "Tôi muốn ___ bạn.",
+      "translation": {
+        "en": "I want to kiss you."
+      },
+      "answer": "hôn",
+      "choices": [],
+      "word": "hôn"
+    },
+    "updatedAt": "2025-03-12T14:48:58.933Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "kiss",
+  "flashcard": {
+    "translations": {
+      "vi": "hôn",
+      "en": "kiss",
+      "es": "besar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Te daré un beso en la mejilla.",
+      "en": "I will kiss you on the cheek.",
+      "vi": "Tôi sẽ hôn bạn vào má."
+    },
+    "createdAt": "2025-01-28T12:22:48.676Z",
+    "definitions": {
+      "en": "To touch or press one's lips against someone or something as a sign of affection.",
+      "vi": "Chạm hoặc ấn môi vào ai đó hoặc cái gì đó như một dấu hiệu của tình cảm.",
+      "es": "Tocar o presionar los labios contra alguien o algo como signo de afecto."
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể hôn em trước khi đi làm được không?",
+    "Mẹ luôn hôn con mỗi tối trước khi đi ngủ.",
+    "Hai đứa trẻ vui vẻ hôn má nhau trong bữa tiệc sinh nhật."
+  ],
+  "notes_md": "**hôn** means *to kiss*. It’s used for romantic kisses, family affection, or a quick kiss on the cheek.\n\nIt’s a verb, so you put the person or body part after it: **hôn + someone / body part** (hôn má, hôn môi).  \nYou can also say **hôn nhau** = to kiss each other.\n\nIn the South, people often say **thơm** instead of *hôn* in everyday speech (especially for kids or family), which helps you remember: *thơm* also means “fragrant” → like a sweet little kiss.\n\nStronger or more passionate kissing is often said as **hôn say đắm**.",
+  "choices": [
+    "hát",
+    "hôn",
+    "học"
+  ],
+  "notes": "hôn means to kiss. It’s used for romantic kisses, family affection, or a quick kiss on the cheek.\n\nIt’s a verb, so you put the person or body part after it: hôn + someone / body part (hôn má, hôn môi).  \nYou can also say hôn nhau = to kiss each other.\n\nIn the South, people often say thơm instead of hôn in everyday speech (especially for kids or family), which helps you remember: thơm also means “fragrant” → like a sweet little kiss.\n\nStronger or more passionate kissing is often said as hôn say đắm.",
+  "word": "hôn",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "kiss"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn ___ bạn.",
+      "word": "hôn",
+      "choices": [
+        "ôm",
+        "hôn",
+        "nắm tay"
+      ],
+      "translation": {
+        "en": "I want to kiss you."
+      },
+      "answer": "hôn",
+      "hint": "h__n"
+    },
+    "updatedAt": "2025-03-12T14:48:58.933Z",
+    "createdAt": "2025-03-12T14:48:58.933Z",
+    "id": "82fe84db-50b9-40a5-b4d2-3fa259c048ea",
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 2262,
+  "exampleSentencesTranslated": [
+    "Can you kiss me before going to work?",
+    "Mom always kiss her child every night before going to bed.",
+    "The two children happily kiss each other's cheeks at the birthday party."
+  ],
+  "updatedAt": "2026-03-03T10:17:30.806Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Ty7XnzOQhuMpHY4ZXEc6"
+}

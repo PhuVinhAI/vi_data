@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "sock",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "tất",
+      "translation": {
+        "en": "I bought a new pair of socks."
+      },
+      "answer": "tất",
+      "sentence": "Tôi mua một đôi ___ mới.",
+      "translatedAnswer": {
+        "en": "socks"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:45:37.427Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:45:37.427Z",
+    "id": "5a24fa2c-e689-4d96-97b2-bd4448f8fcd7",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentences": [
+    "Em quên mang tất khi đi giày thể thao sáng nay.",
+    "Anh mua một đôi tất mới cho chuyến du lịch sắp tới.",
+    "Chị thường giặt tất cùng với quần áo mỗi cuối tuần."
+  ],
+  "notes_md": "**tất** means *sock* — the thing you wear on your feet inside shoes.  \n\nIt’s a noun. One sock is **một chiếc tất**, but we usually talk about a pair: **một đôi tất**. Common verbs are **mang / đi / cởi tất** (to put on / wear / take off socks).  \n\nIn the South, people often say **vớ** instead of **tất** — same meaning, just regional preference.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tất",
+      "en": "socks",
+      "es": "calcetines"
+    },
+    "createdAt": "2025-01-28T12:19:57.154Z",
+    "definitions": {
+      "en": "A piece of clothing worn on the feet, typically made of fabric.",
+      "vi": "Một món đồ mặc trên chân, thường được làm bằng vải.",
+      "es": "Una prenda de vestir que se usa en los pies, generalmente hecha de tela."
+    },
+    "example": {
+      "en": "I bought a new pair of socks.",
+      "vi": "Tôi đã mua một đôi tất mới.",
+      "es": "Compré un nuevo par de calcetines."
+    }
+  },
+  "notes": "tất means sock — the thing you wear on your feet inside shoes.  \n\nIt’s a noun. One sock is một chiếc tất, but we usually talk about a pair: một đôi tất. Common verbs are mang / đi / cởi tất (to put on / wear / take off socks).  \n\nIn the South, people often say vớ instead of tất — same meaning, just regional preference.",
+  "choices": [
+    "tất",
+    "mũ",
+    "áo"
+  ],
+  "updatedAt": "2026-03-03T12:08:51.395Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "t__",
+      "answer": "tất",
+      "translation": {
+        "en": "I need to buy socks for winter."
+      },
+      "word": "tất",
+      "choices": [
+        "giày",
+        "tất",
+        "áo"
+      ],
+      "sentence": "Tôi cần mua ___ cho mùa đông.",
+      "translatedAnswer": {
+        "en": "socks"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:45:37.427Z",
+    "id": "445334a3-e2b8-4a78-8956-0d6a502bd5d5",
+    "createdAt": "2025-03-12T14:45:37.427Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "tất",
+  "rank": 2766,
+  "exampleSentencesTranslated": [
+    "I forgot to bring my sock when wearing sneakers this morning. ",
+    "I bought a new pair of sock for the upcoming trip.",
+    "She usually washes sock with clothes every weekend."
+  ],
+  "_id": "TCN3W6SaDXiHBuavvk6X"
+}

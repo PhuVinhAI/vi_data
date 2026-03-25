@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "trường học",
+    "thư viện",
+    "bệnh viện"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:54:05.629Z",
+    "updatedAt": "2025-03-12T15:54:05.629Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "library"
+      },
+      "answer": "thư viện",
+      "choices": [],
+      "sentence": "Tôi thường đến ___ sau giờ học.",
+      "word": "thư viện",
+      "translation": {
+        "en": "I often go to the library after school."
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e6319e62-a88d-4f7e-8c20-98f9987220d8"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thường đến thư viện để học bài vào buổi chiều.",
+    "Anh có thể chỉ giúp chị đường đến thư viện gần nhất không?",
+    "Nhiều sinh viên thích đọc sách ở thư viện vì yên tĩnh."
+  ],
+  "definition": "library",
+  "notes": "Thư viện means library — a place where you read, study, or borrow books.\n\nIt’s a noun. You can say một thư viện, or use the classifier cái (một cái thư viện), but often the classifier is dropped in casual speech.  \nCommon pairings: đến thư viện, ở thư viện, vào thư viện, mượn sách, phòng đọc, thẻ thư viện.  \n\nIt can also mean a “library” in the digital sense, like thư viện ảnh (photo library) or thư viện nhạc (music library).",
+  "rank": 2637,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7236632e-7d8e-4514-8453-79650bd45c0d",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We should go to the library to find books."
+      },
+      "word": "thư viện",
+      "translatedAnswer": {
+        "en": "library"
+      },
+      "answer": "thư viện",
+      "hint": "th___n",
+      "sentence": "Chúng ta nên đến ___ để tìm sách.",
+      "choices": [
+        "thư viện",
+        "trường học",
+        "nhà sách"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:54:05.629Z",
+    "createdAt": "2025-03-12T15:54:05.629Z"
+  },
+  "notes_md": "**Thư viện** means *library* — a place where you read, study, or borrow books.\n\nIt’s a noun. You can say **một thư viện**, or use the classifier **cái** (một cái thư viện), but often the classifier is dropped in casual speech.  \nCommon pairings: **đến thư viện**, **ở thư viện**, **vào thư viện**, **mượn sách**, **phòng đọc**, **thẻ thư viện**.  \n\nIt can also mean a “library” in the digital sense, like **thư viện ảnh** (photo library) or **thư viện nhạc** (music library).",
+  "exampleSentencesTranslated": [
+    "I often go to the library to study in the afternoon.",
+    "Can you show me the way to the nearest library?",
+    "Many students like to read books in the library because it is quiet."
+  ],
+  "word": "thư viện",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:26:13.977Z",
+    "definitions": {
+      "vi": "Nơi có sách, tạp chí và các tài liệu khác để mọi người sử dụng hoặc mượn.",
+      "es": "Un lugar donde hay libros, revistas y otros materiales disponibles para que las personas los usen o los presten.",
+      "en": "A place where books, magazines, and other materials are available for people to use or borrow."
+    },
+    "example": {
+      "vi": "Tôi thường đến thư viện để học.",
+      "es": "A menudo voy a la biblioteca para estudiar.",
+      "en": "I often go to the library to study."
+    },
+    "translations": {
+      "en": "library",
+      "es": "biblioteca",
+      "vi": "thư viện"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T11:30:55.233Z",
+  "_id": "kWGcKa4wBGeTzjIQK2TY"
+}

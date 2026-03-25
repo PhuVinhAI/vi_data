@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:45:12.799Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "493c5b8a-e82a-4496-bc0c-bd94fd93e940",
+    "content": {
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "translation": {
+        "en": "We are a large group."
+      },
+      "answer": "nhóm",
+      "choices": [],
+      "language": "vi",
+      "word": "nhóm",
+      "sentence": "Chúng tôi là một ___ lớn."
+    },
+    "updatedAt": "2025-03-12T16:45:12.799Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "group",
+  "rank": 432,
+  "notes_md": "**nhóm** = group — a small number of people or things together for a purpose.\n\nIt’s a countable noun: *một nhóm, hai nhóm*. Very common with words like *nhóm bạn* (group of friends), *nhóm học*, *nhóm làm việc*.  \nIt’s often used with verbs like *tham gia* (join), *chia thành* (divide into), *làm việc theo* (work in).  \nAnother very common meaning is *nhóm máu* = blood type.  \n\nClose words: *đội* (team, often more organized/official), *tổ* (smaller unit inside a group).",
+  "notes": "nhóm = group — a small number of people or things together for a purpose.\n\nIt’s a countable noun: một nhóm, hai nhóm. Very common with words like nhóm bạn (group of friends), nhóm học, nhóm làm việc.  \nIt’s often used with verbs like tham gia (join), chia thành (divide into), làm việc theo (work in).  \nAnother very common meaning is nhóm máu = blood type.  \n\nClose words: đội (team, often more organized/official), tổ (smaller unit inside a group).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:16:02.032Z",
+    "translations": {
+      "es": "grupo",
+      "en": "group",
+      "vi": "nhóm"
+    },
+    "definitions": {
+      "vi": "Một nhóm người tập hợp lại vì một mục đích chung.",
+      "es": "Un grupo de personas que se reúnen para un propósito común.",
+      "en": "A group of people who come together for a common purpose."
+    },
+    "example": {
+      "es": "Tendremos una reunión de grupo esta tarde.",
+      "en": "We will have a group meeting this afternoon.",
+      "vi": "Chúng ta sẽ họp nhóm vào chiều nay."
+    }
+  },
+  "word": "nhóm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I will join the English study group tonight.",
+    "My group has four people and we work very well.",
+    "I want to invite you to the group to discuss the new project together."
+  ],
+  "updatedAt": "2026-03-03T07:05:30.486Z",
+  "exampleSentences": [
+    "Anh sẽ tham gia nhóm học tiếng Anh vào tối nay.",
+    "Nhóm của em có bốn người và chúng em làm việc rất tốt.",
+    "Chị muốn mời em vào nhóm để cùng thảo luận dự án mới."
+  ],
+  "multiChoiceQuiz": {
+    "id": "184c8f5e-979a-4b2d-9309-b06652d2117e",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:45:12.799Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "translation": {
+        "en": "We belong to this group."
+      },
+      "choices": [
+        "nhóm",
+        "câu lạc bộ",
+        "đội"
+      ],
+      "answer": "nhóm",
+      "sentence": "Chúng tôi thuộc về ___ này.",
+      "word": "nhóm",
+      "hint": "n___m"
+    },
+    "updatedAt": "2025-03-12T16:45:12.799Z",
+    "type": "multiChoiceQuiz"
+  },
+  "choices": [
+    "lớp",
+    "nhóm",
+    "bài"
+  ],
+  "_id": "xvhsbN5o2vvKRzWVf0ts"
+}

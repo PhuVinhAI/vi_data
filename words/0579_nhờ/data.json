@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:31:37.010Z",
+    "id": "6c7dec19-228b-438d-bce1-109e17c178ca",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "nhờ",
+      "translation": {
+        "en": "I want to ask you for help."
+      },
+      "answer": "nhờ",
+      "sentence": "Tôi muốn ___ bạn giúp tôi.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "ask"
+      }
+    },
+    "updatedAt": "2025-03-12T14:31:37.010Z"
+  },
+  "definition": "ask for help",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "en": "to ask someone for help or a favor",
+      "vi": "nhờ ai đó giúp đỡ hoặc làm một việc gì đó",
+      "es": "pedir ayuda o un favor a alguien"
+    },
+    "createdAt": "2025-01-28T12:07:21.012Z",
+    "example": {
+      "es": "Te pido que me ayudes con mi tarea.",
+      "en": "I ask you to help me with my homework.",
+      "vi": "Tôi nhờ bạn giúp tôi với bài tập."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "pedir ayuda",
+      "vi": "nhờ",
+      "en": "ask for help"
+    }
+  },
+  "notes_md": "**nhờ** = to ask someone for help or a favor. It’s softer and more polite than just saying “ask” (hỏi).\n\nYou use it when you want someone to do something for you.  \n\nOften followed by verbs like *giúp, làm, giải thích, mang, đưa*.  \nClose to **xin** (ask for), but *nhờ* feels more like you’re depending on the person’s help, not just requesting something.",
+  "exampleSentences": [
+    "Em có thể nhờ anh mang dùm cái túi này được không?",
+    "Chị nhờ bạn cùng lớp giải thích bài tập về nhà hôm qua.",
+    "Anh thường nhờ bạn bè giúp đỡ khi gặp khó khăn ở công ty."
+  ],
+  "choices": [
+    "nhờ",
+    "mời",
+    "gửi"
+  ],
+  "notes": "nhờ = to ask someone for help or a favor. It’s softer and more polite than just saying “ask” (hỏi).\n\nYou use it when you want someone to do something for you.  \n\nOften followed by verbs like giúp, làm, giải thích, mang, đưa.  \nClose to xin (ask for), but nhờ feels more like you’re depending on the person’s help, not just requesting something.",
+  "rank": 579,
+  "exampleSentencesTranslated": [
+    "Can I ask for help from you to carry this bag?",
+    "She ask for help from her classmate to explain the homework yesterday.",
+    "He often ask for help from friends when he has difficulties at work."
+  ],
+  "word": "nhờ",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "nhờ",
+      "choices": [
+        "nhờ",
+        "mời",
+        "hỏi"
+      ],
+      "hint": "n___",
+      "answer": "nhờ",
+      "translation": {
+        "en": "I will ask you for one thing."
+      },
+      "sentence": "Tôi sẽ ___ bạn một điều.",
+      "translatedAnswer": {
+        "en": "ask"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:31:37.010Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:31:37.010Z",
+    "id": "9946571e-2b13-4284-a22c-f7e6ec4d0393"
+  },
+  "updatedAt": "2026-03-03T07:20:07.853Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Q6OqSEsBD5Ljgy0jUz3U"
+}

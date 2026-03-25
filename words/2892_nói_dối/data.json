@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:13:07.688Z",
+    "createdAt": "2025-03-12T14:13:07.688Z",
+    "id": "a0c20e23-def7-4e46-afd1-530a7d2afd41",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "nói dối",
+      "sentence": "Người đó thường ___ với tôi.",
+      "translation": {
+        "en": "That person often lies to me."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "lies"
+      },
+      "answer": "nói dối"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "definition": "lie",
+  "choices": [
+    "nói thật",
+    "nói dối",
+    "nói nhỏ"
+  ],
+  "updatedAt": "2026-03-03T18:09:40.576Z",
+  "exampleSentencesTranslated": [
+    "You should not lie to your mom about your test scores at school.",
+    "He felt very bad when he had to lie to his close friend.",
+    "She promised that she would not lie anymore in conversations."
+  ],
+  "notes": "nói dối = to lie, to say something that isn’t true on purpose. It’s about giving false information, not just making a mistake.\n\nIt’s a verb. You usually use it with a person or a topic: nói dối ai, nói dối với ai, nói dối về điều gì.\n\nStrong memory links: nói thật (tell the truth) = opposite; nói láo = similar but more rude/childish.\n\nIt often carries a moral feeling — breaking trust, feeling guilty, or being dishonest.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nói dối** = to lie, to say something that isn’t true on purpose. It’s about giving false information, not just making a mistake.\n\nIt’s a verb. You usually use it with a person or a topic: nói dối ai, nói dối với ai, nói dối về điều gì.\n\n\nStrong memory links: **nói thật** (tell the truth) = opposite; **nói láo** = similar but more rude/childish.\n\nIt often carries a moral feeling — breaking trust, feeling guilty, or being dishonest.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:13:07.688Z",
+    "updatedAt": "2025-03-12T14:13:07.688Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Người đó thường ___ với tôi.",
+      "hint": "n___i",
+      "word": "nói dối",
+      "language": "vi",
+      "choices": [
+        "nói thật",
+        "nói dối",
+        "nói vui"
+      ],
+      "translation": {
+        "en": "That person often lies to me."
+      },
+      "answer": "nói dối",
+      "translatedAnswer": {
+        "en": "lies"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "2986769c-387a-4637-9d3e-c5cb263abdb8"
+  },
+  "word": "nói dối",
+  "flashcard": {
+    "example": {
+      "en": "He often lies about his job.",
+      "es": "Él a menudo miente sobre su trabajo.",
+      "vi": "Anh ấy thường nói dối về công việc của mình."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Nói một cách sai sự thật hoặc nói dối.",
+      "es": "Hablar falsamente o decir una mentira.",
+      "en": "To speak falsely or to tell an untruth."
+    },
+    "translations": {
+      "en": "to lie",
+      "vi": "nói dối",
+      "es": "mentir"
+    },
+    "createdAt": "2025-01-28T11:50:15.195Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em không nên nói dối mẹ về điểm kiểm tra ở trường.",
+    "Anh ấy cảm thấy rất tệ khi phải nói dối bạn thân của mình.",
+    "Chị đã hứa sẽ không nói dối nữa trong các cuộc trò chuyện."
+  ],
+  "rank": 2892,
+  "_id": "LOhnQCnAPxMDhDUlckPi"
+}

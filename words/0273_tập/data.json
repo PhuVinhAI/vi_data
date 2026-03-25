@@ -1,0 +1,99 @@
+{
+  "rank": 273,
+  "flashcard": {
+    "example": {
+      "en": "I usually exercise in the morning.",
+      "es": "Normalmente hago ejercicio por la mañana.",
+      "vi": "Tôi thường tập thể dục vào buổi sáng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "to practice or train, especially in a physical activity.",
+      "vi": "thực hành hoặc rèn luyện, đặc biệt là trong một hoạt động thể chất.",
+      "es": "practicar o entrenar, especialmente en una actividad física."
+    },
+    "translations": {
+      "en": "to practice",
+      "es": "practicar",
+      "vi": "tập"
+    },
+    "createdAt": "2025-01-28T11:46:04.959Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em cần tập nói tiếng Việt mỗi ngày để tiến bộ nhanh hơn.",
+    "Anh thường tập thể dục vào buổi sáng ở công viên gần nhà.",
+    "Chị ấy thích tập vẽ tranh vào cuối tuần cùng bạn bè."
+  ],
+  "notes_md": "**tập** usually means **to practice** — to repeat something so you get better at it.  \n\nIt’s a verb: you often use **tập + verb** or **tập + activity noun**.  \n\nIt can also be a **noun** meaning a **volume/episode** of a book or TV series (một tập phim, tập 1).  \n\nClose synonym: **luyện** (more focused, serious practice).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tập",
+  "multiChoiceQuiz": {
+    "id": "9e72896f-dafc-4ca5-8bba-1baf0477a56c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "practice"
+      },
+      "answer": "tập",
+      "hint": "t__",
+      "word": "tập",
+      "sentence": "Tôi muốn ___ thể thao mỗi ngày.",
+      "translation": {
+        "en": "I want to practice sports every day."
+      },
+      "language": "vi",
+      "choices": [
+        "học",
+        "tập",
+        "nghỉ"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:08:45.329Z",
+    "createdAt": "2025-03-12T14:08:45.329Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "practice",
+  "fillBlankQuiz": {
+    "id": "12641515-eb97-41b1-899b-927e9995e10b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I need to practice this exercise."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "tập",
+      "sentence": "Tôi cần ___ bài này.",
+      "translatedAnswer": {
+        "en": "practice"
+      },
+      "answer": "tập"
+    },
+    "updatedAt": "2025-03-12T14:08:45.329Z",
+    "createdAt": "2025-03-12T14:08:45.329Z"
+  },
+  "notes": "tập usually means to practice — to repeat something so you get better at it.  \n\nIt’s a verb: you often use tập + verb or tập + activity noun.  \n\nIt can also be a noun meaning a volume/episode of a book or TV series (một tập phim, tập 1).  \n\nClose synonym: luyện (more focused, serious practice).",
+  "exampleSentencesTranslated": [
+    "You need to practice Vietnamese every day to improve faster.",
+    "He usually practice in the morning at the park near his house.",
+    "She likes to practice on weekends with her friends."
+  ],
+  "updatedAt": "2026-03-03T06:48:39.338Z",
+  "choices": [
+    "tập",
+    "chơi",
+    "ngủ"
+  ],
+  "_id": "KejZIGmNGiBI8jNAbjrk"
+}

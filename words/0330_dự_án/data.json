@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "dự án",
+    "kế hoạch",
+    "báo cáo"
+  ],
+  "updatedAt": "2026-03-03T06:55:20.843Z",
+  "exampleSentences": [
+    "Chị đã hoàn thành dự án mới ở công ty tuần trước.",
+    "Anh muốn tham gia vào dự án phát triển phần mềm này không?",
+    "Nhóm của em đang chuẩn bị kế hoạch cho dự án lớn sắp tới."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "project"
+      },
+      "translation": {
+        "en": "We have completed this project."
+      },
+      "answer": "dự án",
+      "choices": [
+        "kế hoạch",
+        "dự án",
+        "chiến lược"
+      ],
+      "language": "vi",
+      "word": "dự án",
+      "hint": "d___n",
+      "sentence": "Chúng tôi đã hoàn thành ___ này."
+    },
+    "updatedAt": "2025-03-12T16:43:16.041Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:43:16.041Z",
+    "id": "30e1f6ba-56de-4ac4-a723-5dbebdc3c56a"
+  },
+  "word": "dự án",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She finished the new project at the company last week.",
+    "Do you want to join this software development project?",
+    "My team is preparing a plan for the upcoming big project."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Una empresa o proyecto planificado.",
+      "en": "A planned undertaking or project.",
+      "vi": "Một công việc hoặc dự án đã được lên kế hoạch."
+    },
+    "example": {
+      "vi": "Chúng tôi đang thực hiện một dự án mới.",
+      "es": "Estamos trabajando en un nuevo proyecto.",
+      "en": "We are working on a new project."
+    },
+    "translations": {
+      "vi": "dự án",
+      "en": "project",
+      "es": "proyecto"
+    },
+    "createdAt": "2025-01-28T14:14:21.404Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Dự án means project — usually a planned piece of work that takes time, people, and money to complete (business, school, construction, tech, etc.).\n\nIt’s a countable noun: một dự án, hai dự án. Common verbs: làm / thực hiện / triển khai / hoàn thành / đầu tư vào dự án. Often followed by a field with về or a describing noun: dự án về giáo dục, dự án xây dựng, dự án công nghệ.\n\nClose word: đề án = a more formal proposal or plan on paper (less about execution, more about planning).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Dự án** means *project* — usually a planned piece of work that takes time, people, and money to complete (business, school, construction, tech, etc.).\n\nIt’s a countable noun: *một dự án, hai dự án*. Common verbs: **làm / thực hiện / triển khai / hoàn thành / đầu tư vào dự án**. Often followed by a field with **về** or a describing noun: *dự án về giáo dục, dự án xây dựng, dự án công nghệ*.\n\nClose word: **đề án** = a more formal proposal or plan on paper (less about execution, more about planning).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:43:16.041Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "fd496360-9cd9-43bf-97ea-53071ef1fd95",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "answer": "dự án",
+      "translation": {
+        "en": "I am working on a new project."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "project"
+      },
+      "sentence": "Tôi đang làm ___ mới.",
+      "word": "dự án"
+    },
+    "updatedAt": "2025-03-12T16:43:16.041Z"
+  },
+  "definition": "project",
+  "rank": 330,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "xQz0WmOyR0BIXZssKAXR"
+}

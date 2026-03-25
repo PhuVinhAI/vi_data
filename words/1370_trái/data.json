@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em thích ăn một trái táo vào buổi sáng.",
+    "Anh có thể mua cho chị một trái cam không?",
+    "Trong vườn nhà bà có nhiều trái chín vào mùa hè."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:52:17.290Z",
+    "definitions": {
+      "vi": "Phần ăn được ngọt hoặc chua của một cây có chứa hạt.",
+      "es": "Una parte comestible dulce o ácida de una planta que contiene semillas.",
+      "en": "A sweet or sour edible part of a plant that contains seeds."
+    },
+    "translations": {
+      "es": "fruta",
+      "vi": "trái",
+      "en": "fruit"
+    },
+    "example": {
+      "vi": "Tôi thích ăn trái cây.",
+      "es": "Me gusta comer fruta.",
+      "en": "I like to eat fruit."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 1370,
+  "updatedAt": "2026-03-03T08:42:22.704Z",
+  "choices": [
+    "trái",
+    "xe",
+    "bàn"
+  ],
+  "exampleSentencesTranslated": [
+    "I like to eat a fruit apple in the morning.",
+    "Can you buy a fruit orange for me?",
+    "There are many ripe fruit in grandma's garden in the summer."
+  ],
+  "notes": "Trái usually means fruit. It’s a noun and also works like a classifier for round fruits (một trái xoài, hai trái chuối).\n\nIn many cases, trái = quả — they’re interchangeable for fruits, but trái sounds a bit more Southern and natural in everyday speech.\n\nVery common extra meanings: trái = left (opposite of phải = right), and trái = opposite/wrong in words like trái ý (against someone’s wishes).\n\nPay attention to context — if it’s about food or trees, it’s fruit; if it’s about direction or agreement, it probably means left or opposite.",
+  "fillBlankQuiz": {
+    "id": "6895d82d-6bd7-4fe5-a73d-82e0eadfdafc",
+    "content": {
+      "translation": {
+        "en": "I like to eat fruit."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "trái",
+      "sentence": "Tôi thích ăn ___ cây.",
+      "translatedAnswer": {
+        "en": "fruit"
+      },
+      "answer": "trái"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:15:15.514Z",
+    "createdAt": "2025-03-12T14:15:15.514Z"
+  },
+  "definition": "fruit",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trái",
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "trái",
+      "translatedAnswer": {
+        "en": "fruit"
+      },
+      "sentence": "Tôi thích ăn ___ cây.",
+      "hint": "t____",
+      "word": "trái",
+      "language": "vi",
+      "choices": [
+        "trái",
+        "rau",
+        "thịt"
+      ],
+      "translation": {
+        "en": "I like to eat fruit."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "51ea0422-7fa5-4e13-8000-07b73f8b50cd",
+    "createdAt": "2025-03-12T14:15:15.514Z",
+    "updatedAt": "2025-03-12T14:15:15.514Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Trái** usually means **fruit**. It’s a noun and also works like a classifier for round fruits (một trái xoài, hai trái chuối).\n\nIn many cases, **trái = quả** — they’re interchangeable for fruits, but *trái* sounds a bit more Southern and natural in everyday speech.\n\nVery common extra meanings: **trái** = *left* (opposite of phải = right), and **trái** = *opposite/wrong* in words like *trái ý* (against someone’s wishes).\n\nPay attention to context — if it’s about food or trees, it’s fruit; if it’s about direction or agreement, it probably means left or opposite.",
+  "_id": "LtY9HG69TyyAPkcP6Otq"
+}

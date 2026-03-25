@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Mùa hè là thời gian tôi thích nhất trong năm.",
+      "es": "El verano es mi época favorita del año.",
+      "en": "Summer is my favorite time of the year."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:55:16.917Z",
+    "definitions": {
+      "en": "The warmest season of the year, typically associated with vacation and outdoor activities.",
+      "es": "La estación más cálida del año, típicamente asociada con vacaciones y actividades al aire libre.",
+      "vi": "Mùa ấm nhất trong năm, thường liên quan đến kỳ nghỉ và các hoạt động ngoài trời."
+    },
+    "translations": {
+      "en": "summer",
+      "vi": "hè",
+      "es": "verano"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Mùa hè này, anh sẽ đi du lịch cùng gia đình.",
+    "Em rất thích ăn kem vào mùa hè khi trời nóng.",
+    "Chị thường đọc sách ngoài sân vào buổi chiều hè."
+  ],
+  "rank": 2779,
+  "definition": "summer",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:18:51.361Z",
+    "updatedAt": "2025-03-12T14:18:51.361Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "This summer is very beautiful."
+      },
+      "sentence": "Mùa ___ năm nay rất đẹp.",
+      "word": "hè",
+      "answer": "hè",
+      "translatedAnswer": {
+        "en": "summer"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "16993381-08f0-4b70-aa5a-7f5ead2c544c"
+  },
+  "notes": "hè = summer. The hot season of the year.\n\nIn Vietnamese, you usually say mùa hè (not just hè alone in most cases). It’s one of the four seasons: mùa xuân, mùa hè, mùa thu, mùa đông.  \n\nIt often goes with words about heat, sun, holidays, school break.  \n\nOpposite to remember: mùa đông (winter).",
+  "exampleSentencesTranslated": [
+    "This summer, I will travel with my family.",
+    "I really like to eat ice cream in the summer when it is hot.",
+    "She usually reads books in the yard in the summer afternoons."
+  ],
+  "updatedAt": "2026-03-03T17:29:44.270Z",
+  "choices": [
+    "hè",
+    "đông",
+    "thu"
+  ],
+  "notes_md": "**hè** = summer. The hot season of the year.\n\nIn Vietnamese, you usually say **mùa hè** (not just *hè* alone in most cases). It’s one of the four seasons: **mùa xuân, mùa hè, mùa thu, mùa đông**.  \n\nIt often goes with words about heat, sun, holidays, school break.  \n\nOpposite to remember: **mùa đông** (winter).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hè",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:18:51.361Z",
+    "createdAt": "2025-03-12T14:18:51.361Z",
+    "id": "06636d61-b3c3-4ad9-a492-d888fbbdb3c0",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "summer"
+      },
+      "answer": "hè",
+      "word": "hè",
+      "hint": "h__",
+      "sentence": "Mùa ___ năm nay rất đẹp.",
+      "translation": {
+        "en": "This summer is very beautiful."
+      },
+      "language": "vi",
+      "choices": [
+        "mùa đông",
+        "mùa xuân",
+        "hè"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "MluSDv3RBBC29yeBJ4EB"
+}

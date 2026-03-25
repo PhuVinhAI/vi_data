@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T18:15:20.271Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "03195591-6144-4c75-b2d7-d7f703ce8479",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "băng",
+      "sentence": "Tôi cần một miếng ___ để làm bánh.",
+      "translatedAnswer": {
+        "en": "ice"
+      },
+      "language": "vi",
+      "word": "băng",
+      "choices": [],
+      "translation": {
+        "en": "I need a piece of ice to make the cake."
+      }
+    },
+    "createdAt": "2025-03-12T12:56:07.177Z",
+    "updatedAt": "2025-03-12T12:56:07.177Z"
+  },
+  "notes_md": "**băng** usually means **ice** — frozen water. It’s an uncountable noun, but you can count pieces with words like *cục băng* (chunk of ice); in drinks, people often say *đá* instead.\n\nVery common verb meaning: **to cross quickly or directly**, often roads, fields, or rivers.\n\n\nOther everyday meanings: **bandage** (medical wrap), **tape** (like sticky tape), and **band** (music group). Context makes it clear which one.\n\nSynonym tip: for ice in drinks, *đá* is more natural in the South; *băng* feels more like natural ice (lakes, weather).",
+  "exampleSentencesTranslated": [
+    "Can you add more ice to the drink?",
+    "It's so cold, the lake is covered with ice.",
+    "I slipped because there was a lot of ice on the road."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "băng",
+  "choices": [
+    "băng",
+    "bánh",
+    "bán"
+  ],
+  "notes": "băng usually means ice — frozen water. It’s an uncountable noun, but you can count pieces with words like cục băng (chunk of ice); in drinks, people often say đá instead.\n\nVery common verb meaning: to cross quickly or directly, often roads, fields, or rivers.\n\nOther everyday meanings: bandage (medical wrap), tape (like sticky tape), and band (music group). Context makes it clear which one.\n\nSynonym tip: for ice in drinks, đá is more natural in the South; băng feels more like natural ice (lakes, weather).",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã mua một cuộn băng mới.",
+      "en": "I bought a new tape.",
+      "es": "Compré una cinta nueva."
+    },
+    "translations": {
+      "vi": "băng",
+      "en": "tape",
+      "es": "cinta"
+    },
+    "createdAt": "2025-01-28T10:39:32.826Z",
+    "definitions": {
+      "es": "Una tira de material utilizada para unir o cubrir algo.",
+      "en": "A strip of material used for binding or covering something.",
+      "vi": "Một dải vật liệu được sử dụng để buộc hoặc che phủ một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "ice",
+  "rank": 2946,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể cho thêm băng vào nước uống không?",
+    "Trời lạnh quá, mặt hồ đã phủ đầy băng.",
+    "Em trượt chân vì trên đường có nhiều băng."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:56:07.177Z",
+    "updatedAt": "2025-03-12T12:56:07.177Z",
+    "id": "1b9cadf5-431c-40f3-89bd-e4962176cd2b",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Mùa hè, tôi thích ăn ___.",
+      "answer": "băng",
+      "translation": {
+        "en": "In the summer, I like to eat ice."
+      },
+      "choices": [
+        "bánh",
+        "băng",
+        "sữa"
+      ],
+      "hint": "b__g",
+      "word": "băng",
+      "translatedAnswer": {
+        "en": "ice"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "1mITP9LjSDjqw5cAsllW"
+}

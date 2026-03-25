@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "oh",
+      "vi": "ồ",
+      "es": "oh"
+    },
+    "createdAt": "2025-01-28T13:55:43.095Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "An expression of surprise or realization.",
+      "es": "Una expresión de sorpresa o realización.",
+      "vi": "Một biểu hiện của sự ngạc nhiên hoặc nhận ra."
+    },
+    "example": {
+      "es": "¡Oh, qué sorpresa!",
+      "vi": "Ồ, thật bất ngờ!",
+      "en": "Oh, what a surprise!"
+    }
+  },
+  "definition": "oh",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:25:17.998Z",
+    "type": "fillBlankQuiz",
+    "id": "70a5a218-c6bf-484f-a8d5-fbb9926eb56d",
+    "content": {
+      "word": "ồ",
+      "language": "vi",
+      "sentence": "Ồ, tôi vừa thấy ___ điều thú vị.",
+      "choices": [],
+      "answer": "ồ",
+      "translation": {
+        "en": "Oh, I just saw an interesting thing."
+      },
+      "translatedAnswer": {
+        "en": "oh"
+      }
+    },
+    "createdAt": "2025-03-12T13:25:17.998Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Oh, I didn't know you came so early today.",
+    "Oh, I just received good news from my family.",
+    "Oh, I thought we didn't have to go to school today."
+  ],
+  "exampleSentences": [
+    "Ồ, anh không biết hôm nay em đến sớm như vậy đâu.",
+    "Ồ, chị vừa mới nhận được tin vui từ gia đình.",
+    "Ồ, em tưởng hôm nay chúng ta không phải đi học."
+  ],
+  "updatedAt": "2026-03-03T10:10:47.174Z",
+  "notes": "Ồ = “oh.” It shows surprise, sudden realization, or noticing something.\n\nIt’s an interjection, usually at the beginning of a sentence, followed by a comma in writing. You say it when you just understood something or didn’t expect it.\n\nSofter and more neutral than ôi (which sounds more emotional or dramatic). Sometimes close to à when you suddenly get it, but à feels more like “ah, I see,” while ồ feels more like “oh, really?”",
+  "rank": 2199,
+  "choices": [
+    "ồ",
+    "à",
+    "ừ"
+  ],
+  "notes_md": "**Ồ** = “oh.” It shows surprise, sudden realization, or noticing something.\n\nIt’s an interjection, usually at the beginning of a sentence, followed by a comma in writing. You say it when you just understood something or didn’t expect it.\n\nSofter and more neutral than **ôi** (which sounds more emotional or dramatic). Sometimes close to **à** when you suddenly get it, but **à** feels more like “ah, I see,” while **ồ** feels more like “oh, really?”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "7b0ce8be-b201-45e8-a9fa-6263466c396a",
+    "content": {
+      "hint": "ồ___ồ",
+      "answer": "ồ",
+      "translation": {
+        "en": "Oh, I just saw an interesting thing."
+      },
+      "translatedAnswer": {
+        "en": "oh"
+      },
+      "word": "ồ",
+      "sentence": "Ồ, tôi vừa thấy ___ điều thú vị.",
+      "language": "vi",
+      "choices": [
+        "ồ",
+        "ồs",
+        "Ồ"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:25:17.998Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:25:17.998Z"
+  },
+  "word": "ồ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9n0M3qu6zDu6ziriN0wM"
+}

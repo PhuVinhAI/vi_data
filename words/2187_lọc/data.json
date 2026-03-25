@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "To separate or remove impurities from a liquid.",
+      "vi": "Tách rời hoặc loại bỏ tạp chất khỏi một chất lỏng.",
+      "es": "Separar o eliminar impurezas de un líquido."
+    },
+    "example": {
+      "es": "Necesito filtrar el agua antes de beber.",
+      "vi": "Tôi cần lọc nước trước khi uống.",
+      "en": "I need to filter the water before drinking."
+    },
+    "translations": {
+      "en": "filter",
+      "vi": "lọc",
+      "es": "filtrar"
+    },
+    "createdAt": "2025-01-28T11:05:18.878Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "filter",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:24:45.842Z",
+    "id": "da62a661-8302-4a1f-8e36-cc0b74e6456b",
+    "createdAt": "2025-03-12T13:24:45.842Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "lọc",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ nước trước khi uống.",
+      "translation": {
+        "en": "We need to filter the water before drinking."
+      },
+      "translatedAnswer": {
+        "en": "filter"
+      },
+      "answer": "lọc"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I need to buy a new filter for the water machine at home.",
+    "I usually use a filter for coffee every morning before going to work.",
+    "Can you help me change the filter in the air conditioner?"
+  ],
+  "exampleSentences": [
+    "Anh cần mua một cái lọc mới cho máy nước ở nhà.",
+    "Em thường dùng lọc cà phê mỗi sáng trước khi đi làm.",
+    "Chị có thể giúp anh thay lọc trong máy lạnh được không?"
+  ],
+  "updatedAt": "2026-03-03T10:09:24.339Z",
+  "notes": "lọc = to filter, or a filter (the thing that removes dirt, impurities, etc.). Most often it’s used as a verb: to separate out what you don’t want.\n\nAs a verb, it’s used with liquids, air, information, or data — you’re removing unwanted parts.  \n\nAs a noun, it refers to the device or layer that does the filtering, and often goes with classifiers like cái (cái lọc).  \n\nClose synonym: lọc ra (emphasizes the result — filtering something out).",
+  "rank": 2187,
+  "choices": [
+    "lọc",
+    "bếp",
+    "chảo"
+  ],
+  "notes_md": "**lọc** = to filter, or a filter (the thing that removes dirt, impurities, etc.). Most often it’s used as a verb: to separate out what you don’t want.\n\nAs a **verb**, it’s used with liquids, air, information, or data — you’re removing unwanted parts.  \n\nAs a **noun**, it refers to the device or layer that does the filtering, and often goes with classifiers like *cái* (cái lọc).  \n\nClose synonym: **lọc ra** (emphasizes the result — filtering something out).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "367cec12-85ee-4f24-83e1-8b33f0c0e3c2",
+    "content": {
+      "choices": [
+        "lọc",
+        "pha",
+        "trộn"
+      ],
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ nước trước khi uống.",
+      "word": "lọc",
+      "translatedAnswer": {
+        "en": "filter"
+      },
+      "translation": {
+        "en": "We need to filter the water before drinking."
+      },
+      "hint": "l__",
+      "answer": "lọc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:24:45.842Z",
+    "updatedAt": "2025-03-12T13:24:45.842Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lọc",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9htcIu2ykIS4zm2ONCAm"
+}

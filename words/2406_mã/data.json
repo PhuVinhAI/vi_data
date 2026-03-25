@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:45:31.793Z",
+    "translations": {
+      "es": "código",
+      "vi": "mã",
+      "en": "code"
+    },
+    "definitions": {
+      "vi": "Một mã hoặc ký hiệu được sử dụng để nhận diện.",
+      "es": "Un código o símbolo utilizado para la identificación.",
+      "en": "A code or symbol used for identification."
+    },
+    "example": {
+      "en": "This code is very important.",
+      "es": "Este código es muy importante.",
+      "vi": "Mã số này rất quan trọng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh có thể gửi cho em mã để đăng nhập vào hệ thống không?",
+    "Nếu em quên mã, em sẽ không vào được tài khoản của mình đâu.",
+    "Chị cần nhập đúng mã để xác nhận giao dịch ngân hàng này."
+  ],
+  "rank": 2406,
+  "fillBlankQuiz": {
+    "id": "b0fce959-901b-4154-b2e9-b37c0caa664c",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "mã",
+      "sentence": "Anh ấy yêu cầu một ___ mới.",
+      "translation": {
+        "en": "He requested a new code."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "code"
+      },
+      "answer": "mã"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T17:18:06.831Z",
+    "createdAt": "2025-03-12T17:18:06.831Z"
+  },
+  "definition": "code",
+  "choices": [
+    "mã",
+    "máy",
+    "mắt"
+  ],
+  "updatedAt": "2026-03-03T10:32:11.131Z",
+  "exampleSentencesTranslated": [
+    "Can you send me the code to log into the system?",
+    "If you forget the code, you will not be able to access your account.",
+    "You need to enter the correct code to confirm this bank transaction."
+  ],
+  "notes": "mã = code (a set of numbers/letters used to identify or unlock something). Think passwords, PINs, promo codes.\n\nIt’s a noun. Often used in fixed pairs: mã số (ID number), mã PIN, mã QR, mã vạch (barcode), mã giảm giá (discount code).  \nYou usually don’t need a classifier; just say mã này, mã đó. If you count more specifically, it’s often một mã số.\n\nClose synonym: mã số (more specific = “ID number”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mã** = code (a set of numbers/letters used to identify or unlock something). Think passwords, PINs, promo codes.\n\nIt’s a noun. Often used in fixed pairs: **mã số** (ID number), **mã PIN**, **mã QR**, **mã vạch** (barcode), **mã giảm giá** (discount code).  \nYou usually don’t need a classifier; just say *mã này*, *mã đó*. If you count more specifically, it’s often **một mã số**.\n\nClose synonym: **mã số** (more specific = “ID number”).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "4a6ce7ba-23af-4787-b9ee-65b1c6831725",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "code"
+      },
+      "answer": "mã",
+      "translation": {
+        "en": "Enter the code in the blank."
+      },
+      "language": "vi",
+      "choices": [
+        "mã",
+        "sách",
+        "bàn"
+      ],
+      "hint": "m___",
+      "word": "mã",
+      "sentence": "Nhập ___ vào ô trống."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T17:18:06.831Z",
+    "createdAt": "2025-03-12T17:18:06.831Z"
+  },
+  "word": "mã",
+  "_id": "KVm4Zuwr0yApDjLJ9j3s"
+}

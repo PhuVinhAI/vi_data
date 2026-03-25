@@ -1,0 +1,99 @@
+{
+  "word": "di chuyển",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Di chuyển** = to move, to change position or location. It’s used for people, vehicles, or objects going from one place to another.\n\nYou can use it with people or things: di chuyển cơ thể, di chuyển xe, di chuyển bàn ghế. For destinations, add **đến + place** or **từ A đến B**.\n\n\nIt’s more neutral/formal than **đi** (go). **Dịch chuyển** is similar but sounds more technical (like physics or formal writing).",
+  "rank": 1436,
+  "choices": [
+    "dừng lại",
+    "di chuyển",
+    "nghỉ ngơi"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "di chuyển",
+      "sentence": "Họ muốn ___ nhanh hơn.",
+      "language": "vi",
+      "choices": [
+        "đi bộ",
+        "di chuyển",
+        "lái xe"
+      ],
+      "answer": "di chuyển",
+      "hint": "d___n",
+      "translation": {
+        "en": "They want to move faster."
+      },
+      "translatedAnswer": {
+        "en": "move"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:14:41.919Z",
+    "id": "e1d9d865-7945-4180-a081-448db04def06",
+    "updatedAt": "2025-03-12T13:14:41.919Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:49:25.528Z",
+  "exampleSentences": [
+    "Khi trời mưa lớn, anh nên di chuyển cẩn thận trên đường.",
+    "Chị muốn di chuyển đến thành phố khác để tìm việc làm mới.",
+    "Em cần di chuyển xe máy ra khỏi cổng cho bố vào nhà."
+  ],
+  "notes": "Di chuyển = to move, to change position or location. It’s used for people, vehicles, or objects going from one place to another.\n\nYou can use it with people or things: di chuyển cơ thể, di chuyển xe, di chuyển bàn ghế. For destinations, add đến + place or từ A đến B.\n\nIt’s more neutral/formal than đi (go). Dịch chuyển is similar but sounds more technical (like physics or formal writing).",
+  "flashcard": {
+    "example": {
+      "en": "I need to move to school.",
+      "vi": "Tôi cần di chuyển đến trường.",
+      "es": "Necesito moverme a la escuela."
+    },
+    "definitions": {
+      "en": "To move or to transfer from one place to another.",
+      "vi": "Di chuyển hoặc chuyển từ nơi này sang nơi khác.",
+      "es": "Moverse o trasladarse de un lugar a otro."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:55:32.635Z",
+    "translations": {
+      "vi": "di chuyển",
+      "es": "moverse",
+      "en": "to move"
+    }
+  },
+  "definition": "move",
+  "exampleSentencesTranslated": [
+    "When it rains heavily, you should move carefully on the road.",
+    "She wants to move to another city to find a new job.",
+    "You need to move the motorbike out of the gate so Dad can enter the house."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:14:41.919Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "move"
+      },
+      "translation": {
+        "en": "We need to move to school."
+      },
+      "answer": "di chuyển",
+      "choices": [],
+      "sentence": "Chúng ta cần ___ đến trường.",
+      "language": "vi",
+      "word": "di chuyển"
+    },
+    "id": "7f1e0329-1019-4d7d-b0c6-f7f3abd9425e",
+    "updatedAt": "2025-03-12T13:14:41.919Z"
+  },
+  "_id": "6maQWX7qp4fxm2gNqWmw"
+}

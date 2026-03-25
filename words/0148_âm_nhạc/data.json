@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "We will listen to music at the party."
+      },
+      "word": "âm nhạc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "music"
+      },
+      "answer": "âm nhạc",
+      "sentence": "Chúng ta sẽ nghe ___ trong buổi tiệc.",
+      "choices": [
+        "âm nhạc",
+        "tiếng ồn",
+        "giọng hát"
+      ],
+      "hint": "â__ n____"
+    },
+    "id": "9eb25a0e-ee33-411c-b13c-f9534426a5a7",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:54:10.510Z",
+    "updatedAt": "2025-03-12T15:54:10.510Z"
+  },
+  "notes_md": "**Âm nhạc** means *music* in general — the art of sounds, songs, instruments, rhythm. It’s an uncountable noun, so you don’t use classifiers with it.\n\nCommon verbs: **nghe âm nhạc** (listen to music), **học âm nhạc** (study music), **yêu/thích âm nhạc** (love/like music). For specific types, say **thể loại âm nhạc** (music genre).\n\nIf you mean one specific song, use **bài hát**, not *âm nhạc*. Think: *âm nhạc* = music as a whole idea.",
+  "exampleSentencesTranslated": [
+    "I like to listen to music when studying at night.",
+    "I want to find a music class to learn to play guitar.",
+    "She often listens to music when jogging every morning."
+  ],
+  "updatedAt": "2026-03-03T06:35:16.033Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "music"
+    },
+    "example": {
+      "vi": "Tôi thích nghe âm nhạc khi học bài.",
+      "en": "I like to listen to music when studying."
+    },
+    "word": "âm nhạc",
+    "createdAt": "2025-05-24T16:32:11.595Z",
+    "definitions": {
+      "vi": "Hình thức nghệ thuật sử dụng âm thanh để biểu đạt cảm xúc và ý tưởng.",
+      "en": "An art form that uses sound to express emotions and ideas."
+    }
+  },
+  "word": "âm nhạc",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2999db72-55eb-42fe-ad92-3e7a272e44da",
+    "content": {
+      "sentence": "Tôi thích nghe ___ vào buổi tối.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "music"
+      },
+      "answer": "âm nhạc",
+      "language": "vi",
+      "translation": {
+        "en": "I like listening to music in the evening."
+      },
+      "word": "âm nhạc"
+    },
+    "updatedAt": "2025-03-12T15:54:10.510Z",
+    "createdAt": "2025-03-12T15:54:10.510Z"
+  },
+  "choices": [
+    "âm nhạc",
+    "thể thao",
+    "phim ảnh"
+  ],
+  "exampleSentences": [
+    "Em thích nghe âm nhạc khi học bài vào buổi tối.",
+    "Anh muốn tìm một lớp học âm nhạc để học chơi guitar.",
+    "Chị thường nghe âm nhạc khi chạy bộ vào mỗi sáng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Âm nhạc means music in general — the art of sounds, songs, instruments, rhythm. It’s an uncountable noun, so you don’t use classifiers with it.\n\nCommon verbs: nghe âm nhạc (listen to music), học âm nhạc (study music), yêu/thích âm nhạc (love/like music). For specific types, say thể loại âm nhạc (music genre).\n\nIf you mean one specific song, use bài hát, not âm nhạc. Think: âm nhạc = music as a whole idea.",
+  "definition": "music",
+  "rank": 148,
+  "_id": "kWxYNTn8z2ywwFycfTmc"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "As a result; therefore.",
+      "vi": "Kết quả là; vì vậy.",
+      "es": "Como resultado; por lo tanto."
+    },
+    "example": {
+      "en": "I studied hard, so I passed the exam.",
+      "vi": "Tôi đã học chăm chỉ, thành ra tôi đã thi đỗ.",
+      "es": "Estudié mucho, así que aprobé el examen."
+    },
+    "translations": {
+      "vi": "thành ra",
+      "es": "por lo tanto",
+      "en": "therefore"
+    },
+    "createdAt": "2025-01-28T13:09:08.527Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "so",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:34:44.939Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:44.939Z",
+    "content": {
+      "word": "thành ra",
+      "language": "vi",
+      "sentence": "Tôi đi học muộn, ___ tôi không kịp giờ.",
+      "choices": [],
+      "answer": "thành ra",
+      "translation": {
+        "en": "I arrived late for school, so I was not on time."
+      },
+      "translatedAnswer": {
+        "en": "so"
+      }
+    },
+    "id": "5adb36a8-5151-4861-a8c6-30051665f7d6"
+  },
+  "exampleSentencesTranslated": [
+    "It rained heavily, so I couldn't go to work today.",
+    "I forgot to bring an umbrella, so my clothes got completely wet.",
+    "She didn't eat breakfast, so she was very hungry at noon."
+  ],
+  "updatedAt": "2026-03-03T08:54:44.643Z",
+  "exampleSentences": [
+    "Trời mưa lớn, thành ra anh không đi làm được hôm nay.",
+    "Em quên mang ô, thành ra bị ướt hết quần áo.",
+    "Chị không ăn sáng, thành ra rất đói vào buổi trưa."
+  ],
+  "notes": "thành ra = so / as a result / therefore. It shows a result that naturally follows from what was said before.\n\nIt links two clauses, and the second clause is the outcome. It feels slightly conversational, often used in spoken explanations.\n\nVery close to nên and vì vậy. Compared to nên, thành ra sounds a bit more like “and that’s why / which led to.”",
+  "notes_md": "**thành ra** = *so / as a result / therefore*. It shows a result that naturally follows from what was said before.\n\nIt links two clauses, and the second clause is the outcome. It feels slightly conversational, often used in spoken explanations.\n\n\nVery close to **nên** and **vì vậy**. Compared to *nên*, **thành ra** sounds a bit more like “and that’s why / which led to.”",
+  "rank": 1485,
+  "choices": [
+    "vì thế",
+    "thành ra",
+    "do đó"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "thành ra",
+      "hint": "t___ ra",
+      "translation": {
+        "en": "I didn't study, so I got a low grade."
+      },
+      "translatedAnswer": {
+        "en": "so"
+      },
+      "word": "thành ra",
+      "sentence": "Tôi không học bài, ___ tôi bị điểm thấp.",
+      "language": "vi",
+      "choices": [
+        "bởi vì",
+        "thành ra",
+        "vì vậy"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:34:44.939Z",
+    "id": "adac5d80-9730-4f82-b902-322d9f4bf216",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:34:44.939Z"
+  },
+  "word": "thành ra",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "fz2Kog82rOGmp397z5Me"
+}

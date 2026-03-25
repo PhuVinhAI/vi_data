@@ -1,0 +1,99 @@
+{
+  "rank": 638,
+  "definition": "education",
+  "notes": "giáo dục = education. It’s about schooling, learning, and the whole system that helps people gain knowledge and skills.\n\nIt’s usually uncountable, like English “education” (ngành giáo dục, hệ thống giáo dục, chính sách giáo dục). You’ll often see it with adjectives: giáo dục công, giáo dục tư, giáo dục đại học.\n\nIt can also be a verb in formal contexts, meaning “to educate” or “to teach someone values/behavior.”  \n\nClose words: đào tạo (training, more practical/job-focused), học vấn (someone’s level of education).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cho rằng giáo dục là rất quan trọng đối với sự phát triển của trẻ em.",
+    "Chị muốn tìm hiểu thêm về hệ thống giáo dục ở Việt Nam.",
+    "Nhiều người tin rằng giáo dục giúp mở ra nhiều cơ hội mới trong cuộc sống."
+  ],
+  "choices": [
+    "giáo dục",
+    "khám phá",
+    "thể thao"
+  ],
+  "fillBlankQuiz": {
+    "id": "e0ee0fde-d24d-46a5-8661-36a691216bbf",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "Teachers teach education to students."
+      },
+      "word": "giáo dục",
+      "language": "vi",
+      "answer": "giáo dục",
+      "translatedAnswer": {
+        "en": "education"
+      },
+      "choices": [],
+      "sentence": "Giáo viên dạy ___ cho học sinh."
+    },
+    "updatedAt": "2025-03-12T15:42:49.399Z",
+    "createdAt": "2025-03-12T15:42:49.399Z"
+  },
+  "word": "giáo dục",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "educación",
+      "en": "education",
+      "vi": "giáo dục"
+    },
+    "example": {
+      "vi": "Giáo dục là rất quan trọng cho sự phát triển của trẻ em.",
+      "en": "Education is very important for the development of children.",
+      "es": "La educación es muy importante para el desarrollo de los niños."
+    },
+    "definitions": {
+      "en": "The process of receiving or giving systematic instruction, especially at a school.",
+      "es": "El proceso de recibir o dar instrucción sistemática, especialmente en una escuela.",
+      "vi": "Quá trình nhận hoặc cung cấp sự chỉ dẫn có hệ thống, đặc biệt là tại một trường học."
+    },
+    "createdAt": "2025-01-28T13:15:47.386Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T07:25:42.123Z",
+  "exampleSentencesTranslated": [
+    "I think education is very important for children's development.",
+    "I want to learn more about the education system in Vietnam.",
+    "Many people believe that education opens up many new opportunities in life."
+  ],
+  "notes_md": "**giáo dục** = education. It’s about schooling, learning, and the whole system that helps people gain knowledge and skills.\n\nIt’s usually uncountable, like English “education” (ngành giáo dục, hệ thống giáo dục, chính sách giáo dục). You’ll often see it with adjectives: giáo dục công, giáo dục tư, giáo dục đại học.\n\nIt can also be a **verb** in formal contexts, meaning “to educate” or “to teach someone values/behavior.”  \n\nClose words: **đào tạo** (training, more practical/job-focused), **học vấn** (someone’s level of education).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:42:49.399Z",
+    "createdAt": "2025-03-12T15:42:49.399Z",
+    "id": "3c53d384-f579-4682-930e-9b2e30c1532a",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "Teachers teach education to students."
+      },
+      "word": "giáo dục",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "education"
+      },
+      "answer": "giáo dục",
+      "choices": [
+        "giáo dục",
+        "khoa học",
+        "nghệ thuật"
+      ],
+      "sentence": "Giáo viên dạy ___ cho học sinh.",
+      "hint": "g___c"
+    }
+  },
+  "_id": "hqNeupR9Oo6qeJGNa5oV"
+}

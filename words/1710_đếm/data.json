@@ -1,0 +1,99 @@
+{
+  "rank": 1710,
+  "flashcard": {
+    "example": {
+      "en": "I am counting the number of books on the shelf.",
+      "es": "Estoy contando la cantidad de libros en la estantería.",
+      "vi": "Tôi đang đếm số lượng sách trên kệ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "contar",
+      "vi": "đếm",
+      "en": "count"
+    },
+    "definitions": {
+      "en": "To determine the total number of items in a set.",
+      "es": "Determinar el número total de elementos en un conjunto.",
+      "vi": "Xác định tổng số lượng của một tập hợp."
+    },
+    "createdAt": "2025-01-28T11:49:25.269Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có thể đếm bao nhiêu ngón tay trên bàn tay này không?",
+    "Anh đếm lại tiền thừa giúp em trước khi về nhé.",
+    "Chị đang dạy bé đếm từ một đến mười bằng tiếng Việt."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đếm** = to count (numbers or quantity).\n\nYou use it when you say numbers in order or check how many something there are. It goes directly before the thing you’re counting: objects, money, people, days, etc.  \n\n\nIt’s about listing one by one; for “calculate,” Vietnamese usually uses **tính**, not đếm. You’ll also hear **đếm số** when focusing on counting numbers specifically.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đếm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:12:18.496Z",
+    "updatedAt": "2025-03-12T14:12:18.496Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We need to count the number of participants."
+      },
+      "language": "vi",
+      "choices": [
+        "đếm",
+        "thêm",
+        "bỏ"
+      ],
+      "hint": "đ___",
+      "word": "đếm",
+      "sentence": "Chúng ta cần ___ số người tham gia.",
+      "translatedAnswer": {
+        "en": "count"
+      },
+      "answer": "đếm"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "60997982-da80-4d3e-ba4a-976b49ae6c07"
+  },
+  "fillBlankQuiz": {
+    "id": "895cad5f-41d8-4e35-bd2f-d61601bb752a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "đếm",
+      "sentence": "Tôi sẽ ___ số sách này.",
+      "translation": {
+        "en": "I will count the number of books."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "count"
+      },
+      "answer": "đếm"
+    },
+    "updatedAt": "2025-03-12T14:12:18.496Z",
+    "createdAt": "2025-03-12T14:12:18.496Z"
+  },
+  "definition": "count",
+  "updatedAt": "2026-03-03T09:19:04.906Z",
+  "choices": [
+    "đếm",
+    "nếm",
+    "đem"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you count how many fingers are on this hand?",
+    "Please count the change again for me before you leave.",
+    "She is teaching the child to count from one to ten in Vietnamese."
+  ],
+  "notes": "đếm = to count (numbers or quantity).\n\nYou use it when you say numbers in order or check how many something there are. It goes directly before the thing you’re counting: objects, money, people, days, etc.  \n\nIt’s about listing one by one; for “calculate,” Vietnamese usually uses tính, not đếm. You’ll also hear đếm số when focusing on counting numbers specifically.",
+  "_id": "LGUl7zQ3760LeOPwKNfj"
+}

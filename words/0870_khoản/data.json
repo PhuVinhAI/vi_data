@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:51:54.328Z",
+    "definitions": {
+      "en": "A specific item or category, often related to expenses or agreements.",
+      "vi": "Một mục hoặc danh mục cụ thể, thường liên quan đến chi phí hoặc thỏa thuận.",
+      "es": "Un concepto o categoría específica, a menudo relacionada con gastos o acuerdos."
+    },
+    "translations": {
+      "vi": "khoản",
+      "es": "concepto",
+      "en": "item"
+    },
+    "example": {
+      "en": "I need to check this expense item.",
+      "vi": "Tôi cần kiểm tra khoản chi tiêu này.",
+      "es": "Necesito revisar este concepto de gasto."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cần kiểm tra lại khoản tiền trong tài khoản ngân hàng của mình.",
+    "Chị đã chi một khoản lớn để mua chiếc xe mới.",
+    "Em muốn hỏi về khoản phí khi đăng ký lớp học này."
+  ],
+  "rank": 870,
+  "definition": "amount",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "khoản",
+      "sentence": "Tôi cần một ___ cho dự án này.",
+      "translation": {
+        "en": "I need a budget for this project."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "budget"
+      },
+      "answer": "khoản"
+    },
+    "id": "1b42562a-c4ef-465d-b5b0-0296ea7d10d5",
+    "createdAt": "2025-03-12T14:14:51.745Z",
+    "updatedAt": "2025-03-12T14:14:51.745Z"
+  },
+  "notes": "khoản means an amount of money, or a specific financial item (like a sum, fee, debt, payment). It’s used when talking about money as a chunk, not just money in general.\n\nIt’s a countable noun: một khoản, hai khoản… Often followed by money-related words like tiền, phí, nợ, vay, thu nhập.  \n\nIt focuses on the idea of a defined sum, similar to “a sum of” in English. Close words: số tiền (amount of money, more neutral), but khoản sounds more formal and financial.",
+  "exampleSentencesTranslated": [
+    "I need to check the amount of money in my bank account.",
+    "She spent a large amount to buy the new car.",
+    "I want to ask about the amount of fees when registering for this class."
+  ],
+  "updatedAt": "2026-03-03T07:49:01.906Z",
+  "choices": [
+    "khoản",
+    "bảng",
+    "phiếu"
+  ],
+  "notes_md": "**khoản** means an *amount* of money, or a specific financial item (like a sum, fee, debt, payment). It’s used when talking about money as a chunk, not just money in general.\n\nIt’s a countable noun: *một khoản, hai khoản…* Often followed by money-related words like *tiền, phí, nợ, vay, thu nhập*.  \n\n\nIt focuses on the idea of a defined sum, similar to “a sum of” in English. Close words: *số tiền* (amount of money, more neutral), but *khoản* sounds more formal and financial.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "khoản",
+  "multiChoiceQuiz": {
+    "id": "e3362c71-faee-4984-b00b-af9f4cb020dc",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "budget"
+      },
+      "answer": "khoản",
+      "translation": {
+        "en": "I need a budget for this project."
+      },
+      "language": "vi",
+      "choices": [
+        "khoản",
+        "chi phí",
+        "ngân sách"
+      ],
+      "hint": "k____n",
+      "word": "khoản",
+      "sentence": "Tôi cần một ___ cho dự án này."
+    },
+    "updatedAt": "2025-03-12T14:14:51.745Z",
+    "createdAt": "2025-03-12T14:14:51.745Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Lnedbf2hB3Nar9MZYgX0"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Cảnh sát đã bắt người đàn ông vì cố gắng giết người khác.",
+    "Nếu anh giết con vật này, anh phải chịu trách nhiệm cho hành động của mình.",
+    "Trong phim đó, nhân vật chính không muốn giết ai cả."
+  ],
+  "choices": [
+    "giết",
+    "giặt",
+    "giết mổ"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I do not want to kill an animal."
+      },
+      "word": "giết",
+      "choices": [],
+      "sentence": "Tôi không muốn ___ một con vật.",
+      "translatedAnswer": {
+        "en": "kill"
+      },
+      "answer": "giết"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "77e6516c-57b3-4aaf-9d87-7288adc0cd60",
+    "createdAt": "2025-03-12T15:53:46.897Z",
+    "updatedAt": "2025-03-12T15:53:46.897Z"
+  },
+  "rank": 1866,
+  "definition": "kill",
+  "notes": "giết = to kill, to cause someone or an animal to die.\n\nIt’s a strong verb, used for people and animals, and often appears in serious contexts (crime, war, violence). It can also be used metaphorically, like “giết thời gian” (to kill time).\n\nStronger/more formal synonym: sát hại (usually for murder). Opposite: cứu (to save).",
+  "notes_md": "**giết** = to kill, to cause someone or an animal to die.\n\nIt’s a strong verb, used for people and animals, and often appears in serious contexts (crime, war, violence). It can also be used metaphorically, like “giết thời gian” (to kill time).\n\n\nStronger/more formal synonym: **sát hại** (usually for murder). Opposite: **cứu** (to save).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Họ quyết định ___ con rắn.",
+      "choices": [
+        "bắt",
+        "giết",
+        "thả"
+      ],
+      "hint": "g___",
+      "translatedAnswer": {
+        "en": "kill"
+      },
+      "answer": "giết",
+      "translation": {
+        "en": "They decided to kill the snake."
+      },
+      "word": "giết",
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "93a095a2-443f-456f-b892-d2c3f176d4bd",
+    "createdAt": "2025-03-12T15:53:46.897Z",
+    "updatedAt": "2025-03-12T15:53:46.897Z"
+  },
+  "word": "giết",
+  "flashcard": {
+    "translations": {
+      "en": "kill",
+      "es": "matar",
+      "vi": "giết"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Ellos mataron a la serpiente.",
+      "en": "They killed the snake.",
+      "vi": "Họ đã giết con rắn."
+    },
+    "definitions": {
+      "vi": "Gây ra cái chết cho một sinh vật sống.",
+      "en": "To cause the death of a living being.",
+      "es": "Causar la muerte de un ser vivo."
+    },
+    "createdAt": "2025-01-28T13:25:55.934Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:35:32.176Z",
+  "exampleSentencesTranslated": [
+    "The police arrested the man for trying to kill another person.",
+    "If you kill this animal, you must take responsibility for your actions.",
+    "In that movie, the main character does not want to kill anyone."
+  ],
+  "_id": "kR1bkOE5TwdsoRb0rww5"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I broke the cup you just bought by accident yesterday.",
+    "I was late to the meeting this morning by accident because I overslept.",
+    "Sorry, I forgot to bring the important documents by accident."
+  ],
+  "rank": 1519,
+  "word": "lỡ",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:33:19.101Z",
+    "id": "c35fabd0-0aa4-415e-900e-b5feeacecb98",
+    "content": {
+      "sentence": "Tôi đã ___ chuyến xe buýt.",
+      "translatedAnswer": {
+        "en": "missed"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I missed the bus."
+      },
+      "answer": "lỡ",
+      "hint": "l___",
+      "word": "lỡ",
+      "choices": [
+        "thời gian",
+        "lỡ",
+        "cơ hội"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:33:19.101Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:58:37.665Z",
+  "choices": [
+    "lỡ",
+    "lâu",
+    "lạ"
+  ],
+  "notes": "lỡ = by accident, unintentionally. It’s used when something bad or inconvenient happened and you didn’t mean it.\n\nIt usually comes before a verb: lỡ + V (lỡ làm, lỡ quên, lỡ nói). It often carries a slight feeling of regret.\n\nIt can also mean “too late” or “missed the chance” depending on context (lỡ rồi = it’s already too late).\n\nClose words: vô tình (unintentionally, more neutral), trót (did something wrong and regret it — stronger guilt).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "perdido",
+      "vi": "lỡ",
+      "en": "missed"
+    },
+    "definitions": {
+      "es": "Perder o no alcanzar algo.",
+      "vi": "Bỏ lỡ hoặc không bắt kịp cái gì đó.",
+      "en": "To miss or to fail to catch something."
+    },
+    "createdAt": "2025-01-28T12:08:57.719Z",
+    "example": {
+      "es": "Perdí el autobús.",
+      "vi": "Tôi đã lỡ chuyến xe buýt.",
+      "en": "I missed the bus."
+    }
+  },
+  "exampleSentences": [
+    "Em lỡ làm vỡ chiếc cốc mẹ mới mua hôm qua.",
+    "Anh lỡ ngủ quên nên đến muộn buổi họp sáng nay.",
+    "Chị xin lỗi vì lỡ quên mang theo tài liệu quan trọng."
+  ],
+  "notes_md": "**lỡ** = by accident, unintentionally. It’s used when something bad or inconvenient happened and you didn’t mean it.\n\nIt usually comes before a verb: *lỡ + V* (lỡ làm, lỡ quên, lỡ nói). It often carries a slight feeling of regret.\n\nIt can also mean “too late” or “missed the chance” depending on context (lỡ rồi = it’s already too late).\n\nClose words: **vô tình** (unintentionally, more neutral), **trót** (did something wrong and regret it — stronger guilt).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:33:19.101Z",
+    "content": {
+      "translation": {
+        "en": "I missed the bus."
+      },
+      "answer": "lỡ",
+      "choices": [],
+      "word": "lỡ",
+      "translatedAnswer": {
+        "en": "missed"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã ___ chuyến xe buýt."
+    },
+    "id": "f18fd619-843c-4f0a-bd5f-6a5901efbca1",
+    "createdAt": "2025-03-12T14:33:19.101Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "by accident",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "QVz7MdMrMEt9Ecogd1Fe"
+}

@@ -1,0 +1,98 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:05:56.672Z",
+    "updatedAt": "2025-03-12T13:05:56.672Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "ví",
+      "sentence": "Tôi không biết để ___ ở đâu.",
+      "translatedAnswer": {
+        "en": "wallet"
+      },
+      "language": "vi",
+      "word": "ví",
+      "translation": {
+        "en": "I don't know where to put my wallet."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "2e28fd29-0630-4c54-b13f-5fdcec1888c6"
+  },
+  "updatedAt": "2026-03-03T09:49:30.745Z",
+  "exampleSentencesTranslated": [
+    "I forgot to bring my wallet when shopping with my friend yesterday.",
+    "Can you put the keys in your wallet?",
+    "She usually checks her wallet before leaving the house every morning."
+  ],
+  "notes_md": "**ví** means *wallet* — the small thing you keep money, cards, and ID in. It’s a noun; use the classifier **cái** → **cái ví**, and common pairings like **ví tiền** (money wallet) or **ví da** (leather wallet).  \n\nYou’ll often hear it with verbs like **mở ví** (open your wallet), **rút tiền từ ví** (take money out), or **mang theo ví** (bring your wallet).  \n\nIt also has a very common second meaning: **ví** = *to compare*.  \n\nTo remember: think “ví = value holder” for the noun, and “ví như = like / as if” for comparisons.",
+  "choices": [
+    "ví",
+    "bút",
+    "túi"
+  ],
+  "notes": "ví means wallet — the small thing you keep money, cards, and ID in. It’s a noun; use the classifier cái → cái ví, and common pairings like ví tiền (money wallet) or ví da (leather wallet).  \n\nYou’ll often hear it with verbs like mở ví (open your wallet), rút tiền từ ví (take money out), or mang theo ví (bring your wallet).  \n\nIt also has a very common second meaning: ví = to compare.  \n\nTo remember: think “ví = value holder” for the noun, and “ví như = like / as if” for comparisons.",
+  "word": "ví",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:05:56.672Z",
+    "updatedAt": "2025-03-12T13:05:56.672Z",
+    "content": {
+      "answer": "ví",
+      "sentence": "Tôi không biết để ___ ở đâu.",
+      "word": "ví",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "wallet"
+      },
+      "hint": "v__",
+      "translation": {
+        "en": "I don't know where to put my wallet."
+      },
+      "choices": [
+        "túi",
+        "ví",
+        "balo"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "8ef07555-fe6e-4dc8-ba4c-29770d27a52b",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em quên mang ví khi đi mua sắm cùng bạn hôm qua.",
+    "Anh có thể để chìa khóa trong ví của mình không?",
+    "Chị thường kiểm tra ví trước khi ra khỏi nhà mỗi sáng."
+  ],
+  "rank": 1997,
+  "definition": "wallet",
+  "flashcard": {
+    "example": {
+      "es": "¿Dónde puse mi billetera?",
+      "vi": "Tôi để ví ở đâu rồi nhỉ?",
+      "en": "Where did I put my wallet?"
+    },
+    "translations": {
+      "es": "billetera",
+      "vi": "ví",
+      "en": "wallet"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un pequeño estuche para llevar dinero, tarjetas de crédito y otros objetos personales.",
+      "vi": "Một chiếc hộp nhỏ để mang tiền, thẻ tín dụng và các vật dụng cá nhân khác.",
+      "en": "A small case for carrying money, credit cards, and other personal items."
+    },
+    "createdAt": "2025-01-28T10:47:52.874Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "4cL7UQH4UbpzXzDHC5HK"
+}

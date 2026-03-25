@@ -1,0 +1,99 @@
+{
+  "definition": "potential",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:13:03.777Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "potencial",
+      "vi": "tiềm năng",
+      "en": "potential"
+    },
+    "example": {
+      "vi": "Cô ấy có tiềm năng trở thành một nghệ sĩ xuất sắc.",
+      "es": "Ella tiene el potencial de convertirse en una excelente artista.",
+      "en": "She has the potential to become an excellent artist."
+    },
+    "definitions": {
+      "es": "La capacidad o habilidad inherente para el crecimiento, desarrollo o éxito futuro.",
+      "vi": "Khả năng hoặc năng lực vốn có để phát triển, tiến bộ hoặc thành công trong tương lai.",
+      "en": "The inherent ability or capacity for growth, development, or future success."
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:24.058Z",
+    "content": {
+      "choices": [],
+      "sentence": "Chúng ta cần phát triển ___ của mình.",
+      "language": "vi",
+      "word": "tiềm năng",
+      "translatedAnswer": {
+        "en": "potential"
+      },
+      "translation": {
+        "en": "We need to develop our potential."
+      },
+      "answer": "tiềm năng"
+    },
+    "id": "b9c1af75-d57f-47cc-a4bb-19108317b567",
+    "updatedAt": "2025-03-12T13:33:24.058Z"
+  },
+  "exampleSentencesTranslated": [
+    "He is an employee with potential to develop in the company.",
+    "I think this market has a lot of potential for long-term investment.",
+    "You should try harder to reach your full potential."
+  ],
+  "updatedAt": "2026-03-03T08:18:14.055Z",
+  "exampleSentences": [
+    "Anh ấy là một nhân viên có tiềm năng phát triển trong công ty.",
+    "Chị thấy thị trường này có nhiều tiềm năng để đầu tư lâu dài.",
+    "Em nên cố gắng hơn để phát huy hết tiềm năng của mình."
+  ],
+  "notes": "tiềm năng = potential — the ability or possibility to develop or succeed in the future.\n\nIt’s an uncountable noun, so you don’t use classifiers or plural forms. Often used with có (to have) or nhiều/lớn to describe how much potential something has.\n\nClose to khả năng (ability), but khả năng is more about current ability; tiềm năng is about future growth.",
+  "notes_md": "**tiềm năng** = potential — the ability or possibility to develop or succeed in the future.\n\nIt’s an uncountable noun, so you don’t use classifiers or plural forms. Often used with **có** (to have) or **nhiều/lớn** to describe how much potential something has.\n\n\nClose to **khả năng** (ability), but *khả năng* is more about current ability; *tiềm năng* is about future growth.",
+  "choices": [
+    "tiềm năng",
+    "khả năng",
+    "kỹ năng"
+  ],
+  "rank": 1151,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "khả năng",
+        "tiềm năng",
+        "năng lực"
+      ],
+      "word": "tiềm năng",
+      "language": "vi",
+      "sentence": "Họ có ___ trong lĩnh vực này.",
+      "translation": {
+        "en": "They have potential in this field."
+      },
+      "translatedAnswer": {
+        "en": "potential"
+      },
+      "hint": "t___n",
+      "answer": "tiềm năng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:24.058Z",
+    "id": "df100d43-e33d-41a0-94ce-d6dca26e1869",
+    "updatedAt": "2025-03-12T13:33:24.058Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tiềm năng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Bj5tYR2RI7j1LkEKAD10"
+}

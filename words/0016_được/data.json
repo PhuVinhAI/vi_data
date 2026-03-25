@@ -1,0 +1,101 @@
+{
+  "exampleSentencesTranslated": [
+    "You can eat this cake.",
+    "You can enter that room.",
+    "You can use this phone."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:34:34.075Z",
+    "content": {
+      "word": "được",
+      "sentence": "Tôi ___ làm bài tập về nhà.",
+      "language": "vi",
+      "choices": [],
+      "answer": "được",
+      "translation": {
+        "en": "I can do the homework."
+      },
+      "translatedAnswer": {
+        "en": "can"
+      }
+    },
+    "id": "20b06f9d-6914-45f7-a837-ed0a7663d122",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:34:34.075Z"
+  },
+  "definition": "can",
+  "flashcard": {
+    "translations": {
+      "en": "to receive; to be allowed; can"
+    },
+    "createdAt": "2025-05-24T16:20:02.213Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "được",
+    "definitions": {
+      "en": "Used to express receiving something, being allowed, or the possibility of something happening.",
+      "vi": "Diễn tả việc đạt được điều gì đó hoặc dùng để chỉ sự cho phép, khả năng xảy ra."
+    },
+    "example": {
+      "en": "I was accepted into the university.",
+      "vi": "Tôi đã được nhận vào trường đại học."
+    }
+  },
+  "notes": "được usually means can / be allowed to — you have permission or the ability to do something.  \n\nIt also means to receive / get something (được quà, được tiền), often with a positive feeling.  \n\nAnother very common use: it marks a passive meaning — “be + past participle” in English.  \n\nMemory tip: được = good outcome / permission, while bị is for negative results.",
+  "updatedAt": "2026-03-03T06:04:33.767Z",
+  "exampleSentences": [
+    "Em được ăn bánh này.",
+    "Anh được vào phòng kia.",
+    "Chị được dùng điện thoại này."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:34:34.075Z",
+    "id": "de5b14f9-64d3-4308-85d6-68df71139630",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:34:34.075Z",
+    "content": {
+      "translation": {
+        "en": "I can go out with my friend."
+      },
+      "translatedAnswer": {
+        "en": "can"
+      },
+      "hint": "d___",
+      "answer": "được",
+      "choices": [
+        "không",
+        "được",
+        "tốt"
+      ],
+      "word": "được",
+      "sentence": "Tôi ___ đi chơi với bạn.",
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**được** usually means **can / be allowed to** — you have permission or the ability to do something.  \n\n\nIt also means **to receive / get** something (được quà, được tiền), often with a positive feeling.  \n\nAnother very common use: it marks a **passive meaning** — “be + past participle” in English.  \n\nMemory tip: **được = good outcome / permission**, while **bị** is for negative results.",
+  "choices": [
+    "nên",
+    "phải",
+    "được"
+  ],
+  "sentenceBreakdowns": [
+    "Em (you) + được (can) + ăn (eat) + bánh (cake) + này (this)",
+    "Anh (you) + được (can) + vào (enter) + phòng (room) + kia (that)",
+    "Chị (you) + được (can) + dùng (use) + điện thoại (phone) + này (this)"
+  ],
+  "rank": 16,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "được",
+  "_id": "C01mNkcN7fYV4Cob9KJH"
+}

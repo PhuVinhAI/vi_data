@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I need to check my credit."
+      },
+      "word": "tín dụng",
+      "language": "vi",
+      "sentence": "Tôi cần kiểm tra ___ của mình.",
+      "choices": [
+        "tín dụng",
+        "thẻ ngân hàng",
+        "vay tiêu dùng"
+      ],
+      "hint": "t___g",
+      "translatedAnswer": {
+        "en": "credit"
+      },
+      "answer": "tín dụng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "bed771a3-fe72-482b-9dbf-3531241e3bab",
+    "createdAt": "2025-03-12T16:02:42.100Z",
+    "updatedAt": "2025-03-12T16:02:42.100Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tín dụng** = credit, especially money you borrow and pay back later (often from a bank).  \n\nIt’s an uncountable noun in general, but you can say *một khoản tín dụng* (a credit amount/loan). Very common pairings: *thẻ tín dụng* (credit card), *lịch sử tín dụng* (credit history), *hạn mức tín dụng* (credit limit).  \n\nIt’s about borrowing power and trust from a financial institution. Close ideas: *vay* (to borrow) and *nợ* (debt) — but *tín dụng* focuses on the system/permission to borrow, not just the money you owe.",
+  "exampleSentencesTranslated": [
+    "I want to open a credit card to shop more easily.",
+    "The bank will check your credit history before lending.",
+    "You should manage your credit carefully to avoid bad debt."
+  ],
+  "updatedAt": "2026-03-03T09:29:02.579Z",
+  "flashcard": {
+    "translations": {
+      "vi": "tín dụng",
+      "en": "credit",
+      "es": "crédito"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Ngân hàng cung cấp tín dụng cho doanh nghiệp.",
+      "es": "El banco ofrece crédito a las empresas.",
+      "en": "The bank provides credit to businesses."
+    },
+    "definitions": {
+      "vi": "Một thỏa thuận tài chính trong đó người vay nhận được một cái gì đó có giá trị và đồng ý hoàn trả cho người cho vay vào một ngày sau đó.",
+      "en": "A financial arrangement in which a borrower receives something of value and agrees to repay the lender at a later date.",
+      "es": "Un acuerdo financiero en el que un prestatario recibe algo de valor y se compromete a reembolsar al prestamista en una fecha posterior."
+    },
+    "createdAt": "2025-01-28T13:34:22.387Z"
+  },
+  "word": "tín dụng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tiết kiệm",
+    "tín dụng",
+    "giao dịch"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:02:42.100Z",
+    "createdAt": "2025-03-12T16:02:42.100Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "39a7d89a-f3a6-4ec9-9d23-009fdf22760f",
+    "content": {
+      "translatedAnswer": {
+        "en": "credit"
+      },
+      "answer": "tín dụng",
+      "choices": [],
+      "sentence": "Tôi cần kiểm tra ___ của mình.",
+      "language": "vi",
+      "word": "tín dụng",
+      "translation": {
+        "en": "I need to check my credit."
+      }
+    }
+  },
+  "exampleSentences": [
+    "Anh muốn mở một thẻ tín dụng để mua sắm dễ dàng hơn.",
+    "Ngân hàng sẽ kiểm tra lịch sử tín dụng của em trước khi cho vay.",
+    "Chị nên quản lý tín dụng cẩn thận để tránh nợ xấu."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "tín dụng = credit, especially money you borrow and pay back later (often from a bank).  \n\nIt’s an uncountable noun in general, but you can say một khoản tín dụng (a credit amount/loan). Very common pairings: thẻ tín dụng (credit card), lịch sử tín dụng (credit history), hạn mức tín dụng (credit limit).  \n\nIt’s about borrowing power and trust from a financial institution. Close ideas: vay (to borrow) and nợ (debt) — but tín dụng focuses on the system/permission to borrow, not just the money you owe.",
+  "definition": "credit",
+  "rank": 1805,
+  "_id": "mpDrNOSjkIU6gfMUANZ2"
+}

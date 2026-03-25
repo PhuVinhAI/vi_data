@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T17:29:14.714Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "béo",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "béo",
+      "en": "fat",
+      "es": "gordo"
+    },
+    "definitions": {
+      "vi": "Có nhiều mỡ trong cơ thể; thừa cân.",
+      "es": "Tener mucho grasa corporal; sobrepeso.",
+      "en": "Having a lot of body fat; overweight."
+    },
+    "createdAt": "2025-01-28T13:22:08.600Z",
+    "example": {
+      "vi": "Con mèo này rất béo.",
+      "en": "This cat is very fat.",
+      "es": "Este gato es muy gordo."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "My cat is very fat because it eats a lot of fish.",
+    "I don't want to eat a lot of sweets because I'm afraid of being fat.",
+    "This kind of milk is not fat so I like to drink it every morning."
+  ],
+  "notes_md": "**Béo** means *fat* or *overweight* for a person or animal. It can also mean *fatty / rich in fat* when talking about food.\n\nIt’s an adjective, so it goes after the noun: Structure: noun + béo (người béo, thịt béo).  \nFor people, it can sound direct or even sensitive, so be careful with tone.  \nFor food, it often describes a rich, oily, or creamy taste.  \n\nOpposite: **gầy** (thin, skinny).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:49:43.194Z",
+    "updatedAt": "2025-03-12T15:49:43.194Z",
+    "content": {
+      "translation": {
+        "en": "This dog is really fat."
+      },
+      "word": "béo",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "fat"
+      },
+      "answer": "béo",
+      "choices": [
+        "gầy",
+        "béo",
+        "nhỏ"
+      ],
+      "sentence": "Con chó này thật ___.",
+      "hint": "b__"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4fa3e9ae-f18a-4130-8fd3-be3576220af2"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2776,
+  "notes": "Béo means fat or overweight for a person or animal. It can also mean fatty / rich in fat when talking about food.\n\nIt’s an adjective, so it goes after the noun: Structure: noun + béo (người béo, thịt béo).  \nFor people, it can sound direct or even sensitive, so be careful with tone.  \nFor food, it often describes a rich, oily, or creamy taste.  \n\nOpposite: gầy (thin, skinny).",
+  "definition": "fat",
+  "exampleSentences": [
+    "Con mèo nhà anh rất béo vì nó ăn nhiều cá.",
+    "Em không muốn ăn nhiều đồ ngọt vì sợ bị béo.",
+    "Loại sữa này không béo nên chị thích uống mỗi sáng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:49:43.194Z",
+    "createdAt": "2025-03-12T15:49:43.194Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e0d7f833-3215-4afd-a926-acc27fdfc778",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "This cat is very fat."
+      },
+      "word": "béo",
+      "choices": [],
+      "sentence": "Con mèo này rất ___.",
+      "answer": "béo",
+      "translatedAnswer": {
+        "en": "fat"
+      }
+    }
+  },
+  "choices": [
+    "béo",
+    "gầy",
+    "cao"
+  ],
+  "_id": "jY1JFK4cUl04luyHw5uX"
+}

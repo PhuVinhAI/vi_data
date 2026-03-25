@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "một mình",
+    "một cách",
+    "một lần"
+  ],
+  "rank": 285,
+  "multiChoiceQuiz": {
+    "id": "f0b0b7c1-9e85-4590-b99a-575138d419f1",
+    "updatedAt": "2025-03-12T14:54:37.798Z",
+    "content": {
+      "translation": {
+        "en": "This way of learning is effective."
+      },
+      "translatedAnswer": {
+        "en": "way"
+      },
+      "choices": [
+        "một cách",
+        "một loại",
+        "một phương"
+      ],
+      "hint": "m___ cách",
+      "answer": "một cách",
+      "word": "một cách",
+      "language": "vi",
+      "sentence": "Cách học này là ___ hiệu quả."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:54:37.798Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "một cách",
+  "notes": "một cách means “in a way” or “in a manner.” It describes how an action is done.\n\nIt usually comes after a verb and before an adjective. You use it to turn an adjective into an adverb-like phrase.\n\nIt’s similar to English “-ly” (carefully, clearly), but Vietnamese doesn’t change the adjective form. In casual speech, people sometimes drop một cách and just use the adjective after the verb if it’s clear.",
+  "exampleSentences": [
+    "Em nên trả lời câu hỏi đó một cách trung thực với giáo viên.",
+    "Anh muốn giải thích vấn đề này một cách rõ ràng cho mọi người hiểu.",
+    "Chị ấy thường làm việc một cách chăm chỉ để đạt kết quả tốt."
+  ],
+  "exampleSentencesTranslated": [
+    "You should answer that question in a way with the teacher.",
+    "I want to explain this problem in a way for everyone to understand.",
+    "She often works in a way to achieve good results."
+  ],
+  "fillBlankQuiz": {
+    "id": "74f43f84-20ff-4c6a-972a-a9c13e6a3881",
+    "content": {
+      "translatedAnswer": {
+        "en": "in a way"
+      },
+      "choices": [],
+      "translation": {
+        "en": "She works in a way to complete the project."
+      },
+      "sentence": "Cô ấy làm việc ___ để hoàn thành dự án.",
+      "word": "một cách",
+      "language": "vi",
+      "answer": "một cách"
+    },
+    "updatedAt": "2025-03-12T14:54:37.798Z",
+    "createdAt": "2025-03-12T14:54:37.798Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:49:54.240Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "In a manner or way.",
+      "es": "De una manera o forma.",
+      "vi": "Theo một cách nào đó."
+    },
+    "createdAt": "2025-01-28T12:27:43.290Z",
+    "example": {
+      "en": "She speaks confidently.",
+      "es": "Ella habla con confianza.",
+      "vi": "Cô ấy nói một cách tự tin."
+    },
+    "translations": {
+      "en": "in a way",
+      "es": "de una manera",
+      "vi": "một cách"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**một cách** means “in a way” or “in a manner.” It describes *how* an action is done.\n\nIt usually comes after a verb and before an adjective. You use it to turn an adjective into an adverb-like phrase.\n\n\nIt’s similar to English “-ly” (carefully, clearly), but Vietnamese doesn’t change the adjective form. In casual speech, people sometimes drop **một cách** and just use the adjective after the verb if it’s clear.",
+  "definition": "in a way",
+  "_id": "VGn53K9MbiIMG6yzIwrd"
+}

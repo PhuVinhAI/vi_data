@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "17c7fc22-f7d1-463a-bffc-8d2180fa15ff",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I feel that it is a mistake."
+      },
+      "answer": "thì ra",
+      "hint": "th___",
+      "choices": [
+        "mà thôi",
+        "thì ra",
+        "không sao"
+      ],
+      "language": "vi",
+      "word": "thì ra",
+      "sentence": "Tôi cảm thấy ___ là một sai lầm.",
+      "translatedAnswer": {
+        "en": "it is"
+      }
+    },
+    "createdAt": "2025-03-12T13:46:01.574Z",
+    "updatedAt": "2025-03-12T13:46:01.574Z"
+  },
+  "notes_md": "**thì ra** = “it turns out” / “so that’s why.” You use it when you suddenly realize the truth or understand the real situation.\n\nIt often comes after you discover new information that explains something surprising. It connects what you thought before with the real explanation.\n\n\nClose in meaning to **hóa ra** (very similar, often interchangeable). Think of it as your “aha!” moment in Vietnamese.",
+  "exampleSentencesTranslated": [
+    "I searched everywhere for my wallet, it turns out it was under the chair.",
+    "I thought you were angry, it turns out you were just busy.",
+    "She heard some noise, it turns out the neighbors were renovating."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "It turns out; it appears that.",
+      "vi": "Thì ra; hóa ra.",
+      "es": "Resulta que; parece que."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "so; it turns out",
+      "vi": "thì ra",
+      "es": "entonces; resulta que"
+    },
+    "createdAt": "2025-01-28T11:24:25.764Z",
+    "example": {
+      "vi": "Thì ra bạn đã biết điều này từ lâu.",
+      "es": "Entonces, sabías esto desde hace mucho tiempo.",
+      "en": "So you knew this for a long time."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:46:01.574Z",
+    "createdAt": "2025-03-12T13:46:01.574Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi ___ đã hiểu vấn đề.",
+      "word": "thì ra",
+      "translatedAnswer": {
+        "en": "have understood"
+      },
+      "translation": {
+        "en": "I have understood the issue."
+      },
+      "answer": "thì ra",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "9b0684e8-69e3-435e-a55a-08f7e6ca50c7"
+  },
+  "notes": "thì ra = “it turns out” / “so that’s why.” You use it when you suddenly realize the truth or understand the real situation.\n\nIt often comes after you discover new information that explains something surprising. It connects what you thought before with the real explanation.\n\nClose in meaning to hóa ra (very similar, often interchangeable). Think of it as your “aha!” moment in Vietnamese.",
+  "updatedAt": "2026-03-03T09:17:04.369Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "it turns out",
+  "word": "thì ra",
+  "exampleSentences": [
+    "Em tìm mãi không thấy ví, thì ra nó nằm dưới ghế.",
+    "Anh cứ tưởng chị giận, thì ra chị chỉ bận thôi.",
+    "Chị nghe nói có tiếng ồn, thì ra là hàng xóm sửa nhà."
+  ],
+  "rank": 1692,
+  "choices": [
+    "tức là",
+    "thì ra",
+    "hoặc là"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "F2jPhr9ZhDGlWcTctPq2"
+}

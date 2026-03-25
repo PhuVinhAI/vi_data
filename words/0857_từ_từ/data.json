@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "từ từ",
+  "multiChoiceQuiz": {
+    "id": "71158e10-f0c9-47a9-99fd-fe327261186a",
+    "content": {
+      "translation": {
+        "en": "Just do the exercise slowly."
+      },
+      "translatedAnswer": {
+        "en": "slowly"
+      },
+      "hint": "t___ t__",
+      "answer": "từ từ",
+      "choices": [
+        "bình tĩnh",
+        "từ từ",
+        "nhanh chóng"
+      ],
+      "word": "từ từ",
+      "sentence": "Hãy làm bài tập ___ thôi.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:28:55.443Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:28:55.443Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Từ từ** means *slowly* or *little by little*. It’s about reducing speed or doing something gently.\n\nIt’s an adverb, so it usually goes before or after a verb to describe how you do something.  \n\nIt can also stand alone as a soft command, like “wait” or “hold on.” In that sense, it’s similar to **khoan**.  \nOpposite idea: **nhanh lên** (hurry up).",
+  "choices": [
+    "nhanh",
+    "từ từ",
+    "mạnh"
+  ],
+  "rank": 857,
+  "notes": "Từ từ means slowly or little by little. It’s about reducing speed or doing something gently.\n\nIt’s an adverb, so it usually goes before or after a verb to describe how you do something.  \n\nIt can also stand alone as a soft command, like “wait” or “hold on.” In that sense, it’s similar to khoan.  \nOpposite idea: nhanh lên (hurry up).",
+  "updatedAt": "2026-03-03T07:47:44.781Z",
+  "exampleSentences": [
+    "Em hãy từ từ ăn để không bị đau bụng nhé.",
+    "Chúng ta nên từ từ giải quyết vấn đề này để tránh sai lầm.",
+    "Anh lái xe từ từ khi trời mưa để đảm bảo an toàn."
+  ],
+  "exampleSentencesTranslated": [
+    "Please eat slowly so you don't get a stomachache.",
+    "We should solve this problem slowly to avoid mistakes.",
+    "He drives slowly when it rains to ensure safety."
+  ],
+  "fillBlankQuiz": {
+    "id": "09383d02-6fd0-449c-a52c-ec0f140e528e",
+    "content": {
+      "translation": {
+        "en": "I talk slowly with you."
+      },
+      "translatedAnswer": {
+        "en": "slowly"
+      },
+      "answer": "từ từ",
+      "choices": [],
+      "word": "từ từ",
+      "sentence": "Tôi nói chuyện ___ với bạn.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T15:28:55.443Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:28:55.443Z"
+  },
+  "definition": "slowly",
+  "flashcard": {
+    "translations": {
+      "es": "despacio",
+      "vi": "từ từ",
+      "en": "slowly"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:03:38.259Z",
+    "definitions": {
+      "en": "Slowly; taking one's time.",
+      "vi": "Chậm rãi; không vội vàng.",
+      "es": "Despacito; tomándose su tiempo."
+    },
+    "example": {
+      "en": "Please do it slowly so you don't make mistakes.",
+      "vi": "Hãy làm từ từ để không bị sai.",
+      "es": "Por favor, hazlo despacio para no cometer errores."
+    }
+  },
+  "_id": "eavWKjIjS91FOSdBovMx"
+}

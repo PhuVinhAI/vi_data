@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "xóa bỏ",
+    "lưu trữ",
+    "chia sẻ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "store",
+  "word": "lưu trữ",
+  "exampleSentences": [
+    "Anh cần một ổ cứng mới để lưu trữ tất cả các bức ảnh.",
+    "Chị thường lưu trữ tài liệu quan trọng trên máy tính của mình.",
+    "Em muốn học cách lưu trữ dữ liệu an toàn hơn trên điện thoại."
+  ],
+  "rank": 2881,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "934c9880-0bba-4b1a-a46a-f1eee4614833",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:47:28.538Z",
+    "createdAt": "2025-03-12T13:47:28.538Z",
+    "content": {
+      "hint": "l___ trữ",
+      "choices": [
+        "đọc",
+        "lưu trữ",
+        "xóa"
+      ],
+      "translation": {
+        "en": "I will store this document."
+      },
+      "answer": "lưu trữ",
+      "translatedAnswer": {
+        "en": "store"
+      },
+      "language": "vi",
+      "word": "lưu trữ",
+      "sentence": "Tôi sẽ ___ tài liệu này."
+    }
+  },
+  "notes_md": "**lưu trữ** = to store or archive something for later use. It’s often used for data, documents, or information, especially in a technical or formal context.\n\nYou usually use it with things like **dữ liệu, thông tin, tài liệu, hồ sơ, hàng hóa**. It sounds more systematic and long-term than just “keeping” something.\n\n\nClose words: **lưu** (save, shorter and very common in tech) and **cất giữ** (physically keep something). Opposite ideas: **xóa** (delete), **hủy** (destroy).",
+  "exampleSentencesTranslated": [
+    "I need a new hard drive to store all the photos.",
+    "She usually uses her computer to store important documents.",
+    "I want to learn how to store data more safely on my phone."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To keep or save something for future use.",
+      "es": "Mantener o guardar algo para uso futuro.",
+      "vi": "Giữ hoặc lưu lại một cái gì đó để sử dụng trong tương lai."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "store",
+      "vi": "lưu trữ",
+      "es": "almacenar"
+    },
+    "createdAt": "2025-01-28T11:25:52.218Z",
+    "example": {
+      "vi": "Tôi cần lưu trữ tài liệu quan trọng.",
+      "es": "Necesito almacenar documentos importantes.",
+      "en": "I need to store important documents."
+    }
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:47:28.538Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi cần ___ thông tin quan trọng.",
+      "word": "lưu trữ",
+      "translatedAnswer": {
+        "en": "store"
+      },
+      "translation": {
+        "en": "I need to store important information."
+      },
+      "answer": "lưu trữ",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:47:28.538Z",
+    "type": "fillBlankQuiz",
+    "id": "3b4ecf78-cf62-4c61-b62e-bd78fb1fbc2f",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "lưu trữ = to store or archive something for later use. It’s often used for data, documents, or information, especially in a technical or formal context.\n\nYou usually use it with things like dữ liệu, thông tin, tài liệu, hồ sơ, hàng hóa. It sounds more systematic and long-term than just “keeping” something.\n\nClose words: lưu (save, shorter and very common in tech) and cất giữ (physically keep something). Opposite ideas: xóa (delete), hủy (destroy).",
+  "updatedAt": "2026-03-03T18:08:20.828Z",
+  "_id": "FFr69JTmHsg3bNzCWXvf"
+}

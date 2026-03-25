@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cảm thấy thiếu tự tin khi nói trước đám đông.",
+      "es": "Me siento falto de confianza al hablar frente a una multitud.",
+      "en": "I feel lacking in confidence when speaking in front of a crowd."
+    },
+    "definitions": {
+      "en": "to lack; to be short of something",
+      "es": "faltar; estar corto de algo",
+      "vi": "thiếu; không đủ cái gì đó"
+    },
+    "createdAt": "2025-01-28T10:58:59.099Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "lack",
+      "es": "falta",
+      "vi": "thiếu"
+    }
+  },
+  "definition": "lack",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:18:31.634Z",
+    "id": "470785dd-7137-4f81-83f7-c75074e1fcd9",
+    "createdAt": "2025-03-12T13:18:31.634Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I feel like I lack time to finish."
+      },
+      "translatedAnswer": {
+        "en": "lack"
+      },
+      "answer": "thiếu",
+      "choices": [],
+      "word": "thiếu",
+      "sentence": "Tôi cảm thấy ___ thời gian để hoàn thành.",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I feel a lack of time to finish my work today.",
+    "This soup has a lack of salt so the flavor isn't strong enough.",
+    "If you have a lack of money, tell me so I can help you."
+  ],
+  "updatedAt": "2026-03-03T07:27:19.705Z",
+  "exampleSentences": [
+    "Anh cảm thấy thiếu thời gian để hoàn thành công việc hôm nay.",
+    "Món canh này hơi thiếu muối nên vị chưa đậm đà lắm.",
+    "Nếu em thiếu tiền, hãy nói với chị để chị giúp đỡ."
+  ],
+  "notes": "thiếu = to lack, to be short of, not enough. It’s used when something is missing or insufficient.\n\nUse thiếu + noun for things like time, money, sleep, experience. It can also describe a situation: something is not enough compared to a need.\n\nStrong opposite: đủ (enough). Stronger form: thiếu thốn = lacking in a more serious, long-term way.",
+  "notes_md": "**thiếu** = to lack, to be short of, not enough. It’s used when something is missing or insufficient.\n\nUse **thiếu + noun** for things like time, money, sleep, experience. It can also describe a situation: something is not enough compared to a need.\n\n\nStrong opposite: **đủ** (enough). Stronger form: **thiếu thốn** = lacking in a more serious, long-term way.",
+  "rank": 655,
+  "choices": [
+    "thừa",
+    "thiếu",
+    "nhiều"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:18:31.634Z",
+    "content": {
+      "choices": [
+        "có",
+        "thiếu",
+        "đủ"
+      ],
+      "word": "thiếu",
+      "sentence": "Họ ___ tài liệu cần thiết để làm việc.",
+      "language": "vi",
+      "translation": {
+        "en": "They lack the necessary documents to work."
+      },
+      "translatedAnswer": {
+        "en": "lack"
+      },
+      "answer": "thiếu",
+      "hint": "t___"
+    },
+    "id": "b823d740-9c00-4c35-84fc-fd1664d6bdef",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:18:31.634Z"
+  },
+  "word": "thiếu",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "7ssiEfSRfhUBMWPrA56C"
+}

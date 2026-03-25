@@ -1,0 +1,98 @@
+{
+  "notes": "tốc độ = speed, how fast something moves or happens.\n\nIt’s a noun. You often use it with verbs like tăng (increase), giảm (decrease), giữ (keep), kiểm soát (control).  \nCommon pattern: tốc độ + của + noun (tốc độ của xe, tốc độ phát triển).  \n\nIt’s also used in abstract situations, not just physical movement: learning speed, work speed, growth speed.  \nStrong opposite to remember: tốc độ chậm (slow speed) vs tốc độ nhanh (fast speed).",
+  "exampleSentences": [
+    "Em có thể giảm tốc độ khi lái xe trong thành phố không?",
+    "Anh ấy thường chạy bộ với tốc độ rất nhanh vào buổi sáng.",
+    "Chị cần kiểm tra tốc độ của mạng internet ở nhà mình."
+  ],
+  "word": "tốc độ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "f7fd04d9-2023-40f8-9e2a-bd2a7879d8ef",
+    "content": {
+      "sentence": "Xe chạy với ___ nhanh.",
+      "hint": "t___ độ",
+      "answer": "tốc độ",
+      "word": "tốc độ",
+      "language": "vi",
+      "choices": [
+        "tốc độ",
+        "độ cao",
+        "khoảng cách"
+      ],
+      "translatedAnswer": {
+        "en": "speed"
+      },
+      "translation": {
+        "en": "The car runs at a fast speed."
+      }
+    },
+    "updatedAt": "2025-03-12T14:59:02.612Z",
+    "createdAt": "2025-03-12T14:59:02.612Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 1570,
+  "choices": [
+    "tốc độ",
+    "thời gian",
+    "khoảng cách"
+  ],
+  "definition": "speed",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tốc độ** = speed, how fast something moves or happens.\n\nIt’s a noun. You often use it with verbs like **tăng** (increase), **giảm** (decrease), **giữ** (keep), **kiểm soát** (control).  \nCommon pattern: **tốc độ + của + noun** (tốc độ của xe, tốc độ phát triển).  \n\nIt’s also used in abstract situations, not just physical movement: learning speed, work speed, growth speed.  \nStrong opposite to remember: **tốc độ chậm** (slow speed) vs **tốc độ nhanh** (fast speed).",
+  "flashcard": {
+    "example": {
+      "en": "This car has a very high speed.",
+      "es": "Este coche tiene una velocidad muy alta.",
+      "vi": "Chiếc xe này có tốc độ rất nhanh."
+    },
+    "translations": {
+      "en": "speed",
+      "es": "velocidad",
+      "vi": "tốc độ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:31:55.133Z",
+    "definitions": {
+      "en": "The rate at which someone or something moves or operates.",
+      "es": "La tasa a la que alguien o algo se mueve o funciona.",
+      "vi": "Tốc độ là tỷ lệ mà một người hoặc một vật di chuyển hoặc hoạt động."
+    }
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "The car runs at a fast speed."
+      },
+      "translatedAnswer": {
+        "en": "speed"
+      },
+      "language": "vi",
+      "word": "tốc độ",
+      "answer": "tốc độ",
+      "sentence": "Xe chạy với ___ nhanh."
+    },
+    "updatedAt": "2025-03-12T14:59:02.612Z",
+    "createdAt": "2025-03-12T14:59:02.612Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e9dff13a-6375-42e1-a2ab-3fd1198f61d9"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:04:12.409Z",
+  "exampleSentencesTranslated": [
+    "Can you reduce your speed when driving in the city?",
+    "He usually jogs at a very fast speed in the morning.",
+    "You need to check the speed of the internet at your house."
+  ],
+  "_id": "WffMKYcn9Nv3BSgkF8YP"
+}

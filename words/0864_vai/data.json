@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:44:04.281Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e262ddef-2241-4d0f-9ea4-89eb7203cc38",
+    "content": {
+      "word": "vai",
+      "sentence": "Tôi cảm thấy đau ở ___.",
+      "translatedAnswer": {
+        "en": "shoulder"
+      },
+      "answer": "vai",
+      "translation": {
+        "en": "I feel pain in my shoulder."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:44:04.281Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 864,
+  "definition": "shoulder",
+  "notes_md": "**vai** = shoulder (the body part between your neck and arm).\n\nIt’s a body-part noun, so you usually say it with a person word: vai tôi, vai anh ấy. No classifier needed in normal speech.  \n\nCommon pairings: đau vai (shoulder pain), nhún vai (shrug), vỗ vai (pat someone on the shoulder), gánh trên vai (carry a burden on one’s shoulders — literal or figurative).  \n\nMetaphorically, *vai* can mean responsibility, like something “resting on your shoulders.”",
+  "notes": "vai = shoulder (the body part between your neck and arm).\n\nIt’s a body-part noun, so you usually say it with a person word: vai tôi, vai anh ấy. No classifier needed in normal speech.  \n\nCommon pairings: đau vai (shoulder pain), nhún vai (shrug), vỗ vai (pat someone on the shoulder), gánh trên vai (carry a burden on one’s shoulders — literal or figurative).  \n\nMetaphorically, vai can mean responsibility, like something “resting on your shoulders.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "hombro",
+      "en": "shoulder",
+      "vi": "vai"
+    },
+    "definitions": {
+      "vi": "Phần cơ thể giữa cổ và cánh tay trên.",
+      "en": "The part of the body between the neck and the upper arm.",
+      "es": "La parte del cuerpo entre el cuello y el brazo superior."
+    },
+    "example": {
+      "es": "Siento dolor en mi hombro.",
+      "en": "I feel pain in my shoulder.",
+      "vi": "Tôi cảm thấy đau ở vai."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:14:55.836Z"
+  },
+  "word": "vai",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you help me massage my shoulder after a tiring workday?",
+    "He has a sore shoulder so he can't lift heavy things today.",
+    "I like to carry my backpack on one shoulder when going to school."
+  ],
+  "multiChoiceQuiz": {
+    "id": "a4a1169c-1a37-4aff-9460-4cd28bb9398e",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:44:04.281Z",
+    "content": {
+      "sentence": "Anh ấy bị thương ở ___.",
+      "hint": "v__",
+      "word": "vai",
+      "language": "vi",
+      "translation": {
+        "en": "He is injured in the shoulder."
+      },
+      "answer": "vai",
+      "choices": [
+        "cánh tay",
+        "vai",
+        "đầu gối"
+      ],
+      "translatedAnswer": {
+        "en": "shoulder"
+      }
+    },
+    "updatedAt": "2025-03-12T16:44:04.281Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Chị có thể giúp em xoa bóp vai sau một ngày làm việc mệt không?",
+    "Anh bị đau vai nên không thể nâng vật nặng hôm nay.",
+    "Em thích khoác balo trên một bên vai khi đi học."
+  ],
+  "updatedAt": "2026-03-03T07:48:31.657Z",
+  "choices": [
+    "vai",
+    "tay",
+    "cổ"
+  ],
+  "_id": "xdZtkPJ8eQCpe2SfCeck"
+}

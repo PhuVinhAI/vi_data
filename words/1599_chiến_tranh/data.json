@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:07:07.746Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "1fdf25fc-2a57-49bd-b114-de9f956205bf",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "chiến tranh",
+      "sentence": "Cuốn sách nói về ___.",
+      "word": "chiến tranh",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "war"
+      },
+      "choices": [],
+      "translation": {
+        "en": "The book talks about war."
+      }
+    },
+    "createdAt": "2025-03-12T13:11:17.049Z",
+    "updatedAt": "2025-03-12T13:11:17.049Z"
+  },
+  "notes_md": "**Chiến tranh** means *war* — a period of armed conflict between countries or groups. It’s a noun.\n\nYou can count it with **cuộc**: *một cuộc chiến tranh*. Very common pairings: **chiến tranh thế giới** (world war), **chiến tranh lạnh** (Cold War), **nội chiến** (civil war).\n\nIt’s more formal/serious than just fighting; for smaller conflicts, people say **trận chiến** (battle). Opposite idea: **hòa bình** (peace).\n\nIt often appears in historical or political contexts, not for personal arguments.",
+  "exampleSentencesTranslated": [
+    "My grandfather often tells stories about memories from the war.",
+    "Many famous movies use the background of war to tell stories.",
+    "After the war, the country had to rebuild from the beginning."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hòa bình",
+    "chiến tranh",
+    "tự do"
+  ],
+  "notes": "Chiến tranh means war — a period of armed conflict between countries or groups. It’s a noun.\n\nYou can count it with cuộc: một cuộc chiến tranh. Very common pairings: chiến tranh thế giới (world war), chiến tranh lạnh (Cold War), nội chiến (civil war).\n\nIt’s more formal/serious than just fighting; for smaller conflicts, people say trận chiến (battle). Opposite idea: hòa bình (peace).\n\nIt often appears in historical or political contexts, not for personal arguments.",
+  "word": "chiến tranh",
+  "rank": 1599,
+  "definition": "war",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Un conflicto entre diferentes países o grupos, a menudo involucrando fuerzas armadas.",
+      "en": "A conflict between different countries or groups, often involving armed forces.",
+      "vi": "Một cuộc xung đột giữa các quốc gia hoặc nhóm khác nhau, thường liên quan đến lực lượng vũ trang."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:52:30.390Z",
+    "example": {
+      "vi": "Chiến tranh đã gây ra nhiều đau thương.",
+      "en": "The war caused a lot of suffering.",
+      "es": "La guerra causó mucho sufrimiento."
+    },
+    "translations": {
+      "en": "war",
+      "vi": "chiến tranh",
+      "es": "guerra"
+    }
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "chiến tranh",
+      "sentence": "Cuốn sách nói về ___.",
+      "word": "chiến tranh",
+      "translatedAnswer": {
+        "en": "war"
+      },
+      "language": "vi",
+      "hint": "c____n",
+      "translation": {
+        "en": "The book talks about war."
+      },
+      "choices": [
+        "hòa bình",
+        "chiến tranh",
+        "xung đột"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "50576a9c-57be-4fd7-b43d-1a2d2bbf2ac0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:11:17.049Z",
+    "updatedAt": "2025-03-12T13:11:17.049Z"
+  },
+  "exampleSentences": [
+    "Ông nội anh thường kể về những kỷ niệm thời chiến tranh.",
+    "Nhiều bộ phim nổi tiếng lấy bối cảnh chiến tranh để kể chuyện.",
+    "Sau chiến tranh, đất nước phải xây dựng lại từ đầu."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "5o4pf3B1Lhqy5K2YDSfu"
+}

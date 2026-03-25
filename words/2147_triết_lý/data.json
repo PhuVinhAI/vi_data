@@ -1,0 +1,99 @@
+{
+  "word": "triết lý",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "triết học",
+    "triết lý",
+    "khoa học"
+  ],
+  "rank": 2147,
+  "notes_md": "**Triết lý** = philosophy; a set of ideas about life, values, or how something should work. It’s more about deep thinking or guiding principles.\n\nIt’s a noun. You can say *một triết lý*, *những triết lý*, and it often goes with words like *triết lý sống*, *triết lý kinh doanh*, *triết lý giáo dục*.  \n\nIt can sound personal (your life philosophy) or more abstract and theoretical.  \n\nClose word: **triết học** = philosophy as an academic subject; **triết lý** feels more like applied ideas or viewpoints.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:26:43.356Z",
+    "content": {
+      "hint": "t___ lý",
+      "answer": "triết lý",
+      "translation": {
+        "en": "He has many interesting philosophies."
+      },
+      "translatedAnswer": {
+        "en": "philosophies"
+      },
+      "word": "triết lý",
+      "language": "vi",
+      "sentence": "Ông ấy có nhiều ___ thú vị.",
+      "choices": [
+        "quan điểm",
+        "triết lý",
+        "ý tưởng"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:43.356Z",
+    "id": "777b8982-7784-4be2-a7db-d94fbc2f8dbf",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh ấy luôn thích đọc sách về triết lý trong thời gian rảnh.",
+    "Chị nghĩ rằng mỗi người nên có triết lý sống riêng cho mình.",
+    "Em thường chia sẻ triết lý của mình với bạn bè khi trò chuyện."
+  ],
+  "updatedAt": "2026-03-03T10:05:02.223Z",
+  "notes": "Triết lý = philosophy; a set of ideas about life, values, or how something should work. It’s more about deep thinking or guiding principles.\n\nIt’s a noun. You can say một triết lý, những triết lý, and it often goes with words like triết lý sống, triết lý kinh doanh, triết lý giáo dục.  \n\nIt can sound personal (your life philosophy) or more abstract and theoretical.  \n\nClose word: triết học = philosophy as an academic subject; triết lý feels more like applied ideas or viewpoints.",
+  "definition": "philosophy",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:01:29.238Z",
+    "translations": {
+      "vi": "triết lý",
+      "es": "filosofía",
+      "en": "philosophy"
+    },
+    "example": {
+      "es": "Mi filosofía de vida es siempre dar lo mejor de mí.",
+      "vi": "Triết lý sống của tôi là luôn cố gắng hết mình.",
+      "en": "My philosophy of life is to always give my best."
+    },
+    "definitions": {
+      "es": "Un conjunto de creencias o principios que guían el comportamiento de alguien.",
+      "vi": "Một tập hợp các niềm tin hoặc nguyên tắc hướng dẫn hành vi của một người.",
+      "en": "A set of beliefs or principles that guide someone's behavior."
+    }
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Tôi đọc về ___ của cuộc đời.",
+      "language": "vi",
+      "word": "triết lý",
+      "translatedAnswer": {
+        "en": "philosophy"
+      },
+      "translation": {
+        "en": "I read about the philosophy of life."
+      },
+      "answer": "triết lý"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:43.356Z",
+    "id": "48424d03-8ffc-416d-bf20-9e858e13446a",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:26:43.356Z"
+  },
+  "exampleSentencesTranslated": [
+    "He always likes to read books about philosophy in his free time.",
+    "She thinks that everyone should have their own philosophy of life.",
+    "I often share my philosophy with friends when chatting."
+  ],
+  "_id": "eEXZ3sUe45LXD4oDb8jD"
+}

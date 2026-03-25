@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:37:20.671Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "tí xíu",
+      "choices": [
+        "một chút",
+        "tí xíu",
+        "không nhiều"
+      ],
+      "hint": "t___xíu",
+      "translation": {
+        "en": "I just need a little food."
+      },
+      "answer": "tí xíu",
+      "sentence": "Tôi chỉ cần ___ đồ ăn.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "a little"
+      }
+    },
+    "updatedAt": "2025-03-12T14:27:43.625Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:27:43.625Z",
+    "id": "ccc46b7b-46ca-41bc-a77d-940d6585761c",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "tí xíu",
+  "exampleSentencesTranslated": [
+    "I just want to eat a little bit more, not much.",
+    "Can you help me a little bit with this homework?",
+    "Please add a little bit of salt to the soup for me, not too much."
+  ],
+  "rank": 1884,
+  "notes": "tí xíu = a tiny bit, a very small amount. It’s softer and cuter than just “a little.”\n\nYou use it to talk about small quantity or degree, often with một in front: một tí xíu. It can go after verbs or before nouns to make things sound small or gentle.\n\nVery close to một chút, chút xíu, tí tẹo — all mean “a little bit,” but tí xíu feels especially small and friendly.",
+  "choices": [
+    "nhiều",
+    "tí xíu",
+    "một lần"
+  ],
+  "notes_md": "**tí xíu** = a tiny bit, a very small amount. It’s softer and cuter than just “a little.”\n\nYou use it to talk about small quantity or degree, often with **một** in front: *một tí xíu*. It can go after verbs or before nouns to make things sound small or gentle.\n\n\nVery close to **một chút**, **chút xíu**, **tí tẹo** — all mean “a little bit,” but *tí xíu* feels especially small and friendly.",
+  "exampleSentences": [
+    "Anh chỉ muốn ăn thêm tí xíu nữa thôi, không nhiều đâu.",
+    "Em có thể giúp anh một tí xíu với bài tập này không?",
+    "Chị cho em muối vào canh một tí xíu nhé, đừng cho nhiều quá."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy chỉ cần một tí xíu đường trong cà phê.",
+      "en": "She only needs a tiny bit of sugar in her coffee.",
+      "es": "Ella solo necesita un poquito de azúcar en su café."
+    },
+    "createdAt": "2025-01-28T12:03:56.678Z",
+    "definitions": {
+      "es": "Una cantidad muy pequeña; un poquito.",
+      "vi": "Một lượng rất nhỏ; một tí xíu.",
+      "en": "A very small amount; a tiny bit."
+    },
+    "translations": {
+      "en": "a tiny bit",
+      "vi": "tí xíu",
+      "es": "un poquito"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "a little bit",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "03e8a8fd-c1c5-43d8-868b-a507b35c4a3a",
+    "createdAt": "2025-03-12T14:27:43.625Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "tí xíu",
+      "translation": {
+        "en": "I just need a little food."
+      },
+      "answer": "tí xíu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "a little"
+      },
+      "sentence": "Tôi chỉ cần ___ đồ ăn."
+    },
+    "updatedAt": "2025-03-12T14:27:43.625Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "P0jWZOO3t4CR5lUv7DoP"
+}

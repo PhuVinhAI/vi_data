@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đọc",
+    "viết",
+    "nghe"
+  ],
+  "rank": 225,
+  "multiChoiceQuiz": {
+    "id": "294a61f1-0c01-42c6-93e6-ae7bc2547f42",
+    "content": {
+      "sentence": "Tôi thích ___ sách vào buổi tối.",
+      "language": "vi",
+      "word": "đọc",
+      "hint": "đ___",
+      "answer": "đọc",
+      "translatedAnswer": {
+        "en": "read"
+      },
+      "choices": [
+        "viết",
+        "đọc",
+        "nghe"
+      ],
+      "translation": {
+        "en": "I like to read books in the evening."
+      }
+    },
+    "updatedAt": "2025-03-12T14:52:08.906Z",
+    "createdAt": "2025-03-12T14:52:08.906Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích đọc sách vào buổi tối trước khi đi ngủ.",
+    "Anh có thể giúp chị đọc hướng dẫn sử dụng này không?",
+    "Chúng ta nên đọc kỹ các điều khoản trước khi ký hợp đồng."
+  ],
+  "notes": "đọc = to read (words, text). It’s the basic verb for reading anything written.\n\nUse đọc + something: đọc sách, đọc báo, đọc email. You can also use đọc cho + someone + nghe when you read aloud to someone.\n\nIt can also mean to pronounce or say something written, like đọc tên (read out a name).  \n\nClose word: xem (watch/look at) — you xem TV, but you đọc books or text.",
+  "word": "đọc",
+  "fillBlankQuiz": {
+    "id": "6fcda8f8-8130-4fda-8e3b-b9f784214d45",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:52:08.906Z",
+    "updatedAt": "2025-03-12T14:52:08.906Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "read"
+      },
+      "translation": {
+        "en": "I like to read books in the evening."
+      },
+      "sentence": "Tôi thích ___ sách vào buổi tối.",
+      "word": "đọc",
+      "language": "vi",
+      "answer": "đọc"
+    }
+  },
+  "updatedAt": "2026-03-03T06:43:15.940Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I like to read books at night before going to sleep.",
+    "Can you help me read this instruction manual?",
+    "We should read the terms carefully before signing the contract."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I like to read books in the evening.",
+      "es": "Me gusta leer libros por la noche.",
+      "vi": "Tôi thích đọc sách vào buổi tối."
+    },
+    "translations": {
+      "en": "read",
+      "es": "leer",
+      "vi": "đọc"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:25:40.762Z",
+    "definitions": {
+      "en": "to read",
+      "es": "leer",
+      "vi": "đọc"
+    }
+  },
+  "notes_md": "**đọc** = to read (words, text). It’s the basic verb for reading anything written.\n\nUse **đọc + something**: đọc sách, đọc báo, đọc email. You can also use **đọc cho + someone + nghe** when you read aloud to someone.\n\nIt can also mean **to pronounce or say something written**, like đọc tên (read out a name).  \n\n\nClose word: **xem** (watch/look at) — you *xem* TV, but you *đọc* books or text.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "read",
+  "_id": "UdyFYnc60Tn4f1EpckhJ"
+}

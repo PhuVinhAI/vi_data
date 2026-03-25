@@ -1,0 +1,99 @@
+{
+  "definition": "literature",
+  "flashcard": {
+    "translations": {
+      "es": "literatura",
+      "vi": "văn học",
+      "en": "literature"
+    },
+    "createdAt": "2025-01-28T13:08:05.431Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El conjunto de obras escritas, especialmente aquellas consideradas de valor artístico o intelectual.",
+      "vi": "Tập hợp các tác phẩm viết, đặc biệt là những tác phẩm được coi là có giá trị nghệ thuật hoặc trí tuệ.",
+      "en": "The body of written works, especially those considered to have artistic or intellectual value."
+    },
+    "example": {
+      "en": "I really enjoy reading classic literature.",
+      "es": "Realmente disfruto leer literatura clásica.",
+      "vi": "Tôi rất thích đọc văn học cổ điển."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I like reading books about literature of Vietnam on weekends.",
+    "I am studying a subject about modern literature at university.",
+    "I think that literature can help us understand life better."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "word": "văn học",
+      "sentence": "Tôi thích đọc ___ trong giờ rảnh.",
+      "language": "vi",
+      "choices": [],
+      "answer": "văn học",
+      "translation": {
+        "en": "I enjoy reading literature in my free time."
+      },
+      "translatedAnswer": {
+        "en": "literature"
+      }
+    },
+    "createdAt": "2025-03-12T15:33:26.580Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "cba0e5f9-7854-4465-8150-68ee9843c8f2",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:33:26.580Z"
+  },
+  "updatedAt": "2026-03-03T11:32:11.801Z",
+  "exampleSentences": [
+    "Em thích đọc sách về văn học Việt Nam vào cuối tuần.",
+    "Anh đang học một môn về văn học hiện đại ở trường đại học.",
+    "Chị nghĩ rằng văn học có thể giúp mình hiểu rõ hơn về cuộc sống."
+  ],
+  "notes": "Văn học means literature — written works like novels, poems, short stories, and literary essays.\n\nIt’s an uncountable noun, so you don’t say một văn học; instead use it in phrases like ngành văn học (literature major), tác phẩm văn học (literary work), giáo viên văn học (literature teacher). It often pairs with country or time words: văn học Việt Nam, văn học cổ điển, văn học hiện đại.  \n\nIt can also mean the academic field of studying literature, not just the books themselves.  \n\nStrong connection: văn = writing/literary style, so think of văn học as “the study/world of writing.”",
+  "notes_md": "**Văn học** means *literature* — written works like novels, poems, short stories, and literary essays.\n\nIt’s an uncountable noun, so you don’t say *một văn học*; instead use it in phrases like **ngành văn học** (literature major), **tác phẩm văn học** (literary work), **giáo viên văn học** (literature teacher). It often pairs with country or time words: **văn học Việt Nam, văn học cổ điển, văn học hiện đại**.  \n\nIt can also mean the academic field of studying literature, not just the books themselves.  \n\nStrong connection: **văn** = writing/literary style, so think of *văn học* as “the study/world of writing.”",
+  "choices": [
+    "văn học",
+    "lịch sử",
+    "địa lý"
+  ],
+  "rank": 2649,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:33:26.580Z",
+    "content": {
+      "word": "văn học",
+      "sentence": "Môn học yêu thích của tôi là ___.",
+      "language": "vi",
+      "choices": [
+        "toán học",
+        "văn học",
+        "khoa học"
+      ],
+      "hint": "v___h",
+      "answer": "văn học",
+      "translation": {
+        "en": "My favorite subject is literature."
+      },
+      "translatedAnswer": {
+        "en": "literature"
+      }
+    },
+    "id": "882fc8a8-bc54-4e85-9e09-375e1e82806f",
+    "updatedAt": "2025-03-12T15:33:26.580Z"
+  },
+  "word": "văn học",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "fgNUhMGOiUP8kAjxJFY5"
+}

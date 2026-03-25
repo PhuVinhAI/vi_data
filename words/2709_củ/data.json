@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T11:38:22.708Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:05:10.990Z",
+    "updatedAt": "2025-03-12T13:05:10.990Z",
+    "content": {
+      "word": "củ",
+      "translatedAnswer": {
+        "en": "tubers"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I like to eat tubers for dinner."
+      },
+      "choices": [],
+      "answer": "củ",
+      "sentence": "Tôi thích ăn ___ trong bữa tối."
+    },
+    "type": "fillBlankQuiz",
+    "id": "cafacb6a-f781-4a68-9f3d-71cf977da290",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**củ** means a root, tuber, or bulb — the underground part of a plant you eat (like carrot, potato, garlic).  \n\nIt’s a noun and also works like a classifier placed before the specific plant name: *củ + name*. You count it directly: *một củ, hai củ, vài củ*.  \n\nUsed for things that grow under the ground; don’t mix it with **quả** (fruit) or **rau** (leafy vegetables).  \n\nIt usually needs another word after it (like a specific plant name), not used alone unless the context is very clear.",
+  "exampleSentencesTranslated": [
+    "I bought some root vegetable at the market this morning.",
+    "I like to cook soup with many kinds of root vegetable.",
+    "I often use root vegetable to make fried dishes."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "củ",
+    "lá",
+    "hoa"
+  ],
+  "notes": "củ means a root, tuber, or bulb — the underground part of a plant you eat (like carrot, potato, garlic).  \n\nIt’s a noun and also works like a classifier placed before the specific plant name: củ + name. You count it directly: một củ, hai củ, vài củ.  \n\nUsed for things that grow under the ground; don’t mix it with quả (fruit) or rau (leafy vegetables).  \n\nIt usually needs another word after it (like a specific plant name), not used alone unless the context is very clear.",
+  "word": "củ",
+  "rank": 2709,
+  "definition": "root vegetable",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "The potato is very tasty.",
+      "vi": "Củ khoai tây rất ngon.",
+      "es": "La papa es muy sabrosa."
+    },
+    "translations": {
+      "es": "raíz",
+      "vi": "củ",
+      "en": "root"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una raíz o tubérculo, típicamente comestible.",
+      "en": "A root or tuber, typically edible.",
+      "vi": "Một loại rễ hoặc củ, thường có thể ăn được."
+    },
+    "createdAt": "2025-01-28T10:46:58.903Z"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:05:10.990Z",
+    "updatedAt": "2025-03-12T13:05:10.990Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f85aa8f7-40e0-4089-9bde-31e7eaf5ce56",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c__",
+      "word": "củ",
+      "translatedAnswer": {
+        "en": "tubers"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We will buy tubers at the market."
+      },
+      "choices": [
+        "quả",
+        "củ",
+        "rau"
+      ],
+      "answer": "củ",
+      "sentence": "Chúng ta sẽ mua ___ ở chợ."
+    }
+  },
+  "exampleSentences": [
+    "Em mua một ít củ cà rốt ở chợ sáng nay.",
+    "Chị thích nấu canh với nhiều loại củ khác nhau.",
+    "Anh thường dùng củ khoai tây để làm món chiên."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "4RsQQKKATOnaOQauJ2uT"
+}

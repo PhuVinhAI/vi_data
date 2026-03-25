@@ -1,0 +1,104 @@
+{
+  "fillBlankQuiz": {
+    "id": "130e9b49-48c6-4c4c-aefc-71d57ea752d6",
+    "createdAt": "2025-03-12T15:32:34.448Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "different"
+      },
+      "translation": {
+        "en": "She has a different style."
+      },
+      "answer": "khác",
+      "choices": [],
+      "sentence": "Cô ấy có một phong cách ___.",
+      "language": "vi",
+      "word": "khác"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:32:34.448Z"
+  },
+  "exampleSentencesTranslated": [
+    "I choose a different shirt.",
+    "He wants a different glass.",
+    "She buys a different pair of shoes."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:07:18.021Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "khác",
+      "es": "diferente",
+      "en": "different"
+    },
+    "example": {
+      "en": "Everyone has different preferences.",
+      "vi": "Mỗi người có sở thích khác nhau.",
+      "es": "Cada persona tiene preferencias diferentes."
+    },
+    "definitions": {
+      "en": "Different; distinct from something else.",
+      "es": "Diferente; distinto de otra cosa.",
+      "vi": "Khác; không giống như cái khác."
+    }
+  },
+  "definition": "different",
+  "notes": "khác means different or other. You use it to talk about something not the same as before or not the one already mentioned.\n\nIt usually comes after a noun to mean “another/other.”  \n\nTo compare, use khác với = different from.  \n\nkhác nhau means “different from each other,” and không khác gì means “no different from” (strong comparison).",
+  "updatedAt": "2026-03-03T06:08:31.784Z",
+  "exampleSentences": [
+    "Em chọn chiếc áo khác.",
+    "Anh muốn cái ly khác.",
+    "Chị mua đôi giày khác."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:32:34.448Z",
+    "content": {
+      "hint": "k___c",
+      "answer": "khác",
+      "translation": {
+        "en": "He chose a different path."
+      },
+      "translatedAnswer": {
+        "en": "different"
+      },
+      "word": "khác",
+      "language": "vi",
+      "sentence": "Anh ấy chọn một con đường ___.",
+      "choices": [
+        "khác",
+        "mới",
+        "cũ"
+      ]
+    },
+    "id": "17e6d6c3-5756-4066-85dd-545287c737a6",
+    "updatedAt": "2025-03-12T15:32:34.448Z"
+  },
+  "notes_md": "**khác** means *different* or *other*. You use it to talk about something not the same as before or not the one already mentioned.\n\nIt usually comes **after a noun** to mean “another/other.”  \n\nTo compare, use **khác với** = different from.  \n\n**khác nhau** means “different from each other,” and **không khác gì** means “no different from” (strong comparison).",
+  "rank": 54,
+  "choices": [
+    "giống",
+    "mới",
+    "khác"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + chọn (choose) + chiếc (classifier) + áo (shirt) + khác (different)",
+    "Anh (he) + muốn (wants) + cái (classifier) + ly (glass) + khác (different)",
+    "Chị (she) + mua (buys) + đôi (pair) + giày (shoes) + khác (different)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "khác",
+  "_id": "fVCcYF1nhqd2HEIg919h"
+}

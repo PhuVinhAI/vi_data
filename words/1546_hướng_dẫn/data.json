@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "hướng dẫn",
+    "khuyến khích",
+    "giải thích"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "guidance",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1546,
+  "exampleSentences": [
+    "Anh cần hướng dẫn để hoàn thành thủ tục đăng ký này.",
+    "Chị có thể cho em hướng dẫn sử dụng máy tính không?",
+    "Nhờ có hướng dẫn của thầy, em làm bài tập tốt hơn."
+  ],
+  "word": "hướng dẫn",
+  "flashcard": {
+    "definitions": {
+      "es": "Proporcionar dirección o instrucción.",
+      "vi": "Cung cấp hướng đi hoặc chỉ dẫn.",
+      "en": "To provide direction or instruction."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hướng dẫn",
+      "es": "guía",
+      "en": "guide"
+    },
+    "example": {
+      "vi": "Giáo viên đã hướng dẫn chúng tôi cách làm bài tập.",
+      "es": "El maestro nos guió sobre cómo hacer la tarea.",
+      "en": "The teacher guided us on how to do the homework."
+    },
+    "createdAt": "2025-01-28T11:34:20.920Z"
+  },
+  "exampleSentencesTranslated": [
+    "I need guidance to complete this registration procedure.",
+    "Can you give me guidance on how to use the computer?",
+    "Thanks to the teacher's guidance, I do my homework better."
+  ],
+  "multiChoiceQuiz": {
+    "id": "2b14fe4e-cecb-4eeb-8f50-ed9cc7617c31",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:56:23.866Z",
+    "content": {
+      "word": "hướng dẫn",
+      "sentence": "Tôi cần ___ cho bài học này.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "guidance"
+      },
+      "translation": {
+        "en": "I need guidance for this lesson."
+      },
+      "answer": "hướng dẫn",
+      "hint": "h_____n",
+      "choices": [
+        "hướng dẫn",
+        "thông tin",
+        "hỗ trợ"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:56:23.866Z"
+  },
+  "notes_md": "**hướng dẫn** usually means *guidance* or *instructions* — help that shows someone what to do. It can be a **noun** or a **verb**.\n\nAs a **noun**, it often goes with verbs like *cho*, *xin*, *làm theo* (hướng dẫn này, bản hướng dẫn, tài liệu hướng dẫn). It’s usually uncountable in meaning, but you can count specific sets of instructions (một hướng dẫn, các hướng dẫn).\n\nAs a **verb**, it means *to guide* or *to instruct* someone how to do something.  \n\nClose synonym: **chỉ dẫn** (more like giving directions or showing the way).",
+  "updatedAt": "2026-03-03T09:01:30.001Z",
+  "notes": "hướng dẫn usually means guidance or instructions — help that shows someone what to do. It can be a noun or a verb.\n\nAs a noun, it often goes with verbs like cho, xin, làm theo (hướng dẫn này, bản hướng dẫn, tài liệu hướng dẫn). It’s usually uncountable in meaning, but you can count specific sets of instructions (một hướng dẫn, các hướng dẫn).\n\nAs a verb, it means to guide or to instruct someone how to do something.  \n\nClose synonym: chỉ dẫn (more like giving directions or showing the way).",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "hướng dẫn",
+      "translation": {
+        "en": "I need guidance to do the homework."
+      },
+      "choices": [],
+      "sentence": "Tôi cần ___ để làm bài tập.",
+      "word": "hướng dẫn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "guidance"
+      }
+    },
+    "createdAt": "2025-03-12T13:56:23.866Z",
+    "updatedAt": "2025-03-12T13:56:23.866Z",
+    "id": "ad0e8fb1-2e3d-49a7-aaeb-f5477e3c2ace",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "HvCrkAx1pgXdjqQjtvaT"
+}

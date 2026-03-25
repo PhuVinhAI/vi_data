@@ -1,0 +1,99 @@
+{
+  "rank": 1772,
+  "exampleSentences": [
+    "Anh ấy có một công việc phụ vào buổi tối để kiếm thêm thu nhập.",
+    "Chị thường làm thêm công việc phụ vào cuối tuần khi rảnh.",
+    "Em nghĩ các môn học phụ cũng quan trọng như môn chính."
+  ],
+  "word": "phụ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "secondary",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "phụ",
+    "chính",
+    "nhỏ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:25:49.514Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "3f49108f-847d-4045-bfab-8ef7751a1522",
+    "updatedAt": "2025-03-12T13:36:49.110Z",
+    "createdAt": "2025-03-12T13:36:49.110Z",
+    "content": {
+      "choices": [],
+      "answer": "phụ",
+      "translation": {
+        "en": "She is my assistant."
+      },
+      "translatedAnswer": {
+        "en": "assistant"
+      },
+      "sentence": "Cô ấy là ___ của tôi.",
+      "word": "phụ",
+      "language": "vi"
+    }
+  },
+  "notes": "phụ = secondary, extra, not the main thing. It describes something that supports or comes after the main one.\n\nIt usually goes after a noun to mean “side/extra/supporting.”  \nOpposite: chính (main, primary) — this pair is very common.\n\nIt can also mean “supporting” in roles, like in movies or jobs.",
+  "exampleSentencesTranslated": [
+    "He has a secondary job in the evening to earn extra income.",
+    "She often does secondary work on weekends when she is free.",
+    "I think secondary subjects are as important as main subjects."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "phụ",
+      "es": "asistir",
+      "en": "assist"
+    },
+    "createdAt": "2025-01-28T11:16:06.981Z",
+    "example": {
+      "en": "I need someone to assist me.",
+      "vi": "Tôi cần một người phụ giúp tôi.",
+      "es": "Necesito a alguien que me ayude."
+    },
+    "definitions": {
+      "en": "to assist or help someone in a task.",
+      "es": "asistir o ayudar a alguien en una tarea.",
+      "vi": "giúp đỡ hoặc hỗ trợ ai đó trong một nhiệm vụ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "id": "9216fc4e-e0f6-407c-941a-d05f268e92ef",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:36:49.110Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "assistant"
+      },
+      "language": "vi",
+      "word": "phụ",
+      "sentence": "Cô ấy là ___ của tôi.",
+      "hint": "p___",
+      "choices": [
+        "bạn",
+        "phụ",
+        "học sinh"
+      ],
+      "translation": {
+        "en": "She is my assistant."
+      },
+      "answer": "phụ"
+    },
+    "updatedAt": "2025-03-12T13:36:49.110Z"
+  },
+  "notes_md": "**phụ** = secondary, extra, not the main thing. It describes something that supports or comes after the main one.\n\nIt usually goes after a noun to mean “side/extra/supporting.”  \nOpposite: **chính** (main, primary) — this pair is very common.\n\nIt can also mean “supporting” in roles, like in movies or jobs.",
+  "_id": "Cdlg6AGXUD3HD1OM4VEN"
+}

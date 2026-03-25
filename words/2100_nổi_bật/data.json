@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nổi bật",
+  "fillBlankQuiz": {
+    "id": "eddb21b0-95b5-458d-a79d-e39bae35d16b",
+    "createdAt": "2025-03-12T16:10:43.341Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:10:43.341Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "prominent"
+      },
+      "translation": {
+        "en": "This color is very prominent in the painting."
+      },
+      "choices": [],
+      "word": "nổi bật",
+      "answer": "nổi bật",
+      "language": "vi",
+      "sentence": "Màu sắc này rất ___ trong bức tranh."
+    }
+  },
+  "definition": "stand out",
+  "multiChoiceQuiz": {
+    "id": "7fa71280-794c-40b3-b7f5-7f2ce5b92b29",
+    "createdAt": "2025-03-12T16:10:43.341Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:10:43.341Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Màu sắc này rất ___ trong bức tranh.",
+      "translatedAnswer": {
+        "en": "prominent"
+      },
+      "translation": {
+        "en": "This color is very prominent in the painting."
+      },
+      "hint": "n___t",
+      "word": "nổi bật",
+      "answer": "nổi bật",
+      "language": "vi",
+      "choices": [
+        "nổi bật",
+        "nhạt nhòa",
+        "bình thường"
+      ]
+    }
+  },
+  "rank": 2100,
+  "notes_md": "**nổi bật** = to stand out, to be noticeable in a strong way. It describes something that catches attention easily.\n\nIt works like a verb or adjective: something *nổi bật* because of color, talent, personality, design, etc. Often used to compare one thing against a background or group.\n\n\nClose synonyms: **nổi trội** (more about ability/quality), **đặc biệt** (more about being special, not always visually noticeable).",
+  "exampleSentencesTranslated": [
+    "Your red shirt really stand out in the crowd.",
+    "In class, you always stand out because of your hard work.",
+    "Your long hair make you stand out more than everyone around."
+  ],
+  "updatedAt": "2026-03-03T10:00:11.979Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:42:46.172Z",
+    "definitions": {
+      "es": "Prominente o fácilmente notable.",
+      "en": "Prominent or easily noticeable.",
+      "vi": "Nổi bật hoặc dễ dàng nhận thấy."
+    },
+    "example": {
+      "vi": "Cô ấy có một phong cách nổi bật.",
+      "en": "She has a standout style.",
+      "es": "Ella tiene un estilo destacado."
+    },
+    "translations": {
+      "en": "outstanding",
+      "es": "destacado",
+      "vi": "nổi bật"
+    }
+  },
+  "choices": [
+    "nổi bật",
+    "bình thường",
+    "im lặng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Chiếc áo màu đỏ của em thật sự nổi bật giữa đám đông.",
+    "Trong lớp học, anh luôn nổi bật nhờ sự chăm chỉ của mình.",
+    "Bộ tóc dài của chị làm chị nổi bật hơn mọi người xung quanh."
+  ],
+  "notes": "nổi bật = to stand out, to be noticeable in a strong way. It describes something that catches attention easily.\n\nIt works like a verb or adjective: something nổi bật because of color, talent, personality, design, etc. Often used to compare one thing against a background or group.\n\nClose synonyms: nổi trội (more about ability/quality), đặc biệt (more about being special, not always visually noticeable).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "pEM806gTA0HnhNpZ8XFp"
+}

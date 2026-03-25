@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "My favorite dish is pho when I have breakfast with friends.",
+    "She is learning how to cook a new dish for dinner tonight.",
+    "I want to order an extra dish for dessert after finishing my meal."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "món",
+  "multiChoiceQuiz": {
+    "id": "69984488-1b26-4c0e-ab0a-b982a3eb4fe0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:30:13.485Z",
+    "content": {
+      "sentence": "Tôi muốn thử ___ mới.",
+      "word": "món",
+      "hint": "m___n",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "dish"
+      },
+      "translation": {
+        "en": "I want to try a new dish."
+      },
+      "answer": "món",
+      "choices": [
+        "món",
+        "móns",
+        "MÓN"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:30:13.485Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh thích nhất là món phở khi đi ăn sáng với bạn bè.",
+    "Chị đang học cách nấu một món mới cho bữa tối nay.",
+    "Em muốn gọi thêm một món tráng miệng sau khi ăn xong."
+  ],
+  "updatedAt": "2026-03-03T06:59:25.928Z",
+  "choices": [
+    "món",
+    "bàn",
+    "chén"
+  ],
+  "notes": "món = dish (a prepared food item). It’s used for one specific food on a menu or at a meal.\n\nIt’s a countable noun: một món, hai món, ba món. Often goes with món ăn (food dish) or an adjective like món chính (main dish), món phụ (side dish), món Việt (Vietnamese dish).\n\nYou’ll see it a lot with food verbs: nấu món, gọi món, thử món.  \n\nStrong connection: món (dish) vs món ăn (slightly more explicit: “food dish”) — in daily use, they’re often interchangeable.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:01:11.724Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Món này rất ngon.",
+      "en": "This dish is very delicious.",
+      "es": "Este plato es muy delicioso."
+    },
+    "definitions": {
+      "es": "Un plato o un tipo de comida.",
+      "en": "A dish or a type of food.",
+      "vi": "Một món ăn hoặc loại thực phẩm."
+    },
+    "translations": {
+      "vi": "món",
+      "es": "plato",
+      "en": "dish"
+    }
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:30:13.485Z",
+    "id": "7a1aec0d-b4d3-49fa-8720-8e1af020db98",
+    "content": {
+      "word": "món",
+      "sentence": "Tôi muốn thử ___ mới.",
+      "choices": [],
+      "answer": "món",
+      "translation": {
+        "en": "I want to try a new dish."
+      },
+      "translatedAnswer": {
+        "en": "dish"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:30:13.485Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 371,
+  "definition": "dish",
+  "notes_md": "**món** = dish (a prepared food item). It’s used for one specific food on a menu or at a meal.\n\nIt’s a countable noun: *một món, hai món, ba món*. Often goes with **món ăn** (food dish) or an adjective like *món chính* (main dish), *món phụ* (side dish), *món Việt* (Vietnamese dish).\n\nYou’ll see it a lot with food verbs: *nấu món*, *gọi món*, *thử món*.  \n\nStrong connection: **món** (dish) vs **món ăn** (slightly more explicit: “food dish”) — in daily use, they’re often interchangeable.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "u6LqY4kUr9SoH8NulwQV"
+}

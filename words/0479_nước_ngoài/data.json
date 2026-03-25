@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "3364f3ac-6907-45a7-8cb7-7ed9273ecb8d",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "nước ngoài",
+      "sentence": "Tôi muốn học ___.",
+      "word": "nước ngoài",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "abroad"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I want to study abroad."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:05:06.594Z",
+    "updatedAt": "2025-03-12T13:05:06.594Z"
+  },
+  "updatedAt": "2026-03-03T07:10:09.922Z",
+  "exampleSentencesTranslated": [
+    "My older brother is currently working in a foreign country so he rarely comes home.",
+    "She wants to study in a foreign country to learn more languages.",
+    "Many people like to travel to a foreign country in the summer."
+  ],
+  "notes_md": "**nước ngoài** = foreign country, abroad. It refers to any country that is not your own.\n\nIt’s a noun phrase. You usually use it with prepositions like **ở** (in), **ra** (go out to), **sang** (go over to), or **từ** (from).  \n\n\nOpposite idea: **trong nước** = inside the country (domestic).",
+  "choices": [
+    "nước ngoài",
+    "nội địa",
+    "quê nhà"
+  ],
+  "notes": "nước ngoài = foreign country, abroad. It refers to any country that is not your own.\n\nIt’s a noun phrase. You usually use it with prepositions like ở (in), ra (go out to), sang (go over to), or từ (from).  \n\nOpposite idea: trong nước = inside the country (domestic).",
+  "word": "nước ngoài",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:05:06.594Z",
+    "updatedAt": "2025-03-12T13:05:06.594Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn đi ___ vào mùa hè.",
+      "answer": "nước ngoài",
+      "translation": {
+        "en": "I want to go abroad in the summer."
+      },
+      "choices": [
+        "nước ngoài",
+        "trong nước",
+        "địa phương"
+      ],
+      "word": "nước ngoài",
+      "translatedAnswer": {
+        "en": "abroad"
+      },
+      "language": "vi",
+      "hint": "n___n"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "6a49a1bb-b606-4d52-a5c2-f1ee71261a38"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh trai em hiện đang làm việc ở nước ngoài nên ít về nhà.",
+    "Chị muốn đi du học ở nước ngoài để học thêm ngoại ngữ.",
+    "Nhiều người thích đi du lịch nước ngoài vào mùa hè."
+  ],
+  "rank": 479,
+  "definition": "foreign country",
+  "flashcard": {
+    "definitions": {
+      "es": "Un término utilizado para referirse a países extranjeros o al extranjero.",
+      "vi": "Thuật ngữ được sử dụng để chỉ các quốc gia nước ngoài hoặc ở nước ngoài.",
+      "en": "A term used to refer to foreign countries or overseas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:46:55.270Z",
+    "example": {
+      "es": "Quiero viajar al extranjero.",
+      "vi": "Tôi muốn đi du lịch nước ngoài.",
+      "en": "I want to travel abroad."
+    },
+    "translations": {
+      "en": "abroad",
+      "vi": "nước ngoài",
+      "es": "extranjero"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "4RY2npOkTsgHCAgQkhKE"
+}

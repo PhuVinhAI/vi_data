@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:52:33.853Z",
+    "translations": {
+      "en": "chapter",
+      "vi": "chương",
+      "es": "capítulo"
+    },
+    "definitions": {
+      "en": "A chapter, typically in a book.",
+      "es": "Un capítulo, típicamente en un libro.",
+      "vi": "Một chương, thường là trong một cuốn sách."
+    },
+    "example": {
+      "vi": "Chương này rất thú vị.",
+      "es": "Este capítulo es muy interesante.",
+      "en": "This chapter is very interesting."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Em đã đọc xong chương đầu tiên của cuốn sách này rồi.",
+    "Anh muốn thảo luận về chương mà chúng ta vừa học hôm qua.",
+    "Chị cảm thấy chương này khó hiểu hơn những chương trước."
+  ],
+  "rank": 2813,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:15:35.988Z",
+    "updatedAt": "2025-03-12T14:15:35.988Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I am reading a new chapter."
+      },
+      "sentence": "Tôi đang đọc ___ mới.",
+      "word": "chương",
+      "answer": "chương",
+      "translatedAnswer": {
+        "en": "chapter"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "98c3f80f-f738-4e95-ad54-ec8a11fd6287"
+  },
+  "definition": "chapter",
+  "choices": [
+    "chương",
+    "trang",
+    "bài"
+  ],
+  "updatedAt": "2026-03-03T18:00:00.501Z",
+  "notes": "chương means chapter — a main section of a book or long text.  \n\nIt’s a countable noun: you can say chương 1, chương hai, vài chương, mấy chương.  \nIt often pairs with words like chương đầu, chương cuối, chương mới.  \nVery commonly, it also means a section of a law or formal document.  \nDon’t confuse it with tập (episode of a TV series) — books use chương, shows use tập.",
+  "exampleSentencesTranslated": [
+    "I have finished reading the first chapter of this book.",
+    "I want to discuss the chapter that we just studied yesterday.",
+    "She feels this chapter is harder to understand than the previous chapters."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chương** means *chapter* — a main section of a book or long text.  \n\nIt’s a countable noun: you can say *chương 1, chương hai, vài chương, mấy chương*.  \nIt often pairs with words like *chương đầu, chương cuối, chương mới*.  \nVery commonly, it also means a *section* of a law or formal document.  \nDon’t confuse it with **tập** (episode of a TV series) — books use *chương*, shows use *tập*.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chương",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:15:35.988Z",
+    "createdAt": "2025-03-12T14:15:35.988Z",
+    "id": "68773da5-f3b7-40ec-a26e-fcbbed64a209",
+    "content": {
+      "hint": "c__n",
+      "word": "chương",
+      "sentence": "Tôi đang đọc ___ mới.",
+      "translation": {
+        "en": "I am reading a new chapter."
+      },
+      "language": "vi",
+      "choices": [
+        "hồi",
+        "chương",
+        "tiểu thuyết"
+      ],
+      "translatedAnswer": {
+        "en": "chapter"
+      },
+      "answer": "chương"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "M1TX0KQkGrFJPRGaKDor"
+}

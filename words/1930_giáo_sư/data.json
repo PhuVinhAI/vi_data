@@ -1,0 +1,99 @@
+{
+  "rank": 1930,
+  "exampleSentences": [
+    "Giáo sư đang giảng bài về lịch sử Việt Nam cho lớp học.",
+    "Anh muốn gặp giáo sư để hỏi về bài tập cuối kỳ.",
+    "Chị ấy được mời làm giáo sư tại một trường đại học nổi tiếng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "professor",
+      "vi": "giáo sư",
+      "es": "profesor"
+    },
+    "definitions": {
+      "en": "A professor is a teacher of the highest rank in a college or university.",
+      "vi": "Giáo sư là một người dạy học có cấp bậc cao nhất trong một trường đại học.",
+      "es": "Un profesor es un docente de rango más alto en una universidad o colegio."
+    },
+    "createdAt": "2025-01-28T11:47:13.060Z",
+    "example": {
+      "en": "My professor is very smart.",
+      "vi": "Giáo sư của tôi rất thông minh.",
+      "es": "Mi profesor es muy inteligente."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "giáo sư",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:09:58.192Z",
+    "updatedAt": "2025-03-12T14:09:58.192Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "g___ s__",
+      "word": "giáo sư",
+      "sentence": "Cô ấy là ___ dạy ở trường.",
+      "translation": {
+        "en": "She is a professor teaching at the school."
+      },
+      "language": "vi",
+      "choices": [
+        "giáo viên",
+        "giáo sư",
+        "học sinh"
+      ],
+      "translatedAnswer": {
+        "en": "professor"
+      },
+      "answer": "giáo sư"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "3eb0e8c6-aaf6-468f-a72e-f3101d22fa20"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Giáo sư** means *professor* — a high-ranking university academic. It’s a formal title, usually for someone with strong research and teaching credentials.\n\nIt’s a countable noun: *một giáo sư, các giáo sư*. In formal contexts, you’ll hear *vị giáo sư* to sound respectful.  \n\nIt’s also used as a title before a name: **Giáo sư + Name** (Giáo sư An), and often shortened to **GS.** in writing.\n\nDon’t confuse it with *giảng viên* (lecturer) or *thầy/cô* (teacher — more general and used in direct address).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "The professor is giving a lecture about Vietnamese history to the class.",
+    "I want to meet the professor to ask about the final assignment.",
+    "She was invited to be a professor at a famous university."
+  ],
+  "notes": "Giáo sư means professor — a high-ranking university academic. It’s a formal title, usually for someone with strong research and teaching credentials.\n\nIt’s a countable noun: một giáo sư, các giáo sư. In formal contexts, you’ll hear vị giáo sư to sound respectful.  \n\nIt’s also used as a title before a name: Giáo sư + Name (Giáo sư An), and often shortened to GS. in writing.\n\nDon’t confuse it with giảng viên (lecturer) or thầy/cô (teacher — more general and used in direct address).",
+  "choices": [
+    "giáo viên",
+    "giáo sư",
+    "bác sĩ"
+  ],
+  "updatedAt": "2026-03-03T09:42:11.120Z",
+  "definition": "professor",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:09:58.192Z",
+    "createdAt": "2025-03-12T14:09:58.192Z",
+    "id": "d2ad5891-8634-4477-a7eb-cec05611ff19",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "professor"
+      },
+      "answer": "giáo sư",
+      "word": "giáo sư",
+      "sentence": "Ông ấy là một ___ nổi tiếng.",
+      "translation": {
+        "en": "He is a famous professor."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "_id": "Kr8SWYDjU0oicD01FnWI"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Este proyecto tiene una gran escala.",
+      "vi": "Dự án này có quy mô lớn.",
+      "en": "This project has a large scale."
+    },
+    "definitions": {
+      "es": "El tamaño o la extensión de algo.",
+      "vi": "Kích thước hoặc phạm vi của một cái gì đó.",
+      "en": "The size or extent of something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:02:15.690Z",
+    "translations": {
+      "vi": "quy mô",
+      "es": "escala",
+      "en": "scale"
+    }
+  },
+  "definition": "scale",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:27:34.592Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Dự án này có ___ lớn.",
+      "word": "quy mô",
+      "choices": [],
+      "answer": "quy mô",
+      "translatedAnswer": {
+        "en": "scale"
+      },
+      "translation": {
+        "en": "This project has a large scale."
+      }
+    },
+    "id": "20b370a8-7393-46ad-b3ce-9f23f0fe3159",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:27:34.592Z"
+  },
+  "exampleSentencesTranslated": [
+    "This company is expanding the scale of production this year.",
+    "Their new project has a very large and modern scale.",
+    "I want to know what the scale of this event will be."
+  ],
+  "exampleSentences": [
+    "Công ty này đang mở rộng quy mô sản xuất trong năm nay.",
+    "Dự án mới của họ có quy mô rất lớn và hiện đại.",
+    "Anh muốn biết quy mô của sự kiện này sẽ như thế nào."
+  ],
+  "updatedAt": "2026-03-03T09:04:08.247Z",
+  "notes": "Quy mô means scale or size of something organized — like a project, company, event, or plan. It’s about how big or small something is in scope, not physical size.\n\nIt’s a noun, often used with words like lớn / nhỏ / toàn quốc / toàn cầu. You’ll often see verbs like mở rộng quy mô, thu hẹp quy mô, tăng quy mô.\n\nIt talks about overall scope, not detail — think “how big is this operation?”. Close to tầm cỡ (level/status) but quy mô focuses more on size and scale.",
+  "rank": 1569,
+  "choices": [
+    "quy mô",
+    "kích thước",
+    "chất lượng"
+  ],
+  "notes_md": "**Quy mô** means *scale* or *size* of something organized — like a project, company, event, or plan. It’s about how big or small something is in scope, not physical size.\n\nIt’s a **noun**, often used with words like **lớn / nhỏ / toàn quốc / toàn cầu**. You’ll often see verbs like **mở rộng quy mô**, **thu hẹp quy mô**, **tăng quy mô**.\n\nIt talks about overall scope, not detail — think “how big is this operation?”. Close to **tầm cỡ** (level/status) but *quy mô* focuses more on size and scale.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:34.592Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Dự án này có ___ lớn.",
+      "language": "vi",
+      "word": "quy mô",
+      "choices": [
+        "không gian",
+        "quy mô",
+        "diện tích"
+      ],
+      "answer": "quy mô",
+      "hint": "q___",
+      "translatedAnswer": {
+        "en": "scale"
+      },
+      "translation": {
+        "en": "This project has a large scale."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:34.592Z",
+    "id": "5a34cdca-053c-45a1-971a-c2366835c93a"
+  },
+  "word": "quy mô",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "eMY7fnpack7frDyGdItK"
+}

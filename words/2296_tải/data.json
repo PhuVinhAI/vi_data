@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**tải** = to download (get something from the internet onto your device).\n\nYou use it for apps, files, music, videos, documents, etc. It often goes with **về** or **xuống** to show movement to your device.\n\n\n**Tải lên** means upload (the opposite direction). In other contexts, *tải* can mean “load” or “capacity” in compound words (like *trọng tải* = load capacity).",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "download"
+      },
+      "choices": [],
+      "translation": {
+        "en": "Do you have the file to download?"
+      },
+      "answer": "tải",
+      "language": "vi",
+      "word": "tải",
+      "sentence": "Bạn có ___ tài liệu không?"
+    },
+    "updatedAt": "2025-03-12T16:44:33.692Z",
+    "type": "fillBlankQuiz",
+    "id": "43c75d61-7f7a-47da-a281-9a2231139809",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:44:33.692Z"
+  },
+  "definition": "download",
+  "rank": 2296,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tải = to download (get something from the internet onto your device).\n\nYou use it for apps, files, music, videos, documents, etc. It often goes with về or xuống to show movement to your device.\n\nTải lên means upload (the opposite direction). In other contexts, tải can mean “load” or “capacity” in compound words (like trọng tải = load capacity).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:15:29.996Z",
+    "translations": {
+      "vi": "tải",
+      "es": "descargar",
+      "en": "download"
+    },
+    "example": {
+      "vi": "Tôi cần tải tài liệu này về máy tính.",
+      "en": "I need to download this document to my computer.",
+      "es": "Necesito descargar este documento en mi computadora."
+    },
+    "definitions": {
+      "vi": "Tải xuống hoặc mang cái gì đó.",
+      "es": "Descargar o llevar algo.",
+      "en": "To download or to carry something."
+    }
+  },
+  "exampleSentences": [
+    "Em có thể giúp anh tải ứng dụng mới này về điện thoại không?",
+    "Chị vừa tải một bài hát yêu thích từ trên mạng xuống máy tính.",
+    "Bạn em nói rằng nên tải tài liệu học tiếng Anh trước khi đi học."
+  ],
+  "updatedAt": "2026-03-03T10:21:30.395Z",
+  "multiChoiceQuiz": {
+    "id": "5087c5c6-915f-4de9-809d-364252908b10",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:44:33.692Z",
+    "content": {
+      "sentence": "Bạn có ___ tài liệu không?",
+      "hint": "t__",
+      "word": "tải",
+      "language": "vi",
+      "answer": "tải",
+      "choices": [
+        "tải",
+        "lưu",
+        "mở"
+      ],
+      "translation": {
+        "en": "Do you have the file to download?"
+      },
+      "translatedAnswer": {
+        "en": "download"
+      }
+    },
+    "updatedAt": "2025-03-12T16:44:33.692Z",
+    "type": "multiChoiceQuiz"
+  },
+  "choices": [
+    "tải",
+    "mở",
+    "xóa"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you help me download this new app to my phone?",
+    "She just download a favorite song from the internet to her computer.",
+    "My friend said we should download the English learning materials before going to class."
+  ],
+  "word": "tải",
+  "_id": "xk6pVr04wcZHFdD5gwxj"
+}

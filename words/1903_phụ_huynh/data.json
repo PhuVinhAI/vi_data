@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "parent",
+  "exampleSentences": [
+    "Anh phải gặp phụ huynh của học sinh vào ngày mai.",
+    "Chị ấy luôn nhận được sự ủng hộ từ phụ huynh của mình.",
+    "Các phụ huynh thường đến trường dự họp với giáo viên."
+  ],
+  "rank": 1903,
+  "word": "phụ huynh",
+  "choices": [
+    "giáo viên",
+    "phụ huynh",
+    "bạn bè"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I have to meet the parent of the student tomorrow.",
+    "She always receives support from her parent.",
+    "The parents often come to school for meetings with the teacher."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:27:34.974Z",
+    "example": {
+      "es": "Los padres siempre se preocupan por sus hijos.",
+      "vi": "Phụ huynh luôn lo lắng cho con cái.",
+      "en": "Parents always worry about their children."
+    },
+    "translations": {
+      "vi": "phụ huynh",
+      "es": "padres",
+      "en": "parents"
+    },
+    "definitions": {
+      "en": "A parent or guardian of a child.",
+      "es": "Un padre o tutor de un niño.",
+      "vi": "Một người làm cha mẹ hoặc người giám hộ của một đứa trẻ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:49:25.937Z",
+    "createdAt": "2025-03-12T13:49:25.937Z",
+    "content": {
+      "translation": {
+        "en": "Parents should attend this meeting."
+      },
+      "answer": "phụ huynh",
+      "hint": "p____n",
+      "choices": [
+        "học sinh",
+        "phụ huynh",
+        "giáo viên"
+      ],
+      "word": "phụ huynh",
+      "sentence": "___ nên tham gia cuộc họp này.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "parents"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "de66d112-dd1e-4f22-86e2-b3655cd7d4bd",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Phụ huynh** means *parent(s)*, usually in a formal or school-related context. It often refers to parents as a group rather than just one specific mom or dad.\n\nIt’s a noun. You’ll often see it with **của + someone** to show whose parents.  \n\nCompared to **bố mẹ / cha mẹ**, *phụ huynh* sounds more official and is common in school, meetings, or announcements. It can refer to one parent or both, depending on context.",
+  "updatedAt": "2026-03-03T09:39:19.484Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:49:25.937Z",
+    "createdAt": "2025-03-12T13:49:25.937Z",
+    "content": {
+      "choices": [],
+      "answer": "phụ huynh",
+      "translation": {
+        "en": "Parents always worry about their children."
+      },
+      "translatedAnswer": {
+        "en": "parents"
+      },
+      "sentence": "Các ___ luôn lo lắng cho con cái.",
+      "word": "phụ huynh",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "0d832950-32af-437e-a8c2-bba19d3721d1",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Phụ huynh means parent(s), usually in a formal or school-related context. It often refers to parents as a group rather than just one specific mom or dad.\n\nIt’s a noun. You’ll often see it with của + someone to show whose parents.  \n\nCompared to bố mẹ / cha mẹ, phụ huynh sounds more official and is common in school, meetings, or announcements. It can refer to one parent or both, depending on context.",
+  "_id": "FgU0S2ItvAavWmWjHBAS"
+}

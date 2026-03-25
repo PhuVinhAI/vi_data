@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đích",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:18:04.745Z",
+    "id": "378c40a7-7329-438e-b59e-76d5b5c9e622",
+    "content": {
+      "translation": {
+        "en": "I have reached the destination."
+      },
+      "translatedAnswer": {
+        "en": "destination"
+      },
+      "hint": "d___",
+      "answer": "đích",
+      "choices": [
+        "đích",
+        "đường",
+        "điểm"
+      ],
+      "word": "đích",
+      "language": "vi",
+      "sentence": "Tôi đã đến ___ cuối cùng."
+    },
+    "createdAt": "2025-03-12T13:18:04.745Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đích** = goal, target, or finish point. It’s the place (literal or figurative) you’re trying to reach.\n\nIt’s a noun. You’ll often see it with verbs like **đạt (được) đích** (reach the goal), **hướng tới đích** (aim toward a goal), or **về đích** (reach the finish line).  \n\n\nIt can be physical (a race finish line) or abstract (life goals, project targets). Close synonym: **mục tiêu** (more common for abstract “goal”), while **đích** feels more like the end point you arrive at.",
+  "choices": [
+    "đích",
+    "lối",
+    "vạch"
+  ],
+  "rank": 2743,
+  "notes": "đích = goal, target, or finish point. It’s the place (literal or figurative) you’re trying to reach.\n\nIt’s a noun. You’ll often see it with verbs like đạt (được) đích (reach the goal), hướng tới đích (aim toward a goal), or về đích (reach the finish line).  \n\nIt can be physical (a race finish line) or abstract (life goals, project targets). Close synonym: mục tiêu (more common for abstract “goal”), while đích feels more like the end point you arrive at.",
+  "updatedAt": "2026-03-03T11:42:30.608Z",
+  "exampleSentences": [
+    "Khi em chạy bộ, em luôn cố gắng về đích trước.",
+    "Chúng ta cần xác định đích rõ ràng trước khi bắt đầu dự án này.",
+    "Anh ấy rất vui khi đạt được đích mà mình đã đặt ra."
+  ],
+  "fillBlankQuiz": {
+    "id": "04420177-2098-4754-a54b-946a06a76db7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:18:04.745Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi đã đến ___ cuối cùng.",
+      "language": "vi",
+      "word": "đích",
+      "translatedAnswer": {
+        "en": "destination"
+      },
+      "translation": {
+        "en": "I have reached the destination."
+      },
+      "answer": "đích"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:18:04.745Z"
+  },
+  "exampleSentencesTranslated": [
+    "When I jog, I always try to reach the goal first.",
+    "We need to define the goal clearly before starting this project.",
+    "He is very happy to achieve the goal he set."
+  ],
+  "definition": "goal",
+  "flashcard": {
+    "example": {
+      "vi": "Mục tiêu của tôi là đến đích đúng giờ.",
+      "es": "Mi objetivo es llegar al destino a tiempo.",
+      "en": "My goal is to reach the destination on time."
+    },
+    "definitions": {
+      "en": "The final point or goal that one aims to reach.",
+      "es": "El punto final o meta que uno pretende alcanzar.",
+      "vi": "Điểm cuối cùng hoặc mục tiêu mà một người hướng tới."
+    },
+    "createdAt": "2025-01-28T10:58:35.422Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đích",
+      "es": "destino",
+      "en": "destination"
+    }
+  },
+  "_id": "7gkYFzgF8cNsXFflR72z"
+}

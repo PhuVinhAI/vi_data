@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "The act of applying cosmetics to enhance or alter one's appearance.",
+      "es": "El acto de aplicar cosméticos para mejorar o alterar la apariencia de uno.",
+      "vi": "Hành động trang điểm để làm nổi bật hoặc thay đổi vẻ ngoài của một người."
+    },
+    "createdAt": "2025-01-28T12:37:29.203Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "makeup",
+      "es": "maquillaje",
+      "vi": "trang điểm"
+    },
+    "example": {
+      "en": "She likes to do her makeup every time she goes out.",
+      "es": "A ella le gusta maquillarse cada vez que sale.",
+      "vi": "Cô ấy thích trang điểm mỗi khi ra ngoài."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Every morning, she usually spends ten minutes to put on makeup before going to work.",
+    "My friend really likes learning how to put on makeup to feel more confident when going out.",
+    "Can you help me put on makeup for the party tonight?"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:05:01.935Z",
+    "updatedAt": "2025-03-12T15:05:01.935Z",
+    "content": {
+      "sentence": "Cô ấy thích ___ mỗi ngày.",
+      "answer": "trang điểm",
+      "word": "trang điểm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "makeup"
+      },
+      "choices": [],
+      "translation": {
+        "en": "She likes to do makeup every day."
+      }
+    },
+    "id": "e3960ca8-5d38-4f36-a516-e9d40ed2f3c1"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:31:54.733Z",
+  "definition": "put on makeup",
+  "notes_md": "**Trang điểm** means *to put on makeup*. It’s used when someone applies cosmetics to their face.\n\nIt’s a verb, usually used with a person as the subject. You can add **cho + someone** if you’re doing makeup for someone else, or **để + verb** to say the purpose (to look nicer, to go out, etc.).\n\n\nClose synonym: **make up** (borrowed from English, often used in beauty contexts). Opposite idea: **để mặt mộc** (to go bare-faced, no makeup).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2646,
+  "choices": [
+    "rửa mặt",
+    "trang điểm",
+    "gội đầu"
+  ],
+  "word": "trang điểm",
+  "exampleSentences": [
+    "Mỗi sáng, chị thường dành mười phút để trang điểm trước khi đi làm.",
+    "Bạn em rất thích học cách trang điểm để tự tin hơn khi ra ngoài.",
+    "Em có thể giúp chị trang điểm cho bữa tiệc tối nay không?"
+  ],
+  "notes": "Trang điểm means to put on makeup. It’s used when someone applies cosmetics to their face.\n\nIt’s a verb, usually used with a person as the subject. You can add cho + someone if you’re doing makeup for someone else, or để + verb to say the purpose (to look nicer, to go out, etc.).\n\nClose synonym: make up (borrowed from English, often used in beauty contexts). Opposite idea: để mặt mộc (to go bare-faced, no makeup).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:05:01.935Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "makeup"
+      },
+      "choices": [
+        "trang điểm",
+        "thể thao",
+        "nấu ăn"
+      ],
+      "translation": {
+        "en": "She likes to do makeup every day."
+      },
+      "sentence": "Cô ấy thích ___ mỗi ngày.",
+      "word": "trang điểm",
+      "language": "vi",
+      "answer": "trang điểm",
+      "hint": "t___ điểm"
+    },
+    "updatedAt": "2025-03-12T15:05:01.935Z",
+    "id": "b690e7fc-6381-4d82-a88d-f950e86c00e9"
+  },
+  "_id": "YFhMdNMAbr7ijUUps2q7"
+}

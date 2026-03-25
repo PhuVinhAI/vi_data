@@ -1,0 +1,101 @@
+{
+  "flashcard": {
+    "word": "kiểu",
+    "definitions": {
+      "en": "A specific way, style, or form of something.",
+      "vi": "Cách thức hoặc hình dạng cụ thể của một vật hoặc hành động."
+    },
+    "createdAt": "2025-05-24T16:22:27.145Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "style; type"
+    },
+    "example": {
+      "en": "I like your new hairstyle.",
+      "vi": "Tôi thích kiểu tóc mới của bạn."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He chooses a new style.",
+    "She likes a beautiful style.",
+    "I need a different style."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:51:05.949Z",
+    "updatedAt": "2025-03-12T14:51:05.949Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "style"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I like this style."
+      },
+      "sentence": "Tôi thích ___ này.",
+      "word": "kiểu",
+      "language": "vi",
+      "answer": "kiểu"
+    },
+    "id": "3c0a5a8a-457e-4338-a202-60737145559b"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:10:46.059Z",
+  "sentenceBreakdowns": [
+    "Anh (he) + chọn (choose) + một (a) + kiểu (style) + mới (new)",
+    "Chị (she) + thích (like) + một (a) + kiểu (style) + đẹp (beautiful)",
+    "Em (I) + cần (need) + một (a) + kiểu (style) + khác (different)"
+  ],
+  "definition": "style",
+  "notes_md": "**Kiểu** means *style* or *type/kind* — how something looks or the category it belongs to.  \n\nIt’s a noun. You can count it with **một** (một kiểu), and it often goes before another noun: **kiểu tóc, kiểu áo, kiểu dáng** (style of hair, clothes, design).  \n\nIt can also mean “way/manner” when talking about behavior or attitude (kiểu nói chuyện, kiểu người đó).  \n\nVery common in speech: **kiểu như** = “like / kind of / sort of” when giving an example or softening what you say.  \n\nClose meaning: **loại** = type/kind (more about category, less about visual style).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "rank": 75,
+  "choices": [
+    "loại",
+    "dáng",
+    "kiểu"
+  ],
+  "word": "kiểu",
+  "exampleSentences": [
+    "Anh chọn một kiểu mới.",
+    "Chị thích một kiểu đẹp.",
+    "Em cần một kiểu khác."
+  ],
+  "notes": "Kiểu means style or type/kind — how something looks or the category it belongs to.  \n\nIt’s a noun. You can count it with một (một kiểu), and it often goes before another noun: kiểu tóc, kiểu áo, kiểu dáng (style of hair, clothes, design).  \n\nIt can also mean “way/manner” when talking about behavior or attitude (kiểu nói chuyện, kiểu người đó).  \n\nVery common in speech: kiểu như = “like / kind of / sort of” when giving an example or softening what you say.  \n\nClose meaning: loại = type/kind (more about category, less about visual style).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:51:05.949Z",
+    "updatedAt": "2025-03-12T14:51:05.949Z",
+    "content": {
+      "hint": "k____",
+      "answer": "kiểu",
+      "language": "vi",
+      "word": "kiểu",
+      "sentence": "Món ăn này có ___ đặc biệt.",
+      "translation": {
+        "en": "This dish has a special style."
+      },
+      "translatedAnswer": {
+        "en": "style"
+      },
+      "choices": [
+        "hương vị",
+        "kiểu",
+        "màu sắc"
+      ]
+    },
+    "id": "e43f1042-8f45-4010-8615-189f2bf8fb4b"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "ULT3vBepiUNVo15w38T1"
+}

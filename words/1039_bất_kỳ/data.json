@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "bất kỳ",
+      "choices": [
+        "bất kỳ",
+        "tất cả",
+        "một số"
+      ],
+      "language": "vi",
+      "answer": "bất kỳ",
+      "hint": "b___ k__",
+      "translation": {
+        "en": "You can choose any dish."
+      },
+      "translatedAnswer": {
+        "en": "any"
+      },
+      "sentence": "Bạn có thể chọn ___ món ăn."
+    },
+    "updatedAt": "2025-03-12T16:10:13.106Z",
+    "createdAt": "2025-03-12T16:10:13.106Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "c8ddd6ff-2e7d-4af1-b65b-6ca9f37b704a"
+  },
+  "definition": "any",
+  "notes_md": "**bất kỳ** = *any / whatever*, with no limit or specific choice. It makes the noun after it feel open and unrestricted.\n\nIt goes before a noun: **bất kỳ + noun**. Very often used with **nào** for emphasis → **bất kỳ + noun + nào** (bất kỳ ai, bất kỳ điều gì, bất kỳ lúc nào).\n\nYou’ll see it a lot in negatives and questions, but it also works in positive sentences to mean “any at all.”  \nClose to **mọi** (every/all), but **bất kỳ** focuses on “no specific one.”",
+  "rank": 1039,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:10:13.106Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "any"
+      },
+      "translation": {
+        "en": "You can choose any dish."
+      },
+      "answer": "bất kỳ",
+      "language": "vi",
+      "word": "bất kỳ",
+      "sentence": "Bạn có thể chọn ___ món ăn."
+    },
+    "id": "db18b7db-3e6c-44cb-b395-ee3a5143e4fd",
+    "createdAt": "2025-03-12T16:10:13.106Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "bất kỳ",
+  "notes": "bất kỳ = any / whatever, with no limit or specific choice. It makes the noun after it feel open and unrestricted.\n\nIt goes before a noun: bất kỳ + noun. Very often used with nào for emphasis → bất kỳ + noun + nào (bất kỳ ai, bất kỳ điều gì, bất kỳ lúc nào).\n\nYou’ll see it a lot in negatives and questions, but it also works in positive sentences to mean “any at all.”  \nClose to mọi (every/all), but bất kỳ focuses on “no specific one.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:06:30.582Z",
+  "exampleSentencesTranslated": [
+    "You can call me at any time of the day.",
+    "I don't want to eat any dish that is too oily.",
+    "She is willing to help any person in trouble."
+  ],
+  "exampleSentences": [
+    "Anh có thể gọi cho em vào bất kỳ thời gian nào trong ngày.",
+    "Em không muốn ăn bất kỳ món gì có nhiều dầu mỡ.",
+    "Chị ấy sẵn sàng giúp đỡ bất kỳ ai gặp khó khăn."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:42:14.095Z",
+    "definitions": {
+      "vi": "Bất kỳ; được sử dụng để chỉ một hoặc nhiều đối tượng mà không có sự chỉ định cụ thể.",
+      "en": "Any; used to refer to one or more items without specification.",
+      "es": "Cualquiera; utilizado para referirse a uno o más elementos sin especificación."
+    },
+    "example": {
+      "es": "Puedes elegir cualquier libro.",
+      "en": "You can choose any book.",
+      "vi": "Bạn có thể chọn bất kỳ cuốn sách nào."
+    },
+    "translations": {
+      "vi": "bất kỳ",
+      "es": "cualquiera",
+      "en": "any"
+    }
+  },
+  "choices": [
+    "bất kỳ",
+    "tất cả",
+    "mỗi ngày"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "p8vvv5Mzg7ZB8qh9mJTm"
+}

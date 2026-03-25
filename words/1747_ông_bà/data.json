@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:53:42.961Z",
+    "updatedAt": "2025-03-12T15:53:42.961Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I often visit my grandparents on weekends."
+      },
+      "word": "ông bà",
+      "translatedAnswer": {
+        "en": "grandparents"
+      },
+      "answer": "ông bà",
+      "hint": "Ô___  b___",
+      "choices": [
+        "bố mẹ",
+        "ông bà",
+        "anh chị"
+      ],
+      "sentence": "Tôi thường thăm ___ vào cuối tuần."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "7999a02d-9eb9-4d2f-8035-28ec49f11245"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ông bà** means **grandparents** (grandfather and grandmother together). It refers to both as a pair.\n\nIt’s usually used as a fixed pair; you don’t normally separate it unless you say **ông** (grandfather) or **bà** (grandmother) alone. You can count them with **hai ông bà** when talking about both people together.\n\nIt can also refer to an **elderly couple** in general, not just your own grandparents. In a bigger family sense, it may include ancestors in phrases like **ông bà tổ tiên** (ancestors).\n\nThink of it as one unit = “grandma + grandpa” bundled together.",
+  "exampleSentencesTranslated": [
+    "Every weekend, I visit my grandparents with my family.",
+    "Grandparents always tell us interesting stories from the past.",
+    "During Tet, the whole family gathers with grandparents to celebrate the new year."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Ông bà tôi sống ở quê.",
+      "en": "My grandparents live in the countryside.",
+      "es": "Mis abuelos viven en el campo."
+    },
+    "createdAt": "2025-01-28T13:25:51.835Z",
+    "definitions": {
+      "es": "Abuelos; los padres de los padres de uno.",
+      "en": "Grandparents; the parents of one's parents.",
+      "vi": "Ông bà; cha mẹ của cha mẹ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "abuelos",
+      "en": "grandparents",
+      "vi": "ông bà"
+    }
+  },
+  "word": "ông bà",
+  "updatedAt": "2026-03-03T09:22:55.125Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "grandparents"
+      },
+      "answer": "ông bà",
+      "sentence": "Tôi thường thăm ___ vào cuối tuần.",
+      "choices": [],
+      "translation": {
+        "en": "I often visit my grandparents on weekends."
+      },
+      "word": "ông bà",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "666f447d-70d3-4a67-8be4-0b8388afa7d4",
+    "createdAt": "2025-03-12T15:53:42.961Z",
+    "updatedAt": "2025-03-12T15:53:42.961Z"
+  },
+  "choices": [
+    "bố mẹ",
+    "ông bà",
+    "anh chị"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Mỗi cuối tuần, em đều đến thăm ông bà cùng gia đình.",
+    "Ông bà luôn kể cho chúng tôi nghe những câu chuyện thú vị ngày xưa.",
+    "Vào dịp Tết, cả nhà đều sum họp bên ông bà để chúc mừng năm mới."
+  ],
+  "definition": "grandparents",
+  "notes": "Ông bà means grandparents (grandfather and grandmother together). It refers to both as a pair.\n\nIt’s usually used as a fixed pair; you don’t normally separate it unless you say ông (grandfather) or bà (grandmother) alone. You can count them with hai ông bà when talking about both people together.\n\nIt can also refer to an elderly couple in general, not just your own grandparents. In a bigger family sense, it may include ancestors in phrases like ông bà tổ tiên (ancestors).\n\nThink of it as one unit = “grandma + grandpa” bundled together.",
+  "rank": 1747,
+  "_id": "kNwBJxYlHz59sGBH9kMx"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bốc",
+    "bóc",
+    "bơi"
+  ],
+  "exampleSentences": [
+    "Anh có thể bốc vài miếng khoai tây chiên cho em không?",
+    "Chị thấy em bốc kẹo trên bàn mà chưa xin phép.",
+    "Mẹ dặn không nên bốc cơm bằng tay khi ăn cùng người lớn."
+  ],
+  "rank": 2606,
+  "word": "bốc",
+  "definition": "pick up (with hands)",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:27:51.685Z",
+  "notes": "bốc = to pick something up with your hands, usually directly and quickly. It often implies grabbing without tools (no spoon, no chopsticks).\n\nCommon with small, loose things: food, candy, money, dirt, sand. It can feel a bit casual or even rude depending on context (especially with food).\n\nIt can also mean “to scoop up” or “to grab a handful,” not carefully but in a quick motion.\n\nStrong memory link: opposite vibe of gắp (pick up food politely with chopsticks).",
+  "fillBlankQuiz": {
+    "id": "8b18e393-e5dc-4175-aee6-0e16ea1b4973",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "pick up"
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ giấy này.",
+      "word": "bốc",
+      "choices": [],
+      "translation": {
+        "en": "I will pick up this paper."
+      },
+      "answer": "bốc"
+    },
+    "createdAt": "2025-03-12T13:54:23.340Z",
+    "updatedAt": "2025-03-12T13:54:23.340Z"
+  },
+  "flashcard": {
+    "translations": {
+      "es": "sacar",
+      "vi": "bốc",
+      "en": "to draw"
+    },
+    "example": {
+      "en": "I will draw lots to choose the winner.",
+      "vi": "Tôi sẽ bốc thăm để chọn người thắng.",
+      "es": "Sacaré un sorteo para elegir al ganador."
+    },
+    "createdAt": "2025-01-28T11:32:08.864Z",
+    "definitions": {
+      "en": "To draw or pick something, often by chance.",
+      "es": "Sacar o elegir algo, a menudo por azar.",
+      "vi": "Lấy hoặc chọn một cái gì đó, thường là ngẫu nhiên."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Can you pick up some chips for me with your hands?",
+    "I saw you pick up candy on the table without permission.",
+    "Mom reminded me not to pick up rice with my hands when eating with adults."
+  ],
+  "notes_md": "**bốc** = to pick something up with your hands, usually directly and quickly. It often implies grabbing without tools (no spoon, no chopsticks).\n\nCommon with small, loose things: food, candy, money, dirt, sand. It can feel a bit casual or even rude depending on context (especially with food).\n\nIt can also mean “to scoop up” or “to grab a handful,” not carefully but in a quick motion.\n\nStrong memory link: opposite vibe of **gắp** (pick up food politely with chopsticks).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1fe48a64-3bce-4904-91e4-d21087318aa0",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "pick up"
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ giấy này.",
+      "word": "bốc",
+      "choices": [
+        "bốc",
+        "kêu",
+        "đặt"
+      ],
+      "hint": "b___",
+      "translation": {
+        "en": "I will pick up this paper."
+      },
+      "answer": "bốc"
+    },
+    "createdAt": "2025-03-12T13:54:23.340Z",
+    "updatedAt": "2025-03-12T13:54:23.340Z"
+  },
+  "_id": "HBXWoyUBHFkdCblwuX4J"
+}

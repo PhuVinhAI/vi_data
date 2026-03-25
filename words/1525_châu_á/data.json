@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "Asia",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "châu á",
+      "translation": {
+        "en": "Vietnam is located in Asia."
+      },
+      "answer": "châu á",
+      "sentence": "Việt Nam nằm ở ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "Asia"
+      }
+    },
+    "updatedAt": "2025-03-12T14:38:31.519Z",
+    "type": "fillBlankQuiz",
+    "id": "e3763cdb-7a39-49b5-8d50-1c6d5c040678",
+    "createdAt": "2025-03-12T14:38:31.519Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đã từng đi du lịch đến nhiều nước ở châu á chưa?",
+    "Chị ấy rất thích tìm hiểu về văn hóa của các nước châu á.",
+    "Em nghĩ rằng ẩm thực châu á rất đa dạng và hấp dẫn."
+  ],
+  "notes_md": "**châu Á** = Asia, the continent. It’s a proper noun, so **Á** is capitalized.\n\nIt’s often used in phrases like **các nước châu Á** (Asian countries), **người châu Á** (Asian people), **khu vực châu Á** (the Asian region). No classifier needed here because it’s a continent name.\n\nRelated word: **châu lục** = continent (so *châu Á* is one *châu lục*).",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:21:18.323Z",
+    "definitions": {
+      "es": "Un continente ubicado principalmente en los hemisferios oriental y norte.",
+      "vi": "Một lục địa chủ yếu nằm ở bán cầu Đông và Bắc.",
+      "en": "A continent located primarily in the Eastern and Northern Hemispheres."
+    },
+    "example": {
+      "es": "Asia es el hogar de muchas culturas diversas.",
+      "en": "Asia is home to many diverse cultures.",
+      "vi": "Châu Á là nơi có nhiều nền văn hóa đa dạng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "Asia",
+      "vi": "Châu Á",
+      "en": "Asia"
+    }
+  },
+  "notes": "châu Á = Asia, the continent. It’s a proper noun, so Á is capitalized.\n\nIt’s often used in phrases like các nước châu Á (Asian countries), người châu Á (Asian people), khu vực châu Á (the Asian region). No classifier needed here because it’s a continent name.\n\nRelated word: châu lục = continent (so châu Á is one châu lục).",
+  "choices": [
+    "châu âu",
+    "châu phi",
+    "châu á"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:59:19.834Z",
+  "word": "châu á",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:38:31.519Z",
+    "id": "03bfe6ae-f1c5-43c7-b637-ae560ca86f9c",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "châu á",
+      "choices": [
+        "châu á",
+        "châu âu",
+        "châu phi"
+      ],
+      "hint": "c___ á",
+      "translation": {
+        "en": "Which place is in Asia the most?"
+      },
+      "answer": "châu á",
+      "sentence": "Nơi nào thuộc ___ nhất?",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "Asia"
+      }
+    },
+    "updatedAt": "2025-03-12T14:38:31.519Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Have you ever traveled to many countries in Asia?",
+    "She really likes learning about the cultures of Asia.",
+    "I think the cuisine of Asia is very diverse and attractive."
+  ],
+  "rank": 1525,
+  "_id": "RUvmhehcAOFayDEbjxqV"
+}

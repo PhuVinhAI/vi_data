@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "9ebe724d-8cbe-46a0-83d2-60f6c40351b4",
+    "createdAt": "2025-03-12T14:53:33.164Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có thấy ___ không?",
+      "hint": "h___n",
+      "answer": "hiện diện",
+      "word": "hiện diện",
+      "language": "vi",
+      "choices": [
+        "điện ảnh",
+        "hiện diện",
+        "không gian"
+      ],
+      "translatedAnswer": {
+        "en": "presence"
+      },
+      "translation": {
+        "en": "Do you see the presence?"
+      }
+    },
+    "updatedAt": "2025-03-12T14:53:33.164Z"
+  },
+  "word": "hiện diện",
+  "notes": "hiện diện = to be present, to be there (physically). It’s a bit formal — you’ll hear it in meetings, events, official settings.\n\nUsed as a verb, often with people as the subject. It focuses on physical presence, not just attention.\n\nClose synonym: có mặt (more common and natural in daily speech). “Hiện diện” sounds more formal or written.",
+  "exampleSentences": [
+    "Anh vui vì em có thể hiện diện trong buổi họp hôm nay.",
+    "Chị sẽ hiện diện ở buổi lễ khai giảng vào sáng mai.",
+    "Thầy giáo yêu cầu tất cả học sinh phải hiện diện đúng giờ."
+  ],
+  "choices": [
+    "hiện diện",
+    "vắng mặt",
+    "tham gia"
+  ],
+  "rank": 2362,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**hiện diện** = to be present, to be there (physically). It’s a bit formal — you’ll hear it in meetings, events, official settings.\n\nUsed as a verb, often with people as the subject. It focuses on physical presence, not just attention.\n\n\nClose synonym: **có mặt** (more common and natural in daily speech). “Hiện diện” sounds more formal or written.",
+  "definition": "present",
+  "exampleSentencesTranslated": [
+    "I am happy you can be present at the meeting today.",
+    "She will be present at the opening ceremony tomorrow morning.",
+    "The teacher requires all students to be present on time."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng tôi muốn ___ ở đây.",
+      "answer": "hiện diện",
+      "word": "hiện diện",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "present"
+      },
+      "choices": [],
+      "translation": {
+        "en": "We want to be present here."
+      }
+    },
+    "updatedAt": "2025-03-12T14:53:33.164Z",
+    "createdAt": "2025-03-12T14:53:33.164Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "68916e0e-d98d-4904-b1c2-dc6de1a2c405"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:28:07.983Z",
+  "flashcard": {
+    "translations": {
+      "en": "presence",
+      "es": "presencia",
+      "vi": "hiện diện"
+    },
+    "example": {
+      "en": "I can feel your presence in the room.",
+      "es": "Puedo sentir tu presencia en la habitación.",
+      "vi": "Tôi cảm thấy sự hiện diện của bạn trong phòng."
+    },
+    "definitions": {
+      "en": "The state of being present or existing in a place.",
+      "es": "El estado de estar presente o existir en un lugar.",
+      "vi": "Trạng thái có mặt hoặc tồn tại ở một nơi."
+    },
+    "createdAt": "2025-01-28T12:26:54.905Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "Ux2d2t0sv1eBpGfrUWRC"
+}

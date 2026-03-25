@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A raised platform where performances are held.",
+      "es": "Una plataforma elevada donde se realizan actuaciones.",
+      "vi": "Một nền tảng nâng cao nơi diễn ra các buổi biểu diễn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "sân khấu",
+      "es": "escenario",
+      "en": "stage"
+    },
+    "createdAt": "2025-01-28T11:35:46.517Z",
+    "example": {
+      "en": "I enjoy watching performances on stage.",
+      "es": "Me gusta ver actuaciones en el escenario.",
+      "vi": "Tôi thích xem biểu diễn trên sân khấu."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Tonight, I will go on the stage to perform with the band.",
+    "She feels very nervous when standing on the stage for the first time.",
+    "The artists are preparing costumes behind the stage before starting."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "stage"
+      },
+      "sentence": "Buổi biểu diễn sẽ diễn ra trên ___.",
+      "word": "sân khấu",
+      "language": "vi",
+      "hint": "s___h",
+      "choices": [
+        "sân khấu",
+        "sân bóng",
+        "sân chơi"
+      ],
+      "translation": {
+        "en": "The performance will take place on the stage."
+      },
+      "answer": "sân khấu"
+    },
+    "createdAt": "2025-03-12T13:57:50.374Z",
+    "updatedAt": "2025-03-12T13:57:50.374Z",
+    "type": "multiChoiceQuiz",
+    "id": "0dedbd98-e539-445d-a4bc-f05c22058a5a",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Sân khấu** means *stage* — the raised area where people perform (theater, music, dance).  \n\nIt’s a noun. You’ll often see it with verbs like *lên*, *xuống*, *đứng trên*, and with locations like *trước sân khấu* (in front of the stage) or *sau sân khấu* (backstage).  \n\nCommon pairings: *ánh đèn sân khấu* (stage lights), *sân khấu kịch*, *sân khấu ca nhạc*. The classifier *cái* can be used, but it’s often dropped in natural speech.  \n\nIt can also be used more abstractly, like a “stage” in society or politics. A close synonym is *vũ đài* (more formal, dramatic tone).",
+  "updatedAt": "2026-03-03T07:11:31.368Z",
+  "notes": "Sân khấu means stage — the raised area where people perform (theater, music, dance).  \n\nIt’s a noun. You’ll often see it with verbs like lên, xuống, đứng trên, and with locations like trước sân khấu (in front of the stage) or sau sân khấu (backstage).  \n\nCommon pairings: ánh đèn sân khấu (stage lights), sân khấu kịch, sân khấu ca nhạc. The classifier cái can be used, but it’s often dropped in natural speech.  \n\nIt can also be used more abstractly, like a “stage” in society or politics. A close synonym is vũ đài (more formal, dramatic tone).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:57:50.374Z",
+    "createdAt": "2025-03-12T13:57:50.374Z",
+    "content": {
+      "translation": {
+        "en": "We will perform on the stage."
+      },
+      "answer": "sân khấu",
+      "choices": [],
+      "word": "sân khấu",
+      "sentence": "Chúng ta sẽ biểu diễn trên ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "stage"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "ba08122e-2e8c-4dc6-90cd-a7a00778df9e",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "stage",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 493,
+  "exampleSentences": [
+    "Tối nay, anh sẽ lên sân khấu để biểu diễn cùng ban nhạc.",
+    "Chị cảm thấy rất hồi hộp khi đứng trên sân khấu lần đầu tiên.",
+    "Các nghệ sĩ đang chuẩn bị phục trang sau sân khấu trước khi bắt đầu."
+  ],
+  "word": "sân khấu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "sân khấu",
+    "phòng học",
+    "phòng khách"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "IIvMMqlSbidsElBKgBEH"
+}

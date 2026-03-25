@@ -1,0 +1,99 @@
+{
+  "rank": 2897,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need a document to verify the information.",
+      "vi": "Tôi cần một chứng từ để xác nhận thông tin.",
+      "es": "Necesito un documento para verificar la información."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một tài liệu hoặc bằng chứng dùng để xác nhận.",
+      "es": "Un documento o evidencia que sirve como prueba.",
+      "en": "A document or evidence that serves as proof."
+    },
+    "translations": {
+      "en": "proof",
+      "es": "prueba",
+      "vi": "chứng"
+    },
+    "createdAt": "2025-01-28T11:48:16.339Z"
+  },
+  "exampleSentences": [
+    "Em nên đến bác sĩ nếu có bất kỳ chứng nào lạ trên cơ thể.",
+    "Anh đã đọc về một số chứng phổ biến trong mùa lạnh này.",
+    "Chị lo lắng khi thấy chứng kéo dài hơn một tuần."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chứng** = symptom (a sign that something is wrong with your body or mind). It’s a noun.\n\nYou’ll often see it in compounds like **chứng bệnh** (medical condition) or **chứng + illness** (chứng đau đầu, chứng mất ngủ). You can count it: *một chứng, các chứng*, but in everyday speech people often say **triệu chứng** instead.\n\nVery common pairing: **mắc chứng / có chứng + gì đó** (to suffer from a condition).\n\nImportant: **chứng** can also mean *evidence/proof* (as in **bằng chứng**) — totally different meaning, so watch the context.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chứng",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:10:59.072Z",
+    "createdAt": "2025-03-12T14:10:59.072Z",
+    "id": "5b257e2e-6b5d-4fba-b50f-60be3606957a",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi cần ___ cho cuộc thi.",
+      "hint": "c___",
+      "word": "chứng",
+      "language": "vi",
+      "choices": [
+        "giấy tờ",
+        "chứng",
+        "bằng cấp"
+      ],
+      "translation": {
+        "en": "I need a certificate for the competition."
+      },
+      "answer": "chứng",
+      "translatedAnswer": {
+        "en": "certificate"
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:10:59.072Z",
+    "updatedAt": "2025-03-12T14:10:59.072Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "chứng",
+      "translatedAnswer": {
+        "en": "certificate"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I need a certificate for the competition."
+      },
+      "sentence": "Tôi cần ___ cho cuộc thi.",
+      "word": "chứng"
+    },
+    "id": "6bdced71-2107-463e-809e-beb170ba3d66"
+  },
+  "definition": "symptom",
+  "choices": [
+    "bệnh",
+    "chứng",
+    "triệu"
+  ],
+  "updatedAt": "2026-03-03T18:10:12.471Z",
+  "notes": "chứng = symptom (a sign that something is wrong with your body or mind). It’s a noun.\n\nYou’ll often see it in compounds like chứng bệnh (medical condition) or chứng + illness (chứng đau đầu, chứng mất ngủ). You can count it: một chứng, các chứng, but in everyday speech people often say triệu chứng instead.\n\nVery common pairing: mắc chứng / có chứng + gì đó (to suffer from a condition).\n\nImportant: chứng can also mean evidence/proof (as in bằng chứng) — totally different meaning, so watch the context.",
+  "exampleSentencesTranslated": [
+    "You should see a doctor if you have any strange symptom on your body.",
+    "I read about some common symptom during this cold season.",
+    "She worries when the symptom lasts more than a week."
+  ],
+  "_id": "KzM2PD9LVkqvPYW5EvY0"
+}

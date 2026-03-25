@@ -1,0 +1,99 @@
+{
+  "rank": 2308,
+  "definition": "combine",
+  "notes": "ghép = to join or put things together so they become one whole. Think “combine pieces” physically or logically.\n\nUsed for puzzles, pictures, parts, words, ideas, or people. It often implies fitting pieces so they match.\n\nVery common in phrases like ghép đôi (pair up) and ghép tạng/ghép tim (organ transplant). Close to nối (connect) and kết hợp (combine, more formal).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em cần ghép các bức tranh nhỏ lại thành một bức lớn.",
+    "Anh có thể giúp chị ghép những mảnh giấy này không?",
+    "Cô giáo yêu cầu học sinh ghép từ để tạo thành câu."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "a8633017-2e46-4ba6-a510-4452c8955456",
+    "content": {
+      "translatedAnswer": {
+        "en": "combine"
+      },
+      "answer": "ghép",
+      "sentence": "Chúng ta cần ___ các từ này.",
+      "choices": [],
+      "translation": {
+        "en": "We need to combine these words."
+      },
+      "word": "ghép",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:54:25.585Z",
+    "createdAt": "2025-03-12T15:54:25.585Z"
+  },
+  "choices": [
+    "ghép",
+    "gặp",
+    "giúp"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ghép",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi sẽ ghép các mảnh lại với nhau.",
+      "es": "Voy a juntar las piezas.",
+      "en": "I will assemble the pieces together."
+    },
+    "createdAt": "2025-01-28T13:26:34.616Z",
+    "definitions": {
+      "en": "To combine or put together.",
+      "es": "Combinar o juntar.",
+      "vi": "Kết hợp hoặc ghép lại."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ghép",
+      "en": "assemble",
+      "es": "juntar"
+    }
+  },
+  "updatedAt": "2026-03-03T10:22:37.981Z",
+  "exampleSentencesTranslated": [
+    "You need to combine the small pictures into one big picture.",
+    "Can you help me combine these pieces of paper?",
+    "The teacher asks students to combine words to make a sentence."
+  ],
+  "notes_md": "**ghép** = to join or put things together so they become one whole. Think “combine pieces” physically or logically.\n\nUsed for puzzles, pictures, parts, words, ideas, or people. It often implies fitting pieces so they match.\n\n\nVery common in phrases like **ghép đôi** (pair up) and **ghép tạng/ghép tim** (organ transplant). Close to **nối** (connect) and **kết hợp** (combine, more formal).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:54:25.585Z",
+    "updatedAt": "2025-03-12T15:54:25.585Z",
+    "content": {
+      "word": "ghép",
+      "translation": {
+        "en": "We need to combine these words."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "combine"
+      },
+      "answer": "ghép",
+      "sentence": "Chúng ta cần ___ các từ này.",
+      "choices": [
+        "kết hợp",
+        "ghép",
+        "phân tách"
+      ],
+      "hint": "g___"
+    },
+    "id": "814bec34-3a0f-4427-a7b9-47091e3b4f2e",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "kdlfyuiV2lDS3KWFPQuG"
+}

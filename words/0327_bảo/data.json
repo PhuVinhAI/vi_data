@@ -1,0 +1,96 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "to tell; to instruct"
+    },
+    "example": {
+      "en": "My mom told me to study before going out.",
+      "vi": "Mẹ bảo tôi phải học bài trước khi đi chơi."
+    },
+    "definitions": {
+      "en": "To tell or instruct someone to do something.",
+      "vi": "Nói hoặc yêu cầu ai đó làm điều gì."
+    },
+    "createdAt": "2025-05-24T16:23:59.695Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "bảo"
+  },
+  "exampleSentencesTranslated": [
+    "I will tell you if there is any change in the schedule tomorrow.",
+    "Mom usually tells my sister to study before going out.",
+    "I forgot to tell my friend about the meeting this afternoon."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "bảo",
+      "answer": "bảo",
+      "sentence": "Tôi sẽ ___ điều này cho bạn.",
+      "translation": {
+        "en": "I will tell you this."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "tell"
+      }
+    },
+    "updatedAt": "2025-03-12T15:14:19.925Z",
+    "createdAt": "2025-03-12T15:14:19.925Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "5e90faa7-5f5f-44bc-8558-96963dd8a695"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:54:54.481Z",
+  "definition": "tell",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**bảo** = to tell someone to do something, or to say something to someone. It often has a slight sense of giving instructions or advice.\n\nUsed when one person tells another person what to do or what happened. Softer than **ra lệnh** (to order), but stronger and more direct than just **nói** (to say).\n\n\nClose words: **dặn** (tell/remind carefully, with concern), **nói** (just say, more neutral).",
+  "rank": 327,
+  "choices": [
+    "bảo",
+    "mở",
+    "đọc"
+  ],
+  "word": "bảo",
+  "notes": "bảo = to tell someone to do something, or to say something to someone. It often has a slight sense of giving instructions or advice.\n\nUsed when one person tells another person what to do or what happened. Softer than ra lệnh (to order), but stronger and more direct than just nói (to say).\n\nClose words: dặn (tell/remind carefully, with concern), nói (just say, more neutral).",
+  "exampleSentences": [
+    "Anh sẽ bảo em nếu có thay đổi trong lịch trình ngày mai.",
+    "Mẹ thường bảo chị phải học bài trước khi đi chơi.",
+    "Em quên bảo bạn về cuộc họp chiều nay rồi."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi sẽ ___ điều này cho bạn.",
+      "hint": "b___",
+      "answer": "bảo",
+      "word": "bảo",
+      "language": "vi",
+      "choices": [
+        "nhắc",
+        "bảo",
+        "nói"
+      ],
+      "translatedAnswer": {
+        "en": "tell"
+      },
+      "translation": {
+        "en": "I will tell you this."
+      }
+    },
+    "updatedAt": "2025-03-12T15:14:19.925Z",
+    "createdAt": "2025-03-12T15:14:19.925Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "8f61d9e7-0ef3-44c5-8f3c-6c7ae20c7476"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "aso2eUwhdioSF4lwvZWQ"
+}

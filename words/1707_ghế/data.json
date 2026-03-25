@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cái ___ này rất đẹp.",
+      "hint": "g___",
+      "word": "ghế",
+      "choices": [
+        "bàn",
+        "ghế",
+        "kệ"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "This chair is very beautiful."
+      },
+      "answer": "ghế",
+      "translatedAnswer": {
+        "en": "chair"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "aec0cb65-47de-4e8b-ae4f-2dcc07fd60ed",
+    "createdAt": "2025-03-12T14:23:03.321Z",
+    "updatedAt": "2025-03-12T14:23:03.321Z"
+  },
+  "word": "ghế",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**ghế** means *chair* — something you sit on, for one person.  \n\nIt’s a countable noun and usually goes with the classifier **cái** → *một cái ghế, hai cái ghế*. Common pairings: **ghế gỗ** (wooden chair), **ghế nhựa** (plastic chair), **ghế sofa**, **ghế văn phòng**.  \n\nYou often use it with **ngồi** (to sit) or **đứng lên khỏi ghế** (stand up from a chair).  \n\nVery common extra meaning: **ghế** can also mean a *position/seat of power* (like a job title), especially in phrases about work or politics.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you get me a chair?",
+    "There are four blue chair in my living room.",
+    "He placed the chair near the window so he could read comfortably."
+  ],
+  "notes": "ghế means chair — something you sit on, for one person.  \n\nIt’s a countable noun and usually goes with the classifier cái → một cái ghế, hai cái ghế. Common pairings: ghế gỗ (wooden chair), ghế nhựa (plastic chair), ghế sofa, ghế văn phòng.  \n\nYou often use it with ngồi (to sit) or đứng lên khỏi ghế (stand up from a chair).  \n\nVery common extra meaning: ghế can also mean a position/seat of power (like a job title), especially in phrases about work or politics.",
+  "choices": [
+    "bàn",
+    "giường",
+    "ghế"
+  ],
+  "updatedAt": "2026-03-03T09:18:42.347Z",
+  "definition": "chair",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:23:03.321Z",
+    "createdAt": "2025-03-12T14:23:03.321Z",
+    "id": "56d935f9-0efb-4a9d-b43b-26459ad36131",
+    "content": {
+      "translation": {
+        "en": "I need a chair to sit."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "ghế",
+      "sentence": "Tôi cần một ___ để ngồi.",
+      "translatedAnswer": {
+        "en": "chair"
+      },
+      "answer": "ghế"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 1707,
+  "exampleSentences": [
+    "Em có thể lấy cho anh một cái ghế được không?",
+    "Ở trong phòng khách nhà chị có bốn cái ghế màu xanh.",
+    "Anh đặt ghế gần cửa sổ để đọc sách cho thoải mái."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:58:51.504Z",
+    "translations": {
+      "en": "chair",
+      "vi": "ghế",
+      "es": "silla"
+    },
+    "definitions": {
+      "vi": "Một món đồ nội thất để ngồi, thường có bốn chân và một lưng.",
+      "es": "Un mueble para sentarse, que generalmente tiene cuatro patas y un respaldo.",
+      "en": "A piece of furniture for sitting, typically having four legs and a back."
+    },
+    "example": {
+      "es": "Estoy sentado en la silla.",
+      "vi": "Tôi ngồi trên ghế.",
+      "en": "I am sitting on the chair."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "NlAjstJ80u57JnYOzPBk"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I need to recharge my phone before going out.",
+    "Can you help me recharge this phone card?",
+    "We should recharge the laptop battery before the meeting."
+  ],
+  "updatedAt": "2026-03-03T10:28:03.949Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nạp",
+    "xóa",
+    "mở"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "top up",
+      "es": "recargar",
+      "vi": "nạp"
+    },
+    "example": {
+      "vi": "Tôi cần nạp tiền vào tài khoản.",
+      "es": "Necesito recargar mi cuenta.",
+      "en": "I need to top up my account."
+    },
+    "definitions": {
+      "vi": "Thêm hoặc nạp vào cái gì đó, thường đề cập đến tiền hoặc năng lượng.",
+      "es": "Agregar o cargar algo, a menudo refiriéndose a dinero o energía.",
+      "en": "To add or load something, often referring to money or energy."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:58:53.786Z"
+  },
+  "exampleSentences": [
+    "Em cần nạp điện thoại trước khi đi ra ngoài.",
+    "Anh có thể giúp chị nạp thẻ điện thoại này được không?",
+    "Chúng ta nên nạp pin cho máy tính xách tay trước buổi họp."
+  ],
+  "notes": "nạp = to recharge, refill, or load something so it can be used again. It’s used for putting energy, money, fuel, data, etc. into something.\n\nYou’ll often see it with things like pin, tiền, thẻ, năng lượng, dữ liệu, đạn. It’s more general than sạc (which is mainly for charging devices), so nạp can be used in more situations.\n\nIt can also be figurative, like nạp năng lượng (recharge yourself) or nạp kiến thức (load up on knowledge).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nạp",
+  "fillBlankQuiz": {
+    "id": "9f0365c2-f9e6-4727-a09e-02d757745c14",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:28:04.267Z",
+    "updatedAt": "2025-03-12T16:28:04.267Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần ___ pin cho điện thoại.",
+      "translatedAnswer": {
+        "en": "charge"
+      },
+      "translation": {
+        "en": "I need to charge the battery for the phone."
+      },
+      "choices": [],
+      "word": "nạp",
+      "answer": "nạp",
+      "language": "vi"
+    }
+  },
+  "definition": "to recharge",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:28:04.267Z",
+    "content": {
+      "sentence": "Tôi cần ___ pin cho điện thoại.",
+      "translatedAnswer": {
+        "en": "charge"
+      },
+      "translation": {
+        "en": "I need to charge the battery for the phone."
+      },
+      "hint": "n__p",
+      "word": "nạp",
+      "answer": "nạp",
+      "language": "vi",
+      "choices": [
+        "đổ",
+        "nạp",
+        "tiếp"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "edd9506e-badc-42e3-a4e3-71d2e122ed20",
+    "createdAt": "2025-03-12T16:28:04.267Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**nạp** = to recharge, refill, or load something so it can be used again. It’s used for putting energy, money, fuel, data, etc. into something.\n\nYou’ll often see it with things like **pin, tiền, thẻ, năng lượng, dữ liệu, đạn**. It’s more general than **sạc** (which is mainly for charging devices), so *nạp* can be used in more situations.\n\nIt can also be figurative, like **nạp năng lượng** (recharge yourself) or **nạp kiến thức** (load up on knowledge).",
+  "rank": 2361,
+  "_id": "tVqaaGdrgTdchG68e8gP"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tâm lý học",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "psychology"
+      },
+      "translation": {
+        "en": "Do you want to study psychology?"
+      },
+      "answer": "tâm lý học",
+      "hint": "t___ ___",
+      "choices": [
+        "tâm lý học",
+        "triết học",
+        "khoa học"
+      ],
+      "sentence": "Bạn có muốn học ___ không?",
+      "language": "vi",
+      "word": "tâm lý học"
+    },
+    "createdAt": "2025-03-12T13:16:50.098Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d8d4ee21-01e9-4d46-a530-f70290433abe",
+    "updatedAt": "2025-03-12T13:16:50.098Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2899,
+  "choices": [
+    "xã hội học",
+    "tâm lý học",
+    "giáo dục học"
+  ],
+  "notes_md": "**tâm lý học** means *psychology* — the study of the human mind, emotions, and behavior.\n\nIt’s an uncountable noun, so you don’t say *một tâm lý học*; you usually use it after verbs like *học*, *nghiên cứu*, *tìm hiểu*. Common pairings: *ngành tâm lý học* (the field of psychology), *khoa tâm lý học* (psychology department), *tâm lý học trẻ em* (child psychology).\n\nIt often appears in academic or professional contexts, but you’ll also hear it when talking about understanding people better.\n\nRelated word: *tâm lý* = “psychology” in a more general sense, or “mental/emotional state,” which is broader and more everyday.",
+  "notes": "tâm lý học means psychology — the study of the human mind, emotions, and behavior.\n\nIt’s an uncountable noun, so you don’t say một tâm lý học; you usually use it after verbs like học, nghiên cứu, tìm hiểu. Common pairings: ngành tâm lý học (the field of psychology), khoa tâm lý học (psychology department), tâm lý học trẻ em (child psychology).\n\nIt often appears in academic or professional contexts, but you’ll also hear it when talking about understanding people better.\n\nRelated word: tâm lý = “psychology” in a more general sense, or “mental/emotional state,” which is broader and more everyday.",
+  "exampleSentences": [
+    "Em muốn học tâm lý học ở trường đại học trong tương lai.",
+    "Bạn của anh đang nghiên cứu về tâm lý học tại một bệnh viện lớn.",
+    "Chị thấy tâm lý học rất hữu ích trong việc hiểu cảm xúc của người khác."
+  ],
+  "updatedAt": "2026-03-03T18:10:21.267Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:16:50.098Z",
+    "content": {
+      "word": "tâm lý học",
+      "sentence": "Tôi đang học ___ ở trường.",
+      "language": "vi",
+      "choices": [],
+      "answer": "tâm lý học",
+      "translation": {
+        "en": "I am studying psychology at school."
+      },
+      "translatedAnswer": {
+        "en": "psychology"
+      }
+    },
+    "id": "6c2a4ba9-a328-4234-9541-411c03663fba",
+    "updatedAt": "2025-03-12T13:16:50.098Z"
+  },
+  "exampleSentencesTranslated": [
+    "I want to study psychology at university in the future.",
+    "His friend is researching psychology at a big hospital.",
+    "She finds psychology very useful for understanding other people's feelings."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "psychology",
+      "vi": "tâm lý học",
+      "es": "psicología"
+    },
+    "createdAt": "2025-01-28T10:57:18.401Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Nghiên cứu khoa học về tâm trí và hành vi.",
+      "es": "El estudio científico de la mente y el comportamiento.",
+      "en": "The scientific study of the mind and behavior."
+    },
+    "example": {
+      "vi": "Tâm lý học giúp chúng ta hiểu rõ hơn về hành vi con người.",
+      "es": "La psicología nos ayuda a entender mejor el comportamiento humano.",
+      "en": "Psychology helps us understand human behavior better."
+    }
+  },
+  "definition": "psychology",
+  "_id": "7N42L1w63qiMQZPPGyFM"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A military force or army.",
+      "es": "Una fuerza militar o ejército.",
+      "vi": "Một lực lượng quân sự hoặc quân đội."
+    },
+    "example": {
+      "es": "El ejército protege al país.",
+      "en": "The army protects the country.",
+      "vi": "Quân đội bảo vệ đất nước."
+    },
+    "translations": {
+      "vi": "quân",
+      "es": "ejército",
+      "en": "army"
+    },
+    "createdAt": "2025-01-28T14:19:58.733Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Quân usually means soldier, but it’s quite formal and often appears in fixed phrases. On its own, it’s less common than người lính in everyday speech.\n\nIt’s a noun. You’ll see it a lot in compounds like quân đội (army), quân thù (enemy troops), hải quân (navy), lục quân (army forces).  \n\nVery commonly, quân is also a classifier for game pieces or units in games: quân cờ (chess piece), quân bài (playing card).  \n\nMemory tip: think “quân = military unit or game piece” — something that belongs to a bigger organized force.",
+  "exampleSentencesTranslated": [
+    "My older brother is a very brave soldier in the army.",
+    "Every soldier must follow the orders of the commander.",
+    "After fighting, the soldiers return to the barracks to rest."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "quân",
+  "choices": [
+    "quân",
+    "bàn",
+    "tiền"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "army"
+      },
+      "translation": {
+        "en": "They are a strong army."
+      },
+      "answer": "quân",
+      "choices": [
+        "đội",
+        "quân",
+        "bộ"
+      ],
+      "sentence": "Họ là một ___ mạnh mẽ.",
+      "word": "quân",
+      "hint": "q___n"
+    },
+    "updatedAt": "2025-03-12T16:49:44.748Z",
+    "type": "multiChoiceQuiz",
+    "id": "0b86e30f-9fc4-4ef2-82cd-46178c7915b4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:49:44.748Z"
+  },
+  "exampleSentences": [
+    "Anh trai em là một quân rất dũng cảm trong quân đội.",
+    "Mỗi quân đều phải tuân theo mệnh lệnh của chỉ huy.",
+    "Sau khi chiến đấu, các quân trở về doanh trại để nghỉ ngơi."
+  ],
+  "updatedAt": "2026-03-03T18:03:02.490Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2839,
+  "definition": "soldier",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "quân",
+      "sentence": "Đội ___ đang tập luyện.",
+      "translatedAnswer": {
+        "en": "army"
+      },
+      "choices": [],
+      "translation": {
+        "en": "The army team is training."
+      },
+      "answer": "quân",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:49:44.748Z",
+    "id": "46a63fb1-4b57-44fa-b5ce-2995e916d13c",
+    "createdAt": "2025-03-12T16:49:44.748Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**Quân** usually means *soldier*, but it’s quite formal and often appears in fixed phrases. On its own, it’s less common than **người lính** in everyday speech.\n\nIt’s a noun. You’ll see it a lot in compounds like **quân đội** (army), **quân thù** (enemy troops), **hải quân** (navy), **lục quân** (army forces).  \n\nVery commonly, **quân** is also a classifier for game pieces or units in games: **quân cờ** (chess piece), **quân bài** (playing card).  \n\nMemory tip: think “quân = military unit or game piece” — something that belongs to a bigger organized force.",
+  "_id": "yvbfcSDixhCKX8AtQt0u"
+}

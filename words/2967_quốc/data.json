@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh rất tự hào về quốc của mình vì có nhiều truyền thống đẹp.",
+    "Em muốn đi du lịch đến một quốc khác để khám phá văn hóa mới.",
+    "Chị nghĩ mỗi quốc đều có những món ăn đặc trưng riêng."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "ca289001-7a15-489d-ae64-ecf490cd3928",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "q___",
+      "word": "quốc",
+      "translatedAnswer": {
+        "en": "country"
+      },
+      "language": "vi",
+      "choices": [
+        "thế giới",
+        "quốc",
+        "tỉnh"
+      ],
+      "translation": {
+        "en": "I come from this country."
+      },
+      "answer": "quốc",
+      "sentence": "Tôi đến từ ___ này."
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:03:25.523Z",
+    "updatedAt": "2025-03-12T13:03:25.523Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A nation or country.",
+      "vi": "Một quốc gia hoặc đất nước.",
+      "es": "Una nación o país."
+    },
+    "createdAt": "2025-01-28T10:45:46.612Z",
+    "example": {
+      "vi": "Việt Nam là một quốc gia xinh đẹp.",
+      "en": "Vietnam is a beautiful country.",
+      "es": "Vietnam es un país hermoso."
+    },
+    "translations": {
+      "en": "country",
+      "vi": "quốc",
+      "es": "país"
+    }
+  },
+  "rank": 2967,
+  "definition": "country",
+  "word": "quốc",
+  "choices": [
+    "quốc",
+    "nhà",
+    "bạn"
+  ],
+  "notes": "quốc means country or nation, but it’s formal and usually not used alone in everyday speech.  \n\nIn real life, people say nước for “country”; quốc mostly appears inside Sino‑Vietnamese compound words. It gives a serious, official feeling (politics, law, history).  \n\nThink of quốc as the “national/state” building block, while nước is the normal everyday word for country.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He is very proud of his country because it has many beautiful traditions.",
+    "I want to travel to another country to discover new cultures.",
+    "She thinks every country has its own special dishes."
+  ],
+  "notes_md": "**quốc** means *country* or *nation*, but it’s formal and usually not used alone in everyday speech.  \n\nIn real life, people say **nước** for “country”; **quốc** mostly appears inside Sino‑Vietnamese compound words. It gives a serious, official feeling (politics, law, history).  \n\n\nThink of **quốc** as the “national/state” building block, while **nước** is the normal everyday word for country.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I love my country."
+      },
+      "translatedAnswer": {
+        "en": "country"
+      },
+      "language": "vi",
+      "word": "quốc",
+      "sentence": "Tôi yêu ___ của mình.",
+      "answer": "quốc"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "081c5041-77ac-45dd-b084-c82f94f13814",
+    "createdAt": "2025-03-12T13:03:25.523Z",
+    "updatedAt": "2025-03-12T13:03:25.523Z"
+  },
+  "updatedAt": "2026-03-03T18:17:32.806Z",
+  "_id": "3ohavMneSK88MNyc0i2I"
+}

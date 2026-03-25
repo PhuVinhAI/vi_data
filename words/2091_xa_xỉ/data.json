@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Chiếc xe này quá xa xỉ cho một gia đình bình thường.",
+      "es": "Este coche es demasiado lujoso para una familia promedio.",
+      "en": "This car is too luxurious for an average family."
+    },
+    "translations": {
+      "vi": "xa xỉ",
+      "en": "luxurious",
+      "es": "lujoso"
+    },
+    "definitions": {
+      "en": "Characterized by luxury; extravagant.",
+      "es": "Caracterizado por el lujo; extravagante.",
+      "vi": "Đặc trưng bởi sự xa hoa; phung phí."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:41:04.304Z"
+  },
+  "choices": [
+    "xa xỉ",
+    "giản dị",
+    "nổi tiếng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Chị ấy thích mua những món đồ xa xỉ vào dịp sinh nhật.",
+    "Anh không muốn sống một cuộc sống quá xa xỉ vì muốn tiết kiệm.",
+    "Em nghĩ rằng đi du lịch ở khách sạn xa xỉ sẽ rất thú vị."
+  ],
+  "exampleSentencesTranslated": [
+    "She likes to buy luxurious things on her birthday.",
+    "He doesn't want to live a luxurious life because he wants to save money.",
+    "I think that traveling in a luxurious hotel would be very interesting."
+  ],
+  "updatedAt": "2026-03-03T09:59:18.759Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "xa xỉ means luxurious or over-the-top expensive. It describes something fancy, high-end, and not really necessary.\n\nIt’s an adjective, so it goes after the noun: it describes things like lifestyle, products, brands, services, experiences. It often implies spending a lot of money, sometimes more than needed.\n\nClose synonym: sang trọng (more about elegance and class). Opposite idea: bình dân, tiết kiệm (simple, economical).",
+  "word": "xa xỉ",
+  "fillBlankQuiz": {
+    "id": "dda169d9-7372-4bc2-b128-9bb7a391d61a",
+    "createdAt": "2025-03-12T16:09:09.129Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:09:09.129Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "This food is very luxurious and expensive."
+      },
+      "translatedAnswer": {
+        "en": "luxurious"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "xa xỉ",
+      "word": "xa xỉ",
+      "sentence": "Đồ ăn này rất ___ và đắt tiền."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2091,
+  "notes_md": "**xa xỉ** means *luxurious* or *over-the-top expensive*. It describes something fancy, high-end, and not really necessary.\n\nIt’s an **adjective**, so it goes after the noun: it describes things like lifestyle, products, brands, services, experiences. It often implies spending a lot of money, sometimes more than needed.\n\n\nClose synonym: **sang trọng** (more about elegance and class). Opposite idea: **bình dân**, **tiết kiệm** (simple, economical).",
+  "definition": "luxurious",
+  "multiChoiceQuiz": {
+    "id": "40b84d27-caaa-4b86-9f6b-c537d52c572d",
+    "createdAt": "2025-03-12T16:09:09.129Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:09:09.129Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "xa xỉ",
+      "answer": "xa xỉ",
+      "language": "vi",
+      "choices": [
+        "xa xỉ",
+        "thường",
+        "bình dân"
+      ],
+      "translation": {
+        "en": "This dish is really luxurious."
+      },
+      "translatedAnswer": {
+        "en": "luxurious"
+      },
+      "hint": "x___",
+      "sentence": "Món ăn này thật ___."
+    }
+  },
+  "_id": "oleIJIZ8wPSIWt3WBTqE"
+}

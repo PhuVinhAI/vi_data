@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:09:18.320Z",
+    "updatedAt": "2025-03-12T13:09:18.320Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8bd52528-b667-4359-8bbc-23dcb7a5c48f",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "đỉnh cao",
+      "sentence": "Đây là ___ của nghệ thuật.",
+      "hint": "đ___ cao",
+      "word": "đỉnh cao",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "peak"
+      },
+      "translation": {
+        "en": "This is the peak of art."
+      },
+      "choices": [
+        "đỉnh thấp",
+        "đỉnh cao",
+        "đỉnh núi"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy đã đạt đến đỉnh cao trong sự nghiệp của mình.",
+    "Chị muốn chinh phục đỉnh cao mới trong công việc năm nay.",
+    "Em tin rằng đội bóng sẽ sớm trở lại đỉnh cao phong độ."
+  ],
+  "rank": 1970,
+  "definition": "peak",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:50:32.695Z",
+    "definitions": {
+      "en": "The highest point or level of something.",
+      "vi": "Điểm hoặc mức cao nhất của một cái gì đó.",
+      "es": "El punto o nivel más alto de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Este es el pico de mi carrera.",
+      "en": "This is the peak of my career.",
+      "vi": "Đây là đỉnh cao của sự nghiệp của tôi."
+    },
+    "translations": {
+      "es": "pico",
+      "vi": "đỉnh cao",
+      "en": "peak"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đỉnh cao",
+    "bình thường",
+    "bắt đầu"
+  ],
+  "notes": "đỉnh cao = peak, highest point. It can be a literal mountain peak or the highest level of success, skill, or quality.\n\nIt’s a noun. You’ll often see it with verbs like đạt (đến), lên đến, chạm tới (reach), or ở đỉnh cao của + noun (at the peak of…).  \n\nIt’s common in abstract situations: đỉnh cao của sự nghiệp / nghệ thuật / phong độ / quyền lực.\n\nStrong opposite to remember: đáy (bottom). Think: đỉnh cao = top level, nothing higher.",
+  "word": "đỉnh cao",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He has reached the peak of his career.",
+    "She wants to conquer a new peak in her work this year.",
+    "I believe the football team will soon return to peak performance."
+  ],
+  "notes_md": "**đỉnh cao** = peak, highest point. It can be a literal mountain peak or the highest level of success, skill, or quality.\n\nIt’s a noun. You’ll often see it with verbs like **đạt (đến)**, **lên đến**, **chạm tới** (reach), or **ở đỉnh cao của + noun** (at the peak of…).  \n\nIt’s common in abstract situations: **đỉnh cao của sự nghiệp / nghệ thuật / phong độ / quyền lực**.\n\nStrong opposite to remember: **đáy** (bottom). Think: *đỉnh cao* = top level, nothing higher.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:09:18.320Z",
+    "updatedAt": "2025-03-12T13:09:18.320Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "đỉnh cao",
+      "sentence": "Đây là ___ của nghệ thuật.",
+      "word": "đỉnh cao",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "peak"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This is the peak of art."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "88eb68a5-3e69-4ee8-b61a-4cef60f2076d"
+  },
+  "updatedAt": "2026-03-03T09:46:44.543Z",
+  "_id": "5DYkEgtzPJhmAvpoTQO9"
+}

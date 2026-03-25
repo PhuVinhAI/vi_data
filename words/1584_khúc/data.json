@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:27:19.278Z",
+    "example": {
+      "es": "Me gusta escuchar este fragmento de música.",
+      "vi": "Tôi thích nghe khúc nhạc này.",
+      "en": "I like listening to this piece of music."
+    },
+    "translations": {
+      "vi": "khúc",
+      "es": "fragmento",
+      "en": "piece"
+    },
+    "definitions": {
+      "vi": "Một đoạn hoặc phần, thường chỉ một phần của âm nhạc hoặc một phần của cái gì đó.",
+      "es": "Un segmento o fragmento, a menudo refiriéndose a una parte de la música o una sección de algo.",
+      "en": "A segment or piece, often referring to a part of music or a section of something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I just passed a very crowded section of the road.",
+    "I like this section of the song the most.",
+    "We will stop at the section ahead to rest."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "k___",
+      "choices": [
+        "hòa âm",
+        "khúc",
+        "giai điệu"
+      ],
+      "translation": {
+        "en": "I like to listen to this piece of music."
+      },
+      "answer": "khúc",
+      "translatedAnswer": {
+        "en": "piece"
+      },
+      "language": "vi",
+      "word": "khúc",
+      "sentence": "Tôi thích nghe ___ nhạc này."
+    },
+    "createdAt": "2025-03-12T13:49:04.868Z",
+    "updatedAt": "2025-03-12T13:49:04.868Z",
+    "id": "73abe286-54b6-4ebf-bfdd-9c274155b5d9",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**khúc** means a section or segment of something — a part of a road, river, song, story, etc. Think “a chunk with a natural break.”\n\nIt’s a noun. You can say *một khúc*, *hai khúc*, *những khúc*. It’s often used with things that flow or extend: *khúc đường* (stretch of road), *khúc sông* (part of a river), *khúc nhạc* (part of a song), *khúc cua* (a bend/curve).\n\nVery close to **đoạn** (section), but *khúc* often feels more curved, flowing, or emotional (especially in music or poetry).\n\nMemory tip: imagine something being “cut into pieces” — each piece is a *khúc*.",
+  "updatedAt": "2026-03-03T09:05:49.129Z",
+  "notes": "khúc means a section or segment of something — a part of a road, river, song, story, etc. Think “a chunk with a natural break.”\n\nIt’s a noun. You can say một khúc, hai khúc, những khúc. It’s often used with things that flow or extend: khúc đường (stretch of road), khúc sông (part of a river), khúc nhạc (part of a song), khúc cua (a bend/curve).\n\nVery close to đoạn (section), but khúc often feels more curved, flowing, or emotional (especially in music or poetry).\n\nMemory tip: imagine something being “cut into pieces” — each piece is a khúc.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:49:04.868Z",
+    "createdAt": "2025-03-12T13:49:04.868Z",
+    "content": {
+      "sentence": "Tôi thích nghe ___ nhạc này.",
+      "word": "khúc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "piece"
+      },
+      "translation": {
+        "en": "I like to listen to this piece of music."
+      },
+      "answer": "khúc",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "5807de01-60f8-46ab-b988-802b9e75f390",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "section",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa đi qua một khúc đường rất đông xe.",
+    "Em thích nhất là khúc nhạc này trong bài hát.",
+    "Chúng ta sẽ dừng lại ở khúc cua phía trước để nghỉ ngơi."
+  ],
+  "rank": 1584,
+  "word": "khúc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "khúc",
+    "bức",
+    "mẩu"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Fc7aVxYXTRdHmtQ7kpzz"
+}

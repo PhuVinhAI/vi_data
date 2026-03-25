@@ -1,0 +1,99 @@
+{
+  "definition": "moment",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f6c83e05-d9b4-475a-a895-4040e41324dd",
+    "createdAt": "2025-03-12T14:42:52.121Z",
+    "updatedAt": "2025-03-12T14:42:52.121Z",
+    "content": {
+      "translation": {
+        "en": "That was a wonderful moment."
+      },
+      "answer": "khoảnh khắc",
+      "choices": [],
+      "word": "khoảnh khắc",
+      "translatedAnswer": {
+        "en": "moment"
+      },
+      "language": "vi",
+      "sentence": "Đó là một ___ tuyệt vời."
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentences": [
+    "Anh sẽ không bao giờ quên khoảnh khắc chúng ta gặp nhau lần đầu.",
+    "Khoảnh khắc em nhận được tin vui, em đã bật khóc vì hạnh phúc.",
+    "Chị muốn lưu giữ khoảnh khắc này mãi mãi trong tim."
+  ],
+  "notes_md": "**khoảnh khắc** = a moment, a very short point in time (often emotional or important).\n\nIt’s a countable noun: *một khoảnh khắc*. It usually talks about something meaningful, surprising, or memorable, not just any random second.  \n\nCommon pairings: *trong khoảnh khắc* (in a moment), *ngay khoảnh khắc đó* (at that very moment).  \n\nClose synonym: **giây phút** (very similar, slightly more poetic/soft feeling).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "moment",
+      "vi": "khoảnh khắc",
+      "es": "momento"
+    },
+    "definitions": {
+      "vi": "Một khoảng thời gian ngắn; một khoảnh khắc.",
+      "en": "A brief period of time; a moment.",
+      "es": "Un breve período de tiempo; un momento."
+    },
+    "createdAt": "2025-01-28T12:17:30.361Z",
+    "example": {
+      "es": "Cada momento es precioso.",
+      "en": "Every moment is precious.",
+      "vi": "Mỗi khoảnh khắc đều quý giá."
+    }
+  },
+  "notes": "khoảnh khắc = a moment, a very short point in time (often emotional or important).\n\nIt’s a countable noun: một khoảnh khắc. It usually talks about something meaningful, surprising, or memorable, not just any random second.  \n\nCommon pairings: trong khoảnh khắc (in a moment), ngay khoảnh khắc đó (at that very moment).  \n\nClose synonym: giây phút (very similar, slightly more poetic/soft feeling).",
+  "choices": [
+    "khoảnh khắc",
+    "cảm giác",
+    "kỷ niệm"
+  ],
+  "updatedAt": "2026-03-03T07:17:02.407Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 548,
+  "exampleSentencesTranslated": [
+    "I will never forget the moment we met for the first time.",
+    "The moment I received the good news, I burst into tears of happiness.",
+    "She wants to keep this moment in her heart forever."
+  ],
+  "word": "khoảnh khắc",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:42:52.121Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "moment"
+      },
+      "language": "vi",
+      "sentence": "Đó là một ___ tuyệt vời.",
+      "word": "khoảnh khắc",
+      "choices": [
+        "khoảnh khắc",
+        "thời gian",
+        "kỷ niệm"
+      ],
+      "translation": {
+        "en": "That was a wonderful moment."
+      },
+      "answer": "khoảnh khắc",
+      "hint": "k___k"
+    },
+    "id": "c389766f-0a20-43f7-b7ab-c5455c643c67",
+    "createdAt": "2025-03-12T14:42:52.121Z",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "SUgLyH8zvt2bMzq35ML8"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "smile",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Khi em thấy anh, em luôn cảm thấy muốn cười.",
+    "Bức ảnh này khiến mọi người cười rất vui vẻ.",
+    "Mỗi sáng, chị thường cười với đồng nghiệp khi vào công ty."
+  ],
+  "rank": 544,
+  "word": "cười",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cười",
+    "khóc",
+    "ngủ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "es": "Hacer un sonido de diversión o alegría, típicamente abriendo la boca y mostrando los dientes.",
+      "vi": "Phát ra âm thanh của sự vui vẻ hoặc hạnh phúc, thường bằng cách mở miệng và cho thấy răng.",
+      "en": "To make a sound of amusement or joy, typically by opening the mouth and showing teeth."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "reír",
+      "vi": "cười",
+      "en": "laugh"
+    },
+    "createdAt": "2025-01-28T11:16:47.583Z",
+    "example": {
+      "vi": "Cô ấy luôn cười khi nghe chuyện vui.",
+      "es": "Ella siempre se ríe cuando escucha una historia divertida.",
+      "en": "She always laughs when she hears a funny story."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "When I see you, I always feel like I want to smile.",
+    "This photo makes everyone smile happily.",
+    "Every morning, she usually smiles at her colleagues when entering the company."
+  ],
+  "notes_md": "**cười** means *to smile* or *to laugh*. In Vietnamese, the same verb covers both — the context tells you if it’s a small smile or a big laugh.\n\nIt often goes with words like **cười mỉm** (smile lightly) and **cười to / cười lớn** (laugh loudly).  \nYou can say who you smile at or why you laugh.\n\n`Structure: cười + với + ai / cười + vì + điều gì` (cười với bạn)\n\nOpposite to remember: **khóc** (to cry).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "3ada9c0d-2cac-4471-963a-f543dc27ca56",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:37:26.158Z",
+    "content": {
+      "hint": "c___",
+      "choices": [
+        "nói",
+        "cười",
+        "chạy"
+      ],
+      "translation": {
+        "en": "He likes to smile in the park."
+      },
+      "answer": "cười",
+      "translatedAnswer": {
+        "en": "smile"
+      },
+      "word": "cười",
+      "sentence": "Anh ấy thích ___ trong công viên.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:37:26.158Z"
+  },
+  "updatedAt": "2026-03-03T07:16:38.035Z",
+  "notes": "cười means to smile or to laugh. In Vietnamese, the same verb covers both — the context tells you if it’s a small smile or a big laugh.\n\nIt often goes with words like cười mỉm (smile lightly) and cười to / cười lớn (laugh loudly).  \nYou can say who you smile at or why you laugh.\n\nStructure: cười + với + ai / cười + vì + điều gì (cười với bạn)\n\nOpposite to remember: khóc (to cry).",
+  "fillBlankQuiz": {
+    "id": "c82938cf-9f49-4ac4-b27e-ac07c73508bf",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "cười",
+      "translation": {
+        "en": "She always smiles when she is happy."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Cô ấy luôn ___ khi vui.",
+      "word": "cười",
+      "translatedAnswer": {
+        "en": "smiles"
+      }
+    },
+    "createdAt": "2025-03-12T13:37:26.158Z",
+    "updatedAt": "2025-03-12T13:37:26.158Z"
+  },
+  "_id": "Crq8n80vpNUS64pFtmtf"
+}

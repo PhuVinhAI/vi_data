@@ -1,0 +1,99 @@
+{
+  "definition": "structure",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I am studying about the structure of grammar."
+      },
+      "sentence": "Tôi đang học về ___ ngữ pháp.",
+      "word": "cấu trúc",
+      "answer": "cấu trúc",
+      "translatedAnswer": {
+        "en": "structure"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "892d29c6-2200-43a1-b1fd-14cde53500e5",
+    "createdAt": "2025-03-12T14:17:30.656Z",
+    "updatedAt": "2025-03-12T14:17:30.656Z"
+  },
+  "exampleSentencesTranslated": [
+    "I am learning about the structure of a Vietnamese essay.",
+    "The teacher explained the structure of a sentence so the whole class could understand better.",
+    "I think the structure of this house is very unique and modern."
+  ],
+  "notes": "Cấu trúc means structure — the way parts are organized to form a whole. It can be physical (a building, the body) or abstract (an essay, a sentence, a plan).\n\nIt’s a noun; use classifiers like cấu trúc này / một cấu trúc phức tạp. Very common pairings: cấu trúc câu (sentence structure), cấu trúc bài viết, cấu trúc tổ chức, cấu trúc dữ liệu.\n\nClose synonyms: kết cấu (more physical/technical), cấu tạo (how something is built inside). Think “how it’s arranged” rather than just “shape.”",
+  "choices": [
+    "cấu trúc",
+    "chức năng",
+    "ngữ pháp"
+  ],
+  "updatedAt": "2026-03-03T10:11:14.216Z",
+  "notes_md": "**Cấu trúc** means *structure* — the way parts are organized to form a whole. It can be physical (a building, the body) or abstract (an essay, a sentence, a plan).\n\nIt’s a noun; use classifiers like **cấu trúc này / một cấu trúc phức tạp**. Very common pairings: **cấu trúc câu** (sentence structure), **cấu trúc bài viết**, **cấu trúc tổ chức**, **cấu trúc dữ liệu**.\n\nClose synonyms: **kết cấu** (more physical/technical), **cấu tạo** (how something is built inside). Think “how it’s arranged” rather than just “shape.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:17:30.656Z",
+    "updatedAt": "2025-03-12T14:17:30.656Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c___ trúc",
+      "word": "cấu trúc",
+      "sentence": "Câu này có ___ rõ ràng.",
+      "translation": {
+        "en": "This sentence has a clear structure."
+      },
+      "choices": [
+        "cấu trúc",
+        "nội dung",
+        "thành phần"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "structure"
+      },
+      "answer": "cấu trúc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "85d68d55-1200-492f-8a7f-cb40de480202"
+  },
+  "word": "cấu trúc",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "The structure of this house is very unique.",
+      "es": "La estructura de esta casa es muy única.",
+      "vi": "Cấu trúc của ngôi nhà này rất độc đáo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "structure",
+      "es": "estructura",
+      "vi": "cấu trúc"
+    },
+    "definitions": {
+      "vi": "Sự sắp xếp hoặc tổ chức các phần trong một tổng thể.",
+      "es": "La disposición u organización de las partes en un todo.",
+      "en": "The arrangement or organization of parts in a whole."
+    },
+    "createdAt": "2025-01-28T11:54:20.581Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em đang học về cấu trúc của một bài luận tiếng Việt.",
+    "Giáo viên giải thích cấu trúc của câu cho cả lớp hiểu rõ hơn.",
+    "Anh thấy cấu trúc của ngôi nhà này rất độc đáo và hiện đại."
+  ],
+  "rank": 2203,
+  "_id": "MbFqk79ryxTzDmXhS4ph"
+}

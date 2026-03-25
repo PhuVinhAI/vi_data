@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "công sức",
+    "thành quả",
+    "nỗ lực"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:40:51.813Z",
+    "updatedAt": "2025-03-12T15:40:51.813Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "effort"
+      },
+      "answer": "công sức",
+      "choices": [],
+      "sentence": "Anh ấy đã bỏ ___ vào dự án này.",
+      "word": "công sức",
+      "translation": {
+        "en": "He has put effort into this project."
+      },
+      "language": "vi"
+    },
+    "id": "b55fa2fc-8d6a-47ed-984b-712a39735545",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy đã bỏ ra rất nhiều công sức để hoàn thành dự án này.",
+    "Nếu em không có công sức, kết quả sẽ không đến như mong đợi.",
+    "Chúng ta nên trân trọng công sức của mọi người trong nhóm."
+  ],
+  "definition": "effort",
+  "notes": "công sức = effort, the time + energy you put into doing something. It focuses on the work and sacrifice behind a result.\n\nIt’s an uncountable noun; you don’t count it with numbers. Often used with verbs like bỏ ra, tốn, đổ vào (công sức).  \n\nClose to nỗ lực (effort), but công sức feels more physical or time-consuming, while nỗ lực is more about determination.",
+  "rank": 1835,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "6e9ffa84-4762-43db-a80c-d7f91f0c9020",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "She has put effort to complete the work."
+      },
+      "word": "công sức",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "effort"
+      },
+      "answer": "công sức",
+      "choices": [
+        "công sức",
+        "nỗ lực",
+        "thời gian"
+      ],
+      "sentence": "Cô ấy đã bỏ ___ để hoàn thành công việc.",
+      "hint": "c___c"
+    },
+    "updatedAt": "2025-03-12T15:40:51.813Z",
+    "createdAt": "2025-03-12T15:40:51.813Z"
+  },
+  "notes_md": "**công sức** = effort, the time + energy you put into doing something. It focuses on the *work and sacrifice* behind a result.\n\nIt’s an uncountable noun; you don’t count it with numbers. Often used with verbs like **bỏ ra**, **tốn**, **đổ vào** (công sức).  \n\nClose to **nỗ lực** (effort), but *công sức* feels more physical or time-consuming, while *nỗ lực* is more about determination.",
+  "exampleSentencesTranslated": [
+    "He put a lot of effort into completing this project.",
+    "If you do not put in effort, the results will not come as expected.",
+    "We should appreciate the effort of everyone in the group."
+  ],
+  "word": "công sức",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã bỏ ra rất nhiều công sức để hoàn thành dự án này.",
+      "es": "Puse mucho esfuerzo para completar este proyecto.",
+      "en": "I put in a lot of effort to complete this project."
+    },
+    "definitions": {
+      "en": "Effort or labor put into a task or activity.",
+      "es": "Esfuerzo o trabajo dedicado a una tarea o actividad.",
+      "vi": "Nỗ lực hoặc công việc bỏ ra cho một nhiệm vụ hoặc hoạt động."
+    },
+    "createdAt": "2025-01-28T13:14:22.806Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "công sức",
+      "en": "effort",
+      "es": "esfuerzo"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:32:14.746Z",
+  "_id": "hPjhvMYfMNAf7MryjnG2"
+}

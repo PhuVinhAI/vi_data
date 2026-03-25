@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T10:41:27.349Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To agree to receive or do something.",
+      "vi": "Đồng ý nhận hoặc làm điều gì đó.",
+      "es": "Aceptar recibir o hacer algo."
+    },
+    "example": {
+      "vi": "Tôi chấp nhận quyết định của bạn.",
+      "en": "I accept your decision.",
+      "es": "Acepto tu decisión."
+    },
+    "translations": {
+      "es": "aceptar",
+      "vi": "chấp nhận",
+      "en": "accept"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 440,
+  "definition": "accept",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh sẽ chấp nhận lời mời tham dự bữa tiệc của em chứ?",
+    "Em rất khó chấp nhận sự thật này ngay lúc đầu.",
+    "Chị ấy phải học cách chấp nhận ý kiến của người khác."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:58:11.963Z",
+    "updatedAt": "2025-03-12T12:58:11.963Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi phải ___ ý kiến của bạn.",
+      "answer": "chấp nhận",
+      "translation": {
+        "en": "I have to accept your opinion."
+      },
+      "choices": [
+        "chấp nhận",
+        "khiếu nại",
+        "từ chối"
+      ],
+      "word": "chấp nhận",
+      "translatedAnswer": {
+        "en": "accept"
+      },
+      "language": "vi",
+      "hint": "c____n"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "4fcd6ad5-5b4e-46d0-8372-691633cf3998"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chấp nhận",
+  "choices": [
+    "từ chối",
+    "chấp nhận",
+    "giải thích"
+  ],
+  "notes": "chấp nhận = to accept, to agree to something, or to admit something is true. It’s used when you stop resisting and say “okay” to a situation, offer, or fact.\n\nIt’s a verb, often followed by a noun or a clause.  \n\nIt can mean accepting an offer, a condition, a result, or even your own mistake. Close synonym: đồng ý (agree) — but đồng ý is more about saying yes, while chấp nhận often feels deeper, like accepting reality. Opposite idea: từ chối (refuse).",
+  "notes_md": "**chấp nhận** = to accept, to agree to something, or to admit something is true. It’s used when you stop resisting and say “okay” to a situation, offer, or fact.\n\nIt’s a verb, often followed by a noun or a clause.  \n\nIt can mean accepting an offer, a condition, a result, or even your own mistake. Close synonym: **đồng ý** (agree) — but *đồng ý* is more about saying yes, while *chấp nhận* often feels deeper, like accepting reality. Opposite idea: **từ chối** (refuse).",
+  "exampleSentencesTranslated": [
+    "Will you accept the invitation to my party?",
+    "It was very hard for me to accept this truth at first.",
+    "She has to learn how to accept other people's opinions."
+  ],
+  "updatedAt": "2026-03-03T07:06:15.185Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "46452e7d-0e72-4ea9-ab73-1ff514118c61",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "chấp nhận",
+      "translatedAnswer": {
+        "en": "accept"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I will accept this issue."
+      },
+      "choices": [],
+      "answer": "chấp nhận",
+      "sentence": "Tôi sẽ ___ vấn đề này."
+    },
+    "createdAt": "2025-03-12T12:58:11.963Z",
+    "updatedAt": "2025-03-12T12:58:11.963Z"
+  },
+  "_id": "2MZp19202FCRgbOJFdPN"
+}

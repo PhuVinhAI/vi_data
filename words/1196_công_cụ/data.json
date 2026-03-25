@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:38:45.216Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "34efbb23-e519-4b7d-831f-fc1a4ce6371e",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần một ___ mới.",
+      "word": "công cụ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "tool"
+      },
+      "choices": [],
+      "answer": "công cụ",
+      "translation": {
+        "en": "I need a new tool."
+      }
+    },
+    "updatedAt": "2025-03-12T16:38:45.216Z"
+  },
+  "rank": 1196,
+  "definition": "tool",
+  "notes_md": "**công cụ** = tool. It’s something you use to do a task, either physical (like a hammer) or abstract (like software).\n\nIt’s a **countable noun**: một công cụ, hai công cụ. Often paired with verbs like *sử dụng*, *dùng*, *tạo ra*, *cung cấp*.\n\nVery common in tech and learning contexts: *công cụ tìm kiếm*, *công cụ học tập*, *công cụ quản lý*. It can be both physical and digital.\n\nClose to **dụng cụ**, but *dụng cụ* is usually more physical and hands-on; *công cụ* feels broader and more abstract.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you lend me this tool to fix the motorbike?",
+    "We need more tools to finish this project.",
+    "The teacher introduced a new tool to help students learn English more easily."
+  ],
+  "word": "công cụ",
+  "updatedAt": "2026-03-03T08:23:10.253Z",
+  "exampleSentences": [
+    "Anh có thể cho em mượn công cụ này để sửa xe không?",
+    "Chúng ta cần nhiều công cụ hơn để hoàn thành dự án này.",
+    "Cô giáo giới thiệu một công cụ mới giúp học sinh học tiếng Anh dễ hơn."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "c___u",
+      "word": "công cụ",
+      "sentence": "Tôi cần một ___ để sửa chữa.",
+      "translation": {
+        "en": "I need a tool for repair."
+      },
+      "answer": "công cụ",
+      "choices": [
+        "công cụ",
+        "dụng cụ",
+        "thiết bị"
+      ],
+      "translatedAnswer": {
+        "en": "tool"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:38:45.216Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:38:45.216Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "dfc6ea87-359e-4fed-b972-dd6a9d161355"
+  },
+  "choices": [
+    "công cụ",
+    "phần mềm",
+    "nghiệp vụ"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "công cụ = tool. It’s something you use to do a task, either physical (like a hammer) or abstract (like software).\n\nIt’s a countable noun: một công cụ, hai công cụ. Often paired with verbs like sử dụng, dùng, tạo ra, cung cấp.\n\nVery common in tech and learning contexts: công cụ tìm kiếm, công cụ học tập, công cụ quản lý. It can be both physical and digital.\n\nClose to dụng cụ, but dụng cụ is usually more physical and hands-on; công cụ feels broader and more abstract.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:10:20.875Z",
+    "translations": {
+      "en": "tool",
+      "es": "herramienta",
+      "vi": "công cụ"
+    },
+    "example": {
+      "en": "A computer is a useful tool in work.",
+      "es": "Una computadora es una herramienta útil en el trabajo.",
+      "vi": "Máy tính là một công cụ hữu ích trong công việc."
+    },
+    "definitions": {
+      "vi": "Một thiết bị hoặc dụng cụ được sử dụng để thực hiện một chức năng cụ thể.",
+      "en": "A device or implement used to carry out a particular function.",
+      "es": "Un dispositivo o implemento utilizado para llevar a cabo una función particular."
+    }
+  },
+  "_id": "wVXNd46N5EeHYOeSkKTP"
+}

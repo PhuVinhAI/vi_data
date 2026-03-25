@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "vietnam",
+    "pháp",
+    "trung quốc"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:46:41.949Z",
+    "updatedAt": "2025-03-12T15:46:41.949Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I will go to Vietnam in the summer."
+      },
+      "word": "vietnam",
+      "sentence": "Tôi sẽ đi ___ vào mùa hè.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "Vietnam"
+      },
+      "answer": "vietnam"
+    },
+    "id": "e28f20ed-341d-4f56-95ff-9c47cf79063a",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentences": [
+    "Anh đã từng du lịch đến vietnam vào mùa hè năm ngoái.",
+    "Chị rất tự hào khi nói mình đến từ vietnam.",
+    "Bạn bè em ở nước ngoài rất muốn ghé thăm vietnam một lần."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Việt Nam is Vietnam, the country in Southeast Asia. It’s a proper noun, so both words are capitalized: Việt Nam.\n\nYou usually don’t need a classifier; just say Việt Nam. To be specific, you can say nước Việt Nam (the country of Vietnam).\n\nIt combines with nouns like văn hóa Việt Nam, lịch sử Việt Nam, con người Việt Nam. For people, say người Việt Nam; for the language, it’s tiếng Việt (not tiếng Việt Nam).",
+  "definition": "Vietnam",
+  "rank": 1558,
+  "multiChoiceQuiz": {
+    "id": "7a2e9605-db69-477d-840b-8e7e09be6255",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I love Vietnam for the food."
+      },
+      "word": "vietnam",
+      "language": "vi",
+      "choices": [
+        "vietnam",
+        "thái lan",
+        "nhật bản"
+      ],
+      "sentence": "Tôi yêu ___ vì món ăn.",
+      "hint": "v_____m",
+      "translatedAnswer": {
+        "en": "Vietnam"
+      },
+      "answer": "vietnam"
+    },
+    "updatedAt": "2025-03-12T15:46:41.949Z",
+    "createdAt": "2025-03-12T15:46:41.949Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Việt Nam** is Vietnam, the country in Southeast Asia. It’s a proper noun, so both words are capitalized: **Việt Nam**.\n\nYou usually don’t need a classifier; just say **Việt Nam**. To be specific, you can say **nước Việt Nam** (the country of Vietnam).\n\nIt combines with nouns like **văn hóa Việt Nam**, **lịch sử Việt Nam**, **con người Việt Nam**. For people, say **người Việt Nam**; for the language, it’s **tiếng Việt** (not *tiếng Việt Nam*).",
+  "exampleSentencesTranslated": [
+    "I traveled to Vietnam last summer.",
+    "She is very proud to say she is from Vietnam.",
+    "My friends abroad really want to visit Vietnam once."
+  ],
+  "updatedAt": "2026-03-03T09:02:55.534Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "Việt Nam",
+      "es": "Vietnam",
+      "en": "Vietnam"
+    },
+    "example": {
+      "es": "Amo el país de Vietnam.",
+      "en": "I love the country of Vietnam.",
+      "vi": "Tôi yêu đất nước Việt Nam."
+    },
+    "definitions": {
+      "en": "A country in Southeast Asia known for its rich history and culture.",
+      "es": "Un país en el sudeste asiático conocido por su rica historia y cultura.",
+      "vi": "Một quốc gia ở Đông Nam Á nổi tiếng với lịch sử và văn hóa phong phú."
+    },
+    "createdAt": "2025-01-28T13:19:09.351Z"
+  },
+  "word": "vietnam",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "ihtYqUlqt0J7VFKu5FO3"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 2714,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I will choose a good book.",
+      "es": "Voy a elegir un buen libro.",
+      "vi": "Tôi sẽ lựa chọn một cuốn sách hay."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "choose",
+      "vi": "lựa",
+      "es": "elegir"
+    },
+    "definitions": {
+      "es": "elegir o seleccionar",
+      "vi": "chọn hoặc lựa chọn",
+      "en": "to choose or select"
+    },
+    "createdAt": "2025-01-28T11:47:32.649Z"
+  },
+  "exampleSentences": [
+    "Anh muốn lựa món ăn nào cho bữa tối nay không?",
+    "Chị đã lựa một cuốn sách mới để đọc vào cuối tuần.",
+    "Em có thể giúp anh lựa một chiếc áo phù hợp không?"
+  ],
+  "notes_md": "**lựa** means *to choose* or *to pick* from options. It’s used when you look carefully and decide which one you want.\n\nIt’s a verb, usually followed directly by a noun: you *lựa* something specific (clothes, food, gifts, etc.). It often implies a bit of consideration, not a random pick.\n\n\nClose synonym: **chọn** (more neutral and common). **lựa chọn** is more formal or serious (like “make a selection”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:10:22.697Z",
+    "updatedAt": "2025-03-12T14:10:22.697Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "You can choose a dish."
+      },
+      "choices": [
+        "lựa",
+        "chọn",
+        "có"
+      ],
+      "language": "vi",
+      "hint": "l___",
+      "word": "lựa",
+      "sentence": "Bạn có thể ___ một món ăn.",
+      "translatedAnswer": {
+        "en": "choose"
+      },
+      "answer": "lựa"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "3b486509-e32b-4613-9d20-2b3ed46cf4ec"
+  },
+  "word": "lựa",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "choose",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:10:22.697Z",
+    "createdAt": "2025-03-12T14:10:22.697Z",
+    "id": "adfa40b3-5b4f-47ae-a647-6f704ada387e",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "choose"
+      },
+      "answer": "lựa",
+      "translation": {
+        "en": "You need to choose a path."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "lựa",
+      "sentence": "Bạn cần ___ một con đường."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to choose a dish for dinner tonight?",
+    "She choose a new book to read on the weekend.",
+    "Can you help me choose a suitable shirt?"
+  ],
+  "notes": "lựa means to choose or to pick from options. It’s used when you look carefully and decide which one you want.\n\nIt’s a verb, usually followed directly by a noun: you lựa something specific (clothes, food, gifts, etc.). It often implies a bit of consideration, not a random pick.\n\nClose synonym: chọn (more neutral and common). lựa chọn is more formal or serious (like “make a selection”).",
+  "choices": [
+    "lựa",
+    "mua",
+    "tìm"
+  ],
+  "updatedAt": "2026-03-03T11:39:02.619Z",
+  "_id": "Kt5xNq1SBZmfDYvGS366"
+}

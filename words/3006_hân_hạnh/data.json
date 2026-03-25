@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh rất hân hạnh được gặp em tại buổi tiệc tối nay.",
+    "Chúng tôi hân hạnh đón tiếp quý khách đến tham quan công ty.",
+    "Em cảm thấy hân hạnh khi nhận được lời mời tham dự sự kiện này."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Me siento honrado de conocerte.",
+      "vi": "Tôi hân hạnh được gặp bạn.",
+      "en": "I am honored to meet you."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "honored",
+      "vi": "hân hạnh",
+      "es": "honrado"
+    },
+    "definitions": {
+      "en": "A phrase used to express honor or pleasure in a situation.",
+      "es": "Una frase utilizada para expresar honor o placer en una situación.",
+      "vi": "Một cụm từ được sử dụng để diễn tả sự vinh dự hoặc niềm vui trong một tình huống."
+    },
+    "createdAt": "2025-01-28T11:39:50.074Z"
+  },
+  "rank": 3006,
+  "exampleSentencesTranslated": [
+    "I am honored to meet you at the party tonight.",
+    "We are honored to welcome you to visit our company.",
+    "I feel honored to receive the invitation to attend this event."
+  ],
+  "notes": "Hân hạnh means “honored” or “it’s my pleasure” in a polite, formal way. It shows respect and positive feelings toward the other person.\n\nIt’s often used when meeting someone, welcoming someone, or accepting an invitation in formal situations.  \n\nIt sounds more formal than vui or rất vui. Think of it as something you’d say in business, speeches, or official events, not casual chats with close friends.",
+  "updatedAt": "2026-03-03T18:22:09.856Z",
+  "choices": [
+    "hạnh phúc",
+    "hân hạnh",
+    "vui mừng"
+  ],
+  "definition": "honored",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:01:55.216Z",
+    "updatedAt": "2025-03-12T14:01:55.216Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "hân hạnh",
+      "sentence": "Tôi rất ___ được gặp bạn.",
+      "translation": {
+        "en": "I am very honored to meet you."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "honored"
+      },
+      "answer": "hân hạnh"
+    },
+    "type": "fillBlankQuiz",
+    "id": "de0fff22-4757-4d0d-832e-f29622e54598"
+  },
+  "word": "hân hạnh",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:01:55.216Z",
+    "updatedAt": "2025-03-12T14:01:55.216Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "vui mừng",
+        "hân hạnh",
+        "thú vị"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "I am very honored to receive the award."
+      },
+      "sentence": "Tôi rất ___ khi nhận giải thưởng.",
+      "hint": "h___ hạnh",
+      "word": "hân hạnh",
+      "answer": "hân hạnh",
+      "translatedAnswer": {
+        "en": "honored"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "4e904669-7218-48a6-9675-7a7a6964b3a6"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Hân hạnh** means “honored” or “it’s my pleasure” in a polite, formal way. It shows respect and positive feelings toward the other person.\n\nIt’s often used when meeting someone, welcoming someone, or accepting an invitation in formal situations.  \n\nIt sounds more formal than **vui** or **rất vui**. Think of it as something you’d say in business, speeches, or official events, not casual chats with close friends.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "JAGtYUdG8rnCyNbw03Zb"
+}

@@ -1,0 +1,96 @@
+{
+  "fillBlankQuiz": {
+    "id": "531079fe-b4be-4096-8cbf-d2c95dbd1646",
+    "content": {
+      "translation": {
+        "en": "I walk sometimes in the morning."
+      },
+      "translatedAnswer": {
+        "en": "sometimes"
+      },
+      "answer": "đôi khi",
+      "choices": [],
+      "word": "đôi khi",
+      "language": "vi",
+      "sentence": "Tôi ___ đi bộ vào buổi sáng."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:36.501Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:16:36.501Z"
+  },
+  "exampleSentencesTranslated": [
+    "Anh sometimes likes to walk alone in the evening to relax.",
+    "Chị sometimes eats breakfast out with friends on weekends.",
+    "Em sometimes feels tired after studying for many hours."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:24:08.372Z",
+    "translations": {
+      "en": "sometimes"
+    },
+    "example": {
+      "en": "Sometimes I like to take a walk alone to relax.",
+      "vi": "Đôi khi tôi thích đi dạo một mình để thư giãn."
+    },
+    "definitions": {
+      "en": "Occasionally; not happening often.",
+      "vi": "Thỉnh thoảng, không xảy ra thường xuyên."
+    },
+    "word": "đôi khi"
+  },
+  "definition": "sometimes",
+  "notes": "đôi khi means sometimes. It shows that something happens, but not regularly.\n\nIt’s an adverb of frequency. You can put it at the beginning of a sentence or after the subject, before the verb.\n\nVery close to thỉnh thoảng (a bit more formal). Opposite idea: luôn luôn (always).",
+  "exampleSentences": [
+    "Anh đôi khi thích đi dạo một mình vào buổi tối để thư giãn.",
+    "Chị đôi khi ăn sáng ở ngoài với bạn bè vào cuối tuần.",
+    "Em cảm thấy mệt mỏi đôi khi sau khi học nhiều giờ liền."
+  ],
+  "updatedAt": "2026-03-03T07:01:31.886Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:16:36.501Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "thường xuyên",
+        "đôi khi",
+        "hiếm khi"
+      ],
+      "language": "vi",
+      "sentence": "Tôi ___ đi bộ vào buổi tối.",
+      "word": "đôi khi",
+      "translatedAnswer": {
+        "en": "sometimes"
+      },
+      "translation": {
+        "en": "I walk sometimes in the evening."
+      },
+      "hint": "đ___ khi",
+      "answer": "đôi khi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:16:36.501Z",
+    "id": "a311b62a-6c87-4660-a1a8-0edc08819d23"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 393,
+  "choices": [
+    "đôi khi",
+    "luôn luôn",
+    "thường xuyên"
+  ],
+  "notes_md": "**đôi khi** means *sometimes*. It shows that something happens, but not regularly.\n\nIt’s an adverb of frequency. You can put it at the beginning of a sentence or after the subject, before the verb.\n\n\nVery close to **thỉnh thoảng** (a bit more formal). Opposite idea: **luôn luôn** (always).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đôi khi",
+  "_id": "bLsdBLozgEdVfGAgGvkS"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:32:27.405Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "invest"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi cần ___ vào dự án này.",
+      "answer": "đầu tư",
+      "translation": {
+        "en": "We need to invest in this project."
+      },
+      "choices": [],
+      "word": "đầu tư"
+    },
+    "type": "fillBlankQuiz",
+    "id": "9c3a7be6-228e-4f69-af75-9c517a38c530",
+    "createdAt": "2025-03-12T14:32:27.405Z"
+  },
+  "definition": "invest",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "flashcard": {
+    "definitions": {
+      "es": "El acto de asignar recursos, generalmente dinero, para generar ingresos o beneficios.",
+      "en": "The act of allocating resources, usually money, in order to generate income or profit.",
+      "vi": "Hành động phân bổ tài nguyên, thường là tiền, để tạo ra thu nhập hoặc lợi nhuận."
+    },
+    "createdAt": "2025-01-28T12:08:11.989Z",
+    "example": {
+      "es": "Quiero invertir en un nuevo proyecto.",
+      "vi": "Tôi muốn đầu tư vào một dự án mới.",
+      "en": "I want to invest in a new project."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "invest",
+      "vi": "đầu tư",
+      "es": "invertir"
+    }
+  },
+  "exampleSentences": [
+    "Anh muốn đầu tư vào một công ty công nghệ mới trong năm nay.",
+    "Chị ấy quyết định đầu tư tiền của mình vào bất động sản.",
+    "Em nghĩ rằng đầu tư vào giáo dục là rất quan trọng cho tương lai."
+  ],
+  "notes_md": "**đầu tư** = to invest — put money, time, or effort into something to get benefits later.\n\nIt’s a verb. You usually say **đầu tư vào + thing** (stocks, business, skills) or **đầu tư + tiền / thời gian / công sức**. It can be about money or about effort in yourself or a project.\n\n\nClose synonym: **bỏ vốn** (more business/finance-focused). Opposite idea: **tiêu xài / tiêu tiền** (spend without focus on return).",
+  "choices": [
+    "đầu tư",
+    "tiết kiệm",
+    "mua bán"
+  ],
+  "notes": "đầu tư = to invest — put money, time, or effort into something to get benefits later.\n\nIt’s a verb. You usually say đầu tư vào + thing (stocks, business, skills) or đầu tư + tiền / thời gian / công sức. It can be about money or about effort in yourself or a project.\n\nClose synonym: bỏ vốn (more business/finance-focused). Opposite idea: tiêu xài / tiêu tiền (spend without focus on return).",
+  "rank": 239,
+  "exampleSentencesTranslated": [
+    "He wants to invest in a new technology company this year.",
+    "She decided to invest her money in real estate.",
+    "I think that to invest in education is very important for the future."
+  ],
+  "word": "đầu tư",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c26d4923-4504-4c6a-a1db-46cb58c82e47",
+    "createdAt": "2025-03-12T14:32:27.405Z",
+    "updatedAt": "2025-03-12T14:32:27.405Z",
+    "content": {
+      "word": "đầu tư",
+      "choices": [
+        "đầu tư",
+        "mua sắm",
+        "chi tiêu"
+      ],
+      "hint": "d___u t__",
+      "translation": {
+        "en": "They will invest in the new company."
+      },
+      "answer": "đầu tư",
+      "translatedAnswer": {
+        "en": "invest"
+      },
+      "language": "vi",
+      "sentence": "Họ sẽ ___ vào công ty mới."
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T06:44:35.557Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "QLFdCT5bsVtKjjwqPS67"
+}

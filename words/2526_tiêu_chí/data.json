@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:03:34.049Z",
+    "content": {
+      "word": "tiêu chí",
+      "language": "vi",
+      "hint": "t___i",
+      "answer": "tiêu chí",
+      "sentence": "Có nhiều ___ trong quyết định này.",
+      "translation": {
+        "en": "There are many criteria in this decision."
+      },
+      "translatedAnswer": {
+        "en": "criteria"
+      },
+      "choices": [
+        "tiêu chí",
+        "thông số",
+        "điều kiện"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:03:34.049Z",
+    "id": "6b8ec6fb-1782-4a91-aedc-6fdd894f11d5"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Tiêu chí means criteria or standards used to judge or evaluate something. It’s the conditions you use to decide if something is good, suitable, or acceptable.\n\nIt’s a countable noun: một tiêu chí, các tiêu chí. Very common with verbs like đặt ra (set), đáp ứng (meet), and dựa trên (base on).  \n\nClose synonym: tiêu chuẩn (standard) — tiêu chuẩn often feels more fixed or official, while tiêu chí focuses on the points you use to evaluate.",
+  "exampleSentences": [
+    "Chị cần biết tiêu chí để chọn người phù hợp cho công việc này.",
+    "Anh đã đọc kỹ các tiêu chí trong thông báo tuyển dụng chưa?",
+    "Để đạt học bổng, em phải đáp ứng đủ mọi tiêu chí đưa ra."
+  ],
+  "word": "tiêu chí",
+  "choices": [
+    "tiêu chí",
+    "chỉ tiêu",
+    "mục tiêu"
+  ],
+  "rank": 2526,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Tiêu chí** means *criteria* or *standards* used to judge or evaluate something. It’s the conditions you use to decide if something is good, suitable, or acceptable.\n\nIt’s a countable noun: *một tiêu chí, các tiêu chí*. Very common with verbs like *đặt ra* (set), *đáp ứng* (meet), and *dựa trên* (base on).  \n\n\nClose synonym: **tiêu chuẩn** (standard) — *tiêu chuẩn* often feels more fixed or official, while *tiêu chí* focuses on the points you use to evaluate.",
+  "definition": "criteria",
+  "fillBlankQuiz": {
+    "id": "1de65470-69f6-44d3-b3ea-3cdac3a8ff49",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:03:34.049Z",
+    "updatedAt": "2025-03-12T15:03:34.049Z",
+    "content": {
+      "translation": {
+        "en": "The criteria for evaluation are very important."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "criteria"
+      },
+      "language": "vi",
+      "word": "tiêu chí",
+      "answer": "tiêu chí",
+      "sentence": "Các ___ đánh giá rất quan trọng."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:44:42.372Z",
+  "exampleSentencesTranslated": [
+    "You need to know the criteria to choose the right person for this job.",
+    "Have you carefully read the criteria in the recruitment announcement?",
+    "To get the scholarship, you must meet all the criteria given."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "We need to establish criteria to evaluate the project.",
+      "es": "Necesitamos establecer criterios para evaluar el proyecto.",
+      "vi": "Chúng ta cần xác định tiêu chí để đánh giá dự án."
+    },
+    "translations": {
+      "en": "criteria",
+      "es": "criterios",
+      "vi": "tiêu chí"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:35:47.580Z",
+    "definitions": {
+      "en": "A standard or principle by which something is judged or decided.",
+      "es": "Un estándar o principio por el cual se juzga o decide algo.",
+      "vi": "Một tiêu chuẩn hoặc nguyên tắc mà theo đó một cái gì đó được đánh giá hoặc quyết định."
+    }
+  },
+  "_id": "XjfyZTm5wNy9YDTH1867"
+}

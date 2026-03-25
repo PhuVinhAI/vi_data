@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "vé",
+    "bút",
+    "bàn"
+  ],
+  "rank": 1940,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "cb323d75-60cf-464b-9bfe-9508063387e2",
+    "updatedAt": "2025-03-12T14:51:34.606Z",
+    "content": {
+      "hint": "v__",
+      "answer": "vé",
+      "language": "vi",
+      "word": "vé",
+      "sentence": "Bạn có ___ cho buổi hòa nhạc không?",
+      "translation": {
+        "en": "Do you have a ticket for the concert?"
+      },
+      "translatedAnswer": {
+        "en": "ticket"
+      },
+      "choices": [
+        "vé",
+        "quà",
+        "sách"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:51:34.606Z"
+  },
+  "exampleSentences": [
+    "Chị đã mua vé xem phim cho cả nhóm rồi.",
+    "Anh quên mang vé tàu khi ra ga sáng nay.",
+    "Em có thể đặt vé máy bay trên mạng không?"
+  ],
+  "notes": "Vé means ticket — something you buy or get to enter, travel, or attend something.\n\nIt’s a countable noun: một vé, hai vé; you can also say một tấm vé (more specific, but often just vé is fine).  \nCommon pairings: mua vé (buy a ticket), đặt vé (book), bán vé (sell), vé máy bay, vé tàu, vé xem phim, vé vào cửa.  \nIt can also mean a pass or invitation in some cases, like vé mời (invitation ticket).  \n\nThink of vé as your “entry pass” — if you don’t have it, you’re not getting in.",
+  "word": "vé",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:43:26.099Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I need to buy a ticket for the trip."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "ticket"
+      },
+      "answer": "vé",
+      "word": "vé",
+      "language": "vi",
+      "sentence": "Tôi cần mua ___ cho chuyến đi."
+    },
+    "updatedAt": "2025-03-12T14:51:34.606Z",
+    "createdAt": "2025-03-12T14:51:34.606Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "d8cb0140-3a08-4a7b-9b48-406cea93d8cb"
+  },
+  "exampleSentencesTranslated": [
+    "I bought movie tickets for the whole group already.",
+    "I forgot to bring my train ticket when I went to the station this morning.",
+    "Can you book a plane ticket online?"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A ticket, typically for travel or entry to an event.",
+      "es": "Un boleto, típicamente para viajar o entrar a un evento.",
+      "vi": "Một tấm vé, thường dùng để đi lại hoặc vào một sự kiện."
+    },
+    "createdAt": "2025-01-28T12:25:07.690Z",
+    "example": {
+      "en": "I bought a ticket to the movie.",
+      "es": "Compré un boleto para la película.",
+      "vi": "Tôi đã mua vé xem phim."
+    },
+    "translations": {
+      "en": "ticket",
+      "es": "boleto",
+      "vi": "vé"
+    }
+  },
+  "notes_md": "**Vé** means *ticket* — something you buy or get to enter, travel, or attend something.\n\nIt’s a countable noun: *một vé, hai vé*; you can also say *một tấm vé* (more specific, but often just *vé* is fine).  \nCommon pairings: *mua vé* (buy a ticket), *đặt vé* (book), *bán vé* (sell), *vé máy bay, vé tàu, vé xem phim, vé vào cửa*.  \nIt can also mean a pass or invitation in some cases, like *vé mời* (invitation ticket).  \n\nThink of **vé** as your “entry pass” — if you don’t have it, you’re not getting in.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "ticket",
+  "_id": "UQKge055fTTkuFSNMjCX"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T18:04:55.505Z",
+  "exampleSentences": [
+    "Cuối tuần này, anh muốn đi dã ngoại gần suối cùng bạn bè.",
+    "Chị thấy nước trong suối rất mát và sạch vào mùa hè.",
+    "Em thường nghe tiếng chim hót bên cạnh suối mỗi sáng sớm."
+  ],
+  "multiChoiceQuiz": {
+    "id": "28f2f096-a403-4b7e-bbe6-05f435c9cd59",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:50:09.810Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần đi đến ___ gần đây.",
+      "hint": "s__i",
+      "word": "suối",
+      "language": "vi",
+      "translation": {
+        "en": "We need to go to the nearby stream."
+      },
+      "answer": "suối",
+      "choices": [
+        "suối",
+        "biển",
+        "hồ"
+      ],
+      "translatedAnswer": {
+        "en": "stream"
+      }
+    },
+    "updatedAt": "2025-03-12T16:50:09.810Z"
+  },
+  "choices": [
+    "suối",
+    "núi",
+    "biển"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "This weekend, I want to have a picnic near the stream with friends.",
+    "She finds the water in the stream very cool and clean in the summer.",
+    "I often hear birds singing next to the stream every early morning."
+  ],
+  "word": "suối",
+  "notes": "Suối = a small natural stream, usually in the mountains or countryside. Smaller than a sông (river).\n\nIt’s a countable noun. Use the classifier con → một con suối.  \nOften goes with words about nature: nước suối (stream water), bên suối (by the stream), qua suối (cross a stream).\n\nThink: suối < sông (size difference helps you remember).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:20:22.016Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A small, narrow river or stream.",
+      "es": "Un río o arroyo pequeño y estrecho.",
+      "vi": "Một con sông hoặc suối nhỏ, hẹp."
+    },
+    "example": {
+      "en": "We will take a walk by the stream.",
+      "es": "Vamos a dar un paseo junto al arroyo.",
+      "vi": "Chúng ta sẽ đi dạo bên suối."
+    },
+    "translations": {
+      "vi": "suối",
+      "es": "arroyo",
+      "en": "stream"
+    }
+  },
+  "notes_md": "**Suối** = a small natural stream, usually in the mountains or countryside. Smaller than a **sông** (river).\n\nIt’s a countable noun. Use the classifier **con** → *một con suối*.  \nOften goes with words about nature: *nước suối* (stream water), *bên suối* (by the stream), *qua suối* (cross a stream).\n\nThink: **suối < sông** (size difference helps you remember).",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "stream"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I like to sit by the stream."
+      },
+      "answer": "suối",
+      "sentence": "Tôi thích ngồi bên ___.",
+      "word": "suối"
+    },
+    "updatedAt": "2025-03-12T16:50:09.810Z",
+    "type": "fillBlankQuiz",
+    "id": "80e5cd25-82c2-4f09-9c47-cbc3c487f4ae",
+    "createdAt": "2025-03-12T16:50:09.810Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "stream",
+  "rank": 2854,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "z1I6PzdALAtrprk3oLkm"
+}

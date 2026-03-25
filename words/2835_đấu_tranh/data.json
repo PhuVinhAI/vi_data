@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đấu tranh",
+    "học tập",
+    "giúp đỡ"
+  ],
+  "rank": 2835,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "13d39b72-865b-4eeb-9920-8d7cfd663aa8",
+    "content": {
+      "hint": "đ___n",
+      "answer": "đấu tranh",
+      "language": "vi",
+      "word": "đấu tranh",
+      "sentence": "Chúng ta cần ___ để đạt được tự do.",
+      "translation": {
+        "en": "We need to struggle to achieve freedom."
+      },
+      "translatedAnswer": {
+        "en": "struggle"
+      },
+      "choices": [
+        "đấu tranh",
+        "cố gắng",
+        "phấn đấu"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:12:53.909Z",
+    "createdAt": "2025-03-12T15:12:53.909Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Em phải đấu tranh mỗi ngày để đạt được mục tiêu của mình.",
+    "Anh ấy đã đấu tranh rất nhiều để bảo vệ ý kiến của mình.",
+    "Chúng ta cần đấu tranh cho quyền lợi của mọi người trong nhóm."
+  ],
+  "notes": "đấu tranh = to struggle or fight (for something or against something). It can be physical, emotional, or about ideas and rights.\n\nIt’s usually used for serious effort or conflict, not small daily problems. Very common with causes, rights, injustice, or inner conflict.\n\nAs a noun, you’ll often see cuộc đấu tranh = a struggle/a movement. Close words: chiến đấu (actual fighting in battle), vật lộn (physical struggle), opposite idea: đầu hàng (give up, surrender).",
+  "word": "đấu tranh",
+  "updatedAt": "2026-03-03T18:02:34.360Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:12:53.909Z",
+    "updatedAt": "2025-03-12T15:12:53.909Z",
+    "content": {
+      "answer": "đấu tranh",
+      "word": "đấu tranh",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để đạt được tự do.",
+      "translation": {
+        "en": "We need to struggle to achieve freedom."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "struggle"
+      }
+    },
+    "id": "f689d8d1-dc82-4e54-9a43-2b72f9ff70c1"
+  },
+  "exampleSentencesTranslated": [
+    "I have to struggle every day to achieve my goals.",
+    "He had to struggle a lot to protect his opinion.",
+    "We need to struggle for everyone's rights in the group."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "We need to fight for our rights.",
+      "es": "Necesitamos luchar por nuestros derechos.",
+      "vi": "Chúng ta cần đấu tranh cho quyền lợi của mình."
+    },
+    "translations": {
+      "en": "to struggle",
+      "es": "luchar",
+      "vi": "đấu tranh"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:47:33.657Z",
+    "definitions": {
+      "en": "To struggle or fight for a cause or against oppression.",
+      "es": "Luchar o pelear por una causa o contra la opresión.",
+      "vi": "Để đấu tranh hoặc chiến đấu cho một lý do hoặc chống lại sự áp bức."
+    }
+  },
+  "notes_md": "**đấu tranh** = to struggle or fight (for something or against something). It can be physical, emotional, or about ideas and rights.\n\nIt’s usually used for serious effort or conflict, not small daily problems. Very common with causes, rights, injustice, or inner conflict.\n\n\nAs a noun, you’ll often see **cuộc đấu tranh** = a struggle/a movement. Close words: **chiến đấu** (actual fighting in battle), **vật lộn** (physical struggle), opposite idea: **đầu hàng** (give up, surrender).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "struggle",
+  "_id": "aYM8hRPb1S4znmCUL6Yj"
+}

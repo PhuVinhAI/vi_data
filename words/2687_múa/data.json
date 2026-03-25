@@ -1,0 +1,99 @@
+{
+  "rank": 2687,
+  "exampleSentences": [
+    "Cuối tuần này, em sẽ đi học lớp múa với bạn bè.",
+    "Anh rất thích xem các nghệ sĩ múa trên sân khấu lớn.",
+    "Chị muốn thử múa trong buổi biểu diễn của trường vào tháng sau."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:59:39.635Z",
+    "definitions": {
+      "vi": "Di chuyển theo nhịp điệu của âm nhạc, thường theo một chuỗi bước nhất định.",
+      "es": "Moverse rítmicamente al compás de la música, generalmente siguiendo una secuencia de pasos.",
+      "en": "To move rhythmically to music, typically following a set sequence of steps."
+    },
+    "translations": {
+      "vi": "múa",
+      "es": "bailar",
+      "en": "dance"
+    },
+    "example": {
+      "en": "She loves to dance at parties.",
+      "es": "A ella le encanta bailar en las fiestas.",
+      "vi": "Cô ấy thích múa trong các buổi tiệc."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "múa",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:23:57.113Z",
+    "createdAt": "2025-03-12T14:23:57.113Z",
+    "id": "c2ac7dc5-43d1-4c1a-8a86-36f4f987183c",
+    "content": {
+      "answer": "múa",
+      "translatedAnswer": {
+        "en": "dance"
+      },
+      "language": "vi",
+      "choices": [
+        "hát",
+        "múa",
+        "nhảy"
+      ],
+      "translation": {
+        "en": "We will dance in the evening."
+      },
+      "sentence": "Chúng ta sẽ ___ vào buổi tối.",
+      "word": "múa",
+      "hint": "m__a"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**múa** = to dance, usually in a more artistic or performance way. It often sounds more graceful or formal than *nhảy*.\n\nYou use it for traditional, classical, or stage dance: *múa ba lê*, *múa dân gian*, *múa lân*, *múa rối*. It can also act like a noun when talking about dance as an art form (like going to watch dance).\n\n\nQuick contrast: *nhảy* is more like casual dancing at a party; *múa* feels more performed or choreographed.",
+  "choices": [
+    "múa",
+    "vẽ",
+    "hát"
+  ],
+  "updatedAt": "2026-03-03T11:36:03.394Z",
+  "exampleSentencesTranslated": [
+    "This weekend, I will go to a dance class with friends.",
+    "He really likes watching artists dance on the big stage.",
+    "She wants to try dance in the school's performance next month."
+  ],
+  "notes": "múa = to dance, usually in a more artistic or performance way. It often sounds more graceful or formal than nhảy.\n\nYou use it for traditional, classical, or stage dance: múa ba lê, múa dân gian, múa lân, múa rối. It can also act like a noun when talking about dance as an art form (like going to watch dance).\n\nQuick contrast: nhảy is more like casual dancing at a party; múa feels more performed or choreographed.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:23:57.113Z",
+    "updatedAt": "2025-03-12T14:23:57.113Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "múa",
+      "translatedAnswer": {
+        "en": "dancing"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "She enjoys dancing a lot."
+      },
+      "sentence": "Cô ấy thích ___ rất nhiều.",
+      "word": "múa"
+    },
+    "type": "fillBlankQuiz",
+    "id": "c6e96173-1776-4cc6-a4a9-5eed485fc703"
+  },
+  "definition": "dance",
+  "_id": "NyGAxKuiQ1tIVdkTuoN8"
+}

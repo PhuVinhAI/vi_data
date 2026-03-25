@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Do you have interest in learning Vietnamese?",
+    "She always finds interest in her new job.",
+    "The children show special interest in outdoor activities."
+  ],
+  "word": "hứng thú",
+  "choices": [
+    "hứng thú",
+    "vui vẻ",
+    "nghiêm túc"
+  ],
+  "exampleSentences": [
+    "Anh có hứng thú với việc học tiếng Việt không?",
+    "Chị ấy luôn tìm thấy hứng thú trong công việc mới.",
+    "Bọn trẻ thể hiện hứng thú đặc biệt với các hoạt động ngoài trời."
+  ],
+  "updatedAt": "2026-03-03T09:00:00.533Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:49:49.090Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7a4fcdfd-1cc2-4d62-ac1c-0b4f4fb5f5cb",
+    "content": {
+      "translation": {
+        "en": "I am very interested in this subject."
+      },
+      "choices": [
+        "thú vị",
+        "hứng thú",
+        "mới mẻ"
+      ],
+      "answer": "hứng thú",
+      "translatedAnswer": {
+        "en": "interested"
+      },
+      "language": "vi",
+      "hint": "h___ thú",
+      "word": "hứng thú",
+      "sentence": "Tôi rất ___ với môn học này."
+    },
+    "updatedAt": "2025-03-12T16:49:49.090Z",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Tôi rất hứng thú với môn học này.",
+      "en": "I am very interested in this subject.",
+      "es": "Estoy muy interesado en esta materia."
+    },
+    "definitions": {
+      "vi": "Cảm giác muốn biết hoặc học hỏi về một điều gì đó.",
+      "en": "A feeling of wanting to know or learn about something.",
+      "es": "Una sensación de querer saber o aprender sobre algo."
+    },
+    "translations": {
+      "vi": "hứng thú",
+      "en": "interest",
+      "es": "interés"
+    },
+    "createdAt": "2025-01-28T14:20:03.921Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "hứng thú = interest, feeling curious or excited about something.\n\nIt’s a noun. You usually say có hứng thú với + something or với việc + verb (Structure: có hứng thú với + danh từ / việc + V).  \n\nCommon pairings: tạo hứng thú (create interest), khơi gợi hứng thú (spark interest), mất hứng thú (lose interest).  \n\nClose words: quan tâm (to care/be interested in – more neutral), đam mê (passion – much stronger). Opposite feeling: chán (bored).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "hứng thú",
+      "sentence": "Tôi rất ___ với môn học này.",
+      "translatedAnswer": {
+        "en": "interested"
+      },
+      "translation": {
+        "en": "I am very interested in this subject."
+      },
+      "answer": "hứng thú",
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:49:49.090Z",
+    "id": "3d7c5ac5-d58b-4ed9-9933-6c58d270617b",
+    "createdAt": "2025-03-12T16:49:49.090Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "interest",
+  "rank": 1532,
+  "notes_md": "**hứng thú** = interest, feeling curious or excited about something.\n\nIt’s a noun. You usually say **có hứng thú với + something** or **với việc + verb** (Structure: có hứng thú với + danh từ / việc + V).  \n\nCommon pairings: **tạo hứng thú** (create interest), **khơi gợi hứng thú** (spark interest), **mất hứng thú** (lose interest).  \n\nClose words: **quan tâm** (to care/be interested in – more neutral), **đam mê** (passion – much stronger). Opposite feeling: **chán** (bored).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "yvruvPmwLmZcez41qz3B"
+}

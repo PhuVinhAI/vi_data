@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cực đoan",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "3c00bc16-3c48-4001-9070-4649a34e87e5",
+    "content": {
+      "hint": "c___n",
+      "answer": "cực đoan",
+      "translatedAnswer": {
+        "en": "extreme"
+      },
+      "translation": {
+        "en": "Her views are very extreme."
+      },
+      "language": "vi",
+      "sentence": "Quan điểm của cô ấy rất ___.",
+      "word": "cực đoan",
+      "choices": [
+        "cực đoan",
+        "bình thường",
+        "tương đối"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:34:57.420Z",
+    "updatedAt": "2025-03-12T13:34:57.420Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cực đoan** means *extreme* — going too far in opinions, behavior, or actions. It often has a negative feeling, like “too much” or “not balanced.”\n\nIt describes abstract things like **ý kiến, quan điểm, hành động, tư tưởng**. You can say someone **trở nên cực đoan** (become extreme) or that something is **quá cực đoan**.\n\nIt’s commonly about attitudes, politics, or emotional reactions.  \nStrong memory link: **ôn hòa** (moderate, calm) is the opposite; similar vibe to **quá khích** or **thái quá** (over-the-top).",
+  "rank": 2277,
+  "choices": [
+    "cẩn thận",
+    "cực đoan",
+    "hòa bình"
+  ],
+  "notes": "cực đoan means extreme — going too far in opinions, behavior, or actions. It often has a negative feeling, like “too much” or “not balanced.”\n\nIt describes abstract things like ý kiến, quan điểm, hành động, tư tưởng. You can say someone trở nên cực đoan (become extreme) or that something is quá cực đoan.\n\nIt’s commonly about attitudes, politics, or emotional reactions.  \nStrong memory link: ôn hòa (moderate, calm) is the opposite; similar vibe to quá khích or thái quá (over-the-top).",
+  "updatedAt": "2026-03-03T10:19:14.083Z",
+  "exampleSentences": [
+    "Anh ấy có ý kiến cực đoan về vấn đề môi trường.",
+    "Không nên hành động cực đoan khi gặp khó khăn trong công việc.",
+    "Chị nghĩ rằng cách giải quyết đó hơi cực đoan quá."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "8bab79cf-75d9-4617-9724-2cdd0e726354",
+    "content": {
+      "choices": [],
+      "word": "cực đoan",
+      "sentence": "Quan điểm của cô ấy rất ___.",
+      "language": "vi",
+      "translation": {
+        "en": "Her views are very extreme."
+      },
+      "translatedAnswer": {
+        "en": "extreme"
+      },
+      "answer": "cực đoan"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:34:57.420Z",
+    "updatedAt": "2025-03-12T13:34:57.420Z"
+  },
+  "exampleSentencesTranslated": [
+    "He has an extreme opinion about environmental issues.",
+    "You shouldn't act in an extreme way when facing difficulties at work.",
+    "She thinks that solution is a bit too extreme."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "extreme",
+      "vi": "cực đoan",
+      "es": "extremo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:14:19.341Z",
+    "definitions": {
+      "en": "Relating to ideas or actions that are far from what is considered normal or moderate.",
+      "es": "Relativo a ideas o acciones que están lejos de lo que se considera normal o moderado.",
+      "vi": "Liên quan đến những ý tưởng hoặc hành động rất khác biệt so với những gì được coi là bình thường hoặc vừa phải."
+    },
+    "example": {
+      "en": "His views are very extreme.",
+      "es": "Sus opiniones son muy extremas.",
+      "vi": "Quan điểm của anh ấy rất cực đoan."
+    }
+  },
+  "definition": "extreme",
+  "_id": "C6H1lztU8MDWuoKUimDi"
+}

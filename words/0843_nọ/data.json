@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Cái đó là của tôi.",
+      "en": "That is mine.",
+      "es": "Eso es mío."
+    },
+    "definitions": {
+      "en": "A demonstrative pronoun used to refer to something that is distant from the speaker.",
+      "vi": "Một đại từ chỉ định được sử dụng để chỉ một cái gì đó xa người nói.",
+      "es": "Un pronombre demostrativo utilizado para referirse a algo que está distante del hablante."
+    },
+    "createdAt": "2025-01-28T12:22:32.751Z",
+    "translations": {
+      "en": "that",
+      "vi": "nọ",
+      "es": "eso"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh nhớ cái áo xanh em mặc hôm nọ không?",
+    "Chị kể chuyện về người bạn cũ nọ rất thú vị.",
+    "Em tìm thấy cuốn sách nọ mà anh hỏi tuần trước."
+  ],
+  "notes_md": "**nọ** means **that (one)** — usually something already mentioned or known by both people, often a bit distant in time or context.\n\nIt comes **after the noun** and works like a demonstrative word.  \n\nIt often refers to something from earlier, like “the other day” in **hôm nọ** (a few days ago, not today).  \n\nIt’s similar to **đó** or **kia**, but **nọ** feels more like “that one we talked about before,” not something physically near you.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "one"
+      },
+      "language": "vi",
+      "sentence": "Cái đó là ___ mà tôi đã thấy.",
+      "choices": [],
+      "word": "nọ",
+      "translation": {
+        "en": "That is the one I saw."
+      },
+      "answer": "nọ"
+    },
+    "updatedAt": "2025-03-12T14:48:30.455Z",
+    "type": "fillBlankQuiz",
+    "id": "66b1ccb4-9ac8-425f-99a0-a6edde7e8893",
+    "createdAt": "2025-03-12T14:48:30.455Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "that",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Do you remember the blue shirt you wore that day?",
+    "She told a story about that old friend, which was very interesting.",
+    "I found that book you asked about last week."
+  ],
+  "rank": 843,
+  "word": "nọ",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:48:30.455Z",
+    "content": {
+      "hint": "n__",
+      "answer": "nọ",
+      "translation": {
+        "en": "That is the one I saw."
+      },
+      "word": "nọ",
+      "choices": [
+        "này",
+        "đó",
+        "nọ"
+      ],
+      "translatedAnswer": {
+        "en": "one"
+      },
+      "language": "vi",
+      "sentence": "Cái đó là ___ mà tôi đã thấy."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "69b2ef92-c89f-49d3-a233-9f002a58d664",
+    "createdAt": "2025-03-12T14:48:30.455Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:46:15.985Z",
+  "choices": [
+    "nọ",
+    "này",
+    "kia"
+  ],
+  "notes": "nọ means that (one) — usually something already mentioned or known by both people, often a bit distant in time or context.\n\nIt comes after the noun and works like a demonstrative word.  \n\nIt often refers to something from earlier, like “the other day” in hôm nọ (a few days ago, not today).  \n\nIt’s similar to đó or kia, but nọ feels more like “that one we talked about before,” not something physically near you.",
+  "_id": "TsKMyrzd0GD3Nec58EXj"
+}

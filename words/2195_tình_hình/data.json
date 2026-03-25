@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:10:25.203Z",
+  "exampleSentences": [
+    "Tối qua anh nghe tin về tình hình ở thành phố chưa?",
+    "Chị có thể cập nhật tình hình công việc cho em được không?",
+    "Bác sĩ nói tình hình sức khỏe của bà đã tốt hơn nhiều."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:35:16.961Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "ecf01efa-e500-4e91-95eb-5ce69b373101",
+    "content": {
+      "sentence": "Chúng ta cần biết ___ hiện tại.",
+      "hint": "t___n",
+      "word": "tình hình",
+      "language": "vi",
+      "choices": [
+        "tình hình",
+        "kết quả",
+        "thông tin"
+      ],
+      "answer": "tình hình",
+      "translation": {
+        "en": "We need to know the current situation."
+      },
+      "translatedAnswer": {
+        "en": "situation"
+      }
+    },
+    "updatedAt": "2025-03-12T16:35:16.961Z",
+    "type": "multiChoiceQuiz"
+  },
+  "choices": [
+    "tình hình",
+    "kết quả",
+    "lý do"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Did you hear the news about the situation in the city last night?",
+    "Can you update me about the situation at work?",
+    "The doctor said the situation of her health has improved a lot."
+  ],
+  "word": "tình hình",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Tình hình means “situation” — the overall state of something at a certain time. It’s broad and often about news, work, health, politics, weather, etc.\n\nIt’s a noun and usually uncountable; you don’t use classifiers with it. Common pairings: tình hình hiện tại (current situation), tình hình chung (general situation), tình hình kinh tế (economic situation).\n\nYou’ll often see it followed by a specific area or topic to narrow it down. It can also stand alone when both people already know what situation they’re talking about.\n\nClose synonym: tình trạng — but tình trạng often focuses more on condition/status, sometimes more specific or technical.",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:06:34.820Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tình hình thời tiết hôm nay rất đẹp.",
+      "en": "The weather situation today is very nice.",
+      "es": "La situación del tiempo hoy es muy agradable."
+    },
+    "definitions": {
+      "en": "A state or condition of affairs.",
+      "es": "Un estado o condición de las cosas.",
+      "vi": "Một trạng thái hoặc điều kiện của sự việc."
+    },
+    "translations": {
+      "en": "situation",
+      "es": "situación",
+      "vi": "tình hình"
+    }
+  },
+  "notes_md": "**Tình hình** means “situation” — the overall state of something at a certain time. It’s broad and often about news, work, health, politics, weather, etc.\n\nIt’s a noun and usually uncountable; you don’t use classifiers with it. Common pairings: *tình hình hiện tại* (current situation), *tình hình chung* (general situation), *tình hình kinh tế* (economic situation).\n\nYou’ll often see it followed by a specific area or topic to narrow it down. It can also stand alone when both people already know what situation they’re talking about.\n\nClose synonym: **tình trạng** — but *tình trạng* often focuses more on condition/status, sometimes more specific or technical.",
+  "definition": "situation",
+  "rank": 2195,
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng ta cần biết ___ hiện tại.",
+      "word": "tình hình",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "situation"
+      },
+      "choices": [],
+      "answer": "tình hình",
+      "translation": {
+        "en": "We need to know the current situation."
+      }
+    },
+    "updatedAt": "2025-03-12T16:35:16.961Z",
+    "type": "fillBlankQuiz",
+    "id": "1d296734-7f5b-41a2-84ac-cd509d9917cb",
+    "createdAt": "2025-03-12T16:35:16.961Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vcR3H0bmVJ5eNY3sOv7w"
+}

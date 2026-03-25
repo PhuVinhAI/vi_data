@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "6bedf6b4-ae8c-4a6e-87e4-648d3c2cbc8c",
+    "createdAt": "2025-03-12T16:13:15.202Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:13:15.202Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích nghe ___ trong buổi tiệc.",
+      "choices": [],
+      "language": "vi",
+      "answer": "nhạc",
+      "word": "nhạc",
+      "translation": {
+        "en": "I like to listen to music at the party."
+      },
+      "translatedAnswer": {
+        "en": "music"
+      }
+    }
+  },
+  "word": "nhạc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**nhạc** = music (sounds made for listening, like songs or instrumental pieces).  \n\nIt’s an uncountable noun in English, but in Vietnamese you often add words like **bài** (song) → *bài nhạc*, or name the type: **nhạc pop, nhạc rock, nhạc cổ điển**.  \nCommon verbs: **nghe nhạc** (listen to music), **mở nhạc** (turn on music), **bật nhạc** (switch on music), **viết/sáng tác nhạc** (compose music).  \nRelated word: **âm nhạc** = music as an art form (a bit more formal).",
+  "rank": 374,
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [
+        "hát",
+        "nhạc",
+        "thơ"
+      ],
+      "answer": "nhạc",
+      "word": "nhạc",
+      "hint": "n___",
+      "translation": {
+        "en": "I like to listen to music in the morning."
+      },
+      "translatedAnswer": {
+        "en": "music"
+      },
+      "sentence": "Tôi thích nghe ___ vào buổi sáng."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:13:15.202Z",
+    "createdAt": "2025-03-12T16:13:15.202Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d4e0dd99-1bd2-40f7-83e2-e6ca7d2992b5"
+  },
+  "definition": "music",
+  "exampleSentences": [
+    "Em thích nghe nhạc khi học bài vì cảm thấy thư giãn hơn.",
+    "Anh có thể giới thiệu cho chị một vài bài nhạc hay không?",
+    "Chị thường nghe nhạc vào buổi sáng để bắt đầu ngày mới."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Nhạc; nghệ thuật sắp xếp âm thanh theo thời gian để tạo ra một tác phẩm.",
+      "en": "Music; the art of arranging sounds in time to produce a composition.",
+      "es": "Música; el arte de organizar sonidos en el tiempo para producir una composición."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:45:14.447Z",
+    "example": {
+      "en": "I like to listen to music in the evening.",
+      "es": "Me gusta escuchar música por la noche.",
+      "vi": "Tôi thích nghe nhạc vào buổi tối."
+    },
+    "translations": {
+      "vi": "nhạc",
+      "en": "music",
+      "es": "música"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhà",
+    "nhạc",
+    "nhắc"
+  ],
+  "updatedAt": "2026-03-03T06:59:36.867Z",
+  "exampleSentencesTranslated": [
+    "I like to listen to music while studying because it makes me feel more relaxed.",
+    "Can you recommend me some good music?",
+    "She usually listens to music in the morning to start her day."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhạc = music (sounds made for listening, like songs or instrumental pieces).  \n\nIt’s an uncountable noun in English, but in Vietnamese you often add words like bài (song) → bài nhạc, or name the type: nhạc pop, nhạc rock, nhạc cổ điển.  \nCommon verbs: nghe nhạc (listen to music), mở nhạc (turn on music), bật nhạc (switch on music), viết/sáng tác nhạc (compose music).  \nRelated word: âm nhạc = music as an art form (a bit more formal).",
+  "_id": "pofni1TohPSEa8yzKsgn"
+}

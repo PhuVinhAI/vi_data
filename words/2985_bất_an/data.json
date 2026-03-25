@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I feel uneasy when walking alone at night.",
+      "es": "Me siento inquieto al caminar solo por la noche.",
+      "vi": "Tôi cảm thấy bất an khi đi một mình vào ban đêm."
+    },
+    "definitions": {
+      "en": "Feeling of discomfort or anxiety.",
+      "vi": "Cảm giác không thoải mái hoặc lo âu.",
+      "es": "Sensación de incomodidad o ansiedad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:09:29.763Z",
+    "translations": {
+      "vi": "bất an",
+      "es": "inquieto",
+      "en": "uneasy"
+    }
+  },
+  "definition": "uneasy",
+  "exampleSentencesTranslated": [
+    "I feel uneasy when I have to speak in front of a crowd.",
+    "After hearing the bad news, she became very uneasy all night.",
+    "Whenever he is in a strange place, he often feels uneasy inside."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:29:31.544Z",
+    "id": "ad6ea463-015e-4b99-a4a8-2f39e07f2362",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:31.544Z",
+    "content": {
+      "word": "bất an",
+      "sentence": "Tôi cảm thấy ___ khi ở đây.",
+      "language": "vi",
+      "choices": [],
+      "answer": "bất an",
+      "translation": {
+        "en": "I feel uneasy when I am here."
+      },
+      "translatedAnswer": {
+        "en": "uneasy"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T18:19:40.275Z",
+  "exampleSentences": [
+    "Em cảm thấy bất an khi phải nói chuyện trước đám đông.",
+    "Sau khi nghe tin xấu, chị ấy trở nên rất bất an cả đêm.",
+    "Mỗi khi ở nơi lạ, anh thường cảm thấy bất an trong lòng."
+  ],
+  "notes": "Bất an means uneasy, anxious, not at peace inside. It’s that nervous, unsettled feeling when something doesn’t feel right.\n\nIt’s an adjective, often describing a person’s feelings or mood. Common with verbs like cảm thấy, trở nên, or khiến ai đó + bất an.\n\nClose synonyms: lo lắng (worried), bồn chồn (restless). Opposite: yên tâm (feel at ease).",
+  "notes_md": "**Bất an** means *uneasy, anxious, not at peace inside*. It’s that nervous, unsettled feeling when something doesn’t feel right.\n\nIt’s an adjective, often describing a person’s feelings or mood. Common with verbs like *cảm thấy*, *trở nên*, or *khiến ai đó* + bất an.\n\n\nClose synonyms: *lo lắng* (worried), *bồn chồn* (restless). Opposite: *yên tâm* (feel at ease).",
+  "rank": 2985,
+  "choices": [
+    "bất an",
+    "hạnh phúc",
+    "vui vẻ"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:29:31.544Z",
+    "id": "0fdf03bb-4edb-4661-8ebe-364491eed1f5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:31.544Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "uneasy"
+      },
+      "translation": {
+        "en": "She always feels uneasy before the exam."
+      },
+      "hint": "b___n",
+      "answer": "bất an",
+      "choices": [
+        "bất an",
+        "yên tâm",
+        "bình tĩnh"
+      ],
+      "sentence": "Cô ấy luôn cảm thấy ___ trước kỳ thi.",
+      "language": "vi",
+      "word": "bất an"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "bất an",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "AmVxunsnzT5b2ULv18E7"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "con trai",
+    "con gái",
+    "bà ngoại"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:51:01.134Z",
+    "createdAt": "2025-03-12T15:51:01.134Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "06eae993-a571-410e-a4f6-1a1c5e62a045",
+    "content": {
+      "translation": {
+        "en": "She is a beautiful girl."
+      },
+      "word": "con gái",
+      "language": "vi",
+      "choices": [],
+      "sentence": "Cô ấy là ___ xinh đẹp.",
+      "answer": "con gái",
+      "translatedAnswer": {
+        "en": "girl"
+      }
+    }
+  },
+  "exampleSentences": [
+    "Anh rất tự hào về con gái nhỏ của mình.",
+    "Mẹ thường dẫn con gái đi chơi vào cuối tuần.",
+    "Gia đình em có một con gái và một con trai."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "con gái = daughter (your or someone’s female child). It can also mean a girl in general, but most often it’s “daughter.”\n\nIt’s a noun. Use classifiers like đứa (for kids) or sometimes người (more neutral/older): đứa con gái.  \nOften followed by của + person to show whose daughter.\n\nStrong pair: con trai = son (easy contrast to remember).",
+  "definition": "daughter",
+  "rank": 1248,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:51:01.134Z",
+    "updatedAt": "2025-03-12T15:51:01.134Z",
+    "content": {
+      "translation": {
+        "en": "She is the girl in the class."
+      },
+      "word": "con gái",
+      "language": "vi",
+      "sentence": "Cô ấy là ___ trong lớp.",
+      "choices": [
+        "cô gái",
+        "cô bé",
+        "con gái"
+      ],
+      "hint": "c___ gái",
+      "translatedAnswer": {
+        "en": "girl"
+      },
+      "answer": "con gái"
+    },
+    "id": "bd807295-8190-4e88-9eb3-7941893b9712",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**con gái** = daughter (your or someone’s female child). It can also mean a girl in general, but most often it’s “daughter.”\n\nIt’s a noun. Use classifiers like **đứa** (for kids) or sometimes **người** (more neutral/older): *đứa con gái*.  \nOften followed by **của + person** to show whose daughter.\n\n\nStrong pair: **con trai** = son (easy contrast to remember).",
+  "exampleSentencesTranslated": [
+    "He is very proud of his little daughter.",
+    "Mom often takes her daughter out on weekends.",
+    "My family has a daughter and a son."
+  ],
+  "updatedAt": "2026-03-03T08:28:50.194Z",
+  "word": "con gái",
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy là một con gái thông minh.",
+      "es": "Ella es una chica inteligente.",
+      "en": "She is a smart girl."
+    },
+    "definitions": {
+      "en": "A female child or young woman.",
+      "es": "Una niña o mujer joven.",
+      "vi": "Một đứa trẻ gái hoặc phụ nữ trẻ."
+    },
+    "createdAt": "2025-01-28T13:23:30.002Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "chica",
+      "en": "girl",
+      "vi": "con gái"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "jo0XcBuK12bJbvrSxKKF"
+}

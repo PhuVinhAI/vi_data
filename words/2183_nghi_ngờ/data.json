@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "n____",
+      "sentence": "Tôi có ___ về quyết định của họ.",
+      "choices": [
+        "nghi ngờ",
+        "sự thật",
+        "trách nhiệm"
+      ],
+      "translatedAnswer": {
+        "en": "doubts"
+      },
+      "answer": "nghi ngờ",
+      "language": "vi",
+      "translation": {
+        "en": "I have doubts about their decision."
+      },
+      "word": "nghi ngờ"
+    },
+    "id": "6d7e6dbb-13a6-4c9d-b939-a25dc77ae4ae",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:59:38.826Z",
+    "updatedAt": "2025-03-12T15:59:38.826Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nghi ngờ** = to doubt, to suspect that something may not be true or honest. It’s used when you’re not fully convinced.\n\nIt’s a verb: you can nghi ngờ + someone/something, or nghi ngờ + rằng + a clause. It often talks about trust, stories, results, intentions.\n\n\nRelated words: **hoài nghi** (more formal, more “philosophical” doubt), opposite is **tin tưởng** (to trust).",
+  "exampleSentencesTranslated": [
+    "I start to doubt when I hear his story.",
+    "She has no reason to doubt the result of this exam.",
+    "He feels doubt about the promise you made."
+  ],
+  "updatedAt": "2026-03-03T10:09:00.433Z",
+  "flashcard": {
+    "translations": {
+      "vi": "nghi ngờ",
+      "en": "doubt",
+      "es": "duda"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:31:48.552Z",
+    "definitions": {
+      "vi": "Có sự không chắc chắn hoặc nghi ngờ về điều gì đó.",
+      "es": "Tener incertidumbre o sospecha sobre algo.",
+      "en": "To have uncertainty or suspicion about something."
+    },
+    "example": {
+      "vi": "Tôi có nghi ngờ về quyết định của anh ấy.",
+      "en": "I have doubts about his decision.",
+      "es": "Tengo dudas sobre su decisión."
+    }
+  },
+  "word": "nghi ngờ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tin tưởng",
+    "nghi ngờ",
+    "khuyến khích"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I have doubts about their decision."
+      },
+      "word": "nghi ngờ",
+      "sentence": "Tôi có ___ về quyết định của họ.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "doubts"
+      },
+      "answer": "nghi ngờ"
+    },
+    "id": "c7118ae3-8f59-4b97-95a2-3f41afa98ca5",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:59:38.826Z",
+    "updatedAt": "2025-03-12T15:59:38.826Z"
+  },
+  "exampleSentences": [
+    "Em bắt đầu nghi ngờ khi nghe câu chuyện của anh ấy.",
+    "Chị không có lý do nào để nghi ngờ kết quả kỳ thi này.",
+    "Anh cảm thấy nghi ngờ về lời hứa mà bạn đã nói."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "nghi ngờ = to doubt, to suspect that something may not be true or honest. It’s used when you’re not fully convinced.\n\nIt’s a verb: you can nghi ngờ + someone/something, or nghi ngờ + rằng + a clause. It often talks about trust, stories, results, intentions.\n\nRelated words: hoài nghi (more formal, more “philosophical” doubt), opposite is tin tưởng (to trust).",
+  "definition": "doubt",
+  "rank": 2183,
+  "_id": "lvXgEcBcS5VB8bi50KxX"
+}

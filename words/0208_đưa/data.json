@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đi",
+    "đưa",
+    "giữ"
+  ],
+  "rank": 208,
+  "multiChoiceQuiz": {
+    "id": "bce2d053-8b7c-4f32-99f5-4bb1ef064d9f",
+    "createdAt": "2025-03-12T14:58:08.756Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I will give you the document."
+      },
+      "choices": [
+        "đưa",
+        "mang",
+        "cho"
+      ],
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "hint": "d___",
+      "answer": "đưa",
+      "word": "đưa",
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ tài liệu cho bạn."
+    },
+    "updatedAt": "2025-03-12T14:58:08.756Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đưa",
+  "notes": "đưa usually means to give or to hand something to someone. It often implies moving something from one person/place to another.\n\nIt’s a very flexible verb: you can đưa + object + cho + person when giving something physically. It’s also used for taking someone somewhere (like “bring/drive/escort”) and for abstract things like đưa ra ý kiến (give/put forward an opinion).\n\nClose cousin: cho = “give” too, but đưa feels more like physically passing or transferring something.",
+  "exampleSentences": [
+    "Anh có thể đưa cho em cuốn sách trên bàn không?",
+    "Chị nhớ đưa chìa khóa cho mẹ trước khi đi làm nhé.",
+    "Em sẽ đưa giấy này cho giáo viên vào ngày mai."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you give me the book on the table?",
+    "Remember to give the key to mom before going to work.",
+    "I will give this paper to the teacher tomorrow."
+  ],
+  "fillBlankQuiz": {
+    "id": "8039bd92-730b-4fd9-8801-cb3904bb72d5",
+    "createdAt": "2025-03-12T14:58:08.756Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "translation": {
+        "en": "I will give you the document."
+      },
+      "sentence": "Tôi sẽ ___ tài liệu cho bạn.",
+      "language": "vi",
+      "word": "đưa",
+      "answer": "đưa"
+    },
+    "updatedAt": "2025-03-12T14:58:08.756Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:41:30.733Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:30:55.859Z",
+    "definitions": {
+      "en": "to take, to bring, to deliver",
+      "es": "llevar, traer, entregar",
+      "vi": "đưa, mang, chuyển"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "to take",
+      "es": "llevar",
+      "vi": "đưa"
+    },
+    "example": {
+      "en": "I will take you to school.",
+      "es": "Te llevaré a la escuela.",
+      "vi": "Tôi sẽ đưa bạn đến trường."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**đưa** usually means **to give** or **to hand something to someone**. It often implies moving something from one person/place to another.\n\nIt’s a very flexible verb: you can **đưa + object + cho + person** when giving something physically. It’s also used for **taking someone somewhere** (like “bring/drive/escort”) and for abstract things like **đưa ra ý kiến** (give/put forward an opinion).\n\n\nClose cousin: **cho** = “give” too, but **đưa** feels more like physically passing or transferring something.",
+  "definition": "give",
+  "_id": "WNkIXrhbmWFBSz1TOqck"
+}

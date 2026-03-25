@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thầy cô",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:31:44.464Z",
+    "content": {
+      "translation": {
+        "en": "Students respect teachers very much."
+      },
+      "translatedAnswer": {
+        "en": "teachers"
+      },
+      "hint": "t___ cô",
+      "answer": "thầy cô",
+      "choices": [
+        "bạn bè",
+        "thầy cô",
+        "phụ huynh"
+      ],
+      "word": "thầy cô",
+      "language": "vi",
+      "sentence": "Học sinh tôn trọng ___ rất nhiều."
+    },
+    "id": "7c9eba34-d108-46ff-91cb-055910c46b36",
+    "updatedAt": "2025-03-12T13:31:44.464Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "bạn bè",
+    "thầy cô",
+    "học sinh"
+  ],
+  "rank": 2121,
+  "notes_md": "**thầy cô** means *teachers* (usually your teachers at school). It’s a fixed pair: **thầy** = male teacher, **cô** = female teacher, and together it politely refers to teachers in general.\n\nIt’s a plural idea, so you don’t add “-s” or anything — context shows it. You can say **các thầy cô** to clearly mean “the teachers.” Often used with verbs like *kính trọng* (respect), *biết ơn* (be grateful to), *hỏi* (ask).\n\nClose word: **giáo viên** = teacher (more neutral/formal, used in admin contexts). **Thầy cô** feels warmer and more personal.",
+  "notes": "thầy cô means teachers (usually your teachers at school). It’s a fixed pair: thầy = male teacher, cô = female teacher, and together it politely refers to teachers in general.\n\nIt’s a plural idea, so you don’t add “-s” or anything — context shows it. You can say các thầy cô to clearly mean “the teachers.” Often used with verbs like kính trọng (respect), biết ơn (be grateful to), hỏi (ask).\n\nClose word: giáo viên = teacher (more neutral/formal, used in admin contexts). Thầy cô feels warmer and more personal.",
+  "exampleSentences": [
+    "Anh luôn nhớ ơn thầy cô đã giúp anh học tốt hơn.",
+    "Em sẽ tặng hoa cho thầy cô vào ngày Nhà giáo Việt Nam.",
+    "Mỗi khi gặp khó khăn, chị thường hỏi thầy cô để xin lời khuyên."
+  ],
+  "updatedAt": "2026-03-03T10:02:27.048Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:31:44.464Z",
+    "type": "fillBlankQuiz",
+    "id": "5eb414d9-b615-4e39-a762-c559a1a90414",
+    "content": {
+      "word": "thầy cô",
+      "sentence": "Chúng tôi yêu quý ___ của mình.",
+      "language": "vi",
+      "choices": [],
+      "answer": "thầy cô",
+      "translation": {
+        "en": "We cherish our teachers."
+      },
+      "translatedAnswer": {
+        "en": "teachers"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:31:44.464Z"
+  },
+  "exampleSentencesTranslated": [
+    "Anh is always grateful to his teachers for helping him learn better.",
+    "Em will give flowers to her teachers on Vietnamese Teachers' Day.",
+    "Whenever she has difficulties, chị usually asks her teachers for advice."
+  ],
+  "definition": "teachers",
+  "flashcard": {
+    "definitions": {
+      "en": "Teachers; a term used to refer to educators in a respectful manner.",
+      "vi": "Giáo viên; thuật ngữ được sử dụng để chỉ những người dạy học một cách tôn trọng.",
+      "es": "Maestros; un término utilizado para referirse a educadores de manera respetuosa."
+    },
+    "example": {
+      "en": "Teachers always teach us useful things.",
+      "vi": "Thầy cô luôn dạy chúng em những điều bổ ích.",
+      "es": "Los maestros siempre nos enseñan cosas útiles."
+    },
+    "translations": {
+      "vi": "thầy cô",
+      "es": "maestros",
+      "en": "teachers"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:11:25.549Z"
+  },
+  "_id": "BO3Qf3vdp3kEwSCL2a30"
+}

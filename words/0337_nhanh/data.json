@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:56:03.123Z",
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy chạy rất nhanh.",
+      "es": "Ella corre muy rápido.",
+      "en": "She runs very fast."
+    },
+    "definitions": {
+      "en": "Moving or capable of moving at high speed.",
+      "es": "Moviéndose o capaz de moverse a alta velocidad.",
+      "vi": "Di chuyển hoặc có khả năng di chuyển với tốc độ cao."
+    },
+    "createdAt": "2025-01-28T13:17:12.356Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nhanh",
+      "es": "rápido",
+      "en": "fast"
+    }
+  },
+  "word": "nhanh",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "You have to go fast or you will be late for class.",
+    "He always does his homework fast every evening.",
+    "I like to eat this dish because the chef cooks it fast."
+  ],
+  "notes_md": "**Nhanh** means *fast* or *quick*. It describes speed — how fast someone moves, does something, or how quickly something happens.\n\nIt’s an adjective, but in Vietnamese adjectives also act like adverbs, so you use it directly after a verb to mean “quickly.”  \n\n**Nhanh chóng** is a slightly more formal version. Opposite: **chậm** (slow). In the South, people often say **mau** instead of *nhanh*.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:44:30.981Z",
+    "updatedAt": "2025-03-12T15:44:30.981Z",
+    "content": {
+      "word": "nhanh",
+      "translation": {
+        "en": "This car moves fast."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "fast"
+      },
+      "answer": "nhanh",
+      "sentence": "Chiếc xe này di chuyển ___.",
+      "choices": [
+        "chậm",
+        "nhanh",
+        "bình thường"
+      ],
+      "hint": "n___h"
+    },
+    "id": "ed9615e4-b20b-49d3-a314-6779f9a33ed5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 337,
+  "notes": "Nhanh means fast or quick. It describes speed — how fast someone moves, does something, or how quickly something happens.\n\nIt’s an adjective, but in Vietnamese adjectives also act like adverbs, so you use it directly after a verb to mean “quickly.”  \n\nNhanh chóng is a slightly more formal version. Opposite: chậm (slow). In the South, people often say mau instead of nhanh.",
+  "definition": "fast",
+  "exampleSentences": [
+    "Chị phải đi nhanh nếu không sẽ trễ học mất.",
+    "Anh ấy luôn làm bài tập về nhà rất nhanh mỗi tối.",
+    "Em thích ăn món này vì đầu bếp nấu rất nhanh."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chậm",
+    "nhanh",
+    "mới"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "befe1cad-b5b8-479e-91e3-a7ee9cdfe062",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "She runs very fast."
+      },
+      "word": "nhanh",
+      "choices": [],
+      "sentence": "Cô ấy chạy rất ___.",
+      "translatedAnswer": {
+        "en": "fast"
+      },
+      "answer": "nhanh"
+    },
+    "updatedAt": "2025-03-12T15:44:30.981Z",
+    "createdAt": "2025-03-12T15:44:30.981Z"
+  },
+  "_id": "iHTei0R74oZQfE9PUXhx"
+}

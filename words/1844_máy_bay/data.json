@@ -1,0 +1,99 @@
+{
+  "word": "máy bay",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "máy bay",
+    "xe đạp",
+    "tàu hỏa"
+  ],
+  "rank": 1844,
+  "notes_md": "**Máy bay** means *airplane / plane*. It’s the vehicle that flies in the sky to carry people or goods.\n\nIt’s a noun. You can count it with **cái** or **chiếc** → *một cái máy bay*, *hai chiếc máy bay* (chiếc sounds a bit more specific/polished).  \n\nVery common pairings: **đi máy bay** (travel by plane), **vé máy bay** (plane ticket), **sân bay** (airport), **cất cánh** (take off), **hạ cánh** (land).  \n\nThink of it as the “default” word for airplane in everyday Vietnamese.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:17:14.263Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:14.263Z",
+    "content": {
+      "choices": [
+        "xe buýt",
+        "máy bay",
+        "tàu hỏa"
+      ],
+      "word": "máy bay",
+      "sentence": "Chúng ta sẽ đi bằng ___ vào cuối tuần.",
+      "language": "vi",
+      "translation": {
+        "en": "We will go by airplane this weekend."
+      },
+      "translatedAnswer": {
+        "en": "airplane"
+      },
+      "answer": "máy bay",
+      "hint": "m___ b__"
+    },
+    "id": "d0cc6b99-a0fe-4b20-ba31-8d405ef3d68e",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh sẽ đi máy bay đến Đà Nẵng vào cuối tuần này.",
+    "Chị thích ngắm máy bay cất cánh ở sân bay với bạn bè.",
+    "Em chưa bao giờ đi máy bay nên rất háo hức."
+  ],
+  "updatedAt": "2026-03-03T09:33:08.071Z",
+  "notes": "Máy bay means airplane / plane. It’s the vehicle that flies in the sky to carry people or goods.\n\nIt’s a noun. You can count it with cái or chiếc → một cái máy bay, hai chiếc máy bay (chiếc sounds a bit more specific/polished).  \n\nVery common pairings: đi máy bay (travel by plane), vé máy bay (plane ticket), sân bay (airport), cất cánh (take off), hạ cánh (land).  \n\nThink of it as the “default” word for airplane in everyday Vietnamese.",
+  "definition": "airplane",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một phương tiện được thiết kế để di chuyển trên không có cánh và một hoặc nhiều động cơ.",
+      "es": "Un vehículo diseñado para viajar por aire que tiene alas y uno o más motores.",
+      "en": "A vehicle designed for air travel that has wings and one or more engines."
+    },
+    "example": {
+      "en": "I will fly to Hanoi by plane.",
+      "vi": "Tôi sẽ đi máy bay đến Hà Nội.",
+      "es": "Voy a volar a Hanói en avión."
+    },
+    "translations": {
+      "vi": "máy bay",
+      "es": "avión",
+      "en": "plane"
+    },
+    "createdAt": "2025-01-28T12:51:58.121Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I will go to Da Nang by airplane this weekend.",
+    "She likes to watch the airplane take off at the airport with friends.",
+    "I have never traveled by airplane so I am very excited."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:17:14.263Z",
+    "id": "ae46bbd2-cffe-4b99-8e77-e4426a692b3e",
+    "content": {
+      "translatedAnswer": {
+        "en": "airplane"
+      },
+      "translation": {
+        "en": "I am traveling by airplane today."
+      },
+      "answer": "máy bay",
+      "choices": [],
+      "sentence": "Tôi đi bằng ___ hôm nay.",
+      "language": "vi",
+      "word": "máy bay"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:17:14.263Z",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "bTrRsaCzI06wwShvxFlz"
+}

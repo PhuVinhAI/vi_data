@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh luôn nhớ về những kỷ niệm đẹp của tuổi trẻ mình.",
+    "Tuổi trẻ là khoảng thời gian quan trọng để học hỏi và phát triển.",
+    "Nhiều người muốn sử dụng tuổi trẻ để đi du lịch và trải nghiệm."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tuổi già",
+    "tuổi trẻ",
+    "trẻ em"
+  ],
+  "fillBlankQuiz": {
+    "id": "2077da4a-dd32-4e38-9176-f9742fc7a2bc",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi yêu ___ của mình.",
+      "translatedAnswer": {
+        "en": "youth"
+      },
+      "answer": "tuổi trẻ",
+      "translation": {
+        "en": "I love my youth."
+      },
+      "word": "tuổi trẻ",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:47:07.342Z",
+    "createdAt": "2025-03-12T15:47:07.342Z"
+  },
+  "rank": 1617,
+  "notes": "tuổi trẻ = youth, the period when you’re young (teen to young adult years). It often carries a feeling of energy, dreams, and first experiences.\n\nIt’s an uncountable noun in most cases, talking about life stage, not a specific number of years. You’ll hear it in emotional or reflective contexts, especially when looking back.\n\nCommon pairings: một thời tuổi trẻ (a whole phase of youth), tuổi trẻ của tôi (my youth), opposite is tuổi già (old age). A close synonym is thanh xuân — more poetic and romantic.",
+  "definition": "youth",
+  "notes_md": "**tuổi trẻ** = youth, the period when you’re young (teen to young adult years). It often carries a feeling of energy, dreams, and first experiences.\n\nIt’s an uncountable noun in most cases, talking about life stage, not a specific number of years. You’ll hear it in emotional or reflective contexts, especially when looking back.\n\nCommon pairings: *một thời tuổi trẻ* (a whole phase of youth), *tuổi trẻ của tôi* (my youth), opposite is *tuổi già* (old age). A close synonym is *thanh xuân* — more poetic and romantic.",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I remember my youth."
+      },
+      "word": "tuổi trẻ",
+      "translatedAnswer": {
+        "en": "youth"
+      },
+      "answer": "tuổi trẻ",
+      "hint": "t__i t__",
+      "sentence": "Tôi nhớ ___ của mình.",
+      "choices": [
+        "thanh xuân",
+        "tuổi trẻ",
+        "thời niên thiếu"
+      ]
+    },
+    "id": "8d1eb98b-596c-456e-944c-126280a1a926",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:47:07.342Z",
+    "updatedAt": "2025-03-12T15:47:07.342Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:09:01.888Z",
+  "flashcard": {
+    "example": {
+      "es": "La juventud es un momento para explorar y aprender.",
+      "en": "Youth is a time to explore and learn.",
+      "vi": "Tuổi trẻ là thời gian để khám phá và học hỏi."
+    },
+    "createdAt": "2025-01-28T13:19:41.160Z",
+    "definitions": {
+      "vi": "Thời kỳ còn trẻ, thường liên quan đến sức sống và sự khám phá.",
+      "es": "El período de ser joven, típicamente asociado con la vitalidad y la exploración.",
+      "en": "The period of being young, typically associated with vitality and exploration."
+    },
+    "translations": {
+      "vi": "tuổi trẻ",
+      "es": "juventud",
+      "en": "youth"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "tuổi trẻ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He always remembers the beautiful memories of his youth.",
+    "Youth is an important time to learn and grow.",
+    "Many people want to use their youth to travel and experience new things."
+  ],
+  "_id": "ipYY46lKfdpe5rnlOQdw"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "contribution",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:42:56.424Z",
+    "id": "30559a23-5921-4afe-a2f1-53e1abc63380",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "contribute"
+      },
+      "language": "vi",
+      "sentence": "Mọi người đều muốn ___ cho xã hội.",
+      "answer": "đóng góp",
+      "translation": {
+        "en": "Everyone wants to contribute to society."
+      },
+      "choices": [],
+      "word": "đóng góp"
+    },
+    "updatedAt": "2025-03-12T14:42:56.424Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh rất tự hào về đóng góp của mình cho dự án này.",
+    "Chị muốn cảm ơn tất cả mọi người vì đóng góp quý giá.",
+    "Mỗi đóng góp nhỏ đều có ý nghĩa lớn đối với cộng đồng."
+  ],
+  "notes_md": "**Đóng góp** means *to contribute* — to give money, effort, ideas, or time to help something. It can also be a **noun**, meaning *a contribution*.\n\nAs a verb, it often goes with things like *tiền* (money), *ý kiến* (ideas), *công sức* (effort), *thời gian* (time).  \n\nAs a noun, you’ll hear *sự đóng góp* (more formal) or *những đóng góp* when talking about multiple contributions.\n\nClose synonym: **góp** (shorter, more casual); **cống hiến** is stronger, more about long-term dedication.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "contribute",
+      "vi": "đóng góp",
+      "es": "contribuir"
+    },
+    "definitions": {
+      "en": "To give or supply something, especially in order to help achieve or provide something.",
+      "vi": "Cung cấp hoặc đóng góp cái gì đó, đặc biệt là để giúp đạt được hoặc cung cấp một cái gì đó.",
+      "es": "Dar o suministrar algo, especialmente para ayudar a lograr o proporcionar algo."
+    },
+    "createdAt": "2025-01-28T12:17:35.212Z",
+    "example": {
+      "en": "Everyone should contribute their ideas to the project.",
+      "vi": "Mọi người nên đóng góp ý kiến cho dự án.",
+      "es": "Todos deberían contribuir con sus ideas al proyecto."
+    }
+  },
+  "notes": "Đóng góp means to contribute — to give money, effort, ideas, or time to help something. It can also be a noun, meaning a contribution.\n\nAs a verb, it often goes with things like tiền (money), ý kiến (ideas), công sức (effort), thời gian (time).  \n\nAs a noun, you’ll hear sự đóng góp (more formal) or những đóng góp when talking about multiple contributions.\n\nClose synonym: góp (shorter, more casual); cống hiến is stronger, more about long-term dedication.",
+  "choices": [
+    "đồng ý",
+    "đóng góp",
+    "giới thiệu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:10:25.077Z",
+  "word": "đóng góp",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "d3f17725-d9ed-43a9-b311-23c250f4b4cc",
+    "createdAt": "2025-03-12T14:42:56.424Z",
+    "updatedAt": "2025-03-12T14:42:56.424Z",
+    "content": {
+      "hint": "đ___g",
+      "translation": {
+        "en": "Do you want to contribute to the project?"
+      },
+      "answer": "đóng góp",
+      "word": "đóng góp",
+      "choices": [
+        "đóng góp",
+        "đổi mới",
+        "hợp tác"
+      ],
+      "translatedAnswer": {
+        "en": "contribute"
+      },
+      "language": "vi",
+      "sentence": "Bạn có muốn ___ cho dự án không?"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He is very proud of his contribution to this project.",
+    "She wants to thank everyone for their valuable contribution.",
+    "Every small contribution has great meaning for the community."
+  ],
+  "rank": 1073,
+  "_id": "SWOwNm5exGLoho159jL6"
+}

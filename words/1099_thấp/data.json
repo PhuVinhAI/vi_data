@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "thấp",
+      "translation": {
+        "en": "She is taller and he is lower."
+      },
+      "translatedAnswer": {
+        "en": "lower"
+      },
+      "answer": "thấp",
+      "hint": "t___",
+      "sentence": "Cô ấy cao hơn và anh ấy ___ hơn.",
+      "choices": [
+        "thấp",
+        "cao",
+        "bằng"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f89bec07-1ec0-4c59-83b0-24c638cfcfb6",
+    "createdAt": "2025-03-12T15:58:46.608Z",
+    "updatedAt": "2025-03-12T15:58:46.608Z"
+  },
+  "notes_md": "**thấp** = low or short. It’s the opposite of **cao** (high/tall).\n\nIt describes height (người thấp), level/amount (giá thấp, lương thấp), temperature, sound volume, or quality/ability (trình độ thấp). It can describe both physical things and abstract levels.\n\nYou often compare it with **hơn** or make superlatives with **nhất**.\n\n**Structure:** thấp + hơn + N (thấp hơn tôi)\n\nMemory tip: think **thấp ↔ cao** as a basic pair for low vs high in almost any situation.",
+  "exampleSentencesTranslated": [
+    "My house is in an area where the rental prices are quite low.",
+    "I feel insecure because my height is a bit low.",
+    "The temperature today is much lower than yesterday, so it is low."
+  ],
+  "updatedAt": "2026-03-03T08:13:06.562Z",
+  "word": "thấp",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "low",
+      "es": "bajo",
+      "vi": "thấp"
+    },
+    "definitions": {
+      "en": "Having a small distance from the ground; not high.",
+      "es": "Tener una pequeña distancia del suelo; no alto.",
+      "vi": "Có khoảng cách nhỏ từ mặt đất; không cao."
+    },
+    "createdAt": "2025-01-28T13:30:55.936Z",
+    "example": {
+      "en": "This table is very low.",
+      "es": "Esta mesa es muy baja.",
+      "vi": "Cái bàn này rất thấp."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cao",
+    "mạnh",
+    "thấp"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "This table is very low."
+      },
+      "word": "thấp",
+      "answer": "thấp",
+      "translatedAnswer": {
+        "en": "low"
+      },
+      "choices": [],
+      "sentence": "Cái bàn này rất ___."
+    },
+    "id": "50c500a8-4480-4e94-9166-44f7d10702b1",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:58:46.608Z",
+    "updatedAt": "2025-03-12T15:58:46.608Z"
+  },
+  "exampleSentences": [
+    "Nhà anh ở khu vực có mức giá thuê khá thấp.",
+    "Em cảm thấy tự ti vì chiều cao của mình hơi thấp.",
+    "Nhiệt độ hôm nay thấp hơn so với ngày hôm qua nhiều."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "thấp = low or short. It’s the opposite of cao (high/tall).\n\nIt describes height (người thấp), level/amount (giá thấp, lương thấp), temperature, sound volume, or quality/ability (trình độ thấp). It can describe both physical things and abstract levels.\n\nYou often compare it with hơn or make superlatives with nhất.\n\nStructure: thấp + hơn + N (thấp hơn tôi)\n\nMemory tip: think thấp ↔ cao as a basic pair for low vs high in almost any situation.",
+  "definition": "low",
+  "rank": 1099,
+  "_id": "liJCtrP7iRhM0xX5a1AW"
+}

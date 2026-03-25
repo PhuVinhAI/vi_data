@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "think"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ về vấn đề này.",
+      "translation": {
+        "en": "I need to think about this issue."
+      },
+      "answer": "suy nghĩ",
+      "word": "suy nghĩ",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T14:36:49.941Z",
+    "createdAt": "2025-03-12T14:36:49.941Z",
+    "id": "1c369c50-39ea-49cc-8211-94fbbfe06ec8",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "to think",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "flashcard": {
+    "translations": {
+      "es": "pensar",
+      "vi": "suy nghĩ",
+      "en": "think"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I need time to think about this decision.",
+      "vi": "Tôi cần thời gian để suy nghĩ về quyết định này.",
+      "es": "Necesito tiempo para pensar en esta decisión."
+    },
+    "createdAt": "2025-01-28T12:12:31.550Z",
+    "definitions": {
+      "en": "To consider or reflect on something.",
+      "vi": "Cân nhắc hoặc suy nghĩ về điều gì đó.",
+      "es": "Considerar o reflexionar sobre algo."
+    }
+  },
+  "exampleSentences": [
+    "Em cần thêm thời gian để suy nghĩ về lời đề nghị này.",
+    "Anh thường suy nghĩ về tương lai của mình mỗi tối.",
+    "Chị ấy đang suy nghĩ nên chọn món ăn nào cho bữa trưa."
+  ],
+  "notes_md": "**suy nghĩ** = to think, to consider something in your mind. It’s about using your brain to reflect, decide, or form an opinion.\n\nIt’s a verb, often used when talking about decisions, problems, or life plans.  \nYou can also use it with a clause: **suy nghĩ rằng + clause** to express what you think.\n\nClose synonyms: **nghĩ** (more general, shorter), **cân nhắc** (more formal, closer to “consider carefully”).",
+  "choices": [
+    "suy nghĩ",
+    "giúp đỡ",
+    "học tập"
+  ],
+  "notes": "suy nghĩ = to think, to consider something in your mind. It’s about using your brain to reflect, decide, or form an opinion.\n\nIt’s a verb, often used when talking about decisions, problems, or life plans.  \nYou can also use it with a clause: suy nghĩ rằng + clause to express what you think.\n\nClose synonyms: nghĩ (more general, shorter), cân nhắc (more formal, closer to “consider carefully”).",
+  "rank": 247,
+  "exampleSentencesTranslated": [
+    "I need more time to to think about this offer.",
+    "I often to think about my future every night.",
+    "She is to think about which dish to choose for lunch."
+  ],
+  "word": "suy nghĩ",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:36:49.941Z",
+    "id": "a27464a2-da56-4cc0-9eb4-f4905a466722",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "suy nghĩ",
+      "choices": [
+        "suy nghĩ",
+        "ý tưởng",
+        "cảm xúc"
+      ],
+      "hint": "s____",
+      "translation": {
+        "en": "Do you have any thoughts?"
+      },
+      "answer": "suy nghĩ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "thoughts"
+      },
+      "sentence": "Bạn có ___ gì không?"
+    },
+    "updatedAt": "2025-03-12T14:36:49.941Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T06:45:30.815Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "R5l3bu93t5m6p5AnKcLZ"
+}

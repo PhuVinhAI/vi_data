@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:44:04.842Z",
+  "notes": "Phở is Vietnam’s famous noodle soup, usually with beef or chicken in a clear broth.  \n\nIt’s a noun. You usually count it with tô or bát (a bowl), like một tô phở. Common pairings: phở bò (beef pho), phở gà (chicken pho).  \n\nYou typically use it with ăn (ăn phở), not uống, even though it has broth.  \n\nThere’s no major North–South difference in the word itself, but the taste and style can vary a lot by region.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "23aed744-1847-420f-86d3-827c938c40ee",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:58:17.449Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I like to eat pho in the morning."
+      },
+      "answer": "phở",
+      "translatedAnswer": {
+        "en": "pho"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ vào buổi sáng.",
+      "word": "phở"
+    },
+    "updatedAt": "2025-03-12T13:58:17.449Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "phở",
+      "es": "pho",
+      "en": "pho"
+    },
+    "createdAt": "2025-01-28T11:36:15.349Z",
+    "example": {
+      "en": "I like to eat pho in the morning.",
+      "es": "Me gusta comer pho por la mañana.",
+      "vi": "Tôi thích ăn phở vào buổi sáng."
+    },
+    "definitions": {
+      "es": "Una sopa vietnamita que consiste en caldo, fideos de arroz, hierbas y carne, generalmente de res o pollo.",
+      "vi": "Một món súp Việt Nam bao gồm nước dùng, bún, rau thơm và thịt, thường là thịt bò hoặc thịt gà.",
+      "en": "A Vietnamese soup consisting of broth, rice noodles, herbs, and meat, usually beef or chicken."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Tomorrow morning, remember to buy pho for me before you go to work.",
+    "This afternoon I ordered a bowl of beef pho to take home for my mom.",
+    "Tonight I'll ask you out to eat pho near the company, okay?"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "pho"
+      },
+      "language": "vi",
+      "word": "phở",
+      "sentence": "Món ăn nổi tiếng nhất là ___.",
+      "hint": "p___",
+      "choices": [
+        "bánh mì",
+        "phở",
+        "gỏi cuốn"
+      ],
+      "translation": {
+        "en": "The most famous dish is pho."
+      },
+      "answer": "phở"
+    },
+    "createdAt": "2025-03-12T13:58:17.449Z",
+    "updatedAt": "2025-03-12T13:58:17.449Z",
+    "id": "e6eab862-3112-4ddb-ac99-6bfae9d2514d",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Phở** is Vietnam’s famous noodle soup, usually with beef or chicken in a clear broth.  \n\nIt’s a noun. You usually count it with **tô** or **bát** (a bowl), like *một tô phở*. Common pairings: **phở bò** (beef pho), **phở gà** (chicken pho).  \n\nYou typically use it with **ăn** (ăn phở), not *uống*, even though it has broth.  \n\nThere’s no major North–South difference in the word itself, but the taste and style can vary a lot by region.",
+  "rank": 1947,
+  "exampleSentences": [
+    "Sáng mai chị nhớ mua phở cho em trước khi đi làm.",
+    "Trưa nay em gọi một tô phở bò mang về cho mẹ.",
+    "Tối nay anh rủ em đi ăn phở gần công ty nhé."
+  ],
+  "word": "phở",
+  "definition": "pho",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bún",
+    "mì",
+    "phở"
+  ],
+  "_id": "IPr8ITMbvxof8MkzbZaT"
+}

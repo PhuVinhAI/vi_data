@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "crave",
+  "word": "thèm",
+  "rank": 2270,
+  "exampleSentences": [
+    "Tối nay anh rất thèm ăn phở cùng bạn bè.",
+    "Mỗi khi trời lạnh, em lại thèm uống một cốc cacao nóng.",
+    "Chị thèm trái cây tươi sau khi tập thể dục xong."
+  ],
+  "choices": [
+    "thèm",
+    "tìm",
+    "thêm"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Thèm** = to crave, really want something (usually food, but not only food). It’s a strong, almost physical desire.\n\nYou use it with things you want: food, drinks, activities, feelings.  \n\nIt can also mean longing in a deeper way, like wanting attention, love, or a lifestyle.  \n\nClose synonym: **khao khát** (stronger, more serious desire).  \nOpposite feeling: **chán** (fed up, not wanting anymore).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:51:24.428Z",
+    "content": {
+      "choices": [
+        "khát",
+        "thèm",
+        "đói"
+      ],
+      "hint": "th___m",
+      "translation": {
+        "en": "I feel craving at this moment."
+      },
+      "answer": "thèm",
+      "translatedAnswer": {
+        "en": "craving"
+      },
+      "sentence": "Tôi cảm thấy ___ vào lúc này.",
+      "word": "thèm",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:51:24.428Z",
+    "id": "aee90ca3-239a-4e57-a7e2-469e869b1d4b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Tonight I really crave pho with friends.",
+    "Whenever it is cold, I crave a hot cup of cocoa.",
+    "I crave fresh fruit after finishing exercise."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "crave",
+      "vi": "thèm",
+      "es": "antojo"
+    },
+    "createdAt": "2025-01-28T11:29:14.239Z",
+    "example": {
+      "vi": "Tôi thèm ăn bánh ngọt.",
+      "es": "Tengo antojo de pasteles dulces.",
+      "en": "I crave sweet pastries."
+    },
+    "definitions": {
+      "en": "To have a strong desire for something, especially food.",
+      "es": "Tener un fuerte deseo de algo, especialmente comida.",
+      "vi": "Có một mong muốn mạnh mẽ về điều gì đó, đặc biệt là thức ăn."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "crave"
+      },
+      "language": "vi",
+      "word": "thèm",
+      "sentence": "Tôi rất ___ món này.",
+      "choices": [],
+      "translation": {
+        "en": "I really crave this dish."
+      },
+      "answer": "thèm"
+    },
+    "createdAt": "2025-03-12T13:51:24.428Z",
+    "updatedAt": "2025-03-12T13:51:24.428Z",
+    "id": "5004f7e6-98fb-4748-b097-2622586e3417",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "Thèm = to crave, really want something (usually food, but not only food). It’s a strong, almost physical desire.\n\nYou use it with things you want: food, drinks, activities, feelings.  \n\nIt can also mean longing in a deeper way, like wanting attention, love, or a lifestyle.  \n\nClose synonym: khao khát (stronger, more serious desire).  \nOpposite feeling: chán (fed up, not wanting anymore).",
+  "updatedAt": "2026-03-03T10:18:27.319Z",
+  "_id": "G9oOy4dVl1W252rbx4dE"
+}

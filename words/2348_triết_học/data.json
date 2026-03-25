@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "5e65f0a6-5454-40db-b5b7-6b83bf178fc0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:28:06.265Z",
+    "content": {
+      "answer": "triết học",
+      "hint": "t___h",
+      "translatedAnswer": {
+        "en": "philosophy"
+      },
+      "translation": {
+        "en": "My favorite subject is philosophy."
+      },
+      "sentence": "Môn học yêu thích của tôi là ___.",
+      "language": "vi",
+      "word": "triết học",
+      "choices": [
+        "triết học",
+        "vật lý",
+        "hóa học"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:28:06.265Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2348,
+  "choices": [
+    "lịch sử",
+    "triết học",
+    "văn học"
+  ],
+  "notes_md": "**Triết học** = philosophy, the study of big questions about life, knowledge, truth, and morality. It’s an uncountable noun in Vietnamese.\n\nOften used after verbs like **học**, **nghiên cứu**, **giảng dạy** + triết học. You’ll also see it in phrases like **ngành triết học** (the philosophy major/field) and **triết học phương Tây / phương Đông**.\n\nRelated word: **triết lý** = a personal philosophy or life principle (more practical, less academic).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "triết học",
+  "exampleSentencesTranslated": [
+    "I want to enroll in a philosophy class next semester.",
+    "She really likes reading books about philosophy from the West.",
+    "I often discuss philosophy with my friends after class."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:28:06.265Z",
+    "type": "fillBlankQuiz",
+    "id": "19bf82ed-d2ce-4ad7-a29c-9821ebfb2351",
+    "createdAt": "2025-03-12T15:28:06.265Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "triết học",
+      "translation": {
+        "en": "I am studying philosophy."
+      },
+      "translatedAnswer": {
+        "en": "philosophy"
+      },
+      "word": "triết học",
+      "language": "vi",
+      "sentence": "Tôi đang nghiên cứu về ___.",
+      "choices": []
+    }
+  },
+  "flashcard": {
+    "translations": {
+      "es": "Filosofía",
+      "vi": "Triết học",
+      "en": "Philosophy"
+    },
+    "createdAt": "2025-01-28T13:02:45.800Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The study of the fundamental nature of knowledge, reality, and existence.",
+      "es": "El estudio de la naturaleza fundamental del conocimiento, la realidad y la existencia.",
+      "vi": "Nghiên cứu về bản chất cơ bản của tri thức, thực tại và sự tồn tại."
+    },
+    "example": {
+      "en": "Philosophy helps us understand life better.",
+      "vi": "Triết học giúp chúng ta hiểu rõ hơn về cuộc sống.",
+      "es": "La filosofía nos ayuda a entender mejor la vida."
+    }
+  },
+  "definition": "philosophy",
+  "notes": "Triết học = philosophy, the study of big questions about life, knowledge, truth, and morality. It’s an uncountable noun in Vietnamese.\n\nOften used after verbs like học, nghiên cứu, giảng dạy + triết học. You’ll also see it in phrases like ngành triết học (the philosophy major/field) and triết học phương Tây / phương Đông.\n\nRelated word: triết lý = a personal philosophy or life principle (more practical, less academic).",
+  "exampleSentences": [
+    "Anh muốn đăng ký lớp triết học vào học kỳ tới.",
+    "Chị ấy rất thích đọc sách về triết học phương Tây.",
+    "Em thường thảo luận về triết học với bạn bè sau giờ học."
+  ],
+  "updatedAt": "2026-03-03T10:26:49.851Z",
+  "_id": "eUt5IFNBEzVkniueNtuj"
+}

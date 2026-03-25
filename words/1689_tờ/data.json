@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:16:46.555Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:03:13.337Z",
+    "updatedAt": "2025-03-12T13:03:13.337Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "503d9d44-b47e-4541-b2b7-a01af36cb511",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "tờ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sheet"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need a sheet of paper."
+      },
+      "answer": "tờ",
+      "sentence": "Tôi cần một ___ giấy."
+    }
+  },
+  "notes_md": "**tờ** means *sheet* and is a classifier for thin, flat objects. Think paper-like things.\n\nIt goes before the noun: you say **tờ + noun** for items like paper, newspapers, tickets, forms, maps, and banknotes.  \n\nYou can’t drop it when counting these things — Vietnamese needs the classifier.  \nStrong memory link: if it’s flat and thin like a sheet, it’s probably **tờ**.",
+  "exampleSentencesTranslated": [
+    "Can you give me a sheet of paper to write on?",
+    "Every morning, grandma reads a sheet of newspaper while drinking coffee.",
+    "Could you give me a sheet of bus ticket so I can get on the bus?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tờ",
+  "choices": [
+    "tờ",
+    "bàn",
+    "cửa"
+  ],
+  "notes": "tờ means sheet and is a classifier for thin, flat objects. Think paper-like things.\n\nIt goes before the noun: you say tờ + noun for items like paper, newspapers, tickets, forms, maps, and banknotes.  \n\nYou can’t drop it when counting these things — Vietnamese needs the classifier.  \nStrong memory link: if it’s flat and thin like a sheet, it’s probably tờ.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una hoja o pedazo de papel.",
+      "en": "A sheet or piece of paper.",
+      "vi": "Một tờ hoặc mảnh giấy."
+    },
+    "createdAt": "2025-01-28T10:45:35.842Z",
+    "example": {
+      "es": "Necesito una hoja de papel para escribir.",
+      "en": "I need a sheet of paper to write on.",
+      "vi": "Tôi cần một tờ giấy để viết."
+    },
+    "translations": {
+      "es": "hoja",
+      "vi": "tờ",
+      "en": "sheet"
+    }
+  },
+  "rank": 1689,
+  "definition": "sheet",
+  "exampleSentences": [
+    "Anh có thể đưa cho em một tờ giấy để viết không?",
+    "Mỗi sáng, bà đọc một tờ báo khi uống cà phê.",
+    "Chị đưa em một tờ vé xe buýt để lên xe nhé."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:03:13.337Z",
+    "updatedAt": "2025-03-12T13:03:13.337Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "tờ",
+      "sentence": "Bạn có ___ tiền không?",
+      "hint": "t__",
+      "word": "tờ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "bill"
+      },
+      "translation": {
+        "en": "Do you have a bill of money?"
+      },
+      "choices": [
+        "tờ",
+        "xu",
+        "đồng"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "ba55d811-e0d2-4235-b951-7e164ac49f4e"
+  },
+  "_id": "3m45WOTs4Ozb9AjZcDQ4"
+}

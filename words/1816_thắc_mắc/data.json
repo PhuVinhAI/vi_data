@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I have a question about the lesson."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "thắc mắc",
+      "sentence": "Tôi có ___ về bài học.",
+      "translatedAnswer": {
+        "en": "question"
+      },
+      "answer": "thắc mắc"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "5999726b-f6ef-441a-99eb-652a61acf406",
+    "createdAt": "2025-03-12T14:18:02.681Z",
+    "updatedAt": "2025-03-12T14:18:02.681Z"
+  },
+  "definition": "question",
+  "updatedAt": "2026-03-03T09:30:21.691Z",
+  "choices": [
+    "thắc mắc",
+    "giải thích",
+    "trả lời"
+  ],
+  "exampleSentencesTranslated": [
+    "If you have any question about the lesson, ask me.",
+    "She is always ready to answer question from classmates in the class.",
+    "He sent an email to the teacher to ask about a question in the homework."
+  ],
+  "notes": "thắc mắc = a question, doubt, or something you’re wondering about. It’s used when you don’t understand something and want clarification.\n\nIt’s a noun. You can say một thắc mắc, những thắc mắc, but it’s often used without a number. Common verbs with it: có (have), giải đáp (answer/clarify), trả lời (answer).\n\nClose to câu hỏi (question), but thắc mắc feels more like confusion or doubt behind the question. Slightly similar to băn khoăn, but băn khoăn is more about inner worry than asking for an answer.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**thắc mắc** = a question, doubt, or something you’re wondering about. It’s used when you don’t understand something and want clarification.\n\nIt’s a noun. You can say *một thắc mắc*, *những thắc mắc*, but it’s often used without a number. Common verbs with it: **có** (have), **giải đáp** (answer/clarify), **trả lời** (answer).\n\n\nClose to **câu hỏi** (question), but *thắc mắc* feels more like confusion or doubt behind the question. Slightly similar to **băn khoăn**, but *băn khoăn* is more about inner worry than asking for an answer.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thắc mắc",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:18:02.681Z",
+    "updatedAt": "2025-03-12T14:18:02.681Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "questions"
+      },
+      "answer": "thắc mắc",
+      "hint": "t___ ___",
+      "word": "thắc mắc",
+      "sentence": "Bạn có ___ nào không?",
+      "translation": {
+        "en": "Do you have any questions?"
+      },
+      "language": "vi",
+      "choices": [
+        "thắc mắc",
+        "khó khăn",
+        "ý kiến"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "fab6991e-4249-4ebb-b610-706ade3bf331"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Tôi có một thắc mắc về bài học hôm nay.",
+      "es": "Tengo una pregunta sobre la lección de hoy.",
+      "en": "I have a question about today's lesson."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:54:41.479Z",
+    "translations": {
+      "en": "question",
+      "es": "pregunta",
+      "vi": "thắc mắc"
+    },
+    "definitions": {
+      "es": "Una pregunta o consulta, a menudo expresando duda o incertidumbre.",
+      "vi": "Một câu hỏi hoặc yêu cầu thông tin, thường thể hiện sự nghi ngờ hoặc không chắc chắn.",
+      "en": "A question or inquiry, often expressing doubt or uncertainty."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nếu em có thắc mắc nào về bài học, hãy hỏi anh nhé.",
+    "Chị luôn sẵn sàng giải đáp thắc mắc của các bạn trong lớp.",
+    "Anh ấy gửi email cho giáo viên để hỏi về thắc mắc trong bài tập."
+  ],
+  "rank": 1816,
+  "_id": "MdjCZQcqp0YAZZqQP45B"
+}

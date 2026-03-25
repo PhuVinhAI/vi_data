@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Hôm nay trời mưa lớn nên anh không thể đi làm được.",
+    "Em đã cố gắng nhiều lần nhưng vẫn không thể giải bài toán này.",
+    "Chị không thể tham gia buổi tiệc tối nay vì có việc bận."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:51:57.208Z",
+    "definitions": {
+      "vi": "không có khả năng; không thể",
+      "es": "incapaz de; no poder",
+      "en": "unable to; not able to"
+    },
+    "example": {
+      "vi": "Tôi không thể đến buổi họp hôm nay.",
+      "es": "No puedo asistir a la reunión hoy.",
+      "en": "I cannot attend the meeting today."
+    },
+    "translations": {
+      "vi": "không thể",
+      "es": "no puede",
+      "en": "cannot"
+    }
+  },
+  "choices": [
+    "có thể",
+    "không thể",
+    "nên"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T06:49:26.603Z",
+  "exampleSentencesTranslated": [
+    "It is raining heavily today so I cannot go to work.",
+    "I have tried many times but I still cannot solve this math problem.",
+    "I cannot attend the party tonight because I am busy."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "không thể = cannot / not able to. It shows something is impossible or not within your ability or situation.\n\nIt goes before a verb to say you’re unable to do something.  \n\nStronger and more firm than just không; it often sounds absolute.  \nClose to chẳng thể (a bit more emotional/expressive). Opposite idea: có thể (can / possible).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:21:10.193Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "không thể",
+      "answer": "không thể",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "cannot"
+      },
+      "translation": {
+        "en": "I cannot do that."
+      },
+      "sentence": "Tôi ___ làm điều đó."
+    },
+    "id": "0c8bc040-517a-4366-9f97-75de8b7adb2d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:21:10.193Z"
+  },
+  "word": "không thể",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 280,
+  "notes_md": "**không thể** = *cannot / not able to*. It shows something is impossible or not within your ability or situation.\n\nIt goes before a verb to say you’re unable to do something.  \n\nStronger and more firm than just *không*; it often sounds absolute.  \nClose to **chẳng thể** (a bit more emotional/expressive). Opposite idea: **có thể** (can / possible).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:21:10.193Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Anh ấy ___ đến buổi họp.",
+      "translatedAnswer": {
+        "en": "cannot"
+      },
+      "translation": {
+        "en": "He cannot come to the meeting."
+      },
+      "hint": "không ___",
+      "word": "không thể",
+      "answer": "không thể",
+      "language": "vi",
+      "choices": [
+        "có thể",
+        "không thể",
+        "nên đến"
+      ]
+    },
+    "id": "4d831b06-07e6-46dc-ab2c-e0fca94f649c",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:21:10.193Z"
+  },
+  "definition": "cannot",
+  "_id": "rgbLSJbAsvNC1Wqh86N2"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:01:39.287Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "hãng",
+      "language": "vi",
+      "answer": "hãng",
+      "hint": "h__g",
+      "sentence": "Họ làm việc cho ___ lớn.",
+      "translation": {
+        "en": "They work for a big company."
+      },
+      "translatedAnswer": {
+        "en": "company"
+      },
+      "choices": [
+        "công ty",
+        "hãng",
+        "doanh nghiệp"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:01:39.287Z",
+    "id": "b0cda314-e3be-4cd0-9ea3-1da12846a972"
+  },
+  "exampleSentences": [
+    "Anh đang làm việc cho một hãng lớn ở thành phố Hồ Chí Minh.",
+    "Chị muốn mua vé máy bay của hãng này vì dịch vụ tốt.",
+    "Em nghe nói hãng vừa ra mắt sản phẩm mới rất hấp dẫn."
+  ],
+  "notes": "hãng means company or brand, usually a business that makes products or provides services. It’s often used for airlines, tech brands, fashion labels, transport, or media.\n\nIt’s a countable noun: một hãng, hai hãng. You’ll often hear it with words like hàng không (airline), xe, phim, thời trang.\n\nCompared to công ty, hãng feels more like a brand name or commercial company, while công ty is more general (any company or office).  \n\nIt’s commonly followed by a specific field or product to clarify what kind of company it is.",
+  "word": "hãng",
+  "choices": [
+    "hãng",
+    "bảng",
+    "giảng"
+  ],
+  "rank": 1410,
+  "notes_md": "**hãng** means *company* or *brand*, usually a business that makes products or provides services. It’s often used for airlines, tech brands, fashion labels, transport, or media.\n\nIt’s a **countable noun**: một hãng, hai hãng. You’ll often hear it with words like *hàng không* (airline), *xe*, *phim*, *thời trang*.\n\nCompared to **công ty**, *hãng* feels more like a brand name or commercial company, while *công ty* is more general (any company or office).  \n\nIt’s commonly followed by a specific field or product to clarify what kind of company it is.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "company",
+  "updatedAt": "2026-03-03T08:46:43.533Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "fb81c75a-45c0-4c93-83c9-d6c9b3566891",
+    "updatedAt": "2025-03-12T15:01:39.287Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "company"
+      },
+      "choices": [],
+      "translation": {
+        "en": "We need to choose a suitable company."
+      },
+      "sentence": "Chúng ta cần chọn ___ phù hợp.",
+      "answer": "hãng",
+      "word": "hãng",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:01:39.287Z"
+  },
+  "exampleSentencesTranslated": [
+    "I am working for a large company in Ho Chi Minh City.",
+    "I want to buy an airline ticket from this company because the service is good.",
+    "I heard the company just launched a very attractive new product."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This company makes very good phones.",
+      "es": "Esta empresa fabrica teléfonos muy buenos.",
+      "vi": "Hãng này sản xuất điện thoại rất tốt."
+    },
+    "translations": {
+      "en": "company",
+      "es": "empresa",
+      "vi": "hãng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:34:28.206Z",
+    "definitions": {
+      "en": "A company or brand, especially in manufacturing or production.",
+      "es": "Una empresa o marca, especialmente en fabricación o producción.",
+      "vi": "Một công ty hoặc thương hiệu, đặc biệt trong sản xuất hoặc chế tạo."
+    }
+  },
+  "_id": "XRafrV1AzJhDVivvdgCY"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "bottle",
+  "rank": 1616,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un recipiente, típicamente usado para contener flores o líquidos.",
+      "vi": "Một vật chứa, thường được sử dụng để đựng hoa hoặc chất lỏng.",
+      "en": "A container, typically used for holding flowers or liquids."
+    },
+    "createdAt": "2025-01-28T11:33:31.141Z",
+    "example": {
+      "es": "Compré un jarrón nuevo.",
+      "en": "I bought a new vase.",
+      "vi": "Tôi đã mua một cái bình mới."
+    },
+    "translations": {
+      "vi": "bình",
+      "en": "vase",
+      "es": "jarrón"
+    }
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:10:04.511Z",
+    "updatedAt": "2025-03-12T13:10:04.511Z",
+    "content": {
+      "answer": "bình",
+      "sentence": "Tôi muốn mua một ___ mới.",
+      "hint": "b___n",
+      "word": "bình",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "bottle"
+      },
+      "translation": {
+        "en": "I want to buy a new bottle."
+      },
+      "choices": [
+        "cốc",
+        "bình",
+        "chén"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "47677245-d77c-48d2-a54a-da76471a2073",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh có thể lấy giúp em cái bình nước trên bàn không?",
+    "Chị luôn mang theo một bình nước nhỏ khi đi làm.",
+    "Em vừa mua một bình thủy tinh để đựng nước hoa."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bình",
+    "ly",
+    "cốc"
+  ],
+  "notes": "bình = bottle or container for liquids. It’s a general word for something that holds water, gas, etc.\n\nIt’s a noun. Use cái bình when counting: một cái bình, hai cái bình. You’ll often see it with the content after it: bình nước, bình sữa, bình gas, bình oxy.\n\nCompared to chai (usually a standard bottle like soda or beer), bình often feels bigger, thicker, or more reusable. It can also mean tanks (like gas or oxygen tanks), not just drink bottles.",
+  "word": "bình",
+  "notes_md": "**bình** = bottle or container for liquids. It’s a general word for something that holds water, gas, etc.\n\nIt’s a noun. Use **cái bình** when counting: một cái bình, hai cái bình. You’ll often see it with the content after it: **bình nước, bình sữa, bình gas, bình oxy**.\n\nCompared to **chai** (usually a standard bottle like soda or beer), **bình** often feels bigger, thicker, or more reusable. It can also mean tanks (like gas or oxygen tanks), not just drink bottles.",
+  "exampleSentencesTranslated": [
+    "Can you get me the bottle of water on the table?",
+    "She always brings a small bottle of water to work.",
+    "I just bought a glass bottle to hold perfume."
+  ],
+  "updatedAt": "2026-03-03T09:08:55.768Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:10:04.511Z",
+    "updatedAt": "2025-03-12T13:10:04.511Z",
+    "id": "d690f226-759b-43d5-b0df-47ff5f97dde4",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need a bottle of water."
+      },
+      "word": "bình",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "bottle"
+      },
+      "sentence": "Tôi cần một ___ nước.",
+      "answer": "bình"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "_id": "5NEHWNrr8qd3XPHSWsSo"
+}

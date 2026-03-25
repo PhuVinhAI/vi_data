@@ -1,0 +1,95 @@
+{
+  "definition": "yes",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh gọi em chiều nay nhé? – Ừ, em rảnh rồi.",
+    "Chị muốn đi uống cà phê không? – Ừ, đi luôn đi.",
+    "Em hỏi anh có thích món này không, anh chỉ nói ừ."
+  ],
+  "rank": 272,
+  "word": "ừ",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "ừ",
+    "không",
+    "có thể"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "yes"
+    },
+    "createdAt": "2025-05-24T16:20:44.392Z",
+    "word": "ừ",
+    "example": {
+      "en": "A: Are you going out? B: Yes, I am.",
+      "vi": "A: Cậu có đi chơi không? B: Ừ, mình đi."
+    },
+    "definitions": {
+      "en": "An informal word used to express agreement or affirmation, typically among friends or close acquaintances.",
+      "vi": "Từ dùng để trả lời đồng ý một cách thân mật, thường giữa bạn bè hoặc người thân."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Are you calling me this afternoon? – Yes, I am free now.",
+    "Do you want to go for coffee? – Yes, let’s go.",
+    "I asked if he liked this dish, and he just said yes."
+  ],
+  "notes_md": "**Ừ** means **“yes”** in a casual, relaxed way. It’s like “yeah” or “uh‑huh” in English.\n\nIt’s an interjection, often used alone as a full reply. The tone matters: soft = friendly agreement; flat or short = can sound bored or annoyed.  \n\nVery common alternative meaning: it can also work like “uh” when you’re thinking.  \n\nCompare: **vâng** (more polite, neutral) and **dạ** (polite, especially to elders). Use **ừ** with friends, younger people, or equals.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "76b55cd6-6f13-4ba3-9913-3a8cc47a8690",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:57:19.752Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Cô ấy đã trả lời ___ cho câu hỏi.",
+      "word": "ừ",
+      "translatedAnswer": {
+        "en": "yes"
+      },
+      "translation": {
+        "en": "She answered yes to the question."
+      },
+      "answer": "ừ",
+      "hint": "u__",
+      "choices": [
+        "không",
+        "ừ",
+        "có"
+      ]
+    },
+    "createdAt": "2025-03-12T13:57:19.752Z"
+  },
+  "updatedAt": "2026-03-03T06:48:31.623Z",
+  "notes": "Ừ means “yes” in a casual, relaxed way. It’s like “yeah” or “uh‑huh” in English.\n\nIt’s an interjection, often used alone as a full reply. The tone matters: soft = friendly agreement; flat or short = can sound bored or annoyed.  \n\nVery common alternative meaning: it can also work like “uh” when you’re thinking.  \n\nCompare: vâng (more polite, neutral) and dạ (polite, especially to elders). Use ừ with friends, younger people, or equals.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:57:19.752Z",
+    "createdAt": "2025-03-12T13:57:19.752Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "yes"
+      },
+      "language": "vi",
+      "word": "ừ",
+      "sentence": "Cô ấy đã trả lời ___ cho câu hỏi.",
+      "answer": "ừ",
+      "translation": {
+        "en": "She answered yes to the question."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "cac85252-2def-4880-84d6-d285e5952c21",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "I71qQdqjaQCzImA3NCA2"
+}

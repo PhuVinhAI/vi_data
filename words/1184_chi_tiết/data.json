@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chi tiết",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:29:52.749Z",
+    "content": {
+      "word": "chi tiết",
+      "language": "vi",
+      "sentence": "Báo cáo có ___ quan trọng.",
+      "choices": [
+        "mục tiêu",
+        "chi tiết",
+        "thông tin"
+      ],
+      "hint": "c____t",
+      "answer": "chi tiết",
+      "translation": {
+        "en": "The report has important details."
+      },
+      "translatedAnswer": {
+        "en": "details"
+      }
+    },
+    "id": "aef87656-c0bf-46aa-a4e0-0fc573943c4d",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:29:52.749Z"
+  },
+  "notes_md": "**Chi tiết** means *detail* — a small specific piece of information about something.\n\nIt’s a **noun**. You’ll often see it in phrases like *chi tiết của + something* (chi tiết của hợp đồng) or *từng chi tiết* = every single detail.  \nIt can also act like an **adjective** after a noun to mean *detailed*: *bản mô tả chi tiết*, *thông tin chi tiết*.  \n\nStrong pair to remember: **chi tiết** (detail) ↔ **tổng quát** (general, overall). Think: zoom in = chi tiết; zoom out = tổng quát.",
+  "choices": [
+    "chỉnh sửa",
+    "chi tiết",
+    "chữ ký"
+  ],
+  "rank": 1184,
+  "notes": "Chi tiết means detail — a small specific piece of information about something.\n\nIt’s a noun. You’ll often see it in phrases like chi tiết của + something (chi tiết của hợp đồng) or từng chi tiết = every single detail.  \nIt can also act like an adjective after a noun to mean detailed: bản mô tả chi tiết, thông tin chi tiết.  \n\nStrong pair to remember: chi tiết (detail) ↔ tổng quát (general, overall). Think: zoom in = chi tiết; zoom out = tổng quát.",
+  "updatedAt": "2026-03-03T08:21:48.435Z",
+  "exampleSentences": [
+    "Anh có thể giải thích chi tiết hơn về kế hoạch này không?",
+    "Chị vui lòng gửi cho em chi tiết của cuộc họp ngày mai nhé.",
+    "Nếu em cần thêm chi tiết, hãy liên hệ với anh qua email."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you explain this plan in more detail?",
+    "Please send me the detail of tomorrow's meeting.",
+    "If you need more detail, contact me by email."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:29:52.749Z",
+    "content": {
+      "choices": [],
+      "sentence": "Thông tin này rất ___.",
+      "language": "vi",
+      "word": "chi tiết",
+      "translatedAnswer": {
+        "en": "detailed"
+      },
+      "translation": {
+        "en": "This information is very detailed."
+      },
+      "answer": "chi tiết"
+    },
+    "id": "b96eb4be-3aea-4b9c-9810-0023a4ede415",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:29:52.749Z"
+  },
+  "definition": "detail",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một phần thông tin cụ thể hoặc một phần nhỏ của cái gì đó.",
+      "es": "Una pieza específica de información o una pequeña parte de algo.",
+      "en": "A specific piece of information or a small part of something."
+    },
+    "example": {
+      "es": "Por favor, cuéntame los detalles sobre el proyecto.",
+      "vi": "Hãy cho tôi biết chi tiết về dự án.",
+      "en": "Please tell me the details about the project."
+    },
+    "translations": {
+      "en": "detail",
+      "vi": "chi tiết",
+      "es": "detalle"
+    },
+    "createdAt": "2025-01-28T13:04:41.744Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "euWCoW4dZrWFAz6omjIl"
+}

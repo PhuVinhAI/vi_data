@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I need a piece of cloth to block the sun.",
+      "es": "Necesito un trozo de tela para bloquear el sol.",
+      "vi": "Tôi cần một tấm vải để che nắng."
+    },
+    "translations": {
+      "en": "piece",
+      "es": "trozo",
+      "vi": "tấm"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:48:50.312Z",
+    "definitions": {
+      "en": "A flat piece or layer of material.",
+      "es": "Un trozo plano o capa de material.",
+      "vi": "Một mảnh phẳng hoặc lớp vật liệu."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you give me a sheet of white paper?",
+    "She bought a sheet of tickets for the whole family.",
+    "I hang a beautiful sheet of photo on the living room wall."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:09:49.777Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:14:03.890Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "tấm",
+      "language": "vi",
+      "answer": "tấm",
+      "sentence": "Tôi cần một ___ giấy.",
+      "translation": {
+        "en": "I need a piece of paper."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "piece"
+      }
+    },
+    "updatedAt": "2025-03-12T15:14:03.890Z",
+    "id": "904772a0-7a84-4709-8893-cb598d1234c0"
+  },
+  "definition": "sheet",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tấm** usually means a *sheet* or *flat piece* of something.\n\nIt’s also a **classifier** for flat, thin objects like paper, photos, tickets, boards, blankets, or mattresses. You put a number + *tấm* before the noun (một tấm…, hai tấm…).\n\nThink: if it’s flat and kind of wide, *tấm* probably works.  \n\nClose idea: **miếng** (a piece) — but *miếng* is for chunks or pieces of food/material, while *tấm* is more for flat sheets.",
+  "rank": 1625,
+  "choices": [
+    "tấm",
+    "bức",
+    "miếng"
+  ],
+  "word": "tấm",
+  "notes": "tấm usually means a sheet or flat piece of something.\n\nIt’s also a classifier for flat, thin objects like paper, photos, tickets, boards, blankets, or mattresses. You put a number + tấm before the noun (một tấm…, hai tấm…).\n\nThink: if it’s flat and kind of wide, tấm probably works.  \n\nClose idea: miếng (a piece) — but miếng is for chunks or pieces of food/material, while tấm is more for flat sheets.",
+  "exampleSentences": [
+    "Anh có thể đưa cho em một tấm giấy trắng không?",
+    "Chị mua một tấm vé xem phim cho cả gia đình.",
+    "Em treo một tấm ảnh đẹp lên tường phòng khách."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "7cc41328-e1b7-4aea-91ca-41f10be5a39b",
+    "createdAt": "2025-03-12T15:14:03.890Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "tấm",
+      "hint": "t___",
+      "word": "tấm",
+      "language": "vi",
+      "sentence": "Tôi có một ___ ảnh.",
+      "translation": {
+        "en": "I have a photo."
+      },
+      "translatedAnswer": {
+        "en": "photo"
+      },
+      "choices": [
+        "tấm",
+        "bức",
+        "hình"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:14:03.890Z"
+  },
+  "_id": "arVPFTmGclKEpMolmzd0"
+}

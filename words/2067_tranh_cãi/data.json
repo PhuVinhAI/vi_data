@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tranh cãi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:30:32.324Z",
+    "content": {
+      "hint": "t___ c___",
+      "answer": "tranh cãi",
+      "translatedAnswer": {
+        "en": "argument"
+      },
+      "translation": {
+        "en": "The meeting took place with a lot of argument."
+      },
+      "sentence": "Cuộc họp đã diễn ra với nhiều ___.",
+      "language": "vi",
+      "word": "tranh cãi",
+      "choices": [
+        "tranh cãi",
+        "thảo luận",
+        "đồng ý"
+      ]
+    },
+    "id": "610f4fa1-2fe5-42e9-a98e-355504f407da",
+    "updatedAt": "2025-03-12T13:30:32.324Z"
+  },
+  "notes_md": "**tranh cãi** = to argue or dispute about something (often with reasons, not just shouting). It can be calm or heated.\n\nYou usually use it for disagreements about opinions, decisions, or responsibility. Common collocations: *tranh cãi gay gắt*, *tranh cãi kịch liệt*.\n\n\nClose words: *cãi nhau* (more everyday, mutual arguing), *cãi vã* (more emotional, louder). Opposite idea: *đồng ý* (to agree).",
+  "rank": 2067,
+  "choices": [
+    "tranh cãi",
+    "giải thích",
+    "bắt đầu"
+  ],
+  "notes": "tranh cãi = to argue or dispute about something (often with reasons, not just shouting). It can be calm or heated.\n\nYou usually use it for disagreements about opinions, decisions, or responsibility. Common collocations: tranh cãi gay gắt, tranh cãi kịch liệt.\n\nClose words: cãi nhau (more everyday, mutual arguing), cãi vã (more emotional, louder). Opposite idea: đồng ý (to agree).",
+  "updatedAt": "2026-03-03T09:56:52.696Z",
+  "exampleSentences": [
+    "Anh và em không nên tranh cãi về những chuyện nhỏ nhặt như thế này.",
+    "Gia đình chị thường tranh cãi khi chọn địa điểm đi du lịch.",
+    "Họ đã tranh cãi rất lâu về việc ai sẽ rửa bát sau bữa ăn."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "57eaccf0-549d-4971-8e89-1a0c8efde852",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:32.324Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Chúng ta nên tránh ___ này.",
+      "word": "tranh cãi",
+      "choices": [],
+      "answer": "tranh cãi",
+      "translatedAnswer": {
+        "en": "argument"
+      },
+      "translation": {
+        "en": "We should avoid this argument."
+      }
+    },
+    "updatedAt": "2025-03-12T13:30:32.324Z"
+  },
+  "exampleSentencesTranslated": [
+    "You and I should not argue about small things like this.",
+    "My family often argue when choosing a place to travel.",
+    "They argue for a long time about who will wash the dishes after the meal."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A disagreement or argument about something.",
+      "vi": "Một sự bất đồng hoặc tranh luận về điều gì đó.",
+      "es": "Un desacuerdo o discusión sobre algo."
+    },
+    "example": {
+      "en": "We shouldn't argue about small things.",
+      "vi": "Chúng ta không nên tranh cãi về những điều nhỏ nhặt.",
+      "es": "No deberíamos discutir sobre cosas pequeñas."
+    },
+    "translations": {
+      "en": "argument",
+      "es": "discusión",
+      "vi": "tranh cãi"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:10:33.377Z"
+  },
+  "definition": "argue",
+  "_id": "B10GAoyq4E83C13MNyCt"
+}

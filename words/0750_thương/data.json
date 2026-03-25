@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh rất thương mẹ nên thường giúp mẹ nấu ăn mỗi ngày.",
+    "Em thương con chó nhỏ này vì nó rất dễ thương và ngoan.",
+    "Chị thương bạn thân của mình vì luôn được giúp đỡ và chia sẻ."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ghét",
+    "thương",
+    "mua"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Yêu hoặc chăm sóc ai đó một cách sâu sắc.",
+      "es": "Amar o cuidar a alguien profundamente.",
+      "en": "To love or to care for someone deeply."
+    },
+    "createdAt": "2025-01-28T13:44:07.283Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I love my mother very much.",
+      "es": "Quiero mucho a mi madre.",
+      "vi": "Tôi thương mẹ của tôi rất nhiều."
+    },
+    "translations": {
+      "vi": "thương",
+      "es": "querer",
+      "en": "love"
+    }
+  },
+  "updatedAt": "2026-03-03T07:36:50.688Z",
+  "exampleSentencesTranslated": [
+    "I love my mother so I often help her cook every day.",
+    "I love this little dog because it is very cute and well-behaved.",
+    "I love my best friend because I always get help and share things."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "thương = to love in a warm, caring way. It’s softer and more gentle than yêu.\n\nYou use it when you feel affection, care, or even a bit of pity for someone. It often shows protective, tender feelings.\n\nIt can also mean “to feel sorry for” someone.  \nCompare: yêu = romantic/deep love; thương = caring, nurturing love.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:12:04.863Z",
+    "id": "7c7b2130-f796-4edd-95ab-b559066ef2f3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ con mèo này.",
+      "translation": {
+        "en": "I love this cat."
+      },
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "answer": "thương",
+      "language": "vi",
+      "word": "thương",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:12:04.863Z"
+  },
+  "word": "thương",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 750,
+  "notes_md": "**thương** = to love in a warm, caring way. It’s softer and more gentle than **yêu**.\n\nYou use it when you feel affection, care, or even a bit of pity for someone. It often shows protective, tender feelings.\n\n\nIt can also mean “to feel sorry for” someone.  \nCompare: **yêu** = romantic/deep love; **thương** = caring, nurturing love.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:12:04.863Z",
+    "id": "4c188122-70d7-472d-a6da-9564e07423c8",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi ___ con mèo này.",
+      "word": "thương",
+      "answer": "thương",
+      "language": "vi",
+      "choices": [
+        "yêu",
+        "thương",
+        "thích"
+      ],
+      "translation": {
+        "en": "I love this cat."
+      },
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "hint": "t___g"
+    },
+    "updatedAt": "2025-03-12T16:12:04.863Z"
+  },
+  "definition": "love",
+  "_id": "pYXYoVr0NKMKNG88bmB8"
+}

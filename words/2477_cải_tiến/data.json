@@ -1,0 +1,99 @@
+{
+  "word": "cải tiến",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2477,
+  "choices": [
+    "cải tiến",
+    "phát triển",
+    "nâng cao"
+  ],
+  "notes_md": "**Cải tiến** means *to improve something by making changes*, often step by step. It’s about upgrading or refining a product, system, or process.\n\nIt’s a verb, usually followed by a thing like sản phẩm (product), quy trình (process), kỹ thuật (technique).  \n\nIt sounds more technical and systematic than **cải thiện** (which is more general, like improving health or conditions). Close in meaning to **nâng cấp** (upgrade), but nâng cấp often implies moving to a higher version, while cải tiến focuses on making it better.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "a515c652-3153-4bb0-9a9f-8c2430c07757",
+    "content": {
+      "word": "cải tiến",
+      "sentence": "Họ đang tìm cách ___ sản phẩm.",
+      "language": "vi",
+      "choices": [
+        "cải tiến",
+        "giảm giá",
+        "tăng tốc"
+      ],
+      "hint": "c___n",
+      "answer": "cải tiến",
+      "translation": {
+        "en": "They are looking for ways to improve the product."
+      },
+      "translatedAnswer": {
+        "en": "improve"
+      }
+    },
+    "createdAt": "2025-03-12T13:30:40.999Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:30:40.999Z"
+  },
+  "exampleSentences": [
+    "Công ty đang lên kế hoạch cải tiến sản phẩm trong năm nay.",
+    "Anh luôn tìm cách cải tiến quy trình làm việc để tiết kiệm thời gian.",
+    "Chị nghĩ rằng chúng ta nên bàn về cải tiến dịch vụ khách hàng."
+  ],
+  "updatedAt": "2026-03-03T10:39:40.587Z",
+  "notes": "Cải tiến means to improve something by making changes, often step by step. It’s about upgrading or refining a product, system, or process.\n\nIt’s a verb, usually followed by a thing like sản phẩm (product), quy trình (process), kỹ thuật (technique).  \n\nIt sounds more technical and systematic than cải thiện (which is more general, like improving health or conditions). Close in meaning to nâng cấp (upgrade), but nâng cấp often implies moving to a higher version, while cải tiến focuses on making it better.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Để thực hiện các cải tiến hoặc nâng cấp.",
+      "es": "Hacer mejoras o mejoras.",
+      "en": "To make improvements or enhancements."
+    },
+    "example": {
+      "vi": "Chúng ta cần cải tiến quy trình làm việc.",
+      "es": "Necesitamos mejorar el flujo de trabajo.",
+      "en": "We need to improve the workflow."
+    },
+    "translations": {
+      "en": "improvement",
+      "vi": "cải tiến",
+      "es": "mejora"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:10:40.851Z"
+  },
+  "definition": "improvement",
+  "exampleSentencesTranslated": [
+    "The company is planning an improvement to the product this year.",
+    "He always looks for ways to make an improvement in the work process to save time.",
+    "She thinks we should discuss an improvement in customer service."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:30:40.999Z",
+    "content": {
+      "answer": "cải tiến",
+      "translatedAnswer": {
+        "en": "improvement"
+      },
+      "translation": {
+        "en": "We need improvement in work."
+      },
+      "sentence": "Chúng ta cần ___ trong công việc.",
+      "language": "vi",
+      "word": "cải tiến",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:40.999Z",
+    "id": "a1cfbdfc-293d-4674-ab7f-1752ff8a1776",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "B5eOahZE21mzbTVsCXuE"
+}

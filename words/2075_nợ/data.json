@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T14:19:22.595Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una obligación de pagar dinero a alguien.",
+      "en": "An obligation to pay money to someone.",
+      "vi": "Một nghĩa vụ phải trả tiền cho ai đó."
+    },
+    "example": {
+      "vi": "Tôi có một khoản nợ lớn.",
+      "es": "Tengo una gran deuda.",
+      "en": "I have a large debt."
+    },
+    "translations": {
+      "vi": "nợ",
+      "en": "debt",
+      "es": "deuda"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nợ = debt; money you owe someone. It also works as a verb: to owe (money, a favor, an apology).\n\nAs a noun, it’s often paired with words like món nợ, khoản nợ, nợ nần (general state of being in debt).  \nAs a verb, it follows this pattern:  \n\nIt’s not just about money — you can nợ ân tình (owe someone emotionally).  \nOpposite idea: trả (nợ) = to pay back.",
+  "word": "nợ",
+  "exampleSentencesTranslated": [
+    "He still has a large debt to the bank.",
+    "She does not want any debt to anyone in life.",
+    "I must pay off all debt before buying a new car."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nợ",
+    "bán",
+    "mua"
+  ],
+  "multiChoiceQuiz": {
+    "id": "04ef083f-f041-41e9-bd0f-6219ee4660f4",
+    "createdAt": "2025-03-12T16:48:55.996Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "debt"
+      },
+      "translation": {
+        "en": "I have a debt with the bank."
+      },
+      "answer": "nợ",
+      "choices": [
+        "nợ",
+        "vay",
+        "tiền"
+      ],
+      "language": "vi",
+      "word": "nợ",
+      "hint": "n__",
+      "sentence": "Tôi có ___ với ngân hàng."
+    },
+    "updatedAt": "2025-03-12T16:48:55.996Z"
+  },
+  "exampleSentences": [
+    "Anh vẫn còn nợ ngân hàng một số tiền lớn.",
+    "Chị không muốn nợ ai bất cứ điều gì trong cuộc sống.",
+    "Em phải trả hết nợ trước khi mua xe mới."
+  ],
+  "updatedAt": "2026-03-03T09:57:37.667Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "debt"
+      },
+      "answer": "nợ",
+      "translation": {
+        "en": "I have a debt with the bank."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "nợ",
+      "sentence": "Tôi có ___ với ngân hàng."
+    },
+    "updatedAt": "2025-03-12T16:48:55.996Z",
+    "createdAt": "2025-03-12T16:48:55.996Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "eb9dc7bc-8d90-46fe-aabd-e4aabbe10c1f"
+  },
+  "definition": "debt",
+  "rank": 2075,
+  "notes_md": "**nợ** = debt; money you owe someone. It also works as a **verb**: to owe (money, a favor, an apology).\n\nAs a noun, it’s often paired with words like **món nợ, khoản nợ, nợ nần** (general state of being in debt).  \nAs a verb, it follows this pattern:  \n\nIt’s not just about money — you can **nợ ân tình** (owe someone emotionally).  \nOpposite idea: **trả (nợ)** = to pay back.",
+  "_id": "yiGs4piZtcBTcQhNsV2Y"
+}

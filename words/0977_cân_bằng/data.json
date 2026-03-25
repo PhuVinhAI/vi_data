@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "balance",
+  "rank": 977,
+  "exampleSentences": [
+    "Chị luôn cố gắng duy trì cân bằng giữa công việc và cuộc sống.",
+    "Anh nghĩ việc ăn uống cân bằng rất quan trọng cho sức khỏe.",
+    "Để học tốt, em cần cân bằng thời gian giữa giải trí và học tập."
+  ],
+  "word": "cân bằng",
+  "choices": [
+    "cân bằng",
+    "hiệu quả",
+    "ổn định"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She always tries to maintain balance between work and life.",
+    "He thinks that having a balance in eating is very important for health.",
+    "To study well, you need to balance your time between entertainment and study."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The state of having equal weight or force; equilibrium.",
+      "vi": "Trạng thái có trọng lượng hoặc lực bằng nhau; sự cân bằng.",
+      "es": "El estado de tener peso o fuerza igual; equilibrio."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesitas encontrar un equilibrio entre el trabajo y la vida.",
+      "vi": "Cần phải cân bằng giữa công việc và cuộc sống.",
+      "en": "You need to find a balance between work and life."
+    },
+    "createdAt": "2025-01-28T11:16:28.927Z",
+    "translations": {
+      "vi": "cân bằng",
+      "es": "equilibrio",
+      "en": "balance"
+    }
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:37:11.022Z",
+    "content": {
+      "hint": "c___g",
+      "choices": [
+        "cân bằng",
+        "mất cân bằng",
+        "không ổn định"
+      ],
+      "answer": "cân bằng",
+      "translation": {
+        "en": "Life needs balance between work and family."
+      },
+      "translatedAnswer": {
+        "en": "balance"
+      },
+      "sentence": "Cuộc sống cần ___ giữa công việc và gia đình.",
+      "word": "cân bằng",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:37:11.022Z",
+    "id": "78d9571d-f653-40d3-94ef-e5fe1c5d0545",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Cân bằng** means *balance* — when things are even, stable, or not too much on one side. It can be a **verb** (“to balance”) or a **noun** (“balance”).\n\nAs a verb, it’s often used with **giữa A và B** to show two sides you’re trying to keep equal.  \n\nAs a noun, it often appears in phrases like **sự cân bằng** (the balance) or **mất cân bằng** (imbalance).  \nClose idea: *ổn định* (stable), but *cân bằng* focuses more on equal sides, not just being steady.",
+  "updatedAt": "2026-03-03T07:59:59.667Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "030cecb7-30a8-4eff-815d-11bd3b35b441",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:37:11.022Z",
+    "createdAt": "2025-03-12T13:37:11.022Z",
+    "content": {
+      "word": "cân bằng",
+      "sentence": "Cuộc sống cần ___ giữa công việc và gia đình.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "balance"
+      },
+      "translation": {
+        "en": "Life needs balance between work and family."
+      },
+      "answer": "cân bằng",
+      "choices": []
+    }
+  },
+  "notes": "Cân bằng means balance — when things are even, stable, or not too much on one side. It can be a verb (“to balance”) or a noun (“balance”).\n\nAs a verb, it’s often used with giữa A và B to show two sides you’re trying to keep equal.  \n\nAs a noun, it often appears in phrases like sự cân bằng (the balance) or mất cân bằng (imbalance).  \nClose idea: ổn định (stable), but cân bằng focuses more on equal sides, not just being steady.",
+  "_id": "ClpBv0ImzggR0OobUY33"
+}

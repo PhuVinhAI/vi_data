@@ -1,0 +1,99 @@
+{
+  "rank": 306,
+  "exampleSentences": [
+    "Anh muốn trở thành một bác sĩ trong tương lai.",
+    "Sau nhiều năm cố gắng, em đã trở thành giáo viên.",
+    "Chị hy vọng con trai mình sẽ trở thành người tốt."
+  ],
+  "word": "trở thành",
+  "definition": "become",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "trở thành",
+    "nghỉ ngơi",
+    "lắng nghe"
+  ],
+  "updatedAt": "2026-03-03T06:52:12.851Z",
+  "notes": "trở thành = to become, to change into a new state, role, or identity over time. It often implies a process, not an instant switch.\n\nIt’s used with nouns (jobs, roles, types of people) or adjectives (states/qualities).  \n\nIt sounds a bit more formal and intentional than thành.  \nClose meaning: thành (shorter, more casual), but trở thành feels fuller and more deliberate.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "caf14f37-277e-4005-98af-ecfc14d72b21",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:43:05.862Z",
+    "content": {
+      "sentence": "Tôi muốn ___ bác sĩ.",
+      "word": "trở thành",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "become"
+      },
+      "translation": {
+        "en": "I want to become a doctor."
+      },
+      "answer": "trở thành",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:43:05.862Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "To become; to turn into something.",
+      "es": "Convertirse; transformarse en algo.",
+      "vi": "Trở thành; biến thành một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Ella quiere convertirse en doctora.",
+      "vi": "Cô ấy muốn trở thành bác sĩ.",
+      "en": "She wants to become a doctor."
+    },
+    "createdAt": "2025-01-28T11:21:37.109Z",
+    "translations": {
+      "en": "to become",
+      "vi": "trở thành",
+      "es": "convertirse"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I want to become a doctor in the future.",
+    "After many years of trying, I have become a teacher.",
+    "She hopes her son will become a good person."
+  ],
+  "notes_md": "**trở thành** = *to become*, to change into a new state, role, or identity over time. It often implies a process, not an instant switch.\n\nIt’s used with nouns (jobs, roles, types of people) or adjectives (states/qualities).  \n\nIt sounds a bit more formal and intentional than **thành**.  \nClose meaning: **thành** (shorter, more casual), but *trở thành* feels fuller and more deliberate.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9be43ce3-53d8-481c-a6b1-c58697756bbf",
+    "updatedAt": "2025-03-12T13:43:05.862Z",
+    "content": {
+      "translation": {
+        "en": "I want to become an artist."
+      },
+      "answer": "trở thành",
+      "choices": [
+        "trở thành",
+        "được",
+        "sống"
+      ],
+      "hint": "tr___n",
+      "language": "vi",
+      "sentence": "Tôi muốn ___ một nghệ sĩ.",
+      "word": "trở thành",
+      "translatedAnswer": {
+        "en": "become"
+      }
+    },
+    "createdAt": "2025-03-12T13:43:05.862Z"
+  },
+  "_id": "EKbez0zwHmnLIQid81hk"
+}

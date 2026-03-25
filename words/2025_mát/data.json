@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nóng",
+    "mát",
+    "lạnh"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "cool",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "mát",
+  "rank": 2025,
+  "exampleSentences": [
+    "Hôm nay trời rất mát nên em muốn đi dạo công viên.",
+    "Anh thích uống nước mát sau khi tập thể dục xong.",
+    "Phòng này có điều hòa nên luôn cảm thấy mát vào mùa hè."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:47:19.582Z",
+    "content": {
+      "choices": [
+        "ấm",
+        "mát",
+        "nóng"
+      ],
+      "hint": "m__",
+      "translation": {
+        "en": "The weather today is very cool."
+      },
+      "answer": "mát",
+      "translatedAnswer": {
+        "en": "cool"
+      },
+      "language": "vi",
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "word": "mát"
+    },
+    "updatedAt": "2025-03-12T13:47:19.582Z",
+    "id": "ee447284-cc9b-42f6-8d2e-a99aa6dfed5d",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**mát** means *cool* in a pleasant way — not cold, just comfortably cool. It describes weather, air, water, skin, or drinks.\n\nIt comes after the noun and works directly as the predicate (trời mát, nước mát) — no “là” needed. It can also mean *refreshing*, especially for drinks or a feeling on the body.\n\nStrong opposite: **nóng** (hot). Close synonym: **mát mẻ** (a bit softer, more “cool and fresh” feeling).",
+  "flashcard": {
+    "definitions": {
+      "en": "Having a temperature that is lower than normal; cool.",
+      "vi": "Có nhiệt độ thấp hơn bình thường; mát.",
+      "es": "Tener una temperatura que es más baja de lo normal; fresco."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "cool",
+      "es": "fresco",
+      "vi": "mát"
+    },
+    "example": {
+      "es": "El clima está muy fresco hoy.",
+      "vi": "Hôm nay thời tiết rất mát.",
+      "en": "The weather is very cool today."
+    },
+    "createdAt": "2025-01-28T11:25:44.853Z"
+  },
+  "exampleSentencesTranslated": [
+    "Today the weather is very cool so I want to walk in the park.",
+    "I like to drink cool water after exercising.",
+    "This room has air conditioning so it always feels cool in the summer."
+  ],
+  "notes": "mát means cool in a pleasant way — not cold, just comfortably cool. It describes weather, air, water, skin, or drinks.\n\nIt comes after the noun and works directly as the predicate (trời mát, nước mát) — no “là” needed. It can also mean refreshing, especially for drinks or a feeling on the body.\n\nStrong opposite: nóng (hot). Close synonym: mát mẻ (a bit softer, more “cool and fresh” feeling).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "8e8c255d-a65f-4513-97e8-d94db738b1a4",
+    "updatedAt": "2025-03-12T13:47:19.582Z",
+    "createdAt": "2025-03-12T13:47:19.582Z",
+    "content": {
+      "answer": "mát",
+      "translation": {
+        "en": "The weather today is very cool."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "word": "mát",
+      "translatedAnswer": {
+        "en": "cool"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T09:52:26.680Z",
+  "_id": "FF83xCY7vAfsz5Vvddiq"
+}

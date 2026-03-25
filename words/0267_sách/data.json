@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "9e6aa8b7-588f-48cc-a4db-3b284cfa8956",
+    "createdAt": "2025-03-12T16:10:47.006Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:10:47.006Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "sách",
+      "word": "sách",
+      "translation": {
+        "en": "I need a new book."
+      },
+      "translatedAnswer": {
+        "en": "book"
+      },
+      "sentence": "Tôi cần một ___ mới."
+    }
+  },
+  "word": "sách",
+  "multiChoiceQuiz": {
+    "id": "64fecd50-a0e4-4b8e-a581-2bfbfa45165f",
+    "createdAt": "2025-03-12T16:10:47.006Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:10:47.006Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi thích đọc ___ vào buổi tối.",
+      "hint": "s___",
+      "translation": {
+        "en": "I like to read books in the evening."
+      },
+      "translatedAnswer": {
+        "en": "books"
+      },
+      "word": "sách",
+      "choices": [
+        "truyện",
+        "sách",
+        "báo"
+      ],
+      "language": "vi",
+      "answer": "sách"
+    }
+  },
+  "definition": "book",
+  "rank": 267,
+  "notes_md": "**sách** = book. A physical book you read.\n\nIt’s a noun. Use classifiers like **cuốn** or **quyển**: *một cuốn sách*, *hai quyển sách*.  \n\nCommon pairings: **đọc sách** (read), **viết sách** (write), **nhà sách** (bookstore), **sách giáo khoa** (textbook).\n\nIn some contexts, **sổ sách** means records or paperwork (business/accounting books), not just reading books.\n\nFor memory: **truyện** = story (content), but **sách** = the book itself.",
+  "updatedAt": "2026-03-03T06:47:59.544Z",
+  "exampleSentencesTranslated": [
+    "I usually read a book every night before going to sleep.",
+    "I just bought a new book at the bookstore near my house.",
+    "Can you lend me this book?"
+  ],
+  "exampleSentences": [
+    "Em thường đọc sách mỗi tối trước khi đi ngủ.",
+    "Anh vừa mua một cuốn sách mới ở nhà sách gần nhà.",
+    "Chị có thể cho em mượn sách này được không?"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:42:52.544Z",
+    "definitions": {
+      "en": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+      "es": "Una obra escrita o impresa que consiste en páginas pegadas o cosidas juntas por un lado y encuadernadas en cubiertas.",
+      "vi": "Một tác phẩm viết hoặc in gồm các trang được dán hoặc may lại ở một bên và được bọc trong bìa."
+    },
+    "example": {
+      "en": "I am reading a good book.",
+      "es": "Estoy leyendo un buen libro.",
+      "vi": "Tôi đang đọc một cuốn sách hay."
+    },
+    "translations": {
+      "vi": "sách",
+      "es": "libro",
+      "en": "book"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sách",
+    "bút",
+    "vở"
+  ],
+  "notes": "sách = book. A physical book you read.\n\nIt’s a noun. Use classifiers like cuốn or quyển: một cuốn sách, hai quyển sách.  \n\nCommon pairings: đọc sách (read), viết sách (write), nhà sách (bookstore), sách giáo khoa (textbook).\n\nIn some contexts, sổ sách means records or paperwork (business/accounting books), not just reading books.\n\nFor memory: truyện = story (content), but sách = the book itself.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "pFqD7URQhe4N5IL88ZYr"
+}

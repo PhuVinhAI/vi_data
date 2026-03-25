@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "việc làm",
+      "translatedAnswer": {
+        "en": "job"
+      },
+      "language": "vi",
+      "choices": [
+        "việc làm",
+        "công việc",
+        "nhiệm vụ"
+      ],
+      "translation": {
+        "en": "I need a job."
+      },
+      "sentence": "Tôi cần ___ mới.",
+      "hint": "v___ l___",
+      "word": "việc làm"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "eafa4ad5-917e-40cf-b705-1b224747e277",
+    "createdAt": "2025-03-12T14:23:20.613Z",
+    "updatedAt": "2025-03-12T14:23:20.613Z"
+  },
+  "word": "việc làm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Việc làm** means *a job* or *employment* — the position you have to earn money. It’s a countable noun: *một việc làm, hai việc làm*.\n\nCommon pairings: *tìm việc làm* (look for a job), *có việc làm* (have a job), *mất việc làm* (lose a job), *tạo việc làm* (create jobs).\n\nIt focuses on the employment position itself. Compare with **công việc**, which often means the actual tasks or work you do day to day.\n\nThink: *việc làm = employment status*, *công việc = the work/tasks*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I am looking for a new job in the technology field.",
+    "She is very satisfied with her current job.",
+    "After graduation, I want to have a stable job."
+  ],
+  "notes": "Việc làm means a job or employment — the position you have to earn money. It’s a countable noun: một việc làm, hai việc làm.\n\nCommon pairings: tìm việc làm (look for a job), có việc làm (have a job), mất việc làm (lose a job), tạo việc làm (create jobs).\n\nIt focuses on the employment position itself. Compare with công việc, which often means the actual tasks or work you do day to day.\n\nThink: việc làm = employment status, công việc = the work/tasks.",
+  "choices": [
+    "việc làm",
+    "công ty",
+    "phỏng vấn"
+  ],
+  "updatedAt": "2026-03-03T08:28:34.103Z",
+  "definition": "job",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:23:20.613Z",
+    "createdAt": "2025-03-12T14:23:20.613Z",
+    "id": "5e0ce002-e3cf-4655-a901-a19f764e6617",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "việc làm",
+      "sentence": "Tôi cần ___ mới.",
+      "translation": {
+        "en": "I need a job."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "job"
+      },
+      "answer": "việc làm"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "rank": 1245,
+  "exampleSentences": [
+    "Anh đang tìm một việc làm mới trong lĩnh vực công nghệ.",
+    "Chị rất hài lòng với việc làm hiện tại của mình.",
+    "Sau khi tốt nghiệp, em muốn có một việc làm ổn định."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:59:09.975Z",
+    "definitions": {
+      "vi": "Một công việc hoặc việc làm.",
+      "es": "Un trabajo o empleo.",
+      "en": "A job or employment."
+    },
+    "translations": {
+      "en": "job",
+      "vi": "việc làm",
+      "es": "trabajo"
+    },
+    "example": {
+      "es": "Estoy buscando un nuevo trabajo.",
+      "vi": "Tôi đang tìm việc làm mới.",
+      "en": "I am looking for a new job."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "NmuuJbNg1Ju90Fq1V322"
+}

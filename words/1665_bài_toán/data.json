@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:15:38.121Z",
+    "example": {
+      "en": "This math problem is very difficult.",
+      "vi": "Bài toán này rất khó.",
+      "es": "Este problema de matemáticas es muy difícil."
+    },
+    "translations": {
+      "vi": "bài toán",
+      "es": "problema de matemáticas",
+      "en": "math problem"
+    },
+    "definitions": {
+      "es": "Un problema o ejercicio matemático.",
+      "vi": "Một bài toán hoặc bài tập toán học.",
+      "en": "A mathematical problem or exercise."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I don't understand how to solve this math problem in the textbook.",
+    "Can you help me with the difficult math problem from class today?",
+    "The teacher asked each student to submit a math problem by the end of the week."
+  ],
+  "multiChoiceQuiz": {
+    "id": "98abd7f5-122f-4700-985d-e3e6f62c5b03",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:36:13.370Z",
+    "content": {
+      "hint": "b__ _ _n",
+      "choices": [
+        "đề bài",
+        "bài toán",
+        "số học"
+      ],
+      "translation": {
+        "en": "She has a new math problem."
+      },
+      "answer": "bài toán",
+      "translatedAnswer": {
+        "en": "math problem"
+      },
+      "language": "vi",
+      "word": "bài toán",
+      "sentence": "Cô ấy có ___ mới về toán học."
+    },
+    "updatedAt": "2025-03-12T13:36:13.370Z"
+  },
+  "notes_md": "**Bài toán** means a math problem or exercise you need to solve. It’s something with numbers, logic, or formulas.\n\nIt’s a countable noun: *một bài toán, hai bài toán*. Common verbs are **giải bài toán** (solve), **làm bài toán** (do), and **ra bài toán** (create/set a problem).\n\nIt also often means a bigger “problem” in life, business, or society — not just math. In that sense, it’s close to **vấn đề**, but *bài toán* often suggests something that needs a smart solution.",
+  "updatedAt": "2026-03-03T09:14:12.682Z",
+  "notes": "Bài toán means a math problem or exercise you need to solve. It’s something with numbers, logic, or formulas.\n\nIt’s a countable noun: một bài toán, hai bài toán. Common verbs are giải bài toán (solve), làm bài toán (do), and ra bài toán (create/set a problem).\n\nIt also often means a bigger “problem” in life, business, or society — not just math. In that sense, it’s close to vấn đề, but bài toán often suggests something that needs a smart solution.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:36:13.370Z",
+    "createdAt": "2025-03-12T13:36:13.370Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I am solving this math problem."
+      },
+      "answer": "bài toán",
+      "translatedAnswer": {
+        "en": "math problem"
+      },
+      "word": "bài toán",
+      "sentence": "Tôi đang giải ___ khó này.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "371451e4-51d3-4fbb-b718-e30c4fd9b800",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bài toán",
+    "bài giảng",
+    "bài học"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "math problem",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em chưa hiểu cách giải bài toán này trong sách giáo khoa.",
+    "Anh giúp chị làm bài toán khó ở lớp hôm nay được không?",
+    "Cô giáo yêu cầu mỗi học sinh nộp một bài toán vào cuối tuần."
+  ],
+  "rank": 1665,
+  "word": "bài toán",
+  "_id": "CPpqdJLe4lH0codIuIuo"
+}

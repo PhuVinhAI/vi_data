@@ -1,0 +1,99 @@
+{
+  "notes": "cà phê = coffee (the drink). It also often means a coffee shop, depending on context.\n\nIt’s a noun. Use classifiers like một ly / một tách / một cốc cà phê for a cup/glass of coffee.  \n\nIn conversation, people shorten it to just cafe, but the standard spelling is cà phê.  \n\nVery common pairings: cà phê sữa (coffee with milk), cà phê đen (black coffee), đi cà phê (go get coffee / hang out at a café).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:05:12.540Z",
+  "exampleSentencesTranslated": [
+    "This morning, I made a cup of coffee to start the day.",
+    "She usually drinks coffee with friends after work.",
+    "Do you want to try the new coffee at the shop near school?"
+  ],
+  "exampleSentences": [
+    "Sáng nay, anh pha một tách cafe để bắt đầu ngày mới.",
+    "Chị thường uống cafe với bạn bè sau giờ làm việc.",
+    "Em muốn thử loại cafe mới ở quán gần trường không?"
+  ],
+  "choices": [
+    "cafe",
+    "trà",
+    "nước cam"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "vi": "cà phê",
+      "en": "coffee",
+      "es": "café"
+    },
+    "example": {
+      "es": "Me gusta tomar café por la mañana.",
+      "en": "I like to drink coffee in the morning.",
+      "vi": "Tôi thích uống cafe vào buổi sáng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:44:36.998Z",
+    "definitions": {
+      "vi": "Một loại đồ uống được làm từ hạt cà phê rang, thường được phục vụ nóng hoặc lạnh.",
+      "en": "A beverage made from roasted coffee beans, typically served hot or cold.",
+      "es": "Una bebida hecha de granos de café tostados, generalmente servida caliente o fría."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "1a140dc8-a800-429e-87b3-dabc61106c6a",
+    "createdAt": "2025-03-12T16:12:35.623Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:12:35.623Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi thích uống ___ vào buổi sáng.",
+      "language": "vi",
+      "choices": [
+        "cafe",
+        "cafes",
+        "CAFE"
+      ],
+      "answer": "cafe",
+      "word": "cafe",
+      "hint": "c___e",
+      "translation": {
+        "en": "I like to drink coffee in the morning."
+      },
+      "translatedAnswer": {
+        "en": "coffee"
+      }
+    }
+  },
+  "definition": "coffee",
+  "rank": 2857,
+  "notes_md": "**cà phê** = coffee (the drink). It also often means a coffee shop, depending on context.\n\nIt’s a noun. Use classifiers like **một ly / một tách / một cốc cà phê** for a cup/glass of coffee.  \n\nIn conversation, people shorten it to just **cafe**, but the standard spelling is **cà phê**.  \n\nVery common pairings: **cà phê sữa** (coffee with milk), **cà phê đen** (black coffee), **đi cà phê** (go get coffee / hang out at a café).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:12:35.623Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích uống ___ vào buổi sáng.",
+      "choices": [],
+      "word": "cafe",
+      "answer": "cafe",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "coffee"
+      },
+      "translation": {
+        "en": "I like to drink coffee in the morning."
+      }
+    },
+    "id": "d324747c-f840-45c3-bc8e-f51f72fc7d8d",
+    "createdAt": "2025-03-12T16:12:35.623Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "cafe",
+  "_id": "pckzfiHgPMC158Fi9sw6"
+}

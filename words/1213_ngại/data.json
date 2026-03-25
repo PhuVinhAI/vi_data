@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:53:19.571Z",
+    "content": {
+      "word": "ngại",
+      "language": "vi",
+      "hint": "n___i",
+      "answer": "ngại",
+      "sentence": "Tôi ___ hỏi bạn điều này.",
+      "translation": {
+        "en": "I hesitate to ask you this."
+      },
+      "choices": [
+        "sợ",
+        "ngại",
+        "khó"
+      ],
+      "translatedAnswer": {
+        "en": "hesitate"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:53:19.571Z",
+    "id": "5e2b061e-fe9f-4b98-ac3a-ed473de825ae"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "ngại",
+  "notes": "ngại = feel embarrassed, shy, or awkward about doing something. It can also mean reluctant or hesitant.\n\nIt describes a person’s feeling, and often comes before an action.  \n\nIt’s softer than xấu hổ (ashamed/very embarrassed). E ngại is more like cautious or unsure, less about social embarrassment.  \nOpposite idea: tự tin (confident).",
+  "exampleSentences": [
+    "Em cảm thấy ngại khi nói chuyện trước nhiều người lạ.",
+    "Anh thường ngại khi phải hỏi người khác giúp đỡ.",
+    "Chị ấy rất ngại nên không muốn trả lời câu hỏi của thầy giáo."
+  ],
+  "choices": [
+    "ngại",
+    "vui",
+    "buồn"
+  ],
+  "rank": 1213,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**ngại** = feel embarrassed, shy, or awkward about doing something. It can also mean reluctant or hesitant.\n\nIt describes a person’s feeling, and often comes before an action.  \n\nIt’s softer than **xấu hổ** (ashamed/very embarrassed). **E ngại** is more like cautious or unsure, less about social embarrassment.  \nOpposite idea: **tự tin** (confident).",
+  "definition": "embarrassed",
+  "exampleSentencesTranslated": [
+    "I feel embarrassed when talking in front of many strangers.",
+    "He is often embarrassed when he has to ask others for help.",
+    "She is very embarrassed so she does not want to answer the teacher's question."
+  ],
+  "updatedAt": "2026-03-03T08:25:02.666Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "e8537d22-72a5-408c-b0e7-8a0ee7ac6b60",
+    "createdAt": "2025-03-12T14:53:19.571Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ngại",
+      "language": "vi",
+      "answer": "ngại",
+      "sentence": "Tôi ___ hỏi bạn điều này.",
+      "translation": {
+        "en": "I hesitate to ask you this."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "hesitate"
+      }
+    },
+    "updatedAt": "2025-03-12T14:53:19.571Z"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "hesitant",
+      "es": "reacio",
+      "vi": "ngại"
+    },
+    "example": {
+      "en": "I am hesitant to speak in front of a crowd.",
+      "es": "Tengo miedo de hablar frente a una multitud.",
+      "vi": "Tôi ngại nói trước đám đông."
+    },
+    "createdAt": "2025-01-28T12:26:44.232Z",
+    "definitions": {
+      "en": "To feel hesitant or reluctant.",
+      "es": "Sentir duda o reticencia.",
+      "vi": "Cảm thấy do dự hoặc ngần ngại."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "UppyRqqHxFgWg4TbnRqN"
+}

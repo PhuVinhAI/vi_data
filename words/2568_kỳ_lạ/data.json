@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "kỳ lạ",
+    "bình thường",
+    "quen thuộc"
+  ],
+  "rank": 2568,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:54:58.998Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "strange"
+      },
+      "choices": [
+        "hấp dẫn",
+        "kỳ lạ",
+        "tầm thường"
+      ],
+      "translation": {
+        "en": "This story is really strange."
+      },
+      "sentence": "Câu chuyện này thật ___.",
+      "language": "vi",
+      "word": "kỳ lạ",
+      "hint": "k___a",
+      "answer": "kỳ lạ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:54:58.998Z",
+    "id": "6d664845-2ad6-4da0-afe8-1b93a9c46630"
+  },
+  "word": "kỳ lạ",
+  "notes": "Kỳ lạ means strange, unusual, odd in a noticeable way. It’s used when something feels different from what you expect.\n\nIt’s an adjective, so it describes things, situations, behavior, sounds, feelings, etc. It usually comes after the noun in Vietnamese word order, or after “thì / là / thật / rất” when commenting on something.\n\nStronger synonym: kỳ quặc (more weird, almost absurd). Softer word: lạ (just unfamiliar). Opposite: bình thường (normal).",
+  "exampleSentences": [
+    "Hôm qua anh thấy một con vật rất kỳ lạ ở ngoài đường.",
+    "Câu chuyện mà em mới kể thật sự kỳ lạ và thú vị.",
+    "Món ăn này có mùi vị kỳ lạ nhưng anh vẫn muốn thử."
+  ],
+  "exampleSentencesTranslated": [
+    "Yesterday I saw a very strange animal on the street.",
+    "The story you just told is really strange and interesting.",
+    "This dish has a strange taste but I still want to try it."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:24:08.127Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:54:58.998Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "strange"
+      },
+      "translation": {
+        "en": "That is a strange thing."
+      },
+      "sentence": "Đó là một điều ___.",
+      "answer": "kỳ lạ",
+      "language": "vi",
+      "word": "kỳ lạ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:54:58.998Z",
+    "id": "017f5b18-4762-4b91-bd14-e5805e8c8f86"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Unusual or surprising in a way that is unsettling or hard to understand.",
+      "es": "Inusual o sorprendente de una manera que es inquietante o difícil de entender.",
+      "vi": "Không bình thường hoặc gây ngạc nhiên theo cách khó hiểu hoặc khó chịu."
+    },
+    "createdAt": "2025-01-28T12:28:07.197Z",
+    "example": {
+      "en": "This story is really strange.",
+      "es": "Esta historia es realmente extraña.",
+      "vi": "Câu chuyện này thật kỳ lạ."
+    },
+    "translations": {
+      "en": "strange",
+      "es": "extraño",
+      "vi": "kỳ lạ"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Kỳ lạ** means *strange, unusual, odd* in a noticeable way. It’s used when something feels different from what you expect.\n\nIt’s an adjective, so it describes things, situations, behavior, sounds, feelings, etc. It usually comes **after the noun** in Vietnamese word order, or after “thì / là / thật / rất” when commenting on something.\n\nStronger synonym: **kỳ quặc** (more weird, almost absurd). Softer word: **lạ** (just unfamiliar). Opposite: **bình thường** (normal).",
+  "definition": "strange",
+  "_id": "VL2xnxmwUlg13ymiNhW6"
+}

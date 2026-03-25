@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:34:11.968Z",
+  "exampleSentences": [
+    "Anh tham gia một lớp huấn luyện để nâng cao kỹ năng làm việc.",
+    "Huấn luyện viên bóng đá tổ chức buổi huấn luyện cho đội vào sáng mai.",
+    "Chị ấy cần huấn luyện thêm trước khi bắt đầu công việc mới."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "training"
+      },
+      "answer": "huấn luyện",
+      "choices": [
+        "dạy học",
+        "huấn luyện",
+        "giáo dục"
+      ],
+      "translation": {
+        "en": "We need training for the employees."
+      },
+      "language": "vi",
+      "word": "huấn luyện",
+      "hint": "h__n l__n",
+      "sentence": "Chúng tôi cần ___ cho nhân viên."
+    },
+    "updatedAt": "2025-03-12T16:42:40.303Z",
+    "type": "multiChoiceQuiz",
+    "id": "ecadda0e-846e-45c7-80e6-ac3cbe4a7c54",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:42:40.303Z"
+  },
+  "choices": [
+    "giảng dạy",
+    "huấn luyện",
+    "kiểm tra"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He attends a training class to improve his work skills.",
+    "The football coach organizes a training for the team tomorrow morning.",
+    "She needs more training before starting her new job."
+  ],
+  "word": "huấn luyện",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "huấn luyện = to train, to coach someone so they improve a skill or prepare for a task. It’s used for people, animals, teams, or even mental/physical skills.\n\nIt often focuses on practical skills, performance, or discipline (sports, military, work skills).  \nClose synonym: đào tạo (more formal, often for long-term or academic/professional training).\n\nYou’ll also see huấn luyện viên = coach/trainer (the person who does the training).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:13:54.518Z",
+    "translations": {
+      "vi": "huấn luyện",
+      "en": "training",
+      "es": "entrenamiento"
+    },
+    "example": {
+      "vi": "Huấn luyện viên giúp tôi cải thiện kỹ năng bóng đá.",
+      "es": "El entrenador me ayuda a mejorar mis habilidades en el fútbol.",
+      "en": "The coach helps me improve my soccer skills."
+    },
+    "definitions": {
+      "vi": "Đào tạo hoặc hướng dẫn ai đó về một kỹ năng hoặc hoạt động cụ thể.",
+      "es": "Entrenar o instruir a alguien en una habilidad o actividad particular.",
+      "en": "To train or instruct someone in a particular skill or activity."
+    }
+  },
+  "notes_md": "**huấn luyện** = to train, to coach someone so they improve a skill or prepare for a task. It’s used for people, animals, teams, or even mental/physical skills.\n\nIt often focuses on practical skills, performance, or discipline (sports, military, work skills).  \nClose synonym: **đào tạo** (more formal, often for long-term or academic/professional training).\n\n\nYou’ll also see **huấn luyện viên** = coach/trainer (the person who does the training).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "training"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I am training a new group."
+      },
+      "answer": "huấn luyện",
+      "sentence": "Tôi đang ___ một nhóm mới.",
+      "word": "huấn luyện"
+    },
+    "updatedAt": "2025-03-12T16:42:40.303Z",
+    "id": "27c10c9b-5521-4976-a999-8cdfe0a12512",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:42:40.303Z"
+  },
+  "rank": 2426,
+  "definition": "training",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "xJNskIxNyEWfRwNXSdJi"
+}

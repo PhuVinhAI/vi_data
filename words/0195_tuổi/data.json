@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tuổi = age. It’s how many years someone or something has lived.\n\nYou use it right after a number: [number] + tuổi (18 tuổi, 5 tuổi). No classifier needed.  \nOften appears in questions with bao nhiêu tuổi (how old).  \nIt can also mean a stage of life, like tuổi thơ (childhood) or tuổi trẻ (youth).  \n\nRelated word: tuổi tác = age (more formal, often about someone’s overall age or age range).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:09:25.160Z",
+    "translations": {
+      "es": "edad",
+      "en": "age",
+      "vi": "tuổi"
+    },
+    "example": {
+      "vi": "Tôi năm nay 25 tuổi.",
+      "en": "I am 25 years old.",
+      "es": "Tengo 25 años."
+    },
+    "definitions": {
+      "vi": "Tuổi; số năm mà một người đã sống.",
+      "en": "Age; the number of years a person has lived.",
+      "es": "Edad; el número de años que una persona ha vivido."
+    }
+  },
+  "word": "tuổi",
+  "exampleSentencesTranslated": [
+    "How old are you this year in age?",
+    "He started learning Vietnamese at a young age.",
+    "She wants to know your age to write in the file."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [
+        "tuổi",
+        "sống",
+        "thời gian"
+      ],
+      "answer": "tuổi",
+      "translation": {
+        "en": "She is very young."
+      },
+      "translatedAnswer": {
+        "en": "young"
+      },
+      "sentence": "Cô ấy có ___ rất trẻ.",
+      "hint": "t___",
+      "word": "tuổi"
+    },
+    "updatedAt": "2025-03-12T16:37:53.958Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:37:53.958Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "45eacf3b-b888-47e6-a9b6-182f0d8b7df0"
+  },
+  "exampleSentences": [
+    "Em năm nay bao nhiêu tuổi rồi vậy?",
+    "Anh ấy bắt đầu học tiếng Việt từ khi còn nhỏ tuổi.",
+    "Chị muốn biết tuổi của em để ghi vào hồ sơ."
+  ],
+  "updatedAt": "2026-03-03T06:40:05.331Z",
+  "choices": [
+    "tuổi",
+    "giờ",
+    "tên"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 195,
+  "definition": "age",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy có ___ rất trẻ.",
+      "word": "tuổi",
+      "language": "vi",
+      "translation": {
+        "en": "She is very young."
+      },
+      "answer": "tuổi",
+      "translatedAnswer": {
+        "en": "young"
+      }
+    },
+    "updatedAt": "2025-03-12T16:37:53.958Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:37:53.958Z",
+    "id": "bdd095bc-eb98-433c-918e-aea376b55454"
+  },
+  "notes_md": "**tuổi** = age. It’s how many years someone or something has lived.\n\nYou use it right after a number: **[number] + tuổi** (18 tuổi, 5 tuổi). No classifier needed.  \nOften appears in questions with **bao nhiêu tuổi** (how old).  \nIt can also mean a stage of life, like **tuổi thơ** (childhood) or **tuổi trẻ** (youth).  \n\nRelated word: **tuổi tác** = age (more formal, often about someone’s overall age or age range).",
+  "_id": "wHMWP8XsoqZ9ordbLtMu"
+}

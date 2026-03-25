@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:01:28.916Z",
+    "translations": {
+      "en": "stop",
+      "es": "detener",
+      "vi": "ngừng"
+    },
+    "definitions": {
+      "vi": "Ngừng lại một hành động.",
+      "en": "To cease or halt an action.",
+      "es": "Detener o parar una acción."
+    },
+    "example": {
+      "es": "Por favor, deja de hablar.",
+      "en": "Please stop talking.",
+      "vi": "Xin hãy ngừng nói chuyện."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Ngừng = to stop doing something, to cease. It’s used when an action is in progress and you want it to end.\n\nIt’s a verb, and it usually comes before another verb.  \n\nYou can use it for people, machines, events, or even rain. It often sounds a bit more formal or firm than dừng.  \n\nStrong connection: dừng (stop, pause) is close in meaning; tiếp tục (continue) is the opposite.",
+  "choices": [
+    "nghỉ",
+    "ngừng",
+    "bắt đầu"
+  ],
+  "updatedAt": "2026-03-03T08:39:32.356Z",
+  "exampleSentences": [
+    "Anh có thể ngừng nói chuyện một chút để lắng nghe không?",
+    "Chị phải ngừng làm việc khi cảm thấy mệt mỏi.",
+    "Em hãy ngừng xem điện thoại và tập trung vào bài học nhé."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi sẽ ___ làm việc vào cuối tuần.",
+      "hint": "n___g",
+      "word": "ngừng",
+      "language": "vi",
+      "translation": {
+        "en": "I will stop working on the weekend."
+      },
+      "answer": "ngừng",
+      "choices": [
+        "ngừng",
+        "tiếp tục",
+        "bắt đầu"
+      ],
+      "translatedAnswer": {
+        "en": "stop"
+      }
+    },
+    "updatedAt": "2025-03-12T16:30:28.954Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:30:28.954Z",
+    "id": "644d727a-1990-4960-94dd-93e5240970c6"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you stop talking for a moment to listen?",
+    "You should stop working when you feel tired.",
+    "Please stop looking at your phone and focus on the lesson."
+  ],
+  "word": "ngừng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Ngừng** = to stop doing something, to cease. It’s used when an action is in progress and you want it to end.\n\nIt’s a verb, and it usually comes before another verb.  \n\nYou can use it for people, machines, events, or even rain. It often sounds a bit more formal or firm than **dừng**.  \n\nStrong connection: **dừng** (stop, pause) is close in meaning; **tiếp tục** (continue) is the opposite.",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "ngừng",
+      "translation": {
+        "en": "I will stop working on the weekend."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "stop"
+      },
+      "language": "vi",
+      "word": "ngừng",
+      "sentence": "Tôi sẽ ___ làm việc vào cuối tuần."
+    },
+    "updatedAt": "2025-03-12T16:30:28.954Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:30:28.954Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8a3665f7-d97e-46e7-997a-1fad9213c3bc"
+  },
+  "rank": 1344,
+  "definition": "stop",
+  "_id": "uAeWPj3NmzxO3FZSuzI0"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hậu quả",
+  "multiChoiceQuiz": {
+    "id": "c43d10b6-2760-4c17-8d73-140d590f3b3a",
+    "content": {
+      "sentence": "Hành động này có ___ nghiêm trọng.",
+      "language": "vi",
+      "word": "hậu quả",
+      "choices": [
+        "hậu quả",
+        "kết quả",
+        "tác động"
+      ],
+      "answer": "hậu quả",
+      "hint": "h___q",
+      "translatedAnswer": {
+        "en": "consequences"
+      },
+      "translation": {
+        "en": "This action has serious consequences."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:13:18.093Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:13:18.093Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "kết quả",
+    "hậu quả",
+    "nguyên nhân"
+  ],
+  "rank": 2688,
+  "notes_md": "**Hậu quả** = consequence, usually negative. It’s what happens after a bad action or mistake.\n\nIt’s a noun. You’ll often see it with verbs like *gây* (cause) and *gánh chịu* (suffer/bear). Common pairings: *hậu quả nghiêm trọng* (serious consequences), *hậu quả lâu dài* (long-term consequences).\n\n\nClose synonym: *kết quả* = result (neutral, can be good or bad). Opposite idea: *nguyên nhân* = cause (the reason, not the result).",
+  "notes": "Hậu quả = consequence, usually negative. It’s what happens after a bad action or mistake.\n\nIt’s a noun. You’ll often see it with verbs like gây (cause) and gánh chịu (suffer/bear). Common pairings: hậu quả nghiêm trọng (serious consequences), hậu quả lâu dài (long-term consequences).\n\nClose synonym: kết quả = result (neutral, can be good or bad). Opposite idea: nguyên nhân = cause (the reason, not the result).",
+  "exampleSentences": [
+    "Nếu em không học chăm chỉ, em sẽ gặp hậu quả không tốt.",
+    "Chúng ta nên suy nghĩ kỹ trước khi làm để tránh hậu quả xấu.",
+    "Anh nhận ra rằng hành động của mình có thể gây ra hậu quả lớn."
+  ],
+  "updatedAt": "2026-03-03T11:36:11.762Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "06705efd-5cc4-4692-9db1-175520ae36a9",
+    "content": {
+      "language": "vi",
+      "sentence": "Hành động này có ___ nghiêm trọng.",
+      "word": "hậu quả",
+      "choices": [],
+      "answer": "hậu quả",
+      "translatedAnswer": {
+        "en": "consequences"
+      },
+      "translation": {
+        "en": "This action has serious consequences."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:13:18.093Z",
+    "updatedAt": "2025-03-12T13:13:18.093Z"
+  },
+  "exampleSentencesTranslated": [
+    "If you do not study hard, you will face a consequence.",
+    "We should think carefully before acting to avoid a consequence.",
+    "He realized that his actions could cause a big consequence."
+  ],
+  "definition": "consequence",
+  "flashcard": {
+    "example": {
+      "es": "La consecuencia de no estudiar es una mala nota.",
+      "vi": "Hậu quả của việc không học bài là điểm kém.",
+      "en": "The consequence of not studying is a bad grade."
+    },
+    "definitions": {
+      "es": "Un resultado o efecto de una acción o condición.",
+      "vi": "Kết quả hoặc ảnh hưởng của một hành động hoặc tình trạng.",
+      "en": "A result or effect of an action or condition."
+    },
+    "createdAt": "2025-01-28T10:54:30.600Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "consecuencia",
+      "vi": "hậu quả",
+      "en": "consequence"
+    }
+  },
+  "_id": "6Jq1tpGh07PGUqVFU1n0"
+}

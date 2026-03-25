@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "b9d99160-26a3-4e69-8892-f8d925e4deaf",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:46:02.474Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We need transparency in work."
+      },
+      "answer": "minh bạch",
+      "translatedAnswer": {
+        "en": "transparency"
+      },
+      "language": "vi",
+      "word": "minh bạch",
+      "sentence": "Chúng ta cần ___ trong công việc."
+    },
+    "updatedAt": "2025-03-12T16:46:02.474Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "transparent",
+  "rank": 2869,
+  "notes_md": "**Minh bạch** means *transparent* — open and clear, with nothing hidden (usually about information, money, decisions, processes).\n\nIt’s an adjective that describes things like tài chính (finances), thông tin (information), quy trình (process), or cách làm việc (way of working).  \nIt often goes with **về** to say what is being transparent about.  \n\nClose synonyms: **rõ ràng** (clear) and **công khai** (publicly open).  \nOpposite: **mập mờ** (vague, shady).",
+  "notes": "Minh bạch means transparent — open and clear, with nothing hidden (usually about information, money, decisions, processes).\n\nIt’s an adjective that describes things like tài chính (finances), thông tin (information), quy trình (process), or cách làm việc (way of working).  \nIt often goes with về to say what is being transparent about.  \n\nClose synonyms: rõ ràng (clear) and công khai (publicly open).  \nOpposite: mập mờ (vague, shady).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:17:01.312Z",
+    "translations": {
+      "vi": "minh bạch",
+      "es": "transparente",
+      "en": "transparent"
+    },
+    "definitions": {
+      "vi": "Chất lượng của việc rõ ràng và cởi mở, đặc biệt trong giao tiếp.",
+      "en": "The quality of being clear and open, especially in communication.",
+      "es": "La calidad de ser claro y abierto, especialmente en la comunicación."
+    },
+    "example": {
+      "vi": "Chính phủ cần minh bạch trong các quyết định của mình.",
+      "en": "The government needs to be transparent in its decisions.",
+      "es": "El gobierno necesita ser transparente en sus decisiones."
+    }
+  },
+  "word": "minh bạch",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The company needs to be transparent about its spending.",
+    "He always wants all information in the group to be transparent and clear.",
+    "The government is trying to be more transparent in important decisions."
+  ],
+  "updatedAt": "2026-03-03T18:06:49.465Z",
+  "exampleSentences": [
+    "Công ty cần phải minh bạch về các khoản chi tiêu của mình.",
+    "Anh luôn muốn mọi thông tin trong nhóm đều minh bạch và rõ ràng.",
+    "Chính phủ đang cố gắng minh bạch hơn trong các quyết định quan trọng."
+  ],
+  "multiChoiceQuiz": {
+    "id": "0aa20a16-65df-47fb-bc2a-a6cacc9e4755",
+    "createdAt": "2025-03-12T16:46:02.474Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ trong công việc.",
+      "word": "minh bạch",
+      "hint": "m___ b____",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "transparency"
+      },
+      "answer": "minh bạch",
+      "choices": [
+        "minh bạch",
+        "tình cờ",
+        "rõ ràng"
+      ],
+      "translation": {
+        "en": "We need transparency in work."
+      }
+    },
+    "updatedAt": "2025-03-12T16:46:02.474Z"
+  },
+  "choices": [
+    "minh bạch",
+    "bí mật",
+    "thận trọng"
+  ],
+  "_id": "y7IpY7F8hFLQSwqui9fc"
+}

@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:23:13.236Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "222c1d62-ddf0-4d5f-b177-2382ca756b53",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "dạ",
+      "language": "vi",
+      "answer": "dạ",
+      "translation": {
+        "en": "I understand the question."
+      },
+      "translatedAnswer": {
+        "en": "understand"
+      },
+      "sentence": "Tôi ___ hiểu câu hỏi."
+    },
+    "updatedAt": "2025-03-12T16:23:13.236Z"
+  },
+  "word": "dạ",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "Do you agree?"
+      },
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "hint": "d__",
+      "word": "dạ",
+      "answer": "dạ",
+      "language": "vi",
+      "choices": [
+        "không",
+        "đúng",
+        "dạ"
+      ],
+      "sentence": "Bạn có ___ không?"
+    },
+    "updatedAt": "2025-03-12T16:23:13.236Z",
+    "createdAt": "2025-03-12T16:23:13.236Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2941a2c1-2aa8-4a15-83f8-219688454440"
+  },
+  "definition": "yes (respectful)",
+  "notes_md": "**dạ** = a polite, respectful “yes.” You use it when speaking to someone older, higher status, or to show good manners.\n\nIt often stands alone as a soft, obedient-sounding reply, or comes at the beginning of a sentence to show respect.  \n\nIt doesn’t add new meaning to the sentence — it adds politeness and humility. Compared to **vâng** (also “yes”), **dạ** feels softer and more deferential, especially toward parents, teachers, or elders.",
+  "rank": 1000,
+  "updatedAt": "2026-03-03T08:02:28.134Z",
+  "exampleSentencesTranslated": [
+    "Yes (respectful), I have already finished my homework.",
+    "When mom calls, I usually reply immediately with a yes (respectful).",
+    "Sister, yes (respectful), can I help you bring things into the kitchen?"
+  ],
+  "exampleSentences": [
+    "Dạ, em đã hoàn thành bài tập về nhà rồi ạ.",
+    "Khi mẹ gọi, anh thường trả lời ngay bằng một tiếng dạ.",
+    "Chị ơi, dạ em có thể giúp chị mang đồ vào bếp không?"
+  ],
+  "flashcard": {
+    "word": "dạ",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:34:50.324Z",
+    "definitions": {
+      "vi": "Từ dùng để đáp lại một cách lễ phép khi được người lớn gọi hoặc hỏi.",
+      "en": "A polite word used to respond respectfully when addressed by elders or superiors."
+    },
+    "translations": {
+      "en": "yes (polite); respectful reply"
+    },
+    "example": {
+      "vi": "Mẹ gọi, tôi liền đáp: \"Dạ!\"",
+      "en": "When my mom called, I immediately replied: \"Yes!\""
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "vâng",
+    "dạ",
+    "ừ"
+  ],
+  "notes": "dạ = a polite, respectful “yes.” You use it when speaking to someone older, higher status, or to show good manners.\n\nIt often stands alone as a soft, obedient-sounding reply, or comes at the beginning of a sentence to show respect.  \n\nIt doesn’t add new meaning to the sentence — it adds politeness and humility. Compared to vâng (also “yes”), dạ feels softer and more deferential, especially toward parents, teachers, or elders.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "s9hWRG0BPx5udlTLzn0o"
+}

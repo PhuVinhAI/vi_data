@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "giấy tờ",
+    "bài tập",
+    "thư viện"
+  ],
+  "exampleSentences": [
+    "Em quên mang giấy tờ khi đi đăng ký lớp học sáng nay.",
+    "Anh cần kiểm tra giấy tờ trước khi nộp vào công ty mới.",
+    "Chị có thể giúp em chuẩn bị giấy tờ cho buổi phỏng vấn không?"
+  ],
+  "rank": 2978,
+  "word": "giấy tờ",
+  "definition": "documents",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:18:46.691Z",
+  "notes": "giấy tờ = documents, paperwork, official papers (ID, forms, certificates, etc.). It’s usually uncountable in feeling, even though it looks plural.\n\nYou often say mang theo / chuẩn bị / kiểm tra / làm giấy tờ. Very common pairings: giấy tờ tùy thân (ID), giấy tờ xe (vehicle papers).\n\nYou don’t normally use a classifier like tờ here — tờ giấy is a sheet of paper, different meaning.\n\nClose word: hồ sơ = a file or application set (more organized/official), while giấy tờ is the individual documents themselves.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:52:16.936Z",
+    "createdAt": "2025-03-12T13:52:16.936Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Have you prepared the documents?"
+      },
+      "answer": "giấy tờ",
+      "translatedAnswer": {
+        "en": "documents"
+      },
+      "sentence": "Bạn đã chuẩn bị ___ chưa?",
+      "word": "giấy tờ",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "f471e0f9-f916-4d36-b250-9f1cc5f04a84",
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "definitions": {
+      "vi": "Các tài liệu hoặc giấy tờ cung cấp thông tin hoặc bằng chứng.",
+      "es": "Documentos o papeles que proporcionan información o prueba.",
+      "en": "Documents or papers that provide information or proof."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:30:09.928Z",
+    "example": {
+      "en": "I need to bring my documents when going out.",
+      "vi": "Tôi cần mang theo giấy tờ khi đi ra ngoài.",
+      "es": "Necesito llevar mis documentos cuando salga."
+    },
+    "translations": {
+      "en": "documents",
+      "vi": "giấy tờ",
+      "es": "documentos"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I forgot to bring documents when registering for class this morning.",
+    "I need to check documents before submitting them to the new company.",
+    "Can you help me prepare documents for the interview?"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:52:16.936Z",
+    "content": {
+      "hint": "g___ t__",
+      "choices": [
+        "giấy tờ",
+        "thư từ",
+        "sổ sách"
+      ],
+      "answer": "giấy tờ",
+      "translation": {
+        "en": "Do you need to bring the documents?"
+      },
+      "translatedAnswer": {
+        "en": "documents"
+      },
+      "language": "vi",
+      "sentence": "Bạn có cần mang ___ không?",
+      "word": "giấy tờ"
+    },
+    "createdAt": "2025-03-12T13:52:16.936Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "1a651d25-72c8-4210-931a-b23fd9c7937f",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**giấy tờ** = documents, paperwork, official papers (ID, forms, certificates, etc.). It’s usually uncountable in feeling, even though it looks plural.\n\nYou often say *mang theo / chuẩn bị / kiểm tra / làm giấy tờ*. Very common pairings: *giấy tờ tùy thân* (ID), *giấy tờ xe* (vehicle papers).\n\nYou don’t normally use a classifier like *tờ* here — *tờ giấy* is a sheet of paper, different meaning.\n\nClose word: *hồ sơ* = a file or application set (more organized/official), while *giấy tờ* is the individual documents themselves.",
+  "_id": "GOWOZ4SRUfDlpOqr0zh7"
+}

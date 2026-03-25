@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:07:04.192Z",
+  "fillBlankQuiz": {
+    "id": "b2dfc5c1-9d26-465c-9030-e55385ba548d",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi sẽ đi ___ trời mưa.",
+      "word": "khi",
+      "translatedAnswer": {
+        "en": "when"
+      },
+      "answer": "khi",
+      "translation": {
+        "en": "I will go when it rains."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:58:13.239Z",
+    "updatedAt": "2025-03-12T13:58:13.239Z"
+  },
+  "notes": "khi means “when” (at the time that). It connects two actions or situations that happen at the same time or one after another.\n\nIt’s a conjunction, so it links two clauses. The action after khi can be in the past, present, or future — the tense depends on context.\n\nVery close to lúc (“when”), which feels a bit more casual in speech. You’ll often see khi in slightly more formal or written Vietnamese.",
+  "exampleSentencesTranslated": [
+    "I will call you when I get home.",
+    "I usually drink coffee in the morning when I go to work.",
+    "She always feels happy when she meets old friends."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:13:54.421Z",
+    "example": {
+      "en": "I will call you when I get home.",
+      "vi": "Tôi sẽ gọi bạn khi tôi về nhà.",
+      "es": "Te llamaré cuando llegue a casa."
+    },
+    "translations": {
+      "en": "when",
+      "es": "cuando",
+      "vi": "khi"
+    },
+    "definitions": {
+      "en": "A conjunction used to indicate a time or condition.",
+      "vi": "Một liên từ được sử dụng để chỉ thời gian hoặc điều kiện.",
+      "es": "Una conjunción utilizada para indicar un tiempo o condición."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**khi** means **“when”** (at the time that). It connects two actions or situations that happen at the same time or one after another.\n\nIt’s a conjunction, so it links two clauses. The action after *khi* can be in the past, present, or future — the tense depends on context.\n\n\nVery close to **lúc** (“when”), which feels a bit more casual in speech. You’ll often see *khi* in slightly more formal or written Vietnamese.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:58:13.239Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "when"
+      },
+      "sentence": "Tôi sẽ học ___ có thời gian.",
+      "word": "khi",
+      "language": "vi",
+      "choices": [
+        "khi",
+        "nếu",
+        "để"
+      ],
+      "hint": "k__",
+      "translation": {
+        "en": "I will study when I have time."
+      },
+      "answer": "khi"
+    },
+    "createdAt": "2025-03-12T13:58:13.239Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8cd05808-f446-41b0-a66b-35d58b69ef45",
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "khi",
+    "bởi",
+    "nếu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 39,
+  "exampleSentences": [
+    "Anh sẽ gọi cho em khi anh về đến nhà.",
+    "Em thường uống cà phê vào buổi sáng khi đi làm.",
+    "Chị ấy luôn cảm thấy vui vẻ khi gặp bạn bè cũ."
+  ],
+  "word": "khi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "when",
+  "_id": "IOZtb5NlCLOPXGALewOE"
+}

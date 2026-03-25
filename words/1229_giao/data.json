@@ -1,0 +1,99 @@
+{
+  "definition": "deliver",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:34:22.527Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "delivery"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ này ngay.",
+      "answer": "giao",
+      "translation": {
+        "en": "I need this delivery right away."
+      },
+      "choices": [],
+      "word": "giao"
+    },
+    "type": "fillBlankQuiz",
+    "id": "9fc22c80-e203-468f-8b9d-f1aeafa3c9a6",
+    "createdAt": "2025-03-12T14:34:22.527Z"
+  },
+  "exampleSentences": [
+    "Anh sẽ giao tài liệu này cho sếp vào sáng mai.",
+    "Họ vừa mới giao bưu kiện đến nhà em chiều nay.",
+    "Chị có thể giao hàng đến địa chỉ này không?"
+  ],
+  "notes_md": "**giao** = to deliver or hand something over to someone. It’s about transferring something from one person/place to another.\n\nYou often use it for objects: documents, packages, goods, tasks.  \n\nIt can also mean “assign” (giao việc, giao nhiệm vụ) or “hand over responsibility.”  \nRelated words that help memory: **giao hàng** (delivery), **giao việc** (assign work).",
+  "flashcard": {
+    "translations": {
+      "es": "entregar",
+      "en": "deliver",
+      "vi": "giao"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi sẽ giao hàng vào ngày mai.",
+      "en": "I will deliver the goods tomorrow.",
+      "es": "Entregaré los productos mañana."
+    },
+    "createdAt": "2025-01-28T12:09:58.894Z",
+    "definitions": {
+      "es": "entregar o pasar algo.",
+      "en": "to deliver or hand over something.",
+      "vi": "giao hàng hoặc chuyển giao một cái gì đó."
+    }
+  },
+  "notes": "giao = to deliver or hand something over to someone. It’s about transferring something from one person/place to another.\n\nYou often use it for objects: documents, packages, goods, tasks.  \n\nIt can also mean “assign” (giao việc, giao nhiệm vụ) or “hand over responsibility.”  \nRelated words that help memory: giao hàng (delivery), giao việc (assign work).",
+  "choices": [
+    "giao",
+    "cho",
+    "mua"
+  ],
+  "updatedAt": "2026-03-03T08:26:52.778Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1229,
+  "exampleSentencesTranslated": [
+    "I will deliver this document to the boss tomorrow morning.",
+    "They just deliver the package to my house this afternoon.",
+    "Can you deliver the goods to this address?"
+  ],
+  "word": "giao",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "24487648-dff5-4bc4-8caa-c7b4d1ae6a4c",
+    "createdAt": "2025-03-12T14:34:22.527Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:34:22.527Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "deliver"
+      },
+      "language": "vi",
+      "sentence": "Bạn có muốn ___ hàng không?",
+      "translation": {
+        "en": "Do you want to deliver the goods?"
+      },
+      "answer": "giao",
+      "hint": "g___",
+      "word": "giao",
+      "choices": [
+        "giao",
+        "nhận",
+        "mua"
+      ]
+    }
+  },
+  "_id": "QlwKo4RZky0nCatOKnBa"
+}

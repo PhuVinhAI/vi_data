@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-03-03T09:51:44.270Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "học tập",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:29:17.540Z",
+    "content": {
+      "sentence": "Học sinh phải ___ mỗi ngày.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "study"
+      },
+      "word": "học tập",
+      "choices": [
+        "học tập",
+        "nghỉ ngơi",
+        "chơi đùa"
+      ],
+      "hint": "h___ t__",
+      "translation": {
+        "en": "Students have to study every day."
+      },
+      "answer": "học tập"
+    },
+    "id": "0dabeb6f-94b8-497b-9398-a1e002e00786",
+    "createdAt": "2025-03-12T14:29:17.540Z",
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 2019,
+  "exampleSentencesTranslated": [
+    "I need a quiet space to study in the evening.",
+    "She always tries to study hard to get good results.",
+    "I like to study with friends at the library every weekend."
+  ],
+  "notes": "Học tập means to study or to pursue learning in a serious, ongoing way. It sounds more formal and focused than just học.\n\nIt’s a verb, often used for long-term or academic study, not quick learning. You’ll hear it with words about effort and results like chăm chỉ, tiến bộ, kết quả, kinh nghiệm.  \n\nCompared to học, which is everyday and flexible, học tập feels more about dedication and personal development.",
+  "choices": [
+    "học tập",
+    "nghỉ ngơi",
+    "làm việc"
+  ],
+  "exampleSentences": [
+    "Anh cần không gian yên tĩnh để học tập vào buổi tối.",
+    "Chị luôn cố gắng học tập chăm chỉ để đạt kết quả tốt.",
+    "Em thích học tập cùng bạn bè ở thư viện mỗi cuối tuần."
+  ],
+  "notes_md": "**Học tập** means *to study* or *to pursue learning* in a serious, ongoing way. It sounds more formal and focused than just **học**.\n\nIt’s a verb, often used for long-term or academic study, not quick learning. You’ll hear it with words about effort and results like *chăm chỉ*, *tiến bộ*, *kết quả*, *kinh nghiệm*.  \n\n\nCompared to **học**, which is everyday and flexible, **học tập** feels more about dedication and personal development.",
+  "flashcard": {
+    "example": {
+      "en": "Studying is very important for the future.",
+      "vi": "Học tập là rất quan trọng cho tương lai.",
+      "es": "Estudiar es muy importante para el futuro."
+    },
+    "createdAt": "2025-01-28T12:05:22.892Z",
+    "definitions": {
+      "en": "The process of acquiring knowledge or skills through study.",
+      "vi": "Quá trình tiếp thu kiến thức hoặc kỹ năng thông qua việc học.",
+      "es": "El proceso de adquirir conocimientos o habilidades a través del estudio."
+    },
+    "translations": {
+      "en": "study",
+      "vi": "học tập",
+      "es": "estudio"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "study",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "study"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ nhiều hơn.",
+      "answer": "học tập",
+      "translation": {
+        "en": "We need to study more."
+      },
+      "word": "học tập"
+    },
+    "updatedAt": "2025-03-12T14:29:17.540Z",
+    "createdAt": "2025-03-12T14:29:17.540Z",
+    "id": "6d2d169c-16d1-4748-b449-5aa618512742",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "PNgD08Bx8kIllGewByGa"
+}

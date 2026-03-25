@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "Một vùng nước được bao quanh bởi đất.",
+      "es": "Un cuerpo de agua rodeado de tierra.",
+      "en": "A body of water surrounded by land."
+    },
+    "createdAt": "2025-01-28T13:45:44.671Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I enjoy watching the clear lake.",
+      "es": "Me gusta observar el lago claro.",
+      "vi": "Tôi thích ngắm nhìn hồ nước trong xanh."
+    },
+    "translations": {
+      "vi": "hồ",
+      "en": "lake",
+      "es": "lago"
+    }
+  },
+  "choices": [
+    "biển",
+    "hồ",
+    "sông"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Cuối tuần này, anh muốn đi dạo quanh hồ với em không?",
+    "Có nhiều cá bơi trong hồ vào buổi sáng sớm.",
+    "Chị quên mang áo khoác, nên gió lạnh từ hồ làm run."
+  ],
+  "exampleSentencesTranslated": [
+    "Do you want to walk around the lake with me this weekend?",
+    "There are many fish swimming in the lake in the early morning.",
+    "She forgot to bring a jacket, so the cold wind from the lake made her shiver."
+  ],
+  "updatedAt": "2026-03-03T10:01:00.575Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Hồ means lake — a natural body of still water, bigger than a pond.\n\nIt’s a noun. Use classifiers like cái or hồ itself in counting (một cái hồ, hai hồ). Common pairings: hồ nước (lake), hồ bơi (swimming pool — not natural), hồ lớn / hồ nhỏ.\n\nDon’t confuse it with ao (pond, usually smaller and often near houses or fields). Think: ao = small, hồ = bigger and more open.",
+  "word": "hồ",
+  "fillBlankQuiz": {
+    "id": "fea13bfe-97e3-4622-8b1c-e832064446c3",
+    "createdAt": "2025-03-12T16:13:51.159Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:13:51.159Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "hồ",
+      "answer": "hồ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "lake"
+      },
+      "translation": {
+        "en": "I like to admire the lake in the evening."
+      },
+      "sentence": "Tôi thích ngắm ___ vào buổi tối."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2107,
+  "notes_md": "**Hồ** means **lake** — a natural body of still water, bigger than a pond.\n\nIt’s a **noun**. Use classifiers like **cái** or **hồ** itself in counting (một cái hồ, hai hồ). Common pairings: **hồ nước** (lake), **hồ bơi** (swimming pool — not natural), **hồ lớn / hồ nhỏ**.\n\nDon’t confuse it with **ao** (pond, usually smaller and often near houses or fields). Think: **ao = small**, **hồ = bigger and more open**.",
+  "definition": "lake",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:13:51.159Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d7e6d14e-f85c-4e23-97cf-31c3f32475d0",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "h__",
+      "translation": {
+        "en": "We will go fishing at the lake."
+      },
+      "translatedAnswer": {
+        "en": "lake"
+      },
+      "word": "hồ",
+      "choices": [
+        "sông",
+        "hồ",
+        "biển"
+      ],
+      "language": "vi",
+      "answer": "hồ",
+      "sentence": "Chúng ta sẽ đi câu cá ở ___."
+    },
+    "updatedAt": "2025-03-12T16:13:51.159Z"
+  },
+  "_id": "px19lqtY1VqCpn87Euui"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "lướt",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:02:22.438Z",
+    "updatedAt": "2025-03-12T14:02:22.438Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "lướt",
+        "đọc",
+        "nghe"
+      ],
+      "translation": {
+        "en": "Do you like to browse websites?"
+      },
+      "sentence": "Bạn có thích ___ trang web không?",
+      "word": "lướt",
+      "hint": "l___t",
+      "answer": "lướt",
+      "translatedAnswer": {
+        "en": "browse"
+      }
+    },
+    "id": "9601dfe9-5713-4358-8d83-b6db195316d9"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Lướt** = to glide smoothly over a surface. It’s about light, continuous movement without stopping.\n\nYou use it for things moving on water, in the air, or over a surface: *lướt trên mặt nước, lướt qua đường, lướt trên sàn*. It often goes with **trên** (on) or **qua** (across/past).\n\nVery common modern meaning: **to scroll / browse quickly** (like on your phone). You’ll hear *lướt web, lướt Facebook, lướt tin*.\n\nIt feels lighter and smoother than *chạy* (run) or *bay* (fly). For online use, it’s close to “scroll through” or “skim.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I like the feeling of being able to glide on the water with a skateboard.",
+    "This morning I saw a bird glide past the window very quickly.",
+    "I often glide lightly on the floor when dancing with friends."
+  ],
+  "notes": "Lướt = to glide smoothly over a surface. It’s about light, continuous movement without stopping.\n\nYou use it for things moving on water, in the air, or over a surface: lướt trên mặt nước, lướt qua đường, lướt trên sàn. It often goes with trên (on) or qua (across/past).\n\nVery common modern meaning: to scroll / browse quickly (like on your phone). You’ll hear lướt web, lướt Facebook, lướt tin.\n\nIt feels lighter and smoother than chạy (run) or bay (fly). For online use, it’s close to “scroll through” or “skim.”",
+  "updatedAt": "2026-03-03T10:07:07.544Z",
+  "choices": [
+    "lướt",
+    "nhảy",
+    "bơi"
+  ],
+  "definition": "glide",
+  "fillBlankQuiz": {
+    "id": "354bef05-21d5-4200-ad86-42179abe9559",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "lướt",
+      "translatedAnswer": {
+        "en": "browse"
+      },
+      "sentence": "Tôi thích ___ Facebook mỗi ngày.",
+      "word": "lướt",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I like to browse Facebook every day."
+      }
+    },
+    "updatedAt": "2025-03-12T14:02:22.438Z",
+    "createdAt": "2025-03-12T14:02:22.438Z"
+  },
+  "rank": 2167,
+  "exampleSentences": [
+    "Anh thích cảm giác được lướt trên mặt nước bằng ván trượt.",
+    "Sáng nay chị thấy một con chim lướt qua cửa sổ rất nhanh.",
+    "Em thường lướt nhẹ trên sàn khi nhảy cùng bạn bè."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích lướt sóng trên biển.",
+      "es": "Me encanta surfear en el mar.",
+      "en": "I love to surf on the sea."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:40:20.497Z",
+    "translations": {
+      "en": "glide",
+      "vi": "lướt",
+      "es": "deslizar"
+    },
+    "definitions": {
+      "vi": "Lướt là di chuyển nhẹ nhàng trên bề mặt.",
+      "es": "Deslizarse o raspar sobre una superficie.",
+      "en": "To glide or skim over a surface."
+    }
+  },
+  "_id": "JJCzxnd9d0fHfGjYo6EZ"
+}

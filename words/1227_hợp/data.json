@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hợp",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:28:24.629Z",
+    "content": {
+      "translation": {
+        "en": "We need to agree on this plan."
+      },
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "hint": "h__",
+      "answer": "hợp",
+      "choices": [
+        "thích",
+        "hợp",
+        "khác"
+      ],
+      "word": "hợp",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ kế hoạch này."
+    },
+    "id": "877780f5-2383-47fe-a501-2969af9501f1",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:28:24.629Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hợp** = suitable, a good fit, compatible. It’s used when something matches a person, style, situation, or even personality.\n\nIt often describes clothes, colors, food, timing, personality, or two people’s chemistry. You’ll usually see it with **với** to show what it matches.\n\n\nIt can also mean “to get along well” when talking about people. Close synonym: **phù hợp** (more formal); opposite idea: **không hợp** / **không hợp nhau**.",
+  "choices": [
+    "hợp",
+    "gấp",
+    "học"
+  ],
+  "rank": 1227,
+  "notes": "hợp = suitable, a good fit, compatible. It’s used when something matches a person, style, situation, or even personality.\n\nIt often describes clothes, colors, food, timing, personality, or two people’s chemistry. You’ll usually see it with với to show what it matches.\n\nIt can also mean “to get along well” when talking about people. Close synonym: phù hợp (more formal); opposite idea: không hợp / không hợp nhau.",
+  "updatedAt": "2026-03-03T08:26:42.070Z",
+  "exampleSentences": [
+    "Chiếc áo này rất hợp với phong cách của em.",
+    "Anh thấy món ăn này không hợp với khẩu vị của mình lắm.",
+    "Chúng ta cần tìm thời gian hợp để gặp nhau vào cuối tuần."
+  ],
+  "exampleSentencesTranslated": [
+    "This shirt is very suitable for your style.",
+    "I think this dish is not very suitable for my taste.",
+    "We need to find a suitable time to meet on the weekend."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "translation": {
+        "en": "We need to agree on this plan."
+      },
+      "answer": "hợp",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ kế hoạch này.",
+      "word": "hợp"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:28:24.629Z",
+    "id": "936a0701-cc1f-4993-8f49-81591299f001",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:28:24.629Z"
+  },
+  "definition": "suitable",
+  "flashcard": {
+    "translations": {
+      "vi": "hợp tác",
+      "es": "cooperar",
+      "en": "cooperate"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:02:53.128Z",
+    "definitions": {
+      "vi": "hợp tác hoặc làm việc cùng nhau",
+      "es": "cooperar o trabajar juntos",
+      "en": "to cooperate or work together"
+    },
+    "example": {
+      "en": "We need to cooperate to complete the project.",
+      "es": "Necesitamos cooperar para completar el proyecto.",
+      "vi": "Chúng ta cần hợp tác để hoàn thành dự án."
+    }
+  },
+  "_id": "eVV0Jo6cH4jwGDOTYO8I"
+}

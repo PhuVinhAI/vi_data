@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Quốc gia means country — a nation with its own government and territory.  \n\nIt’s a countable noun: một quốc gia, nhiều quốc gia. In everyday speech, people often say nước instead — shorter and more natural in casual talk.  \n\nYou’ll see it in more formal contexts: quốc gia phát triển (developed country), quốc gia đang phát triển, quốc gia độc lập, thành viên quốc gia.  \n\nThink: quốc gia = formal “country”, nước = everyday “country.”",
+  "choices": [
+    "quốc gia",
+    "thành phố",
+    "dân tộc"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "es": "país",
+      "en": "country",
+      "vi": "quốc gia"
+    },
+    "example": {
+      "vi": "Việt Nam là một quốc gia xinh đẹp.",
+      "en": "Vietnam is a beautiful country.",
+      "es": "Vietnam es un país hermoso."
+    },
+    "createdAt": "2025-01-28T13:49:46.670Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A nation with its own government, occupying a particular territory.",
+      "es": "Una nación con su propio gobierno, que ocupa un territorio particular.",
+      "vi": "Một quốc gia có chính phủ riêng, chiếm một lãnh thổ cụ thể."
+    }
+  },
+  "exampleSentences": [
+    "Anh muốn tìm hiểu về văn hoá của mỗi quốc gia khác nhau.",
+    "Việt Nam là một quốc gia nổi tiếng với các món ăn truyền thống.",
+    "Mỗi quốc gia đều có luật pháp riêng để bảo vệ người dân."
+  ],
+  "exampleSentencesTranslated": [
+    "I want to learn about the culture of each different country.",
+    "Vietnam is a country famous for its traditional dishes.",
+    "Each country has its own laws to protect its people."
+  ],
+  "updatedAt": "2026-03-03T07:43:23.894Z",
+  "rank": 818,
+  "notes_md": "**Quốc gia** means *country* — a nation with its own government and territory.  \n\nIt’s a countable noun: *một quốc gia, nhiều quốc gia*. In everyday speech, people often say **nước** instead — shorter and more natural in casual talk.  \n\nYou’ll see it in more formal contexts: *quốc gia phát triển* (developed country), *quốc gia đang phát triển*, *quốc gia độc lập*, *thành viên quốc gia*.  \n\nThink: **quốc gia = formal “country”**, **nước = everyday “country.”**",
+  "definition": "country",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:18:26.316Z",
+    "content": {
+      "word": "quốc gia",
+      "answer": "quốc gia",
+      "language": "vi",
+      "choices": [
+        "khu vực",
+        "quốc gia",
+        "thành phố"
+      ],
+      "translatedAnswer": {
+        "en": "country"
+      },
+      "translation": {
+        "en": "Vietnam is a country in Southeast Asia."
+      },
+      "hint": "q___a",
+      "sentence": "Việt Nam là một ___ ở Đông Nam Á."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "7f617cbd-f21a-43f3-a862-18599d24457f",
+    "createdAt": "2025-03-12T16:18:26.316Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "quốc gia",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:18:26.316Z",
+    "id": "5fdb1ef9-9448-4821-a721-b9fa790f890e",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Việt Nam là một ___ ở Đông Nam Á.",
+      "translatedAnswer": {
+        "en": "country"
+      },
+      "translation": {
+        "en": "Vietnam is a country in Southeast Asia."
+      },
+      "choices": [],
+      "word": "quốc gia",
+      "answer": "quốc gia",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:18:26.316Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "rEzrJM6EWM0Oo03w3BWG"
+}

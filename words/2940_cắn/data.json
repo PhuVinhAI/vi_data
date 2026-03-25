@@ -1,0 +1,98 @@
+{
+  "choices": [
+    "cắn",
+    "cười",
+    "chạy"
+  ],
+  "rank": 2940,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "ce39b932-26c5-495e-b900-123d3d56a39a",
+    "createdAt": "2025-03-12T15:08:13.084Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "bite"
+      },
+      "choices": [
+        "cắn",
+        "hú",
+        "chạy"
+      ],
+      "translation": {
+        "en": "Dogs can bite strangers."
+      },
+      "sentence": "Chó có thể ___ người lạ.",
+      "language": "vi",
+      "word": "cắn",
+      "hint": "c__n",
+      "answer": "cắn"
+    },
+    "updatedAt": "2025-03-12T15:08:13.084Z"
+  },
+  "notes": "cắn = to bite, when a person or animal uses their teeth on something.  \n\nIt’s a verb, often used with animals or insects (dogs, mosquitoes, ants), and also with people in a physical sense. You’ll often hear it in the passive form with bị when someone is the victim.  \n\nIt can also be figurative: cắn răng (grit your teeth = force yourself to endure) or cắn môi (bite your lip, often from emotion or concentration).  \n\nClose word: đớp (to snap/bite quickly, usually animals, more sudden and rough).",
+  "exampleSentences": [
+    "Em đừng đưa tay lại gần con chó vì nó có thể cắn.",
+    "Anh nhỏ tuổi hơn, nhưng rất sợ bị kiến cắn khi đi chơi ngoài vườn.",
+    "Chị có thể cho bé thử cắn một miếng táo này được không?"
+  ],
+  "word": "cắn",
+  "fillBlankQuiz": {
+    "id": "09bd0593-5faa-4a8f-bacd-318e96932bff",
+    "createdAt": "2025-03-12T15:08:13.084Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "Dogs can bite strangers."
+      },
+      "translatedAnswer": {
+        "en": "bite"
+      },
+      "answer": "cắn",
+      "word": "cắn",
+      "language": "vi",
+      "sentence": "Chó có thể ___ người lạ."
+    },
+    "updatedAt": "2025-03-12T15:08:13.084Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:14:41.575Z",
+  "exampleSentencesTranslated": [
+    "Don't put your hand near the dog because it might bite.",
+    "He is younger, but he is very afraid of being bite by ants when playing in the garden.",
+    "Can you let the child try to bite a piece of this apple?"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "bite",
+      "es": "morder",
+      "vi": "cắn"
+    },
+    "example": {
+      "en": "The dog bit me when I got close.",
+      "es": "El perro me mordió cuando me acerqué.",
+      "vi": "Con chó cắn tôi khi tôi đến gần."
+    },
+    "createdAt": "2025-01-28T12:42:36.639Z",
+    "definitions": {
+      "en": "To bite; to use the teeth to cut into something.",
+      "es": "Morder; usar los dientes para cortar algo.",
+      "vi": "Cắn; sử dụng răng để cắt vào cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**cắn** = to bite, when a person or animal uses their teeth on something.  \n\nIt’s a verb, often used with animals or insects (dogs, mosquitoes, ants), and also with people in a physical sense. You’ll often hear it in the passive form with **bị** when someone is the victim.  \n\nIt can also be figurative: **cắn răng** (grit your teeth = force yourself to endure) or **cắn môi** (bite your lip, often from emotion or concentration).  \n\nClose word: **đớp** (to snap/bite quickly, usually animals, more sudden and rough).",
+  "definition": "bite",
+  "_id": "Z6AscbiwWVmGgPhoKGem"
+}

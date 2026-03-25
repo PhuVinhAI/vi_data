@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "cấp độ",
+    "kết quả",
+    "phương pháp"
+  ],
+  "rank": 1699,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:07:53.557Z",
+    "updatedAt": "2025-03-12T15:07:53.557Z",
+    "content": {
+      "translation": {
+        "en": "I am studying at this level."
+      },
+      "choices": [
+        "bậc",
+        "cấp độ",
+        "trình độ"
+      ],
+      "translatedAnswer": {
+        "en": "level"
+      },
+      "word": "cấp độ",
+      "language": "vi",
+      "hint": "c_____o",
+      "answer": "cấp độ",
+      "sentence": "Tôi đang học ở ___ này."
+    },
+    "id": "4f94bc15-816d-468a-8d36-a9f7ced2b8ae"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cấp độ",
+  "notes": "cấp độ = level, stage, degree of something. It’s used for skill, difficulty, quality, intensity, etc.\n\nIt’s a noun. You often say cấp độ + của + something (cấp độ của bài thi) or ở cấp độ + adjective/number (ở cấp độ cao, cấp độ 3).\n\nVery common in learning, games, rankings, and warnings (like risk or danger levels).\n\nClose words: mức độ (degree/extent, more about intensity) and trình độ (level of ability, especially skills).",
+  "exampleSentences": [
+    "Em muốn học tiếng Anh ở cấp độ nào trong trung tâm này?",
+    "Anh đã đạt đến cấp độ cao nhất trong trò chơi đó rồi.",
+    "Chị nghĩ bài kiểm tra này phù hợp với cấp độ của em."
+  ],
+  "exampleSentencesTranslated": [
+    "Which level do you want to study English at in this center?",
+    "I have reached the highest level in that game already.",
+    "I think this test is suitable for your level."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:07:53.557Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "level"
+      },
+      "translation": {
+        "en": "I am studying at this level."
+      },
+      "sentence": "Tôi đang học ở ___ này.",
+      "answer": "cấp độ",
+      "language": "vi",
+      "word": "cấp độ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:07:53.557Z",
+    "id": "4a6d7fb1-4982-4e62-a286-98b5a5a2f7d1"
+  },
+  "updatedAt": "2026-03-03T09:17:43.249Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Each level in the game has a different difficulty.",
+      "es": "Cada nivel en el juego tiene una dificultad diferente.",
+      "vi": "Mỗi cấp độ trong trò chơi đều có độ khó khác nhau."
+    },
+    "translations": {
+      "en": "level",
+      "es": "nivel",
+      "vi": "cấp độ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A stage or rank in a hierarchy or scale.",
+      "es": "Un nivel o rango en una jerarquía o escala.",
+      "vi": "Một giai đoạn hoặc cấp bậc trong một hệ thống hoặc thang đo."
+    },
+    "createdAt": "2025-01-28T12:40:43.614Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**cấp độ** = level, stage, degree of something. It’s used for skill, difficulty, quality, intensity, etc.\n\nIt’s a noun. You often say **cấp độ + của + something** (cấp độ của bài thi) or **ở cấp độ + adjective/number** (ở cấp độ cao, cấp độ 3).\n\nVery common in learning, games, rankings, and warnings (like risk or danger levels).\n\nClose words: **mức độ** (degree/extent, more about intensity) and **trình độ** (level of ability, especially skills).",
+  "definition": "level",
+  "_id": "Z3gaxDIBwkqw4vUKLDVF"
+}

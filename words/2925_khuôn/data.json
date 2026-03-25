@@ -1,0 +1,99 @@
+{
+  "rank": 2925,
+  "exampleSentences": [
+    "Em cần một khuôn bánh để làm bánh kem này.",
+    "Anh đã mua thêm khuôn cho dự án thủ công của mình.",
+    "Chị có thể cho em mượn khuôn để làm xà phòng không?"
+  ],
+  "word": "khuôn",
+  "definition": "mold",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "khuôn",
+    "bát",
+    "hộp"
+  ],
+  "updatedAt": "2026-03-03T18:13:06.401Z",
+  "notes": "Khuôn usually means a mold — a shaped container you pour something into so it takes that shape. It’s a countable noun, often used with cái (cái khuôn), and pairs a lot with things you shape: khuôn bánh, khuôn đúc.\n\nIt also means a fixed form or pattern, especially in khuôn mẫu (a model/standard to follow).  \n\nVery common: khuôn mặt = face (literally “face shape”), so don’t always think about baking.  \n\nThink of it as “a shape that makes other things take shape,” both physically and socially.",
+  "fillBlankQuiz": {
+    "id": "3f02ed69-63d1-4669-a638-8da0a3bd21c1",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:53:22.389Z",
+    "content": {
+      "translation": {
+        "en": "I need a mold to make cake."
+      },
+      "answer": "khuôn",
+      "choices": [],
+      "language": "vi",
+      "word": "khuôn",
+      "sentence": "Tôi cần một ___ để làm bánh.",
+      "translatedAnswer": {
+        "en": "mold"
+      }
+    },
+    "updatedAt": "2025-03-12T13:53:22.389Z"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T11:31:11.150Z",
+    "example": {
+      "en": "She used a mold to make the cake.",
+      "vi": "Cô ấy đã sử dụng một khuôn để làm bánh.",
+      "es": "Ella usó un molde para hacer el pastel."
+    },
+    "translations": {
+      "en": "mold",
+      "vi": "khuôn",
+      "es": "molde"
+    },
+    "definitions": {
+      "es": "Un recipiente hueco utilizado para dar forma a un material líquido o caliente cuando se enfría y se endurece.",
+      "vi": "Một cái hộp rỗng được sử dụng để tạo hình cho vật liệu lỏng hoặc nóng khi nó nguội và cứng lại.",
+      "en": "A hollow container used to give shape to molten or hot liquid material when it cools and hardens."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I need a mold to make this cake.",
+    "I bought more mold for my craft project.",
+    "Can you lend me a mold to make soap?"
+  ],
+  "notes_md": "**Khuôn** usually means a *mold* — a shaped container you pour something into so it takes that shape. It’s a countable noun, often used with **cái** (cái khuôn), and pairs a lot with things you shape: khuôn bánh, khuôn đúc.\n\nIt also means a fixed *form or pattern*, especially in **khuôn mẫu** (a model/standard to follow).  \n\nVery common: **khuôn mặt** = *face* (literally “face shape”), so don’t always think about baking.  \n\nThink of it as “a shape that makes other things take shape,” both physically and socially.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "69c14e5c-d1db-4d68-91ae-fe4617ffdd37",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:53:22.389Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "molds"
+      },
+      "word": "khuôn",
+      "sentence": "Họ bán ___ cho các đầu bếp.",
+      "language": "vi",
+      "hint": "k____n",
+      "choices": [
+        "bát",
+        "khuôn",
+        "nồi"
+      ],
+      "translation": {
+        "en": "They sell molds for chefs."
+      },
+      "answer": "khuôn"
+    },
+    "updatedAt": "2025-03-12T13:53:22.389Z"
+  },
+  "_id": "GnDYgMMcOa3ch0ZVjAmJ"
+}

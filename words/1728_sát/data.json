@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:20:58.837Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "705047cf-010a-4973-abf1-a8f51b719f52",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:54:27.661Z",
+    "createdAt": "2025-03-12T13:54:27.661Z",
+    "content": {
+      "translation": {
+        "en": "The cat is close to the window."
+      },
+      "answer": "sát",
+      "choices": [],
+      "sentence": "Con mèo ___ bên cửa sổ.",
+      "word": "sát",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "close"
+      }
+    }
+  },
+  "notes": "sát = very close, right next to, almost touching. It’s stronger than gần — it feels tight, with little or no space in between.\n\nIt describes position or distance, often after a verb or before a noun. You use it for physical space and also for time (like something happening right before a deadline).\n\nClose synonyms: gần, kế, cạnh (but sát feels tighter).  \nOpposite: xa.",
+  "exampleSentencesTranslated": [
+    "My house is close to the school so I walk to class every day.",
+    "I sit close to the window to easily look outside.",
+    "This chair placed close to the wall will save a lot of space."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Cerca o próximo.",
+      "vi": "Gần hoặc sát.",
+      "en": "Close or near."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "close",
+      "vi": "sát",
+      "es": "cerca"
+    },
+    "createdAt": "2025-01-28T11:32:12.922Z",
+    "example": {
+      "en": "The dog is close to me.",
+      "es": "El perro está cerca de mí.",
+      "vi": "Con chó sát bên tôi."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "ee7793b1-4e5f-4174-b4cb-6524906b6c36",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:54:27.661Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "close"
+      },
+      "language": "vi",
+      "word": "sát",
+      "sentence": "Chúng ta đứng ___ bức tường.",
+      "hint": "s__t",
+      "choices": [
+        "xa",
+        "sát",
+        "đối diện"
+      ],
+      "translation": {
+        "en": "We stand close to the wall."
+      },
+      "answer": "sát"
+    },
+    "updatedAt": "2025-03-12T13:54:27.661Z"
+  },
+  "notes_md": "**sát** = very close, right next to, almost touching. It’s stronger than *gần* — it feels tight, with little or no space in between.\n\nIt describes position or distance, often after a verb or before a noun. You use it for physical space and also for time (like something happening right before a deadline).\n\n\nClose synonyms: *gần*, *kế*, *cạnh* (but *sát* feels tighter).  \nOpposite: *xa*.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cách",
+    "xa",
+    "sát"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nhà anh nằm sát bên trường nên anh đi bộ đến lớp mỗi ngày.",
+    "Em ngồi sát cửa sổ để ngắm cảnh bên ngoài cho dễ.",
+    "Ghế này đặt sát tường sẽ tiết kiệm được nhiều không gian hơn."
+  ],
+  "rank": 1728,
+  "word": "sát",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "close",
+  "_id": "HEdIsxsYk6vQwYt3AL5d"
+}

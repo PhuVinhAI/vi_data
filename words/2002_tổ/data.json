@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chim làm ___ trên cây.",
+      "choices": [],
+      "language": "vi",
+      "answer": "tổ",
+      "word": "tổ",
+      "translation": {
+        "en": "The bird makes a nest on the tree."
+      },
+      "translatedAnswer": {
+        "en": "nest"
+      }
+    },
+    "updatedAt": "2025-03-12T16:09:04.125Z",
+    "createdAt": "2025-03-12T16:09:04.125Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2996e3fd-d0b0-4abb-a73d-2e4d3cb17774"
+  },
+  "word": "tổ",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chim làm ___ trên cây.",
+      "translation": {
+        "en": "The bird makes a nest on the tree."
+      },
+      "translatedAnswer": {
+        "en": "nest"
+      },
+      "hint": "t__",
+      "word": "tổ",
+      "answer": "tổ",
+      "language": "vi",
+      "choices": [
+        "tổ",
+        "bàn",
+        "cây"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:09:04.125Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:09:04.125Z",
+    "id": "75f2f0bb-df4b-42c2-a076-94744c6d631b"
+  },
+  "definition": "nest",
+  "notes_md": "**tổ** = nest (for birds, insects, animals). It’s a **noun**.\n\nUse **một tổ + noun** (một tổ chim, một tổ ong). You’ll often see it with animals that live together: **tổ chim, tổ ong, tổ kiến**.\n\nIt can also mean a small “group/unit” inside an organization, like **tổ trưởng** (team leader) or a work team in school/company.\n\nTo remember: think of **tổ** as a small “home base” for animals or a small working group.",
+  "rank": 2002,
+  "updatedAt": "2026-03-03T09:49:57.484Z",
+  "exampleSentencesTranslated": [
+    "Birds often build a nest high on branches to protect their young.",
+    "I saw a small nest in the corner of my grandmother's yard.",
+    "This morning, I saw a bird returning to its nest."
+  ],
+  "exampleSentences": [
+    "Chim thường xây tổ trên cành cao để bảo vệ con non.",
+    "Em thấy một tổ nhỏ ở góc sân nhà bà ngoại.",
+    "Sáng nay, anh nhìn thấy một con chim quay về tổ của nó."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:40:59.753Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một cấu trúc được xây dựng bởi chim hoặc động vật khác để giữ trứng hoặc con non.",
+      "en": "A structure built by birds or other animals to hold their eggs or young.",
+      "es": "Una estructura construida por aves u otros animales para sostener sus huevos o crías."
+    },
+    "translations": {
+      "vi": "tổ",
+      "en": "nest",
+      "es": "nido"
+    },
+    "example": {
+      "es": "El pájaro hace un nido en el árbol.",
+      "en": "The bird builds a nest in the tree.",
+      "vi": "Chim làm tổ trên cây."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "túi",
+    "tổ",
+    "tôi"
+  ],
+  "notes": "tổ = nest (for birds, insects, animals). It’s a noun.\n\nUse một tổ + noun (một tổ chim, một tổ ong). You’ll often see it with animals that live together: tổ chim, tổ ong, tổ kiến.\n\nIt can also mean a small “group/unit” inside an organization, like tổ trưởng (team leader) or a work team in school/company.\n\nTo remember: think of tổ as a small “home base” for animals or a small working group.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "olJ2jt3u313hGz4NTaSE"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "kỹ",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:15:13.807Z",
+    "content": {
+      "word": "kỹ",
+      "sentence": "Tôi làm việc ___ để hoàn thành dự án.",
+      "language": "vi",
+      "choices": [
+        "kỹ",
+        "nhanh",
+        "chậm"
+      ],
+      "answer": "kỹ",
+      "hint": "k__",
+      "translation": {
+        "en": "I work carefully to complete the project."
+      },
+      "translatedAnswer": {
+        "en": "carefully"
+      }
+    },
+    "id": "705ccd49-ad4a-4fac-98be-c34b0c154181",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:15:13.807Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**kỹ** means *carefully* or *thoroughly* — you do something with full attention and detail, not quickly or carelessly.\n\nIt usually comes after a verb to show how the action is done.  \n\nIt can also describe a person’s personality in phrases like *kỹ tính* (very meticulous / picky).\n\nClose synonym: **cẩn thận** (careful).  \nOpposites that help you remember it: **qua loa**, **sơ sài** (done carelessly, roughly).",
+  "rank": 957,
+  "choices": [
+    "kỹ",
+    "lười",
+    "nhanh"
+  ],
+  "notes": "kỹ means carefully or thoroughly — you do something with full attention and detail, not quickly or carelessly.\n\nIt usually comes after a verb to show how the action is done.  \n\nIt can also describe a person’s personality in phrases like kỹ tính (very meticulous / picky).\n\nClose synonym: cẩn thận (careful).  \nOpposites that help you remember it: qua loa, sơ sài (done carelessly, roughly).",
+  "updatedAt": "2026-03-03T07:57:37.708Z",
+  "exampleSentences": [
+    "Em nên đọc kỹ hướng dẫn trước khi bắt đầu làm bài.",
+    "Anh ấy luôn kiểm tra kỹ mọi thứ trước khi đi ngủ.",
+    "Chị nhớ rửa tay kỹ trước khi ăn cơm nhé."
+  ],
+  "exampleSentencesTranslated": [
+    "You should read the instructions carefully before starting the test.",
+    "He always checks everything carefully before going to bed.",
+    "Remember to wash your hands carefully before eating."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I work carefully to complete the project."
+      },
+      "translatedAnswer": {
+        "en": "carefully"
+      },
+      "answer": "kỹ",
+      "choices": [],
+      "word": "kỹ",
+      "language": "vi",
+      "sentence": "Tôi làm việc ___ để hoàn thành dự án."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:15:13.807Z",
+    "id": "bc58a4b8-70b6-4b5b-b652-c0f55c582d53",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:15:13.807Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "He works very carefully.",
+      "es": "Él trabaja muy cuidadosamente.",
+      "vi": "Anh ấy làm việc rất kỹ."
+    },
+    "definitions": {
+      "vi": "Cẩn thận hoặc tỉ mỉ khi làm một việc gì đó.",
+      "es": "Cuidadoso o meticuloso al hacer algo.",
+      "en": "Careful or meticulous in doing something."
+    },
+    "createdAt": "2025-01-28T10:56:07.450Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "cuidadoso",
+      "vi": "kỹ",
+      "en": "careful"
+    }
+  },
+  "definition": "carefully",
+  "_id": "6wkQggdmkLrZJ5tCCe4j"
+}

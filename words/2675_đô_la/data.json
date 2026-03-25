@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "đô la",
+        "xu",
+        "cent"
+      ],
+      "word": "đô la",
+      "language": "vi",
+      "sentence": "Tôi có ___ trong ví.",
+      "translation": {
+        "en": "I have dollars in my wallet."
+      },
+      "translatedAnswer": {
+        "en": "dollars"
+      },
+      "hint": "d___a",
+      "answer": "đô la"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:18:26.075Z",
+    "id": "f28d342b-b054-405a-978a-19dc80be2e51",
+    "updatedAt": "2025-03-12T15:18:26.075Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Đô la** means *dollar*, usually US dollars (USD). In Vietnamese, it often refers specifically to American money unless another country is named.\n\nIt’s a countable noun, and you put the number directly in front: no classifier needed (một đô la, hai mươi đô la). In casual speech, people often shorten it to **đô**.\n\nYou’ll see it when talking about exchange rates, prices in USD, or sending money abroad. If you want to be specific, you can say **đô la Mỹ** (US dollar).",
+  "rank": 2675,
+  "choices": [
+    "đô la",
+    "đồng",
+    "yên"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đô la",
+  "exampleSentencesTranslated": [
+    "I need to exchange one hundred dollar to Vietnamese money.",
+    "Can you lend me twenty dollar?",
+    "I bought this shirt for fifty dollar."
+  ],
+  "fillBlankQuiz": {
+    "id": "15457947-8c14-4bbc-8921-4e92ed62825f",
+    "content": {
+      "translatedAnswer": {
+        "en": "dollars"
+      },
+      "translation": {
+        "en": "I need dollars to buy a gift."
+      },
+      "answer": "đô la",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần ___ để mua quà.",
+      "word": "đô la"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:26.075Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:18:26.075Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "đô la",
+      "es": "dólar",
+      "en": "dollar"
+    },
+    "createdAt": "2025-01-28T12:53:08.089Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A unit of currency used in various countries, including the United States.",
+      "vi": "Một đơn vị tiền tệ được sử dụng ở nhiều quốc gia, bao gồm cả Hoa Kỳ.",
+      "es": "Una unidad de moneda utilizada en varios países, incluido Estados Unidos."
+    },
+    "example": {
+      "vi": "Tôi cần đổi đô la sang tiền Việt.",
+      "es": "Necesito cambiar dólares por dong vietnamitas.",
+      "en": "I need to exchange dollars for Vietnamese dong."
+    }
+  },
+  "definition": "dollar",
+  "notes": "Đô la means dollar, usually US dollars (USD). In Vietnamese, it often refers specifically to American money unless another country is named.\n\nIt’s a countable noun, and you put the number directly in front: no classifier needed (một đô la, hai mươi đô la). In casual speech, people often shorten it to đô.\n\nYou’ll see it when talking about exchange rates, prices in USD, or sending money abroad. If you want to be specific, you can say đô la Mỹ (US dollar).",
+  "updatedAt": "2026-03-03T11:34:45.507Z",
+  "exampleSentences": [
+    "Anh cần đổi một trăm đô la sang tiền Việt Nam.",
+    "Chị có thể cho em mượn hai mươi đô la không?",
+    "Em mua chiếc áo này với giá năm mươi đô la."
+  ],
+  "_id": "bkitH2rW1SWVTk0cS2XF"
+}

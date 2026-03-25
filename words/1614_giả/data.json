@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He bought a fake watch thinking it was real.",
+    "She doesn't like fake people and always wants honest friends.",
+    "I discovered this bill is fake while checking."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "giả",
+  "multiChoiceQuiz": {
+    "id": "4ae3e0a6-9dd4-469b-a6b0-dedf3986324d",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:32:06.814Z",
+    "content": {
+      "choices": [
+        "thật",
+        "giả",
+        "mới"
+      ],
+      "answer": "giả",
+      "translation": {
+        "en": "This product has fake quality."
+      },
+      "translatedAnswer": {
+        "en": "fake"
+      },
+      "language": "vi",
+      "hint": "g___",
+      "word": "giả",
+      "sentence": "Sản phẩm này có ___ chất lượng."
+    },
+    "updatedAt": "2025-03-12T16:32:06.814Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh mua phải đồng hồ giả mà tưởng là hàng thật.",
+    "Chị không thích người giả, luôn muốn bạn bè trung thực.",
+    "Em phát hiện ra tờ tiền này là giả trong lúc kiểm tra."
+  ],
+  "updatedAt": "2026-03-03T09:08:43.279Z",
+  "choices": [
+    "già",
+    "giả",
+    "giải"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "giả means fake or not real. It describes something that looks real but isn’t.\n\nIt goes before a noun: giả + noun (like fake money, fake goods, fake documents). The opposite is thật (real) — this pair is very common and easy to remember.\n\nIt can also mean pretend in set phrases.  \n\nYou’ll see it a lot when talking about products, emotions, or behavior that isn’t genuine.",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:03:18.194Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "No real; imitación.",
+      "en": "Not real; imitation.",
+      "vi": "Không thật; hàng giả."
+    },
+    "example": {
+      "vi": "Đây là một chiếc đồng hồ giả.",
+      "es": "Este es un reloj falso.",
+      "en": "This is a fake watch."
+    },
+    "translations": {
+      "vi": "giả",
+      "en": "fake",
+      "es": "falso"
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Sản phẩm này có ___ chất lượng.",
+      "word": "giả",
+      "language": "vi",
+      "translation": {
+        "en": "This product has fake quality."
+      },
+      "answer": "giả",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "fake"
+      }
+    },
+    "updatedAt": "2025-03-12T16:32:06.814Z",
+    "id": "d6b56c5e-6a56-4b9a-9d87-2e15d11d467c",
+    "createdAt": "2025-03-12T16:32:06.814Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "fake",
+  "rank": 1614,
+  "notes_md": "**giả** means *fake* or *not real*. It describes something that looks real but isn’t.\n\nIt goes before a noun: **giả + noun** (like fake money, fake goods, fake documents). The opposite is **thật** (real) — this pair is very common and easy to remember.\n\nIt can also mean *pretend* in set phrases.  \n\nYou’ll see it a lot when talking about products, emotions, or behavior that isn’t genuine.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uWNWLIKnyb0DISDOkNoD"
+}

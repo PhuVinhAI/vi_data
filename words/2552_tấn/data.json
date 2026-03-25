@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tấn",
+      "es": "tonelada",
+      "en": "ton"
+    },
+    "createdAt": "2025-01-28T13:26:30.933Z",
+    "definitions": {
+      "en": "A unit of weight equal to 1,000 kilograms.",
+      "es": "Una unidad de peso igual a 1,000 kilogramos.",
+      "vi": "Một đơn vị trọng lượng bằng 1.000 kilôgam."
+    },
+    "example": {
+      "es": "Ella pesa 50 toneladas.",
+      "en": "She weighs 50 tons.",
+      "vi": "Cô ấy nặng 50 tấn."
+    }
+  },
+  "word": "tấn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-04T08:49:02.851Z",
+  "exampleSentencesTranslated": [
+    "This factory produces more than fifty metric ton of rice every day.",
+    "He bought one metric ton of cement to build a new house.",
+    "Every year, the company exports several hundred metric ton of coffee abroad."
+  ],
+  "notes_md": "**tấn** means **metric ton** (1,000 kilograms). It’s used for very heavy things like rice, cement, coal, metal, etc.\n\nIt follows a number: *số + tấn + noun* (hai tấn thép). No classifier needed.\n\nIt can also mean **“a ton of / a large amount of”** in a more casual, figurative way (một tấn công việc = a ton of work).\n\nClose idea in English: “a ton (of)” — both literal and figurative.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:54:21.648Z",
+    "updatedAt": "2025-03-12T15:54:21.648Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "The truck carries tons of goods."
+      },
+      "word": "tấn",
+      "translatedAnswer": {
+        "en": "tons"
+      },
+      "answer": "tấn",
+      "hint": "t__n",
+      "choices": [
+        "tấn",
+        "kg",
+        "gam"
+      ],
+      "sentence": "Chiếc xe tải chở ___ hàng."
+    },
+    "id": "4c715024-059a-47c1-849f-1210120ac762",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2552,
+  "definition": "metric ton",
+  "notes": "tấn means metric ton (1,000 kilograms). It’s used for very heavy things like rice, cement, coal, metal, etc.\n\nIt follows a number: số + tấn + noun (hai tấn thép). No classifier needed.\n\nIt can also mean “a ton of / a large amount of” in a more casual, figurative way (một tấn công việc = a ton of work).\n\nClose idea in English: “a ton (of)” — both literal and figurative.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nhà máy này sản xuất hơn năm mươi tấn gạo mỗi ngày.",
+    "Anh đã mua một tấn xi măng để xây nhà mới.",
+    "Mỗi năm, công ty xuất khẩu vài trăm tấn cà phê ra nước ngoài."
+  ],
+  "choices": [
+    "tấn",
+    "tạ",
+    "kg"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:54:21.648Z",
+    "createdAt": "2025-03-12T15:54:21.648Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a7e52510-62b2-4a13-bcb2-e2fbeb2a2dc5",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Weigh this ton of goods."
+      },
+      "word": "tấn",
+      "choices": [],
+      "sentence": "Cân ___ hàng hóa này.",
+      "translatedAnswer": {
+        "en": "ton"
+      },
+      "answer": "tấn"
+    }
+  },
+  "_id": "kaDQQKbEOsPy3QDDsUlZ"
+}

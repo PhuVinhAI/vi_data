@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cái này giá bao nhiêu?",
+      "en": "How much is this?",
+      "es": "¿Cuánto cuesta esto?"
+    },
+    "translations": {
+      "vi": "bao nhiêu",
+      "en": "how much",
+      "es": "cuánto"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Used to ask about the quantity or price of something.",
+      "vi": "Dùng để hỏi về số lượng hoặc giá của một cái gì đó.",
+      "es": "Se utiliza para preguntar sobre la cantidad o el precio de algo."
+    },
+    "createdAt": "2025-01-28T10:37:44.726Z"
+  },
+  "rank": 334,
+  "definition": "how many / how much",
+  "exampleSentences": [
+    "Anh muốn biết cà phê này giá bao nhiêu một ly được không?",
+    "Chị có thể cho em biết lớp học có bao nhiêu người không?",
+    "Em đã học tiếng Việt được bao nhiêu tháng rồi nhỉ?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "29accb33-e96b-41ff-9e51-9b7227b9e91c",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cái này giá ___ tiền?",
+      "answer": "bao nhiêu",
+      "translation": {
+        "en": "How much does this cost?"
+      },
+      "choices": [
+        "mấy",
+        "bao nhiêu",
+        "nhiều"
+      ],
+      "hint": "b____u",
+      "translatedAnswer": {
+        "en": "much"
+      },
+      "language": "vi",
+      "word": "bao nhiêu"
+    },
+    "createdAt": "2025-03-12T12:53:39.251Z",
+    "updatedAt": "2025-03-12T12:53:39.251Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bao nhiêu",
+  "choices": [
+    "bao nhiêu",
+    "bây giờ",
+    "bao lâu"
+  ],
+  "notes": "Bao nhiêu means “how many” or “how much.” It’s used to ask about quantity, number, or price.\n\nUse it with both countable and uncountable nouns. It usually comes before the noun it describes.\n\nFor price, Vietnamese often drops the noun and just says bao nhiêu? = “How much?”  \nTo answer, people often use bấy nhiêu (“that much/that many”) in more formal or written contexts.",
+  "notes_md": "**Bao nhiêu** means “how many” or “how much.” It’s used to ask about quantity, number, or price.\n\nUse it with both countable and uncountable nouns. It usually comes **before** the noun it describes.\n\n\nFor price, Vietnamese often drops the noun and just says **bao nhiêu?** = “How much?”  \nTo answer, people often use **bấy nhiêu** (“that much/that many”) in more formal or written contexts.",
+  "exampleSentencesTranslated": [
+    "Can you tell me how many / how much this coffee is per cup?",
+    "Can you tell me how many / how much people are in the class?",
+    "How many / how much months have you studied Vietnamese?"
+  ],
+  "updatedAt": "2026-03-03T06:55:45.646Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:53:39.251Z",
+    "updatedAt": "2025-03-12T12:53:39.251Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cái này giá ___ tiền?",
+      "answer": "bao nhiêu",
+      "choices": [],
+      "translation": {
+        "en": "How much does this cost?"
+      },
+      "word": "bao nhiêu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "much"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "b58656d7-68fc-4a9c-a462-54d8f5a9b107"
+  },
+  "_id": "1F3ulO8bTXm2mcaYz1s8"
+}

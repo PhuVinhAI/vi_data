@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bả** = poison used to kill animals, usually mixed into food as bait. Think “poison bait” more than just general poison.\n\nIt’s a noun. You’ll hear things like *bả chuột*, *bả kiến*, *bả cá*. You can count it with words like *gói bả* (a packet of poison) or talk about *chất bả* (the poisonous substance).\n\nStructure: bỏ / rải + bả + object/place (i.e. bỏ bả chuột ngoài vườn)\n\nClose cousin: **thuốc độc** = poison in general (stronger, broader), while **bả** is often poison prepared to lure and kill pests.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bả",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:21:34.738Z",
+    "createdAt": "2025-03-12T14:21:34.738Z",
+    "id": "cf948cb1-6ef0-42ac-aeed-00840536bf0f",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "bait"
+      },
+      "answer": "bả",
+      "hint": "b__",
+      "word": "bả",
+      "sentence": "Cá rất thích ___ trong nước.",
+      "translation": {
+        "en": "Fish really like the bait in the water."
+      },
+      "choices": [
+        "mồi",
+        "bả",
+        "cá"
+      ],
+      "language": "vi"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "7e4578ed-d26b-4abd-bd36-6e7ccb53c6f3",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "bả",
+      "sentence": "Tôi không thấy ___ ở đâu.",
+      "translation": {
+        "en": "I can't see the bait anywhere."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "bait"
+      },
+      "answer": "bả"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:21:34.738Z",
+    "createdAt": "2025-03-12T14:21:34.738Z"
+  },
+  "definition": "poison",
+  "updatedAt": "2026-03-03T18:00:15.024Z",
+  "choices": [
+    "bả",
+    "bà",
+    "bá"
+  ],
+  "notes": "bả = poison used to kill animals, usually mixed into food as bait. Think “poison bait” more than just general poison.\n\nIt’s a noun. You’ll hear things like bả chuột, bả kiến, bả cá. You can count it with words like gói bả (a packet of poison) or talk about chất bả (the poisonous substance).\n\nStructure: bỏ / rải + bả + object/place (i.e. bỏ bả chuột ngoài vườn)\n\nClose cousin: thuốc độc = poison in general (stronger, broader), while bả is often poison prepared to lure and kill pests.",
+  "exampleSentencesTranslated": [
+    "Be careful to put poison for rats in the garden, and don't let children get near.",
+    "Read the instructions carefully before using poison to kill ants in the house.",
+    "People should not use poison for fish to catch fish in the river."
+  ],
+  "rank": 2815,
+  "flashcard": {
+    "example": {
+      "vi": "Con mèo đang chơi với bả.",
+      "es": "El gato está jugando con el cebo.",
+      "en": "The cat is playing with the bait."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:57:38.113Z",
+    "definitions": {
+      "en": "A substance used to attract animals, typically for fishing or hunting.",
+      "vi": "Một chất được sử dụng để thu hút động vật, thường là để câu cá hoặc săn bắn.",
+      "es": "Una sustancia utilizada para atraer animales, típicamente para pescar o cazar."
+    },
+    "translations": {
+      "es": "cebo",
+      "vi": "bả",
+      "en": "bait"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh chú ý để bả chuột ngoài vườn, đừng để trẻ em lại gần.",
+    "Chị đọc kỹ hướng dẫn trước khi dùng bả để diệt kiến trong nhà.",
+    "Người dân không nên sử dụng bả cá để đánh bắt cá ở sông."
+  ],
+  "_id": "NV7UX7HsYkLI2hOj1lWq"
+}

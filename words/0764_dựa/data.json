@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I always rely on my family when I have difficulties in life.",
+    "You should not rely too much on others to solve problems.",
+    "When working in a team, I like to rely on everyone's opinions."
+  ],
+  "word": "dựa",
+  "choices": [
+    "dựa",
+    "giữ",
+    "ngồi"
+  ],
+  "exampleSentences": [
+    "Em luôn dựa vào gia đình khi gặp khó khăn trong cuộc sống.",
+    "Chị không nên dựa quá nhiều vào người khác để giải quyết vấn đề.",
+    "Khi làm việc nhóm, anh thích dựa vào ý kiến của mọi người."
+  ],
+  "updatedAt": "2026-03-03T07:38:03.841Z",
+  "multiChoiceQuiz": {
+    "id": "c5e63a27-67b4-468a-82f9-6e6bab5c08c6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:31:23.201Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rely"
+      },
+      "answer": "dựa",
+      "choices": [
+        "dựa",
+        "tin tưởng",
+        "hỗ trợ"
+      ],
+      "translation": {
+        "en": "We need to rely on each other."
+      },
+      "sentence": "Chúng ta cần ___ vào nhau.",
+      "word": "dựa",
+      "hint": "d__a"
+    },
+    "updatedAt": "2025-03-12T16:31:23.201Z"
+  },
+  "flashcard": {
+    "translations": {
+      "es": "depender de",
+      "en": "to rely on",
+      "vi": "dựa"
+    },
+    "example": {
+      "vi": "Tôi dựa vào kinh nghiệm của mình để đưa ra quyết định.",
+      "en": "I rely on my experience to make decisions.",
+      "es": "Me baso en mi experiencia para tomar decisiones."
+    },
+    "definitions": {
+      "vi": "dựa vào; dựa vào; căn cứ vào",
+      "en": "to rely on; to lean on; to base on",
+      "es": "depender de; apoyarse en; basarse en"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:02:26.498Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "dựa = to rely on, depend on. It can also mean to physically lean against something.\n\nIt often goes with vào when talking about depending on someone/something.  \n\nFor physical meaning, it’s about resting your body weight against something. For abstract meaning, it’s about support, information, or help.  \nClose word: ỷ lại = rely on in a negative way (lazy, overdependent).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "rely"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I rely on this plan."
+      },
+      "answer": "dựa",
+      "language": "vi",
+      "word": "dựa",
+      "sentence": "Tôi ___ vào kế hoạch này."
+    },
+    "updatedAt": "2025-03-12T16:31:23.201Z",
+    "id": "44aab137-4251-4ada-885f-7ff9516338b6",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:31:23.201Z"
+  },
+  "definition": "rely",
+  "rank": 764,
+  "notes_md": "**dựa** = to rely on, depend on. It can also mean to physically lean against something.\n\nIt often goes with **vào** when talking about depending on someone/something.  \n\nFor physical meaning, it’s about resting your body weight against something. For abstract meaning, it’s about support, information, or help.  \nClose word: **ỷ lại** = rely on in a negative way (lazy, overdependent).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uN9XtfzPQuGlzJRWaH2M"
+}

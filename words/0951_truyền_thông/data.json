@@ -1,0 +1,98 @@
+{
+  "word": "truyền thông",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 951,
+  "choices": [
+    "truyền thông",
+    "giáo dục",
+    "văn hóa"
+  ],
+  "notes_md": "**truyền thông** = media, mass media (TV, newspapers, online news). It can also mean communication in a broader sense (how information is shared).\n\nIt’s an uncountable noun, but you count related units like *kênh truyền thông* (media channel), *công ty truyền thông* (media company), *ngành truyền thông* (media industry). Common collocations: *mạng truyền thông*, *chiến lược truyền thông*, *phương tiện truyền thông*.\n\nClose word: *báo chí* = the press (more about journalism/newspapers, narrower than *truyền thông*).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:20:30.321Z",
+    "type": "multiChoiceQuiz",
+    "id": "b362ffdb-c241-4ddd-8936-dc69fe017f94",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:20:30.321Z",
+    "content": {
+      "answer": "truyền thông",
+      "hint": "tr___g",
+      "translation": {
+        "en": "We need to improve the company's communication."
+      },
+      "translatedAnswer": {
+        "en": "communication"
+      },
+      "word": "truyền thông",
+      "sentence": "Chúng ta cần cải thiện ___ của công ty.",
+      "language": "vi",
+      "choices": [
+        "truyền thông",
+        "quảng cáo",
+        "thương mại"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị đang làm việc trong lĩnh vực truyền thông tại một công ty lớn.",
+    "Em thường cập nhật tin tức qua các kênh truyền thông hàng ngày.",
+    "Truyền thông đóng vai trò quan trọng trong xã hội hiện đại."
+  ],
+  "updatedAt": "2026-03-03T07:56:57.626Z",
+  "notes": "truyền thông = media, mass media (TV, newspapers, online news). It can also mean communication in a broader sense (how information is shared).\n\nIt’s an uncountable noun, but you count related units like kênh truyền thông (media channel), công ty truyền thông (media company), ngành truyền thông (media industry). Common collocations: mạng truyền thông, chiến lược truyền thông, phương tiện truyền thông.\n\nClose word: báo chí = the press (more about journalism/newspapers, narrower than truyền thông).",
+  "flashcard": {
+    "definitions": {
+      "en": "The imparting or exchanging of information or news.",
+      "es": "La transmisión o intercambio de información o noticias.",
+      "vi": "Sự truyền đạt hoặc trao đổi thông tin hoặc tin tức."
+    },
+    "example": {
+      "vi": "Truyền thông đóng vai trò quan trọng trong xã hội.",
+      "es": "La comunicación juega un papel importante en la sociedad.",
+      "en": "Communication plays an important role in society."
+    },
+    "translations": {
+      "vi": "truyền thông",
+      "es": "comunicación",
+      "en": "communication"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:00:56.131Z"
+  },
+  "definition": "media",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:20:30.321Z",
+    "content": {
+      "sentence": "Chúng ta cần cải thiện ___ của công ty.",
+      "language": "vi",
+      "word": "truyền thông",
+      "translatedAnswer": {
+        "en": "communication"
+      },
+      "translation": {
+        "en": "We need to improve the company's communication."
+      },
+      "answer": "truyền thông"
+    },
+    "id": "2858023d-cbe5-41b7-97f0-07ecb3934522",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:20:30.321Z"
+  },
+  "exampleSentencesTranslated": [
+    "She is working in the media field at a big company.",
+    "I usually get news through media channels every day.",
+    "Media plays an important role in modern society."
+  ],
+  "_id": "8PDOzSwtBwvTfzWoI6ch"
+}

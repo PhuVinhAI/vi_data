@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e98bccec-a426-4a4f-a152-376fc3dfd3eb",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:23.634Z",
+    "content": {
+      "word": "thành phần",
+      "sentence": "Món ăn này có ___ đặc biệt.",
+      "language": "vi",
+      "choices": [
+        "hương vị",
+        "thành phần",
+        "đặc sản"
+      ],
+      "hint": "th___n phần",
+      "answer": "thành phần",
+      "translation": {
+        "en": "This dish has special ingredients."
+      },
+      "translatedAnswer": {
+        "en": "ingredients"
+      }
+    },
+    "updatedAt": "2025-03-12T13:35:23.634Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2209,
+  "choices": [
+    "thành phần",
+    "thành phố",
+    "thành tựu"
+  ],
+  "notes_md": "**Thành phần** means *component, ingredient, or part of something* — one piece that makes up a whole.\n\nIt’s a noun. You often say **thành phần của + something** to show what it belongs to. It’s commonly used for food, products, systems, groups, or even social groups.\n\nClose words: **bộ phận** (part, often physical/mechanical), **yếu tố** (factor, more abstract). For food specifically, **nguyên liệu** means raw ingredients, while *thành phần* is broader (what’s included overall).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thành phần",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:35:23.634Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:35:23.634Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "Each dish has its own ingredients."
+      },
+      "translatedAnswer": {
+        "en": "ingredients"
+      },
+      "answer": "thành phần",
+      "choices": [],
+      "word": "thành phần",
+      "language": "vi",
+      "sentence": "Mỗi món ăn có ___ riêng."
+    },
+    "id": "fbecd14e-d43a-4014-8448-b3a106aa37ce"
+  },
+  "exampleSentencesTranslated": [
+    "Can you list all the component in this dish?",
+    "I want to learn about the component of this skincare product.",
+    "You should check the component before buying packaged food."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "thành phần",
+      "es": "componente",
+      "en": "component"
+    },
+    "createdAt": "2025-01-28T11:14:45.845Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A component or ingredient that makes up a whole.",
+      "vi": "Một thành phần hoặc nguyên liệu tạo nên một tổng thể.",
+      "es": "Un componente o ingrediente que forma un todo."
+    },
+    "example": {
+      "vi": "Thành phần của món ăn này rất phong phú.",
+      "es": "Los ingredientes de este plato son muy diversos.",
+      "en": "The ingredients of this dish are very diverse."
+    }
+  },
+  "definition": "component",
+  "notes": "Thành phần means component, ingredient, or part of something — one piece that makes up a whole.\n\nIt’s a noun. You often say thành phần của + something to show what it belongs to. It’s commonly used for food, products, systems, groups, or even social groups.\n\nClose words: bộ phận (part, often physical/mechanical), yếu tố (factor, more abstract). For food specifically, nguyên liệu means raw ingredients, while thành phần is broader (what’s included overall).",
+  "exampleSentences": [
+    "Em có thể liệt kê tất cả thành phần trong món ăn này không?",
+    "Anh muốn tìm hiểu về thành phần của sản phẩm chăm sóc da này.",
+    "Chị nên kiểm tra thành phần trước khi mua thực phẩm đóng gói."
+  ],
+  "updatedAt": "2026-03-03T10:11:48.038Z",
+  "_id": "CDM6K462Ek8k84MNIVbs"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "tội",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**tội** = crime, offense. It’s a noun for something illegal or morally wrong.\n\nUse it with **phạm tội** (to commit a crime) and **bị kết án vì tội...** (be sentenced for a crime). You can count it: *một tội, nhiều tội*.  \n\nIt also means **fault / sin / wrongdoing**, not just legal crime — so it can be moral or social, not only criminal.\n\nClose words: **tội ác** (serious crime, stronger), **lỗi** (mistake, lighter and more everyday).",
+  "rank": 2523,
+  "choices": [
+    "tội",
+    "tối",
+    "tỏi"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "83ca1ab2-b2ec-416c-9dd7-1a6ea2c2b7d4",
+    "createdAt": "2025-03-12T15:18:22.579Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "tội",
+      "hint": "t__",
+      "translation": {
+        "en": "She feels guilty when doing that."
+      },
+      "translatedAnswer": {
+        "en": "guilty"
+      },
+      "word": "tội",
+      "sentence": "Cô ấy cảm thấy ___ khi làm điều đó.",
+      "language": "vi",
+      "choices": [
+        "tội",
+        "vui",
+        "buồn"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:18:22.579Z"
+  },
+  "updatedAt": "2026-03-03T10:44:25.786Z",
+  "exampleSentences": [
+    "Anh ấy đã phạm một tội nghiêm trọng và bị cảnh sát bắt.",
+    "Chị nghĩ rằng tha thứ cho người gây tội là điều nên làm.",
+    "Em nghe nói có người bị kết án vì tội trộm cắp ở trường."
+  ],
+  "notes": "tội = crime, offense. It’s a noun for something illegal or morally wrong.\n\nUse it with phạm tội (to commit a crime) and bị kết án vì tội... (be sentenced for a crime). You can count it: một tội, nhiều tội.  \n\nIt also means fault / sin / wrongdoing, not just legal crime — so it can be moral or social, not only criminal.\n\nClose words: tội ác (serious crime, stronger), lỗi (mistake, lighter and more everyday).",
+  "flashcard": {
+    "example": {
+      "es": "Me siento culpable por no ayudarte.",
+      "vi": "Tôi cảm thấy tội lỗi vì đã không giúp đỡ bạn.",
+      "en": "I feel guilty for not helping you."
+    },
+    "definitions": {
+      "en": "A feeling of guilt or wrongdoing.",
+      "vi": "Cảm giác tội lỗi hoặc làm điều sai trái.",
+      "es": "Un sentimiento de culpa o mala acción."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:53:03.563Z",
+    "translations": {
+      "en": "crime; sin; guilt",
+      "es": "crimen; pecado; culpa",
+      "vi": "tội; tội lỗi"
+    }
+  },
+  "definition": "crime",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:22.579Z",
+    "content": {
+      "answer": "tội",
+      "translation": {
+        "en": "I feel guilty about that decision."
+      },
+      "translatedAnswer": {
+        "en": "guilty"
+      },
+      "word": "tội",
+      "sentence": "Tôi cảm thấy ___ về quyết định đó.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "934c39e4-53ef-4033-95d4-b8ab68554327",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:18:22.579Z"
+  },
+  "exampleSentencesTranslated": [
+    "He committed a crime and was caught by the police.",
+    "She thinks that forgiving someone who committed a crime is the right thing to do.",
+    "I heard someone was convicted for the crime of theft at school."
+  ],
+  "_id": "bidqznjg3GMamJkeSnHl"
+}

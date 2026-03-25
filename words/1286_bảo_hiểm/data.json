@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "es": "Un contrato que proporciona protección financiera contra pérdidas.",
+      "vi": "Một hợp đồng cung cấp bảo vệ tài chính chống lại tổn thất.",
+      "en": "A contract that provides financial protection against losses."
+    },
+    "createdAt": "2025-01-28T12:22:20.267Z",
+    "example": {
+      "es": "Compré un seguro para mi coche.",
+      "en": "I bought insurance for my car.",
+      "vi": "Tôi đã mua bảo hiểm cho xe của mình."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "seguro",
+      "en": "insurance",
+      "vi": "bảo hiểm"
+    }
+  },
+  "notes_md": "**Bảo hiểm** means *insurance* — money protection in case something bad happens (accident, illness, damage, etc.).\n\nIt’s an uncountable noun in general, but you’ll often specify the type: **bảo hiểm y tế** (health insurance), **bảo hiểm xe**, **bảo hiểm nhân thọ** (life insurance).  \nCommon verbs: **mua** (buy), **đóng** (pay into), **có** (have), **làm** (arrange/apply for).  \n\nThink of it as financial protection — you pay now so you don’t lose big later.",
+  "exampleSentences": [
+    "Anh đã mua bảo hiểm cho chiếc xe mới của mình.",
+    "Chị nên tìm hiểu kỹ về các loại bảo hiểm sức khỏe trước khi đăng ký.",
+    "Công ty yêu cầu nhân viên phải có bảo hiểm khi đi công tác nước ngoài."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "insurance"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần mua ___ cho xe.",
+      "translation": {
+        "en": "I need to buy insurance for the car."
+      },
+      "answer": "bảo hiểm",
+      "choices": [],
+      "word": "bảo hiểm"
+    },
+    "updatedAt": "2025-03-12T14:48:16.356Z",
+    "createdAt": "2025-03-12T14:48:16.356Z",
+    "id": "ca90103d-be24-4bbd-ac1f-cc7ebea4d1f0",
+    "type": "fillBlankQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "insurance",
+  "word": "bảo hiểm",
+  "multiChoiceQuiz": {
+    "id": "281089d6-48ba-498c-8ebe-38508ec68dcc",
+    "createdAt": "2025-03-12T14:48:16.356Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:48:16.356Z",
+    "content": {
+      "sentence": "Tôi cần mua ___ cho xe.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "insurance"
+      },
+      "hint": "b__ h____m",
+      "translation": {
+        "en": "I need to buy insurance for the car."
+      },
+      "answer": "bảo hiểm",
+      "word": "bảo hiểm",
+      "choices": [
+        "bảo hiểm",
+        "xe hơi",
+        "sổ tay"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 1286,
+  "exampleSentencesTranslated": [
+    "I bought insurance for my new car.",
+    "You should carefully learn about health insurance options before signing up.",
+    "The company requires employees to have insurance when traveling abroad for work."
+  ],
+  "updatedAt": "2026-03-03T08:33:19.790Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bảo hiểm",
+    "giấy phép",
+    "hợp đồng"
+  ],
+  "notes": "Bảo hiểm means insurance — money protection in case something bad happens (accident, illness, damage, etc.).\n\nIt’s an uncountable noun in general, but you’ll often specify the type: bảo hiểm y tế (health insurance), bảo hiểm xe, bảo hiểm nhân thọ (life insurance).  \nCommon verbs: mua (buy), đóng (pay into), có (have), làm (arrange/apply for).  \n\nThink of it as financial protection — you pay now so you don’t lose big later.",
+  "_id": "Tq5sL0P2MWOWJBDi38Br"
+}

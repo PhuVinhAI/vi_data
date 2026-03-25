@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "es": "riesgo",
+      "vi": "nguy cơ",
+      "en": "risk"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:58:11.493Z",
+    "definitions": {
+      "es": "Una situación que implica exposición al peligro o daño.",
+      "vi": "Một tình huống liên quan đến việc tiếp xúc với nguy hiểm hoặc tổn hại.",
+      "en": "A situation involving exposure to danger or harm."
+    },
+    "example": {
+      "en": "We need to be aware of the risks of climate change.",
+      "vi": "Chúng ta cần nhận thức về nguy cơ của biến đổi khí hậu.",
+      "es": "Necesitamos ser conscientes de los riesgos del cambio climático."
+    }
+  },
+  "definition": "risk",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:17:35.894Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "nguy cơ",
+      "sentence": "Có ___ cho sức khỏe của bạn.",
+      "language": "vi",
+      "translation": {
+        "en": "There is a risk for your health."
+      },
+      "translatedAnswer": {
+        "en": "risk"
+      },
+      "answer": "nguy cơ"
+    },
+    "createdAt": "2025-03-12T13:17:35.894Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a7e43dd4-0529-4e15-9140-2f8eef945021"
+  },
+  "exampleSentencesTranslated": [
+    "The doctor said you have a risk of heart disease if you don't exercise.",
+    "You should wear a helmet to reduce the risk of traffic accidents.",
+    "If we do not save water, there will be a risk of clean water shortage."
+  ],
+  "updatedAt": "2026-03-03T18:01:57.398Z",
+  "exampleSentences": [
+    "Bác sĩ nói anh có nguy cơ mắc bệnh tim nếu không tập thể dục.",
+    "Em nên đội mũ bảo hiểm để giảm nguy cơ bị tai nạn giao thông.",
+    "Nếu chúng ta không tiết kiệm nước, sẽ có nguy cơ thiếu nước sạch."
+  ],
+  "notes": "Nguy cơ means risk — the possibility that something bad might happen. It’s a noun.\n\nYou often use it with có nguy cơ (to be at risk of something).  \n\nIt usually talks about health, accidents, problems, or negative outcomes.  \nClose synonym: rủi ro (more like “risk” in business or financial contexts).",
+  "notes_md": "**Nguy cơ** means *risk* — the possibility that something bad might happen. It’s a noun.\n\nYou often use it with **có nguy cơ** (to be at risk of something).  \n\nIt usually talks about health, accidents, problems, or negative outcomes.  \nClose synonym: **rủi ro** (more like “risk” in business or financial contexts).",
+  "rank": 2830,
+  "choices": [
+    "nguy cơ",
+    "kết quả",
+    "giải pháp"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:17:35.894Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "risk"
+      },
+      "translation": {
+        "en": "There is a risk in the weather forecast."
+      },
+      "answer": "nguy cơ",
+      "hint": "n____ c",
+      "choices": [
+        "nguy cơ",
+        "khả năng",
+        "điều kiện"
+      ],
+      "sentence": "Có ___ trong dự báo thời tiết.",
+      "language": "vi",
+      "word": "nguy cơ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:17:35.894Z",
+    "id": "96399189-acf7-430c-9d1b-212b8d9c5052"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nguy cơ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "7aFdO1j3psYvXRFnzGuK"
+}

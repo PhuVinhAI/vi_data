@@ -1,0 +1,99 @@
+{
+  "definition": "brave",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "dũng",
+  "exampleSentences": [
+    "Anh ấy thật sự rất dũng khi giúp đỡ người khác trong nguy hiểm.",
+    "Chị cần phải dũng để nói lên ý kiến của mình trước lớp.",
+    "Em thấy dũng khi em đứng trên sân khấu lần đầu tiên."
+  ],
+  "rank": 1946,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "dũng",
+    "vui",
+    "buồn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:46:49.821Z",
+    "content": {
+      "answer": "dũng",
+      "translation": {
+        "en": "She is very brave in every situation."
+      },
+      "hint": "d___g",
+      "choices": [
+        "dũng",
+        "khéo",
+        "nhát"
+      ],
+      "language": "vi",
+      "sentence": "Cô ấy rất ___ trong mọi tình huống.",
+      "word": "dũng",
+      "translatedAnswer": {
+        "en": "brave"
+      }
+    },
+    "updatedAt": "2025-03-12T13:46:49.821Z",
+    "id": "7a16aacd-f709-49ee-888a-7b2ae7d05edc",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**dũng** means *brave* or *courageous*. It talks about facing fear or danger without backing down.\n\nIn modern Vietnamese, **dũng** is rarely used alone — it almost always appears in compounds, especially **dũng cảm** (brave). It describes a person’s character or actions.\n\nStrong synonym to remember: **can đảm** (brave).  \nClear opposite: **hèn nhát** (cowardly).\n\nYou’ll also see it in names or formal words like **anh dũng** (heroic).",
+  "flashcard": {
+    "definitions": {
+      "en": "Bravery or courage in facing difficulties or danger.",
+      "es": "Valentía o coraje al enfrentar dificultades o peligros.",
+      "vi": "Sự can đảm hoặc dũng cảm khi đối mặt với khó khăn hoặc nguy hiểm."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "valiente",
+      "vi": "dũng",
+      "en": "brave"
+    },
+    "example": {
+      "es": "Él es muy valiente al enfrentar el peligro.",
+      "vi": "Anh ấy rất dũng cảm khi đối mặt với nguy hiểm.",
+      "en": "He is very brave when facing danger."
+    },
+    "createdAt": "2025-01-28T11:25:20.791Z"
+  },
+  "exampleSentencesTranslated": [
+    "He is really very brave when helping others in danger.",
+    "You need to be brave to speak your opinion in front of the class.",
+    "I felt brave when I stood on stage for the first time."
+  ],
+  "notes": "dũng means brave or courageous. It talks about facing fear or danger without backing down.\n\nIn modern Vietnamese, dũng is rarely used alone — it almost always appears in compounds, especially dũng cảm (brave). It describes a person’s character or actions.\n\nStrong synonym to remember: can đảm (brave).  \nClear opposite: hèn nhát (cowardly).\n\nYou’ll also see it in names or formal words like anh dũng (heroic).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "9fac43e6-6802-47bb-b155-710b24cf8c48",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:46:49.821Z",
+    "createdAt": "2025-03-12T13:46:49.821Z",
+    "content": {
+      "answer": "dũng",
+      "translation": {
+        "en": "He is very brave when facing difficulties."
+      },
+      "choices": [],
+      "sentence": "Anh ấy rất ___ khi đối mặt với khó khăn.",
+      "word": "dũng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "brave"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T09:44:00.145Z",
+  "_id": "FCfspWLUJjnUFJex9GP1"
+}

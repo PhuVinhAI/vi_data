@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "giải",
+    "xử",
+    "giữ"
+  ],
+  "fillBlankQuiz": {
+    "id": "7269d75f-da6b-4a90-8128-1c3ea7b27e54",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "xử",
+      "translation": {
+        "en": "We need to handle this issue."
+      },
+      "language": "vi",
+      "choices": [],
+      "sentence": "Chúng ta cần ___ vấn đề này.",
+      "translatedAnswer": {
+        "en": "handle"
+      },
+      "answer": "xử"
+    },
+    "updatedAt": "2025-03-12T15:58:34.492Z",
+    "createdAt": "2025-03-12T15:58:34.492Z"
+  },
+  "exampleSentences": [
+    "Anh có thể giúp em xử vấn đề này được không?",
+    "Chị ấy biết cách xử tình huống khó trong công việc rất tốt.",
+    "Em cần học cách xử mọi việc bình tĩnh hơn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "xử = handle, deal with, take care of something. It’s a short, flexible verb used when you manage a problem, situation, or task.\n\nOften used in fixed pairs like xử lý (process/solve) and xử phạt (punish/fine). It can also mean “punish” or “judge” in legal or serious contexts.\n\nClose synonym: giải quyết (solve) — more formal and complete-sounding.  \nStronger meaning: trừng phạt (punish harshly).",
+  "definition": "handle",
+  "rank": 2034,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:58:34.492Z",
+    "createdAt": "2025-03-12T15:58:34.492Z",
+    "id": "57172e94-e655-4513-b393-3fe4b2246392",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need to handle this issue."
+      },
+      "word": "xử",
+      "translatedAnswer": {
+        "en": "handle"
+      },
+      "answer": "xử",
+      "hint": "x___",
+      "sentence": "Chúng ta cần ___ vấn đề này.",
+      "choices": [
+        "giải",
+        "xử",
+        "khắc phục"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xử** = handle, deal with, take care of something. It’s a short, flexible verb used when you manage a problem, situation, or task.\n\nOften used in fixed pairs like **xử lý** (process/solve) and **xử phạt** (punish/fine). It can also mean “punish” or “judge” in legal or serious contexts.\n\n\nClose synonym: **giải quyết** (solve) — more formal and complete-sounding.  \nStronger meaning: **trừng phạt** (punish harshly).",
+  "exampleSentencesTranslated": [
+    "Can you help me handle this problem?",
+    "She knows how to handle difficult situations at work very well.",
+    "I need to learn to handle everything more calmly."
+  ],
+  "updatedAt": "2026-03-03T09:53:24.611Z",
+  "word": "xử",
+  "flashcard": {
+    "definitions": {
+      "vi": "Để xử lý, giải quyết hoặc xử lý một cái gì đó.",
+      "es": "Tratar, manejar o procesar algo.",
+      "en": "To deal with, to handle, or to process something."
+    },
+    "createdAt": "2025-01-28T13:30:41.645Z",
+    "example": {
+      "en": "I will handle this issue right away.",
+      "es": "Voy a manejar este problema de inmediato.",
+      "vi": "Tôi sẽ xử lý vấn đề này ngay."
+    },
+    "translations": {
+      "vi": "xử",
+      "en": "to handle",
+      "es": "manejar"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "lgszZY9WiDeqfQc47DGR"
+}

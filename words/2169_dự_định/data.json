@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "dự định",
+      "es": "intención",
+      "en": "plan"
+    },
+    "createdAt": "2025-01-28T11:06:32.321Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un plan o intención de hacer algo.",
+      "vi": "Một kế hoạch hoặc ý định làm điều gì đó.",
+      "en": "A plan or intention to do something."
+    },
+    "example": {
+      "en": "I plan to travel this weekend.",
+      "es": "Tengo la intención de viajar este fin de semana.",
+      "vi": "Tôi có dự định đi du lịch vào cuối tuần này."
+    }
+  },
+  "definition": "plan",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:26:08.889Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:26:08.889Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "dự định",
+      "translatedAnswer": {
+        "en": "plans"
+      },
+      "translation": {
+        "en": "I have plans today."
+      },
+      "language": "vi",
+      "sentence": "Tôi có ___ hôm nay.",
+      "word": "dự định",
+      "choices": []
+    },
+    "id": "2eadbcfc-dea5-45e8-ae97-b0fb3b2ff7cf"
+  },
+  "exampleSentencesTranslated": [
+    "Anh has a plan to travel with his family this summer.",
+    "Chị changed her plan after hearing opinions from friends.",
+    "Em asks mom about the family's plan for this weekend."
+  ],
+  "updatedAt": "2026-03-03T10:07:21.717Z",
+  "exampleSentences": [
+    "Anh có dự định đi du lịch cùng gia đình vào mùa hè này.",
+    "Chị đã thay đổi dự định sau khi nghe ý kiến từ bạn bè.",
+    "Em hỏi mẹ về dự định của cả nhà cho cuối tuần này."
+  ],
+  "notes": "Dự định = a plan or intention you have in mind (often not 100% fixed yet). It’s about what you’re thinking of doing in the future.\n\nIt can be a noun: một dự định, có dự định, thay đổi dự định.  \nIt’s also used like a verb before another verb.\n\nClose words: kế hoạch (more detailed and concrete), định (shorter, more casual).",
+  "notes_md": "**Dự định** = a plan or intention you have in mind (often not 100% fixed yet). It’s about what you’re thinking of doing in the future.\n\nIt can be a **noun**: *một dự định*, *có dự định*, *thay đổi dự định*.  \nIt’s also used like a **verb** before another verb.\n\n\nClose words: **kế hoạch** (more detailed and concrete), **định** (shorter, more casual).",
+  "rank": 2169,
+  "choices": [
+    "dự định",
+    "kết thúc",
+    "thời gian"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f1fd2937-3ac8-457a-9d6d-501c51ad3e38",
+    "content": {
+      "translation": {
+        "en": "I have plans today."
+      },
+      "translatedAnswer": {
+        "en": "plans"
+      },
+      "hint": "d___n",
+      "answer": "dự định",
+      "choices": [
+        "kế hoạch",
+        "dự định",
+        "ý tưởng"
+      ],
+      "word": "dự định",
+      "language": "vi",
+      "sentence": "Tôi có ___ hôm nay."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:26:08.889Z",
+    "updatedAt": "2025-03-12T13:26:08.889Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "dự định",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9xCDpeCcQoJVMEKLXn4G"
+}

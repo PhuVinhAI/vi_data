@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "ngắn hạn",
+    "dài hạn",
+    "ngay lập tức"
+  ],
+  "exampleSentences": [
+    "Chị muốn đầu tư dài hạn để có lợi nhuận ổn định.",
+    "Anh ấy đang tìm một công việc dài hạn ở thành phố này.",
+    "Em cần lên kế hoạch dài hạn cho việc học tiếng Anh của mình."
+  ],
+  "updatedAt": "2026-03-03T09:11:06.499Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "This company has a long-term strategy."
+      },
+      "answer": "dài hạn",
+      "choices": [
+        "ngắn hạn",
+        "dài hạn",
+        "tạm thời"
+      ],
+      "translatedAnswer": {
+        "en": "long-term"
+      },
+      "language": "vi",
+      "hint": "d___h",
+      "word": "dài hạn",
+      "sentence": "Công ty này có chiến lược ___."
+    },
+    "updatedAt": "2025-03-12T16:40:59.757Z",
+    "id": "02d33cb4-671a-47c2-843e-6e10ed81a927",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:40:59.757Z"
+  },
+  "exampleSentencesTranslated": [
+    "She wants to invest for the long term to have stable profits.",
+    "He is looking for a long term job in this city.",
+    "I need to make a long term plan for my English studies."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "dài hạn",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:12:33.544Z",
+    "translations": {
+      "es": "a largo plazo",
+      "en": "long-term",
+      "vi": "dài hạn"
+    },
+    "example": {
+      "es": "Necesitamos un plan a largo plazo para el desarrollo sostenible.",
+      "en": "We need a long-term plan for sustainable development.",
+      "vi": "Chúng ta cần một kế hoạch dài hạn để phát triển bền vững."
+    },
+    "definitions": {
+      "en": "Referring to a period of time that is extended or lasting.",
+      "es": "Refiriéndose a un período de tiempo que es extenso o duradero.",
+      "vi": "Chỉ một khoảng thời gian kéo dài hoặc lâu dài."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "dài hạn means long-term — something that lasts a long time or is planned for the future, not just now.\n\nIt’s an adjective, usually placed after the noun it describes (kế hoạch dài hạn, mục tiêu dài hạn).  \nIt often talks about plans, goals, strategies, investments, effects, or relationships.\n\nOpposite: ngắn hạn (short-term) — very useful contrast to remember.",
+  "notes_md": "**dài hạn** means *long-term* — something that lasts a long time or is planned for the future, not just now.\n\nIt’s an adjective, usually placed **after the noun** it describes (kế hoạch dài hạn, mục tiêu dài hạn).  \nIt often talks about plans, goals, strategies, investments, effects, or relationships.\n\nOpposite: **ngắn hạn** (short-term) — very useful contrast to remember.",
+  "rank": 1637,
+  "definition": "long term",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "answer": "dài hạn",
+      "translation": {
+        "en": "We need a long-term plan."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "long-term"
+      },
+      "sentence": "Chúng ta cần một kế hoạch ___.",
+      "word": "dài hạn"
+    },
+    "updatedAt": "2025-03-12T16:40:59.757Z",
+    "type": "fillBlankQuiz",
+    "id": "0c398423-4370-4fe6-a4a3-bc9034d67eb5",
+    "createdAt": "2025-03-12T16:40:59.757Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "wvZ5Mmhigkge72MF60QX"
+}

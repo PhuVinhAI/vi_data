@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He is participating in a research project about the environment.",
+    "She spends a lot of time doing research for her thesis.",
+    "Students need research skills when studying at university."
+  ],
+  "updatedAt": "2026-03-03T07:31:02.354Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "4bfb4eb5-a641-4049-9f06-e8219ea14f5f",
+    "createdAt": "2025-03-12T15:08:17.310Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I need research for this project."
+      },
+      "translatedAnswer": {
+        "en": "research"
+      },
+      "choices": [],
+      "answer": "nghiên cứu",
+      "word": "nghiên cứu",
+      "language": "vi",
+      "sentence": "Tôi cần ___ cho dự án này."
+    },
+    "updatedAt": "2025-03-12T15:08:17.310Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "I am researching Vietnamese culture.",
+      "es": "Estoy investigando la cultura vietnamita.",
+      "vi": "Tôi đang nghiên cứu về văn hóa Việt Nam."
+    },
+    "translations": {
+      "en": "research",
+      "es": "investigación",
+      "vi": "nghiên cứu"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:42:41.929Z",
+    "definitions": {
+      "en": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "es": "La investigación sistemática de materiales y fuentes para establecer hechos y llegar a nuevas conclusiones.",
+      "vi": "Sự điều tra có hệ thống về các tài liệu và nguồn để xác định sự thật và đạt được những kết luận mới."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nghiên cứu** means *to research* or *to study something deeply*. It can be both a verb (to research) and a noun (a research study).\n\nAs a verb, it’s used for serious, careful investigation, often in science, business, or academia.  \n\nAs a noun, you’ll often see **một nghiên cứu**, **công trình nghiên cứu**, or **làm nghiên cứu**.  \nClose words: **tìm hiểu** (look into, lighter/less formal), **khảo sát** (survey, more about collecting data).",
+  "definition": "research",
+  "choices": [
+    "giảng dạy",
+    "nghiên cứu",
+    "phát triển"
+  ],
+  "rank": 694,
+  "multiChoiceQuiz": {
+    "id": "23389f1e-6bf2-4387-81f4-badf56ab7796",
+    "content": {
+      "translation": {
+        "en": "We need research to understand better."
+      },
+      "translatedAnswer": {
+        "en": "research"
+      },
+      "choices": [
+        "nghiên cứu",
+        "phân tích",
+        "báo cáo"
+      ],
+      "word": "nghiên cứu",
+      "language": "vi",
+      "hint": "n____",
+      "answer": "nghiên cứu",
+      "sentence": "Chúng ta cần ___ để hiểu rõ hơn."
+    },
+    "updatedAt": "2025-03-12T15:08:17.310Z",
+    "createdAt": "2025-03-12T15:08:17.310Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nghiên cứu",
+  "notes": "nghiên cứu means to research or to study something deeply. It can be both a verb (to research) and a noun (a research study).\n\nAs a verb, it’s used for serious, careful investigation, often in science, business, or academia.  \n\nAs a noun, you’ll often see một nghiên cứu, công trình nghiên cứu, or làm nghiên cứu.  \nClose words: tìm hiểu (look into, lighter/less formal), khảo sát (survey, more about collecting data).",
+  "exampleSentences": [
+    "Anh đang tham gia một dự án nghiên cứu về môi trường.",
+    "Chị ấy dành nhiều thời gian để nghiên cứu cho bài luận văn.",
+    "Sinh viên cần kỹ năng nghiên cứu khi học đại học."
+  ],
+  "_id": "Z7Jp3ZecqQ2LUjR5lKRK"
+}

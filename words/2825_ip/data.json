@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T14:00:16.954Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate over a network.",
+      "es": "Una cadena única de números separados por puntos que identifica cada computadora que utiliza el Protocolo de Internet para comunicarse a través de una red.",
+      "vi": "Một chuỗi số duy nhất được phân tách bằng dấu chấm, xác định mỗi máy tính sử dụng Giao thức Internet để giao tiếp qua mạng."
+    },
+    "example": {
+      "en": "I need to check the IP address of the computer.",
+      "es": "Necesito verificar la dirección IP de la computadora.",
+      "vi": "Tôi cần kiểm tra địa chỉ IP của máy tính."
+    },
+    "translations": {
+      "es": "IP",
+      "en": "IP",
+      "vi": "ip"
+    }
+  },
+  "notes": "ip usually means an IP address — the number that identifies a device on the internet. In Vietnamese, you’ll often hear địa chỉ IP, but people casually just say ip.\n\nIt’s a noun. You can say một IP or more fully một địa chỉ IP (no special classifier needed).  \n\nCommon verbs with it: cấp (assign), đổi (change), kiểm tra (check), nhập (enter), cấu hình (configure).\n\nStructure: cấp / đổi / kiểm tra + IP (i.e. đổi IP)",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "ip",
+    "máy",
+    "mạng"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi cần biết địa chỉ ___ của bạn.",
+      "word": "ip",
+      "hint": "i__",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "IP"
+      },
+      "translation": {
+        "en": "I need to know your IP address."
+      },
+      "answer": "ip",
+      "choices": [
+        "máy tính",
+        "ip",
+        "địa chỉ"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:29:19.291Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:29:19.291Z",
+    "id": "eeafc33a-d282-408e-8819-8676d5cae995"
+  },
+  "exampleSentences": [
+    "Anh có thể gửi cho em ip của máy tính không?",
+    "Nếu không có ip, chúng ta sẽ không kết nối được mạng.",
+    "Kỹ thuật viên yêu cầu chị cung cấp ip để kiểm tra sự cố."
+  ],
+  "updatedAt": "2026-03-03T18:01:19.597Z",
+  "exampleSentencesTranslated": [
+    "Can you send me the IP address of the computer?",
+    "Without an IP address, we cannot connect to the network.",
+    "The technician asked you to provide the IP address to check the problem."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ip",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**ip** usually means an **IP address** — the number that identifies a device on the internet. In Vietnamese, you’ll often hear **địa chỉ IP**, but people casually just say **ip**.\n\nIt’s a noun. You can say **một IP** or more fully **một địa chỉ IP** (no special classifier needed).  \n\nCommon verbs with it: **cấp** (assign), **đổi** (change), **kiểm tra** (check), **nhập** (enter), **cấu hình** (configure).\n\nStructure: cấp / đổi / kiểm tra + IP (i.e. đổi IP)",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ip",
+      "sentence": "Tôi cần biết địa chỉ ___ của bạn.",
+      "choices": [],
+      "translation": {
+        "en": "I need to know your IP address."
+      },
+      "answer": "ip",
+      "translatedAnswer": {
+        "en": "IP"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:29:19.291Z",
+    "id": "e1ac321d-4187-4b2e-b4cf-7a1c6110aec6",
+    "createdAt": "2025-03-12T16:29:19.291Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "rank": 2825,
+  "definition": "IP address",
+  "_id": "tuDniTAt1HvRwccSh1kT"
+}

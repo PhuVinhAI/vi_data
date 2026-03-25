@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh nghe thấy tiếng gọi nên chạy liền ra ngoài xem có chuyện gì.",
+    "Chị ấy trả lời email của em liền sau khi nhận được.",
+    "Nếu em cần giúp đỡ, cứ nói với anh liền nhé."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I will call you immediately."
+      },
+      "word": "liền",
+      "language": "vi",
+      "answer": "liền",
+      "translatedAnswer": {
+        "en": "immediately"
+      },
+      "choices": [],
+      "sentence": "Tôi sẽ gọi điện cho bạn ___."
+    },
+    "id": "766a1195-a868-4f42-b3ca-05c95b4d3ada",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:48:25.571Z",
+    "updatedAt": "2025-03-12T15:48:25.571Z"
+  },
+  "choices": [
+    "luôn",
+    "liền",
+    "lâu"
+  ],
+  "rank": 996,
+  "definition": "immediately",
+  "notes": "liền = immediately, right away. It shows that one action happens right after another, with no delay.\n\nAs an adverb, it usually comes after the verb to add the idea of “at once.”  \n\nIt can also mean in a row / continuously when talking about time or quantity.  \n\nAnother common meaning is adjacent / next to each other (like houses that share walls: nhà liền kề).\n\nClose synonym: ngay (also “right away”), but liền feels a bit more instant and direct.",
+  "notes_md": "**liền** = immediately, right away. It shows that one action happens right after another, with no delay.\n\nAs an adverb, it usually comes **after the verb** to add the idea of “at once.”  \n\nIt can also mean **in a row / continuously** when talking about time or quantity.  \n\nAnother common meaning is **adjacent / next to each other** (like houses that share walls: *nhà liền kề*).\n\nClose synonym: *ngay* (also “right away”), but *liền* feels a bit more instant and direct.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:48:25.571Z",
+    "updatedAt": "2025-03-12T15:48:25.571Z",
+    "content": {
+      "choices": [
+        "ngay",
+        "liền",
+        "sau"
+      ],
+      "sentence": "Tôi sẽ gọi điện cho bạn ___.",
+      "hint": "l___n",
+      "translatedAnswer": {
+        "en": "immediately"
+      },
+      "answer": "liền",
+      "translation": {
+        "en": "I will call you immediately."
+      },
+      "word": "liền",
+      "language": "vi"
+    },
+    "id": "826908ec-dfad-4018-bbef-8dc276681daf",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:21:01.610Z",
+    "definitions": {
+      "es": "Inmediatamente; de inmediato.",
+      "en": "Immediately; right away.",
+      "vi": "Ngay lập tức; liền."
+    },
+    "example": {
+      "vi": "Tôi sẽ gọi bạn liền.",
+      "es": "Te llamaré de inmediato.",
+      "en": "I will call you right away."
+    },
+    "translations": {
+      "es": "De inmediato",
+      "en": "Right away",
+      "vi": "Liền"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "liền",
+  "updatedAt": "2026-03-03T08:02:03.442Z",
+  "exampleSentencesTranslated": [
+    "He heard the call and immediately ran outside to see what happened.",
+    "She responded to my email immediately after receiving it.",
+    "If you need help, just tell me immediately."
+  ],
+  "_id": "j40F8VbfG75m1gqX3Hik"
+}

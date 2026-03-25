@@ -1,0 +1,96 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "vấn đề",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:18:03.286Z",
+    "id": "9c0d9421-5a13-441b-9051-7d2807f09cee",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:18:03.286Z",
+    "content": {
+      "choices": [
+        "vấn đề",
+        "tình huống",
+        "giải pháp"
+      ],
+      "sentence": "Chúng ta cần giải quyết ___ này.",
+      "language": "vi",
+      "word": "vấn đề",
+      "translatedAnswer": {
+        "en": "issue"
+      },
+      "translation": {
+        "en": "We need to solve this issue."
+      },
+      "answer": "vấn đề",
+      "hint": "v____e"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 167,
+  "choices": [
+    "vấn đề",
+    "kết quả",
+    "giải pháp"
+  ],
+  "notes_md": "**Vấn đề** means “problem” or “issue.” It’s used for anything from small everyday troubles to serious matters.\n\nIt’s a countable noun: *một vấn đề, hai vấn đề*. Very common with verbs like *gặp*, *có*, *giải quyết*, *xử lý*, *bàn về*.  \n\nIt can also mean a “matter” or “topic” being discussed, not just something negative.  \nClose synonym: *vụ việc* (more like a specific case/incident, often more formal or serious).",
+  "notes": "Vấn đề means “problem” or “issue.” It’s used for anything from small everyday troubles to serious matters.\n\nIt’s a countable noun: một vấn đề, hai vấn đề. Very common with verbs like gặp, có, giải quyết, xử lý, bàn về.  \n\nIt can also mean a “matter” or “topic” being discussed, not just something negative.  \nClose synonym: vụ việc (more like a specific case/incident, often more formal or serious).",
+  "exampleSentences": [
+    "Anh có thể giúp em giải quyết vấn đề này được không?",
+    "Nếu em gặp bất kỳ vấn đề nào ở trường, hãy nói với anh nhé.",
+    "Chị nghĩ chúng ta nên thảo luận về vấn đề quan trọng đó ngay hôm nay."
+  ],
+  "updatedAt": "2026-03-03T06:37:14.053Z",
+  "exampleSentencesTranslated": [
+    "Can you help me solve this problem?",
+    "If you have any problem at school, please tell me.",
+    "I think we should discuss that important problem today."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:18:03.286Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:18:03.286Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This is an important issue."
+      },
+      "translatedAnswer": {
+        "en": "issue"
+      },
+      "answer": "vấn đề",
+      "choices": [],
+      "word": "vấn đề",
+      "sentence": "Đây là một ___ quan trọng.",
+      "language": "vi"
+    },
+    "id": "adf3dd80-d03b-46bd-8492-1f17b8de0425"
+  },
+  "flashcard": {
+    "word": "vấn đề",
+    "definitions": {
+      "en": "A matter or situation that needs to be considered or solved.",
+      "vi": "Một điều hoặc tình huống cần được xem xét hoặc giải quyết."
+    },
+    "example": {
+      "en": "We need to find a way to solve this problem.",
+      "vi": "Chúng ta cần tìm cách giải quyết vấn đề này."
+    },
+    "translations": {
+      "en": "problem"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:29:10.643Z"
+  },
+  "definition": "problem",
+  "_id": "bfTHtwXlbNTr1eKTESpW"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh nghĩ rằng giao tiếp là kỹ năng quan trọng trong công việc.",
+    "Chị thường luyện tập giao tiếp tiếng Anh với bạn bè mỗi ngày.",
+    "Em gặp khó khăn với giao tiếp khi mới đến thành phố này."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:57:15.083Z",
+    "updatedAt": "2025-03-12T12:57:15.083Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "43d99c9b-acb6-4fa3-af43-abbb187fd5e1",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "g___t",
+      "word": "giao tiếp",
+      "translatedAnswer": {
+        "en": "communication"
+      },
+      "language": "vi",
+      "choices": [
+        "giao tiếp",
+        "thảo luận",
+        "truyền thông"
+      ],
+      "translation": {
+        "en": "They need to improve their communication."
+      },
+      "answer": "giao tiếp",
+      "sentence": "Họ cần cải thiện ___ của mình."
+    }
+  },
+  "flashcard": {
+    "example": {
+      "es": "La comunicación es muy importante en la vida.",
+      "vi": "Giao tiếp là rất quan trọng trong cuộc sống.",
+      "en": "Communication is very important in life."
+    },
+    "translations": {
+      "es": "comunicación",
+      "en": "communication",
+      "vi": "giao tiếp"
+    },
+    "createdAt": "2025-01-28T10:40:29.609Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Hành động trao đổi thông tin hoặc ý tưởng thông qua nói, viết hoặc sử dụng một phương tiện nào đó.",
+      "en": "The act of exchanging information or ideas through speaking, writing, or using some other medium.",
+      "es": "El acto de intercambiar información o ideas a través de hablar, escribir o usar algún otro medio."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "communication",
+  "rank": 1258,
+  "word": "giao tiếp",
+  "choices": [
+    "giao tiếp",
+    "học tập",
+    "thảo luận"
+  ],
+  "notes": "Giao tiếp means communication — how people talk, interact, and exchange ideas with each other. It’s a noun.\n\nYou’ll often see it in phrases like kỹ năng giao tiếp (communication skills) or giao tiếp hiệu quả (effective communication). It’s uncountable in most cases, so you don’t say “một giao tiếp” unless you mean a specific interaction in a technical context.\n\nIt often goes with prepositions to show who or how you communicate.\n\nClose words: trao đổi (exchange, more about back-and-forth content), liên lạc (contact, more about staying in touch).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I think that communication is an important skill at work.",
+    "She often practices English communication with her friends every day.",
+    "I had difficulty with communication when I first came to this city."
+  ],
+  "notes_md": "**Giao tiếp** means communication — how people talk, interact, and exchange ideas with each other. It’s a noun.\n\nYou’ll often see it in phrases like *kỹ năng giao tiếp* (communication skills) or *giao tiếp hiệu quả* (effective communication). It’s uncountable in most cases, so you don’t say “một giao tiếp” unless you mean a specific interaction in a technical context.\n\nIt often goes with prepositions to show who or how you communicate.\n\n\nClose words: *trao đổi* (exchange, more about back-and-forth content), *liên lạc* (contact, more about staying in touch).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:57:15.083Z",
+    "updatedAt": "2025-03-12T12:57:15.083Z",
+    "id": "02ffb2d7-42e8-4ee2-b652-ab0cdf94fe64",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We need to communicate better."
+      },
+      "word": "giao tiếp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "communicate"
+      },
+      "sentence": "Chúng ta cần ___ tốt hơn.",
+      "answer": "giao tiếp"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T08:29:58.220Z",
+  "_id": "22qYc2cxxABimVZcmK07"
+}

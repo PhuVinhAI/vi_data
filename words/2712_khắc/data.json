@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T11:38:43.199Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "khắc",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi muốn ___ mọi điều trong cuộc sống.",
+      "translatedAnswer": {
+        "en": "carve"
+      },
+      "language": "vi",
+      "hint": "k___",
+      "translation": {
+        "en": "I want to carve everything in life."
+      },
+      "answer": "khắc",
+      "word": "khắc",
+      "choices": [
+        "điêu khắc",
+        "khắc",
+        "chạm khắc"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:31:08.823Z",
+    "type": "multiChoiceQuiz",
+    "id": "8dc652b4-19b1-46d0-b522-cb08d5993a59",
+    "createdAt": "2025-03-12T14:31:08.823Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2712,
+  "exampleSentencesTranslated": [
+    "Can you help me engrave a name on this bracelet?",
+    "The craftsman is engrave a bird on the wooden surface.",
+    "I will engrave my mother's birthday on this card."
+  ],
+  "notes": "Khắc means to engrave or carve something into a hard surface like wood, stone, or metal. It’s used when you cut letters, names, or images into something so they stay there permanently.\n\nYou often use it with physical objects: khắc tên, khắc hình, khắc chữ.  \n\nIt can also appear in the phrase khắc ghi, meaning to remember something deeply in your heart or mind. A close word is chạm (also “carve/engrave”), but khắc feels stronger and deeper.",
+  "choices": [
+    "vẽ",
+    "khắc",
+    "gửi"
+  ],
+  "exampleSentences": [
+    "Anh muốn nhờ em khắc tên lên chiếc vòng này được không?",
+    "Người thợ đang khắc hình một con chim trên mặt gỗ.",
+    "Chị sẽ khắc ngày sinh nhật của mẹ lên tấm thiệp này."
+  ],
+  "notes_md": "**Khắc** means to engrave or carve something into a hard surface like wood, stone, or metal. It’s used when you cut letters, names, or images into something so they stay there permanently.\n\nYou often use it with physical objects: khắc tên, khắc hình, khắc chữ.  \n\nIt can also appear in the phrase **khắc ghi**, meaning to remember something deeply in your heart or mind. A close word is **chạm** (also “carve/engrave”), but *khắc* feels stronger and deeper.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "grabar",
+      "vi": "khắc",
+      "en": "carve"
+    },
+    "definitions": {
+      "es": "Tallarse o grabarse algo.",
+      "vi": "Khắc là hành động chạm khắc hoặc ghi dấu lên bề mặt.",
+      "en": "To carve or engrave something."
+    },
+    "createdAt": "2025-01-28T12:07:12.481Z",
+    "example": {
+      "en": "I will carve my name into the wood.",
+      "vi": "Tôi sẽ khắc tên của mình lên gỗ.",
+      "es": "Voy a grabar mi nombre en la madera."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "engrave",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I want to carve everything in life."
+      },
+      "answer": "khắc",
+      "choices": [],
+      "word": "khắc",
+      "sentence": "Tôi muốn ___ mọi điều trong cuộc sống.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "carve"
+      }
+    },
+    "updatedAt": "2025-03-12T14:31:08.823Z",
+    "id": "d2fdad80-8a70-4461-b180-e462497e2962",
+    "createdAt": "2025-03-12T14:31:08.823Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "Q5uAtthzCsYxROvuZ50N"
+}

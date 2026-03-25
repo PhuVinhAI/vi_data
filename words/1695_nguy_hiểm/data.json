@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nguy hiểm** = dangerous; something that can cause harm, injury, or serious problems.\n\nIt’s an **adjective**, used to describe situations, places, actions, people, or animals. It often goes after **rất / quá / khá** to show degree.  \n\nYou’ll commonly see it with **cho + someone** to say who is at risk.  \n\nClose synonym: **nguy cấp** (more like “critical, life‑threatening,” stronger and more medical).  \nOpposite: **an toàn** (safe).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "32d9b3bd-5467-4cb7-ac88-42ad4f66e304",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "an toàn",
+        "nguy hiểm",
+        "bình yên"
+      ],
+      "translation": {
+        "en": "Walking on this road is very dangerous."
+      },
+      "sentence": "Đi bộ trên đường này rất ___.",
+      "word": "nguy hiểm",
+      "hint": "n____m",
+      "answer": "nguy hiểm",
+      "translatedAnswer": {
+        "en": "dangerous"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:03:18.162Z",
+    "createdAt": "2025-03-12T14:03:18.162Z"
+  },
+  "word": "nguy hiểm",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:03:18.162Z",
+    "createdAt": "2025-03-12T14:03:18.162Z",
+    "id": "772a7435-18d3-487f-ade9-38a9b5410631",
+    "content": {
+      "translation": {
+        "en": "This place is very dangerous."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "nguy hiểm",
+      "sentence": "Địa điểm này rất ___.",
+      "translatedAnswer": {
+        "en": "dangerous"
+      },
+      "answer": "nguy hiểm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "dangerous",
+  "choices": [
+    "ngon miệng",
+    "nguy hiểm",
+    "vui vẻ"
+  ],
+  "updatedAt": "2026-03-03T09:17:18.870Z",
+  "notes": "nguy hiểm = dangerous; something that can cause harm, injury, or serious problems.\n\nIt’s an adjective, used to describe situations, places, actions, people, or animals. It often goes after rất / quá / khá to show degree.  \n\nYou’ll commonly see it with cho + someone to say who is at risk.  \n\nClose synonym: nguy cấp (more like “critical, life‑threatening,” stronger and more medical).  \nOpposite: an toàn (safe).",
+  "exampleSentencesTranslated": [
+    "Crossing the street without looking is dangerous for young children.",
+    "I think mountain climbing in the rainy season can be very dangerous.",
+    "There is a sign here to remind everyone that this place is dangerous."
+  ],
+  "rank": 1695,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "dangerous",
+      "es": "peligroso",
+      "vi": "nguy hiểm"
+    },
+    "definitions": {
+      "en": "Involving or likely to cause harm or injury.",
+      "vi": "Liên quan hoặc có khả năng gây hại hoặc thương tích.",
+      "es": "Involucra o es probable que cause daño o lesión."
+    },
+    "createdAt": "2025-01-28T11:41:06.048Z",
+    "example": {
+      "en": "Going outside during a storm is very dangerous.",
+      "vi": "Đi ra ngoài khi trời bão là rất nguy hiểm.",
+      "es": "Salir durante una tormenta es muy peligroso."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Đi bộ qua đường mà không nhìn rất nguy hiểm cho em nhỏ.",
+    "Anh nghĩ leo núi vào mùa mưa có thể rất nguy hiểm.",
+    "Ở đây có biển báo để nhắc mọi người nơi này nguy hiểm."
+  ],
+  "_id": "JSWVdkIWDf9XJhjqXyQ5"
+}

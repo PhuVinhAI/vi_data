@@ -1,0 +1,99 @@
+{
+  "definition": "receive",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tiếp nhận",
+  "exampleSentences": [
+    "Anh vừa tiếp nhận một vị trí mới trong công ty.",
+    "Chị ấy luôn sẵn sàng tiếp nhận ý kiến từ đồng nghiệp.",
+    "Em cảm thấy lo lắng khi phải tiếp nhận thông tin quan trọng này."
+  ],
+  "rank": 1774,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tiếp nhận",
+    "kết thúc",
+    "bắt đầu"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tiếp nhận** = to receive or accept something (often something official, formal, or important). It’s more formal than just **nhận**.\n\nYou use it for things like information, applications, patients, new staff, calls, or requests — often in workplaces or institutions. It can also mean “take in” information, close to **tiếp thu** (for knowledge or ideas).\n\n\nStrong contrast: **từ chối** (refuse) = the opposite.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "2217fde3-91b2-4e0c-82c6-e5ff44b6bfa6",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:51:37.141Z",
+    "createdAt": "2025-03-12T13:51:37.141Z",
+    "content": {
+      "sentence": "Chúng tôi sẽ ___ thông tin mới.",
+      "word": "tiếp nhận",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "receive"
+      },
+      "translation": {
+        "en": "We will receive new information."
+      },
+      "answer": "tiếp nhận",
+      "choices": [
+        "nhận",
+        "tiếp nhận",
+        "đón nhận"
+      ],
+      "hint": "t___n"
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "Recibir o aceptar algo, especialmente información o una solicitud.",
+      "vi": "Nhận hoặc chấp nhận một cái gì đó, đặc biệt là thông tin hoặc một đơn đăng ký.",
+      "en": "To receive or accept something, especially information or an application."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tiếp nhận",
+      "es": "aceptar",
+      "en": "accept"
+    },
+    "example": {
+      "en": "We will accept your application.",
+      "es": "Aceptaremos tu solicitud.",
+      "vi": "Chúng tôi sẽ tiếp nhận đơn đăng ký của bạn."
+    },
+    "createdAt": "2025-01-28T11:29:25.997Z"
+  },
+  "exampleSentencesTranslated": [
+    "He just received a new position in the company.",
+    "She is always ready to receive feedback from her colleagues.",
+    "I feel nervous when I have to receive this important information."
+  ],
+  "notes": "tiếp nhận = to receive or accept something (often something official, formal, or important). It’s more formal than just nhận.\n\nYou use it for things like information, applications, patients, new staff, calls, or requests — often in workplaces or institutions. It can also mean “take in” information, close to tiếp thu (for knowledge or ideas).\n\nStrong contrast: từ chối (refuse) = the opposite.",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "answer": "tiếp nhận",
+      "translation": {
+        "en": "We will receive new information."
+      },
+      "translatedAnswer": {
+        "en": "receive"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi sẽ ___ thông tin mới.",
+      "word": "tiếp nhận"
+    },
+    "createdAt": "2025-03-12T13:51:37.141Z",
+    "updatedAt": "2025-03-12T13:51:37.141Z",
+    "id": "6e2b83c0-e10f-42d7-8e28-328195f24502",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T09:26:01.261Z",
+  "_id": "GCEHyjoFg2TxHNBjSygd"
+}

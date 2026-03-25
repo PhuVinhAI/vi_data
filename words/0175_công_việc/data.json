@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "công việc = job, work, the work you do (for money or as a duty). It’s a general word for someone’s occupation or tasks.\n\nIt’s a countable noun: một công việc, hai công việc. Very common with verbs like làm (do), tìm (look for), đổi (change), bắt đầu (start).  \n\nYou can also use it for specific tasks, not just careers — like a piece of work you have to finish.\n\nClose word: việc (shorter, more general; can mean “matter” or “task,” not always a job for money).",
+  "flashcard": {
+    "translations": {
+      "en": "work",
+      "es": "trabajo",
+      "vi": "công việc"
+    },
+    "definitions": {
+      "vi": "Một nhiệm vụ hoặc tập hợp các nhiệm vụ mà ai đó cần thực hiện.",
+      "es": "Una tarea o conjunto de tareas que alguien debe realizar.",
+      "en": "A task or set of tasks that someone is required to perform."
+    },
+    "example": {
+      "vi": "Tôi có nhiều công việc phải làm hôm nay.",
+      "es": "Tengo mucho trabajo que hacer hoy.",
+      "en": "I have a lot of work to do today."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:08:07.022Z"
+  },
+  "updatedAt": "2026-03-03T06:38:13.407Z",
+  "exampleSentences": [
+    "Anh đang tìm một công việc mới ở thành phố này.",
+    "Chị rất hài lòng với công việc hiện tại của mình.",
+    "Em cảm thấy công việc này khá phù hợp với khả năng của mình."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "job"
+      },
+      "answer": "công việc",
+      "choices": [
+        "công việc",
+        "thời gian",
+        "khoảng không"
+      ],
+      "translation": {
+        "en": "She loves her job."
+      },
+      "language": "vi",
+      "word": "công việc",
+      "hint": "c___ việc",
+      "sentence": "Cô ấy yêu ___ của mình."
+    },
+    "updatedAt": "2025-03-12T16:36:47.172Z",
+    "type": "multiChoiceQuiz",
+    "id": "4d8249bd-64c4-499b-877e-9c60c27939e5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:36:47.172Z"
+  },
+  "choices": [
+    "công việc",
+    "nghỉ ngơi",
+    "trường học"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "Anh is looking for a new job in this city.",
+    "Chị is very satisfied with her current job.",
+    "Em feels this job is quite suitable for his abilities."
+  ],
+  "word": "công việc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**công việc** = job, work, the work you do (for money or as a duty). It’s a general word for someone’s occupation or tasks.\n\nIt’s a **countable noun**: một công việc, hai công việc. Very common with verbs like **làm** (do), **tìm** (look for), **đổi** (change), **bắt đầu** (start).  \n\nYou can also use it for specific tasks, not just careers — like a piece of work you have to finish.\n\nClose word: **việc** (shorter, more general; can mean “matter” or “task,” not always a job for money).",
+  "definition": "job",
+  "rank": 175,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:36:47.172Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "bc874f5c-f36b-415a-93a9-a13074898586",
+    "content": {
+      "sentence": "Tôi cần tìm ___ mới.",
+      "word": "công việc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "job"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need to find a new job."
+      },
+      "answer": "công việc"
+    },
+    "updatedAt": "2025-03-12T16:36:47.172Z",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "vw7YkrQrAA6fbCMxxkbD"
+}

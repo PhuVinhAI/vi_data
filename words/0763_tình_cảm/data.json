@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tình cảm",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:28:59.126Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "t___m",
+      "answer": "tình cảm",
+      "translation": {
+        "en": "Love needs feelings between two people."
+      },
+      "translatedAnswer": {
+        "en": "feelings"
+      },
+      "word": "tình cảm",
+      "language": "vi",
+      "sentence": "Tình yêu cần có ___ giữa hai người.",
+      "choices": [
+        "tình cảm",
+        "sự đồng cảm",
+        "tình bạn"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:28:59.126Z",
+    "id": "cb200adb-3121-4c4a-a1ad-2c3b87dfabb1"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "tình cảm",
+    "niềm vui",
+    "hy vọng"
+  ],
+  "rank": 763,
+  "notes_md": "**tình cảm** = affection, feelings (usually warm, emotional connection between people). It’s a **noun** and often refers to emotional bonds, not just romantic love.\n\nYou can use it for family love, friendship, or romantic feelings. Common pairings: **có tình cảm với** (have feelings for), **dành tình cảm cho** (give/show affection to), **thể hiện tình cảm** (show affection).\n\nIt’s usually uncountable in meaning, but you can say **những tình cảm** when talking about different kinds of feelings.\n\nClose to **tình yêu** (love), but *tình cảm* is softer and broader — not always romantic or intense.",
+  "notes": "tình cảm = affection, feelings (usually warm, emotional connection between people). It’s a noun and often refers to emotional bonds, not just romantic love.\n\nYou can use it for family love, friendship, or romantic feelings. Common pairings: có tình cảm với (have feelings for), dành tình cảm cho (give/show affection to), thể hiện tình cảm (show affection).\n\nIt’s usually uncountable in meaning, but you can say những tình cảm when talking about different kinds of feelings.\n\nClose to tình yêu (love), but tình cảm is softer and broader — not always romantic or intense.",
+  "exampleSentences": [
+    "Anh luôn dành nhiều tình cảm cho gia đình của mình.",
+    "Giữa hai người bạn thân, tình cảm rất chân thành và sâu sắc.",
+    "Em cảm thấy tình cảm của anh dành cho em rất đặc biệt."
+  ],
+  "updatedAt": "2026-03-03T07:37:59.269Z",
+  "exampleSentencesTranslated": [
+    "He always gives a lot of affection to his family.",
+    "Between two close friends, affection is very sincere and deep.",
+    "I feel that your affection for me is very special."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:28:59.126Z",
+    "id": "84d3fbcf-7454-484f-b34f-d7a22afcd51d",
+    "content": {
+      "choices": [],
+      "sentence": "Tình yêu cần có ___ giữa hai người.",
+      "language": "vi",
+      "word": "tình cảm",
+      "translatedAnswer": {
+        "en": "feelings"
+      },
+      "translation": {
+        "en": "Love needs feelings between two people."
+      },
+      "answer": "tình cảm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:28:59.126Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "affection",
+  "flashcard": {
+    "example": {
+      "es": "Los sentimientos entre ellos son muy profundos.",
+      "vi": "Tình cảm giữa họ rất sâu sắc.",
+      "en": "The feelings between them are very deep."
+    },
+    "definitions": {
+      "vi": "Sự kết nối cảm xúc hoặc tình cảm đối với ai đó.",
+      "es": "Conexión emocional o afecto hacia alguien.",
+      "en": "Emotional connection or affection towards someone."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:03:45.125Z",
+    "translations": {
+      "en": "feelings",
+      "es": "sentimientos",
+      "vi": "tình cảm"
+    }
+  },
+  "_id": "eb3NHecbNpB37N72Wc0g"
+}

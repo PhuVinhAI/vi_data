@@ -1,0 +1,99 @@
+{
+  "word": "bàn",
+  "exampleSentences": [
+    "Anh để sách trên bàn giúp em được không?",
+    "Mỗi sáng, cả gia đình đều ngồi ăn sáng quanh bàn.",
+    "Chị vừa mua một chiếc bàn mới cho phòng khách."
+  ],
+  "rank": 761,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "table",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bàn",
+    "ghế",
+    "tủ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "68634186-52bf-407c-8a0e-972a35e1681b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:45:14.079Z",
+    "content": {
+      "answer": "bàn",
+      "translation": {
+        "en": "I put the book on the table."
+      },
+      "choices": [],
+      "sentence": "Tôi để sách trên ___.",
+      "word": "bàn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "table"
+      }
+    },
+    "updatedAt": "2025-03-12T13:45:14.079Z"
+  },
+  "notes": "bàn = table (a piece of furniture with a flat surface). It’s a countable noun, usually with the classifier cái → một cái bàn.  \n\nCommon pairings: bàn ăn (dining table), bàn làm việc (desk), bàn học (study desk). You’ll often hear it with location words like trên bàn (on the table) or verbs like đặt lên bàn (put on the table).  \n\nVery common second meaning: bàn (verb) = to discuss.  \n\nTo remember: the noun is physical (a table), the verb is mental (talking things over).",
+  "updatedAt": "2026-03-03T07:37:47.379Z",
+  "notes_md": "**bàn** = table (a piece of furniture with a flat surface). It’s a countable noun, usually with the classifier **cái** → *một cái bàn*.  \n\nCommon pairings: **bàn ăn** (dining table), **bàn làm việc** (desk), **bàn học** (study desk). You’ll often hear it with location words like **trên bàn** (on the table) or verbs like **đặt lên bàn** (put on the table).  \n\nVery common second meaning: **bàn** (verb) = to discuss.  \n\nTo remember: the noun is physical (a table), the verb is mental (talking things over).",
+  "multiChoiceQuiz": {
+    "id": "9f29b072-bed4-4522-a636-ea26c7f950c3",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "b__n",
+      "choices": [
+        "ghế",
+        "bàn",
+        "tủ"
+      ],
+      "translation": {
+        "en": "I put the book on the table."
+      },
+      "answer": "bàn",
+      "translatedAnswer": {
+        "en": "table"
+      },
+      "sentence": "Tôi để sách trên ___.",
+      "word": "bàn",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:45:14.079Z",
+    "updatedAt": "2025-03-12T13:45:14.079Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you put the book on the table for me?",
+    "Every morning, the whole family sits around the table for breakfast.",
+    "She just bought a new table for the living room."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A piece of furniture with a flat top and one or more legs.",
+      "es": "Un mueble con una superficie plana y una o más patas.",
+      "vi": "Một món đồ nội thất có mặt phẳng và một hoặc nhiều chân."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:23:34.945Z",
+    "example": {
+      "es": "Necesito una mesa para trabajar.",
+      "vi": "Tôi cần một cái bàn để làm việc.",
+      "en": "I need a table to work on."
+    },
+    "translations": {
+      "en": "table",
+      "vi": "bàn",
+      "es": "mesa"
+    }
+  },
+  "_id": "EnkkktDvmp6n3bCWS66f"
+}

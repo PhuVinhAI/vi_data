@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Sáng nay anh mua một quả táo đỏ ở chợ.",
+    "Em rất thích ăn quả xoài vào mùa hè.",
+    "Chị có thể giúp anh gọt quả dứa này không?"
+  ],
+  "rank": 1273,
+  "word": "quả",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "fruit",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "quả",
+    "bánh",
+    "cá"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:32:00.015Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "c5341b87-2f4d-4d2b-bd72-03805e554edf",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:54:06.372Z",
+    "content": {
+      "translation": {
+        "en": "I like to eat ripe fruit."
+      },
+      "answer": "quả",
+      "choices": [],
+      "word": "quả",
+      "sentence": "Tôi thích ăn ___ chín.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "fruit"
+      }
+    },
+    "createdAt": "2025-03-12T13:54:06.372Z"
+  },
+  "notes": "quả means fruit. It’s also a classifier for many round or separate objects.\n\nAs a classifier, it goes before the noun: you say quả + noun for things like fruit, eggs, bombs, balls.  \n\nIt can also mean the physical object itself, like quả bóng (ball) or quả bom (bomb). In abstract words, it appears in fixed combos like kết quả (result).\n\nIn the South, people often say trái instead of quả for fruit; both are correct, just regional preference.",
+  "exampleSentencesTranslated": [
+    "This morning I bought a red fruit at the market.",
+    "I really like eating fruit in the summer.",
+    "Can you help me peel this fruit?"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A fruit or a result.",
+      "vi": "Một loại trái cây hoặc một kết quả.",
+      "es": "Una fruta o un resultado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:31:54.339Z",
+    "example": {
+      "vi": "Quả táo rất ngon.",
+      "es": "La manzana es muy deliciosa.",
+      "en": "The apple is very delicious."
+    },
+    "translations": {
+      "en": "fruit",
+      "vi": "trái cây",
+      "es": "fruta"
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "898df06f-dcb8-4bd6-b96b-f684e6eb2b6f",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:54:06.372Z",
+    "content": {
+      "translation": {
+        "en": "I like to eat delicious fruit."
+      },
+      "answer": "quả",
+      "choices": [
+        "rau",
+        "quả",
+        "thịt"
+      ],
+      "hint": "q__",
+      "sentence": "Tôi thích ăn ___ ngon.",
+      "word": "quả",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "fruit"
+      }
+    },
+    "updatedAt": "2025-03-12T13:54:06.372Z"
+  },
+  "notes_md": "**quả** means **fruit**. It’s also a **classifier** for many round or separate objects.\n\nAs a classifier, it goes before the noun: you say *quả + noun* for things like fruit, eggs, bombs, balls.  \n\nIt can also mean the physical object itself, like *quả bóng* (ball) or *quả bom* (bomb). In abstract words, it appears in fixed combos like *kết quả* (result).\n\nIn the South, people often say **trái** instead of **quả** for fruit; both are correct, just regional preference.",
+  "_id": "H2Bsbw8hybp099pFA5eL"
+}

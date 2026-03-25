@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "thất vọng",
+      "es": "decepcionado",
+      "en": "disappointed"
+    },
+    "definitions": {
+      "en": "A feeling of sadness or displeasure caused by the non-fulfillment of one's hopes or expectations.",
+      "es": "Un sentimiento de tristeza o desagrado causado por el incumplimiento de las esperanzas o expectativas de uno.",
+      "vi": "Cảm giác buồn bã hoặc không hài lòng do không đạt được những hy vọng hoặc mong đợi của bản thân."
+    },
+    "example": {
+      "en": "I feel disappointed about the test results.",
+      "es": "Me siento decepcionado por los resultados del examen.",
+      "vi": "Tôi cảm thấy thất vọng về kết quả bài kiểm tra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:06:21.137Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Thất vọng = disappointed. It’s the feeling when reality doesn’t match your hopes.\n\nIt’s usually used with cảm thấy (feel) or directly after a subject to describe their emotion. You can also use it to describe someone’s reaction to something.\n\nClose to buồn (sad), but more specific — it’s about unmet expectations. Opposite: hài lòng (satisfied).",
+  "choices": [
+    "thất vọng",
+    "hạnh phúc",
+    "ngạc nhiên"
+  ],
+  "updatedAt": "2026-03-03T09:25:53.846Z",
+  "exampleSentences": [
+    "Anh cảm thấy rất thất vọng khi kết quả không như mong đợi.",
+    "Chị ấy đã thất vọng vì bạn thân không giữ lời hứa.",
+    "Em thất vọng sau khi xem bộ phim đó vì nó không hay như em nghĩ."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi cảm thấy ___ khi không được chọn.",
+      "word": "thất vọng",
+      "hint": "th___g",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "disappointed"
+      },
+      "translation": {
+        "en": "I feel disappointed when not being chosen."
+      },
+      "answer": "thất vọng",
+      "choices": [
+        "hạnh phúc",
+        "thất vọng",
+        "bực bội"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:35:03.197Z",
+    "createdAt": "2025-03-12T16:35:03.197Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6942b182-12f3-4a93-9f81-8e0e7d8e0362"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He felt very disappointed when the result was not as expected.",
+    "She was disappointed because her close friend did not keep the promise.",
+    "I was disappointed after watching that movie because it was not as good as I thought."
+  ],
+  "word": "thất vọng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Thất vọng** = disappointed. It’s the feeling when reality doesn’t match your hopes.\n\nIt’s usually used with **cảm thấy** (feel) or directly after a subject to describe their emotion. You can also use it to describe someone’s reaction to something.\n\n\nClose to **buồn** (sad), but more specific — it’s about unmet expectations. Opposite: **hài lòng** (satisfied).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "answer": "thất vọng",
+      "translation": {
+        "en": "I feel disappointed after hearing the news."
+      },
+      "translatedAnswer": {
+        "en": "disappointed"
+      },
+      "sentence": "Tôi cảm thấy ___ sau khi nghe tin.",
+      "word": "thất vọng"
+    },
+    "updatedAt": "2025-03-12T16:35:03.197Z",
+    "createdAt": "2025-03-12T16:35:03.197Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "22207440-4503-416a-a3de-468ba402610e"
+  },
+  "rank": 1773,
+  "definition": "disappointed",
+  "_id": "vaa6JQkSS9HvaTpcZjhc"
+}

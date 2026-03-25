@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Mùi hoa nhài tỏa khắp phòng khi chị bước vào.",
+    "Ánh sáng mặt trời tỏa qua cửa sổ mỗi buổi sáng.",
+    "Em thấy niềm vui tỏa trên khuôn mặt của mọi người."
+  ],
+  "choices": [
+    "tỏa",
+    "đọc",
+    "mua"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:59:12.665Z",
+    "createdAt": "2025-03-12T15:59:12.665Z",
+    "id": "e63b9c8d-2bd7-41df-a089-212434f488d2",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "shine"
+      },
+      "answer": "tỏa",
+      "choices": [],
+      "sentence": "Mặt trời ___ sáng trên bầu trời.",
+      "translation": {
+        "en": "The sun shines brightly in the sky."
+      },
+      "word": "tỏa",
+      "language": "vi"
+    }
+  },
+  "rank": 1236,
+  "definition": "spread",
+  "notes": "tỏa = to spread out, radiate, or give off (light, smell, heat, emotion). It’s often used for things that naturally move outward from a source.\n\nCommon with light (ánh sáng), smell (mùi), heat (hơi nóng), and feelings (niềm vui, năng lượng). It suggests something gently or naturally spreading, not exploding.\n\nOften goes with ra or khắp to show direction or area.  \n\nClose vibe: lan (spread) — lan is more general; tỏa feels softer and more radiant, like light or fragrance.*",
+  "notes_md": "**tỏa** = to spread out, radiate, or give off (light, smell, heat, emotion). It’s often used for things that naturally move outward from a source.\n\nCommon with light (ánh sáng), smell (mùi), heat (hơi nóng), and feelings (niềm vui, năng lượng). It suggests something gently or naturally spreading, not exploding.\n\nOften goes with **ra** or **khắp** to show direction or area.  \n\nClose vibe: **lan** (spread) — *lan* is more general; *tỏa* feels softer and more radiant, like light or fragrance.*",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "t__a",
+      "sentence": "Mặt trời ___ sáng trên bầu trời.",
+      "choices": [
+        "tỏa",
+        "lan tỏa",
+        "chiếu sáng"
+      ],
+      "translatedAnswer": {
+        "en": "shine"
+      },
+      "answer": "tỏa",
+      "language": "vi",
+      "translation": {
+        "en": "The sun shines brightly in the sky."
+      },
+      "word": "tỏa"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9d317a76-9575-4caf-bfba-14343803c158",
+    "createdAt": "2025-03-12T15:59:12.665Z",
+    "updatedAt": "2025-03-12T15:59:12.665Z"
+  },
+  "word": "tỏa",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:31:18.050Z",
+    "definitions": {
+      "vi": "Tỏa ra hoặc phát ra, thường được sử dụng trong ngữ cảnh ánh sáng hoặc nhiệt.",
+      "en": "To spread out or emit, often used in the context of light or heat.",
+      "es": "Expandirse o emitir, a menudo utilizado en el contexto de luz o calor."
+    },
+    "example": {
+      "vi": "Ánh sáng tỏa ra từ ngọn đèn.",
+      "es": "La luz se irradia desde la lámpara.",
+      "en": "The light radiates from the lamp."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "radiate",
+      "es": "irradiar",
+      "vi": "tỏa"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T08:27:38.331Z",
+  "exampleSentencesTranslated": [
+    "The scent of jasmine flowers spread throughout the room when you walked in.",
+    "The sunlight spread through the window every morning.",
+    "I saw happiness spread on everyone's faces."
+  ],
+  "_id": "lnr7xyAgeEhVC9jEupkW"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Công ty đang tìm kiếm nhân tài cho vị trí quản lý mới.",
+    "Anh khuyên em học thêm ngoại ngữ để thành nhân tài sau này.",
+    "Chị nghĩ rằng mỗi người đều có một tài năng và có thể trở thành nhân tài."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "nhân tài",
+      "translation": {
+        "en": "We need talent in the company."
+      },
+      "translatedAnswer": {
+        "en": "talent"
+      },
+      "answer": "nhân tài",
+      "choices": [],
+      "sentence": "Chúng ta cần ___ trong công ty."
+    },
+    "id": "62e6248b-f56f-4113-a3ae-31e59bdd8d1e",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:47:11.396Z",
+    "updatedAt": "2025-03-12T15:47:11.396Z"
+  },
+  "choices": [
+    "nhân tài",
+    "thành phố",
+    "giáo viên"
+  ],
+  "rank": 1964,
+  "definition": "talent",
+  "notes": "Nhân tài means a talented person, usually someone with outstanding ability. It’s stronger than just “talent” — it often implies high-level skill that benefits a company or even a country.\n\nIt’s a countable noun: một nhân tài, những nhân tài. You’ll often see it in phrases like thu hút nhân tài, đào tạo nhân tài, trọng dụng nhân tài. The tone is a bit formal and serious.\n\nClose synonyms: người tài, tài năng (less formal). Opposite idea: người bất tài (someone incompetent).",
+  "notes_md": "**Nhân tài** means a talented person, usually someone with outstanding ability. It’s stronger than just “talent” — it often implies high-level skill that benefits a company or even a country.\n\nIt’s a countable noun: *một nhân tài, những nhân tài*. You’ll often see it in phrases like *thu hút nhân tài, đào tạo nhân tài, trọng dụng nhân tài*. The tone is a bit formal and serious.\n\nClose synonyms: *người tài*, *tài năng* (less formal). Opposite idea: *người bất tài* (someone incompetent).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:47:11.396Z",
+    "createdAt": "2025-03-12T15:47:11.396Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "7df1100c-8e99-440b-bfc0-9339e28b8da4",
+    "content": {
+      "translatedAnswer": {
+        "en": "talent"
+      },
+      "answer": "nhân tài",
+      "sentence": "Công ty đang tìm ___ mới.",
+      "choices": [
+        "nhân viên",
+        "nhân tài",
+        "sinh viên"
+      ],
+      "hint": "nh___i",
+      "translation": {
+        "en": "The company is looking for talent."
+      },
+      "word": "nhân tài",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhân tài",
+  "flashcard": {
+    "example": {
+      "es": "Necesitamos muchos talentos para desarrollar el país.",
+      "en": "We need many talents to develop the country.",
+      "vi": "Chúng ta cần nhiều nhân tài để phát triển đất nước."
+    },
+    "createdAt": "2025-01-28T13:19:45.223Z",
+    "definitions": {
+      "es": "Una persona con habilidad o destreza excepcional.",
+      "en": "A person with exceptional ability or skill.",
+      "vi": "Một người có khả năng hoặc kỹ năng xuất sắc."
+    },
+    "translations": {
+      "vi": "nhân tài",
+      "en": "talent",
+      "es": "talento"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T09:46:10.321Z",
+  "exampleSentencesTranslated": [
+    "The company is looking for talent for the new management position.",
+    "He advises you to learn additional foreign languages so you can become a talent in the future.",
+    "She thinks that everyone has a skill and can become talent."
+  ],
+  "_id": "iq0toEKYZgO129a0P6WG"
+}

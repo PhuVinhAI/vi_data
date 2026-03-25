@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I do not want to depend on my parents too much when studying at university.",
+    "My job depend a lot on the weather.",
+    "I think my success depend on daily effort."
+  ],
+  "updatedAt": "2026-03-03T09:00:11.481Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dựa vào ai đó hoặc cái gì đó để nhận hỗ trợ hoặc trợ giúp.",
+      "es": "Confiar en alguien o algo para obtener apoyo o asistencia.",
+      "en": "To rely on someone or something for support or assistance."
+    },
+    "createdAt": "2025-01-28T13:16:11.635Z",
+    "example": {
+      "en": "I depend on my family's support.",
+      "es": "Dependo del apoyo de mi familia.",
+      "vi": "Tôi phụ thuộc vào sự hỗ trợ của gia đình."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "phụ thuộc",
+      "es": "depender",
+      "en": "depend"
+    }
+  },
+  "word": "phụ thuộc",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:43:12.028Z",
+    "createdAt": "2025-03-12T15:43:12.028Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "039383eb-7bf4-4dd0-9131-40fe7eb6f940",
+    "content": {
+      "translation": {
+        "en": "We should not depend on others."
+      },
+      "word": "phụ thuộc",
+      "language": "vi",
+      "choices": [
+        "độc lập",
+        "phụ thuộc",
+        "tự do"
+      ],
+      "sentence": "Chúng ta không nên ___ vào người khác.",
+      "hint": "p_____t",
+      "translatedAnswer": {
+        "en": "depend"
+      },
+      "answer": "phụ thuộc"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Phụ thuộc** = to depend on, to rely on something or someone. It means the result or situation is controlled by another factor.\n\nIt’s usually followed by **vào** + person/thing that decides the outcome.  \n\nOften used with things like tiền bạc, thời tiết, hoàn cảnh, quyết định, ý kiến.  \nRelated idea: **lệ thuộc** (more negative — emotionally or heavily dependent).  \nOpposite vibe: **độc lập** (independent).",
+  "notes": "Phụ thuộc = to depend on, to rely on something or someone. It means the result or situation is controlled by another factor.\n\nIt’s usually followed by vào + person/thing that decides the outcome.  \n\nOften used with things like tiền bạc, thời tiết, hoàn cảnh, quyết định, ý kiến.  \nRelated idea: lệ thuộc (more negative — emotionally or heavily dependent).  \nOpposite vibe: độc lập (independent).",
+  "definition": "depend",
+  "rank": 1534,
+  "choices": [
+    "phụ thuộc",
+    "giúp đỡ",
+    "tập trung"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We should not depend on others."
+      },
+      "word": "phụ thuộc",
+      "translatedAnswer": {
+        "en": "depend"
+      },
+      "answer": "phụ thuộc",
+      "choices": [],
+      "sentence": "Chúng ta không nên ___ vào người khác."
+    },
+    "id": "ea03f1f4-9308-4e97-9958-5401bec56c6a",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:43:12.028Z",
+    "updatedAt": "2025-03-12T15:43:12.028Z"
+  },
+  "exampleSentences": [
+    "Em không muốn phụ thuộc vào cha mẹ quá nhiều khi học đại học.",
+    "Công việc của anh phụ thuộc rất nhiều vào thời tiết.",
+    "Chị nghĩ thành công của mình phụ thuộc vào sự cố gắng mỗi ngày."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "i1qyQlDSQJjiprdGMRX4"
+}

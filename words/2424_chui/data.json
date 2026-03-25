@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2424,
+  "definition": "crawl (especially through a narrow space)",
+  "fillBlankQuiz": {
+    "id": "882d3c61-37c4-40ec-b6d1-b1e1ddf522a4",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:44:21.062Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "chui",
+      "sentence": "Tôi không muốn ___ nữa.",
+      "translatedAnswer": {
+        "en": "hide"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I don't want to hide anymore."
+      },
+      "answer": "chui",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:44:21.062Z"
+  },
+  "notes_md": "**Chui** means to crawl or squeeze through a tight or low space. It often suggests bending down, lowering your body, or moving quietly through somewhere small.\n\nIt’s used for people and animals, especially when the space is narrow, hidden, or low (under, inside, through something). It can also imply sneaking into a place.\n\n\nClose synonym: **bò** (crawl), but *bò* focuses more on crawling on hands and knees, while *chui* focuses on squeezing through a tight space.",
+  "flashcard": {
+    "example": {
+      "es": "No me gusta ser insultado.",
+      "en": "I don't like being insulted.",
+      "vi": "Tôi không thích bị chửi."
+    },
+    "definitions": {
+      "en": "To insult or curse at someone.",
+      "es": "Insultar o maldecir a alguien.",
+      "vi": "Chửi là hành động xúc phạm hoặc mắng mỏ ai đó."
+    },
+    "translations": {
+      "es": "insulto",
+      "en": "insult",
+      "vi": "chửi"
+    },
+    "createdAt": "2025-01-28T14:15:13.799Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Chui means to crawl or squeeze through a tight or low space. It often suggests bending down, lowering your body, or moving quietly through somewhere small.\n\nIt’s used for people and animals, especially when the space is narrow, hidden, or low (under, inside, through something). It can also imply sneaking into a place.\n\nClose synonym: bò (crawl), but bò focuses more on crawling on hands and knees, while chui focuses on squeezing through a tight space.",
+  "exampleSentencesTranslated": [
+    "I have to crawl through the small window when I forget my key.",
+    "He saw the cat crawl under the table to sleep.",
+    "The kids like to crawl into the fabric tent in the living room to play."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chui",
+  "choices": [
+    "chạy",
+    "chui",
+    "nhảy"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c__i",
+      "word": "chui",
+      "sentence": "Mọi người đều ___ trong bóng tối.",
+      "choices": [
+        "trốn",
+        "ẩn",
+        "chui"
+      ],
+      "answer": "chui",
+      "translation": {
+        "en": "Everyone hides in the dark."
+      },
+      "translatedAnswer": {
+        "en": "hide"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:44:21.062Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:44:21.062Z",
+    "id": "dff0c0fc-c510-487b-9d63-af0e2e2ad8d7"
+  },
+  "exampleSentences": [
+    "Em phải chui qua cửa sổ nhỏ khi quên mang chìa khóa.",
+    "Anh nhìn thấy con mèo đang chui vào dưới gầm bàn để ngủ.",
+    "Bọn trẻ thích chui vào lều vải trong phòng khách để chơi."
+  ],
+  "updatedAt": "2026-03-03T10:34:00.247Z",
+  "_id": "xfFkb5jSPDReP8wyxsVg"
+}

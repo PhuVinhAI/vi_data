@@ -1,0 +1,96 @@
+{
+  "choices": [
+    "bên cạnh",
+    "phía dưới",
+    "ở giữa"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:58:05.342Z",
+    "createdAt": "2025-03-12T15:58:05.342Z",
+    "id": "ce2664e2-f3a2-42ea-91ce-e25bed16f574",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "word": "bên cạnh",
+      "translation": {
+        "en": "The table is next to the sofa."
+      },
+      "translatedAnswer": {
+        "en": "next to"
+      },
+      "answer": "bên cạnh",
+      "choices": [],
+      "sentence": "Cái bàn ở ___ ghế sofa."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh để điện thoại của em bên cạnh máy tính giúp em nhé.",
+    "Chị sẽ ngồi bên cạnh bạn trong lớp học ngày mai.",
+    "Có một quán cà phê nhỏ bên cạnh nhà anh."
+  ],
+  "definition": "next to",
+  "notes": "bên cạnh means next to or beside — talking about physical position.\n\nIt’s a location phrase, used before a noun.  \n\nIt can also mean by someone’s side in a supportive, emotional way.  \nClose synonym: kế bên (very similar meaning).  \nOpposite idea: xa (far).",
+  "rank": 2208,
+  "multiChoiceQuiz": {
+    "id": "664f3b76-c316-4da5-97f7-87dd4c4d3b7c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "The table is next to the sofa."
+      },
+      "word": "bên cạnh",
+      "hint": "b___cạnh",
+      "choices": [
+        "trên",
+        "dưới",
+        "bên cạnh"
+      ],
+      "sentence": "Cái bàn ở ___ ghế sofa.",
+      "translatedAnswer": {
+        "en": "next to"
+      },
+      "answer": "bên cạnh"
+    },
+    "updatedAt": "2025-03-12T15:58:05.342Z",
+    "createdAt": "2025-03-12T15:58:05.342Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bên cạnh** means *next to* or *beside* — talking about physical position.\n\nIt’s a location phrase, used before a noun.  \n\nIt can also mean *by someone’s side* in a supportive, emotional way.  \nClose synonym: **kế bên** (very similar meaning).  \nOpposite idea: **xa** (far).",
+  "exampleSentencesTranslated": [
+    "Please put my phone next to the computer for me.",
+    "I will sit next to you in class tomorrow.",
+    "There is a small coffee shop next to my house."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "next to; beside"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I sit next to you in class.",
+      "vi": "Tôi ngồi bên cạnh bạn trong lớp học."
+    },
+    "definitions": {
+      "en": "Indicates a position next to or beside someone or something.",
+      "vi": "Chỉ vị trí ở sát hoặc gần một người hoặc vật khác."
+    },
+    "createdAt": "2025-05-24T16:32:49.336Z",
+    "word": "bên cạnh"
+  },
+  "word": "bên cạnh",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:11:43.477Z",
+  "_id": "ldhMcMIfB0bkmJRMyKQ4"
+}

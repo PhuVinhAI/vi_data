@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:21:13.452Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "c280a126-098d-4938-ba49-95533d8613d1",
+    "updatedAt": "2025-03-12T13:39:45.547Z",
+    "content": {
+      "answer": "sinh học",
+      "translation": {
+        "en": "My subject is biology."
+      },
+      "choices": [],
+      "sentence": "Môn học của tôi là ___.",
+      "word": "sinh học",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "biology"
+      }
+    },
+    "createdAt": "2025-03-12T13:39:45.547Z"
+  },
+  "notes": "Sinh học means biology — the study of living things like animals, plants, and the human body.  \n\nIt’s a noun. You often see it with môn (school subject), ngành (major/field), or khoa (department).  \n\nIt combines naturally with words like học (to study), giáo viên (teacher), and phòng thí nghiệm (lab).  \n\nRelated words that help: hóa học (chemistry) and vật lý (physics) — all are school subjects ending in -học.",
+  "exampleSentencesTranslated": [
+    "I really like studying biology because I can learn about animals and plants.",
+    "She chose biology as her major at university.",
+    "I need to buy a new biology book for the next semester."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "biology",
+      "es": "biología",
+      "vi": "sinh học"
+    },
+    "example": {
+      "vi": "Môn sinh học rất thú vị.",
+      "es": "La biología es una materia muy interesante.",
+      "en": "Biology is a very interesting subject."
+    },
+    "createdAt": "2025-01-28T11:18:41.815Z",
+    "definitions": {
+      "es": "El estudio científico de la vida y los organismos vivos.",
+      "vi": "Nghiên cứu khoa học về sự sống và các sinh vật sống.",
+      "en": "The scientific study of life and living organisms."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "My subject is biology."
+      },
+      "answer": "sinh học",
+      "hint": "s___h",
+      "choices": [
+        "sinh học",
+        "hóa học",
+        "vật lý"
+      ],
+      "sentence": "Môn học của tôi là ___.",
+      "word": "sinh học",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "biology"
+      }
+    },
+    "createdAt": "2025-03-12T13:39:45.547Z",
+    "updatedAt": "2025-03-12T13:39:45.547Z",
+    "id": "112a131e-12e4-423e-9d9c-908131a26f04",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Sinh học** means *biology* — the study of living things like animals, plants, and the human body.  \n\nIt’s a noun. You often see it with **môn** (school subject), **ngành** (major/field), or **khoa** (department).  \n\nIt combines naturally with words like **học** (to study), **giáo viên** (teacher), and **phòng thí nghiệm** (lab).  \n\nRelated words that help: **hóa học** (chemistry) and **vật lý** (physics) — all are school subjects ending in **-học**.",
+  "rank": 1730,
+  "exampleSentences": [
+    "Anh rất thích học sinh học vì được tìm hiểu về động vật và thực vật.",
+    "Chị đã chọn sinh học làm môn chuyên ngành ở trường đại học.",
+    "Em cần mua sách sinh học mới cho kỳ học tới."
+  ],
+  "word": "sinh học",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "biology",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sinh học",
+    "hóa học",
+    "vật lý"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "DJxiUAlg3AfVG4h5kmQ8"
+}

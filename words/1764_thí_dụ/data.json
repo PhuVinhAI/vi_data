@@ -1,0 +1,99 @@
+{
+  "definition": "example",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:49:24.387Z",
+    "translations": {
+      "en": "example",
+      "vi": "thí dụ",
+      "es": "ejemplo"
+    },
+    "example": {
+      "es": "Un ejemplo típico es aprender vocabulario.",
+      "vi": "Một thí dụ điển hình là việc học từ vựng.",
+      "en": "A typical example is learning vocabulary."
+    },
+    "definitions": {
+      "es": "Un ejemplo o instancia utilizada para ilustrar un punto.",
+      "vi": "Một ví dụ hoặc trường hợp được sử dụng để minh họa một điểm.",
+      "en": "An example or instance used to illustrate a point."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:29:26.140Z",
+    "content": {
+      "word": "thí dụ",
+      "sentence": "Đây là một ___ về cách làm.",
+      "language": "vi",
+      "choices": [],
+      "answer": "thí dụ",
+      "translation": {
+        "en": "This is an example of how to do it."
+      },
+      "translatedAnswer": {
+        "en": "example"
+      }
+    },
+    "createdAt": "2025-03-12T13:29:26.140Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "c5d49b86-ba4f-4b11-a002-15ae521bd2a7",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Can you give me an example of how to use this word?",
+    "When learning grammar, she always needs many examples to understand better.",
+    "The teacher often uses real-life examples to explain the lesson."
+  ],
+  "updatedAt": "2026-03-04T08:53:31.487Z",
+  "exampleSentences": [
+    "Anh có thể cho em một thí dụ về cách dùng từ này không?",
+    "Khi học ngữ pháp, chị luôn cần nhiều thí dụ để hiểu rõ hơn.",
+    "Thầy giáo thường sử dụng thí dụ thực tế để giải thích bài học."
+  ],
+  "notes": "thí dụ means an example. It’s used to introduce an illustration to make an idea clearer.\n\nIt’s a countable noun: một thí dụ, những thí dụ, các thí dụ.  \nOften used with verbs like cho (give), đưa ra (present), or lấy (take as an illustration).  \nYou’ll hear it in explanations, teaching, or when someone wants to clarify a point.",
+  "notes_md": "**thí dụ** means *an example*. It’s used to introduce an illustration to make an idea clearer.\n\nIt’s a countable noun: *một thí dụ*, *những thí dụ*, *các thí dụ*.  \nOften used with verbs like **cho** (give), **đưa ra** (present), or **lấy** (take as an illustration).  \nYou’ll hear it in explanations, teaching, or when someone wants to clarify a point.",
+  "choices": [
+    "thí dụ",
+    "kết luận",
+    "câu hỏi"
+  ],
+  "rank": 1764,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:29:26.140Z",
+    "id": "e898c371-c2b1-40ee-a3a4-d9350198a95e",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:26.140Z",
+    "content": {
+      "hint": "th___",
+      "answer": "thí dụ",
+      "translatedAnswer": {
+        "en": "examples"
+      },
+      "translation": {
+        "en": "There are many examples in this book."
+      },
+      "sentence": "Có nhiều ___ trong sách này.",
+      "language": "vi",
+      "word": "thí dụ",
+      "choices": [
+        "hình ảnh",
+        "thí dụ",
+        "câu chuyện"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thí dụ",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "AklsXzuIZ5Q7hr8GeWZY"
+}

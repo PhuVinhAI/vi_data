@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:09:35.539Z",
+  "exampleSentencesTranslated": [
+    "Today it is cold so I wear long pants to school.",
+    "I just bought a new pair of pants at the mall.",
+    "Can you lend me pants to change into?"
+  ],
+  "rank": 1622,
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi cần một ___ để mặc.",
+      "translatedAnswer": {
+        "en": "pants"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I need a pair of pants to wear."
+      },
+      "answer": "quần",
+      "hint": "q___n",
+      "word": "quần",
+      "choices": [
+        "áo",
+        "quần",
+        "giày"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:29:13.849Z",
+    "createdAt": "2025-03-12T14:29:13.849Z",
+    "id": "470ad611-e3f9-43cc-8943-747942706959",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "quần",
+  "notes": "quần means pants / trousers — clothing you wear on your lower body. In Vietnamese, one item is still just quần (not plural like in English).\n\nIt’s a noun. Use classifiers like cái or chiếc: một cái quần, một chiếc quần.  \n\nOften paired with áo (shirt) → quần áo = clothes in general.\n\nCommon types: quần jean, quần dài (long pants), quần short (shorts).\n\nStructure: mặc + quần (mặc quần jean)",
+  "choices": [
+    "quần",
+    "áo",
+    "váy"
+  ],
+  "notes_md": "**quần** means **pants / trousers** — clothing you wear on your lower body. In Vietnamese, one item is still just *quần* (not plural like in English).\n\nIt’s a noun. Use classifiers like **cái** or **chiếc**: *một cái quần*, *một chiếc quần*.  \n\nOften paired with **áo** (shirt) → **quần áo** = clothes in general.\n\nCommon types: *quần jean*, *quần dài* (long pants), *quần short* (shorts).\n\n`Structure: mặc + quần` (mặc quần jean)",
+  "exampleSentences": [
+    "Hôm nay trời lạnh nên em mặc quần dài đi học.",
+    "Anh mới mua một cái quần mới ở trung tâm thương mại.",
+    "Chị có thể cho em mượn quần để thay không?"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:05:18.596Z",
+    "definitions": {
+      "en": "A piece of clothing worn on the lower part of the body, covering both legs.",
+      "vi": "Một loại trang phục mặc ở phần dưới cơ thể, che phủ cả hai chân.",
+      "es": "Una prenda de vestir que se lleva en la parte inferior del cuerpo, cubriendo ambas piernas."
+    },
+    "example": {
+      "es": "Necesito comprar un nuevo par de pantalones.",
+      "en": "I need to buy a new pair of pants.",
+      "vi": "Tôi cần mua một chiếc quần mới."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "pantalones",
+      "en": "pants",
+      "vi": "quần"
+    }
+  },
+  "definition": "pants",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:29:13.849Z",
+    "id": "b3ab0739-e555-4eba-b6e2-a6854bee5403",
+    "content": {
+      "translatedAnswer": {
+        "en": "pants"
+      },
+      "language": "vi",
+      "sentence": "Tôi mua một ___ mới.",
+      "answer": "quần",
+      "translation": {
+        "en": "I bought a new pair of pants."
+      },
+      "choices": [],
+      "word": "quần"
+    },
+    "updatedAt": "2025-03-12T14:29:13.849Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "PMhMybpzghCF02VNNgYi"
+}

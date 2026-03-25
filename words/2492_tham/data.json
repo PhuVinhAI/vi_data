@@ -1,0 +1,99 @@
+{
+  "rank": 2492,
+  "exampleSentences": [
+    "Em đừng nên quá tham khi chia bánh kẹo với các bạn nhé.",
+    "Anh ấy bị mọi người chê là tham vì luôn lấy phần lớn nhất.",
+    "Chị nghĩ tham không tốt, mình nên biết chia sẻ với người khác."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi tham gia vào cuộc thi này.",
+      "es": "Participo en esta competencia.",
+      "en": "I participate in this competition."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:00:27.595Z",
+    "translations": {
+      "vi": "tham gia",
+      "es": "participar",
+      "en": "participate"
+    },
+    "definitions": {
+      "en": "to participate or take part in something.",
+      "vi": "tham gia hoặc tham dự vào một cái gì đó.",
+      "es": "participar o tomar parte en algo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:24:35.113Z",
+    "createdAt": "2025-03-12T14:24:35.113Z",
+    "id": "04247c5e-4e9e-46d7-a403-967588359812",
+    "content": {
+      "translatedAnswer": {
+        "en": "greedy"
+      },
+      "answer": "tham",
+      "word": "tham",
+      "hint": "t___",
+      "sentence": "Tôi rất ___ ăn món này.",
+      "translation": {
+        "en": "I am very greedy to eat this dish."
+      },
+      "language": "vi",
+      "choices": [
+        "thích",
+        "tham",
+        "yêu thích"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "tham",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Tham** means *greedy* — wanting too much, especially money, food, or benefits.\n\nIt’s an adjective describing a person’s personality or behavior. You often see it in short combinations like **tham ăn** (greedy for food), **tham tiền** (money-hungry), **tham việc** (taking on too much work for gain or credit).\n\nIt can also express excess desire, not just money — like wanting more than you should.  \n\nStrong opposite: **hào phóng** (generous).  \nRelated word: **lòng tham** (greed — the noun form).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Tham means greedy — wanting too much, especially money, food, or benefits.\n\nIt’s an adjective describing a person’s personality or behavior. You often see it in short combinations like tham ăn (greedy for food), tham tiền (money-hungry), tham việc (taking on too much work for gain or credit).\n\nIt can also express excess desire, not just money — like wanting more than you should.  \n\nStrong opposite: hào phóng (generous).  \nRelated word: lòng tham (greed — the noun form).",
+  "exampleSentencesTranslated": [
+    "You shouldn't be too greedy when sharing candy with your friends.",
+    "He is criticized for being greedy because he always takes the biggest portion.",
+    "I think being greedy is not good; we should know how to share with others."
+  ],
+  "choices": [
+    "tham",
+    "thăm",
+    "thắm"
+  ],
+  "updatedAt": "2026-03-03T10:41:18.553Z",
+  "definition": "greedy",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I am very greedy to eat this dish."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "tham",
+      "sentence": "Tôi rất ___ ăn món này.",
+      "translatedAnswer": {
+        "en": "greedy"
+      },
+      "answer": "tham"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "fbd6a0bc-4cd0-42e7-888c-9cf0fff70c46",
+    "createdAt": "2025-03-12T14:24:35.113Z",
+    "updatedAt": "2025-03-12T14:24:35.113Z"
+  },
+  "_id": "O8k6V5snLxFqJof9bhOA"
+}

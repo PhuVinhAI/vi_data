@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh không thể chịu đựng tiếng ồn lớn suốt cả đêm.",
+    "Chị ấy phải chịu đựng thời tiết nóng khi làm việc ngoài trời.",
+    "Em đã chịu đựng nhiều khó khăn để đạt được mục tiêu."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Tolerar o soportar algo difícil o desagradable.",
+      "en": "To tolerate or bear something difficult or unpleasant.",
+      "vi": "Chịu đựng một điều gì đó khó khăn hoặc khó chịu."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:49:32.755Z",
+    "example": {
+      "en": "I have to endure this pain.",
+      "es": "Tengo que soportar este dolor.",
+      "vi": "Tôi phải chịu đựng cơn đau này."
+    },
+    "translations": {
+      "vi": "chịu đựng",
+      "en": "endure",
+      "es": "soportar"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chịu đựng",
+    "giải thích",
+    "khám phá"
+  ],
+  "updatedAt": "2026-03-03T10:21:55.651Z",
+  "exampleSentencesTranslated": [
+    "He cannot endure loud noise all night.",
+    "She has to endure hot weather when working outside.",
+    "I have endured many difficulties to achieve my goal."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chịu đựng = to endure, to put up with something difficult, painful, or annoying for a period of time. It implies you don’t like it, but you keep going anyway.\n\nIt’s a verb, usually followed by something negative: pain, pressure, stress, loss, criticism, heat, noise. It often talks about emotional or physical suffering.\n\nClose synonym: nhẫn nhịn (more about holding back feelings). Very common shorter form: chịu nổi / không chịu nổi (can/can’t stand).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:18:17.946Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "dbcd9d80-d6b3-4f8c-b646-e401182feea9",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi phải ___ nỗi đau này.",
+      "choices": [],
+      "language": "vi",
+      "answer": "chịu đựng",
+      "word": "chịu đựng",
+      "translation": {
+        "en": "I have to endure this pain."
+      },
+      "translatedAnswer": {
+        "en": "endure"
+      }
+    },
+    "updatedAt": "2025-03-12T16:18:17.946Z"
+  },
+  "word": "chịu đựng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**chịu đựng** = to endure, to put up with something difficult, painful, or annoying for a period of time. It implies you don’t like it, but you keep going anyway.\n\nIt’s a verb, usually followed by something negative: pain, pressure, stress, loss, criticism, heat, noise. It often talks about emotional or physical suffering.\n\n\nClose synonym: **nhẫn nhịn** (more about holding back feelings). Very common shorter form: **chịu nổi / không chịu nổi** (can/can’t stand).",
+  "rank": 2300,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:18:17.946Z",
+    "id": "2eabdd58-ecd2-43b2-8216-657818cda78a",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "chịu đựng",
+      "answer": "chịu đựng",
+      "language": "vi",
+      "choices": [
+        "chịu đựng",
+        "chấp nhận",
+        "tránh né"
+      ],
+      "translatedAnswer": {
+        "en": "endure"
+      },
+      "translation": {
+        "en": "He can endure all difficulties."
+      },
+      "hint": "c___ đ___g",
+      "sentence": "Anh ấy có thể ___ mọi khó khăn."
+    },
+    "updatedAt": "2025-03-12T16:18:17.946Z"
+  },
+  "definition": "endure",
+  "_id": "rCHjFJJaQw6FsjTsxeG2"
+}

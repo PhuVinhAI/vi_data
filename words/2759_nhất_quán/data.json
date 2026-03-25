@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "nhất quán",
+    "linh hoạt",
+    "bất ngờ"
+  ],
+  "exampleSentences": [
+    "Để đạt kết quả tốt, em cần giữ thái độ nhất quán trong học tập.",
+    "Anh ấy rất nhất quán trong việc dậy sớm mỗi ngày để tập thể dục.",
+    "Nếu nhóm làm việc nhất quán, dự án sẽ hoàn thành đúng hạn."
+  ],
+  "updatedAt": "2026-03-03T12:07:31.075Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:36:13.364Z",
+    "id": "11440dd0-c8b0-4923-9c6d-5c028d2ba648",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "nhất quán",
+        "khác nhau",
+        "tạm thời"
+      ],
+      "answer": "nhất quán",
+      "translation": {
+        "en": "We need to be consistent in work."
+      },
+      "translatedAnswer": {
+        "en": "consistent"
+      },
+      "language": "vi",
+      "hint": "n___n",
+      "word": "nhất quán",
+      "sentence": "Chúng ta cần phải ___ trong công việc."
+    },
+    "updatedAt": "2025-03-12T16:36:13.364Z"
+  },
+  "word": "nhất quán",
+  "exampleSentencesTranslated": [
+    "To get good results, you need to have a consistent attitude in studying.",
+    "He is very consistent in waking up early every day to exercise.",
+    "If the team is consistent, the project will be finished on time."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "consistent",
+      "es": "coherente",
+      "vi": "nhất quán"
+    },
+    "definitions": {
+      "vi": "Nhất quán; đồng nhất hoặc hài hòa.",
+      "es": "Consistente; en acuerdo o armonía.",
+      "en": "Consistent; in agreement or harmony."
+    },
+    "example": {
+      "vi": "Chúng ta cần có một chiến lược nhất quán để đạt được mục tiêu.",
+      "es": "Necesitamos una estrategia coherente para alcanzar nuestros objetivos.",
+      "en": "We need a consistent strategy to achieve our goals."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:07:35.441Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhất quán = consistent; the same in thinking, behavior, or style over time. It’s about not changing randomly or contradicting yourself.\n\nIt’s an adjective, used to describe people, actions, opinions, plans, or systems. Often used with trong + noun (nhất quán trong suy nghĩ / hành động).  \n\nStrong contrast: mâu thuẫn (contradictory) or thất thường (moody, inconsistent). Don’t confuse with kiên định (firm/steadfast) — that’s more about strong will, not overall consistency.",
+  "notes_md": "**nhất quán** = consistent; the same in thinking, behavior, or style over time. It’s about not changing randomly or contradicting yourself.\n\nIt’s an **adjective**, used to describe people, actions, opinions, plans, or systems. Often used with *trong* + noun (nhất quán trong suy nghĩ / hành động).  \n\nStrong contrast: *mâu thuẫn* (contradictory) or *thất thường* (moody, inconsistent). Don’t confuse with *kiên định* (firm/steadfast) — that’s more about strong will, not overall consistency.",
+  "rank": 2759,
+  "definition": "consistent",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "consistent"
+      },
+      "choices": [],
+      "answer": "nhất quán",
+      "translation": {
+        "en": "We need to be consistent in work."
+      },
+      "language": "vi",
+      "word": "nhất quán",
+      "sentence": "Chúng ta cần phải ___ trong công việc."
+    },
+    "updatedAt": "2025-03-12T16:36:13.364Z",
+    "type": "fillBlankQuiz",
+    "id": "6e8e01a4-7129-42b1-8e5f-f6132e34deb0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:36:13.364Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vrs9gtznFFXSaD0iCPHA"
+}

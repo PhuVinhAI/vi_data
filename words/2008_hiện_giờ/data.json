@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi không biết ___ có gì mới.",
+      "answer": "hiện giờ",
+      "translation": {
+        "en": "I don't know what is new right now."
+      },
+      "choices": [
+        "hiện tại",
+        "hiện giờ",
+        "thời điểm"
+      ],
+      "word": "hiện giờ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "right now"
+      },
+      "hint": "h___ g__"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "c75ad7c3-bf1b-4483-852f-eceba7897c38",
+    "createdAt": "2025-03-12T13:02:55.652Z",
+    "updatedAt": "2025-03-12T13:02:55.652Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh không thể ra ngoài hiện giờ vì đang bận làm việc.",
+    "Chị muốn biết em đang ở đâu hiện giờ.",
+    "Hiện giờ, trời đang mưa nên chúng ta ở nhà nhé."
+  ],
+  "definition": "right now",
+  "rank": 2008,
+  "flashcard": {
+    "example": {
+      "es": "En este momento, estoy estudiando inglés.",
+      "vi": "Hiện giờ tôi đang học tiếng Anh.",
+      "en": "Right now, I am studying English."
+    },
+    "translations": {
+      "en": "right now",
+      "es": "ahora"
+    },
+    "definitions": {
+      "vi": "Vào thời điểm hiện tại; bây giờ.",
+      "en": "At the present time; now.",
+      "es": "En el momento presente; ahora."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:45:25.192Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Hiện giờ means right now or at this moment. It talks about what is happening in the present time.\n\nIt’s a time phrase, usually placed at the beginning or end of a sentence.  \n\nVery close to bây giờ (now). Ngay bây giờ is stronger — like right this second.  \n\nIt’s slightly more formal than bây giờ, but still very natural in everyday speech.",
+  "choices": [
+    "hiện tại",
+    "lúc này",
+    "hiện giờ"
+  ],
+  "word": "hiện giờ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I can't go out right now because I'm busy working.",
+    "I want to know where you are right now.",
+    "Right now, it's raining so let's stay home."
+  ],
+  "notes_md": "**Hiện giờ** means *right now* or *at this moment*. It talks about what is happening in the present time.\n\nIt’s a time phrase, usually placed at the beginning or end of a sentence.  \n\nVery close to **bây giờ** (now). **Ngay bây giờ** is stronger — like *right this second*.  \n\nIt’s slightly more formal than *bây giờ*, but still very natural in everyday speech.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:02:55.652Z",
+    "updatedAt": "2025-03-12T13:02:55.652Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi đang làm việc ___.",
+      "answer": "hiện giờ",
+      "translation": {
+        "en": "I am working right now."
+      },
+      "choices": [],
+      "word": "hiện giờ",
+      "translatedAnswer": {
+        "en": "right now"
+      },
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "ce9dbbfc-bca4-4276-b476-01a76ff450a3"
+  },
+  "updatedAt": "2026-03-03T09:50:34.466Z",
+  "_id": "3iaM2qFV8C7sDypK7S2P"
+}

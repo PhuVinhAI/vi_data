@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "dừng = to stop. You use it when something stops moving or an action stops happening.\n\nIt works for vehicles, machines, people, and actions: dừng xe, dừng lại, dừng công việc. Often you’ll hear dừng lại — lại just adds the feeling of “come to a stop.”  \n\nYou can also use it for stopping an activity or process, not just physical movement.  \n\nOpposite: tiếp tục (continue).",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:03:34.697Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Xin hãy dừng lại ở đây.",
+      "es": "Por favor, detente aquí.",
+      "en": "Please stop here."
+    },
+    "definitions": {
+      "es": "Detenerse o cesar el movimiento o la operación.",
+      "en": "To cease movement or operation.",
+      "vi": "Ngừng lại hoặc ngừng hoạt động."
+    },
+    "translations": {
+      "en": "stop",
+      "es": "detener"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:32:21.369Z",
+    "id": "436ad0e3-44ff-4a81-9420-8959b2ce66c1",
+    "content": {
+      "hint": "d___",
+      "word": "dừng",
+      "sentence": "Chiếc xe ___ lại giữa đường.",
+      "translation": {
+        "en": "The car stops in the middle of the road."
+      },
+      "choices": [
+        "bắt đầu",
+        "dừng",
+        "tiếp tục"
+      ],
+      "answer": "dừng",
+      "translatedAnswer": {
+        "en": "stops"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:32:21.369Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh có thể dừng xe ở đây giúp em được không?",
+    "Khi đèn đỏ, mọi người phải dừng lại trước vạch trắng.",
+    "Chị đã bảo em dừng nói chuyện trong lớp nhiều lần rồi."
+  ],
+  "updatedAt": "2026-03-03T07:33:17.913Z",
+  "choices": [
+    "chạy",
+    "dừng",
+    "bắt đầu"
+  ],
+  "word": "dừng",
+  "exampleSentencesTranslated": [
+    "Can you stop the car here for me?",
+    "When the light is red, everyone must stop before the white line.",
+    "I have told you to stop talking in class many times."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**dừng** = to stop. You use it when something stops moving or an action stops happening.\n\nIt works for vehicles, machines, people, and actions: *dừng xe*, *dừng lại*, *dừng công việc*. Often you’ll hear **dừng lại** — *lại* just adds the feeling of “come to a stop.”  \n\nYou can also use it for stopping an activity or process, not just physical movement.  \n\nOpposite: **tiếp tục** (continue).",
+  "rank": 716,
+  "definition": "stop",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:32:21.369Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "9345792c-31c7-476b-b60c-3cf6f8c487f9",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "dừng",
+      "sentence": "Chúng ta cần ___ lại ở đây.",
+      "translatedAnswer": {
+        "en": "stop"
+      },
+      "answer": "dừng",
+      "translation": {
+        "en": "We need to stop here."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:32:21.369Z"
+  },
+  "_id": "uavZPbd6m3q9FVBRr8Po"
+}

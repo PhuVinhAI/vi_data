@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "xã",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:19:33.546Z",
+    "createdAt": "2025-03-12T14:19:33.546Z",
+    "id": "1470a6d5-c9c2-43ab-a80e-78ac71b2d84e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi sống ở ___ này.",
+      "hint": "x__",
+      "word": "xã",
+      "language": "vi",
+      "choices": [
+        "thành phố",
+        "xã",
+        "huyện"
+      ],
+      "translation": {
+        "en": "I live in this commune."
+      },
+      "answer": "xã",
+      "translatedAnswer": {
+        "en": "commune"
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xã** = commune, a small local administrative unit in Vietnam (bigger than a village, smaller than a district). It’s a rural-level area.\n\nIt’s a noun. You say **một xã, hai xã** (no special classifier needed).  \n\nOften appears in set phrases like **ủy ban xã** (commune People’s Committee) or contrasted with **phường** (urban ward).  \n\nHierarchy tip: **thôn/làng → xã → huyện → tỉnh**. Think of *xã* as the countryside version of *phường*.",
+  "updatedAt": "2026-03-03T10:07:01.011Z",
+  "choices": [
+    "xã",
+    "phường",
+    "thôn"
+  ],
+  "notes": "xã = commune, a small local administrative unit in Vietnam (bigger than a village, smaller than a district). It’s a rural-level area.\n\nIt’s a noun. You say một xã, hai xã (no special classifier needed).  \n\nOften appears in set phrases like ủy ban xã (commune People’s Committee) or contrasted with phường (urban ward).  \n\nHierarchy tip: thôn/làng → xã → huyện → tỉnh. Think of xã as the countryside version of phường.",
+  "exampleSentencesTranslated": [
+    "Do you know that our commune is organizing a fair soon?",
+    "Every commune has a cultural house for the people to gather together.",
+    "My family moved to this commune three years ago."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "xã",
+      "translatedAnswer": {
+        "en": "commune"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I live in this commune."
+      },
+      "sentence": "Tôi sống ở ___ này.",
+      "word": "xã"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "cb18c9ee-f15a-433e-8af6-a4858c6ea3a4",
+    "createdAt": "2025-03-12T14:19:33.546Z",
+    "updatedAt": "2025-03-12T14:19:33.546Z"
+  },
+  "definition": "commune (a local administrative unit in Vietnam)",
+  "rank": 2166,
+  "exampleSentences": [
+    "Anh có biết ở xã mình sắp tổ chức hội chợ không?",
+    "Mỗi xã đều có một nhà văn hóa để người dân sinh hoạt chung.",
+    "Gia đình em chuyển đến xã này cách đây ba năm."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "A commune is an administrative unit in Vietnam.",
+      "vi": "Xã là một đơn vị hành chính ở Việt Nam.",
+      "es": "Una comuna es una unidad administrativa en Vietnam."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "commune",
+      "vi": "xã",
+      "es": "comuna"
+    },
+    "definitions": {
+      "en": "A commune is a type of administrative division in Vietnam.",
+      "vi": "Xã là một loại đơn vị hành chính ở Việt Nam.",
+      "es": "Una comuna es un tipo de división administrativa en Vietnam."
+    },
+    "createdAt": "2025-01-28T11:55:54.393Z"
+  },
+  "_id": "N164w6VUPmYxBfXr4N4P"
+}

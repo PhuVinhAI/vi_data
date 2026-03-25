@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lẽ",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "9868420a-1f80-4d76-a091-a831c2673851",
+    "content": {
+      "choices": [
+        "lý do",
+        "lẽ",
+        "sự thật"
+      ],
+      "language": "vi",
+      "sentence": "Đây là ___ của cuộc sống.",
+      "word": "lẽ",
+      "translatedAnswer": {
+        "en": "reason"
+      },
+      "translation": {
+        "en": "This is the reason of life."
+      },
+      "hint": "l____",
+      "answer": "lẽ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:29:38.870Z",
+    "updatedAt": "2025-03-12T15:29:38.870Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**lẽ** = reason, logic, the “why” behind something. It’s a noun.\n\nOften used in set phrases like **lẽ phải** (what’s right, moral reason) or **phải lẽ** (reasonable). You don’t really count it; it’s more abstract, like “reason” in English.\n\nVery common extra meaning: **lẽ ra** = “should have / was supposed to” (talking about something expected but didn’t happen).  \n\nClose to **lý do**, but *lý do* is more concrete (“reason” for an action), while *lẽ* often feels more about logic or moral reasoning.",
+  "choices": [
+    "lễ",
+    "lẽ",
+    "lệ"
+  ],
+  "rank": 2525,
+  "notes": "lẽ = reason, logic, the “why” behind something. It’s a noun.\n\nOften used in set phrases like lẽ phải (what’s right, moral reason) or phải lẽ (reasonable). You don’t really count it; it’s more abstract, like “reason” in English.\n\nVery common extra meaning: lẽ ra = “should have / was supposed to” (talking about something expected but didn’t happen).  \n\nClose to lý do, but lý do is more concrete (“reason” for an action), while lẽ often feels more about logic or moral reasoning.",
+  "updatedAt": "2026-03-03T10:44:36.728Z",
+  "exampleSentences": [
+    "Anh ấy giải thích lẽ tại sao anh đi muộn hôm nay.",
+    "Chị luôn tìm lẽ hợp lý trước khi quyết định điều gì đó.",
+    "Em không hiểu lẽ của việc thay đổi kế hoạch đột ngột."
+  ],
+  "exampleSentencesTranslated": [
+    "He explained the reason why he was late today.",
+    "She always looks for a reasonable reason before deciding anything.",
+    "I do not understand the reason for the sudden change of plans."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:29:38.870Z",
+    "content": {
+      "answer": "lẽ",
+      "translation": {
+        "en": "This is the reason of life."
+      },
+      "translatedAnswer": {
+        "en": "reason"
+      },
+      "word": "lẽ",
+      "sentence": "Đây là ___ của cuộc sống.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "accc72e0-61d4-44d9-8472-e9019f5da310",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:29:38.870Z"
+  },
+  "definition": "reason",
+  "flashcard": {
+    "definitions": {
+      "es": "Una razón o justificación para algo.",
+      "vi": "Một lý do hoặc sự biện minh cho điều gì đó.",
+      "en": "A reason or justification for something."
+    },
+    "example": {
+      "es": "Cada persona tiene su propia razón.",
+      "vi": "Mỗi người đều có lẽ riêng của mình.",
+      "en": "Everyone has their own reason."
+    },
+    "translations": {
+      "es": "razón",
+      "vi": "lẽ",
+      "en": "reason"
+    },
+    "createdAt": "2025-01-28T13:04:30.063Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "esrpQzO1I8zUoBBEIFbv"
+}

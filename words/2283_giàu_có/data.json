@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:52:48.537Z",
+    "updatedAt": "2025-03-12T12:52:48.537Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "giàu có",
+      "sentence": "Người đó rất ___ và thành công.",
+      "translatedAnswer": {
+        "en": "wealthy"
+      },
+      "language": "vi",
+      "word": "giàu có",
+      "choices": [],
+      "translation": {
+        "en": "That person is very wealthy and successful."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "b05813ee-e76a-4a54-bf52-e4914fbd51a6"
+  },
+  "updatedAt": "2026-03-03T10:19:55.947Z",
+  "exampleSentencesTranslated": [
+    "He dreams of becoming wealthy to help his family.",
+    "Hoa is not only wealthy but also very kind to everyone.",
+    "If you work hard, you can become wealthy in the future."
+  ],
+  "notes_md": "**Giàu có** means wealthy — having a lot of money or property. It usually talks about financial status, not personality or feelings.\n\nIt’s an adjective, so it describes people, families, companies, or countries (người giàu có, gia đình giàu có). It often comes after the noun or after linking verbs like *là*, *trở nên*, *rất*.\n\n\nClose synonym: **giàu** (shorter, more common).  \nOpposite: **nghèo** (poor).",
+  "choices": [
+    "nghèo khổ",
+    "giàu có",
+    "bận rộn"
+  ],
+  "notes": "Giàu có means wealthy — having a lot of money or property. It usually talks about financial status, not personality or feelings.\n\nIt’s an adjective, so it describes people, families, companies, or countries (người giàu có, gia đình giàu có). It often comes after the noun or after linking verbs like là, trở nên, rất.\n\nClose synonym: giàu (shorter, more common).  \nOpposite: nghèo (poor).",
+  "word": "giàu có",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "giàu có",
+      "translatedAnswer": {
+        "en": "wealthy"
+      },
+      "language": "vi",
+      "hint": "g___c",
+      "translation": {
+        "en": "Their family is very wealthy and famous."
+      },
+      "choices": [
+        "nghèo",
+        "giàu có",
+        "bình thường"
+      ],
+      "answer": "giàu có",
+      "sentence": "Gia đình họ rất ___ và nổi tiếng."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "94908866-4cc0-4d3e-9aaa-1a9d7d485351",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T12:52:48.537Z",
+    "updatedAt": "2025-03-12T12:52:48.537Z"
+  },
+  "exampleSentences": [
+    "Anh ấy ước mơ trở nên giàu có để giúp đỡ gia đình.",
+    "Chị Hoa không chỉ giàu có mà còn rất tốt bụng với mọi người.",
+    "Nếu em làm việc chăm chỉ, em có thể trở nên giàu có trong tương lai."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "wealthy",
+  "rank": 2283,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Él es una persona muy rica.",
+      "vi": "Anh ấy là một người rất giàu có.",
+      "en": "He is a very wealthy person."
+    },
+    "translations": {
+      "en": "wealthy",
+      "vi": "giàu có",
+      "es": "rico"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Tener mucho dinero o activos; rico.",
+      "en": "Having a lot of money or assets; rich.",
+      "vi": "Có nhiều tiền hoặc tài sản; giàu."
+    },
+    "createdAt": "2025-01-28T10:36:54.742Z"
+  },
+  "_id": "0vpMqU0a6Q73UNb0ekrh"
+}

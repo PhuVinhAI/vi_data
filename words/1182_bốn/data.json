@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "Số bốn.",
+      "es": "El número cuatro.",
+      "en": "The number four."
+    },
+    "example": {
+      "es": "Tengo cuatro manzanas.",
+      "vi": "Tôi có bốn quả táo.",
+      "en": "I have four apples."
+    },
+    "translations": {
+      "en": "four",
+      "vi": "bốn",
+      "es": "cuatro"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:11:22.401Z"
+  },
+  "definition": "four",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "bốn",
+      "language": "vi",
+      "sentence": "Tôi có ___ quả táo.",
+      "choices": [],
+      "answer": "bốn",
+      "translation": {
+        "en": "I have four apples."
+      },
+      "translatedAnswer": {
+        "en": "four"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:31:40.660Z",
+    "id": "e5374be7-0a63-4013-b424-b5be7d704301",
+    "updatedAt": "2025-03-12T13:31:40.660Z"
+  },
+  "exampleSentencesTranslated": [
+    "I have four close friends from university.",
+    "I want to buy four loaves of bread for breakfast tomorrow.",
+    "I will travel with four people in my family."
+  ],
+  "exampleSentences": [
+    "Anh có bốn người bạn thân từ thời đại học.",
+    "Chị muốn mua bốn cái bánh mì cho bữa sáng mai.",
+    "Em sẽ đi du lịch cùng bốn người trong gia đình."
+  ],
+  "updatedAt": "2026-03-03T08:21:25.981Z",
+  "notes": "bốn = four (the number 4).\n\nIt’s a cardinal number, used before a classifier + noun.  \n\nVietnamese always needs a classifier when counting nouns, so don’t say bốn người bạn without the right structure.  \nYou’ll also see tư as a Sino-Vietnamese variant in fixed phrases like Thứ tư (Wednesday) or in some addresses.",
+  "rank": 1182,
+  "choices": [
+    "năm",
+    "ba",
+    "bốn"
+  ],
+  "notes_md": "**bốn** = four (the number 4).\n\nIt’s a cardinal number, used before a classifier + noun.  \n\nVietnamese always needs a classifier when counting nouns, so don’t say *bốn người bạn* without the right structure.  \nYou’ll also see **tư** as a Sino-Vietnamese variant in fixed phrases like *Thứ tư* (Wednesday) or in some addresses.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "bb25be7e-bc15-425a-884a-fc3eeba7f1e5",
+    "content": {
+      "translation": {
+        "en": "There are four tables here."
+      },
+      "translatedAnswer": {
+        "en": "four"
+      },
+      "hint": "b__n",
+      "answer": "bốn",
+      "choices": [
+        "ba",
+        "bốn",
+        "năm"
+      ],
+      "word": "bốn",
+      "sentence": "Có ___ chiếc bàn ở đây.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:31:40.660Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T13:31:40.660Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "bốn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "BNgLducYe0PRRA83fsck"
+}

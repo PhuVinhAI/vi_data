@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:07.292Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "billion"
+      },
+      "translation": {
+        "en": "I have a billion dong in my account."
+      },
+      "hint": "t__",
+      "answer": "tỷ",
+      "choices": [
+        "triệu",
+        "tỷ",
+        "nghìn"
+      ],
+      "sentence": "Tôi có ___ đồng trong tài khoản.",
+      "language": "vi",
+      "word": "tỷ"
+    },
+    "id": "b74d9b29-2b5b-45e9-8ef7-ace293c07043",
+    "updatedAt": "2025-03-12T15:23:07.292Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tỷ** means **billion (1,000,000,000)**. It’s used with numbers to talk about very large amounts.\n\nIt comes **after a number**, like other Vietnamese number units.  \n\nOften used with money (đồng, đô), population, or quantities of things.  \nThink of it as the big brother of *triệu* (million) — 1 tỷ = 1,000 triệu.",
+  "rank": 1514,
+  "choices": [
+    "tỷ",
+    "triệu",
+    "nghìn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tỷ",
+  "exampleSentencesTranslated": [
+    "He won the lottery and received one billion dong.",
+    "That company is valued at more than ten billion on the market.",
+    "Every year, they produce billions of products for export."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:23:07.292Z",
+    "type": "fillBlankQuiz",
+    "id": "be56a6a1-de0c-4aff-90a9-cfac1028826d",
+    "content": {
+      "sentence": "Tôi có ___ đồng trong tài khoản.",
+      "language": "vi",
+      "word": "tỷ",
+      "choices": [],
+      "answer": "tỷ",
+      "translatedAnswer": {
+        "en": "billion"
+      },
+      "translation": {
+        "en": "I have a billion dong in my account."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:23:07.292Z"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "trillion",
+      "es": "billón",
+      "vi": "tỷ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:57:52.687Z",
+    "definitions": {
+      "es": "Una unidad de medida igual a un millón de millones (10^12).",
+      "vi": "Một đơn vị đo lường bằng một triệu triệu (10^12).",
+      "en": "A unit of measurement equal to one million million (10^12)."
+    },
+    "example": {
+      "en": "One trillion is one million million.",
+      "vi": "Một tỷ là một triệu triệu.",
+      "es": "Un billón es un millón de millones."
+    }
+  },
+  "definition": "billion",
+  "notes": "tỷ means billion (1,000,000,000). It’s used with numbers to talk about very large amounts.\n\nIt comes after a number, like other Vietnamese number units.  \n\nOften used with money (đồng, đô), population, or quantities of things.  \nThink of it as the big brother of triệu (million) — 1 tỷ = 1,000 triệu.",
+  "updatedAt": "2026-03-03T08:58:10.939Z",
+  "exampleSentences": [
+    "Anh ấy đã trúng xổ số và nhận được một tỷ đồng.",
+    "Công ty đó có giá trị hơn mười tỷ trên thị trường.",
+    "Mỗi năm, họ sản xuất hàng tỷ sản phẩm để xuất khẩu."
+  ],
+  "_id": "dAebpBRCCBgFRcoMyPB4"
+}

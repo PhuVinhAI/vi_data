@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "a36c9ba7-7247-40ee-9408-4732d0436d90",
+    "updatedAt": "2025-03-12T15:02:39.808Z",
+    "content": {
+      "sentence": "Chúng tôi cần ___ để hoàn thành dự án.",
+      "hint": "đ___ n___",
+      "answer": "đội ngũ",
+      "word": "đội ngũ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "team"
+      },
+      "choices": [
+        "nhân viên",
+        "đội ngũ",
+        "công ty"
+      ],
+      "translation": {
+        "en": "We need a team to complete the project."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:02:39.808Z"
+  },
+  "notes": "Đội ngũ = team, a group of people working together in an organized way (often in work, education, healthcare, etc.).  \n\nIt’s a collective noun; you usually don’t need a classifier, just đội ngũ + noun/adjective (đội ngũ nhân viên, đội ngũ chuyên nghiệp).  \nOften used in slightly formal or professional contexts, especially in companies or institutions.  \nCommon verbs with it: xây dựng, mở rộng, phát triển, quản lý đội ngũ.  \nClose words: nhóm (more general, casual), đội (can be a sports team or smaller unit).",
+  "exampleSentences": [
+    "Đội ngũ của công ty chúng ta luôn làm việc rất chăm chỉ.",
+    "Anh tự hào khi được làm việc cùng đội ngũ tài năng này.",
+    "Chị muốn mở rộng đội ngũ để phát triển dự án nhanh hơn."
+  ],
+  "word": "đội ngũ",
+  "choices": [
+    "đội ngũ",
+    "công việc",
+    "kế hoạch"
+  ],
+  "rank": 555,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Đội ngũ** = team, a group of people working together in an organized way (often in work, education, healthcare, etc.).  \n\nIt’s a collective noun; you usually don’t need a classifier, just *đội ngũ + noun/adjective* (đội ngũ nhân viên, đội ngũ chuyên nghiệp).  \nOften used in slightly formal or professional contexts, especially in companies or institutions.  \nCommon verbs with it: *xây dựng*, *mở rộng*, *phát triển*, *quản lý* đội ngũ.  \nClose words: *nhóm* (more general, casual), *đội* (can be a sports team or smaller unit).",
+  "definition": "team",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:02:39.808Z",
+    "updatedAt": "2025-03-12T15:02:39.808Z",
+    "content": {
+      "answer": "đội ngũ",
+      "language": "vi",
+      "word": "đội ngũ",
+      "sentence": "Chúng tôi cần ___ để hoàn thành dự án.",
+      "translation": {
+        "en": "We need a team to complete the project."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "team"
+      }
+    },
+    "id": "5f0b913e-379c-49e8-a2ce-52e971290849"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:17:43.120Z",
+  "exampleSentencesTranslated": [
+    "Our company's team always works very hard.",
+    "I am proud to work with this talented team.",
+    "She wants to expand the team to develop the project faster."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "team",
+      "es": "equipo",
+      "vi": "đội ngũ"
+    },
+    "example": {
+      "en": "Our team is very professional.",
+      "es": "Nuestro equipo es muy profesional.",
+      "vi": "Đội ngũ của chúng tôi rất chuyên nghiệp."
+    },
+    "definitions": {
+      "en": "A group of people organized to work together towards a common goal.",
+      "es": "Un grupo de personas organizadas para trabajar juntas hacia un objetivo común.",
+      "vi": "Một nhóm người được tổ chức để làm việc cùng nhau hướng tới một mục tiêu chung."
+    },
+    "createdAt": "2025-01-28T12:35:19.172Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "XfMVPB87h1rHReINiI5p"
+}

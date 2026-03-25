@@ -1,0 +1,96 @@
+{
+  "rank": 258,
+  "notes_md": "**ý** means *idea*, *opinion*, or sometimes *intention* in English. It’s a noun and countable: you can say *một ý*, *hai ý*, *nhiều ý*.\n\nIt often combines with other words: **ý kiến** (opinion), **ý tưởng** (idea), **góp ý** (give feedback), **để ý** (notice/pay attention), **có ý định** (intend). Context tells you whether it’s just a thought in your head or something more like a plan.\n\nVery common in daily interaction is **đồng ý** = to agree (literally “same idea”).\n\n`Structure: đồng ý + với + someone (đồng ý với tôi)`",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi không hiểu ___ của bạn.",
+      "word": "ý",
+      "choices": [
+        "ý",
+        "cảm giác",
+        "suy nghĩ"
+      ],
+      "language": "vi",
+      "answer": "ý",
+      "hint": "ý",
+      "translation": {
+        "en": "I do not understand your idea."
+      },
+      "translatedAnswer": {
+        "en": "idea"
+      }
+    },
+    "updatedAt": "2025-03-12T16:16:47.074Z",
+    "createdAt": "2025-03-12T16:16:47.074Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4b116efd-6b8a-4a47-b56f-a2e89b645cb3"
+  },
+  "definition": "idea",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:16:47.074Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "1a31cecd-a29c-484f-ab0d-f3847339afad",
+    "content": {
+      "translation": {
+        "en": "I do not understand your idea."
+      },
+      "translatedAnswer": {
+        "en": "idea"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "ý",
+      "word": "ý",
+      "sentence": "Tôi không hiểu ___ của bạn."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:16:47.074Z"
+  },
+  "word": "ý",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "ý means idea, opinion, or sometimes intention in English. It’s a noun and countable: you can say một ý, hai ý, nhiều ý.\n\nIt often combines with other words: ý kiến (opinion), ý tưởng (idea), góp ý (give feedback), để ý (notice/pay attention), có ý định (intend). Context tells you whether it’s just a thought in your head or something more like a plan.\n\nVery common in daily interaction is đồng ý = to agree (literally “same idea”).\n\nStructure: đồng ý + với + someone (đồng ý với tôi)",
+  "exampleSentences": [
+    "Chị có thể cho em biết ý của chị về dự án này không?",
+    "Anh vừa nảy ra một ý mới cho buổi họp ngày mai.",
+    "Nếu em có ý nào hay hơn, hãy chia sẻ với cả nhóm nhé."
+  ],
+  "choices": [
+    "ý",
+    "bàn",
+    "ghế"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Điều được nghĩ đến hoặc muốn nói; quan điểm hoặc ý định.",
+      "en": "A thought, meaning, or intention; an idea or opinion."
+    },
+    "word": "ý",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:34:25.418Z",
+    "example": {
+      "vi": "Tôi không hiểu ý của bạn.",
+      "en": "I don't understand your meaning."
+    },
+    "translations": {
+      "en": "idea; meaning; intention"
+    }
+  },
+  "updatedAt": "2026-03-03T06:46:43.429Z",
+  "exampleSentencesTranslated": [
+    "Can you tell me your idea about this project?",
+    "I just came up with a new idea for tomorrow's meeting.",
+    "If you have any better idea, please share it with the whole group."
+  ],
+  "_id": "qnM3Gs388DMMltLJVl0x"
+}

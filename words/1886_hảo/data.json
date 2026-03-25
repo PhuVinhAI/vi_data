@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "xấu",
+    "hảo",
+    "giỏi"
+  ],
+  "notes": "hảo means good or fine, but it’s Sino-Vietnamese and not very common by itself in everyday speech.  \n\nIt’s mostly used in fixed compounds, especially formal or literary ones, like hảo hạng (high-quality) or hảo tâm (kind-hearted). On its own, it sounds old-fashioned or stylistic.  \n\nAs an adjective, it describes positive quality or character, similar to tốt (the normal everyday word for “good”). If you just want to say “good” in daily conversation, tốt is much more natural.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Món ăn này rất ___.",
+      "translatedAnswer": {
+        "en": "good"
+      },
+      "language": "vi",
+      "hint": "h___",
+      "translation": {
+        "en": "This dish is very good."
+      },
+      "answer": "hảo",
+      "word": "hảo",
+      "choices": [
+        "tốt",
+        "hảo",
+        "xấu"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:27:39.277Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:27:39.277Z",
+    "id": "2b550f39-bfb4-4be1-b879-abfa08241f1e"
+  },
+  "word": "hảo",
+  "rank": 1886,
+  "exampleSentencesTranslated": [
+    "He is a good friend whom I always trust.",
+    "I like eating at this restaurant because the food is very good.",
+    "I feel good when my family cares for me."
+  ],
+  "updatedAt": "2026-03-03T09:37:36.398Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:27:39.277Z",
+    "content": {
+      "answer": "hảo",
+      "translation": {
+        "en": "This dish is very good."
+      },
+      "choices": [],
+      "word": "hảo",
+      "translatedAnswer": {
+        "en": "good"
+      },
+      "language": "vi",
+      "sentence": "Món ăn này rất ___."
+    },
+    "id": "4fe55892-c028-41de-bebb-1133b27461ad",
+    "createdAt": "2025-03-12T14:27:39.277Z",
+    "type": "fillBlankQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "good",
+  "flashcard": {
+    "translations": {
+      "vi": "hảo",
+      "en": "kind-hearted",
+      "es": "de buen corazón"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Él es una persona de buen corazón.",
+      "en": "He is a kind-hearted person.",
+      "vi": "Anh ấy là một người hảo tâm."
+    },
+    "createdAt": "2025-01-28T12:03:51.987Z",
+    "definitions": {
+      "en": "Good-hearted; kind.",
+      "vi": "Tốt bụng; hảo tâm.",
+      "es": "De buen corazón; amable."
+    }
+  },
+  "notes_md": "**hảo** means *good* or *fine*, but it’s Sino-Vietnamese and not very common by itself in everyday speech.  \n\nIt’s mostly used in fixed compounds, especially formal or literary ones, like **hảo hạng** (high-quality) or **hảo tâm** (kind-hearted). On its own, it sounds old-fashioned or stylistic.  \n\nAs an adjective, it describes positive quality or character, similar to **tốt** (the normal everyday word for “good”). If you just want to say “good” in daily conversation, **tốt** is much more natural.",
+  "exampleSentences": [
+    "Anh ấy là một người bạn hảo mà em luôn tin tưởng.",
+    "Chị thích ăn ở quán này vì món ăn rất hảo.",
+    "Em cảm thấy hảo khi được gia đình quan tâm chăm sóc."
+  ],
+  "_id": "OzgoTocXtxVmlgrQAlKg"
+}

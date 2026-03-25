@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I need to think again about my decision.",
+      "es": "Necesito pensar de nuevo sobre mi decisión.",
+      "vi": "Tôi cần nghĩ lại về quyết định của mình."
+    },
+    "translations": {
+      "en": "think again",
+      "es": "pensar de nuevo",
+      "vi": "nghĩ lại"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:43:51.737Z",
+    "definitions": {
+      "en": "to reconsider or reflect on something",
+      "es": "reconsiderar o reflexionar sobre algo",
+      "vi": "suy nghĩ lại hoặc xem xét điều gì đó"
+    }
+  },
+  "updatedAt": "2026-03-03T09:47:12.592Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:09:29.189Z",
+    "content": {
+      "sentence": "Tôi cần ___ quyết định này.",
+      "answer": "nghĩ lại",
+      "word": "nghĩ lại",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "think again"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need to think again about this decision."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:09:29.189Z",
+    "id": "5bfb8b18-b070-49c9-a04d-45f0d99c9e99"
+  },
+  "exampleSentencesTranslated": [
+    "I need time to think again about my decision.",
+    "I will think again before answering that important question.",
+    "I often think again about everything that happened yesterday."
+  ],
+  "definition": "think again",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nghĩ lại** = to think again, to reconsider. You use it when you want to review a decision or idea before confirming it.\n\nIt’s a verb, often used when someone changes their mind or takes more time to reflect.  \n\nVery close to **suy nghĩ lại** or **cân nhắc lại** (more careful/serious tone). Opposite idea: decide immediately without reconsidering.",
+  "rank": 1975,
+  "choices": [
+    "nghỉ ngơi",
+    "nghĩ lại",
+    "nghe thấy"
+  ],
+  "notes": "nghĩ lại = to think again, to reconsider. You use it when you want to review a decision or idea before confirming it.\n\nIt’s a verb, often used when someone changes their mind or takes more time to reflect.  \n\nVery close to suy nghĩ lại or cân nhắc lại (more careful/serious tone). Opposite idea: decide immediately without reconsidering.",
+  "exampleSentences": [
+    "Em cần thời gian để nghĩ lại về quyết định của mình.",
+    "Anh sẽ nghĩ lại trước khi trả lời câu hỏi quan trọng đó.",
+    "Chị thường nghĩ lại mọi chuyện đã xảy ra trong ngày hôm qua."
+  ],
+  "word": "nghĩ lại",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:09:29.189Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I will think again before speaking."
+      },
+      "translatedAnswer": {
+        "en": "think again"
+      },
+      "choices": [
+        "đi lại",
+        "nghĩ lại",
+        "suy nghĩ"
+      ],
+      "language": "vi",
+      "word": "nghĩ lại",
+      "hint": "n____l",
+      "answer": "nghĩ lại",
+      "sentence": "Tôi sẽ ___ trước khi nói."
+    },
+    "updatedAt": "2025-03-12T15:09:29.189Z",
+    "id": "55f8d3bf-8d05-49eb-864d-e490c0be602d"
+  },
+  "_id": "ZZBjvFcidMhwimQiVzLM"
+}

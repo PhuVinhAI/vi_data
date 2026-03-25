@@ -1,0 +1,99 @@
+{
+  "word": "sân bay",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2228,
+  "choices": [
+    "nhà ga",
+    "sân bay",
+    "bến xe"
+  ],
+  "notes_md": "**Sân bay** means **airport** — the place where planes take off and land.\n\nIt’s a noun. You can count it with **cái**: *một cái sân bay*. Common pairings: **đến sân bay**, **ra sân bay**, **ở sân bay**, **sân bay quốc tế** (international), **sân bay nội địa** (domestic).\n\nA useful synonym is **phi trường**, which sounds more formal and is used more in the South — but **sân bay** is the everyday word.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:28:21.607Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "sân bay",
+      "sentence": "Chúng ta sẽ gặp nhau tại ___.",
+      "language": "vi",
+      "choices": [
+        "bến xe",
+        "sân bay",
+        "nhà ga"
+      ],
+      "hint": "s___y",
+      "answer": "sân bay",
+      "translation": {
+        "en": "We will meet at the airport."
+      },
+      "translatedAnswer": {
+        "en": "airport"
+      }
+    },
+    "createdAt": "2025-03-12T13:28:21.607Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a46c65ad-fba6-4d16-a3b2-bd8acc299846"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh sẽ đón em ở sân bay vào lúc tám giờ tối nay.",
+    "Chị phải đến sân bay sớm để làm thủ tục chuyến bay.",
+    "Gia đình em thường đi sân bay mỗi khi có người thân về nước."
+  ],
+  "updatedAt": "2026-03-03T10:13:49.574Z",
+  "notes": "Sân bay means airport — the place where planes take off and land.\n\nIt’s a noun. You can count it with cái: một cái sân bay. Common pairings: đến sân bay, ra sân bay, ở sân bay, sân bay quốc tế (international), sân bay nội địa (domestic).\n\nA useful synonym is phi trường, which sounds more formal and is used more in the South — but sân bay is the everyday word.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nơi mà máy bay thường xuyên cất cánh và hạ cánh.",
+      "es": "Un lugar donde los aviones despegan y aterrizan regularmente.",
+      "en": "A place where aircraft regularly take off and land."
+    },
+    "example": {
+      "es": "Llegaré al aeropuerto a las 3 en punto.",
+      "vi": "Tôi sẽ đến sân bay lúc 3 giờ.",
+      "en": "I will arrive at the airport at 3 o'clock."
+    },
+    "translations": {
+      "vi": "sân bay",
+      "es": "aeropuerto",
+      "en": "airport"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:08:16.170Z"
+  },
+  "definition": "airport",
+  "exampleSentencesTranslated": [
+    "I will pick you up at the airport at eight tonight.",
+    "She has to go to the airport early to check in for her flight.",
+    "My family usually goes to the airport whenever a relative returns from abroad."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:28:21.607Z",
+    "type": "fillBlankQuiz",
+    "id": "00045fd2-2375-429c-9edf-ec4a47d9c1f4",
+    "content": {
+      "translatedAnswer": {
+        "en": "airport"
+      },
+      "translation": {
+        "en": "I go to the airport in the morning."
+      },
+      "answer": "sân bay",
+      "choices": [],
+      "sentence": "Tôi đi đến ___ vào buổi sáng.",
+      "language": "vi",
+      "word": "sân bay"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:28:21.607Z"
+  },
+  "_id": "AYKQ3vxsJluE8kC8TqTB"
+}

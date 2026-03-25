@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:47:14.471Z",
+  "exampleSentences": [
+    "Anh muốn uống một tách cà phê vào buổi sáng.",
+    "Chị có thể lấy giúp em một tách trà được không?",
+    "Mỗi người trong nhóm đều có một tách nước riêng."
+  ],
+  "notes": "tách usually means a cup (small, often with a handle), especially for coffee or tea. It’s a countable noun: một tách, hai tách.\n\nIt’s typically smaller and more “formal” than cốc (which can be a bigger glass or mug). Common pairings are tách cà phê, tách trà.\n\nVery common second meaning: tách (verb) = to separate or split something apart.  \n\nThink: tách = small cup ☕, or the action of pulling things apart.",
+  "definition": "cup",
+  "flashcard": {
+    "definitions": {
+      "en": "To separate or divide something into parts.",
+      "vi": "Tách ra hoặc chia một cái gì đó thành các phần.",
+      "es": "Separar o dividir algo en partes."
+    },
+    "example": {
+      "en": "I will separate the water from the flour.",
+      "vi": "Tôi sẽ tách nước ra khỏi bột.",
+      "es": "Voy a separar el agua de la harina."
+    },
+    "translations": {
+      "en": "separate",
+      "es": "separar",
+      "vi": "tách"
+    },
+    "createdAt": "2025-01-28T13:07:44.571Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I want to drink a cup of coffee in the morning.",
+    "Can you get me a cup of tea?",
+    "Each person in the group has their own cup of water."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b321c00d-eaa0-4c3e-b35d-57dbc37992c1",
+    "content": {
+      "answer": "tách",
+      "translatedAnswer": {
+        "en": "cup"
+      },
+      "translation": {
+        "en": "I want to drink a cup of tea."
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn uống ___ trà.",
+      "word": "tách",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:33:06.706Z",
+    "updatedAt": "2025-03-12T15:33:06.706Z"
+  },
+  "word": "tách",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tách** usually means a *cup* (small, often with a handle), especially for coffee or tea. It’s a countable noun: *một tách, hai tách*.\n\nIt’s typically smaller and more “formal” than **cốc** (which can be a bigger glass or mug). Common pairings are *tách cà phê, tách trà*.\n\nVery common second meaning: **tách** (verb) = to separate or split something apart.  \n\nThink: *tách* = small cup ☕, or the action of pulling things apart.",
+  "choices": [
+    "bát",
+    "tách",
+    "ly"
+  ],
+  "rank": 1415,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:33:06.706Z",
+    "id": "316a1526-cbff-4ffb-b18c-4d9016625933",
+    "content": {
+      "choices": [
+        "cốc",
+        "tách",
+        "bát"
+      ],
+      "sentence": "Tôi muốn uống ___ trà.",
+      "language": "vi",
+      "word": "tách",
+      "translatedAnswer": {
+        "en": "cup"
+      },
+      "translation": {
+        "en": "I want to drink a cup of tea."
+      },
+      "answer": "tách",
+      "hint": "t___h"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:33:06.706Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "fbCgk5q8eWBefNzKqXgr"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh luôn muốn đóng góp cho cộng đồng nơi mình sinh sống.",
+    "Chị tham gia nhiều hoạt động tình nguyện để giúp cộng đồng.",
+    "Em cảm thấy tự hào khi là thành viên của cộng đồng này."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:10:31.684Z",
+    "updatedAt": "2025-03-12T13:10:31.684Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "community"
+      },
+      "language": "vi",
+      "word": "cộng đồng",
+      "hint": "c___ đồng",
+      "translation": {
+        "en": "I participate in the local community."
+      },
+      "choices": [
+        "cộng đồng",
+        "nghiệp đoàn",
+        "hội nhóm"
+      ],
+      "answer": "cộng đồng",
+      "sentence": "Tôi tham gia vào ___ địa phương."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "f521a7e5-03f6-41ee-97ba-bd55c6d3e9cc"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Nuestra comunidad está muy unida.",
+      "en": "Our community is very united.",
+      "vi": "Cộng đồng của chúng ta rất đoàn kết."
+    },
+    "translations": {
+      "vi": "cộng đồng",
+      "en": "community",
+      "es": "comunidad"
+    },
+    "createdAt": "2025-01-28T10:51:42.361Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un grupo de personas que viven en el mismo lugar o que tienen una característica particular en común.",
+      "en": "A group of people living in the same place or having a particular characteristic in common.",
+      "vi": "Một nhóm người sống ở cùng một nơi hoặc có một đặc điểm chung."
+    }
+  },
+  "rank": 429,
+  "definition": "community",
+  "word": "cộng đồng",
+  "choices": [
+    "cộng đồng",
+    "quốc gia",
+    "gia đình"
+  ],
+  "notes": "cộng đồng = community — a group of people who live together or share something (place, interest, identity).\n\nIt’s a noun. You can say một cộng đồng (one community) or talk about specific types: cộng đồng địa phương (local community), cộng đồng mạng (online community).  \n\nIt often goes with verbs like xây dựng, hỗ trợ, phục vụ, gắn kết.  \n\nClose idea: xã hội = society (bigger, more general); cộng đồng feels smaller and more connected.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He always wants to contribute to the community where he lives.",
+    "She participates in many volunteer activities to help the community.",
+    "I feel proud to be a member of this community."
+  ],
+  "notes_md": "**cộng đồng** = community — a group of people who live together or share something (place, interest, identity).\n\nIt’s a noun. You can say *một cộng đồng* (one community) or talk about specific types: *cộng đồng địa phương* (local community), *cộng đồng mạng* (online community).  \n\nIt often goes with verbs like *xây dựng*, *hỗ trợ*, *phục vụ*, *gắn kết*.  \n\n\nClose idea: *xã hội* = society (bigger, more general); *cộng đồng* feels smaller and more connected.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:10:31.684Z",
+    "updatedAt": "2025-03-12T13:10:31.684Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta cần xây dựng ___ mạnh mẽ.",
+      "answer": "cộng đồng",
+      "choices": [],
+      "translation": {
+        "en": "We need to build a strong community."
+      },
+      "word": "cộng đồng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "community"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "965c302f-0d57-4580-aa05-57564a2ad403"
+  },
+  "updatedAt": "2026-03-03T07:05:13.008Z",
+  "_id": "5XvZaUSoNA9AL0PueYmq"
+}

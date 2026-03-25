@@ -1,0 +1,99 @@
+{
+  "word": "tổ chức",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 593,
+  "choices": [
+    "tổ chức",
+    "kết quả",
+    "chương trình"
+  ],
+  "notes_md": "**tổ chức** usually means **organization** — a group of people working together for a goal. It’s a countable noun: *một tổ chức, các tổ chức*.\n\nIt’s also a very common **verb** meaning **to organize / to arrange** something like an event or activity.\n\n\nAs a noun, it’s close to **hội** (association) or sometimes **cơ quan** (agency, more official). As a verb, it’s similar to **sắp xếp**, but *tổ chức* sounds more planned and structured.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:26:26.068Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "công ty",
+        "tổ chức",
+        "đơn vị"
+      ],
+      "sentence": "Chúng ta cần ___ cho sự kiện này.",
+      "language": "vi",
+      "word": "tổ chức",
+      "translatedAnswer": {
+        "en": "organization"
+      },
+      "translation": {
+        "en": "We need an organization for this event."
+      },
+      "hint": "t___c",
+      "answer": "tổ chức"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:26:26.068Z",
+    "id": "957bdc12-8956-4e21-a61a-b026891a828a"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đang làm việc cho một tổ chức phi lợi nhuận lớn ở Hà Nội.",
+    "Chị muốn tham gia vào tổ chức từ thiện để giúp đỡ người nghèo.",
+    "Em đã được mời đến sự kiện do tổ chức quốc tế này chuẩn bị."
+  ],
+  "updatedAt": "2026-03-03T07:21:30.379Z",
+  "notes": "tổ chức usually means organization — a group of people working together for a goal. It’s a countable noun: một tổ chức, các tổ chức.\n\nIt’s also a very common verb meaning to organize / to arrange something like an event or activity.\n\nAs a noun, it’s close to hội (association) or sometimes cơ quan (agency, more official). As a verb, it’s similar to sắp xếp, but tổ chức sounds more planned and structured.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:06:48.168Z",
+    "translations": {
+      "es": "organizar",
+      "vi": "tổ chức",
+      "en": "organize"
+    },
+    "example": {
+      "en": "We will organize a party this weekend.",
+      "es": "Vamos a organizar una fiesta este fin de semana.",
+      "vi": "Chúng tôi sẽ tổ chức một buổi tiệc vào cuối tuần này."
+    },
+    "definitions": {
+      "en": "To arrange or coordinate an event or activity.",
+      "vi": "Sắp xếp hoặc phối hợp một sự kiện hoặc hoạt động.",
+      "es": "Organizar o coordinar un evento o actividad."
+    }
+  },
+  "definition": "organization",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "organization"
+      },
+      "translation": {
+        "en": "We need an organization for this event."
+      },
+      "answer": "tổ chức",
+      "choices": [],
+      "sentence": "Chúng ta cần ___ cho sự kiện này.",
+      "language": "vi",
+      "word": "tổ chức"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:26:26.068Z",
+    "id": "239a0357-7a26-4592-8919-10b5dabb2860",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:26:26.068Z"
+  },
+  "exampleSentencesTranslated": [
+    "He is working for a large non-profit organization in Hanoi.",
+    "She wants to join a charity organization to help poor people.",
+    "I was invited to an event organized by this international organization."
+  ],
+  "_id": "A4bVUpx2rqemTw9zFUYv"
+}

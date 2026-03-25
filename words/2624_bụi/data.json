@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Cây bị phủ đầy ___.",
+      "answer": "bụi",
+      "word": "bụi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "dust"
+      },
+      "choices": [],
+      "translation": {
+        "en": "The tree is covered with dust."
+      }
+    },
+    "updatedAt": "2025-03-12T17:20:02.913Z",
+    "createdAt": "2025-03-12T17:20:02.913Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "5104ed87-392d-4e3e-9c19-9c92c4c49a8d"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:29:37.521Z",
+  "exampleSentencesTranslated": [
+    "I just wiped the table but there is still a lot of dust on the surface.",
+    "She gets allergies whenever there is a lot of dust in the room.",
+    "You should close the window so dust does not come into the house."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "There is a lot of dust in the air.",
+      "es": "Hay mucho polvo en el aire.",
+      "vi": "Trong không khí có nhiều bụi."
+    },
+    "translations": {
+      "en": "dust",
+      "es": "polvo",
+      "vi": "bụi"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A fine, dry powder that can be easily blown away.",
+      "es": "Un polvo fino y seco que se puede soplar fácilmente.",
+      "vi": "Một loại bột mịn, khô có thể bị thổi bay dễ dàng."
+    },
+    "createdAt": "2025-01-28T12:31:43.773Z"
+  },
+  "notes_md": "**bụi** = dust, the tiny dry particles that sit on surfaces or float in the air.  \n\nIt’s an uncountable noun, but you can say **hạt bụi** (a speck of dust) or **lớp bụi** (a layer of dust). Common pairings: **bụi bẩn** (dirt and dust), **bụi đường** (road dust).  \n\nIt also means a small bush or cluster of plants: **bụi cây** = a bush (think “a clump of”).  \n\nTo remember: *bụi* is the light, powdery stuff; for bigger, wetter dirt, Vietnamese uses **bùn** (mud).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "dust",
+  "choices": [
+    "bụi",
+    "mưa",
+    "gió"
+  ],
+  "rank": 2624,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "dust"
+      },
+      "choices": [
+        "bụi",
+        "lá",
+        "hoa"
+      ],
+      "translation": {
+        "en": "The tree is covered with dust."
+      },
+      "sentence": "Cây bị phủ đầy ___.",
+      "hint": "b___",
+      "answer": "bụi",
+      "language": "vi",
+      "word": "bụi"
+    },
+    "updatedAt": "2025-03-12T17:20:02.913Z",
+    "createdAt": "2025-03-12T17:20:02.913Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "abe29a69-a2d6-48eb-af31-f033af0e6aad"
+  },
+  "exampleSentences": [
+    "Anh vừa lau bàn nhưng vẫn còn nhiều bụi trên mặt bàn.",
+    "Chị bị dị ứng mỗi khi có nhiều bụi trong phòng.",
+    "Em nên đóng cửa sổ để bụi không bay vào nhà."
+  ],
+  "notes": "bụi = dust, the tiny dry particles that sit on surfaces or float in the air.  \n\nIt’s an uncountable noun, but you can say hạt bụi (a speck of dust) or lớp bụi (a layer of dust). Common pairings: bụi bẩn (dirt and dust), bụi đường (road dust).  \n\nIt also means a small bush or cluster of plants: bụi cây = a bush (think “a clump of”).  \n\nTo remember: bụi is the light, powdery stuff; for bigger, wetter dirt, Vietnamese uses bùn (mud).",
+  "word": "bụi",
+  "_id": "WaxgSpvNxScRemTBYiHA"
+}

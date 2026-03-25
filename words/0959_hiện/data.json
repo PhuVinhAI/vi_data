@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:09:48.897Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "hiện",
+      "language": "vi",
+      "word": "hiện",
+      "choices": [],
+      "translation": {
+        "en": "We need to present this information."
+      },
+      "translatedAnswer": {
+        "en": "present"
+      },
+      "sentence": "Chúng ta cần ___ thông tin này."
+    },
+    "id": "3bb0866d-d561-4590-8205-1236427939ab",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:09:48.897Z"
+  },
+  "word": "hiện",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:09:48.897Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "hiện",
+        "điều",
+        "sự"
+      ],
+      "answer": "hiện",
+      "word": "hiện",
+      "hint": "h____",
+      "translation": {
+        "en": "They need to present this issue."
+      },
+      "translatedAnswer": {
+        "en": "present"
+      },
+      "sentence": "Họ cần ___ vấn đề này."
+    },
+    "id": "1d68f935-50bf-4d69-b97d-cbe8baee1b05",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:09:48.897Z"
+  },
+  "definition": "present",
+  "rank": 959,
+  "notes_md": "**hiện** usually means **present / current**, but by itself it’s rarely used alone. You’ll mostly see it inside common word pairs.\n\nAs a verb idea, it relates to **appearing or showing up**: *xuất hiện* (appear), *hiện ra* (become visible).  \n\nIt also forms verbs about making things real or visible: *thực hiện* (carry out), *thể hiện* (express), *phát hiện* (discover).  \n\nAs an adjective idea, it shows “current” in *hiện tại* (the present, now).",
+  "updatedAt": "2026-03-03T07:57:57.183Z",
+  "exampleSentencesTranslated": [
+    "He is not present at the meeting because he is busy with other things.",
+    "Can you tell me who is present in class today?",
+    "I want to ask about the issues that are present in the company now."
+  ],
+  "exampleSentences": [
+    "Anh ấy không có mặt tại cuộc họp hiện tại vì bận việc khác.",
+    "Chị có thể cho em biết ai đang hiện trong lớp hôm nay không?",
+    "Em muốn hỏi về các vấn đề đang hiện ở công ty bây giờ."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hiện",
+    "học",
+    "hẹn"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "hiện",
+      "es": "presente",
+      "en": "present"
+    },
+    "example": {
+      "vi": "Hiện tại, tôi đang học tiếng Anh.",
+      "en": "Currently, I am studying English.",
+      "es": "Actualmente, estoy estudiando inglés."
+    },
+    "definitions": {
+      "en": "Present, current, or existing.",
+      "es": "Presente, actual o existente.",
+      "vi": "Hiện tại, hiện hữu hoặc đang tồn tại."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:41:54.576Z"
+  },
+  "notes": "hiện usually means present / current, but by itself it’s rarely used alone. You’ll mostly see it inside common word pairs.\n\nAs a verb idea, it relates to appearing or showing up: xuất hiện (appear), hiện ra (become visible).  \n\nIt also forms verbs about making things real or visible: thực hiện (carry out), thể hiện (express), phát hiện (discover).  \n\nAs an adjective idea, it shows “current” in hiện tại (the present, now).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "ox4Jww60oy0w2Yz58gS2"
+}

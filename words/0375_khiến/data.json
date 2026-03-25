@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "khiến",
+    "giữ",
+    "giúp"
+  ],
+  "rank": 375,
+  "multiChoiceQuiz": {
+    "id": "949ad416-81e4-4fda-bebf-44d97f8c56ac",
+    "updatedAt": "2025-03-12T15:02:36.217Z",
+    "content": {
+      "sentence": "Cơn mưa ___ tôi ướt.",
+      "word": "khiến",
+      "language": "vi",
+      "answer": "khiến",
+      "hint": "k____n",
+      "translatedAnswer": {
+        "en": "makes"
+      },
+      "choices": [
+        "làm",
+        "khiến",
+        "giúp"
+      ],
+      "translation": {
+        "en": "The rain makes me wet."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:02:36.217Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "khiến",
+  "notes": "khiến = to cause, to make something happen (often a result or reaction). It’s used when one thing leads to a feeling, action, or situation.\n\nIt links a cause to a result, often emotional or negative, but not always. Stronger and a bit more formal than làm (cho).\n\nYou’ll often see it with feelings, changes, problems, or consequences.",
+  "exampleSentences": [
+    "Anh ấy nói chuyện hài hước khiến em cười rất nhiều mỗi ngày.",
+    "Thời tiết lạnh khiến chị phải mặc thêm áo khoác khi ra ngoài.",
+    "Bài hát này khiến anh nhớ lại kỷ niệm thời còn đi học."
+  ],
+  "exampleSentencesTranslated": [
+    "His funny stories cause me to laugh a lot every day.",
+    "The cold weather cause her to wear an extra jacket when going out.",
+    "This song cause him to remember memories from school days."
+  ],
+  "fillBlankQuiz": {
+    "id": "ff6500a2-e71f-45b3-a52c-21d73ddbe7a4",
+    "content": {
+      "answer": "khiến",
+      "word": "khiến",
+      "language": "vi",
+      "sentence": "Cơn mưa ___ tôi ướt.",
+      "translation": {
+        "en": "The rain makes me wet."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "makes"
+      }
+    },
+    "updatedAt": "2025-03-12T15:02:36.217Z",
+    "createdAt": "2025-03-12T15:02:36.217Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:59:42.205Z",
+  "flashcard": {
+    "example": {
+      "en": "She makes me feel happy.",
+      "es": "Ella me hace sentir feliz.",
+      "vi": "Cô ấy khiến tôi cảm thấy hạnh phúc."
+    },
+    "translations": {
+      "en": "makes",
+      "es": "hace",
+      "vi": "khiến"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "to cause or make something happen",
+      "es": "causar o hacer que algo suceda",
+      "vi": "gây ra hoặc làm cho điều gì đó xảy ra"
+    },
+    "createdAt": "2025-01-28T12:35:14.574Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**khiến** = to cause, to make something happen (often a result or reaction). It’s used when one thing leads to a feeling, action, or situation.\n\nIt links a cause to a result, often emotional or negative, but not always. Stronger and a bit more formal than **làm (cho)**.\n\n\nYou’ll often see it with feelings, changes, problems, or consequences.",
+  "definition": "cause",
+  "_id": "XeReN3aq4ekdaWAqmBTy"
+}

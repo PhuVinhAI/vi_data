@@ -1,0 +1,99 @@
+{
+  "word": "tinh",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tinh",
+    "tình",
+    "kinh"
+  ],
+  "rank": 2118,
+  "notes_md": "**tinh** = essence, the core or most refined part of something. On its own, it’s rarely used in conversation; you’ll mostly see it inside compound words.\n\nAs a noun element, it shows up in words like **tinh thần** (spirit), **tinh túy** (essence/best part), **tinh dầu** (essential oil), **tinh chất** (extract/serum). It gives the idea of something pure, concentrated, or fundamental.\n\nAs an adjective, **tinh** can mean sharp or perceptive (like sharp eyes or ears), or pure/refined depending on the word it combines with. Think of it as “refined to the core.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:26:02.654Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:26:02.654Z",
+    "content": {
+      "sentence": "Cô ấy rất ___ khi nấu ăn.",
+      "language": "vi",
+      "word": "tinh",
+      "choices": [
+        "khéo",
+        "tinh",
+        "hài hước"
+      ],
+      "answer": "tinh",
+      "hint": "t___n",
+      "translatedAnswer": {
+        "en": "skilled"
+      },
+      "translation": {
+        "en": "She is very skilled at cooking."
+      }
+    },
+    "id": "6430b9d4-4d83-4dcf-9167-1ce31fcf6cee",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh muốn hiểu rõ tinh của vấn đề này để giải quyết tốt hơn.",
+    "Nước hoa này có mùi tinh rất đặc biệt và cuốn hút.",
+    "Trong mỗi câu chuyện, em luôn cố gắng cảm nhận tinh của thông điệp."
+  ],
+  "updatedAt": "2026-03-03T10:02:11.176Z",
+  "notes": "tinh = essence, the core or most refined part of something. On its own, it’s rarely used in conversation; you’ll mostly see it inside compound words.\n\nAs a noun element, it shows up in words like tinh thần (spirit), tinh túy (essence/best part), tinh dầu (essential oil), tinh chất (extract/serum). It gives the idea of something pure, concentrated, or fundamental.\n\nAs an adjective, tinh can mean sharp or perceptive (like sharp eyes or ears), or pure/refined depending on the word it combines with. Think of it as “refined to the core.”",
+  "definition": "essence",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:06:28.047Z",
+    "translations": {
+      "vi": "tình",
+      "es": "amor",
+      "en": "love"
+    },
+    "example": {
+      "es": "El amor es lo más maravilloso.",
+      "vi": "Tình yêu là điều tuyệt vời nhất.",
+      "en": "Love is the most wonderful thing."
+    },
+    "definitions": {
+      "es": "Un sentimiento de profundo afecto o apego.",
+      "vi": "Một cảm giác yêu thương sâu sắc hoặc gắn bó.",
+      "en": "A feeling of deep affection or attachment."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I want to understand the essence of this problem to solve it better.",
+    "This perfume has a very special and attractive essence.",
+    "In every story, I always try to feel the essence of the message."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:26:02.654Z",
+    "id": "cc32b4dc-723a-44f1-8aaa-32fbb5226b75",
+    "createdAt": "2025-03-12T13:26:02.654Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "tinh",
+      "sentence": "Tôi ___ yêu thích âm nhạc.",
+      "language": "vi",
+      "translation": {
+        "en": "I love music."
+      },
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "answer": "tinh"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "_id": "9x7fo6nRYLTWlXuRRjlt"
+}

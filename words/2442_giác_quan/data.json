@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "giác quan",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:18:51.997Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2eae4986-ba87-4d5c-9bce-1c8b7c868db6",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta có ___ khác nhau.",
+      "language": "vi",
+      "answer": "giác quan",
+      "word": "giác quan",
+      "translatedAnswer": {
+        "en": "senses"
+      },
+      "translation": {
+        "en": "We have different senses."
+      }
+    },
+    "updatedAt": "2025-03-12T16:18:51.997Z"
+  },
+  "definition": "sense",
+  "multiChoiceQuiz": {
+    "id": "a072e560-70c1-400e-9004-77ecf72a1cfd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:18:51.997Z",
+    "updatedAt": "2025-03-12T16:18:51.997Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "g___n",
+      "translation": {
+        "en": "She develops her senses."
+      },
+      "translatedAnswer": {
+        "en": "senses"
+      },
+      "language": "vi",
+      "choices": [
+        "giác quan",
+        "tinh thần",
+        "hành vi"
+      ],
+      "answer": "giác quan",
+      "word": "giác quan",
+      "sentence": "Cô ấy phát triển ___ của mình."
+    }
+  },
+  "notes_md": "**Giác quan** means a physical *sense* (like sight, hearing, smell, taste, touch). It refers to how your body receives information from the world.\n\nIt’s a countable noun: *một giác quan, năm giác quan*. Common pairings: *giác quan nhạy bén* (sharp senses), *mất giác quan*, *kích thích giác quan*.  \n\nOften used when talking about biology, the human body, or perception in general.  \n\nRelated word: *cảm giác* = feeling/sensation (more about what you feel, not the sense organ/system itself).",
+  "rank": 2442,
+  "exampleSentencesTranslated": [
+    "He feels his sense is sharper in the morning.",
+    "She thinks the most important sense of humans is sight.",
+    "I am learning about the five sense in science class today."
+  ],
+  "updatedAt": "2026-03-03T10:35:57.040Z",
+  "flashcard": {
+    "translations": {
+      "vi": "giác quan",
+      "en": "sense",
+      "es": "sentido"
+    },
+    "example": {
+      "es": "Cada sentido nos ayuda a percibir el mundo que nos rodea.",
+      "en": "Each sense helps us perceive the world around us.",
+      "vi": "Mỗi giác quan giúp chúng ta cảm nhận thế giới xung quanh."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:50:06.639Z",
+    "definitions": {
+      "vi": "Các khả năng mà cơ thể cảm nhận một kích thích bên ngoài.",
+      "es": "Las facultades por las que el cuerpo percibe un estímulo externo.",
+      "en": "The faculties by which the body perceives an external stimulus."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "giác quan",
+    "cảm xúc",
+    "trí nhớ"
+  ],
+  "exampleSentences": [
+    "Anh cảm thấy giác quan của mình nhạy bén hơn vào buổi sáng.",
+    "Chị nghĩ giác quan quan trọng nhất của con người là thị giác.",
+    "Em đang học về năm giác quan trong lớp khoa học hôm nay."
+  ],
+  "notes": "Giác quan means a physical sense (like sight, hearing, smell, taste, touch). It refers to how your body receives information from the world.\n\nIt’s a countable noun: một giác quan, năm giác quan. Common pairings: giác quan nhạy bén (sharp senses), mất giác quan, kích thích giác quan.  \n\nOften used when talking about biology, the human body, or perception in general.  \n\nRelated word: cảm giác = feeling/sensation (more about what you feel, not the sense organ/system itself).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "rHvL56b2Qo4iD5MYddXr"
+}

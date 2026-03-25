@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh muốn gia nhập câu lạc bộ bóng đá cùng bạn bè vào cuối tuần.",
+    "Em có cần điều kiện gì đặc biệt để gia nhập nhóm học tiếng Anh không?",
+    "Chị rất vui khi được gia nhập công ty mới vào tháng sau."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:01:40.862Z",
+    "updatedAt": "2025-03-12T13:01:40.862Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2ef16cec-d922-4ef2-959c-f0ad69c9cdc5",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có muốn ___ công ty không?",
+      "answer": "gia nhập",
+      "translation": {
+        "en": "Do you want to join the company?"
+      },
+      "choices": [
+        "gia nhập",
+        "tham gia",
+        "đăng ký"
+      ],
+      "hint": "g___n",
+      "word": "gia nhập",
+      "translatedAnswer": {
+        "en": "join"
+      },
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To become a member of a group or organization.",
+      "vi": "Trở thành thành viên của một nhóm hoặc tổ chức.",
+      "es": "Convertirse en miembro de un grupo u organización."
+    },
+    "createdAt": "2025-01-28T10:44:32.657Z",
+    "example": {
+      "en": "I want to join this club.",
+      "vi": "Tôi muốn gia nhập câu lạc bộ này.",
+      "es": "Quiero unirme a este club."
+    },
+    "translations": {
+      "es": "unir",
+      "en": "join",
+      "vi": "gia nhập"
+    }
+  },
+  "definition": "join",
+  "rank": 2011,
+  "word": "gia nhập",
+  "choices": [
+    "gia nhập",
+    "rời khỏi",
+    "tham quan"
+  ],
+  "notes": "Gia nhập means to join or to become a member of a group, organization, team, or company.\n\nIt’s a formal verb, often used for clubs, organizations, parties, the army, companies, or communities. You usually use it with a specific group name after it.\n\nIt feels more official than tham gia (which is more like “participate in”). Opposite idea: rời khỏi (leave).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I want to join the football club with friends on the weekend.",
+    "Do you need any special requirements to join the English study group?",
+    "I am very happy to join the new company next month."
+  ],
+  "notes_md": "**Gia nhập** means *to join* or *to become a member of* a group, organization, team, or company.\n\nIt’s a formal verb, often used for clubs, organizations, parties, the army, companies, or communities. You usually use it with a specific group name after it.\n\n\nIt feels more official than **tham gia** (which is more like “participate in”). Opposite idea: **rời khỏi** (leave).",
+  "fillBlankQuiz": {
+    "id": "3d20ca33-68d7-4251-ac66-38e20822e01f",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "gia nhập",
+      "sentence": "Tôi muốn ___ đội bóng này.",
+      "word": "gia nhập",
+      "translatedAnswer": {
+        "en": "join"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I want to join this team."
+      },
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:01:40.862Z",
+    "updatedAt": "2025-03-12T13:01:40.862Z"
+  },
+  "updatedAt": "2026-03-03T09:50:51.092Z",
+  "_id": "3MS8lh6EE4Mf0EeQ0kr0"
+}

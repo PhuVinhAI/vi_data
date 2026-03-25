@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:51:20.012Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "303ea2ef-96b2-45ce-8c07-9025e4067e7a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:11:38.971Z",
+    "updatedAt": "2025-03-12T15:11:38.971Z",
+    "content": {
+      "translation": {
+        "en": "I want to find a place to sit."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "place"
+      },
+      "language": "vi",
+      "word": "chỗ",
+      "answer": "chỗ",
+      "sentence": "Tôi muốn tìm ___ ngồi."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Do you know a place that sells good coffee nearby?",
+    "Please leave your bag in this place for safety.",
+    "I am looking for a quiet place to study this afternoon."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need to find a place to sit.",
+      "es": "Necesito encontrar un lugar para sentarme.",
+      "vi": "Tôi cần tìm một chỗ ngồi."
+    },
+    "translations": {
+      "en": "place",
+      "es": "lugar",
+      "vi": "chỗ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A place or spot.",
+      "es": "Un lugar o sitio.",
+      "vi": "Một địa điểm hoặc vị trí."
+    },
+    "createdAt": "2025-01-28T12:45:59.264Z"
+  },
+  "notes_md": "**Chỗ** means *place* or *spot* — a location, position, or seat.\n\nIt’s a noun. You often use it with words like *này, kia, đó, nào* to point to a specific place. It can be counted with classifiers like *một chỗ, hai chỗ* (often for seats or spaces).\n\nIt’s very flexible: it can mean a physical location, a seat, or even a “spot” in an abstract sense (like a weak point).\n\nClose words: *nơi* (more formal, neutral “place”), *vị trí* (more specific “position/location”).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "place",
+  "choices": [
+    "chỗ",
+    "giờ",
+    "món"
+  ],
+  "rank": 298,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "593a1a39-c715-42b5-8180-a70e85b23a85",
+    "updatedAt": "2025-03-12T15:11:38.971Z",
+    "content": {
+      "translation": {
+        "en": "I want to find a place to sit."
+      },
+      "translatedAnswer": {
+        "en": "place"
+      },
+      "choices": [
+        "chỗ",
+        "cái",
+        "địa điểm"
+      ],
+      "word": "chỗ",
+      "language": "vi",
+      "hint": "ch___",
+      "answer": "chỗ",
+      "sentence": "Tôi muốn tìm ___ ngồi."
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:11:38.971Z"
+  },
+  "exampleSentences": [
+    "Anh có biết chỗ nào bán cà phê ngon gần đây không?",
+    "Chị hãy để túi xách ở chỗ này cho an toàn nhé.",
+    "Em đang tìm một chỗ yên tĩnh để học bài chiều nay."
+  ],
+  "notes": "Chỗ means place or spot — a location, position, or seat.\n\nIt’s a noun. You often use it with words like này, kia, đó, nào to point to a specific place. It can be counted with classifiers like một chỗ, hai chỗ (often for seats or spaces).\n\nIt’s very flexible: it can mean a physical location, a seat, or even a “spot” in an abstract sense (like a weak point).\n\nClose words: nơi (more formal, neutral “place”), vị trí (more specific “position/location”).",
+  "word": "chỗ",
+  "_id": "a4l4xRG66WEPYP9AgIJb"
+}

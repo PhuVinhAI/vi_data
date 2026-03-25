@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "mệt",
+    "vui",
+    "đói"
+  ],
+  "multiChoiceQuiz": {
+    "id": "5d34a7aa-4577-4a05-b78c-ba12603e5c26",
+    "createdAt": "2025-03-12T16:33:11.546Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi cảm thấy ___ sau một ngày làm việc.",
+      "hint": "m___t",
+      "word": "mệt",
+      "language": "vi",
+      "choices": [
+        "khỏe",
+        "mệt",
+        "vui"
+      ],
+      "answer": "mệt",
+      "translation": {
+        "en": "I feel tired after a day of work."
+      },
+      "translatedAnswer": {
+        "en": "tired"
+      }
+    },
+    "updatedAt": "2025-03-12T16:33:11.546Z"
+  },
+  "exampleSentences": [
+    "Sau khi làm việc cả ngày, anh cảm thấy rất mệt.",
+    "Em thường mệt vào buổi tối sau khi học xong.",
+    "Chị không muốn đi chơi hôm nay vì chị hơi mệt."
+  ],
+  "updatedAt": "2026-03-03T07:51:52.902Z",
+  "exampleSentencesTranslated": [
+    "After working all day, I feel very tired.",
+    "I am often tired in the evening after finishing studying.",
+    "I don't want to go out today because I am a little tired."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mệt",
+  "flashcard": {
+    "translations": {
+      "vi": "mệt",
+      "es": "cansado",
+      "en": "tired"
+    },
+    "definitions": {
+      "vi": "Cảm thấy cần nghỉ ngơi hoặc ngủ; mệt mỏi.",
+      "es": "Sentir la necesidad de descansar o dormir; fatigado.",
+      "en": "Feeling a need to rest or sleep; fatigued."
+    },
+    "example": {
+      "vi": "Tôi cảm thấy mệt sau một ngày làm việc.",
+      "en": "I feel tired after a day of work.",
+      "es": "Me siento cansado después de un día de trabajo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:04:35.823Z"
+  },
+  "notes": "mệt means tired or exhausted. It describes how your body or mind feels when you don’t have energy.\n\nIt’s an adjective, but in Vietnamese you don’t need “to be” — just say the subject + mệt. It describes people most often, but also parts of the body (mắt mệt, người mệt).\n\nYou can strengthen it with rất, quá, lắm. A stronger, slightly more formal word is mệt mỏi. Opposite: khỏe (healthy, well, energetic).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mệt** means *tired* or *exhausted*. It describes how your body or mind feels when you don’t have energy.\n\nIt’s an adjective, but in Vietnamese you don’t need “to be” — just say the subject + **mệt**. It describes people most often, but also parts of the body (mắt mệt, người mệt).\n\nYou can strengthen it with **rất**, **quá**, **lắm**. A stronger, slightly more formal word is **mệt mỏi**. Opposite: **khỏe** (healthy, well, energetic).",
+  "fillBlankQuiz": {
+    "id": "a6d2c1c8-b6ce-4384-b248-c4e1fbee1842",
+    "createdAt": "2025-03-12T16:33:11.546Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I feel very tired after running."
+      },
+      "answer": "mệt",
+      "translatedAnswer": {
+        "en": "tired"
+      },
+      "language": "vi",
+      "word": "mệt",
+      "sentence": "Tôi cảm thấy rất ___ sau khi chạy."
+    },
+    "updatedAt": "2025-03-12T16:33:11.546Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "tired",
+  "rank": 897,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uxJUXzdH56bOoV3h7ycI"
+}

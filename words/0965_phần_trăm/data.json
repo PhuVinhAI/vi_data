@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Giá tăng ___ so với năm ngoái.",
+      "translatedAnswer": {
+        "en": "percentage"
+      },
+      "answer": "phần trăm",
+      "translation": {
+        "en": "The price increased by a percentage compared to last year."
+      },
+      "word": "phần trăm",
+      "language": "vi"
+    },
+    "id": "967f164a-e809-4e89-ace5-27f7b16fdb04",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:48:17.064Z",
+    "updatedAt": "2025-03-12T15:48:17.064Z"
+  },
+  "choices": [
+    "phần trăm",
+    "phần mềm",
+    "phần thưởng"
+  ],
+  "exampleSentences": [
+    "Anh muốn biết phần trăm hoàn thành của dự án này.",
+    "Chị đã giảm được mười phần trăm trọng lượng sau ba tháng tập gym.",
+    "Em cần đạt ít nhất bảy mươi phần trăm điểm để qua môn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "phần trăm means percent — a number out of 100.\n\nIt’s a noun and usually comes after a number. You don’t need a classifier. In everyday use, it often describes quantity, results, discounts, interest rates, statistics.\n\nYou can also ask bao nhiêu phần trăm? = how many percent?  \nIn writing, it’s often replaced by the symbol %.",
+  "definition": "percent",
+  "rank": 965,
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "p___ tr___m",
+      "sentence": "Giá tăng ___ so với năm ngoái.",
+      "choices": [
+        "tỷ lệ",
+        "phần trăm",
+        "số lượng"
+      ],
+      "translatedAnswer": {
+        "en": "percentage"
+      },
+      "answer": "phần trăm",
+      "language": "vi",
+      "word": "phần trăm",
+      "translation": {
+        "en": "The price increased by a percentage compared to last year."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9efdde1f-fea7-43cf-92a5-2781c15ea27f",
+    "createdAt": "2025-03-12T15:48:17.064Z",
+    "updatedAt": "2025-03-12T15:48:17.064Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**phần trăm** means *percent* — a number out of 100.\n\nIt’s a noun and usually comes after a number. You don’t need a classifier. In everyday use, it often describes quantity, results, discounts, interest rates, statistics.\n\n\nYou can also ask **bao nhiêu phần trăm?** = how many percent?  \nIn writing, it’s often replaced by the symbol **%**.",
+  "exampleSentencesTranslated": [
+    "I want to know the percent completion of this project.",
+    "She lost ten percent of her weight after three months at the gym.",
+    "You need to get at least seventy percent of the points to pass the subject."
+  ],
+  "updatedAt": "2026-03-03T07:58:30.173Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã giảm cân được 10 phần trăm.",
+      "es": "He perdido el 10 por ciento de mi peso.",
+      "en": "I have lost 10 percent of my weight."
+    },
+    "definitions": {
+      "vi": "Phần trăm là một phân số của 100, thường được sử dụng để diễn tả mức độ của một cái gì đó so với toàn bộ.",
+      "es": "Un porcentaje es una fracción de 100, a menudo utilizado para expresar cuánto hay de algo en relación a un todo.",
+      "en": "A percentage is a fraction of 100, often used to express how much of something there is in relation to a whole."
+    },
+    "createdAt": "2025-01-28T13:20:52.543Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "percent",
+      "es": "porcentaje",
+      "vi": "phần trăm"
+    }
+  },
+  "word": "phần trăm",
+  "_id": "j0uzEKZXqG5PQBMEwEMh"
+}

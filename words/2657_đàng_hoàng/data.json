@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đàng hoàng",
+    "lịch sự",
+    "tốt bụng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "proper",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2657,
+  "exampleSentences": [
+    "Anh ấy luôn làm việc một cách đàng hoàng và chăm chỉ mỗi ngày.",
+    "Nếu em cư xử đàng hoàng, mọi người sẽ quý mến em hơn.",
+    "Chị muốn có một công việc đàng hoàng để giúp đỡ gia đình."
+  ],
+  "word": "đàng hoàng",
+  "flashcard": {
+    "translations": {
+      "vi": "đàng hoàng",
+      "es": "adecuadamente",
+      "en": "properly"
+    },
+    "createdAt": "2025-01-28T11:19:26.204Z",
+    "example": {
+      "en": "He always dresses properly when going to work.",
+      "es": "Él siempre se viste adecuadamente cuando va a trabajar.",
+      "vi": "Anh ấy luôn ăn mặc đàng hoàng khi đi làm."
+    },
+    "definitions": {
+      "es": "Comportarse de manera adecuada o respetable.",
+      "vi": "Hành xử một cách đúng mực hoặc tôn trọng.",
+      "en": "Behaving in a proper or respectable manner."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He always works in a proper way and is hardworking every day.",
+    "If you behave in a proper way, people will like you more.",
+    "I want to have a proper job to help my family."
+  ],
+  "multiChoiceQuiz": {
+    "id": "95720e59-a306-485c-b833-20780e10a975",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:40:39.225Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "properly"
+      },
+      "language": "vi",
+      "sentence": "Bạn nên ăn mặc ___ khi đi phỏng vấn.",
+      "word": "đàng hoàng",
+      "choices": [
+        "đàng hoàng",
+        "tùy ý",
+        "bình thường"
+      ],
+      "hint": "d___g",
+      "translation": {
+        "en": "You should dress properly when going for an interview."
+      },
+      "answer": "đàng hoàng"
+    },
+    "updatedAt": "2025-03-12T13:40:39.225Z"
+  },
+  "notes_md": "**đàng hoàng** = proper, decent, respectable. It describes someone or something that behaves or is done in a correct, acceptable way.\n\nIt’s an adjective, but often acts like an adverb after verbs to mean “properly” (làm đàng hoàng, ăn mặc đàng hoàng). It describes behavior, attitude, clothes, jobs, or the way you do something.  \n\nIt can also mean “serious / legitimate” (công việc đàng hoàng = a stable, respectable job).  \n\nClose synonyms: **tử tế** (kind, decent), **nghiêm túc** (serious). Opposite idea: **bậy bạ**, **không ra gì**.",
+  "updatedAt": "2026-03-03T11:32:56.032Z",
+  "notes": "đàng hoàng = proper, decent, respectable. It describes someone or something that behaves or is done in a correct, acceptable way.\n\nIt’s an adjective, but often acts like an adverb after verbs to mean “properly” (làm đàng hoàng, ăn mặc đàng hoàng). It describes behavior, attitude, clothes, jobs, or the way you do something.  \n\nIt can also mean “serious / legitimate” (công việc đàng hoàng = a stable, respectable job).  \n\nClose synonyms: tử tế (kind, decent), nghiêm túc (serious). Opposite idea: bậy bạ, không ra gì.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:40:39.225Z",
+    "content": {
+      "answer": "đàng hoàng",
+      "translation": {
+        "en": "You must behave properly at the party."
+      },
+      "choices": [],
+      "sentence": "Bạn phải cư xử ___ trong buổi tiệc.",
+      "word": "đàng hoàng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "properly"
+      }
+    },
+    "updatedAt": "2025-03-12T13:40:39.225Z",
+    "type": "fillBlankQuiz",
+    "id": "48f594e5-c081-4533-a3eb-f0a034267772",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "Daa8wtfq0mJdQWDDxFRV"
+}

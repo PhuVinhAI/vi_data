@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:37:04.048Z",
+  "exampleSentences": [
+    "Chị ơi, quán cà phê này mở cửa lúc mấy giờ à?",
+    "Anh vừa gọi điện cho em lúc nãy à?",
+    "Em muốn hỏi, đây là sách của anh à?"
+  ],
+  "notes": "à is a question particle you put at the end of a sentence to check or confirm something. It turns a statement into a soft yes/no question.\n\nYou add it after the full sentence, and your voice rises at the end.  \n\nIt often shows mild surprise, curiosity, or that you’re checking info you just heard. Very similar to hả, but à feels a bit more neutral and gentle.",
+  "flashcard": {
+    "translations": {
+      "en": "to",
+      "vi": "à",
+      "es": "a"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:38:18.354Z",
+    "definitions": {
+      "en": "A particle used to seek confirmation or agreement.",
+      "es": "Una partícula utilizada para buscar confirmación o acuerdo.",
+      "vi": "Một hạt được sử dụng để tìm kiếm sự xác nhận hoặc đồng ý."
+    },
+    "example": {
+      "vi": "Tôi đi đến trường à.",
+      "es": "Voy a la escuela, ¿verdad?",
+      "en": "I am going to school, right?"
+    }
+  },
+  "definition": "question particle",
+  "fillBlankQuiz": {
+    "id": "9ada4eac-1be0-4c5d-b5e6-5cb972b9f7f1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:04.749Z",
+    "content": {
+      "choices": [],
+      "sentence": "Cô ấy nói ___ tôi nghe.",
+      "language": "vi",
+      "word": "à",
+      "translatedAnswer": {
+        "en": "to"
+      },
+      "translation": {
+        "en": "She said to me."
+      },
+      "answer": "à"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:29:04.749Z"
+  },
+  "exampleSentencesTranslated": [
+    "Excuse me, what time does this coffee shop open question particle?",
+    "Did you just call me earlier question particle?",
+    "I want to ask, is this your book question particle?"
+  ],
+  "word": "à",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**à** is a question particle you put at the end of a sentence to check or confirm something. It turns a statement into a soft yes/no question.\n\nYou add it after the full sentence, and your voice rises at the end.  \n\nIt often shows mild surprise, curiosity, or that you’re checking info you just heard. Very similar to **hả**, but **à** feels a bit more neutral and gentle.",
+  "rank": 165,
+  "choices": [
+    "à",
+    "ạ",
+    "ơ"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:29:04.749Z",
+    "id": "b1401fc5-4306-4f01-80b6-ac6e1b569898",
+    "content": {
+      "choices": [
+        "à",
+        "às",
+        "À"
+      ],
+      "sentence": "Cô ấy nói ___ tôi nghe.",
+      "language": "vi",
+      "word": "à",
+      "translatedAnswer": {
+        "en": "to"
+      },
+      "translation": {
+        "en": "She said to me."
+      },
+      "hint": "à___à",
+      "answer": "à"
+    },
+    "createdAt": "2025-03-12T13:29:04.749Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "AeUkMxs0hrtZMc7L0nEa"
+}

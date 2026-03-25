@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:58:38.920Z",
+    "translations": {
+      "en": "every",
+      "vi": "hằng",
+      "es": "cada"
+    },
+    "example": {
+      "en": "Every day, I walk to school.",
+      "vi": "Hằng ngày, tôi đi bộ đến trường.",
+      "es": "Todos los días, camino a la escuela."
+    },
+    "definitions": {
+      "vi": "Một thuật ngữ được sử dụng để chỉ điều gì đó là cố định hoặc xảy ra thường xuyên.",
+      "es": "Un término utilizado para indicar algo que es constante o ocurre regularmente.",
+      "en": "A term used to indicate something that is constant or occurs regularly."
+    }
+  },
+  "definition": "always",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:18:08.418Z",
+    "type": "fillBlankQuiz",
+    "id": "f73aeb26-b90c-4183-ba3a-3eb78f94dec6",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:18:08.418Z",
+    "content": {
+      "choices": [],
+      "word": "hằng",
+      "language": "vi",
+      "sentence": "Hôm nay là ngày ___.",
+      "translation": {
+        "en": "Today is a regular day."
+      },
+      "translatedAnswer": {
+        "en": "regular"
+      },
+      "answer": "hằng"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Every morning, he always walks around the park for exercise.",
+    "She always reminds me to do my homework completely.",
+    "Friends always help each other when facing difficulties in life."
+  ],
+  "exampleSentences": [
+    "Mỗi sáng, anh hằng đi bộ quanh công viên để tập thể dục.",
+    "Chị hằng nhắc nhở em phải làm bài tập về nhà đầy đủ.",
+    "Bạn bè hằng giúp đỡ nhau khi gặp khó khăn trong cuộc sống."
+  ],
+  "updatedAt": "2026-03-03T18:21:49.996Z",
+  "notes": "hằng means always or constantly, often with a slightly formal or literary feel. It expresses something that happens regularly or without change.\n\nIt usually comes before a verb to show repeated or ongoing action. It’s more poetic than luôn (which is more everyday).\n\nYou’ll often see it in fixed phrases like hằng ngày (every day) or hằng năm (every year). Compared to luôn, hằng feels softer and less conversational.",
+  "rank": 3003,
+  "choices": [
+    "hằng",
+    "luôn",
+    "đều"
+  ],
+  "notes_md": "**hằng** means **always** or **constantly**, often with a slightly formal or literary feel. It expresses something that happens regularly or without change.\n\nIt usually comes **before a verb** to show repeated or ongoing action. It’s more poetic than **luôn** (which is more everyday).\n\n\nYou’ll often see it in fixed phrases like **hằng ngày** (every day) or **hằng năm** (every year). Compared to **luôn**, *hằng* feels softer and less conversational.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:18:08.418Z",
+    "id": "5ae01da1-806a-4f8d-b78d-9eddb3850421",
+    "content": {
+      "choices": [
+        "hằng",
+        "đặc biệt",
+        "thường"
+      ],
+      "sentence": "Hôm nay là ngày ___.",
+      "language": "vi",
+      "word": "hằng",
+      "translatedAnswer": {
+        "en": "regular"
+      },
+      "translation": {
+        "en": "Today is a regular day."
+      },
+      "answer": "hằng",
+      "hint": "h___g"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:18:08.418Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hằng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "7kce75wR74ppHbgljQ60"
+}

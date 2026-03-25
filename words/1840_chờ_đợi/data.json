@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:16:09.754Z",
+    "createdAt": "2025-03-12T14:16:09.754Z",
+    "id": "d9c4b02b-755c-414d-9cb0-01bfbfa75ba9",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "wait"
+      },
+      "answer": "chờ đợi",
+      "hint": "ch___i",
+      "word": "chờ đợi",
+      "sentence": "Tôi sẽ ___ một lúc nữa.",
+      "translation": {
+        "en": "I will wait for a moment."
+      },
+      "language": "vi",
+      "choices": [
+        "chờ đợi",
+        "đợi chờ",
+        "hãy chờ"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "chờ đợi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chờ đợi** = to wait, usually with a feeling of time passing or some emotion (hope, anxiety). It feels a bit longer or heavier than just **chờ**.\n\nIt’s a verb, used with a person or thing: chờ đợi + ai/cái gì.  \n\nOften used for results, news, opportunities, or someone important.  \nClose synonym: **đợi / chờ** (more neutral, everyday).  \nIt can also suggest expectation, not just physically waiting.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I had to wait a long time at the bus station this morning.",
+    "She feels tired because she has to wait for the interview result.",
+    "I usually wait for my friend in front of the school every afternoon."
+  ],
+  "notes": "chờ đợi = to wait, usually with a feeling of time passing or some emotion (hope, anxiety). It feels a bit longer or heavier than just chờ.\n\nIt’s a verb, used with a person or thing: chờ đợi + ai/cái gì.  \n\nOften used for results, news, opportunities, or someone important.  \nClose synonym: đợi / chờ (more neutral, everyday).  \nIt can also suggest expectation, not just physically waiting.",
+  "updatedAt": "2026-03-03T09:32:42.478Z",
+  "choices": [
+    "chờ đợi",
+    "làm việc",
+    "nghỉ ngơi"
+  ],
+  "definition": "wait",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:16:09.754Z",
+    "createdAt": "2025-03-12T14:16:09.754Z",
+    "id": "39dfed82-75d1-4761-979b-9a8ff7dfb70d",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I will wait for a moment."
+      },
+      "sentence": "Tôi sẽ ___ một lúc nữa.",
+      "word": "chờ đợi",
+      "answer": "chờ đợi",
+      "translatedAnswer": {
+        "en": "wait"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 1840,
+  "exampleSentences": [
+    "Anh phải chờ đợi lâu ở bến xe buýt sáng nay.",
+    "Chị cảm thấy mệt mỏi vì phải chờ đợi kết quả phỏng vấn.",
+    "Em thường chờ đợi bạn trước cổng trường mỗi chiều."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:52:55.926Z",
+    "definitions": {
+      "es": "Esperar algo o a alguien.",
+      "vi": "Chờ đợi một cái gì đó hoặc một ai đó.",
+      "en": "To wait for something or someone."
+    },
+    "translations": {
+      "vi": "chờ đợi",
+      "es": "esperar",
+      "en": "wait"
+    },
+    "example": {
+      "es": "Estoy esperando el autobús.",
+      "vi": "Tôi đang chờ đợi xe buýt.",
+      "en": "I am waiting for the bus."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "MBUdyG8eVP5W9sIE5o2H"
+}

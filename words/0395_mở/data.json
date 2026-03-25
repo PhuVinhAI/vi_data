@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mở** = to open something (a door, box, app, etc.). It’s also used for turning something on or starting something.\n\nYou use it with objects you can physically open, and also with things like businesses, accounts, music, or conversations. It can mean “to start” or “to launch” in many situations.\n\n\nIt also means “to expand” or “to open up” (like mở rộng, mở lòng). Opposite: **đóng** (close) — super useful pair to remember.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mở",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:00:54.319Z",
+    "createdAt": "2025-03-12T14:00:54.319Z",
+    "id": "f89872a1-5c8f-4e23-8c79-dcb9f1b2716d",
+    "content": {
+      "sentence": "Bạn có thể ___ sách không?",
+      "word": "mở",
+      "hint": "m__",
+      "language": "vi",
+      "choices": [
+        "đóng",
+        "mở",
+        "sửa"
+      ],
+      "translation": {
+        "en": "Can you open the book?"
+      },
+      "answer": "mở",
+      "translatedAnswer": {
+        "en": "open"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "open"
+      },
+      "answer": "mở",
+      "translation": {
+        "en": "I want to open the window."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "mở",
+      "sentence": "Tôi muốn ___ cửa sổ."
+    },
+    "type": "fillBlankQuiz",
+    "id": "5f9ac4b7-8d63-49b4-bcf1-1ef94b5581b9",
+    "createdAt": "2025-03-12T14:00:54.319Z",
+    "updatedAt": "2025-03-12T14:00:54.319Z"
+  },
+  "definition": "open",
+  "updatedAt": "2026-03-03T07:01:50.501Z",
+  "choices": [
+    "đóng",
+    "mở",
+    "đợi"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you help me open the window?",
+    "Remember to open the light when it starts getting dark.",
+    "I forgot to open the computer before starting to work."
+  ],
+  "notes": "mở = to open something (a door, box, app, etc.). It’s also used for turning something on or starting something.\n\nYou use it with objects you can physically open, and also with things like businesses, accounts, music, or conversations. It can mean “to start” or “to launch” in many situations.\n\nIt also means “to expand” or “to open up” (like mở rộng, mở lòng). Opposite: đóng (close) — super useful pair to remember.",
+  "rank": 395,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Bạn có thể mở cửa sổ giúp tôi không?",
+      "en": "Can you open the window for me?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:20:49.972Z",
+    "word": "mở",
+    "definitions": {
+      "en": "To make something no longer closed, shut, or covered; to open.",
+      "vi": "Làm cho một vật không còn đóng, khép hoặc bị che chắn nữa."
+    },
+    "translations": {
+      "en": "open"
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể giúp em mở cửa sổ được không?",
+    "Chị nhớ mở đèn khi trời bắt đầu tối nhé.",
+    "Em quên mở máy tính trước khi bắt đầu làm việc."
+  ],
+  "_id": "Iuo7rZ6vdR59fg3zBwDE"
+}

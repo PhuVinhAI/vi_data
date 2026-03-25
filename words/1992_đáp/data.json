@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:18:35.301Z",
+    "type": "fillBlankQuiz",
+    "id": "8b84ccd4-eede-47ce-95b5-3060c737bc18",
+    "content": {
+      "choices": [],
+      "word": "đáp",
+      "sentence": "Tôi cần ___ cho bài tập.",
+      "language": "vi",
+      "translation": {
+        "en": "I need an answer for the homework."
+      },
+      "translatedAnswer": {
+        "en": "answer"
+      },
+      "answer": "đáp"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:18:35.301Z"
+  },
+  "exampleSentencesTranslated": [
+    "I don't know how to answer this difficult question in the interview.",
+    "I need time to think before I answer the teacher.",
+    "She is happy to answer her old friend's letter after many years apart."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Respondí a su pregunta.",
+      "vi": "Tôi đã đáp lại câu hỏi của cô ấy.",
+      "en": "I responded to her question."
+    },
+    "definitions": {
+      "vi": "Để phản hồi hoặc trả lời một cái gì đó.",
+      "es": "Responder o contestar a algo.",
+      "en": "To respond or reply to something."
+    },
+    "createdAt": "2025-01-28T10:59:02.659Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "responder",
+      "vi": "đáp",
+      "en": "respond"
+    }
+  },
+  "definition": "answer",
+  "notes": "đáp = to answer or reply to someone. It’s a bit more formal/literary than trả lời, but still very common.\n\nYou usually use it with things like câu hỏi, lời, thư — it focuses on giving a response back. It can also mean “to respond in return” (đáp lại), showing a back-and-forth feeling.\n\nStrong synonym: trả lời (more neutral and common).",
+  "exampleSentences": [
+    "Anh chưa biết cách đáp câu hỏi khó này trong buổi phỏng vấn.",
+    "Em cần thời gian để suy nghĩ trước khi đáp cho giáo viên.",
+    "Chị vui khi được đáp thư của bạn cũ sau nhiều năm không gặp."
+  ],
+  "updatedAt": "2026-03-03T09:48:57.041Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:18:35.301Z",
+    "id": "5bd1d925-c116-424e-897b-f0616a9d0854",
+    "content": {
+      "translation": {
+        "en": "I need an answer for the homework."
+      },
+      "translatedAnswer": {
+        "en": "answer"
+      },
+      "hint": "đ__",
+      "answer": "đáp",
+      "choices": [
+        "phản hồi",
+        "đáp",
+        "trả lời"
+      ],
+      "word": "đáp",
+      "sentence": "Tôi cần ___ cho bài tập.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:18:35.301Z",
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 1992,
+  "choices": [
+    "đáp",
+    "gặp",
+    "nghĩ"
+  ],
+  "notes_md": "**đáp** = to answer or reply to someone. It’s a bit more formal/literary than *trả lời*, but still very common.\n\nYou usually use it with things like *câu hỏi, lời, thư* — it focuses on giving a response back. It can also mean “to respond in return” (*đáp lại*), showing a back-and-forth feeling.\n\n\nStrong synonym: *trả lời* (more neutral and common).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đáp",
+  "_id": "7tjmJmIGqZI39JHT3Soi"
+}

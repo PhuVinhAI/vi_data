@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "at least",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "ít nhất",
+      "choices": [],
+      "translation": {
+        "en": "I want to go at least two days."
+      },
+      "answer": "ít nhất",
+      "translatedAnswer": {
+        "en": "at least"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn đi ___ hai ngày."
+    },
+    "updatedAt": "2025-03-12T14:35:42.277Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:35:42.277Z",
+    "id": "35428437-7f91-415d-8244-82af4eead9a9",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ít nhất** means **at least** — the minimum amount that is acceptable or expected.\n\nIt goes **before numbers or quantity words** to show the lowest limit.  \n\nIt often appears in advice, rules, promises, or estimates — when you don’t know the exact number but you know the minimum.  \n\nOpposite idea: **nhiều nhất** = at most / the maximum.",
+  "exampleSentences": [
+    "Để vượt qua kỳ thi này, anh cần trả lời đúng ít nhất tám câu hỏi.",
+    "Chị nên uống ít nhất hai lít nước mỗi ngày để giữ sức khỏe.",
+    "Em sẽ ở lại trường ít nhất đến khi trời ngừng mưa."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "al menos",
+      "en": "at least",
+      "vi": "ít nhất"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Bạn nên học ít nhất một ngôn ngữ mới.",
+      "en": "You should learn at least one new language.",
+      "es": "Deberías aprender al menos un nuevo idioma."
+    },
+    "createdAt": "2025-01-28T12:11:27.852Z",
+    "definitions": {
+      "es": "Al mínimo; la menor cantidad o grado.",
+      "en": "At the minimum; the least amount or degree.",
+      "vi": "Ít nhất; số lượng hoặc mức độ tối thiểu."
+    }
+  },
+  "notes": "ít nhất means at least — the minimum amount that is acceptable or expected.\n\nIt goes before numbers or quantity words to show the lowest limit.  \n\nIt often appears in advice, rules, promises, or estimates — when you don’t know the exact number but you know the minimum.  \n\nOpposite idea: nhiều nhất = at most / the maximum.",
+  "choices": [
+    "ít nhất",
+    "nhiều nhất",
+    "gần nhất"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:55:01.237Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:35:42.277Z",
+    "id": "a8820c83-fdfa-4b6b-868d-7196072a0143",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "at least"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn đi ___ hai ngày.",
+      "word": "ít nhất",
+      "choices": [
+        "ít nhất",
+        "càng nhiều",
+        "đôi khi"
+      ],
+      "hint": "i__ n__t",
+      "translation": {
+        "en": "I want to go at least two days."
+      },
+      "answer": "ít nhất"
+    },
+    "updatedAt": "2025-03-12T14:35:42.277Z"
+  },
+  "word": "ít nhất",
+  "exampleSentencesTranslated": [
+    "To pass this exam, you need to answer at least eight questions correctly.",
+    "You should drink at least two liters of water every day to stay healthy.",
+    "I will stay at school at least until it stops raining."
+  ],
+  "rank": 930,
+  "_id": "QuWABRCByFc3BXXylGAa"
+}

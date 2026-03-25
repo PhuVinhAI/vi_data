@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Did you take your medicine on time this morning?",
+    "The doctor advised me to bring medicine when traveling.",
+    "I need to buy more medicine for my mother at the nearby pharmacy."
+  ],
+  "rank": 1575,
+  "word": "thuốc",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "thuốc",
+      "choices": [
+        "nước",
+        "thuốc",
+        "sữa"
+      ],
+      "translation": {
+        "en": "I bought new medicine."
+      },
+      "answer": "thuốc",
+      "hint": "t___c",
+      "sentence": "Tôi đã mua ___ mới.",
+      "translatedAnswer": {
+        "en": "medicine"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:31:44.574Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:31:44.574Z",
+    "id": "58c8a12c-6205-4698-846c-f35c04b40184"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:04:52.428Z",
+  "choices": [
+    "bác sĩ",
+    "thuốc",
+    "bệnh"
+  ],
+  "notes": "thuốc = medicine or drug. It’s the general word for anything you take or use to treat illness.\n\nIt’s an uncountable noun in general, but you count it with classifiers like viên thuốc (pill/tablet) or chai thuốc (bottle of medicine).  \nCommon verbs: uống thuốc (drink/take medicine), bôi thuốc (apply medicine), tiêm thuốc (inject medicine).  \n\nVery common extra meaning: thuốc lá = cigarettes (literally “tobacco medicine”).",
+  "flashcard": {
+    "translations": {
+      "es": "medicina",
+      "en": "medicine",
+      "vi": "thuốc"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi cần mua thuốc cho cơn đau đầu.",
+      "en": "I need to buy medicine for my headache.",
+      "es": "Necesito comprar medicina para mi dolor de cabeza."
+    },
+    "createdAt": "2025-01-28T12:07:28.899Z",
+    "definitions": {
+      "es": "Una sustancia utilizada para el tratamiento médico.",
+      "vi": "Một chất được sử dụng để điều trị y tế.",
+      "en": "A substance used for medical treatment."
+    }
+  },
+  "exampleSentences": [
+    "Em đã uống thuốc đúng giờ sáng nay chưa?",
+    "Bác sĩ khuyên anh nên mang theo thuốc khi đi du lịch.",
+    "Chị cần mua thêm thuốc cho mẹ ở nhà thuốc gần đây."
+  ],
+  "notes_md": "**thuốc** = medicine or drug. It’s the general word for anything you take or use to treat illness.\n\nIt’s an uncountable noun in general, but you count it with classifiers like **viên thuốc** (pill/tablet) or **chai thuốc** (bottle of medicine).  \nCommon verbs: **uống thuốc** (drink/take medicine), **bôi thuốc** (apply medicine), **tiêm thuốc** (inject medicine).  \n\nVery common extra meaning: **thuốc lá** = cigarettes (literally “tobacco medicine”).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:31:44.574Z",
+    "id": "0a5f0a88-81df-4e40-a672-dd535dcec718",
+    "content": {
+      "choices": [],
+      "word": "thuốc",
+      "translation": {
+        "en": "I need medicine to recover from illness."
+      },
+      "answer": "thuốc",
+      "translatedAnswer": {
+        "en": "medicine"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ để khỏi bệnh."
+    },
+    "updatedAt": "2025-03-12T14:31:44.574Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "medicine",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Q7t5EgVH3k4qqGaIlmV2"
+}

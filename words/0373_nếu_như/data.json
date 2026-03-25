@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em sẽ đi chơi với anh cuối tuần này nếu như trời không mưa.",
+    "Chị sẽ mua bánh cho em nếu như em làm xong bài tập.",
+    "Anh có thể giúp em với bài học toán nếu như em cần."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "5238ec34-e096-400b-8b3a-3137ec91fe18",
+    "content": {
+      "answer": "nếu như",
+      "translatedAnswer": {
+        "en": "if"
+      },
+      "choices": [],
+      "sentence": "Tôi sẽ đi chơi ___ trời đẹp.",
+      "translation": {
+        "en": "I will go out if the weather is nice."
+      },
+      "word": "nếu như",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:57:56.683Z",
+    "createdAt": "2025-03-12T15:57:56.683Z"
+  },
+  "choices": [
+    "nếu như",
+    "bởi vì",
+    "khi nào"
+  ],
+  "rank": 373,
+  "definition": "if",
+  "notes": "nếu như = if. It sets a condition for something to happen.\n\nIt connects two clauses: condition → result. You can put the “if” part at the start or after the main clause.\n\nIt’s very similar to nếu. “Nếu như” sounds a bit softer or more expressive, but in everyday use they’re often interchangeable.",
+  "notes_md": "**nếu như** = *if*. It sets a condition for something to happen.\n\nIt connects two clauses: condition → result. You can put the “if” part at the start or after the main clause.\n\n\nIt’s very similar to **nếu**. “Nếu như” sounds a bit softer or more expressive, but in everyday use they’re often interchangeable.",
+  "multiChoiceQuiz": {
+    "id": "dafe9750-6879-43eb-b329-d8668955372c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I will go out if the weather is nice."
+      },
+      "word": "nếu như",
+      "translatedAnswer": {
+        "en": "if"
+      },
+      "answer": "nếu như",
+      "hint": "n___ như",
+      "sentence": "Tôi sẽ đi chơi ___ trời đẹp.",
+      "choices": [
+        "mặc dù",
+        "nếu như",
+        "nhưng mà"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:57:56.683Z",
+    "createdAt": "2025-03-12T15:57:56.683Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "If it rains, we will stay at home.",
+      "vi": "Nếu như trời mưa, chúng ta sẽ ở nhà."
+    },
+    "word": "nếu như",
+    "definitions": {
+      "en": "A phrase used to express a condition or hypothetical situation.",
+      "vi": "Từ dùng để diễn tả điều kiện hoặc giả định có thể xảy ra."
+    },
+    "createdAt": "2025-05-24T16:32:44.574Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "if"
+    }
+  },
+  "word": "nếu như",
+  "updatedAt": "2026-03-03T06:59:33.481Z",
+  "exampleSentencesTranslated": [
+    "I will go out with you this weekend if it does not rain.",
+    "I will buy you a cake if you finish your homework.",
+    "I can help you with the math lesson if you need."
+  ],
+  "_id": "laQap9syljdVdiQjPTPp"
+}

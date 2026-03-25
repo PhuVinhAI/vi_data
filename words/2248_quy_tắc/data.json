@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh phải tuân theo quy tắc khi làm việc ở công ty mới.",
+    "Chị giải thích quy tắc trò chơi trước khi chúng ta bắt đầu.",
+    "Em luôn cố gắng nhớ tất cả các quy tắc giao thông khi lái xe."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "rule"
+      },
+      "answer": "quy tắc",
+      "choices": [],
+      "sentence": "Chúng ta phải tuân theo ___ này.",
+      "language": "vi",
+      "word": "quy tắc",
+      "translation": {
+        "en": "We must follow this rule."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "bab61a40-765e-4c01-93e1-13caeb4817f8",
+    "createdAt": "2025-03-12T16:01:18.612Z",
+    "updatedAt": "2025-03-12T16:01:18.612Z"
+  },
+  "choices": [
+    "quy định",
+    "quy tắc",
+    "luật lệ"
+  ],
+  "rank": 2248,
+  "definition": "rule",
+  "notes": "quy tắc = rule — something you must follow in a system, game, school, company, etc.\n\nIt’s a countable noun: một quy tắc, các quy tắc. Often used with verbs like tuân theo (follow), đặt ra (set), phá vỡ (break).  \n\nYou’ll hear it in fixed phrases like quy tắc giao thông (traffic rules), quy tắc ứng xử (rules of behavior), quy tắc ngữ pháp (grammar rules).  \n\nClose word: luật = law. Luật is usually official/legal; quy tắc can be smaller-scale (school, game, company).",
+  "notes_md": "**quy tắc** = rule — something you must follow in a system, game, school, company, etc.\n\nIt’s a countable noun: *một quy tắc, các quy tắc*. Often used with verbs like **tuân theo** (follow), **đặt ra** (set), **phá vỡ** (break).  \n\nYou’ll hear it in fixed phrases like **quy tắc giao thông** (traffic rules), **quy tắc ứng xử** (rules of behavior), **quy tắc ngữ pháp** (grammar rules).  \n\nClose word: **luật** = law. *Luật* is usually official/legal; *quy tắc* can be smaller-scale (school, game, company).",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "quy tắc",
+      "translation": {
+        "en": "We must follow this rule."
+      },
+      "language": "vi",
+      "sentence": "Chúng ta phải tuân theo ___ này.",
+      "choices": [
+        "quy tắc",
+        "nguyên tắc",
+        "hệ thống"
+      ],
+      "hint": "q___",
+      "translatedAnswer": {
+        "en": "rule"
+      },
+      "answer": "quy tắc"
+    },
+    "id": "cdbc5edc-0c6c-41af-92c3-ad6ea0e00eda",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:01:18.612Z",
+    "updatedAt": "2025-03-12T16:01:18.612Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Mọi người cần tuân theo quy tắc của lớp học.",
+      "es": "Todos deben seguir las reglas del aula.",
+      "en": "Everyone needs to follow the rules of the classroom."
+    },
+    "createdAt": "2025-01-28T13:33:15.811Z",
+    "definitions": {
+      "vi": "Một nguyên tắc hoặc quy định điều chỉnh hành vi hoặc quy trình.",
+      "en": "A principle or regulation governing conduct or procedure.",
+      "es": "Un principio o regulación que rige la conducta o el procedimiento."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "rule",
+      "es": "regla",
+      "vi": "quy tắc"
+    }
+  },
+  "word": "quy tắc",
+  "updatedAt": "2026-03-03T10:15:59.575Z",
+  "exampleSentencesTranslated": [
+    "You have to follow the rule when working at the new company.",
+    "She explains the rule of the game before we start.",
+    "I always try to remember all the traffic rule when driving."
+  ],
+  "_id": "mTYfe8c0iFEbqlwPONfI"
+}

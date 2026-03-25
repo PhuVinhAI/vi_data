@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "8202cb11-5188-45be-8cb7-af2e8464dce7",
+    "createdAt": "2025-03-12T14:40:07.243Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:40:07.243Z",
+    "content": {
+      "sentence": "Chúng ta cần một kế hoạch ___.",
+      "translatedAnswer": {
+        "en": "comprehensive"
+      },
+      "language": "vi",
+      "word": "toàn diện",
+      "choices": [],
+      "translation": {
+        "en": "We need a comprehensive plan."
+      },
+      "answer": "toàn diện"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "comprehensive",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta cần một kế hoạch toàn diện để giải quyết vấn đề này.",
+      "en": "We need a comprehensive plan to address this issue.",
+      "es": "Necesitamos un plan integral para abordar este problema."
+    },
+    "createdAt": "2025-01-28T12:15:27.468Z",
+    "definitions": {
+      "en": "Including all or nearly all elements or aspects.",
+      "vi": "Bao gồm tất cả hoặc hầu hết các yếu tố hoặc khía cạnh.",
+      "es": "Que incluye todos o casi todos los elementos o aspectos."
+    },
+    "translations": {
+      "vi": "toàn diện",
+      "en": "comprehensive",
+      "es": "integral"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Chị muốn có một cái nhìn toàn diện về dự án này trước khi quyết định.",
+    "Cuốn sách này cung cấp thông tin toàn diện về lịch sử Việt Nam.",
+    "Để giải quyết vấn đề, chúng ta cần một kế hoạch toàn diện."
+  ],
+  "notes_md": "**Toàn diện** means *comprehensive* — covering all sides or aspects of something, not just one part.\n\nIt’s an adjective, used before a noun to describe plans, views, reports, solutions, education, etc. It suggests depth + breadth, not something partial or shallow.\n\n\nClose opposite: **phiến diện** (one-sided). Related idea: **đầy đủ** (complete), but *toàn diện* feels more systematic and well-rounded.",
+  "choices": [
+    "toàn diện",
+    "thường xuyên",
+    "chính xác"
+  ],
+  "notes": "Toàn diện means comprehensive — covering all sides or aspects of something, not just one part.\n\nIt’s an adjective, used before a noun to describe plans, views, reports, solutions, education, etc. It suggests depth + breadth, not something partial or shallow.\n\nClose opposite: phiến diện (one-sided). Related idea: đầy đủ (complete), but toàn diện feels more systematic and well-rounded.",
+  "rank": 2420,
+  "exampleSentencesTranslated": [
+    "She wants to have a comprehensive view of this project before deciding.",
+    "This book provides comprehensive information about the history of Vietnam.",
+    "To solve the problem, we need a comprehensive plan."
+  ],
+  "word": "toàn diện",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:40:07.243Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "comprehensive"
+      },
+      "language": "vi",
+      "sentence": "Kế hoạch này rất ___ cho dự án.",
+      "word": "toàn diện",
+      "choices": [
+        "chi tiết",
+        "toàn diện",
+        "hạn chế"
+      ],
+      "hint": "t____n",
+      "translation": {
+        "en": "This plan is very comprehensive for the project."
+      },
+      "answer": "toàn diện"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "bb0a6897-e6e2-4896-80c0-5cb63e719a1a",
+    "createdAt": "2025-03-12T14:40:07.243Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T10:33:38.474Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "RydfS4YpkJTL2DwFV7EW"
+}

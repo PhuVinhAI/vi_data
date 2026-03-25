@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:50:34.390Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 290,
+  "exampleSentencesTranslated": [
+    "He put the table in the middle of the living room so everyone could see it easily.",
+    "She sat in the middle of her two close friends when they went to the movies last night.",
+    "Please put this book in the middle of the two notebooks on the table."
+  ],
+  "word": "giữa",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "g___",
+      "translation": {
+        "en": "We will meet in the park."
+      },
+      "answer": "giữa",
+      "word": "giữa",
+      "choices": [
+        "trong",
+        "giữa",
+        "ngoài"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "in"
+      },
+      "sentence": "Chúng ta sẽ gặp nhau ___ công viên."
+    },
+    "updatedAt": "2025-03-12T14:39:40.322Z",
+    "createdAt": "2025-03-12T14:39:40.322Z",
+    "id": "4c82dfd8-fd24-4759-9f7a-b6216acdb37e",
+    "type": "multiChoiceQuiz"
+  },
+  "notes": "giữa means in the middle or between. It’s used to show position between two things or in the center of a space.\n\nIt’s a preposition, so it comes before a noun.  \n\nYou can use it for physical space or abstract things like time and relationships. Close synonym: ở giữa (more explicit “in the middle”). Opposites that help: ngoài (outside), đầu / cuối (beginning / end).",
+  "choices": [
+    "bên",
+    "trên",
+    "giữa"
+  ],
+  "exampleSentences": [
+    "Anh đặt cái bàn ở giữa phòng khách để mọi người dễ nhìn thấy.",
+    "Chị ngồi giữa hai người bạn thân khi đi xem phim tối qua.",
+    "Em hãy để quyển sách này ở giữa hai quyển vở trên bàn nhé."
+  ],
+  "notes_md": "**giữa** means *in the middle* or *between*. It’s used to show position between two things or in the center of a space.\n\nIt’s a preposition, so it comes before a noun.  \n\nYou can use it for physical space or abstract things like time and relationships. Close synonym: **ở giữa** (more explicit “in the middle”). Opposites that help: **ngoài** (outside), **đầu / cuối** (beginning / end).",
+  "flashcard": {
+    "example": {
+      "en": "I am standing between two people.",
+      "vi": "Tôi đứng giữa hai người.",
+      "es": "Estoy de pie entre dos personas."
+    },
+    "createdAt": "2025-01-28T12:15:04.195Z",
+    "definitions": {
+      "es": "En el medio o centro de algo.",
+      "en": "In the middle or center of something.",
+      "vi": "Ở giữa hoặc trung tâm của một cái gì đó."
+    },
+    "translations": {
+      "es": "entre",
+      "en": "between",
+      "vi": "giữa"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "middle",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta sẽ gặp nhau ___ công viên.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "in"
+      },
+      "choices": [],
+      "word": "giữa",
+      "translation": {
+        "en": "We will meet in the park."
+      },
+      "answer": "giữa"
+    },
+    "updatedAt": "2025-03-12T14:39:40.322Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:39:40.322Z",
+    "id": "0e3ece8e-c64b-4666-a5a7-734775980cc9"
+  },
+  "_id": "RsZYjdfl1QxNVGViA2g2"
+}

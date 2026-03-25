@@ -1,0 +1,101 @@
+{
+  "exampleSentences": [
+    "Em đã ăn cơm trưa.",
+    "Anh đã gặp mẹ em.",
+    "Chị đã mua một cái áo."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A word used to indicate that an action happened in the past.",
+      "vi": "Từ dùng để chỉ một hành động đã xảy ra trong quá khứ."
+    },
+    "word": "đã",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:34:44.798Z",
+    "translations": {
+      "en": "already; (past tense marker)"
+    },
+    "example": {
+      "en": "I have already eaten breakfast.",
+      "vi": "Tôi đã ăn sáng rồi."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "sẽ",
+    "đang",
+    "đã"
+  ],
+  "updatedAt": "2026-03-03T06:06:40.475Z",
+  "exampleSentencesTranslated": [
+    "I already ate lunch.",
+    "He already met your mother.",
+    "She already bought a shirt."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đã means already or marks that something happened in the past. It shows an action is completed.\n\nIt goes before the verb to mark past time or completion.  \n\nUnlike English, Vietnamese verbs don’t change form, so đã is what tells you it’s past. It’s often used when the time isn’t clearly stated.\n\nClosely related: rồi (also “already”), but đã usually comes before the verb, while rồi often comes after for emphasis.",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "have eaten"
+      },
+      "translation": {
+        "en": "I have eaten this dish."
+      },
+      "choices": [],
+      "word": "đã",
+      "answer": "đã",
+      "language": "vi",
+      "sentence": "Tôi ___ ăn món này."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:23:00.840Z",
+    "createdAt": "2025-03-12T16:23:00.840Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "25a69b01-e44c-47b3-960a-c0a6d5cf075d"
+  },
+  "word": "đã",
+  "sentenceBreakdowns": [
+    "Em (I) + đã (already) + ăn (eat) + cơm (rice/meal) + trưa (noon)",
+    "Anh (he) + đã (already) + gặp (meet) + mẹ (mother) + em (your)",
+    "Chị (she) + đã (already) + mua (buy) + một (a) + cái (classifier) + áo (shirt)"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**đã** means *already* or marks that something happened in the past. It shows an action is completed.\n\nIt goes **before the verb** to mark past time or completion.  \n\nUnlike English, Vietnamese verbs don’t change form, so **đã** is what tells you it’s past. It’s often used when the time isn’t clearly stated.\n\nClosely related: **rồi** (also “already”), but *đã* usually comes before the verb, while *rồi* often comes after for emphasis.",
+  "rank": 36,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:23:00.840Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6cc79603-1783-4b90-a86c-2762b33b3004",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi ___ làm bài tập.",
+      "translation": {
+        "en": "I have done the homework."
+      },
+      "translatedAnswer": {
+        "en": "have done"
+      },
+      "hint": "d__",
+      "word": "đã",
+      "answer": "đã",
+      "language": "vi",
+      "choices": [
+        "chưa",
+        "đã",
+        "còn"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:23:00.840Z"
+  },
+  "definition": "already",
+  "_id": "s8jnwDJYmUWtuBZZedFh"
+}

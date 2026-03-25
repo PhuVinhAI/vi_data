@@ -1,0 +1,99 @@
+{
+  "notes": "Hàng xóm means neighbor — the person who lives next to your house or near you.\n\nIt’s a noun. You can say một hàng xóm, but more natural is adding a person word: người hàng xóm, ông/bà hàng xóm. For possession, just add của: hàng xóm của tôi. Vietnamese doesn’t change the word for plural, so context shows if it’s one or many.\n\nA common synonym is láng giềng, which sounds a bit more formal or written.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Yesterday, my neighbor helped me fix my motorbike.",
+    "He often talks with his neighbor every morning before going to work.",
+    "Her family is very close with the neighbor next to their house."
+  ],
+  "updatedAt": "2026-03-03T18:18:39.789Z",
+  "choices": [
+    "bạn bè",
+    "hàng xóm",
+    "đồng nghiệp"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "neighbor",
+      "es": "vecino",
+      "vi": "hàng xóm"
+    },
+    "example": {
+      "vi": "Hàng xóm của tôi rất thân thiện.",
+      "en": "My neighbor is very friendly.",
+      "es": "Mi vecino es muy amable."
+    },
+    "definitions": {
+      "vi": "Một người sống gần hoặc bên cạnh người khác.",
+      "en": "A person living near or next to another.",
+      "es": "Una persona que vive cerca o al lado de otra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:55:16.380Z"
+  },
+  "exampleSentences": [
+    "Hôm qua, hàng xóm của em đã giúp em sửa xe máy.",
+    "Anh thường nói chuyện với hàng xóm mỗi buổi sáng trước khi đi làm.",
+    "Gia đình chị rất thân thiết với hàng xóm ở bên cạnh nhà."
+  ],
+  "definition": "neighbor",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:24:23.870Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Nhà tôi gần ___ nhất trong khu phố.",
+      "translation": {
+        "en": "My house is closest to the neighbor in the neighborhood."
+      },
+      "translatedAnswer": {
+        "en": "neighbor"
+      },
+      "hint": "h____m",
+      "word": "hàng xóm",
+      "answer": "hàng xóm",
+      "language": "vi",
+      "choices": [
+        "bạn bè",
+        "hàng xóm",
+        "người lạ"
+      ]
+    },
+    "id": "d614aca8-56f2-413d-afe0-a2b078b706f5",
+    "createdAt": "2025-03-12T16:24:23.870Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2977,
+  "notes_md": "**Hàng xóm** means *neighbor* — the person who lives next to your house or near you.\n\nIt’s a noun. You can say **một hàng xóm**, but more natural is adding a person word: **người hàng xóm**, **ông/bà hàng xóm**. For possession, just add **của**: **hàng xóm của tôi**. Vietnamese doesn’t change the word for plural, so context shows if it’s one or many.\n\nA common synonym is **láng giềng**, which sounds a bit more formal or written.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "hàng xóm",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:24:23.870Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "47e4107d-70bf-494e-b3c9-65f3d7c3e75c",
+    "content": {
+      "translation": {
+        "en": "I often meet the neighbor in the morning."
+      },
+      "translatedAnswer": {
+        "en": "neighbor"
+      },
+      "choices": [],
+      "word": "hàng xóm",
+      "language": "vi",
+      "answer": "hàng xóm",
+      "sentence": "Tôi thường gặp ___ vào buổi sáng."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:24:23.870Z"
+  },
+  "_id": "sQJCQcdEPabjDBXSorPo"
+}

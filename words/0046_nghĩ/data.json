@@ -1,0 +1,104 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "I think about this.",
+    "You think about dinner.",
+    "You think about the cat."
+  ],
+  "word": "nghĩ",
+  "choices": [
+    "nói",
+    "nghe",
+    "nghĩ"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "think"
+      },
+      "translation": {
+        "en": "I think about this."
+      },
+      "answer": "nghĩ",
+      "choices": [
+        "nói",
+        "nghĩ",
+        "cảm thấy"
+      ],
+      "sentence": "Tôi ___ về điều này.",
+      "word": "nghĩ",
+      "hint": "n___"
+    },
+    "updatedAt": "2025-03-12T16:49:40.482Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:49:40.482Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "3a113deb-9da2-4e08-8915-ccc63c4cb009"
+  },
+  "updatedAt": "2026-03-03T06:07:46.557Z",
+  "exampleSentences": [
+    "Em nghĩ về chuyện này.",
+    "Anh nghĩ về bữa tối.",
+    "Chị nghĩ về con mèo."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:19:55.362Z",
+    "translations": {
+      "es": "pensar",
+      "en": "think",
+      "vi": "nghĩ"
+    },
+    "definitions": {
+      "es": "pensar; considerar; reflexionar",
+      "en": "to think; to consider; to reflect",
+      "vi": "nghĩ; suy nghĩ; xem xét"
+    },
+    "example": {
+      "es": "Creo que hoy será un buen día.",
+      "en": "I think that today will be a nice day.",
+      "vi": "Tôi nghĩ rằng hôm nay sẽ đẹp trời."
+    }
+  },
+  "notes": "nghĩ = to think. It’s the basic verb for having thoughts or opinions in your head.\n\nUse it for thinking about something, considering something, or having an opinion.  \n\nYou’ll also hear nghĩ đến when something comes to mind. Suy nghĩ is similar but feels a bit deeper or more serious (like “to reflect”), while tưởng is “to mistakenly think.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 46,
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ về điều này.",
+      "word": "nghĩ",
+      "language": "vi",
+      "answer": "nghĩ",
+      "translation": {
+        "en": "I think about this."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "think"
+      }
+    },
+    "updatedAt": "2025-03-12T16:49:40.482Z",
+    "id": "cf6775a5-96a5-48fe-b8f4-e4486b235caf",
+    "createdAt": "2025-03-12T16:49:40.482Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "think",
+  "sentenceBreakdowns": [
+    "Em (I) + nghĩ (think) + về (about) + chuyện (matter) + này (this)",
+    "Anh (you) + nghĩ (think) + về (about) + bữa (meal) + tối (evening/dinner)",
+    "Chị (you) + nghĩ (think) + về (about) + con (classifier) + mèo (cat)"
+  ],
+  "notes_md": "**nghĩ** = to think. It’s the basic verb for having thoughts or opinions in your head.\n\nUse it for thinking about something, considering something, or having an opinion.  \n\nYou’ll also hear **nghĩ đến** when something comes to mind. **Suy nghĩ** is similar but feels a bit deeper or more serious (like “to reflect”), while **tưởng** is “to mistakenly think.”",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "yqM8jbeCqDmn0sUPM2HW"
+}

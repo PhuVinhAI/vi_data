@@ -1,0 +1,99 @@
+{
+  "definition": "mountain",
+  "flashcard": {
+    "example": {
+      "en": "I like to hike in the mountains on weekends.",
+      "es": "Me gusta hacer senderismo en las montañas los fines de semana.",
+      "vi": "Tôi thích leo núi vào cuối tuần."
+    },
+    "definitions": {
+      "en": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "vi": "Một sự nâng cao tự nhiên lớn của bề mặt trái đất, nổi bật lên so với mức xung quanh.",
+      "es": "Una gran elevación natural de la superficie terrestre que se eleva abruptamente del nivel circundante."
+    },
+    "createdAt": "2025-01-28T11:09:46.058Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "montaña",
+      "vi": "núi",
+      "en": "mountain"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "6540ef65-c893-47a3-ba92-9b169964c7c9",
+    "content": {
+      "word": "núi",
+      "sentence": "Chúng ta sẽ leo ___ vào cuối tuần.",
+      "language": "vi",
+      "choices": [],
+      "answer": "núi",
+      "translation": {
+        "en": "We will climb the mountain this weekend."
+      },
+      "translatedAnswer": {
+        "en": "mountain"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:51.545Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:29:51.545Z"
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to go mountain climbing with me this weekend?",
+    "My family often has picnics at the foot of the mountain in summer.",
+    "She really likes taking photos of the sunset on the mountain."
+  ],
+  "exampleSentences": [
+    "Cuối tuần này, anh muốn đi leo núi cùng em không?",
+    "Gia đình em thường đi picnic ở chân núi vào mùa hè.",
+    "Chị ấy rất thích chụp ảnh cảnh hoàng hôn trên núi."
+  ],
+  "updatedAt": "2026-03-03T09:28:08.162Z",
+  "notes": "núi = mountain, a large natural landform that rises high above the land around it.\n\nIt’s a noun. Use the classifier ngọn → một ngọn núi, hai ngọn núi.  \nCommon pairings: leo núi (climb a mountain), dãy núi (mountain range), đỉnh núi (mountain peak), chân núi (foot of a mountain).  \nDon’t confuse with đồi (hill) — núi is bigger and higher.",
+  "choices": [
+    "sông",
+    "núi",
+    "biển"
+  ],
+  "rank": 1796,
+  "notes_md": "**núi** = mountain, a large natural landform that rises high above the land around it.\n\nIt’s a noun. Use the classifier **ngọn** → **một ngọn núi, hai ngọn núi**.  \nCommon pairings: **leo núi** (climb a mountain), **dãy núi** (mountain range), **đỉnh núi** (mountain peak), **chân núi** (foot of a mountain).  \nDon’t confuse with **đồi** (hill) — *núi* is bigger and higher.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:29:51.545Z",
+    "type": "multiChoiceQuiz",
+    "id": "9ea9fca9-bf55-44b2-bdde-7ada13e24c0c",
+    "content": {
+      "translation": {
+        "en": "We will climb the mountain this weekend."
+      },
+      "translatedAnswer": {
+        "en": "mountain"
+      },
+      "hint": "n__i",
+      "answer": "núi",
+      "choices": [
+        "đồi",
+        "núi",
+        "bãi biển"
+      ],
+      "word": "núi",
+      "sentence": "Chúng ta sẽ leo ___ vào cuối tuần.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:51.545Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "núi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "At8OfnsAO4PqlIijtsj5"
+}

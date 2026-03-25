@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "33f383f2-d49f-42d9-94e9-3bfa63d3436e",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:51:28.217Z",
+    "createdAt": "2025-03-12T13:51:28.217Z",
+    "content": {
+      "language": "vi",
+      "word": "thính giả",
+      "sentence": "Chương trình này thu hút ___ rất đông.",
+      "translatedAnswer": {
+        "en": "audience"
+      },
+      "translation": {
+        "en": "This program attracts a large audience."
+      },
+      "answer": "thính giả",
+      "choices": []
+    }
+  },
+  "notes": "Thính giả means audience member, usually someone listening to a talk, radio show, podcast, or speech. It focuses on listening, not watching.\n\nIt’s a countable noun: một thính giả, hai thính giả. You can use classifiers like một vị thính giả (polite/formal) or một người thính giả.\n\nCommon pairings: thính giả radio, thính giả truyền hình, thu hút thính giả (attract listeners).\n\nDon’t mix it up with khán giả (audience who watch, like at a movie or show). Think: thính = listen.",
+  "updatedAt": "2026-03-03T10:29:31.570Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:51:28.217Z",
+    "content": {
+      "word": "thính giả",
+      "sentence": "Chương trình này thu hút ___ rất đông.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "audience"
+      },
+      "translation": {
+        "en": "This program attracts a large audience."
+      },
+      "answer": "thính giả",
+      "hint": "t___a",
+      "choices": [
+        "khán giả",
+        "thính giả",
+        "nghe giả"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:51:28.217Z",
+    "id": "1a8b8cf4-926e-4bbd-bea2-e41cd5ed1a8f",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Thính giả** means *audience member*, usually someone listening to a talk, radio show, podcast, or speech. It focuses on listening, not watching.\n\nIt’s a countable noun: *một thính giả, hai thính giả*. You can use classifiers like **một vị thính giả** (polite/formal) or **một người thính giả**.\n\nCommon pairings: **thính giả radio**, **thính giả truyền hình**, **thu hút thính giả** (attract listeners).\n\nDon’t mix it up with **khán giả** (audience who watch, like at a movie or show). Think: *thính* = listen.",
+  "exampleSentencesTranslated": [
+    "He was an attentive audience member at the concert last night.",
+    "The audience members asked many interesting questions to the speaker.",
+    "She always feels happy when being an audience member at radio shows."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Una persona que escucha una transmisión, especialmente un programa de radio.",
+      "vi": "Người nghe một chương trình phát sóng, đặc biệt là chương trình radio.",
+      "en": "A person who listens to a broadcast, especially a radio program."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "audiencia",
+      "vi": "thính giả",
+      "en": "audience"
+    },
+    "createdAt": "2025-01-28T11:29:18.265Z",
+    "example": {
+      "en": "The audience really enjoys this show.",
+      "es": "La audiencia realmente disfruta de este programa.",
+      "vi": "Thính giả rất thích chương trình này."
+    }
+  },
+  "word": "thính giả",
+  "rank": 2378,
+  "exampleSentences": [
+    "Anh là một thính giả chăm chú trong buổi hòa nhạc tối qua.",
+    "Các thính giả đã đặt nhiều câu hỏi thú vị cho diễn giả.",
+    "Chị luôn cảm thấy vui khi làm thính giả ở các chương trình radio."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "audience member",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "người dẫn chương trình",
+    "thính giả",
+    "ca sĩ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "GABCakWIU46VVsWRx7GN"
+}

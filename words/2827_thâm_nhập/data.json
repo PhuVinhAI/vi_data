@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "thâm nhập",
+    "tham gia",
+    "giới thiệu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thâm nhập",
+  "exampleSentences": [
+    "Anh ấy cố gắng thâm nhập vào câu lạc bộ mà không ai biết.",
+    "Chị nghe nói có người đã thâm nhập hệ thống máy tính của công ty.",
+    "Các nhà báo trẻ muốn thâm nhập vào sự kiện lớn để lấy tin."
+  ],
+  "rank": 2827,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "enter secretly",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:43:58.064Z",
+    "content": {
+      "sentence": "Chúng ta cần ___ thông tin mới.",
+      "word": "thâm nhập",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "access"
+      },
+      "answer": "thâm nhập",
+      "translation": {
+        "en": "We need to access new information."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:43:58.064Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "5c4c97a5-2c41-4e8d-94f0-27470d875e36"
+  },
+  "notes": "Thâm nhập means to enter secretly or infiltrate, often without permission. It’s used for both physical places and systems (like buildings, organizations, computer systems).\n\nIt usually sounds serious and planned, not random. Common with things like hệ thống, tổ chức, lãnh thổ, thị trường.\n\nStronger and more formal than vào or đột nhập (which is more about breaking in physically).",
+  "updatedAt": "2026-03-03T18:01:32.756Z",
+  "notes_md": "**Thâm nhập** means to enter secretly or infiltrate, often without permission. It’s used for both physical places and systems (like buildings, organizations, computer systems).\n\nIt usually sounds serious and planned, not random. Common with things like *hệ thống, tổ chức, lãnh thổ, thị trường*.\n\n\nStronger and more formal than *vào* or *đột nhập* (which is more about breaking in physically).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "750f56be-9e47-4fb3-8eff-664b8c796fae",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:43:58.064Z",
+    "createdAt": "2025-03-12T13:43:58.064Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "access"
+      },
+      "word": "thâm nhập",
+      "sentence": "Chúng ta cần ___ thông tin mới.",
+      "language": "vi",
+      "hint": "th___ nhập",
+      "choices": [
+        "truy cập",
+        "thâm nhập",
+        "khám phá"
+      ],
+      "translation": {
+        "en": "We need to access new information."
+      },
+      "answer": "thâm nhập"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He tried to enter secretly into the club without anyone knowing.",
+    "She heard that someone has entered secretly the company's computer system.",
+    "The young journalists want to enter secretly the big event to get news."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Entrar o penetrar en un lugar o grupo de forma secreta, a menudo con un propósito específico.",
+      "vi": "Vào hoặc xâm nhập vào một nơi hoặc nhóm một cách bí mật, thường với một mục đích cụ thể.",
+      "en": "To enter or penetrate a place or group secretly, often for a specific purpose."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "infiltrarse",
+      "vi": "thâm nhập",
+      "en": "infiltrate"
+    },
+    "createdAt": "2025-01-28T11:22:16.406Z",
+    "example": {
+      "en": "The police infiltrated the crime gang.",
+      "vi": "Cảnh sát đã thâm nhập vào băng nhóm tội phạm.",
+      "es": "La policía se infiltró en la banda criminal."
+    }
+  },
+  "_id": "EShAg12ZtotvLSrD1oAU"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "bé",
+    "bố",
+    "bác"
+  ],
+  "updatedAt": "2026-03-03T06:58:53.789Z",
+  "exampleSentencesTranslated": [
+    "Anh sees the child playing outside in the yard with other kids.",
+    "Chị often tells fairy tales to the child before sleeping.",
+    "Em bought a birthday present for the child in the family."
+  ],
+  "notes": "bé = child, little kid (usually a baby or young child). It feels warm and affectionate.\n\nIt’s a noun. You often hear em bé (baby), đứa bé (a child), or just bé before a name to call a small child (Structure: bé + name – bé Na). Adults also use bé to gently call a child directly.\n\nVery common second meaning: bé = small (adjective), similar to nhỏ. This helps you remember the core idea: “little.”",
+  "fillBlankQuiz": {
+    "id": "277af416-8b8b-401b-b0e0-9471d82d7d34",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "She has a cute baby."
+      },
+      "sentence": "Cô ấy có một ___ dễ thương.",
+      "word": "bé",
+      "answer": "bé",
+      "translatedAnswer": {
+        "en": "baby"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:02:26.354Z",
+    "createdAt": "2025-03-12T14:02:26.354Z"
+  },
+  "definition": "child",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:02:26.354Z",
+    "createdAt": "2025-03-12T14:02:26.354Z",
+    "id": "9ba31c40-975f-4590-a840-2b9f3f8f2973",
+    "content": {
+      "translatedAnswer": {
+        "en": "baby"
+      },
+      "answer": "bé",
+      "translation": {
+        "en": "She has a cute baby."
+      },
+      "language": "vi",
+      "choices": [
+        "trẻ",
+        "bé",
+        "nhỏ"
+      ],
+      "hint": "b__",
+      "word": "bé",
+      "sentence": "Cô ấy có một ___ dễ thương."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "bé",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bé** = child, little kid (usually a baby or young child). It feels warm and affectionate.\n\nIt’s a noun. You often hear **em bé** (baby), **đứa bé** (a child), or just **bé** before a name to call a small child (Structure: bé + name – bé Na). Adults also use **bé** to gently call a child directly.\n\nVery common second meaning: **bé** = small (adjective), similar to *nhỏ*. This helps you remember the core idea: “little.”",
+  "exampleSentences": [
+    "Anh thấy bé đang chơi ở ngoài sân cùng các bạn nhỏ.",
+    "Chị thường kể chuyện cổ tích cho bé nghe trước khi ngủ.",
+    "Em mua một món quà sinh nhật cho bé trong gia đình."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Bé đang chơi trong công viên.",
+      "es": "El niño está jugando en el parque.",
+      "en": "The child is playing in the park."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:40:23.808Z",
+    "translations": {
+      "en": "child",
+      "es": "niño",
+      "vi": "bé"
+    },
+    "definitions": {
+      "en": "A young child or baby.",
+      "es": "Un niño pequeño o un bebé.",
+      "vi": "Một đứa trẻ nhỏ hoặc một em bé."
+    }
+  },
+  "rank": 365,
+  "_id": "JJRa72Tg1fc1ZFeyYe61"
+}

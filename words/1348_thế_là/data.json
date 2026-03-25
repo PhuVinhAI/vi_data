@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "An expression used to indicate a conclusion or result.",
+      "es": "Una expresión utilizada para indicar una conclusión o resultado.",
+      "vi": "Một biểu thức được sử dụng để chỉ ra một kết luận hoặc kết quả."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:09:12.338Z",
+    "example": {
+      "es": "Así que, he terminado el trabajo.",
+      "vi": "Thế là tôi đã hoàn thành công việc.",
+      "en": "So, I have finished the work."
+    },
+    "translations": {
+      "en": "so",
+      "vi": "thế là",
+      "es": "así que"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I forgot to bring an umbrella, so I got completely wet when it rained.",
+    "He worked hard all week, so he got a bonus at the end of the month.",
+    "She arrived late, so she missed the beginning of the movie."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:56:27.838Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "so"
+      },
+      "sentence": "Tôi đã làm xong, ___ nghỉ ngơi.",
+      "word": "thế là",
+      "language": "vi",
+      "hint": "t___ là",
+      "choices": [
+        "vậy là",
+        "thế là",
+        "cũng là"
+      ],
+      "answer": "thế là",
+      "translation": {
+        "en": "I have finished, so I can rest."
+      }
+    },
+    "updatedAt": "2025-03-12T13:56:27.838Z",
+    "id": "2fb20a7f-28ca-4e5d-b6e5-fa82af13a9e9",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**thế là** = “so” or “and as a result.” It shows a result that naturally follows from what happened before.\n\nIt connects two clauses, where the second is the outcome. The first part is usually a situation or action, and *thế là* introduces what happened next.\n\n\nIt often feels a bit storytelling, like “and then, so…” in English. Similar to **vì vậy** or **cho nên**, but *thế là* sounds more like a natural consequence in a sequence of events.",
+  "updatedAt": "2026-03-03T08:39:55.958Z",
+  "notes": "thế là = “so” or “and as a result.” It shows a result that naturally follows from what happened before.\n\nIt connects two clauses, where the second is the outcome. The first part is usually a situation or action, and thế là introduces what happened next.\n\nIt often feels a bit storytelling, like “and then, so…” in English. Similar to vì vậy or cho nên, but thế là sounds more like a natural consequence in a sequence of events.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:56:27.838Z",
+    "content": {
+      "translation": {
+        "en": "I have finished, so I can rest."
+      },
+      "answer": "thế là",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi đã làm xong, ___ nghỉ ngơi.",
+      "word": "thế là",
+      "translatedAnswer": {
+        "en": "so"
+      }
+    },
+    "updatedAt": "2025-03-12T13:56:27.838Z",
+    "id": "2648176b-a7d3-4d23-9cd5-30488e42ba86",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "so",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1348,
+  "exampleSentences": [
+    "Em quên mang ô, thế là bị ướt hết khi trời mưa.",
+    "Anh làm việc chăm chỉ suốt tuần, thế là được thưởng cuối tháng.",
+    "Chị đến muộn, thế là không kịp xem phần đầu của bộ phim."
+  ],
+  "word": "thế là",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thế thì",
+    "vậy là",
+    "thế là"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "HwvEXVelVcTSKqfjt3FO"
+}

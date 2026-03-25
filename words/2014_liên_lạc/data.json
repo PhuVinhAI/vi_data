@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-03-03T09:51:12.538Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:45:14.260Z",
+    "updatedAt": "2025-03-12T12:45:14.260Z",
+    "content": {
+      "sentence": "Tôi không thể ___ với anh ấy.",
+      "answer": "liên lạc",
+      "choices": [],
+      "translation": {
+        "en": "I cannot contact him."
+      },
+      "word": "liên lạc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "contact"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "55c165ee-94fc-4f4c-b0ec-f319b0243950",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**liên lạc** = to contact / to get in touch with someone. It’s used for calling, texting, emailing, or any way of reaching someone.\n\nIt’s a verb. You usually say **liên lạc với + person** (to contact someone). It can also be a noun meaning “contact/communication” in phrases like *giữ liên lạc* (keep in touch).\n\nClose synonym: **liên hệ** (very similar, slightly more formal or practical, like for work or services).",
+  "exampleSentencesTranslated": [
+    "If you need help, contact me anytime.",
+    "Old friends often contact each other through social media to update news.",
+    "I will contact you again when I have the interview results."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "liên lạc",
+    "giao tiếp",
+    "gặp mặt"
+  ],
+  "notes": "liên lạc = to contact / to get in touch with someone. It’s used for calling, texting, emailing, or any way of reaching someone.\n\nIt’s a verb. You usually say liên lạc với + person (to contact someone). It can also be a noun meaning “contact/communication” in phrases like giữ liên lạc (keep in touch).\n\nClose synonym: liên hệ (very similar, slightly more formal or practical, like for work or services).",
+  "word": "liên lạc",
+  "definition": "contact",
+  "rank": 2014,
+  "flashcard": {
+    "word": "liên lạc",
+    "example": {
+      "en": "I will contact you when I arrive.",
+      "vi": "Tôi sẽ liên lạc với bạn khi đến nơi."
+    },
+    "translations": {
+      "en": "contact; communicate"
+    },
+    "createdAt": "2025-05-24T16:15:21.710Z",
+    "definitions": {
+      "vi": "Giữ hoặc tạo kết nối, trao đổi thông tin với ai đó.",
+      "en": "To keep or establish communication or contact with someone."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "liên lạc",
+        "hợp tác",
+        "phản hồi"
+      ],
+      "translation": {
+        "en": "I cannot contact him."
+      },
+      "hint": "l___ l__",
+      "word": "liên lạc",
+      "translatedAnswer": {
+        "en": "contact"
+      },
+      "language": "vi",
+      "sentence": "Tôi không thể ___ với anh ấy.",
+      "answer": "liên lạc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "28fa32ab-84ff-4c31-98c3-cca3413a95e6",
+    "createdAt": "2025-03-12T12:45:14.260Z",
+    "updatedAt": "2025-03-12T12:45:14.260Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nếu em cần giúp đỡ, hãy liên lạc với anh bất cứ lúc nào.",
+    "Bạn bè cũ thường liên lạc qua mạng xã hội để cập nhật tin tức.",
+    "Chị sẽ liên lạc lại với em khi có kết quả phỏng vấn."
+  ],
+  "_id": "04PqQBiFdXGfSs8nUAuu"
+}

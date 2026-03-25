@@ -1,0 +1,101 @@
+{
+  "exampleSentences": [
+    "Em đặt sách trên bàn.",
+    "Anh để điện thoại trên ghế.",
+    "Chị thấy mèo trên nóc nhà."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "dưới",
+    "trên",
+    "trong"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "The cat is lying on the chair."
+      },
+      "word": "trên",
+      "choices": [],
+      "sentence": "Con mèo đang nằm ___ ghế.",
+      "translatedAnswer": {
+        "en": "on"
+      },
+      "answer": "trên"
+    },
+    "id": "d5f13509-f687-495f-971f-f04b6029ccfd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:01:49.847Z",
+    "updatedAt": "2025-03-12T16:01:49.847Z"
+  },
+  "rank": 97,
+  "notes": "trên means on or above — something is higher and usually touching or positioned over something else.\n\nIt’s a location word placed before a noun to show position.  \n\nIt can also mean over / above in a more general sense (higher than something, not always touching).  \n\nOpposite: dưới (under, below).  \n\nDon’t confuse it with lên (movement going up). Trên is about position, not motion.",
+  "definition": "on",
+  "sentenceBreakdowns": [
+    "Em (I) + đặt (put) + sách (book) + trên (on) + bàn (table)",
+    "Anh (he) + để (put) + điện thoại (phone) + trên (on) + ghế (chair)",
+    "Chị (she) + thấy (see) + mèo (cat) + trên (on) + nóc nhà (roof)"
+  ],
+  "notes_md": "**trên** means **on** or **above** — something is higher and usually touching or positioned over something else.\n\nIt’s a location word placed **before a noun** to show position.  \n\nIt can also mean **over / above** in a more general sense (higher than something, not always touching).  \n\nOpposite: **dưới** (under, below).  \n\nDon’t confuse it with **lên** (movement going up). *Trên* is about position, not motion.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "3a42fea5-8e89-41c4-b4bf-d2cd582b23d2",
+    "content": {
+      "word": "trên",
+      "translation": {
+        "en": "The bird is flying in the sky."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "in"
+      },
+      "answer": "trên",
+      "sentence": "Con chim đang bay ___ bầu trời.",
+      "choices": [
+        "trong",
+        "trên",
+        "dưới"
+      ],
+      "hint": "t___n"
+    },
+    "updatedAt": "2025-03-12T16:01:49.847Z",
+    "createdAt": "2025-03-12T16:01:49.847Z"
+  },
+  "updatedAt": "2026-03-03T06:12:52.600Z",
+  "word": "trên",
+  "flashcard": {
+    "translations": {
+      "en": "on; above"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Indicates a position above or on top of something else.",
+      "vi": "Chỉ vị trí ở phía cao hơn hoặc phía ngoài so với một vật khác."
+    },
+    "createdAt": "2025-05-24T16:33:09.128Z",
+    "word": "trên",
+    "example": {
+      "vi": "Cuốn sách nằm trên bàn.",
+      "en": "The book is on the table."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "I put the book on the table.",
+    "He puts the phone on the chair.",
+    "She sees the cat on the roof."
+  ],
+  "_id": "mYm1RH8JLLaNMaFp1Lo3"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:56:30.848Z",
+    "updatedAt": "2025-03-12T12:56:30.848Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "mouth"
+      },
+      "language": "vi",
+      "word": "miệng",
+      "choices": [],
+      "translation": {
+        "en": "She opened her mouth to speak."
+      },
+      "answer": "miệng",
+      "sentence": "Cô ấy mở ___ ra để nói."
+    },
+    "type": "fillBlankQuiz",
+    "id": "287695f5-c177-46b5-a2e1-35cb62131757",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T09:50:30.439Z",
+  "exampleSentencesTranslated": [
+    "I have pain in my mouth so eating is a bit uncomfortable.",
+    "Remember to rinse your mouth after brushing your teeth every morning.",
+    "She smiled brightly with a wide smile on her mouth."
+  ],
+  "notes_md": "**miệng** = mouth (the body part you use to eat, speak, smile).  \n\nIt’s a noun. Use the classifier **cái** → *một cái miệng*. Common pairings: **há miệng** (open your mouth), **ngậm miệng** (shut your mouth), **miệng rộng / miệng nhỏ**.  \n\nIt also means the **opening** of something: **miệng chai** (bottle opening), **miệng giếng** (top of a well).  \n\nFiguratively, it can relate to speech or attitude: **miệng lưỡi** (way of speaking, often negative), **ăn nói bằng miệng** (verbal).",
+  "word": "miệng",
+  "choices": [
+    "miệng",
+    "mắt",
+    "tai"
+  ],
+  "notes": "miệng = mouth (the body part you use to eat, speak, smile).  \n\nIt’s a noun. Use the classifier cái → một cái miệng. Common pairings: há miệng (open your mouth), ngậm miệng (shut your mouth), miệng rộng / miệng nhỏ.  \n\nIt also means the opening of something: miệng chai (bottle opening), miệng giếng (top of a well).  \n\nFiguratively, it can relate to speech or attitude: miệng lưỡi (way of speaking, often negative), ăn nói bằng miệng (verbal).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em bị đau miệng nên ăn uống hơi khó chịu.",
+    "Anh nhớ rửa miệng sau khi đánh răng mỗi sáng nhé.",
+    "Chị ấy cười tươi với nụ cười rộng trên miệng."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "miệng",
+      "sentence": "Cậu ấy có một ___ lớn.",
+      "hint": "m___",
+      "word": "miệng",
+      "translatedAnswer": {
+        "en": "mouth"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "He has a big mouth."
+      },
+      "choices": [
+        "mũi",
+        "miệng",
+        "tai"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "cc0bd4ae-3ed7-459a-96a5-65fa8b8d65ac",
+    "createdAt": "2025-03-12T12:56:30.848Z",
+    "updatedAt": "2025-03-12T12:56:30.848Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "The part of the face used for speaking, eating, and breathing.",
+      "vi": "Phần của khuôn mặt được sử dụng để nói, ăn và thở.",
+      "es": "La parte de la cara utilizada para hablar, comer y respirar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:39:49.692Z",
+    "example": {
+      "es": "Ella tiene una sonrisa brillante en la boca.",
+      "en": "She has a bright smile on her mouth.",
+      "vi": "Cô ấy có một nụ cười tươi trên miệng."
+    },
+    "translations": {
+      "es": "boca",
+      "en": "mouth",
+      "vi": "miệng"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2007,
+  "definition": "mouth",
+  "_id": "1sZ96P5a9lbUATy5Jd4r"
+}

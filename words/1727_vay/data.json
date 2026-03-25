@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:19:00.354Z",
+    "id": "b9147470-7c96-46e6-86f0-0cb71255b510",
+    "content": {
+      "hint": "v__",
+      "answer": "vay",
+      "translatedAnswer": {
+        "en": "loan"
+      },
+      "translation": {
+        "en": "Do you need a loan?"
+      },
+      "sentence": "Bạn có cần ___ không?",
+      "language": "vi",
+      "word": "vay",
+      "choices": [
+        "cầm",
+        "vay",
+        "mượn"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:19:00.354Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**vay** = to borrow money, especially formally (from a bank or person). It’s mostly used for money, not small everyday objects.\n\n\nFor borrowing general objects (like a pen or book), Vietnamese usually uses **mượn**, not *vay*.  \nOpposite idea: **cho vay** = to lend (you are the one giving the money).",
+  "rank": 1727,
+  "choices": [
+    "vay",
+    "bán",
+    "gửi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "vay",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:19:00.354Z",
+    "content": {
+      "choices": [],
+      "word": "vay",
+      "sentence": "Cô ấy muốn mua một ___ mới.",
+      "language": "vi",
+      "translation": {
+        "en": "She wants to buy a loan."
+      },
+      "translatedAnswer": {
+        "en": "loan"
+      },
+      "answer": "vay"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:19:00.354Z",
+    "id": "98eef6b9-df19-415b-866d-da9019cfc4c0",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Can I borrow some money from you until the end of the week?",
+    "I often borrow books from the school library to read more.",
+    "She has to borrow money from the bank to buy a new car."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Pedir prestado o tomar un préstamo.",
+      "vi": "Vay mượn hoặc lấy một khoản vay.",
+      "en": "To borrow or take a loan."
+    },
+    "example": {
+      "vi": "Tôi cần vay tiền để mua xe.",
+      "es": "Necesito pedir prestado dinero para comprar un coche.",
+      "en": "I need to borrow money to buy a car."
+    },
+    "translations": {
+      "vi": "vay",
+      "es": "prestar",
+      "en": "borrow"
+    },
+    "createdAt": "2025-01-28T10:59:25.902Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "borrow",
+  "notes": "vay = to borrow money, especially formally (from a bank or person). It’s mostly used for money, not small everyday objects.\n\nFor borrowing general objects (like a pen or book), Vietnamese usually uses mượn, not vay.  \nOpposite idea: cho vay = to lend (you are the one giving the money).",
+  "updatedAt": "2026-03-03T09:20:50.239Z",
+  "exampleSentences": [
+    "Anh có thể vay em một ít tiền cho đến cuối tuần không?",
+    "Em thường vay sách ở thư viện trường để đọc thêm.",
+    "Chị ấy phải vay tiền ngân hàng để mua xe mới."
+  ],
+  "_id": "86yGesdKtqDmvs05WKec"
+}

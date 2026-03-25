@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:22:54.753Z",
+    "id": "2dab25fe-10ed-4dd3-a603-b6b3169a581f",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:54.753Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Họ luôn ___ kiến thức mới.",
+      "word": "trau dồi",
+      "choices": [
+        "tích lũy",
+        "trau dồi",
+        "phát triển"
+      ],
+      "hint": "t___ d___",
+      "answer": "trau dồi",
+      "translatedAnswer": {
+        "en": "cultivate"
+      },
+      "translation": {
+        "en": "They always cultivate new knowledge."
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**trau dồi** = to improve or polish a skill/quality over time. It’s about steady self-development, not a quick fix.\n\nIt’s a verb, often used with things like **kỹ năng** (skills), **kiến thức** (knowledge), **kinh nghiệm** (experience), **vốn từ** (vocabulary). It sounds intentional and long-term.\n\n\nClose to **cải thiện** (improve), but *trau dồi* feels more like “sharpening” or “refining” yourself. Also similar to **rèn luyện**, which focuses more on training and discipline.",
+  "rank": 2663,
+  "choices": [
+    "trau dồi",
+    "tham gia",
+    "giải thích"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "trau dồi",
+  "exampleSentencesTranslated": [
+    "I always try to improve my communication skills every day.",
+    "She wants to improve knowledge to work better.",
+    "He often reads books to improve his English vocabulary."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:22:54.753Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:54.753Z",
+    "content": {
+      "choices": [],
+      "sentence": "Chúng ta cần ___ kỹ năng này.",
+      "language": "vi",
+      "word": "trau dồi",
+      "translatedAnswer": {
+        "en": "cultivate"
+      },
+      "translation": {
+        "en": "We need to cultivate this skill."
+      },
+      "answer": "trau dồi"
+    },
+    "id": "c74105db-8f90-47d4-b50d-aabc6517ead7"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "cultivate",
+      "vi": "trau dồi",
+      "es": "cultivar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:57:40.335Z",
+    "definitions": {
+      "es": "Cultivar o mejorar las habilidades o conocimientos de uno.",
+      "vi": "Cải thiện hoặc nâng cao kỹ năng hoặc kiến thức của bản thân.",
+      "en": "To cultivate or improve one's skills or knowledge."
+    },
+    "example": {
+      "vi": "Tôi luôn cố gắng trau dồi kiến thức của mình.",
+      "es": "Siempre trato de cultivar mi conocimiento.",
+      "en": "I always try to cultivate my knowledge."
+    }
+  },
+  "definition": "improve",
+  "notes": "trau dồi = to improve or polish a skill/quality over time. It’s about steady self-development, not a quick fix.\n\nIt’s a verb, often used with things like kỹ năng (skills), kiến thức (knowledge), kinh nghiệm (experience), vốn từ (vocabulary). It sounds intentional and long-term.\n\nClose to cải thiện (improve), but trau dồi feels more like “sharpening” or “refining” yourself. Also similar to rèn luyện, which focuses more on training and discipline.",
+  "updatedAt": "2026-03-03T11:33:31.120Z",
+  "exampleSentences": [
+    "Em luôn cố gắng trau dồi kỹ năng giao tiếp mỗi ngày.",
+    "Chị muốn trau dồi kiến thức để làm việc tốt hơn.",
+    "Anh ấy thường đọc sách để trau dồi vốn từ vựng tiếng Anh."
+  ],
+  "_id": "d7AWUfBeuSnDOBkPHdrC"
+}

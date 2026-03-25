@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:39:55.093Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:39:55.093Z",
+    "content": {
+      "translation": {
+        "en": "This trip is an interesting journey."
+      },
+      "translatedAnswer": {
+        "en": "journey"
+      },
+      "hint": "h____n",
+      "answer": "hành trình",
+      "choices": [
+        "cuộc phiêu lưu",
+        "hành trình",
+        "chuyến đi"
+      ],
+      "word": "hành trình",
+      "language": "vi",
+      "sentence": "Chuyến đi này là một ___ thú vị."
+    },
+    "id": "88f90924-d2be-4534-b3c3-b199944b2978"
+  },
+  "choices": [
+    "hành trình",
+    "kỷ niệm",
+    "bài học"
+  ],
+  "rank": 437,
+  "notes_md": "**Hành trình** = journey, a trip from one place to another, often long or meaningful. It can be physical (travel) or life-related (career, personal growth).\n\nIt’s a noun. You usually say **một hành trình**, **cuộc hành trình**, or add adjectives like **dài**, **khó khăn**, **đầy thử thách**.\n\nCompared to **chuyến đi** (a simple trip), *hành trình* feels longer, deeper, or more important. It often focuses on the process, not just the destination.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hành trình",
+  "fillBlankQuiz": {
+    "id": "39e1ecc4-0a26-45db-9136-40da288838af",
+    "content": {
+      "choices": [],
+      "word": "hành trình",
+      "sentence": "Chuyến đi này là một ___ thú vị.",
+      "language": "vi",
+      "translation": {
+        "en": "This trip is an interesting journey."
+      },
+      "translatedAnswer": {
+        "en": "journey"
+      },
+      "answer": "hành trình"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:39:55.093Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:39:55.093Z"
+  },
+  "exampleSentencesTranslated": [
+    "He has prepared everything for the journey to explore Central Vietnam.",
+    "She feels very excited about the new journey in her life.",
+    "Every journey brings me many valuable experiences."
+  ],
+  "definition": "journey",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:13:34.108Z",
+    "translations": {
+      "es": "viaje",
+      "vi": "hành trình",
+      "en": "journey"
+    },
+    "example": {
+      "en": "My journey starts from Hanoi.",
+      "vi": "Hành trình của tôi bắt đầu từ Hà Nội.",
+      "es": "Mi viaje comienza en Hanoi."
+    },
+    "definitions": {
+      "en": "A journey or trip, often implying a significant or meaningful travel experience.",
+      "es": "Un viaje o trayecto, a menudo implicando una experiencia de viaje significativa o significativa.",
+      "vi": "Một chuyến đi hoặc hành trình, thường ngụ ý một trải nghiệm du lịch quan trọng hoặc có ý nghĩa."
+    }
+  },
+  "notes": "Hành trình = journey, a trip from one place to another, often long or meaningful. It can be physical (travel) or life-related (career, personal growth).\n\nIt’s a noun. You usually say một hành trình, cuộc hành trình, or add adjectives like dài, khó khăn, đầy thử thách.\n\nCompared to chuyến đi (a simple trip), hành trình feels longer, deeper, or more important. It often focuses on the process, not just the destination.",
+  "exampleSentences": [
+    "Anh đã chuẩn bị mọi thứ cho hành trình khám phá miền Trung.",
+    "Chị cảm thấy rất hào hứng trước hành trình mới trong cuộc sống.",
+    "Mỗi hành trình đều mang đến cho em nhiều kinh nghiệm quý giá."
+  ],
+  "updatedAt": "2026-03-03T07:06:00.191Z",
+  "_id": "h9QyTPRrnkzcUDaEwOyx"
+}

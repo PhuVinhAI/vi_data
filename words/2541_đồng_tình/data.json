@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đồng ý",
+    "đồng tình",
+    "phản đối"
+  ],
+  "rank": 2541,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "8a2dbd74-f977-4b3f-8573-3aba6143e880",
+    "createdAt": "2025-03-12T14:56:26.347Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "choices": [
+        "không đồng ý",
+        "đồng tình",
+        "tán thành"
+      ],
+      "translation": {
+        "en": "Do you agree with my opinion?"
+      },
+      "sentence": "Bạn có ___ với ý kiến của tôi không?",
+      "hint": "đ___n",
+      "answer": "đồng tình",
+      "language": "vi",
+      "word": "đồng tình"
+    },
+    "updatedAt": "2025-03-12T14:56:26.347Z"
+  },
+  "word": "đồng tình",
+  "exampleSentences": [
+    "Anh rất đồng tình với ý kiến của em về dự án mới.",
+    "Chị không đồng tình với kế hoạch thay đổi lịch trình làm việc.",
+    "Mọi người trong nhóm đều đồng tình với quyết định của trưởng phòng."
+  ],
+  "notes": "đồng tình = to agree with someone or something. It’s about sharing the same opinion or supporting an idea.\n\nIt’s a verb, often used with với + person/idea.  \n\nYou’ll often see it with words like ý kiến (opinion), quan điểm (view), kế hoạch (plan), quyết định (decision).  \n\nClose synonym: tán thành (a bit more formal). Opposite: phản đối (to oppose).",
+  "exampleSentencesTranslated": [
+    "I agree with your opinion about the new project.",
+    "She does not agree with the plan to change the work schedule.",
+    "Everyone in the team agree with the manager's decision."
+  ],
+  "updatedAt": "2026-03-03T10:46:53.445Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "60fc9b39-2605-45de-be11-c9abd5fd3710",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:56:26.347Z",
+    "updatedAt": "2025-03-12T14:56:26.347Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "translation": {
+        "en": "We agree with this decision."
+      },
+      "sentence": "Chúng ta ___ với quyết định này.",
+      "answer": "đồng tình",
+      "word": "đồng tình",
+      "language": "vi"
+    }
+  },
+  "flashcard": {
+    "example": {
+      "en": "I agree with your opinion.",
+      "es": "Estoy de acuerdo con tu opinión.",
+      "vi": "Tôi đồng tình với ý kiến của bạn."
+    },
+    "translations": {
+      "en": "agree",
+      "es": "estar de acuerdo",
+      "vi": "đồng tình"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To have the same opinion or to approve of something.",
+      "es": "Tener la misma opinión o aprobar algo.",
+      "vi": "Có cùng ý kiến hoặc chấp thuận điều gì đó."
+    },
+    "createdAt": "2025-01-28T12:29:37.719Z"
+  },
+  "notes_md": "**đồng tình** = to agree with someone or something. It’s about sharing the same opinion or supporting an idea.\n\nIt’s a verb, often used with **với + person/idea**.  \n\nYou’ll often see it with words like *ý kiến* (opinion), *quan điểm* (view), *kế hoạch* (plan), *quyết định* (decision).  \n\nClose synonym: **tán thành** (a bit more formal). Opposite: **phản đối** (to oppose).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "agree",
+  "_id": "Vsu07wcKuAmHyWXJW5zR"
+}

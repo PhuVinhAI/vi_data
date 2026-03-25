@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "58939a85-3043-4bcd-b2a1-b7aa1ff7bda1",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "students"
+      },
+      "answer": "học trò",
+      "translation": {
+        "en": "In the class, there are many smart students."
+      },
+      "choices": [
+        "học sinh",
+        "học trò",
+        "học viên"
+      ],
+      "language": "vi",
+      "hint": "h___g",
+      "word": "học trò",
+      "sentence": "Trong lớp, có nhiều ___ thông minh."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:21:53.140Z",
+    "createdAt": "2025-03-12T14:21:53.140Z"
+  },
+  "word": "học trò",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Học trò** means *student*, especially a student in relation to a teacher (like “my student”). It feels a bit traditional and focuses on the teacher–student relationship.\n\nIt’s a countable noun: *một học trò, hai học trò, các học trò*. Often used with **của** to show whose student: *học trò của tôi*.  \n\nVery close to **học sinh** (more neutral, used for school students). *Học trò* can sound slightly more personal or old-fashioned.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Học trò means student, especially a student in relation to a teacher (like “my student”). It feels a bit traditional and focuses on the teacher–student relationship.\n\nIt’s a countable noun: một học trò, hai học trò, các học trò. Often used with của to show whose student: học trò của tôi.  \n\nVery close to học sinh (more neutral, used for school students). Học trò can sound slightly more personal or old-fashioned.",
+  "exampleSentencesTranslated": [
+    "She is a hard-working student and always does her homework.",
+    "The teacher is very proud of his student in the class.",
+    "He often helps the new student get used to the school."
+  ],
+  "choices": [
+    "học trò",
+    "giáo viên",
+    "bạn bè"
+  ],
+  "updatedAt": "2026-03-03T10:06:24.554Z",
+  "definition": "student",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:21:53.140Z",
+    "updatedAt": "2025-03-12T14:21:53.140Z",
+    "content": {
+      "translation": {
+        "en": "The teacher teaches the students very diligently."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "học trò",
+      "sentence": "Cô giáo dạy ___ rất chăm chỉ.",
+      "translatedAnswer": {
+        "en": "students"
+      },
+      "answer": "học trò"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "1de6e764-39fa-48c9-8938-798acd1c8706"
+  },
+  "rank": 2160,
+  "exampleSentences": [
+    "Chị là một học trò chăm chỉ và luôn làm bài tập đầy đủ.",
+    "Giáo viên rất tự hào về các học trò của mình trong lớp.",
+    "Anh thường giúp học trò mới làm quen với trường học."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A student, especially in a school setting.",
+      "vi": "Một học sinh, đặc biệt trong môi trường trường học.",
+      "es": "Un estudiante, especialmente en un entorno escolar."
+    },
+    "translations": {
+      "en": "student",
+      "vi": "học trò",
+      "es": "estudiante"
+    },
+    "createdAt": "2025-01-28T11:57:57.344Z",
+    "example": {
+      "en": "My student is very smart.",
+      "es": "Mi estudiante es muy inteligente.",
+      "vi": "Học trò của tôi rất thông minh."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "NZQ9khyvAiOJXpLn5jFJ"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "533b307f-048b-4b9b-8a8c-43a8e1be2fb5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:29:47.784Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "feel"
+      },
+      "answer": "cảm thấy",
+      "translation": {
+        "en": "I feel very happy today."
+      },
+      "choices": [],
+      "sentence": "Tôi ___ rất vui hôm nay.",
+      "word": "cảm thấy"
+    },
+    "updatedAt": "2025-03-12T16:29:47.784Z"
+  },
+  "definition": "feel",
+  "rank": 140,
+  "notes_md": "**Cảm thấy** = to feel (an emotion or physical state). It’s about your inner feelings, both emotional and physical.\n\nIt’s a verb, so you use it before adjectives or feeling words.  \n\nVery often followed by emotions: vui, buồn, mệt, khỏe, đau, lo lắng, hạnh phúc.  \nClose to **thấy**, but *cảm thấy* is more about internal feelings, while *thấy* can be more general (“see/notice/think”).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cảm thấy",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "Today I feel very happy because I received your message.",
+    "I feel a bit tired after working all day at the office.",
+    "I feel nervous before joining the important interview."
+  ],
+  "exampleSentences": [
+    "Hôm nay em cảm thấy rất vui vì nhận được tin nhắn của bạn.",
+    "Anh cảm thấy hơi mệt sau khi làm việc cả ngày ở văn phòng.",
+    "Chị cảm thấy lo lắng trước khi tham gia buổi phỏng vấn quan trọng."
+  ],
+  "updatedAt": "2026-03-03T06:34:24.339Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:29:47.784Z",
+    "id": "53b4fa8f-8ff1-4d4e-b082-0f6cebc96591",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "feel"
+      },
+      "translation": {
+        "en": "Today I feel tired."
+      },
+      "choices": [
+        "cảm thấy",
+        "biết ơn",
+        "thích thú"
+      ],
+      "answer": "cảm thấy",
+      "sentence": "Hôm nay tôi ___ mệt mỏi.",
+      "word": "cảm thấy",
+      "hint": "c___ thấy"
+    },
+    "updatedAt": "2025-03-12T16:29:47.784Z"
+  },
+  "choices": [
+    "cảm thấy",
+    "nghĩ về",
+    "gặp gỡ"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Cảm thấy = to feel (an emotion or physical state). It’s about your inner feelings, both emotional and physical.\n\nIt’s a verb, so you use it before adjectives or feeling words.  \n\nVery often followed by emotions: vui, buồn, mệt, khỏe, đau, lo lắng, hạnh phúc.  \nClose to thấy, but cảm thấy is more about internal feelings, while thấy can be more general (“see/notice/think”).",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:00:46.118Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To perceive or experience an emotion or sensation.",
+      "es": "Percibir o experimentar una emoción o sensación.",
+      "vi": "Nhận thức hoặc trải nghiệm một cảm xúc hoặc cảm giác."
+    },
+    "example": {
+      "vi": "Tôi cảm thấy rất vui hôm nay.",
+      "en": "I feel very happy today.",
+      "es": "Me siento muy feliz hoy."
+    },
+    "translations": {
+      "vi": "cảm thấy",
+      "es": "sentir",
+      "en": "feel"
+    }
+  },
+  "_id": "tyA9fIkjds56cZbZyq9E"
+}

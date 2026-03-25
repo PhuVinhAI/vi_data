@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:14.676Z",
+    "content": {
+      "word": "lịch sử",
+      "sentence": "Môn học yêu thích của tôi là ___.",
+      "language": "vi",
+      "choices": [
+        "địa lý",
+        "lịch sử",
+        "toán học"
+      ],
+      "hint": "l___",
+      "answer": "lịch sử",
+      "translation": {
+        "en": "My favorite subject is history."
+      },
+      "translatedAnswer": {
+        "en": "history"
+      }
+    },
+    "id": "659b99f3-563a-4a3c-a3d3-d4c0250aaae4",
+    "updatedAt": "2025-03-12T15:23:14.676Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1101,
+  "choices": [
+    "lịch sử",
+    "địa lý",
+    "văn hóa"
+  ],
+  "notes_md": "**lịch sử** = history — past events of a country, place, or person.\n\nIt’s an uncountable noun when talking about history in general, but you use words like *môn* (school subject) or *cuốn sách* (book) before it when needed. Often followed by **của** to show whose history (lịch sử của + place/person). It also works as a modifier: *giá trị lịch sử* (historical value), *di tích lịch sử* (historical site).  \n\nClose idea: **quá khứ** = the past, but that’s more personal or time-focused, not the academic or national sense of “history.”",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "lịch sử",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "46b958d9-9059-48c2-bed8-f9382257f8fb",
+    "content": {
+      "translatedAnswer": {
+        "en": "history"
+      },
+      "translation": {
+        "en": "My favorite subject is history."
+      },
+      "answer": "lịch sử",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Môn học yêu thích của tôi là ___.",
+      "word": "lịch sử"
+    },
+    "createdAt": "2025-03-12T15:23:14.676Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T15:23:14.676Z"
+  },
+  "exampleSentencesTranslated": [
+    "I really like reading books about Vietnamese history.",
+    "I want to learn more about the history of this city.",
+    "I think the history subject at school is quite interesting and useful."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "La historia de Vietnam es muy rica.",
+      "vi": "Lịch sử Việt Nam rất phong phú.",
+      "en": "The history of Vietnam is very rich."
+    },
+    "definitions": {
+      "en": "The study of past events, particularly in human affairs.",
+      "es": "El estudio de eventos pasados, particularmente en los asuntos humanos.",
+      "vi": "Nghiên cứu các sự kiện trong quá khứ, đặc biệt là trong các vấn đề của con người."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:58:03.589Z",
+    "translations": {
+      "en": "history",
+      "es": "historia",
+      "vi": "lịch sử"
+    }
+  },
+  "definition": "history",
+  "notes": "lịch sử = history — past events of a country, place, or person.\n\nIt’s an uncountable noun when talking about history in general, but you use words like môn (school subject) or cuốn sách (book) before it when needed. Often followed by của to show whose history (lịch sử của + place/person). It also works as a modifier: giá trị lịch sử (historical value), di tích lịch sử (historical site).  \n\nClose idea: quá khứ = the past, but that’s more personal or time-focused, not the academic or national sense of “history.”",
+  "exampleSentences": [
+    "Anh rất thích đọc sách về lịch sử Việt Nam.",
+    "Chị muốn tìm hiểu thêm về lịch sử của thành phố này.",
+    "Em nghĩ môn lịch sử ở trường khá thú vị và hữu ích."
+  ],
+  "updatedAt": "2026-03-03T08:13:21.017Z",
+  "_id": "dCPhmaVMkrqnoy6rGqA2"
+}

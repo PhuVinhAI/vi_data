@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "gang, group",
+      "vi": "băng, nhóm",
+      "es": "pandilla, grupo"
+    },
+    "createdAt": "2025-01-28T12:20:26.711Z",
+    "definitions": {
+      "es": "Un grupo de personas, a menudo utilizado para referirse a una pandilla o un grupo de amigos.",
+      "en": "A group of people, often used to refer to a gang or a group of friends.",
+      "vi": "Một nhóm người, thường được sử dụng để chỉ một băng nhóm hoặc một nhóm bạn bè."
+    },
+    "example": {
+      "vi": "Bọn trẻ đang chơi ở công viên.",
+      "en": "The kids are playing in the park.",
+      "es": "Los niños están jugando en el parque."
+    }
+  },
+  "exampleSentences": [
+    "Bọn anh sẽ đi xem phim vào cuối tuần này.",
+    "Tối nay bọn em định ăn tối ở nhà hàng mới.",
+    "Bọn họ luôn giúp đỡ nhau khi gặp khó khăn."
+  ],
+  "notes_md": "**bọn** = a group of people, usually informal. It often refers to “us guys,” “you guys,” or “that bunch.”\n\nIt’s used for people, not things. The tone can be friendly (talking about your own group) or slightly negative when talking about others.\n\n\nClose words: **nhóm** (neutral “group”), **tụi** (very informal, similar feeling), **đám** (a bunch/crowd, sometimes rough).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:19:08.154Z",
+    "content": {
+      "translation": {
+        "en": "The group of children is playing outside."
+      },
+      "answer": "bọn",
+      "choices": [],
+      "word": "bọn",
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "language": "vi",
+      "sentence": "___ trẻ em đang chơi ngoài sân."
+    },
+    "type": "fillBlankQuiz",
+    "id": "e4a8ec47-6d4f-4056-9231-e7889ff8e352",
+    "createdAt": "2025-03-12T17:19:08.154Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "group",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 434,
+  "exampleSentencesTranslated": [
+    "The group will go to the movies this weekend.",
+    "Tonight the group plans to have dinner at the new restaurant.",
+    "The group always helps each other when facing difficulties."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "593d0508-f413-4427-9f4c-64def57a722c",
+    "createdAt": "2025-03-12T17:19:08.154Z",
+    "content": {
+      "sentence": "___ trẻ em đang chơi ngoài sân.",
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "language": "vi",
+      "word": "bọn",
+      "choices": [
+        "bọn",
+        "nhóm",
+        "đám"
+      ],
+      "hint": "b___",
+      "answer": "bọn",
+      "translation": {
+        "en": "The group of children is playing outside."
+      }
+    },
+    "updatedAt": "2025-03-12T17:19:08.154Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "bọn",
+  "updatedAt": "2026-03-03T07:05:43.704Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bọn",
+    "cái",
+    "con"
+  ],
+  "notes": "bọn = a group of people, usually informal. It often refers to “us guys,” “you guys,” or “that bunch.”\n\nIt’s used for people, not things. The tone can be friendly (talking about your own group) or slightly negative when talking about others.\n\nClose words: nhóm (neutral “group”), tụi (very informal, similar feeling), đám (a bunch/crowd, sometimes rough).",
+  "_id": "TJaaciJDxcUbB76pZNYv"
+}

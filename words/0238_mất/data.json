@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "lost",
+      "vi": "mất",
+      "es": "perdido"
+    },
+    "createdAt": "2025-01-28T12:09:43.110Z",
+    "definitions": {
+      "vi": "mất; bị mất",
+      "en": "to lose; to be lost",
+      "es": "perder; estar perdido"
+    },
+    "example": {
+      "es": "Perdí mi billetera.",
+      "vi": "Tôi đã mất chiếc ví của mình.",
+      "en": "I lost my wallet."
+    }
+  },
+  "exampleSentences": [
+    "Anh vừa mới mất chìa khóa nên không vào nhà được.",
+    "Chị rất buồn khi mất chiếc ví ở trên xe buýt.",
+    "Em không muốn mất cơ hội gặp mọi người vào cuối tuần này."
+  ],
+  "notes_md": "**mất** = to lose something (an object, a chance, money). It’s also used when something is gone or no longer there.\n\nUse **mất + noun** for things you lose: keys, phone, job, etc. It can also mean “to take (time)” when talking about duration.\n\n\nVery common extra meaning: **mất** = to pass away (polite way to say someone died).  \nStrong contrast: **mất** (lose) ↔ **được** (gain/get).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f0dc3a76-9948-4c77-93aa-fc0eb6960230",
+    "createdAt": "2025-03-12T14:34:08.345Z",
+    "updatedAt": "2025-03-12T14:34:08.345Z",
+    "content": {
+      "choices": [],
+      "word": "mất",
+      "translation": {
+        "en": "I have lost my keys."
+      },
+      "answer": "mất",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "lost"
+      },
+      "sentence": "Tôi đã ___ chìa khóa của mình."
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "lose",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:34:08.345Z",
+    "id": "5609fe6b-3648-444f-8254-fdc98e3db470",
+    "content": {
+      "hint": "m__t",
+      "translation": {
+        "en": "I have lost my keys."
+      },
+      "answer": "mất",
+      "word": "mất",
+      "choices": [
+        "mất",
+        "tìm",
+        "có"
+      ],
+      "sentence": "Tôi đã ___ chìa khóa của mình.",
+      "translatedAnswer": {
+        "en": "lost"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:34:08.345Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "mất",
+  "exampleSentencesTranslated": [
+    "Anh just lose his keys so he cannot enter the house.",
+    "Chị is very sad when she lose her wallet on the bus.",
+    "Em does not want to lose the chance to meet everyone this weekend."
+  ],
+  "rank": 238,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:44:28.488Z",
+  "choices": [
+    "mất",
+    "gặp",
+    "tìm"
+  ],
+  "notes": "mất = to lose something (an object, a chance, money). It’s also used when something is gone or no longer there.\n\nUse mất + noun for things you lose: keys, phone, job, etc. It can also mean “to take (time)” when talking about duration.\n\nVery common extra meaning: mất = to pass away (polite way to say someone died).  \nStrong contrast: mất (lose) ↔ được (gain/get).",
+  "_id": "Qk0Dp2IT5iY7RehPn5Q3"
+}

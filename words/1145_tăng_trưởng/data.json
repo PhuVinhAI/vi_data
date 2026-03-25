@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:48:29.725Z",
+    "updatedAt": "2025-03-12T15:48:29.725Z",
+    "content": {
+      "sentence": "Kinh tế quốc gia đang ___ nhanh.",
+      "choices": [
+        "giảm sút",
+        "tăng trưởng",
+        "ổn định"
+      ],
+      "hint": "t___g",
+      "translatedAnswer": {
+        "en": "growing"
+      },
+      "answer": "tăng trưởng",
+      "word": "tăng trưởng",
+      "translation": {
+        "en": "The national economy is growing fast."
+      },
+      "language": "vi"
+    },
+    "id": "63a73d56-edf0-456c-81f1-4c0474785e37",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**tăng trưởng** = growth, especially an increase over time (money, economy, business, numbers). It’s a **noun**.\n\nUsually uncountable, but you’ll hear it with measures like **mức tăng trưởng**, **tốc độ tăng trưởng**, **tỷ lệ tăng trưởng**. Very common with big topics: **tăng trưởng kinh tế**, **tăng trưởng doanh thu**, **tăng trưởng dân số**.\n\n\nClose idea: **phát triển** (development, broader and more general). Opposite idea: **suy giảm** (decline).",
+  "exampleSentencesTranslated": [
+    "This year, Vietnam's economy has very impressive growth.",
+    "My company is looking for ways to boost growth next quarter.",
+    "The government set a higher growth target for next year."
+  ],
+  "word": "tăng trưởng",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:21:05.513Z",
+    "definitions": {
+      "es": "El proceso de aumentar en tamaño, cantidad o grado.",
+      "en": "The process of increasing in size, amount, or degree.",
+      "vi": "Quá trình tăng lên về kích thước, số lượng hoặc mức độ."
+    },
+    "example": {
+      "en": "The Vietnamese economy is experiencing strong growth.",
+      "es": "La economía vietnamita está experimentando un fuerte crecimiento.",
+      "vi": "Nền kinh tế Việt Nam đang trong giai đoạn tăng trưởng mạnh mẽ."
+    },
+    "translations": {
+      "en": "growth",
+      "es": "crecimiento",
+      "vi": "tăng trưởng"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T08:17:38.626Z",
+  "choices": [
+    "tăng trưởng",
+    "phát triển",
+    "giảm sút"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:48:29.725Z",
+    "createdAt": "2025-03-12T15:48:29.725Z",
+    "id": "b655ad02-11f9-4abe-b73f-631f5a39de88",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "sentence": "Kinh tế quốc gia đang ___ nhanh.",
+      "translatedAnswer": {
+        "en": "growing"
+      },
+      "answer": "tăng trưởng",
+      "translation": {
+        "en": "The national economy is growing fast."
+      },
+      "word": "tăng trưởng",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Năm nay, kinh tế Việt Nam có mức tăng trưởng rất ấn tượng.",
+    "Công ty em đang tìm cách thúc đẩy tăng trưởng trong quý tới.",
+    "Chính phủ đặt mục tiêu tăng trưởng cao hơn cho năm sau."
+  ],
+  "definition": "growth",
+  "notes": "tăng trưởng = growth, especially an increase over time (money, economy, business, numbers). It’s a noun.\n\nUsually uncountable, but you’ll hear it with measures like mức tăng trưởng, tốc độ tăng trưởng, tỷ lệ tăng trưởng. Very common with big topics: tăng trưởng kinh tế, tăng trưởng doanh thu, tăng trưởng dân số.\n\nClose idea: phát triển (development, broader and more general). Opposite idea: suy giảm (decline).",
+  "rank": 1145,
+  "_id": "j47MNZH2PAX1Q5o8nyUb"
+}

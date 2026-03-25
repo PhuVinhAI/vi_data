@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:10:07.952Z",
+    "updatedAt": "2025-03-12T14:10:07.952Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "phong cách",
+      "translatedAnswer": {
+        "en": "style"
+      },
+      "sentence": "Cô ấy có ___ rất độc đáo.",
+      "hint": "p_____c",
+      "word": "phong cách",
+      "language": "vi",
+      "choices": [
+        "phong cách",
+        "hình thức",
+        "cách thức"
+      ],
+      "translation": {
+        "en": "She has a very unique style."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "8656da78-f2e3-4b1a-b221-6e8d64676623"
+  },
+  "word": "phong cách",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Phong cách** = *style* — the way someone does something or the way something looks. It’s about a personal or typical way.\n\nIt’s a noun. You can say *một phong cách*, *nhiều phong cách*. Very common with words like *thời trang* (fashion), *sống* (lifestyle), *làm việc* (working), *thiết kế* (design).\n\nOften used with: *phong cách + adjective* (phong cách hiện đại, phong cách cổ điển).  \n\nClose ideas: *kiểu* (more like “type/kind”), *gu* (taste, preference — more personal and informal).",
+  "choices": [
+    "phong cách",
+    "thời tiết",
+    "phương pháp"
+  ],
+  "updatedAt": "2026-03-03T09:06:13.610Z",
+  "exampleSentencesTranslated": [
+    "I really like your style of fashion today.",
+    "He changed his working style to fit the new team.",
+    "This restaurant is famous for its friendly service style."
+  ],
+  "notes": "Phong cách = style — the way someone does something or the way something looks. It’s about a personal or typical way.\n\nIt’s a noun. You can say một phong cách, nhiều phong cách. Very common with words like thời trang (fashion), sống (lifestyle), làm việc (working), thiết kế (design).\n\nOften used with: phong cách + adjective (phong cách hiện đại, phong cách cổ điển).  \n\nClose ideas: kiểu (more like “type/kind”), gu (taste, preference — more personal and informal).",
+  "fillBlankQuiz": {
+    "id": "47b994ef-c056-4dd8-91fc-71eea111e4b3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "style"
+      },
+      "answer": "phong cách",
+      "word": "phong cách",
+      "sentence": "Tôi thích ___ của cô ấy.",
+      "translation": {
+        "en": "I like her style."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:10:07.952Z",
+    "createdAt": "2025-03-12T14:10:07.952Z"
+  },
+  "definition": "style",
+  "rank": 1589,
+  "exampleSentences": [
+    "Chị rất thích phong cách thời trang của em hôm nay.",
+    "Anh ấy thay đổi phong cách làm việc để phù hợp với nhóm mới.",
+    "Nhà hàng này nổi tiếng vì phong cách phục vụ thân thiện."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "She has a very unique fashion style.",
+      "vi": "Cô ấy có phong cách thời trang rất độc đáo.",
+      "es": "Ella tiene un estilo de moda muy único."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:47:21.119Z",
+    "definitions": {
+      "en": "A distinctive manner of expression or design.",
+      "es": "Una manera distintiva de expresión o diseño.",
+      "vi": "Một cách thức biểu đạt hoặc thiết kế đặc trưng."
+    },
+    "translations": {
+      "en": "style",
+      "es": "estilo",
+      "vi": "phong cách"
+    }
+  },
+  "_id": "Ks86msn7RwN2WpMBeG55"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Nhà anh mới mua một cái cân để kiểm tra sức khỏe.",
+    "Em có thể dùng cân này để cân trái cây không?",
+    "Mỗi sáng, chị thường đứng lên cân để theo dõi cân nặng."
+  ],
+  "choices": [
+    "cân",
+    "cốc",
+    "bàn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "scale",
+      "es": "balanza",
+      "vi": "cân"
+    },
+    "example": {
+      "vi": "Tôi cần một cái cân để cân trái cây.",
+      "en": "I need a scale to weigh the fruit.",
+      "es": "Necesito una balanza para pesar la fruta."
+    },
+    "definitions": {
+      "vi": "Một thiết bị được sử dụng để đo trọng lượng.",
+      "en": "A device used to measure weight.",
+      "es": "Un dispositivo utilizado para medir el peso."
+    },
+    "createdAt": "2025-01-28T13:56:36.159Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T09:01:48.166Z",
+  "exampleSentencesTranslated": [
+    "My family just bought a new scale to check our health.",
+    "Can you use this scale to weigh the fruit?",
+    "Every morning, I usually stand on the scale to monitor my weight."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "cân usually means a scale — the device you use to measure weight. It’s a noun, often with the classifier cái → cái cân.  \n\nIt’s also a very common verb meaning to weigh something.  \n\nAnother common meaning: cân = kilogram in everyday speech. In the North, people often say một cân for 1 kg; in the South, một ký is more common.  \n\nEasy memory link: cân = both the scale and the act of weighing.",
+  "fillBlankQuiz": {
+    "id": "faffda45-165b-4887-a7e9-a48685348d60",
+    "createdAt": "2025-03-12T17:22:53.475Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T17:22:53.475Z",
+    "content": {
+      "sentence": "Tôi cần một cái ___ gạo.",
+      "choices": [],
+      "language": "vi",
+      "answer": "cân",
+      "word": "cân",
+      "translation": {
+        "en": "I need a kilogram of rice."
+      },
+      "translatedAnswer": {
+        "en": "kilogram"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "word": "cân",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1548,
+  "notes_md": "**cân** usually means a **scale** — the device you use to measure weight. It’s a noun, often with the classifier **cái** → *cái cân*.  \n\nIt’s also a very common **verb** meaning **to weigh something**.  \n\nAnother common meaning: **cân** = **kilogram** in everyday speech. In the North, people often say *một cân* for 1 kg; in the South, *một ký* is more common.  \n\nEasy memory link: **cân** = both the *scale* and the act of *weighing*.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "cân",
+      "choices": [
+        "cân",
+        "lít",
+        "bánh"
+      ],
+      "language": "vi",
+      "answer": "cân",
+      "hint": "c___n",
+      "translation": {
+        "en": "I need a kilogram of rice."
+      },
+      "translatedAnswer": {
+        "en": "kilogram"
+      },
+      "sentence": "Tôi cần một cái ___ gạo."
+    },
+    "updatedAt": "2025-03-12T17:22:53.475Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:22:53.475Z",
+    "id": "fcdbd940-c81e-4873-93a9-8f61f25c4878"
+  },
+  "definition": "scale",
+  "_id": "ssWwZ46RfPPAiwFRruNn"
+}

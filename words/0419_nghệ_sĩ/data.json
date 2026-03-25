@@ -1,0 +1,96 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "artist",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "artist"
+      },
+      "sentence": "Cô ấy là một ___ nổi tiếng.",
+      "choices": [],
+      "word": "nghệ sĩ",
+      "translation": {
+        "en": "She is a famous artist."
+      },
+      "answer": "nghệ sĩ"
+    },
+    "updatedAt": "2025-03-12T14:39:00.663Z",
+    "id": "18949dbf-d508-4c5a-a5ef-60da05db3698",
+    "createdAt": "2025-03-12T14:39:00.663Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**nghệ sĩ** = artist — someone who creates art (music, painting, acting, etc.). It’s broad and not limited to one art form.\n\nIt’s a **countable noun**: *một nghệ sĩ, hai nghệ sĩ*. Often followed by a field or style: *nghệ sĩ + lĩnh vực / loại hình* (nghệ sĩ piano, nghệ sĩ hài).\n\nIt sounds a bit more formal and respectful than just naming the job. For specific types, Vietnamese often uses more exact words like *ca sĩ* (singer) or *họa sĩ* (painter).",
+  "exampleSentences": [
+    "Chị ấy là một nghệ sĩ nổi tiếng trong lĩnh vực âm nhạc.",
+    "Anh muốn trở thành một nghệ sĩ để thể hiện cảm xúc qua tranh vẽ.",
+    "Nhiều nghệ sĩ trẻ đang tìm cơ hội biểu diễn trên sân khấu lớn."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "artist"
+    },
+    "word": "nghệ sĩ",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "He is a famous artist in the field of music.",
+      "vi": "Anh ấy là một nghệ sĩ nổi tiếng trong lĩnh vực âm nhạc."
+    },
+    "createdAt": "2025-05-24T16:22:02.950Z",
+    "definitions": {
+      "en": "A person who works in the arts, such as music, painting, theater, or film.",
+      "vi": "Người hoạt động trong lĩnh vực nghệ thuật như âm nhạc, hội họa, sân khấu, điện ảnh."
+    }
+  },
+  "notes": "nghệ sĩ = artist — someone who creates art (music, painting, acting, etc.). It’s broad and not limited to one art form.\n\nIt’s a countable noun: một nghệ sĩ, hai nghệ sĩ. Often followed by a field or style: nghệ sĩ + lĩnh vực / loại hình (nghệ sĩ piano, nghệ sĩ hài).\n\nIt sounds a bit more formal and respectful than just naming the job. For specific types, Vietnamese often uses more exact words like ca sĩ (singer) or họa sĩ (painter).",
+  "choices": [
+    "bác sĩ",
+    "nghệ sĩ",
+    "giáo viên"
+  ],
+  "updatedAt": "2026-03-03T07:04:13.104Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "102bc441-a7f4-4039-a590-96b615b44647",
+    "createdAt": "2025-03-12T14:39:00.663Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:39:00.663Z",
+    "content": {
+      "word": "nghệ sĩ",
+      "choices": [
+        "họa sĩ",
+        "nghệ sĩ",
+        "nhạc sĩ"
+      ],
+      "hint": "n___ sĩ",
+      "translation": {
+        "en": "He wants to become an artist."
+      },
+      "answer": "nghệ sĩ",
+      "sentence": "Anh ấy muốn trở thành ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "artist"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "nghệ sĩ",
+  "rank": 419,
+  "exampleSentencesTranslated": [
+    "She is a famous artist in the field of music.",
+    "He wants to become an artist to express emotions through painting.",
+    "Many young artist are looking for opportunities to perform on big stages."
+  ],
+  "_id": "RgcjpuIStHyErXchcX22"
+}

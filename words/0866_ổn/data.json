@@ -1,0 +1,99 @@
+{
+  "word": "ổn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tốt",
+    "ổn",
+    "vui"
+  ],
+  "rank": 866,
+  "notes_md": "**ổn** means *okay, fine, all good*. It’s used when something is acceptable, not bad, or under control.\n\nIt describes health, situations, plans, work, emotions — almost anything. It can stand alone as a response, like saying “okay” or “I’m fine.”\n\nIt often implies “not perfect, but acceptable.” Stronger options are **tốt** (good) or **ổn định** (stable). Opposite idea: **không ổn** (not okay, not good).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e2bdcaf3-5970-45a4-8590-d34951d49072",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:31:42.670Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "fine"
+      },
+      "translation": {
+        "en": "Everything has returned to fine."
+      },
+      "answer": "ổn",
+      "hint": "g___n",
+      "choices": [
+        "tốt",
+        "ổn",
+        "khó khăn"
+      ],
+      "sentence": "Mọi thứ đã trở lại ___.",
+      "language": "vi",
+      "word": "ổn"
+    },
+    "updatedAt": "2025-03-12T15:31:42.670Z"
+  },
+  "exampleSentences": [
+    "Anh cảm thấy ổn sau khi nghỉ ngơi một chút.",
+    "Nếu em không ổn, hãy nói với chị nhé.",
+    "Công việc mới của bạn dạo này có ổn không?"
+  ],
+  "updatedAt": "2026-03-03T07:48:40.994Z",
+  "notes": "ổn means okay, fine, all good. It’s used when something is acceptable, not bad, or under control.\n\nIt describes health, situations, plans, work, emotions — almost anything. It can stand alone as a response, like saying “okay” or “I’m fine.”\n\nIt often implies “not perfect, but acceptable.” Stronger options are tốt (good) or ổn định (stable). Opposite idea: không ổn (not okay, not good).",
+  "definition": "okay",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:06:42.064Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "fine",
+      "es": "bien",
+      "vi": "ổn"
+    },
+    "example": {
+      "vi": "Mọi thứ đều ổn.",
+      "es": "Todo está bien.",
+      "en": "Everything is fine."
+    },
+    "definitions": {
+      "es": "En una condición satisfactoria o aceptable.",
+      "vi": "Trong tình trạng thỏa đáng hoặc chấp nhận được.",
+      "en": "In a satisfactory or acceptable condition."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:31:42.670Z",
+    "type": "fillBlankQuiz",
+    "id": "668a3d6a-e8fe-474b-b52b-6dd42707ab3f",
+    "content": {
+      "answer": "ổn",
+      "translation": {
+        "en": "The current situation is still fine."
+      },
+      "translatedAnswer": {
+        "en": "fine"
+      },
+      "word": "ổn",
+      "language": "vi",
+      "sentence": "Tình hình hiện tại vẫn ___.",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:31:42.670Z"
+  },
+  "exampleSentencesTranslated": [
+    "I feel okay after resting a bit.",
+    "If you are not okay, please tell me.",
+    "Is your new job okay these days?"
+  ],
+  "_id": "fGmc7LddCdfHAJMSKRmF"
+}

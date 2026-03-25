@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "điển hình",
+    "thường xuyên",
+    "phổ biến"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "1d11c8aa-2384-4ffb-bf86-9ebf99a1a058",
+    "content": {
+      "word": "điển hình",
+      "translation": {
+        "en": "This is a typical example."
+      },
+      "language": "vi",
+      "choices": [],
+      "sentence": "Đây là một ví dụ ___.",
+      "translatedAnswer": {
+        "en": "typical"
+      },
+      "answer": "điển hình"
+    },
+    "updatedAt": "2025-03-12T16:03:51.019Z",
+    "createdAt": "2025-03-12T16:03:51.019Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy là một sinh viên điển hình của lớp này.",
+    "Câu chuyện này là điển hình cho những gì xảy ra ở thành phố.",
+    "Bữa sáng với bánh mì và cà phê là điển hình ở Việt Nam."
+  ],
+  "definition": "typical",
+  "notes": "Điển hình means typical or representative — something that clearly shows the usual features of a group or situation.\n\nIt’s an adjective, often describing a person, behavior, event, or feature. It commonly goes after là and links with của (of) or cho (for) to show what it represents.\n\nIt often implies “a clear example,” not just “normal.” A close synonym is tiêu biểu (more positive, like “outstandingly representative”).",
+  "rank": 2694,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "điển hình",
+      "translation": {
+        "en": "She is a typical person in the group."
+      },
+      "translatedAnswer": {
+        "en": "typical"
+      },
+      "answer": "điển hình",
+      "hint": "đ___h",
+      "sentence": "Cô ấy là một người ___ trong nhóm.",
+      "choices": [
+        "điển hình",
+        "khác biệt",
+        "đặc biệt"
+      ]
+    },
+    "id": "146f9605-8275-49f3-97eb-82698283736f",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:03:51.019Z",
+    "updatedAt": "2025-03-12T16:03:51.019Z"
+  },
+  "notes_md": "**Điển hình** means *typical* or *representative* — something that clearly shows the usual features of a group or situation.\n\nIt’s an adjective, often describing a person, behavior, event, or feature. It commonly goes after **là** and links with **của** (of) or **cho** (for) to show what it represents.\n\n\nIt often implies “a clear example,” not just “normal.” A close synonym is **tiêu biểu** (more positive, like “outstandingly representative”).",
+  "exampleSentencesTranslated": [
+    "He is a typical student of this class.",
+    "This story is typical of what happens in the city.",
+    "Breakfast with bread and coffee is typical in Vietnam."
+  ],
+  "word": "điển hình",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "điển hình",
+      "es": "típico",
+      "en": "typical"
+    },
+    "example": {
+      "vi": "Cô ấy là một ví dụ điển hình cho sự chăm chỉ.",
+      "en": "She is a typical example of hard work.",
+      "es": "Ella es un ejemplo típico de trabajo duro."
+    },
+    "createdAt": "2025-01-28T13:35:16.291Z",
+    "definitions": {
+      "vi": "Một ví dụ đại diện hoặc điển hình cho một cái gì đó.",
+      "es": "Un ejemplo representativo o típico de algo.",
+      "en": "A representative or typical example of something."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T11:36:54.064Z",
+  "_id": "n8lz4r9SMDr71hiaBQzV"
+}

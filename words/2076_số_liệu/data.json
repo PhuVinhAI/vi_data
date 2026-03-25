@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "cc08d3bf-0da1-46aa-ace7-6e732bf0feb6",
+    "content": {
+      "word": "số liệu",
+      "translation": {
+        "en": "We need data for analysis."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "data"
+      },
+      "answer": "số liệu",
+      "sentence": "Chúng tôi cần ___ để phân tích.",
+      "choices": [
+        "thông tin",
+        "số liệu",
+        "tài liệu"
+      ],
+      "hint": "s___lệ"
+    },
+    "updatedAt": "2025-03-12T15:50:47.721Z",
+    "createdAt": "2025-03-12T15:50:47.721Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**số liệu** = data, figures, numbers used for analysis or reports. It’s about factual numerical information, not opinions.\n\nIt’s a noun. Usually uncountable in feeling, but you can say **các số liệu / những số liệu** when talking about multiple sets. You’ll often see it with verbs like **thu thập** (collect), **cập nhật** (update), **công bố** (publish), **kiểm tra** (check).\n\nCommon pairings: **số liệu thống kê** (statistics), **số liệu chính thức** (official data), **số liệu tài chính** (financial data).\n\nClose word: **dữ liệu** = data too, but broader and more technical (often digital/raw data). Think: *số liệu* = numbers you analyze in reports.",
+  "exampleSentencesTranslated": [
+    "I need to see the data about last month's sales to make a report.",
+    "Can you send me the newest data?",
+    "The boss wants our team to check the data in this table again."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta cần phân tích số liệu để đưa ra quyết định.",
+      "en": "We need to analyze the data to make a decision.",
+      "es": "Necesitamos analizar los datos para tomar una decisión."
+    },
+    "createdAt": "2025-01-28T13:23:16.780Z",
+    "definitions": {
+      "en": "Data or statistics used for analysis.",
+      "es": "Datos o estadísticas utilizados para el análisis.",
+      "vi": "Dữ liệu hoặc thống kê được sử dụng để phân tích."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "số liệu",
+      "en": "data",
+      "es": "datos"
+    }
+  },
+  "word": "số liệu",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:57:44.183Z",
+  "choices": [
+    "thông tin",
+    "số liệu",
+    "kết quả"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng tôi cần ___ để phân tích.",
+      "answer": "số liệu",
+      "translatedAnswer": {
+        "en": "data"
+      },
+      "word": "số liệu",
+      "translation": {
+        "en": "We need data for analysis."
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "4f5a5b87-8277-40d9-8948-a3b83c85e7ff",
+    "createdAt": "2025-03-12T15:50:47.721Z",
+    "updatedAt": "2025-03-12T15:50:47.721Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cần xem số liệu về doanh số tháng trước để làm báo cáo.",
+    "Chị có thể gửi cho em số liệu mới nhất không?",
+    "Sếp muốn nhóm mình kiểm tra lại số liệu trong bảng này."
+  ],
+  "definition": "data",
+  "notes": "số liệu = data, figures, numbers used for analysis or reports. It’s about factual numerical information, not opinions.\n\nIt’s a noun. Usually uncountable in feeling, but you can say các số liệu / những số liệu when talking about multiple sets. You’ll often see it with verbs like thu thập (collect), cập nhật (update), công bố (publish), kiểm tra (check).\n\nCommon pairings: số liệu thống kê (statistics), số liệu chính thức (official data), số liệu tài chính (financial data).\n\nClose word: dữ liệu = data too, but broader and more technical (often digital/raw data). Think: số liệu = numbers you analyze in reports.",
+  "rank": 2076,
+  "_id": "jlNuItpD5uXEfbhjojN8"
+}

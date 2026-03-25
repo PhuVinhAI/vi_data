@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị ấy thường rất khó tính khi chọn quán ăn cho cả nhóm.",
+    "Anh trai em là người khó tính nên ít khi hài lòng với món ăn.",
+    "Bạn cùng lớp của em khá khó tính khi làm việc chung nhóm."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:11:03.562Z",
+    "updatedAt": "2025-03-12T13:11:03.562Z",
+    "id": "84dfc018-6593-41c1-a1a1-cf64b77b26e7",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "She is really difficult in her work."
+      },
+      "choices": [
+        "khó tính",
+        "dễ chịu",
+        "hòa đồng"
+      ],
+      "word": "khó tính",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "difficult"
+      },
+      "hint": "k___n",
+      "sentence": "Cô ấy thật sự ___ trong công việc.",
+      "answer": "khó tính"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "es": "Él es muy exigente en el trabajo.",
+      "vi": "Ông ấy rất khó tính trong công việc.",
+      "en": "He is very picky at work."
+    },
+    "translations": {
+      "es": "exigente",
+      "vi": "khó tính",
+      "en": "picky"
+    },
+    "createdAt": "2025-01-28T10:52:18.244Z",
+    "definitions": {
+      "es": "Difícil de complacer; exigente o quisquilloso.",
+      "vi": "Khó để làm hài lòng; kén chọn hoặc cầu kỳ.",
+      "en": "Difficult to please; picky or fussy."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "difficult to please",
+  "rank": 2787,
+  "word": "khó tính",
+  "choices": [
+    "khó tính",
+    "thân thiện",
+    "vui vẻ"
+  ],
+  "notes": "Khó tính = hard to please, picky, demanding. It describes a person who has high standards and is not easily satisfied.\n\nIt’s an adjective for people (sometimes for customers, bosses, parents). Often used with về (about something) or với (toward someone).\n\nClose meaning: kỹ tính (detail-focused, less negative). Opposite vibe: dễ tính (easygoing, easy to please).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She is often difficult to please when choosing a restaurant for the group.",
+    "My older brother is difficult to please so he is rarely satisfied with food.",
+    "My classmate is quite difficult to please when working in a group."
+  ],
+  "notes_md": "**Khó tính** = hard to please, picky, demanding. It describes a person who has high standards and is not easily satisfied.\n\nIt’s an **adjective** for people (sometimes for customers, bosses, parents). Often used with **về** (about something) or **với** (toward someone).\n\n\nClose meaning: *kỹ tính* (detail-focused, less negative). Opposite vibe: *dễ tính* (easygoing, easy to please).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:11:03.562Z",
+    "updatedAt": "2025-03-12T13:11:03.562Z",
+    "content": {
+      "word": "khó tính",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "difficult"
+      },
+      "choices": [],
+      "translation": {
+        "en": "He is very difficult with everyone."
+      },
+      "answer": "khó tính",
+      "sentence": "Anh ấy rất ___ với mọi người."
+    },
+    "type": "fillBlankQuiz",
+    "id": "dc58284b-38a6-4699-bb98-832c5f89f369",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T17:57:20.637Z",
+  "_id": "5kxk3S7HZaAxSJytfWUF"
+}

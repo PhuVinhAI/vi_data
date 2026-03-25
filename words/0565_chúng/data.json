@@ -1,0 +1,99 @@
+{
+  "word": "chúng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "họ",
+    "chúng",
+    "bạn"
+  ],
+  "rank": 565,
+  "notes_md": "**chúng** means **“we”**, but it can’t stand alone. It’s the plural marker used in first‑person plural pronouns.\n\nYou always combine it with another word: **chúng ta**, **chúng tôi**, **chúng mình**.  \n\nThe word after *chúng* shows the relationship:  \n- **chúng ta** = we (including the listener)  \n- **chúng tôi** = we (not including the listener)  \n- **chúng mình** = we (friendly, close feeling)\n\nThink of *chúng* as the “group” signal that turns “I” forms into “we.”",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:15:01.461Z",
+    "id": "e944e095-2026-41ed-9d53-8881701ea41c",
+    "content": {
+      "word": "chúng",
+      "language": "vi",
+      "sentence": "Chúng ___ đi đến trường cùng nhau.",
+      "choices": [
+        "họ",
+        "chúng",
+        "các bạn"
+      ],
+      "hint": "c___",
+      "answer": "chúng",
+      "translation": {
+        "en": "We go to school together."
+      },
+      "translatedAnswer": {
+        "en": "we"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:15:01.461Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chúng ta sẽ cùng nhau đi du lịch vào mùa hè này.",
+    "Nếu có thời gian rảnh, chúng mình nên gặp nhau uống cà phê.",
+    "Chúng tôi rất vui được giúp đỡ bạn trong dự án này."
+  ],
+  "updatedAt": "2026-03-03T07:18:37.762Z",
+  "notes": "chúng means “we”, but it can’t stand alone. It’s the plural marker used in first‑person plural pronouns.\n\nYou always combine it with another word: chúng ta, chúng tôi, chúng mình.  \n\nThe word after chúng shows the relationship:  \nchúng ta = we (including the listener)  \nchúng tôi = we (not including the listener)  \nchúng mình = we (friendly, close feeling)\n\nThink of chúng as the “group” signal that turns “I” forms into “we.”",
+  "definition": "we",
+  "flashcard": {
+    "translations": {
+      "en": "we",
+      "es": "nosotros",
+      "vi": "chúng"
+    },
+    "createdAt": "2025-01-28T10:55:50.662Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "We (used to refer to a group that includes the speaker).",
+      "vi": "Chúng (dùng để chỉ một nhóm bao gồm người nói).",
+      "es": "Nosotros (usado para referirse a un grupo que incluye al hablante)."
+    },
+    "example": {
+      "es": "Nosotros saldremos este fin de semana.",
+      "vi": "Chúng tôi sẽ đi chơi vào cuối tuần.",
+      "en": "We will go out this weekend."
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "2758e9af-f95c-4f4c-ae2a-2f4622ebc10a",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:15:01.461Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Chúng ___ thích ăn kem.",
+      "word": "chúng",
+      "choices": [],
+      "answer": "chúng",
+      "translatedAnswer": {
+        "en": "we"
+      },
+      "translation": {
+        "en": "We like to eat ice cream."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:15:01.461Z"
+  },
+  "exampleSentencesTranslated": [
+    "We will travel together this summer.",
+    "If we have free time, we should meet for coffee.",
+    "We are happy to help you with this project."
+  ],
+  "_id": "6v0vg2MIYXl5ayMPBoTk"
+}

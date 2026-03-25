@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:06:18.517Z",
+    "id": "47ddef6d-094e-4333-8906-2a52a51cf53c",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thường đi chơi với ___ vào cuối tuần.",
+      "translation": {
+        "en": "I usually hang out with friends on the weekend."
+      },
+      "translatedAnswer": {
+        "en": "friends"
+      },
+      "choices": [],
+      "word": "bạn bè",
+      "language": "vi",
+      "answer": "bạn bè"
+    },
+    "updatedAt": "2025-03-12T16:06:18.517Z"
+  },
+  "word": "bạn bè",
+  "multiChoiceQuiz": {
+    "id": "2b4b4cbc-05cf-41a6-9ee2-08a37bb2638c",
+    "createdAt": "2025-03-12T16:06:18.517Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:06:18.517Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi thường đi chơi với ___ vào cuối tuần.",
+      "language": "vi",
+      "choices": [
+        "đồng nghiệp",
+        "bạn bè",
+        "hàng xóm"
+      ],
+      "answer": "bạn bè",
+      "word": "bạn bè",
+      "hint": "b___e",
+      "translation": {
+        "en": "I usually hang out with friends on the weekend."
+      },
+      "translatedAnswer": {
+        "en": "friends"
+      }
+    }
+  },
+  "definition": "friends",
+  "rank": 620,
+  "notes_md": "**bạn bè** = friends (a group of friends, not just one). It refers to people you’re socially close to, not family.\n\nIt’s a plural noun and doesn’t need a classifier. You don’t say *một bạn bè* — for one friend, use **một người bạn** or just **bạn**.\n\nOften used with words like **thân**, **cũ**, **tốt**, **xấu** to describe the type of friends.  \nClose synonym: **bạn hữu** (more formal, literary).",
+  "updatedAt": "2026-03-03T07:23:58.198Z",
+  "exampleSentencesTranslated": [
+    "I often go to the movies with friends on weekends.",
+    "I am very happy to have many close friends around.",
+    "She always shares everything with her friends."
+  ],
+  "exampleSentences": [
+    "Em thường đi xem phim với bạn bè vào cuối tuần.",
+    "Anh rất vui khi có nhiều bạn bè thân thiết bên cạnh.",
+    "Chị ấy luôn chia sẻ mọi chuyện với bạn bè của mình."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "bạn bè",
+      "en": "friends",
+      "es": "amigos"
+    },
+    "example": {
+      "es": "Tengo muchos buenos amigos.",
+      "en": "I have many good friends.",
+      "vi": "Tôi có nhiều bạn bè tốt."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:37:50.730Z",
+    "definitions": {
+      "en": "Friends; people with whom one has a bond of mutual affection.",
+      "es": "Amigos; personas con las que se tiene un vínculo de afecto mutuo.",
+      "vi": "Bạn bè; những người có mối quan hệ thân thiết với nhau."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bạn bè",
+    "gia đình",
+    "đồng nghiệp"
+  ],
+  "notes": "bạn bè = friends (a group of friends, not just one). It refers to people you’re socially close to, not family.\n\nIt’s a plural noun and doesn’t need a classifier. You don’t say một bạn bè — for one friend, use một người bạn or just bạn.\n\nOften used with words like thân, cũ, tốt, xấu to describe the type of friends.  \nClose synonym: bạn hữu (more formal, literary).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "npDPzlpu2Q1MI3hy4A3a"
+}

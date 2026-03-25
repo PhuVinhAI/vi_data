@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bạc** usually means **silver**, the metal. It’s a material noun, so you don’t count it directly; use words like *miếng* (piece) or *đồng* (coin) when needed.\n\nIt can also mean **money** in a general or old-fashioned way, especially in combinations like *tiền bạc* (money in general).\n\nAs an adjective, **bạc** describes a **silver/gray color**, especially for hair (*tóc bạc* = gray hair). In *bạc màu*, it means faded in color.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:10:43.798Z",
+    "createdAt": "2025-03-12T14:10:43.798Z",
+    "id": "ad27d694-1ca4-4864-b5ee-214347a440ee",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "b__c",
+      "word": "bạc",
+      "sentence": "Tôi muốn mua một chiếc vòng ___.",
+      "translation": {
+        "en": "I want to buy a silver bracelet."
+      },
+      "language": "vi",
+      "choices": [
+        "vàng",
+        "bạc",
+        "đồng"
+      ],
+      "translatedAnswer": {
+        "en": "silver"
+      },
+      "answer": "bạc"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "bạc",
+  "fillBlankQuiz": {
+    "id": "08cd06c2-5f74-44c2-82f1-6eff6356c309",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "silver"
+      },
+      "answer": "bạc",
+      "word": "bạc",
+      "sentence": "Chiếc nhẫn này làm bằng ___.",
+      "translation": {
+        "en": "This ring is made of silver."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:10:43.798Z",
+    "createdAt": "2025-03-12T14:10:43.798Z"
+  },
+  "definition": "silver",
+  "choices": [
+    "vàng",
+    "đồng",
+    "bạc"
+  ],
+  "updatedAt": "2026-03-03T11:36:49.173Z",
+  "notes": "bạc usually means silver, the metal. It’s a material noun, so you don’t count it directly; use words like miếng (piece) or đồng (coin) when needed.\n\nIt can also mean money in a general or old-fashioned way, especially in combinations like tiền bạc (money in general).\n\nAs an adjective, bạc describes a silver/gray color, especially for hair (tóc bạc = gray hair). In bạc màu, it means faded in color.",
+  "exampleSentencesTranslated": [
+    "I like to wear bracelets made of silver because they are very beautiful.",
+    "Mom just bought a new silver ring at the jewelry store.",
+    "This watch has a silver strap, so it looks very elegant."
+  ],
+  "rank": 2693,
+  "flashcard": {
+    "example": {
+      "en": "This ring is made of silver.",
+      "es": "Este anillo está hecho de plata.",
+      "vi": "Chiếc nhẫn này được làm bằng bạc."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "silver",
+      "es": "plata",
+      "vi": "bạc"
+    },
+    "definitions": {
+      "en": "A precious metal that is white and shiny, often used for jewelry and coins.",
+      "vi": "Một kim loại quý có màu trắng và bóng, thường được sử dụng để làm trang sức và tiền xu.",
+      "es": "Un metal precioso que es blanco y brillante, a menudo utilizado para joyería y monedas."
+    },
+    "createdAt": "2025-01-28T11:47:54.766Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích đeo vòng tay làm từ bạc vì nó rất đẹp.",
+    "Mẹ vừa mua một chiếc nhẫn bạc mới ở cửa hàng trang sức.",
+    "Chiếc đồng hồ này có dây bạc nên nhìn rất sang trọng."
+  ],
+  "_id": "KxeOyTFqsDxpnFgjtERr"
+}

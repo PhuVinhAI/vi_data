@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "If I study hard, I will get good results.",
+    "I always try to keep my promises to my friends.",
+    "When I am sad, I often listen to music to feel better."
+  ],
+  "notes": "ta = “I”, but it sounds poetic, old-fashioned, or very intimate.\n\nIt’s a first-person pronoun used in literature, speeches, historical dramas, or when someone wants a serious or emotional tone. In real daily conversation, people usually say tôi, mình, or tao instead.  \n\nIt can be used as the subject before a verb, just like other pronouns.  \n\nFor memory: tôi = neutral “I”, tao = rough/casual “I”, ta = poetic or grand “I”.",
+  "updatedAt": "2026-03-03T10:45:53.256Z",
+  "choices": [
+    "ta",
+    "chúng",
+    "họ"
+  ],
+  "definition": "I",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:18:33.945Z",
+    "createdAt": "2025-03-12T17:18:33.945Z",
+    "id": "aee041a1-3434-4db7-9917-b15eb9f5a648",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "ta",
+      "sentence": "___ là một phần của con người.",
+      "translation": {
+        "en": "I am a part of humanity."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "answer": "ta"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:18:33.945Z",
+    "updatedAt": "2025-03-12T17:18:33.945Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "answer": "ta",
+      "translation": {
+        "en": "I am a part of humanity."
+      },
+      "choices": [
+        "ta",
+        "bạn",
+        "họ"
+      ],
+      "language": "vi",
+      "hint": "t_",
+      "word": "ta",
+      "sentence": "___ là một phần của con người."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "c585cc10-a73f-430a-b1a3-07888d17bbbd"
+  },
+  "word": "ta",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**ta** = “I”, but it sounds poetic, old-fashioned, or very intimate.\n\nIt’s a first-person pronoun used in literature, speeches, historical dramas, or when someone wants a serious or emotional tone. In real daily conversation, people usually say **tôi**, **mình**, or **tao** instead.  \n\nIt can be used as the subject before a verb, just like other pronouns.  \n\nFor memory: **tôi** = neutral “I”, **tao** = rough/casual “I”, **ta** = poetic or grand “I”.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nếu ta chăm chỉ học tập, ta sẽ đạt kết quả tốt.",
+    "Ta luôn cố gắng giữ lời hứa với bạn bè của mình.",
+    "Khi ta buồn, ta thường nghe nhạc để cảm thấy tốt hơn."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Ta sẽ đi chơi vào cuối tuần này.",
+      "es": "Nosotros saldremos este fin de semana.",
+      "en": "We will go out this weekend."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Nosotros (incluyendo al hablante y al oyente)",
+      "vi": "Chúng ta (bao gồm người nói và người nghe)",
+      "en": "We (inclusive of the speaker and the listener)"
+    },
+    "translations": {
+      "es": "nosotros",
+      "vi": "ta",
+      "en": "we"
+    },
+    "createdAt": "2025-01-28T11:51:49.613Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2536,
+  "_id": "LkvJIEA2NxzepTwMjYCs"
+}

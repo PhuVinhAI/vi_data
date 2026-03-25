@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Yo percibo este problema seriamente.",
+      "vi": "Tôi nhìn nhận vấn đề này một cách nghiêm túc.",
+      "en": "I perceive this issue seriously."
+    },
+    "definitions": {
+      "es": "Percibir o reconocer algo.",
+      "vi": "Nhận thức hoặc công nhận điều gì đó.",
+      "en": "To perceive or recognize something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:08:51.182Z",
+    "translations": {
+      "vi": "nhìn nhận",
+      "es": "percibir",
+      "en": "perceive"
+    }
+  },
+  "definition": "recognize",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần ___ vấn đề này.",
+      "word": "nhìn nhận",
+      "translatedAnswer": {
+        "en": "perceive"
+      },
+      "translation": {
+        "en": "I need to perceive this issue."
+      },
+      "answer": "nhìn nhận"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:28:51.092Z",
+    "id": "b7df2748-2782-4ea9-94c1-e2413627fce9",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:28:51.092Z"
+  },
+  "exampleSentencesTranslated": [
+    "You need to recognize this issue more objectively.",
+    "She always recognizes everyone's effort in the group.",
+    "I hope everyone will recognize my success."
+  ],
+  "updatedAt": "2026-03-03T08:15:13.290Z",
+  "exampleSentences": [
+    "Anh cần nhìn nhận vấn đề này một cách khách quan hơn.",
+    "Chị ấy luôn nhìn nhận nỗ lực của mọi người trong nhóm.",
+    "Em hy vọng mọi người sẽ nhìn nhận thành công của em."
+  ],
+  "notes": "nhìn nhận = to recognize, acknowledge, or see something in a certain way. It’s about your view or evaluation, not just physically seeing.\n\nIt’s often used with abstract things: vấn đề, nỗ lực, sai lầm, thành công, thực tế. It shows attitude or judgment.\n\nIt’s stronger and more thoughtful than just nhìn (to look). Close to đánh giá (evaluate), but nhìn nhận focuses more on perspective than scoring or judging.",
+  "notes_md": "**nhìn nhận** = to recognize, acknowledge, or see something in a certain way. It’s about your *view or evaluation*, not just physically seeing.\n\nIt’s often used with abstract things: **vấn đề, nỗ lực, sai lầm, thành công, thực tế**. It shows attitude or judgment.\n\n\nIt’s stronger and more thoughtful than just **nhìn** (to look). Close to **đánh giá** (evaluate), but *nhìn nhận* focuses more on perspective than scoring or judging.",
+  "rank": 1119,
+  "choices": [
+    "nhìn nhận",
+    "giải thích",
+    "chấp nhận"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:28:51.092Z",
+    "id": "fc4e19b9-be12-407f-a56b-4512d64915e8",
+    "content": {
+      "hint": "nh___n",
+      "answer": "nhìn nhận",
+      "translatedAnswer": {
+        "en": "perceive"
+      },
+      "translation": {
+        "en": "I need to perceive this issue."
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ vấn đề này.",
+      "word": "nhìn nhận",
+      "choices": [
+        "nhìn nhận",
+        "phân tích",
+        "đánh giá"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:28:51.092Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhìn nhận",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "AbhPnotq2BWovHUtMOtN"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "tiếng",
+    "bánh",
+    "trường"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tiếng",
+  "rank": 215,
+  "exampleSentences": [
+    "Anh muốn học thêm một tiếng mới để đi du lịch dễ dàng hơn.",
+    "Chị nói tiếng rất rõ nên em hiểu bài giảng nhanh hơn.",
+    "Mỗi ngày em dành hai giờ để luyện tiếng ở nhà."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "language",
+  "fillBlankQuiz": {
+    "id": "aa2e0c26-03c7-4ccd-ab5a-5f6e69341f99",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "tiếng",
+      "translation": {
+        "en": "I learn a new language every day."
+      },
+      "choices": [],
+      "sentence": "Tôi học ___ mới mỗi ngày.",
+      "word": "tiếng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "language"
+      }
+    },
+    "createdAt": "2025-03-12T13:41:10.131Z",
+    "updatedAt": "2025-03-12T13:41:10.131Z"
+  },
+  "notes": "tiếng = language. It’s the word you use for “a language” in general.\n\nYou don’t need a classifier: just say một tiếng, hai tiếng. To name a specific language, put it before the country name.  \n\nVery common extra meanings: sound/voice (a noise someone or something makes) and hour in everyday speech (một tiếng = one hour). Context tells you which meaning it is.\n\nThink of it as “language / sound / hour” — all about something you can hear.",
+  "updatedAt": "2026-03-03T06:42:12.405Z",
+  "multiChoiceQuiz": {
+    "id": "9ccb4d22-23cb-4ef2-8aab-388e79aa7241",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:41:10.131Z",
+    "content": {
+      "hint": "t___g",
+      "choices": [
+        "tiếng",
+        "văn",
+        "giọng"
+      ],
+      "translation": {
+        "en": "I like the Japanese language."
+      },
+      "answer": "tiếng",
+      "translatedAnswer": {
+        "en": "language"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích ___ Nhật Bản.",
+      "word": "tiếng"
+    },
+    "updatedAt": "2025-03-12T13:41:10.131Z"
+  },
+  "notes_md": "**tiếng** = language. It’s the word you use for “a language” in general.\n\nYou don’t need a classifier: just say *một tiếng, hai tiếng*. To name a specific language, put it before the country name.  \n\nVery common extra meanings: **sound/voice** (a noise someone or something makes) and **hour** in everyday speech (một tiếng = one hour). Context tells you which meaning it is.\n\nThink of it as “language / sound / hour” — all about something you can hear.",
+  "exampleSentencesTranslated": [
+    "I want to learn a new language to travel more easily.",
+    "You speak the language very clearly, so I understand the lesson faster.",
+    "Every day I spend two hours practicing the language at home."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:55:52.240Z",
+    "example": {
+      "en": "I hear the sound of birds singing.",
+      "vi": "Tôi nghe tiếng chim hót.",
+      "es": "Escucho el sonido de los pájaros cantando."
+    },
+    "translations": {
+      "en": "sound",
+      "vi": "tiếng",
+      "es": "sonido"
+    },
+    "definitions": {
+      "es": "Una palabra utilizada para referirse al sonido o al lenguaje.",
+      "vi": "Một từ được sử dụng để chỉ âm thanh hoặc ngôn ngữ.",
+      "en": "A word used to refer to sound or language."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "Dhr2YL9tT3H5NKnSldv7"
+}

@@ -1,0 +1,98 @@
+{
+  "exampleSentencesTranslated": [
+    "Do you remember that shirt I wore yesterday?",
+    "She has read that book three times because it's very good.",
+    "I find that friend very friendly and likable."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Esa camisa es muy bonita.",
+      "en": "That shirt is very beautiful.",
+      "vi": "Cái áo ấy rất đẹp."
+    },
+    "definitions": {
+      "vi": "Dùng để chỉ một cái gì đó xa người nói nhưng gần người nghe.",
+      "en": "Used to refer to something that is distant from the speaker but close to the listener.",
+      "es": "Se utiliza para referirse a algo que está lejos del hablante pero cerca del oyente."
+    },
+    "createdAt": "2025-01-28T13:22:32.594Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ấy",
+      "en": "that",
+      "es": "ese/esa"
+    }
+  },
+  "word": "ấy",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "updatedAt": "2026-03-03T06:14:22.738Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "Do you know that?"
+      },
+      "word": "ấy",
+      "language": "vi",
+      "sentence": "Bạn có biết ___ không?",
+      "choices": [
+        "đó",
+        "ấy",
+        "này"
+      ],
+      "hint": "a__",
+      "translatedAnswer": {
+        "en": "that"
+      },
+      "answer": "ấy"
+    },
+    "id": "ed8d3147-f9c2-41c7-838e-f4a3a5ccf89e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:50:05.725Z",
+    "updatedAt": "2025-03-12T15:50:05.725Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ấy** means *that* — something already mentioned or something not close to the speaker. It points to a specific person or thing both people know about.\n\nIt usually comes **after** the noun it describes, unlike English.  \n\nIt adds a feeling of “that one (you know)”. It’s often stronger and more specific than *đó*, which is a close synonym.  \n\nYou’ll hear it a lot in spoken Vietnamese when reminding someone about something already in the conversation.",
+  "definition": "that (referring to something or someone mentioned earlier or far from the speaker)",
+  "notes": "Ấy means that — something already mentioned or something not close to the speaker. It points to a specific person or thing both people know about.\n\nIt usually comes after the noun it describes, unlike English.  \n\nIt adds a feeling of “that one (you know)”. It’s often stronger and more specific than đó, which is a close synonym.  \n\nYou’ll hear it a lot in spoken Vietnamese when reminding someone about something already in the conversation.",
+  "rank": 109,
+  "choices": [
+    "kia",
+    "ấy",
+    "đó"
+  ],
+  "fillBlankQuiz": {
+    "id": "bbff30f7-73fb-4f46-9dc9-5c82fdfa7ed3",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "Do you know that?"
+      },
+      "word": "ấy",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "that"
+      },
+      "answer": "ấy",
+      "sentence": "Bạn có biết ___ không?"
+    },
+    "updatedAt": "2025-03-12T15:50:05.725Z",
+    "createdAt": "2025-03-12T15:50:05.725Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh nhớ cái áo xanh ấy mà em mặc hôm qua không?",
+    "Chị đã đọc cuốn sách ấy ba lần vì nó rất hay.",
+    "Em thấy người bạn ấy rất thân thiện và dễ mến."
+  ],
+  "_id": "jdlGbm4U29DU0ksUgGoW"
+}

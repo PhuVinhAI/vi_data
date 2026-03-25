@@ -1,0 +1,99 @@
+{
+  "word": "buộc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Buộc** usually means **to force / to make someone do something**. It’s used when there’s pressure, no real choice.\n\n\nIt can also mean **to tie / fasten** something with a rope, string, etc. (physical action).  \n\nClose synonym for “force”: **ép** (often feels stronger or more direct).  \nFor the physical meaning, think of everyday actions like tying shoes or fastening things down.",
+  "choices": [
+    "buộc",
+    "giúp",
+    "mở"
+  ],
+  "rank": 1556,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:15:40.302Z",
+    "type": "multiChoiceQuiz",
+    "id": "0ac7c9a1-9126-4d64-87bc-81d01d537628",
+    "content": {
+      "translatedAnswer": {
+        "en": "tie"
+      },
+      "translation": {
+        "en": "I need to tie the rope."
+      },
+      "hint": "b__c",
+      "answer": "buộc",
+      "choices": [
+        "buộc",
+        "cột",
+        "thắt"
+      ],
+      "sentence": "Tôi cần ___ dây lại.",
+      "language": "vi",
+      "word": "buộc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:15:40.302Z"
+  },
+  "updatedAt": "2026-03-03T09:02:37.821Z",
+  "exampleSentences": [
+    "Anh không muốn buộc em phải chọn giữa công việc và gia đình.",
+    "Họ buộc tôi ký vào hợp đồng này trước khi ra về.",
+    "Chị ấy cảm thấy bị buộc phải nói ra sự thật với mọi người."
+  ],
+  "notes": "Buộc usually means to force / to make someone do something. It’s used when there’s pressure, no real choice.\n\nIt can also mean to tie / fasten something with a rope, string, etc. (physical action).  \n\nClose synonym for “force”: ép (often feels stronger or more direct).  \nFor the physical meaning, think of everyday actions like tying shoes or fastening things down.",
+  "definition": "force",
+  "flashcard": {
+    "translations": {
+      "vi": "buộc",
+      "es": "atar",
+      "en": "to tie"
+    },
+    "createdAt": "2025-01-28T10:56:11.629Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Buộc hoặc gắn một cái gì đó.",
+      "es": "Atar o sujetar algo.",
+      "en": "To fasten or tie something."
+    },
+    "example": {
+      "en": "I tie my shoelaces.",
+      "es": "Yo ato mis zapatos.",
+      "vi": "Tôi buộc dây giày của mình."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I don't want to force you to choose between work and family.",
+    "They force me to sign this contract before leaving.",
+    "She feels force to tell the truth to everyone."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:15:40.302Z",
+    "type": "fillBlankQuiz",
+    "id": "1b7da977-7c0d-4151-bcec-1e981f11001f",
+    "content": {
+      "answer": "buộc",
+      "translation": {
+        "en": "I need to tie the rope."
+      },
+      "translatedAnswer": {
+        "en": "tie"
+      },
+      "word": "buộc",
+      "language": "vi",
+      "sentence": "Tôi cần ___ dây lại.",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:15:40.302Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "6zh56iwdFb0oPwNVAzDr"
+}

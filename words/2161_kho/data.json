@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "kho",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "277ae848-d764-41fc-97c8-5a7958051313",
+    "createdAt": "2025-03-12T15:35:02.899Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "k__",
+      "answer": "kho",
+      "translatedAnswer": {
+        "en": "savory"
+      },
+      "translation": {
+        "en": "This dish is very savory and delicious."
+      },
+      "sentence": "Món ăn này rất ___ và ngon.",
+      "language": "vi",
+      "word": "kho",
+      "choices": [
+        "ngọt",
+        "mặn",
+        "kho"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:35:02.899Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**kho** = warehouse, storage building for goods. It’s a **noun**.\n\nUse it for places where products or materials are kept: *kho hàng* (goods warehouse), *kho lạnh* (cold storage), *nhà kho* (storage building).  \nClassifier: **cái kho** (một cái kho lớn).  \n\nIt often goes with verbs like *nhập kho* (put into storage) and *xuất kho* (take out of storage).  \n\nDon’t confuse it with **khó** (difficult) — different word, different tone.",
+  "rank": 2161,
+  "choices": [
+    "kho",
+    "xe",
+    "bàn"
+  ],
+  "notes": "kho = warehouse, storage building for goods. It’s a noun.\n\nUse it for places where products or materials are kept: kho hàng (goods warehouse), kho lạnh (cold storage), nhà kho (storage building).  \nClassifier: cái kho (một cái kho lớn).  \n\nIt often goes with verbs like nhập kho (put into storage) and xuất kho (take out of storage).  \n\nDon’t confuse it with khó (difficult) — different word, different tone.",
+  "updatedAt": "2026-03-03T10:06:30.021Z",
+  "exampleSentences": [
+    "Anh sẽ chuyển các thùng hàng vào kho vào chiều nay.",
+    "Em có thể giúp chị tìm chìa khóa để mở kho được không?",
+    "Chúng ta cần kiểm tra lại số lượng hàng trong kho trước khi xuất."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:35:02.899Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "kho",
+      "translation": {
+        "en": "This dish is very savory and delicious."
+      },
+      "translatedAnswer": {
+        "en": "savory"
+      },
+      "word": "kho",
+      "language": "vi",
+      "sentence": "Món ăn này rất ___ và ngon.",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:35:02.899Z",
+    "id": "d7650b53-9d49-4a5f-a6d4-02a68aea1cfe"
+  },
+  "exampleSentencesTranslated": [
+    "He will move the boxes into the warehouse this afternoon.",
+    "Can you help me find the key to open the warehouse?",
+    "We need to check the amount of goods in the warehouse before sending out."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Salty; a term used to describe food that has a high salt content.",
+      "es": "Salado; un término utilizado para describir alimentos que tienen un alto contenido de sal.",
+      "vi": "Mặn; một thuật ngữ được sử dụng để mô tả thực phẩm có hàm lượng muối cao."
+    },
+    "example": {
+      "en": "This dish is very salty.",
+      "vi": "Món ăn này rất kho.",
+      "es": "Este plato es muy salado."
+    },
+    "translations": {
+      "en": "salty",
+      "vi": "kho",
+      "es": "salado"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:09:32.171Z"
+  },
+  "definition": "warehouse",
+  "_id": "g0wWt0WOVjLmfih3DZ2T"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "tái",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:44:31.755Z",
+    "content": {
+      "word": "tái",
+      "choices": [
+        "chín",
+        "tái",
+        "ngon"
+      ],
+      "translation": {
+        "en": "This dish is prepared rare."
+      },
+      "answer": "tái",
+      "hint": "t__",
+      "translatedAnswer": {
+        "en": "rare"
+      },
+      "language": "vi",
+      "sentence": "Món ăn này được chế biến ___."
+    },
+    "id": "43da173f-8db8-40f6-81ff-b99c6605e470",
+    "createdAt": "2025-03-12T14:44:31.755Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2549,
+  "exampleSentencesTranslated": [
+    "I like eating pho with rare beef in the morning.",
+    "If you order bun bo, do you want the beef rare or well-cooked?",
+    "She usually chooses rare beef when eating hotpot with friends."
+  ],
+  "updatedAt": "2026-03-03T10:49:52.070Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tái",
+    "nướng",
+    "kho"
+  ],
+  "notes": "tái means rare / lightly cooked, especially for beef. It describes meat that is still a bit red and soft inside.\n\nIt’s an adjective and usually comes after the noun it describes.  \n\nIt’s most common with beef dishes like phở, bún bò, or lẩu.  \nOpposite: chín (fully cooked), and chín kỹ (well-done).\n\nThere’s also another very common tái meaning “re- / again” in formal words (like tái sử dụng = reuse), but that’s a different usage.",
+  "flashcard": {
+    "definitions": {
+      "en": "Referring to a state of being undercooked, especially meat.",
+      "vi": "Chỉ trạng thái chưa chín, đặc biệt là thịt.",
+      "es": "Refiriéndose a un estado de estar poco cocido, especialmente carne."
+    },
+    "createdAt": "2025-01-28T12:18:40.493Z",
+    "example": {
+      "es": "Me gusta comer carne de res poco hecha.",
+      "en": "I like to eat rare beef.",
+      "vi": "Tôi thích ăn thịt bò tái."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "poco hecho",
+      "en": "rare",
+      "vi": "tái"
+    }
+  },
+  "exampleSentences": [
+    "Anh thích ăn phở với thịt bò tái vào buổi sáng.",
+    "Nếu em gọi bún bò, em muốn thịt tái hay chín?",
+    "Chị thường chọn thịt tái khi ăn lẩu với bạn bè."
+  ],
+  "notes_md": "**tái** means *rare / lightly cooked*, especially for beef. It describes meat that is still a bit red and soft inside.\n\nIt’s an adjective and usually comes **after** the noun it describes.  \n\nIt’s most common with beef dishes like phở, bún bò, or lẩu.  \nOpposite: **chín** (fully cooked), and **chín kỹ** (well-done).\n\nThere’s also another very common **tái** meaning “re- / again” in formal words (like tái sử dụng = reuse), but that’s a different usage.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:44:31.755Z",
+    "content": {
+      "choices": [],
+      "word": "tái",
+      "translation": {
+        "en": "I want to eat rare meat."
+      },
+      "answer": "tái",
+      "sentence": "Tôi muốn ăn thịt ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rare"
+      }
+    },
+    "id": "889a7577-db80-45d7-b23d-866c7a43637e",
+    "createdAt": "2025-03-12T14:44:31.755Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "rare (when describing food, especially beef that is only slightly cooked)",
+  "_id": "Sr52lJCZGQnlddJkpofO"
+}

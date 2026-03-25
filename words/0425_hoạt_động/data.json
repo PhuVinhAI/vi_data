@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:21:05.421Z",
+    "createdAt": "2025-03-12T14:21:05.421Z",
+    "id": "dc69c1a1-64eb-43d7-b56d-9c8af44cdfdc",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "The meeting will have interesting activities."
+      },
+      "sentence": "Buổi họp sẽ có ___ thú vị.",
+      "word": "hoạt động",
+      "answer": "hoạt động",
+      "translatedAnswer": {
+        "en": "activities"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "definition": "activity",
+  "choices": [
+    "hoạt động",
+    "kết quả",
+    "trải nghiệm"
+  ],
+  "updatedAt": "2026-03-03T07:04:50.157Z",
+  "exampleSentencesTranslated": [
+    "She likes to join outdoor activity on the weekends.",
+    "Today my class has a very interesting group activity.",
+    "He is looking for a new activity to improve his health."
+  ],
+  "notes": "Hoạt động means activity — something people do, an event, or a process that happens. It’s a countable noun, so you say một hoạt động, các hoạt động.  \n\nIt’s often used for school events, work tasks, business operations, or physical actions (hoạt động kinh doanh, hoạt động thể thao).  \n\nIt also appears in abstract contexts like “operation” or “functioning” (hoạt động của máy, hoạt động của não).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Hoạt động** means *activity* — something people do, an event, or a process that happens. It’s a **countable noun**, so you say *một hoạt động*, *các hoạt động*.  \n\nIt’s often used for school events, work tasks, business operations, or physical actions (hoạt động kinh doanh, hoạt động thể thao).  \n\nIt also appears in abstract contexts like “operation” or “functioning” (hoạt động của máy, hoạt động của não).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hoạt động",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "activities"
+      },
+      "answer": "hoạt động",
+      "translation": {
+        "en": "The meeting will have interesting activities."
+      },
+      "language": "vi",
+      "choices": [
+        "sự kiện",
+        "hoạt động",
+        "cuộc thi"
+      ],
+      "hint": "h___ động",
+      "word": "hoạt động",
+      "sentence": "Buổi họp sẽ có ___ thú vị."
+    },
+    "id": "fcec198d-73a9-4de3-a8ac-a0782c1e9593",
+    "createdAt": "2025-03-12T14:21:05.421Z",
+    "updatedAt": "2025-03-12T14:21:05.421Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "We need to participate in community activities.",
+      "vi": "Chúng ta cần tham gia vào các hoạt động cộng đồng.",
+      "es": "Necesitamos participar en actividades comunitarias."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hoạt động",
+      "es": "actividad",
+      "en": "activity"
+    },
+    "definitions": {
+      "en": "An action or series of actions taken to achieve a particular goal.",
+      "es": "Una acción o serie de acciones realizadas para lograr un objetivo particular.",
+      "vi": "Một hành động hoặc chuỗi hành động được thực hiện để đạt được một mục tiêu cụ thể."
+    },
+    "createdAt": "2025-01-28T11:57:14.667Z"
+  },
+  "exampleSentences": [
+    "Chị thích tham gia các hoạt động ngoài trời vào cuối tuần.",
+    "Hôm nay lớp em có một hoạt động nhóm rất thú vị.",
+    "Anh đang tìm một hoạt động mới để rèn luyện sức khỏe."
+  ],
+  "rank": 425,
+  "_id": "NLiDW4HE1MOgVefxAlI1"
+}

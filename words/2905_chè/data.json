@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T18:11:06.570Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2905,
+  "exampleSentencesTranslated": [
+    "She likes to eat Vietnamese sweet dessert soup whenever it is hot in the summer.",
+    "He buys Vietnamese sweet dessert soup for the whole family after dinner today.",
+    "I often cook Vietnamese sweet dessert soup with mung beans to treat friends who visit."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "dessert"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ vào buổi tối.",
+      "word": "chè",
+      "choices": [
+        "bánh",
+        "chè",
+        "món ăn"
+      ],
+      "translation": {
+        "en": "I like to eat dessert in the evening."
+      },
+      "answer": "chè",
+      "hint": "c__"
+    },
+    "updatedAt": "2025-03-12T14:25:26.648Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:25:26.648Z",
+    "id": "665a1ce5-d6e3-445b-99a2-e2a0ce83a82e",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "chè",
+  "notes": "chè = a Vietnamese sweet dessert, usually a thick sweet soup with beans, jelly, fruit, or coconut milk. You eat it with a spoon or drink it with ice.\n\nIt’s an uncountable noun in general, but you can say một món chè, một ly chè, một chén chè depending on how it’s served. Common pairings: ăn chè, nấu chè, chè đậu xanh, chè thập cẩm.\n\nIn the North, chè can also mean “tea” (what Southerners usually call trà), so meaning depends on context.",
+  "choices": [
+    "chè",
+    "phở",
+    "bún"
+  ],
+  "notes_md": "**chè** = a Vietnamese sweet dessert, usually a thick sweet soup with beans, jelly, fruit, or coconut milk. You eat it with a spoon or drink it with ice.\n\nIt’s an uncountable noun in general, but you can say *một món chè*, *một ly chè*, *một chén chè* depending on how it’s served. Common pairings: *ăn chè*, *nấu chè*, *chè đậu xanh*, *chè thập cẩm*.\n\nIn the North, **chè** can also mean “tea” (what Southerners usually call *trà*), so meaning depends on context.",
+  "exampleSentences": [
+    "Chị thích ăn chè mỗi khi trời nóng vào mùa hè.",
+    "Anh mua chè cho cả nhà sau bữa tối hôm nay.",
+    "Em thường nấu chè đậu xanh để mời bạn bè đến chơi."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A traditional Vietnamese beverage made from tea leaves, often served hot or cold.",
+      "vi": "Một loại đồ uống truyền thống của Việt Nam được làm từ lá trà, thường được phục vụ nóng hoặc lạnh.",
+      "es": "Una bebida tradicional vietnamita hecha de hojas de té, a menudo servida caliente o fría."
+    },
+    "createdAt": "2025-01-28T12:01:18.743Z",
+    "example": {
+      "es": "Me gusta beber té por la tarde.",
+      "vi": "Tôi thích uống chè vào buổi chiều.",
+      "en": "I like to drink tea in the afternoon."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "tea",
+      "vi": "chè",
+      "es": "té"
+    }
+  },
+  "definition": "Vietnamese sweet dessert soup",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:25:26.648Z",
+    "id": "35bdb860-5de4-46d4-b8f9-c394f6c11b75",
+    "content": {
+      "choices": [],
+      "word": "chè",
+      "translation": {
+        "en": "I like to drink tea in summer."
+      },
+      "answer": "chè",
+      "sentence": "Tôi thích uống ___ vào mùa hè.",
+      "translatedAnswer": {
+        "en": "tea"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:25:26.648Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "OTlHzMCHFS0IwlIoiRBl"
+}

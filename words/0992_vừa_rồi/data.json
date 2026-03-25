@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "86f61a52-e9d9-436e-8780-73bf8820eaf1",
+    "updatedAt": "2025-03-12T13:51:09.971Z",
+    "createdAt": "2025-03-12T13:51:09.971Z",
+    "content": {
+      "translation": {
+        "en": "We talked just now."
+      },
+      "answer": "vừa rồi",
+      "choices": [
+        "vừa rồi",
+        "trước đây",
+        "mới đây"
+      ],
+      "hint": "v___ r___",
+      "sentence": "Chúng ta đã nói chuyện ___.",
+      "word": "vừa rồi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "just now"
+      }
+    }
+  },
+  "notes_md": "**vừa rồi** means *just now* or *a moment ago* in the recent past. It talks about something that happened very recently.\n\nIt usually goes at the end of the sentence, after the verb or time phrase.  \n\nIt’s similar to **mới** (also “just”), but **mới** often emphasizes “just did,” while **vừa rồi** focuses more on the recent time.  \n\nIt can also mean “the one from earlier” when talking about a person, event, or thing mentioned a moment ago.",
+  "exampleSentencesTranslated": [
+    "I met you at the coffee shop just now, do you remember?",
+    "She called me just now to share good news.",
+    "I forgot what I needed to do just now so I have to ask again."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:29:05.710Z",
+    "example": {
+      "es": "Acabo de encontrarme con él hace un momento.",
+      "vi": "Tôi vừa gặp anh ấy vừa rồi.",
+      "en": "I just met him a moment ago."
+    },
+    "translations": {
+      "vi": "vừa rồi",
+      "es": "hace un momento",
+      "en": "just now"
+    },
+    "definitions": {
+      "en": "A phrase used to indicate something that just happened or occurred recently.",
+      "es": "Una frase utilizada para indicar algo que acaba de suceder o ocurrió recientemente.",
+      "vi": "Cụm từ được sử dụng để chỉ một điều gì đó vừa xảy ra hoặc xảy ra gần đây."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:51:09.971Z",
+    "content": {
+      "choices": [],
+      "answer": "vừa rồi",
+      "translation": {
+        "en": "I met her just now."
+      },
+      "translatedAnswer": {
+        "en": "just now"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã gặp cô ấy ___.",
+      "word": "vừa rồi"
+    },
+    "updatedAt": "2025-03-12T13:51:09.971Z",
+    "id": "1dd90067-72ef-4b34-9ef9-467f14dda122",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "vừa rồi means just now or a moment ago in the recent past. It talks about something that happened very recently.\n\nIt usually goes at the end of the sentence, after the verb or time phrase.  \n\nIt’s similar to mới (also “just”), but mới often emphasizes “just did,” while vừa rồi focuses more on the recent time.  \n\nIt can also mean “the one from earlier” when talking about a person, event, or thing mentioned a moment ago.",
+  "updatedAt": "2026-03-03T08:01:35.604Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "just now",
+  "word": "vừa rồi",
+  "rank": 992,
+  "exampleSentences": [
+    "Anh gặp em ở quán cà phê vừa rồi, em nhớ không?",
+    "Chị ấy gọi điện cho anh vừa rồi để báo tin vui.",
+    "Em quên mất việc cần làm vừa rồi nên phải hỏi lại."
+  ],
+  "choices": [
+    "lúc này",
+    "vừa rồi",
+    "hôm qua"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "G5jZB8CMFZS4SJQXklss"
+}

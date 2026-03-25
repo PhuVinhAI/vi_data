@@ -1,0 +1,99 @@
+{
+  "word": "sợ",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:17:20.354Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "343119d7-8699-4dfb-b189-18be2e781e0b",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "sợ",
+      "word": "sợ",
+      "translation": {
+        "en": "I am afraid to go into the dark."
+      },
+      "translatedAnswer": {
+        "en": "afraid"
+      },
+      "sentence": "Tôi ___ đi vào bóng tối."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:17:20.354Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 293,
+  "notes_md": "**sợ** = to be afraid / scared. It’s the basic word for fear in everyday situations.\n\nIt’s a **verb**, so you say what you’re afraid of right after it: *sợ + noun / verb phrase*.  \n\nIt can also mean “be worried that…” in softer situations, close to *lo*.  \nOpposite idea: **dũng cảm** (brave).",
+  "definition": "afraid",
+  "multiChoiceQuiz": {
+    "id": "3343b8a4-42bb-439a-822d-18bfc208a642",
+    "createdAt": "2025-03-12T16:17:20.354Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:17:20.354Z",
+    "content": {
+      "sentence": "Tôi ___ khi nhìn thấy con rắn.",
+      "word": "sợ",
+      "choices": [
+        "sợ",
+        "thích",
+        "ghét"
+      ],
+      "language": "vi",
+      "answer": "sợ",
+      "hint": "s__",
+      "translation": {
+        "en": "I am afraid when I see the snake."
+      },
+      "translatedAnswer": {
+        "en": "afraid"
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T13:48:56.520Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "cảm thấy sợ hãi hoặc lo lắng; sợ.",
+      "es": "sentir miedo o ansiedad; tener miedo.",
+      "en": "to feel fear or anxiety; to be afraid."
+    },
+    "translations": {
+      "vi": "sợ",
+      "en": "afraid",
+      "es": "miedo"
+    },
+    "example": {
+      "en": "I am afraid of the dark.",
+      "es": "Tengo miedo de la oscuridad.",
+      "vi": "Tôi sợ bóng tối."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sợ",
+    "vui",
+    "giận"
+  ],
+  "exampleSentences": [
+    "Em không sợ nói trước đám đông nữa rồi.",
+    "Anh sợ đi máy bay mỗi khi phải công tác xa.",
+    "Chị sợ con mèo đen chạy qua đường vào ban đêm."
+  ],
+  "exampleSentencesTranslated": [
+    "I am not afraid to speak in front of a crowd anymore.",
+    "I am afraid of flying every time I have to travel for work.",
+    "I am afraid when a black cat runs across the street at night."
+  ],
+  "updatedAt": "2026-03-03T06:50:51.812Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sợ = to be afraid / scared. It’s the basic word for fear in everyday situations.\n\nIt’s a verb, so you say what you’re afraid of right after it: sợ + noun / verb phrase.  \n\nIt can also mean “be worried that…” in softer situations, close to lo.  \nOpposite idea: dũng cảm (brave).",
+  "_id": "qy5hHzV6mdBMBXDHTCVr"
+}

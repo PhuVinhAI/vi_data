@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "generation",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "8223c193-eeb9-4b8b-a685-a064aabbed5c",
+    "createdAt": "2025-03-12T14:26:45.776Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:26:45.776Z",
+    "content": {
+      "choices": [],
+      "word": "lứa",
+      "translation": {
+        "en": "She belongs to a youth group."
+      },
+      "answer": "lứa",
+      "sentence": "Cô ấy thuộc ___ tuổi trẻ.",
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh thường kể cho em nghe về lứa học sinh đầu tiên của trường.",
+    "Lứa trẻ ngày nay có nhiều cơ hội tiếp cận công nghệ hơn trước.",
+    "Chị tự hào về lứa bạn thân đã cùng nhau vượt qua nhiều khó khăn."
+  ],
+  "notes_md": "**lứa** = generation or cohort — a group of people born or growing up around the same time.  \n\nIt’s a noun. You can say *một lứa* (one cohort), *các lứa* (different cohorts). Very common in phrases like **lứa tuổi** (age group) and **cùng lứa** (same age).  \n\nIt’s also used for animals or crops to mean a “batch” or “litter” born/produced at the same time.  \n\nClose synonym: **thế hệ** (generation) — but *thế hệ* is broader and more formal; *lứa* feels more about people of the same age.",
+  "flashcard": {
+    "translations": {
+      "es": "grupo de edad",
+      "vi": "lứa tuổi",
+      "en": "age group"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "We are of the same age group.",
+      "vi": "Chúng tôi cùng lứa tuổi.",
+      "es": "Estamos en el mismo grupo de edad."
+    },
+    "createdAt": "2025-01-28T12:02:53.901Z",
+    "definitions": {
+      "vi": "Một nhóm cá nhân cùng độ tuổi hoặc giai đoạn trong cuộc sống.",
+      "en": "A group of individuals of the same age or stage in life.",
+      "es": "Un grupo de individuos de la misma edad o etapa de la vida."
+    }
+  },
+  "notes": "lứa = generation or cohort — a group of people born or growing up around the same time.  \n\nIt’s a noun. You can say một lứa (one cohort), các lứa (different cohorts). Very common in phrases like lứa tuổi (age group) and cùng lứa (same age).  \n\nIt’s also used for animals or crops to mean a “batch” or “litter” born/produced at the same time.  \n\nClose synonym: thế hệ (generation) — but thế hệ is broader and more formal; lứa feels more about people of the same age.",
+  "choices": [
+    "lứa",
+    "lứa tuổi",
+    "lưới"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:51:39.413Z",
+  "word": "lứa",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:26:45.776Z",
+    "id": "91ecaae3-b466-4c48-a9ab-2787f1ebe476",
+    "content": {
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy thuộc ___ tuổi trẻ.",
+      "translation": {
+        "en": "She belongs to a youth group."
+      },
+      "answer": "lứa",
+      "hint": "l___",
+      "word": "lứa",
+      "choices": [
+        "nhóm",
+        "lứa",
+        "tuổi"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:26:45.776Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He often tells me about the first generation of students at the school.",
+    "The generation of young people today has more opportunities to access technology than before.",
+    "She is proud of the generation of close friends who overcame many difficulties together."
+  ],
+  "rank": 1458,
+  "_id": "OreXXc9CT0uV76CHkQv0"
+}

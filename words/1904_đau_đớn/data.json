@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:00:28.080Z",
+    "updatedAt": "2025-03-12T14:00:28.080Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "đau đớn",
+      "translatedAnswer": {
+        "en": "pain"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I feel pain after exercising."
+      },
+      "sentence": "Tôi cảm thấy ___ sau khi tập thể dục.",
+      "word": "đau đớn"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "245984de-9e59-4ef7-9597-8b3142a0c9fe"
+  },
+  "definition": "painful",
+  "updatedAt": "2026-03-03T09:39:27.438Z",
+  "choices": [
+    "đau đớn",
+    "vui vẻ",
+    "mệt mỏi"
+  ],
+  "notes": "Đau đớn means painful — either physical pain or strong emotional pain. It’s stronger than just đau (hurt).\n\nIt’s an adjective, so it describes a feeling, injury, or experience. You’ll often see it with physical pain (vết thương, cơ thể) or emotional pain (kỷ niệm, sự thật).\n\nCompared to đau khổ, đau đớn can be both physical and emotional; đau khổ is mostly deep emotional suffering. Opposite feeling would be dễ chịu or sung sướng.",
+  "exampleSentencesTranslated": [
+    "He felt very painful when breaking up with his girlfriend.",
+    "She went through a painful experience in the past.",
+    "I think losing a beloved pet is really painful."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Đau đớn** means painful — either physical pain or strong emotional pain. It’s stronger than just *đau* (hurt).\n\nIt’s an adjective, so it describes a feeling, injury, or experience. You’ll often see it with physical pain (vết thương, cơ thể) or emotional pain (kỷ niệm, sự thật).\n\nCompared to **đau khổ**, *đau đớn* can be both physical and emotional; *đau khổ* is mostly deep emotional suffering. Opposite feeling would be **dễ chịu** or **sung sướng**.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đau đớn",
+  "multiChoiceQuiz": {
+    "id": "05318f39-287a-425f-8350-2138d95e6bb7",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "đ___n",
+      "word": "đau đớn",
+      "sentence": "Cô ấy đang trải qua ___ trong cuộc sống.",
+      "translation": {
+        "en": "She is going through pain in life."
+      },
+      "choices": [
+        "niềm vui",
+        "đau đớn",
+        "sự thất vọng"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "pain"
+      },
+      "answer": "đau đớn"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:00:28.080Z",
+    "createdAt": "2025-03-12T14:00:28.080Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A feeling of intense physical or emotional suffering.",
+      "es": "Una sensación de intenso sufrimiento físico o emocional.",
+      "vi": "Cảm giác đau đớn về thể xác hoặc tinh thần."
+    },
+    "translations": {
+      "es": "dolor",
+      "vi": "đau đớn",
+      "en": "pain"
+    },
+    "createdAt": "2025-01-28T11:38:27.703Z",
+    "example": {
+      "vi": "Cô ấy cảm thấy đau đớn khi mất đi người thân.",
+      "es": "Ella siente dolor al perder a un ser querido.",
+      "en": "She feels pain when losing a loved one."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cảm thấy rất đau đớn khi chia tay bạn gái.",
+    "Chị ấy đã trải qua một trải nghiệm đau đớn trong quá khứ.",
+    "Em nghĩ việc mất vật nuôi thân yêu thật đau đớn."
+  ],
+  "rank": 1904,
+  "_id": "IpGH4dVQ4zFFaVY9G7YP"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "chứng khoán",
+    "ngân hàng",
+    "bảo hiểm"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:56:30.602Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un instrumento financiero que representa una posición de propiedad en una empresa o un reclamo sobre sus activos y ganancias.",
+      "en": "A financial instrument that represents an ownership position in a company or a claim on its assets and earnings.",
+      "vi": "Một công cụ tài chính đại diện cho quyền sở hữu trong một công ty hoặc quyền yêu cầu về tài sản và lợi nhuận của nó."
+    },
+    "example": {
+      "vi": "Tôi đầu tư vào chứng khoán để kiếm lời.",
+      "es": "Invierto en acciones para obtener ganancias.",
+      "en": "I invest in stocks to make a profit."
+    },
+    "translations": {
+      "en": "stocks",
+      "es": "acciones",
+      "vi": "chứng khoán"
+    }
+  },
+  "exampleSentences": [
+    "Anh đã đầu tư vào chứng khoán để kiếm thêm thu nhập.",
+    "Nhiều người trẻ hiện nay quan tâm đến chứng khoán hơn trước đây.",
+    "Chị ấy đọc báo mỗi sáng để theo dõi thị trường chứng khoán."
+  ],
+  "exampleSentencesTranslated": [
+    "He invested in stock to earn extra income.",
+    "Many young people today are more interested in stock than before.",
+    "She reads the newspaper every morning to follow the stock market."
+  ],
+  "updatedAt": "2026-03-03T09:20:44.856Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Chứng khoán means stocks/securities — investment assets you buy hoping their value goes up. It’s a general, uncountable noun for the stock market world.\n\nYou usually don’t count it directly; instead, you talk about cổ phiếu (individual shares). Common pairings: thị trường chứng khoán (stock market), đầu tư chứng khoán (invest in stocks), mua/bán chứng khoán.\n\nThink of chứng khoán as the big system, and cổ phiếu as the specific things you trade.",
+  "word": "chứng khoán",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:25:43.289Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "3b6beeb9-cdb4-4f5e-9a1d-7ef31875b3e4",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I invest in stocks every month."
+      },
+      "translatedAnswer": {
+        "en": "stocks"
+      },
+      "answer": "chứng khoán",
+      "language": "vi",
+      "word": "chứng khoán",
+      "choices": [],
+      "sentence": "Tôi đầu tư vào ___ mỗi tháng."
+    },
+    "updatedAt": "2025-03-12T16:25:43.289Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1726,
+  "notes_md": "**Chứng khoán** means *stocks/securities* — investment assets you buy hoping their value goes up. It’s a general, uncountable noun for the stock market world.\n\nYou usually don’t count it directly; instead, you talk about **cổ phiếu** (individual shares). Common pairings: *thị trường chứng khoán* (stock market), *đầu tư chứng khoán* (invest in stocks), *mua/bán chứng khoán*.\n\nThink of **chứng khoán** as the big system, and **cổ phiếu** as the specific things you trade.",
+  "definition": "stock",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:25:43.289Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "88b1a0c1-70df-4d01-b5de-d7753c904a70",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn tìm hiểu về ___.",
+      "language": "vi",
+      "choices": [
+        "gia đình",
+        "chứng khoán",
+        "tương lai"
+      ],
+      "answer": "chứng khoán",
+      "word": "chứng khoán",
+      "hint": "c___n",
+      "translation": {
+        "en": "I want to learn about stocks."
+      },
+      "translatedAnswer": {
+        "en": "stocks"
+      }
+    },
+    "updatedAt": "2025-03-12T16:25:43.289Z"
+  },
+  "_id": "spTOzRwuarjYosQhmN8p"
+}

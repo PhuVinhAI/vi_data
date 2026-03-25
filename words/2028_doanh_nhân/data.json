@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "doanh nhân",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1bf5dd1b-3678-4996-b1f7-28e65448f09f",
+    "content": {
+      "sentence": "Anh ấy muốn trở thành một ___.",
+      "language": "vi",
+      "word": "doanh nhân",
+      "choices": [
+        "nhà văn",
+        "doanh nhân",
+        "họa sĩ"
+      ],
+      "hint": "d___n",
+      "answer": "doanh nhân",
+      "translatedAnswer": {
+        "en": "entrepreneur"
+      },
+      "translation": {
+        "en": "He wants to become an entrepreneur."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:31:49.382Z",
+    "updatedAt": "2025-03-12T13:31:49.382Z"
+  },
+  "notes_md": "**Doanh nhân** means *businessperson* or *entrepreneur* — someone who runs or owns a business.\n\nIt’s a countable noun: *một doanh nhân*, *các doanh nhân*. It sounds a bit formal and is often used in news or professional contexts. Common pairings: *doanh nhân thành đạt* (successful businessperson), *doanh nhân trẻ* (young entrepreneur), *doanh nhân nổi tiếng*.\n\nClose synonym: *doanh gia* (often implies wealth and high status). Don’t confuse it with *doanh nghiệp* — that’s the **company**, not the person.",
+  "rank": 2028,
+  "choices": [
+    "doanh nhân",
+    "nhà báo",
+    "giáo viên"
+  ],
+  "notes": "Doanh nhân means businessperson or entrepreneur — someone who runs or owns a business.\n\nIt’s a countable noun: một doanh nhân, các doanh nhân. It sounds a bit formal and is often used in news or professional contexts. Common pairings: doanh nhân thành đạt (successful businessperson), doanh nhân trẻ (young entrepreneur), doanh nhân nổi tiếng.\n\nClose synonym: doanh gia (often implies wealth and high status). Don’t confuse it with doanh nghiệp — that’s the company, not the person.",
+  "updatedAt": "2026-03-03T09:52:44.843Z",
+  "exampleSentences": [
+    "Chị Lan là một doanh nhân thành công trong lĩnh vực công nghệ.",
+    "Anh muốn trở thành doanh nhân để mở công ty riêng của mình.",
+    "Nhiều doanh nhân thường tham gia các sự kiện kết nối để gặp đối tác mới."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "doanh nhân",
+      "translatedAnswer": {
+        "en": "entrepreneur"
+      },
+      "translation": {
+        "en": "She is a successful entrepreneur."
+      },
+      "sentence": "Cô ấy là một ___ thành công.",
+      "language": "vi",
+      "word": "doanh nhân",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:31:49.382Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "3d142aef-a0e1-4d8f-989a-b26f8a223129",
+    "updatedAt": "2025-03-12T13:31:49.382Z"
+  },
+  "exampleSentencesTranslated": [
+    "Lan is a successful businessperson in the technology field.",
+    "He wants to become a businessperson to open his own company.",
+    "Many businessperson often attend networking events to meet new partners."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:11:30.614Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "doanh nhân",
+      "es": "empresario",
+      "en": "entrepreneur"
+    },
+    "example": {
+      "en": "He is a successful entrepreneur.",
+      "es": "Él es un empresario exitoso.",
+      "vi": "Ông ấy là một doanh nhân thành đạt."
+    },
+    "definitions": {
+      "vi": "Một người tổ chức và điều hành một doanh nghiệp, chấp nhận rủi ro tài chính để làm điều đó.",
+      "es": "Una persona que organiza y opera un negocio, asumiendo riesgos financieros para hacerlo.",
+      "en": "A person who organizes and operates a business, taking on financial risks to do so."
+    }
+  },
+  "definition": "businessperson",
+  "_id": "BOfOY9IOienOp7PP9UGC"
+}

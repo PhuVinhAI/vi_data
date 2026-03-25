@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "đói",
+      "translatedAnswer": {
+        "en": "hungry"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I am very hungry."
+      },
+      "choices": [],
+      "answer": "đói",
+      "sentence": "Tôi đang rất ___."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "d7dcf14b-4d3b-4f72-8465-d6f52c8a8300",
+    "createdAt": "2025-03-12T12:51:29.377Z",
+    "updatedAt": "2025-03-12T12:51:29.377Z"
+  },
+  "updatedAt": "2026-03-03T10:09:58.563Z",
+  "exampleSentencesTranslated": [
+    "I feel very hungry after finishing my evening class.",
+    "I am usually hungry in the morning so I need a full breakfast.",
+    "Are you hungry? Let's go eat something."
+  ],
+  "notes_md": "**đói** = hungry. It describes a person or animal that needs food.\n\nIt’s an adjective, but in Vietnamese you don’t need “to be” — just say the subject + **đói**.  \n\nVery common combo: **đói bụng** (hungry stomach → feeling hungry). You’ll also hear **đói quá** (so hungry) to add intensity.\n\nOpposite: **no** (full). That pair is super useful: đói ↔ no.",
+  "notes": "đói = hungry. It describes a person or animal that needs food.\n\nIt’s an adjective, but in Vietnamese you don’t need “to be” — just say the subject + đói.  \n\nVery common combo: đói bụng (hungry stomach → feeling hungry). You’ll also hear đói quá (so hungry) to add intensity.\n\nOpposite: no (full). That pair is super useful: đói ↔ no.",
+  "choices": [
+    "no",
+    "đói",
+    "mệt"
+  ],
+  "word": "đói",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "7c82a810-b1ce-4756-a8a5-1d56240502da",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "đói",
+      "sentence": "Bạn có thấy tôi ___ không?",
+      "hint": "d__i",
+      "word": "đói",
+      "translatedAnswer": {
+        "en": "hungry"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "Do you see that I am hungry?"
+      },
+      "choices": [
+        "khát",
+        "đói",
+        "no"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T12:51:29.377Z",
+    "updatedAt": "2025-03-12T12:51:29.377Z"
+  },
+  "exampleSentences": [
+    "Em cảm thấy rất đói sau khi học xong buổi tối.",
+    "Anh thường đói vào buổi sáng nên phải ăn sáng đầy đủ.",
+    "Chị có đói không? Chúng ta đi ăn gì nhé."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "hungry",
+  "rank": 2191,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:35:40.256Z",
+    "definitions": {
+      "en": "In need of food; feeling a desire to eat.",
+      "vi": "Cần thức ăn; cảm giác muốn ăn.",
+      "es": "Necesidad de comida; sensación de querer comer."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I feel hungry.",
+      "vi": "Tôi cảm thấy đói.",
+      "es": "Tengo hambre."
+    },
+    "translations": {
+      "es": "hambriento",
+      "en": "hungry",
+      "vi": "đói"
+    }
+  },
+  "_id": "0dq7hGngix8EbMGDoEl8"
+}

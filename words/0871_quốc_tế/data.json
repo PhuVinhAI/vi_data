@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:49:07.963Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 871,
+  "exampleSentencesTranslated": [
+    "I want to attend an international technology conference next month.",
+    "She works for an international company so she often goes on business trips abroad.",
+    "International universities often have many students from different countries."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "internationally"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần hợp tác ___ hơn.",
+      "word": "quốc tế",
+      "choices": [
+        "quốc gia",
+        "quốc tế",
+        "địa phương"
+      ],
+      "hint": "q___ t__",
+      "translation": {
+        "en": "We need to cooperate internationally."
+      },
+      "answer": "quốc tế"
+    },
+    "updatedAt": "2025-03-12T14:44:21.962Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:44:21.962Z",
+    "id": "d3d2eb69-35e2-4800-9c3d-d074c8330495"
+  },
+  "word": "quốc tế",
+  "notes": "quốc tế means international — involving more than one country.\n\nIt’s an adjective, so it usually comes after the noun it describes. It’s used for events, companies, organizations, laws, students, relations, etc.\n\nClose word: toàn cầu = global (a bit broader, more “worldwide”); opposite idea: trong nước = domestic.",
+  "choices": [
+    "quốc tế",
+    "trong nước",
+    "thế giới"
+  ],
+  "notes_md": "**quốc tế** means *international* — involving more than one country.\n\nIt’s an **adjective**, so it usually comes **after the noun** it describes. It’s used for events, companies, organizations, laws, students, relations, etc.\n\n\nClose word: **toàn cầu** = global (a bit broader, more “worldwide”); opposite idea: **trong nước** = domestic.",
+  "exampleSentences": [
+    "Anh muốn tham gia một hội nghị quốc tế về công nghệ vào tháng tới.",
+    "Chị ấy làm việc cho một công ty quốc tế nên thường xuyên đi công tác nước ngoài.",
+    "Các trường đại học quốc tế thường có nhiều sinh viên đến từ các nước khác nhau."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "international",
+      "vi": "quốc tế",
+      "es": "internacional"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Vietnam participa en muchas organizaciones internacionales.",
+      "vi": "Việt Nam tham gia nhiều tổ chức quốc tế.",
+      "en": "Vietnam participates in many international organizations."
+    },
+    "createdAt": "2025-01-28T12:18:30.157Z",
+    "definitions": {
+      "es": "Relativo a o que involucra a dos o más países.",
+      "en": "Relating to or involving two or more countries.",
+      "vi": "Liên quan đến hoặc bao gồm hai hoặc nhiều quốc gia."
+    }
+  },
+  "definition": "international",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "c6a93f39-6b5b-4bf9-9fd9-f868284a58c6",
+    "createdAt": "2025-03-12T14:44:21.962Z",
+    "content": {
+      "answer": "quốc tế",
+      "translation": {
+        "en": "We need to cooperate internationally."
+      },
+      "choices": [],
+      "word": "quốc tế",
+      "sentence": "Chúng ta cần hợp tác ___ hơn.",
+      "translatedAnswer": {
+        "en": "internationally"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:44:21.962Z"
+  },
+  "_id": "SoFk25ouPTeP03FA9xYy"
+}

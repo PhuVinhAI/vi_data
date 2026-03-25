@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi chỉ đùa thôi mà.",
+      "es": "Solo estaba bromeando.",
+      "en": "I was just joking."
+    },
+    "createdAt": "2025-01-28T11:26:57.897Z",
+    "translations": {
+      "vi": "đùa",
+      "es": "broma",
+      "en": "joke"
+    },
+    "definitions": {
+      "en": "To make a joke or to tease someone in a playful manner.",
+      "vi": "Để tạo ra một trò đùa hoặc trêu chọc ai đó một cách vui vẻ.",
+      "es": "Hacer una broma o burlarse de alguien de manera juguetona."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I was just saying that, don't be upset because I joke.",
+    "She often joke with her friends during lunchtime at the company.",
+    "I don't like it when others joke about serious matters."
+  ],
+  "multiChoiceQuiz": {
+    "id": "0c30ed1b-131f-453e-b3ee-23e0bb728e3a",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "cười",
+        "đùa",
+        "nói thật"
+      ],
+      "hint": "d___",
+      "translation": {
+        "en": "She is joking with us."
+      },
+      "answer": "đùa",
+      "translatedAnswer": {
+        "en": "joking"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy đang ___ với chúng tôi.",
+      "word": "đùa"
+    },
+    "createdAt": "2025-03-12T13:48:37.634Z",
+    "updatedAt": "2025-03-12T13:48:37.634Z"
+  },
+  "notes_md": "**đùa** = to joke, to kid, to say something not serious for fun. It’s about making light comments, teasing, or being playful.\n\nIt’s a verb and usually goes with a person: you **đùa với ai** (joke with someone) or **đùa về chuyện gì** (joke about something).  \n\nBe careful: joking about serious topics can sound rude. In the South, people often say **giỡn** instead of **đùa** — same meaning, more casual vibe.",
+  "updatedAt": "2026-03-03T08:58:59.451Z",
+  "notes": "đùa = to joke, to kid, to say something not serious for fun. It’s about making light comments, teasing, or being playful.\n\nIt’s a verb and usually goes with a person: you đùa với ai (joke with someone) or đùa về chuyện gì (joke about something).  \n\nBe careful: joking about serious topics can sound rude. In the South, people often say giỡn instead of đùa — same meaning, more casual vibe.",
+  "fillBlankQuiz": {
+    "id": "5e3bf97c-0f28-4e1c-a69a-570a5fc79a68",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Anh ấy chỉ ___ mà thôi.",
+      "word": "đùa",
+      "translatedAnswer": {
+        "en": "joking"
+      },
+      "translation": {
+        "en": "He is just joking."
+      },
+      "answer": "đùa",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:48:37.634Z",
+    "updatedAt": "2025-03-12T13:48:37.634Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đùa",
+    "học",
+    "nghỉ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "joke",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1522,
+  "exampleSentences": [
+    "Anh chỉ nói vậy thôi, em đừng giận vì anh đùa mà.",
+    "Chị ấy hay đùa với bạn bè trong giờ nghỉ trưa ở công ty.",
+    "Em không thích khi người khác đùa về chuyện nghiêm túc."
+  ],
+  "word": "đùa",
+  "_id": "FYx8KvEnbIJYMPgjBNKS"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể góp ý cho bài thuyết trình của em không?",
+    "Chị rất vui nếu mọi người góp ý về dự án mới này.",
+    "Sau buổi học, thầy giáo thường góp ý để học sinh tiến bộ hơn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:56:48.628Z",
+    "createdAt": "2025-03-12T15:56:48.628Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "70bb7a7a-963a-4bcc-a675-5caf0b0fc1e9",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi muốn ___ cho ý tưởng của bạn.",
+      "translatedAnswer": {
+        "en": "feedback"
+      },
+      "answer": "góp ý",
+      "translation": {
+        "en": "I want to give feedback on your idea."
+      },
+      "word": "góp ý",
+      "language": "vi"
+    }
+  },
+  "choices": [
+    "góp ý",
+    "giải thích",
+    "khen ngợi"
+  ],
+  "rank": 2598,
+  "notes": "Góp ý means to give feedback or suggestions to help someone improve. It’s usually constructive, not just criticism.\n\nIt’s a verb and often used when talking about work, school, plans, or ideas. The feeling is generally helpful and polite, not harsh.\n\nClose words: đóng góp ý kiến (more formal, longer), phê bình (more critical, can feel stronger).",
+  "definition": "give feedback",
+  "notes_md": "**Góp ý** means to give feedback or suggestions to help someone improve. It’s usually constructive, not just criticism.\n\nIt’s a verb and often used when talking about work, school, plans, or ideas. The feeling is generally helpful and polite, not harsh.\n\n\nClose words: **đóng góp ý kiến** (more formal, longer), **phê bình** (more critical, can feel stronger).",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "góp ý",
+      "translation": {
+        "en": "Can you give me feedback?"
+      },
+      "language": "vi",
+      "sentence": "Bạn có thể ___ cho tôi không?",
+      "choices": [
+        "góp ý",
+        "chỉ dẫn",
+        "phê bình"
+      ],
+      "hint": "g___y",
+      "translatedAnswer": {
+        "en": "feedback"
+      },
+      "answer": "góp ý"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "3f2b8099-5fcb-4344-ac87-f0ccdaefad48",
+    "createdAt": "2025-03-12T15:56:48.628Z",
+    "updatedAt": "2025-03-12T15:56:48.628Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:27:06.850Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "góp ý",
+      "es": "dar opinión",
+      "en": "give feedback"
+    },
+    "example": {
+      "vi": "Tôi muốn góp ý cho dự án này.",
+      "en": "I want to give feedback on this project.",
+      "es": "Quiero dar mi opinión sobre este proyecto."
+    },
+    "createdAt": "2025-01-28T13:28:55.205Z",
+    "definitions": {
+      "vi": "Đưa ra những gợi ý hoặc nhận xét để cải thiện.",
+      "es": "Proporcionar sugerencias o comentarios para mejorar.",
+      "en": "To provide suggestions or comments for improvement."
+    }
+  },
+  "word": "góp ý",
+  "exampleSentencesTranslated": [
+    "Can you give feedback on my presentation?",
+    "I am happy if everyone can give feedback about this new project.",
+    "After class, the teacher usually gives feedback so students can improve."
+  ],
+  "_id": "lC7kp10DPL8GLBPvPPlc"
+}

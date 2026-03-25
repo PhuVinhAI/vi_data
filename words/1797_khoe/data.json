@@ -1,0 +1,99 @@
+{
+  "word": "khoe",
+  "rank": 1797,
+  "exampleSentences": [
+    "Em không thích khi ai đó hay khoe đồ mới với bạn bè.",
+    "Anh ấy thường khoe thành tích học tập của mình với gia đình.",
+    "Chị đừng khoe quá nhiều trên mạng xã hội nhé."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "show off",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "khen",
+    "khoe",
+    "khóc"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "8aed5d50-318c-4efb-bd85-792fe52eb3e6",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:39:08.315Z",
+    "content": {
+      "choices": [],
+      "answer": "khoe",
+      "translation": {
+        "en": "She shows off the new dress."
+      },
+      "translatedAnswer": {
+        "en": "shows off"
+      },
+      "sentence": "Cô ấy ___ chiếc váy mới.",
+      "word": "khoe",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:39:08.315Z"
+  },
+  "notes": "khoe = to show off, to brag about something you’re proud of.\n\nIt’s a verb. You usually khoe + something (what you’re showing off), often with với + someone (who you’re showing it to).  \n\nIt often has a slightly negative feeling, like you’re trying too hard to impress. A stronger word is khoe khoang (brag boastfully). The opposite vibe is khiêm tốn (humble).",
+  "updatedAt": "2026-03-03T09:28:13.642Z",
+  "notes_md": "**khoe** = to show off, to brag about something you’re proud of.\n\nIt’s a verb. You usually **khoe + something** (what you’re showing off), often with **với + someone** (who you’re showing it to).  \n\nIt often has a slightly negative feeling, like you’re trying too hard to impress. A stronger word is **khoe khoang** (brag boastfully). The opposite vibe is **khiêm tốn** (humble).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b6854f88-ae76-4b19-8cfe-abbce8198d18",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:39:08.315Z",
+    "content": {
+      "language": "vi",
+      "word": "khoe",
+      "sentence": "Anh ta luôn ___ thành tích của mình.",
+      "translatedAnswer": {
+        "en": "boasts about"
+      },
+      "translation": {
+        "en": "He always boasts about his achievements."
+      },
+      "answer": "khoe",
+      "hint": "k___e",
+      "choices": [
+        "khoe",
+        "thể hiện",
+        "chê bai"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:39:08.315Z"
+  },
+  "exampleSentencesTranslated": [
+    "I don't like it when someone likes to show off new things to friends.",
+    "He often likes to show off his academic achievements to his family.",
+    "Don't show off too much on social media."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Presumir o alardear de algo.",
+      "vi": "Khoe là hành động thể hiện hoặc khoe khoang về điều gì đó.",
+      "en": "To show off or boast about something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "khoe",
+      "es": "presumir",
+      "en": "show off"
+    },
+    "example": {
+      "vi": "Cô ấy thường khoe thành tích học tập của mình.",
+      "es": "Ella a menudo presume de sus logros académicos.",
+      "en": "She often shows off her academic achievements."
+    },
+    "createdAt": "2025-01-28T11:18:10.928Z"
+  },
+  "_id": "DCfK37cj5nwdgqY0rwUZ"
+}

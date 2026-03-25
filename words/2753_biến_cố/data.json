@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T12:06:49.124Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2753,
+  "exampleSentencesTranslated": [
+    "His family went through an unexpected event last year.",
+    "After that unexpected event, she felt much stronger.",
+    "Every unexpected event in life teaches me a new lesson."
+  ],
+  "word": "biến cố",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:39:48.957Z",
+    "id": "76af5903-db53-4a2a-b6c3-b76451158daf",
+    "content": {
+      "translation": {
+        "en": "That is an event this year."
+      },
+      "answer": "biến cố",
+      "hint": "b____o",
+      "word": "biến cố",
+      "choices": [
+        "sự kiện",
+        "biến cố",
+        "tình huống"
+      ],
+      "sentence": "Đó là một ___ trong năm nay.",
+      "translatedAnswer": {
+        "en": "event"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:39:48.957Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes": "Biến cố = an unexpected event, usually something serious or life-changing (often negative). It’s stronger than just “event” — it feels like something that shakes things up.\n\nIt’s a countable noun: một biến cố, nhiều biến cố. Common pairings: biến cố lớn, biến cố bất ngờ, biến cố trong cuộc đời.  \n\nIt’s often used for personal, family, or historical turning points — not small daily problems.  \n\nClose to sự kiện (event), but biến cố is more dramatic and emotional. Sometimes similar to tai nạn (accident), but broader — not only physical accidents.",
+  "choices": [
+    "biến cố",
+    "kỷ niệm",
+    "trải nghiệm"
+  ],
+  "exampleSentences": [
+    "Gia đình anh đã trải qua một biến cố lớn vào năm ngoái.",
+    "Sau biến cố đó, chị cảm thấy mạnh mẽ hơn rất nhiều.",
+    "Mỗi biến cố trong cuộc sống đều dạy em một bài học mới."
+  ],
+  "notes_md": "**Biến cố** = an unexpected event, usually something serious or life-changing (often negative). It’s stronger than just “event” — it feels like something that shakes things up.\n\nIt’s a countable noun: *một biến cố, nhiều biến cố*. Common pairings: *biến cố lớn, biến cố bất ngờ, biến cố trong cuộc đời*.  \n\nIt’s often used for personal, family, or historical turning points — not small daily problems.  \n\nClose to *sự kiện* (event), but *biến cố* is more dramatic and emotional. Sometimes similar to *tai nạn* (accident), but broader — not only physical accidents.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "evento",
+      "vi": "biến cố",
+      "en": "event"
+    },
+    "definitions": {
+      "es": "Un evento o incidente, a menudo significativo o impactante.",
+      "en": "An event or incident, often significant or impactful.",
+      "vi": "Một sự kiện hoặc sự cố, thường quan trọng hoặc có ảnh hưởng."
+    },
+    "createdAt": "2025-01-28T12:15:11.999Z",
+    "example": {
+      "vi": "Cuộc sống của tôi đã thay đổi sau biến cố đó.",
+      "en": "My life changed after that event.",
+      "es": "Mi vida cambió después de ese evento."
+    }
+  },
+  "definition": "unexpected event",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Đó là một ___ lớn trong cuộc đời tôi.",
+      "translatedAnswer": {
+        "en": "event"
+      },
+      "language": "vi",
+      "answer": "biến cố",
+      "translation": {
+        "en": "That is a big event in my life."
+      },
+      "choices": [],
+      "word": "biến cố"
+    },
+    "updatedAt": "2025-03-12T14:39:48.957Z",
+    "type": "fillBlankQuiz",
+    "id": "dc1167b1-227e-46b8-81fa-59d6b96d7222",
+    "createdAt": "2025-03-12T14:39:48.957Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "RtwfOe5Q9qDP2mGf5ii2"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đẹp",
+    "xấu",
+    "cao"
+  ],
+  "updatedAt": "2026-03-03T06:46:05.920Z",
+  "notes": "đẹp = beautiful, nice-looking, pleasing to the eye. It’s the go-to word for anything that looks good.\n\nIt describes people, places, things, views, handwriting, even moments. It comes after the noun it describes.\n\nFor men, you’ll often hear đẹp trai (handsome); for women, xinh or xinh đẹp (pretty). Opposite: xấu (ugly).",
+  "exampleSentencesTranslated": [
+    "This morning the weather was very clear and the sunlight outside was beautiful.",
+    "I think this painting is beautiful, do you like it?",
+    "She wore a blue dress and looked beautiful at the party yesterday."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "đẹp",
+      "sentence": "Công viên này rất ___.",
+      "translation": {
+        "en": "This park is very beautiful."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "beautiful"
+      },
+      "answer": "đẹp"
+    },
+    "type": "fillBlankQuiz",
+    "id": "49e6c2ad-cdd0-4dbc-b19e-401012986b9f",
+    "createdAt": "2025-03-12T14:04:19.170Z",
+    "updatedAt": "2025-03-12T14:04:19.170Z"
+  },
+  "definition": "beautiful",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "f7fb24d1-0a2e-4059-b60b-e1702d123f84",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "đẹp",
+      "translatedAnswer": {
+        "en": "beautiful"
+      },
+      "language": "vi",
+      "choices": [
+        "đẹp",
+        "buồn",
+        "hài hước"
+      ],
+      "translation": {
+        "en": "The scenery here is really beautiful."
+      },
+      "sentence": "Cảnh vật ở đây thật ___.",
+      "hint": "đ___",
+      "word": "đẹp"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:04:19.170Z",
+    "createdAt": "2025-03-12T14:04:19.170Z"
+  },
+  "word": "đẹp",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đẹp** = beautiful, nice-looking, pleasing to the eye. It’s the go-to word for anything that looks good.\n\nIt describes people, places, things, views, handwriting, even moments. It comes **after** the noun it describes.\n\n\nFor men, you’ll often hear **đẹp trai** (handsome); for women, **xinh** or **xinh đẹp** (pretty). Opposite: **xấu** (ugly).",
+  "exampleSentences": [
+    "Sáng nay trời rất trong và ánh nắng ngoài sân thật đẹp.",
+    "Em thấy bức tranh này rất đẹp, anh có thích không?",
+    "Chị ấy mặc chiếc váy màu xanh nhìn thật đẹp trong buổi tiệc hôm qua."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy rất đẹp.",
+      "es": "Ella es muy hermosa.",
+      "en": "She is very beautiful."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:42:15.760Z",
+    "definitions": {
+      "en": "Attractive or pleasing in appearance.",
+      "es": "Atractivo o agradable en apariencia.",
+      "vi": "Hấp dẫn hoặc dễ chịu về ngoại hình."
+    },
+    "translations": {
+      "vi": "đẹp",
+      "es": "hermoso/a",
+      "en": "beautiful"
+    }
+  },
+  "rank": 252,
+  "_id": "Ji8618ea75ZeCouRmOXE"
+}

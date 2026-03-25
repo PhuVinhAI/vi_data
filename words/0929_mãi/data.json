@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:54:57.963Z",
+  "fillBlankQuiz": {
+    "id": "052cc98f-4663-4c1b-9e49-c0a66a9ebf5c",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi sẽ nhớ bạn ___.",
+      "answer": "mãi",
+      "choices": [],
+      "translation": {
+        "en": "I will remember you forever."
+      },
+      "word": "mãi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "forever"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T12:59:53.585Z",
+    "updatedAt": "2025-03-12T12:59:53.585Z"
+  },
+  "notes_md": "**mãi** means *forever* or *for a very long time*. It gives the feeling of something continuing without an end.\n\nIt usually goes after the verb to show long duration: waiting, remembering, loving, etc. It can also mean “keep on / again and again” depending on context.\n\n\nClose friends: **hoài** (very similar, often “again and again”), and **luôn** (always) — but *mãi* feels longer, more endless.",
+  "exampleSentencesTranslated": [
+    "I will always remember you forever even if we are apart.",
+    "I want our friendship to last forever just like now.",
+    "I cannot stay here forever, I have to go home."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "mãi means forever or for a very long time. It gives the feeling of something continuing without an end.\n\nIt usually goes after the verb to show long duration: waiting, remembering, loving, etc. It can also mean “keep on / again and again” depending on context.\n\nClose friends: hoài (very similar, often “again and again”), and luôn (always) — but mãi feels longer, more endless.",
+  "choices": [
+    "mãi",
+    "ngay",
+    "lúc"
+  ],
+  "word": "mãi",
+  "definition": "forever",
+  "rank": 929,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Para siempre; durante mucho tiempo.",
+      "en": "Forever; for a long time.",
+      "vi": "Mãi mãi; trong một thời gian dài."
+    },
+    "createdAt": "2025-01-28T10:42:54.033Z",
+    "example": {
+      "es": "Te amaré para siempre.",
+      "vi": "Tôi sẽ yêu bạn mãi mãi.",
+      "en": "I will love you forever."
+    },
+    "translations": {
+      "en": "forever",
+      "vi": "mãi",
+      "es": "para siempre"
+    }
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:59:53.585Z",
+    "updatedAt": "2025-03-12T12:59:53.585Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "Their love will last forever."
+      },
+      "choices": [
+        "mãi",
+        "một lúc",
+        "không lâu"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "forever"
+      },
+      "word": "mãi",
+      "hint": "m__i",
+      "sentence": "Tình yêu của họ sẽ tồn tại ___.",
+      "answer": "mãi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "6a9eb1e9-cc8c-46e1-89cf-51a55ad65fbf"
+  },
+  "exampleSentences": [
+    "Anh sẽ luôn nhớ em mãi dù chúng ta xa nhau.",
+    "Chị muốn tình bạn của mình mãi bền lâu như bây giờ.",
+    "Em không thể ở lại đây mãi, em phải về nhà thôi."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "2sVa7QZf0YxGLXZ3abWA"
+}

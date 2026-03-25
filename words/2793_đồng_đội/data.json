@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh luôn tin tưởng và hợp tác tốt với đồng đội trong công việc.",
+    "Khi gặp khó khăn, chị ấy thường nhờ đồng đội giúp đỡ.",
+    "Sau trận đấu, các đồng đội cùng nhau ăn mừng chiến thắng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "6f042eb3-a49f-42f0-9a46-acd62ecf9edc",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I trust my teammates."
+      },
+      "word": "đồng đội",
+      "answer": "đồng đội",
+      "translatedAnswer": {
+        "en": "teammates"
+      },
+      "choices": [],
+      "sentence": "Tôi tin tưởng ___ của mình."
+    },
+    "updatedAt": "2025-03-12T15:52:00.772Z",
+    "createdAt": "2025-03-12T15:52:00.772Z"
+  },
+  "choices": [
+    "đồng đội",
+    "bạn học",
+    "gia đình"
+  ],
+  "rank": 2793,
+  "notes": "đồng đội = teammate — someone on the same team as you, working toward the same goal (sports, work, military, projects).\n\nIt’s a noun. You can count it: một đồng đội, hai đồng đội, các đồng đội.  \nOften used in phrases like tinh thần đồng đội (team spirit), hỗ trợ đồng đội, sát cánh cùng đồng đội.  \n\nClose synonym: bạn cùng đội (more casual).  \nOpposite idea: đối thủ (opponent).",
+  "definition": "teammate",
+  "notes_md": "**đồng đội** = teammate — someone on the same team as you, working toward the same goal (sports, work, military, projects).\n\nIt’s a noun. You can count it: *một đồng đội, hai đồng đội, các đồng đội*.  \nOften used in phrases like *tinh thần đồng đội* (team spirit), *hỗ trợ đồng đội*, *sát cánh cùng đồng đội*.  \n\nClose synonym: **bạn cùng đội** (more casual).  \nOpposite idea: **đối thủ** (opponent).",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "teammates"
+      },
+      "answer": "đồng đội",
+      "hint": "đ___i",
+      "sentence": "Họ là ___ tuyệt vời.",
+      "choices": [
+        "bạn bè",
+        "đồng đội",
+        "đối thủ"
+      ],
+      "language": "vi",
+      "word": "đồng đội",
+      "translation": {
+        "en": "They are great teammates."
+      }
+    },
+    "id": "d52d67e9-5d88-4a13-bf8a-393bc9fde095",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:52:00.772Z",
+    "updatedAt": "2025-03-12T15:52:00.772Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T17:57:54.093Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi luôn tin tưởng vào đồng đội của mình.",
+      "es": "Siempre confío en mis compañeros de equipo.",
+      "en": "I always trust my teammates."
+    },
+    "definitions": {
+      "es": "Una persona que es parte de un equipo, especialmente en deportes o trabajo.",
+      "en": "A person who is part of a team, especially in sports or work.",
+      "vi": "Một người là thành viên của một đội, đặc biệt trong thể thao hoặc công việc."
+    },
+    "createdAt": "2025-01-28T13:24:22.589Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đồng đội",
+      "en": "teammate",
+      "es": "compañero de equipo"
+    }
+  },
+  "word": "đồng đội",
+  "exampleSentencesTranslated": [
+    "He always trusts and cooperates well with his teammate at work.",
+    "When facing difficulties, she often asks her teammate for help.",
+    "After the match, the teammate celebrated the victory together."
+  ],
+  "_id": "k5nWbkJTFbaaSDRsAMRc"
+}

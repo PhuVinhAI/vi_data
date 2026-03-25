@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I want to improve my English level this year.",
+    "I think the level of difficulty of this test is quite high.",
+    "I need to determine the level of priority for each task at work."
+  ],
+  "word": "mức độ",
+  "updatedAt": "2026-03-03T07:41:35.172Z",
+  "exampleSentences": [
+    "Em muốn cải thiện mức độ tiếng Anh của mình trong năm nay.",
+    "Chị nghĩ mức độ khó của bài kiểm tra này khá cao.",
+    "Anh cần xác định mức độ ưu tiên cho từng nhiệm vụ trong công việc."
+  ],
+  "multiChoiceQuiz": {
+    "id": "e2281bdc-fb5f-4153-95ce-fdd03787eb0b",
+    "createdAt": "2025-03-12T16:35:07.207Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "mức độ",
+        "chất lượng",
+        "tốc độ"
+      ],
+      "answer": "mức độ",
+      "translation": {
+        "en": "Is this lesson at a difficult level?"
+      },
+      "translatedAnswer": {
+        "en": "level"
+      },
+      "sentence": "Bài học này có ___ khó không?",
+      "hint": "m___ độ",
+      "word": "mức độ"
+    },
+    "updatedAt": "2025-03-12T16:35:07.207Z"
+  },
+  "choices": [
+    "mức độ",
+    "thái độ",
+    "trình độ"
+  ],
+  "notes": "Mức độ means level or degree — how much, how strong, or how serious something is. It’s a noun.\n\nYou often use it with của to show what the level belongs to.  \n\nIt pairs naturally with words like khó, nghiêm trọng, quan trọng, ảnh hưởng, hiểu biết.  \n\nClose synonyms: trình độ (more about skill/education level), cấp độ (more about ranked levels, like game levels).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "mức độ",
+      "en": "level",
+      "es": "nivel"
+    },
+    "definitions": {
+      "vi": "Một thước đo mức độ hoặc cường độ của một cái gì đó.",
+      "es": "Una medida de la extensión o intensidad de algo.",
+      "en": "A measure of the extent or intensity of something."
+    },
+    "example": {
+      "vi": "Mức độ khó của bài kiểm tra này rất cao.",
+      "es": "El nivel de dificultad de este examen es muy alto.",
+      "en": "The difficulty level of this test is very high."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:06:25.679Z"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi không biết ___ của bài kiểm tra.",
+      "word": "mức độ",
+      "language": "vi",
+      "answer": "mức độ",
+      "translation": {
+        "en": "I do not know the level of the test."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "level"
+      }
+    },
+    "updatedAt": "2025-03-12T16:35:07.207Z",
+    "id": "13d19b01-6fd7-4525-a22d-efd983456a06",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:35:07.207Z"
+  },
+  "definition": "level",
+  "rank": 799,
+  "notes_md": "**Mức độ** means *level* or *degree* — how much, how strong, or how serious something is. It’s a noun.\n\nYou often use it with **của** to show what the level belongs to.  \n\nIt pairs naturally with words like **khó**, **nghiêm trọng**, **quan trọng**, **ảnh hưởng**, **hiểu biết**.  \n\nClose synonyms: **trình độ** (more about skill/education level), **cấp độ** (more about ranked levels, like game levels).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vbB44zpDYLwOEFHJUU4t"
+}

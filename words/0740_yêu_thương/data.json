@@ -1,0 +1,99 @@
+{
+  "definition": "love",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Bố mẹ luôn yêu thương và chăm sóc cho em rất nhiều.",
+    "Chị ấy thể hiện yêu thương với gia đình qua những hành động nhỏ hàng ngày.",
+    "Anh muốn dùng thời gian rảnh để yêu thương và quan tâm bạn bè."
+  ],
+  "rank": 740,
+  "word": "yêu thương",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "yêu thương",
+    "giận dữ",
+    "lo lắng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "Family is a place full of love.",
+      "es": "La familia es un lugar lleno de amor.",
+      "vi": "Gia đình là nơi tràn đầy yêu thương."
+    },
+    "createdAt": "2025-01-28T11:27:44.348Z",
+    "translations": {
+      "en": "love",
+      "vi": "yêu thương",
+      "es": "amor"
+    },
+    "definitions": {
+      "es": "Un profundo afecto o apego hacia alguien o algo.",
+      "vi": "Một tình cảm sâu sắc hoặc sự gắn bó với ai đó hoặc điều gì đó.",
+      "en": "A deep affection or attachment towards someone or something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Parents always love and take care of me a lot.",
+    "She shows love to her family through small daily actions.",
+    "He wants to use his free time to love and care for his friends."
+  ],
+  "notes_md": "**yêu thương** = to love, to care for someone in a warm, affectionate way. It’s softer and more nurturing than just **yêu** (which can be romantic love).\n\nIt’s a verb, usually used with people: family, partners, children, friends. It often goes with actions like chăm sóc (care for), quan tâm (care about), bảo vệ (protect).\n\n\nClose to **thương** (to care for, feel tender toward), but **yêu thương** feels fuller and more intentional. Opposite idea: ghét (to hate).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:49:38.873Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tình cảm này rất ___.",
+      "word": "yêu thương",
+      "translatedAnswer": {
+        "en": "loving"
+      },
+      "answer": "yêu thương",
+      "translation": {
+        "en": "This feeling is very loving."
+      },
+      "hint": "y___g",
+      "choices": [
+        "đau đớn",
+        "yêu thương",
+        "ghét bỏ"
+      ]
+    },
+    "createdAt": "2025-03-12T13:49:38.873Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "d95de510-e25e-46db-9176-925bed3007dd"
+  },
+  "updatedAt": "2026-03-03T07:35:44.216Z",
+  "notes": "yêu thương = to love, to care for someone in a warm, affectionate way. It’s softer and more nurturing than just yêu (which can be romantic love).\n\nIt’s a verb, usually used with people: family, partners, children, friends. It often goes with actions like chăm sóc (care for), quan tâm (care about), bảo vệ (protect).\n\nClose to thương (to care for, feel tender toward), but yêu thương feels fuller and more intentional. Opposite idea: ghét (to hate).",
+  "fillBlankQuiz": {
+    "id": "b259bf59-e304-4c4f-98d1-fe0669e203a5",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This feeling is very loving."
+      },
+      "answer": "yêu thương",
+      "choices": [],
+      "sentence": "Tình cảm này rất ___.",
+      "word": "yêu thương",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "loving"
+      }
+    },
+    "createdAt": "2025-03-12T13:49:38.873Z",
+    "updatedAt": "2025-03-12T13:49:38.873Z"
+  },
+  "_id": "FhZIgNTemib2LgUx6qVT"
+}

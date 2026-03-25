@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "She loves to dance at parties.",
+      "es": "A ella le encanta bailar en las fiestas.",
+      "vi": "Cô ấy thích nhảy múa trong các bữa tiệc."
+    },
+    "translations": {
+      "es": "bailar",
+      "en": "dance",
+      "vi": "nhảy"
+    },
+    "definitions": {
+      "es": "Saltar o brincar; moverse rítmicamente al compás de la música.",
+      "en": "To leap or jump; to move rhythmically to music.",
+      "vi": "Nhảy là hành động bật lên hoặc di chuyển theo nhịp điệu của âm nhạc."
+    },
+    "createdAt": "2025-01-28T13:44:55.527Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "choices": [
+    "chạy",
+    "nhảy",
+    "bơi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Em thích nghe nhạc rồi nhảy với bạn bè vào cuối tuần.",
+    "Khi đèn xanh bật lên, mọi người bắt đầu nhảy qua vạch xuất phát.",
+    "Anh sợ nhảy từ trên cao xuống vì cảm thấy chóng mặt."
+  ],
+  "exampleSentencesTranslated": [
+    "I like to listen to music and jump with friends on the weekend.",
+    "When the green light turns on, everyone starts to jump over the starting line.",
+    "I am afraid to jump down from high places because I feel dizzy."
+  ],
+  "updatedAt": "2026-03-03T08:00:23.653Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhảy = to jump. You use it for moving your body off the ground or quickly moving over something.\n\nIt often goes with direction words: lên, xuống, qua, vào, ra.  \n\nIt’s also very common for “to dance” (nhảy với bạn, nhảy theo nhạc).  \nClose synonym for “dance” is múa (more like performing art dance, not casual dancing).",
+  "word": "nhảy",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy thích ___ múa mỗi ngày.",
+      "choices": [],
+      "word": "nhảy",
+      "answer": "nhảy",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "jump"
+      },
+      "translation": {
+        "en": "She likes to jump every day."
+      }
+    },
+    "updatedAt": "2025-03-12T16:12:53.443Z",
+    "createdAt": "2025-03-12T16:12:53.443Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2ccbb1ed-01e4-4a0c-add9-a2e52814c5a9"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 981,
+  "notes_md": "**nhảy** = to jump. You use it for moving your body off the ground or quickly moving over something.\n\nIt often goes with direction words: lên, xuống, qua, vào, ra.  \n\nIt’s also very common for “to dance” (nhảy với bạn, nhảy theo nhạc).  \nClose synonym for “dance” is **múa** (more like performing art dance, not casual dancing).",
+  "definition": "jump",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:12:53.443Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta sẽ ___ trong bữa tiệc.",
+      "hint": "n___y",
+      "translation": {
+        "en": "We will jump at the party."
+      },
+      "translatedAnswer": {
+        "en": "jump"
+      },
+      "language": "vi",
+      "choices": [
+        "chạy",
+        "ngồi",
+        "nhảy"
+      ],
+      "answer": "nhảy",
+      "word": "nhảy"
+    },
+    "id": "a757e97b-d356-4e4c-bc11-92dd1d909ecf",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:12:53.443Z"
+  },
+  "_id": "pjbGrWXVNCrlILiwSulL"
+}

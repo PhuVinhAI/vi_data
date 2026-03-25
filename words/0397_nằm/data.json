@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:45:35.109Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "757d9b45-bf4f-4c94-b6de-383173e8ab14",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ trên ghế sofa.",
+      "word": "nằm",
+      "language": "vi",
+      "choices": [],
+      "answer": "nằm",
+      "translation": {
+        "en": "I want to lie on the sofa."
+      },
+      "translatedAnswer": {
+        "en": "lie"
+      }
+    },
+    "updatedAt": "2025-03-12T16:45:35.109Z"
+  },
+  "rank": 397,
+  "definition": "to lie down",
+  "notes_md": "**nằm** = to lie down, to be in a lying position (body flat or resting).  \n\nUse it for people or animals lying on a bed, floor, sofa, etc. It also commonly means “to be located/situated” for places or objects (a house, city, building).  \n\n\nVery common extended meaning: “to be in / fall within” a group, range, or plan (more abstract location).  \n\nOpposite idea: **đứng** (to stand) — helpful contrast for body position.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "After dinner, he likes to to lie down on the sofa and watch TV.",
+    "She often to lie down and read books before going to sleep at night.",
+    "The doctor advised her to to lie down and rest if she feels tired."
+  ],
+  "word": "nằm",
+  "updatedAt": "2026-03-03T07:02:01.209Z",
+  "exampleSentences": [
+    "Sau khi ăn tối, anh thích nằm trên ghế sofa xem tivi.",
+    "Em thường nằm đọc sách trước khi đi ngủ vào buổi tối.",
+    "Bác sĩ khuyên chị nên nằm nghỉ ngơi nếu cảm thấy mệt."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:45:35.109Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "ca2b676d-661a-4990-ac13-4f653a9cd1a3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "ngồi",
+        "nằm",
+        "đứng"
+      ],
+      "answer": "nằm",
+      "translation": {
+        "en": "She likes to lie on the grass."
+      },
+      "translatedAnswer": {
+        "en": "lie"
+      },
+      "sentence": "Cô ấy thích ___ trên bãi cỏ.",
+      "hint": "n__m",
+      "word": "nằm"
+    },
+    "updatedAt": "2025-03-12T16:45:35.109Z"
+  },
+  "choices": [
+    "ngồi",
+    "nằm",
+    "đứng"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nằm = to lie down, to be in a lying position (body flat or resting).  \n\nUse it for people or animals lying on a bed, floor, sofa, etc. It also commonly means “to be located/situated” for places or objects (a house, city, building).  \n\nVery common extended meaning: “to be in / fall within” a group, range, or plan (more abstract location).  \n\nOpposite idea: đứng (to stand) — helpful contrast for body position.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:16:24.821Z",
+    "translations": {
+      "vi": "nằm",
+      "en": "to lie down",
+      "es": "acostarse"
+    },
+    "definitions": {
+      "es": "Estar en una posición horizontal sobre una superficie.",
+      "en": "To be in a horizontal position on a surface.",
+      "vi": "Ở trong một vị trí nằm ngang trên một bề mặt."
+    },
+    "example": {
+      "en": "I am lying on the bed.",
+      "es": "Estoy acostado en la cama.",
+      "vi": "Tôi nằm trên giường."
+    }
+  },
+  "_id": "y3VMTyHVZOcxsodTWits"
+}

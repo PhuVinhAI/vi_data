@@ -1,0 +1,99 @@
+{
+  "word": "xin lỗi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**xin lỗi** means *sorry* or *I apologize*. You use it when you admit a mistake or want to show regret.\n\nIt’s a fixed verb phrase: **xin** (to ask) + **lỗi** (fault), so you’re literally “asking for forgiveness.”  \n\nIt also means *excuse me* when you want attention or need to pass by.  \nYou can soften it with **nhé** or **ạ**, or make it stronger with **thật sự xin lỗi**.",
+  "choices": [
+    "cảm ơn",
+    "xin lỗi",
+    "chào"
+  ],
+  "rank": 1450,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:33:22.492Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "cảm ơn",
+        "xin lỗi",
+        "chúc mừng"
+      ],
+      "sentence": "Tôi ___ vì đã làm bạn buồn.",
+      "language": "vi",
+      "word": "xin lỗi",
+      "translatedAnswer": {
+        "en": "apologize"
+      },
+      "translation": {
+        "en": "I apologize for making you sad."
+      },
+      "hint": "x__ l__",
+      "answer": "xin lỗi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:33:22.492Z",
+    "id": "a35df260-3d9e-4e28-a151-2e2d65d6d571"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:50:53.693Z",
+  "exampleSentences": [
+    "Anh xin lỗi vì đã đến muộn trong buổi họp hôm nay.",
+    "Chị xin lỗi em nếu chị làm em buồn ngày hôm qua.",
+    "Em xin lỗi, nhưng em không thể tham gia bữa tiệc tối nay."
+  ],
+  "notes": "xin lỗi means sorry or I apologize. You use it when you admit a mistake or want to show regret.\n\nIt’s a fixed verb phrase: xin (to ask) + lỗi (fault), so you’re literally “asking for forgiveness.”  \n\nIt also means excuse me when you want attention or need to pass by.  \nYou can soften it with nhé or ạ, or make it stronger with thật sự xin lỗi.",
+  "definition": "sorry",
+  "flashcard": {
+    "translations": {
+      "en": "I'm sorry",
+      "es": "Lo siento",
+      "vi": "Xin lỗi"
+    },
+    "createdAt": "2025-01-28T13:11:16.457Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A phrase used to express regret or apology.",
+      "es": "Una frase utilizada para expresar arrepentimiento o disculpa.",
+      "vi": "Một cụm từ được sử dụng để bày tỏ sự hối tiếc hoặc xin lỗi."
+    },
+    "example": {
+      "en": "I'm sorry, I'm late.",
+      "vi": "Xin lỗi, tôi đến muộn.",
+      "es": "Lo siento, llego tarde."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I am sorry for being late to the meeting today.",
+    "I am sorry if I made you sad yesterday.",
+    "I am sorry, but I cannot attend the party tonight."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "702ae8a5-5a31-4544-8f9b-96ef707acb87",
+    "content": {
+      "word": "xin lỗi",
+      "language": "vi",
+      "sentence": "Tôi ___ vì đã làm bạn buồn.",
+      "choices": [],
+      "answer": "xin lỗi",
+      "translation": {
+        "en": "I apologize for making you sad."
+      },
+      "translatedAnswer": {
+        "en": "apologize"
+      }
+    },
+    "createdAt": "2025-03-12T15:33:22.492Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T15:33:22.492Z"
+  },
+  "_id": "feOYpgu7xOGe0qZVWzvA"
+}

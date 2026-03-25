@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:30:31.664Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1818,
+  "exampleSentencesTranslated": [
+    "She has a strong personality so she is very confident in front of a crowd.",
+    "Each person in the group has a unique and interesting personality.",
+    "Friends often praise him for his independent and creative personality."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:45:22.466Z",
+    "id": "857cb596-eb8a-4173-a5d0-89e48c51b8cc",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy có ___ rất đặc biệt.",
+      "translatedAnswer": {
+        "en": "personality"
+      },
+      "language": "vi",
+      "hint": "c____n",
+      "answer": "cá tính",
+      "translation": {
+        "en": "She has a very special personality."
+      },
+      "word": "cá tính",
+      "choices": [
+        "tính cách",
+        "cá tính",
+        "đặc điểm"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:45:22.466Z"
+  },
+  "word": "cá tính",
+  "notes": "Cá tính = personality, especially someone’s strong, distinct personal style. It often implies individuality, sometimes bold or a bit different.\n\nIt’s an uncountable noun, so you don’t say một cá tính for “a personality.” Common patterns: có cá tính (to have personality), thể hiện cá tính (show your personality), cá tính mạnh (strong personality).\n\nIt can be positive (confident, unique) but sometimes hints at being stubborn or hard to control. Related words: tính cách (more neutral: personality/character), cá tính mạnh vs. nhạt nhẽo (bland, no personality).",
+  "choices": [
+    "cá tính",
+    "tính cách",
+    "thái độ"
+  ],
+  "notes_md": "**Cá tính** = personality, especially someone’s strong, distinct personal style. It often implies individuality, sometimes bold or a bit different.\n\nIt’s an uncountable noun, so you don’t say *một cá tính* for “a personality.” Common patterns: *có cá tính* (to have personality), *thể hiện cá tính* (show your personality), *cá tính mạnh* (strong personality).\n\nIt can be positive (confident, unique) but sometimes hints at being stubborn or hard to control. Related words: *tính cách* (more neutral: personality/character), *cá tính mạnh* vs. *nhạt nhẽo* (bland, no personality).",
+  "exampleSentences": [
+    "Chị ấy có cá tính mạnh mẽ nên rất tự tin trước đám đông.",
+    "Mỗi người trong nhóm đều có cá tính riêng biệt và thú vị.",
+    "Bạn bè thường khen anh vì cá tính độc lập và sáng tạo."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Ella tiene una personalidad muy fuerte.",
+      "en": "She has a very strong personality.",
+      "vi": "Cô ấy có một cá tính rất mạnh mẽ."
+    },
+    "createdAt": "2025-01-28T12:19:32.179Z",
+    "definitions": {
+      "en": "A person's characteristic or distinctive traits.",
+      "vi": "Những đặc điểm hoặc nét riêng biệt của một người.",
+      "es": "Las características o rasgos distintivos de una persona."
+    },
+    "translations": {
+      "vi": "cá tính",
+      "en": "personality",
+      "es": "personalidad"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "personality",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:45:22.466Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "personality"
+      },
+      "sentence": "Cô ấy có ___ rất đặc biệt.",
+      "translation": {
+        "en": "She has a very special personality."
+      },
+      "answer": "cá tính",
+      "choices": [],
+      "word": "cá tính"
+    },
+    "id": "ddb3a161-7d5b-412d-a907-d341089dd369",
+    "createdAt": "2025-03-12T14:45:22.466Z",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "T6QMwZL2xCeTiyDC6bTq"
+}

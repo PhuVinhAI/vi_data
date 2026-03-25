@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mục tiêu",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "047f7d58-3043-4e4c-b46b-ab0c89862fb6",
+    "createdAt": "2025-03-12T13:19:41.616Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "goal"
+      },
+      "translation": {
+        "en": "I need to achieve my goal."
+      },
+      "hint": "m___o",
+      "answer": "mục tiêu",
+      "choices": [
+        "mục tiêu",
+        "kế hoạch",
+        "thành công"
+      ],
+      "language": "vi",
+      "sentence": "Tôi cần đạt được ___ của mình.",
+      "word": "mục tiêu"
+    },
+    "updatedAt": "2025-03-12T13:19:41.616Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Mục tiêu** = a goal, a target you want to reach. It can be personal, work-related, study-related, anything you aim for.\n\nIt’s a noun. You say *một mục tiêu, các mục tiêu*. Common verbs: **đặt ra** (set), **đạt được** (achieve), **hướng tới** (aim toward), **theo đuổi** (pursue).\n\nDon’t mix it up with **mục đích** (purpose/reason). *Mục tiêu* is the result you want; *mục đích* is why you do something.\n\nClose image word: **đích** = the finish line (more physical, like in a race).",
+  "choices": [
+    "mục tiêu",
+    "kế hoạch",
+    "kết quả"
+  ],
+  "rank": 567,
+  "notes": "Mục tiêu = a goal, a target you want to reach. It can be personal, work-related, study-related, anything you aim for.\n\nIt’s a noun. You say một mục tiêu, các mục tiêu. Common verbs: đặt ra (set), đạt được (achieve), hướng tới (aim toward), theo đuổi (pursue).\n\nDon’t mix it up with mục đích (purpose/reason). Mục tiêu is the result you want; mục đích is why you do something.\n\nClose image word: đích = the finish line (more physical, like in a race).",
+  "updatedAt": "2026-03-03T07:18:47.748Z",
+  "exampleSentences": [
+    "Anh đặt ra một mục tiêu mới cho công việc năm nay.",
+    "Để đạt được mục tiêu, em cần cố gắng mỗi ngày.",
+    "Chị luôn nhắc nhở bản thân không được quên mục tiêu của mình."
+  ],
+  "exampleSentencesTranslated": [
+    "He set a new goal for his work this year.",
+    "To achieve the goal, you need to try every day.",
+    "She always reminds herself not to forget her goal."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:19:41.616Z",
+    "id": "c37d7102-88b4-43ea-b700-9c17b1c87de8",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi cần đạt được ___ của mình.",
+      "language": "vi",
+      "word": "mục tiêu",
+      "translatedAnswer": {
+        "en": "goal"
+      },
+      "translation": {
+        "en": "I need to achieve my goal."
+      },
+      "answer": "mục tiêu"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:19:41.616Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "goal",
+  "flashcard": {
+    "translations": {
+      "es": "objetivo",
+      "vi": "mục tiêu",
+      "en": "goal"
+    },
+    "createdAt": "2025-01-28T11:00:05.325Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A goal or objective that one aims to achieve.",
+      "vi": "Một mục tiêu hoặc đích đến mà một người muốn đạt được.",
+      "es": "Un objetivo o meta que uno pretende alcanzar."
+    },
+    "example": {
+      "en": "My goal is to learn English.",
+      "es": "Mi objetivo es aprender inglés.",
+      "vi": "Mục tiêu của tôi là học tiếng Anh."
+    }
+  },
+  "_id": "8Ez9DifoyaYT9ClIb8RK"
+}

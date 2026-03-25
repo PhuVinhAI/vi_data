@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T13:40:50.731Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un grupo de personas que comparten una cultura, idioma y ascendencia comunes.",
+      "en": "A group of people who share a common culture, language, and ancestry.",
+      "vi": "Một nhóm người có chung văn hóa, ngôn ngữ và tổ tiên."
+    },
+    "translations": {
+      "es": "grupo étnico",
+      "en": "ethnic group",
+      "vi": "dân tộc"
+    },
+    "example": {
+      "vi": "Việt Nam có 54 dân tộc khác nhau.",
+      "es": "Vietnam tiene 54 grupos étnicos diferentes.",
+      "en": "Vietnam has 54 different ethnic groups."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "dân tộc",
+    "quốc gia",
+    "ngôn ngữ"
+  ],
+  "exampleSentences": [
+    "Việt Nam có hơn năm mươi dân tộc với nhiều phong tục khác nhau.",
+    "Anh muốn tìm hiểu về văn hóa của các dân tộc thiểu số ở miền núi.",
+    "Ngày lễ hội, mọi dân tộc đều mặc trang phục truyền thống của mình."
+  ],
+  "exampleSentencesTranslated": [
+    "Vietnam has more than fifty ethnic group with many different customs.",
+    "I want to learn about the culture of ethnic group minorities in the mountains.",
+    "On festival days, every ethnic group wears their traditional costumes."
+  ],
+  "updatedAt": "2026-03-03T09:19:54.723Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Dân tộc means an ethnic group — a group of people who share culture, language, or origin. It can also mean a nation in a broader sense (like “the Vietnamese nation”), depending on context.\n\nIt’s a countable noun: một dân tộc, các dân tộc. Very common pairings: dân tộc thiểu số (ethnic minority), dân tộc Kinh, bản sắc dân tộc (ethnic/national identity).\n\nDon’t confuse it with quốc gia (country). Dân tộc is about people and identity; quốc gia is about a political country.",
+  "word": "dân tộc",
+  "fillBlankQuiz": {
+    "id": "29d23e1a-3f95-40f7-862f-eef602fe74af",
+    "createdAt": "2025-03-12T16:08:55.725Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:08:55.725Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Việt Nam có nhiều ___ khác nhau.",
+      "translation": {
+        "en": "Vietnam has many ethnic groups."
+      },
+      "translatedAnswer": {
+        "en": "ethnic groups"
+      },
+      "answer": "dân tộc",
+      "language": "vi",
+      "word": "dân tộc",
+      "choices": []
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Dân tộc** means an *ethnic group* — a group of people who share culture, language, or origin. It can also mean a *nation* in a broader sense (like “the Vietnamese nation”), depending on context.\n\nIt’s a countable noun: *một dân tộc*, *các dân tộc*. Very common pairings: **dân tộc thiểu số** (ethnic minority), **dân tộc Kinh**, **bản sắc dân tộc** (ethnic/national identity).\n\nDon’t confuse it with **quốc gia** (country). *Dân tộc* is about people and identity; *quốc gia* is about a political country.",
+  "rank": 1718,
+  "definition": "ethnic group",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Việt Nam có nhiều ___ khác nhau.",
+      "translatedAnswer": {
+        "en": "ethnic groups"
+      },
+      "translation": {
+        "en": "Vietnam has many ethnic groups."
+      },
+      "hint": "d___t",
+      "word": "dân tộc",
+      "answer": "dân tộc",
+      "language": "vi",
+      "choices": [
+        "bộ tộc",
+        "dân tộc",
+        "hệ tộc"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:08:55.725Z",
+    "createdAt": "2025-03-12T16:08:55.725Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6b3c47e2-5040-46ee-9b06-2584eb030f1f"
+  },
+  "_id": "ojG40ZMmxHKQm5e2ti9R"
+}

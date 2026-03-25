@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "kỹ thuật số",
+    "truyền thống",
+    "công nghiệp"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:52:42.098Z",
+    "createdAt": "2025-03-12T15:52:42.098Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "f87dac50-35d8-4b6c-97c0-8c411bb3abfe",
+    "content": {
+      "translation": {
+        "en": "We are learning new digital technology."
+      },
+      "word": "kỹ thuật số",
+      "language": "vi",
+      "answer": "kỹ thuật số",
+      "translatedAnswer": {
+        "en": "digital technology"
+      },
+      "choices": [],
+      "sentence": "Chúng ta đang học ___ mới."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích chụp ảnh bằng máy ảnh kỹ thuật số vì rất tiện lợi.",
+    "Ngày nay, nhiều ngân hàng đã chuyển sang dịch vụ kỹ thuật số.",
+    "Anh đang học một khóa về marketing kỹ thuật số để phát triển công việc."
+  ],
+  "definition": "digital",
+  "notes": "kỹ thuật số means digital — using computer-based or electronic data instead of analog/physical systems.  \n\nIt’s an adjective and usually comes after the noun it describes: công nghệ kỹ thuật số, nền tảng kỹ thuật số, thiết bị kỹ thuật số. It talks about technology, media, systems, or services that work with data and computers.  \n\nThe opposite idea is tương tự (analog), which helps you remember the contrast: digital vs. analog.  \n\nThink of it as anything connected to computers, the internet, or electronic data processing.",
+  "rank": 1581,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:52:42.098Z",
+    "updatedAt": "2025-03-12T15:52:42.098Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Digital technology is developing rapidly."
+      },
+      "word": "kỹ thuật số",
+      "hint": "k___t số",
+      "sentence": "Công nghệ ___ đang phát triển nhanh chóng.",
+      "choices": [
+        "kỹ thuật số",
+        "truyền thống",
+        "tương lai"
+      ],
+      "translatedAnswer": {
+        "en": "digital technology"
+      },
+      "answer": "kỹ thuật số"
+    },
+    "id": "47944609-6662-46df-a277-0c2efc43d721",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**kỹ thuật số** means *digital* — using computer-based or electronic data instead of analog/physical systems.  \n\nIt’s an adjective and usually comes after the noun it describes: công nghệ kỹ thuật số, nền tảng kỹ thuật số, thiết bị kỹ thuật số. It talks about technology, media, systems, or services that work with data and computers.  \n\nThe opposite idea is **tương tự** (analog), which helps you remember the contrast: digital vs. analog.  \n\nThink of it as anything connected to computers, the internet, or electronic data processing.",
+  "exampleSentencesTranslated": [
+    "I like taking photos with a digital camera because it is very convenient.",
+    "Nowadays, many banks have switched to digital services.",
+    "I am taking a course on digital marketing to develop my career."
+  ],
+  "word": "kỹ thuật số",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:24:55.638Z",
+    "definitions": {
+      "vi": "Việc sử dụng công nghệ số để tạo ra, lưu trữ và truyền tải thông tin.",
+      "es": "El uso de tecnología digital para crear, almacenar y transmitir información.",
+      "en": "The use of digital technology to create, store, and transmit information."
+    },
+    "example": {
+      "en": "Digital technology is changing the way we communicate.",
+      "es": "La tecnología digital está cambiando la forma en que nos comunicamos.",
+      "vi": "Kỹ thuật số đang thay đổi cách chúng ta giao tiếp."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "digital technology",
+      "es": "tecnología digital",
+      "vi": "kỹ thuật số"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:05:30.690Z",
+  "_id": "kGUNn9NPtE4VgZWkuLsN"
+}

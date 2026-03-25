@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ngành nghề",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:28:20.102Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:28:20.102Z",
+    "content": {
+      "choices": [
+        "ngành nghề",
+        "học vấn",
+        "kinh nghiệm"
+      ],
+      "word": "ngành nghề",
+      "sentence": "Tôi muốn biết về ___ của bạn.",
+      "language": "vi",
+      "translation": {
+        "en": "I want to know about your profession."
+      },
+      "translatedAnswer": {
+        "en": "profession"
+      },
+      "hint": "n___n",
+      "answer": "ngành nghề"
+    },
+    "id": "75335a8b-713e-4e19-be2e-0632fb1c9680",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ngành nghề** means *profession* or *field of work* — the general area someone works in (like education, healthcare, IT).\n\nIt’s a noun. You can say **một ngành nghề** (one profession), but often it’s used in a broad sense without counting.  \nCommon pairings: **chọn ngành nghề**, **theo đuổi ngành nghề**, **làm trong ngành nghề**, **thuộc ngành nghề**.\n\nClose words: **nghề** (job/occupation, more personal) and **công việc** (specific job or task). *Ngành nghề* feels broader — more like a career field than one specific job.",
+  "choices": [
+    "ngành nghề",
+    "trường học",
+    "sở thích"
+  ],
+  "rank": 1555,
+  "notes": "Ngành nghề means profession or field of work — the general area someone works in (like education, healthcare, IT).\n\nIt’s a noun. You can say một ngành nghề (one profession), but often it’s used in a broad sense without counting.  \nCommon pairings: chọn ngành nghề, theo đuổi ngành nghề, làm trong ngành nghề, thuộc ngành nghề.\n\nClose words: nghề (job/occupation, more personal) and công việc (specific job or task). Ngành nghề feels broader — more like a career field than one specific job.",
+  "updatedAt": "2026-03-03T09:02:31.910Z",
+  "exampleSentences": [
+    "Anh đang tìm hiểu về ngành nghề phù hợp với sở thích của mình.",
+    "Chị muốn thay đổi ngành nghề để có nhiều cơ hội phát triển hơn.",
+    "Bạn em có nhiều ngành nghề khác nhau trong gia đình."
+  ],
+  "exampleSentencesTranslated": [
+    "He is learning about which profession suits his interests.",
+    "She wants to change her profession to have more opportunities for development.",
+    "My friend has many different professions in the family."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "83db3c76-6cef-4886-b909-734a868112a2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:28:20.102Z",
+    "content": {
+      "translation": {
+        "en": "I want to know about your profession."
+      },
+      "translatedAnswer": {
+        "en": "profession"
+      },
+      "answer": "ngành nghề",
+      "choices": [],
+      "word": "ngành nghề",
+      "sentence": "Tôi muốn biết về ___ của bạn.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:28:20.102Z"
+  },
+  "definition": "profession",
+  "flashcard": {
+    "example": {
+      "en": "I am learning about my profession.",
+      "es": "Estoy aprendiendo sobre mi profesión.",
+      "vi": "Tôi đang tìm hiểu về ngành nghề của mình."
+    },
+    "definitions": {
+      "vi": "Một lĩnh vực công việc hoặc nghề nghiệp.",
+      "es": "Un campo de trabajo o profesión.",
+      "en": "A field of work or profession."
+    },
+    "createdAt": "2025-01-28T13:02:49.651Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "profession",
+      "vi": "ngành nghề",
+      "es": "profesión"
+    }
+  },
+  "_id": "eUub936AWiLioViXfY4J"
+}

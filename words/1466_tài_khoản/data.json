@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh đã quên mật khẩu tài khoản ngân hàng của mình.",
+    "Chị có thể giúp em tạo tài khoản mới trên trang web này không?",
+    "Em nên bảo mật tài khoản mạng xã hội để tránh bị mất thông tin."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tài khoản",
+    "mật khẩu",
+    "giao dịch"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:41:29.907Z",
+    "createdAt": "2025-03-12T15:41:29.907Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e2454def-d250-43e1-9b38-eff27ce4177c",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi cần tạo ___ mới.",
+      "translatedAnswer": {
+        "en": "account"
+      },
+      "answer": "tài khoản",
+      "translation": {
+        "en": "I need to create a new account."
+      },
+      "word": "tài khoản",
+      "language": "vi"
+    }
+  },
+  "rank": 1466,
+  "notes": "Tài khoản means an account — usually something you use to access money or online services.\n\nIt’s a noun. You can count it: một tài khoản, hai tài khoản. Very common pairings: tài khoản ngân hàng (bank account), tài khoản email, tài khoản game.\n\nIt often goes with verbs like mở (open), đăng nhập vào, đăng ký, khóa.  \n\nDon’t confuse it with hồ sơ (profile) — that’s your profile info, not the account itself.",
+  "definition": "account",
+  "notes_md": "**Tài khoản** means an *account* — usually something you use to access money or online services.\n\nIt’s a noun. You can count it: *một tài khoản, hai tài khoản*. Very common pairings: *tài khoản ngân hàng* (bank account), *tài khoản email*, *tài khoản game*.\n\nIt often goes with verbs like *mở* (open), *đăng nhập vào*, *đăng ký*, *khóa*.  \n\n\nDon’t confuse it with *hồ sơ* (profile) — that’s your profile info, not the account itself.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9677c258-ac16-4a3b-a2a3-13c29c36283b",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Have you logged into your account yet?"
+      },
+      "word": "tài khoản",
+      "translatedAnswer": {
+        "en": "account"
+      },
+      "answer": "tài khoản",
+      "hint": "t___n",
+      "sentence": "Bạn đã đăng nhập vào ___ chưa?",
+      "choices": [
+        "tài khoản",
+        "hồ sơ",
+        "thông tin"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:41:29.907Z",
+    "createdAt": "2025-03-12T15:41:29.907Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:52:29.911Z",
+  "flashcard": {
+    "example": {
+      "en": "I need to create a new account.",
+      "es": "Necesito crear una nueva cuenta.",
+      "vi": "Tôi cần tạo một tài khoản mới."
+    },
+    "createdAt": "2025-01-28T13:14:48.339Z",
+    "definitions": {
+      "en": "A record of financial transactions or a user profile on a platform.",
+      "es": "Un registro de transacciones financieras o un perfil de usuario en una plataforma.",
+      "vi": "Một bản ghi các giao dịch tài chính hoặc một hồ sơ người dùng trên một nền tảng."
+    },
+    "translations": {
+      "vi": "tài khoản",
+      "en": "account",
+      "es": "cuenta"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "tài khoản",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I forgot the password for my bank account.",
+    "Can you help me create a new account on this website?",
+    "You should secure your social media account to avoid losing information."
+  ],
+  "_id": "hUpYtvTkIIT7JQalpODu"
+}

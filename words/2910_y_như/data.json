@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "y như",
+    "nếu như",
+    "giống như"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Y như; giống như.",
+      "en": "Just like; similar to.",
+      "es": "Justo como; similar a."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:43:01.776Z",
+    "example": {
+      "vi": "Cô ấy y như một thiên thần.",
+      "es": "Ella es como un ángel.",
+      "en": "She is just like an angel."
+    },
+    "translations": {
+      "es": "como",
+      "en": "just like",
+      "vi": "y như"
+    }
+  },
+  "exampleSentences": [
+    "Anh ấy nói chuyện y như bố của mình ngày xưa.",
+    "Món ăn này có vị y như mẹ nấu hồi nhỏ.",
+    "Cô ấy làm bài tập y như hướng dẫn của giáo viên."
+  ],
+  "exampleSentencesTranslated": [
+    "He talks exactly like my father used to.",
+    "This dish tastes exactly like my mother cooked when I was young.",
+    "She did the homework exactly like the teacher instructed."
+  ],
+  "updatedAt": "2026-03-03T18:11:36.388Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "y như = exactly like, just like. It means two things are the same in appearance, behavior, sound, feeling, etc.\n\nIt’s used to compare two things and emphasize strong similarity. Put it before a noun, clause, or description.\n\nStronger and more vivid than giống (similar to). If you want to stress “almost identical,” use y như.",
+  "word": "y như",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:10:54.908Z",
+    "id": "f3a18444-5e1a-4d58-a9c1-32e190ad58f6",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "y như",
+      "word": "y như",
+      "translation": {
+        "en": "She sings like an angel."
+      },
+      "translatedAnswer": {
+        "en": "like"
+      },
+      "sentence": "Cô ấy hát ___ một thiên thần."
+    },
+    "updatedAt": "2025-03-12T16:10:54.908Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**y như** = exactly like, just like. It means two things are the same in appearance, behavior, sound, feeling, etc.\n\nIt’s used to compare two things and emphasize strong similarity. Put it before a noun, clause, or description.\n\n\nStronger and more vivid than **giống** (similar to). If you want to stress “almost identical,” use **y như**.",
+  "rank": 2910,
+  "definition": "exactly like",
+  "multiChoiceQuiz": {
+    "id": "0ad2a934-be00-4eb3-bdf7-f25da9d4b891",
+    "createdAt": "2025-03-12T16:10:54.908Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:10:54.908Z",
+    "content": {
+      "sentence": "Cô ấy hát ___ một thiên thần.",
+      "translatedAnswer": {
+        "en": "like"
+      },
+      "translation": {
+        "en": "She sings like an angel."
+      },
+      "hint": "y ___",
+      "word": "y như",
+      "answer": "y như",
+      "language": "vi",
+      "choices": [
+        "giống như",
+        "y như",
+        "như thế"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "pL0nJu6FUfHvuoOkz0d9"
+}

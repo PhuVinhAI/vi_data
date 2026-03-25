@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:00:19.259Z",
+    "definitions": {
+      "en": "A specific point in time.",
+      "es": "Un punto específico en el tiempo.",
+      "vi": "Một điểm cụ thể trong thời gian."
+    },
+    "translations": {
+      "vi": "thời điểm",
+      "es": "momento",
+      "en": "moment"
+    },
+    "example": {
+      "es": "Te llamaré en el momento adecuado.",
+      "vi": "Tôi sẽ gọi bạn vào thời điểm thích hợp.",
+      "en": "I will call you at the right time."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh nhớ rõ thời điểm chúng ta gặp nhau lần đầu tiên.",
+    "Chị đang chờ thời điểm thích hợp để nói chuyện với sếp.",
+    "Đây là thời điểm tốt để bắt đầu học một kỹ năng mới."
+  ],
+  "rank": 241,
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:24:26.643Z",
+    "createdAt": "2025-03-12T14:24:26.643Z",
+    "id": "e994697d-0e70-45db-880e-ffa94ff5c6c1",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "That is an important moment."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "thời điểm",
+      "sentence": "Đó là ___ quan trọng.",
+      "translatedAnswer": {
+        "en": "moment"
+      },
+      "answer": "thời điểm"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "point in time",
+  "choices": [
+    "thời điểm",
+    "thời gian",
+    "thời đại"
+  ],
+  "updatedAt": "2026-03-03T06:44:47.845Z",
+  "notes": "Thời điểm means a specific point in time — one exact moment, not a long period. It’s more precise than just “time.”\n\nIt’s a noun. You’ll often see một thời điểm, những thời điểm, but it’s usually used without a classifier. Common pairings are vào thời điểm, tại thời điểm, and đúng thời điểm.\n\nIt focuses on when exactly something happens, often in important or turning-point situations.  \n\nStrong connection: lúc (more casual, flexible), khoảnh khắc (very short moment, more emotional), thời gian (longer period).",
+  "exampleSentencesTranslated": [
+    "I clearly remember the point in time when we first met.",
+    "She is waiting for the right point in time to talk to her boss.",
+    "This is a good point in time to start learning a new skill."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Thời điểm** means a specific point in time — one exact moment, not a long period. It’s more precise than just “time.”\n\nIt’s a noun. You’ll often see **một thời điểm**, **những thời điểm**, but it’s usually used without a classifier. Common pairings are **vào thời điểm**, **tại thời điểm**, and **đúng thời điểm**.\n\nIt focuses on *when exactly* something happens, often in important or turning-point situations.  \n\nStrong connection: **lúc** (more casual, flexible), **khoảnh khắc** (very short moment, more emotional), **thời gian** (longer period).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "thời điểm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:24:26.643Z",
+    "updatedAt": "2025-03-12T14:24:26.643Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "moment"
+      },
+      "answer": "thời điểm",
+      "hint": "th___m",
+      "word": "thời điểm",
+      "sentence": "Chúng ta sẽ gặp nhau vào ___ này.",
+      "translation": {
+        "en": "We will meet at this moment."
+      },
+      "language": "vi",
+      "choices": [
+        "thời điểm",
+        "thời gian",
+        "khoảng thời gian"
+      ]
+    },
+    "id": "62c54695-743d-41fa-8c4f-70695ce5fdfa"
+  },
+  "_id": "O8ZyHmZ6XnmmgOC41F9b"
+}

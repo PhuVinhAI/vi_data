@@ -1,0 +1,96 @@
+{
+  "choices": [
+    "trời",
+    "đất",
+    "biển"
+  ],
+  "fillBlankQuiz": {
+    "id": "cbbb1092-10e3-44c9-8563-75f67e9fa6f9",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "trời",
+      "translation": {
+        "en": "The sky is very beautiful today."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sky"
+      },
+      "answer": "trời",
+      "choices": [],
+      "sentence": "Hôm nay ___ rất đẹp."
+    },
+    "updatedAt": "2025-03-12T17:21:22.254Z",
+    "createdAt": "2025-03-12T17:21:22.254Z"
+  },
+  "exampleSentences": [
+    "Hôm nay trời rất xanh và không có nhiều mây.",
+    "Buổi tối, anh thích ngắm sao trên trời với bạn bè.",
+    "Khi trời mưa, em thường mang theo áo mưa để không bị ướt."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "trời = sky. It can also mean heaven or just “the weather” depending on context.\n\nIt’s a noun and usually stands alone (no classifier in normal speech). Very often used in weather phrases: trời nóng, trời lạnh, trời đẹp, trời tối. In everyday talk, trời often really means “the weather” more than the physical sky.\n\nIt also appears in emotional expressions like Trời ơi! (Oh my God!), where it doesn’t literally mean “sky” anymore.\n\nClose idea: bầu trời = “the sky” (more descriptive, like “the whole sky”).",
+  "definition": "sky",
+  "rank": 767,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:21:22.254Z",
+    "updatedAt": "2025-03-12T17:21:22.254Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "sky"
+      },
+      "answer": "trời",
+      "sentence": "Hôm nay ___ rất đẹp.",
+      "choices": [
+        "trời",
+        "trờis",
+        "TRỜI"
+      ],
+      "hint": "t___i",
+      "translation": {
+        "en": "The sky is very beautiful today."
+      },
+      "word": "trời",
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "23402e57-c36f-4a62-8596-929b177c494d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**trời** = *sky*. It can also mean *heaven* or just “the weather” depending on context.\n\nIt’s a noun and usually stands alone (no classifier in normal speech). Very often used in weather phrases: *trời nóng, trời lạnh, trời đẹp, trời tối*. In everyday talk, **trời** often really means “the weather” more than the physical sky.\n\nIt also appears in emotional expressions like **Trời ơi!** (Oh my God!), where it doesn’t literally mean “sky” anymore.\n\nClose idea: **bầu trời** = “the sky” (more descriptive, like “the whole sky”).",
+  "exampleSentencesTranslated": [
+    "Today the sky is very blue and there are not many clouds.",
+    "In the evening, I like to watch the stars in the sky with friends.",
+    "When it rains, I usually bring a raincoat so I don’t get wet from the sky."
+  ],
+  "updatedAt": "2026-03-03T07:38:22.276Z",
+  "word": "trời",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "sky"
+    },
+    "example": {
+      "en": "Today the sky is very beautiful and sunny.",
+      "vi": "Hôm nay trời rất đẹp và nắng."
+    },
+    "word": "trời",
+    "definitions": {
+      "en": "The vast space above the earth; commonly refers to the sky or the weather.",
+      "vi": "Không gian bao la bên trên mặt đất, thường dùng để chỉ bầu trời hoặc thời tiết."
+    },
+    "createdAt": "2025-05-24T16:30:43.635Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "hJdRLsHwbfssloHAse7T"
+}

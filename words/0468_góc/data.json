@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh sẽ chờ em ở góc đường trước nhà nhé.",
+    "Có một cái ghế đặt ở góc phòng khách.",
+    "Chị thấy con mèo đang nằm ở góc sân."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "góc",
+    "bàn",
+    "cửa"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một góc hoặc cạnh, thường là nơi hai bề mặt gặp nhau.",
+      "es": "Una esquina o ángulo, típicamente donde se encuentran dos superficies.",
+      "en": "A corner or angle, typically where two surfaces meet."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:57:49.179Z",
+    "translations": {
+      "es": "esquina",
+      "en": "corner",
+      "vi": "góc"
+    },
+    "example": {
+      "vi": "Tôi đặt sách ở góc bàn.",
+      "en": "I put the book in the corner of the table.",
+      "es": "Puse el libro en la esquina de la mesa."
+    }
+  },
+  "updatedAt": "2026-03-03T07:09:12.622Z",
+  "exampleSentencesTranslated": [
+    "I will wait for you at the corner of the street in front of the house.",
+    "There is a chair placed in the corner of the living room.",
+    "She sees the cat lying in the corner of the yard."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Góc means a corner — the place where two sides meet (like in a room or on a street).  \n\nIt’s a countable noun: một góc, hai góc. You’ll often see it in phrases like góc + noun (góc phòng, góc bàn, góc phố).  \n\nIt can also mean an angle in math, or more abstractly a perspective (góc nhìn = point of view).  \n\nStrong memory link: think of a physical corner first, then extend it to “angle” and “viewpoint.”",
+  "fillBlankQuiz": {
+    "id": "0120275f-ef64-4fe1-ba76-fd0d710e1de2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:26:55.182Z",
+    "updatedAt": "2025-03-12T16:26:55.182Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "The table is in the corner of the living room."
+      },
+      "translatedAnswer": {
+        "en": "corner"
+      },
+      "choices": [],
+      "word": "góc",
+      "language": "vi",
+      "answer": "góc",
+      "sentence": "Cái bàn ở ___ phòng khách."
+    }
+  },
+  "word": "góc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Góc** means a *corner* — the place where two sides meet (like in a room or on a street).  \n\nIt’s a countable noun: *một góc, hai góc*. You’ll often see it in phrases like **góc + noun** (góc phòng, góc bàn, góc phố).  \n\nIt can also mean an *angle* in math, or more abstractly a *perspective* (góc nhìn = point of view).  \n\nStrong memory link: think of a physical corner first, then extend it to “angle” and “viewpoint.”",
+  "rank": 468,
+  "multiChoiceQuiz": {
+    "id": "dfc6ee2d-70ba-45c4-b9c2-0f1acf1f9808",
+    "createdAt": "2025-03-12T16:26:55.182Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:26:55.182Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cái bàn ở ___ phòng khách.",
+      "hint": "g__c",
+      "translation": {
+        "en": "The table is in the corner of the living room."
+      },
+      "translatedAnswer": {
+        "en": "corner"
+      },
+      "word": "góc",
+      "choices": [
+        "góc",
+        "giữa",
+        "trên"
+      ],
+      "language": "vi",
+      "answer": "góc"
+    }
+  },
+  "definition": "corner",
+  "_id": "t7P4xvkFhHDBMrMNDlng"
+}

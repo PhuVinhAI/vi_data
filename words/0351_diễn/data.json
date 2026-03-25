@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 351,
+  "definition": "act",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:52:34.929Z",
+    "id": "3b4bd88e-d539-4e94-bff5-66c2dec09e68",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "perform"
+      },
+      "answer": "diễn",
+      "translation": {
+        "en": "They will perform a new play."
+      },
+      "choices": [],
+      "sentence": "Họ sẽ ___ một vở kịch mới.",
+      "word": "diễn"
+    },
+    "updatedAt": "2025-03-12T16:52:34.929Z",
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**Diễn** = to act or perform, usually in a play, movie, or show. It’s about playing a role in front of others.\n\nUse it with things like **diễn kịch**, **diễn phim**, **diễn vai + nhân vật**, or **diễn trước + khán giả**.  \n\nIt can also mean to **pretend or act fake** in daily life. If someone says **“diễn quá”**, it means you’re being dramatic or overacting.\n\nRelated word: **diễn xuất** (acting skill).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Diễn = to act or perform, usually in a play, movie, or show. It’s about playing a role in front of others.\n\nUse it with things like diễn kịch, diễn phim, diễn vai + nhân vật, or diễn trước + khán giả.  \n\nIt can also mean to pretend or act fake in daily life. If someone says “diễn quá”, it means you’re being dramatic or overacting.\n\nRelated word: diễn xuất (acting skill).",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:22:34.595Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Cô ấy diễn rất hay trong vở kịch.",
+      "en": "She performs very well in the play.",
+      "es": "Ella actúa muy bien en la obra."
+    },
+    "definitions": {
+      "vi": "Diễn là hành động thể hiện một vai diễn, đặc biệt trong bối cảnh kịch nghệ.",
+      "en": "To perform or act, especially in a theatrical context.",
+      "es": "Actuar o representar, especialmente en un contexto teatral."
+    },
+    "translations": {
+      "en": "to perform",
+      "es": "actuar",
+      "vi": "diễn"
+    }
+  },
+  "word": "diễn",
+  "exampleSentencesTranslated": [
+    "He will act in the school play this weekend.",
+    "She really likes to watch famous people act on stage.",
+    "I am practicing to act better in the talent show."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "b8dfecb7-010f-4779-ad6b-03e1e0220add",
+    "createdAt": "2025-03-12T16:52:34.929Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "d___n",
+      "word": "diễn",
+      "sentence": "Chúng ta sẽ ___ vào cuối tuần.",
+      "answer": "diễn",
+      "choices": [
+        "diễn",
+        "hát",
+        "chơi"
+      ],
+      "translation": {
+        "en": "We will perform on the weekend."
+      },
+      "translatedAnswer": {
+        "en": "perform"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:52:34.929Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh sẽ diễn trong vở kịch ở trường vào cuối tuần này.",
+    "Chị rất thích xem những người nổi tiếng diễn trên sân khấu.",
+    "Em đang luyện tập để diễn tốt hơn trong buổi thi tài năng."
+  ],
+  "updatedAt": "2026-03-03T06:57:31.761Z",
+  "choices": [
+    "diễn",
+    "nghỉ",
+    "đọc"
+  ],
+  "_id": "zoCDStIVWX6leGfdP1Bm"
+}

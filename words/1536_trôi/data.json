@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "trôi",
+    "rơi",
+    "lặn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "float",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "trôi",
+  "exampleSentences": [
+    "Chiếc lá vàng trôi trên mặt nước rất nhẹ nhàng.",
+    "Anh thích nhìn mây trôi trên bầu trời mỗi buổi chiều.",
+    "Nhiều kỷ niệm cũ cứ trôi qua trong tâm trí em."
+  ],
+  "rank": 1536,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "ff445422-c4f9-4115-a9f4-c8cfc6792eb4",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:52:38.430Z",
+    "createdAt": "2025-03-12T13:52:38.430Z",
+    "content": {
+      "translation": {
+        "en": "The boat floats on the river."
+      },
+      "answer": "trôi",
+      "choices": [
+        "đi",
+        "trôi",
+        "bơi"
+      ],
+      "hint": "t___i",
+      "sentence": "Con thuyền ___ trên sông.",
+      "word": "trôi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "floats"
+      }
+    }
+  },
+  "notes_md": "**trôi** = to float or drift on water, air, or along a surface. It’s used for things that move smoothly without control.\n\nOften used with natural things: nước trôi, lá trôi, mây trôi. It can also describe time passing in a gentle, unstoppable way (thời gian trôi).\n\n\nClose to **trôi dạt** (drift away, often farther and more uncontrolled). Opposite feeling: **đứng yên** (stay still).",
+  "flashcard": {
+    "translations": {
+      "en": "drift",
+      "vi": "trôi",
+      "es": "flotar"
+    },
+    "createdAt": "2025-01-28T11:30:29.497Z",
+    "example": {
+      "es": "El barco está flotando en el río.",
+      "vi": "Chiếc thuyền đang trôi trên sông.",
+      "en": "The boat is drifting on the river."
+    },
+    "definitions": {
+      "es": "Flotar o derivar, a menudo utilizado para describir algo que se mueve lentamente sobre el agua.",
+      "vi": "Trôi, thường được dùng để mô tả một vật di chuyển chậm trên mặt nước.",
+      "en": "To float or drift, often used to describe something moving slowly on water."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "The yellow leaf float on the water very gently.",
+    "I like watching clouds float in the sky every afternoon.",
+    "Many old memories float through my mind."
+  ],
+  "notes": "trôi = to float or drift on water, air, or along a surface. It’s used for things that move smoothly without control.\n\nOften used with natural things: nước trôi, lá trôi, mây trôi. It can also describe time passing in a gentle, unstoppable way (thời gian trôi).\n\nClose to trôi dạt (drift away, often farther and more uncontrolled). Opposite feeling: đứng yên (stay still).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "b5257258-c71c-4d4e-a1cf-23edebeb6dae",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:52:38.430Z",
+    "createdAt": "2025-03-12T13:52:38.430Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "floats"
+      },
+      "sentence": "Con thuyền ___ trên sông.",
+      "word": "trôi",
+      "language": "vi",
+      "choices": [],
+      "answer": "trôi",
+      "translation": {
+        "en": "The boat floats on the river."
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T09:00:21.261Z",
+  "_id": "GU0jHPDlGi0PRlTkDnjk"
+}

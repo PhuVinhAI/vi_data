@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:07:28.027Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "tiền",
+      "language": "vi",
+      "word": "tiền",
+      "sentence": "Tôi cần ___ để mua bánh.",
+      "translation": {
+        "en": "I need money to buy bread."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "money"
+      }
+    },
+    "updatedAt": "2025-03-12T15:07:28.027Z",
+    "id": "2ba58b0c-cb3b-45d5-8a05-aa88755b952d"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:36:48.261Z",
+  "exampleSentencesTranslated": [
+    "Can you lend me some money?",
+    "She saves money every month to travel at the end of the year.",
+    "I forgot to bring money when I went to buy coffee this morning."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:40:20.687Z",
+    "definitions": {
+      "en": "Currency or money used for transactions.",
+      "es": "Moneda o dinero utilizado para transacciones.",
+      "vi": "Tiền tệ hoặc tiền được sử dụng cho các giao dịch."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "money",
+      "es": "dinero",
+      "vi": "tiền"
+    },
+    "example": {
+      "en": "I need money to buy books.",
+      "es": "Necesito dinero para comprar libros.",
+      "vi": "Tôi cần tiền để mua sách."
+    }
+  },
+  "notes_md": "**tiền** = money. It’s the general word for cash or funds in everyday life.\n\nIt’s an uncountable noun, so you don’t say “one tiền.” To count, use an amount or currency unit like **đồng**. Common combos: **nhiều tiền** (a lot of money), **ít tiền** (little money), **tiền mặt** (cash), **tiền lương** (salary), **tiền bạc** (money, slightly broader/abstract).\n\n\nNear-synonym: **tiền bạc** (more general, sometimes emotional tone about finances).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "money",
+  "choices": [
+    "tiền",
+    "bàn",
+    "ghế"
+  ],
+  "rank": 161,
+  "multiChoiceQuiz": {
+    "id": "a4eca4fc-1d6a-417c-a62d-abf099c5afad",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:07:28.027Z",
+    "updatedAt": "2025-03-12T15:07:28.027Z",
+    "content": {
+      "sentence": "Cô ấy có rất nhiều ___.",
+      "hint": "t___n",
+      "answer": "tiền",
+      "language": "vi",
+      "word": "tiền",
+      "translatedAnswer": {
+        "en": "money"
+      },
+      "choices": [
+        "thời gian",
+        "tiền",
+        "khoản chi"
+      ],
+      "translation": {
+        "en": "She has a lot of money."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể cho em mượn một ít tiền được không?",
+    "Chị tiết kiệm tiền mỗi tháng để đi du lịch vào cuối năm.",
+    "Em quên mang tiền khi đi mua cà phê sáng nay."
+  ],
+  "notes": "tiền = money. It’s the general word for cash or funds in everyday life.\n\nIt’s an uncountable noun, so you don’t say “one tiền.” To count, use an amount or currency unit like đồng. Common combos: nhiều tiền (a lot of money), ít tiền (little money), tiền mặt (cash), tiền lương (salary), tiền bạc (money, slightly broader/abstract).\n\nNear-synonym: tiền bạc (more general, sometimes emotional tone about finances).",
+  "word": "tiền",
+  "_id": "YykAG7P33FViNHVq8MEB"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "đường",
+  "exampleSentencesTranslated": [
+    "Can you add some sugar to the coffee for me?",
+    "Every morning, she usually drinks green tea without sugar.",
+    "He bought a kilogram of sugar at the supermarket to make dessert for his family."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "gạo",
+    "muối",
+    "đường"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I walk on the road."
+      },
+      "answer": "đường",
+      "choices": [
+        "đường",
+        "cầu",
+        "nhà"
+      ],
+      "translatedAnswer": {
+        "en": "road"
+      },
+      "sentence": "Tôi đi bộ trên ___.",
+      "hint": "đ___g",
+      "word": "đường"
+    },
+    "updatedAt": "2025-03-12T16:41:32.996Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:41:32.996Z",
+    "id": "a55dae18-e538-48ee-90e4-21bdb505cafa"
+  },
+  "exampleSentences": [
+    "Em có thể cho thêm một ít đường vào cà phê cho anh được không?",
+    "Mỗi buổi sáng, chị thường uống trà xanh mà không dùng đường.",
+    "Anh ấy mua một ký đường ở siêu thị để nấu chè cho gia đình."
+  ],
+  "updatedAt": "2026-03-03T06:44:53.343Z",
+  "flashcard": {
+    "translations": {
+      "es": "calle",
+      "en": "street",
+      "vi": "đường"
+    },
+    "definitions": {
+      "es": "Un camino o vía para vehículos o peatones.",
+      "en": "A path or way for vehicles or pedestrians.",
+      "vi": "Một con đường hoặc lối đi cho phương tiện hoặc người đi bộ."
+    },
+    "example": {
+      "vi": "Tôi đi bộ trên đường.",
+      "es": "Camino por la calle.",
+      "en": "I walk on the street."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:13:03.282Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đường most commonly means sugar (the sweet white stuff you add to drinks or food). It’s an uncountable noun, so you don’t say “one sugar” — you measure it.\n\nUse quantity words like một ít, một thìa, một ký before it.  \n\nVery important: đường also very commonly means road / street. Same spelling, totally different meaning — context tells you which one.  \n\nTo remember: ngọt (sweet) connects to sugar; con đường (road) uses the classifier con when talking about streets.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:41:32.996Z",
+    "id": "92676085-8fd4-4174-8a62-a579b3db6efd",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I walk on the road."
+      },
+      "answer": "đường",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "road"
+      },
+      "sentence": "Tôi đi bộ trên ___.",
+      "word": "đường"
+    },
+    "updatedAt": "2025-03-12T16:41:32.996Z"
+  },
+  "definition": "sugar",
+  "rank": 242,
+  "notes_md": "**đường** most commonly means **sugar** (the sweet white stuff you add to drinks or food). It’s an uncountable noun, so you don’t say “one sugar” — you measure it.\n\nUse quantity words like *một ít*, *một thìa*, *một ký* before it.  \n\nVery important: **đường** also very commonly means **road / street**. Same spelling, totally different meaning — context tells you which one.  \n\nTo remember: *ngọt* (sweet) connects to sugar; *con đường* (road) uses the classifier **con** when talking about streets.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "x78bbo1EYfDOUURf5HFk"
+}

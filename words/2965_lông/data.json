@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Con mèo của em có lông rất mềm và sạch.",
+    "Anh thấy trên áo có một sợi lông màu trắng.",
+    "Chị thường chải lông cho chó mỗi buổi sáng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "lông",
+    "lá",
+    "lồng"
+  ],
+  "fillBlankQuiz": {
+    "id": "33b999ce-a6e7-47e7-bbde-aa0bd75ae35a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "The cat has a soft fur."
+      },
+      "word": "lông",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "fur"
+      },
+      "answer": "lông",
+      "choices": [],
+      "sentence": "Con mèo có bộ ___ mềm mại."
+    },
+    "updatedAt": "2025-03-12T15:59:46.444Z",
+    "createdAt": "2025-03-12T15:59:46.444Z"
+  },
+  "rank": 2965,
+  "notes": "lông = fur or body hair (not the hair on your head). It’s used for animals’ fur and also small body hairs on people.\n\nFor head hair, use tóc — easy contrast: tóc (head), lông (everywhere else). It also covers feathers and fine hairs like lông tay (arm hair), lông mày (eyebrow), lông mi (eyelash).\n\nUsually uncountable in general, but you count individual strands with sợi or cọng.  \n\nCommon pairings: rậm lông (hairy), rụng lông (shed fur), especially for animals.",
+  "definition": "fur",
+  "notes_md": "**lông** = fur or body hair (not the hair on your head). It’s used for animals’ fur and also small body hairs on people.\n\nFor head hair, use **tóc** — easy contrast: *tóc* (head), *lông* (everywhere else). It also covers feathers and fine hairs like **lông tay** (arm hair), **lông mày** (eyebrow), **lông mi** (eyelash).\n\nUsually uncountable in general, but you count individual strands with **sợi** or **cọng**.  \n\nCommon pairings: **rậm lông** (hairy), **rụng lông** (shed fur), especially for animals.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:59:46.444Z",
+    "createdAt": "2025-03-12T15:59:46.444Z",
+    "id": "cc6bf7a2-f2b1-4687-a6f5-eeafa5fe2aac",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chó có bộ ___ dày.",
+      "choices": [
+        "lông",
+        "nước",
+        "bánh"
+      ],
+      "hint": "l__g",
+      "translatedAnswer": {
+        "en": "fur"
+      },
+      "answer": "lông",
+      "translation": {
+        "en": "The dog has thick fur."
+      },
+      "word": "lông",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:17:17.598Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "fur",
+      "es": "pelaje",
+      "vi": "lông"
+    },
+    "example": {
+      "vi": "Con mèo có bộ lông rất mềm.",
+      "en": "The cat has very soft fur.",
+      "es": "El gato tiene un pelaje muy suave."
+    },
+    "createdAt": "2025-01-28T13:31:58.748Z",
+    "definitions": {
+      "en": "The fine, soft hair that covers the body of certain animals.",
+      "es": "El pelo fino y suave que cubre el cuerpo de ciertos animales.",
+      "vi": "Sợi tóc mịn màng, mềm mại bao phủ cơ thể của một số động vật."
+    }
+  },
+  "word": "lông",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "My cat has very soft and clean fur.",
+    "I see a white fur on the shirt.",
+    "She usually brushes the dog's fur every morning."
+  ],
+  "_id": "lx2bObmxB8q3uTw5kAN8"
+}

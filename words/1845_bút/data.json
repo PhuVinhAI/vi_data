@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:16.298Z",
+    "id": "48b37e36-a926-4909-b088-504618c2aa76",
+    "createdAt": "2025-03-12T13:33:16.298Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "bút",
+      "translatedAnswer": {
+        "en": "pen"
+      },
+      "translation": {
+        "en": "I need a pen to write."
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ để viết.",
+      "word": "bút",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Can you lend me your pen?",
+    "She always carries a pen in her handbag.",
+    "Yesterday, I bought a new pen at the bookstore."
+  ],
+  "definition": "pen",
+  "flashcard": {
+    "translations": {
+      "en": "pen",
+      "es": "bolígrafo",
+      "vi": "bút"
+    },
+    "createdAt": "2025-01-28T11:12:54.612Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A writing instrument used to apply ink to a surface.",
+      "vi": "Một công cụ viết được sử dụng để áp dụng mực lên bề mặt.",
+      "es": "Un instrumento de escritura utilizado para aplicar tinta a una superficie."
+    },
+    "example": {
+      "en": "I need a pen to write.",
+      "vi": "Tôi cần một cái bút để viết.",
+      "es": "Necesito un bolígrafo para escribir."
+    }
+  },
+  "notes": "bút = pen. It’s the general word for anything you write with (ink pen, ballpoint, etc.).\n\nIt’s a countable noun and uses the classifier cây.  \n\nCommon combos: bút bi (ballpoint pen), bút chì (pencil), bút mực (ink pen).  \n\nIn the South, people often say cây viết instead of bút — same meaning, just regional preference.",
+  "exampleSentences": [
+    "Em có thể cho anh mượn bút của em được không?",
+    "Chị luôn mang theo một chiếc bút trong túi xách.",
+    "Hôm qua, anh đã mua một cây bút mới ở nhà sách."
+  ],
+  "updatedAt": "2026-03-03T09:33:15.979Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:33:16.298Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I bought a new pen."
+      },
+      "translatedAnswer": {
+        "en": "pen"
+      },
+      "hint": "b__t",
+      "answer": "bút",
+      "choices": [
+        "sách",
+        "bút",
+        "giấy"
+      ],
+      "word": "bút",
+      "language": "vi",
+      "sentence": "Tôi mua một ___ mới."
+    },
+    "id": "ab596172-5e3c-45ee-b8aa-03b4d5e1fc21",
+    "updatedAt": "2025-03-12T13:33:16.298Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "bút",
+    "ghế",
+    "sách"
+  ],
+  "rank": 1845,
+  "notes_md": "**bút** = pen. It’s the general word for anything you write with (ink pen, ballpoint, etc.).\n\nIt’s a countable noun and uses the classifier **cây**.  \n\nCommon combos: **bút bi** (ballpoint pen), **bút chì** (pencil), **bút mực** (ink pen).  \n\nIn the South, people often say **cây viết** instead of **bút** — same meaning, just regional preference.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bút",
+  "_id": "BhHmCkcWS5J2p6bJBGBu"
+}

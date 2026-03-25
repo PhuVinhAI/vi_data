@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "phụ trách",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "7e00bbbb-3865-4121-87a2-c775bea3e36e",
+    "content": {
+      "translation": {
+        "en": "Who will be in charge of this project?"
+      },
+      "translatedAnswer": {
+        "en": "in charge"
+      },
+      "hint": "p___h trách",
+      "answer": "phụ trách",
+      "choices": [
+        "quản lý",
+        "phụ trách",
+        "giám sát"
+      ],
+      "word": "phụ trách",
+      "sentence": "Ai sẽ ___ dự án này?",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:08.656Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:29:08.656Z"
+  },
+  "choices": [
+    "phụ trách",
+    "giúp đỡ",
+    "quan tâm"
+  ],
+  "rank": 2518,
+  "notes_md": "**Phụ trách** means *to be in charge of* or *to be responsible for* something, usually as your assigned role. It’s used when someone officially takes care of a task, area, or group.\n\nIt’s a verb and is followed directly by a noun (the task, project, team, area, etc.).  \n\nIt often implies ongoing responsibility, not just a one-time action.  \nClose to **chịu trách nhiệm**, but *phụ trách* sounds more like you’re officially assigned to manage something.",
+  "notes": "Phụ trách means to be in charge of or to be responsible for something, usually as your assigned role. It’s used when someone officially takes care of a task, area, or group.\n\nIt’s a verb and is followed directly by a noun (the task, project, team, area, etc.).  \n\nIt often implies ongoing responsibility, not just a one-time action.  \nClose to chịu trách nhiệm, but phụ trách sounds more like you’re officially assigned to manage something.",
+  "exampleSentences": [
+    "Anh sẽ phụ trách tổ chức cuộc họp vào tuần sau.",
+    "Chị Lan được giao phụ trách dự án mới của công ty.",
+    "Em muốn phụ trách việc chuẩn bị đồ ăn cho buổi tiệc."
+  ],
+  "updatedAt": "2026-03-03T10:43:55.889Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "bb6300c5-9e87-449e-9c4c-56f77a427d2c",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:08.656Z",
+    "content": {
+      "choices": [],
+      "word": "phụ trách",
+      "language": "vi",
+      "sentence": "Ai sẽ ___ dự án này?",
+      "translation": {
+        "en": "Who will be in charge of this project?"
+      },
+      "translatedAnswer": {
+        "en": "in charge"
+      },
+      "answer": "phụ trách"
+    },
+    "updatedAt": "2025-03-12T13:29:08.656Z"
+  },
+  "exampleSentencesTranslated": [
+    "He will be responsible for the meeting next week.",
+    "Lan is be responsible for the new project of the company.",
+    "I want to be responsible for preparing the food for the party."
+  ],
+  "definition": "be responsible for",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:09:08.999Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "phụ trách",
+      "es": "a cargo",
+      "en": "in charge"
+    },
+    "example": {
+      "en": "I am in charge of this project.",
+      "es": "Estoy a cargo de este proyecto.",
+      "vi": "Tôi phụ trách dự án này."
+    },
+    "definitions": {
+      "vi": "Chịu trách nhiệm về một cái gì đó hoặc một ai đó.",
+      "es": "Ser responsable de algo o alguien.",
+      "en": "To be responsible for something or someone."
+    }
+  },
+  "_id": "Agm3Y7XxlC5JqlwdoV01"
+}

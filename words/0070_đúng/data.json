@@ -1,0 +1,101 @@
+{
+  "rank": 70,
+  "definition": "correct",
+  "flashcard": {
+    "translations": {
+      "en": "correct"
+    },
+    "example": {
+      "vi": "Câu trả lời của bạn là đúng.",
+      "en": "Your answer is correct."
+    },
+    "word": "đúng",
+    "definitions": {
+      "en": "Accurate, correct, or in accordance with the facts.",
+      "vi": "Phù hợp với sự thật, không sai hoặc chính xác."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:12:39.422Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:44:56.424Z",
+    "updatedAt": "2025-03-12T12:44:56.424Z",
+    "content": {
+      "sentence": "Câu trả lời của bạn là ___.",
+      "answer": "đúng",
+      "translation": {
+        "en": "Your answer is correct."
+      },
+      "choices": [
+        "đúng",
+        "sai",
+        "nhanh"
+      ],
+      "hint": "đ___g",
+      "word": "đúng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "correct"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "8771437e-a7ef-43cb-abed-532231c88349",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "sentenceBreakdowns": [
+    "Em (you) + trả lời (answer) + đúng (correct) + câu hỏi (question)",
+    "Anh (you) + làm (do) + đúng (correct) + bài tập (exercise)",
+    "Chị (you) + chọn (choose) + đúng (correct) + cái áo (shirt)"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em trả lời đúng câu hỏi.",
+    "Anh làm đúng bài tập.",
+    "Chị chọn đúng cái áo."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "sai",
+    "đủ",
+    "đúng"
+  ],
+  "notes": "Đúng means correct or right. It’s used when something matches the truth, the rule, or the expectation.\n\nIt can describe nouns (đúng giờ = on time, đúng cách = the right way) and it can come after a verb to mean “correctly.”  \nYou’ll also hear đúng rồi = “that’s right” and đúng không? = “right?” / “isn’t it?”\n\nOpposite: sai (wrong).",
+  "word": "đúng",
+  "notes_md": "**Đúng** means *correct* or *right*. It’s used when something matches the truth, the rule, or the expectation.\n\nIt can describe nouns (*đúng giờ* = on time, *đúng cách* = the right way) and it can come after a verb to mean “correctly.”  \nYou’ll also hear **đúng rồi** = “that’s right” and **đúng không?** = “right?” / “isn’t it?”\n\nOpposite: **sai** (wrong).",
+  "exampleSentencesTranslated": [
+    "You give the correct answer.",
+    "You do the correct exercise.",
+    "You choose the correct shirt."
+  ],
+  "updatedAt": "2026-03-03T06:10:09.072Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:44:56.424Z",
+    "updatedAt": "2025-03-12T12:44:56.424Z",
+    "content": {
+      "sentence": "Anh ấy nói ___.",
+      "answer": "đúng",
+      "translation": {
+        "en": "He speaks correctly."
+      },
+      "choices": [],
+      "word": "đúng",
+      "translatedAnswer": {
+        "en": "correctly"
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "bf59fea2-0da5-4d88-936e-3b1cbf1a516f",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "02x0MjTsfmetPi33EPJu"
+}

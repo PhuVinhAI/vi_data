@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:03:27.760Z",
+    "createdAt": "2025-03-12T16:03:27.760Z",
+    "id": "b2d070af-428e-4e12-b90d-18a1f746bfa0",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need to be strict with this plan."
+      },
+      "word": "chặt chẽ",
+      "translatedAnswer": {
+        "en": "strict"
+      },
+      "answer": "chặt chẽ",
+      "hint": "c___ chẽ",
+      "sentence": "Chúng ta cần ___ kế hoạch này.",
+      "choices": [
+        "chặt chẽ",
+        "lỏng lẻo",
+        "thư giãn"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chặt chẽ** means *strict, tight, or closely controlled*. It can also mean *closely connected* or *well-structured* depending on context.\n\nAs an adjective, it describes rules, management, control, relationships, plans, or arguments. It often implies careful control and little freedom to be loose.\n\n\nStrong connections: **nghiêm ngặt** (very strict), **sát sao** (closely monitoring). Opposite: **lỏng lẻo** (loose, not strict).",
+  "exampleSentencesTranslated": [
+    "The rules at my company are very strict and everyone must follow them.",
+    "My parents manage my studying in a strict way so I can improve.",
+    "In this group, we need to work in a strict way to get good results."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "chặt chẽ",
+      "es": "estrecho, cercano",
+      "en": "tight, close"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:35:05.101Z",
+    "definitions": {
+      "vi": "Chặt chẽ; thường được sử dụng để mô tả các mối quan hệ hoặc thỏa thuận.",
+      "es": "Estricto, cercano o apretado; a menudo se usa para describir relaciones o acuerdos.",
+      "en": "Tight, close, or strict; often used to describe relationships or agreements."
+    },
+    "example": {
+      "es": "La relación entre estas dos empresas es muy estrecha.",
+      "en": "The relationship between these two companies is very close.",
+      "vi": "Mối quan hệ giữa hai công ty này rất chặt chẽ."
+    }
+  },
+  "word": "chặt chẽ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T11:32:34.464Z",
+  "choices": [
+    "lỏng lẻo",
+    "chặt chẽ",
+    "thường xuyên"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng ta cần ___ kế hoạch này.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "strict"
+      },
+      "answer": "chặt chẽ",
+      "language": "vi",
+      "translation": {
+        "en": "We need to be strict with this plan."
+      },
+      "word": "chặt chẽ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "bc975245-7ded-4aeb-aab4-37fdc2aa7fac",
+    "createdAt": "2025-03-12T16:03:27.760Z",
+    "updatedAt": "2025-03-12T16:03:27.760Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Quy định ở công ty của anh rất chặt chẽ và mọi người phải tuân theo.",
+    "Bố mẹ em quản lý việc học của em khá chặt chẽ để em tiến bộ hơn.",
+    "Trong nhóm này, chúng ta cần làm việc chặt chẽ để đạt kết quả tốt."
+  ],
+  "definition": "strict",
+  "notes": "chặt chẽ means strict, tight, or closely controlled. It can also mean closely connected or well-structured depending on context.\n\nAs an adjective, it describes rules, management, control, relationships, plans, or arguments. It often implies careful control and little freedom to be loose.\n\nStrong connections: nghiêm ngặt (very strict), sát sao (closely monitoring). Opposite: lỏng lẻo (loose, not strict).",
+  "rank": 2653,
+  "_id": "n2cflvFOTUoMjV937eRM"
+}

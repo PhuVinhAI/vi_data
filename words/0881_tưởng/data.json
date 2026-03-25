@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tưởng",
+    "biết",
+    "muốn"
+  ],
+  "word": "tưởng",
+  "exampleSentences": [
+    "Anh tưởng em đã về nhà rồi nên anh không gọi.",
+    "Chị tưởng hôm nay là thứ bảy nên đi làm muộn.",
+    "Em tưởng cửa hàng này mở đến tối nhưng nó đóng cửa sớm."
+  ],
+  "rank": 881,
+  "definition": "think mistakenly",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tưởng = to think (but wrongly). You believed something was true, but it wasn’t.\n\nUsed when your assumption turns out incorrect. Very often followed by a full clause.  \n\nOften appears with đã for past assumptions and with cứ tưởng to show stronger mistaken belief.  \nClose to nghĩ (think), but tưởng implies you were wrong. Opposite idea: biết (know for sure).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d238b6a5-a3a1-4fd2-a6ca-6850826f4c8f",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi ___ rằng bạn sẽ đến.",
+      "word": "tưởng",
+      "translatedAnswer": {
+        "en": "thought"
+      },
+      "translation": {
+        "en": "I thought that you would come."
+      },
+      "answer": "tưởng",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:44:06.440Z",
+    "updatedAt": "2025-03-12T13:44:06.440Z"
+  },
+  "updatedAt": "2026-03-03T07:50:16.279Z",
+  "notes_md": "**tưởng** = to think (but wrongly). You believed something was true, but it wasn’t.\n\nUsed when your assumption turns out incorrect. Very often followed by a full clause.  \n\nOften appears with **đã** for past assumptions and with **cứ tưởng** to show stronger mistaken belief.  \nClose to **nghĩ** (think), but **tưởng** implies you were wrong. Opposite idea: **biết** (know for sure).",
+  "multiChoiceQuiz": {
+    "id": "08a92103-be5f-4b86-a0ff-2c66532597e7",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:44:06.440Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "thought"
+      },
+      "word": "tưởng",
+      "sentence": "Tôi ___ rằng bạn sẽ đến.",
+      "language": "vi",
+      "hint": "t__g",
+      "choices": [
+        "tưởng",
+        "nghĩ",
+        "biết"
+      ],
+      "translation": {
+        "en": "I thought that you would come."
+      },
+      "answer": "tưởng"
+    },
+    "updatedAt": "2025-03-12T13:44:06.440Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "To think or believe something, often based on an assumption.",
+      "es": "Pensar o creer algo, a menudo basado en una suposición.",
+      "vi": "Nghĩ hoặc tin điều gì đó, thường dựa trên một giả định."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:22:27.072Z",
+    "example": {
+      "en": "I thought you would come.",
+      "es": "Pensé que vendrías.",
+      "vi": "Tôi tưởng rằng bạn sẽ đến."
+    },
+    "translations": {
+      "es": "pensar",
+      "vi": "tưởng",
+      "en": "to think"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I think mistakenly that you already went home so I did not call.",
+    "I think mistakenly that today is Saturday so I went to work late.",
+    "I think mistakenly that this shop opens until evening but it closed early."
+  ],
+  "_id": "EWXg3kusx0oAhjgayw9D"
+}

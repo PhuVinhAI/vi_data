@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T10:41:55.505Z",
+    "definitions": {
+      "vi": "Một chất tinh thể màu trắng được sử dụng để nêm và bảo quản thực phẩm.",
+      "en": "A white crystalline substance used for seasoning and preserving food.",
+      "es": "Una sustancia cristalina blanca utilizada para sazonar y conservar alimentos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito más sal para el plato.",
+      "en": "I need more salt for the dish.",
+      "vi": "Tôi cần thêm muối cho món ăn."
+    },
+    "translations": {
+      "es": "sal",
+      "vi": "muối",
+      "en": "salt"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2501,
+  "definition": "salt",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể đưa cho em lọ muối trên bàn không?",
+    "Chị thường cho một ít muối vào canh để món ăn đậm đà hơn.",
+    "Em đã quên mua muối khi đi chợ sáng nay rồi."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "2f7ea785-5145-4bb3-9067-310eb59c4df0",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "m___",
+      "word": "muối",
+      "translatedAnswer": {
+        "en": "salt"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "This dish needs salt to be tastier."
+      },
+      "choices": [
+        "đường",
+        "giấm",
+        "muối"
+      ],
+      "answer": "muối",
+      "sentence": "Món này cần ___ để ngon hơn."
+    },
+    "createdAt": "2025-03-12T12:58:48.326Z",
+    "updatedAt": "2025-03-12T12:58:48.326Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "muối",
+  "choices": [
+    "đường",
+    "muối",
+    "nước"
+  ],
+  "notes": "Muối means salt — the white seasoning you use to make food salty. It’s usually uncountable, so you say một ít muối (a bit of salt) or measure it with words like thìa (spoon) or hạt (grain).\n\nCommon pairings: muối biển (sea salt), muối tiêu (salt and pepper), nước muối (salt water / saline solution).\n\nIt’s also a very common verb meaning to salt or pickle food.\n\nThink: muối = salt (noun) and to salt/preserve with salt (verb).",
+  "notes_md": "**Muối** means *salt* — the white seasoning you use to make food salty. It’s usually uncountable, so you say *một ít muối* (a bit of salt) or measure it with words like *thìa* (spoon) or *hạt* (grain).\n\nCommon pairings: *muối biển* (sea salt), *muối tiêu* (salt and pepper), *nước muối* (salt water / saline solution).\n\nIt’s also a very common **verb** meaning *to salt or pickle food*.\n\n\nThink: **muối** = salt (noun) and **to salt/preserve with salt** (verb).",
+  "exampleSentencesTranslated": [
+    "Can you pass me the salt on the table?",
+    "She usually adds a little salt to the soup to make it tastier.",
+    "I forgot to buy salt when I went to the market this morning."
+  ],
+  "updatedAt": "2026-03-03T10:42:14.202Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần thêm ___ cho món ăn.",
+      "answer": "muối",
+      "translation": {
+        "en": "I need more salt for the dish."
+      },
+      "choices": [],
+      "word": "muối",
+      "translatedAnswer": {
+        "en": "salt"
+      },
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "a61e526e-1506-4134-980d-278aa17ae338",
+    "createdAt": "2025-03-12T12:58:48.326Z",
+    "updatedAt": "2025-03-12T12:58:48.326Z"
+  },
+  "_id": "2Y6NffQ7IuDlogio9paE"
+}

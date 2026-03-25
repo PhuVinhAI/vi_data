@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:12:01.132Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "liên tục",
+      "word": "liên tục",
+      "translation": {
+        "en": "I study Vietnamese continuously."
+      },
+      "translatedAnswer": {
+        "en": "continuously"
+      },
+      "sentence": "Tôi học ___ tiếng Việt."
+    },
+    "id": "24b4c0c1-2b88-4a4c-a0fc-91f528ba8c4f",
+    "createdAt": "2025-03-12T16:12:01.132Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "liên tục",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 934,
+  "notes_md": "**Liên tục** means *continuously, nonstop, without a break*. It gives the idea of something happening again and again with no pause.\n\nIt’s usually an adverb, placed after the verb to show ongoing action.  \n\nIt can also act like an adjective after a time noun to mean *consecutive*.  \n\nClose synonym: **không ngừng** (very similar feeling).  \nOpposite: **gián đoạn** (interrupted, with breaks).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:12:01.132Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi học ___ tiếng Việt.",
+      "translatedAnswer": {
+        "en": "continuously"
+      },
+      "translation": {
+        "en": "I study Vietnamese continuously."
+      },
+      "hint": "l___t",
+      "word": "liên tục",
+      "answer": "liên tục",
+      "language": "vi",
+      "choices": [
+        "đột ngột",
+        "liên tục",
+        "thỉnh thoảng"
+      ]
+    },
+    "id": "14badf4b-57dd-44ad-98fe-6191d1bde0c3",
+    "createdAt": "2025-03-12T16:12:01.132Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "continuously",
+  "exampleSentences": [
+    "Anh đã làm việc liên tục suốt tám tiếng mà không nghỉ ngơi.",
+    "Em nghe tiếng mưa rơi liên tục ngoài cửa sổ cả đêm qua.",
+    "Chị ấy tập thể dục liên tục mỗi ngày để giữ sức khỏe."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "She studies continuously to prepare for the exam.",
+      "es": "Ella estudia continuamente para prepararse para el examen.",
+      "vi": "Cô ấy học liên tục để chuẩn bị cho kỳ thi."
+    },
+    "translations": {
+      "en": "continuously",
+      "es": "continuamente",
+      "vi": "liên tục"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:44:01.571Z",
+    "definitions": {
+      "vi": "Không bị gián đoạn; trong một chuỗi liên tục.",
+      "es": "Sin interrupción; en una secuencia ininterrumpida.",
+      "en": "Without interruption; in an unbroken sequence."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "liên tục",
+    "thỉnh thoảng",
+    "bất ngờ"
+  ],
+  "updatedAt": "2026-03-03T07:55:22.611Z",
+  "exampleSentencesTranslated": [
+    "He worked continuously for eight hours without resting.",
+    "I heard the rain falling continuously outside the window all night.",
+    "She exercises continuously every day to stay healthy."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Liên tục means continuously, nonstop, without a break. It gives the idea of something happening again and again with no pause.\n\nIt’s usually an adverb, placed after the verb to show ongoing action.  \n\nIt can also act like an adjective after a time noun to mean consecutive.  \n\nClose synonym: không ngừng (very similar feeling).  \nOpposite: gián đoạn (interrupted, with breaks).",
+  "_id": "pYB30q4Xn7UJLBRpWyBC"
+}

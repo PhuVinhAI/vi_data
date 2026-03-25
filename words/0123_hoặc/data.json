@@ -1,0 +1,96 @@
+{
+  "fillBlankQuiz": {
+    "id": "ab8f6131-0db1-4058-a43c-f39b09fcc278",
+    "createdAt": "2025-03-12T14:44:05.995Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "hoặc",
+      "choices": [],
+      "translation": {
+        "en": "Do you want to eat or drink water?"
+      },
+      "answer": "hoặc",
+      "translatedAnswer": {
+        "en": "or"
+      },
+      "language": "vi",
+      "sentence": "Bạn có muốn ăn ___ uống nước không?"
+    },
+    "updatedAt": "2025-03-12T14:44:05.995Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "or",
+  "flashcard": {
+    "example": {
+      "en": "You can drink tea or coffee.",
+      "vi": "Bạn có thể uống trà hoặc cà phê."
+    },
+    "definitions": {
+      "en": "A word used to indicate a choice between two or more options.",
+      "vi": "Từ dùng để chỉ sự lựa chọn giữa hai hay nhiều khả năng."
+    },
+    "createdAt": "2025-05-24T16:22:07.790Z",
+    "translations": {
+      "en": "or"
+    },
+    "audioUrl": "flashcard.mp3",
+    "word": "hoặc"
+  },
+  "notes_md": "**hoặc** means **“or”** — you use it to give a choice between two (or more) things.\n\nIt connects words, phrases, or clauses of equal level. It’s neutral and works in both statements and questions.  \n\nVery similar to **hay**. In questions, **hay** is often more natural in spoken Vietnamese, but **hoặc** works in both statements and formal contexts.  \nYou can repeat it for multiple options: A hoặc B hoặc C.",
+  "exampleSentences": [
+    "Anh muốn uống cà phê hoặc trà vào buổi sáng nay không?",
+    "Em sẽ đi xem phim hoặc ở nhà học bài tối nay.",
+    "Chị có thể chọn món ăn Việt hoặc món ăn Nhật ở nhà hàng này."
+  ],
+  "choices": [
+    "và",
+    "nhưng",
+    "hoặc"
+  ],
+  "notes": "hoặc means “or” — you use it to give a choice between two (or more) things.\n\nIt connects words, phrases, or clauses of equal level. It’s neutral and works in both statements and questions.  \n\nVery similar to hay. In questions, hay is often more natural in spoken Vietnamese, but hoặc works in both statements and formal contexts.  \nYou can repeat it for multiple options: A hoặc B hoặc C.",
+  "word": "hoặc",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "eb5547ad-b556-452c-a9db-ec47366064cd",
+    "createdAt": "2025-03-12T14:44:05.995Z",
+    "content": {
+      "word": "hoặc",
+      "choices": [
+        "và",
+        "hoặc",
+        "cũng"
+      ],
+      "hint": "h___c",
+      "translation": {
+        "en": "We can go or stay at home."
+      },
+      "answer": "hoặc",
+      "translatedAnswer": {
+        "en": "or"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta có thể đi ___ ở nhà."
+    },
+    "updatedAt": "2025-03-12T14:44:05.995Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to drink coffee or tea this morning?",
+    "I will go to the movies or study at home tonight.",
+    "You can choose Vietnamese food or Japanese food at this restaurant."
+  ],
+  "rank": 123,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:32:38.600Z",
+  "_id": "Sk9bUnxCxQ7bEWQyJA4f"
+}

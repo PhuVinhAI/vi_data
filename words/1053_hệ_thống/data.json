@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hệ thống** = system — a group of connected parts that work together as a whole.\n\nIt’s a countable noun: *một hệ thống, các hệ thống*. Often followed by another noun to specify type: *hệ thống giao thông, hệ thống giáo dục, hệ thống điện*.  \n\nIt can also mean an organized method or structure, not just machines — like a way something is arranged or managed.  \n\nClose in meaning to **hệ** (more technical/shorter) and sometimes **mạng lưới** (network, when focusing on connections).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:12:55.703Z",
+    "createdAt": "2025-03-12T14:12:55.703Z",
+    "id": "4d918c43-fdf6-47d8-b454-4b97ef752d7e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng tôi cần ___ mới.",
+      "hint": "h___g",
+      "word": "hệ thống",
+      "choices": [
+        "hệ thống",
+        "hệ thốngs",
+        "HỆ THỐNG"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "We need a new system."
+      },
+      "answer": "hệ thống",
+      "translatedAnswer": {
+        "en": "system"
+      }
+    }
+  },
+  "word": "hệ thống",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "hệ thống",
+      "sentence": "Chúng tôi cần ___ mới.",
+      "translation": {
+        "en": "We need a new system."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "system"
+      },
+      "answer": "hệ thống"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "78e732f7-c28b-4cf6-9d06-e4a50a703182",
+    "createdAt": "2025-03-12T14:12:55.703Z",
+    "updatedAt": "2025-03-12T14:12:55.703Z"
+  },
+  "definition": "system",
+  "choices": [
+    "hệ thống",
+    "kế hoạch",
+    "chương trình"
+  ],
+  "updatedAt": "2026-03-03T08:08:08.507Z",
+  "notes": "hệ thống = system — a group of connected parts that work together as a whole.\n\nIt’s a countable noun: một hệ thống, các hệ thống. Often followed by another noun to specify type: hệ thống giao thông, hệ thống giáo dục, hệ thống điện.  \n\nIt can also mean an organized method or structure, not just machines — like a way something is arranged or managed.  \n\nClose in meaning to hệ (more technical/shorter) and sometimes mạng lưới (network, when focusing on connections).",
+  "exampleSentencesTranslated": [
+    "The company is upgrading the computer system to work more efficiently.",
+    "Can you explain how this system works?",
+    "Schools need a modern student management system."
+  ],
+  "rank": 1053,
+  "flashcard": {
+    "example": {
+      "en": "This system is very complex.",
+      "es": "Este sistema es muy complejo.",
+      "vi": "Hệ thống này rất phức tạp."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "sistema",
+      "vi": "hệ thống",
+      "en": "system"
+    },
+    "definitions": {
+      "vi": "Một tập hợp các thứ hoặc phần được kết nối tạo thành một tổng thể phức tạp.",
+      "es": "Un conjunto de cosas o partes conectadas que forman un todo complejo.",
+      "en": "A set of connected things or parts forming a complex whole."
+    },
+    "createdAt": "2025-01-28T11:49:58.535Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Công ty đang nâng cấp hệ thống máy tính để làm việc hiệu quả hơn.",
+    "Anh có thể giải thích cách hoạt động của hệ thống này không?",
+    "Các trường học cần một hệ thống quản lý học sinh hiện đại."
+  ],
+  "_id": "LNM5JVF8JCW1FwBk7PEz"
+}

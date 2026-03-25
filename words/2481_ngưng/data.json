@@ -1,0 +1,99 @@
+{
+  "word": "ngưng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Ngưng** = to stop doing something, to cease. It’s used when an action doesn’t continue anymore.\n\nYou usually put it before a verb: **ngưng + V** (ngưng học, ngưng sử dụng). It can also go with a noun that implies an activity: ngưng công việc, ngưng dịch vụ.  \n\nClose to **dừng** and **thôi**. *Dừng* is often for temporary stopping; *thôi* feels more like “quit/that’s enough.” In the South, people use **ngưng** more often in everyday speech than in the North.",
+  "choices": [
+    "ngưng",
+    "bắt đầu",
+    "đợi"
+  ],
+  "rank": 2481,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có ___ nói nữa không?",
+      "language": "vi",
+      "word": "ngưng",
+      "choices": [
+        "ngưng",
+        "tiếp tục",
+        "bắt đầu"
+      ],
+      "hint": "g___n",
+      "answer": "ngưng",
+      "translatedAnswer": {
+        "en": "stop"
+      },
+      "translation": {
+        "en": "Do you want to stop talking?"
+      }
+    },
+    "createdAt": "2025-03-12T15:18:37.767Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "c189b06d-5c0c-4100-96bf-d57db9ae7884",
+    "updatedAt": "2025-03-12T15:18:37.767Z"
+  },
+  "updatedAt": "2026-03-03T10:40:05.515Z",
+  "exampleSentences": [
+    "Anh có thể ngưng nói chuyện một chút để lắng nghe không?",
+    "Chị ấy quyết định ngưng làm việc khi cảm thấy mệt.",
+    "Em nên ngưng ăn kẹo nếu bị đau họng."
+  ],
+  "notes": "Ngưng = to stop doing something, to cease. It’s used when an action doesn’t continue anymore.\n\nYou usually put it before a verb: ngưng + V (ngưng học, ngưng sử dụng). It can also go with a noun that implies an activity: ngưng công việc, ngưng dịch vụ.  \n\nClose to dừng and thôi. Dừng is often for temporary stopping; thôi feels more like “quit/that’s enough.” In the South, people use ngưng more often in everyday speech than in the North.",
+  "definition": "stop",
+  "flashcard": {
+    "example": {
+      "en": "Please stop talking in class.",
+      "vi": "Xin hãy ngưng nói chuyện trong lớp.",
+      "es": "Por favor, deja de hablar en clase."
+    },
+    "definitions": {
+      "es": "detener o cesar una acción",
+      "vi": "dừng lại hoặc ngừng một hành động",
+      "en": "to stop or cease an action"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:53:27.659Z",
+    "translations": {
+      "es": "detener",
+      "vi": "ngưng",
+      "en": "stop"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you stop talking for a moment to listen?",
+    "She decided to stop working when she felt tired.",
+    "You should stop eating candy if you have a sore throat."
+  ],
+  "fillBlankQuiz": {
+    "id": "e2763f2b-3176-4027-a117-b07cf39f980f",
+    "content": {
+      "translation": {
+        "en": "I want to stop doing this."
+      },
+      "translatedAnswer": {
+        "en": "stop"
+      },
+      "answer": "ngưng",
+      "choices": [],
+      "word": "ngưng",
+      "sentence": "Tôi muốn ___ làm việc này.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:37.767Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:18:37.767Z"
+  },
+  "_id": "bolunfrGJmAEqhU9Tc79"
+}

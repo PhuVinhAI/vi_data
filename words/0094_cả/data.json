@@ -1,0 +1,104 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "ad24e7a1-3824-448a-a909-a7c4068ec3ff",
+    "updatedAt": "2025-03-12T13:41:37.698Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "both"
+      },
+      "sentence": "Tôi ___ biết điều đó.",
+      "word": "cả",
+      "language": "vi",
+      "hint": "c__",
+      "choices": [
+        "tất cả",
+        "một",
+        "cả"
+      ],
+      "translation": {
+        "en": "I know that both."
+      },
+      "answer": "cả"
+    },
+    "createdAt": "2025-03-12T13:41:37.698Z"
+  },
+  "notes_md": "**cả** means **all / the whole / both**. It adds the idea of “including everything” or “not leaving anything out.”\n\nIt goes before a noun or noun phrase to emphasize totality: the whole thing, the whole group, the whole time.  \n\nIt’s stronger than just listing things — it stresses completeness.  \nVery close to **tất cả**, but **cả** is shorter and often more flexible in sentences.",
+  "flashcard": {
+    "example": {
+      "en": "My whole family loves to eat pho.",
+      "es": "Toda mi familia ama comer pho.",
+      "vi": "Cả nhà tôi đều thích ăn phở."
+    },
+    "createdAt": "2025-01-28T12:23:46.402Z",
+    "translations": {
+      "en": "whole",
+      "es": "todo",
+      "vi": "cả"
+    },
+    "definitions": {
+      "en": "The whole; all; entire.",
+      "vi": "Toàn bộ; tất cả; toàn thể.",
+      "es": "El todo; todos; entero."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I buy all the bread and milk.",
+    "He reads all the books and newspapers.",
+    "He takes all the shirts and pants."
+  ],
+  "notes": "cả means all / the whole / both. It adds the idea of “including everything” or “not leaving anything out.”\n\nIt goes before a noun or noun phrase to emphasize totality: the whole thing, the whole group, the whole time.  \n\nIt’s stronger than just listing things — it stresses completeness.  \nVery close to tất cả, but cả is shorter and often more flexible in sentences.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "02cdf751-98cf-4009-8730-672f3eeb7559",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:41:37.698Z",
+    "createdAt": "2025-03-12T13:41:37.698Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "both"
+      },
+      "sentence": "Tôi ___ biết điều đó.",
+      "word": "cả",
+      "language": "vi",
+      "choices": [],
+      "answer": "cả",
+      "translation": {
+        "en": "I know that both."
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T06:12:35.566Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mỗi",
+    "mọi",
+    "cả"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Em (I) + mua (buy) + cả (all) + bánh (bread) + và (and) + sữa (milk)",
+    "Anh (he) + đọc (read) + cả (all) + sách (books) + và (and) + báo (newspapers)",
+    "Anh (he) + lấy (take) + cả (all) + áo (shirts) + và (and) + quần (pants)"
+  ],
+  "definition": "all",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cả",
+  "rank": 94,
+  "exampleSentences": [
+    "Em mua cả bánh và sữa.",
+    "Anh đọc cả sách và báo.",
+    "Anh lấy cả áo và quần."
+  ],
+  "_id": "DpDdXaNcuZRKDNr7d3yF"
+}

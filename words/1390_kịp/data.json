@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:30:19.936Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "kịp",
+      "sentence": "Tôi phải ___ giờ làm việc.",
+      "language": "vi",
+      "choices": [
+        "kịp",
+        "kịps",
+        "KỊP"
+      ],
+      "hint": "k___p",
+      "answer": "kịp",
+      "translation": {
+        "en": "I have to be on time for work."
+      },
+      "translatedAnswer": {
+        "en": "on time"
+      }
+    },
+    "id": "5dfdac2c-d297-46e5-ad98-882aa5e1a1b3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:30:19.936Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1390,
+  "choices": [
+    "kịp",
+    "chậm",
+    "muộn"
+  ],
+  "notes_md": "**kịp** = to be in time, to make it before it’s too late. It’s about timing — not missing the moment.\n\nIt usually goes before a verb or time expression to show you still have enough time to do something.  \n\nVery often used in negative form **không kịp** = not in time / too late to do something.  \nIt can also mean “keep up with” in speed or ability (không kịp người khác).  \n\nClose idea: **đúng giờ** (on time) — but *kịp* focuses more on “not too late,” not exact punctuality.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "kịp",
+  "exampleSentencesTranslated": [
+    "This morning I woke up late but still got to school in time.",
+    "I try to finish my homework before time runs out so I can submit in time.",
+    "We have to go quickly to get to the bus station in time for the last trip."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:30:19.936Z",
+    "content": {
+      "word": "kịp",
+      "language": "vi",
+      "sentence": "Tôi phải ___ giờ làm việc.",
+      "answer": "kịp",
+      "translation": {
+        "en": "I have to be on time for work."
+      },
+      "translatedAnswer": {
+        "en": "on time"
+      }
+    },
+    "id": "b56c2ec2-8b5d-471f-b12f-9a909d50299c",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:30:19.936Z"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:05:19.716Z",
+    "translations": {
+      "es": "a tiempo",
+      "vi": "kịp",
+      "en": "in time"
+    },
+    "example": {
+      "es": "Pude llegar a la reunión a tiempo.",
+      "vi": "Tôi đã kịp đến buổi họp.",
+      "en": "I was able to make it to the meeting."
+    },
+    "definitions": {
+      "en": "To be in time; to catch up.",
+      "es": "Estar a tiempo; alcanzar.",
+      "vi": "Đến đúng lúc; theo kịp."
+    }
+  },
+  "definition": "in time",
+  "notes": "kịp = to be in time, to make it before it’s too late. It’s about timing — not missing the moment.\n\nIt usually goes before a verb or time expression to show you still have enough time to do something.  \n\nVery often used in negative form không kịp = not in time / too late to do something.  \nIt can also mean “keep up with” in speed or ability (không kịp người khác).  \n\nClose idea: đúng giờ (on time) — but kịp focuses more on “not too late,” not exact punctuality.",
+  "exampleSentences": [
+    "Sáng nay anh dậy muộn nhưng vẫn đến trường kịp.",
+    "Em cố gắng hoàn thành bài tập trước khi hết giờ để nộp kịp.",
+    "Chúng ta phải đi nhanh mới đến bến xe kịp chuyến cuối."
+  ],
+  "updatedAt": "2026-03-03T08:44:44.477Z",
+  "_id": "eygU35UZ0EhGQqjXK9ty"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "positive",
+  "rank": 652,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta cần có một thái độ tích cực trong cuộc sống.",
+      "en": "We need to have a positive attitude in life.",
+      "es": "Necesitamos tener una actitud positiva en la vida."
+    },
+    "translations": {
+      "en": "positive",
+      "vi": "tích cực",
+      "es": "positivo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Characterized by or displaying positivity; optimistic.",
+      "vi": "Đặc trưng bởi hoặc thể hiện sự tích cực; lạc quan.",
+      "es": "Caracterizado por o que muestra positividad; optimista."
+    },
+    "createdAt": "2025-01-28T10:46:30.340Z"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "eb42c035-7766-4bef-a900-3334544f85b6",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to think positively in all situations."
+      },
+      "choices": [
+        "tiêu cực",
+        "tích cực",
+        "bình thường"
+      ],
+      "word": "tích cực",
+      "translatedAnswer": {
+        "en": "positively"
+      },
+      "language": "vi",
+      "hint": "t___c",
+      "sentence": "Chúng ta cần suy nghĩ ___ trong mọi tình huống.",
+      "answer": "tích cực"
+    },
+    "createdAt": "2025-03-12T13:04:38.175Z",
+    "updatedAt": "2025-03-12T13:04:38.175Z"
+  },
+  "exampleSentences": [
+    "Chị luôn giữ thái độ tích cực khi gặp khó khăn trong công việc.",
+    "Anh ấy rất tích cực tham gia các hoạt động của lớp.",
+    "Để khỏe mạnh, em nên có lối sống tích cực hơn mỗi ngày."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "tích cực = positive in attitude, thinking, or effect. It can also mean active or proactive, not passive.\n\nIt describes people, attitudes, actions, or results (like thái độ, suy nghĩ, tác động). You use it after the noun it describes: thái độ tích cực, kết quả tích cực.\n\nOpposite: tiêu cực (negative, pessimistic).  \nYou can also say sự tích cực when you turn it into a noun (“positivity”).",
+  "choices": [
+    "tích cực",
+    "tiêu cực",
+    "ổn định"
+  ],
+  "word": "tích cực",
+  "notes_md": "**tích cực** = positive in attitude, thinking, or effect. It can also mean active or proactive, not passive.\n\nIt describes people, attitudes, actions, or results (like thái độ, suy nghĩ, tác động). You use it after the noun it describes: *thái độ tích cực*, *kết quả tích cực*.\n\n\nOpposite: **tiêu cực** (negative, pessimistic).  \nYou can also say **sự tích cực** when you turn it into a noun (“positivity”).",
+  "exampleSentencesTranslated": [
+    "She always keeps a positive attitude when facing difficulties at work.",
+    "He is very positive about participating in class activities.",
+    "To be healthy, you should have a more positive lifestyle every day."
+  ],
+  "updatedAt": "2026-03-03T07:26:58.012Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "e7e0437b-2c17-41bf-80af-4fc947408563",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "tích cực",
+      "sentence": "Tôi luôn suy nghĩ ___.",
+      "translatedAnswer": {
+        "en": "positively"
+      },
+      "language": "vi",
+      "word": "tích cực",
+      "choices": [],
+      "translation": {
+        "en": "I always think positively."
+      }
+    },
+    "createdAt": "2025-03-12T13:04:38.175Z",
+    "updatedAt": "2025-03-12T13:04:38.175Z"
+  },
+  "_id": "4EREZumvM0fJjGGypM02"
+}

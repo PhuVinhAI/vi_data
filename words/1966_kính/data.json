@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I just cleaned the window with a cloth and some glass.",
+    "Don’t touch the glass because you might leave fingerprints.",
+    "I saw the car door’s glass was broken after the heavy rain."
+  ],
+  "rank": 1966,
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "glasses"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần mua ___ mới.",
+      "hint": "k___",
+      "translation": {
+        "en": "I need to buy new glasses."
+      },
+      "answer": "kính",
+      "word": "kính",
+      "choices": [
+        "kính",
+        "mũ",
+        "giày"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:33:22.789Z",
+    "id": "e40a6041-285c-4e58-9d96-657e51a45019",
+    "createdAt": "2025-03-12T14:33:22.789Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "kính",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:46:21.857Z",
+  "choices": [
+    "gỗ",
+    "kính",
+    "đá"
+  ],
+  "notes": "kính = glass (the material). It’s an uncountable noun when you mean the material, but countable when you mean a piece/pane: một tấm kính, một miếng kính.\n\nIt’s also very common to mean glasses (eyewear): kính mắt, kính cận, kính râm. In this sense, you usually don’t need a classifier: đeo kính, mất kính.\n\nAnother common meaning (more formal) is to respect someone: kính trọng. This is often seen in polite writing or speech, like letters (Kính gửi…).\n\nMemory tip: think “kính” = something clear (glass) or showing clear respect.",
+  "flashcard": {
+    "translations": {
+      "es": "gafas",
+      "en": "glasses",
+      "vi": "kính"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Uso gafas cuando leo.",
+      "en": "I wear glasses when reading.",
+      "vi": "Tôi đeo kính khi đọc sách."
+    },
+    "createdAt": "2025-01-28T12:09:01.757Z",
+    "definitions": {
+      "vi": "Một cặp thấu kính được đặt trong một khung, nằm trên mũi và tai, được sử dụng để điều chỉnh thị lực.",
+      "en": "A pair of lenses set in a frame that rests on the nose and ears, used to correct vision.",
+      "es": "Un par de lentes montados en un marco que descansa sobre la nariz y las orejas, utilizados para corregir la visión."
+    }
+  },
+  "exampleSentences": [
+    "Anh vừa lau sạch cửa sổ bằng một miếng vải và nước kính.",
+    "Chị đừng chạm tay vào kính vì có thể để lại dấu vân tay.",
+    "Em thấy kính của cửa xe hơi bị vỡ sau cơn mưa lớn."
+  ],
+  "notes_md": "**kính** = glass (the material). It’s an uncountable noun when you mean the material, but countable when you mean a piece/pane: *một tấm kính*, *một miếng kính*.\n\nIt’s also very common to mean **glasses** (eyewear): *kính mắt*, *kính cận*, *kính râm*. In this sense, you usually don’t need a classifier: *đeo kính*, *mất kính*.\n\nAnother common meaning (more formal) is **to respect** someone: *kính trọng*. This is often seen in polite writing or speech, like letters (*Kính gửi…*).\n\nMemory tip: think “kính” = something clear (glass) or showing clear respect.",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I wear glasses when reading books."
+      },
+      "answer": "kính",
+      "choices": [],
+      "word": "kính",
+      "translatedAnswer": {
+        "en": "glasses"
+      },
+      "language": "vi",
+      "sentence": "Tôi đeo ___ khi đọc sách."
+    },
+    "updatedAt": "2025-03-12T14:33:22.789Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:33:22.789Z",
+    "id": "7fdd5756-6b99-40f8-8e29-0bd3b1ebeee4",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "glass",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "QX2StVwJGu3igItUPvBe"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "become",
+  "word": "thành",
+  "rank": 253,
+  "exampleSentences": [
+    "Nếu em cố gắng học mỗi ngày, em sẽ thành người giỏi.",
+    "Anh hy vọng dự án này sẽ thành công như mong đợi.",
+    "Chị muốn thành một bác sĩ để giúp đỡ mọi người."
+  ],
+  "choices": [
+    "thắng",
+    "thành",
+    "thăm"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**thành** = *to become*, to turn into something different (usually a new state or role).\n\nIt’s a verb used before a noun to show a change or result. Very common with jobs, roles, or results.  \n\nIt often focuses on the final result, not the process.  \nClose synonym: **trở thành** (a bit more formal/neutral).  \n\nAlso very common in the fixed phrase **thành công** = to succeed.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "6af7c16c-76ef-4e47-a3e1-fc59e41ccc44",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:45:41.633Z",
+    "content": {
+      "hint": "th___",
+      "choices": [
+        "thành",
+        "bình",
+        "hòa"
+      ],
+      "translation": {
+        "en": "They will build a new city."
+      },
+      "answer": "thành",
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "language": "vi",
+      "word": "thành",
+      "sentence": "Họ sẽ ___ phố mới."
+    },
+    "createdAt": "2025-03-12T13:45:41.633Z"
+  },
+  "exampleSentencesTranslated": [
+    "If you try to study every day, you will become someone good.",
+    "He hopes this project will become successful as expected.",
+    "She wants to become a doctor to help people."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi muốn thành công trong cuộc sống.",
+      "es": "Quiero tener éxito en la vida.",
+      "en": "I want to succeed in life."
+    },
+    "createdAt": "2025-01-28T11:24:04.435Z",
+    "translations": {
+      "en": "succeed",
+      "vi": "thành công",
+      "es": "tener éxito"
+    },
+    "definitions": {
+      "en": "to succeed or to become something.",
+      "vi": "để thành công hoặc trở thành một cái gì đó.",
+      "es": "tener éxito o convertirse en algo."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "bb1e5462-ebbe-4eb0-b7b8-77c1ae7477a7",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:45:41.633Z",
+    "createdAt": "2025-03-12T13:45:41.633Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to build a house."
+      },
+      "answer": "thành",
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "sentence": "Tôi muốn ___ một ngôi nhà.",
+      "word": "thành",
+      "language": "vi"
+    }
+  },
+  "notes": "thành = to become, to turn into something different (usually a new state or role).\n\nIt’s a verb used before a noun to show a change or result. Very common with jobs, roles, or results.  \n\nIt often focuses on the final result, not the process.  \nClose synonym: trở thành (a bit more formal/neutral).  \n\nAlso very common in the fixed phrase thành công = to succeed.",
+  "updatedAt": "2026-03-03T06:46:11.048Z",
+  "_id": "EwsWjQZRFw9DosZ0Rj1S"
+}

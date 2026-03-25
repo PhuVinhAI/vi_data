@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:35:24.602Z",
+    "id": "901ce1d8-9bea-404f-b179-e4ea8c9a0a52",
+    "content": {
+      "choices": [],
+      "word": "bằng",
+      "translation": {
+        "en": "She goes to school by bicycle."
+      },
+      "answer": "bằng",
+      "sentence": "Cô ấy đi học ___ xe đạp.",
+      "translatedAnswer": {
+        "en": "by"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:35:24.602Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "equal",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "degree",
+      "vi": "bằng",
+      "es": "título"
+    },
+    "createdAt": "2025-01-28T12:10:43.389Z",
+    "definitions": {
+      "es": "Un documento que certifica la finalización de un curso de estudios.",
+      "en": "A document certifying the completion of a course of study.",
+      "vi": "Một tài liệu chứng nhận việc hoàn thành một khóa học."
+    },
+    "example": {
+      "es": "Tengo un título universitario.",
+      "en": "I have a university degree.",
+      "vi": "Tôi có bằng đại học."
+    }
+  },
+  "exampleSentences": [
+    "Anh nghĩ kết quả của hai đội là bằng nhau sau trận đấu này.",
+    "Chị muốn chia phần bánh cho mọi người bằng nhau nhé.",
+    "Em và bạn em có điểm số bằng nhau trong bài kiểm tra toán."
+  ],
+  "notes_md": "**bằng** usually means **equal** or **the same as**. It’s used to compare two things at the same level.\n\nAs an adjective/verb, it links two nouns: one thing equals another.  \n\nIn comparisons, it means **“as … as.”**  \n\nVery common opposite: **hơn** (more than).  \n**bằng nhau** = equal to each other.",
+  "choices": [
+    "bằng",
+    "lớn",
+    "khác"
+  ],
+  "notes": "bằng usually means equal or the same as. It’s used to compare two things at the same level.\n\nAs an adjective/verb, it links two nouns: one thing equals another.  \n\nIn comparisons, it means “as … as.”  \n\nVery common opposite: hơn (more than).  \nbằng nhau = equal to each other.",
+  "word": "bằng",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:35:24.602Z",
+    "id": "ac19ca4e-9a26-4312-a0eb-090a62d478e8",
+    "content": {
+      "sentence": "Tôi học ___ tiếng Anh.",
+      "translatedAnswer": {
+        "en": "by"
+      },
+      "language": "vi",
+      "hint": "b___g",
+      "translation": {
+        "en": "I study by English."
+      },
+      "answer": "bằng",
+      "word": "bằng",
+      "choices": [
+        "bằng",
+        "của",
+        "cho"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:35:24.602Z"
+  },
+  "rank": 200,
+  "exampleSentencesTranslated": [
+    "I think the results of the two teams are equal after this match.",
+    "I want to divide the cake so that everyone gets an equal share.",
+    "My friend and I have equal scores on the math test."
+  ],
+  "updatedAt": "2026-03-03T06:40:36.779Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "QqSoICbB5WrVPi5raHps"
+}

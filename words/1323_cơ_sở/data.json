@@ -1,0 +1,99 @@
+{
+  "rank": 1323,
+  "exampleSentences": [
+    "Anh đang làm việc tại một cơ sở mới xây dựng gần đây.",
+    "Chị muốn tham quan cơ sở sản xuất để hiểu rõ quy trình hơn.",
+    "Em thấy cơ sở này rất sạch sẽ và hiện đại."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:55:12.716Z",
+    "definitions": {
+      "en": "A foundation or basis for something; an institution or establishment.",
+      "es": "Una base o fundamento para algo; una institución o establecimiento.",
+      "vi": "Một nền tảng hoặc cơ sở cho một cái gì đó; một tổ chức hoặc cơ sở."
+    },
+    "translations": {
+      "en": "institution",
+      "vi": "cơ sở",
+      "es": "institución"
+    },
+    "example": {
+      "en": "The school is an important educational institution.",
+      "es": "La escuela es una institución educativa importante.",
+      "vi": "Trường học là một cơ sở giáo dục quan trọng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cơ sở",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "cơ sở",
+        "hệ thống",
+        "phương pháp"
+      ],
+      "translation": {
+        "en": "The school is an educational base."
+      },
+      "sentence": "Trường học là ___ giáo dục.",
+      "hint": "c___",
+      "word": "cơ sở",
+      "answer": "cơ sở",
+      "translatedAnswer": {
+        "en": "base"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "70928970-4745-4284-9d0f-ef895549894f",
+    "createdAt": "2025-03-12T14:18:44.179Z",
+    "updatedAt": "2025-03-12T14:18:44.179Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Cơ sở** usually means a *facility* or *establishment* — a place where work, services, or production happen.\n\nIt’s a countable noun: *một cơ sở, các cơ sở*. Common pairings: *cơ sở sản xuất* (production facility), *cơ sở y tế* (medical facility), *cơ sở giáo dục* (educational institution).  \n\nIt also very often means *basis/foundation* in an abstract sense, like *cơ sở pháp lý* (legal basis), *cơ sở dữ liệu* (database), *có cơ sở* = well-founded.  \n\nStrong memory link: think “base” — both a physical base (facility) and a logical base (foundation).",
+  "updatedAt": "2026-03-03T08:37:20.365Z",
+  "choices": [
+    "cơ sở",
+    "khu vực",
+    "phòng ban"
+  ],
+  "notes": "Cơ sở usually means a facility or establishment — a place where work, services, or production happen.\n\nIt’s a countable noun: một cơ sở, các cơ sở. Common pairings: cơ sở sản xuất (production facility), cơ sở y tế (medical facility), cơ sở giáo dục (educational institution).  \n\nIt also very often means basis/foundation in an abstract sense, like cơ sở pháp lý (legal basis), cơ sở dữ liệu (database), có cơ sở = well-founded.  \n\nStrong memory link: think “base” — both a physical base (facility) and a logical base (foundation).",
+  "exampleSentencesTranslated": [
+    "I am working at a newly built facility nearby.",
+    "She wants to visit the production facility to understand the process better.",
+    "I think this facility is very clean and modern."
+  ],
+  "fillBlankQuiz": {
+    "id": "9835b25a-01ed-4bb3-938c-db1dc7245a87",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "We have a base here."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "cơ sở",
+      "sentence": "Chúng tôi có ___ ở đây.",
+      "translatedAnswer": {
+        "en": "base"
+      },
+      "answer": "cơ sở"
+    },
+    "updatedAt": "2025-03-12T14:18:44.179Z",
+    "createdAt": "2025-03-12T14:18:44.179Z"
+  },
+  "definition": "facility",
+  "_id": "MjZcHBQdNhjz38zfCTlL"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:54:55.057Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chính thức",
+      "es": "oficial",
+      "en": "official"
+    },
+    "definitions": {
+      "en": "Official; formal; recognized by authority.",
+      "es": "Oficial; formal; reconocido por la autoridad.",
+      "vi": "Chính thức; chính quyền; được công nhận bởi cơ quan có thẩm quyền."
+    },
+    "createdAt": "2025-01-28T13:26:40.782Z",
+    "example": {
+      "vi": "Buổi lễ khai trương sẽ diễn ra chính thức vào thứ Bảy.",
+      "en": "The opening ceremony will officially take place on Saturday.",
+      "es": "La ceremonia de apertura se llevará a cabo oficialmente el sábado."
+    }
+  },
+  "word": "chính thức",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The meeting will start at 9 a.m. official.",
+    "Tomorrow is the official opening day of the new store.",
+    "I have received the official invitation from the university."
+  ],
+  "notes_md": "**chính thức** = official, formally recognized or approved. It’s used for things that are public, confirmed, or legally valid.\n\nAs an adjective, it usually comes **after the noun** and describes events, documents, decisions, titles, etc. It can also act like an adverb before a verb, meaning “officially.”\n\n\nOpposite: **không chính thức** (informal, unofficial). Close idea: **trang trọng** = formal in style (but more about tone, not legal status).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:54:30.337Z",
+    "updatedAt": "2025-03-12T15:54:30.337Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "official"
+      },
+      "answer": "chính thức",
+      "sentence": "Buổi họp sẽ được ___ vào thứ Sáu.",
+      "choices": [
+        "chính thức",
+        "tạm thời",
+        "khẩn cấp"
+      ],
+      "hint": "c___h thức",
+      "translation": {
+        "en": "The meeting will be official on Friday."
+      },
+      "word": "chính thức",
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "517ea6df-311c-4487-8597-9384415a8a3b"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2049,
+  "notes": "chính thức = official, formally recognized or approved. It’s used for things that are public, confirmed, or legally valid.\n\nAs an adjective, it usually comes after the noun and describes events, documents, decisions, titles, etc. It can also act like an adverb before a verb, meaning “officially.”\n\nOpposite: không chính thức (informal, unofficial). Close idea: trang trọng = formal in style (but more about tone, not legal status).",
+  "definition": "official",
+  "exampleSentences": [
+    "Cuộc họp sẽ bắt đầu vào lúc 9 giờ sáng chính thức.",
+    "Ngày mai là ngày khai trương chính thức của cửa hàng mới.",
+    "Em đã nhận được thư mời chính thức từ trường đại học."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chính thức",
+    "quan trọng",
+    "riêng tư"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:54:30.337Z",
+    "updatedAt": "2025-03-12T15:54:30.337Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "The meeting will be official on Friday."
+      },
+      "word": "chính thức",
+      "translatedAnswer": {
+        "en": "official"
+      },
+      "answer": "chính thức",
+      "sentence": "Buổi họp sẽ được ___ vào thứ Sáu.",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "b06e7bfa-24ec-4620-84b7-eb538fe28d71"
+  },
+  "_id": "kebAUVvht0fMTpmlE7id"
+}

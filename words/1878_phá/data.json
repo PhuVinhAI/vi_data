@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "f895e235-0c3a-4807-98a2-f39356004bfa",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:45:49.216Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I do not want to break the party."
+      },
+      "answer": "phá",
+      "translatedAnswer": {
+        "en": "break"
+      },
+      "language": "vi",
+      "word": "phá",
+      "sentence": "Tôi không muốn ___ bữa tiệc."
+    },
+    "createdAt": "2025-03-12T13:45:49.216Z"
+  },
+  "notes": "phá = to destroy or break something so it’s damaged or ruined. It can be physical (objects, buildings) or more abstract (plans, mood).\n\nIt’s a verb, so you use it directly with an object: you phá something. It often combines with nouns like phá hỏng (break/ruin), phá vỡ (break apart), or phá kỷ lục (break a record).\n\nIt can also mean “mess up” or “spoil” something, not just physically destroy it. Close synonym: làm hỏng (make broken); opposite ideas: sửa (fix), xây (build).",
+  "updatedAt": "2026-03-03T09:36:44.204Z",
+  "notes_md": "**phá** = to destroy or break something so it’s damaged or ruined. It can be physical (objects, buildings) or more abstract (plans, mood).\n\nIt’s a verb, so you use it directly with an object: you *phá* something. It often combines with nouns like **phá hỏng** (break/ruin), **phá vỡ** (break apart), or **phá kỷ lục** (break a record).\n\n\nIt can also mean “mess up” or “spoil” something, not just physically destroy it. Close synonym: **làm hỏng** (make broken); opposite ideas: **sửa** (fix), **xây** (build).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:45:49.216Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "breaking"
+      },
+      "language": "vi",
+      "word": "phá",
+      "sentence": "Họ sợ ___ quy tắc.",
+      "hint": "p__",
+      "choices": [
+        "giữ",
+        "phá",
+        "thay đổi"
+      ],
+      "translation": {
+        "en": "They fear breaking the rules."
+      },
+      "answer": "phá"
+    },
+    "updatedAt": "2025-03-12T13:45:49.216Z",
+    "id": "b106da9e-70d2-492e-b2d5-0e45667cda81",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "You should not destroy other people's toys because that is not good.",
+    "He destroyed the old watch to see what was inside.",
+    "If we destroy the rules, we will be punished very seriously."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "phá",
+      "es": "romper",
+      "en": "break"
+    },
+    "example": {
+      "en": "They broke the window.",
+      "es": "Ellos rompieron la ventana.",
+      "vi": "Họ đã phá vỡ cửa sổ."
+    },
+    "createdAt": "2025-01-28T11:24:11.707Z",
+    "definitions": {
+      "en": "to break or destroy something",
+      "vi": "phá vỡ hoặc phá hủy một cái gì đó",
+      "es": "romper o destruir algo"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "phá",
+  "rank": 1878,
+  "exampleSentences": [
+    "Em không nên phá đồ chơi của người khác vì như vậy không tốt.",
+    "Anh ấy đã phá cái đồng hồ cũ để xem bên trong có gì.",
+    "Nếu mình phá luật lệ, sẽ bị phạt rất nặng đấy."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "destroy",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "phá",
+    "giữ",
+    "xây"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "EynDYMNbPH58lp46QJC8"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "trở về",
+      "answer": "trở về",
+      "translation": {
+        "en": "I want to return home after a long time."
+      },
+      "translatedAnswer": {
+        "en": "return"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn ___ nhà sau một thời gian dài."
+    },
+    "updatedAt": "2025-03-12T14:35:10.708Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:35:10.708Z",
+    "id": "ab6367c6-4f28-4c88-b393-92d9e03cb512",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "return",
+  "flashcard": {
+    "example": {
+      "es": "Volveré a casa este fin de semana.",
+      "en": "I will return home this weekend.",
+      "vi": "Tôi sẽ trở về nhà vào cuối tuần."
+    },
+    "definitions": {
+      "es": "regresar; volver",
+      "vi": "trở lại; quay về",
+      "en": "to return; to come back"
+    },
+    "createdAt": "2025-01-28T12:10:31.511Z",
+    "translations": {
+      "vi": "trở về",
+      "en": "return",
+      "es": "regresar"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**trở về** = to return, to go back to a place you were before.\n\nIt’s a verb, usually used for going back home, to your hometown, your country, or a previous state. It sounds a bit more emotional or formal than just **về** (which is more casual: “go home”).  \n\n\nYou’ll also see it in abstract ideas like returning to a feeling, memory, or past time. Close synonym: **quay về** (very similar, slightly more about turning back).",
+  "exampleSentences": [
+    "Khi kết thúc chuyến công tác, anh sẽ trở về nhà với gia đình.",
+    "Chị ấy rất vui khi được trở về quê thăm bố mẹ vào cuối tuần.",
+    "Sau nhiều năm sống ở nước ngoài, em quyết định trở về Việt Nam làm việc."
+  ],
+  "choices": [
+    "rời khỏi",
+    "đi tới",
+    "trở về"
+  ],
+  "notes": "trở về = to return, to go back to a place you were before.\n\nIt’s a verb, usually used for going back home, to your hometown, your country, or a previous state. It sounds a bit more emotional or formal than just về (which is more casual: “go home”).  \n\nYou’ll also see it in abstract ideas like returning to a feeling, memory, or past time. Close synonym: quay về (very similar, slightly more about turning back).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:35:10.708Z",
+    "content": {
+      "sentence": "Chúng ta sẽ ___ vào cuối tuần này.",
+      "translatedAnswer": {
+        "en": "return"
+      },
+      "language": "vi",
+      "word": "trở về",
+      "choices": [
+        "trở về",
+        "đi ra",
+        "ở lại"
+      ],
+      "hint": "tr___ về",
+      "answer": "trở về",
+      "translation": {
+        "en": "We will return this weekend."
+      }
+    },
+    "id": "d3ba3316-b0e7-4135-ac73-696eee7ef50d",
+    "createdAt": "2025-03-12T14:35:10.708Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "trở về",
+  "rank": 1140,
+  "exampleSentencesTranslated": [
+    "When the business trip ends, he will return home to his family.",
+    "She is very happy to return to her hometown to visit her parents on the weekend.",
+    "After many years living abroad, I decided to return to Vietnam to work."
+  ],
+  "updatedAt": "2026-03-03T08:17:10.994Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "QonxBYQoNUK2VkWIfpoY"
+}

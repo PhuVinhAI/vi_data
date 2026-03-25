@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Trời hôm nay đẹp quá, anh thấy vậy nhỉ?",
+    "Chúng ta sẽ gặp nhau lúc 7 giờ, đúng nhỉ?",
+    "Bài hát này hay thật, em cũng thích nó nhỉ?"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Hôm nay trời đẹp, nhỉ?",
+      "es": "El clima está bonito hoy, ¿verdad?",
+      "en": "The weather is nice today, isn't it?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nhỉ",
+      "es": "¿verdad?",
+      "en": "isn't it"
+    },
+    "definitions": {
+      "es": "Una partícula utilizada al final de una oración para buscar confirmación o acuerdo.",
+      "vi": "Một từ được sử dụng ở cuối câu để tìm kiếm sự xác nhận hoặc đồng ý.",
+      "en": "A particle used at the end of a sentence to seek confirmation or agreement."
+    },
+    "createdAt": "2025-01-28T11:39:07.268Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 550,
+  "notes": "nhỉ is a soft question tag like “right?”, “yeah?”, or “isn’t it?” in English. You use it to check agreement or gently confirm something you think is true.\n\nIt usually goes at the end of a sentence to make it sound softer and more friendly. It turns a statement into a light confirmation question.\n\nIt shows you expect the other person to agree. Similar feeling to đúng không?, but nhỉ is softer and more natural in casual speech.",
+  "exampleSentencesTranslated": [
+    "The weather is beautiful today, right?",
+    "We will meet at 7 o'clock, right?",
+    "This song is really good, you like it too, right?"
+  ],
+  "choices": [
+    "nhé",
+    "nhỉ",
+    "này"
+  ],
+  "updatedAt": "2026-03-03T07:17:13.148Z",
+  "definition": "right",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "You also like this dish, right?"
+      },
+      "sentence": "Bạn cũng thích món này ___?",
+      "word": "nhỉ",
+      "answer": "nhỉ",
+      "translatedAnswer": {
+        "en": "right"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "d59da9ba-128a-4ebd-870e-86b225e0ca51",
+    "createdAt": "2025-03-12T14:01:09.058Z",
+    "updatedAt": "2025-03-12T14:01:09.058Z"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:01:09.058Z",
+    "updatedAt": "2025-03-12T14:01:09.058Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Bạn cũng thích món này ___?",
+      "hint": "n__",
+      "word": "nhỉ",
+      "choices": [
+        "đúng",
+        "nhỉ",
+        "sai"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "You also like this dish, right?"
+      },
+      "answer": "nhỉ",
+      "translatedAnswer": {
+        "en": "right"
+      }
+    },
+    "id": "0a24f118-5bc6-4ba3-961b-db4cceb9662e"
+  },
+  "word": "nhỉ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nhỉ** is a soft question tag like “right?”, “yeah?”, or “isn’t it?” in English. You use it to check agreement or gently confirm something you think is true.\n\nIt usually goes at the **end of a sentence** to make it sound softer and more friendly. It turns a statement into a light confirmation question.\n\n\nIt shows you expect the other person to agree. Similar feeling to **đúng không?**, but **nhỉ** is softer and more natural in casual speech.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "Iwg3AtFSoxHnJ4Cj8Lz2"
+}

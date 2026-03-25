@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:04:31.913Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "edc37802-74c5-4ada-9574-950c24a20fd9",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "gắn kết",
+      "language": "vi",
+      "word": "gắn kết",
+      "choices": [],
+      "translation": {
+        "en": "We need connection in the group."
+      },
+      "translatedAnswer": {
+        "en": "connection"
+      },
+      "sentence": "Chúng ta cần ___ trong nhóm."
+    },
+    "updatedAt": "2025-03-12T16:04:31.913Z"
+  },
+  "word": "gắn kết",
+  "multiChoiceQuiz": {
+    "id": "911b7b4b-4300-4afb-89b3-32a654ab6749",
+    "createdAt": "2025-03-12T16:04:31.913Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:04:31.913Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "gắn kết",
+      "answer": "gắn kết",
+      "language": "vi",
+      "choices": [
+        "gắn kết",
+        "liên kết",
+        "kết nối"
+      ],
+      "translation": {
+        "en": "We need connection in the group."
+      },
+      "translatedAnswer": {
+        "en": "connection"
+      },
+      "hint": "g___k",
+      "sentence": "Chúng ta cần ___ trong nhóm."
+    }
+  },
+  "definition": "connect",
+  "notes_md": "**gắn kết** = to connect or bond people together emotionally or socially. It’s about building closeness, not just linking things physically.\n\nUsed for relationships, teams, families, communities. You often use it when talking about improving relationships or creating unity.\n\n\nClose synonym: **kết nối** (more neutral, can be tech/abstract too). Opposite idea: **xa cách** (distant, not close).",
+  "rank": 1913,
+  "updatedAt": "2026-03-03T09:40:20.896Z",
+  "exampleSentencesTranslated": [
+    "I want to connect more with everyone in the company.",
+    "My family always tries to connect on the weekends.",
+    "I think group activities help us connect better."
+  ],
+  "exampleSentences": [
+    "Anh muốn gắn kết với mọi người trong công ty hơn.",
+    "Gia đình em luôn cố gắng gắn kết vào cuối tuần.",
+    "Chị nghĩ hoạt động nhóm giúp chúng ta gắn kết tốt hơn."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "gắn kết",
+    "chia sẻ",
+    "bắt đầu"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Kết nối hoặc gắn bó với nhau; hợp nhất.",
+      "en": "To connect or bond together; to unite.",
+      "es": "Conectar o unir juntos; unirse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:35:50.108Z",
+    "translations": {
+      "es": "unir",
+      "en": "bond",
+      "vi": "gắn kết"
+    },
+    "example": {
+      "es": "Necesitamos unirnos más para alcanzar nuestros objetivos.",
+      "en": "We need to bond more to achieve our goals.",
+      "vi": "Chúng ta cần gắn kết hơn để đạt được mục tiêu."
+    }
+  },
+  "notes": "gắn kết = to connect or bond people together emotionally or socially. It’s about building closeness, not just linking things physically.\n\nUsed for relationships, teams, families, communities. You often use it when talking about improving relationships or creating unity.\n\nClose synonym: kết nối (more neutral, can be tech/abstract too). Opposite idea: xa cách (distant, not close).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "nGWM695dHxvpyNZFDF2p"
+}

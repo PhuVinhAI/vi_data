@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you help me analyze the results of this test?",
+    "She often analyzes the problems before making a decision.",
+    "Our team will analyze the data to find the best solution."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "58c79709-6e66-49a8-8f93-5ce78aa24520",
+    "content": {
+      "answer": "phân tích",
+      "translation": {
+        "en": "We need to analyze this data."
+      },
+      "translatedAnswer": {
+        "en": "analyze"
+      },
+      "word": "phân tích",
+      "sentence": "Chúng ta cần ___ dữ liệu này.",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:24:33.780Z",
+    "updatedAt": "2025-03-12T13:24:33.780Z"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:05:06.799Z",
+    "translations": {
+      "vi": "phân tích",
+      "es": "analizar",
+      "en": "analyze"
+    },
+    "example": {
+      "es": "Necesitamos analizar los datos para tomar una decisión.",
+      "vi": "Chúng ta cần phân tích dữ liệu để đưa ra quyết định.",
+      "en": "We need to analyze the data to make a decision."
+    },
+    "definitions": {
+      "en": "To examine something in detail in order to understand it better or draw conclusions.",
+      "vi": "Xem xét một cái gì đó một cách chi tiết để hiểu rõ hơn hoặc rút ra kết luận.",
+      "es": "Examinar algo en detalle para entenderlo mejor o sacar conclusiones."
+    }
+  },
+  "definition": "analyze",
+  "notes": "Phân tích means to analyze, to break something down to understand it better. You use it when you look closely at information, a problem, or a situation.\n\nIt’s a verb, followed directly by a noun: phân tích + vấn đề / dữ liệu / tình hình / kết quả. It’s common in school, work, reports, and serious discussions.  \n\nClose synonym: phân tích vs. xem xét — xem xét is more like “consider,” while phân tích goes deeper and more detailed.",
+  "updatedAt": "2026-03-03T08:34:33.060Z",
+  "exampleSentences": [
+    "Anh có thể giúp em phân tích kết quả của bài kiểm tra này không?",
+    "Chị ấy thường phân tích các vấn đề trước khi đưa ra quyết định.",
+    "Nhóm của chúng ta sẽ phân tích dữ liệu để tìm ra giải pháp tốt nhất."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:24:33.780Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "đánh giá",
+        "phân tích",
+        "xem xét"
+      ],
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ dữ liệu này.",
+      "word": "phân tích",
+      "translatedAnswer": {
+        "en": "analyze"
+      },
+      "translation": {
+        "en": "We need to analyze this data."
+      },
+      "hint": "p___h",
+      "answer": "phân tích"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:24:33.780Z",
+    "id": "a4ae2b4f-4a89-43ba-af9e-9722d342734b"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Phân tích** means *to analyze*, *to break something down to understand it better*. You use it when you look closely at information, a problem, or a situation.\n\nIt’s a verb, followed directly by a noun: *phân tích + vấn đề / dữ liệu / tình hình / kết quả*. It’s common in school, work, reports, and serious discussions.  \n\n\nClose synonym: **phân tích** vs. **xem xét** — *xem xét* is more like “consider,” while *phân tích* goes deeper and more detailed.",
+  "rank": 1296,
+  "choices": [
+    "phân tích",
+    "giải thích",
+    "tổng kết"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "phân tích",
+  "_id": "9gHpaKF4O05Fvpc1yIpI"
+}

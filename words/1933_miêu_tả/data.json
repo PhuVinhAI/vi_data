@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "describe",
+  "exampleSentences": [
+    "Anh có thể miêu tả cảm giác của mình khi gặp lại gia đình không?",
+    "Chị miêu tả chiếc váy mới của em cho bạn bè nghe rất chi tiết.",
+    "Em sẽ miêu tả bức tranh này trong phần thuyết trình của mình."
+  ],
+  "rank": 1933,
+  "word": "miêu tả",
+  "choices": [
+    "miêu tả",
+    "giải thích",
+    "trình bày"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you describe your feeling when you see your family again?",
+    "She describes my new dress to her friends in great detail.",
+    "I will describe this painting in my presentation."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "miêu tả",
+      "es": "describir",
+      "en": "describe"
+    },
+    "createdAt": "2025-01-28T11:36:44.629Z",
+    "example": {
+      "en": "She describes the painting very beautifully.",
+      "vi": "Cô ấy miêu tả bức tranh rất đẹp.",
+      "es": "Ella describe la pintura muy bellamente."
+    },
+    "definitions": {
+      "es": "Dar cuenta de algo en palabras; representar.",
+      "vi": "Trình bày một cái gì đó bằng lời; mô tả.",
+      "en": "To give an account of something in words; to depict."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:58:51.425Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "describe"
+      },
+      "sentence": "Cô ấy sẽ ___ các sự kiện quan trọng.",
+      "word": "miêu tả",
+      "language": "vi",
+      "hint": "m____a",
+      "choices": [
+        "trình bày",
+        "miêu tả",
+        "giải thích"
+      ],
+      "answer": "miêu tả",
+      "translation": {
+        "en": "She will describe the important events."
+      }
+    },
+    "updatedAt": "2025-03-12T13:58:51.425Z",
+    "type": "multiChoiceQuiz",
+    "id": "b3a69b75-9b65-4312-aa52-5f416291bbd3",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**miêu tả** = to describe — to say what someone or something is like in words.  \n\nIt’s a verb used for people, things, scenes, feelings, or situations. Often followed directly by the thing you’re describing.  \n\n\nVery close synonym: **mô tả** — almost the same meaning, slightly more common in formal writing.",
+  "updatedAt": "2026-03-03T09:42:35.183Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:58:51.425Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "describe"
+      },
+      "language": "vi",
+      "sentence": "Bạn có thể ___ bức tranh này.",
+      "word": "miêu tả",
+      "choices": [],
+      "translation": {
+        "en": "Can you describe this painting."
+      },
+      "answer": "miêu tả"
+    },
+    "updatedAt": "2025-03-12T13:58:51.425Z",
+    "id": "b8e3930b-c42a-477c-b39d-cc90b1bb9c8f",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "miêu tả = to describe — to say what someone or something is like in words.  \n\nIt’s a verb used for people, things, scenes, feelings, or situations. Often followed directly by the thing you’re describing.  \n\nVery close synonym: mô tả — almost the same meaning, slightly more common in formal writing.",
+  "_id": "IXyWTmfjCUiqz1GW2vLF"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Mom cooks a pot of soup for the whole family tonight.",
+    "He likes to eat rice with soup at every lunch at home.",
+    "Can you help me get more soup from the kitchen?"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:13:47.102Z",
+    "type": "fillBlankQuiz",
+    "id": "617783c9-641e-42f9-925b-2baae12c1574",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:13:47.102Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ rau này.",
+      "word": "canh",
+      "choices": [],
+      "answer": "canh",
+      "translatedAnswer": {
+        "en": "soup"
+      },
+      "translation": {
+        "en": "I like to eat this soup."
+      }
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A type of soup or broth, often made with vegetables or meat.",
+      "es": "Un tipo de sopa o caldo, a menudo hecho con verduras o carne.",
+      "vi": "Một loại súp hoặc nước dùng, thường được làm từ rau hoặc thịt."
+    },
+    "example": {
+      "es": "Me gusta comer sopa de verduras.",
+      "vi": "Tôi thích ăn canh rau củ.",
+      "en": "I like to eat vegetable soup."
+    },
+    "translations": {
+      "vi": "canh",
+      "es": "sopa",
+      "en": "soup"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:54:50.578Z"
+  },
+  "definition": "soup",
+  "notes": "canh means soup — a light, broth-based dish eaten with rice in a typical Vietnamese meal.  \n\nIt’s uncountable in English, but in Vietnamese you count it with containers: bát canh (bowl of soup), nồi canh (pot of soup). It’s often named by the main ingredient: canh chua, canh rau, canh gà.  \n\nVery common pairing: ăn cơm với canh (eat rice with soup).  \n\nIt also has another very common meaning as a verb: to watch/guard or keep an eye on.",
+  "exampleSentences": [
+    "Mẹ nấu một nồi canh chua cho cả gia đình ăn tối nay.",
+    "Anh thích ăn cơm với canh rau vào mỗi bữa trưa ở nhà.",
+    "Chị có thể giúp em lấy thêm canh từ trong bếp được không?"
+  ],
+  "updatedAt": "2026-03-03T10:09:14.443Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "canh",
+        "cơm",
+        "món"
+      ],
+      "sentence": "Món ăn này có ___ thơm ngon.",
+      "language": "vi",
+      "word": "canh",
+      "translatedAnswer": {
+        "en": "soup"
+      },
+      "translation": {
+        "en": "This dish has a delicious soup."
+      },
+      "hint": "c___n",
+      "answer": "canh"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:13:47.102Z",
+    "id": "9589c119-44ae-4a1a-8d5e-b236210aa0f8",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:13:47.102Z"
+  },
+  "rank": 2185,
+  "choices": [
+    "canh",
+    "cá",
+    "cơm"
+  ],
+  "notes_md": "**canh** means *soup* — a light, broth-based dish eaten with rice in a typical Vietnamese meal.  \n\nIt’s uncountable in English, but in Vietnamese you count it with containers: **bát canh** (bowl of soup), **nồi canh** (pot of soup). It’s often named by the main ingredient: **canh chua**, **canh rau**, **canh gà**.  \n\nVery common pairing: **ăn cơm với canh** (eat rice with soup).  \n\nIt also has another very common meaning as a **verb**: *to watch/guard or keep an eye on*.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "canh",
+  "_id": "6V55Z07ctUyrwFveHYHd"
+}

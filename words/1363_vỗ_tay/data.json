@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Vỗ tay means to clap or to applaud. It’s what you do with your hands to show praise, approval, or excitement.\n\nIt’s a verb, usually used without an object. You can add words of intensity like vỗ tay lớn, vỗ tay nhiệt liệt, or reasons with để (vỗ tay để cổ vũ).  \n\nStrong connection: vỗ tay = hoan hô (cheer), but hoan hô is shouting, not clapping.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động đánh vào lòng bàn tay với nhau để tạo ra âm thanh, thường để thể hiện sự đánh giá cao.",
+      "en": "The act of striking the palms of the hands together to make a sound, typically to show appreciation.",
+      "es": "El acto de golpear las palmas de las manos juntas para hacer un sonido, típicamente para mostrar aprecio."
+    },
+    "example": {
+      "vi": "Mọi người vỗ tay khi buổi biểu diễn kết thúc.",
+      "es": "Todos aplaudieron cuando terminó la actuación.",
+      "en": "Everyone clapped when the performance ended."
+    },
+    "translations": {
+      "es": "aplaudir",
+      "en": "clap",
+      "vi": "vỗ tay"
+    },
+    "createdAt": "2025-01-28T14:01:00.058Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T08:41:34.769Z",
+  "exampleSentences": [
+    "Khi anh ấy hát xong, mọi người đều vỗ tay rất lớn.",
+    "Em nhớ vỗ tay sau khi giáo viên kết thúc bài giảng nhé.",
+    "Cả lớp vỗ tay để chúc mừng bạn đạt giải nhất."
+  ],
+  "multiChoiceQuiz": {
+    "id": "a28663e7-6fb1-4ddd-9ca2-989c5043aaf4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:30:00.738Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Mọi người ___ sau khi bài hát kết thúc.",
+      "word": "vỗ tay",
+      "hint": "v___y",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "claps"
+      },
+      "choices": [
+        "hát lên",
+        "vỗ tay",
+        "nhảy múa"
+      ],
+      "answer": "vỗ tay",
+      "translation": {
+        "en": "Everyone claps after the song ends."
+      }
+    },
+    "updatedAt": "2025-03-12T16:30:00.738Z"
+  },
+  "choices": [
+    "vỗ tay",
+    "nhảy múa",
+    "mỉm cười"
+  ],
+  "word": "vỗ tay",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "When he finished singing, everyone applaud loudly.",
+    "Remember to applaud after the teacher finishes the lesson.",
+    "The whole class applaud to congratulate you on winning first prize."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Vỗ tay** means *to clap* or *to applaud*. It’s what you do with your hands to show praise, approval, or excitement.\n\nIt’s a verb, usually used without an object. You can add words of intensity like *vỗ tay lớn*, *vỗ tay nhiệt liệt*, or reasons with *để* (vỗ tay để cổ vũ).  \n\n\nStrong connection: **vỗ tay** = **hoan hô** (cheer), but *hoan hô* is shouting, not clapping.",
+  "fillBlankQuiz": {
+    "id": "2bc727ec-b281-4f7e-b0e6-0102def66f54",
+    "createdAt": "2025-03-12T16:30:00.738Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Everyone claps when they see the performance."
+      },
+      "answer": "vỗ tay",
+      "translatedAnswer": {
+        "en": "claps"
+      },
+      "sentence": "Mọi người ___ khi thấy màn trình diễn.",
+      "word": "vỗ tay"
+    },
+    "updatedAt": "2025-03-12T16:30:00.738Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 1363,
+  "definition": "applaud",
+  "_id": "u0wqPR4Ols4UTFoZ1sD4"
+}

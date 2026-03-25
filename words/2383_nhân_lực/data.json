@@ -1,0 +1,96 @@
+{
+  "exampleSentencesTranslated": [
+    "His company is recruiting more workforce for the new project.",
+    "Training high-quality workforce is very important for businesses.",
+    "She thinks that young workforce will help the company grow faster."
+  ],
+  "updatedAt": "2026-03-03T10:29:59.417Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "583301a6-48bd-4e57-9754-0cbc375a3ad1",
+    "createdAt": "2025-03-12T15:08:09.337Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "manpower"
+      },
+      "choices": [],
+      "translation": {
+        "en": "The company needs manpower to develop."
+      },
+      "sentence": "Công ty cần ___ để phát triển.",
+      "word": "nhân lực",
+      "language": "vi",
+      "answer": "nhân lực"
+    },
+    "updatedAt": "2025-03-12T15:08:09.337Z"
+  },
+  "flashcard": {
+    "word": "nhân lực",
+    "translations": {
+      "en": "human resources"
+    },
+    "example": {
+      "en": "The company is recruiting more human resources for the new project.",
+      "vi": "Công ty đang tuyển thêm nhân lực cho dự án mới."
+    },
+    "definitions": {
+      "en": "The workforce or human resources available for work in an organization or country.",
+      "vi": "Tập hợp những người lao động hoặc nguồn lao động có thể sử dụng trong một tổ chức hoặc quốc gia."
+    },
+    "createdAt": "2025-05-24T16:23:26.596Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Nhân lực** = workforce, human resources (the people who work for an organization or country). It focuses on *people as labor power*, not just “employees” one by one.\n\nIt’s an uncountable noun in most cases, so you don’t say *một nhân lực*; instead say *nguồn nhân lực*, *lực lượng nhân lực*, or add numbers before a classifier like *bao nhiêu nhân lực*.  \n\nCommon pairings: *thiếu nhân lực*, *bổ sung nhân lực*, *quản lý nhân lực*, *phát triển nguồn nhân lực*.  \n\nClose synonym: **nguồn nhân lực** (more formal, like “human resources” in policy/business context).",
+  "definition": "workforce",
+  "choices": [
+    "nhân lực",
+    "kinh nghiệm",
+    "dự án"
+  ],
+  "rank": 2383,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:08:09.337Z",
+    "updatedAt": "2025-03-12T15:08:09.337Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "manpower"
+      },
+      "choices": [
+        "khả năng",
+        "nhân lực",
+        "tài chính"
+      ],
+      "translation": {
+        "en": "The company needs manpower to develop."
+      },
+      "sentence": "Công ty cần ___ để phát triển.",
+      "word": "nhân lực",
+      "language": "vi",
+      "hint": "nh___c",
+      "answer": "nhân lực"
+    },
+    "id": "38a7333c-db18-40cd-ae76-af8122c7e27a"
+  },
+  "word": "nhân lực",
+  "notes": "Nhân lực = workforce, human resources (the people who work for an organization or country). It focuses on people as labor power, not just “employees” one by one.\n\nIt’s an uncountable noun in most cases, so you don’t say một nhân lực; instead say nguồn nhân lực, lực lượng nhân lực, or add numbers before a classifier like bao nhiêu nhân lực.  \n\nCommon pairings: thiếu nhân lực, bổ sung nhân lực, quản lý nhân lực, phát triển nguồn nhân lực.  \n\nClose synonym: nguồn nhân lực (more formal, like “human resources” in policy/business context).",
+  "exampleSentences": [
+    "Công ty của anh đang tuyển thêm nhân lực cho dự án mới.",
+    "Việc đào tạo nhân lực chất lượng cao rất quan trọng với doanh nghiệp.",
+    "Chị nghĩ rằng nhân lực trẻ sẽ giúp công ty phát triển nhanh hơn."
+  ],
+  "_id": "Z50XmVHr3Nwf1KSefozH"
+}

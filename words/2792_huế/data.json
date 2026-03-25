@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "bc5d2906-ad4f-4adc-846e-ff72f692d556",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I have been to Huế once."
+      },
+      "word": "huế",
+      "hint": "h___",
+      "sentence": "Tôi đã đến ___ một lần.",
+      "choices": [
+        "đà nẵng",
+        "huế",
+        "hà nội"
+      ],
+      "translatedAnswer": {
+        "en": "Huế"
+      },
+      "answer": "huế"
+    },
+    "updatedAt": "2025-03-12T15:41:54.778Z",
+    "createdAt": "2025-03-12T15:41:54.778Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Huế** is a city in central Vietnam, famous for its imperial history and traditional culture. It’s a proper noun, so always capitalize it.\n\nYou don’t use classifiers with it. Common pairings are *thành phố Huế*, *ở Huế*, *đến Huế*, *người Huế* (people from Huế).\n\nIt’s strongly connected with the Nguyễn emperors, the old capital, and distinctive food like *bún bò Huế*.",
+  "exampleSentencesTranslated": [
+    "I want to travel to Hue this summer.",
+    "Hue is famous for many historical sites and delicious food.",
+    "My friend is studying at university in Hue and really likes this city."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một thành phố ở miền trung Việt Nam nổi tiếng với các di tích lịch sử và ẩm thực.",
+      "es": "Una ciudad en el centro de Vietnam conocida por sus monumentos históricos y su cocina.",
+      "en": "A city in central Vietnam known for its historic monuments and cuisine."
+    },
+    "createdAt": "2025-01-28T13:15:08.916Z",
+    "example": {
+      "vi": "Tôi thích ăn bún bò Huế.",
+      "es": "Me gusta comer sopa de fideos de res de Huế.",
+      "en": "I like to eat Hue beef noodle soup."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "Huế",
+      "es": "Huế",
+      "en": "Hue"
+    }
+  },
+  "word": "huế",
+  "updatedAt": "2026-03-03T17:57:47.979Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:41:54.778Z",
+    "createdAt": "2025-03-12T15:41:54.778Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "a38e9d24-689e-4006-ae80-a1cd92c510e8",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I want to go to Huế in the summer."
+      },
+      "word": "huế",
+      "choices": [],
+      "sentence": "Tôi muốn đến ___ vào mùa hè.",
+      "translatedAnswer": {
+        "en": "Huế"
+      },
+      "answer": "huế"
+    }
+  },
+  "choices": [
+    "huế",
+    "hà nội",
+    "đà nẵng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn đi du lịch đến huế vào mùa hè này.",
+    "Huế nổi tiếng với nhiều di tích lịch sử và món ăn ngon.",
+    "Bạn của em đang học đại học ở huế và rất thích thành phố này."
+  ],
+  "definition": "Hue",
+  "notes": "Huế is a city in central Vietnam, famous for its imperial history and traditional culture. It’s a proper noun, so always capitalize it.\n\nYou don’t use classifiers with it. Common pairings are thành phố Huế, ở Huế, đến Huế, người Huế (people from Huế).\n\nIt’s strongly connected with the Nguyễn emperors, the old capital, and distinctive food like bún bò Huế.",
+  "rank": 2792,
+  "_id": "hft4eXGTGH2we9ej6eTU"
+}

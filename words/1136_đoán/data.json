@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I guess that it will rain today.",
+      "es": "Supongo que hoy lloverá.",
+      "vi": "Tôi đoán rằng trời sẽ mưa hôm nay."
+    },
+    "translations": {
+      "en": "guess",
+      "es": "suponer",
+      "vi": "đoán"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:39:29.870Z",
+    "definitions": {
+      "en": "To make an estimate or conjecture about something.",
+      "es": "Hacer una estimación o conjetura sobre algo.",
+      "vi": "Đưa ra một ước lượng hoặc phỏng đoán về điều gì đó."
+    }
+  },
+  "updatedAt": "2026-03-03T08:16:45.830Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "6c8f1a82-6c63-4b1b-adbf-3ed08bcf9cce",
+    "createdAt": "2025-03-12T15:06:45.564Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I cannot guess that number."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "guess"
+      },
+      "answer": "đoán",
+      "word": "đoán",
+      "language": "vi",
+      "sentence": "Tôi không thể ___ được số đó."
+    },
+    "updatedAt": "2025-03-12T15:06:45.564Z"
+  },
+  "exampleSentencesTranslated": [
+    "Try to guess what I brought for you today.",
+    "I cannot guess who will win this match.",
+    "If you don't know the answer, just guess one."
+  ],
+  "definition": "guess",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đoán** = to guess, when you’re not sure but you try to give an answer anyway.\n\nIt’s a verb. You use it with information, answers, results, reasons, people’s thoughts, etc.  \nYou can say **đoán + noun** or **đoán + (rằng/là) + clause**.\n\nCommon combos: **đoán trúng** (guess right), **đoán sai** (guess wrong), **đoán mò** (guess randomly, with no clue).  \nClose synonym: **phỏng đoán** (more formal, like “speculate”).",
+  "rank": 1136,
+  "choices": [
+    "đoán",
+    "đọc",
+    "dạy"
+  ],
+  "notes": "đoán = to guess, when you’re not sure but you try to give an answer anyway.\n\nIt’s a verb. You use it with information, answers, results, reasons, people’s thoughts, etc.  \nYou can say đoán + noun or đoán + (rằng/là) + clause.\n\nCommon combos: đoán trúng (guess right), đoán sai (guess wrong), đoán mò (guess randomly, with no clue).  \nClose synonym: phỏng đoán (more formal, like “speculate”).",
+  "exampleSentences": [
+    "Em thử đoán xem hôm nay anh mang gì đến cho em.",
+    "Chị không thể đoán được ai sẽ thắng trong trận đấu này.",
+    "Nếu không biết đáp án, em cứ đoán một câu cũng được."
+  ],
+  "word": "đoán",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:06:45.564Z",
+    "updatedAt": "2025-03-12T15:06:45.564Z",
+    "content": {
+      "sentence": "Cô ấy luôn ___ đúng câu hỏi.",
+      "hint": "d___n",
+      "answer": "đoán",
+      "language": "vi",
+      "word": "đoán",
+      "translatedAnswer": {
+        "en": "guess"
+      },
+      "choices": [
+        "đoán",
+        "chơi",
+        "hỏi"
+      ],
+      "translation": {
+        "en": "She always guesses the question correctly."
+      }
+    },
+    "id": "3e445bf8-9f09-43d9-abc9-ff98e9d7baf7"
+  },
+  "_id": "YqLv0QTO21jYYVPHgMUg"
+}

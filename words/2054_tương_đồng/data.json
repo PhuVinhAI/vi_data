@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "khác biệt",
+    "tương đồng",
+    "rõ ràng"
+  ],
+  "rank": 2054,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:10:12.514Z",
+    "updatedAt": "2025-03-12T15:10:12.514Z",
+    "content": {
+      "sentence": "Chúng ta cần tìm sự ___ giữa hai ý tưởng.",
+      "hint": "t_____m",
+      "answer": "tương đồng",
+      "language": "vi",
+      "word": "tương đồng",
+      "translatedAnswer": {
+        "en": "similarity"
+      },
+      "choices": [
+        "tương đồng",
+        "khác biệt",
+        "đối lập"
+      ],
+      "translation": {
+        "en": "We need to find the similarity between the two ideas."
+      }
+    },
+    "id": "dd46a2be-e443-4764-9273-2ee4ae884ab4"
+  },
+  "exampleSentences": [
+    "Sở thích của anh và em rất tương đồng nên chúng ta dễ nói chuyện.",
+    "Những ý tưởng của hai nhóm này khá tương đồng với nhau.",
+    "Món ăn Việt và món ăn Thái có nhiều điểm tương đồng về hương vị."
+  ],
+  "notes": "tương đồng = similar, having matching or comparable features (often in ideas, characteristics, data).\n\nIt’s an adjective, usually used in more formal or analytical contexts (ideas, cultures, data, personalities). It often talks about similarities in abstract things, not just appearance.\n\nClose synonyms: tương tự, giống (less formal).  \nOpposite: khác biệt.",
+  "word": "tương đồng",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "tương đồng",
+      "word": "tương đồng",
+      "language": "vi",
+      "sentence": "Chúng ta cần tìm sự ___ giữa hai ý tưởng.",
+      "translation": {
+        "en": "We need to find the similarity between the two ideas."
+      },
+      "translatedAnswer": {
+        "en": "similarity"
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T15:10:12.514Z",
+    "createdAt": "2025-03-12T15:10:12.514Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "c64166e8-b9df-4bc5-9ecb-11d1b0f5b50e"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:55:27.668Z",
+  "exampleSentencesTranslated": [
+    "Your hobbies and mine are very similar so we can talk easily.",
+    "The ideas of these two groups are quite similar to each other.",
+    "Vietnamese food and Thai food are similar in terms of flavor."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Having similarities or being similar in nature.",
+      "es": "Tener similitudes o ser similar en naturaleza.",
+      "vi": "Có sự tương đồng hoặc giống nhau về bản chất."
+    },
+    "createdAt": "2025-01-28T12:44:40.903Z",
+    "example": {
+      "en": "These two ideas have many similarities.",
+      "es": "Estas dos ideas tienen muchas similitudes.",
+      "vi": "Hai ý tưởng này có nhiều điểm tương đồng."
+    },
+    "translations": {
+      "en": "similarity",
+      "es": "similitud",
+      "vi": "sự tương đồng"
+    }
+  },
+  "notes_md": "**tương đồng** = similar, having matching or comparable features (often in ideas, characteristics, data).\n\nIt’s an adjective, usually used in more formal or analytical contexts (ideas, cultures, data, personalities). It often talks about similarities in abstract things, not just appearance.\n\n\nClose synonyms: **tương tự**, **giống** (less formal).  \nOpposite: **khác biệt**.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "similar",
+  "_id": "ZiX7x7r3gfUOMAFS16TS"
+}

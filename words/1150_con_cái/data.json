@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "con cái",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:20:07.857Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:20:07.857Z",
+    "content": {
+      "translation": {
+        "en": "They have very smart children."
+      },
+      "translatedAnswer": {
+        "en": "children"
+      },
+      "hint": "c___i",
+      "answer": "con cái",
+      "choices": [
+        "trẻ em",
+        "con cái",
+        "thanh niên"
+      ],
+      "word": "con cái",
+      "language": "vi",
+      "sentence": "Họ có ___ rất thông minh."
+    },
+    "id": "65a773ba-d713-45a1-9814-1726d14e1ac8"
+  },
+  "choices": [
+    "con cái",
+    "cha mẹ",
+    "ông bà"
+  ],
+  "rank": 1150,
+  "notes_md": "**con cái** means *children* (your sons and daughters as a group). It’s about someone’s kids in general, often from a parent’s point of view.\n\nIt’s a plural idea, so you don’t use a number directly with it. If you want to count, use **đứa con / người con** instead.  \n“Con” = child, and “cái” here makes it collective, like “offspring.”  \n\nClose words: **trẻ em** = children in general (not specifically someone’s own kids); **con** = a single child.",
+  "notes": "con cái means children (your sons and daughters as a group). It’s about someone’s kids in general, often from a parent’s point of view.\n\nIt’s a plural idea, so you don’t use a number directly with it. If you want to count, use đứa con / người con instead.  \n“Con” = child, and “cái” here makes it collective, like “offspring.”  \n\nClose words: trẻ em = children in general (not specifically someone’s own kids); con = a single child.",
+  "exampleSentences": [
+    "Anh luôn dành thời gian cuối tuần để chơi với con cái.",
+    "Chị ấy rất tự hào về con cái của mình vì chúng học giỏi.",
+    "Nhiều bậc cha mẹ lo lắng cho tương lai của con cái."
+  ],
+  "updatedAt": "2026-03-03T08:18:07.853Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:20:07.857Z",
+    "id": "3525a0c1-4757-420d-9194-ee14bb3bf703",
+    "content": {
+      "translation": {
+        "en": "Their family has happy children."
+      },
+      "translatedAnswer": {
+        "en": "children"
+      },
+      "answer": "con cái",
+      "choices": [],
+      "word": "con cái",
+      "sentence": "Gia đình họ có ___ rất hạnh phúc.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:20:07.857Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He always spends weekends playing with his children.",
+    "She is very proud of her children because they study well.",
+    "Many parents worry about the future of their children."
+  ],
+  "definition": "children",
+  "flashcard": {
+    "definitions": {
+      "en": "Children; offspring.",
+      "vi": "Trẻ em; con cái.",
+      "es": "Niños; descendencia."
+    },
+    "example": {
+      "es": "Mi familia tiene dos hijos.",
+      "vi": "Gia đình tôi có hai con cái.",
+      "en": "My family has two children."
+    },
+    "translations": {
+      "es": "hijos",
+      "vi": "con cái",
+      "en": "children"
+    },
+    "createdAt": "2025-01-28T11:00:29.908Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "8LSLif1XZxLic3zoNN94"
+}

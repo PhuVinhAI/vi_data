@@ -1,0 +1,96 @@
+{
+  "choices": [
+    "giả",
+    "thật",
+    "mới"
+  ],
+  "rank": 194,
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "That is really interesting."
+      },
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "choices": [
+        "không",
+        "rất",
+        "thật"
+      ],
+      "hint": "th___",
+      "answer": "thật",
+      "language": "vi",
+      "word": "thật",
+      "sentence": "Điều đó ___ rất thú vị."
+    },
+    "updatedAt": "2025-03-12T15:07:39.600Z",
+    "createdAt": "2025-03-12T15:07:39.600Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "f06b66ee-dcb7-4873-a39c-74e58d7368e3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có nghĩ câu chuyện đó là thật không hay chỉ là tưởng tượng?",
+    "Chị muốn tìm một người bạn thật tốt để chia sẻ mọi điều.",
+    "Những cảm xúc của em dành cho anh là thật và không thay đổi."
+  ],
+  "notes": "thật = real, true. It describes something genuine, not fake or imagined.\n\nAs an adjective, it usually comes after the noun it describes (chuyện thật, tiền thật). It can also act like an adverb to mean “really/very” and adds strong feeling after a verb or adjective.\n\nYou’ll also see thật là + adj for emphasis.\n\nVery common combo: sự thật = the truth. Opposite idea: giả (fake).",
+  "word": "thật",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:07:39.600Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "true"
+      },
+      "translation": {
+        "en": "She said that it is true."
+      },
+      "sentence": "Cô ấy nói điều đó ___.",
+      "language": "vi",
+      "word": "thật",
+      "answer": "thật"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:07:39.600Z",
+    "id": "a8c7abcd-5584-4c2f-8838-44fba42fd4bc"
+  },
+  "updatedAt": "2026-03-03T06:40:00.557Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Do you think that story is real or just imagination?",
+    "She wants to find a real friend to share everything with.",
+    "My feelings for you are real and do not change."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This story is really interesting.",
+      "vi": "Câu chuyện này thật thú vị."
+    },
+    "translations": {
+      "en": "real; true; really"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Used to emphasize truthfulness, authenticity, or a high degree of a quality.",
+      "vi": "Dùng để nhấn mạnh sự chân thực, đúng sự thật hoặc mức độ cao của tính chất."
+    },
+    "createdAt": "2025-05-24T16:23:22.259Z",
+    "word": "thật"
+  },
+  "notes_md": "**thật** = real, true. It describes something genuine, not fake or imagined.\n\nAs an adjective, it usually comes after the noun it describes (chuyện thật, tiền thật). It can also act like an adverb to mean “really/very” and adds strong feeling after a verb or adjective.\n\nYou’ll also see **thật là + adj** for emphasis.\n\nVery common combo: **sự thật** = the truth. Opposite idea: **giả** (fake).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "real",
+  "_id": "YzlWOnD2KQ6qopEbSuhF"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una expresión utilizada para indicar que algo está aumentando o volviéndose más intenso con el tiempo.",
+      "vi": "Một cụm từ được sử dụng để chỉ ra rằng một điều gì đó đang gia tăng hoặc trở nên mạnh mẽ hơn theo thời gian.",
+      "en": "An expression used to indicate that something is increasing or becoming more intense over time."
+    },
+    "createdAt": "2025-01-28T10:53:29.959Z",
+    "example": {
+      "vi": "Cuộc sống ngày càng trở nên khó khăn.",
+      "en": "Life is becoming increasingly difficult.",
+      "es": "La vida se está volviendo cada vez más difícil."
+    },
+    "translations": {
+      "vi": "ngày càng",
+      "en": "increasingly",
+      "es": "cada vez más"
+    }
+  },
+  "definition": "increasingly",
+  "rank": 1479,
+  "exampleSentences": [
+    "Anh ấy ngày càng nói tiếng Việt tốt hơn mỗi ngày.",
+    "Công việc của em ngày càng trở nên bận rộn hơn.",
+    "Thời tiết ở đây ngày càng nóng vào mùa hè."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:12:13.043Z",
+    "updatedAt": "2025-03-12T13:12:13.043Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "g___n",
+      "word": "ngày càng",
+      "translatedAnswer": {
+        "en": "increasingly"
+      },
+      "language": "vi",
+      "choices": [
+        "ngày càng",
+        "lạnh giá",
+        "hơi lạnh"
+      ],
+      "translation": {
+        "en": "It is getting increasingly colder in winter."
+      },
+      "answer": "ngày càng",
+      "sentence": "Trời ___ lạnh hơn vào mùa đông."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "f02731c7-f68f-407c-a4fa-88a585d6309f"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ngày càng",
+  "notes": "ngày càng = increasingly, more and more over time. It shows a gradual change or trend.\n\nIt usually goes before an adjective or verb phrase to show something is developing step by step. Often paired with càng… hơn to emphasize comparison.\n\nStrong synonym: càng ngày càng (same meaning, just more emphasis). Opposite idea: ngày càng ít (less and less).",
+  "choices": [
+    "ngày càng",
+    "luôn luôn",
+    "thỉnh thoảng"
+  ],
+  "notes_md": "**ngày càng** = increasingly, more and more over time. It shows a gradual change or trend.\n\nIt usually goes before an adjective or verb phrase to show something is developing step by step. Often paired with **càng… hơn** to emphasize comparison.\n\n\nStrong synonym: **càng ngày càng** (same meaning, just more emphasis). Opposite idea: **ngày càng ít** (less and less).",
+  "exampleSentencesTranslated": [
+    "He increasingly speaks Vietnamese better every day.",
+    "My job is increasingly becoming busier.",
+    "The weather here is increasingly hot in the summer."
+  ],
+  "updatedAt": "2026-03-03T08:54:03.131Z",
+  "fillBlankQuiz": {
+    "id": "5b3a64ef-ec24-4870-bbdd-9c6d654fc368",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Cuộc sống ___ khó khăn hơn.",
+      "answer": "ngày càng",
+      "choices": [],
+      "translation": {
+        "en": "Life is becoming increasingly difficult."
+      },
+      "word": "ngày càng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "increasingly"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:12:13.043Z",
+    "updatedAt": "2025-03-12T13:12:13.043Z"
+  },
+  "_id": "5xPIYs7CjiAXMmHN6MAA"
+}

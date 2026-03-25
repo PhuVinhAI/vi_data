@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:22:42.486Z",
+    "translations": {
+      "vi": "sưu tập",
+      "en": "collect",
+      "es": "coleccionar"
+    },
+    "definitions": {
+      "en": "To gather or accumulate items of a particular kind.",
+      "es": "Reunir o acumular objetos de un tipo particular.",
+      "vi": "Tập hợp hoặc tích lũy các vật phẩm thuộc một loại nhất định."
+    },
+    "example": {
+      "vi": "Tôi thích sưu tập tem từ khắp nơi trên thế giới.",
+      "en": "I enjoy collecting stamps from all over the world.",
+      "es": "Me gusta coleccionar sellos de todo el mundo."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sưu tập = a collection, usually of things someone gathers as a hobby (stamps, coins, books, etc.). It can be a noun or a verb.\n\nAs a noun, you often say một sưu tập or more naturally một bộ sưu tập (“bộ” is the common classifier for sets/collections).  \n\nAs a verb, it means “to collect” (as a hobby, not just gathering randomly).  \n\nDon’t confuse it with thu thập — that’s more like collecting information or data, not for fun.",
+  "choices": [
+    "sưu tập",
+    "bộ phim",
+    "trò chơi"
+  ],
+  "updatedAt": "2026-03-03T09:22:32.908Z",
+  "exampleSentences": [
+    "Anh có một sưu tập tem rất lớn từ nhiều quốc gia khác nhau.",
+    "Chị thường sưu tập những bức tranh nhỏ để làm bộ sưu tập độc đáo.",
+    "Bạn em thích đi du lịch để mở rộng sưu tập tiền xu của mình."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:52:43.017Z",
+    "id": "baba02b4-4aa9-4370-858b-7801618c8811",
+    "content": {
+      "translatedAnswer": {
+        "en": "collect"
+      },
+      "choices": [
+        "sưu tập",
+        "chơi game",
+        "đọc sách"
+      ],
+      "answer": "sưu tập",
+      "translation": {
+        "en": "I like to collect old stamps."
+      },
+      "language": "vi",
+      "word": "sưu tập",
+      "hint": "s___p",
+      "sentence": "Tôi thích ___ tem cổ."
+    },
+    "updatedAt": "2025-03-12T16:52:43.017Z",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "sưu tập",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He has a very large stamp collection from many different countries.",
+    "She often collects small paintings to make a unique collection.",
+    "My friend likes to travel to expand his coin collection."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**sưu tập** = a collection, usually of things someone gathers as a hobby (stamps, coins, books, etc.). It can be a **noun** or a **verb**.\n\nAs a **noun**, you often say **một sưu tập** or more naturally **một bộ sưu tập** (“bộ” is the common classifier for sets/collections).  \n\nAs a **verb**, it means “to collect” (as a hobby, not just gathering randomly).  \n\nDon’t confuse it with **thu thập** — that’s more like collecting information or data, not for fun.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:52:43.017Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8aa22339-ff65-4a34-8f06-6cbb50a6972a",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích ___ tem cổ.",
+      "word": "sưu tập",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I like to collect old stamps."
+      },
+      "answer": "sưu tập",
+      "translatedAnswer": {
+        "en": "collect"
+      }
+    },
+    "updatedAt": "2025-03-12T16:52:43.017Z"
+  },
+  "rank": 1743,
+  "definition": "collection",
+  "_id": "zq6Lued2FGhPv8BXEwu4"
+}

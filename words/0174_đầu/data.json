@@ -1,0 +1,99 @@
+{
+  "definition": "head",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh bị đau đầu sau khi làm việc căng thẳng cả ngày.",
+    "Chị nhớ đội mũ bảo hiểm để bảo vệ đầu khi đi xe máy.",
+    "Em bé cười khi mẹ xoa đầu nhẹ nhàng cho em."
+  ],
+  "rank": 174,
+  "word": "đầu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đầu",
+    "tay",
+    "mắt"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Phần trên cùng của cơ thể nơi có khuôn mặt.",
+      "es": "La parte superior del cuerpo donde se encuentra la cara.",
+      "en": "The upper part of the body where the face is located."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "head",
+      "vi": "đầu",
+      "es": "cabeza"
+    },
+    "example": {
+      "en": "I have a headache.",
+      "es": "Tengo dolor de cabeza.",
+      "vi": "Tôi bị đau đầu."
+    },
+    "createdAt": "2025-01-28T11:18:37.808Z"
+  },
+  "exampleSentencesTranslated": [
+    "He has a pain in his head after working all day under stress.",
+    "Remember to wear a helmet to protect your head when riding a motorbike.",
+    "The baby smiles when mom gently touches his head."
+  ],
+  "notes_md": "**đầu** means *head* (the body part). It’s a noun; you can say **cái đầu** when counting, but usually the classifier is dropped in daily speech.\n\nIt also very often means the *beginning* or *front/top* of something: **đầu năm** (start of the year), **đầu trang** (top of the page), **đầu đường** (the start of the street).\n\nYou’ll see it in key words like **bắt đầu** (to start) and **đầu tiên** (first).  \n\nTo remember: **đầu** = the “head” of a body → also the “head” of time, place, or a list.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "ee4f1066-6f18-491b-a3c0-d2ddb6c3d0f0",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:39:41.964Z",
+    "content": {
+      "answer": "đầu",
+      "translation": {
+        "en": "I think about the head of the project."
+      },
+      "hint": "d___",
+      "choices": [
+        "cuối",
+        "đầu",
+        "giữa"
+      ],
+      "sentence": "Tôi nghĩ về ___ của dự án.",
+      "word": "đầu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "head"
+      }
+    },
+    "createdAt": "2025-03-12T13:39:41.964Z"
+  },
+  "updatedAt": "2026-03-03T06:38:08.649Z",
+  "notes": "đầu means head (the body part). It’s a noun; you can say cái đầu when counting, but usually the classifier is dropped in daily speech.\n\nIt also very often means the beginning or front/top of something: đầu năm (start of the year), đầu trang (top of the page), đầu đường (the start of the street).\n\nYou’ll see it in key words like bắt đầu (to start) and đầu tiên (first).  \n\nTo remember: đầu = the “head” of a body → also the “head” of time, place, or a list.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "7a2bad27-612d-431f-8dfa-145b9d0d72ad",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I have pain in my head."
+      },
+      "answer": "đầu",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi đau ở ___ của mình.",
+      "word": "đầu",
+      "translatedAnswer": {
+        "en": "head"
+      }
+    },
+    "createdAt": "2025-03-12T13:39:41.964Z",
+    "updatedAt": "2025-03-12T13:39:41.964Z"
+  },
+  "_id": "DIA1F6KQ669IJG1CPymK"
+}

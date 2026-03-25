@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mẹ",
+    "ba",
+    "chị"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "father",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "ba",
+  "exampleSentences": [
+    "Anh thường gọi điện cho ba mỗi tối để hỏi thăm sức khỏe.",
+    "Ba của em rất thích chơi thể thao và đọc sách vào cuối tuần.",
+    "Ngày mai gia đình sẽ tổ chức sinh nhật cho ba ở nhà hàng."
+  ],
+  "rank": 2767,
+  "notes_md": "**Ba** means **father / dad**. It’s a family word you use to talk to or about your own dad.\n\nIt’s a **kinship noun**, so you don’t need “I” or “you” in Vietnamese—*ba* can act like “dad” or even “you” when talking directly to him. Usually no classifier is used in everyday speech.\n\nVery common synonym: **bố** (used more in the North). **Cha** is more formal or serious.\n\nIn the South, people mostly say **ba**; in the North, **bố** is more natural.",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "dad"
+      },
+      "language": "vi",
+      "word": "ba",
+      "sentence": "Tôi gọi ___ của tôi.",
+      "hint": "b__",
+      "choices": [
+        "mẹ",
+        "ba",
+        "anh"
+      ],
+      "translation": {
+        "en": "I call my dad."
+      },
+      "answer": "ba"
+    },
+    "createdAt": "2025-03-12T13:36:09.216Z",
+    "updatedAt": "2025-03-12T13:36:09.216Z",
+    "type": "multiChoiceQuiz",
+    "id": "0000bef9-a428-43a0-96ee-535d170a8ead",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "definitions": {
+      "vi": "Cha; một thuật ngữ dùng để chỉ cha ruột của một người.",
+      "es": "Padre; un término utilizado para referirse al progenitor masculino de alguien.",
+      "en": "Father; a term used to refer to one's male parent."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "papá",
+      "vi": "ba",
+      "en": "dad"
+    },
+    "createdAt": "2025-01-28T11:15:34.491Z",
+    "example": {
+      "en": "My dad is a very good person.",
+      "vi": "Ba tôi là một người rất tốt.",
+      "es": "Mi papá es una persona muy buena."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He often calls his father every night to ask about his health.",
+    "My father really likes playing sports and reading books on weekends.",
+    "Tomorrow the family will celebrate the birthday of their father at the restaurant."
+  ],
+  "notes": "Ba means father / dad. It’s a family word you use to talk to or about your own dad.\n\nIt’s a kinship noun, so you don’t need “I” or “you” in Vietnamese—ba can act like “dad” or even “you” when talking directly to him. Usually no classifier is used in everyday speech.\n\nVery common synonym: bố (used more in the North). Cha is more formal or serious.\n\nIn the South, people mostly say ba; in the North, bố is more natural.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "fab4d72a-7848-455b-90e2-a3dda39c95cc",
+    "updatedAt": "2025-03-12T13:36:09.216Z",
+    "createdAt": "2025-03-12T13:36:09.216Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "dad"
+      },
+      "language": "vi",
+      "sentence": "Tôi gọi ___ của tôi.",
+      "word": "ba",
+      "choices": [],
+      "answer": "ba",
+      "translation": {
+        "en": "I call my dad."
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T12:08:56.972Z",
+  "_id": "CN44jBMUL87OZfnpm97M"
+}

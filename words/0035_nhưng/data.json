@@ -1,0 +1,101 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I want to go out, but it is raining.",
+      "vi": "Tôi muốn đi chơi, nhưng trời đang mưa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:21:22.898Z",
+    "translations": {
+      "en": "but"
+    },
+    "word": "nhưng",
+    "definitions": {
+      "en": "A word used to connect two clauses that express contrasting ideas.",
+      "vi": "Từ dùng để nối hai mệnh đề có ý nghĩa trái ngược nhau."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em ăn cơm nhưng em uống nước.",
+    "Anh đọc sách nhưng anh nghe nhạc.",
+    "Chị mua sữa nhưng chị thích trà."
+  ],
+  "rank": 35,
+  "fillBlankQuiz": {
+    "id": "60a0972c-b492-4c1e-a79f-ea2eed38ca28",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "but"
+      },
+      "answer": "nhưng",
+      "translation": {
+        "en": "I want to go, but it is raining."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "nhưng",
+      "sentence": "Tôi muốn đi, ___ trời mưa."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:20:21.673Z",
+    "createdAt": "2025-03-12T14:20:21.673Z"
+  },
+  "sentenceBreakdowns": [
+    "Em (I) + ăn (eat) + cơm (rice) + nhưng (but) + em (I) + uống (drink) + nước (water)",
+    "Anh (he) + đọc (read) + sách (books) + nhưng (but) + anh (he) + nghe (listen) + nhạc (music)",
+    "Chị (she) + mua (buy) + sữa (milk) + nhưng (but) + chị (she) + thích (like) + trà (tea)"
+  ],
+  "definition": "but",
+  "updatedAt": "2026-03-03T06:06:34.123Z",
+  "choices": [
+    "và",
+    "hoặc",
+    "nhưng"
+  ],
+  "exampleSentencesTranslated": [
+    "I eat rice but I drink water.",
+    "He reads books but he listens to music.",
+    "She buys milk but she likes tea."
+  ],
+  "notes": "nhưng = but. It connects two ideas that contrast or go against each other.\n\nIt links two full clauses, just like English “but.” Put it between them, no special word order change.\n\nIt often shows surprise, contrast, or something unexpected. Stronger alternatives: nhưng mà (more spoken), tuy nhiên (more formal, like “however”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nhưng** = **but**. It connects two ideas that contrast or go against each other.\n\nIt links two full clauses, just like English “but.” Put it between them, no special word order change.\n\n\nIt often shows surprise, contrast, or something unexpected. Stronger alternatives: **nhưng mà** (more spoken), **tuy nhiên** (more formal, like “however”).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "nhưng",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:20:21.673Z",
+    "updatedAt": "2025-03-12T14:20:21.673Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "nhưng",
+      "translatedAnswer": {
+        "en": "but"
+      },
+      "sentence": "Tôi thích ăn, ___ không có thời gian.",
+      "hint": "n___",
+      "word": "nhưng",
+      "choices": [
+        "khiến",
+        "nhưng",
+        "cũng"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "I like to eat, but I don't have time."
+      }
+    },
+    "id": "9d04ffb2-947b-4b40-9054-23c5b2114b5a"
+  },
+  "_id": "NBznbOLX7i7BqRngUfLs"
+}

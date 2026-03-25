@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:35.913Z",
+    "content": {
+      "choices": [
+        "thật thà",
+        "khéo léo",
+        "thông minh"
+      ],
+      "word": "thật thà",
+      "sentence": "Cô ấy là người ___ và đáng tin cậy.",
+      "language": "vi",
+      "translation": {
+        "en": "She is an honest and reliable person."
+      },
+      "translatedAnswer": {
+        "en": "honest"
+      },
+      "answer": "thật thà",
+      "hint": "t___a"
+    },
+    "id": "4b56abe9-e3ad-4932-ad3b-bd9d256be351",
+    "updatedAt": "2025-03-12T15:22:35.913Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "thật thà",
+    "giỏi giang",
+    "vui vẻ"
+  ],
+  "rank": 3007,
+  "notes_md": "**thật thà** means honest, straightforward, not hiding the truth. It’s about personality — someone who doesn’t lie or play tricks.\n\nIt describes people and character, often used with degree words like *rất, khá, quá*. It can also feel slightly negative, like someone is so honest they’re a bit naïve.\n\n\nClose synonyms: **trung thực** (more formal), **chân thật** (sincere).  \nOpposite: **gian dối** (dishonest).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thật thà",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:22:35.913Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:35.913Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Anh ấy rất ___ với bạn bè.",
+      "word": "thật thà",
+      "choices": [],
+      "answer": "thật thà",
+      "translatedAnswer": {
+        "en": "honest"
+      },
+      "translation": {
+        "en": "He is very honest with friends."
+      }
+    },
+    "id": "163f84e0-b05a-488d-a99f-9de98a40fb21"
+  },
+  "exampleSentencesTranslated": [
+    "He is a very honest person in work and life.",
+    "She always teaches me to be honest when talking to people.",
+    "Friends like to play with honest people who know how to listen."
+  ],
+  "definition": "honest",
+  "flashcard": {
+    "definitions": {
+      "en": "Being honest and straightforward; not deceitful.",
+      "vi": "Là người trung thực và thẳng thắn; không lừa dối.",
+      "es": "Ser honesto y directo; no engañoso."
+    },
+    "example": {
+      "es": "Ella es muy honesta en su trabajo.",
+      "vi": "Cô ấy rất thật thà trong công việc.",
+      "en": "She is very honest in her work."
+    },
+    "translations": {
+      "en": "honest",
+      "vi": "thật thà",
+      "es": "honesto"
+    },
+    "createdAt": "2025-01-28T12:57:22.450Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "thật thà means honest, straightforward, not hiding the truth. It’s about personality — someone who doesn’t lie or play tricks.\n\nIt describes people and character, often used with degree words like rất, khá, quá. It can also feel slightly negative, like someone is so honest they’re a bit naïve.\n\nClose synonyms: trung thực (more formal), chân thật (sincere).  \nOpposite: gian dối (dishonest).",
+  "exampleSentences": [
+    "Anh ấy là một người rất thật thà trong công việc và cuộc sống.",
+    "Chị luôn dạy em phải thật thà khi nói chuyện với mọi người.",
+    "Bạn bè thích chơi với những người thật thà và biết lắng nghe."
+  ],
+  "updatedAt": "2026-03-03T18:22:18.096Z",
+  "_id": "d5cNi2tCGjFRqH7xUK9o"
+}

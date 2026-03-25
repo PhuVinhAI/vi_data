@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "bowl",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:45:42.035Z",
+    "id": "ba659d9f-ab41-47bd-a049-1b0e057b6301",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần một ___ để ăn.",
+      "translatedAnswer": {
+        "en": "bowl"
+      },
+      "language": "vi",
+      "word": "tô",
+      "choices": [],
+      "translation": {
+        "en": "I need a bowl to eat."
+      },
+      "answer": "tô"
+    },
+    "updatedAt": "2025-03-12T14:45:42.035Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị có thể lấy giúp em một tô để đựng canh được không?",
+    "Anh mua hai tô phở bò cho bữa sáng hôm nay.",
+    "Em thích ăn mì trong một tô lớn vào buổi tối."
+  ],
+  "notes_md": "**tô** = bowl, usually a medium or large one for food like soup or noodles.\n\nIt’s a countable noun: *một cái tô*, *hai cái tô*. When ordering food, you’ll often hear it as a portion word like *một tô phở* (one bowl of phở).  \n\nIn the South, **tô** is very common; in the North, people often say **bát** for a similar bowl (usually a bit smaller).  \n\nThink: **tô** = bigger, deeper bowl for meals with broth.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "tazón",
+      "vi": "tô",
+      "en": "bowl"
+    },
+    "createdAt": "2025-01-28T12:20:01.378Z",
+    "definitions": {
+      "es": "Un tazón, típicamente utilizado para servir comida.",
+      "vi": "Một cái bát, thường dùng để phục vụ thức ăn.",
+      "en": "A bowl, typically used for serving food."
+    },
+    "example": {
+      "en": "I ate a bowl of pho.",
+      "vi": "Tôi đã ăn một tô phở.",
+      "es": "Comí un tazón de pho."
+    }
+  },
+  "notes": "tô = bowl, usually a medium or large one for food like soup or noodles.\n\nIt’s a countable noun: một cái tô, hai cái tô. When ordering food, you’ll often hear it as a portion word like một tô phở (one bowl of phở).  \n\nIn the South, tô is very common; in the North, people often say bát for a similar bowl (usually a bit smaller).  \n\nThink: tô = bigger, deeper bowl for meals with broth.",
+  "choices": [
+    "tô",
+    "chén",
+    "đĩa"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:04:21.850Z",
+  "word": "tô",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:45:42.035Z",
+    "id": "f381f6d0-11d5-41ac-a703-8641e162921d",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "tô",
+      "choices": [
+        "đĩa",
+        "tô",
+        "cốc"
+      ],
+      "hint": "t__",
+      "answer": "tô",
+      "translation": {
+        "en": "I need a bowl to eat."
+      },
+      "sentence": "Tôi cần một ___ để ăn.",
+      "translatedAnswer": {
+        "en": "bowl"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:45:42.035Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you get me a bowl to put the soup in?",
+    "He bought two bowls of beef pho for breakfast today.",
+    "I like to eat noodles in a big bowl in the evening."
+  ],
+  "rank": 2141,
+  "_id": "TCXbzP0exRAFKZixu1by"
+}

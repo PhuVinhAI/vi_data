@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "cứng",
+      "en": "hard",
+      "es": "duro"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Esta mesa es muy dura.",
+      "en": "This table is very hard.",
+      "vi": "Cái bàn này rất cứng."
+    },
+    "definitions": {
+      "es": "Tener una estructura firme o sólida; no se dobla ni se rompe fácilmente.",
+      "vi": "Có cấu trúc chắc chắn hoặc rắn; không dễ bị uốn cong hoặc gãy.",
+      "en": "Having a firm or solid structure; not easily bent or broken."
+    },
+    "createdAt": "2025-01-28T12:03:25.643Z"
+  },
+  "notes_md": "**Cứng** usually means *hard* — not soft, not flexible, not easy to bend or break.\n\nIt describes physical things (cứng như đá, cứng tay, cứng cơ) and also abstract things like thái độ or cách nói (cứng = strict, rigid, blunt). As an adjective, it comes after the noun: danh từ + cứng.\n\nIt can also imply stiffness in the body (cổ cứng, cơ cứng) or being emotionally/mentally tough.  \n\nStrong contrast: **mềm** (soft).",
+  "exampleSentences": [
+    "Em đừng nói chuyện cứng quá, anh nghe khó chịu lắm.",
+    "Em nấu cơm hơi cứng, anh ăn với canh cho dễ.",
+    "Sáng nay em ngủ dậy, cổ em bị cứng nên quay khó."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "484fb6d3-251d-4cf7-a270-b4390b4b88d5",
+    "createdAt": "2025-03-12T14:27:15.912Z",
+    "updatedAt": "2025-03-12T14:27:15.912Z",
+    "content": {
+      "answer": "cứng",
+      "translation": {
+        "en": "This table is very hard."
+      },
+      "choices": [],
+      "word": "cứng",
+      "sentence": "Cái bàn này rất ___.",
+      "translatedAnswer": {
+        "en": "hard"
+      },
+      "language": "vi"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "hard",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "c___g",
+      "answer": "cứng",
+      "translation": {
+        "en": "This chair is very hard."
+      },
+      "word": "cứng",
+      "choices": [
+        "mềm",
+        "cứng",
+        "nhẹ"
+      ],
+      "sentence": "Cái ghế này rất ___.",
+      "translatedAnswer": {
+        "en": "hard"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:27:15.912Z",
+    "createdAt": "2025-03-12T14:27:15.912Z",
+    "id": "a881cd2b-453e-4fe5-a472-0ebbcca53fa7",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "cứng",
+  "rank": 2055,
+  "exampleSentencesTranslated": [
+    "Don’t talk so hard, it really makes me uncomfortable to listen.",
+    "The rice I cooked is a bit hard; eat it with soup to make it easier.",
+    "This morning I woke up and my neck was stiff, so it was hard to turn."
+  ],
+  "updatedAt": "2026-03-03T09:55:32.740Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mềm",
+    "cứng",
+    "mỏng"
+  ],
+  "notes": "Cứng usually means hard — not soft, not flexible, not easy to bend or break.\n\nIt describes physical things (cứng như đá, cứng tay, cứng cơ) and also abstract things like thái độ or cách nói (cứng = strict, rigid, blunt). As an adjective, it comes after the noun: danh từ + cứng.\n\nIt can also imply stiffness in the body (cổ cứng, cơ cứng) or being emotionally/mentally tough.  \n\nStrong contrast: mềm (soft).",
+  "_id": "OugHCL7nuziMRCjg1VPQ"
+}

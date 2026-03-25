@@ -1,0 +1,98 @@
+{
+  "exampleSentences": [
+    "Chiều nay anh sẽ ghé quán cà phê gần nhà em.",
+    "Chị có thể ghé siêu thị mua ít trái cây không?",
+    "Bạn bè thường ghé nhà nhau vào cuối tuần để trò chuyện."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:38:22.739Z",
+    "translations": {
+      "en": "stop by",
+      "vi": "ghé",
+      "es": "pasar por"
+    },
+    "definitions": {
+      "en": "To stop by or visit briefly.",
+      "vi": "Dừng lại hoặc thăm một cách ngắn gọn.",
+      "es": "Detenerse o visitar brevemente."
+    },
+    "example": {
+      "en": "I will stop by your house this afternoon.",
+      "es": "Voy a pasar por tu casa esta tarde.",
+      "vi": "Tôi sẽ ghé qua nhà bạn vào chiều nay."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2828,
+  "notes": "ghé = to stop by somewhere briefly, usually on the way to something else. It implies a short, casual visit.\n\nIt’s a verb, often used with places (shops, houses, offices) or with ghé thăm for visiting someone more politely. The visit is usually quick, not long or formal.\n\nVery close to ghé qua or tạt qua (more informal). If you stay long, you wouldn’t use ghé.",
+  "exampleSentencesTranslated": [
+    "This afternoon I will to stop by the coffee shop near your house.",
+    "Can you to stop by the supermarket to buy some fruit?",
+    "Friends often to stop by each other's houses on weekends to chat."
+  ],
+  "choices": [
+    "ghé",
+    "nghỉ",
+    "mua"
+  ],
+  "updatedAt": "2026-03-03T18:01:41.458Z",
+  "definition": "to stop by",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:00:23.743Z",
+    "createdAt": "2025-03-12T14:00:23.743Z",
+    "id": "ab4997df-1aec-4669-af4c-057867c89e53",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi sẽ ___ qua nhà bạn.",
+      "word": "ghé",
+      "language": "vi",
+      "translation": {
+        "en": "I will stop by your house."
+      },
+      "answer": "ghé",
+      "translatedAnswer": {
+        "en": "stop by"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "stop by"
+      },
+      "answer": "ghé",
+      "hint": "g__",
+      "word": "ghé",
+      "sentence": "Bạn có ___ vào quán cà phê không?",
+      "translation": {
+        "en": "Do you want to stop by the coffee shop?"
+      },
+      "choices": [
+        "ghé",
+        "đi",
+        "lại"
+      ],
+      "language": "vi"
+    },
+    "id": "cb1e1afa-ece5-4922-a577-18eec5771cdb",
+    "createdAt": "2025-03-12T14:00:23.743Z",
+    "updatedAt": "2025-03-12T14:00:23.743Z"
+  },
+  "word": "ghé",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**ghé** = to stop by somewhere briefly, usually on the way to something else. It implies a short, casual visit.\n\nIt’s a verb, often used with places (shops, houses, offices) or with **ghé thăm** for visiting someone more politely. The visit is usually quick, not long or formal.\n\n\nVery close to **ghé qua** or **tạt qua** (more informal). If you stay long, you wouldn’t use *ghé*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "IpFNBnvDT1Y6hS5PA5vJ"
+}

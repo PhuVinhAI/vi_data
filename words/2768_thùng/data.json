@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T13:50:05.563Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:09:25.780Z",
+    "updatedAt": "2025-03-12T13:09:25.780Z",
+    "id": "984b2633-6972-4f7b-8f89-b220a6b80428",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "thùng",
+      "sentence": "Tôi cần một ___ để đựng nước.",
+      "word": "thùng",
+      "translatedAnswer": {
+        "en": "container"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I need a container to hold water."
+      },
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**Thùng** means a big box or container. It’s usually larger and deeper than *hộp* (which is a small box).\n\nIt’s a countable noun: use **cái** or just a number + *thùng* (một thùng, hai thùng).  \nCommon pairings: *thùng rác* (trash can), *thùng bia* (a case of beer), *thùng nước*, *thùng carton*.  \n\nThink: *hộp* = small box, *thùng* = big, bulky container.",
+  "exampleSentencesTranslated": [
+    "I just bought a box to store old books in the room.",
+    "Can you help me carry this box to the car?",
+    "I put the fruit in the box in the kitchen corner."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "Thùng means a big box or container. It’s usually larger and deeper than hộp (which is a small box).\n\nIt’s a countable noun: use cái or just a number + thùng (một thùng, hai thùng).  \nCommon pairings: thùng rác (trash can), thùng bia (a case of beer), thùng nước, thùng carton.  \n\nThink: hộp = small box, thùng = big, bulky container.",
+  "choices": [
+    "thùng",
+    "bàn",
+    "ghế"
+  ],
+  "word": "thùng",
+  "definition": "box",
+  "rank": 2768,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Puse los libros en la caja.",
+      "vi": "Tôi để sách trong thùng.",
+      "en": "I put the books in the box."
+    },
+    "translations": {
+      "es": "caja",
+      "en": "box",
+      "vi": "thùng"
+    },
+    "createdAt": "2025-01-28T10:50:41.940Z",
+    "definitions": {
+      "es": "Un contenedor, típicamente hecho de cartón o madera, utilizado para almacenamiento o transporte.",
+      "vi": "Một cái chứa, thường được làm bằng bìa cứng hoặc gỗ, dùng để lưu trữ hoặc vận chuyển.",
+      "en": "A container, typically made of cardboard or wood, used for storage or transport."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "thùng",
+      "sentence": "Tôi đã mua một ___ mới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "container"
+      },
+      "word": "thùng",
+      "hint": "th___n",
+      "translation": {
+        "en": "I bought a new container."
+      },
+      "choices": [
+        "thùng",
+        "hộp",
+        "bình"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "93a0fcf2-b675-43d2-b58a-11f0a733b888",
+    "createdAt": "2025-03-12T13:09:25.780Z",
+    "updatedAt": "2025-03-12T13:09:25.780Z"
+  },
+  "exampleSentences": [
+    "Anh vừa mua một thùng để đựng sách cũ trong phòng.",
+    "Chị có thể giúp em mang thùng này ra ngoài xe không?",
+    "Em để trái cây trong thùng ở góc bếp rồi nhé."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "5Eh2KVnFaIDGR7AnvzUZ"
+}

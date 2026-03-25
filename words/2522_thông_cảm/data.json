@@ -1,0 +1,99 @@
+{
+  "rank": 2522,
+  "definition": "understand and forgive someone's situation",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Espero que puedas entender mi situación.",
+      "vi": "Tôi mong bạn thông cảm cho tôi trong tình huống này.",
+      "en": "I hope you can understand my situation."
+    },
+    "translations": {
+      "es": "entender",
+      "en": "understand",
+      "vi": "thông cảm"
+    },
+    "createdAt": "2025-01-28T10:40:38.710Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Thể hiện sự đồng cảm hoặc hiểu biết về cảm xúc hoặc tình huống của ai đó.",
+      "en": "To empathize or show understanding towards someone's feelings or situation.",
+      "es": "Empatizar o mostrar comprensión hacia los sentimientos o la situación de alguien."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I sympathize when you are wrong."
+      },
+      "choices": [
+        "thông cảm",
+        "thấu hiểu",
+        "đồng cảm"
+      ],
+      "hint": "t___g",
+      "word": "thông cảm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sympathize"
+      },
+      "sentence": "Tôi ___ khi bạn sai.",
+      "answer": "thông cảm"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "33432bcc-4b66-491d-afb8-fddcc6f2cfaa",
+    "createdAt": "2025-03-12T12:57:23.357Z",
+    "updatedAt": "2025-03-12T12:57:23.357Z"
+  },
+  "exampleSentences": [
+    "Anh mong em sẽ thông cảm vì anh đến muộn hôm nay.",
+    "Chị ấy luôn thông cảm với khó khăn của bạn bè mình.",
+    "Nếu có gì không phải, mong anh thông cảm cho em nhé."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "thông cảm = to understand someone’s situation and forgive them for it. It’s about empathy + not blaming.\n\nUsed when you want someone to be patient or forgiving with you, or when you show empathy to others.  \n\nOften appears with softening words like mong, hy vọng, xin.  \nClose to cảm thông (more formal, deeper sympathy). Opposite vibe: trách, giận.",
+  "choices": [
+    "thông cảm",
+    "giúp đỡ",
+    "chia sẻ"
+  ],
+  "word": "thông cảm",
+  "notes_md": "**thông cảm** = to understand someone’s situation and forgive them for it. It’s about empathy + not blaming.\n\nUsed when you want someone to be patient or forgiving with you, or when you show empathy to others.  \n\nOften appears with softening words like *mong*, *hy vọng*, *xin*.  \nClose to **cảm thông** (more formal, deeper sympathy). Opposite vibe: **trách**, **giận**.",
+  "exampleSentencesTranslated": [
+    "I hope you will understand and forgive someone's situation because I am late today.",
+    "She always understand and forgive someone's situation with her friends' difficulties.",
+    "If there is anything wrong, I hope you understand and forgive someone's situation for me."
+  ],
+  "updatedAt": "2026-03-03T10:44:21.016Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I sympathize when you are wrong."
+      },
+      "choices": [],
+      "word": "thông cảm",
+      "translatedAnswer": {
+        "en": "sympathize"
+      },
+      "language": "vi",
+      "sentence": "Tôi ___ khi bạn sai.",
+      "answer": "thông cảm"
+    },
+    "type": "fillBlankQuiz",
+    "id": "a109d56a-c4a8-4384-81e1-a9a12186e0d4",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T12:57:23.357Z",
+    "updatedAt": "2025-03-12T12:57:23.357Z"
+  },
+  "_id": "24wiSnjDAP1TXgn8o0UL"
+}

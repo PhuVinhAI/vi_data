@@ -1,0 +1,96 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "id": "97cbe07c-1823-4e75-9d89-ef5ffceb2209",
+    "content": {
+      "word": "xem",
+      "hint": "x__",
+      "sentence": "Chúng ta có thể ___ bữa tiệc.",
+      "translation": {
+        "en": "We can watch the party."
+      },
+      "language": "vi",
+      "choices": [
+        "xem",
+        "thấy",
+        "nghe"
+      ],
+      "translatedAnswer": {
+        "en": "watch"
+      },
+      "answer": "xem"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:11:08.484Z",
+    "createdAt": "2025-03-12T14:11:08.484Z"
+  },
+  "word": "xem",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xem** = to watch, look at, or check. It’s used for watching shows, looking at things, or checking information.\n\nYou use it with things you see with your eyes: xem TV, xem ảnh, xem biểu diễn, xem đồng hồ. It can also mean “check” or “take a look at” something (xem giá, xem lại bài).  \n\n\nClose cousin: **nhìn** = just “look” (more about the physical act), while **xem** often feels more active or intentional.",
+  "choices": [
+    "nghe",
+    "xem",
+    "đọc"
+  ],
+  "updatedAt": "2026-03-03T06:36:01.057Z",
+  "notes": "xem = to watch, look at, or check. It’s used for watching shows, looking at things, or checking information.\n\nYou use it with things you see with your eyes: xem TV, xem ảnh, xem biểu diễn, xem đồng hồ. It can also mean “check” or “take a look at” something (xem giá, xem lại bài).  \n\nClose cousin: nhìn = just “look” (more about the physical act), while xem often feels more active or intentional.",
+  "exampleSentencesTranslated": [
+    "Do you want to go to watch a movie with me this weekend?",
+    "She often watches the news on TV every morning.",
+    "My friend likes to watch football with his family on Saturday evenings."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "watch"
+      },
+      "answer": "xem",
+      "word": "xem",
+      "sentence": "Tôi muốn ___ bộ phim này.",
+      "translation": {
+        "en": "I want to watch this movie."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "2266cf9e-428c-49ab-9d6c-82b34dfae95c",
+    "createdAt": "2025-03-12T14:11:08.484Z",
+    "updatedAt": "2025-03-12T14:11:08.484Z"
+  },
+  "definition": "to watch",
+  "rank": 155,
+  "exampleSentences": [
+    "Em có muốn đi xem phim với anh vào cuối tuần này không?",
+    "Chị thường xuyên xem tin tức trên tivi mỗi buổi sáng.",
+    "Bạn của em thích xem bóng đá cùng gia đình vào tối thứ bảy."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tối nay chúng ta cùng xem phim nhé.",
+      "en": "Let's watch a movie together tonight."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Hành động quan sát hoặc theo dõi điều gì đó bằng mắt.",
+      "en": "The act of observing or watching something with your eyes."
+    },
+    "word": "xem",
+    "translations": {
+      "en": "watch; look at"
+    },
+    "createdAt": "2025-05-24T16:21:05.234Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "L1F2PXT2hM250pfLt1Wo"
+}

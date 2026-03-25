@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:40:03.272Z",
+    "id": "c7fe602e-f65e-45ea-8d80-02f07fa56de4",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "how long"
+      },
+      "sentence": "Bạn sẽ đi du lịch trong ___?",
+      "translation": {
+        "en": "How long will you travel?"
+      },
+      "answer": "bao lâu",
+      "choices": [],
+      "word": "bao lâu"
+    },
+    "updatedAt": "2025-03-12T14:40:03.272Z"
+  },
+  "definition": "how long",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "es": "cuánto tiempo",
+      "vi": "bao lâu",
+      "en": "how long"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Bạn sẽ ở đây bao lâu?",
+      "en": "How long will you be here?",
+      "es": "¿Cuánto tiempo estarás aquí?"
+    },
+    "createdAt": "2025-01-28T12:15:23.197Z",
+    "definitions": {
+      "es": "Una frase utilizada para preguntar sobre la duración del tiempo.",
+      "vi": "Cụm từ dùng để hỏi về khoảng thời gian.",
+      "en": "A phrase used to ask about the duration of time."
+    }
+  },
+  "exampleSentences": [
+    "Anh đã chờ em ở đây được bao lâu rồi?",
+    "Chị muốn biết em sẽ ở nước ngoài bao lâu.",
+    "Em học tiếng Việt được bao lâu thì nói tốt như vậy?"
+  ],
+  "notes_md": "**bao lâu** = *how long* (about duration, not distance). It asks or talks about the length of time something happens.\n\nIt often appears with **được** to ask how long something has been happening.  \n\nYou can also use it for future duration after verbs like **ở**, **đợi**, **học**, **mất** (mất bao lâu = how long it takes).\n\nTo answer, replace *bao lâu* with a time phrase like **một giờ, hai năm, rất lâu**.",
+  "choices": [
+    "bao lâu",
+    "bao nhiêu",
+    "ở đâu"
+  ],
+  "notes": "bao lâu = how long (about duration, not distance). It asks or talks about the length of time something happens.\n\nIt often appears with được to ask how long something has been happening.  \n\nYou can also use it for future duration after verbs like ở, đợi, học, mất (mất bao lâu = how long it takes).\n\nTo answer, replace bao lâu with a time phrase like một giờ, hai năm, rất lâu.",
+  "rank": 1955,
+  "exampleSentencesTranslated": [
+    "How long have you been waiting for me here?",
+    "How long will you stay abroad?",
+    "How long did you study Vietnamese to speak so well?"
+  ],
+  "word": "bao lâu",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "a450daa5-07b5-4870-8840-3f4c33cb8b85",
+    "createdAt": "2025-03-12T14:40:03.272Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:40:03.272Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "how long"
+      },
+      "language": "vi",
+      "sentence": "Bạn đã ở đây ___ rồi.",
+      "translation": {
+        "en": "How long have you been here?"
+      },
+      "answer": "bao lâu",
+      "hint": "b___u",
+      "word": "bao lâu",
+      "choices": [
+        "bao lâu",
+        "mấy hôm",
+        "một thời gian"
+      ]
+    }
+  },
+  "updatedAt": "2026-03-03T09:44:59.855Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Rxt4j7YDUQNPqyV4Eo50"
+}

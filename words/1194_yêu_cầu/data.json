@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "38df3392-9d37-4d0a-a690-6d80541bd393",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:41:20.290Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Bạn có ___ nào cho tôi không?",
+      "word": "yêu cầu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "requests"
+      },
+      "answer": "yêu cầu",
+      "translation": {
+        "en": "Do you have any requests for me?"
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:41:20.290Z"
+  },
+  "rank": 1194,
+  "definition": "request",
+  "notes_md": "**yêu cầu** = a request, or to request/require something. It can be both a noun and a verb.\n\nAs a noun, you can count it: *một yêu cầu, các yêu cầu*. Common pairings: *đáp ứng yêu cầu* (meet a request/requirement), *theo yêu cầu* (as requested).\n\nAs a verb, it’s a bit stronger than *đề nghị* (suggest/ask politely), but softer than *đòi hỏi* (demand).\n\n\nIt’s often used in formal or work contexts, but also in daily situations when you want something clearly done.",
+  "flashcard": {
+    "translations": {
+      "es": "solicitud",
+      "en": "request",
+      "vi": "yêu cầu"
+    },
+    "definitions": {
+      "en": "A demand or request for something.",
+      "es": "Una demanda o solicitud de algo.",
+      "vi": "Một yêu cầu hoặc đòi hỏi về điều gì đó."
+    },
+    "example": {
+      "vi": "Tôi có một yêu cầu đặc biệt cho bạn.",
+      "es": "Tengo una solicitud especial para ti.",
+      "en": "I have a special request for you."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:12:49.555Z"
+  },
+  "notes": "yêu cầu = a request, or to request/require something. It can be both a noun and a verb.\n\nAs a noun, you can count it: một yêu cầu, các yêu cầu. Common pairings: đáp ứng yêu cầu (meet a request/requirement), theo yêu cầu (as requested).\n\nAs a verb, it’s a bit stronger than đề nghị (suggest/ask politely), but softer than đòi hỏi (demand).\n\nIt’s often used in formal or work contexts, but also in daily situations when you want something clearly done.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you help me with this request?",
+    "She sent a request to the human resources department yesterday.",
+    "If you have any request, please tell me."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "yêu cầu",
+  "choices": [
+    "yêu cầu",
+    "thông báo",
+    "giải thích"
+  ],
+  "multiChoiceQuiz": {
+    "id": "3023661e-097c-45ef-9e47-ade2bef91963",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:41:20.290Z",
+    "content": {
+      "word": "yêu cầu",
+      "hint": "y___u cầu",
+      "sentence": "Bạn có ___ nào cho tôi không?",
+      "translatedAnswer": {
+        "en": "requests"
+      },
+      "translation": {
+        "en": "Do you have any requests for me?"
+      },
+      "answer": "yêu cầu",
+      "choices": [
+        "yêu cầu",
+        "đề xuất",
+        "hướng dẫn"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:41:20.290Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh có thể giúp em với yêu cầu này không?",
+    "Chị đã gửi một yêu cầu đến phòng nhân sự hôm qua.",
+    "Nếu em có bất kỳ yêu cầu nào, hãy nói với anh nhé."
+  ],
+  "updatedAt": "2026-03-03T08:22:56.813Z",
+  "_id": "x02yn2mNwYS1vxzG4eRw"
+}

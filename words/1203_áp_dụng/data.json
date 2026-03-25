@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:07:47.396Z",
+    "updatedAt": "2025-03-12T14:07:47.396Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn cần ___ kiến thức vào thực tế.",
+      "hint": "á___n",
+      "word": "áp dụng",
+      "language": "vi",
+      "choices": [
+        "sử dụng",
+        "áp dụng",
+        "thực hiện"
+      ],
+      "translation": {
+        "en": "You need to apply knowledge to reality."
+      },
+      "answer": "áp dụng",
+      "translatedAnswer": {
+        "en": "apply"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "46affdc0-78d0-4162-9571-f48415f2e563"
+  },
+  "word": "áp dụng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Áp dụng** means *to apply* — to put something (an idea, rule, method, knowledge) into real use.\n\nYou use it with things like **phương pháp, quy định, luật, kiến thức, công nghệ**. It’s about turning theory into action.\n\nAlso: **áp dụng + cái gì + cho + ai/cái gì** (often for rules or policies).\n\nClose word: **ứng dụng** (more about practical/technical application, often in tech).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Áp dụng means to apply — to put something (an idea, rule, method, knowledge) into real use.\n\nYou use it with things like phương pháp, quy định, luật, kiến thức, công nghệ. It’s about turning theory into action.\n\nAlso: áp dụng + cái gì + cho + ai/cái gì (often for rules or policies).\n\nClose word: ứng dụng (more about practical/technical application, often in tech).",
+  "exampleSentencesTranslated": [
+    "I will apply this new method to my work.",
+    "You need to apply what you have learned in practice.",
+    "You should apply your teachers' advice to make more progress."
+  ],
+  "choices": [
+    "áp dụng",
+    "giải thích",
+    "bắt đầu"
+  ],
+  "updatedAt": "2026-03-03T08:23:58.688Z",
+  "definition": "apply",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "You need to apply knowledge to reality."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "áp dụng",
+      "sentence": "Bạn cần ___ kiến thức vào thực tế.",
+      "translatedAnswer": {
+        "en": "apply"
+      },
+      "answer": "áp dụng"
+    },
+    "type": "fillBlankQuiz",
+    "id": "cab2ed22-4465-47ed-847c-56bdeadb0e65",
+    "createdAt": "2025-03-12T14:07:47.396Z",
+    "updatedAt": "2025-03-12T14:07:47.396Z"
+  },
+  "rank": 1203,
+  "exampleSentences": [
+    "Anh sẽ áp dụng phương pháp mới này vào công việc của mình.",
+    "Chị cần áp dụng những gì đã học vào thực tế.",
+    "Em nên áp dụng lời khuyên của thầy cô để tiến bộ hơn."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "apply",
+      "es": "aplicar",
+      "vi": "áp dụng"
+    },
+    "definitions": {
+      "en": "To put into practice or use.",
+      "es": "Poner en práctica o usar.",
+      "vi": "Đưa vào thực tiễn hoặc sử dụng."
+    },
+    "createdAt": "2025-01-28T11:45:08.636Z",
+    "example": {
+      "en": "We need to apply new measures.",
+      "vi": "Chúng ta cần áp dụng các biện pháp mới.",
+      "es": "Necesitamos aplicar nuevas medidas."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "KQvyLEa9XravITWgJZeL"
+}

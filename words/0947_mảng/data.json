@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "f7d33751-de4d-4614-9d11-20e86a157ef2",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần một ___ mới.",
+      "answer": "mảng",
+      "choices": [],
+      "translation": {
+        "en": "I need a new array."
+      },
+      "word": "mảng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "array"
+      }
+    },
+    "createdAt": "2025-03-12T12:50:35.833Z",
+    "updatedAt": "2025-03-12T12:50:35.833Z"
+  },
+  "updatedAt": "2026-03-03T07:56:33.374Z",
+  "exampleSentencesTranslated": [
+    "I am in charge of a new section in this project.",
+    "I want to learn more about the education section nowadays.",
+    "Each section in the job has its own difficulties."
+  ],
+  "notes_md": "**mảng** = a section, area, or field of work/knowledge. It’s often used when talking about different parts of a job, project, or industry.\n\nIt’s a noun. You can say *một mảng*, *nhiều mảng*, and it often goes with work-related words (mảng kỹ thuật, mảng kinh doanh, mảng nội dung).  \n\nIt can also mean a physical “patch” or “area” of something, like a block of color or a section of a wall (mảng màu, mảng tường).  \n\nClose synonym: **lĩnh vực** (more formal, more like “field”); **phần** is broader and more general (“part”).",
+  "notes": "mảng = a section, area, or field of work/knowledge. It’s often used when talking about different parts of a job, project, or industry.\n\nIt’s a noun. You can say một mảng, nhiều mảng, and it often goes with work-related words (mảng kỹ thuật, mảng kinh doanh, mảng nội dung).  \n\nIt can also mean a physical “patch” or “area” of something, like a block of color or a section of a wall (mảng màu, mảng tường).  \n\nClose synonym: lĩnh vực (more formal, more like “field”); phần is broader and more general (“part”).",
+  "choices": [
+    "mảng",
+    "nhóm",
+    "lĩnh vực"
+  ],
+  "word": "mảng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "2d49c166-4e43-40a6-8fe5-0d6b62a567cf",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "mảng",
+      "sentence": "Tôi cần một ___ mới.",
+      "word": "mảng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "array"
+      },
+      "hint": "m__g",
+      "translation": {
+        "en": "I need a new array."
+      },
+      "choices": [
+        "mảng",
+        "danh sách",
+        "bảng"
+      ]
+    },
+    "createdAt": "2025-03-12T12:50:35.833Z",
+    "updatedAt": "2025-03-12T12:50:35.833Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đang phụ trách một mảng mới trong dự án này.",
+    "Chị muốn tìm hiểu thêm về mảng giáo dục hiện nay.",
+    "Mỗi mảng trong công việc đều có những khó khăn riêng."
+  ],
+  "rank": 947,
+  "definition": "section",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:35:14.668Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một tập hợp các mục được lưu trữ tại các vị trí bộ nhớ liền kề, thường được sử dụng trong lập trình.",
+      "en": "A collection of items stored at contiguous memory locations, typically used in programming.",
+      "es": "Una colección de elementos almacenados en ubicaciones de memoria contiguas, típicamente utilizada en programación."
+    },
+    "example": {
+      "en": "I am learning about arrays in programming.",
+      "vi": "Tôi đang học về các mảng trong lập trình.",
+      "es": "Estoy aprendiendo sobre arreglos en programación."
+    },
+    "translations": {
+      "vi": "mảng",
+      "en": "array",
+      "es": "arreglo"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "0ZqAFTODxN8ygqxwWqDG"
+}

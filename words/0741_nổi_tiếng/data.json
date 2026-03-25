@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nổi tiếng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "aae9cdcd-5861-4afe-85c4-be75a614c33b",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:37:23.165Z",
+    "content": {
+      "answer": "nổi tiếng",
+      "hint": "n___ tiếng",
+      "translation": {
+        "en": "That artist is very famous in Vietnam."
+      },
+      "translatedAnswer": {
+        "en": "famous"
+      },
+      "word": "nổi tiếng",
+      "sentence": "Nghệ sĩ đó rất ___ ở Việt Nam.",
+      "language": "vi",
+      "choices": [
+        "nổi tiếng",
+        "không nổi",
+        "thông thường"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:37:23.165Z"
+  },
+  "rank": 741,
+  "choices": [
+    "nổi tiếng",
+    "thú vị",
+    "hiện đại"
+  ],
+  "notes_md": "**nổi tiếng** = famous, well-known. It’s used for people, places, brands, food, events—anything many people know about.\n\nIt’s an adjective, so it comes after the noun it describes (ca sĩ nổi tiếng, nhà hàng nổi tiếng).  \n\n\nClose synonym: **nổi danh** (similar vibe). Opposite: **vô danh** (unknown, nameless).",
+  "notes": "nổi tiếng = famous, well-known. It’s used for people, places, brands, food, events—anything many people know about.\n\nIt’s an adjective, so it comes after the noun it describes (ca sĩ nổi tiếng, nhà hàng nổi tiếng).  \n\nClose synonym: nổi danh (similar vibe). Opposite: vô danh (unknown, nameless).",
+  "exampleSentences": [
+    "Anh muốn đến thăm một nhà hàng nổi tiếng ở thành phố này.",
+    "Bộ phim đó rất nổi tiếng nên ai cũng muốn xem.",
+    "Chị ấy là ca sĩ nổi tiếng mà mọi người đều yêu thích."
+  ],
+  "updatedAt": "2026-03-03T07:35:50.951Z",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "nổi tiếng",
+      "translation": {
+        "en": "That person is very famous in their field."
+      },
+      "translatedAnswer": {
+        "en": "famous"
+      },
+      "word": "nổi tiếng",
+      "language": "vi",
+      "sentence": "Người đó rất ___ trong lĩnh vực của họ.",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T15:37:23.165Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "5bc7a73a-9496-491e-ab91-0d3d5685e7b8",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:37:23.165Z"
+  },
+  "exampleSentencesTranslated": [
+    "I want to visit a famous restaurant in this city.",
+    "That movie is very famous so everyone wants to watch it.",
+    "She is a famous singer that everyone loves."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Bien conocido o celebrado.",
+      "vi": "Nổi bật hoặc được biết đến rộng rãi.",
+      "en": "Well-known or celebrated."
+    },
+    "example": {
+      "es": "Ella es una cantante famosa.",
+      "vi": "Cô ấy là một ca sĩ nổi tiếng.",
+      "en": "She is a famous singer."
+    },
+    "translations": {
+      "en": "famous",
+      "es": "famoso",
+      "vi": "nổi tiếng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:11:20.626Z"
+  },
+  "definition": "famous",
+  "_id": "gSK9Tish72lDzfHE1Yu2"
+}

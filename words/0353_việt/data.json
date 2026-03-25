@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "d69c62be-9651-4337-9e40-edab649bbb06",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:21:13.730Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "Vietnamese"
+      },
+      "translation": {
+        "en": "I speak Vietnamese."
+      },
+      "hint": "v___t",
+      "answer": "việt",
+      "choices": [
+        "việt",
+        "việts",
+        "VIỆT"
+      ],
+      "sentence": "Tôi nói tiếng ___.",
+      "language": "vi",
+      "word": "việt"
+    },
+    "updatedAt": "2025-03-12T15:21:13.730Z"
+  },
+  "rank": 353,
+  "choices": [
+    "việt",
+    "trung",
+    "nhật"
+  ],
+  "notes_md": "**việt** means *Vietnamese* (from Vietnam). It can refer to people, language, or things from Vietnam.\n\nIt usually comes **after** the noun it describes, like an adjective.  \n\nIt’s often capitalized as **Việt**, especially in names like **Việt Nam**.  \nYou’ll also see **Việt Nam** used instead of just **Việt** for a more formal or complete feel.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "việt",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:21:13.730Z",
+    "content": {
+      "word": "việt",
+      "sentence": "Tôi nói tiếng ___.",
+      "language": "vi",
+      "choices": [],
+      "answer": "việt",
+      "translation": {
+        "en": "I speak Vietnamese."
+      },
+      "translatedAnswer": {
+        "en": "Vietnamese"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:21:13.730Z",
+    "id": "537f4df1-1c27-479b-b412-08c85a4507e5",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I am learning Vietnamese to talk with my girlfriend's family.",
+    "I like watching Vietnamese movies because the content is very relatable and meaningful.",
+    "My friend just bought a very famous Vietnamese book in the country."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Relativo a Vietnam o su gente.",
+      "vi": "Liên quan đến Việt Nam hoặc người dân của nó.",
+      "en": "Relating to Vietnam or its people."
+    },
+    "example": {
+      "vi": "Tôi là người Việt.",
+      "es": "Soy vietnamita.",
+      "en": "I am Vietnamese."
+    },
+    "translations": {
+      "es": "Vietnamita",
+      "vi": "Việt",
+      "en": "Vietnamese"
+    },
+    "createdAt": "2025-01-28T12:56:05.826Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "Vietnamese",
+  "notes": "việt means Vietnamese (from Vietnam). It can refer to people, language, or things from Vietnam.\n\nIt usually comes after the noun it describes, like an adjective.  \n\nIt’s often capitalized as Việt, especially in names like Việt Nam.  \nYou’ll also see Việt Nam used instead of just Việt for a more formal or complete feel.",
+  "exampleSentences": [
+    "Anh đang học tiếng việt để nói chuyện với gia đình bạn gái.",
+    "Chị thích xem phim việt vì nội dung rất gần gũi và ý nghĩa.",
+    "Bạn em mới mua một cuốn sách việt rất nổi tiếng trong nước."
+  ],
+  "updatedAt": "2026-03-03T06:57:44.820Z",
+  "_id": "cf7fo9nFDqTXY7V7Y6mF"
+}

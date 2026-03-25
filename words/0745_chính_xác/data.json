@@ -1,0 +1,96 @@
+{
+  "exampleSentences": [
+    "Em có thể cho anh số liệu chính xác về doanh thu tháng này không?",
+    "Địa chỉ mà chị đưa cho em không chính xác nên em bị lạc đường.",
+    "Để giải bài toán này, chúng ta cần thông tin chính xác từ đề bài."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chính xác",
+    "quan trọng",
+    "tuyệt vời"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:55:58.394Z",
+    "updatedAt": "2025-03-12T15:55:58.394Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "This result is accurate."
+      },
+      "word": "chính xác",
+      "translatedAnswer": {
+        "en": "accurate"
+      },
+      "answer": "chính xác",
+      "sentence": "Kết quả này là ___.",
+      "choices": []
+    },
+    "id": "0eede7a1-55b0-4a9e-bf0e-69a3ec933bcf",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 745,
+  "notes": "chính xác means accurate, exact, correct. It’s used for information, numbers, time, answers, directions—anything that needs to be right in detail.\n\nIt’s an adjective, so it describes nouns (thông tin chính xác, con số chính xác) or comes after là. You’ll often hear rất / khá / hoàn toàn chính xác for emphasis.\n\nIt’s close to đúng, but chính xác stresses precision, not just “not wrong.” Opposite: sai, không chính xác.\n\nIt can also mean “Exactly!” when you agree strongly with someone.",
+  "definition": "accurate",
+  "notes_md": "**chính xác** means *accurate, exact, correct*. It’s used for information, numbers, time, answers, directions—anything that needs to be right in detail.\n\nIt’s an adjective, so it describes nouns (thông tin chính xác, con số chính xác) or comes after **là**. You’ll often hear **rất / khá / hoàn toàn chính xác** for emphasis.\n\nIt’s close to **đúng**, but *chính xác* stresses precision, not just “not wrong.” Opposite: **sai**, **không chính xác**.\n\nIt can also mean **“Exactly!”** when you agree strongly with someone.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:55:58.394Z",
+    "updatedAt": "2025-03-12T15:55:58.394Z",
+    "content": {
+      "language": "vi",
+      "word": "chính xác",
+      "translation": {
+        "en": "This result is accurate."
+      },
+      "hint": "c___x",
+      "sentence": "Kết quả này là ___.",
+      "choices": [
+        "chính xác",
+        "hợp lý",
+        "sai lầm"
+      ],
+      "translatedAnswer": {
+        "en": "accurate"
+      },
+      "answer": "chính xác"
+    },
+    "id": "193cb2a0-cdc7-4ed3-b553-4a609bf86e8e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:36:16.351Z",
+  "flashcard": {
+    "translations": {
+      "en": "accurate; exact"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "Your answer is very accurate.",
+      "vi": "Câu trả lời của bạn rất chính xác."
+    },
+    "createdAt": "2025-05-24T16:32:25.668Z",
+    "definitions": {
+      "vi": "Diễn tả sự đúng đắn, không sai lệch so với thực tế hay tiêu chuẩn.",
+      "en": "Describes something that is correct or exact, without errors or deviation."
+    },
+    "word": "chính xác"
+  },
+  "word": "chính xác",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you give me the accurate data about this month's revenue?",
+    "The address you gave me is not accurate so I got lost.",
+    "To solve this math problem, we need accurate information from the question."
+  ],
+  "_id": "kzEwnr0RJEuGj1A3Ol49"
+}

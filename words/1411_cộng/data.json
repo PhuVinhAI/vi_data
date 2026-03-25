@@ -1,0 +1,99 @@
+{
+  "rank": 1411,
+  "notes_md": "**cộng** = to add (numbers). It’s the basic math verb for putting numbers together.\n\nUse it with numbers or amounts. You’ll often see **cộng với** (“plus”) and **cộng thêm** (add extra). Also common in phrases like **cộng điểm** (add points/bonus points).  \n\nStrong opposite: **trừ** (subtract). Similar idea: **thêm** (add), but *thêm* is more general, not just math.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ tiền cho bạn.",
+      "word": "cộng",
+      "answer": "cộng",
+      "language": "vi",
+      "choices": [
+        "trừ",
+        "cộng",
+        "chia"
+      ],
+      "translatedAnswer": {
+        "en": "add"
+      },
+      "translation": {
+        "en": "I want to add money for you."
+      },
+      "hint": "c___"
+    },
+    "updatedAt": "2025-03-12T16:10:36.375Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:10:36.375Z",
+    "id": "70e59b77-b3c6-4bb5-99a5-570f83c04fe0"
+  },
+  "definition": "add",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:10:36.375Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi sẽ ___ thêm tiền vào tài khoản.",
+      "translation": {
+        "en": "I will add more money to the account."
+      },
+      "translatedAnswer": {
+        "en": "add"
+      },
+      "answer": "cộng",
+      "language": "vi",
+      "word": "cộng",
+      "choices": []
+    },
+    "id": "efe69ff8-8b8b-4cba-b5c1-55999300081c",
+    "createdAt": "2025-03-12T16:10:36.375Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "cộng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "cộng = to add (numbers). It’s the basic math verb for putting numbers together.\n\nUse it with numbers or amounts. You’ll often see cộng với (“plus”) and cộng thêm (add extra). Also common in phrases like cộng điểm (add points/bonus points).  \n\nStrong opposite: trừ (subtract). Similar idea: thêm (add), but thêm is more general, not just math.",
+  "exampleSentences": [
+    "Em có thể giúp anh cộng các số này lại với nhau không?",
+    "Khi làm toán, chị luôn nhớ phải cộng đúng các con số.",
+    "Nếu em cộng 5 với 7 thì sẽ được kết quả bao nhiêu?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "trừ",
+    "cộng",
+    "nhân"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Two plus three equals five.",
+      "es": "Dos más tres son cinco.",
+      "vi": "Hai cộng ba bằng năm."
+    },
+    "translations": {
+      "en": "plus",
+      "es": "más",
+      "vi": "cộng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:42:38.020Z",
+    "definitions": {
+      "en": "To add; a mathematical operation that combines two or more numbers.",
+      "es": "Sumar; una operación matemática que combina dos o más números.",
+      "vi": "Cộng; một phép toán kết hợp hai hoặc nhiều số."
+    }
+  },
+  "updatedAt": "2026-03-03T08:46:51.299Z",
+  "exampleSentencesTranslated": [
+    "Can you help me add these numbers together?",
+    "When doing math, she always remembers to add the numbers correctly.",
+    "If you add 5 to 7, what result will you get?"
+  ],
+  "_id": "pELwHixa2pHfDhIpASxT"
+}

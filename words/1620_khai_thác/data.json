@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "khai thác",
+    "học tập",
+    "xây dựng"
+  ],
+  "rank": 1620,
+  "multiChoiceQuiz": {
+    "id": "c2b53e97-8f62-4b82-9d88-8986a0fbe14f",
+    "content": {
+      "choices": [
+        "khai thác",
+        "khai phá",
+        "khai mạc"
+      ],
+      "translatedAnswer": {
+        "en": "exploit"
+      },
+      "translation": {
+        "en": "We need to exploit resources."
+      },
+      "sentence": "Chúng ta cần ___ tài nguyên.",
+      "word": "khai thác",
+      "language": "vi",
+      "hint": "k___h",
+      "answer": "khai thác"
+    },
+    "updatedAt": "2025-03-12T14:59:21.134Z",
+    "createdAt": "2025-03-12T14:59:21.134Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chính phủ cần kiểm soát việc khai thác tài nguyên thiên nhiên hợp lý.",
+    "Công ty đang tìm cách khai thác tiềm năng du lịch của khu vực này.",
+    "Anh ấy muốn khai thác kinh nghiệm của mình để phát triển dự án mới."
+  ],
+  "notes": "khai thác = to exploit, extract, or make use of something for benefit. It can be physical (like resources) or abstract (like potential or information).\n\nIt’s a verb, usually followed directly by a noun: natural resources, minerals, data, market, potential, ideas. It often implies taking value from something, sometimes in a neutral way, sometimes slightly negative.\n\nClose word: tận dụng = make good use of (more positive, less “extracting” feeling).",
+  "word": "khai thác",
+  "fillBlankQuiz": {
+    "id": "b67422ca-017f-471e-8656-4f49ce521a2c",
+    "updatedAt": "2025-03-12T14:59:21.134Z",
+    "content": {
+      "translation": {
+        "en": "We need to exploit resources."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "exploit"
+      },
+      "answer": "khai thác",
+      "word": "khai thác",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ tài nguyên."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:59:21.134Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:09:22.263Z",
+  "exampleSentencesTranslated": [
+    "The government needs to control how to exploit natural resources reasonably.",
+    "The company is looking for ways to exploit the tourism potential of this area.",
+    "He wants to exploit his experience to develop the new project."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:32:20.701Z",
+    "definitions": {
+      "en": "To extract or utilize resources, often in a way that can be unsustainable.",
+      "es": "Extraer o utilizar recursos, a menudo de una manera que puede ser insostenible.",
+      "vi": "Khai thác tài nguyên, thường theo cách có thể không bền vững."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "exploit",
+      "es": "explotar",
+      "vi": "khai thác"
+    },
+    "example": {
+      "en": "We need to exploit resources sustainably.",
+      "es": "Necesitamos explotar los recursos de manera sostenible.",
+      "vi": "Chúng ta cần khai thác tài nguyên một cách bền vững."
+    }
+  },
+  "notes_md": "**khai thác** = to exploit, extract, or make use of something for benefit. It can be physical (like resources) or abstract (like potential or information).\n\nIt’s a verb, usually followed directly by a noun: natural resources, minerals, data, market, potential, ideas. It often implies taking value from something, sometimes in a neutral way, sometimes slightly negative.\n\n\nClose word: **tận dụng** = make good use of (more positive, less “extracting” feeling).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "exploit",
+  "_id": "WmXHqFbMzeXmKMl4rPCk"
+}

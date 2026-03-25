@@ -1,0 +1,99 @@
+{
+  "word": "hội",
+  "rank": 1396,
+  "exampleSentences": [
+    "Anh tham gia một hội để kết bạn với nhiều người mới.",
+    "Chị ấy là thành viên của hội bảo vệ môi trường ở trường.",
+    "Em muốn lập một hội nhỏ để cùng học tiếng Anh."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "association",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hội",
+    "học",
+    "hè"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:44:15.983Z",
+    "createdAt": "2025-03-12T13:44:15.983Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We will participate in the meeting next month."
+      },
+      "answer": "hội",
+      "translatedAnswer": {
+        "en": "meeting"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi tham gia ___ vào tháng tới.",
+      "word": "hội"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "152dfcf8-5371-4c25-877b-77ab353b7b17"
+  },
+  "notes": "Hội usually means an association, club, or organized group of people with a shared goal or interest. It’s a noun.\n\nYou often use it with classifiers like một hội, các hội, or in compounds. Very common pairings: tham gia hội (join an association), lập hội (set up a group), hội viên (member), hội trưởng (head of the association).\n\nIt can also mean an organized event or gathering in some words, like hội chợ (fair) or hội nghị (conference), so think “organized group” or “organized event.”\n\nClose word: nhóm (group) — smaller and more casual; hội feels more formal and structured.",
+  "updatedAt": "2026-03-03T08:45:19.189Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "b57b2b34-8449-4020-9a15-7b95ddbd6b99",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:44:15.983Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "event"
+      },
+      "sentence": "Có một ___ về văn hóa Việt Nam.",
+      "word": "hội",
+      "language": "vi",
+      "hint": "h___",
+      "choices": [
+        "hội",
+        "cuộc thi",
+        "buổi họp"
+      ],
+      "answer": "hội",
+      "translation": {
+        "en": "There is an event about Vietnamese culture."
+      }
+    },
+    "createdAt": "2025-03-12T13:44:15.983Z"
+  },
+  "notes_md": "**Hội** usually means an association, club, or organized group of people with a shared goal or interest. It’s a noun.\n\nYou often use it with classifiers like **một hội**, **các hội**, or in compounds. Very common pairings: **tham gia hội** (join an association), **lập hội** (set up a group), **hội viên** (member), **hội trưởng** (head of the association).\n\nIt can also mean an organized event or gathering in some words, like **hội chợ** (fair) or **hội nghị** (conference), so think “organized group” or “organized event.”\n\nClose word: **nhóm** (group) — smaller and more casual; **hội** feels more formal and structured.",
+  "exampleSentencesTranslated": [
+    "He joins an association to make friends with many new people.",
+    "She is a member of the environmental protection association at school.",
+    "I want to set up a small association to study English together."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "hội thảo",
+      "es": "conferencia",
+      "en": "conference"
+    },
+    "example": {
+      "es": "Estamos asistiendo a una conferencia sobre tecnología.",
+      "vi": "Chúng tôi tham gia hội thảo về công nghệ.",
+      "en": "We are attending a conference on technology."
+    },
+    "createdAt": "2025-01-28T11:22:35.003Z",
+    "definitions": {
+      "vi": "Một buổi tụ họp hoặc cuộc họp với một mục đích cụ thể.",
+      "es": "Una reunión o encuentro con un propósito específico.",
+      "en": "A gathering or meeting for a specific purpose."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "EXzs02SBb6neiwLNGZRy"
+}

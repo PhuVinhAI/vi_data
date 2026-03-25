@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:44:29.413Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "712786d0-a4a2-49ee-bbc2-4924c0a256f3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần mua ___ để viết.",
+      "answer": "giấy",
+      "choices": [],
+      "translation": {
+        "en": "I need to buy paper to write."
+      },
+      "word": "giấy",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "paper"
+      }
+    },
+    "createdAt": "2025-03-12T13:08:57.307Z",
+    "updatedAt": "2025-03-12T13:08:57.307Z"
+  },
+  "notes_md": "**giấy** means *paper* (the material you write, print, or wrap things on).  \n\nIt’s a noun. To count sheets, use **tờ** → *một tờ giấy, hai tờ giấy*; for types, say **giấy + noun** (giấy in, giấy vệ sinh, giấy gói).  \n\nIt also very often means an official *document* or *paper* (giấy phép = license, giấy khai sinh = birth certificate).  \n\nFor “documents” in general, Vietnamese often says **giấy tờ** (important personal papers).",
+  "exampleSentencesTranslated": [
+    "Can you give me a sheet of paper to write on?",
+    "I need to buy more paper to print documents for the company.",
+    "I often use colored paper to make birthday cards."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "giấy",
+    "bút",
+    "sách"
+  ],
+  "notes": "giấy means paper (the material you write, print, or wrap things on).  \n\nIt’s a noun. To count sheets, use tờ → một tờ giấy, hai tờ giấy; for types, say giấy + noun (giấy in, giấy vệ sinh, giấy gói).  \n\nIt also very often means an official document or paper (giấy phép = license, giấy khai sinh = birth certificate).  \n\nFor “documents” in general, Vietnamese often says giấy tờ (important personal papers).",
+  "word": "giấy",
+  "definition": "paper",
+  "rank": 1388,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Necesito una hoja de papel para escribir.",
+      "en": "I need a piece of paper to write on.",
+      "vi": "Tôi cần một tờ giấy để viết."
+    },
+    "translations": {
+      "vi": "giấy",
+      "en": "paper",
+      "es": "papel"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un material delgado utilizado para escribir, imprimir o dibujar.",
+      "en": "A thin material used for writing, printing, or drawing.",
+      "vi": "Một vật liệu mỏng được sử dụng để viết, in hoặc vẽ."
+    },
+    "createdAt": "2025-01-28T10:50:06.509Z"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:08:57.307Z",
+    "updatedAt": "2025-03-12T13:08:57.307Z",
+    "id": "e560e1d8-b9bf-4a78-bcad-c12a8f0ac39f",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "paper"
+      },
+      "word": "giấy",
+      "hint": "g___",
+      "translation": {
+        "en": "She bought new paper."
+      },
+      "choices": [
+        "vải",
+        "giấy",
+        "bìa"
+      ],
+      "answer": "giấy",
+      "sentence": "Cô ấy đã mua ___ mới."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh có thể cho em một tờ giấy để viết không?",
+    "Chị cần mua thêm giấy để in tài liệu cho công ty.",
+    "Em thường dùng giấy màu để làm thiệp chúc mừng sinh nhật."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "5ATIB3GR0Ae1tCwYTVmF"
+}

@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "42423f28-eb07-44a3-b8ad-4c9afa1815a5",
+    "updatedAt": "2025-03-12T14:50:54.044Z",
+    "content": {
+      "sentence": "Tôi không biết lý do ___ của mình.",
+      "hint": "t___g",
+      "answer": "tâm trạng",
+      "word": "tâm trạng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "mood"
+      },
+      "choices": [
+        "tâm trạng",
+        "suy nghĩ",
+        "cảm xúc"
+      ],
+      "translation": {
+        "en": "I don't know the reason for my mood."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:50:54.044Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Hôm nay tâm trạng của anh không được tốt nên anh muốn ở một mình.",
+    "Sau khi nghe tin vui, tâm trạng của em trở nên rất thoải mái.",
+    "Chị thường nghe nhạc để cải thiện tâm trạng khi cảm thấy buồn."
+  ],
+  "notes": "Tâm trạng = mood, the general emotional state someone is in (happy, bad, relaxed, stressed, etc.).\n\nIt’s a noun. You usually say tâm trạng + tốt/xấu/vui/buồn/thoải mái/căng thẳng.  \nCommon verbs: có tâm trạng (be in the mood), thay đổi tâm trạng, cải thiện tâm trạng, ảnh hưởng đến tâm trạng.  \n\nIt’s uncountable in most cases (không nói một tâm trạng in normal conversation).  \nClose word: cảm xúc = emotion (more specific, individual feelings); tâm trạng is more like the overall vibe inside you.",
+  "word": "tâm trạng",
+  "choices": [
+    "tính cách",
+    "tâm trạng",
+    "cảm xúc"
+  ],
+  "rank": 2429,
+  "notes_md": "**Tâm trạng** = mood, the general emotional state someone is in (happy, bad, relaxed, stressed, etc.).\n\nIt’s a noun. You usually say **tâm trạng + tốt/xấu/vui/buồn/thoải mái/căng thẳng**.  \nCommon verbs: **có tâm trạng** (be in the mood), **thay đổi tâm trạng**, **cải thiện tâm trạng**, **ảnh hưởng đến tâm trạng**.  \n\nIt’s uncountable in most cases (không nói *một tâm trạng* in normal conversation).  \nClose word: **cảm xúc** = emotion (more specific, individual feelings); **tâm trạng** is more like the overall vibe inside you.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "mood",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:50:54.044Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "mood"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I am having a bad mood."
+      },
+      "sentence": "Tôi đang có ___ xấu.",
+      "answer": "tâm trạng",
+      "word": "tâm trạng",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:50:54.044Z",
+    "id": "75f07463-b49b-4f92-8b1b-85065e064ab6"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:34:28.043Z",
+  "exampleSentencesTranslated": [
+    "Today, his mood is not good so he wants to be alone.",
+    "After hearing the good news, her mood became very comfortable.",
+    "She often listens to music to improve her mood when she feels sad."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A person's emotional state or mood.",
+      "es": "El estado emocional o ánimo de una persona.",
+      "vi": "Trạng thái cảm xúc hoặc tâm lý của một người."
+    },
+    "createdAt": "2025-01-28T12:24:25.230Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "mood",
+      "es": "estado de ánimo",
+      "vi": "tâm trạng"
+    },
+    "example": {
+      "en": "I am in a very good mood today.",
+      "es": "Hoy tengo un estado de ánimo muy bueno.",
+      "vi": "Hôm nay tôi có tâm trạng rất tốt."
+    }
+  },
+  "_id": "UIE9sNxa0J97KIvuuUvh"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "We will create a new plan."
+      },
+      "answer": "tạo",
+      "choices": [],
+      "word": "tạo",
+      "sentence": "Chúng tôi sẽ ___ một kế hoạch mới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "create"
+      }
+    },
+    "updatedAt": "2025-03-12T14:40:11.350Z",
+    "id": "c2eae127-ce8b-4611-93cd-9567b40ec24b",
+    "createdAt": "2025-03-12T14:40:11.350Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "create",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi muốn tạo một bức tranh mới.",
+      "en": "I want to create a new painting.",
+      "es": "Quiero crear una nueva pintura."
+    },
+    "definitions": {
+      "en": "To bring something into existence; to make or produce.",
+      "vi": "Mang cái gì đó vào sự tồn tại; làm hoặc sản xuất.",
+      "es": "Hacer que algo exista; hacer o producir."
+    },
+    "createdAt": "2025-01-28T12:15:31.339Z",
+    "translations": {
+      "vi": "tạo",
+      "en": "create",
+      "es": "crear"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**tạo** = to create, make, form something new.\n\nIt’s a very common verb for creating things that didn’t exist before — ideas, plans, systems, opportunities, accounts, feelings. Often used in abstract situations like tạo cơ hội (create opportunities), tạo điều kiện (provide conditions), tạo ấn tượng (make an impression).\n\nAdding **ra** makes it slightly more explicit: “bring into existence”.\n\nClose to **làm** (make/do), but *tạo* feels more intentional and focused on bringing something new into being.",
+  "exampleSentences": [
+    "Anh muốn tạo một nhóm học tiếng Anh cho bạn bè.",
+    "Chị đang cố gắng tạo một thực đơn mới cho quán ăn của mình.",
+    "Em sẽ tạo một tài khoản mới để đăng ký dịch vụ này."
+  ],
+  "choices": [
+    "tạo",
+    "tặng",
+    "tìm"
+  ],
+  "notes": "tạo = to create, make, form something new.\n\nIt’s a very common verb for creating things that didn’t exist before — ideas, plans, systems, opportunities, accounts, feelings. Often used in abstract situations like tạo cơ hội (create opportunities), tạo điều kiện (provide conditions), tạo ấn tượng (make an impression).\n\nAdding ra makes it slightly more explicit: “bring into existence”.\n\nClose to làm (make/do), but tạo feels more intentional and focused on bringing something new into being.",
+  "word": "tạo",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "t__",
+      "translation": {
+        "en": "They want to create a new product."
+      },
+      "answer": "tạo",
+      "word": "tạo",
+      "choices": [
+        "tạo",
+        "mua",
+        "bán"
+      ],
+      "translatedAnswer": {
+        "en": "create"
+      },
+      "language": "vi",
+      "sentence": "Họ muốn ___ một sản phẩm mới."
+    },
+    "updatedAt": "2025-03-12T14:40:11.350Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:40:11.350Z",
+    "id": "dc47bee7-cce0-4d63-b5ea-991918a801ab",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 209,
+  "exampleSentencesTranslated": [
+    "Anh wants to create an English study group for friends.",
+    "Chị is trying to create a new menu for her restaurant.",
+    "Em will create a new account to register for this service."
+  ],
+  "updatedAt": "2026-03-03T06:41:35.698Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "S3eG3y7YeKRVmW1BlVzL"
+}

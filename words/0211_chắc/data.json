@@ -1,0 +1,98 @@
+{
+  "choices": [
+    "chắc",
+    "khác",
+    "chậm"
+  ],
+  "rank": 211,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:58:54.326Z",
+    "updatedAt": "2025-03-12T14:58:54.326Z",
+    "content": {
+      "sentence": "Cô ấy ___ về bài thi.",
+      "answer": "chắc",
+      "hint": "c___",
+      "word": "chắc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sure"
+      },
+      "choices": [
+        "không",
+        "chắc",
+        "có thể"
+      ],
+      "translation": {
+        "en": "She is sure about the exam."
+      }
+    },
+    "id": "e783e051-5f5b-426f-9640-afe9872f0cba"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chắc = sure, certain. It shows you feel confident something is true.\n\nIt’s an adjective, often used to describe your level of certainty about a situation. You’ll often see it with or without là before a full clause.\n\nkhông chắc = not sure. chắc chắn is stronger, more definite; softer alternatives like có lẽ mean “maybe/probably” and feel less confident.",
+  "exampleSentences": [
+    "Anh không chắc mình sẽ về nhà đúng giờ hôm nay.",
+    "Em chắc chúng ta sẽ gặp lại nhau vào tuần sau.",
+    "Chị không chắc món ăn này có hợp khẩu vị của em không."
+  ],
+  "word": "chắc",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:58:54.326Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "She is sure about the exam."
+      },
+      "translatedAnswer": {
+        "en": "sure"
+      },
+      "answer": "chắc",
+      "language": "vi",
+      "word": "chắc",
+      "sentence": "Cô ấy ___ về bài thi."
+    },
+    "updatedAt": "2025-03-12T14:58:54.326Z",
+    "id": "a27fb7ab-ed7b-41cd-934c-889e0f9e1abd"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:41:47.791Z",
+  "exampleSentencesTranslated": [
+    "I am not sure I will be home on time today.",
+    "I am sure we will meet again next week.",
+    "I am not sure if this dish suits your taste."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "sure",
+      "es": "seguro",
+      "vi": "chắc"
+    },
+    "example": {
+      "en": "She is sure to come.",
+      "es": "Ella está segura de que vendrá.",
+      "vi": "Cô ấy chắc chắn sẽ đến."
+    },
+    "createdAt": "2025-01-28T12:32:06.079Z",
+    "definitions": {
+      "en": "certain; sure; firm",
+      "es": "cierto; seguro; firme",
+      "vi": "chắc chắn; vững chắc"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**chắc** = sure, certain. It shows you feel confident something is true.\n\nIt’s an adjective, often used to describe your level of certainty about a situation. You’ll often see it with or without **là** before a full clause.\n\n\n**không chắc** = not sure. **chắc chắn** is stronger, more definite; softer alternatives like **có lẽ** mean “maybe/probably” and feel less confident.",
+  "definition": "sure",
+  "_id": "WfDtkCst7TSZ6ahDkVDE"
+}

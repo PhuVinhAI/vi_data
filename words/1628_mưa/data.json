@@ -1,0 +1,99 @@
+{
+  "rank": 1628,
+  "exampleSentencesTranslated": [
+    "This morning I forgot to bring an umbrella so I got wet because of the rain.",
+    "If there is rain this afternoon, we will stay home and watch a movie.",
+    "Whenever there is heavy rain, the streets often get flooded."
+  ],
+  "word": "mưa",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:41:47.504Z",
+    "id": "4e4a251c-5614-4051-9502-2e315d83ec66",
+    "content": {
+      "word": "mưa",
+      "choices": [
+        "gió",
+        "nắng",
+        "mưa"
+      ],
+      "hint": "m___",
+      "translation": {
+        "en": "Today there is heavy rain."
+      },
+      "answer": "mưa",
+      "sentence": "Hôm nay có ___ lớn.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rain"
+      }
+    },
+    "updatedAt": "2025-03-12T14:41:47.504Z"
+  },
+  "updatedAt": "2026-03-03T09:10:09.215Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mặt trời",
+    "gió",
+    "mưa"
+  ],
+  "notes": "mưa = rain. It’s both the noun “rain” and often used like a verb in Vietnamese.\n\nAs a noun, you’ll often hear cơn mưa or trận mưa (a spell of rain). Add adjectives after it: mưa to (heavy rain), mưa nhỏ (light rain), mưa đá (hail), mưa rào (rain shower).\n\nVery commonly used with trời (sky/weather) to mean “it’s raining.”  \n\nOpposite idea: nắng (sun/sunny) — easy mental pair: mưa ↔ nắng.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mưa",
+      "en": "rain",
+      "es": "lluvia"
+    },
+    "createdAt": "2025-01-28T12:16:56.254Z",
+    "definitions": {
+      "en": "Precipitation in the form of water droplets that fall from clouds.",
+      "vi": "Sự rơi của nước dưới dạng giọt từ mây.",
+      "es": "Precipitación en forma de gotas de agua que caen de las nubes."
+    },
+    "example": {
+      "en": "It is raining today.",
+      "vi": "Hôm nay trời có mưa.",
+      "es": "Hoy está lloviendo."
+    }
+  },
+  "notes_md": "**mưa** = rain. It’s both the noun “rain” and often used like a verb in Vietnamese.\n\nAs a noun, you’ll often hear **cơn mưa** or **trận mưa** (a spell of rain). Add adjectives after it: **mưa to** (heavy rain), **mưa nhỏ** (light rain), **mưa đá** (hail), **mưa rào** (rain shower).\n\nVery commonly used with **trời** (sky/weather) to mean “it’s raining.”  \n\nOpposite idea: **nắng** (sun/sunny) — easy mental pair: *mưa ↔ nắng*.",
+  "exampleSentences": [
+    "Sáng nay anh quên mang ô nên bị ướt vì mưa.",
+    "Nếu trời có mưa chiều nay, chúng ta sẽ ở nhà xem phim.",
+    "Mỗi khi có mưa lớn, đường phố thường bị ngập nước."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "rain"
+      },
+      "language": "vi",
+      "sentence": "Hôm nay trời ___ rất đẹp.",
+      "choices": [],
+      "word": "mưa",
+      "answer": "mưa",
+      "translation": {
+        "en": "Today the weather is very beautiful despite the rain."
+      }
+    },
+    "updatedAt": "2025-03-12T14:41:47.504Z",
+    "type": "fillBlankQuiz",
+    "id": "5294dff9-04c0-4796-8283-95c17af023b6",
+    "createdAt": "2025-03-12T14:41:47.504Z"
+  },
+  "definition": "rain",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "SKF0VnRciP9MRQQdHkxa"
+}

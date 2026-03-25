@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "The majority or most part of something.",
+      "vi": "Phần lớn hoặc phần nhiều của một cái gì đó.",
+      "es": "La mayoría o la mayor parte de algo."
+    },
+    "example": {
+      "en": "Most students like Math.",
+      "vi": "Phần lớn học sinh đều thích môn Toán.",
+      "es": "La mayoría de los estudiantes les gusta las matemáticas."
+    },
+    "translations": {
+      "es": "la mayoría",
+      "vi": "phần lớn",
+      "en": "most part"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:03:33.313Z"
+  },
+  "definition": "most",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:23:01.976Z",
+    "type": "fillBlankQuiz",
+    "id": "0e3bff1a-10c8-4462-8100-877fed2125b6",
+    "content": {
+      "sentence": "___ người dân ở đây rất thân thiện.",
+      "language": "vi",
+      "word": "phần lớn",
+      "choices": [],
+      "answer": "phần lớn",
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "translation": {
+        "en": "Most of the people here are very friendly."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:23:01.976Z"
+  },
+  "exampleSentencesTranslated": [
+    "Most of my friends like to play sports on the weekend.",
+    "I see that most coffee shops here are open until late.",
+    "Most students in this class have finished their homework."
+  ],
+  "exampleSentences": [
+    "Phần lớn bạn bè của anh đều thích chơi thể thao vào cuối tuần.",
+    "Chị thấy phần lớn quán cà phê ở đây mở cửa đến khuya.",
+    "Phần lớn sinh viên trong lớp này đã hoàn thành bài tập về nhà."
+  ],
+  "updatedAt": "2026-03-03T08:31:40.002Z",
+  "notes": "Phần lớn means most / the majority. It talks about a big part of a group.\n\nIt usually comes before a noun and doesn’t need a classifier. You can also use it alone if the group is already clear.\n\nClose synonym: đa số (more formal). Opposite idea: phần nhỏ or thiểu số (minority).",
+  "rank": 1271,
+  "choices": [
+    "phần lớn",
+    "một ít",
+    "tất cả"
+  ],
+  "notes_md": "**Phần lớn** means **most / the majority**. It talks about a big part of a group.\n\nIt usually comes before a noun and doesn’t need a classifier. You can also use it alone if the group is already clear.\n\n\nClose synonym: **đa số** (more formal). Opposite idea: **phần nhỏ** or **thiểu số** (minority).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:23:01.976Z",
+    "id": "1ab5b1da-56d1-4f4d-9c36-65991e349c93",
+    "content": {
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "translation": {
+        "en": "Most of the students participate in the class."
+      },
+      "hint": "p___ l___",
+      "answer": "phần lớn",
+      "choices": [
+        "hầu hết",
+        "phần lớn",
+        "tất cả"
+      ],
+      "sentence": "___ sinh viên đều tham gia lớp học.",
+      "language": "vi",
+      "word": "phần lớn"
+    },
+    "createdAt": "2025-03-12T13:23:01.976Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "phần lớn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9EjHSaq1aYAThawJpn0G"
+}

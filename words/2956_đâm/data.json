@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đâm",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cây này sẽ ___ nếu không tưới nước.",
+      "choices": [],
+      "language": "vi",
+      "answer": "đâm",
+      "word": "đâm",
+      "translation": {
+        "en": "This tree will die if not watered."
+      },
+      "translatedAnswer": {
+        "en": "die"
+      }
+    },
+    "updatedAt": "2025-03-12T16:22:12.057Z",
+    "createdAt": "2025-03-12T16:22:12.057Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "443630a2-cf1e-4c4d-b689-d5df15d165c1"
+  },
+  "definition": "to stab",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:22:12.057Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6a91287d-90ca-4291-917b-dfd90b6c6ed5",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cây này sẽ ___ nếu không tưới nước.",
+      "word": "đâm",
+      "choices": [
+        "sống",
+        "đâm",
+        "héo"
+      ],
+      "language": "vi",
+      "answer": "đâm",
+      "hint": "d___",
+      "translation": {
+        "en": "This tree will die if not watered."
+      },
+      "translatedAnswer": {
+        "en": "die"
+      }
+    },
+    "updatedAt": "2025-03-12T16:22:12.057Z"
+  },
+  "rank": 2956,
+  "notes_md": "**đâm** = to stab or thrust something sharp into someone/something. It’s about a quick, forceful forward motion.\n\nYou use it for physical stabbing, but also for crashing into something (like a vehicle hitting something).  \n\nIt can also mean to plunge into something (đâm đầu vào…), often with a reckless feeling.  \nClose word: **chém** = slash/cut (with a swinging motion), while **đâm** is more straight and direct.",
+  "exampleSentencesTranslated": [
+    "He used a knife to stab the apple on the table.",
+    "Be careful when running with a pen because you could stab yourself.",
+    "She saw in the movie that the main character was stabbed by the villain."
+  ],
+  "updatedAt": "2026-03-03T18:16:19.121Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Đâm là hành động chọc hoặc xuyên qua; va chạm vào một cái gì đó.",
+      "en": "To stab or pierce; to crash into something.",
+      "es": "Apuntar o perforar; chocar contra algo."
+    },
+    "createdAt": "2025-01-28T13:52:53.721Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Cô ấy đâm xe vào tường.",
+      "es": "Ella estrelló el coche contra la pared.",
+      "en": "She crashed the car into the wall."
+    },
+    "translations": {
+      "en": "stab",
+      "es": "apuntar"
+    }
+  },
+  "choices": [
+    "đâm",
+    "đan",
+    "đón"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh ấy dùng dao để đâm vào quả táo trên bàn.",
+    "Em cẩn thận khi chạy với cây bút vì có thể bị đâm.",
+    "Chị thấy trong phim, nhân vật chính bị đâm bởi kẻ xấu."
+  ],
+  "notes": "đâm = to stab or thrust something sharp into someone/something. It’s about a quick, forceful forward motion.\n\nYou use it for physical stabbing, but also for crashing into something (like a vehicle hitting something).  \n\nIt can also mean to plunge into something (đâm đầu vào…), often with a reckless feeling.  \nClose word: chém = slash/cut (with a swinging motion), while đâm is more straight and direct.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "rrhkDkYACaUbBA8NyaYm"
+}

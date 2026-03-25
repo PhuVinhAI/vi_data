@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "emotional",
+  "word": "xúc động",
+  "rank": 1779,
+  "exampleSentences": [
+    "Anh cảm thấy rất xúc động khi nghe tin em đã thành công.",
+    "Bộ phim tối qua thật xúc động nên nhiều người đã khóc.",
+    "Chị ấy luôn xúc động khi nhìn thấy những khoảnh khắc gia đình ấm áp."
+  ],
+  "choices": [
+    "xúc động",
+    "lo lắng",
+    "bất ngờ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "9038e22d-1c50-4701-b3bf-42c79576e249",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:55:35.382Z",
+    "content": {
+      "translation": {
+        "en": "This story is very emotional and profound."
+      },
+      "answer": "xúc động",
+      "hint": "x___ động",
+      "choices": [
+        "tuyệt vời",
+        "xúc động",
+        "thú vị"
+      ],
+      "word": "xúc động",
+      "sentence": "Câu chuyện này rất ___ và sâu lắng.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "emotional"
+      }
+    },
+    "updatedAt": "2025-03-12T13:55:35.382Z"
+  },
+  "notes_md": "**Xúc động** = emotionally moved, touched (usually in a positive or heartfelt way). It’s about feelings rising up strongly inside you.\n\nIt describes a person’s emotional state, often because of meaningful news, love, kindness, success, or family moments. You can say someone *cảm thấy xúc động* or something *làm ai xúc động*.\n\n\nClose synonyms: **cảm động** (very similar, often interchangeable), **bồi hồi** (softer, more nostalgic feeling). Opposite feeling: **dửng dưng** (unmoved, indifferent).",
+  "exampleSentencesTranslated": [
+    "He felt very emotional when he heard you succeeded.",
+    "The movie last night was so emotional that many people cried.",
+    "She is always emotional when she sees warm family moments."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To be emotionally affected or touched.",
+      "vi": "Bị ảnh hưởng hoặc chạm đến cảm xúc.",
+      "es": "Estar emocionalmente afectado o conmovido."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "moved",
+      "es": "emocionado",
+      "vi": "xúc động"
+    },
+    "example": {
+      "es": "Me siento muy emocionado cuando escucho esta canción.",
+      "vi": "Tôi cảm thấy rất xúc động khi nghe bài hát này.",
+      "en": "I feel very moved when I hear this song."
+    },
+    "createdAt": "2025-01-28T11:33:26.908Z"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "9f0cf14d-5652-4ba3-a82b-b360c334089b",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:55:35.382Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "emotional"
+      },
+      "sentence": "Cô ấy rất ___ khi nghe tin.",
+      "word": "xúc động",
+      "language": "vi",
+      "choices": [],
+      "answer": "xúc động",
+      "translation": {
+        "en": "She is very emotional when she hears the news."
+      }
+    },
+    "createdAt": "2025-03-12T13:55:35.382Z"
+  },
+  "notes": "Xúc động = emotionally moved, touched (usually in a positive or heartfelt way). It’s about feelings rising up strongly inside you.\n\nIt describes a person’s emotional state, often because of meaningful news, love, kindness, success, or family moments. You can say someone cảm thấy xúc động or something làm ai xúc động.\n\nClose synonyms: cảm động (very similar, often interchangeable), bồi hồi (softer, more nostalgic feeling). Opposite feeling: dửng dưng (unmoved, indifferent).",
+  "updatedAt": "2026-03-03T09:26:35.612Z",
+  "_id": "Hal1xubq8EJDarpDG6qW"
+}

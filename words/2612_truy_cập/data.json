@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "truy cập",
+    "tìm kiếm",
+    "tải về"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "access",
+  "exampleSentences": [
+    "Anh không thể truy cập mạng wifi ở quán cà phê này.",
+    "Em cần mật khẩu để truy cập tài liệu trên máy tính.",
+    "Chị thường truy cập trang web này để đọc tin tức mỗi sáng."
+  ],
+  "rank": 2612,
+  "word": "truy cập",
+  "exampleSentencesTranslated": [
+    "I cannot access the wifi network at this coffee shop.",
+    "You need a password to access the document on the computer.",
+    "She usually accesses this website to read the news every morning."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "truy cập",
+      "es": "acceso",
+      "en": "access"
+    },
+    "createdAt": "2025-01-28T11:36:24.180Z",
+    "example": {
+      "vi": "Tôi cần truy cập vào trang web này.",
+      "es": "Necesito acceder a este sitio web.",
+      "en": "I need to access this website."
+    },
+    "definitions": {
+      "en": "To gain entry or approach to something, especially a digital resource.",
+      "vi": "Để có được quyền truy cập hoặc tiếp cận một cái gì đó, đặc biệt là một tài nguyên kỹ thuật số.",
+      "es": "Obtener entrada o acceso a algo, especialmente a un recurso digital."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7ee1d6e5-01b4-457b-9f7d-39b58d2e2d38",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:58:26.163Z",
+    "content": {
+      "sentence": "Bạn có thể ___ trang web này.",
+      "word": "truy cập",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "access"
+      },
+      "translation": {
+        "en": "You can access this website."
+      },
+      "answer": "truy cập",
+      "choices": [
+        "truy cập",
+        "đăng nhập",
+        "xem xét"
+      ],
+      "hint": "tr__ c__"
+    },
+    "updatedAt": "2025-03-12T13:58:26.163Z"
+  },
+  "notes_md": "**truy cập** = to access (a website, account, system, network). It’s mostly used for digital/online access.\n\nIt goes with things like **trang web, tài khoản, hệ thống, mạng, dữ liệu, ứng dụng**.  \n\nIt focuses on the action of getting into something, not using it deeply.  \nClose synonym: **vào** (more casual, less formal); *truy cập* sounds more technical or official.",
+  "updatedAt": "2026-03-03T11:28:29.752Z",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "truy cập",
+      "translation": {
+        "en": "You can access this website."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Bạn có thể ___ trang web này.",
+      "word": "truy cập",
+      "translatedAnswer": {
+        "en": "access"
+      }
+    },
+    "createdAt": "2025-03-12T13:58:26.163Z",
+    "updatedAt": "2025-03-12T13:58:26.163Z",
+    "id": "9a43851e-0c21-49b6-89b7-1b883b6b2589",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "truy cập = to access (a website, account, system, network). It’s mostly used for digital/online access.\n\nIt goes with things like trang web, tài khoản, hệ thống, mạng, dữ liệu, ứng dụng.  \n\nIt focuses on the action of getting into something, not using it deeply.  \nClose synonym: vào (more casual, less formal); truy cập sounds more technical or official.",
+  "_id": "IRX4CRW2Hoscp4cIlXfT"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "enter",
+  "word": "vô",
+  "exampleSentences": [
+    "Anh ơi, em có thể vô phòng họp bây giờ được không?",
+    "Khi chị vô nhà, nhớ tháo giày để giữ sạch sẽ nhé.",
+    "Mọi người hãy vô lớp học đúng giờ để không bị trễ."
+  ],
+  "rank": 417,
+  "choices": [
+    "vào",
+    "vô",
+    "ra"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "59453a13-82d5-47c4-ac40-5bffe87c800f",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We will go on an adventure."
+      },
+      "answer": "vô",
+      "choices": [
+        "vô",
+        "điều",
+        "mới"
+      ],
+      "hint": "v__",
+      "language": "vi",
+      "sentence": "Chúng ta sẽ ___ một cuộc phiêu lưu.",
+      "word": "vô",
+      "translatedAnswer": {
+        "en": "go"
+      }
+    },
+    "createdAt": "2025-03-12T13:44:19.721Z",
+    "updatedAt": "2025-03-12T13:44:19.721Z"
+  },
+  "notes_md": "**vô** = to enter / go in. It’s the everyday verb for moving from outside to inside.\n\nIt’s a verb, followed directly by a place.  \n\nIn the South, people say **vô**; in the North, they usually say **vào** — same meaning, just regional preference.\n\nIt can also mean “put into” in some contexts (vô tiền, vô túi), but the core idea is always movement inward.",
+  "exampleSentencesTranslated": [
+    "Can I enter the meeting room now?",
+    "When you enter the house, remember to take off your shoes to keep it clean.",
+    "Everyone should enter the classroom on time to avoid being late."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A Vietnamese word meaning 'extremely' or 'very'.",
+      "es": "Una palabra vietnamita que significa 'extremadamente' o 'muy'.",
+      "vi": "Một từ tiếng Việt có nghĩa là 'rất' hoặc 'cực kỳ'."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "She is extremely smart.",
+      "es": "Ella es extremadamente inteligente.",
+      "vi": "Cô ấy vô cùng thông minh."
+    },
+    "createdAt": "2025-01-28T11:22:38.966Z",
+    "translations": {
+      "es": "extremadamente",
+      "vi": "vô",
+      "en": "extremely"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "2b1cb023-635c-453e-8b22-9930b0d4317b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:44:19.721Z",
+    "content": {
+      "word": "vô",
+      "sentence": "Tôi sẽ ___ đi đến bữa tiệc.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "go"
+      },
+      "translation": {
+        "en": "I will go to the party."
+      },
+      "answer": "vô",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:44:19.721Z"
+  },
+  "notes": "vô = to enter / go in. It’s the everyday verb for moving from outside to inside.\n\nIt’s a verb, followed directly by a place.  \n\nIn the South, people say vô; in the North, they usually say vào — same meaning, just regional preference.\n\nIt can also mean “put into” in some contexts (vô tiền, vô túi), but the core idea is always movement inward.",
+  "updatedAt": "2026-03-03T07:04:00.168Z",
+  "_id": "EYNA8eRaiey3g0nhjxeN"
+}

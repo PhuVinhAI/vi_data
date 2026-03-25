@@ -1,0 +1,99 @@
+{
+  "rank": 2148,
+  "notes_md": "**máy tính** = computer (the machine you use to work, study, go online, etc.). It can mean a desktop or a laptop unless you specify.\n\nIt’s a noun. Use the classifier **cái**: *một cái máy tính*.  \n\nCommon pairings: **bật/tắt máy tính** (turn on/off), **dùng máy tính**, **màn hình**, **bàn phím**, **chuột**.  \n\nYou can shorten it to **máy** if the context is clear.  \n\nAnother word is **vi tính**, but it sounds a bit old-fashioned compared to *máy tính*.",
+  "multiChoiceQuiz": {
+    "id": "2802d055-8c92-49c3-98d9-9bdcf1d844a7",
+    "createdAt": "2025-03-12T16:17:03.253Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:17:03.253Z",
+    "content": {
+      "sentence": "Tôi cần một ___ mới.",
+      "language": "vi",
+      "choices": [
+        "máy in",
+        "máy tính",
+        "máy bay"
+      ],
+      "answer": "máy tính",
+      "word": "máy tính",
+      "hint": "m___ tính",
+      "translation": {
+        "en": "I need a new computer."
+      },
+      "translatedAnswer": {
+        "en": "computer"
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "definition": "computer",
+  "fillBlankQuiz": {
+    "id": "ade66d29-50ad-4541-8121-d60e9250adc5",
+    "createdAt": "2025-03-12T16:17:03.253Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:17:03.253Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "máy tính",
+      "answer": "máy tính",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "computer"
+      },
+      "translation": {
+        "en": "I use the computer every day."
+      },
+      "sentence": "Tôi sử dụng ___ mỗi ngày."
+    }
+  },
+  "word": "máy tính",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "máy tính = computer (the machine you use to work, study, go online, etc.). It can mean a desktop or a laptop unless you specify.\n\nIt’s a noun. Use the classifier cái: một cái máy tính.  \n\nCommon pairings: bật/tắt máy tính (turn on/off), dùng máy tính, màn hình, bàn phím, chuột.  \n\nYou can shorten it to máy if the context is clear.  \n\nAnother word is vi tính, but it sounds a bit old-fashioned compared to máy tính.",
+  "exampleSentences": [
+    "Em thường dùng máy tính để làm bài tập về nhà mỗi tối.",
+    "Anh có thể giúp chị kết nối máy tính với mạng wifi không?",
+    "Chị ấy mua một máy tính mới để học tiếng Anh online."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:48:45.061Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một thiết bị được sử dụng để xử lý dữ liệu và thực hiện các phép tính.",
+      "en": "A device used for processing data and performing calculations.",
+      "es": "Un dispositivo utilizado para procesar datos y realizar cálculos."
+    },
+    "translations": {
+      "es": "computadora",
+      "en": "computer",
+      "vi": "máy tính"
+    },
+    "example": {
+      "vi": "Tôi sử dụng máy tính để làm bài tập.",
+      "en": "I use the computer to do my homework.",
+      "es": "Uso la computadora para hacer mi tarea."
+    }
+  },
+  "choices": [
+    "máy tính",
+    "máy lạnh",
+    "máy giặt"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:05:07.860Z",
+  "exampleSentencesTranslated": [
+    "I often use the computer to do my homework every night.",
+    "Can you help me connect the computer to the wifi network?",
+    "She bought a new computer to study English online."
+  ],
+  "_id": "qtB8eSwxbDi2ssDj9nxF"
+}

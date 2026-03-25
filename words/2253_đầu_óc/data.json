@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh cần nghỉ ngơi để đầu óc tỉnh táo hơn vào ngày mai.",
+    "Chị cảm thấy đầu óc rất căng thẳng sau một ngày làm việc dài.",
+    "Đôi khi em muốn đi dạo để làm đầu óc thư giãn hơn."
+  ],
+  "updatedAt": "2026-03-03T10:16:31.511Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:32:36.132Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "470166ce-1948-4a19-9d85-16aac20c8708",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có ___ để giải quyết vấn đề này không?",
+      "hint": "đ___ óc",
+      "word": "đầu óc",
+      "language": "vi",
+      "translation": {
+        "en": "Do you have a mind to solve this problem?"
+      },
+      "choices": [
+        "đầu óc",
+        "trí tuệ",
+        "tư duy"
+      ],
+      "answer": "đầu óc",
+      "translatedAnswer": {
+        "en": "mind"
+      }
+    },
+    "updatedAt": "2025-03-12T16:32:36.132Z"
+  },
+  "choices": [
+    "đầu óc",
+    "trái tim",
+    "bàn tay"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "You need to rest so your mind will be clearer tomorrow.",
+    "She feels her mind is very stressed after a long working day.",
+    "Sometimes I want to take a walk to relax my mind more."
+  ],
+  "word": "đầu óc",
+  "notes": "đầu óc = mind, your thinking ability or mental state. It’s about how clear, sharp, or stressed your brain feels.\n\nIt’s a noun and usually not counted (you don’t say “one đầu óc, two đầu óc”). Very often followed by adjectives like tỉnh táo, minh mẫn, căng thẳng, thoải mái.\n\nClose synonym: tâm trí, trí óc (a bit more formal).  \n\nIt can also mean someone’s “mentality” or way of thinking, not just their brain condition.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:03:51.043Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Cô ấy có đầu óc rất thông minh.",
+      "en": "She has a very sharp mind.",
+      "es": "Ella tiene una mente muy aguda."
+    },
+    "definitions": {
+      "vi": "Cái đầu hoặc não; khả năng trí tuệ của một người.",
+      "es": "La mente o cerebro; la capacidad intelectual de una persona.",
+      "en": "The mind or brain; the intellectual capacity of a person."
+    },
+    "translations": {
+      "en": "mind",
+      "es": "mente",
+      "vi": "đầu óc"
+    }
+  },
+  "notes_md": "**đầu óc** = mind, your thinking ability or mental state. It’s about how clear, sharp, or stressed your brain feels.\n\nIt’s a noun and usually not counted (you don’t say “one đầu óc, two đầu óc”). Very often followed by adjectives like *tỉnh táo, minh mẫn, căng thẳng, thoải mái*.\n\n\nClose synonym: **tâm trí**, **trí óc** (a bit more formal).  \n\nIt can also mean someone’s “mentality” or way of thinking, not just their brain condition.",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "mind"
+      },
+      "answer": "đầu óc",
+      "translation": {
+        "en": "I need to use my mind."
+      },
+      "choices": [],
+      "sentence": "Tôi cần sử dụng ___ của mình.",
+      "word": "đầu óc"
+    },
+    "updatedAt": "2025-03-12T16:32:36.132Z",
+    "type": "fillBlankQuiz",
+    "id": "1650f72d-e059-44a9-98c6-43a8208c7fa4",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:32:36.132Z"
+  },
+  "definition": "mind",
+  "rank": 2253,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uhc7aOLr0wnMYO7xbitb"
+}

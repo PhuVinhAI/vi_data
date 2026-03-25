@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tính toán",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:10:14.861Z",
+    "createdAt": "2025-03-12T14:10:14.861Z",
+    "id": "91083f83-32fa-43d5-a13a-76f54a31b435",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "calculation"
+      },
+      "answer": "tính toán",
+      "word": "tính toán",
+      "hint": "t___n",
+      "sentence": "Chúng ta cần ___ cho dự án.",
+      "translation": {
+        "en": "We need a calculation for the project."
+      },
+      "language": "vi",
+      "choices": [
+        "tính toán",
+        "đánh giá",
+        "phân tích"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tính toán** = to calculate, to work out numbers. It’s used for money, costs, time, scores, and anything that involves figuring things out carefully.\n\nIt also often means **to think something through / plan carefully**, not just math.  \nYou’ll usually see it with things like chi phí (costs), tiền bạc (money), thời gian (time), kế hoạch (plans).\n\n\nClose to **tính** (calculate) but *tính toán* sounds more careful and deliberate; opposite vibe would be **liều** (to act without thinking).",
+  "choices": [
+    "tính toán",
+    "giải thích",
+    "luyện tập"
+  ],
+  "updatedAt": "2026-03-03T09:29:20.137Z",
+  "notes": "tính toán = to calculate, to work out numbers. It’s used for money, costs, time, scores, and anything that involves figuring things out carefully.\n\nIt also often means to think something through / plan carefully, not just math.  \nYou’ll usually see it with things like chi phí (costs), tiền bạc (money), thời gian (time), kế hoạch (plans).\n\nClose to tính (calculate) but tính toán sounds more careful and deliberate; opposite vibe would be liều (to act without thinking).",
+  "exampleSentencesTranslated": [
+    "You need to calculate the costs for this trip before booking tickets.",
+    "When buying a house, you should calculate the loans carefully.",
+    "I have calculated my average score for this semester."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "tính toán",
+      "translatedAnswer": {
+        "en": "calculation"
+      },
+      "sentence": "Chúng ta cần ___ cho dự án.",
+      "word": "tính toán",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We need a calculation for the project."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "08ff4fdd-2c85-4636-8d54-a5c86b2b6b5a",
+    "createdAt": "2025-03-12T14:10:14.861Z",
+    "updatedAt": "2025-03-12T14:10:14.861Z"
+  },
+  "definition": "calculate",
+  "rank": 1808,
+  "exampleSentences": [
+    "Anh cần tính toán chi phí cho chuyến du lịch này trước khi đặt vé.",
+    "Khi mua nhà, chị nên tính toán các khoản vay một cách cẩn thận.",
+    "Em đã tính toán điểm số trung bình của mình trong học kỳ này."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need to calculate the expenses for the trip.",
+      "vi": "Tôi cần tính toán chi phí cho chuyến đi.",
+      "es": "Necesito calcular los gastos del viaje."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "calculate",
+      "vi": "tính toán",
+      "es": "calcular"
+    },
+    "definitions": {
+      "en": "To calculate or compute something.",
+      "es": "Calcular o computar algo.",
+      "vi": "Tính toán một cái gì đó."
+    },
+    "createdAt": "2025-01-28T11:47:24.678Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "KstGdVfuuP0c0leP0wIb"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I often hang out with uncle on weekends when I am free.",
+    "My uncle lives in another city so I rarely see him.",
+    "Yesterday, uncle gave me a very interesting book."
+  ],
+  "fillBlankQuiz": {
+    "id": "ad5c4b9d-672b-410b-b4ea-cc1b44b0176a",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:24:07.389Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "mouse"
+      },
+      "translation": {
+        "en": "I see the mouse on the tree."
+      },
+      "answer": "chu",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi thấy con ___ trên cây.",
+      "word": "chu"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:24:07.389Z"
+  },
+  "definition": "uncle",
+  "flashcard": {
+    "example": {
+      "vi": "Con chu đang chơi trong vườn.",
+      "es": "El ratón está jugando en el jardín.",
+      "en": "The mouse is playing in the garden."
+    },
+    "definitions": {
+      "es": "Un pequeño roedor que generalmente tiene una cola larga y es conocido por su capacidad de reproducirse rápidamente.",
+      "vi": "Một loài gặm nhấm nhỏ thường có đuôi dài và nổi tiếng với khả năng sinh sản nhanh.",
+      "en": "A small rodent that typically has a long tail and is known for its ability to reproduce quickly."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:58:54.067Z",
+    "translations": {
+      "en": "mouse",
+      "es": "ratón",
+      "vi": "chu"
+    }
+  },
+  "notes": "Chú = your father’s younger brother (uncle on your dad’s side).  \n\nIt’s a noun: say một người chú, hai người chú; in family talk, you often hear chú + name.  \n\nVery common in speech: you use chú to address a man older than you but younger than your parents (like “uncle” in English, but broader).  \n\nIt can also be a pronoun: an older man may call himself chú when talking to a child.  \n\nCompare: bác (parent’s older sibling) — older than your parent, while chú is younger than your father.",
+  "updatedAt": "2026-03-03T10:46:05.188Z",
+  "exampleSentences": [
+    "Em thường đi chơi với chu vào cuối tuần khi rảnh.",
+    "Chu của anh sống ở thành phố khác nên ít khi gặp.",
+    "Hôm qua, chu tặng cho em một cuốn sách rất hay."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "544d6c4b-2f58-4486-b79c-1e70ab489381",
+    "content": {
+      "choices": [
+        "chu",
+        "mèo",
+        "chim"
+      ],
+      "sentence": "Tôi thấy con ___ trên cây.",
+      "language": "vi",
+      "word": "chu",
+      "translatedAnswer": {
+        "en": "mouse"
+      },
+      "translation": {
+        "en": "I see the mouse on the tree."
+      },
+      "hint": "c__",
+      "answer": "chu"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:24:07.389Z",
+    "updatedAt": "2025-03-12T15:24:07.389Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Chú** = your father’s younger brother (uncle on your dad’s side).  \n\nIt’s a noun: say **một người chú**, **hai người chú**; in family talk, you often hear **chú + name**.  \n\nVery common in speech: you use **chú** to address a man older than you but younger than your parents (like “uncle” in English, but broader).  \n\nIt can also be a pronoun: an older man may call himself **chú** when talking to a child.  \n\nCompare: **bác** (parent’s older sibling) — older than your parent, while **chú** is younger than your father.",
+  "choices": [
+    "bác",
+    "cô",
+    "chu"
+  ],
+  "rank": 2538,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chu",
+  "_id": "dVxOgHsTYjM8Giyt4dva"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "tư liệu",
+    "bài tập",
+    "máy tính"
+  ],
+  "exampleSentences": [
+    "Anh cần tìm thêm tư liệu để hoàn thành bài thuyết trình này.",
+    "Chị ấy đã sử dụng nhiều tư liệu khác nhau cho dự án nghiên cứu.",
+    "Em có thể chia sẻ tư liệu học tiếng Việt với bạn không?"
+  ],
+  "updatedAt": "2026-03-03T18:05:36.774Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I need material for the presentation."
+      },
+      "choices": [
+        "tài liệu",
+        "tư liệu",
+        "thông tin"
+      ],
+      "answer": "tư liệu",
+      "translatedAnswer": {
+        "en": "material"
+      },
+      "language": "vi",
+      "hint": "t__ liệu",
+      "word": "tư liệu",
+      "sentence": "Tôi cần ___ cho bài thuyết trình."
+    },
+    "updatedAt": "2025-03-12T16:44:25.052Z",
+    "type": "multiChoiceQuiz",
+    "id": "3b3e1b7e-75d6-4dcd-b308-996df0c24faa",
+    "createdAt": "2025-03-12T16:44:25.052Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I need to find more material to finish this presentation.",
+    "She used a lot of different material for the research project.",
+    "Can you share Vietnamese learning material with your friend?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tư liệu",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:15:17.892Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito recursos para escribir el informe.",
+      "en": "I need resources to write the report.",
+      "vi": "Tôi cần tư liệu để viết báo cáo."
+    },
+    "definitions": {
+      "es": "Materiales o recursos utilizados para información o investigación.",
+      "en": "Materials or resources used for information or research.",
+      "vi": "Tài liệu hoặc nguồn thông tin được sử dụng cho nghiên cứu."
+    },
+    "translations": {
+      "es": "recursos",
+      "en": "resources",
+      "vi": "tư liệu"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tư liệu = materials or sources used for study, research, or documentation. It’s information you collect to support a project, article, report, etc.\n\nIt’s an uncountable noun in most cases; you don’t usually count it with numbers. Common pairings: tư liệu lịch sử, tư liệu nghiên cứu, tư liệu quý, thu thập tư liệu, lưu trữ tư liệu.  \n\nClose to tài liệu, but tài liệu often means specific documents/files, while tư liệu feels broader—raw materials, data, images, archives.",
+  "notes_md": "**tư liệu** = materials or sources used for study, research, or documentation. It’s information you collect to support a project, article, report, etc.\n\nIt’s an uncountable noun in most cases; you don’t usually count it with numbers. Common pairings: **tư liệu lịch sử, tư liệu nghiên cứu, tư liệu quý, thu thập tư liệu, lưu trữ tư liệu**.  \n\n\nClose to **tài liệu**, but *tài liệu* often means specific documents/files, while *tư liệu* feels broader—raw materials, data, images, archives.",
+  "rank": 2860,
+  "definition": "material",
+  "fillBlankQuiz": {
+    "id": "0ceb0f7d-1774-409f-beb3-d47462c47a23",
+    "createdAt": "2025-03-12T16:44:25.052Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "tư liệu",
+      "sentence": "Tôi cần ___ cho bài thuyết trình.",
+      "choices": [],
+      "translation": {
+        "en": "I need material for the presentation."
+      },
+      "answer": "tư liệu",
+      "translatedAnswer": {
+        "en": "material"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:44:25.052Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "xhwKUzbkITsQUIUENN1x"
+}

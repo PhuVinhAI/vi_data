@@ -1,0 +1,99 @@
+{
+  "definition": "physics",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:11:57.505Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8dc1f537-4369-434a-adb8-20a3c6c8b7ca",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "physics"
+      },
+      "translation": {
+        "en": "My favorite subject is physics."
+      },
+      "hint": "v___ lý",
+      "word": "vật lý",
+      "answer": "vật lý",
+      "language": "vi",
+      "choices": [
+        "hóa học",
+        "vật lý",
+        "sinh học"
+      ],
+      "sentence": "Môn học yêu thích của tôi là ___."
+    },
+    "updatedAt": "2025-03-12T16:11:57.505Z"
+  },
+  "notes_md": "**vật lý** = physics, the school subject about matter, energy, forces, motion, electricity, etc.\n\nIt’s an uncountable noun in English, but in Vietnamese you just use it directly: *môn vật lý* (the subject physics), *học vật lý* (to study physics), *bài tập vật lý* (physics exercises).  \n\nIt often pairs with school words like *giáo viên vật lý*, *kỳ thi vật lý*, *điểm vật lý*.  \n\nDon’t confuse it with **vật lí** — same word, just a different spelling (both are correct).",
+  "rank": 2232,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "vật lý",
+  "fillBlankQuiz": {
+    "id": "625619cd-fe57-4eb6-b474-ac6157ee31d3",
+    "createdAt": "2025-03-12T16:11:57.505Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:11:57.505Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi học ___ ở trường.",
+      "translatedAnswer": {
+        "en": "physics"
+      },
+      "translation": {
+        "en": "I study physics at school."
+      },
+      "choices": [],
+      "word": "vật lý",
+      "answer": "vật lý",
+      "language": "vi"
+    }
+  },
+  "notes": "vật lý = physics, the school subject about matter, energy, forces, motion, electricity, etc.\n\nIt’s an uncountable noun in English, but in Vietnamese you just use it directly: môn vật lý (the subject physics), học vật lý (to study physics), bài tập vật lý (physics exercises).  \n\nIt often pairs with school words like giáo viên vật lý, kỳ thi vật lý, điểm vật lý.  \n\nDon’t confuse it with vật lí — same word, just a different spelling (both are correct).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "This morning I had a physics test at school so I was very nervous.",
+    "My sister’s older brother really likes studying physics and often watches videos about this topic.",
+    "Our physics teacher always explains the lesson very clearly."
+  ],
+  "updatedAt": "2026-03-03T10:14:10.771Z",
+  "flashcard": {
+    "translations": {
+      "en": "physics",
+      "es": "física",
+      "vi": "vật lý"
+    },
+    "example": {
+      "vi": "Môn vật lý rất thú vị.",
+      "en": "Physics is a very interesting subject.",
+      "es": "La física es una materia muy interesante."
+    },
+    "definitions": {
+      "vi": "Ngành khoa học liên quan đến bản chất và tính chất của vật chất và năng lượng.",
+      "en": "The branch of science concerned with the nature and properties of matter and energy.",
+      "es": "La rama de la ciencia que se ocupa de la naturaleza y las propiedades de la materia y la energía."
+    },
+    "createdAt": "2025-01-28T13:43:56.207Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hóa học",
+    "vật lý",
+    "sinh học"
+  ],
+  "exampleSentences": [
+    "Sáng nay em có bài kiểm tra vật lý ở trường nên rất lo lắng.",
+    "Anh trai chị rất thích học vật lý và thường xem các video về chủ đề này.",
+    "Cô giáo vật lý của lớp mình luôn giải thích bài rất dễ hiểu."
+  ],
+  "_id": "pWB2lot5gv3RBhWqP60q"
+}

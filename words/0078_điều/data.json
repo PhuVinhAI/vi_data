@@ -1,0 +1,104 @@
+{
+  "sentenceBreakdowns": [
+    "Anh (he) + muốn (wants) + một (a) + điều (thing) + tốt (good)",
+    "Em (I) + học (learn) + một (a) + điều (thing) + mới (new)",
+    "Mẹ (mom) + nói (says) + một (a) + điều (thing) + nhỏ (small)"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:07:22.606Z",
+    "updatedAt": "2025-03-12T14:07:22.606Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "điều",
+      "translatedAnswer": {
+        "en": "thing"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I do not understand this thing."
+      },
+      "sentence": "Tôi không hiểu ___ này.",
+      "word": "điều"
+    },
+    "id": "a37fe1f6-43a3-4ec0-ab29-2ab33ec32f44"
+  },
+  "definition": "thing",
+  "choices": [
+    "vật",
+    "điều",
+    "việc"
+  ],
+  "updatedAt": "2026-03-03T06:11:02.516Z",
+  "notes": "điều means thing, but usually an abstract thing — an idea, fact, or matter, not a physical object.  \n\nIt’s a noun and often used with một điều for “one thing.” You’ll hear it in phrases like điều này / điều đó (this/that thing), mọi điều (everything), or điều quan trọng (important thing).  \n\nIt often refers to something said, learned, felt, or required — not something you can touch.  \n\nVery common alternative meaning: in formal contexts, điều can mean a clause/article in a law or contract.  \n\nClose words: việc (a task/job to do) and chuyện (a story or matter being talked about). Think: điều = abstract thing, việc = task, chuyện = story/situation.",
+  "exampleSentencesTranslated": [
+    "He wants a good thing.",
+    "I learn a new thing.",
+    "Mom says a small thing."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**điều** means *thing*, but usually an abstract thing — an idea, fact, or matter, not a physical object.  \n\nIt’s a noun and often used with **một điều** for “one thing.” You’ll hear it in phrases like **điều này / điều đó** (this/that thing), **mọi điều** (everything), or **điều quan trọng** (important thing).  \n\nIt often refers to something said, learned, felt, or required — not something you can touch.  \n\nVery common alternative meaning: in formal contexts, **điều** can mean a *clause/article* in a law or contract.  \n\nClose words: **việc** (a task/job to do) and **chuyện** (a story or matter being talked about). Think: *điều = abstract thing*, *việc = task*, *chuyện = story/situation*.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "điều",
+  "multiChoiceQuiz": {
+    "id": "bb0002fa-86d3-4c15-af27-c81622f14fd5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "anything"
+      },
+      "answer": "điều",
+      "translation": {
+        "en": "I do not know anything."
+      },
+      "choices": [
+        "điều",
+        "vấn đề",
+        "sự việc"
+      ],
+      "language": "vi",
+      "hint": "đ___",
+      "word": "điều",
+      "sentence": "Tôi không biết ___ gì cả."
+    },
+    "updatedAt": "2025-03-12T14:07:22.606Z",
+    "createdAt": "2025-03-12T14:07:22.606Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This is very important.",
+      "es": "Esto es muy importante.",
+      "vi": "Điều này rất quan trọng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A thing or fact that is specified or made known.",
+      "vi": "Một điều hoặc sự thật được chỉ định hoặc được biết đến.",
+      "es": "Una cosa o hecho que se especifica o se hace conocido."
+    },
+    "translations": {
+      "vi": "điều",
+      "es": "cosa",
+      "en": "thing"
+    },
+    "createdAt": "2025-01-28T13:55:47.705Z"
+  },
+  "exampleSentences": [
+    "Anh muốn một điều tốt.",
+    "Em học một điều mới.",
+    "Mẹ nói một điều nhỏ."
+  ],
+  "rank": 78,
+  "_id": "KQE4GlsM12NB1S3xkE4K"
+}

@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "f8ec2fe0-a941-47e4-9dd3-34e492687d0e",
+    "createdAt": "2025-03-12T16:37:24.076Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I walk to school occasionally."
+      },
+      "answer": "thỉnh thoảng",
+      "choices": [
+        "thỉnh thoảng",
+        "thường xuyên",
+        "hiếm khi"
+      ],
+      "translatedAnswer": {
+        "en": "occasionally"
+      },
+      "language": "vi",
+      "hint": "th___ thoảng",
+      "word": "thỉnh thoảng",
+      "sentence": "Tôi đi bộ ___ đến trường."
+    },
+    "updatedAt": "2025-03-12T16:37:24.076Z"
+  },
+  "exampleSentences": [
+    "Thỉnh thoảng anh đi cà phê với bạn bè vào cuối tuần.",
+    "Em thỉnh thoảng đọc sách tiếng Anh vào buổi tối trước khi ngủ.",
+    "Chị thỉnh thoảng nấu ăn ở nhà thay vì ra ngoài ăn."
+  ],
+  "updatedAt": "2026-03-03T08:40:09.497Z",
+  "choices": [
+    "thường xuyên",
+    "thỉnh thoảng",
+    "luôn luôn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Sometimes I go to a cafe with friends on weekends.",
+    "I sometimes read English books at night before sleeping.",
+    "She sometimes cooks at home instead of eating out."
+  ],
+  "word": "thỉnh thoảng",
+  "notes": "Thỉnh thoảng means sometimes — not often, but it happens now and then. It’s a mid‑low frequency word.\n\nIt’s an adverb, so it usually goes before the verb, or at the start of the sentence for emphasis.\n\nClose synonym: đôi khi (very similar, slightly more neutral).  \nOpposites to remember: thường xuyên (often) and hiếm khi (rarely).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:08:46.726Z",
+    "translations": {
+      "es": "ocasionalmente",
+      "en": "occasionally",
+      "vi": "thỉnh thoảng"
+    },
+    "example": {
+      "es": "A veces camino a la escuela.",
+      "en": "I occasionally walk to school.",
+      "vi": "Tôi thỉnh thoảng đi bộ đến trường."
+    },
+    "definitions": {
+      "en": "From time to time; occasionally.",
+      "es": "De vez en cuando; ocasionalmente.",
+      "vi": "Thỉnh thoảng; đôi khi."
+    }
+  },
+  "notes_md": "**Thỉnh thoảng** means *sometimes* — not often, but it happens now and then. It’s a mid‑low frequency word.\n\nIt’s an adverb, so it usually goes before the verb, or at the start of the sentence for emphasis.\n\n\nClose synonym: **đôi khi** (very similar, slightly more neutral).  \nOpposites to remember: **thường xuyên** (often) and **hiếm khi** (rarely).",
+  "fillBlankQuiz": {
+    "id": "1bfd9df8-4e5e-473f-a6be-b94319d924a4",
+    "createdAt": "2025-03-12T16:37:24.076Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "answer": "thỉnh thoảng",
+      "translation": {
+        "en": "I walk to school occasionally."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "occasionally"
+      },
+      "sentence": "Tôi đi bộ ___ đến trường.",
+      "word": "thỉnh thoảng"
+    },
+    "updatedAt": "2025-03-12T16:37:24.076Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 1350,
+  "definition": "sometimes",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "w7SiuvkqUzyWBNfBTgwe"
+}

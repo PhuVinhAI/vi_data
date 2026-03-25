@@ -1,0 +1,99 @@
+{
+  "word": "bàn tay",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi nắm lấy ___ của mình.",
+      "translation": {
+        "en": "I hold my hand."
+      },
+      "translatedAnswer": {
+        "en": "hand"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "bàn tay",
+      "word": "bàn tay"
+    },
+    "updatedAt": "2025-03-12T16:12:12.621Z",
+    "createdAt": "2025-03-12T16:12:12.621Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a87df6e6-48f9-4d95-88e2-fc68f6151c44"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2588,
+  "notes_md": "**Bàn tay** = hand (the part at the end of your arm with fingers). It’s specific: the palm + fingers, not the whole arm.\n\nIt’s a noun. Use classifiers like **một bàn tay**, **hai bàn tay**.  \nCommon pairings: **nắm bàn tay** (hold hands), **giơ bàn tay** (raise your hand), **bàn tay trái/phải** (left/right hand).\n\nDon’t confuse it with **cánh tay** (arm). **Tay** alone can mean hand *or* arm in casual speech, but **bàn tay** is clearly just the hand.",
+  "definition": "hand",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:12:12.621Z",
+    "content": {
+      "sentence": "Cô ấy vẫy ___ khi thấy tôi.",
+      "translatedAnswer": {
+        "en": "hand"
+      },
+      "translation": {
+        "en": "She waves her hand when she sees me."
+      },
+      "hint": "b___ tay",
+      "word": "bàn tay",
+      "answer": "bàn tay",
+      "language": "vi",
+      "choices": [
+        "bàn tay",
+        "bàn chân",
+        "bàn ghế"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "7592adac-99e1-483a-9dae-46dc876f4675",
+    "createdAt": "2025-03-12T16:12:12.621Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "bàn tay",
+      "en": "hand",
+      "es": "mano"
+    },
+    "example": {
+      "vi": "Tôi rửa bàn tay trước khi ăn.",
+      "en": "I wash my hands before eating.",
+      "es": "Me lavo las manos antes de comer."
+    },
+    "definitions": {
+      "vi": "Phần cơ thể ở cuối cánh tay, được sử dụng để cầm nắm và thao tác các vật.",
+      "en": "The part of the body at the end of the arm, used for holding and manipulating objects.",
+      "es": "La parte del cuerpo al final del brazo, utilizada para sostener y manipular objetos."
+    },
+    "createdAt": "2025-01-28T13:44:16.554Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "choices": [
+    "bàn tay",
+    "bàn chân",
+    "cánh tay"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Em có thể nắm bàn tay của anh khi băng qua đường không?",
+    "Anh bị trầy nhẹ ở bàn tay khi chơi bóng đá với bạn bè.",
+    "Chị thường rửa bàn tay sạch sẽ trước khi ăn cơm."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you hold my hand when crossing the street?",
+    "He got a small scratch on his hand when playing football with friends.",
+    "She usually washes her hand carefully before eating rice."
+  ],
+  "updatedAt": "2026-03-03T11:26:03.385Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Bàn tay = hand (the part at the end of your arm with fingers). It’s specific: the palm + fingers, not the whole arm.\n\nIt’s a noun. Use classifiers like một bàn tay, hai bàn tay.  \nCommon pairings: nắm bàn tay (hold hands), giơ bàn tay (raise your hand), bàn tay trái/phải (left/right hand).\n\nDon’t confuse it with cánh tay (arm). Tay alone can mean hand or arm in casual speech, but bàn tay is clearly just the hand.",
+  "_id": "pa7C9ykQPoxj5sucQYbm"
+}

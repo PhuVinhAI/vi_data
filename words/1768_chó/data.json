@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**chó** = dog. It’s the normal, neutral word for a dog.\n\nIt’s a countable noun and uses the classifier **con** → *một con chó, hai con chó*. For plural/general meaning, add **những** or **các** before it.\n\nCommon combos: **chó con** (puppy), **chó hoang** (stray dog), **nuôi chó** (to raise a dog), **chó sủa** (dog barks).\n\nFor a cute tone, people often say **cún**. In more formal or compound words, you might see **cẩu** (like in official names or fixed phrases).",
+  "rank": 1768,
+  "definition": "dog",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "dog"
+      },
+      "translation": {
+        "en": "I have a dog."
+      },
+      "answer": "chó",
+      "choices": [],
+      "sentence": "Tôi có một con ___.",
+      "word": "chó"
+    },
+    "updatedAt": "2025-03-12T16:37:03.394Z",
+    "type": "fillBlankQuiz",
+    "id": "887c2089-0a42-449d-b13f-a9ffd6f60589",
+    "createdAt": "2025-03-12T16:37:03.394Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "chó",
+      "es": "perro",
+      "en": "dog"
+    },
+    "definitions": {
+      "vi": "Một loài động vật có vú ăn thịt được thuần hóa, thường có mõm dài và tiếng sủa, hú hoặc rên rỉ.",
+      "en": "A domesticated carnivorous mammal that typically has a long snout and barking, howling, or whining voice.",
+      "es": "Un mamífero carnívoro domesticado que generalmente tiene un hocico largo y una voz que ladra, aúlla o gime."
+    },
+    "example": {
+      "vi": "Con chó của tôi rất thông minh.",
+      "es": "Mi perro es muy inteligente.",
+      "en": "My dog is very smart."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:08:22.461Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chó = dog. It’s the normal, neutral word for a dog.\n\nIt’s a countable noun and uses the classifier con → một con chó, hai con chó. For plural/general meaning, add những or các before it.\n\nCommon combos: chó con (puppy), chó hoang (stray dog), nuôi chó (to raise a dog), chó sủa (dog barks).\n\nFor a cute tone, people often say cún. In more formal or compound words, you might see cẩu (like in official names or fixed phrases).",
+  "choices": [
+    "mèo",
+    "chó",
+    "chim"
+  ],
+  "exampleSentences": [
+    "Nhà anh có một con chó rất thông minh và dễ thương.",
+    "Chị thường dắt chó đi dạo vào buổi sáng ở công viên gần nhà.",
+    "Em thích chơi với chó của bạn vì nó rất thân thiện."
+  ],
+  "updatedAt": "2026-03-03T09:25:17.088Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "My house has a very cute dog."
+      },
+      "choices": [
+        "mèo",
+        "chó",
+        "chim"
+      ],
+      "answer": "chó",
+      "translatedAnswer": {
+        "en": "dog"
+      },
+      "language": "vi",
+      "hint": "c__",
+      "word": "chó",
+      "sentence": "Nhà tôi có một con ___ rất dễ thương."
+    },
+    "updatedAt": "2025-03-12T16:37:03.394Z",
+    "type": "multiChoiceQuiz",
+    "id": "5f81e7fc-80c0-4746-9838-8f53de10df63",
+    "createdAt": "2025-03-12T16:37:03.394Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "chó",
+  "exampleSentencesTranslated": [
+    "My family has a very smart and cute dog.",
+    "She often takes her dog for a walk in the park near her house in the morning.",
+    "I like playing with my friend's dog because it is very friendly."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "w1RQB4Yu5TZlbdEZJaJN"
+}

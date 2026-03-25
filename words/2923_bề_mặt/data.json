@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:36:23.830Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "9047fb51-4a9f-49ad-8688-9198312a3104",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "surface"
+      },
+      "choices": [
+        "mặt",
+        "bề mặt",
+        "đáy"
+      ],
+      "answer": "bề mặt",
+      "translation": {
+        "en": "The surface of the water is very shiny."
+      },
+      "language": "vi",
+      "word": "bề mặt",
+      "hint": "b___t",
+      "sentence": "Mặt ___ của nước rất lấp lánh."
+    },
+    "updatedAt": "2025-03-12T16:36:23.830Z"
+  },
+  "exampleSentences": [
+    "Anh lau sạch bề mặt bàn trước khi đặt đĩa lên.",
+    "Chị nhìn thấy vết bẩn nhỏ trên bề mặt gương phòng tắm.",
+    "Em nên kiểm tra bề mặt nước hồ bơi trước khi bơi."
+  ],
+  "updatedAt": "2026-03-03T18:12:53.570Z",
+  "choices": [
+    "bề mặt",
+    "mặt đất",
+    "bên cạnh"
+  ],
+  "exampleSentencesTranslated": [
+    "He cleaned the surface of the table before putting the plate on.",
+    "She saw a small stain on the surface of the bathroom mirror.",
+    "You should check the surface of the swimming pool water before swimming."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bề mặt",
+  "notes": "bề mặt = surface, the outside/top layer of something that you can see or touch.\n\nIt’s a noun. You often say bề mặt + noun (bề mặt bàn, bề mặt da, bề mặt Trái Đất).  \nCommon pairings: trên bề mặt (on the surface), dưới bề mặt (under the surface), bề mặt phẳng / nhẵn / gồ ghề.  \nIt’s usually uncountable in meaning, but you can say một bề mặt when you mean one specific surface.  \nClose synonym: mặt (shorter, more everyday), but bề mặt sounds a bit more technical or formal.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The outer or upper boundary of an object.",
+      "es": "El límite exterior o superior de un objeto.",
+      "vi": "Ranh giới bên ngoài hoặc trên cùng của một vật thể."
+    },
+    "example": {
+      "vi": "Bề mặt của bàn rất mịn.",
+      "en": "The surface of the table is very smooth.",
+      "es": "La superficie de la mesa es muy suave."
+    },
+    "translations": {
+      "vi": "bề mặt",
+      "en": "surface",
+      "es": "superficie"
+    },
+    "createdAt": "2025-01-28T14:07:44.332Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**bề mặt** = surface, the outside/top layer of something that you can see or touch.\n\nIt’s a noun. You often say **bề mặt + noun** (bề mặt bàn, bề mặt da, bề mặt Trái Đất).  \nCommon pairings: **trên bề mặt** (on the surface), **dưới bề mặt** (under the surface), **bề mặt phẳng / nhẵn / gồ ghề**.  \nIt’s usually uncountable in meaning, but you can say **một bề mặt** when you mean one specific surface.  \nClose synonym: **mặt** (shorter, more everyday), but **bề mặt** sounds a bit more technical or formal.",
+  "fillBlankQuiz": {
+    "id": "d083368b-4ee3-4bb4-a3f4-9e9fa53b4bb0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:36:23.830Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "surface"
+      },
+      "answer": "bề mặt",
+      "translation": {
+        "en": "This painting has a beautiful surface."
+      },
+      "choices": [],
+      "sentence": "Bức tranh này có ___ đẹp.",
+      "word": "bề mặt"
+    },
+    "updatedAt": "2025-03-12T16:36:23.830Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2923,
+  "definition": "surface",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vsNKPXkni4kWFOgpMRS0"
+}

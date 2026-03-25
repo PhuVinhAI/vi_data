@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "publish",
+  "word": "xuất bản",
+  "exampleSentences": [
+    "Nhà xuất bản này sẽ xuất bản một cuốn sách mới vào tháng sau.",
+    "Anh ấy muốn xuất bản bài báo của mình trên tạp chí nổi tiếng.",
+    "Cô giáo khuyến khích học sinh xuất bản tác phẩm của mình lên mạng."
+  ],
+  "rank": 2579,
+  "choices": [
+    "xuất bản",
+    "học tập",
+    "phát biểu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "ab544961-8f71-4476-a33e-0839249500ae",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:49:44.298Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "published"
+      },
+      "word": "xuất bản",
+      "sentence": "Cuốn sách này đã được ___ gần đây.",
+      "language": "vi",
+      "hint": "xuất ___",
+      "choices": [
+        "xuất bản",
+        "biên soạn",
+        "sáng tác"
+      ],
+      "translation": {
+        "en": "This book has been published recently."
+      },
+      "answer": "xuất bản"
+    },
+    "createdAt": "2025-03-12T13:49:44.298Z"
+  },
+  "notes_md": "**Xuất bản** means *to publish* — to make a book, article, or other work available to the public. It’s used for books, newspapers, research papers, magazines, comics, etc.\n\nIt often goes with things like *sách, báo, tạp chí, bài viết, tiểu thuyết*. The subject can be a person, an author, or a publishing company (*nhà xuất bản* = publisher).\n\n\nClose synonym: **phát hành** (release/distribute) — but *phát hành* focuses more on distribution, while *xuất bản* focuses on officially publishing.",
+  "exampleSentencesTranslated": [
+    "This publisher will publish a new book next month.",
+    "He wants to publish his article in a famous magazine.",
+    "The teacher encourages students to publish their works online."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:27:48.603Z",
+    "example": {
+      "en": "This book will be published next month.",
+      "es": "Este libro se publicará el próximo mes.",
+      "vi": "Cuốn sách này sẽ được xuất bản vào tháng tới."
+    },
+    "translations": {
+      "en": "publish",
+      "vi": "xuất bản",
+      "es": "publicar"
+    },
+    "definitions": {
+      "es": "Hacer que un libro, revista u otra obra esté disponible para el público.",
+      "vi": "Làm cho một cuốn sách, tạp chí hoặc tác phẩm khác có sẵn cho công chúng.",
+      "en": "To make a book, magazine, or other work available to the public."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:49:44.298Z",
+    "createdAt": "2025-03-12T13:49:44.298Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "This book was published last year."
+      },
+      "answer": "xuất bản",
+      "translatedAnswer": {
+        "en": "published"
+      },
+      "language": "vi",
+      "sentence": "Cuốn sách này được ___ vào năm ngoái.",
+      "word": "xuất bản"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "887c301d-91d1-4391-9e17-77c1828b3743",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Xuất bản means to publish — to make a book, article, or other work available to the public. It’s used for books, newspapers, research papers, magazines, comics, etc.\n\nIt often goes with things like sách, báo, tạp chí, bài viết, tiểu thuyết. The subject can be a person, an author, or a publishing company (nhà xuất bản = publisher).\n\nClose synonym: phát hành (release/distribute) — but phát hành focuses more on distribution, while xuất bản focuses on officially publishing.",
+  "updatedAt": "2026-03-03T11:25:06.421Z",
+  "_id": "Fho9OELIYDJamo4gLkf0"
+}

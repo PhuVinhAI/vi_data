@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "siêu thị",
+    "nhà hàng",
+    "cửa hàng"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta nên đến ___ để mua đồ.",
+      "hint": "s____ t__",
+      "word": "siêu thị",
+      "language": "vi",
+      "answer": "siêu thị",
+      "choices": [
+        "cửa hàng",
+        "siêu thị",
+        "chợ đêm"
+      ],
+      "translation": {
+        "en": "We should go to the supermarket to buy things."
+      },
+      "translatedAnswer": {
+        "en": "supermarket"
+      }
+    },
+    "updatedAt": "2025-03-12T16:48:12.748Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:48:12.748Z",
+    "id": "50fa65eb-ae33-4760-b3aa-d239027f6917"
+  },
+  "exampleSentences": [
+    "Cuối tuần này, em muốn đi siêu thị mua đồ ăn sáng.",
+    "Chị thường đến siêu thị gần nhà để mua rau quả tươi.",
+    "Khi anh cần mua nhiều thứ, anh sẽ đến siêu thị lớn."
+  ],
+  "updatedAt": "2026-03-03T11:42:35.006Z",
+  "word": "siêu thị",
+  "exampleSentencesTranslated": [
+    "This weekend, I want to go to the supermarket to buy breakfast food.",
+    "She often goes to the supermarket near her house to buy fresh vegetables.",
+    "When he needs to buy many things, he will go to the supermarket."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một cửa hàng lớn bán thực phẩm và các sản phẩm khác.",
+      "es": "Una gran tienda que vende alimentos y otros productos.",
+      "en": "A large store that sells food and other products."
+    },
+    "example": {
+      "es": "Voy al supermercado para comprar comestibles.",
+      "en": "I go to the supermarket to buy groceries.",
+      "vi": "Tôi đi siêu thị để mua thực phẩm."
+    },
+    "translations": {
+      "vi": "siêu thị",
+      "es": "supermercado",
+      "en": "supermarket"
+    },
+    "createdAt": "2025-01-28T14:18:45.456Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Siêu thị means supermarket — a big store where you buy food, drinks, and household stuff all in one place.\n\nIt’s a countable noun: một siêu thị, hai siêu thị (no classifier needed in casual speech).  \nCommon pairings: đi siêu thị (go to the supermarket), siêu thị lớn/nhỏ, siêu thị gần nhà.  \nIt usually suggests a bigger place than a cửa hàng tiện lợi (convenience store).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Siêu thị** means *supermarket* — a big store where you buy food, drinks, and household stuff all in one place.\n\nIt’s a countable noun: *một siêu thị, hai siêu thị* (no classifier needed in casual speech).  \nCommon pairings: *đi siêu thị* (go to the supermarket), *siêu thị lớn/nhỏ*, *siêu thị gần nhà*.  \nIt usually suggests a bigger place than a *cửa hàng tiện lợi* (convenience store).",
+  "fillBlankQuiz": {
+    "id": "70e8fca7-5af8-4b42-aa14-6bcc83561f0e",
+    "createdAt": "2025-03-12T16:48:12.748Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "supermarket"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I will go to the supermarket for shopping."
+      },
+      "answer": "siêu thị",
+      "language": "vi",
+      "word": "siêu thị",
+      "sentence": "Tôi sẽ đi ___ mua sắm."
+    },
+    "updatedAt": "2025-03-12T16:48:12.748Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "supermarket",
+  "rank": 2744,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "yZRZ4R0YfBDaVlWdvT5E"
+}

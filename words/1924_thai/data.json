@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chị nên đi khám bác sĩ để kiểm tra sức khỏe của thai.",
+    "Khi thai phát triển, em cần chú ý ăn uống đầy đủ dinh dưỡng.",
+    "Bác sĩ nói thai của chị đang phát triển rất tốt trong bụng mẹ."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I like to eat Thai food.",
+      "vi": "Tôi thích ăn món thái.",
+      "es": "Me gusta comer comida tailandesa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Relating to Thailand or its people, language, or culture.",
+      "es": "Relativo a Tailandia o su gente, idioma o cultura.",
+      "vi": "Liên quan đến Thái Lan hoặc người dân, ngôn ngữ hoặc văn hóa của họ."
+    },
+    "translations": {
+      "en": "Thai",
+      "es": "Tailandés",
+      "vi": "Thái"
+    },
+    "createdAt": "2025-01-28T11:50:19.589Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1924,
+  "notes": "Thai means fetus — an unborn baby developing in the womb. It’s a noun, usually talked about in medical or pregnancy contexts.\n\nYou’ll often hear it in fixed phrases: thai nhi (fetus, more formal), bào thai (embryo/fetus), mang thai (to be pregnant), sảy thai (miscarriage), phá thai (abortion).  \nNo special classifier is commonly used because it’s rarely counted directly.\n\nThink of thai as the medical word; everyday talk about the baby usually uses em bé once it’s born.",
+  "exampleSentencesTranslated": [
+    "You should see a doctor to check the health of the fetus.",
+    "When the fetus develops, I need to pay attention to good nutrition.",
+    "The doctor said your fetus is developing very well in the mother's womb."
+  ],
+  "updatedAt": "2026-03-03T09:41:39.748Z",
+  "choices": [
+    "thai",
+    "trai",
+    "thai sản"
+  ],
+  "definition": "fetus",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "pregnant"
+      },
+      "answer": "thai",
+      "translation": {
+        "en": "I feel pregnant in my stomach."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "thai",
+      "sentence": "Tôi cảm thấy ___ trong bụng."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "64852c1b-2bd0-4e78-b259-96e6de933ce3",
+    "createdAt": "2025-03-12T14:13:11.578Z",
+    "updatedAt": "2025-03-12T14:13:11.578Z"
+  },
+  "word": "thai",
+  "multiChoiceQuiz": {
+    "id": "48b4e6aa-de4b-40a6-a621-908829a39521",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "thai",
+        "thais",
+        "THAI"
+      ],
+      "translation": {
+        "en": "I feel pregnant in my stomach."
+      },
+      "sentence": "Tôi cảm thấy ___ trong bụng.",
+      "hint": "t___i",
+      "word": "thai",
+      "answer": "thai",
+      "translatedAnswer": {
+        "en": "pregnant"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:13:11.578Z",
+    "createdAt": "2025-03-12T14:13:11.578Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Thai** means *fetus* — an unborn baby developing in the womb. It’s a noun, usually talked about in medical or pregnancy contexts.\n\nYou’ll often hear it in fixed phrases: **thai nhi** (fetus, more formal), **bào thai** (embryo/fetus), **mang thai** (to be pregnant), **sảy thai** (miscarriage), **phá thai** (abortion).  \nNo special classifier is commonly used because it’s rarely counted directly.\n\n\nThink of **thai** as the medical word; everyday talk about the baby usually uses **em bé** once it’s born.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "LOuV6M6eMKbvkicvYrZb"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "phần mềm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:23:19.277Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "phần mềm",
+        "phần cứng",
+        "dữ liệu"
+      ],
+      "word": "phần mềm",
+      "sentence": "Máy tính của tôi cần ___ tốt hơn.",
+      "language": "vi",
+      "translation": {
+        "en": "My computer needs better software."
+      },
+      "translatedAnswer": {
+        "en": "software"
+      },
+      "hint": "p___ m___",
+      "answer": "phần mềm"
+    },
+    "id": "19b9f6f3-eb9f-47a8-be68-61aaefd77794",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:23:19.277Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1900,
+  "choices": [
+    "phần mềm",
+    "máy tính",
+    "bàn phím"
+  ],
+  "notes_md": "**phần mềm** = software (programs on a computer or phone). It’s the opposite of *phần cứng* (hardware = the physical parts).\n\nIt’s a noun. You can say *một phần mềm* (a piece of software) or *các phần mềm* (softwares/programs), but often it works like an uncountable idea in English.\n\nCommon pairings: *cài đặt phần mềm* (install), *cập nhật phần mềm* (update), *phát triển phần mềm* (develop), *lỗi phần mềm* (software bug), *phần mềm miễn phí / trả phí* (free / paid software).\n\nIf you remember one contrast, remember: **phần mềm vs phần cứng**.",
+  "notes": "phần mềm = software (programs on a computer or phone). It’s the opposite of phần cứng (hardware = the physical parts).\n\nIt’s a noun. You can say một phần mềm (a piece of software) or các phần mềm (softwares/programs), but often it works like an uncountable idea in English.\n\nCommon pairings: cài đặt phần mềm (install), cập nhật phần mềm (update), phát triển phần mềm (develop), lỗi phần mềm (software bug), phần mềm miễn phí / trả phí (free / paid software).\n\nIf you remember one contrast, remember: phần mềm vs phần cứng.",
+  "exampleSentences": [
+    "Anh cần cài đặt phần mềm mới cho máy tính của em.",
+    "Chị thường sử dụng phần mềm này để chỉnh sửa ảnh.",
+    "Em không thể mở tệp này nếu không có phần mềm phù hợp."
+  ],
+  "updatedAt": "2026-03-03T09:39:03.920Z",
+  "exampleSentencesTranslated": [
+    "I need to install new software for your computer.",
+    "I usually use this software to edit photos.",
+    "I can't open this file without the right software."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:23:19.277Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần tải ___ mới.",
+      "word": "phần mềm",
+      "translatedAnswer": {
+        "en": "software"
+      },
+      "translation": {
+        "en": "I need to download new software."
+      },
+      "answer": "phần mềm"
+    },
+    "id": "b656f4a5-ba49-4b44-a32c-088445476d7b",
+    "updatedAt": "2025-03-12T15:23:19.277Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "I need to install new software for my computer.",
+      "vi": "Tôi cần cài đặt phần mềm mới cho máy tính.",
+      "es": "Necesito instalar un nuevo software en mi computadora."
+    },
+    "definitions": {
+      "es": "Un conjunto de instrucciones que le dice a una computadora cómo realizar tareas específicas.",
+      "vi": "Một tập hợp các hướng dẫn chỉ cho máy tính cách thực hiện các nhiệm vụ cụ thể.",
+      "en": "A set of instructions that tells a computer how to perform specific tasks."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:58:08.109Z",
+    "translations": {
+      "en": "software",
+      "vi": "phần mềm",
+      "es": "software"
+    }
+  },
+  "definition": "software",
+  "_id": "dEA86sba0maLJNNTm7xI"
+}

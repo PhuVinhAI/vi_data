@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "dưỡng",
+      "answer": "dưỡng",
+      "translation": {
+        "en": "She takes care of skin nourishment."
+      },
+      "translatedAnswer": {
+        "en": "nourishment"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy chăm sóc ___ của da."
+    },
+    "updatedAt": "2025-03-12T14:46:34.719Z",
+    "createdAt": "2025-03-12T14:46:34.719Z",
+    "id": "60535040-c713-4ecb-b964-fb47e93af4e1",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "nourish",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "nourish",
+      "vi": "dưỡng",
+      "es": "nutrir"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito cuidar mi piel a diario.",
+      "vi": "Tôi cần dưỡng da hàng ngày.",
+      "en": "I need to take care of my skin daily."
+    },
+    "createdAt": "2025-01-28T12:20:49.205Z",
+    "definitions": {
+      "en": "To nourish or take care of something, often related to health or beauty.",
+      "vi": "Nuôi dưỡng hoặc chăm sóc một cái gì đó, thường liên quan đến sức khỏe hoặc sắc đẹp.",
+      "es": "Nutrir o cuidar algo, a menudo relacionado con la salud o la belleza."
+    }
+  },
+  "exampleSentences": [
+    "Chị nên ăn nhiều rau xanh để dưỡng cơ thể khỏe mạnh.",
+    "Anh thường dùng kem đặc biệt để dưỡng da vào ban đêm.",
+    "Em học cách dưỡng tóc mềm mượt bằng dầu thiên nhiên."
+  ],
+  "notes_md": "**dưỡng** = to nourish, to take care of something so it becomes healthy or stronger. It’s about feeding, restoring, or maintaining health/condition.\n\nIt often goes with body-related nouns: **dưỡng sức** (recover energy), **dưỡng bệnh** (rest to recover), **dưỡng ẩm** (moisturize), **nuôi dưỡng** (raise/nurture). It can be physical (body, skin) or abstract (feelings, dreams).\n\n\nClose friend: **nuôi dưỡng** (more about raising or developing over time).",
+  "choices": [
+    "dưỡng",
+    "dạy",
+    "dọn"
+  ],
+  "notes": "dưỡng = to nourish, to take care of something so it becomes healthy or stronger. It’s about feeding, restoring, or maintaining health/condition.\n\nIt often goes with body-related nouns: dưỡng sức (recover energy), dưỡng bệnh (rest to recover), dưỡng ẩm (moisturize), nuôi dưỡng (raise/nurture). It can be physical (body, skin) or abstract (feelings, dreams).\n\nClose friend: nuôi dưỡng (more about raising or developing over time).",
+  "exampleSentencesTranslated": [
+    "You should eat more green vegetables to nourish your body.",
+    "He often uses a special cream to nourish his skin at night.",
+    "I am learning how to nourish my hair to make it smooth using natural oil."
+  ],
+  "rank": 2699,
+  "word": "dưỡng",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng ta cần mua ___ cho cây.",
+      "translatedAnswer": {
+        "en": "nourishment"
+      },
+      "language": "vi",
+      "word": "dưỡng",
+      "choices": [
+        "phân bón",
+        "dưỡng",
+        "thuốc trừ sâu"
+      ],
+      "hint": "d____",
+      "translation": {
+        "en": "We need to buy nourishment for the plants."
+      },
+      "answer": "dưỡng"
+    },
+    "updatedAt": "2025-03-12T14:46:34.719Z",
+    "createdAt": "2025-03-12T14:46:34.719Z",
+    "id": "1ef6fb04-7f5b-45e8-8583-b1ad2340c065",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:37:25.340Z",
+  "_id": "TTdgXTLc3unS4aYw2bAS"
+}

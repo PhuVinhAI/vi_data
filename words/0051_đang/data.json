@@ -1,0 +1,101 @@
+{
+  "exampleSentencesTranslated": [
+    "He is currently drinking orange juice.",
+    "She is currently reading a new book.",
+    "I am currently watching a new movie."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "đang",
+  "choices": [
+    "sẽ",
+    "đã",
+    "đang"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi ___ học tiếng Việt.",
+      "hint": "d___g",
+      "word": "đang",
+      "language": "vi",
+      "translation": {
+        "en": "I am learning Vietnamese."
+      },
+      "answer": "đang",
+      "choices": [
+        "đang",
+        "có",
+        "làm"
+      ],
+      "translatedAnswer": {
+        "en": "am"
+      }
+    },
+    "updatedAt": "2025-03-12T16:52:11.050Z",
+    "createdAt": "2025-03-12T16:52:11.050Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2ea9b32d-f75a-4d54-ac8e-c642630122fa"
+  },
+  "exampleSentences": [
+    "Anh ấy đang uống nước cam.",
+    "Chị đang đọc sách mới.",
+    "Em đang xem phim mới."
+  ],
+  "updatedAt": "2026-03-03T06:08:14.516Z",
+  "flashcard": {
+    "translations": {
+      "en": "am/is/are (present continuous marker)"
+    },
+    "definitions": {
+      "en": "A word used to indicate an action that is happening at the present moment.",
+      "vi": "Từ dùng để chỉ hành động đang diễn ra ở hiện tại."
+    },
+    "example": {
+      "en": "I am learning Vietnamese.",
+      "vi": "Tôi đang học tiếng Việt."
+    },
+    "word": "đang",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:37:26.688Z"
+  },
+  "notes": "đang means “currently” or “in the middle of doing something.” It shows an action is happening right now.\n\nIt goes before a verb to mark ongoing action.  \n\nIt’s like the English “-ing” form. To compare timelines, pair it mentally with đã (past) and sẽ (future).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi ___ làm bài tập.",
+      "word": "đang",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "am"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I am doing homework."
+      },
+      "answer": "đang"
+    },
+    "updatedAt": "2025-03-12T16:52:11.050Z",
+    "type": "fillBlankQuiz",
+    "id": "4ae85f62-607c-43cd-a71e-e04ab07bfdcf",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:52:11.050Z"
+  },
+  "rank": 51,
+  "definition": "currently",
+  "sentenceBreakdowns": [
+    "Anh ấy (he) + đang (currently) + uống (drink) + nước cam (orange juice)",
+    "Chị (she) + đang (currently) + đọc (read) + sách mới (new book)",
+    "Em (I) + đang (currently) + xem (watch) + phim mới (new movie)"
+  ],
+  "notes_md": "**đang** means “currently” or “in the middle of doing something.” It shows an action is happening right now.\n\nIt goes **before a verb** to mark ongoing action.  \n\nIt’s like the English “-ing” form. To compare timelines, pair it mentally with **đã** (past) and **sẽ** (future).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "ziKYjuVQ64Rd2NCM3Dpe"
+}

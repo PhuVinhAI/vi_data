@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "establish",
+  "word": "thành lập",
+  "exampleSentences": [
+    "Công ty của anh được thành lập vào năm 2018 và phát triển rất nhanh.",
+    "Chúng ta cần thành lập một nhóm để hoàn thành dự án này.",
+    "Nhiều trường đại học nổi tiếng đã được thành lập từ rất lâu rồi."
+  ],
+  "rank": 1527,
+  "choices": [
+    "xây dựng",
+    "thành lập",
+    "bắt đầu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "b591c3af-f041-4883-92b4-33a2d8d23b75",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:44:10.461Z",
+    "content": {
+      "translation": {
+        "en": "They plan to establish a large company."
+      },
+      "answer": "thành lập",
+      "hint": "th___ l___",
+      "choices": [
+        "thành lập",
+        "chấm dứt",
+        "khởi đầu"
+      ],
+      "language": "vi",
+      "sentence": "Họ dự định ___ một công ty lớn.",
+      "word": "thành lập",
+      "translatedAnswer": {
+        "en": "establish"
+      }
+    },
+    "createdAt": "2025-03-12T13:44:10.461Z"
+  },
+  "notes_md": "**thành lập** = to establish or set up something new, usually an organization, company, or group.\n\nIt’s used for formal things like companies, schools, clubs, organizations, governments — not for small casual actions.  \nOften used in passive form with **được** when talking about when something was founded.  \nClose synonym: **lập** (shorter, slightly less formal in some contexts).",
+  "exampleSentencesTranslated": [
+    "My company was established in 2018 and grew very quickly.",
+    "We need to establish a team to complete this project.",
+    "Many famous universities were established a long time ago."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To create or set up something, such as an organization or institution.",
+      "vi": "Tạo ra hoặc thiết lập một cái gì đó, chẳng hạn như một tổ chức hoặc cơ sở.",
+      "es": "Crear o establecer algo, como una organización o institución."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:22:30.786Z",
+    "example": {
+      "es": "Estableceremos una nueva empresa.",
+      "vi": "Chúng tôi sẽ thành lập một công ty mới.",
+      "en": "We will establish a new company."
+    },
+    "translations": {
+      "es": "establecer",
+      "vi": "thành lập",
+      "en": "establish"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:44:10.461Z",
+    "createdAt": "2025-03-12T13:44:10.461Z",
+    "content": {
+      "translation": {
+        "en": "We will establish a new organization."
+      },
+      "answer": "thành lập",
+      "choices": [],
+      "language": "vi",
+      "word": "thành lập",
+      "sentence": "Chúng tôi sẽ ___ một tổ chức mới.",
+      "translatedAnswer": {
+        "en": "establish"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "5df936fe-d3e3-41e4-8951-a7732103e138",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "thành lập = to establish or set up something new, usually an organization, company, or group.\n\nIt’s used for formal things like companies, schools, clubs, organizations, governments — not for small casual actions.  \nOften used in passive form with được when talking about when something was founded.  \nClose synonym: lập (shorter, slightly less formal in some contexts).",
+  "updatedAt": "2026-03-03T08:59:31.399Z",
+  "_id": "EX1hAzC4E2wYwx6Dcj3h"
+}

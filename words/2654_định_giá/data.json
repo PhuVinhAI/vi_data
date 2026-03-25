@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "word": "định giá",
+      "sentence": "Chúng tôi cần ___ cho tài sản.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "appraisal"
+      },
+      "translation": {
+        "en": "We need an appraisal for the assets."
+      },
+      "answer": "định giá",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:46:08.948Z",
+    "updatedAt": "2025-03-12T13:46:08.948Z",
+    "id": "3301672a-cf74-425a-9097-ccc591c51b7a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "định giá = to set a price for something; to decide how much something is worth in money.\n\nIt’s a verb used for products, houses, land, companies, stocks, services, etc. Often used in business, sales, and real estate contexts.  \n\nDon’t confuse it with đánh giá (to evaluate in general). Định giá is specifically about money and price.",
+  "updatedAt": "2026-03-03T11:32:40.135Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "c5fd105c-d4d0-4dbe-a1a4-0936e3e9b6b6",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:46:08.948Z",
+    "createdAt": "2025-03-12T13:46:08.948Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "appraisal"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi cần ___ cho tài sản.",
+      "word": "định giá",
+      "hint": "đ___ g___",
+      "choices": [
+        "định giá",
+        "đánh giá",
+        "giá trị"
+      ],
+      "translation": {
+        "en": "We need an appraisal for the assets."
+      },
+      "answer": "định giá"
+    }
+  },
+  "notes_md": "**định giá** = to set a price for something; to decide how much something is worth in money.\n\nIt’s a verb used for products, houses, land, companies, stocks, services, etc. Often used in business, sales, and real estate contexts.  \n\n\nDon’t confuse it with **đánh giá** (to evaluate in general). *Định giá* is specifically about money and price.",
+  "exampleSentencesTranslated": [
+    "Can you help me set a price for this phone?",
+    "They are set a price for the house before selling.",
+    "I need to set a price for the company's new product."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To assess the value of something.",
+      "es": "Evaluar el valor de algo.",
+      "vi": "Đánh giá giá trị của một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "appraise",
+      "vi": "định giá",
+      "es": "tasar"
+    },
+    "createdAt": "2025-01-28T11:24:38.733Z",
+    "example": {
+      "es": "Necesitamos tasar el activo antes de vender.",
+      "vi": "Chúng tôi cần định giá tài sản trước khi bán.",
+      "en": "We need to appraise the asset before selling."
+    }
+  },
+  "word": "định giá",
+  "exampleSentences": [
+    "Chị có thể giúp em định giá chiếc điện thoại này không?",
+    "Họ đang định giá ngôi nhà trước khi bán.",
+    "Anh cần định giá sản phẩm mới của công ty."
+  ],
+  "rank": 2654,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "set a price",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "định giá",
+    "thanh toán",
+    "kiểm tra"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "F3zVuOA8iIqoDnSuBxSm"
+}

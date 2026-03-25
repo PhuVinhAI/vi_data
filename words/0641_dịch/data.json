@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể giúp em dịch đoạn văn này sang tiếng Anh được không?",
+    "Chị đã phải dịch rất nhiều tài liệu cho công việc mới.",
+    "Em muốn học cách dịch các câu tiếng Việt sang tiếng Pháp."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:55:50.079Z",
+    "translations": {
+      "en": "translate",
+      "vi": "dịch",
+      "es": "traducir"
+    },
+    "definitions": {
+      "vi": "Diễn đạt ý nghĩa của (từ hoặc văn bản) bằng một ngôn ngữ khác.",
+      "es": "Expresar el significado de (palabras o texto) en otro idioma.",
+      "en": "To express the meaning of (words or text) in another language."
+    },
+    "example": {
+      "en": "I need to translate this document into English.",
+      "vi": "Tôi cần dịch tài liệu này sang tiếng Anh.",
+      "es": "Necesito traducir este documento al inglés."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 641,
+  "choices": [
+    "đọc",
+    "dịch",
+    "viết"
+  ],
+  "updatedAt": "2026-03-03T07:25:57.665Z",
+  "exampleSentencesTranslated": [
+    "Can you help me translate this paragraph into English?",
+    "She had to translate many documents for her new job.",
+    "I want to learn how to translate Vietnamese sentences into French."
+  ],
+  "notes": "dịch = to translate, to turn something from one language into another.  \n\nYou use it for text, speech, subtitles, documents, etc. It often goes with languages after sang.  \n\nIt can also mean “to move/shift” (like dịch sang trái = move to the left). As a noun, dịch also means an epidemic (like dịch cúm = flu epidemic), but that’s a different context.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:19:28.956Z",
+    "updatedAt": "2025-03-12T14:19:28.956Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "dịch",
+      "sentence": "Tôi muốn ___ cuốn sách này.",
+      "translation": {
+        "en": "I want to translate this book."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "translate"
+      },
+      "answer": "dịch"
+    },
+    "id": "198c9bce-62d7-413e-806a-dd377c18e8f6"
+  },
+  "definition": "translate",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "translate"
+      },
+      "answer": "dịch",
+      "translation": {
+        "en": "I need to translate this document."
+      },
+      "language": "vi",
+      "choices": [
+        "biên dịch",
+        "dịch",
+        "phiên dịch"
+      ],
+      "hint": "d___",
+      "word": "dịch",
+      "sentence": "Tôi cần ___ tài liệu này."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "68b1b2e6-3bfd-44a5-a5a1-9f33669fbca7",
+    "createdAt": "2025-03-12T14:19:28.956Z",
+    "updatedAt": "2025-03-12T14:19:28.956Z"
+  },
+  "word": "dịch",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**dịch** = to translate, to turn something from one language into another.  \n\nYou use it for text, speech, subtitles, documents, etc. It often goes with languages after **sang**.  \n\nIt can also mean “to move/shift” (like dịch sang trái = move to the left). As a noun, **dịch** also means an epidemic (like dịch cúm = flu epidemic), but that’s a different context.",
+  "_id": "MxoEfNo1D8FCFSx8RVL1"
+}

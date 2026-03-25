@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "practice"
+      },
+      "sentence": "Tôi muốn ___ thể dục hàng ngày.",
+      "word": "tập luyện",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I want to practice exercise daily."
+      },
+      "answer": "tập luyện"
+    },
+    "createdAt": "2025-03-12T13:58:29.932Z",
+    "updatedAt": "2025-03-12T13:58:29.932Z",
+    "id": "ec62a33d-a5e4-4921-ad4b-b8151614f939",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "tập luyện = to practice or train, usually to improve a skill or your body. It’s more active and repeated than just học (study).\n\nUsed for sports, physical training, music, martial arts, and skills that need regular effort. It often pairs with things like thể thao, gym, võ, đàn, kỹ năng.\n\nClose words: luyện tập (same meaning, just flipped order, very common) and tập (shorter, more casual).",
+  "updatedAt": "2026-03-03T09:55:44.887Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:58:29.932Z",
+    "createdAt": "2025-03-12T13:58:29.932Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi muốn ___ thể dục hàng ngày.",
+      "word": "tập luyện",
+      "translatedAnswer": {
+        "en": "practice"
+      },
+      "translation": {
+        "en": "I want to practice exercise daily."
+      },
+      "answer": "tập luyện",
+      "hint": "t___n",
+      "choices": [
+        "học tập",
+        "tập luyện",
+        "nghỉ ngơi"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "12999eea-c7b8-4c19-a066-fa148f006238"
+  },
+  "notes_md": "**tập luyện** = to practice or train, usually to improve a skill or your body. It’s more active and repeated than just *học* (study).\n\nUsed for sports, physical training, music, martial arts, and skills that need regular effort. It often pairs with things like *thể thao, gym, võ, đàn, kỹ năng*.\n\n\nClose words: *luyện tập* (same meaning, just flipped order, very common) and *tập* (shorter, more casual).",
+  "exampleSentencesTranslated": [
+    "I spend one hour every day to practice English.",
+    "I want to practice sports with my friends on the weekend.",
+    "I think regular practice will help improve health."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:36:27.870Z",
+    "example": {
+      "en": "I usually exercise in the morning.",
+      "es": "Normalmente hago ejercicio por la mañana.",
+      "vi": "Tôi thường tập luyện thể dục vào buổi sáng."
+    },
+    "translations": {
+      "es": "entrenar",
+      "vi": "tập luyện",
+      "en": "to train"
+    },
+    "definitions": {
+      "en": "To practice or train, especially in a physical activity.",
+      "vi": "Thực hành hoặc rèn luyện, đặc biệt trong một hoạt động thể chất.",
+      "es": "Practicar o entrenar, especialmente en una actividad física."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tập luyện",
+    "nghỉ ngơi",
+    "học hỏi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tập luyện",
+  "rank": 2057,
+  "exampleSentences": [
+    "Anh dành một giờ mỗi ngày để tập luyện tiếng Anh.",
+    "Em muốn tập luyện thể thao cùng bạn bè vào cuối tuần.",
+    "Chị nghĩ tập luyện thường xuyên sẽ giúp sức khỏe tốt hơn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "practice",
+  "_id": "ITXXpfBYHWzpGpgrBNBX"
+}

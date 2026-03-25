@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "2bf73a5b-b0e4-4b44-9e49-5615b3846128",
+    "updatedAt": "2025-03-12T15:09:18.333Z",
+    "content": {
+      "choices": [
+        "sự giúp đỡ",
+        "ủng hộ",
+        "sự đồng ý"
+      ],
+      "translatedAnswer": {
+        "en": "support"
+      },
+      "translation": {
+        "en": "I need support from you."
+      },
+      "sentence": "Tôi cần sự ___ từ bạn.",
+      "word": "ủng hộ",
+      "language": "vi",
+      "hint": "u___ h___",
+      "answer": "ủng hộ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:09:18.333Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "ủng hộ",
+  "notes": "ủng hộ = to support, back, or approve of someone/something.\n\nIt’s a verb used for supporting people, ideas, plans, decisions, or campaigns. Very common with things like ý kiến (opinions), quyết định (decisions), dự án (projects), đội (teams), ứng cử viên (candidates).\n\nIt can mean emotional support (encouragement) or public/official support. Close synonym: hỗ trợ (more like practical help or assistance). Opposite idea: phản đối (to oppose).",
+  "exampleSentences": [
+    "Anh rất vui khi bạn bè luôn ủng hộ quyết định của anh.",
+    "Chị mong mọi người sẽ ủng hộ dự án mới của chị.",
+    "Bố mẹ luôn ủng hộ em theo đuổi ước mơ của mình."
+  ],
+  "choices": [
+    "ủng hộ",
+    "từ chối",
+    "giúp sức"
+  ],
+  "rank": 1117,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**ủng hộ** = to support, back, or approve of someone/something.\n\nIt’s a verb used for supporting people, ideas, plans, decisions, or campaigns. Very common with things like *ý kiến* (opinions), *quyết định* (decisions), *dự án* (projects), *đội* (teams), *ứng cử viên* (candidates).\n\n\nIt can mean emotional support (encouragement) or public/official support. Close synonym: **hỗ trợ** (more like practical help or assistance). Opposite idea: **phản đối** (to oppose).",
+  "definition": "support",
+  "exampleSentencesTranslated": [
+    "I am very happy when my friends always support my decisions.",
+    "I hope everyone will support my new project.",
+    "My parents always support me to pursue my dreams."
+  ],
+  "updatedAt": "2026-03-03T08:15:02.106Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "6fd518f5-d21c-45d1-990e-96cbb7a5c9c9",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:09:18.333Z",
+    "updatedAt": "2025-03-12T15:09:18.333Z",
+    "content": {
+      "language": "vi",
+      "word": "ủng hộ",
+      "answer": "ủng hộ",
+      "sentence": "Mọi người đều ___ dự án này.",
+      "translation": {
+        "en": "Everyone supports this project."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "supports"
+      }
+    }
+  },
+  "flashcard": {
+    "translations": {
+      "en": "support",
+      "es": "apoyar",
+      "vi": "ủng hộ"
+    },
+    "example": {
+      "en": "I always support you in every decision.",
+      "es": "Siempre te apoyo en cada decisión.",
+      "vi": "Tôi luôn ủng hộ bạn trong mọi quyết định."
+    },
+    "definitions": {
+      "en": "To give assistance or approval to someone or something.",
+      "es": "Dar asistencia o aprobación a alguien o algo.",
+      "vi": "Cung cấp sự hỗ trợ hoặc sự chấp thuận cho ai đó hoặc điều gì đó."
+    },
+    "createdAt": "2025-01-28T12:43:41.357Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "ZXN3vKafutLOb24Xfk48"
+}

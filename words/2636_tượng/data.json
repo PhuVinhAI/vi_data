@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "statue"
+      },
+      "translation": {
+        "en": "We saw that beautiful statue."
+      },
+      "answer": "tượng",
+      "choices": [],
+      "language": "vi",
+      "word": "tượng",
+      "sentence": "Chúng tôi đã thấy ___ đẹp đó."
+    },
+    "updatedAt": "2025-03-12T16:52:00.834Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:52:00.834Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "4aaa9060-2d77-4703-b572-b281f1de2e17"
+  },
+  "rank": 2636,
+  "definition": "statue",
+  "notes_md": "**tượng** = statue, a 3D figure of a person, animal, or deity.\n\nIt’s a countable noun. Use classifiers like **bức tượng** (artwork style) or **pho tượng** (often for religious statues). Common pairings: **tượng đá** (stone statue), **tượng đồng** (bronze statue), **tượng Phật** (Buddha statue).\n\nIn chess, **quân tượng** is the bishop (literally “elephant”), so **tượng** can also relate to that piece.\n\nStrong memory link: think **pho tượng** when you imagine a big temple statue.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tượng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He took a lot of photos with the statue in the park on the weekend.",
+    "She wants to buy a small statue to decorate her desk.",
+    "Every time I walk through the square, I see that famous statue."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi thích ___ trong công viên.",
+      "word": "tượng",
+      "hint": "t___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "statue"
+      },
+      "translation": {
+        "en": "I like the statue in the park."
+      },
+      "choices": [
+        "cây",
+        "tượng",
+        "nhà"
+      ],
+      "answer": "tượng"
+    },
+    "updatedAt": "2025-03-12T16:52:00.834Z",
+    "id": "f1aeaf87-e80b-4ed3-993a-0d76186fa6d5",
+    "createdAt": "2025-03-12T16:52:00.834Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh đã chụp rất nhiều ảnh với tượng trong công viên vào cuối tuần.",
+    "Chị muốn mua một tượng nhỏ để trang trí bàn làm việc của mình.",
+    "Mỗi khi em đi qua quảng trường, em đều nhìn thấy tượng nổi tiếng đó."
+  ],
+  "updatedAt": "2026-03-03T11:30:47.193Z",
+  "choices": [
+    "tượng",
+    "bức tranh",
+    "ghế"
+  ],
+  "notes": "tượng = statue, a 3D figure of a person, animal, or deity.\n\nIt’s a countable noun. Use classifiers like bức tượng (artwork style) or pho tượng (often for religious statues). Common pairings: tượng đá (stone statue), tượng đồng (bronze statue), tượng Phật (Buddha statue).\n\nIn chess, quân tượng is the bishop (literally “elephant”), so tượng can also relate to that piece.\n\nStrong memory link: think pho tượng when you imagine a big temple statue.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Una estatua es una representación tridimensional de una persona o animal, generalmente hecha de piedra, metal u otros materiales.",
+      "en": "A statue is a three-dimensional representation of a person or animal, typically made of stone, metal, or other materials.",
+      "vi": "Tượng là một hình thức đại diện ba chiều của một người hoặc động vật, thường được làm bằng đá, kim loại hoặc các vật liệu khác."
+    },
+    "example": {
+      "en": "I saw a beautiful statue in the park.",
+      "es": "Vi una hermosa estatua en el parque.",
+      "vi": "Tôi đã thấy một bức tượng đẹp trong công viên."
+    },
+    "translations": {
+      "en": "statue",
+      "es": "estatua",
+      "vi": "tượng"
+    },
+    "createdAt": "2025-01-28T14:21:57.258Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "zgMgtGD9YnkZYM0UISmt"
+}

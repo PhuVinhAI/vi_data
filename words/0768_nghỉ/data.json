@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:16:10.645Z",
+    "definitions": {
+      "en": "to rest or take a break",
+      "vi": "nghỉ ngơi hoặc nghỉ phép",
+      "es": "descansar o tomar un descanso"
+    },
+    "example": {
+      "vi": "Hôm nay tôi sẽ nghỉ ở nhà.",
+      "en": "Today I will rest at home.",
+      "es": "Hoy descansaré en casa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "descansar",
+      "vi": "nghỉ",
+      "en": "rest"
+    }
+  },
+  "exampleSentences": [
+    "Sau khi làm việc mệt, anh muốn nghỉ một chút.",
+    "Em thường nghỉ trưa ở quán cà phê gần trường.",
+    "Chúng ta sẽ nghỉ vào cuối tuần này, đúng không?"
+  ],
+  "notes_md": "**nghỉ** = to rest, take a break, or stop working for a while. It’s what you say when you pause work, school, or an activity.\n\nVery common with work and school: *nghỉ làm*, *nghỉ học*. It can also mean being off for an occasion, like holidays.\n\n\nRelated word: **nghỉ ngơi** = rest properly (a bit stronger, more about recovering energy). Opposite idea: **làm / học** (work / study).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "0fadf24c-e7ca-460e-a0ca-4cf3945e9d23",
+    "createdAt": "2025-03-12T14:40:53.865Z",
+    "updatedAt": "2025-03-12T14:40:53.865Z",
+    "content": {
+      "translation": {
+        "en": "I want to rest a little."
+      },
+      "answer": "nghỉ",
+      "choices": [],
+      "word": "nghỉ",
+      "translatedAnswer": {
+        "en": "rest"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn ___ một chút."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "rest",
+  "word": "nghỉ",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "nghỉ",
+      "choices": [
+        "nghỉ",
+        "làm việc",
+        "học tập"
+      ],
+      "hint": "n____",
+      "answer": "nghỉ",
+      "translation": {
+        "en": "I want to rest on the weekend."
+      },
+      "translatedAnswer": {
+        "en": "rest"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn ___ vào cuối tuần."
+    },
+    "updatedAt": "2025-03-12T14:40:53.865Z",
+    "type": "multiChoiceQuiz",
+    "id": "390cd5de-cacb-4f77-b7bf-b39c391d4279",
+    "createdAt": "2025-03-12T14:40:53.865Z"
+  },
+  "exampleSentencesTranslated": [
+    "After working hard, I want to rest for a bit.",
+    "I usually rest at the coffee shop near the school at noon.",
+    "We will rest this weekend, right?"
+  ],
+  "rank": 768,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:38:41.616Z",
+  "choices": [
+    "ngủ",
+    "nghỉ",
+    "chơi"
+  ],
+  "notes": "nghỉ = to rest, take a break, or stop working for a while. It’s what you say when you pause work, school, or an activity.\n\nVery common with work and school: nghỉ làm, nghỉ học. It can also mean being off for an occasion, like holidays.\n\nRelated word: nghỉ ngơi = rest properly (a bit stronger, more about recovering energy). Opposite idea: làm / học (work / study).",
+  "_id": "SAxQoOoyoggkmaZ7a65s"
+}

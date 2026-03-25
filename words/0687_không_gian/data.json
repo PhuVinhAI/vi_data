@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "space",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "e8c5242a-0d89-4e74-84d1-1e0e9e3473ab",
+    "createdAt": "2025-03-12T14:35:46.044Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:35:46.044Z",
+    "content": {
+      "translation": {
+        "en": "We need space to organize the event."
+      },
+      "answer": "không gian",
+      "word": "không gian",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "space"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để tổ chức sự kiện."
+    }
+  },
+  "notes_md": "**không gian** = space, the physical area around something. It’s about how much room there is, or the feeling of openness/tightness in a place.\n\nIt’s a noun. You often say **không gian + adjective** (không gian rộng, nhỏ, yên tĩnh, riêng tư). You can also say **tạo không gian** (create space) or **có nhiều/ít không gian**.\n\nIt can also mean “atmosphere” or “setting” in a softer, emotional way (like the vibe of a place).\n\nClose synonym: **không khí** (more about “atmosphere” or mood, not physical space).",
+  "exampleSentences": [
+    "Không gian trong quán cà phê này rất yên tĩnh và dễ chịu.",
+    "Anh muốn sắp xếp lại phòng để có nhiều không gian hơn cho con chơi.",
+    "Chị thích không gian ngoài trời vì có thể tận hưởng không khí trong lành."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "espacio",
+      "vi": "không gian",
+      "en": "space"
+    },
+    "definitions": {
+      "vi": "Khu vực hoặc thể tích có sẵn hoặc đang được chiếm giữ.",
+      "en": "The area or volume that is available or occupied.",
+      "es": "El área o volumen que está disponible u ocupado."
+    },
+    "createdAt": "2025-01-28T12:11:31.584Z",
+    "example": {
+      "vi": "Không gian này rất rộng rãi.",
+      "en": "This space is very spacious.",
+      "es": "Este espacio es muy amplio."
+    }
+  },
+  "notes": "không gian = space, the physical area around something. It’s about how much room there is, or the feeling of openness/tightness in a place.\n\nIt’s a noun. You often say không gian + adjective (không gian rộng, nhỏ, yên tĩnh, riêng tư). You can also say tạo không gian (create space) or có nhiều/ít không gian.\n\nIt can also mean “atmosphere” or “setting” in a softer, emotional way (like the vibe of a place).\n\nClose synonym: không khí (more about “atmosphere” or mood, not physical space).",
+  "choices": [
+    "không gian",
+    "thời gian",
+    "phòng khách"
+  ],
+  "updatedAt": "2026-03-03T07:30:24.773Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "không gian",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "adf0b5e7-d79e-45aa-a590-242fca3611ba",
+    "createdAt": "2025-03-12T14:35:46.044Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:35:46.044Z",
+    "content": {
+      "word": "không gian",
+      "choices": [
+        "không gian",
+        "thời gian",
+        "cơ hội"
+      ],
+      "hint": "k___n",
+      "translation": {
+        "en": "We need space to organize the event."
+      },
+      "answer": "không gian",
+      "translatedAnswer": {
+        "en": "space"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để tổ chức sự kiện."
+    }
+  },
+  "rank": 687,
+  "exampleSentencesTranslated": [
+    "The space in this coffee shop is very quiet and comfortable.",
+    "I want to rearrange the room to have more space for the kids to play.",
+    "She likes outdoor space because she can enjoy the fresh air."
+  ],
+  "_id": "QvwhMo9ropjuaoZr6jZa"
+}

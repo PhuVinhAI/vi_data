@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nghề",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:17:18.045Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:17:18.045Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "nghề",
+        "học",
+        "công việc"
+      ],
+      "sentence": "Tôi muốn chọn một ___ mới.",
+      "language": "vi",
+      "word": "nghề",
+      "translatedAnswer": {
+        "en": "profession"
+      },
+      "translation": {
+        "en": "I want to choose a new profession."
+      },
+      "hint": "n___",
+      "answer": "nghề"
+    },
+    "id": "1fed91a5-bedf-4401-8c3e-695e087a6b0b"
+  },
+  "rank": 412,
+  "choices": [
+    "nghề",
+    "tiền",
+    "bàn"
+  ],
+  "notes_md": "**nghề** = a job or profession, usually something you train for and do long-term. It’s about your career path, not just a temporary task.\n\nIt’s a countable noun: *một nghề, nhiều nghề*.  \nOften used with: *học nghề* (learn a trade), *làm nghề* (work as), *theo nghề* (follow a profession), *đổi nghề* (change careers).  \nClose words: **công việc** = a specific job/task; **nghề nghiệp** = more formal word for career/profession.",
+  "notes": "nghề = a job or profession, usually something you train for and do long-term. It’s about your career path, not just a temporary task.\n\nIt’s a countable noun: một nghề, nhiều nghề.  \nOften used with: học nghề (learn a trade), làm nghề (work as), theo nghề (follow a profession), đổi nghề (change careers).  \nClose words: công việc = a specific job/task; nghề nghiệp = more formal word for career/profession.",
+  "exampleSentences": [
+    "Anh đang tìm một nghề phù hợp với sở thích của mình.",
+    "Chị rất tự hào về nghề mà bố mẹ đã chọn.",
+    "Em muốn học một nghề ổn định sau khi tốt nghiệp."
+  ],
+  "updatedAt": "2026-03-03T07:03:30.672Z",
+  "exampleSentencesTranslated": [
+    "He is looking for a job that matches his interests.",
+    "She is very proud of the job her parents chose.",
+    "I want to learn a stable job after graduation."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:17:18.045Z",
+    "type": "fillBlankQuiz",
+    "id": "e8efc884-4a47-490e-aa09-5791874cf726",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:17:18.045Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "profession"
+      },
+      "translation": {
+        "en": "I like my profession."
+      },
+      "answer": "nghề",
+      "choices": [],
+      "sentence": "Tôi thích ___ của mình.",
+      "language": "vi",
+      "word": "nghề"
+    }
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "nghề",
+      "es": "profesión",
+      "en": "profession"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:57:43.293Z",
+    "definitions": {
+      "vi": "Một nghề nghiệp hoặc nghề.",
+      "es": "Una profesión o oficio.",
+      "en": "A profession or trade."
+    },
+    "example": {
+      "en": "I am learning the programming profession.",
+      "vi": "Tôi đang học nghề lập trình.",
+      "es": "Estoy aprendiendo la profesión de programación."
+    }
+  },
+  "definition": "job",
+  "_id": "7XOAYgSmQtm9db1M1hvE"
+}

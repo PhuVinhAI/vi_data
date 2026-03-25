@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Although it is raining today, I still go to work on time.",
+    "Although she is busy, she always makes time for her family.",
+    "I want to hang out although I have to finish my homework first."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:19:12.798Z",
+    "example": {
+      "en": "Although it is raining, I still go outside.",
+      "vi": "Tuy trời mưa, tôi vẫn đi ra ngoài.",
+      "es": "Aunque está lloviendo, todavía salgo."
+    },
+    "translations": {
+      "es": "aunque",
+      "vi": "tuy",
+      "en": "although"
+    },
+    "definitions": {
+      "es": "Aunque; se usa para introducir un contraste.",
+      "vi": "Tuy; được sử dụng để giới thiệu một sự tương phản.",
+      "en": "Although; used to introduce a contrast."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**Tuy** means **“although / even though.”** It shows contrast between two ideas.\n\nIt usually comes at the **start of the first clause** to introduce a surprising or opposite result. Often it pairs with **“nhưng” (but)** in the second clause, but “nhưng” can be dropped if the contrast is clear.\n\n\nThink of it like setting up tension in the first half, then flipping it in the second. Similar to **“mặc dù”** (a bit more formal), and often goes with **“nhưng.”**",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "She is not coming today, however."
+      },
+      "answer": "tuy",
+      "choices": [
+        "nhưng",
+        "tuy",
+        "vì"
+      ],
+      "hint": "t__",
+      "language": "vi",
+      "sentence": "Cô ấy ___ không đến hôm nay.",
+      "word": "tuy",
+      "translatedAnswer": {
+        "en": "however"
+      }
+    },
+    "createdAt": "2025-03-12T13:40:28.068Z",
+    "updatedAt": "2025-03-12T13:40:28.068Z",
+    "type": "multiChoiceQuiz",
+    "id": "cdb01d31-7ace-4b24-9e00-3476dfd7275f",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T10:43:46.547Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:40:28.068Z",
+    "createdAt": "2025-03-12T13:40:28.068Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "however"
+      },
+      "language": "vi",
+      "sentence": "Tôi ___ biết điều đó.",
+      "word": "tuy",
+      "choices": [],
+      "translation": {
+        "en": "I know that, however."
+      },
+      "answer": "tuy"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "3cb2bd99-6d27-4757-b4a2-35f5182f73ee",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Tuy means “although / even though.” It shows contrast between two ideas.\n\nIt usually comes at the start of the first clause to introduce a surprising or opposite result. Often it pairs with “nhưng” (but) in the second clause, but “nhưng” can be dropped if the contrast is clear.\n\nThink of it like setting up tension in the first half, then flipping it in the second. Similar to “mặc dù” (a bit more formal), and often goes with “nhưng.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "although",
+  "exampleSentences": [
+    "Tuy hôm nay trời mưa, anh vẫn đi làm đúng giờ.",
+    "Chị ấy tuy bận rộn nhưng luôn dành thời gian cho gia đình.",
+    "Em muốn đi chơi tuy phải làm bài tập về nhà trước."
+  ],
+  "rank": 2516,
+  "word": "tuy",
+  "choices": [
+    "nhưng",
+    "tuy",
+    "vì"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "DW2IGJhIVJyjaUhVRjxJ"
+}

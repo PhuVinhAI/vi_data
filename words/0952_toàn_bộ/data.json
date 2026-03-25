@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Toàn bộ** means *the whole* or *the entire* — one complete thing as a unit.\n\nIt goes before a noun and describes the full amount of something, not just part of it.  \n\nIt’s close to **tất cả** (“all”), but *toàn bộ* feels more like one complete thing, while *tất cả* often focuses on many separate items.  \nUse it when you want to stress 100% with nothing left out.",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "answer": "toàn bộ",
+      "translation": {
+        "en": "I have seen the entire movie."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "entire"
+      },
+      "sentence": "Tôi đã xem ___ bộ phim đó.",
+      "word": "toàn bộ"
+    },
+    "updatedAt": "2025-03-12T16:34:04.792Z",
+    "type": "fillBlankQuiz",
+    "id": "0515b8ea-c3b4-4cc2-aeb4-2a68e39380b8",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:34:04.792Z"
+  },
+  "definition": "the whole",
+  "rank": 952,
+  "notes": "Toàn bộ means the whole or the entire — one complete thing as a unit.\n\nIt goes before a noun and describes the full amount of something, not just part of it.  \n\nIt’s close to tất cả (“all”), but toàn bộ feels more like one complete thing, while tất cả often focuses on many separate items.  \nUse it when you want to stress 100% with nothing left out.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "entero",
+      "en": "entire",
+      "vi": "toàn bộ"
+    },
+    "definitions": {
+      "vi": "Phần toàn bộ hoặc hoàn chỉnh của một cái gì đó.",
+      "en": "The whole or complete part of something.",
+      "es": "La parte completa o entera de algo."
+    },
+    "example": {
+      "es": "Leí todo el libro.",
+      "en": "I read the entire book.",
+      "vi": "Tôi đã đọc toàn bộ cuốn sách."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:05:24.116Z"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi đã xem ___ bộ phim đó.",
+      "hint": "t___ bộ",
+      "word": "toàn bộ",
+      "language": "vi",
+      "answer": "toàn bộ",
+      "choices": [
+        "một phần",
+        "toàn bộ",
+        "một số"
+      ],
+      "translation": {
+        "en": "I have seen the entire movie."
+      },
+      "translatedAnswer": {
+        "en": "entire"
+      }
+    },
+    "updatedAt": "2025-03-12T16:34:04.792Z",
+    "type": "multiChoiceQuiz",
+    "id": "7e226d26-3ead-4abb-ba46-1c8ce74d1202",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:34:04.792Z"
+  },
+  "exampleSentences": [
+    "Chị đã đọc toàn bộ cuốn sách này chỉ trong ba ngày.",
+    "Anh muốn dọn dẹp toàn bộ căn phòng trước khi khách đến.",
+    "Em đã xem toàn bộ bộ phim đó vào cuối tuần rồi."
+  ],
+  "updatedAt": "2026-03-03T07:57:03.196Z",
+  "choices": [
+    "toàn bộ",
+    "một phần",
+    "vài thứ"
+  ],
+  "word": "toàn bộ",
+  "exampleSentencesTranslated": [
+    "She read the whole book in just three days.",
+    "He wants to clean the whole room before the guests arrive.",
+    "I watched the whole movie last weekend."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "vAFYJAHFLQvJvm8ubZc3"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "script",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "kịch bản",
+      "answer": "kịch bản",
+      "language": "vi",
+      "choices": [
+        "kịch bản",
+        "phim ảnh",
+        "kịch nghệ"
+      ],
+      "translation": {
+        "en": "I have a new script."
+      },
+      "translatedAnswer": {
+        "en": "script"
+      },
+      "hint": "k___n",
+      "sentence": "Tôi có một ___ mới."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:04:16.377Z",
+    "createdAt": "2025-03-12T16:04:16.377Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "39aba252-7329-46f4-95fd-a741bcb61a4c"
+  },
+  "rank": 1214,
+  "notes_md": "**Kịch bản** means *script* — the written plan for a movie, play, show, or video. It’s the text that tells actors what to say and do.\n\nIt’s a countable noun: *một kịch bản, hai kịch bản*. Common pairings: *viết kịch bản, đọc kịch bản, chỉnh sửa kịch bản*; also *kịch bản phim, kịch bản truyền hình, kịch bản chương trình*.\n\nIt can also mean a *scenario* (an imagined situation or possible chain of events), especially in news or planning.\n\nClose word: **kịch** = a play (the performance), while **kịch bản** = the written script behind it.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "kịch bản",
+  "fillBlankQuiz": {
+    "id": "0131bc24-27c1-4716-be07-c3563f96529f",
+    "createdAt": "2025-03-12T16:04:16.377Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:04:16.377Z",
+    "content": {
+      "sentence": "Tôi viết ___ cho phim này.",
+      "translation": {
+        "en": "I write a script for this movie."
+      },
+      "translatedAnswer": {
+        "en": "script"
+      },
+      "choices": [],
+      "word": "kịch bản",
+      "language": "vi",
+      "answer": "kịch bản"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Kịch bản means script — the written plan for a movie, play, show, or video. It’s the text that tells actors what to say and do.\n\nIt’s a countable noun: một kịch bản, hai kịch bản. Common pairings: viết kịch bản, đọc kịch bản, chỉnh sửa kịch bản; also kịch bản phim, kịch bản truyền hình, kịch bản chương trình.\n\nIt can also mean a scenario (an imagined situation or possible chain of events), especially in news or planning.\n\nClose word: kịch = a play (the performance), while kịch bản = the written script behind it.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Have you read the script of this movie yet?",
+    "The director wants to change some details in the script.",
+    "I am writing the script for the play at school."
+  ],
+  "updatedAt": "2026-03-03T08:25:20.458Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đang viết kịch bản cho bộ phim mới.",
+      "es": "Estoy escribiendo el guion para la nueva película.",
+      "en": "I am writing the script for the new movie."
+    },
+    "translations": {
+      "es": "guion",
+      "en": "script",
+      "vi": "kịch bản"
+    },
+    "createdAt": "2025-01-28T13:35:39.922Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một văn bản viết cho một vở kịch, bộ phim hoặc chương trình phát sóng.",
+      "en": "A written text of a play, film, or broadcast.",
+      "es": "Un texto escrito de una obra de teatro, película o transmisión."
+    }
+  },
+  "choices": [
+    "nhân vật",
+    "kịch bản",
+    "diễn viên"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh đã đọc kịch bản của bộ phim này chưa?",
+    "Đạo diễn muốn thay đổi một số chi tiết trong kịch bản.",
+    "Em đang viết kịch bản cho vở kịch ở trường."
+  ],
+  "_id": "nEksibVUA5ncDUZ4XiEw"
+}

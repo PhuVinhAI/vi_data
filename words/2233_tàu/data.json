@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8d2aa508-30f8-49aa-8254-82174eaaae95",
+    "content": {
+      "translation": {
+        "en": "We will go by train."
+      },
+      "word": "tàu",
+      "language": "vi",
+      "choices": [],
+      "sentence": "Chúng ta sẽ đi bằng ___.",
+      "translatedAnswer": {
+        "en": "train"
+      },
+      "answer": "tàu"
+    },
+    "updatedAt": "2025-03-12T15:40:42.834Z",
+    "createdAt": "2025-03-12T15:40:42.834Z"
+  },
+  "choices": [
+    "xe buýt",
+    "tàu",
+    "máy bay"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sáng mai anh phải dậy sớm để bắt tàu đi làm.",
+    "Chị thường đọc sách khi ngồi trên tàu về quê.",
+    "Em muốn đi du lịch bằng tàu vì nó rất thú vị."
+  ],
+  "definition": "train",
+  "notes": "tàu usually means train in everyday Vietnamese. It’s a noun.\n\nYou’ll often see it in combos like tàu hỏa (train), ga tàu (train station), vé tàu (train ticket), and chuyến tàu (train trip).  \nTo talk about movement, use verbs like bắt tàu (catch a train), lên tàu (get on), and xuống tàu (get off).  \nVery common extra meaning: tàu can also mean ship/boat (like tàu biển, tàu thủy), so context matters.  \nFor counting, people often say chuyến tàu (trip) instead of directly counting the train itself.",
+  "rank": 2233,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:40:42.834Z",
+    "updatedAt": "2025-03-12T15:40:42.834Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I took the train yesterday."
+      },
+      "word": "tàu",
+      "translatedAnswer": {
+        "en": "train"
+      },
+      "answer": "tàu",
+      "hint": "t__",
+      "sentence": "Tôi đã đi ___ hôm qua.",
+      "choices": [
+        "xe buýt",
+        "tàu",
+        "máy bay"
+      ]
+    },
+    "id": "17900bdc-6725-4eab-8386-e34c86ce069a",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tàu** usually means **train** in everyday Vietnamese. It’s a noun.\n\nYou’ll often see it in combos like **tàu hỏa** (train), **ga tàu** (train station), **vé tàu** (train ticket), and **chuyến tàu** (train trip).  \nTo talk about movement, use verbs like **bắt tàu** (catch a train), **lên tàu** (get on), and **xuống tàu** (get off).  \nVery common extra meaning: **tàu** can also mean **ship/boat** (like *tàu biển*, *tàu thủy*), so context matters.  \nFor counting, people often say **chuyến tàu** (trip) instead of directly counting the train itself.",
+  "exampleSentencesTranslated": [
+    "Tomorrow morning I have to wake up early to catch the train for work.",
+    "She usually reads books when on the train back to her hometown.",
+    "I want to travel by train because it is very interesting."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "es": "Un vehículo que circula sobre rieles y se utiliza para transportar personas o mercancías.",
+      "en": "A vehicle that runs on tracks and is used for transporting people or goods.",
+      "vi": "Một phương tiện di chuyển trên đường ray và được sử dụng để vận chuyển người hoặc hàng hóa."
+    },
+    "createdAt": "2025-01-28T13:14:14.332Z",
+    "example": {
+      "es": "Tomo el tren a la ciudad.",
+      "en": "I take the train to the city.",
+      "vi": "Tôi đi tàu đến thành phố."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "train",
+      "es": "tren",
+      "vi": "tàu"
+    }
+  },
+  "word": "tàu",
+  "updatedAt": "2026-03-03T10:14:24.967Z",
+  "_id": "hLzjMN2jG66ZWjFN7fQF"
+}

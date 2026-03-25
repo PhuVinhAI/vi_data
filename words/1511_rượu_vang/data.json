@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "rượu vang",
+    "bia",
+    "nước ngọt"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "wine",
+  "rank": 1511,
+  "exampleSentences": [
+    "Anh thích uống rượu vang đỏ vào buổi tối cùng bạn bè.",
+    "Chị thường mua rượu vang để tặng sinh nhật người thân.",
+    "Lễ cưới hôm qua có rất nhiều loại rượu vang ngon."
+  ],
+  "word": "rượu vang",
+  "exampleSentencesTranslated": [
+    "He likes to drink wine in the evening with friends.",
+    "She often buys wine to give as a birthday gift to relatives.",
+    "The wedding yesterday had many delicious kinds of wine."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A type of alcoholic beverage made from fermented grapes.",
+      "es": "Un tipo de bebida alcohólica hecha de uvas fermentadas.",
+      "vi": "Một loại đồ uống có cồn được làm từ nho lên men."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "vino",
+      "vi": "rượu vang",
+      "en": "wine"
+    },
+    "createdAt": "2025-01-28T11:31:42.366Z",
+    "example": {
+      "en": "I like to drink wine in the evening.",
+      "es": "Me gusta beber vino por la noche.",
+      "vi": "Tôi thích uống rượu vang vào buổi tối."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "20218309-42d9-4961-8deb-ae0e55a407eb",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I like to drink wine on weekends."
+      },
+      "answer": "rượu vang",
+      "hint": "r____ v__g",
+      "choices": [
+        "rượu vang",
+        "bia lạnh",
+        "nước ngọt"
+      ],
+      "language": "vi",
+      "sentence": "Tôi thích uống ___ vào cuối tuần.",
+      "word": "rượu vang",
+      "translatedAnswer": {
+        "en": "wine"
+      }
+    },
+    "createdAt": "2025-03-12T13:53:53.151Z",
+    "updatedAt": "2025-03-12T13:53:53.151Z"
+  },
+  "notes_md": "**rượu vang** means *wine*, the alcoholic drink made from grapes.  \n\nIt’s an uncountable noun in English, but in Vietnamese you count it with **chai** (bottle) or **ly** (glass): *một chai rượu vang*, *một ly rượu vang*. Common types are **rượu vang đỏ** (red wine) and **rượu vang trắng** (white wine).  \n\nIt often goes with verbs like **uống** (drink), **mở** (open), **rót** (pour), and **chọn** (choose).  \n\nMemory tip: **rượu** = alcohol, **vang** = wine → so rượu vang is specifically grape wine, different from **bia** (beer) or **rượu mạnh** (spirits).",
+  "updatedAt": "2026-03-03T08:57:57.904Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:53:53.151Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "wine"
+      },
+      "word": "rượu vang",
+      "sentence": "Chúng ta có thể uống ___ vào bữa tối.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We can drink wine at dinner."
+      },
+      "answer": "rượu vang"
+    },
+    "updatedAt": "2025-03-12T13:53:53.151Z",
+    "type": "fillBlankQuiz",
+    "id": "cfbb985f-4a49-41d4-99a1-fbd65c0e5411",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "rượu vang means wine, the alcoholic drink made from grapes.  \n\nIt’s an uncountable noun in English, but in Vietnamese you count it with chai (bottle) or ly (glass): một chai rượu vang, một ly rượu vang. Common types are rượu vang đỏ (red wine) and rượu vang trắng (white wine).  \n\nIt often goes with verbs like uống (drink), mở (open), rót (pour), and chọn (choose).  \n\nMemory tip: rượu = alcohol, vang = wine → so rượu vang is specifically grape wine, different from bia (beer) or rượu mạnh (spirits).",
+  "_id": "GvYbqceM6oMx3KS31NlE"
+}

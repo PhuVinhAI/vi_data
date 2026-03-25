@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:58:21.372Z",
+    "content": {
+      "translation": {
+        "en": "She has a very special talent."
+      },
+      "translatedAnswer": {
+        "en": "talent"
+      },
+      "choices": [
+        "tài",
+        "khả năng",
+        "kỹ năng"
+      ],
+      "word": "tài",
+      "language": "vi",
+      "hint": "t__i",
+      "answer": "tài",
+      "sentence": "Cô ấy có ___ rất đặc biệt."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:58:21.372Z",
+    "id": "64fb78db-c0da-4834-b1fc-0dba43d3bb69"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy có rất nhiều tài trong lĩnh vực âm nhạc.",
+    "Chị luôn ngưỡng mộ những người trẻ có tài đặc biệt.",
+    "Em tin rằng sự chăm chỉ sẽ giúp em phát huy tài của mình."
+  ],
+  "notes": "tài = talent, natural ability. It’s an uncountable noun most of the time, talking about someone’s skill in something.\n\nOften used in patterns like có tài (to be talented) or to describe a person: người tài.  \n\nVery common combo: tài năng (talent, often a bit more formal/stronger).  \nOpposite idea: bất tài (useless, talentless) — quite harsh.",
+  "word": "tài",
+  "choices": [
+    "tài",
+    "học",
+    "chân"
+  ],
+  "rank": 2569,
+  "notes_md": "**tài** = talent, natural ability. It’s an uncountable noun most of the time, talking about someone’s skill in something.\n\nOften used in patterns like *có tài* (to be talented) or to describe a person: *người tài*.  \n\nVery common combo: *tài năng* (talent, often a bit more formal/stronger).  \nOpposite idea: *bất tài* (useless, talentless) — quite harsh.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "talent",
+  "updatedAt": "2026-03-03T11:24:13.717Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "9b1a1cec-1395-43a2-beec-22175bb4ff1b",
+    "updatedAt": "2025-03-12T14:58:21.372Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "talent"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I have new talent for the job."
+      },
+      "sentence": "Tôi có ___ mới cho công việc.",
+      "answer": "tài",
+      "word": "tài",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:58:21.372Z"
+  },
+  "exampleSentencesTranslated": [
+    "He has a lot of talent in the field of music.",
+    "She always admires young people with special talent.",
+    "I believe that hard work will help me develop my talent."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:31:08.228Z",
+    "definitions": {
+      "en": "Talent or skill in a particular area.",
+      "es": "Talento o habilidad en un área particular.",
+      "vi": "Tài năng hoặc kỹ năng trong một lĩnh vực cụ thể."
+    },
+    "example": {
+      "en": "He has a special talent in music.",
+      "es": "Él tiene un talento especial en la música.",
+      "vi": "Anh ấy có tài năng đặc biệt trong âm nhạc."
+    },
+    "translations": {
+      "en": "talent",
+      "es": "talento",
+      "vi": "tài"
+    }
+  },
+  "_id": "WRmP8yyqrCY69hwyz7CL"
+}

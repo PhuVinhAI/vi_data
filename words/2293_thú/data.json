@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:47:01.384Z",
+    "definitions": {
+      "en": "A term used to refer to an animal or beast.",
+      "es": "Un término utilizado para referirse a un animal o bestia.",
+      "vi": "Một thuật ngữ được sử dụng để chỉ một con vật hoặc thú."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "animal",
+      "es": "animal",
+      "vi": "thú"
+    },
+    "example": {
+      "en": "This animal is very cute.",
+      "es": "Este animal es muy lindo.",
+      "vi": "Con thú này rất dễ thương."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I really like going to the zoo to see many kinds of animal.",
+    "He keeps a small animal at home and takes care of it every day.",
+    "She sees that animal in the forest are often very afraid of strangers coming close."
+  ],
+  "updatedAt": "2026-03-03T10:21:06.261Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "3d011221-3c67-4667-995c-ed38db0fa9f0",
+    "createdAt": "2025-03-12T15:12:24.020Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "pet"
+      },
+      "translation": {
+        "en": "I have a pet."
+      },
+      "sentence": "Tôi có một con ___.",
+      "language": "vi",
+      "word": "thú",
+      "answer": "thú"
+    },
+    "updatedAt": "2025-03-12T15:12:24.020Z"
+  },
+  "definition": "animal",
+  "notes_md": "**Thú** means **animal** (usually wild animals, not humans).  \n\nIt’s a noun and usually goes with the classifier **con** → *con thú*. You’ll often see it in combinations like **thú hoang** (wild animal) and **thú cưng** (pet).  \n\nCompared to **động vật** (more scientific, “animal” in biology), **thú** feels more everyday and natural.  \n\nIt can also mean **interest/pleasure** in Sino‑Vietnamese words like **hứng thú** (interest) or **thú vị** (interesting), but alone it mostly means “animal.”",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2293,
+  "choices": [
+    "thú",
+    "cá",
+    "chim"
+  ],
+  "word": "thú",
+  "exampleSentences": [
+    "Em rất thích đi sở thú để xem nhiều loài thú khác nhau.",
+    "Anh ấy nuôi một con thú nhỏ ở nhà và chăm sóc nó mỗi ngày.",
+    "Chị thấy thú trong rừng thường rất sợ người lạ đến gần."
+  ],
+  "notes": "Thú means animal (usually wild animals, not humans).  \n\nIt’s a noun and usually goes with the classifier con → con thú. You’ll often see it in combinations like thú hoang (wild animal) and thú cưng (pet).  \n\nCompared to động vật (more scientific, “animal” in biology), thú feels more everyday and natural.  \n\nIt can also mean interest/pleasure in Sino‑Vietnamese words like hứng thú (interest) or thú vị (interesting), but alone it mostly means “animal.”",
+  "multiChoiceQuiz": {
+    "id": "a132a1f2-bc09-4024-9bf4-2992aa65bb5d",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:12:24.020Z",
+    "updatedAt": "2025-03-12T15:12:24.020Z",
+    "content": {
+      "sentence": "Tôi có một con ___.",
+      "word": "thú",
+      "language": "vi",
+      "hint": "t___ú",
+      "answer": "thú",
+      "choices": [
+        "thú",
+        "thús",
+        "THÚ"
+      ],
+      "translatedAnswer": {
+        "en": "pet"
+      },
+      "translation": {
+        "en": "I have a pet."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "aOhugVyVot7zJYP7B42V"
+}

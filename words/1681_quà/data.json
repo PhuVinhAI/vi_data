@@ -1,0 +1,99 @@
+{
+  "definition": "gift",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "4d659a7f-a9e5-4ee4-bba5-2a61ac63c867",
+    "createdAt": "2025-03-12T14:35:37.871Z",
+    "content": {
+      "translation": {
+        "en": "I will buy a gift for you."
+      },
+      "answer": "quà",
+      "word": "quà",
+      "choices": [],
+      "sentence": "Tôi sẽ mua ___ cho bạn.",
+      "translatedAnswer": {
+        "en": "gift"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:35:37.871Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Hôm qua anh mua một món quà nhỏ cho em.",
+    "Chị rất vui khi nhận được quà sinh nhật từ bạn bè.",
+    "Mỗi dịp Tết, em thường tặng quà cho ông bà."
+  ],
+  "notes_md": "**quà** means *gift* or *present* — something you give someone to make them happy.\n\nIt’s a noun. Use the classifier **món** → *một món quà*.  \nCommon pairings: **tặng quà** (give a gift), **nhận quà** (receive a gift), **mua quà** (buy a gift).  \nIt can also mean a small gift brought back from a trip, like a local treat (**quà quê**).  \n**Quà tặng** is a slightly more formal way to say “gift,” often used in shops or ads.",
+  "flashcard": {
+    "definitions": {
+      "es": "Un regalo o presente dado a alguien.",
+      "en": "A gift or present given to someone.",
+      "vi": "Một món quà hoặc quà tặng được tặng cho ai đó."
+    },
+    "createdAt": "2025-01-28T12:11:24.216Z",
+    "example": {
+      "vi": "Tôi mua một món quà cho sinh nhật của bạn.",
+      "en": "I bought a gift for your birthday.",
+      "es": "Compré un regalo para tu cumpleaños."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "gift",
+      "vi": "quà",
+      "es": "regalo"
+    }
+  },
+  "notes": "quà means gift or present — something you give someone to make them happy.\n\nIt’s a noun. Use the classifier món → một món quà.  \nCommon pairings: tặng quà (give a gift), nhận quà (receive a gift), mua quà (buy a gift).  \nIt can also mean a small gift brought back from a trip, like a local treat (quà quê).  \nQuà tặng is a slightly more formal way to say “gift,” often used in shops or ads.",
+  "choices": [
+    "quà",
+    "hoa",
+    "bánh"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:15:53.739Z",
+  "exampleSentencesTranslated": [
+    "Yesterday I bought a small gift for you.",
+    "She is very happy to receive a birthday gift from friends.",
+    "Every Tet holiday, I usually give a gift to my grandparents."
+  ],
+  "rank": 1681,
+  "word": "quà",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:35:37.871Z",
+    "content": {
+      "sentence": "Tôi sẽ mua ___ cho bạn.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "gift"
+      },
+      "hint": "q___",
+      "translation": {
+        "en": "I will buy a gift for you."
+      },
+      "answer": "quà",
+      "word": "quà",
+      "choices": [
+        "bánh",
+        "quà",
+        "sách"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "4ce2df85-ca1b-4967-bb35-120cc15e03f1",
+    "createdAt": "2025-03-12T14:35:37.871Z"
+  },
+  "_id": "Qtx78UxeZpxid88DOghi"
+}

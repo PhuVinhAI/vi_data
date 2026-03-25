@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thứ tự",
+  "flashcard": {
+    "translations": {
+      "vi": "thứ tự",
+      "es": "orden",
+      "en": "order"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một chuỗi hoặc cách sắp xếp các mục.",
+      "es": "Una secuencia o disposición de elementos.",
+      "en": "A sequence or arrangement of items."
+    },
+    "createdAt": "2025-01-28T13:34:08.382Z",
+    "example": {
+      "vi": "Hãy sắp xếp các sách theo thứ tự.",
+      "es": "Por favor, organiza los libros en orden.",
+      "en": "Please arrange the books in order."
+    }
+  },
+  "updatedAt": "2026-03-03T18:19:51.926Z",
+  "exampleSentencesTranslated": [
+    "Please arrange these pictures in the correct order.",
+    "We need to keep order when lining up to buy tickets.",
+    "I will check the order of the steps in the exercise again."
+  ],
+  "notes_md": "**Thứ tự** means *order* or *sequence* — the position of things in a list or process.\n\nIt’s a noun. You often hear **theo thứ tự** (in order) and **đúng thứ tự** (correct order).  \nIt combines naturally with **số** → **số thứ tự** (number in a list, queue number).  \nYou can use it for steps, names, rankings, seats — anything arranged one after another.  \n\nClose idea: **trật tự** = order as in “organized / not chaotic” (more about discipline than sequence).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "875048bf-61eb-4ad5-bd35-4df39a4ec5b6",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "You need to arrange in order."
+      },
+      "word": "thứ tự",
+      "translatedAnswer": {
+        "en": "order"
+      },
+      "answer": "thứ tự",
+      "hint": "th___",
+      "choices": [
+        "thứ tự",
+        "trật tự",
+        "thứ hạng"
+      ],
+      "sentence": "Bạn cần sắp xếp theo ___."
+    },
+    "updatedAt": "2025-03-12T16:02:15.267Z",
+    "createdAt": "2025-03-12T16:02:15.267Z"
+  },
+  "rank": 2987,
+  "definition": "order",
+  "notes": "Thứ tự means order or sequence — the position of things in a list or process.\n\nIt’s a noun. You often hear theo thứ tự (in order) and đúng thứ tự (correct order).  \nIt combines naturally with số → số thứ tự (number in a list, queue number).  \nYou can use it for steps, names, rankings, seats — anything arranged one after another.  \n\nClose idea: trật tự = order as in “organized / not chaotic” (more about discipline than sequence).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em hãy xếp các bức tranh này theo đúng thứ tự nhé.",
+    "Chúng ta cần giữ thứ tự khi xếp hàng mua vé.",
+    "Anh sẽ kiểm tra lại thứ tự của các bước trong bài tập."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:02:15.267Z",
+    "updatedAt": "2025-03-12T16:02:15.267Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "order"
+      },
+      "answer": "thứ tự",
+      "sentence": "Bạn cần sắp xếp theo ___.",
+      "choices": [],
+      "translation": {
+        "en": "You need to arrange in order."
+      },
+      "word": "thứ tự",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8bec741b-23fe-4f58-a461-9597658d8dc2"
+  },
+  "choices": [
+    "thứ tự",
+    "kết quả",
+    "tình huống"
+  ],
+  "_id": "mjiPYi6lxWhcMVdJM8iU"
+}

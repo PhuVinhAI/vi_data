@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ngọc",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:20:05.635Z",
+    "type": "multiChoiceQuiz",
+    "id": "7e24ac22-3e15-45d0-9901-57dd282f0844",
+    "content": {
+      "hint": "n___c",
+      "answer": "ngọc",
+      "translatedAnswer": {
+        "en": "jade"
+      },
+      "translation": {
+        "en": "This ring has beautiful jade."
+      },
+      "sentence": "Chiếc nhẫn này có ___ đẹp.",
+      "language": "vi",
+      "word": "ngọc",
+      "choices": [
+        "ngọc",
+        "kim cương",
+        "vàng"
+      ]
+    },
+    "createdAt": "2025-03-12T15:20:05.635Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ngọc** means a gemstone or precious stone — something valuable like jade or pearl. It’s a noun.\n\nUse classifiers like **viên ngọc** (a gem/pearl) or sometimes **hòn ngọc** (more poetic, often for places). Very common pairings: **ngọc trai** (pearl), **ngọc bích** (jade).  \n\nIt can also be metaphorical: something extremely precious or pure (like a “treasure” person or place).  \n\nStrong synonym link: **đá quý** = precious stone (more general and neutral).",
+  "rank": 2476,
+  "choices": [
+    "ngọc",
+    "bạc",
+    "vàng"
+  ],
+  "notes": "Ngọc means a gemstone or precious stone — something valuable like jade or pearl. It’s a noun.\n\nUse classifiers like viên ngọc (a gem/pearl) or sometimes hòn ngọc (more poetic, often for places). Very common pairings: ngọc trai (pearl), ngọc bích (jade).  \n\nIt can also be metaphorical: something extremely precious or pure (like a “treasure” person or place).  \n\nStrong synonym link: đá quý = precious stone (more general and neutral).",
+  "updatedAt": "2026-03-03T10:39:33.660Z",
+  "exampleSentences": [
+    "Anh tặng chị một chiếc vòng tay có ngọc rất đẹp trong ngày sinh nhật.",
+    "Em thích sưu tập các loại ngọc khác nhau mỗi khi đi du lịch.",
+    "Mẹ nói rằng chiếc nhẫn này có một viên ngọc đã được giữ lâu đời trong gia đình."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:20:05.635Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:20:05.635Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "jade"
+      },
+      "translation": {
+        "en": "This ring has beautiful jade."
+      },
+      "answer": "ngọc",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Chiếc nhẫn này có ___ đẹp.",
+      "word": "ngọc"
+    },
+    "id": "70c7875e-cb35-4443-920d-e0dc9799368c",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He gave you a bracelet with a beautiful gemstone on your birthday.",
+    "I enjoy collecting different kinds of gemstone whenever I travel.",
+    "Mom said that this ring has a gemstone that has been kept in the family for a long time."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "jade",
+      "vi": "ngọc",
+      "es": "jade"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:54:55.157Z",
+    "definitions": {
+      "vi": "Một loại đá quý, đặc biệt là ngọc hoặc một loại đá quý tương tự.",
+      "es": "Una piedra preciosa, especialmente jade o una gema similar.",
+      "en": "A precious stone, especially jade or a similar gemstone."
+    },
+    "example": {
+      "en": "This ring is made of jade.",
+      "vi": "Chiếc nhẫn này được làm bằng ngọc.",
+      "es": "Este anillo está hecho de jade."
+    }
+  },
+  "definition": "gemstone",
+  "_id": "cD3kMpYNpOqJxdGzqpWd"
+}

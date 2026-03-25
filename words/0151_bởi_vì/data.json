@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:33:57.376Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "bởi vì",
+      "sentence": "Tôi không đi ___ trời mưa.",
+      "language": "vi",
+      "choices": [
+        "vì",
+        "bởi vì",
+        "do"
+      ],
+      "answer": "bởi vì",
+      "hint": "b___ vì",
+      "translation": {
+        "en": "I am not going because it is raining."
+      },
+      "translatedAnswer": {
+        "en": "because"
+      }
+    },
+    "createdAt": "2025-03-12T15:33:57.376Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a59cb5d8-0978-4e2e-86bd-298eabfe422c"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 151,
+  "choices": [
+    "bởi vì",
+    "nếu như",
+    "cho nên"
+  ],
+  "notes_md": "**bởi vì** means **because** — it gives the reason for something.\n\nIt’s a linking phrase (conjunction) that connects two clauses: one result, one reason. It usually comes in the middle of the sentence, but it can also start a sentence for emphasis.\n\n\nIn everyday speech, people often shorten it to **vì**, which means the same thing and sounds more natural. You can remember: **bởi vì** = a slightly more formal “because.”",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    null,
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "bởi vì",
+  "exampleSentencesTranslated": [
+    "I didn't go to school today because I am sick.",
+    "I bought flowers for you because today is your birthday.",
+    "I am staying home this weekend because I want to rest more."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I am not going because it is raining."
+      },
+      "translatedAnswer": {
+        "en": "because"
+      },
+      "answer": "bởi vì",
+      "choices": [],
+      "word": "bởi vì",
+      "sentence": "Tôi không đi vì ___ trời mưa.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:33:57.376Z",
+    "id": "a7cde84f-883c-4f56-90f7-53e3d7c127e1",
+    "updatedAt": "2025-03-12T15:33:57.376Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A word used to indicate the cause or reason for something.",
+      "vi": "Từ dùng để chỉ nguyên nhân hoặc lý do của một sự việc."
+    },
+    "word": "bởi vì",
+    "example": {
+      "en": "I didn't go to school today because I was sick.",
+      "vi": "Tôi không đi học hôm nay bởi vì tôi bị ốm."
+    },
+    "translations": {
+      "en": "because"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:30:32.130Z"
+  },
+  "definition": "because",
+  "notes": "bởi vì means because — it gives the reason for something.\n\nIt’s a linking phrase (conjunction) that connects two clauses: one result, one reason. It usually comes in the middle of the sentence, but it can also start a sentence for emphasis.\n\nIn everyday speech, people often shorten it to vì, which means the same thing and sounds more natural. You can remember: bởi vì = a slightly more formal “because.”",
+  "exampleSentences": [
+    "Em không đi học hôm nay bởi vì em bị ốm.",
+    "Anh mua hoa cho chị bởi vì hôm nay là sinh nhật của chị.",
+    "Chị ở nhà cuối tuần này bởi vì muốn nghỉ ngơi nhiều hơn."
+  ],
+  "updatedAt": "2026-03-03T06:35:36.944Z",
+  "_id": "fs8A6U2PQo8SZHoHvRBv"
+}

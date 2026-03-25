@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:59:37.703Z",
+    "updatedAt": "2025-03-12T12:59:37.703Z",
+    "id": "462449a0-03ca-4956-9122-12275193cf5a",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "nghĩa là",
+      "sentence": "Từ này ___ một điều quan trọng.",
+      "hint": "ng___ l__",
+      "word": "nghĩa là",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "means"
+      },
+      "translation": {
+        "en": "This word means an important thing."
+      },
+      "choices": [
+        "nghĩa là",
+        "không phải",
+        "có thể"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Khi anh nói 'xin chào', nghĩa là anh đang chào hỏi ai đó.",
+    "Từ này trong tiếng Việt nghĩa là gì vậy chị?",
+    "Em học tiếng Anh vì nó nghĩa là em có nhiều cơ hội hơn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "means",
+  "rank": 489,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Từ 'hạnh phúc' nghĩa là cảm giác vui vẻ.",
+      "en": "The word 'happiness' means a feeling of joy.",
+      "es": "La palabra 'felicidad' significa una sensación de alegría."
+    },
+    "translations": {
+      "es": "significa",
+      "vi": "nghĩa là",
+      "en": "means"
+    },
+    "createdAt": "2025-01-28T10:42:38.797Z",
+    "definitions": {
+      "es": "Significa o indica.",
+      "en": "It means or signifies.",
+      "vi": "Nó có nghĩa là hoặc chỉ ra."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "choices": [
+    "nghĩa là",
+    "bắt đầu",
+    "kết thúc"
+  ],
+  "notes": "nghĩa là = means or that means. You use it to explain the meaning of a word, sentence, or idea.\n\nIt connects two parts: first the thing, then its meaning or explanation. It works like “=”, “in other words”, or “that is”.\n\nVery common in definitions and when clarifying what someone just said. Similar to tức là (a bit more formal or explanatory).",
+  "word": "nghĩa là",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "When I say 'xin chào', it means I am greeting someone.",
+    "What does this word in Vietnamese means, sis?",
+    "I study English because it means I have more opportunities."
+  ],
+  "notes_md": "**nghĩa là** = *means* or *that means*. You use it to explain the meaning of a word, sentence, or idea.\n\nIt connects two parts: first the thing, then its meaning or explanation. It works like “=”, “in other words”, or “that is”.\n\n\nVery common in definitions and when clarifying what someone just said. Similar to **tức là** (a bit more formal or explanatory).",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Từ này ___ một điều quan trọng.",
+      "answer": "nghĩa là",
+      "choices": [],
+      "translation": {
+        "en": "This word means an important thing."
+      },
+      "word": "nghĩa là",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "means"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "58b8d5e0-3b68-464e-ac90-a5240b73b49d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T12:59:37.703Z",
+    "updatedAt": "2025-03-12T12:59:37.703Z"
+  },
+  "updatedAt": "2026-03-03T07:11:06.073Z",
+  "_id": "2nEUxYpQ5r5ZhQEI2atf"
+}

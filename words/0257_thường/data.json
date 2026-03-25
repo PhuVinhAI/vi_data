@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "usually",
+  "exampleSentences": [
+    "Buổi sáng anh thường uống cà phê trước khi đi làm.",
+    "Chị thường đi bộ trong công viên vào cuối tuần.",
+    "Em thường gọi điện cho mẹ mỗi tối trước khi ngủ."
+  ],
+  "rank": 257,
+  "word": "thường",
+  "choices": [
+    "thường",
+    "luôn",
+    "đôi khi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "In the morning, I usually drink coffee before going to work.",
+    "I usually walk in the park on weekends.",
+    "I usually call my mom every night before sleeping."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "usually",
+      "vi": "thường",
+      "es": "normalmente"
+    },
+    "example": {
+      "vi": "Tôi thường đi bộ vào buổi sáng.",
+      "es": "Normalmente camino por la mañana.",
+      "en": "I usually walk in the morning."
+    },
+    "createdAt": "2025-01-28T11:17:32.744Z",
+    "definitions": {
+      "en": "Often; regularly; usually.",
+      "es": "A menudo; regularmente; usualmente.",
+      "vi": "Thường; một cách thường xuyên."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "c705cdd3-80f8-477b-a50e-cb4a586437bc",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:38:08.476Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "usually"
+      },
+      "sentence": "Tôi ___ đi dạo vào buổi tối.",
+      "word": "thường",
+      "language": "vi",
+      "hint": "t___n",
+      "choices": [
+        "thường",
+        "điểm",
+        "ngẫu nhiên"
+      ],
+      "answer": "thường",
+      "translation": {
+        "en": "I usually take a walk in the evening."
+      }
+    },
+    "createdAt": "2025-03-12T13:38:08.476Z"
+  },
+  "notes_md": "**thường** = *usually, often* (something happens many times, but not 100%). It talks about habits or regular actions.\n\nIt’s an adverb of frequency, so it goes before the main verb.  \n\n**thường** is neutral and flexible; for stronger “frequently,” use **thường xuyên**.  \nOpposite: **hiếm khi** (rarely).",
+  "updatedAt": "2026-03-03T06:46:34.272Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "be134afe-6d79-416a-877e-3ac6663c5a0d",
+    "updatedAt": "2025-03-12T13:38:08.476Z",
+    "createdAt": "2025-03-12T13:38:08.476Z",
+    "content": {
+      "word": "thường",
+      "sentence": "Tôi ___ nghe nhạc mỗi ngày.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "usually"
+      },
+      "translation": {
+        "en": "I usually listen to music every day."
+      },
+      "answer": "thường",
+      "choices": []
+    }
+  },
+  "notes": "thường = usually, often (something happens many times, but not 100%). It talks about habits or regular actions.\n\nIt’s an adverb of frequency, so it goes before the main verb.  \n\nthường is neutral and flexible; for stronger “frequently,” use thường xuyên.  \nOpposite: hiếm khi (rarely).",
+  "_id": "D7mVsMI91nhtN4iSHeFs"
+}

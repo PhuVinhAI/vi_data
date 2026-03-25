@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "producer",
+      "vi": "nhà sản xuất",
+      "es": "productor"
+    },
+    "createdAt": "2025-01-28T11:02:20.713Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A person or company that makes or creates goods for sale.",
+      "es": "Una persona o empresa que fabrica o crea bienes para la venta.",
+      "vi": "Một người hoặc công ty sản xuất hoặc tạo ra hàng hóa để bán."
+    },
+    "example": {
+      "vi": "Nhà sản xuất này nổi tiếng với các sản phẩm chất lượng.",
+      "es": "Este productor es famoso por sus productos de alta calidad.",
+      "en": "This producer is famous for high-quality products."
+    }
+  },
+  "definition": "producer",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:21:50.824Z",
+    "createdAt": "2025-03-12T13:21:50.824Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This company is the largest manufacturer in the industry."
+      },
+      "translatedAnswer": {
+        "en": "manufacturer"
+      },
+      "answer": "nhà sản xuất",
+      "choices": [],
+      "word": "nhà sản xuất",
+      "sentence": "Công ty này là ___ lớn nhất trong ngành.",
+      "language": "vi"
+    },
+    "id": "8c5823af-c319-43dc-81a3-201283256a10",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He wants to become a producer for a new movie.",
+    "The producer chose the main actor very carefully.",
+    "I heard that the producer will hold a press conference next week."
+  ],
+  "updatedAt": "2026-03-03T10:04:57.270Z",
+  "exampleSentences": [
+    "Anh ấy muốn trở thành nhà sản xuất cho một bộ phim mới.",
+    "Nhà sản xuất đã chọn diễn viên rất kỹ lưỡng cho vai chính.",
+    "Em nghe nói nhà sản xuất sẽ tổ chức họp báo vào tuần sau."
+  ],
+  "notes": "Nhà sản xuất = producer — the person or company that organizes and finances a movie, show, or music project.  \n\nIt’s a countable noun: một nhà sản xuất, hai nhà sản xuất, các nhà sản xuất. Often goes with fields like phim, âm nhạc, chương trình, truyền hình.  \n\nIt can also mean manufacturer (a company that makes products), especially in business or product labels.  \n\nEasy memory link: nhà = person/professional, sản xuất = to produce → the person/company that produces something.",
+  "notes_md": "**Nhà sản xuất** = producer — the person or company that organizes and finances a movie, show, or music project.  \n\nIt’s a countable noun: *một nhà sản xuất, hai nhà sản xuất, các nhà sản xuất*. Often goes with fields like *phim, âm nhạc, chương trình, truyền hình*.  \n\nIt can also mean **manufacturer** (a company that makes products), especially in business or product labels.  \n\nEasy memory link: *nhà* = person/professional, *sản xuất* = to produce → the person/company that produces something.",
+  "rank": 2146,
+  "choices": [
+    "đạo diễn",
+    "nhà sản xuất",
+    "nhà thiết kế"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:21:50.824Z",
+    "type": "multiChoiceQuiz",
+    "id": "8f90adc8-71de-45a8-8f8b-59a60697ab76",
+    "content": {
+      "sentence": "Họ là ___ của sản phẩm này.",
+      "language": "vi",
+      "word": "nhà sản xuất",
+      "choices": [
+        "nhà phân phối",
+        "nhà sản xuất",
+        "nhà cung cấp"
+      ],
+      "hint": "nhà s______",
+      "answer": "nhà sản xuất",
+      "translatedAnswer": {
+        "en": "manufacturer"
+      },
+      "translation": {
+        "en": "They are the manufacturer of this product."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:21:50.824Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhà sản xuất",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "8tJRoXyrnDnz56D8zWOL"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e6121938-89ee-4e68-be2e-905e3dc739e8",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "She is very dedicated in her work."
+      },
+      "word": "tâm huyết",
+      "choices": [],
+      "sentence": "Cô ấy rất ___ trong công việc.",
+      "translatedAnswer": {
+        "en": "dedicated"
+      },
+      "answer": "tâm huyết"
+    },
+    "updatedAt": "2025-03-12T15:45:38.993Z",
+    "createdAt": "2025-03-12T15:45:38.993Z"
+  },
+  "choices": [
+    "tình cảm",
+    "tâm huyết",
+    "kinh nghiệm"
+  ],
+  "exampleSentences": [
+    "Anh ấy làm việc với nhiều tâm huyết để giúp đỡ cộng đồng.",
+    "Chị dành tất cả tâm huyết cho dự án này suốt nhiều tháng qua.",
+    "Em thấy cô giáo dạy học sinh với rất nhiều tâm huyết mỗi ngày."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Tâm huyết = deep dedication + heart + serious effort put into something. It’s stronger than just “trying hard” — it feels emotional and personal.\n\nIt’s an uncountable noun; you don’t say một tâm huyết. Often used with nhiều / rất nhiều tâm huyết.  \n\nClose to đam mê (passion), but tâm huyết focuses more on commitment and responsibility, not just excitement.",
+  "definition": "dedication",
+  "rank": 2638,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:45:38.993Z",
+    "updatedAt": "2025-03-12T15:45:38.993Z",
+    "content": {
+      "translation": {
+        "en": "He works with high dedication."
+      },
+      "word": "tâm huyết",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "dedication"
+      },
+      "answer": "tâm huyết",
+      "sentence": "Anh ấy làm việc với ___ cao.",
+      "choices": [
+        "tâm huyết",
+        "nhiệt tình",
+        "kiên trì"
+      ],
+      "hint": "t___h"
+    },
+    "id": "131cff5c-52c0-4c14-a248-456c7084c8c9",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Tâm huyết** = deep dedication + heart + serious effort put into something. It’s stronger than just “trying hard” — it feels emotional and personal.\n\nIt’s an uncountable noun; you don’t say *một tâm huyết*. Often used with **nhiều / rất nhiều tâm huyết**.  \n\n\nClose to **đam mê** (passion), but *tâm huyết* focuses more on commitment and responsibility, not just excitement.",
+  "exampleSentencesTranslated": [
+    "He works with a lot of dedication to help the community.",
+    "She has devoted all her dedication to this project for many months.",
+    "I see the teacher teaches students every day with a lot of dedication."
+  ],
+  "updatedAt": "2026-03-03T11:31:00.698Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tâm huyết",
+  "flashcard": {
+    "translations": {
+      "vi": "tâm huyết",
+      "en": "dedication",
+      "es": "dedicación"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:17:54.834Z",
+    "definitions": {
+      "vi": "Một cam kết mạnh mẽ hoặc đam mê đối với một nguyên nhân hoặc hoạt động.",
+      "es": "Un fuerte compromiso o pasión hacia una causa o actividad.",
+      "en": "A strong commitment or passion towards a cause or activity."
+    },
+    "example": {
+      "vi": "Cô ấy làm việc với tâm huyết để giúp đỡ cộng đồng.",
+      "es": "Ella trabaja con dedicación para ayudar a la comunidad.",
+      "en": "She works with dedication to help the community."
+    }
+  },
+  "_id": "iOJSBu5EOKXale5GCHq8"
+}

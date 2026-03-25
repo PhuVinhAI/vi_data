@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi sinh sống ở Hà Nội.",
+      "en": "I live in Hanoi.",
+      "es": "Yo vivo en Hanói."
+    },
+    "definitions": {
+      "en": "to live; to reside",
+      "vi": "sống; cư trú",
+      "es": "vivir; residir"
+    },
+    "createdAt": "2025-01-28T12:01:01.992Z",
+    "translations": {
+      "es": "vivir",
+      "en": "to live",
+      "vi": "sinh sống"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh trai em sinh sống ở thành phố Hồ Chí Minh đã ba năm rồi.",
+    "Rất nhiều loài động vật sinh sống trong rừng nhiệt đới này.",
+    "Gia đình chị muốn sinh sống gần biển để có không khí trong lành."
+  ],
+  "notes_md": "**Sinh sống** = to live somewhere (more about long-term living, settling down). It’s a bit more formal than just *sống* or *ở*.  \n\nYou use it when talking about where a person, group, or species lives. It often appears with places or environments.  \n\n\nClose to *sống*, but *sinh sống* feels more stable and long-term, not just temporarily staying somewhere.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:25:11.174Z",
+    "id": "f22d809c-6d1e-4066-915d-986119a17f8b",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "live"
+      },
+      "language": "vi",
+      "sentence": "Nơi này rất đẹp để ___.",
+      "answer": "sinh sống",
+      "translation": {
+        "en": "This place is very beautiful to live."
+      },
+      "choices": [],
+      "word": "sinh sống"
+    },
+    "updatedAt": "2025-03-12T14:25:11.174Z"
+  },
+  "definition": "live",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2357,
+  "exampleSentencesTranslated": [
+    "My older brother has live in Ho Chi Minh City for three years.",
+    "Many kinds of animals live in this tropical forest.",
+    "My family wants to live near the sea to have fresh air."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "sinh sống",
+      "choices": [
+        "sinh sống",
+        "làm việc",
+        "du lịch"
+      ],
+      "hint": "s___g",
+      "translation": {
+        "en": "This place is very beautiful to live."
+      },
+      "answer": "sinh sống",
+      "sentence": "Nơi này rất đẹp để ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "live"
+      }
+    },
+    "updatedAt": "2025-03-12T14:25:11.174Z",
+    "id": "81b11ede-295e-42ee-b656-7c3b27c09d58",
+    "createdAt": "2025-03-12T14:25:11.174Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "sinh sống",
+  "updatedAt": "2026-03-03T10:27:40.629Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "sinh sống",
+    "làm việc",
+    "học tập"
+  ],
+  "notes": "Sinh sống = to live somewhere (more about long-term living, settling down). It’s a bit more formal than just sống or ở.  \n\nYou use it when talking about where a person, group, or species lives. It often appears with places or environments.  \n\nClose to sống, but sinh sống feels more stable and long-term, not just temporarily staying somewhere.",
+  "_id": "ONRar9aodJ7M173QP8ef"
+}

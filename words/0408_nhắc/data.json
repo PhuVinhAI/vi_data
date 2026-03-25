@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Nhắc = to remind someone to do something or to remember something. It’s used when you help someone not forget.\n\nIt’s a verb, often followed by a person + action or topic.  \n\nIt can also mean “to mention briefly” in conversation.  \nClose word: nhắc nhở = stronger, more serious reminding (often from someone older or in authority).",
+  "choices": [
+    "nhắc",
+    "nghỉ",
+    "nhận"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy nhắc tôi về cuộc hẹn.",
+      "es": "Ella me recuerda sobre la cita.",
+      "en": "She reminds me about the appointment."
+    },
+    "translations": {
+      "vi": "nhắc",
+      "es": "recordar",
+      "en": "remind"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:52:59.038Z",
+    "definitions": {
+      "vi": "Nhắc nhở hoặc đề cập đến điều gì đó với ai đó.",
+      "es": "Recordar o mencionar algo a alguien.",
+      "en": "To remind or to mention something to someone."
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể nhắc em mang áo mưa khi ra ngoài không?",
+    "Chị thường nhắc em trai làm bài tập về nhà mỗi tối.",
+    "Bạn bè hay nhắc nhau đi học đúng giờ để không bị muộn."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you remind me to bring a raincoat when going out?",
+    "She often reminds her younger brother to do homework every evening.",
+    "Friends often remind each other to go to school on time so they are not late."
+  ],
+  "updatedAt": "2026-03-03T07:03:09.265Z",
+  "rank": 408,
+  "notes_md": "**Nhắc** = to remind someone to do something or to remember something. It’s used when you help someone not forget.\n\nIt’s a verb, often followed by a person + action or topic.  \n\nIt can also mean “to mention briefly” in conversation.  \nClose word: **nhắc nhở** = stronger, more serious reminding (often from someone older or in authority).",
+  "definition": "remind",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Hãy ___ cho tôi biết.",
+      "translation": {
+        "en": "Please remind me."
+      },
+      "translatedAnswer": {
+        "en": "remind"
+      },
+      "hint": "n___",
+      "word": "nhắc",
+      "answer": "nhắc",
+      "language": "vi",
+      "choices": [
+        "nhắc",
+        "hỏi",
+        "nói"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:22:18.446Z",
+    "createdAt": "2025-03-12T16:22:18.446Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "5336cbc1-8b96-4fae-bf68-6c77c0e0a2ce"
+  },
+  "word": "nhắc",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ điều này.",
+      "translation": {
+        "en": "I want to remind this."
+      },
+      "translatedAnswer": {
+        "en": "remind"
+      },
+      "choices": [],
+      "word": "nhắc",
+      "language": "vi",
+      "answer": "nhắc"
+    },
+    "updatedAt": "2025-03-12T16:22:18.446Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:22:18.446Z",
+    "id": "a6b123b2-4e73-4b7f-94e3-ce6a777512c6"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "rrxT5TiFjmsesskJCvtb"
+}

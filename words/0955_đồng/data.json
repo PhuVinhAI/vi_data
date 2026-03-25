@@ -1,0 +1,99 @@
+{
+  "notes": "đồng usually means the Vietnamese currency unit (like “dong” in VND). It’s the basic unit of money in Vietnam.\n\nYou put the number directly before it: no classifier needed.  \n\nIt often appears with Việt Nam → đồng Việt Nam (VND).  \nDon’t confuse it with tiền (money in general) — tiền is the idea of money, đồng is the specific unit.\n\nVery common second meaning: đồng = copper (the metal), so meaning depends on context.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:57:19.285Z",
+  "exampleSentencesTranslated": [
+    "Can you exchange US dollars for currency at the bank?",
+    "She usually checks the currency rate before traveling abroad.",
+    "I keep some currency in my wallet to buy breakfast."
+  ],
+  "exampleSentences": [
+    "Anh có thể đổi tiền đô la sang đồng ở ngân hàng không?",
+    "Chị thường kiểm tra tỷ giá đồng trước khi đi du lịch nước ngoài.",
+    "Em để một ít đồng trong ví để mua đồ ăn sáng."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:57:30.110Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một đơn vị tiền tệ ở Việt Nam hoặc một đồng xu.",
+      "es": "Una unidad de moneda en Vietnam o una moneda.",
+      "en": "A unit of currency in Vietnam or a coin."
+    },
+    "translations": {
+      "en": "coin",
+      "es": "moneda",
+      "vi": "đồng"
+    },
+    "example": {
+      "es": "Tengo una moneda en mi bolsillo.",
+      "en": "I have a coin in my pocket.",
+      "vi": "Tôi có một đồng xu trong túi."
+    }
+  },
+  "choices": [
+    "đồng",
+    "bàn",
+    "ghế"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:26:43.605Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6d058c69-979c-4aae-91a1-ad530f9f8a5e",
+    "content": {
+      "sentence": "Tôi cần ___ để mua bánh.",
+      "hint": "d___",
+      "translation": {
+        "en": "I need coins to buy bread."
+      },
+      "translatedAnswer": {
+        "en": "coins"
+      },
+      "language": "vi",
+      "choices": [
+        "tiền",
+        "đồng",
+        "xu"
+      ],
+      "answer": "đồng",
+      "word": "đồng"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:26:43.605Z"
+  },
+  "definition": "currency",
+  "rank": 955,
+  "notes_md": "**đồng** usually means the Vietnamese currency unit (like “dong” in VND). It’s the basic unit of money in Vietnam.\n\nYou put the number directly before it: no classifier needed.  \n\nIt often appears with **Việt Nam** → *đồng Việt Nam (VND)*.  \nDon’t confuse it with **tiền** (money in general) — *tiền* is the idea of money, *đồng* is the specific unit.\n\nVery common second meaning: **đồng** = copper (the metal), so meaning depends on context.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I have coins in my wallet."
+      },
+      "translatedAnswer": {
+        "en": "coins"
+      },
+      "answer": "đồng",
+      "language": "vi",
+      "word": "đồng",
+      "choices": [],
+      "sentence": "Tôi có ___ trong ví."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:26:43.605Z",
+    "createdAt": "2025-03-12T16:26:43.605Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e8a2f97f-289a-4924-a10a-6c87a62ba24d"
+  },
+  "word": "đồng",
+  "_id": "t4qzkTKCH51geMKMGVCy"
+}

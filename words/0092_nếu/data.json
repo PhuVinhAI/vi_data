@@ -1,0 +1,103 @@
+{
+  "notes_md": "**nếu** means **“if.”** It introduces a condition.\n\nIt goes at the start of a clause that sets up a condition for something else to happen. The result clause often has **thì**, but **thì** is optional in everyday speech.\n\n\nVery common combo: **nếu không** = “if not.”  \nClose cousin: **hễ … là …** = “whenever …, then …” (more automatic feeling).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:45:37.834Z",
+    "createdAt": "2025-03-12T13:45:37.834Z",
+    "content": {
+      "sentence": "Tôi sẽ đi ___ trời đẹp.",
+      "word": "nếu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "if"
+      },
+      "translation": {
+        "en": "I will go if the weather is nice."
+      },
+      "answer": "nếu",
+      "choices": [
+        "khi",
+        "nếu",
+        "mặc dù"
+      ],
+      "hint": "n___"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "42403d3d-ce33-446b-bb9e-a6de3dc26bf1",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "If it rains he stays home.",
+    "If you are tired I make tea.",
+    "If you are hungry I cook rice."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A conjunction used to introduce a conditional clause.",
+      "es": "Una conjunción utilizada para introducir una cláusula condicional.",
+      "vi": "Một liên từ được sử dụng để giới thiệu một mệnh đề điều kiện."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "If it rains, I will stay home.",
+      "vi": "Nếu trời mưa, tôi sẽ ở nhà.",
+      "es": "Si llueve, me quedaré en casa."
+    },
+    "createdAt": "2025-01-28T14:19:19.197Z",
+    "translations": {
+      "vi": "nếu",
+      "es": "si",
+      "en": "if"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "fa67a596-63b3-4de9-9184-c0023cc1e00b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:45:37.834Z",
+    "content": {
+      "answer": "nếu",
+      "translation": {
+        "en": "I will go if the weather is nice."
+      },
+      "translatedAnswer": {
+        "en": "if"
+      },
+      "sentence": "Tôi sẽ đi ___ trời đẹp.",
+      "word": "nếu",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:45:37.834Z"
+  },
+  "notes": "nếu means “if.” It introduces a condition.\n\nIt goes at the start of a clause that sets up a condition for something else to happen. The result clause often has thì, but thì is optional in everyday speech.\n\nVery common combo: nếu không = “if not.”  \nClose cousin: hễ … là … = “whenever …, then …” (more automatic feeling).",
+  "updatedAt": "2026-03-03T06:12:22.716Z",
+  "choices": [
+    "khi",
+    "nếu",
+    "vì"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "nếu (if) + trời (it) + mưa (rains) + anh (he) + ở (stay) + nhà (home)",
+    "nếu (if) + anh (you) + mệt (tired) + em (I) + pha (make) + trà (tea)",
+    "nếu (if) + em (you) + đói (hungry) + chị (I) + nấu (cook) + cơm (rice)"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "if",
+  "word": "nếu",
+  "exampleSentences": [
+    "nếu trời mưa anh ở nhà.",
+    "nếu anh mệt em pha trà.",
+    "nếu em đói chị nấu cơm."
+  ],
+  "rank": 92,
+  "_id": "ErgENRDwEZPgogW399XU"
+}

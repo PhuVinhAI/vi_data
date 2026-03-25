@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:27:02.384Z",
+    "content": {
+      "sentence": "Bãi biển có nhiều ___.",
+      "language": "vi",
+      "word": "cát",
+      "choices": [
+        "đá",
+        "cát",
+        "nước"
+      ],
+      "hint": "c__t",
+      "answer": "cát",
+      "translatedAnswer": {
+        "en": "sand"
+      },
+      "translation": {
+        "en": "The beach has a lot of sand."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:27:02.384Z",
+    "id": "c790b885-6f32-4cf8-973d-67f5f6623130",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cát** = sand. The loose, tiny grains you see at the beach or use in building.\n\nIt’s an uncountable noun in English; in Vietnamese it’s also a mass noun, so no plural form. Use quantity words like **một ít cát**, **một đống cát**, or units like **hạt cát** (a grain of sand).\n\nCommon pairings: **cát biển**, **cát trắng**, **cát xây dựng**, **bụi cát**.  \nCommon actions: **xúc cát**, **đổ cát**, **trộn cát**.\n\nEasy contrast: **cát** (sand, fine) vs. **sỏi** (gravel, small stones).",
+  "choices": [
+    "cá",
+    "cát",
+    "cầu"
+  ],
+  "rank": 2490,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cát",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:27:02.384Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:27:02.384Z",
+    "content": {
+      "translation": {
+        "en": "The beach has a lot of sand."
+      },
+      "translatedAnswer": {
+        "en": "sand"
+      },
+      "answer": "cát",
+      "choices": [],
+      "word": "cát",
+      "sentence": "Bãi biển có nhiều ___.",
+      "language": "vi"
+    },
+    "id": "8dbfaaad-0600-4cd5-b451-6c5a191d3458"
+  },
+  "exampleSentencesTranslated": [
+    "This weekend, I want to go to the beach and build a sand castle.",
+    "At noon, the sand on the beach is very hot so you need to wear sandals.",
+    "He bought a bag of sand to decorate his garden corner."
+  ],
+  "definition": "sand",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:07:26.324Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "sand",
+      "vi": "cát",
+      "es": "arena"
+    },
+    "example": {
+      "en": "The beach has a lot of white sand.",
+      "vi": "Bãi biển có nhiều cát trắng.",
+      "es": "La playa tiene mucha arena blanca."
+    },
+    "definitions": {
+      "es": "Un material granular compuesto de partículas de roca y mineral finamente divididas.",
+      "vi": "Một vật liệu hạt mịn được tạo thành từ các hạt đá và khoáng chất.",
+      "en": "A granular material composed of finely divided rock and mineral particles."
+    }
+  },
+  "notes": "cát = sand. The loose, tiny grains you see at the beach or use in building.\n\nIt’s an uncountable noun in English; in Vietnamese it’s also a mass noun, so no plural form. Use quantity words like một ít cát, một đống cát, or units like hạt cát (a grain of sand).\n\nCommon pairings: cát biển, cát trắng, cát xây dựng, bụi cát.  \nCommon actions: xúc cát, đổ cát, trộn cát.\n\nEasy contrast: cát (sand, fine) vs. sỏi (gravel, small stones).",
+  "updatedAt": "2026-03-03T10:41:09.248Z",
+  "exampleSentences": [
+    "Cuối tuần này, em muốn đi biển chơi và xây lâu đài cát.",
+    "Chị thấy giữa trưa, cát trên bãi biển rất nóng nên phải mang dép.",
+    "Anh mua một bao cát để trang trí góc vườn nhà mình."
+  ],
+  "_id": "ABFCuZLHWfGukpZgmn4T"
+}

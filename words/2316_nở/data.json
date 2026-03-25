@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:17:43.150Z",
+    "content": {
+      "sentence": "Hoa sẽ ___ vào mùa xuân.",
+      "language": "vi",
+      "word": "nở",
+      "choices": [],
+      "answer": "nở",
+      "translatedAnswer": {
+        "en": "bloom"
+      },
+      "translation": {
+        "en": "The flowers will bloom in spring."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:17:43.150Z",
+    "id": "8d851aef-2656-4ab2-b786-684b77741f5b",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "This morning I saw the roses in the garden start to bloom.",
+    "When spring comes, many types of flowers will bloom everywhere.",
+    "She feels very happy every time she sees sunflowers bloom."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Las flores florecen en primavera.",
+      "vi": "Hoa nở vào mùa xuân.",
+      "en": "The flowers bloom in spring."
+    },
+    "definitions": {
+      "es": "Abrirse o florecer, típicamente usado para flores.",
+      "vi": "Mở ra hoặc nở, thường dùng cho hoa.",
+      "en": "To open up or to bloom, typically used for flowers."
+    },
+    "createdAt": "2025-01-28T12:52:18.992Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "florecer",
+      "vi": "nở",
+      "en": "bloom"
+    }
+  },
+  "definition": "to bloom",
+  "notes": "nở = to bloom, when a flower opens. It’s used for natural things opening or coming out.\n\nCommon with plants and nature: hoa nở, nụ nở, trứng nở (eggs hatch). It also extends to things spreading or opening up, like nở nụ cười (a smile blooming on someone’s face).\n\nRelated words: nở rộ = bloom massively/all at once; opposite for flowers is tàn (to wither).",
+  "exampleSentences": [
+    "Sáng nay em thấy hoa hồng ngoài vườn bắt đầu nở.",
+    "Khi mùa xuân đến, rất nhiều loài hoa sẽ nở khắp nơi.",
+    "Chị cảm thấy rất vui mỗi lần nhìn hoa hướng dương nở."
+  ],
+  "updatedAt": "2026-03-03T10:23:35.123Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "631b2c5c-4eaf-4185-8240-25e916afb6d7",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:43.150Z",
+    "content": {
+      "translation": {
+        "en": "The flowers will bloom in spring."
+      },
+      "translatedAnswer": {
+        "en": "bloom"
+      },
+      "answer": "nở",
+      "hint": "n__",
+      "choices": [
+        "tàn",
+        "nở",
+        "héo"
+      ],
+      "word": "nở",
+      "sentence": "Hoa sẽ ___ vào mùa xuân.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:17:43.150Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2316,
+  "choices": [
+    "nở",
+    "chín",
+    "rơi"
+  ],
+  "notes_md": "**nở** = to bloom, when a flower opens. It’s used for natural things opening or coming out.\n\nCommon with plants and nature: **hoa nở, nụ nở, trứng nở** (eggs hatch). It also extends to things spreading or opening up, like **nở nụ cười** (a smile blooming on someone’s face).\n\n\nRelated words: **nở rộ** = bloom massively/all at once; opposite for flowers is **tàn** (to wither).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nở",
+  "_id": "bZAGkQgfHoO65CHihSmr"
+}

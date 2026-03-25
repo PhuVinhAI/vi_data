@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thuyết phục",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:13:39.639Z",
+    "content": {
+      "hint": "th___c",
+      "answer": "thuyết phục",
+      "translation": {
+        "en": "We have to persuade them to come along."
+      },
+      "translatedAnswer": {
+        "en": "persuade"
+      },
+      "word": "thuyết phục",
+      "sentence": "Chúng ta phải ___ họ đi cùng.",
+      "language": "vi",
+      "choices": [
+        "thuyết phục",
+        "khuyên bảo",
+        "thuyết trình"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:13:39.639Z",
+    "id": "54d0a279-75e4-4865-941f-7281acbc4b63",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Thuyết phục** means *to persuade* or *convince someone to do or believe something*. It’s when you use reasons, logic, or emotion to change someone’s mind.\n\nIt’s a verb, so it usually takes a person as the object: you thuyết phục **ai** (someone). Often followed by **làm gì** (to do something).\n\n\nIt can also mean making an argument convincing (lý lẽ rất thuyết phục = very convincing reasoning).  \nClose words: **thuyết phục** (neutral/formal), **dụ** (more like coax/tempt, sometimes playful).",
+  "rank": 1486,
+  "choices": [
+    "giải thích",
+    "thuyết phục",
+    "giới thiệu"
+  ],
+  "notes": "Thuyết phục means to persuade or convince someone to do or believe something. It’s when you use reasons, logic, or emotion to change someone’s mind.\n\nIt’s a verb, so it usually takes a person as the object: you thuyết phục ai (someone). Often followed by làm gì (to do something).\n\nIt can also mean making an argument convincing (lý lẽ rất thuyết phục = very convincing reasoning).  \nClose words: thuyết phục (neutral/formal), dụ (more like coax/tempt, sometimes playful).",
+  "updatedAt": "2026-03-03T08:54:49.240Z",
+  "exampleSentences": [
+    "Anh đã cố gắng thuyết phục em tham gia buổi tiệc tối nay.",
+    "Chị ấy biết cách thuyết phục khách hàng mua sản phẩm mới.",
+    "Bạn của em luôn thuyết phục em thử những món ăn lạ."
+  ],
+  "exampleSentencesTranslated": [
+    "I tried to persuade you to join the party tonight.",
+    "She knows how to persuade customers to buy the new product.",
+    "My friend always persuades me to try strange foods."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:13:39.639Z",
+    "type": "fillBlankQuiz",
+    "id": "6ddf31b5-9fe7-40c8-88ae-e28cc28b109f",
+    "content": {
+      "choices": [],
+      "word": "thuyết phục",
+      "sentence": "Tôi cần ___ mọi người tham gia.",
+      "language": "vi",
+      "translation": {
+        "en": "I need to persuade everyone to participate."
+      },
+      "translatedAnswer": {
+        "en": "persuade"
+      },
+      "answer": "thuyết phục"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:13:39.639Z"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy đã thuyết phục tôi tham gia buổi họp.",
+      "es": "Ella me convenció para asistir a la reunión.",
+      "en": "She convinced me to attend the meeting."
+    },
+    "definitions": {
+      "es": "Persuadir a alguien para que haga algo.",
+      "vi": "Thuyết phục ai đó làm điều gì đó.",
+      "en": "To persuade someone to do something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:54:43.054Z",
+    "translations": {
+      "vi": "thuyết phục",
+      "es": "persuadir",
+      "en": "to persuade"
+    }
+  },
+  "definition": "persuade",
+  "_id": "6T90eIdakowA1iCNDcVP"
+}

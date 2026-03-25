@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chẳng means not at all or simply not, but with a stronger, more emotional tone than không. It often shows emphasis, annoyance, or certainty.\n\nIt goes before verbs and adjectives to negate them. It feels a bit more expressive or dramatic than neutral không.\n\nVery common in fixed phrases like chẳng ai (nobody) and chẳng bao giờ (never).  \nClose synonym: không (more neutral); casual spoken form: chả.",
+  "exampleSentences": [
+    "Anh chẳng muốn đi xem phim tối nay vì mệt quá.",
+    "Em chẳng hiểu bài toán này dù đã cố gắng nhiều lần.",
+    "Chị ấy nói rằng chị chẳng thích ăn đồ ngọt."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "No sé eso.",
+      "en": "I don't know that.",
+      "vi": "Tôi chẳng biết điều đó."
+    },
+    "translations": {
+      "vi": "không chút nào",
+      "es": "en absoluto",
+      "en": "not at all"
+    },
+    "createdAt": "2025-01-28T13:39:53.118Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Dùng để chỉ sự phủ định hoặc sự vắng mặt.",
+      "es": "Se utiliza para indicar negación o ausencia.",
+      "en": "Used to indicate negation or absence."
+    }
+  },
+  "choices": [
+    "không",
+    "chẳng",
+    "chắc"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T07:32:04.770Z",
+  "exampleSentencesTranslated": [
+    "I do not at all want to go to the movies tonight  because I am too tired.",
+    "I do not at all understand this math problem even though I have tried many times.",
+    "She said that she does not at all like eating sweets."
+  ],
+  "rank": 704,
+  "notes_md": "**chẳng** means *not at all* or simply *not*, but with a stronger, more emotional tone than **không**. It often shows emphasis, annoyance, or certainty.\n\nIt goes before verbs and adjectives to negate them. It feels a bit more expressive or dramatic than neutral **không**.\n\n\nVery common in fixed phrases like **chẳng ai** (nobody) and **chẳng bao giờ** (never).  \nClose synonym: **không** (more neutral); casual spoken form: **chả**.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:08:05.035Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi ___ thấy vấn đề này.",
+      "translatedAnswer": {
+        "en": "not"
+      },
+      "translation": {
+        "en": "I do not see this issue."
+      },
+      "hint": "c___",
+      "word": "chẳng",
+      "answer": "chẳng",
+      "language": "vi",
+      "choices": [
+        "không",
+        "dường như",
+        "chẳng"
+      ]
+    },
+    "id": "26bf0427-d9f3-4f34-a7ff-b38666d84ae9",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:08:05.035Z"
+  },
+  "definition": "not at all",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ hiểu điều đó.",
+      "answer": "chẳng",
+      "language": "vi",
+      "word": "chẳng",
+      "choices": [],
+      "translation": {
+        "en": "I do not understand that."
+      },
+      "translatedAnswer": {
+        "en": "not"
+      }
+    },
+    "updatedAt": "2025-03-12T16:08:05.035Z",
+    "createdAt": "2025-03-12T16:08:05.035Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "eacd90c4-56fb-43ad-ba2f-40619b403dd8"
+  },
+  "word": "chẳng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "oW2DpyItEksb78tykJml"
+}

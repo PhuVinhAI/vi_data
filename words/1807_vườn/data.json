@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "vườn",
+      "sentence": "Mẹ tôi thích làm việc trong ___.",
+      "hint": "v___n",
+      "translatedAnswer": {
+        "en": "garden"
+      },
+      "language": "vi",
+      "word": "vườn",
+      "translation": {
+        "en": "My mother enjoys working in the garden."
+      },
+      "choices": [
+        "cánh đồng",
+        "vườn",
+        "hồ nước"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "83c977ae-d3ca-48a0-b7ff-2129dcd59447",
+    "createdAt": "2025-03-12T13:06:00.258Z",
+    "updatedAt": "2025-03-12T13:06:00.258Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Bà của anh trồng rất nhiều hoa trong vườn mỗi mùa xuân.",
+    "Sáng nay em đã giúp mẹ tưới cây ở vườn sau nhà.",
+    "Chúng ta thường tổ chức tiệc nhỏ ngoài vườn vào cuối tuần."
+  ],
+  "rank": 1807,
+  "definition": "garden",
+  "flashcard": {
+    "example": {
+      "en": "I like to walk in the garden.",
+      "vi": "Tôi thích đi dạo trong vườn.",
+      "es": "Me gusta caminar en el jardín."
+    },
+    "translations": {
+      "vi": "vườn",
+      "en": "garden",
+      "es": "jardín"
+    },
+    "definitions": {
+      "es": "Un jardín es un terreno utilizado para cultivar flores, frutas o verduras.",
+      "en": "A garden is a piece of land used for growing flowers, fruits, or vegetables.",
+      "vi": "Vườn là một mảnh đất được sử dụng để trồng hoa, trái cây hoặc rau củ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:47:57.012Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "vườn",
+    "nhà",
+    "bếp"
+  ],
+  "notes": "vườn = garden — an area of land where people grow plants, flowers, vegetables, or fruit.\n\nIt’s a noun. You can count it with một khu vườn or just một vườn (khu makes it sound like a defined garden area).  \nCommon pairings: vườn hoa (flower garden), vườn rau (vegetable garden), vườn cây ăn trái (fruit garden/orchard).  \nOften used with location words like trong vườn (in the garden), ra vườn (go out to the garden), ngoài vườn (outside in the garden).  \n\nClose idea: công viên = park (public space, not private like vườn).",
+  "word": "vườn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "My grandmother grows many flowers in the garden every spring.",
+    "This morning I helped my mom water the plants in the garden behind the house.",
+    "We often have small parties in the garden on weekends."
+  ],
+  "notes_md": "**vườn** = garden — an area of land where people grow plants, flowers, vegetables, or fruit.\n\nIt’s a noun. You can count it with **một khu vườn** or just **một vườn** (khu makes it sound like a defined garden area).  \nCommon pairings: **vườn hoa** (flower garden), **vườn rau** (vegetable garden), **vườn cây ăn trái** (fruit garden/orchard).  \nOften used with location words like **trong vườn** (in the garden), **ra vườn** (go out to the garden), **ngoài vườn** (outside in the garden).  \n\nClose idea: **công viên** = park (public space, not private like *vườn*).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:06:00.258Z",
+    "updatedAt": "2025-03-12T13:06:00.258Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "67963233-4ce3-432e-a669-36ce1cbe58f9",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We grow flowers in the garden."
+      },
+      "choices": [],
+      "word": "vườn",
+      "translatedAnswer": {
+        "en": "garden"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi trồng hoa trong ___.",
+      "answer": "vườn"
+    }
+  },
+  "updatedAt": "2026-03-03T09:29:14.850Z",
+  "_id": "4eTYPSuiIjaFaMZlmNsw"
+}

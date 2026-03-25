@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:37:52.222Z",
+    "definitions": {
+      "en": "A wing, typically of a bird or insect, used for flying.",
+      "es": "Un ala, típicamente de un pájaro o insecto, utilizada para volar.",
+      "vi": "Cánh, thường là của chim hoặc côn trùng, được sử dụng để bay."
+    },
+    "example": {
+      "en": "The bird flaps its wings to fly up into the sky.",
+      "es": "El pájaro agita sus alas para volar hacia el cielo.",
+      "vi": "Con chim vỗ cánh bay lên trời."
+    },
+    "translations": {
+      "en": "wing",
+      "es": "ala",
+      "vi": "cánh"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "The little bird is injured on one wing so it cannot fly.",
+    "I see many beautiful colors on the butterfly's wing.",
+    "I open the wing of the door to let light into the room."
+  ],
+  "updatedAt": "2026-03-03T09:04:02.827Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "31d3ff7d-ebe8-4548-b982-a537d205c03d",
+    "content": {
+      "translation": {
+        "en": "The bird has beautiful wings."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "wings"
+      },
+      "language": "vi",
+      "word": "cánh",
+      "answer": "cánh",
+      "sentence": "Con chim có ___ đẹp."
+    },
+    "updatedAt": "2025-03-12T15:05:21.788Z",
+    "createdAt": "2025-03-12T15:05:21.788Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "wing",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**cánh** = wing (of a bird, insect, plane). It’s a countable noun: say *một cánh*, *hai cánh*; often no classifier is needed.\n\nVery common pairings: *cánh chim*, *cánh bướm*, *cánh quạt* (fan blade), *cánh cửa* (door panel). It can also mean one side/panel of something that opens or spreads.\n\nAnother super common meaning is in fixed words like *cánh đồng* (field, wide open farmland).\n\nFor memory: *đôi cánh* = a pair of wings.",
+  "rank": 1568,
+  "choices": [
+    "cánh",
+    "bánh",
+    "cành"
+  ],
+  "word": "cánh",
+  "notes": "cánh = wing (of a bird, insect, plane). It’s a countable noun: say một cánh, hai cánh; often no classifier is needed.\n\nVery common pairings: cánh chim, cánh bướm, cánh quạt (fan blade), cánh cửa (door panel). It can also mean one side/panel of something that opens or spreads.\n\nAnother super common meaning is in fixed words like cánh đồng (field, wide open farmland).\n\nFor memory: đôi cánh = a pair of wings.",
+  "exampleSentences": [
+    "Con chim nhỏ bị thương ở một cánh nên không bay được.",
+    "Anh thấy trên cánh bướm có nhiều màu sắc rất đẹp.",
+    "Em mở rộng cánh cửa để cho ánh sáng vào phòng."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "ddd6c416-2f2b-4a0b-bda7-90db7946ca49",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:05:21.788Z",
+    "updatedAt": "2025-03-12T15:05:21.788Z",
+    "content": {
+      "sentence": "Con bướm có ___ màu sắc.",
+      "answer": "cánh",
+      "hint": "c__h",
+      "word": "cánh",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "wings"
+      },
+      "choices": [
+        "cánh",
+        "đôi",
+        "mặt"
+      ],
+      "translation": {
+        "en": "The butterfly has colorful wings."
+      }
+    }
+  },
+  "_id": "YJz7jL9Fb8ujs3G3MQE0"
+}

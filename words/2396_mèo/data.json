@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:01:03.465Z",
+    "createdAt": "2025-03-12T14:01:03.465Z",
+    "id": "7e751b95-f94e-40f4-8dc9-42360dd7be1f",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "My house has a cat."
+      },
+      "sentence": "Nhà tôi có một ___.",
+      "word": "mèo",
+      "answer": "mèo",
+      "translatedAnswer": {
+        "en": "cat"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "cat",
+  "updatedAt": "2026-03-03T10:31:20.959Z",
+  "choices": [
+    "mèo",
+    "chó",
+    "chuột"
+  ],
+  "exampleSentencesTranslated": [
+    "I have a small white cat at home.",
+    "This morning, my cat ran into the garden to play with butterflies.",
+    "She usually feeds her cat at seven o'clock every evening."
+  ],
+  "notes": "mèo = cat. The usual furry pet that says “meow.”\n\nIt’s a noun. When counting, use the classifier con → you don’t just say “một mèo.”  \n\nCommon combos: mèo con (kitten), mèo hoang (stray cat), mèo nhà (house cat).  \nOften paired with chó (dog) when talking about pets or comparing personalities.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mèo** = cat. The usual furry pet that says “meow.”\n\nIt’s a noun. When counting, use the classifier **con** → you don’t just say “một mèo.”  \n\nCommon combos: **mèo con** (kitten), **mèo hoang** (stray cat), **mèo nhà** (house cat).  \nOften paired with **chó** (dog) when talking about pets or comparing personalities.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mèo",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:01:03.465Z",
+    "createdAt": "2025-03-12T14:01:03.465Z",
+    "id": "b83f1745-1e93-49db-b005-800728efa469",
+    "content": {
+      "translatedAnswer": {
+        "en": "cat"
+      },
+      "answer": "mèo",
+      "word": "mèo",
+      "hint": "m__",
+      "sentence": "Tôi thích nuôi ___ trong nhà.",
+      "translation": {
+        "en": "I like to keep a cat at home."
+      },
+      "language": "vi",
+      "choices": [
+        "mèo",
+        "chó",
+        "chim"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "en": "The cat is sleeping on the chair.",
+      "vi": "Con mèo đang ngủ trên ghế.",
+      "es": "El gato está durmiendo en la silla."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:39:02.366Z",
+    "translations": {
+      "en": "cat",
+      "es": "gato",
+      "vi": "mèo"
+    },
+    "definitions": {
+      "en": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws.",
+      "es": "Un pequeño mamífero carnívoro domesticado con pelaje suave, un hocico corto y garras retráctiles.",
+      "vi": "Một loài động vật có vú ăn thịt nhỏ được thuần hóa với bộ lông mềm, mõm ngắn và móng vuốt có thể rút vào."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có nuôi một con mèo nhỏ màu trắng ở nhà.",
+    "Sáng nay mèo của anh chạy ra vườn chơi với bướm.",
+    "Chị thường cho mèo ăn vào lúc bảy giờ tối mỗi ngày."
+  ],
+  "rank": 2396,
+  "_id": "IvhzzYaE5Jj7LO4KKb99"
+}

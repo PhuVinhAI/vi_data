@@ -1,0 +1,99 @@
+{
+  "word": "chấm",
+  "multiChoiceQuiz": {
+    "id": "ce4eafac-44e5-4fc9-8853-b57b16286a0a",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "grade"
+      },
+      "answer": "chấm",
+      "translation": {
+        "en": "She has graded the poem."
+      },
+      "language": "vi",
+      "choices": [
+        "cắt",
+        "chấm",
+        "viết"
+      ],
+      "word": "chấm",
+      "hint": "ch___",
+      "sentence": "Cô ấy đã ___ bài thơ."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:22:48.637Z",
+    "createdAt": "2025-03-12T14:22:48.637Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chấm** usually means a *dot* or *small point*. It’s a noun: *một chấm, hai chấm* (one dot, two dots).  \n\nIt’s also a very common **verb** meaning *to dip (food into sauce)* or *to mark/grade*.  \n\nFor food, it’s often about lightly touching something into sauce. For school, *chấm bài / chấm điểm* = to grade.  \n\nRelated word: **dấu chấm** = period (the dot at the end of a sentence).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chấm usually means a dot or small point. It’s a noun: một chấm, hai chấm (one dot, two dots).  \n\nIt’s also a very common verb meaning to dip (food into sauce) or to mark/grade.  \n\nFor food, it’s often about lightly touching something into sauce. For school, chấm bài / chấm điểm = to grade.  \n\nRelated word: dấu chấm = period (the dot at the end of a sentence).",
+  "exampleSentencesTranslated": [
+    "Please write your email address with a dot between the two parts.",
+    "When you finish a sentence, remember to put a dot.",
+    "He saw a small dot on the living room wall."
+  ],
+  "updatedAt": "2026-03-03T09:25:31.595Z",
+  "choices": [
+    "chấm",
+    "dấu",
+    "vạch"
+  ],
+  "definition": "dot",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:22:48.637Z",
+    "updatedAt": "2025-03-12T14:22:48.637Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "grade"
+      },
+      "answer": "chấm",
+      "translation": {
+        "en": "I want to grade the test."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "chấm",
+      "sentence": "Tôi muốn ___ bài kiểm tra."
+    },
+    "type": "fillBlankQuiz",
+    "id": "c1dd6dfd-1304-4477-aae9-0dd642e90343"
+  },
+  "rank": 1770,
+  "exampleSentences": [
+    "Em hãy viết địa chỉ email của mình có dấu chấm giữa hai phần.",
+    "Khi kết thúc câu, chị nhớ đặt một dấu chấm.",
+    "Anh nhìn thấy một chấm nhỏ trên bức tường phòng khách."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:58:40.424Z",
+    "translations": {
+      "es": "calificar",
+      "vi": "chấm",
+      "en": "grade"
+    },
+    "definitions": {
+      "en": "To grade or score something, typically in an educational context.",
+      "es": "Calificar o puntuar algo, típicamente en un contexto educativo.",
+      "vi": "Để chấm điểm hoặc đánh giá một cái gì đó, thường trong bối cảnh giáo dục."
+    },
+    "example": {
+      "en": "I will grade your test.",
+      "es": "Voy a calificar tu examen.",
+      "vi": "Tôi sẽ chấm bài kiểm tra của bạn."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "NjBgeYRFKjPQ2fkVFd3u"
+}

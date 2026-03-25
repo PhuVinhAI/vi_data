@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I want to choose an interesting topic for next week's presentation.",
+    "We talked about many different topic last night.",
+    "Today's class has a topic about travel and cultures of countries."
+  ],
+  "updatedAt": "2026-03-03T07:29:34.453Z",
+  "choices": [
+    "chủ đề",
+    "bài báo",
+    "nội dung"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "en": "A subject or theme that is the focus of discussion or study.",
+      "es": "Un asunto o tema que es el foco de discusión o estudio.",
+      "vi": "Một chủ đề hoặc đề tài là trọng tâm của cuộc thảo luận hoặc nghiên cứu."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:49:11.172Z",
+    "translations": {
+      "vi": "chủ đề",
+      "en": "topic",
+      "es": "tema"
+    },
+    "example": {
+      "vi": "Chủ đề của cuộc họp hôm nay là phát triển bền vững.",
+      "es": "El tema de la reunión de hoy es el desarrollo sostenible.",
+      "en": "The topic of today's meeting is sustainable development."
+    }
+  },
+  "exampleSentences": [
+    "Anh muốn chọn một chủ đề thú vị cho bài thuyết trình tuần sau.",
+    "Chị và em đã nói chuyện về nhiều chủ đề khác nhau tối qua.",
+    "Lớp học hôm nay có chủ đề về du lịch và văn hóa các nước."
+  ],
+  "notes": "chủ đề = topic, subject of discussion or writing. It’s what something is about.\n\nIt’s a noun. You can say một chủ đề, các chủ đề. Common verbs: chọn chủ đề, bàn về chủ đề, xoay quanh chủ đề.\n\nClose synonym: đề tài (more formal, often for essays, research, competitions).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chủ đề",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:17:39.605Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We will discuss the topic today."
+      },
+      "translatedAnswer": {
+        "en": "topic"
+      },
+      "answer": "chủ đề",
+      "language": "vi",
+      "word": "chủ đề",
+      "choices": [],
+      "sentence": "Chúng ta sẽ thảo luận về ___ hôm nay."
+    },
+    "id": "934138ce-ea0e-4367-abad-2fabb09438e0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:17:39.605Z"
+  },
+  "definition": "topic",
+  "multiChoiceQuiz": {
+    "id": "1a8b406a-a7da-42e4-b1c8-7d96ac39a359",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:17:39.605Z",
+    "updatedAt": "2025-03-12T16:17:39.605Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "chủ đề",
+      "choices": [
+        "nội dung",
+        "chủ đề",
+        "vấn đề"
+      ],
+      "language": "vi",
+      "answer": "chủ đề",
+      "hint": "c___ đề",
+      "translation": {
+        "en": "We will discuss the topic today."
+      },
+      "translatedAnswer": {
+        "en": "topic"
+      },
+      "sentence": "Chúng ta sẽ thảo luận về ___ hôm nay."
+    }
+  },
+  "rank": 678,
+  "notes_md": "**chủ đề** = topic, subject of discussion or writing. It’s what something is about.\n\nIt’s a noun. You can say **một chủ đề**, **các chủ đề**. Common verbs: **chọn chủ đề**, **bàn về chủ đề**, **xoay quanh chủ đề**.\n\n\nClose synonym: **đề tài** (more formal, often for essays, research, competitions).",
+  "_id": "r5cYYXdskIrYTZvdfX0H"
+}

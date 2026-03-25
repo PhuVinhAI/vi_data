@@ -1,0 +1,99 @@
+{
+  "definition": "risk",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "rủi ro",
+  "rank": 1298,
+  "exampleSentences": [
+    "Khi đầu tư vào cổ phiếu, anh phải chấp nhận rủi ro.",
+    "Chị luôn cân nhắc kỹ trước khi làm việc có rủi ro cao.",
+    "Công việc này mang lại nhiều lợi ích nhưng cũng có rủi ro nhất định."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "may mắn",
+    "rủi ro",
+    "cơ hội"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "d24413eb-6059-43fa-958e-9226a67fe04b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:41:25.922Z",
+    "content": {
+      "hint": "r___o",
+      "choices": [
+        "diễn biến",
+        "rủi ro",
+        "giá trị"
+      ],
+      "answer": "rủi ro",
+      "translation": {
+        "en": "Investing has high risk."
+      },
+      "translatedAnswer": {
+        "en": "risk"
+      },
+      "language": "vi",
+      "sentence": "Đầu tư có ___ cao.",
+      "word": "rủi ro"
+    },
+    "updatedAt": "2025-03-12T13:41:25.922Z"
+  },
+  "notes_md": "**rủi ro** = risk; the chance that something bad might happen.\n\nIt’s a noun: *một rủi ro, nhiều rủi ro*. Often used with verbs like *có*, *gặp*, *chấp nhận*, *giảm thiểu*, *tránh* + rủi ro.  \n\nClose word: **nguy cơ** (more formal, often sounds a bit more serious).  \nOpposite idea: **an toàn** (safe).",
+  "flashcard": {
+    "definitions": {
+      "en": "The possibility of loss or injury.",
+      "vi": "Khả năng xảy ra tổn thất hoặc thiệt hại.",
+      "es": "La posibilidad de pérdida o daño."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "Investing in stocks always carries risks.",
+      "vi": "Đầu tư vào cổ phiếu luôn có rủi ro.",
+      "es": "Invertir en acciones siempre conlleva riesgos."
+    },
+    "createdAt": "2025-01-28T11:20:03.033Z",
+    "translations": {
+      "en": "risk",
+      "es": "riesgo",
+      "vi": "rủi ro"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "When investing in stocks, you have to accept the risk.",
+    "She always thinks carefully before doing work with high risk.",
+    "This job brings many benefits but also has certain risk."
+  ],
+  "notes": "rủi ro = risk; the chance that something bad might happen.\n\nIt’s a noun: một rủi ro, nhiều rủi ro. Often used with verbs like có, gặp, chấp nhận, giảm thiểu, tránh + rủi ro.  \n\nClose word: nguy cơ (more formal, often sounds a bit more serious).  \nOpposite idea: an toàn (safe).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:41:25.922Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Investing has high risk."
+      },
+      "answer": "rủi ro",
+      "translatedAnswer": {
+        "en": "risk"
+      },
+      "sentence": "Đầu tư có ___ cao.",
+      "word": "rủi ro",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:41:25.922Z",
+    "id": "f2966a6a-f2fc-4a8a-a976-e007b6d7e8ea",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T08:34:53.668Z",
+  "_id": "DkHCYpZ85xRGdPxFacy8"
+}

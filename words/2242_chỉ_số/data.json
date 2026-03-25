@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "This index shows the economic development of the country.",
+      "vi": "Chỉ số này cho thấy sự phát triển kinh tế của đất nước.",
+      "es": "Este índice muestra el desarrollo económico del país."
+    },
+    "translations": {
+      "vi": "chỉ số",
+      "en": "index",
+      "es": "índice"
+    },
+    "createdAt": "2025-01-28T10:33:49.490Z",
+    "definitions": {
+      "es": "Un valor numérico que representa una medida o un indicador.",
+      "en": "A numerical value that represents a measurement or an indicator.",
+      "vi": "Một giá trị số đại diện cho một phép đo hoặc một chỉ báo."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "index",
+  "rank": 2242,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa kiểm tra chỉ số sức khỏe của mình sáng nay.",
+    "Chị có biết chỉ số lạm phát năm nay tăng bao nhiêu không?",
+    "Em cần theo dõi chỉ số nhiệt độ trong phòng mỗi ngày."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "7a68ef77-2ef1-4353-8f75-93ae63a7fe08",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to know this index."
+      },
+      "choices": [
+        "chỉ số",
+        "công thức",
+        "kết quả"
+      ],
+      "translatedAnswer": {
+        "en": "index"
+      },
+      "language": "vi",
+      "word": "chỉ số",
+      "hint": "c___s",
+      "sentence": "Chúng ta cần biết ___ này.",
+      "answer": "chỉ số"
+    },
+    "createdAt": "2025-03-12T12:48:38.751Z",
+    "updatedAt": "2025-03-12T12:48:38.751Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chỉ số",
+  "notes": "Chỉ số means index, indicator, or metric — a number that shows the level or condition of something. It’s used a lot for health, finance, science, statistics, etc.\n\nIt’s a noun. You can say một chỉ số, các chỉ số.  \nOften followed by a noun to specify what kind: chỉ số + N (chỉ số giá, chỉ số thông minh, chỉ số đường huyết).\n\nIt usually refers to measurable data, not feelings.  \nClose words: thông số (technical parameter), số liệu (data figures — broader, more general).",
+  "choices": [
+    "chỉ số",
+    "thời gian",
+    "kết quả"
+  ],
+  "notes_md": "**Chỉ số** means *index, indicator, or metric* — a number that shows the level or condition of something. It’s used a lot for health, finance, science, statistics, etc.\n\nIt’s a noun. You can say **một chỉ số**, **các chỉ số**.  \nOften followed by a noun to specify what kind: **chỉ số + N** (chỉ số giá, chỉ số thông minh, chỉ số đường huyết).\n\nIt usually refers to measurable data, not feelings.  \nClose words: **thông số** (technical parameter), **số liệu** (data figures — broader, more general).",
+  "exampleSentencesTranslated": [
+    "He just checked his health index this morning.",
+    "Do you know how much the inflation index increased this year?",
+    "I need to monitor the temperature index in the room every day."
+  ],
+  "updatedAt": "2026-03-03T10:15:21.476Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "a4fc5417-06eb-44ab-85e6-b2f33fd86636",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "They are calculating a new index."
+      },
+      "word": "chỉ số",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "index"
+      },
+      "sentence": "Họ đang tính toán ___ mới.",
+      "answer": "chỉ số"
+    },
+    "createdAt": "2025-03-12T12:48:38.751Z",
+    "updatedAt": "2025-03-12T12:48:38.751Z"
+  },
+  "_id": "0Gz7SAhlQ6KN0JNpTehT"
+}

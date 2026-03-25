@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ngủ** = to sleep. It’s the basic verb for sleeping or being asleep.\n\nYou’ll often hear it in chunks like **đi ngủ** (go to bed) and **ngủ dậy** (wake up). Add time words or places after it: ngủ trưa (nap), ngủ ở đâu (sleep where), ngủ với ai (sleep with someone, literal or romantic depending on context).\n\nCommon combos: **ngủ say** (sleep deeply), **ngủ đủ / thiếu ngủ** (get enough sleep / be sleep-deprived), **ngủ quên** (oversleep by accident), **ngủ gật** (doze off).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:04:32.920Z",
+    "updatedAt": "2025-03-12T14:04:32.920Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "ngủ",
+      "hint": "n__",
+      "sentence": "Tôi sẽ ___ sớm hôm nay.",
+      "translation": {
+        "en": "I will sleep early today."
+      },
+      "language": "vi",
+      "choices": [
+        "nghỉ",
+        "ngủ",
+        "đi chơi"
+      ],
+      "translatedAnswer": {
+        "en": "sleep"
+      },
+      "answer": "ngủ"
+    },
+    "id": "21b73665-f064-473c-9fb2-008325d6d453"
+  },
+  "word": "ngủ",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:04:32.920Z",
+    "updatedAt": "2025-03-12T14:04:32.920Z",
+    "content": {
+      "translation": {
+        "en": "I like to sleep at night."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "ngủ",
+      "sentence": "Tôi thích ___ vào buổi tối.",
+      "translatedAnswer": {
+        "en": "sleep"
+      },
+      "answer": "ngủ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e29917ce-f709-4ae2-ba79-9e1f792f978a"
+  },
+  "definition": "sleep",
+  "choices": [
+    "ăn",
+    "ngủ",
+    "chơi"
+  ],
+  "updatedAt": "2026-03-03T07:18:27.746Z",
+  "notes": "ngủ = to sleep. It’s the basic verb for sleeping or being asleep.\n\nYou’ll often hear it in chunks like đi ngủ (go to bed) and ngủ dậy (wake up). Add time words or places after it: ngủ trưa (nap), ngủ ở đâu (sleep where), ngủ với ai (sleep with someone, literal or romantic depending on context).\n\nCommon combos: ngủ say (sleep deeply), ngủ đủ / thiếu ngủ (get enough sleep / be sleep-deprived), ngủ quên (oversleep by accident), ngủ gật (doze off).",
+  "exampleSentencesTranslated": [
+    "I usually sleep at eleven o'clock every night.",
+    "If I do not sleep enough, I will feel very tired the next morning.",
+    "I like to listen to soft music before sleep to relax."
+  ],
+  "rank": 563,
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích ngủ sớm.",
+      "es": "Me gusta dormir temprano.",
+      "en": "I like to sleep early."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:42:29.033Z",
+    "definitions": {
+      "en": "To rest in a state of reduced consciousness, typically with the eyes closed.",
+      "vi": "Nghỉ ngơi trong trạng thái ý thức giảm, thường với mắt nhắm.",
+      "es": "Descansar en un estado de conciencia reducida, generalmente con los ojos cerrados."
+    },
+    "translations": {
+      "es": "dormir",
+      "vi": "ngủ",
+      "en": "sleep"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thường ngủ lúc mười một giờ tối mỗi ngày.",
+    "Nếu không ngủ đủ, anh sẽ cảm thấy rất mệt vào sáng hôm sau.",
+    "Chị thích nghe nhạc nhẹ trước khi ngủ để thư giãn."
+  ],
+  "_id": "Jk2C3oMurl8vnD02EJtm"
+}

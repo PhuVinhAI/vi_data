@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:44:01.988Z",
+    "createdAt": "2025-03-12T13:44:01.988Z",
+    "content": {
+      "sentence": "Cô ấy rất ___ trong những quyết định.",
+      "word": "điên",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "crazy"
+      },
+      "translation": {
+        "en": "She is very crazy in her decisions."
+      },
+      "answer": "điên",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "f707b2e8-d1de-42f7-86b9-b3dc5cbdd4cf",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Điên means crazy — mentally unstable, or acting in a wild / unreasonable way. It can be serious, but very often it’s just exaggeration.\n\nIt describes people, ideas, behavior, or situations. You can also use it playfully for something extreme or intense.\n\nStronger version: điên rồ (more dramatic).  \nSouthern Vietnamese often say khùng with a similar meaning.  \nOpposite: bình thường (normal).",
+  "updatedAt": "2026-03-03T09:44:46.858Z",
+  "notes_md": "**Điên** means *crazy* — mentally unstable, or acting in a wild / unreasonable way. It can be serious, but very often it’s just exaggeration.\n\nIt describes people, ideas, behavior, or situations. You can also use it playfully for something extreme or intense.\n\n\nStronger version: **điên rồ** (more dramatic).  \nSouthern Vietnamese often say **khùng** with a similar meaning.  \nOpposite: **bình thường** (normal).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:44:01.988Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "crazy"
+      },
+      "language": "vi",
+      "word": "điên",
+      "sentence": "Anh ta thật sự ___ khi nói chuyện.",
+      "hint": "d___n",
+      "choices": [
+        "khùng",
+        "điên",
+        "ngớ ngẩn"
+      ],
+      "translation": {
+        "en": "He is really crazy when talking."
+      },
+      "answer": "điên"
+    },
+    "createdAt": "2025-03-12T13:44:01.988Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f04ff41d-edde-4111-8ee1-2779ed71f9ad",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He works all night, everyone says he is crazy.",
+    "I think this idea is a bit crazy but it might succeed.",
+    "If you keep doing that, people will call you crazy."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy nói rằng anh ta điên.",
+      "es": "Ella dice que él está loco.",
+      "en": "She says that he is crazy."
+    },
+    "createdAt": "2025-01-28T11:22:23.313Z",
+    "translations": {
+      "en": "crazy",
+      "vi": "điên",
+      "es": "loco"
+    },
+    "definitions": {
+      "en": "Insane or mentally ill; can also mean very enthusiastic or passionate about something.",
+      "vi": "Điên là trạng thái tâm thần không bình thường; cũng có thể chỉ sự nhiệt tình hoặc đam mê về một điều gì đó.",
+      "es": "Insano o mentalmente enfermo; también puede significar muy entusiasta o apasionado por algo."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "điên",
+  "rank": 1953,
+  "exampleSentences": [
+    "Anh ấy làm việc cả đêm, mọi người nói anh ấy điên.",
+    "Em nghĩ ý tưởng này hơi điên nhưng có thể sẽ thành công.",
+    "Nếu chị tiếp tục làm như vậy, mọi người sẽ gọi chị là điên."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "crazy",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "điên",
+    "buồn",
+    "vui"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "EVAeaQ0FG1tuXzP75cBg"
+}

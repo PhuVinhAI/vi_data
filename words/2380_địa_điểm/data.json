@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:29:44.770Z",
+  "word": "địa điểm",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "40c98206-df91-4aa0-b721-9a60e2bd5e80",
+    "createdAt": "2025-03-12T14:36:13.790Z",
+    "content": {
+      "sentence": "Chúng ta có thể chọn ___ nào đó.",
+      "translatedAnswer": {
+        "en": "location"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We can choose any location."
+      },
+      "answer": "địa điểm",
+      "hint": "đ___m",
+      "word": "địa điểm",
+      "choices": [
+        "địa điểm",
+        "đường phố",
+        "khách sạn"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:36:13.790Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you show me the location of the coffee shop?",
+    "I want to know the location of the birthday party.",
+    "He chose a quiet location to read books on the weekend."
+  ],
+  "rank": 2380,
+  "notes": "Địa điểm means location or place — a specific spot where something happens or exists.  \n\nIt’s a noun. You can say một địa điểm, nhiều địa điểm; common pairings are địa điểm du lịch, địa điểm tổ chức, địa điểm hẹn hò. It sounds a bit more formal than everyday words like chỗ or nơi.  \n\nUse it when talking about events, meetings, trips, or planned activities — not usually for small casual spots (for that, chỗ feels more natural).",
+  "choices": [
+    "địa điểm",
+    "thời gian",
+    "phương tiện"
+  ],
+  "exampleSentences": [
+    "Em có thể chỉ cho anh địa điểm của quán cà phê không?",
+    "Chị muốn biết địa điểm tổ chức buổi tiệc sinh nhật.",
+    "Anh đã chọn một địa điểm yên tĩnh để đọc sách vào cuối tuần."
+  ],
+  "notes_md": "**Địa điểm** means *location* or *place* — a specific spot where something happens or exists.  \n\nIt’s a noun. You can say *một địa điểm*, *nhiều địa điểm*; common pairings are *địa điểm du lịch*, *địa điểm tổ chức*, *địa điểm hẹn hò*. It sounds a bit more formal than everyday words like *chỗ* or *nơi*.  \n\nUse it when talking about events, meetings, trips, or planned activities — not usually for small casual spots (for that, *chỗ* feels more natural).",
+  "flashcard": {
+    "example": {
+      "es": "Necesitamos elegir un buen lugar para la reunión.",
+      "en": "We need to choose a good location for the meeting.",
+      "vi": "Chúng ta cần chọn một địa điểm tốt cho buổi họp."
+    },
+    "definitions": {
+      "es": "Un lugar o ubicación.",
+      "vi": "Một nơi chốn hoặc vị trí.",
+      "en": "A place or location."
+    },
+    "createdAt": "2025-01-28T12:11:53.603Z",
+    "translations": {
+      "en": "location",
+      "vi": "địa điểm",
+      "es": "lugar"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "location",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:36:13.790Z",
+    "id": "4182157d-1d92-4af1-a1cc-3228e3dddf1f",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to find a new location."
+      },
+      "answer": "địa điểm",
+      "word": "địa điểm",
+      "choices": [],
+      "sentence": "Chúng ta cần tìm một ___ mới.",
+      "translatedAnswer": {
+        "en": "location"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:36:13.790Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "R1SZQpfP4TbJNauADzef"
+}

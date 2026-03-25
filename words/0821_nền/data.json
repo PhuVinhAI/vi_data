@@ -1,0 +1,99 @@
+{
+  "rank": 821,
+  "definition": "foundation",
+  "fillBlankQuiz": {
+    "id": "4c39278e-a909-43de-bb3f-1a6a8f4dbe44",
+    "createdAt": "2025-03-12T16:47:15.736Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "answer": "nền",
+      "translation": {
+        "en": "The floor is made of a base."
+      },
+      "translatedAnswer": {
+        "en": "base"
+      },
+      "sentence": "Sàn nhà được làm từ ___.",
+      "word": "nền"
+    },
+    "updatedAt": "2025-03-12T16:47:15.736Z"
+  },
+  "notes_md": "**nền** = foundation, base — the thing that supports or something is built on. It can be physical or abstract.\n\nIt’s a noun. You’ll often see it in fixed pairs like **nền tảng** (foundation/base), **nền nhà** (house floor), **nền kinh tế** (the economy), **nền văn hóa** (a culture), **nền giáo dục** (an education system).  \n\nFor abstract ideas, it usually doesn’t need a classifier; you just say *nền + noun*.  \n\n**Nền tảng** is a very close synonym and extremely common — think “core base” or “platform.”",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nền",
+  "exampleSentencesTranslated": [
+    "He is building a strong foundation for his future.",
+    "To study well, you need to have a basic foundation of knowledge.",
+    "They chose a special type of brick for the foundation of the house."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nền",
+    "mái",
+    "tường"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:47:15.736Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "99ff3652-b06f-4cfa-a3c6-7155ba4e288e",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "The floor is made of a base."
+      },
+      "answer": "nền",
+      "choices": [
+        "tường",
+        "nền",
+        "trần"
+      ],
+      "translatedAnswer": {
+        "en": "base"
+      },
+      "sentence": "Sàn nhà được làm từ ___.",
+      "hint": "n__n",
+      "word": "nền"
+    },
+    "updatedAt": "2025-03-12T16:47:15.736Z"
+  },
+  "exampleSentences": [
+    "Anh đang xây dựng một nền vững chắc cho tương lai của mình.",
+    "Để học tốt, em cần có một nền kiến thức cơ bản.",
+    "Họ đã chọn loại gạch đặc biệt cho nền của ngôi nhà."
+  ],
+  "updatedAt": "2026-03-03T07:43:41.714Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:18:05.071Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "La superficie de una habitación o área por la que se camina.",
+      "en": "The surface of a room or area that is walked on.",
+      "vi": "Bề mặt của một căn phòng hoặc khu vực mà người ta đi lại."
+    },
+    "example": {
+      "vi": "Tôi đã quét nền nhà.",
+      "es": "Barrí el suelo.",
+      "en": "I swept the floor."
+    },
+    "translations": {
+      "vi": "nền",
+      "en": "floor",
+      "es": "suelo"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nền = foundation, base — the thing that supports or something is built on. It can be physical or abstract.\n\nIt’s a noun. You’ll often see it in fixed pairs like nền tảng (foundation/base), nền nhà (house floor), nền kinh tế (the economy), nền văn hóa (a culture), nền giáo dục (an education system).  \n\nFor abstract ideas, it usually doesn’t need a classifier; you just say nền + noun.  \n\nNền tảng is a very close synonym and extremely common — think “core base” or “platform.”",
+  "_id": "yM06Njhnvr2mpF8UqIZv"
+}

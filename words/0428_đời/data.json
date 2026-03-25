@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "1724fc33-fadc-47b4-a0da-64036a957c66",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I want to understand about life."
+      },
+      "answer": "đời",
+      "choices": [
+        "trời",
+        "đời",
+        "đường"
+      ],
+      "hint": "đ___",
+      "language": "vi",
+      "sentence": "Tôi muốn hiểu về ___.",
+      "word": "đời",
+      "translatedAnswer": {
+        "en": "life"
+      }
+    },
+    "createdAt": "2025-03-12T13:46:40.409Z",
+    "updatedAt": "2025-03-12T13:46:40.409Z"
+  },
+  "notes_md": "**Đời** means *life* — your whole lifetime or a person’s life as a journey.\n\nIt’s a noun. You often see it in fixed pairs like **cuộc đời** (a life, one’s life story) or **đời người** (human life). You can say **một đời**, **cả đời** to talk about the length of someone’s life.\n\nIt can also mean a *generation* or “era” in some contexts (like different “đời” in a family or product line).\n\nStrong synonym to remember: **cuộc đời** (very close in meaning); **kiếp** is more emotional/spiritual, like “fate” or “a lifetime” in a karmic sense.",
+  "exampleSentencesTranslated": [
+    "He always tries to live a meaningful and happy life.",
+    "Sometimes life is not what we want.",
+    "Everyone has a different perspective on life."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Life is a long journey.",
+      "es": "La vida es un largo viaje.",
+      "vi": "Cuộc đời là một hành trình dài."
+    },
+    "createdAt": "2025-01-28T11:25:12.029Z",
+    "translations": {
+      "vi": "đời",
+      "es": "vida",
+      "en": "life"
+    },
+    "definitions": {
+      "es": "El período de tiempo durante el cual una persona vive.",
+      "vi": "Thời gian mà một người sống.",
+      "en": "The period of time during which a person lives."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "bed43f55-536a-410a-9b7c-29d4b00fc182",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Cuộc ___ này rất đáng sống.",
+      "word": "đời",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "life"
+      },
+      "translation": {
+        "en": "This life is very worth living."
+      },
+      "answer": "đời",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:46:40.409Z",
+    "updatedAt": "2025-03-12T13:46:40.409Z"
+  },
+  "notes": "Đời means life — your whole lifetime or a person’s life as a journey.\n\nIt’s a noun. You often see it in fixed pairs like cuộc đời (a life, one’s life story) or đời người (human life). You can say một đời, cả đời to talk about the length of someone’s life.\n\nIt can also mean a generation or “era” in some contexts (like different “đời” in a family or product line).\n\nStrong synonym to remember: cuộc đời (very close in meaning); kiếp is more emotional/spiritual, like “fate” or “a lifetime” in a karmic sense.",
+  "updatedAt": "2026-03-03T07:05:06.640Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "life",
+  "word": "đời",
+  "rank": 428,
+  "exampleSentences": [
+    "Anh luôn cố gắng sống một đời ý nghĩa và hạnh phúc.",
+    "Đôi khi đời không như những gì chúng ta mong muốn.",
+    "Mỗi người có một cách nhìn riêng về đời."
+  ],
+  "choices": [
+    "đời",
+    "lời",
+    "trời"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "FBvpEYebGvLV7tORQXOP"
+}

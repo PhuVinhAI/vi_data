@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Necesito cortarme el cabello.",
+      "vi": "Tôi cần cắt tóc.",
+      "en": "I need to cut my hair."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El cabello en la cabeza.",
+      "vi": "Tóc trên đầu.",
+      "en": "The hair on the head."
+    },
+    "translations": {
+      "en": "hair",
+      "es": "cabello",
+      "vi": "tóc"
+    },
+    "createdAt": "2025-01-28T11:40:02.673Z"
+  },
+  "exampleSentences": [
+    "Chị muốn cắt tóc ngắn hơn vào mùa hè này.",
+    "Em thấy tóc của anh hôm nay trông rất đẹp.",
+    "Mỗi sáng mẹ đều giúp bé chải tóc trước khi đi học."
+  ],
+  "rank": 988,
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:02:08.559Z",
+    "createdAt": "2025-03-12T14:02:08.559Z",
+    "id": "47da00b8-b667-4266-9b38-f5f0e076cfd0",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "tóc",
+      "sentence": "Tôi thích ___ dài.",
+      "translation": {
+        "en": "I like long hair."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "hair"
+      },
+      "answer": "tóc"
+    }
+  },
+  "definition": "hair",
+  "updatedAt": "2026-03-03T08:01:14.429Z",
+  "choices": [
+    "tóc",
+    "mắt",
+    "tai"
+  ],
+  "notes": "tóc means hair (the hair on your head). It’s an uncountable noun in general, but you can count strands with sợi tóc (a strand of hair).\n\nCommon pairings: cắt tóc (cut hair), nhuộm tóc (dye hair), uốn tóc (curl hair), chải tóc (comb hair).  \nTo describe it, add adjectives after: tóc dài/ngắn, tóc đen/vàng, tóc thẳng/xoăn.\n\nYou’ll also hear mái tóc for a whole head of hair (a bit more expressive), and tóc tai when talking about someone’s hair in a general or slightly messy way.",
+  "exampleSentencesTranslated": [
+    "I want to cut my hair shorter this summer.",
+    "I think your hair looks very nice today.",
+    "Every morning, mom helps the child brush their hair before going to school."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tóc** means **hair** (the hair on your head). It’s an uncountable noun in general, but you can count strands with **sợi tóc** (a strand of hair).\n\nCommon pairings: **cắt tóc** (cut hair), **nhuộm tóc** (dye hair), **uốn tóc** (curl hair), **chải tóc** (comb hair).  \nTo describe it, add adjectives after: **tóc dài/ngắn**, **tóc đen/vàng**, **tóc thẳng/xoăn**.\n\nYou’ll also hear **mái tóc** for a whole head of hair (a bit more expressive), and **tóc tai** when talking about someone’s hair in a general or slightly messy way.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tóc",
+  "multiChoiceQuiz": {
+    "id": "d5651797-44f0-4b14-a004-c8593e2fd356",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "t__",
+      "word": "tóc",
+      "sentence": "Cô ấy có ___ đẹp.",
+      "translation": {
+        "en": "She has beautiful hair."
+      },
+      "choices": [
+        "tóc",
+        "mắt",
+        "miệng"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "hair"
+      },
+      "answer": "tóc"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:02:08.559Z",
+    "createdAt": "2025-03-12T14:02:08.559Z"
+  },
+  "_id": "JFflZGBmXtvO9uFe0HcF"
+}

@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Bạn có ___ biết điều đó.",
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "translation": {
+        "en": "Do you really know that?"
+      },
+      "choices": [],
+      "word": "thật sự",
+      "answer": "thật sự",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:09:21.759Z",
+    "createdAt": "2025-03-12T16:09:21.759Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "3a0e1bf0-9af4-4641-b9be-495522ff8259"
+  },
+  "word": "thật sự",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "thật sự",
+      "answer": "thật sự",
+      "language": "vi",
+      "choices": [
+        "chắc chắn",
+        "thật sự",
+        "không chắc"
+      ],
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "translation": {
+        "en": "Do you really know that?"
+      },
+      "hint": "th___y",
+      "sentence": "Bạn có ___ biết điều đó."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:09:21.759Z",
+    "createdAt": "2025-03-12T16:09:21.759Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "058b5e2e-a328-4625-8c9e-b17655a5c66e"
+  },
+  "definition": "really",
+  "rank": 269,
+  "notes_md": "**thật sự** = really, truly. It shows something is genuine, sincere, or stronger than expected.\n\nIt’s an adverb, usually placed before a verb or adjective to add emphasis.  \n\nIt often highlights real feelings or reality, not just appearance.  \nClose word: **thực sự** (same meaning, slightly more formal).  \nCompare with **rất** (very) — *rất* is about degree; *thật sự* is about sincerity or truth.",
+  "updatedAt": "2026-03-03T06:48:12.338Z",
+  "exampleSentencesTranslated": [
+    "I really want to know how you feel about this.",
+    "I was really surprised to receive a birthday gift from my friend.",
+    "I don't really understand today's lesson so I will ask the teacher again."
+  ],
+  "exampleSentences": [
+    "Anh thật sự muốn biết em cảm thấy như thế nào về chuyện này.",
+    "Chị thật sự ngạc nhiên khi nhận được món quà sinh nhật từ bạn.",
+    "Em không thật sự hiểu bài giảng hôm nay nên sẽ hỏi lại thầy."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "thật sự",
+    "thường xuyên",
+    "ngay lập tức"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "really; truly; actually"
+    },
+    "example": {
+      "en": "I really like this dish.",
+      "vi": "Tôi thật sự rất thích món ăn này."
+    },
+    "word": "thật sự",
+    "createdAt": "2025-05-24T16:33:45.814Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Used to express that something is true, genuine, or sincere.",
+      "vi": "Diễn tả điều gì đó là đúng, chân thành hoặc thực tế, không giả dối."
+    }
+  },
+  "notes": "thật sự = really, truly. It shows something is genuine, sincere, or stronger than expected.\n\nIt’s an adverb, usually placed before a verb or adjective to add emphasis.  \n\nIt often highlights real feelings or reality, not just appearance.  \nClose word: thực sự (same meaning, slightly more formal).  \nCompare with rất (very) — rất is about degree; thật sự is about sincerity or truth.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "omI2KrnfX18fYsPwuiNd"
+}

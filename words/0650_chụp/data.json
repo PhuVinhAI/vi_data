@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "take",
+      "vi": "chụp",
+      "es": "tomar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:10:38.815Z",
+    "definitions": {
+      "en": "To take or capture (a photo or image).",
+      "es": "Tomar o capturar (una foto o imagen).",
+      "vi": "Lấy hoặc ghi lại (một bức ảnh hoặc hình ảnh)."
+    },
+    "example": {
+      "es": "Voy a tomar una foto hermosa.",
+      "vi": "Tôi sẽ chụp một bức ảnh đẹp.",
+      "en": "I will take a beautiful photo."
+    }
+  },
+  "definition": "take a photo",
+  "exampleSentencesTranslated": [
+    "Can you take a photo of me?",
+    "She often takes a photo of beautiful scenery whenever she travels.",
+    "My friends like to ask me to take a photo when we hang out together."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:36:34.985Z",
+    "type": "fillBlankQuiz",
+    "id": "0987209f-f42b-479a-a2ea-ca7117ffeb2b",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:36:34.985Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "take"
+      },
+      "translation": {
+        "en": "I want to take a beautiful photo."
+      },
+      "answer": "chụp",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi muốn ___ bức ảnh đẹp.",
+      "word": "chụp"
+    }
+  },
+  "updatedAt": "2026-03-03T07:26:46.737Z",
+  "exampleSentences": [
+    "Anh có thể chụp cho em một tấm hình được không?",
+    "Chị thường chụp cảnh đẹp mỗi khi đi du lịch.",
+    "Bạn bè thích nhờ em chụp khi tụi mình đi chơi cùng nhau."
+  ],
+  "notes": "Chụp usually means to take a photo. It’s the everyday verb for using a camera or phone.\n\nYou’ll often hear chụp ảnh or chụp hình (both = take a picture). You can also say chụp màn hình (take a screenshot) or chụp lén (take a sneaky photo).\n\nLess common but useful: chụp lấy can mean “grab quickly” (like catching something fast), which helps you remember the quick, sudden feeling of the word.",
+  "notes_md": "**Chụp** usually means *to take a photo*. It’s the everyday verb for using a camera or phone.\n\nYou’ll often hear **chụp ảnh** or **chụp hình** (both = take a picture). You can also say **chụp màn hình** (take a screenshot) or **chụp lén** (take a sneaky photo).\n\n\nLess common but useful: **chụp lấy** can mean “grab quickly” (like catching something fast), which helps you remember the quick, sudden feeling of the word.",
+  "rank": 650,
+  "choices": [
+    "vẽ",
+    "chụp",
+    "mở"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "9a5b38ca-a419-4736-b4b1-855d249c40e6",
+    "content": {
+      "translatedAnswer": {
+        "en": "take"
+      },
+      "translation": {
+        "en": "I want to take a beautiful photo."
+      },
+      "hint": "c___p",
+      "answer": "chụp",
+      "choices": [
+        "nhìn",
+        "chụp",
+        "vẽ"
+      ],
+      "language": "vi",
+      "sentence": "Tôi muốn ___ bức ảnh đẹp.",
+      "word": "chụp"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:36:34.985Z",
+    "updatedAt": "2025-03-12T15:36:34.985Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "chụp",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "gICWZc7IkIxRG8eEDzN5"
+}

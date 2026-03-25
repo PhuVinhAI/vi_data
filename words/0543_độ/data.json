@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "độ",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "degrees"
+      },
+      "answer": "độ",
+      "hint": "đ___",
+      "word": "độ",
+      "sentence": "Nhiệt ___ hôm nay là 30.",
+      "translation": {
+        "en": "The temperature today is 30 degrees."
+      },
+      "language": "vi",
+      "choices": [
+        "độ",
+        "cấp",
+        "bậc"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "e518a519-cd4a-44c3-a9ca-baec7e4135c4",
+    "createdAt": "2025-03-12T17:18:21.422Z",
+    "updatedAt": "2025-03-12T17:18:21.422Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**độ** means **degree** — usually for temperature or angles. It’s a noun.\n\nYou put a **number before độ** when talking about temperature or measurement.  \n\nIt can also mean **“about / roughly”** when talking about age, time, or amount.  \n\nAnother common meaning is **level / extent** of something (like mức độ = level/degree).",
+  "updatedAt": "2026-03-03T07:16:28.858Z",
+  "choices": [
+    "độ",
+    "đầu",
+    "đậu"
+  ],
+  "exampleSentencesTranslated": [
+    "The temperature today is thirty-five degrees so it is very hot.",
+    "Do you know that the boiling point of water is one hundred degrees?",
+    "The doctor said I have a mild fever because my body temperature is thirty-eight degrees."
+  ],
+  "notes": "độ means degree — usually for temperature or angles. It’s a noun.\n\nYou put a number before độ when talking about temperature or measurement.  \n\nIt can also mean “about / roughly” when talking about age, time, or amount.  \n\nAnother common meaning is level / extent of something (like mức độ = level/degree).",
+  "fillBlankQuiz": {
+    "id": "038744e8-2295-45bd-a305-4720c91f7cef",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "The temperature today is 30 degrees."
+      },
+      "sentence": "Nhiệt ___ hôm nay là 30.",
+      "word": "độ",
+      "answer": "độ",
+      "translatedAnswer": {
+        "en": "degrees"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T17:18:21.422Z",
+    "createdAt": "2025-03-12T17:18:21.422Z"
+  },
+  "definition": "degree",
+  "rank": 543,
+  "exampleSentences": [
+    "Nhiệt độ hôm nay là ba mươi lăm độ nên trời rất nóng.",
+    "Anh có biết điểm sôi của nước là một trăm độ không?",
+    "Bác sĩ nói em bị sốt nhẹ vì nhiệt độ cơ thể là ba mươi tám độ."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "La temperatura de hoy es muy alta.",
+      "vi": "Nhiệt độ hôm nay rất cao.",
+      "en": "The temperature today is very high."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:50:55.163Z",
+    "translations": {
+      "vi": "độ",
+      "es": "grado",
+      "en": "degree"
+    },
+    "definitions": {
+      "en": "A measure of the intensity of heat or cold.",
+      "es": "Una medida de la intensidad del calor o del frío.",
+      "vi": "Một thước đo cường độ của nhiệt hoặc lạnh."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Lbk9Cu74ATcvaFOB8WFw"
+}

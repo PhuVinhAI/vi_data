@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:26:22.106Z",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng ta cần ___ trong cuộc sống.",
+      "answer": "tự do",
+      "choices": [],
+      "translation": {
+        "en": "We need freedom in life."
+      },
+      "word": "tự do",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "freedom"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "c4c551aa-ef62-4d0e-8a33-f7bb55db3849",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T12:52:04.686Z",
+    "updatedAt": "2025-03-12T12:52:04.686Z"
+  },
+  "notes_md": "**tự do** = freedom, being free to choose or act. It’s the general idea of not being controlled or limited.\n\nIt’s a **noun**, so you often use it after verbs like *có, được, mất, tìm kiếm, bảo vệ*.  \n\nCommon pairings: *tự do cá nhân* (personal freedom), *tự do ngôn luận* (freedom of speech), *quyền tự do* (the right to freedom).  \n\nOpposite idea: *bị kiểm soát*, *bị ràng buộc* (controlled, restricted).",
+  "exampleSentencesTranslated": [
+    "After work, I want to have some freedom to relax.",
+    "Many people dream of traveling everywhere with freedom.",
+    "I feel very happy when I have the freedom to choose my career."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tự do",
+    "thành công",
+    "an toàn"
+  ],
+  "notes": "tự do = freedom, being free to choose or act. It’s the general idea of not being controlled or limited.\n\nIt’s a noun, so you often use it after verbs like có, được, mất, tìm kiếm, bảo vệ.  \n\nCommon pairings: tự do cá nhân (personal freedom), tự do ngôn luận (freedom of speech), quyền tự do (the right to freedom).  \n\nOpposite idea: bị kiểm soát, bị ràng buộc (controlled, restricted).",
+  "word": "tự do",
+  "rank": 645,
+  "definition": "freedom",
+  "flashcard": {
+    "definitions": {
+      "es": "El estado de ser libre; ausencia de necesidad, coerción o restricción en la elección o acción.",
+      "vi": "Trạng thái tự do; không có sự cần thiết, cưỡng chế hoặc ràng buộc trong sự lựa chọn hoặc hành động.",
+      "en": "The state of being free; absence of necessity, coercion, or constraint in choice or action."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:36:16.535Z",
+    "example": {
+      "en": "I want to live in a free country.",
+      "vi": "Tôi muốn sống trong một đất nước tự do.",
+      "es": "Quiero vivir en un país libre."
+    },
+    "translations": {
+      "en": "free",
+      "vi": "tự do",
+      "es": "libre"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:52:04.686Z",
+    "updatedAt": "2025-03-12T12:52:04.686Z",
+    "content": {
+      "hint": "t___o",
+      "word": "tự do",
+      "translatedAnswer": {
+        "en": "free"
+      },
+      "language": "vi",
+      "choices": [
+        "tự do",
+        "bình đẳng",
+        "hạnh phúc"
+      ],
+      "translation": {
+        "en": "Everyone wants to be free."
+      },
+      "answer": "tự do",
+      "sentence": "Mọi người đều muốn được ___."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "77b3de9d-e80f-4339-aae5-db189edcb64b",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sau giờ làm việc, anh muốn có thời gian tự do để nghỉ ngơi.",
+    "Nhiều người mơ ước được đi du lịch khắp nơi với tự do.",
+    "Em cảm thấy rất hạnh phúc khi có tự do lựa chọn nghề nghiệp."
+  ],
+  "_id": "0ny7zbypZHAReEwbhTyA"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "She wants to order this dish for dinner tonight.",
+    "He ordered a new shirt online yesterday.",
+    "Can you help me order English books?"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:37:16.062Z",
+    "example": {
+      "es": "Quiero hacer un pedido de una camisa nueva.",
+      "vi": "Tôi muốn đặt hàng một chiếc áo mới.",
+      "en": "I want to place an order for a new shirt."
+    },
+    "translations": {
+      "es": "hacer un pedido",
+      "vi": "đặt hàng",
+      "en": "place an order"
+    },
+    "definitions": {
+      "es": "Solicitar un producto o servicio para que sea entregado o proporcionado.",
+      "vi": "Yêu cầu một sản phẩm hoặc dịch vụ được giao hoặc cung cấp.",
+      "en": "To request a product or service to be delivered or provided."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:59:16.595Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "place an order"
+      },
+      "word": "đặt hàng",
+      "sentence": "Bạn có muốn ___ không?",
+      "language": "vi",
+      "hint": "đ___ h___",
+      "choices": [
+        "đặt hàng",
+        "mua sắm",
+        "giao hàng"
+      ],
+      "translation": {
+        "en": "Do you want to place an order?"
+      },
+      "answer": "đặt hàng"
+    },
+    "updatedAt": "2025-03-12T13:59:16.595Z",
+    "id": "f3ead20a-e868-45b0-ad1d-736e6d3df457",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**đặt hàng** = to order something (food, products, services) so it will be prepared or delivered to you.\n\nIt’s a verb phrase used for ordering online, by phone, or in advance. You can đặt hàng clothes, food, tickets, furniture, etc. Often used with words like online, qua mạng (online), trước (in advance), or giao hàng (delivery).\n\n\nFor food at a restaurant, **gọi món** is more natural. For pre-order specifically, people also say **đặt trước**.",
+  "updatedAt": "2026-03-03T18:08:00.053Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "1f087245-56c6-484e-92db-83ec83e5bc80",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:59:16.595Z",
+    "createdAt": "2025-03-12T13:59:16.595Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to place an order for this item."
+      },
+      "answer": "đặt hàng",
+      "translatedAnswer": {
+        "en": "place an order"
+      },
+      "language": "vi",
+      "word": "đặt hàng",
+      "sentence": "Tôi muốn ___ món hàng này."
+    }
+  },
+  "notes": "đặt hàng = to order something (food, products, services) so it will be prepared or delivered to you.\n\nIt’s a verb phrase used for ordering online, by phone, or in advance. You can đặt hàng clothes, food, tickets, furniture, etc. Often used with words like online, qua mạng (online), trước (in advance), or giao hàng (delivery).\n\nFor food at a restaurant, gọi món is more natural. For pre-order specifically, people also say đặt trước.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "order",
+  "exampleSentences": [
+    "Chị muốn đặt hàng món ăn này cho bữa tối nay.",
+    "Anh đã đặt hàng một chiếc áo mới trên mạng hôm qua.",
+    "Em có thể giúp anh đặt hàng sách tiếng Anh không?"
+  ],
+  "rank": 2878,
+  "word": "đặt hàng",
+  "choices": [
+    "mua hàng",
+    "đặt hàng",
+    "giao hàng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Idk4n9YUcsroW7FsdXmS"
+}

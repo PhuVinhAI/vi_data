@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "60a0d944-0cfe-4567-acd5-04a4ca2f93d2",
+    "content": {
+      "word": "tiệm",
+      "language": "vi",
+      "hint": "t___m",
+      "answer": "tiệm",
+      "sentence": "Tôi thường đến ___ để mua bánh.",
+      "translation": {
+        "en": "I often go to the shop to buy cakes."
+      },
+      "translatedAnswer": {
+        "en": "shop"
+      },
+      "choices": [
+        "quán",
+        "tiệm",
+        "cửa hàng"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:51:53.234Z",
+    "createdAt": "2025-03-12T14:51:53.234Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "tiệm",
+  "exampleSentences": [
+    "Chị thường đi tiệm gần nhà để mua trái cây tươi.",
+    "Anh sẽ gặp em ở tiệm lúc bảy giờ tối nay nhé.",
+    "Em thích khám phá những tiệm nhỏ ở trung tâm thành phố."
+  ],
+  "notes": "tiệm means shop or small store. It’s a place where you buy things or get simple services.\n\nIt’s a noun. Use it with classifiers like một tiệm, hai tiệm. Common pairings: tiệm tạp hóa (grocery shop), tiệm thuốc (pharmacy), tiệm bánh (bakery), tiệm cắt tóc (barbershop).\n\nCompared to cửa hàng, tiệm often feels smaller or more local. For food/drink places, Vietnamese often uses quán instead, which helps you sound more natural.",
+  "choices": [
+    "tiệm",
+    "bàn",
+    "trường"
+  ],
+  "rank": 1957,
+  "notes_md": "**tiệm** means *shop* or *small store*. It’s a place where you buy things or get simple services.\n\nIt’s a noun. Use it with classifiers like **một tiệm**, **hai tiệm**. Common pairings: **tiệm tạp hóa** (grocery shop), **tiệm thuốc** (pharmacy), **tiệm bánh** (bakery), **tiệm cắt tóc** (barbershop).\n\nCompared to **cửa hàng**, *tiệm* often feels smaller or more local. For food/drink places, Vietnamese often uses **quán** instead, which helps you sound more natural.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "shop",
+  "exampleSentencesTranslated": [
+    "She often goes to the shop near her house to buy fresh fruit.",
+    "I will meet you at the shop at seven o'clock tonight.",
+    "I like exploring small shops in the city center."
+  ],
+  "updatedAt": "2026-03-03T09:45:11.894Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "8c81bb65-7848-424b-a32a-2f6671007d53",
+    "createdAt": "2025-03-12T14:51:53.234Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I want to go to the shop for dinner."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "shop"
+      },
+      "answer": "tiệm",
+      "language": "vi",
+      "word": "tiệm",
+      "sentence": "Tôi muốn đến ___ ăn tối."
+    },
+    "updatedAt": "2025-03-12T14:51:53.234Z"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T12:25:24.408Z",
+    "definitions": {
+      "en": "A shop or store where goods are sold.",
+      "es": "Una tienda o establecimiento donde se venden bienes.",
+      "vi": "Một cửa hàng hoặc nơi bán hàng hóa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "shop",
+      "es": "tienda",
+      "vi": "tiệm"
+    },
+    "example": {
+      "en": "I will go to the shop to buy something.",
+      "es": "Voy a ir a la tienda a comprar algo.",
+      "vi": "Tôi sẽ đến tiệm mua sắm."
+    }
+  },
+  "_id": "UUT5nrbz0yxwUCg8XBaB"
+}

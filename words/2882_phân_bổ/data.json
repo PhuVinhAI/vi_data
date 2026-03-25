@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "phân bổ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:17:20.661Z",
+    "type": "multiChoiceQuiz",
+    "id": "ab2427ac-e2cc-4c77-8ad3-9292826fe738",
+    "createdAt": "2025-03-12T15:17:20.661Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "They will allocate the budget for the project."
+      },
+      "translatedAnswer": {
+        "en": "allocate"
+      },
+      "hint": "p___l",
+      "answer": "phân bổ",
+      "choices": [
+        "phân bổ",
+        "tăng cường",
+        "giảm bớt"
+      ],
+      "word": "phân bổ",
+      "language": "vi",
+      "sentence": "Họ sẽ ___ ngân sách cho dự án."
+    }
+  },
+  "notes_md": "**phân bổ** = to allocate or distribute something in a planned, balanced way. It’s about dividing resources so each part gets a suitable share.\n\nIt’s a verb, usually used with things like *ngân sách* (budget), *thời gian* (time), *nguồn lực* (resources), *nhân sự* (staff). It sounds more formal and strategic than just *chia*.\n\n\nClose to *phân chia* or *phân phối*, but *phân bổ* focuses more on planning and balance, not just handing things out.",
+  "choices": [
+    "phân bổ",
+    "hoàn thành",
+    "giải thích"
+  ],
+  "rank": 2882,
+  "notes": "phân bổ = to allocate or distribute something in a planned, balanced way. It’s about dividing resources so each part gets a suitable share.\n\nIt’s a verb, usually used with things like ngân sách (budget), thời gian (time), nguồn lực (resources), nhân sự (staff). It sounds more formal and strategic than just chia.\n\nClose to phân chia or phân phối, but phân bổ focuses more on planning and balance, not just handing things out.",
+  "updatedAt": "2026-03-03T18:08:26.756Z",
+  "exampleSentences": [
+    "Em sẽ phân bổ thời gian học đều cho các môn khác nhau.",
+    "Công ty cần phân bổ ngân sách hợp lý cho từng dự án.",
+    "Anh ấy biết cách phân bổ công việc cho các thành viên trong nhóm."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "8a855740-7967-45ec-9e11-e2f250522842",
+    "content": {
+      "word": "phân bổ",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ nguồn lực.",
+      "choices": [],
+      "answer": "phân bổ",
+      "translation": {
+        "en": "We need to allocate resources."
+      },
+      "translatedAnswer": {
+        "en": "allocate"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:17:20.661Z",
+    "updatedAt": "2025-03-12T15:17:20.661Z"
+  },
+  "exampleSentencesTranslated": [
+    "I will allocate study time evenly for different subjects.",
+    "The company needs to allocate the budget appropriately for each project.",
+    "He knows how to allocate tasks to the members in the group."
+  ],
+  "definition": "allocate",
+  "flashcard": {
+    "translations": {
+      "vi": "phân bổ",
+      "es": "asignar",
+      "en": "allocate"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:52:02.761Z",
+    "definitions": {
+      "es": "Distribuir o asignar recursos o responsabilidades.",
+      "vi": "Phân chia hoặc phân bổ tài nguyên hoặc trách nhiệm.",
+      "en": "To distribute or allocate resources or responsibilities."
+    },
+    "example": {
+      "es": "Necesitamos asignar el presupuesto para diferentes proyectos.",
+      "vi": "Chúng ta cần phân bổ ngân sách cho các dự án khác nhau.",
+      "en": "We need to allocate the budget for different projects."
+    }
+  },
+  "_id": "bUHCiIYUm1pZany4KK8c"
+}

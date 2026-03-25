@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ôm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:13:38.388Z",
+    "updatedAt": "2025-03-12T14:13:38.388Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "hug"
+      },
+      "answer": "ôm",
+      "hint": "ô__",
+      "word": "ôm",
+      "sentence": "Tôi muốn ___ người bạn của mình.",
+      "translation": {
+        "en": "I want to hug my friend."
+      },
+      "language": "vi",
+      "choices": [
+        "nắm",
+        "ôm",
+        "cầm"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "5ce89428-9e19-4a5b-bdde-0d66e964966d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ôm** = to hug someone with your arms. It’s also used for holding something close to your body.\n\nYou use it for people and for objects you carry against your chest (like a child, a pillow, a bag). It often goes with words like **ôm chặt** (hug tightly) or **ôm lấy** (grab and hug).\n\nIt can also mean “to hold onto” emotionally, like keeping feelings or dreams close (less physical, more abstract).",
+  "updatedAt": "2026-03-03T09:02:23.118Z",
+  "choices": [
+    "ôm",
+    "hát",
+    "cười"
+  ],
+  "notes": "ôm = to hug someone with your arms. It’s also used for holding something close to your body.\n\nYou use it for people and for objects you carry against your chest (like a child, a pillow, a bag). It often goes with words like ôm chặt (hug tightly) or ôm lấy (grab and hug).\n\nIt can also mean “to hold onto” emotionally, like keeping feelings or dreams close (less physical, more abstract).",
+  "exampleSentencesTranslated": [
+    "I really want to hug my mom after a long tiring day.",
+    "When he met his best friend again, he ran over and gave a big hug.",
+    "Before going far away, she usually gives her younger sister a hug to say goodbye."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi muốn ___ người bạn của mình.",
+      "word": "ôm",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I want to hug my friend."
+      },
+      "answer": "ôm",
+      "translatedAnswer": {
+        "en": "hug"
+      }
+    },
+    "id": "5ca3f001-f345-4c4a-b3d9-5e786e868d4c",
+    "createdAt": "2025-03-12T14:13:38.388Z",
+    "updatedAt": "2025-03-12T14:13:38.388Z"
+  },
+  "definition": "hug",
+  "rank": 1553,
+  "exampleSentences": [
+    "Em rất muốn được ôm mẹ sau một ngày dài mệt mỏi.",
+    "Khi gặp lại bạn thân, anh ấy đã chạy đến và ôm thật chặt.",
+    "Trước khi đi xa, chị thường ôm em gái để tạm biệt."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:50:47.168Z",
+    "definitions": {
+      "en": "To hold someone or something tightly in one's arms.",
+      "vi": "Ôm ai đó hoặc cái gì đó chặt trong vòng tay.",
+      "es": "Sostener a alguien o algo fuertemente en los brazos."
+    },
+    "translations": {
+      "en": "hug",
+      "vi": "ôm",
+      "es": "abrazar"
+    },
+    "example": {
+      "en": "I hug my cat.",
+      "vi": "Tôi ôm con mèo của mình.",
+      "es": "Yo abrazo a mi gato."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "LVEDSqMcXO7Dd0gN9ipZ"
+}

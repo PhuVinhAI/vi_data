@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "duy nhất",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:22:08.813Z",
+    "content": {
+      "answer": "duy nhất",
+      "hint": "d___ nhất",
+      "translation": {
+        "en": "This is my unique product."
+      },
+      "translatedAnswer": {
+        "en": "unique"
+      },
+      "word": "duy nhất",
+      "sentence": "Đây là ___ sản phẩm của tôi.",
+      "language": "vi",
+      "choices": [
+        "duy nhất",
+        "đặc biệt",
+        "khác biệt"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:08.813Z",
+    "id": "db98c3d6-73dc-434c-bcf7-0167df2c9443",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "duy nhất",
+    "nhiều nhất",
+    "thường xuyên"
+  ],
+  "rank": 915,
+  "notes_md": "**duy nhất** = only, the one and only. It stresses there is just one, no second option.\n\nIt’s an adjective, placed after the noun it describes: *người duy nhất, cách duy nhất, lý do duy nhất*. Often used to emphasize exclusivity or importance.\n\n\nClose idea: *chỉ* = only (more about limitation in action), but *duy nhất* focuses on “the single one.” Opposite idea: *nhiều* (many) or *khác* (other/different), depending on context.",
+  "notes": "duy nhất = only, the one and only. It stresses there is just one, no second option.\n\nIt’s an adjective, placed after the noun it describes: người duy nhất, cách duy nhất, lý do duy nhất. Often used to emphasize exclusivity or importance.\n\nClose idea: chỉ = only (more about limitation in action), but duy nhất focuses on “the single one.” Opposite idea: nhiều (many) or khác (other/different), depending on context.",
+  "exampleSentences": [
+    "Anh là người duy nhất biết bí mật này trong nhóm.",
+    "Cô ấy là con gái duy nhất trong gia đình của mình.",
+    "Đây là cơ hội duy nhất để em thử sức với công việc mới."
+  ],
+  "updatedAt": "2026-03-03T07:53:33.129Z",
+  "exampleSentencesTranslated": [
+    "You are the only person who knows this secret in the group.",
+    "She is the only daughter in her family.",
+    "This is the only chance for you to try the new job."
+  ],
+  "fillBlankQuiz": {
+    "id": "32ee8f00-3776-4d55-841f-9bbb23d1f49b",
+    "content": {
+      "translation": {
+        "en": "This is my unique product."
+      },
+      "translatedAnswer": {
+        "en": "unique"
+      },
+      "answer": "duy nhất",
+      "choices": [],
+      "word": "duy nhất",
+      "language": "vi",
+      "sentence": "Đây là ___ sản phẩm của tôi."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:08.813Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:22:08.813Z"
+  },
+  "definition": "only",
+  "flashcard": {
+    "example": {
+      "en": "This is my only car.",
+      "es": "Este es mi único coche.",
+      "vi": "Đây là chiếc xe duy nhất của tôi."
+    },
+    "definitions": {
+      "es": "El único; único.",
+      "vi": "Chỉ có một; độc nhất.",
+      "en": "The only one; unique."
+    },
+    "createdAt": "2025-01-28T12:56:58.872Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "duy nhất",
+      "es": "único",
+      "en": "only"
+    }
+  },
+  "_id": "cyQ9VSTuYuWMg3dSQHTc"
+}

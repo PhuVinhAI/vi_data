@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em vừa mới nướng bánh trong lò xong, anh muốn ăn thử không?",
+    "Chị nhớ bật lò trước khi cho pizza vào nướng nhé.",
+    "Mẹ thường dùng lò để hâm nóng thức ăn cho cả nhà."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I turned on the oven to bake the cake.",
+      "es": "Encendí el horno para hornear el pastel.",
+      "vi": "Tôi đã bật lò để nướng bánh."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un electrodoméstico de cocina utilizado para hornear o cocinar alimentos.",
+      "vi": "Một thiết bị nhà bếp được sử dụng để nướng hoặc nấu thức ăn.",
+      "en": "A kitchen appliance used for baking or cooking food."
+    },
+    "translations": {
+      "en": "oven",
+      "es": "horno",
+      "vi": "lò"
+    },
+    "createdAt": "2025-01-28T11:56:13.605Z"
+  },
+  "rank": 2984,
+  "choices": [
+    "bếp",
+    "lò",
+    "nồi"
+  ],
+  "updatedAt": "2026-03-03T18:19:34.817Z",
+  "exampleSentencesTranslated": [
+    "I just baked a cake in the oven, do you want to try?",
+    "Remember to turn on the oven before putting the pizza in.",
+    "Mom often uses the oven to reheat food for the family."
+  ],
+  "notes": "lò means oven — a closed space used for cooking or heating with high heat.  \n\nIt’s a noun, usually used with the classifier cái → cái lò.  \n\nCommon pairings: lò nướng (baking oven), lò vi sóng (microwave), lò than (charcoal stove), lò bánh mì (bread oven).  \n\nIt can also mean a kiln or furnace when talking about pottery, bricks, or metal — same core idea: very high heat inside a closed space.  \n\nThink of lò as “the hot box” for cooking or firing things.",
+  "fillBlankQuiz": {
+    "id": "5d2dc911-dfdf-41b7-933f-f7059d1e461e",
+    "content": {
+      "answer": "lò",
+      "translatedAnswer": {
+        "en": "oven"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I cook in the oven."
+      },
+      "sentence": "Tôi nấu ăn trong ___",
+      "word": "lò"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:19:55.584Z",
+    "createdAt": "2025-03-12T14:19:55.584Z"
+  },
+  "definition": "oven",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lò",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:19:55.584Z",
+    "createdAt": "2025-03-12T14:19:55.584Z",
+    "id": "f9373775-5805-4ca0-9e75-993f9afb769d",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We need a new oven."
+      },
+      "language": "vi",
+      "choices": [
+        "bếp",
+        "lò",
+        "nồi"
+      ],
+      "hint": "l__",
+      "word": "lò",
+      "sentence": "Chúng tôi cần một ___ mới.",
+      "translatedAnswer": {
+        "en": "oven"
+      },
+      "answer": "lò"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**lò** means *oven* — a closed space used for cooking or heating with high heat.  \n\nIt’s a noun, usually used with the classifier **cái** → *cái lò*.  \n\nCommon pairings: **lò nướng** (baking oven), **lò vi sóng** (microwave), **lò than** (charcoal stove), **lò bánh mì** (bread oven).  \n\nIt can also mean a **kiln** or **furnace** when talking about pottery, bricks, or metal — same core idea: very high heat inside a closed space.  \n\nThink of *lò* as “the hot box” for cooking or firing things.",
+  "_id": "N4BIXa4nO9QF2dqrgoap"
+}

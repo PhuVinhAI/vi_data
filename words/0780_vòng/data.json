@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Please draw a perfect circle on this piece of paper.",
+    "We sit in a circle when playing the game.",
+    "He wears a small circle on his wrist."
+  ],
+  "fillBlankQuiz": {
+    "id": "6a3c6696-a917-499b-8b98-4c22a7079e02",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:51:01.507Z",
+    "updatedAt": "2025-03-12T14:51:01.507Z",
+    "content": {
+      "sentence": "Tôi đeo một ___ vàng.",
+      "answer": "vòng",
+      "word": "vòng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "ring"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I wear a gold ring."
+      }
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:39:49.937Z",
+  "flashcard": {
+    "example": {
+      "en": "I wear a beautiful bracelet.",
+      "es": "Llevo una hermosa pulsera.",
+      "vi": "Tôi đeo một chiếc vòng tay đẹp."
+    },
+    "translations": {
+      "en": "ring",
+      "es": "anillo",
+      "vi": "vòng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A circular band, typically made of metal or other material, worn as jewelry.",
+      "es": "Una banda circular, típicamente hecha de metal u otro material, usada como joyería.",
+      "vi": "Một vòng tròn, thường được làm bằng kim loại hoặc vật liệu khác, được đeo như trang sức."
+    },
+    "createdAt": "2025-01-28T12:24:33.965Z"
+  },
+  "notes_md": "**vòng** = circle or round shape. It’s also used for a round/lap in sports or events.\n\nAs a noun, you can count it directly: *một vòng, hai vòng*. It often pairs with words like *vòng tròn* (circle shape), *vòng cổ* (necklace), *vòng tay* (bracelet), *vòng loại* (qualifying round).\n\nIt can describe physical circles or repeated turns in movement or competition.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "circle",
+  "choices": [
+    "vòng",
+    "bàn",
+    "cửa"
+  ],
+  "rank": 780,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:51:01.507Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "ring"
+      },
+      "choices": [
+        "vòng",
+        "dây",
+        "nhẫn"
+      ],
+      "translation": {
+        "en": "She has a beautiful ring."
+      },
+      "sentence": "Cô ấy có một ___ đẹp.",
+      "word": "vòng",
+      "language": "vi",
+      "answer": "vòng",
+      "hint": "v___g"
+    },
+    "updatedAt": "2025-03-12T14:51:01.507Z",
+    "id": "30ebad9c-b3e5-44c8-8fc8-f1f177ae4bab"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "vòng",
+  "exampleSentences": [
+    "Em hãy vẽ một vòng thật tròn trên tờ giấy này.",
+    "Chúng ta ngồi thành một vòng khi chơi trò chơi.",
+    "Anh đeo một chiếc vòng nhỏ trên cổ tay."
+  ],
+  "notes": "vòng = circle or round shape. It’s also used for a round/lap in sports or events.\n\nAs a noun, you can count it directly: một vòng, hai vòng. It often pairs with words like vòng tròn (circle shape), vòng cổ (necklace), vòng tay (bracelet), vòng loại (qualifying round).\n\nIt can describe physical circles or repeated turns in movement or competition.",
+  "_id": "UJgK3ZUEvf4rEJcyojE3"
+}

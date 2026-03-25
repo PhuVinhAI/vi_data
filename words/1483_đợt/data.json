@@ -1,0 +1,99 @@
+{
+  "definition": "round",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đợt",
+  "exampleSentences": [
+    "Anh vừa hoàn thành xong một đợt kiểm tra sức khỏe ở bệnh viện.",
+    "Chị sẽ đi công tác trong đợt tiếp theo cùng với đồng nghiệp.",
+    "Đợt lạnh này kéo dài lâu hơn dự kiến nên em phải mặc ấm hơn."
+  ],
+  "rank": 1483,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đợt",
+    "đặt",
+    "đột"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đợt** = a *round, wave, or batch* of something that happens over a period of time. It’s used when events come in phases, not just once.\n\nIt’s a **noun**. Use it with **một đợt / hai đợt…** + activity or event (thi, kiểm tra, khuyến mãi, dịch, gió, mưa).  \n\nThink of it like a “wave” or “phase” of something happening, often to many people at once.  \n\nClose in meaning to **làn sóng** (wave), but **đợt** is more practical and neutral; **lần** is just “one time,” while **đợt** suggests a whole period or campaign.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:56:33.907Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "batch"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta có ___ mới vào tuần tới.",
+      "word": "đợt",
+      "hint": "đ___t",
+      "choices": [
+        "đợt",
+        "dòng",
+        "thời gian"
+      ],
+      "answer": "đợt",
+      "translation": {
+        "en": "We have a new batch coming next week."
+      }
+    },
+    "updatedAt": "2025-03-12T13:56:33.907Z",
+    "type": "multiChoiceQuiz",
+    "id": "4308d177-850c-457b-8692-ca32c42c72e2",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A period or wave of something, often used to refer to a specific time frame or batch.",
+      "es": "Un período o ola de algo, a menudo utilizado para referirse a un marco de tiempo específico o lote.",
+      "vi": "Một khoảng thời gian hoặc đợt sóng của một cái gì đó, thường được sử dụng để chỉ một khung thời gian hoặc lô cụ thể."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "wave, batch, period",
+      "es": "ola, lote, período",
+      "vi": "đợt"
+    },
+    "createdAt": "2025-01-28T11:34:31.085Z",
+    "example": {
+      "es": "Voy a viajar durante este descanso de verano.",
+      "vi": "Tôi sẽ đi du lịch vào đợt nghỉ hè này.",
+      "en": "I will travel during this summer break."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I just finished a round of health checkups at the hospital.",
+    "She will go on a business trip in the next round with her colleagues.",
+    "This round of cold weather is lasting longer than expected so I have to dress warmer."
+  ],
+  "notes": "đợt = a round, wave, or batch of something that happens over a period of time. It’s used when events come in phases, not just once.\n\nIt’s a noun. Use it with một đợt / hai đợt… + activity or event (thi, kiểm tra, khuyến mãi, dịch, gió, mưa).  \n\nThink of it like a “wave” or “phase” of something happening, often to many people at once.  \n\nClose in meaning to làn sóng (wave), but đợt is more practical and neutral; lần is just “one time,” while đợt suggests a whole period or campaign.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "4198b569-88b6-4b8d-84c3-7a137aef385c",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:56:33.907Z",
+    "content": {
+      "choices": [],
+      "answer": "đợt",
+      "translation": {
+        "en": "I will participate in this batch."
+      },
+      "translatedAnswer": {
+        "en": "batch"
+      },
+      "sentence": "Tôi sẽ tham gia ___ này.",
+      "word": "đợt",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:56:33.907Z"
+  },
+  "updatedAt": "2026-03-03T08:54:31.376Z",
+  "_id": "HyN4krnk6cuBCHkyNIep"
+}

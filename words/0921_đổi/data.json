@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "es": "cambiar o intercambiar algo",
+      "en": "to change or exchange something",
+      "vi": "thay đổi hoặc trao đổi một cái gì đó"
+    },
+    "createdAt": "2025-01-28T13:52:20.480Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi muốn đổi tiền.",
+      "en": "I want to exchange money.",
+      "es": "Quiero cambiar dinero."
+    },
+    "translations": {
+      "vi": "đổi",
+      "es": "cambiar",
+      "en": "change"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đi",
+    "đổi",
+    "đọc"
+  ],
+  "exampleSentences": [
+    "Anh muốn đổi chỗ ngồi với em được không?",
+    "Chị có thể đổi món ăn nếu không thích không?",
+    "Em cần đổi tiền trước khi đi du lịch nước ngoài."
+  ],
+  "exampleSentencesTranslated": [
+    "Can I change seats with you?",
+    "Can I change the dish if I don't like it?",
+    "I need to change money before traveling abroad."
+  ],
+  "updatedAt": "2026-03-03T07:54:10.801Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đổi = to change or exchange something for something else. It’s used when you switch, replace, or swap.\n\nYou use đổi + noun for changing things: đổi ý (change your mind), đổi tên, đổi mật khẩu. It also works for exchanging items: đổi quà, đổi vé.\n\nClose cousin: thay đổi = to change in general (more about overall change, not swapping one thing for another).",
+  "word": "đổi",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "đổi",
+      "word": "đổi",
+      "translation": {
+        "en": "I want to change my address."
+      },
+      "translatedAnswer": {
+        "en": "change"
+      },
+      "sentence": "Tôi muốn ___ địa chỉ của mình."
+    },
+    "updatedAt": "2025-03-12T16:21:25.557Z",
+    "createdAt": "2025-03-12T16:21:25.557Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e43f5924-998b-4cb3-997c-5ffdd4237f42"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**đổi** = to change or exchange something for something else. It’s used when you switch, replace, or swap.\n\nYou use **đổi + noun** for changing things: đổi ý (change your mind), đổi tên, đổi mật khẩu. It also works for exchanging items: đổi quà, đổi vé.\n\n\nClose cousin: **thay đổi** = to change in general (more about overall change, not swapping one thing for another).",
+  "rank": 921,
+  "definition": "change",
+  "multiChoiceQuiz": {
+    "id": "468d6a93-78b5-4d0c-9289-68f3178e0077",
+    "createdAt": "2025-03-12T16:21:25.557Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:21:25.557Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ địa chỉ của mình.",
+      "language": "vi",
+      "choices": [
+        "thay",
+        "đổi",
+        "biến đổi"
+      ],
+      "answer": "đổi",
+      "word": "đổi",
+      "hint": "d___",
+      "translation": {
+        "en": "I want to change my address."
+      },
+      "translatedAnswer": {
+        "en": "change"
+      }
+    }
+  },
+  "_id": "riThYT1c7QybiinVXXhL"
+}

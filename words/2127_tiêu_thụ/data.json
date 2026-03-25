@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:10:25.787Z",
+    "translations": {
+      "vi": "tiêu thụ",
+      "en": "consumption",
+      "es": "consumo"
+    },
+    "definitions": {
+      "es": "El acto de utilizar un recurso o mercancía.",
+      "en": "The act of using up a resource or commodity.",
+      "vi": "Hành động sử dụng một nguồn tài nguyên hoặc hàng hóa."
+    },
+    "example": {
+      "es": "Necesitamos reducir el consumo de energía.",
+      "en": "We need to reduce energy consumption.",
+      "vi": "Chúng ta cần giảm tiêu thụ năng lượng."
+    }
+  },
+  "notes": "Tiêu thụ means to consume or use up something, especially resources, food, or products. It’s often about how much is used or sold.\n\nIt’s a transitive verb, so it needs an object — usually things like điện (electricity), năng lượng (energy), thực phẩm (food), sản phẩm (products). It’s common in health, environment, and business contexts.\n\nClose synonym: tiêu dùng (more about consumer use/shopping), while tiêu thụ feels more about the act of being used up or absorbed.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Every day I try to consume enough two liters of water to stay healthy.",
+    "This store can consume a lot of bread in the morning.",
+    "If you consume too much sugar, your health will be affected."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tiêu thụ",
+  "choices": [
+    "tiêu thụ",
+    "thảo luận",
+    "phát triển"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:38:49.013Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6d2d8ce9-243d-4be3-b17f-60d96eef669d",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "The consumption level of this product is high."
+      },
+      "answer": "tiêu thụ",
+      "choices": [
+        "tiêu thụ",
+        "sản xuất",
+        "xuất khẩu"
+      ],
+      "translatedAnswer": {
+        "en": "consumption"
+      },
+      "language": "vi",
+      "hint": "t___u",
+      "word": "tiêu thụ",
+      "sentence": "Mức độ ___ của sản phẩm này cao."
+    },
+    "updatedAt": "2025-03-12T16:38:49.013Z"
+  },
+  "exampleSentences": [
+    "Mỗi ngày anh cố gắng tiêu thụ đủ hai lít nước để khỏe mạnh.",
+    "Cửa hàng này tiêu thụ rất nhiều bánh mì vào buổi sáng.",
+    "Nếu em tiêu thụ quá nhiều đường, sức khỏe sẽ bị ảnh hưởng."
+  ],
+  "updatedAt": "2026-03-03T10:03:02.238Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng ta cần ___ nhiều hơn.",
+      "word": "tiêu thụ",
+      "language": "vi",
+      "answer": "tiêu thụ",
+      "translation": {
+        "en": "We need to consume more."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "consume"
+      }
+    },
+    "updatedAt": "2025-03-12T16:38:49.013Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:38:49.013Z",
+    "id": "ae2009ba-2c95-4db3-aff1-043f73c456f1"
+  },
+  "definition": "consume",
+  "rank": 2127,
+  "notes_md": "**Tiêu thụ** means *to consume* or *use up* something, especially resources, food, or products. It’s often about how much is used or sold.\n\nIt’s a transitive verb, so it needs an object — usually things like điện (electricity), năng lượng (energy), thực phẩm (food), sản phẩm (products). It’s common in health, environment, and business contexts.\n\n\nClose synonym: **tiêu dùng** (more about consumer use/shopping), while *tiêu thụ* feels more about the act of being used up or absorbed.",
+  "_id": "wVebpSPYpQOepeGAgWkN"
+}

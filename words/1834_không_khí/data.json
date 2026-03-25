@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:35:11.727Z",
+    "type": "multiChoiceQuiz",
+    "id": "b9892269-a637-467a-80d2-fcfbafe55248",
+    "createdAt": "2025-03-12T13:35:11.727Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "hơi nước",
+        "không khí",
+        "ánh sáng"
+      ],
+      "word": "không khí",
+      "sentence": "Ở đây có ___ trong lành.",
+      "language": "vi",
+      "translation": {
+        "en": "There is fresh air here."
+      },
+      "translatedAnswer": {
+        "en": "air"
+      },
+      "hint": "k___i",
+      "answer": "không khí"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**không khí** = air, the air around you that you breathe. It’s uncountable, so you don’t use numbers with it.\n\nIt also very commonly means “atmosphere” or “vibe” in a place or situation (emotional feeling in a room, event, etc.).  \n\nOften followed by adjectives: *không khí + tính từ* (trong lành, căng thẳng, vui vẻ, yên tĩnh).  \n\nYou’ll also hear **bầu không khí** — same meaning, but it emphasizes the overall atmosphere, like the “whole mood” of a place.",
+  "choices": [
+    "không khí",
+    "bầu trời",
+    "ánh sáng"
+  ],
+  "rank": 1834,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "không khí",
+  "exampleSentencesTranslated": [
+    "In the early morning, the air in the park is very fresh.",
+    "Do you feel the air in this room is a bit stuffy?",
+    "After the rain, the air outside becomes much cooler."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "9def7086-2405-43f0-9aa5-9c57c506d42e",
+    "content": {
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "language": "vi",
+      "word": "không khí",
+      "choices": [],
+      "answer": "không khí",
+      "translatedAnswer": {
+        "en": "air"
+      },
+      "translation": {
+        "en": "The weather today is very air."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:35:11.727Z",
+    "updatedAt": "2025-03-12T13:35:11.727Z"
+  },
+  "definition": "air",
+  "flashcard": {
+    "definitions": {
+      "es": "La mezcla de gases que rodea la Tierra y es esencial para la vida.",
+      "vi": "Hỗn hợp khí bao quanh Trái Đất và cần thiết cho sự sống.",
+      "en": "The mixture of gases that surrounds the Earth and is essential for life."
+    },
+    "example": {
+      "en": "Fresh air is very good for health.",
+      "es": "El aire fresco es muy bueno para la salud.",
+      "vi": "Không khí trong lành rất tốt cho sức khỏe."
+    },
+    "translations": {
+      "en": "air",
+      "es": "aire",
+      "vi": "không khí"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:14:35.099Z"
+  },
+  "notes": "không khí = air, the air around you that you breathe. It’s uncountable, so you don’t use numbers with it.\n\nIt also very commonly means “atmosphere” or “vibe” in a place or situation (emotional feeling in a room, event, etc.).  \n\nOften followed by adjectives: không khí + tính từ (trong lành, căng thẳng, vui vẻ, yên tĩnh).  \n\nYou’ll also hear bầu không khí — same meaning, but it emphasizes the overall atmosphere, like the “whole mood” of a place.",
+  "updatedAt": "2026-03-03T09:32:09.768Z",
+  "exampleSentences": [
+    "Buổi sáng sớm, không khí ở công viên rất trong lành.",
+    "Anh thấy không khí trong phòng này hơi ngột ngạt phải không?",
+    "Sau cơn mưa, không khí ngoài trời trở nên mát mẻ hơn nhiều."
+  ],
+  "_id": "CBOHK3BPtNUr0riDol4H"
+}

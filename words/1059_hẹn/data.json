@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chị có hẹn với bác sĩ vào sáng mai lúc tám giờ.",
+    "Anh muốn đặt một hẹn để phỏng vấn công việc tuần sau.",
+    "Em đã quên mất hẹn với bạn tối nay nên phải xin lỗi."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hẹn",
+    "học",
+    "gặp"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Quedamos para encontrarnos el sábado.",
+      "en": "We agreed to meet on Saturday.",
+      "vi": "Chúng ta hẹn gặp nhau vào thứ Bảy."
+    },
+    "translations": {
+      "en": "to meet",
+      "es": "quedar",
+      "vi": "hẹn"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:45:24.913Z",
+    "definitions": {
+      "vi": "sắp xếp một cuộc gặp gỡ hoặc cuộc hẹn",
+      "es": "organizar una reunión o cita",
+      "en": "to arrange a meeting or appointment"
+    }
+  },
+  "updatedAt": "2026-03-03T08:08:49.017Z",
+  "exampleSentencesTranslated": [
+    "I have an appointment with the doctor tomorrow morning at eight o'clock.",
+    "I want to make an appointment for a job interview next week.",
+    "I forgot about my appointment with my friend tonight so I have to apologize."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "hẹn = appointment; a planned meeting at a specific time. It can be a noun (một cuộc hẹn) or a verb meaning “to arrange to meet” or “to promise.”\n\nAs a noun, it often goes with cuộc → cuộc hẹn (a date/appointment), and time words follow it.\n\nAs a verb, you usually say hẹn ai (arrange with someone) or hẹn ai làm gì (agree to do something together).\n\nClose in meaning to đặt lịch (more formal, like booking an appointment); for romantic context, hẹn hò = to date.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:13:30.441Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We will meet on Saturday."
+      },
+      "translatedAnswer": {
+        "en": "meet"
+      },
+      "answer": "hẹn",
+      "language": "vi",
+      "word": "hẹn",
+      "choices": [],
+      "sentence": "Chúng ta sẽ ___ vào thứ bảy."
+    },
+    "id": "46a8ae9e-32df-4266-ba5f-cd6e8918afc9",
+    "createdAt": "2025-03-12T16:13:30.441Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "hẹn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**hẹn** = appointment; a planned meeting at a specific time. It can be a **noun** (một cuộc hẹn) or a **verb** meaning “to arrange to meet” or “to promise.”\n\nAs a noun, it often goes with **cuộc** → *cuộc hẹn* (a date/appointment), and time words follow it.\n\nAs a verb, you usually say **hẹn ai** (arrange with someone) or **hẹn ai làm gì** (agree to do something together).\n\n\nClose in meaning to **đặt lịch** (more formal, like booking an appointment); for romantic context, *hẹn hò* = to date.",
+  "rank": 1059,
+  "multiChoiceQuiz": {
+    "id": "242da45e-b1cf-4f87-884f-90130972eb51",
+    "createdAt": "2025-03-12T16:13:30.441Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:13:30.441Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có ___ với tôi không?",
+      "word": "hẹn",
+      "choices": [
+        "hẹn",
+        "cuộc họp",
+        "lịch trình"
+      ],
+      "language": "vi",
+      "answer": "hẹn",
+      "hint": "h___n",
+      "translation": {
+        "en": "Do you have an appointment with me?"
+      },
+      "translatedAnswer": {
+        "en": "appointment"
+      }
+    }
+  },
+  "definition": "appointment",
+  "_id": "psl6VlieJmDbGCYsyIyr"
+}

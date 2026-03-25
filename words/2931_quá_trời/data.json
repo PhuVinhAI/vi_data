@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-03-03T18:13:42.785Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:04:57.421Z",
+    "updatedAt": "2025-03-12T13:04:57.421Z",
+    "id": "015bdbd1-156e-43cf-8950-95cdcd0d8175",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "quá trời",
+      "translatedAnswer": {
+        "en": "too"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "Today the weather is too nice."
+      },
+      "choices": [],
+      "answer": "quá trời",
+      "sentence": "Hôm nay trời ___ đẹp."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**Quá trời** means *a lot*, *so much*, or *tons of*. It’s stronger and more emotional than just **nhiều**.\n\nYou put it before a noun, verb, or adjective to boost the intensity. It often shows surprise or exaggeration.\n\n\nIt’s casual and expressive. A close synonym for memory: **nhiều ơi là nhiều** (very, very many).",
+  "exampleSentencesTranslated": [
+    "Yesterday, I bought a lot of vegetables at the market to cook.",
+    "She has a lot of work to do today so she is very busy.",
+    "There are a lot of people walking in the park."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "quá trời",
+  "choices": [
+    "quá trời",
+    "một chút",
+    "ít khi"
+  ],
+  "notes": "Quá trời means a lot, so much, or tons of. It’s stronger and more emotional than just nhiều.\n\nYou put it before a noun, verb, or adjective to boost the intensity. It often shows surprise or exaggeration.\n\nIt’s casual and expressive. A close synonym for memory: nhiều ơi là nhiều (very, very many).",
+  "flashcard": {
+    "example": {
+      "en": "Today the sky is so beautiful.",
+      "vi": "Hôm nay trời quá trời đẹp.",
+      "es": "Hoy el cielo está tan hermoso."
+    },
+    "translations": {
+      "en": "so much",
+      "es": "tanto"
+    },
+    "definitions": {
+      "es": "Una expresión utilizada para enfatizar un gran grado o extensión.",
+      "en": "An expression used to emphasize a large degree or extent.",
+      "vi": "Một biểu thức được sử dụng để nhấn mạnh một mức độ hoặc phạm vi lớn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:46:46.376Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2931,
+  "definition": "a lot",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Hôm qua, anh mua quá trời rau ở chợ để nấu ăn.",
+    "Chị có quá trời việc phải làm hôm nay nên rất bận.",
+    "Em thấy ngoài công viên có quá trời người đang đi dạo."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:04:57.421Z",
+    "updatedAt": "2025-03-12T13:04:57.421Z",
+    "id": "41977aa5-d357-4a01-9e56-00da3f4b2d06",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "quá nhiều",
+        "quá trời",
+        "quá ít"
+      ],
+      "translation": {
+        "en": "There are too many people at the party."
+      },
+      "word": "quá trời",
+      "translatedAnswer": {
+        "en": "too many"
+      },
+      "language": "vi",
+      "hint": "q___",
+      "sentence": "Có ___ người đến buổi tiệc.",
+      "answer": "quá trời"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "4M7BAfbIilatF3UkQQ2K"
+}

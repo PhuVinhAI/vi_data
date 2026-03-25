@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tình bạn",
+    "tình yêu",
+    "gia đình"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "love",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 278,
+  "exampleSentences": [
+    "Anh tin rằng tình yêu giữa hai người rất quan trọng trong cuộc sống.",
+    "Chị luôn cảm thấy hạnh phúc khi nói về tình yêu với gia đình.",
+    "Em đã học được nhiều điều từ tình yêu đầu tiên của mình."
+  ],
+  "word": "tình yêu",
+  "flashcard": {
+    "example": {
+      "en": "Love is the most wonderful thing in life.",
+      "vi": "Tình yêu là điều tuyệt vời nhất trong cuộc sống.",
+      "es": "El amor es lo más maravilloso en la vida."
+    },
+    "createdAt": "2025-01-28T13:01:25.149Z",
+    "translations": {
+      "en": "love",
+      "vi": "tình yêu",
+      "es": "amor"
+    },
+    "definitions": {
+      "en": "A profound and caring affection towards someone.",
+      "vi": "Một tình cảm sâu sắc và quan tâm đến ai đó.",
+      "es": "Un afecto profundo y cariñoso hacia alguien."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He believes that love between two people is very important in life.",
+    "She always feels happy when talking about love with her family.",
+    "I have learned many things from my first love."
+  ],
+  "notes_md": "**tình yêu** = love, the feeling of deep affection for someone or something. It can be romantic, family love, or even love for a hobby or country.\n\nIt’s an uncountable noun in general, but you can say *một tình yêu* when talking about a specific kind of love. Often followed by **với** or **dành cho** to show who/what the love is for.  \n\nRelated words: **yêu** (to love), **thương** (to love, softer/more caring). Opposite idea: **thù hận** (hatred).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:43:02.016Z",
+    "content": {
+      "hint": "t___ y__",
+      "choices": [
+        "tình bạn",
+        "tình yêu",
+        "tình hình"
+      ],
+      "translation": {
+        "en": "They are talking about their love."
+      },
+      "answer": "tình yêu",
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "language": "vi",
+      "word": "tình yêu",
+      "sentence": "Họ đang nói về ___ của mình."
+    },
+    "updatedAt": "2025-03-12T13:43:02.016Z",
+    "id": "5bf566eb-e6d5-4bc6-9414-e43f25564301",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T06:49:16.278Z",
+  "notes": "tình yêu = love, the feeling of deep affection for someone or something. It can be romantic, family love, or even love for a hobby or country.\n\nIt’s an uncountable noun in general, but you can say một tình yêu when talking about a specific kind of love. Often followed by với or dành cho to show who/what the love is for.  \n\nRelated words: yêu (to love), thương (to love, softer/more caring). Opposite idea: thù hận (hatred).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:43:02.016Z",
+    "createdAt": "2025-03-12T13:43:02.016Z",
+    "content": {
+      "translation": {
+        "en": "The feelings between them are love."
+      },
+      "answer": "tình yêu",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tình cảm giữa họ là ___.",
+      "word": "tình yêu",
+      "translatedAnswer": {
+        "en": "love"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "6e242f5d-5493-4d40-b987-12ab957c193d"
+  },
+  "_id": "EI1kOVj9l6BdlJQBU8GQ"
+}

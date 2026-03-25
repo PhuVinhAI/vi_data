@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đeo = to wear something on your body, usually small items you attach or hang on yourself.  \n\nUse it for things like accessories or items you put on by hooking, hanging, or fastening them to your body. It often goes with glasses, jewelry, bags, earphones, masks, etc.  \n\nDon’t mix it up with mặc (wear clothes) or đội (wear on the head like hats/helmets). Think: if it “hangs” or “attaches,” it’s usually đeo.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đeo",
+    "đọc",
+    "để"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Mang hoặc đeo một cái gì đó, thường là phụ kiện hoặc trang phục.",
+      "es": "Usar o ponerse algo, típicamente un accesorio o prenda de vestir.",
+      "en": "To wear or put on something, typically an accessory or piece of clothing."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:39:44.867Z",
+    "example": {
+      "vi": "Tôi đeo kính khi đọc sách.",
+      "es": "Llevo gafas cuando leo.",
+      "en": "I wear glasses when reading."
+    },
+    "translations": {
+      "vi": "đeo",
+      "es": "llevar",
+      "en": "to wear"
+    }
+  },
+  "exampleSentences": [
+    "Em nhớ đeo khẩu trang khi ra ngoài đường nhé.",
+    "Anh luôn đeo đồng hồ mỗi khi đi làm.",
+    "Chị thích đeo vòng cổ bằng vàng trong các bữa tiệc."
+  ],
+  "exampleSentencesTranslated": [
+    "Remember to wear a mask when going outside.",
+    "He always wears a watch when going to work.",
+    "She likes to wear a gold necklace at parties."
+  ],
+  "updatedAt": "2026-03-03T09:17:56.332Z",
+  "notes_md": "**đeo** = to wear something on your body, usually small items you attach or hang on yourself.  \n\nUse it for things like accessories or items you put on by hooking, hanging, or fastening them to your body. It often goes with glasses, jewelry, bags, earphones, masks, etc.  \n\n\nDon’t mix it up with **mặc** (wear clothes) or **đội** (wear on the head like hats/helmets). Think: if it “hangs” or “attaches,” it’s usually **đeo**.",
+  "rank": 1701,
+  "definition": "wear",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy muốn ___ một chiếc nhẫn.",
+      "word": "đeo",
+      "answer": "đeo",
+      "language": "vi",
+      "choices": [
+        "đeo",
+        "cầm",
+        "mang"
+      ],
+      "translation": {
+        "en": "She wants to wear a ring."
+      },
+      "translatedAnswer": {
+        "en": "wear"
+      },
+      "hint": "đ__"
+    },
+    "updatedAt": "2025-03-12T16:07:56.984Z",
+    "createdAt": "2025-03-12T16:07:56.984Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "36510ddf-323a-4f8b-906c-e19c5efe1b42"
+  },
+  "word": "đeo",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:07:56.984Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "wear"
+      },
+      "translation": {
+        "en": "I will wear this bracelet."
+      },
+      "choices": [],
+      "word": "đeo",
+      "answer": "đeo",
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ chiếc vòng tay này."
+    },
+    "id": "485644e7-ff1d-4ab0-a669-69fb9dd64075",
+    "createdAt": "2025-03-12T16:07:56.984Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "oMuaBieAQCP6UiaG7Y5s"
+}

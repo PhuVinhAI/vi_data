@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:05:32.628Z",
+    "updatedAt": "2025-03-12T13:05:32.628Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "biểu hiện",
+      "translatedAnswer": {
+        "en": "expression"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "She has a special expression."
+      },
+      "choices": [],
+      "answer": "biểu hiện",
+      "sentence": "Cô ấy có ___ đặc biệt."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "6de66dbf-cf4b-49e0-88f0-d8d3d9ffda87"
+  },
+  "updatedAt": "2026-03-03T17:58:04.298Z",
+  "exampleSentencesTranslated": [
+    "He has an expression of happiness when hearing the good news.",
+    "I see an expression of tiredness on your face today.",
+    "If you have any strange expression, tell me right away."
+  ],
+  "notes_md": "**Biểu hiện** = expression, sign, or outward sign of something (feeling, problem, condition). It’s what you can see or notice from the outside.\n\nIt’s a **noun**. Often used with **có biểu hiện + adjective/noun** (to show signs of…), or **biểu hiện của + something** (a sign of…).  \n\nCommon collocations: *biểu hiện cảm xúc*, *biểu hiện bệnh*, *biểu hiện bất thường*.  \n\nClose to **thể hiện**, but *biểu hiện* focuses more on visible signs, while *thể hiện* is more about actively showing or expressing something.",
+  "word": "biểu hiện",
+  "notes": "Biểu hiện = expression, sign, or outward sign of something (feeling, problem, condition). It’s what you can see or notice from the outside.\n\nIt’s a noun. Often used with có biểu hiện + adjective/noun (to show signs of…), or biểu hiện của + something (a sign of…).  \n\nCommon collocations: biểu hiện cảm xúc, biểu hiện bệnh, biểu hiện bất thường.  \n\nClose to thể hiện, but biểu hiện focuses more on visible signs, while thể hiện is more about actively showing or expressing something.",
+  "choices": [
+    "biểu hiện",
+    "khó chịu",
+    "tự tin"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy có biểu hiện rất vui khi nghe tin tốt.",
+    "Chị thấy biểu hiện mệt mỏi trên khuôn mặt em hôm nay.",
+    "Nếu em có biểu hiện lạ, hãy nói với anh ngay nhé."
+  ],
+  "multiChoiceQuiz": {
+    "id": "302f927c-1bea-40e8-87e8-f8a58e9951ea",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Đó là một ___ thú vị.",
+      "answer": "biểu hiện",
+      "translation": {
+        "en": "That is an interesting expression."
+      },
+      "choices": [
+        "cảm xúc",
+        "biểu hiện",
+        "tình huống"
+      ],
+      "word": "biểu hiện",
+      "translatedAnswer": {
+        "en": "expression"
+      },
+      "language": "vi",
+      "hint": "b_______n"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:05:32.628Z",
+    "updatedAt": "2025-03-12T13:05:32.628Z"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy có nhiều biểu hiện của sự lo lắng.",
+      "en": "She shows many signs of anxiety.",
+      "es": "Ella muestra muchos signos de ansiedad."
+    },
+    "translations": {
+      "en": "expression",
+      "vi": "biểu hiện",
+      "es": "expresión"
+    },
+    "createdAt": "2025-01-28T10:47:19.782Z",
+    "definitions": {
+      "vi": "Một sự biểu hiện hoặc chỉ dẫn của một tình trạng hoặc cảm xúc cụ thể.",
+      "en": "A manifestation or indication of a particular condition or feeling.",
+      "es": "Una manifestación o indicación de una condición o sentimiento particular."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "expression",
+  "rank": 2795,
+  "_id": "4XMpcd1Bd4SUzRwj9sxM"
+}

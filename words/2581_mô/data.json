@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "2a961962-f14d-48e6-b709-68a6509cff08",
+    "createdAt": "2025-03-12T15:30:10.790Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "mô",
+      "translatedAnswer": {
+        "en": "model"
+      },
+      "translation": {
+        "en": "I want to model this lesson."
+      },
+      "sentence": "Tôi muốn ___ bài học này.",
+      "language": "vi",
+      "word": "mô",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:30:10.790Z"
+  },
+  "exampleSentencesTranslated": [
+    "The doctor said that my injury only affected the outer tissue.",
+    "In the human body, tissue helps organs function normally.",
+    "I am reading a book about the function of muscle tissue in the body."
+  ],
+  "definition": "tissue",
+  "flashcard": {
+    "definitions": {
+      "en": "A model or representation of something.",
+      "vi": "Một mô hình hoặc đại diện cho một cái gì đó.",
+      "es": "Un modelo o representación de algo."
+    },
+    "example": {
+      "en": "This model is very beautiful.",
+      "vi": "Mô hình này rất đẹp.",
+      "es": "Este modelo es muy bonito."
+    },
+    "translations": {
+      "en": "model",
+      "es": "modelo",
+      "vi": "mô"
+    },
+    "createdAt": "2025-01-28T13:05:11.849Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "mô = tissue in the body (like muscle tissue, fat tissue). It’s a biology word, not paper tissue.\n\nIt’s an uncountable noun, but you can say một loại mô (a type of tissue) or các mô when talking about different tissues.  \n\nVery common pairings: mô cơ (muscle tissue), mô mỡ (fat tissue), mô sẹo (scar tissue).  \n\nIt’s more scientific than everyday body words like thịt (meat/flesh), so you’ll hear it in medical or school contexts.",
+  "updatedAt": "2026-03-03T11:25:21.934Z",
+  "exampleSentences": [
+    "Bác sĩ nói rằng vết thương của em chỉ ảnh hưởng đến mô bên ngoài.",
+    "Trong cơ thể con người, mô giúp các cơ quan hoạt động bình thường.",
+    "Anh đang đọc sách về chức năng của mô cơ trong cơ thể."
+  ],
+  "multiChoiceQuiz": {
+    "id": "6eaa48d0-d315-4752-a8de-a4e38e199cfd",
+    "createdAt": "2025-03-12T15:30:10.790Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "mô",
+        "hình",
+        "cách"
+      ],
+      "sentence": "Họ đang tìm ___ cho dự án.",
+      "language": "vi",
+      "word": "mô",
+      "translatedAnswer": {
+        "en": "model"
+      },
+      "translation": {
+        "en": "They are looking for a model for the project."
+      },
+      "answer": "mô",
+      "hint": "m__"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:30:10.790Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mô** = tissue in the body (like muscle tissue, fat tissue). It’s a biology word, not paper tissue.\n\nIt’s an uncountable noun, but you can say *một loại mô* (a type of tissue) or *các mô* when talking about different tissues.  \n\nVery common pairings: *mô cơ* (muscle tissue), *mô mỡ* (fat tissue), *mô sẹo* (scar tissue).  \n\nIt’s more scientific than everyday body words like *thịt* (meat/flesh), so you’ll hear it in medical or school contexts.",
+  "choices": [
+    "mô",
+    "da",
+    "xương"
+  ],
+  "rank": 2581,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mô",
+  "_id": "ewfikSWK7SJWQecNho0c"
+}

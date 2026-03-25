@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh muốn đi ra ngoài ăn tối với em tối nay không?",
+    "Em thường ăn sáng lúc bảy giờ trước khi đi làm.",
+    "Chị ấy không thích ăn cay nên luôn chọn món nhẹ."
+  ],
+  "rank": 168,
+  "word": "ăn",
+  "definition": "eat",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "ăn",
+    "uống",
+    "chơi"
+  ],
+  "updatedAt": "2026-03-03T06:37:29.881Z",
+  "notes": "ăn = to eat, to consume food. It’s the basic verb you’ll use for meals and snacks.\n\nUse ăn + food (ăn cơm, ăn bánh, ăn phở). You can also say ăn + object more generally for consuming things like medicine (ăn thuốc).\n\nIt combines a lot with other words: ăn sáng / ăn trưa / ăn tối for meals, and ăn với + something to say what you eat something with.\n\nVery common extended meanings: ăn can mean “to win” (ăn điểm) or “to match/go well with” (like colors that look good together), so don’t always translate it as “eat.”",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "c057bf7a-a609-43d2-a0e0-13591dde34ac",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:39:32.849Z",
+    "createdAt": "2025-03-12T13:39:32.849Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to eat this dish."
+      },
+      "answer": "ăn",
+      "translatedAnswer": {
+        "en": "eat"
+      },
+      "word": "ăn",
+      "sentence": "Tôi muốn ___ món này.",
+      "language": "vi"
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "vi": "tiêu thụ thực phẩm",
+      "es": "consumir comida",
+      "en": "to consume food"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "eat",
+      "vi": "ăn",
+      "es": "comer"
+    },
+    "createdAt": "2025-01-28T11:18:31.254Z",
+    "example": {
+      "en": "I like to eat pho.",
+      "vi": "Tôi thích ăn phở.",
+      "es": "Me gusta comer pho."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to go out to eat dinner with me tonight?",
+    "I usually eat breakfast at seven o'clock before going to work.",
+    "She does not like to eat spicy food so she always chooses light dishes."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:39:32.849Z",
+    "content": {
+      "answer": "ăn",
+      "translation": {
+        "en": "Do you want to eat rice?"
+      },
+      "hint": "a__",
+      "choices": [
+        "uống",
+        "chơi",
+        "ăn"
+      ],
+      "sentence": "Bạn có ___ cơm không?",
+      "word": "ăn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "eat"
+      }
+    },
+    "createdAt": "2025-03-12T13:39:32.849Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7c6db4f6-5843-4576-95cf-190e9db35bb2",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**ăn** = to eat, to consume food. It’s the basic verb you’ll use for meals and snacks.\n\nUse **ăn + food** (ăn cơm, ăn bánh, ăn phở). You can also say **ăn + object** more generally for consuming things like medicine (ăn thuốc).\n\nIt combines a lot with other words: **ăn sáng / ăn trưa / ăn tối** for meals, and **ăn với + something** to say what you eat something with.\n\nVery common extended meanings: **ăn** can mean “to win” (ăn điểm) or “to match/go well with” (like colors that look good together), so don’t always translate it as “eat.”",
+  "_id": "DGiOsSKmONQnZEajk169"
+}

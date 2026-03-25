@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "cắt = to cut (with a tool), to divide something into parts.\n\nIt’s a verb, usually used with physical objects like paper, hair, cake, fabric, or meat. You often use it with tools: cắt bằng dao / kéo (cut with a knife / scissors).  \n\nIt can also mean to reduce or remove: cắt giảm chi phí (cut/reduce costs), cắt điện (cut off electricity).  \n\nClose synonym: chặt (to chop, stronger force, usually with an axe or big knife).",
+  "exampleSentences": [
+    "Anh có thể giúp em cắt giấy này thành hai phần được không?",
+    "Chị thường dùng kéo để cắt tóc cho em gái ở nhà.",
+    "Bác sĩ nói cần phải cắt bánh thành từng miếng nhỏ để dễ ăn hơn."
+  ],
+  "choices": [
+    "cắt",
+    "gấp",
+    "dán"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "vi": "cắt",
+      "es": "cortar",
+      "en": "cut"
+    },
+    "example": {
+      "vi": "Tôi cần cắt tóc.",
+      "es": "Necesito cortarme el cabello.",
+      "en": "I need to cut my hair."
+    },
+    "createdAt": "2025-01-28T13:45:56.042Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Tách rời hoặc chia một cái gì đó thành các phần bằng cách sử dụng một công cụ sắc bén.",
+      "en": "To separate or divide something into parts using a sharp tool.",
+      "es": "Separar o dividir algo en partes usando una herramienta afilada."
+    }
+  },
+  "updatedAt": "2026-03-03T07:46:40.889Z",
+  "exampleSentencesTranslated": [
+    "Can you help me cut this paper into two parts?",
+    "She often uses scissors to cut her younger sister's hair at home.",
+    "The doctor said to cut the cake into small pieces to make it easier to eat."
+  ],
+  "rank": 848,
+  "notes_md": "**cắt** = to cut (with a tool), to divide something into parts.\n\nIt’s a verb, usually used with physical objects like paper, hair, cake, fabric, or meat. You often use it with tools: *cắt bằng dao / kéo* (cut with a knife / scissors).  \n\n\nIt can also mean to reduce or remove: *cắt giảm chi phí* (cut/reduce costs), *cắt điện* (cut off electricity).  \n\nClose synonym: **chặt** (to chop, stronger force, usually with an axe or big knife).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:14:00.238Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "cut"
+      },
+      "translation": {
+        "en": "I need to cut vegetables for the salad."
+      },
+      "hint": "c__t",
+      "word": "cắt",
+      "answer": "cắt",
+      "language": "vi",
+      "choices": [
+        "thêm",
+        "cắt",
+        "xay"
+      ],
+      "sentence": "Tôi cần ___ rau cho món salad."
+    },
+    "id": "f4665911-e404-42ad-bda1-4dfde6ba8103",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:14:00.238Z"
+  },
+  "definition": "cut",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ bánh mì.",
+      "translation": {
+        "en": "I want to cut the bread."
+      },
+      "translatedAnswer": {
+        "en": "cut"
+      },
+      "choices": [],
+      "word": "cắt",
+      "language": "vi",
+      "answer": "cắt"
+    },
+    "updatedAt": "2025-03-12T16:14:00.238Z",
+    "createdAt": "2025-03-12T16:14:00.238Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "597bf80a-f85d-44c7-aa36-4ec42f7462ad"
+  },
+  "word": "cắt",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "pz0I2PhxvqIthYbbuHpQ"
+}

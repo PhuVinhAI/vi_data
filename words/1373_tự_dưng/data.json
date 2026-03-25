@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "ae1a78b6-2377-4256-ab90-a2631fadd388",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:17:48.591Z",
+    "content": {
+      "answer": "tự dưng",
+      "hint": "t___n",
+      "translation": {
+        "en": "I suddenly feel sad."
+      },
+      "translatedAnswer": {
+        "en": "suddenly"
+      },
+      "word": "tự dưng",
+      "sentence": "Tôi cảm thấy ___ buồn.",
+      "language": "vi",
+      "choices": [
+        "hơi",
+        "tự dưng",
+        "bất ngờ"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:17:48.591Z"
+  },
+  "notes_md": "**tự dưng** = suddenly, out of nowhere, for no clear reason. It often has a feeling of “for no reason” or “randomly”.\n\nIt’s an adverb, usually placed before the verb or after the subject.  \n\nIt’s more casual than **đột nhiên** or **bỗng** (those sound a bit more written or dramatic).  \nUse it when something changes unexpectedly, especially feelings, actions, or situations.",
+  "rank": 1373,
+  "choices": [
+    "tự dưng",
+    "bất kỳ",
+    "ngay lập tức"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tự dưng",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:17:48.591Z",
+    "content": {
+      "choices": [],
+      "word": "tự dưng",
+      "language": "vi",
+      "sentence": "Tự dưng ___ trời mưa.",
+      "translation": {
+        "en": "Suddenly, it started to rain."
+      },
+      "translatedAnswer": {
+        "en": "suddenly"
+      },
+      "answer": "tự dưng"
+    },
+    "id": "c9f93d81-5d78-48cc-b5a2-897f878aebc5",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:17:48.591Z"
+  },
+  "exampleSentencesTranslated": [
+    "Last night he suddenly called me at midnight.",
+    "Suddenly it rained heavily so we had to stop.",
+    "She suddenly feels sad when she hears this song."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Today, it suddenly started to rain.",
+      "vi": "Hôm nay tự dưng trời mưa.",
+      "es": "Hoy, de repente comenzó a llover."
+    },
+    "definitions": {
+      "en": "Suddenly; unexpectedly.",
+      "es": "De repente; inesperadamente.",
+      "vi": "Bất ngờ; không mong đợi."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:58:19.572Z",
+    "translations": {
+      "en": "suddenly",
+      "es": "de repente",
+      "vi": "tự dưng"
+    }
+  },
+  "definition": "suddenly",
+  "notes": "tự dưng = suddenly, out of nowhere, for no clear reason. It often has a feeling of “for no reason” or “randomly”.\n\nIt’s an adverb, usually placed before the verb or after the subject.  \n\nIt’s more casual than đột nhiên or bỗng (those sound a bit more written or dramatic).  \nUse it when something changes unexpectedly, especially feelings, actions, or situations.",
+  "updatedAt": "2026-03-03T08:42:48.963Z",
+  "exampleSentences": [
+    "Tối qua anh ấy tự dưng gọi cho em lúc nửa đêm.",
+    "Tự dưng trời mưa to nên chúng ta phải dừng lại.",
+    "Chị tự dưng cảm thấy buồn khi nghe bài hát này."
+  ],
+  "_id": "7dJHvF5VuMptIJ7n3NfH"
+}

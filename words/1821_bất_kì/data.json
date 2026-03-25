@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "bất kì",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:26:07.887Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Bạn có thể chọn ___ món ăn.",
+      "translation": {
+        "en": "You can choose any dish."
+      },
+      "translatedAnswer": {
+        "en": "any"
+      },
+      "choices": [],
+      "word": "bất kì",
+      "language": "vi",
+      "answer": "bất kì"
+    },
+    "id": "0241eca5-b2c2-4e6d-8bad-db90855d3702",
+    "createdAt": "2025-03-12T16:26:07.887Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "any",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:26:07.887Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "0ae2b080-0d28-4440-ac87-698a6d41195b",
+    "content": {
+      "hint": "b___ k__",
+      "translation": {
+        "en": "You can choose any dish."
+      },
+      "translatedAnswer": {
+        "en": "any"
+      },
+      "language": "vi",
+      "choices": [
+        "một vài",
+        "bất kì",
+        "tất cả"
+      ],
+      "answer": "bất kì",
+      "word": "bất kì",
+      "sentence": "Bạn có thể chọn ___ món ăn."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:26:07.887Z"
+  },
+  "notes_md": "**bất kì** means **“any”** — it shows no limit or no preference. It’s used when you don’t care which one.\n\nIt’s a determiner and usually goes before a noun, often with **“nào”** for emphasis.  \n\nVery often used in questions, offers, or conditions to mean “any at all.”  \nClose synonym: **bất cứ** (almost interchangeable: *bất cứ… nào*).",
+  "rank": 1821,
+  "exampleSentencesTranslated": [
+    "You can choose any dish on this menu.",
+    "If you have any questions, just ask me.",
+    "We can meet at any time you are free."
+  ],
+  "updatedAt": "2026-03-03T09:30:49.218Z",
+  "flashcard": {
+    "example": {
+      "en": "You can choose any book.",
+      "es": "Puedes elegir cualquier libro.",
+      "vi": "Bạn có thể chọn bất kì cuốn sách nào."
+    },
+    "translations": {
+      "vi": "bất kì",
+      "es": "cualquiera",
+      "en": "any"
+    },
+    "definitions": {
+      "vi": "Bất kỳ; được sử dụng để chỉ một hoặc nhiều đối tượng mà không có sự chỉ định cụ thể.",
+      "es": "Cualquiera; utilizado para referirse a uno o más elementos sin especificación.",
+      "en": "Any; used to refer to one or more items without specification."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:57:00.541Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bất kì",
+    "mỗi",
+    "mọi"
+  ],
+  "exampleSentences": [
+    "Anh có thể chọn bất kì món ăn nào trong thực đơn này.",
+    "Nếu em có bất kì câu hỏi nào, hãy hỏi chị nhé.",
+    "Chúng ta có thể gặp nhau vào bất kì thời gian nào em rảnh."
+  ],
+  "notes": "bất kì means “any” — it shows no limit or no preference. It’s used when you don’t care which one.\n\nIt’s a determiner and usually goes before a noun, often with “nào” for emphasis.  \n\nVery often used in questions, offers, or conditions to mean “any at all.”  \nClose synonym: bất cứ (almost interchangeable: bất cứ… nào).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "sy39WT75YDXStQLCiepD"
+}

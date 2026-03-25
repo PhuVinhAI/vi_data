@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Small in size; tiny.",
+      "es": "Pequeño en tamaño; diminuto.",
+      "vi": "Nhỏ về kích thước; bé nhỏ."
+    },
+    "createdAt": "2025-01-28T12:35:38.854Z",
+    "example": {
+      "en": "This pen is very small.",
+      "es": "Este bolígrafo es muy pequeño.",
+      "vi": "Cái bút này rất nhỏ bé."
+    },
+    "translations": {
+      "en": "small",
+      "es": "pequeño",
+      "vi": "nhỏ bé"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I have a small cat at home that is very cute.",
+    "My dream, although small, always brings hope.",
+    "This room is small but cozy enough for the whole family."
+  ],
+  "fillBlankQuiz": {
+    "id": "0ff5d5c7-3e6e-4370-bc42-048bc4a3aa10",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:03:18.967Z",
+    "updatedAt": "2025-03-12T15:03:18.967Z",
+    "content": {
+      "word": "nhỏ bé",
+      "language": "vi",
+      "answer": "nhỏ bé",
+      "sentence": "Cái cây này rất ___.",
+      "translation": {
+        "en": "This tree is very small."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "small"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T18:12:39.413Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "small",
+  "notes_md": "**nhỏ bé** means *small* or *tiny*, often with a soft or emotional feeling. It can describe physical size or something abstract like a dream, role, or voice.\n\nIt’s an adjective and usually comes **after the noun**. You can add words like *rất, quá, thật* in front to make it stronger.\n\nIt often describes people, animals, objects, or abstract things that feel limited or modest.\n\n\nClose synonyms: *bé xíu, nhỏ xíu* (cuter, more “tiny”). Opposite: *to lớn* (big, great).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2920,
+  "choices": [
+    "nhỏ bé",
+    "to lớn",
+    "xinh đẹp"
+  ],
+  "word": "nhỏ bé",
+  "exampleSentences": [
+    "Anh có một con mèo nhỏ bé ở nhà rất dễ thương.",
+    "Ước mơ của em dù nhỏ bé nhưng luôn mang lại hy vọng.",
+    "Căn phòng này nhỏ bé nhưng đủ ấm cúng cho cả gia đình."
+  ],
+  "notes": "nhỏ bé means small or tiny, often with a soft or emotional feeling. It can describe physical size or something abstract like a dream, role, or voice.\n\nIt’s an adjective and usually comes after the noun. You can add words like rất, quá, thật in front to make it stronger.\n\nIt often describes people, animals, objects, or abstract things that feel limited or modest.\n\nClose synonyms: bé xíu, nhỏ xíu (cuter, more “tiny”). Opposite: to lớn (big, great).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:03:18.967Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "small"
+      },
+      "choices": [
+        "nhỏ bé",
+        "to lớn",
+        "trung bình"
+      ],
+      "translation": {
+        "en": "The cat is very small."
+      },
+      "sentence": "Con mèo rất ___.",
+      "hint": "n___ b__",
+      "answer": "nhỏ bé",
+      "word": "nhỏ bé",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:03:18.967Z",
+    "id": "6750d46b-d261-4f21-a8e2-919431054c76"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "XhrXfFfmV1bVqoJ2HGHb"
+}

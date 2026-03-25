@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "production",
+  "exampleSentences": [
+    "Nhà máy này chuyên sản xuất các loại quần áo xuất khẩu.",
+    "Việt Nam nổi tiếng với sản xuất cà phê chất lượng cao.",
+    "Công ty đang đầu tư vào công nghệ mới để tăng sản xuất."
+  ],
+  "rank": 810,
+  "word": "sản xuất",
+  "choices": [
+    "sản xuất",
+    "nấu ăn",
+    "vận chuyển"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "This factory specializes in the production of export clothing.",
+    "Vietnam is famous for the production of high-quality coffee.",
+    "The company is investing in new technology to increase production."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "production",
+      "es": "producción",
+      "vi": "sản xuất"
+    },
+    "example": {
+      "en": "We need to improve the production process.",
+      "vi": "Chúng tôi cần cải thiện quy trình sản xuất.",
+      "es": "Necesitamos mejorar el proceso de producción."
+    },
+    "createdAt": "2025-01-28T11:17:12.185Z",
+    "definitions": {
+      "vi": "Hành động sản xuất hàng hóa hoặc dịch vụ.",
+      "es": "El acto de producir bienes o servicios.",
+      "en": "The act of producing goods or services."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "produce"
+      },
+      "sentence": "Họ cần ___ hàng hóa nhanh chóng.",
+      "word": "sản xuất",
+      "language": "vi",
+      "hint": "s___t",
+      "choices": [
+        "xuất khẩu",
+        "sản xuất",
+        "nhập khẩu"
+      ],
+      "answer": "sản xuất",
+      "translation": {
+        "en": "They need to produce goods quickly."
+      }
+    },
+    "createdAt": "2025-03-12T13:37:52.180Z",
+    "updatedAt": "2025-03-12T13:37:52.180Z",
+    "type": "multiChoiceQuiz",
+    "id": "b492dee3-d415-47c1-9fba-7c6930014fe5",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**sản xuất** = to produce or manufacture something, usually in a business or industrial context. It’s about making goods, energy, films, or products at scale.\n\nIt’s a verb and usually takes a direct object: things like hàng hóa, phim, điện, phần mềm.  \n\nCommon pairings: **sản xuất hàng loạt** (mass-produce), **ngành sản xuất** (production sector).  \nClose synonym: **chế tạo** (more technical/engineering vibe); **làm** is more general and less formal.",
+  "updatedAt": "2026-03-03T07:42:47.090Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "79789170-4e15-4c27-bbce-8f58e99d91b1",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:37:52.180Z",
+    "content": {
+      "translation": {
+        "en": "We will produce a new product."
+      },
+      "answer": "sản xuất",
+      "choices": [],
+      "word": "sản xuất",
+      "sentence": "Chúng tôi sẽ ___ sản phẩm mới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "produce"
+      }
+    },
+    "createdAt": "2025-03-12T13:37:52.180Z"
+  },
+  "notes": "sản xuất = to produce or manufacture something, usually in a business or industrial context. It’s about making goods, energy, films, or products at scale.\n\nIt’s a verb and usually takes a direct object: things like hàng hóa, phim, điện, phần mềm.  \n\nCommon pairings: sản xuất hàng loạt (mass-produce), ngành sản xuất (production sector).  \nClose synonym: chế tạo (more technical/engineering vibe); làm is more general and less formal.",
+  "_id": "CzKdbTt12kA8xL6UPhAU"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thể chất",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:04:56.023Z",
+    "id": "ad72c32b-3cd6-4661-aa2c-ddb59582831e",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn cải thiện ___ của mình.",
+      "answer": "thể chất",
+      "language": "vi",
+      "word": "thể chất",
+      "choices": [],
+      "translation": {
+        "en": "I want to improve my fitness."
+      },
+      "translatedAnswer": {
+        "en": "fitness"
+      }
+    },
+    "updatedAt": "2025-03-12T16:04:56.023Z"
+  },
+  "definition": "physical health",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:04:56.023Z",
+    "id": "8cec7e7e-5523-44ea-81ee-a03f7cd4e504",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "thể chất",
+      "answer": "thể chất",
+      "language": "vi",
+      "choices": [
+        "thể chất",
+        "tinh thần",
+        "sức khỏe"
+      ],
+      "translatedAnswer": {
+        "en": "fitness"
+      },
+      "translation": {
+        "en": "She pays great attention to her fitness."
+      },
+      "hint": "t___t",
+      "sentence": "Cô ấy rất chú trọng đến ___ của mình."
+    },
+    "updatedAt": "2025-03-12T16:04:56.023Z"
+  },
+  "rank": 1889,
+  "notes_md": "**Thể chất** means physical health or physical condition of the body. It focuses on the body, not the mind.\n\nIt’s an uncountable noun; you don’t usually count it, just describe it (thể chất tốt/kém, cải thiện thể chất). It often pairs with words about health, exercise, and development (sức khỏe thể chất, phát triển thể chất).\n\nIt’s commonly contrasted with **tinh thần** (mental/emotional state), so “thể chất và tinh thần” is a strong memory pair.\n\nClose idea: **sức khỏe** (health in general), but *thể chất* is more specifically about the body’s physical condition.",
+  "exampleSentencesTranslated": [
+    "He always exercises to improve his physical health.",
+    "She pays attention to her physical health by eating healthily.",
+    "I think good physical health helps with studying more effectively."
+  ],
+  "updatedAt": "2026-03-03T09:37:55.435Z",
+  "choices": [
+    "tinh thần",
+    "thể chất",
+    "sức mạnh"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Thể chất của tôi rất tốt nhờ tập thể dục thường xuyên.",
+      "en": "My physical condition is great thanks to regular exercise.",
+      "es": "Mi condición física es excelente gracias al ejercicio regular."
+    },
+    "translations": {
+      "es": "condición física",
+      "en": "physical condition",
+      "vi": "thể chất"
+    },
+    "definitions": {
+      "en": "The physical state or condition of a person.",
+      "es": "El estado o condición física de una persona.",
+      "vi": "Trạng thái hoặc điều kiện thể chất của một người."
+    },
+    "createdAt": "2025-01-28T13:36:20.961Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh luôn tập thể dục để cải thiện thể chất của mình.",
+    "Chị ấy chú ý đến thể chất bằng cách ăn uống lành mạnh.",
+    "Em thấy thể chất tốt giúp học tập hiệu quả hơn."
+  ],
+  "notes": "Thể chất means physical health or physical condition of the body. It focuses on the body, not the mind.\n\nIt’s an uncountable noun; you don’t usually count it, just describe it (thể chất tốt/kém, cải thiện thể chất). It often pairs with words about health, exercise, and development (sức khỏe thể chất, phát triển thể chất).\n\nIt’s commonly contrasted with tinh thần (mental/emotional state), so “thể chất và tinh thần” is a strong memory pair.\n\nClose idea: sức khỏe (health in general), but thể chất is more specifically about the body’s physical condition.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "nNXKygWJdpiY4ujgNGwg"
+}

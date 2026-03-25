@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể cho em biết lí do vì sao anh đến trễ không?",
+    "Chị ấy không muốn nói về lí do khiến chị buồn.",
+    "Mọi người đều tò mò về lí do anh nghỉ việc ở công ty cũ."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "lí do",
+      "translatedAnswer": {
+        "en": "reason"
+      },
+      "choices": [],
+      "sentence": "Tôi không biết ___ của bạn.",
+      "translation": {
+        "en": "I don't know your reason."
+      },
+      "word": "lí do",
+      "language": "vi"
+    },
+    "id": "bc6c52d6-6028-43d6-91b5-8d9023a88fb3",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:00:24.636Z",
+    "updatedAt": "2025-03-12T16:00:24.636Z"
+  },
+  "choices": [
+    "lí do",
+    "kết quả",
+    "thái độ"
+  ],
+  "rank": 1442,
+  "definition": "reason",
+  "notes": "lí do means reason — why something happens or why someone does something.\n\nIt’s a countable noun: một lí do, nhiều lí do. You’ll often see it with có (to have), cho (to give), or after vì (because of).  \n\nA close synonym is nguyên nhân, but that sounds more like a cause (often more serious or technical). Use lí do for everyday explanations.",
+  "notes_md": "**lí do** means **reason** — why something happens or why someone does something.\n\nIt’s a countable noun: *một lí do*, *nhiều lí do*. You’ll often see it with **có** (to have), **cho** (to give), or after **vì** (because of).  \n\nA close synonym is **nguyên nhân**, but that sounds more like a cause (often more serious or technical). Use **lí do** for everyday explanations.",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I don't understand this reason."
+      },
+      "word": "lí do",
+      "language": "vi",
+      "sentence": "Tôi không hiểu ___ này.",
+      "choices": [
+        "cách",
+        "lí do",
+        "mục đích"
+      ],
+      "hint": "l__ d__",
+      "translatedAnswer": {
+        "en": "reason"
+      },
+      "answer": "lí do"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "96402824-bb1c-419d-a67b-f918e546a788",
+    "createdAt": "2025-03-12T16:00:24.636Z",
+    "updatedAt": "2025-03-12T16:00:24.636Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lí do",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cần một lí do để đi.",
+      "en": "I need a reason to go.",
+      "es": "Necesito una razón para ir."
+    },
+    "createdAt": "2025-01-28T13:32:34.955Z",
+    "definitions": {
+      "vi": "Một nguyên nhân hoặc giải thích cho một hành động hoặc sự kiện.",
+      "en": "A cause or explanation for an action or event.",
+      "es": "Una causa o explicación para una acción o evento."
+    },
+    "translations": {
+      "vi": "lí do",
+      "es": "razón",
+      "en": "reason"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T08:50:05.730Z",
+  "exampleSentencesTranslated": [
+    "Can you tell me the reason why you arrived late?",
+    "She does not want to talk about the reason that made her sad.",
+    "Everyone is curious about the reason you left your old company."
+  ],
+  "_id": "mBpeFH7VPFqrOxGNXxe1"
+}

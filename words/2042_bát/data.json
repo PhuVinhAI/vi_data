@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Sáng nay, em ăn một bát phở trước khi đi làm.",
+    "Anh có thể lấy cho chị một bát cơm không?",
+    "Mẹ vừa mua thêm mấy bát mới cho gia đình dùng."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:37:59.583Z",
+    "definitions": {
+      "en": "A bowl, typically used for serving food.",
+      "es": "Un tazón, típicamente utilizado para servir comida.",
+      "vi": "Một cái bát, thường được sử dụng để phục vụ thức ăn."
+    },
+    "translations": {
+      "en": "bowl",
+      "es": "tazón",
+      "vi": "bát"
+    },
+    "example": {
+      "en": "I eat rice in a bowl.",
+      "vi": "Tôi ăn cơm trong một cái bát.",
+      "es": "Como arroz en un tazón."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2042,
+  "notes": "bát = bowl. It’s the everyday word for a small to medium bowl you eat from.\n\nIt’s a countable noun. Use the classifier cái when counting: một cái bát, hai cái bát.  \nIt’s also used as a unit of food: one bowl of something.\n\nClose word: chén = smaller bowl (often for rice or dipping sauce), while bát is usually bigger.",
+  "exampleSentencesTranslated": [
+    "This morning, I ate a bowl of pho before going to work.",
+    "Can you get me a bowl of rice?",
+    "Mom just bought some new bowls for the family to use."
+  ],
+  "updatedAt": "2026-03-03T09:54:11.234Z",
+  "choices": [
+    "bát",
+    "đĩa",
+    "cốc"
+  ],
+  "definition": "bowl",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:59:56.937Z",
+    "createdAt": "2025-03-12T13:59:56.937Z",
+    "id": "c6b95592-ffcf-431c-ba41-476eec66526d",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "bát",
+      "sentence": "Tôi ăn cơm trong ___.",
+      "translation": {
+        "en": "I eat rice in a bowl."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "bowl"
+      },
+      "answer": "bát"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "word": "bát",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "Mom makes soup in a bowl."
+      },
+      "language": "vi",
+      "choices": [
+        "bát",
+        "đĩa",
+        "cốc"
+      ],
+      "hint": "b__",
+      "word": "bát",
+      "sentence": "Mẹ làm món canh trong ___.",
+      "translatedAnswer": {
+        "en": "bowl"
+      },
+      "answer": "bát"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "8cecb526-dc80-4f55-98c5-b50796b3fb5d",
+    "createdAt": "2025-03-12T13:59:56.937Z",
+    "updatedAt": "2025-03-12T13:59:56.937Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**bát** = bowl. It’s the everyday word for a small to medium bowl you eat from.\n\nIt’s a **countable noun**. Use the classifier **cái** when counting: *một cái bát, hai cái bát*.  \nIt’s also used as a **unit of food**: one bowl of something.\n\n\nClose word: **chén** = smaller bowl (often for rice or dipping sauce), while **bát** is usually bigger.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "IkW5qcmm5nUOWmN18XY2"
+}

@@ -1,0 +1,101 @@
+{
+  "definition": "into",
+  "flashcard": {
+    "translations": {
+      "en": "into"
+    },
+    "createdAt": "2025-05-24T16:19:46.527Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "vào",
+    "definitions": {
+      "en": "To move from outside to inside a place.",
+      "vi": "Chỉ sự di chuyển từ bên ngoài vào bên trong một nơi nào đó."
+    },
+    "example": {
+      "en": "Please come into the house.",
+      "vi": "Xin mời bạn vào nhà."
+    }
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:25:58.848Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "vào",
+      "sentence": "Cửa này mở ___.",
+      "language": "vi",
+      "choices": [],
+      "answer": "vào",
+      "translation": {
+        "en": "This door opens in."
+      },
+      "translatedAnswer": {
+        "en": "in"
+      }
+    },
+    "id": "e02ca2c0-abb6-4703-91a9-0c1800d444bf",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:25:58.848Z"
+  },
+  "exampleSentencesTranslated": [
+    "He goes into the new house.",
+    "I run into the classroom now.",
+    "She puts the book into the small bag."
+  ],
+  "exampleSentences": [
+    "Anh đi vào nhà mới.",
+    "Em chạy vào lớp học ngay.",
+    "Chị bỏ sách vào túi nhỏ."
+  ],
+  "updatedAt": "2026-03-03T06:08:51.809Z",
+  "notes": "vào means into or to go in. It shows movement from outside to inside.\n\nIt often comes after a verb to show direction: movement or putting something inside somewhere.  \n\nIt’s also used with time to mean at/in a specific time (vào buổi sáng).  \nAnother common meaning is to join/start something, like a school, company, or army.  \n\nOpposite: ra = out.",
+  "choices": [
+    "ra",
+    "trong",
+    "vào"
+  ],
+  "sentenceBreakdowns": [
+    "Anh (he) + đi (goes) + vào (into) + nhà (house) + mới (new)",
+    "Em (I) + chạy (run) + vào (into) + lớp học (classroom) + ngay (now)",
+    "Chị (she) + bỏ (puts) + sách (book) + vào (into) + túi (bag) + nhỏ (small)"
+  ],
+  "rank": 57,
+  "notes_md": "**vào** means *into* or *to go in*. It shows movement from outside to inside.\n\nIt often comes after a verb to show direction: movement or putting something inside somewhere.  \n\nIt’s also used with time to mean *at/in* a specific time (vào buổi sáng).  \nAnother common meaning is *to join/start* something, like a school, company, or army.  \n\nOpposite: **ra** = out.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "ra",
+        "vào",
+        "lên"
+      ],
+      "word": "vào",
+      "sentence": "Chúng ta sẽ ___ trong nhà.",
+      "language": "vi",
+      "translation": {
+        "en": "We will go in the house."
+      },
+      "translatedAnswer": {
+        "en": "in"
+      },
+      "hint": "v__",
+      "answer": "vào"
+    },
+    "createdAt": "2025-03-12T13:25:58.848Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d3b75efd-259d-44a3-9188-30391ab80b0b",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:25:58.848Z"
+  },
+  "word": "vào",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "9x0uJoR6RTtP4RUlSvzt"
+}

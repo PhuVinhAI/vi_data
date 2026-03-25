@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "La sustancia o material del cual están hechos los objetos físicos.",
+      "vi": "Chất liệu hoặc vật chất mà các đối tượng vật lý được tạo ra.",
+      "en": "The substance or material of which physical objects are made."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:38:20.798Z",
+    "example": {
+      "es": "Este material es muy pesado.",
+      "en": "This material is very heavy.",
+      "vi": "Vật chất này rất nặng."
+    },
+    "translations": {
+      "es": "material",
+      "en": "material",
+      "vi": "vật chất"
+    }
+  },
+  "rank": 2237,
+  "definition": "material things",
+  "exampleSentences": [
+    "Anh không quan tâm nhiều đến vật chất, anh thích cuộc sống giản dị.",
+    "Chị nghĩ rằng hạnh phúc không chỉ đến từ vật chất mà còn từ tình cảm.",
+    "Em cố gắng làm việc chăm chỉ để có đủ vật chất cho gia đình."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Khoa học nghiên cứu về ___.",
+      "answer": "vật chất",
+      "translation": {
+        "en": "Science studies matter."
+      },
+      "choices": [
+        "năng lượng",
+        "vật chất",
+        "không khí"
+      ],
+      "hint": "v___h",
+      "word": "vật chất",
+      "translatedAnswer": {
+        "en": "matter"
+      },
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "15263b68-d6d1-407d-b0b7-661880cecde0",
+    "createdAt": "2025-03-12T12:54:19.043Z",
+    "updatedAt": "2025-03-12T12:54:19.043Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "vật chất",
+  "choices": [
+    "vật chất",
+    "tinh thần",
+    "niềm tin"
+  ],
+  "notes": "Vật chất means material things — money, property, physical possessions. It’s about the physical/financial side of life, not emotions or spirit.\n\nIt’s an uncountable noun, so you don’t say một vật chất; you talk about có đủ vật chất, giá trị vật chất, điều kiện vật chất. It’s often contrasted with tinh thần (mental/spiritual side), a very common pair: vật chất và tinh thần.  \n\nClose ideas: tiền bạc (money) and tài sản (assets), but vật chất is broader — it’s the whole material aspect of life, not just cash.",
+  "notes_md": "**Vật chất** means material things — money, property, physical possessions. It’s about the physical/financial side of life, not emotions or spirit.\n\nIt’s an uncountable noun, so you don’t say *một vật chất*; you talk about *có đủ vật chất*, *giá trị vật chất*, *điều kiện vật chất*. It’s often contrasted with **tinh thần** (mental/spiritual side), a very common pair: *vật chất và tinh thần*.  \n\nClose ideas: **tiền bạc** (money) and **tài sản** (assets), but *vật chất* is broader — it’s the whole material aspect of life, not just cash.",
+  "exampleSentencesTranslated": [
+    "He doesn't care much about material things, he likes a simple life.",
+    "She thinks that happiness doesn't only come from material things but also from affection.",
+    "I try to work hard to have enough material things for my family."
+  ],
+  "updatedAt": "2026-03-03T10:14:49.836Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:54:19.043Z",
+    "updatedAt": "2025-03-12T12:54:19.043Z",
+    "content": {
+      "translation": {
+        "en": "Science studies matter."
+      },
+      "choices": [],
+      "word": "vật chất",
+      "translatedAnswer": {
+        "en": "matter"
+      },
+      "language": "vi",
+      "sentence": "Khoa học nghiên cứu về ___.",
+      "answer": "vật chất"
+    },
+    "type": "fillBlankQuiz",
+    "id": "a6f16d9e-9221-4737-baef-ad1e71ee5bfa",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "1QleV40ipb0cDJuB6vvc"
+}

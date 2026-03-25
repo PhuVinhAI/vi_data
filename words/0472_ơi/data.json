@@ -1,0 +1,99 @@
+{
+  "word": "ơi",
+  "exampleSentencesTranslated": [
+    "Hey, can you help me get the shirt on the chair?",
+    "Hey, what time does this coffee shop close?",
+    "Hey, can I ask you the way to the post office?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ơi",
+    "này",
+    "ừ"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "Hello, how are you?"
+      },
+      "choices": [
+        "nè",
+        "ơi",
+        "hả"
+      ],
+      "answer": "ơi",
+      "translatedAnswer": {
+        "en": "how are you"
+      },
+      "language": "vi",
+      "hint": "o__",
+      "word": "ơi",
+      "sentence": "Chào bạn, ___ có khỏe không?"
+    },
+    "updatedAt": "2025-03-12T16:29:57.051Z",
+    "createdAt": "2025-03-12T16:29:57.051Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8262c85f-f165-4741-b5e6-6084f1a63b56"
+  },
+  "exampleSentences": [
+    "Em ơi, giúp anh lấy cái áo trên ghế với nhé.",
+    "Chị ơi, quán cà phê này mở cửa đến mấy giờ vậy?",
+    "Bác ơi, cho cháu hỏi đường đến bưu điện được không?"
+  ],
+  "updatedAt": "2026-03-03T07:09:33.274Z",
+  "flashcard": {
+    "example": {
+      "vi": "Chị ơi, em cần giúp đỡ.",
+      "en": "Hey sister, I need help.",
+      "es": "Hola hermana, necesito ayuda."
+    },
+    "definitions": {
+      "es": "Una partícula utilizada para llamar la atención de alguien o dirigirse a alguien de manera amistosa.",
+      "en": "A particle used to call someone's attention or to address someone in a friendly manner.",
+      "vi": "Một từ dùng để gọi sự chú ý của ai đó hoặc để xưng hô với ai đó một cách thân thiện."
+    },
+    "translations": {
+      "vi": "ơi",
+      "es": "hola",
+      "en": "hey"
+    },
+    "createdAt": "2025-01-28T14:00:55.040Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "ơi is like “hey” or “hey you” used to call someone or get their attention. It’s friendly and natural, not rude.\n\nIt comes after the person word (name, title, pronoun).  \n\nYou can use it with family terms, job titles, or pronouns to sound polite and warm. Without ơi, the call can feel cold or too direct.\n\nIt’s only for calling someone, not for general greetings like “hello” (that’s chào).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ơi",
+      "sentence": "Chào bạn, ___ có khỏe không?",
+      "translatedAnswer": {
+        "en": "how are you"
+      },
+      "answer": "ơi",
+      "translation": {
+        "en": "Hello, how are you?"
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:29:57.051Z",
+    "createdAt": "2025-03-12T16:29:57.051Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "f0be989c-73f5-4aa6-b457-65cffcbf3d8f"
+  },
+  "definition": "hey",
+  "rank": 472,
+  "notes_md": "**ơi** is like “hey” or “hey you” used to call someone or get their attention. It’s friendly and natural, not rude.\n\nIt comes **after** the person word (name, title, pronoun).  \n\nYou can use it with family terms, job titles, or pronouns to sound polite and warm. Without **ơi**, the call can feel cold or too direct.\n\nIt’s only for calling someone, not for general greetings like “hello” (that’s **chào**).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "u0ms0TDU83UJBPAO9BBs"
+}

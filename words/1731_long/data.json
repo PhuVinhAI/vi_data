@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:21:17.691Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "long",
+      "es": "largo",
+      "vi": "dài"
+    },
+    "example": {
+      "es": "Esta mesa es muy larga.",
+      "en": "This table is very long.",
+      "vi": "Chiếc bàn này rất dài."
+    },
+    "definitions": {
+      "vi": "Có chiều dài lớn hơn bình thường.",
+      "es": "Tener una longitud mayor de lo habitual.",
+      "en": "Having a greater length than usual."
+    },
+    "createdAt": "2025-01-28T13:20:34.464Z"
+  },
+  "word": "long",
+  "exampleSentencesTranslated": [
+    "In Vietnam, dragon is a symbol of strength and power.",
+    "I saw a beautiful dragon painting at the temple yesterday.",
+    "During Tet, many people like to watch dragon dance on the street."
+  ],
+  "notes_md": "**Long** means *dragon* (the mythical creature). It’s a **noun** and usually goes with the classifier **con** → *con long*.\n\nYou’ll often see it in cultural or historical contexts, especially linked to power, kings, and legends. It appears a lot in Sino‑Vietnamese words and names (like **Thăng Long**, old name of Hanoi).\n\nDon’t confuse it with **rồng**, which is the more everyday Vietnamese word for dragon — *long* feels more formal, classical, or symbolic.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "95fae59d-177b-4aa3-8188-654069f9f84a",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "long"
+      },
+      "answer": "long",
+      "hint": "l___g",
+      "sentence": "Cuốn sách này rất ___.",
+      "choices": [
+        "ngắn",
+        "cũ",
+        "long"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "This book is very long."
+      },
+      "word": "long"
+    },
+    "updatedAt": "2025-03-12T15:47:55.219Z",
+    "createdAt": "2025-03-12T15:47:55.219Z"
+  },
+  "rank": 1731,
+  "notes": "Long means dragon (the mythical creature). It’s a noun and usually goes with the classifier con → con long.\n\nYou’ll often see it in cultural or historical contexts, especially linked to power, kings, and legends. It appears a lot in Sino‑Vietnamese words and names (like Thăng Long, old name of Hanoi).\n\nDon’t confuse it with rồng, which is the more everyday Vietnamese word for dragon — long feels more formal, classical, or symbolic.",
+  "definition": "dragon",
+  "exampleSentences": [
+    "Ở Việt Nam, long là biểu tượng cho sức mạnh và quyền lực.",
+    "Anh đã thấy bức tranh long tuyệt đẹp trong đền hôm qua.",
+    "Vào dịp Tết, nhiều người thích xem múa long trên phố."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "12ac8a99-7a79-411f-a5d0-5cc11c5bac90",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Bây giờ là ___ thời gian.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "long"
+      },
+      "answer": "long",
+      "translation": {
+        "en": "Now is a long time."
+      },
+      "word": "long",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:47:55.219Z",
+    "createdAt": "2025-03-12T15:47:55.219Z"
+  },
+  "choices": [
+    "long",
+    "hổ",
+    "ngựa"
+  ],
+  "_id": "iyj8v4ksuzN3QROvslrF"
+}

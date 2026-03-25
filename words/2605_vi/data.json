@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "2026e0cf-6812-4133-8c65-71790e6029fa",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:01:52.598Z",
+    "updatedAt": "2025-03-12T15:01:52.598Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "vi"
+      },
+      "translation": {
+        "en": "I like to eat vi."
+      },
+      "sentence": "Tôi thích ăn ___.",
+      "word": "vi",
+      "language": "vi",
+      "answer": "vi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:27:48.190Z",
+  "exampleSentencesTranslated": [
+    "He has learned to play the violin since he was a child and is very passionate.",
+    "She often listens to violin music in the evening to relax after work.",
+    "I want to buy a new violin to practice for the performance."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:34:37.836Z",
+    "definitions": {
+      "en": "to visit; to go see someone.",
+      "es": "visitar; ir a ver a alguien.",
+      "vi": "thăm; đi gặp ai đó."
+    },
+    "example": {
+      "en": "I am visiting my grandmother.",
+      "es": "Estoy visitando a mi abuela.",
+      "vi": "Tôi đi viếng thăm bà ngoại."
+    },
+    "translations": {
+      "en": "visit",
+      "es": "visitar",
+      "vi": "vi"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**vi** means *violin*, the string instrument played with a bow.  \n\nIt’s a noun. Use the classifier **cây** for musical instruments: *cây vi*.  \nCommon verbs: **chơi vi** (play the violin) and **kéo vi** (bow the violin).  \n\nYou’ll also see **vĩ cầm**, which is more formal but means the same thing.",
+  "definition": "violin",
+  "choices": [
+    "vi",
+    "trống",
+    "guitar"
+  ],
+  "rank": 2605,
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "vi",
+      "language": "vi",
+      "hint": "g___n",
+      "answer": "vi",
+      "sentence": "Tôi thích ăn ___.",
+      "translation": {
+        "en": "I like to eat vi."
+      },
+      "choices": [
+        "bánh",
+        "vi",
+        "cơm"
+      ],
+      "translatedAnswer": {
+        "en": "vi"
+      }
+    },
+    "updatedAt": "2025-03-12T15:01:52.598Z",
+    "createdAt": "2025-03-12T15:01:52.598Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "5c6b450c-f376-41a1-b24a-79cb201e6604"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "vi means violin, the string instrument played with a bow.  \n\nIt’s a noun. Use the classifier cây for musical instruments: cây vi.  \nCommon verbs: chơi vi (play the violin) and kéo vi (bow the violin).  \n\nYou’ll also see vĩ cầm, which is more formal but means the same thing.",
+  "exampleSentences": [
+    "Anh ấy học chơi vi từ khi còn nhỏ và rất đam mê.",
+    "Chị thường nghe nhạc vi vào buổi tối để thư giãn sau ngày làm việc.",
+    "Em muốn mua một cây vi mới để luyện tập cho buổi biểu diễn."
+  ],
+  "word": "vi",
+  "_id": "XTOLJWdwYT9brmUpcluH"
+}

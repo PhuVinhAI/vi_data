@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "She certainly knows this."
+      },
+      "translatedAnswer": {
+        "en": "certainly"
+      },
+      "hint": "h___n",
+      "answer": "hẳn",
+      "choices": [
+        "hẳn",
+        "có thể",
+        "chắc chắn"
+      ],
+      "word": "hẳn",
+      "language": "vi",
+      "sentence": "Cô ấy ___ biết điều này."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:24.463Z",
+    "id": "f38efdfa-8f46-48a2-9a5d-c7d63a502aa0",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:17:24.463Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hẳn** = certainly, definitely, for sure (based on strong reasoning or assumption). It shows you’re quite confident about something.\n\nIt’s an adverb, often used to express a logical guess. It usually goes before verbs or before **đã / sẽ**.\n\n\nIt’s stronger and more confident than *chắc* (probably). Think: *chắc* = likely, *hẳn* = I’m pretty sure.",
+  "choices": [
+    "hẳn",
+    "hắn",
+    "hãn"
+  ],
+  "rank": 701,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hẳn",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:17:24.463Z",
+    "id": "bc3491f0-c0c1-41b7-bb0b-7d9e72d2e3af",
+    "content": {
+      "answer": "hẳn",
+      "translation": {
+        "en": "She certainly knows this."
+      },
+      "translatedAnswer": {
+        "en": "certainly"
+      },
+      "word": "hẳn",
+      "language": "vi",
+      "sentence": "Cô ấy ___ biết điều này.",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:17:24.463Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "You will certainly like this dish because it is very delicious.",
+    "She has certainly already heard the latest news.",
+    "When you are late like that, everyone is certainly very worried."
+  ],
+  "definition": "certainly",
+  "flashcard": {
+    "translations": {
+      "en": "surely",
+      "vi": "hẳn",
+      "es": "seguramente"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:52:06.970Z",
+    "definitions": {
+      "vi": "Chắc chắn; không nghi ngờ gì.",
+      "es": "Ciertamente; seguramente; sin duda.",
+      "en": "Certainly; surely; without a doubt."
+    },
+    "example": {
+      "vi": "Cô ấy hẳn sẽ đến buổi tiệc tối nay.",
+      "es": "Ella seguramente vendrá a la fiesta esta noche.",
+      "en": "She will surely come to the party tonight."
+    }
+  },
+  "notes": "hẳn = certainly, definitely, for sure (based on strong reasoning or assumption). It shows you’re quite confident about something.\n\nIt’s an adverb, often used to express a logical guess. It usually goes before verbs or before đã / sẽ.\n\nIt’s stronger and more confident than chắc (probably). Think: chắc = likely, hẳn = I’m pretty sure.",
+  "updatedAt": "2026-03-03T07:31:42.500Z",
+  "exampleSentences": [
+    "Anh hẳn sẽ thích món ăn này vì nó rất ngon.",
+    "Chị ấy hẳn đã biết tin tức mới nhất rồi.",
+    "Khi em đi muộn như vậy, mọi người hẳn rất lo lắng."
+  ],
+  "_id": "bVL3UVt2Qw4iBZ5CWUbQ"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He often writes a comment under social media posts.",
+    "Can you read people's comment about this movie?",
+    "I do not like negative comment on that website."
+  ],
+  "updatedAt": "2026-03-03T09:14:17.684Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "comment",
+      "es": "comentario",
+      "vi": "bình luận"
+    },
+    "definitions": {
+      "es": "Una observación o declaración que expresa una opinión o reacción.",
+      "en": "A remark or statement expressing an opinion or reaction.",
+      "vi": "Một nhận xét hoặc tuyên bố thể hiện ý kiến hoặc phản ứng."
+    },
+    "createdAt": "2025-01-28T13:35:20.160Z",
+    "example": {
+      "vi": "Tôi muốn bình luận về bài viết này.",
+      "es": "Quiero comentar sobre este artículo.",
+      "en": "I want to comment on this article."
+    }
+  },
+  "word": "bình luận",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:03:54.976Z",
+    "updatedAt": "2025-03-12T16:03:54.976Z",
+    "content": {
+      "word": "bình luận",
+      "translation": {
+        "en": "She left a comment on the website."
+      },
+      "language": "vi",
+      "sentence": "Cô ấy đã để lại một ___ trên trang web.",
+      "choices": [
+        "nhận xét",
+        "bình luận",
+        "ý kiến"
+      ],
+      "hint": "b___n",
+      "translatedAnswer": {
+        "en": "comment"
+      },
+      "answer": "bình luận"
+    },
+    "id": "ec04eb18-c215-4446-9c2d-d759893dfbf3",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bình luận** = comment, opinion about something (spoken or written). It can be a **noun** or a **verb**.\n\nAs a **noun**, it’s countable: *một bình luận, nhiều bình luận*. Often used with verbs like *viết, để lại, đọc, xem*.\n\nAs a **verb**, it means to comment on or discuss something.  \n\nClose to **nhận xét** (remark/evaluation), but *bình luận* often feels more like sharing opinions publicly, especially online or in media.",
+  "notes": "bình luận = comment, opinion about something (spoken or written). It can be a noun or a verb.\n\nAs a noun, it’s countable: một bình luận, nhiều bình luận. Often used with verbs like viết, để lại, đọc, xem.\n\nAs a verb, it means to comment on or discuss something.  \n\nClose to nhận xét (remark/evaluation), but bình luận often feels more like sharing opinions publicly, especially online or in media.",
+  "definition": "comment",
+  "rank": 1666,
+  "choices": [
+    "bình luận",
+    "thảo luận",
+    "giới thiệu"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "a4da68a1-5b32-415e-9714-1f6e6b554ea1",
+    "content": {
+      "translation": {
+        "en": "I need a comment for this article."
+      },
+      "word": "bình luận",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "comment"
+      },
+      "answer": "bình luận",
+      "choices": [],
+      "sentence": "Tôi cần ___ cho bài viết này."
+    },
+    "updatedAt": "2025-03-12T16:03:54.976Z",
+    "createdAt": "2025-03-12T16:03:54.976Z"
+  },
+  "exampleSentences": [
+    "Anh thường viết bình luận dưới các bài đăng trên mạng xã hội.",
+    "Chị có thể đọc bình luận của mọi người về bộ phim này không?",
+    "Em không thích những bình luận tiêu cực trên trang web đó."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "n9vfMI7bK91QQko1adYw"
+}

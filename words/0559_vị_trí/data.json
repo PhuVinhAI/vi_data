@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "vị trí",
+    "thời gian",
+    "kích thước"
+  ],
+  "updatedAt": "2026-03-03T07:18:03.756Z",
+  "exampleSentencesTranslated": [
+    "Can you show me the position of the restroom?",
+    "We need to change the position of the desk to better suit the space.",
+    "She was promoted to the position of manager in the company."
+  ],
+  "notes": "Vị trí means position or location — where something or someone is. It can be physical (a place) or abstract (a role/rank).\n\nIt’s a noun. You’ll often hear vị trí + của + noun to show what it belongs to, or ở vị trí + number/place for ranking or placement.  \n\nCommon pairings: vị trí địa lý (geographical location), vị trí công việc (job position), giữ vị trí (hold a position).  \n\nFor physical “spot/place,” people sometimes say chỗ (more casual). For job rank, chức vụ is closer to “title.”",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "position"
+      },
+      "answer": "vị trí",
+      "word": "vị trí",
+      "sentence": "Cô ấy tìm ___ mới ở công ty.",
+      "translation": {
+        "en": "She is looking for a new position at the company."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "id": "a7bb993f-8649-4930-ba38-41b4914f48f3",
+    "createdAt": "2025-03-12T14:14:19.498Z",
+    "updatedAt": "2025-03-12T14:14:19.498Z"
+  },
+  "definition": "position",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:14:19.498Z",
+    "createdAt": "2025-03-12T14:14:19.498Z",
+    "id": "1da5c4f3-5c29-4d1e-bdd7-763925f97027",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "khả năng",
+        "vị trí",
+        "cơ hội"
+      ],
+      "translation": {
+        "en": "This job has an interesting position."
+      },
+      "sentence": "Công việc này có ___ thú vị.",
+      "hint": "v___i",
+      "word": "vị trí",
+      "answer": "vị trí",
+      "translatedAnswer": {
+        "en": "position"
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "vị trí",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Vị trí** means *position* or *location* — where something or someone is. It can be physical (a place) or abstract (a role/rank).\n\nIt’s a noun. You’ll often hear **vị trí + của + noun** to show what it belongs to, or **ở vị trí + number/place** for ranking or placement.  \n\nCommon pairings: **vị trí địa lý** (geographical location), **vị trí công việc** (job position), **giữ vị trí** (hold a position).  \n\nFor physical “spot/place,” people sometimes say **chỗ** (more casual). For job rank, **chức vụ** is closer to “title.”",
+  "exampleSentences": [
+    "Anh có thể chỉ cho em vị trí của nhà vệ sinh không?",
+    "Chúng ta cần thay đổi vị trí của bàn làm việc cho phù hợp hơn.",
+    "Em ấy được thăng chức lên vị trí quản lý trong công ty."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Un lugar o ubicación donde alguien o algo está situado.",
+      "vi": "Một nơi hoặc vị trí mà ai đó hoặc cái gì đó được đặt.",
+      "en": "A place or location where someone or something is situated."
+    },
+    "translations": {
+      "es": "posición",
+      "vi": "vị trí",
+      "en": "position"
+    },
+    "createdAt": "2025-01-28T11:51:24.477Z",
+    "example": {
+      "en": "Your position is very important in the team.",
+      "es": "Tu posición es muy importante en el equipo.",
+      "vi": "Vị trí của bạn rất quan trọng trong nhóm."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 559,
+  "_id": "LfKUTJM9v22HHIKSHwPp"
+}

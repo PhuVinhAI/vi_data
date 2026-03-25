@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "es": "poco",
+      "vi": "ít",
+      "en": "little"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi có ít thời gian để hoàn thành bài tập.",
+      "en": "I have little time to finish the homework.",
+      "es": "Tengo poco tiempo para terminar la tarea."
+    },
+    "createdAt": "2025-01-28T12:01:10.897Z",
+    "definitions": {
+      "en": "A small amount; not much.",
+      "vi": "Một lượng nhỏ; không nhiều.",
+      "es": "Una pequeña cantidad; no mucho."
+    }
+  },
+  "notes_md": "**ít** = few / a little (small amount or small number). It means not much.\n\nUse **ít + noun** for both countable and uncountable nouns (ít tiền, ít người). It usually comes before the noun and doesn’t change form.  \nYou can add degree words: **rất ít** (very few), **hơi ít** (a bit few).  \nFor comparison: **ít hơn** = fewer / less than.  \n\nWatch out: **ít** is the opposite of **nhiều** (many / much). Also, **ít khi** means “rarely” — different meaning but very common.",
+  "exampleSentences": [
+    "Em chỉ có ít thời gian để làm bài tập hôm nay.",
+    "Anh mua ít rau cho bữa tối vì nhà còn nhiều thức ăn.",
+    "Chị thấy trong lớp hôm nay có ít học sinh đến hơn mọi khi."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:25:19.660Z",
+    "content": {
+      "sentence": "Tôi chỉ ăn ___ bánh.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "little"
+      },
+      "choices": [],
+      "word": "ít",
+      "translation": {
+        "en": "I only eat a little cake."
+      },
+      "answer": "ít"
+    },
+    "type": "fillBlankQuiz",
+    "id": "a8badd79-13f3-4ffd-94f6-a2b3897ceb0c",
+    "createdAt": "2025-03-12T14:25:19.660Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "few",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "little"
+      },
+      "language": "vi",
+      "sentence": "Họ có ___ thông tin về sự kiện.",
+      "translation": {
+        "en": "They have little information about the event."
+      },
+      "answer": "ít",
+      "hint": "i__",
+      "word": "ít",
+      "choices": [
+        "nhiều",
+        "ít",
+        "đầy đủ"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:25:19.660Z",
+    "type": "multiChoiceQuiz",
+    "id": "42c8ce14-b19a-4748-8381-d112b7df7716",
+    "createdAt": "2025-03-12T14:25:19.660Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "ít",
+  "rank": 391,
+  "exampleSentencesTranslated": [
+    "I only have few time to do homework today.",
+    "He bought few vegetables for dinner because there is still a lot of food at home.",
+    "She noticed that few students came to class today compared to usual."
+  ],
+  "updatedAt": "2026-03-03T07:01:18.042Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nhiều",
+    "ít",
+    "mới"
+  ],
+  "notes": "ít = few / a little (small amount or small number). It means not much.\n\nUse ít + noun for both countable and uncountable nouns (ít tiền, ít người). It usually comes before the noun and doesn’t change form.  \nYou can add degree words: rất ít (very few), hơi ít (a bit few).  \nFor comparison: ít hơn = fewer / less than.  \n\nWatch out: ít is the opposite of nhiều (many / much). Also, ít khi means “rarely” — different meaning but very common.",
+  "_id": "OTX7sGDEnjhIZbf9VwLa"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "ai",
+  "exampleSentences": [
+    "Ai đang gọi điện cho anh vào lúc này vậy?",
+    "Chị không biết ai đã để quên chiếc ô trên bàn.",
+    "Nếu em không biết ai là giáo viên mới, anh sẽ giới thiệu."
+  ],
+  "rank": 1490,
+  "definition": "who",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "ai",
+    "gì",
+    "ở đâu"
+  ],
+  "notes": "Ai means who. It’s used to ask about a person’s identity.\n\nIt’s a question word, usually at the start of the clause, but it can also stay in the subject position.  \n\nIt also appears in fixed combos: ai cũng = everyone, không ai = no one, ai đó = someone. These are super useful and very common.\n\nUnlike English, you don’t change the word for subject/object — ai stays the same.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:48:28.183Z",
+    "createdAt": "2025-03-12T13:48:28.183Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Who is here?"
+      },
+      "answer": "ai",
+      "translatedAnswer": {
+        "en": "who"
+      },
+      "word": "ai",
+      "sentence": "___ đang ở đâu?",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "2f69b28a-5da8-4c2b-aa34-6eeafb425b81",
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T08:55:22.479Z",
+  "notes_md": "**Ai** means **who**. It’s used to ask about a person’s identity.\n\nIt’s a question word, usually at the start of the clause, but it can also stay in the subject position.  \n\nIt also appears in fixed combos: **ai cũng** = everyone, **không ai** = no one, **ai đó** = someone. These are super useful and very common.\n\nUnlike English, you don’t change the word for subject/object — **ai** stays the same.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "19a0e9f9-09f5-4b46-98c7-5f46f239764c",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:48:28.183Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "who"
+      },
+      "language": "vi",
+      "sentence": "___ sẽ tham gia bữa tiệc.",
+      "word": "ai",
+      "hint": "a__",
+      "choices": [
+        "ai",
+        "bạn",
+        "chúng tôi"
+      ],
+      "translation": {
+        "en": "Who will attend the party?"
+      },
+      "answer": "ai"
+    },
+    "updatedAt": "2025-03-12T13:48:28.183Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "ai",
+      "es": "quién",
+      "en": "who"
+    },
+    "example": {
+      "es": "¿Quién te ayudó?",
+      "vi": "Ai là người đã giúp bạn?",
+      "en": "Who helped you?"
+    },
+    "createdAt": "2025-01-28T11:26:49.401Z",
+    "definitions": {
+      "en": "Used to ask about a person or people.",
+      "vi": "Dùng để hỏi về một người hoặc nhiều người.",
+      "es": "Se utiliza para preguntar sobre una persona o personas."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Who is calling you at this time?",
+    "She doesn't know who left the umbrella on the table.",
+    "If you don't know who the new teacher is, I will introduce you."
+  ],
+  "_id": "FVNIynyknXkxwdBWnYzB"
+}

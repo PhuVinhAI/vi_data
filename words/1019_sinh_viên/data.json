@@ -1,0 +1,99 @@
+{
+  "word": "sinh viên",
+  "rank": 1019,
+  "exampleSentences": [
+    "Em là sinh viên năm thứ hai tại trường đại học này.",
+    "Anh thường gặp bạn bè sinh viên ở thư viện để học nhóm.",
+    "Chị ấy là sinh viên xuất sắc và luôn giúp đỡ các bạn khác."
+  ],
+  "definition": "student",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "giảng viên",
+    "sinh viên",
+    "bác sĩ"
+  ],
+  "notes": "Sinh viên means university or college student (not a school kid). It’s used for people studying at higher education level.\n\nIt’s a countable noun: một sinh viên, hai sinh viên, các sinh viên.  \nOften paired with words like đại học, cao đẳng, năm nhất/năm hai to show level or year.  \n\nDon’t confuse it with học sinh (school student, usually primary or high school).",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi là ___ năm thứ hai.",
+      "word": "sinh viên",
+      "translatedAnswer": {
+        "en": "student"
+      },
+      "translation": {
+        "en": "I am a second-year student."
+      },
+      "answer": "sinh viên",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:42:05.912Z",
+    "updatedAt": "2025-03-12T13:42:05.912Z",
+    "id": "050133d1-b026-4a09-98e1-5937b6f6c0d7",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T08:04:43.817Z",
+  "notes_md": "**Sinh viên** means *university or college student* (not a school kid). It’s used for people studying at higher education level.\n\nIt’s a countable noun: *một sinh viên, hai sinh viên, các sinh viên*.  \nOften paired with words like *đại học, cao đẳng, năm nhất/năm hai* to show level or year.  \n\nDon’t confuse it with **học sinh** (school student, usually primary or high school).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:42:05.912Z",
+    "content": {
+      "translation": {
+        "en": "She is a good student."
+      },
+      "answer": "sinh viên",
+      "hint": "s___n",
+      "choices": [
+        "học sinh",
+        "sinh viên",
+        "giáo viên"
+      ],
+      "language": "vi",
+      "word": "sinh viên",
+      "sentence": "Cô ấy là ___ giỏi.",
+      "translatedAnswer": {
+        "en": "student"
+      }
+    },
+    "updatedAt": "2025-03-12T13:42:05.912Z",
+    "id": "841adb90-ec76-473b-af27-5046c14364b6",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T11:20:43.075Z",
+    "example": {
+      "en": "I am a first-year student.",
+      "vi": "Tôi là một sinh viên năm nhất.",
+      "es": "Soy un estudiante de primer año."
+    },
+    "translations": {
+      "en": "student",
+      "es": "estudiante",
+      "vi": "sinh viên"
+    },
+    "definitions": {
+      "en": "A student, especially one who is enrolled in a college or university.",
+      "vi": "Một sinh viên, đặc biệt là người đang theo học tại một trường đại học.",
+      "es": "Un estudiante, especialmente uno que está matriculado en una universidad o colegio."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I am a second-year student at this university.",
+    "I often meet student friends at the library to study together.",
+    "She is an excellent student and always helps other classmates."
+  ],
+  "_id": "E1romtHU4DEoWhpxIl6Q"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:29:40.758Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:40.758Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Mọi người đều thích ___ món này.",
+      "word": "nhất là",
+      "choices": [
+        "nhất là",
+        "có thể",
+        "chắc chắn"
+      ],
+      "hint": "n___ l__",
+      "answer": "nhất là",
+      "translatedAnswer": {
+        "en": "this"
+      },
+      "translation": {
+        "en": "Everyone likes this dish."
+      }
+    },
+    "id": "e69e5d4b-85c3-4279-a2bb-805b5227c00c",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**nhất là** means *especially* — you use it to highlight the thing that stands out the most in a group.\n\nIt usually comes after a general statement, then adds the specific thing that is more important, stronger, or more liked. Think: “in general…, especially…”.\n\n\nClose synonym: **đặc biệt là** (a bit more formal, but very similar).",
+  "rank": 2542,
+  "choices": [
+    "nhất là",
+    "bởi vì",
+    "thường xuyên"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nhất là",
+  "exampleSentencesTranslated": [
+    "I like eating fruit, especially watermelon in the summer.",
+    "She loves animals, especially small dogs and cats.",
+    "I like listening to music, especially when I feel tired."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:29:40.758Z",
+    "type": "fillBlankQuiz",
+    "id": "51c77e01-4d3f-4382-8c4f-7c45d79c22fe",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:29:40.758Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "translation": {
+        "en": "I really like eating this dish."
+      },
+      "answer": "nhất là",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ món ăn này.",
+      "word": "nhất là"
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "especialmente; particularmente",
+      "vi": "nhất là; đặc biệt là",
+      "en": "especially; particularly"
+    },
+    "example": {
+      "en": "I love eating fruits, especially mangoes.",
+      "vi": "Tôi thích ăn trái cây, nhất là xoài.",
+      "es": "Me encanta comer frutas, especialmente mangos."
+    },
+    "translations": {
+      "vi": "nhất là",
+      "es": "especialmente",
+      "en": "especially"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:09:37.270Z"
+  },
+  "definition": "especially",
+  "notes": "nhất là means especially — you use it to highlight the thing that stands out the most in a group.\n\nIt usually comes after a general statement, then adds the specific thing that is more important, stronger, or more liked. Think: “in general…, especially…”.\n\nClose synonym: đặc biệt là (a bit more formal, but very similar).",
+  "updatedAt": "2026-03-03T10:46:57.248Z",
+  "exampleSentences": [
+    "Anh rất thích ăn trái cây, nhất là dưa hấu vào mùa hè.",
+    "Chị yêu động vật, nhất là chó và mèo nhỏ.",
+    "Em thích nghe nhạc, nhất là khi em cảm thấy mệt mỏi."
+  ],
+  "_id": "Aqu8fPw0IO7YO2aa0Ft9"
+}

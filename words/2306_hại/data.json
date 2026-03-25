@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:22:59.574Z",
+    "id": "d6db901b-2c44-4216-a508-cc1cfdafbdfb",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:59.574Z",
+    "content": {
+      "hint": "h__",
+      "answer": "hại",
+      "translatedAnswer": {
+        "en": "harmful"
+      },
+      "translation": {
+        "en": "This action can be harmful to you."
+      },
+      "sentence": "Hành động này có thể ___ cho bạn.",
+      "language": "vi",
+      "word": "hại",
+      "choices": [
+        "hại",
+        "có lợi",
+        "vô hại"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hại** = to harm, damage, or hurt someone/something (physically or emotionally).\n\nIt’s usually a **verb**, often used in patterns like *làm hại*, *gây hại*, *hại ai/cái gì*. It can refer to people, health, animals, the environment, reputation, etc.  \n\nIt can also appear in fixed pairs like **tai hại** (seriously harmful) or **lợi hại** (formidable, impressive — not negative).  \n\nStrong memory link: **hại** (harm) vs **lợi** (benefit). Opposites in many phrases.",
+  "choices": [
+    "hại",
+    "học",
+    "hãy"
+  ],
+  "rank": 2306,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hại",
+  "fillBlankQuiz": {
+    "id": "2828cd0a-6176-4e7f-b67a-de55a1ffcfd1",
+    "content": {
+      "translatedAnswer": {
+        "en": "harmful"
+      },
+      "translation": {
+        "en": "That can be harmful to health."
+      },
+      "answer": "hại",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Điều đó có thể ___ cho sức khỏe.",
+      "word": "hại"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:59.574Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:22:59.574Z"
+  },
+  "exampleSentencesTranslated": [
+    "Eating too many sweets can cause harm to your health.",
+    "I don't want to harm anyone in the group.",
+    "You should check carefully to avoid harm to the surrounding environment."
+  ],
+  "definition": "harm",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:57:43.838Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hại",
+      "es": "dañar",
+      "en": "harm"
+    },
+    "example": {
+      "es": "Esta acción puede dañar tu salud.",
+      "vi": "Hành động này có thể hại đến sức khỏe của bạn.",
+      "en": "This action can harm your health."
+    },
+    "definitions": {
+      "en": "To cause damage or injury.",
+      "vi": "Gây ra thiệt hại hoặc tổn thương.",
+      "es": "Causar daño o lesión."
+    }
+  },
+  "notes": "hại = to harm, damage, or hurt someone/something (physically or emotionally).\n\nIt’s usually a verb, often used in patterns like làm hại, gây hại, hại ai/cái gì. It can refer to people, health, animals, the environment, reputation, etc.  \n\nIt can also appear in fixed pairs like tai hại (seriously harmful) or lợi hại (formidable, impressive — not negative).  \n\nStrong memory link: hại (harm) vs lợi (benefit). Opposites in many phrases.",
+  "updatedAt": "2026-03-03T10:22:24.701Z",
+  "exampleSentences": [
+    "Ăn quá nhiều đồ ngọt có thể gây hại cho sức khỏe của em.",
+    "Anh không muốn làm hại bất cứ ai trong nhóm cả.",
+    "Chị nên kiểm tra kỹ để tránh hại cho môi trường xung quanh."
+  ],
+  "_id": "dALytOI6UigVfcaryBEV"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhấn",
+    "nhắc",
+    "nhắn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2914,
+  "exampleSentences": [
+    "Anh hãy nhấn nút màu xanh để mở cửa nhé.",
+    "Em quên nhấn số ba trên thang máy rồi.",
+    "Chị có thể nhấn vào đây để xem thêm thông tin không?"
+  ],
+  "word": "nhấn",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "press",
+  "updatedAt": "2026-03-03T18:11:57.697Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "618ca369-2712-4145-bf1a-10e706bfc1d1",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:47:09.012Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "press"
+      },
+      "language": "vi",
+      "sentence": "Bạn hãy ___ vào nút này.",
+      "word": "nhấn",
+      "choices": [],
+      "translation": {
+        "en": "Please press this button."
+      },
+      "answer": "nhấn"
+    },
+    "createdAt": "2025-03-12T13:47:09.012Z"
+  },
+  "notes": "nhấn = to press (push something down with your finger or hand).  \n\nIt’s used for physical actions like pressing a button, key, bell, brake, or gas pedal.  \nOften goes with nút, chuông, bàn phím, phanh, ga.  \n\nIt also means to emphasize in phrases like nhấn mạnh (stress a point).  \nClose word: bấm = press (usually for buttons); nhấn can feel a bit stronger or more forceful.",
+  "exampleSentencesTranslated": [
+    "Please press the green button to open the door.",
+    "I forgot to press number three on the elevator.",
+    "Can you press here to see more information?"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Nhấn hoặc đẩy một cái gì đó.",
+      "es": "Presionar o empujar algo.",
+      "en": "To press or to push something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Por favor, presiona este botón para comenzar.",
+      "vi": "Bạn hãy nhấn nút này để bắt đầu.",
+      "en": "Please press this button to start."
+    },
+    "createdAt": "2025-01-28T11:25:35.596Z",
+    "translations": {
+      "en": "press",
+      "es": "presionar",
+      "vi": "nhấn"
+    }
+  },
+  "notes_md": "**nhấn** = to press (push something down with your finger or hand).  \n\nIt’s used for physical actions like pressing a button, key, bell, brake, or gas pedal.  \nOften goes with **nút, chuông, bàn phím, phanh, ga**.  \n\n\nIt also means **to emphasize** in phrases like *nhấn mạnh* (stress a point).  \nClose word: **bấm** = press (usually for buttons); *nhấn* can feel a bit stronger or more forceful.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:47:09.012Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "press"
+      },
+      "language": "vi",
+      "sentence": "Bạn hãy ___ vào nút này.",
+      "word": "nhấn",
+      "choices": [
+        "nhấn",
+        "điều chỉnh",
+        "xoay"
+      ],
+      "hint": "n____",
+      "translation": {
+        "en": "Please press this button."
+      },
+      "answer": "nhấn"
+    },
+    "createdAt": "2025-03-12T13:47:09.012Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "2e6babdb-d829-4531-82ab-efd528f1eb7f"
+  },
+  "_id": "FE1z3crWYbwr436waFph"
+}

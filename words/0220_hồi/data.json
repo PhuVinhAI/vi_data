@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi sẽ về nhà vào ___.",
+      "language": "vi",
+      "word": "hồi",
+      "choices": [],
+      "answer": "hồi",
+      "translatedAnswer": {
+        "en": "that time"
+      },
+      "translation": {
+        "en": "I will go home at that time."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:23:54.224Z",
+    "id": "00399bce-1f43-4820-b188-d8a6ad6fac7a",
+    "updatedAt": "2025-03-12T13:23:54.224Z"
+  },
+  "exampleSentencesTranslated": [
+    "I remember a time in the past, I really liked playing outside.",
+    "Can you tell me about a time in the past when you went to university?",
+    "I met him at a time in the past, your birthday last year."
+  ],
+  "definition": "a time in the past",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:18:10.856Z",
+    "translations": {
+      "en": "reminisce",
+      "vi": "hồi tưởng",
+      "es": "rememorar"
+    },
+    "example": {
+      "es": "Recordé los hermosos recuerdos.",
+      "vi": "Tôi đã hồi tưởng lại những kỷ niệm đẹp.",
+      "en": "I reminisced about the beautiful memories."
+    },
+    "definitions": {
+      "en": "to recall or remember something from the past",
+      "es": "recordar o rememorar algo del pasado",
+      "vi": "nhớ lại hoặc hồi tưởng về một điều gì đó trong quá khứ"
+    }
+  },
+  "notes": "hồi means “a time in the past” — like “back when” or “at that time.”\n\nIt’s a noun used before a past time or life period to set the scene.  \n\nIt often talks about personal memories or a specific period in life.  \nVery common pairs: hồi đó (back then), hồi xưa (long ago, more nostalgic).\n\nAnother common meaning: a “chapter” or “episode” in stories (like hồi 1 = episode 1), but the “past time” meaning is used more in daily conversation.",
+  "updatedAt": "2026-03-03T06:42:46.243Z",
+  "exampleSentences": [
+    "Anh nhớ hồi còn nhỏ, anh rất thích chơi ngoài trời.",
+    "Chị kể cho em nghe về hồi chị đi học đại học nhé.",
+    "Em đã gặp bạn ấy hồi sinh nhật năm ngoái của anh."
+  ],
+  "multiChoiceQuiz": {
+    "id": "aca763b7-d081-47fc-aec8-a0b6e44adacc",
+    "createdAt": "2025-03-12T13:23:54.224Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I saw you back then."
+      },
+      "translatedAnswer": {
+        "en": "back then"
+      },
+      "hint": "h___",
+      "answer": "hồi",
+      "choices": [
+        "trước",
+        "hồi",
+        "sau"
+      ],
+      "word": "hồi",
+      "language": "vi",
+      "sentence": "Tôi đã thấy bạn ___ trước đây."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:23:54.224Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hồi** means “a time in the past” — like “back when” or “at that time.”\n\nIt’s a noun used before a past time or life period to set the scene.  \n\nIt often talks about personal memories or a specific period in life.  \nVery common pairs: **hồi đó** (back then), **hồi xưa** (long ago, more nostalgic).\n\nAnother common meaning: a “chapter” or “episode” in stories (like hồi 1 = episode 1), but the “past time” meaning is used more in daily conversation.",
+  "choices": [
+    "hồi",
+    "hè",
+    "lúc"
+  ],
+  "rank": 220,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "hồi",
+  "_id": "9aC5AyUdCtjWbx6LqfUZ"
+}

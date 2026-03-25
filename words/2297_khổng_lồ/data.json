@@ -1,0 +1,99 @@
+{
+  "definition": "giant",
+  "rank": 2297,
+  "flashcard": {
+    "example": {
+      "es": "El elefante es un animal enorme.",
+      "vi": "Con voi là một con vật khổng lồ.",
+      "en": "The elephant is a huge animal."
+    },
+    "translations": {
+      "es": "enorme",
+      "vi": "khổng lồ",
+      "en": "huge"
+    },
+    "createdAt": "2025-01-28T10:37:16.327Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Muy grande en tamaño o extensión.",
+      "vi": "Rất lớn về kích thước hoặc phạm vi.",
+      "en": "Very large in size or extent."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:53:08.897Z",
+    "updatedAt": "2025-03-12T12:53:08.897Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "k___ l___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "gigantic"
+      },
+      "word": "khổng lồ",
+      "translation": {
+        "en": "The dinosaur is a gigantic creature."
+      },
+      "choices": [
+        "nhỏ bé",
+        "khổng lồ",
+        "mạnh mẽ"
+      ],
+      "answer": "khổng lồ",
+      "sentence": "Con khủng long là một sinh vật ___."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "72acba8b-3ea0-4d87-8946-54029d133123"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em nhìn thấy một con cá khổng lồ bơi dưới sông hôm qua.",
+    "Chị muốn mua một con gấu bông khổng lồ cho em gái.",
+    "Công viên này có một bức tượng khổng lồ rất nổi tiếng."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "khổng lồ",
+    "dễ thương",
+    "nhỏ bé"
+  ],
+  "notes": "Khổng lồ means giant or enormous — something extremely big in size or scale. It’s stronger than just “big.”\n\nIt’s an adjective and comes after the noun in Vietnamese.  \n\nYou can use it for physical size (động vật, tòa nhà) or abstract things like numbers, problems, or profits.  \n\nClose synonym: to lớn (a bit more neutral).  \nOpposite: nhỏ bé (very small, tiny feeling).",
+  "word": "khổng lồ",
+  "notes_md": "**Khổng lồ** means *giant* or *enormous* — something extremely big in size or scale. It’s stronger than just “big.”\n\nIt’s an adjective and comes **after** the noun in Vietnamese.  \n\nYou can use it for physical size (động vật, tòa nhà) or abstract things like numbers, problems, or profits.  \n\nClose synonym: **to lớn** (a bit more neutral).  \nOpposite: **nhỏ bé** (very small, tiny feeling).",
+  "exampleSentencesTranslated": [
+    "I saw a giant swimming in the river yesterday.",
+    "She wants to buy a giant for her younger sister.",
+    "This park has a famous giant."
+  ],
+  "updatedAt": "2026-03-03T10:21:36.060Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:53:08.897Z",
+    "updatedAt": "2025-03-12T12:53:08.897Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "0f5f8419-e716-406f-822a-5b873d3261f8",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "gigantic"
+      },
+      "language": "vi",
+      "word": "khổng lồ",
+      "choices": [],
+      "translation": {
+        "en": "The elephant is a gigantic animal."
+      },
+      "answer": "khổng lồ",
+      "sentence": "Con voi là một động vật ___."
+    }
+  },
+  "_id": "124aTNaIg53sIxfj6c5e"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "This shirt is nice but a bit expensive for my budget.",
+    "I think the food at this restaurant is quite expensive but very delicious.",
+    "I want to buy a new phone but the price is still too expensive."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Que cuesta mucho dinero; no es barato.",
+      "vi": "Tốn nhiều tiền; không rẻ.",
+      "en": "Costing a lot of money; not cheap."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:35:50.759Z",
+    "example": {
+      "en": "This shirt is very expensive.",
+      "vi": "Cái áo này rất đắt.",
+      "es": "Esta camisa es muy cara."
+    },
+    "translations": {
+      "en": "expensive",
+      "es": "caro",
+      "vi": "đắt"
+    }
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "sentence": "Món này rất ___.",
+      "word": "đắt",
+      "translatedAnswer": {
+        "en": "expensive"
+      },
+      "answer": "đắt",
+      "translation": {
+        "en": "This dish is very expensive."
+      },
+      "hint": "đ___",
+      "choices": [
+        "rẻ",
+        "đắt",
+        "bình dân"
+      ]
+    },
+    "createdAt": "2025-03-12T13:57:54.275Z",
+    "updatedAt": "2025-03-12T13:57:54.275Z",
+    "id": "b0ec18c1-35db-4a3e-a330-2e7ba345f6cb",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**đắt** = expensive, costing a lot of money.\n\nIt’s an adjective, used to describe prices, products, services, or places. In Vietnamese, adjectives usually come **after** the noun. You’ll often hear it with words like *quá, hơi, khá, rất* to show degree.\n\n**Structure:** N + đắt / đắt + quá (giá đắt, đắt quá)\n\nStrong opposite: **rẻ** (cheap) — a super useful pair to remember. It can also appear in fixed phrases like *đắt giá* (valuable, worth a lot in meaning, not money).",
+  "updatedAt": "2026-03-03T08:53:53.819Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "e78bc6ab-edd7-4cbb-9378-dcac74390771",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:57:54.275Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "expensive"
+      },
+      "language": "vi",
+      "word": "đắt",
+      "sentence": "Món này rất ___.",
+      "choices": [],
+      "translation": {
+        "en": "This dish is very expensive."
+      },
+      "answer": "đắt"
+    },
+    "createdAt": "2025-03-12T13:57:54.275Z"
+  },
+  "notes": "đắt = expensive, costing a lot of money.\n\nIt’s an adjective, used to describe prices, products, services, or places. In Vietnamese, adjectives usually come after the noun. You’ll often hear it with words like quá, hơi, khá, rất to show degree.\n\nStructure: N + đắt / đắt + quá (giá đắt, đắt quá)\n\nStrong opposite: rẻ (cheap) — a super useful pair to remember. It can also appear in fixed phrases like đắt giá (valuable, worth a lot in meaning, not money).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "expensive",
+  "exampleSentences": [
+    "Cái áo này đẹp nhưng hơi đắt so với ngân sách của em.",
+    "Anh thấy món ăn ở nhà hàng này khá đắt nhưng rất ngon.",
+    "Chị muốn mua điện thoại mới nhưng giá vẫn còn đắt quá."
+  ],
+  "rank": 1477,
+  "word": "đắt",
+  "choices": [
+    "đắt",
+    "rẻ",
+    "xấu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "IIw7nTd6yvV8aW8QO4wC"
+}

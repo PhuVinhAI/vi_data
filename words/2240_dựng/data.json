@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể giúp em dựng cái lều này trong vườn không?",
+    "Chị muốn dựng bàn ghế trước nhà để tổ chức tiệc nhỏ.",
+    "Mỗi sáng, ba thường dựng xe đạp trước cửa cho em."
+  ],
+  "choices": [
+    "dựng",
+    "đứng",
+    "dừng"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:57:19.829Z",
+    "updatedAt": "2025-03-12T15:57:19.829Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "answer": "dựng",
+      "sentence": "Chúng tôi sẽ ___ một ngôi nhà mới.",
+      "choices": [],
+      "translation": {
+        "en": "We will build a new house."
+      },
+      "word": "dựng",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b715d3b6-137d-4015-b28c-e4d7b7f68675"
+  },
+  "rank": 2240,
+  "definition": "set up",
+  "notes": "dựng = to set up, put up, or build something so it stands upright. Think physical things: tents, houses, stages, poles.\n\nIt’s used for making something vertical or ready to use, often by assembling parts. Also common for media: dựng phim = to edit/produce a film (put the footage together). Another everyday meaning: dựng chuyện = to make up a story (often negative, like inventing drama).\n\nClose to lắp (assemble) or xây (build), but dựng focuses more on raising or putting something upright.",
+  "notes_md": "**dựng** = to set up, put up, or build something so it stands upright. Think physical things: tents, houses, stages, poles.\n\nIt’s used for making something vertical or ready to use, often by assembling parts. Also common for media: **dựng phim** = to edit/produce a film (put the footage together). Another everyday meaning: **dựng chuyện** = to make up a story (often negative, like inventing drama).\n\nClose to **lắp** (assemble) or **xây** (build), but *dựng* focuses more on raising or putting something upright.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "d___",
+      "sentence": "Chúng tôi sẽ ___ một ngôi nhà mới.",
+      "choices": [
+        "làm",
+        "dựng",
+        "sửa"
+      ],
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "answer": "dựng",
+      "language": "vi",
+      "word": "dựng",
+      "translation": {
+        "en": "We will build a new house."
+      }
+    },
+    "id": "6c9f6d1c-a76c-4ba9-ba04-74258e332a01",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:57:19.829Z",
+    "updatedAt": "2025-03-12T15:57:19.829Z"
+  },
+  "word": "dựng",
+  "flashcard": {
+    "translations": {
+      "vi": "dựng",
+      "es": "construir",
+      "en": "build"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi sẽ dựng một ngôi nhà mới.",
+      "en": "I will build a new house.",
+      "es": "Voy a construir una casa nueva."
+    },
+    "createdAt": "2025-01-28T13:29:29.173Z",
+    "definitions": {
+      "vi": "xây dựng hoặc dựng lên một cái gì đó.",
+      "en": "to build or erect something.",
+      "es": "construir o erigir algo."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:15:10.087Z",
+  "exampleSentencesTranslated": [
+    "Can you help me set up this tent in the garden?",
+    "I want to set up tables and chairs in front of the house for a small party.",
+    "Every morning, Dad usually sets up the bicycle in front of the door for me."
+  ],
+  "_id": "lQ8dythYGQ7hJlo9XNbw"
+}

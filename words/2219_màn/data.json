@@ -1,0 +1,99 @@
+{
+  "word": "màn",
+  "exampleSentences": [
+    "Anh có thể lau sạch bụi trên màn giúp em được không?",
+    "Chị thường xem phim trên màn lớn ở phòng khách vào buổi tối.",
+    "Mỗi khi em mở điện thoại, màn sáng lên rất nhanh."
+  ],
+  "rank": 2219,
+  "definition": "screen",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "màn",
+    "bàn",
+    "món"
+  ],
+  "notes": "màn usually means a screen (phone, TV, computer). It’s a noun, often used with cái → cái màn, but more commonly in compounds like màn hình (screen/display).\n\nYou’ll hear it in tech phrases: màn hình cảm ứng (touchscreen), màn hình máy tính, màn chiếu (projector screen).\n\nIt also very commonly means a mosquito net (the net you hang over a bed to avoid mosquitoes) → màn ngủ. Context makes it clear which meaning.\n\nFor screens, màn hình is much more natural than just màn alone.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "1963d0e0-55e7-4e10-92cf-cbec0a4750c3",
+    "updatedAt": "2025-03-12T13:58:59.069Z",
+    "createdAt": "2025-03-12T13:58:59.069Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "curtain"
+      },
+      "word": "màn",
+      "sentence": "Cửa sổ có ___ che nắng.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "The window has a curtain to block the sun."
+      },
+      "answer": "màn"
+    }
+  },
+  "updatedAt": "2026-03-03T10:12:52.162Z",
+  "multiChoiceQuiz": {
+    "id": "2b1bd3a3-816e-4515-b570-e59491238d18",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Cửa sổ có ___ che nắng.",
+      "word": "màn",
+      "translatedAnswer": {
+        "en": "curtain"
+      },
+      "answer": "màn",
+      "translation": {
+        "en": "The window has a curtain to block the sun."
+      },
+      "hint": "m__n",
+      "choices": [
+        "bức tranh",
+        "màn",
+        "tấm vải"
+      ]
+    },
+    "createdAt": "2025-03-12T13:58:59.069Z",
+    "updatedAt": "2025-03-12T13:58:59.069Z"
+  },
+  "notes_md": "**màn** usually means a *screen* (phone, TV, computer). It’s a noun, often used with **cái** → *cái màn*, but more commonly in compounds like **màn hình** (screen/display).\n\nYou’ll hear it in tech phrases: **màn hình cảm ứng** (touchscreen), **màn hình máy tính**, **màn chiếu** (projector screen).\n\nIt also very commonly means a **mosquito net** (the net you hang over a bed to avoid mosquitoes) → *màn ngủ*. Context makes it clear which meaning.\n\nFor screens, **màn hình** is much more natural than just *màn* alone.",
+  "flashcard": {
+    "definitions": {
+      "en": "A piece of fabric used to cover a window or separate spaces.",
+      "es": "Un trozo de tela utilizado para cubrir una ventana o separar espacios.",
+      "vi": "Một mảnh vải được sử dụng để che cửa sổ hoặc phân chia không gian."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:36:54.399Z",
+    "example": {
+      "vi": "Cái màn này rất đẹp.",
+      "es": "Esta cortina es muy hermosa.",
+      "en": "This curtain is very beautiful."
+    },
+    "translations": {
+      "en": "curtain",
+      "es": "cortina",
+      "vi": "màn"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you clean the dust off the screen for me?",
+    "She usually watches movies on the big screen in the living room in the evening.",
+    "Every time I unlock my phone, the screen lights up very quickly."
+  ],
+  "_id": "IYxnOsx7pm0wR8BbhNky"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "để dành = to save or keep something for later instead of using it now.\n\nYou use it for money, food, time, energy—anything you don’t use immediately. It often implies a small, gradual saving, not something formal or big.\n\nVery close to tiết kiệm, but tiết kiệm feels more formal or about saving systematically, while để dành feels everyday and personal. Opposite idea: xài hết / dùng hết (use it all up).",
+  "flashcard": {
+    "example": {
+      "en": "I save money to buy a car.",
+      "es": "Ahorro dinero para comprar un coche.",
+      "vi": "Tôi để dành tiền để mua xe."
+    },
+    "definitions": {
+      "vi": "Lưu giữ hoặc để dành cái gì đó cho việc sử dụng trong tương lai.",
+      "en": "To save or set aside something for future use.",
+      "es": "Guardar o reservar algo para uso futuro."
+    },
+    "translations": {
+      "vi": "để dành",
+      "es": "ahorrar",
+      "en": "to save"
+    },
+    "createdAt": "2025-01-28T14:07:02.943Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T11:24:25.815Z",
+  "exampleSentences": [
+    "Anh đang để dành tiền để mua một chiếc xe máy mới.",
+    "Mẹ thường để dành bánh cho em khi em đi học về.",
+    "Chị khuyên em nên để dành thời gian cho gia đình nhiều hơn."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi muốn ___ tiền cho kỳ nghỉ.",
+      "hint": "đ___d",
+      "word": "để dành",
+      "language": "vi",
+      "translation": {
+        "en": "I want to save money for the vacation."
+      },
+      "choices": [
+        "để dành",
+        "tiêu xài",
+        "mua sắm"
+      ],
+      "answer": "để dành",
+      "translatedAnswer": {
+        "en": "save"
+      }
+    },
+    "updatedAt": "2025-03-12T16:35:43.013Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:35:43.013Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "3a21336a-156f-42dc-b887-e0c012a12072"
+  },
+  "choices": [
+    "để dành",
+    "tặng",
+    "mượn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I am trying to save money to buy a new motorbike.",
+    "Mom often save cake for me when I come home from school.",
+    "She advises me to save more time for my family."
+  ],
+  "word": "để dành",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**để dành** = to save or keep something for later instead of using it now.\n\nYou use it for money, food, time, energy—anything you don’t use immediately. It often implies a small, gradual saving, not something formal or big.\n\n\nVery close to **tiết kiệm**, but *tiết kiệm* feels more formal or about saving systematically, while *để dành* feels everyday and personal. Opposite idea: **xài hết / dùng hết** (use it all up).",
+  "definition": "save",
+  "rank": 2571,
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "save"
+      },
+      "answer": "để dành",
+      "translation": {
+        "en": "I want to save money for the vacation."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "để dành",
+      "sentence": "Tôi muốn ___ tiền cho kỳ nghỉ."
+    },
+    "updatedAt": "2025-03-12T16:35:43.013Z",
+    "type": "fillBlankQuiz",
+    "id": "6bbf88fb-1df2-4aa1-ae82-3a4700bae1e1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:35:43.013Z"
+  },
+  "_id": "vk8h24S4Wbra2EzNEHQ6"
+}

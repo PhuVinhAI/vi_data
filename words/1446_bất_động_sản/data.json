@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:20:28.047Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi đầu tư vào ___ mỗi năm.",
+      "answer": "bất động sản",
+      "language": "vi",
+      "word": "bất động sản",
+      "choices": [],
+      "translation": {
+        "en": "I invest in real estate every year."
+      },
+      "translatedAnswer": {
+        "en": "real estate"
+      }
+    },
+    "id": "6c716849-3804-45c6-aba5-27fc362881ff",
+    "createdAt": "2025-03-12T16:20:28.047Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "bất động sản",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "bất động sản",
+      "answer": "bất động sản",
+      "language": "vi",
+      "choices": [
+        "bất động sản",
+        "vốn đầu tư",
+        "thị trường"
+      ],
+      "translation": {
+        "en": "I invest in real estate every year."
+      },
+      "translatedAnswer": {
+        "en": "real estate"
+      },
+      "hint": "b___ động sản",
+      "sentence": "Tôi đầu tư vào ___ mỗi năm."
+    },
+    "updatedAt": "2025-03-12T16:20:28.047Z",
+    "createdAt": "2025-03-12T16:20:28.047Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "aeb634a9-76d5-4193-84de-cf6c4a301375"
+  },
+  "definition": "real estate",
+  "rank": 1446,
+  "notes_md": "**Bất động sản** means real estate — land and buildings as property, especially for buying, selling, or investing.\n\nIt’s usually uncountable when talking about the industry in general. To mean “a property,” you can say **một bất động sản**, but people often say **một căn nhà / một mảnh đất** instead. Common pairings: **thị trường bất động sản**, **đầu tư vào bất động sản**, **môi giới bất động sản**.\n\nClose synonym: **nhà đất** (more everyday, slightly less formal).",
+  "updatedAt": "2026-03-03T08:50:27.737Z",
+  "exampleSentencesTranslated": [
+    "I am learning about the real estate market in Hanoi.",
+    "She wants to invest in real estate to earn extra income.",
+    "I see that real estate prices in this city are increasing very quickly."
+  ],
+  "exampleSentences": [
+    "Anh đang tìm hiểu về thị trường bất động sản ở Hà Nội.",
+    "Chị muốn đầu tư vào bất động sản để kiếm thêm thu nhập.",
+    "Em thấy giá bất động sản ở thành phố này tăng rất nhanh."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bất động sản",
+    "chứng khoán",
+    "khoản vay"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "bienes raíces",
+      "en": "real estate",
+      "vi": "bất động sản"
+    },
+    "example": {
+      "es": "Estoy investigando sobre bienes raíces en esta ciudad.",
+      "en": "I am researching real estate in this city.",
+      "vi": "Tôi đang tìm hiểu về bất động sản ở thành phố này."
+    },
+    "createdAt": "2025-01-28T13:51:31.943Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Tài sản bao gồm đất đai hoặc các tòa nhà.",
+      "en": "Property consisting of land or buildings.",
+      "es": "Propiedad que consiste en terrenos o edificios."
+    }
+  },
+  "notes": "Bất động sản means real estate — land and buildings as property, especially for buying, selling, or investing.\n\nIt’s usually uncountable when talking about the industry in general. To mean “a property,” you can say một bất động sản, but people often say một căn nhà / một mảnh đất instead. Common pairings: thị trường bất động sản, đầu tư vào bất động sản, môi giới bất động sản.\n\nClose synonym: nhà đất (more everyday, slightly less formal).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "rZ8nhzpu2RxORtVQQm4m"
+}

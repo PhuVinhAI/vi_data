@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "bệnh viện",
+    "trường học",
+    "siêu thị"
+  ],
+  "multiChoiceQuiz": {
+    "id": "67335573-fb54-4e9c-9d50-574d87b5fec5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:31:54.045Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I will go to the hospital right now."
+      },
+      "answer": "bệnh viện",
+      "choices": [
+        "trường học",
+        "bệnh viện",
+        "nhà hàng"
+      ],
+      "translatedAnswer": {
+        "en": "hospital"
+      },
+      "sentence": "Tôi sẽ đến ___ ngay bây giờ.",
+      "hint": "b___ viện",
+      "word": "bệnh viện"
+    },
+    "updatedAt": "2025-03-12T16:31:54.045Z"
+  },
+  "exampleSentences": [
+    "Em phải đến bệnh viện để khám sức khỏe định kỳ.",
+    "Anh ấy làm việc tại một bệnh viện lớn ở thành phố.",
+    "Chị sẽ thăm bạn hôm nay vì bạn đang nằm trong bệnh viện."
+  ],
+  "updatedAt": "2026-03-03T09:22:14.240Z",
+  "word": "bệnh viện",
+  "exampleSentencesTranslated": [
+    "I have to go to the hospital for a regular check-up.",
+    "He works at a large hospital in the city.",
+    "She will visit her friend today because her friend is in the hospital."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:02:58.380Z",
+    "translations": {
+      "en": "hospital",
+      "es": "hospital",
+      "vi": "bệnh viện"
+    },
+    "example": {
+      "en": "I need to go to the hospital for a check-up.",
+      "es": "Necesito ir al hospital para un chequeo.",
+      "vi": "Tôi cần đến bệnh viện để khám sức khỏe."
+    },
+    "definitions": {
+      "es": "Un hospital es una institución de atención médica que proporciona tratamiento a pacientes con personal médico y de enfermería especializado y equipo médico.",
+      "en": "A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.",
+      "vi": "Bệnh viện là một cơ sở chăm sóc sức khỏe cung cấp điều trị cho bệnh nhân với đội ngũ y tế và điều dưỡng chuyên môn cùng thiết bị y tế."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Bệnh viện means hospital — the place where you go for medical treatment.\n\nIt’s a noun. Use it with một / các / những and the classifier cái (một cái bệnh viện), though the classifier is often dropped in casual speech. Common verbs with it: đi bệnh viện (go to the hospital for treatment), nhập viện (be admitted), xuất viện (be discharged).\n\nIn the South, you’ll also hear nhà thương, which means the same thing but sounds a bit older.",
+  "notes_md": "**Bệnh viện** means *hospital* — the place where you go for medical treatment.\n\nIt’s a noun. Use it with **một / các / những** and the classifier **cái** (một cái bệnh viện), though the classifier is often dropped in casual speech. Common verbs with it: **đi bệnh viện** (go to the hospital for treatment), **nhập viện** (be admitted), **xuất viện** (be discharged).\n\n\nIn the South, you’ll also hear **nhà thương**, which means the same thing but sounds a bit older.",
+  "rank": 1740,
+  "definition": "hospital",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:31:54.045Z",
+    "id": "2975e344-c443-43f1-866f-70649f7d2396",
+    "content": {
+      "word": "bệnh viện",
+      "sentence": "Tôi sẽ đến ___ ngay bây giờ.",
+      "choices": [],
+      "translation": {
+        "en": "I will go to the hospital right now."
+      },
+      "answer": "bệnh viện",
+      "translatedAnswer": {
+        "en": "hospital"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:31:54.045Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uV1M3hEp7Mw7E9FXVs8p"
+}

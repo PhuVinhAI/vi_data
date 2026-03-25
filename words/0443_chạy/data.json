@@ -1,0 +1,99 @@
+{
+  "definition": "run",
+  "flashcard": {
+    "example": {
+      "es": "Me gusta correr por la mañana.",
+      "vi": "Tôi thích chạy vào buổi sáng.",
+      "en": "I like to run in the morning."
+    },
+    "definitions": {
+      "vi": "Di chuyển nhanh chóng bằng chân.",
+      "es": "Moverse rápidamente a pie.",
+      "en": "To move swiftly on foot."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:06:49.062Z",
+    "translations": {
+      "en": "run",
+      "es": "correr",
+      "vi": "chạy"
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích ___ vào buổi sáng.",
+      "language": "vi",
+      "word": "chạy",
+      "choices": [],
+      "answer": "chạy",
+      "translatedAnswer": {
+        "en": "run"
+      },
+      "translation": {
+        "en": "I like to run in the morning."
+      }
+    },
+    "createdAt": "2025-03-12T15:31:50.173Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "13885180-ae1c-454d-b46f-ba591ff6ff3c",
+    "updatedAt": "2025-03-12T15:31:50.173Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, I woke up early to run around the park near my house.",
+    "When it started to rain, I had to run quickly into the house.",
+    "She likes to run every afternoon to exercise and relax."
+  ],
+  "updatedAt": "2026-03-03T07:06:42.194Z",
+  "exampleSentences": [
+    "Sáng nay, anh dậy sớm để chạy quanh công viên gần nhà.",
+    "Khi trời bắt đầu mưa, em phải chạy thật nhanh vào nhà.",
+    "Chị thích chạy mỗi chiều để rèn luyện sức khoẻ và thư giãn."
+  ],
+  "notes": "chạy = to run (move fast on your feet). It’s the normal word for running as exercise or because you’re in a hurry.\n\nIt also means “to operate/run” for machines or programs (máy chạy, phần mềm chạy). Very common collocations: chạy bộ (jog), chạy xe (ride/drive a vehicle), chạy trốn (run away), chạy theo (run after/chase).\n\nStrong contrast: chạy ≠ đi (walk/go normally).",
+  "notes_md": "**chạy** = to run (move fast on your feet). It’s the normal word for running as exercise or because you’re in a hurry.\n\nIt also means “to operate/run” for machines or programs (máy chạy, phần mềm chạy). Very common collocations: chạy bộ (jog), chạy xe (ride/drive a vehicle), chạy trốn (run away), chạy theo (run after/chase).\n\n\nStrong contrast: chạy ≠ đi (walk/go normally).",
+  "choices": [
+    "bơi",
+    "chạy",
+    "nhảy"
+  ],
+  "rank": 443,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:31:50.173Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "chạy",
+      "sentence": "Chúng ta sẽ ___ trong công viên.",
+      "language": "vi",
+      "choices": [
+        "đi bộ",
+        "chạy",
+        "nhảy"
+      ],
+      "answer": "chạy",
+      "hint": "c___",
+      "translation": {
+        "en": "We will run in the park."
+      },
+      "translatedAnswer": {
+        "en": "run"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:31:50.173Z",
+    "id": "138d1bd0-d010-4912-a643-7e332fd3f596"
+  },
+  "word": "chạy",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "fNGbz63xhhiQH1j0U02L"
+}

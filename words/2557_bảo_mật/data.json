@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bảo mật",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b61cd210-c60a-47e3-9e4f-feb3b00f0d80",
+    "content": {
+      "sentence": "Thông tin này cần được ___.",
+      "language": "vi",
+      "word": "bảo mật",
+      "choices": [
+        "bảo mật",
+        "công khai",
+        "rủi ro"
+      ],
+      "hint": "b___t",
+      "answer": "bảo mật",
+      "translatedAnswer": {
+        "en": "secure"
+      },
+      "translation": {
+        "en": "This information needs to be secure."
+      }
+    },
+    "createdAt": "2025-03-12T15:20:02.020Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T15:20:02.020Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "bảo mật",
+    "hợp tác",
+    "giải trí"
+  ],
+  "rank": 2557,
+  "notes_md": "**Bảo mật** = security, especially keeping information, data, or systems safe from being accessed or leaked. It’s about protection from hackers, strangers, or misuse.\n\nIt’s a noun. You’ll often see it with words like *thông tin* (information), *dữ liệu* (data), *tài khoản* (account), *hệ thống* (system).  \n\n\nStrong synonym link: *an toàn* (safe) is broader; *bảo mật* focuses more on privacy and controlled access.",
+  "notes": "Bảo mật = security, especially keeping information, data, or systems safe from being accessed or leaked. It’s about protection from hackers, strangers, or misuse.\n\nIt’s a noun. You’ll often see it with words like thông tin (information), dữ liệu (data), tài khoản (account), hệ thống (system).  \n\nStrong synonym link: an toàn (safe) is broader; bảo mật focuses more on privacy and controlled access.",
+  "exampleSentences": [
+    "Chị nên đặt mật khẩu mạnh để tăng bảo mật cho tài khoản.",
+    "Công ty này luôn chú trọng đến bảo mật thông tin khách hàng.",
+    "Em đã cài phần mềm mới để bảo mật dữ liệu trên máy tính."
+  ],
+  "updatedAt": "2026-03-04T08:49:47.137Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:20:02.020Z",
+    "content": {
+      "word": "bảo mật",
+      "sentence": "Thông tin này cần được ___.",
+      "language": "vi",
+      "choices": [],
+      "answer": "bảo mật",
+      "translation": {
+        "en": "This information needs to be secure."
+      },
+      "translatedAnswer": {
+        "en": "secure"
+      }
+    },
+    "id": "40739339-237b-4e7d-a8f7-6b51e419d458",
+    "updatedAt": "2025-03-12T15:20:02.020Z"
+  },
+  "exampleSentencesTranslated": [
+    "You should set a strong password to increase security for your account.",
+    "This company always pays attention to security of customer information.",
+    "I installed new software to provide security for the data on my computer."
+  ],
+  "definition": "security",
+  "flashcard": {
+    "definitions": {
+      "es": "El estado de estar libre de acceso o divulgación no autorizada.",
+      "vi": "Trạng thái không bị truy cập hoặc tiết lộ trái phép.",
+      "en": "The state of being free from unauthorized access or disclosure."
+    },
+    "example": {
+      "es": "Esta información necesita ser mantenida en secreto.",
+      "vi": "Thông tin này cần được bảo mật.",
+      "en": "This information needs to be kept confidential."
+    },
+    "translations": {
+      "es": "confidencialidad",
+      "vi": "bảo mật",
+      "en": "confidentiality"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:54:51.353Z"
+  },
+  "_id": "cD3d504MA271DGHICmGv"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "sớm",
+    "muộn",
+    "mới"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "late",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "muộn",
+  "exampleSentences": [
+    "Anh xin lỗi vì đến muộn trong buổi họp sáng nay.",
+    "Nếu em về muộn, hãy gọi cho chị nhé.",
+    "Chúng ta không nên ăn tối quá muộn để dễ ngủ hơn."
+  ],
+  "rank": 1760,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "fae67b76-4f7a-4006-b6d6-54cbae961699",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:40:09.623Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "late"
+      },
+      "language": "vi",
+      "sentence": "Tôi đến ___ giờ học.",
+      "word": "muộn",
+      "choices": [
+        "sớm",
+        "sai",
+        "muộn"
+      ],
+      "hint": "m___n",
+      "translation": {
+        "en": "I arrive late to class."
+      },
+      "answer": "muộn"
+    },
+    "createdAt": "2025-03-12T13:40:09.623Z"
+  },
+  "notes_md": "**muộn** = late (in time). It describes something happening after the expected or normal time.\n\nIt’s an adjective and usually comes after a verb: you’re late doing something, not “a late person.”  \n\n**Muộn rồi** means “It’s late already” or “It’s too late.”  \nOpposite: **sớm** (early).",
+  "flashcard": {
+    "translations": {
+      "es": "tarde",
+      "vi": "muộn",
+      "en": "late"
+    },
+    "example": {
+      "vi": "Tôi đến muộn vì kẹt xe.",
+      "es": "Llegué tarde debido al tráfico.",
+      "en": "I arrived late because of traffic."
+    },
+    "createdAt": "2025-01-28T11:19:00.565Z",
+    "definitions": {
+      "en": "Occurring after the expected or usual time.",
+      "es": "Ocurriendo después del tiempo esperado o habitual.",
+      "vi": "Xảy ra sau thời gian mong đợi hoặc thường lệ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I'm sorry for being late to the meeting this morning.",
+    "If you come home late, please call me.",
+    "We should not eat dinner too late to sleep better."
+  ],
+  "notes": "muộn = late (in time). It describes something happening after the expected or normal time.\n\nIt’s an adjective and usually comes after a verb: you’re late doing something, not “a late person.”  \n\nMuộn rồi means “It’s late already” or “It’s too late.”  \nOpposite: sớm (early).",
+  "fillBlankQuiz": {
+    "id": "76fefb44-6c52-4f55-83cb-3f0526a71768",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:40:09.623Z",
+    "content": {
+      "choices": [],
+      "answer": "muộn",
+      "translation": {
+        "en": "I arrive late to class."
+      },
+      "translatedAnswer": {
+        "en": "late"
+      },
+      "language": "vi",
+      "sentence": "Tôi đến ___ giờ học.",
+      "word": "muộn"
+    },
+    "updatedAt": "2025-03-12T13:40:09.623Z"
+  },
+  "updatedAt": "2026-03-03T09:24:19.620Z",
+  "_id": "DQ9ROVOPXB5WGjHKZdC4"
+}

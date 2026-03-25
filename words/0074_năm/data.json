@@ -1,0 +1,104 @@
+{
+  "multiChoiceQuiz": {
+    "id": "b54c04a9-27cd-4fff-b9c6-1fce13a1fd82",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "năm",
+      "translation": {
+        "en": "This year has a big event."
+      },
+      "hint": "n__m",
+      "choices": [
+        "năm",
+        "tháng",
+        "tuần"
+      ],
+      "sentence": "Năm nay có ___ sự kiện lớn.",
+      "word": "năm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "year"
+      }
+    },
+    "createdAt": "2025-03-12T13:55:06.670Z",
+    "updatedAt": "2025-03-12T13:55:06.670Z"
+  },
+  "notes_md": "**năm** = *five*. Just the number 5.\n\nIt goes before a classifier when counting nouns.  \n\nVietnamese numbers don’t change form, so **năm** stays the same no matter what you count.  \n\nWatch out: **năm** (level tone) = five, but **năm** (falling tone) = *year*. Same spelling, different tone and meaning.",
+  "flashcard": {
+    "example": {
+      "vi": "Năm nay tôi sẽ đi du lịch.",
+      "es": "Este año viajaré.",
+      "en": "This year I will travel."
+    },
+    "createdAt": "2025-01-28T13:39:56.932Z",
+    "translations": {
+      "en": "year",
+      "es": "año",
+      "vi": "năm"
+    },
+    "definitions": {
+      "en": "A unit of time equal to 365 days, or 12 months.",
+      "es": "Una unidad de tiempo igual a 365 días, o 12 meses.",
+      "vi": "Một đơn vị thời gian bằng 365 ngày, hoặc 12 tháng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He has five cats.",
+    "She buys five pens.",
+    "I want five bananas."
+  ],
+  "notes": "năm = five. Just the number 5.\n\nIt goes before a classifier when counting nouns.  \n\nVietnamese numbers don’t change form, so năm stays the same no matter what you count.  \n\nWatch out: năm (level tone) = five, but năm (falling tone) = year. Same spelling, different tone and meaning.",
+  "fillBlankQuiz": {
+    "id": "acdec08a-aeb5-49c7-9f1a-0c29ba071122",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "năm",
+      "sentence": "Tôi sẽ đi du lịch vào ___ tới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "year"
+      },
+      "translation": {
+        "en": "I will travel next year."
+      },
+      "answer": "năm",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:55:06.670Z",
+    "updatedAt": "2025-03-12T13:55:06.670Z"
+  },
+  "updatedAt": "2026-03-03T06:10:39.048Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "ba",
+    "năm",
+    "bảy"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Anh (he) + có (has) + năm (five) + con (classifier for animals) + mèo (cats)",
+    "Chị (she) + mua (buys) + năm (five) + cái (classifier for things) + bút (pens)",
+    "Em (I) + muốn (want) + năm (five) + quả (classifier for fruits) + chuối (bananas)"
+  ],
+  "definition": "five",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "năm",
+  "rank": 74,
+  "exampleSentences": [
+    "Anh có năm con mèo.",
+    "Chị mua năm cái bút.",
+    "Em muốn năm quả chuối."
+  ],
+  "_id": "HT7n6JdQSmQUvllpifkh"
+}

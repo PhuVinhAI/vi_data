@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:29:07.466Z",
+  "exampleSentences": [
+    "Anh nhận được lương mỗi tháng vào ngày mười lăm.",
+    "Chị mong muốn được tăng lương sau một năm làm việc chăm chỉ.",
+    "Em muốn biết mức lương trung bình của nghề này là bao nhiêu."
+  ],
+  "notes": "lương = salary, the money you get paid for your job (usually monthly in Vietnam).\n\nIt’s a noun. Often used with words like mức lương (salary level), tăng lương (get a raise), trả lương (pay salary), nhận lương (receive salary).  \nYou’ll also hear lương tháng (monthly salary) and tiền lương — basically the same, just a bit more explicit.\n\nRelated word: thưởng = bonus (extra money, not your base lương).",
+  "flashcard": {
+    "definitions": {
+      "es": "La cantidad de dinero pagada a un empleado por su trabajo.",
+      "vi": "Số tiền được trả cho một nhân viên vì công việc của họ.",
+      "en": "The amount of money paid to an employee for their work."
+    },
+    "example": {
+      "en": "My salary this month is higher than last month.",
+      "es": "Mi salario este mes es más alto que el mes pasado.",
+      "vi": "Lương của tôi tháng này cao hơn tháng trước."
+    },
+    "translations": {
+      "en": "salary",
+      "es": "salario",
+      "vi": "lương"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:05:00.297Z"
+  },
+  "definition": "salary",
+  "exampleSentencesTranslated": [
+    "I receive my salary on the fifteenth of every month.",
+    "She hopes to get a salary increase after a year of hard work.",
+    "I want to know what the average salary for this job is."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:29:57.365Z",
+    "content": {
+      "word": "lương",
+      "language": "vi",
+      "sentence": "Mức ___ của tôi rất cao.",
+      "choices": [],
+      "answer": "lương",
+      "translation": {
+        "en": "My salary is very high."
+      },
+      "translatedAnswer": {
+        "en": "salary"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:29:57.365Z",
+    "id": "58d15d92-1123-4e7b-9eb3-749efbca9fc9",
+    "type": "fillBlankQuiz"
+  },
+  "word": "lương",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**lương** = salary, the money you get paid for your job (usually monthly in Vietnam).\n\nIt’s a noun. Often used with words like **mức lương** (salary level), **tăng lương** (get a raise), **trả lương** (pay salary), **nhận lương** (receive salary).  \nYou’ll also hear **lương tháng** (monthly salary) and **tiền lương** — basically the same, just a bit more explicit.\n\nRelated word: **thưởng** = bonus (extra money, not your base lương).",
+  "rank": 1250,
+  "choices": [
+    "lường",
+    "lương",
+    "lượng"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:29:57.365Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "salary"
+      },
+      "translation": {
+        "en": "My salary is very high."
+      },
+      "hint": "l____",
+      "answer": "lương",
+      "choices": [
+        "tiền thưởng",
+        "lương",
+        "thù lao"
+      ],
+      "sentence": "Mức ___ của tôi rất cao.",
+      "language": "vi",
+      "word": "lương"
+    },
+    "id": "f434b08e-7f39-4811-acef-8d9d523257b2",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:29:57.365Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "eub9pxB5aNKmN0cyy1S3"
+}

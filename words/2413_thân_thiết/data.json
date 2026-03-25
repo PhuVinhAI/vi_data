@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:32:53.562Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2413,
+  "exampleSentencesTranslated": [
+    "She and her sister are very close so they often share with each other.",
+    "He has a close friend from university until now.",
+    "My family is always close and supports each other in everything."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng tôi rất ___ với nhau.",
+      "translatedAnswer": {
+        "en": "close"
+      },
+      "language": "vi",
+      "hint": "th___t",
+      "answer": "thân thiết",
+      "translation": {
+        "en": "We are very close to each other."
+      },
+      "word": "thân thiết",
+      "choices": [
+        "thân thiết",
+        "bạn bè",
+        "quý mến"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:40:19.748Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:40:19.748Z",
+    "id": "953ecca1-19de-45d0-aca0-4f231378d649"
+  },
+  "word": "thân thiết",
+  "notes": "Thân thiết means very close in a warm, friendly way — emotionally close, not physically close.  \n\nIt’s an adjective, used to describe relationships between people (friends, siblings, coworkers, etc.). It often goes after the noun or after “rất/khá”: rất thân thiết.  \n\nClose synonym: gần gũi (more about emotional warmth or comfort).  \nOpposite: xa cách (distant, not emotionally close).",
+  "choices": [
+    "thân thiết",
+    "thân thiện",
+    "quan trọng"
+  ],
+  "notes_md": "**Thân thiết** means *very close* in a warm, friendly way — emotionally close, not physically close.  \n\nIt’s an adjective, used to describe relationships between people (friends, siblings, coworkers, etc.). It often goes after the noun or after “rất/khá”: *rất thân thiết*.  \n\n\nClose synonym: **gần gũi** (more about emotional warmth or comfort).  \nOpposite: **xa cách** (distant, not emotionally close).",
+  "exampleSentences": [
+    "Chị và em gái của chị rất thân thiết nên thường tâm sự với nhau.",
+    "Anh có một người bạn thân thiết từ thời đại học đến bây giờ.",
+    "Gia đình em luôn thân thiết và ủng hộ lẫn nhau trong mọi việc."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:15:43.189Z",
+    "definitions": {
+      "vi": "Gần gũi hoặc thân mật; có mối liên hệ mạnh mẽ.",
+      "en": "Close or intimate; having a strong bond.",
+      "es": "Cercano o íntimo; tener un fuerte vínculo."
+    },
+    "example": {
+      "es": "Hemos sido amigos cercanos desde la infancia.",
+      "vi": "Chúng tôi là bạn thân thiết từ nhỏ.",
+      "en": "We have been close friends since childhood."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "close",
+      "vi": "thân thiết",
+      "es": "cercano"
+    }
+  },
+  "definition": "close (describing a strong, friendly relationship)",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng tôi rất ___ với nhau.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "close"
+      },
+      "translation": {
+        "en": "We are very close to each other."
+      },
+      "answer": "thân thiết",
+      "choices": [],
+      "word": "thân thiết"
+    },
+    "updatedAt": "2025-03-12T14:40:19.748Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:40:19.748Z",
+    "id": "18ca1b9d-d30b-4fcf-9f2f-b7a0813b633b",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "S50Grtb6TbY4QL0s8Oex"
+}

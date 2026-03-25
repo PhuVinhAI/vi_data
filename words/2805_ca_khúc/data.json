@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:22:53.315Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích nghe ___ mới.",
+      "answer": "ca khúc",
+      "language": "vi",
+      "word": "ca khúc",
+      "choices": [],
+      "translation": {
+        "en": "I like to listen to new songs."
+      },
+      "translatedAnswer": {
+        "en": "songs"
+      }
+    },
+    "id": "4d7dcd9c-a370-41d0-9eee-1bdfff74a82a",
+    "createdAt": "2025-03-12T16:22:53.315Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "ca khúc",
+  "multiChoiceQuiz": {
+    "id": "8d04671c-c1a8-4874-b477-acdaf5359992",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:22:53.315Z",
+    "updatedAt": "2025-03-12T16:22:53.315Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "ca khúc",
+      "answer": "ca khúc",
+      "language": "vi",
+      "choices": [
+        "bài hát",
+        "ca khúc",
+        "âm nhạc"
+      ],
+      "translatedAnswer": {
+        "en": "songs"
+      },
+      "translation": {
+        "en": "I enjoy listening to songs in the evening."
+      },
+      "hint": "c___c",
+      "sentence": "Tôi thích nghe ___ vào buổi tối."
+    }
+  },
+  "definition": "song",
+  "rank": 2805,
+  "notes_md": "**Ca khúc** means a *song*, usually a composed piece of music with lyrics. It sounds a bit more formal or polished than **bài hát**.\n\nIt’s a countable noun; you can say **một ca khúc**, but in daily speech people often switch to **bài hát** when counting.  \nCommon pairings: **ca khúc mới**, **ca khúc nổi tiếng**, **ca khúc trữ tình**, **sáng tác ca khúc**, **trình bày ca khúc**.  \nThink of **ca khúc** as the “official” or media-style word, while **bài hát** feels more casual and everyday.",
+  "updatedAt": "2026-03-03T17:59:07.034Z",
+  "exampleSentencesTranslated": [
+    "I really like the new song you introduced yesterday.",
+    "She listens to this song every morning to feel happier.",
+    "Can you send me the song we listened to at the coffee shop?"
+  ],
+  "exampleSentences": [
+    "Em rất thích ca khúc mới mà anh vừa giới thiệu hôm qua.",
+    "Chị nghe ca khúc này mỗi sáng để cảm thấy vui vẻ hơn.",
+    "Anh có thể gửi cho em ca khúc mà chúng ta đã nghe ở quán cà phê không?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ca sĩ",
+    "ca khúc",
+    "bản nhạc"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích nghe ca khúc này.",
+      "es": "Me gusta escuchar esta canción.",
+      "en": "I like listening to this song."
+    },
+    "translations": {
+      "es": "canción",
+      "en": "song",
+      "vi": "ca khúc"
+    },
+    "definitions": {
+      "en": "A song or musical piece.",
+      "es": "Una canción o pieza musical.",
+      "vi": "Một bài hát hoặc tác phẩm âm nhạc."
+    },
+    "createdAt": "2025-01-28T13:53:38.395Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Ca khúc means a song, usually a composed piece of music with lyrics. It sounds a bit more formal or polished than bài hát.\n\nIt’s a countable noun; you can say một ca khúc, but in daily speech people often switch to bài hát when counting.  \nCommon pairings: ca khúc mới, ca khúc nổi tiếng, ca khúc trữ tình, sáng tác ca khúc, trình bày ca khúc.  \nThink of ca khúc as the “official” or media-style word, while bài hát feels more casual and everyday.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "s6bgbEkLul1AODZqV73F"
+}

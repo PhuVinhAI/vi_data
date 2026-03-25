@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em rất tò mò về công việc mới của anh.",
+    "Bọn trẻ thường tò mò khi nhìn thấy điều gì lạ.",
+    "Chị tò mò không biết ai đã gửi món quà này."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:10:00.830Z",
+    "updatedAt": "2025-03-12T13:10:00.830Z",
+    "content": {
+      "translation": {
+        "en": "I am very curious about this."
+      },
+      "choices": [
+        "thích thú",
+        "tò mò",
+        "hứng thú"
+      ],
+      "word": "tò mò",
+      "translatedAnswer": {
+        "en": "curious"
+      },
+      "language": "vi",
+      "hint": "t___ mò",
+      "sentence": "Tôi rất ___ về điều này.",
+      "answer": "tò mò"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "60750a40-7300-4507-856b-1ba6e95db1d5",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Eager to know or learn something.",
+      "vi": "Khao khát biết hoặc học điều gì đó.",
+      "es": "Deseoso de saber o aprender algo."
+    },
+    "createdAt": "2025-01-28T10:51:10.799Z",
+    "example": {
+      "es": "Ella tiene mucha curiosidad por las cosas nuevas.",
+      "en": "She is very curious about new things.",
+      "vi": "Cô ấy rất tò mò về những điều mới lạ."
+    },
+    "translations": {
+      "es": "curioso",
+      "en": "curious",
+      "vi": "tò mò"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 684,
+  "definition": "curious",
+  "word": "tò mò",
+  "choices": [
+    "tò mò",
+    "vui vẻ",
+    "bận rộn"
+  ],
+  "notes": "tò mò = curious, wanting to know something. It’s about interest, not suspicion.\n\nIt describes a person’s feeling: người tò mò, rất tò mò, hơi tò mò. Often used with về + topic.  \nYou can also say tò mò + không biết + clause to show wondering.\n\nClose synonym: hiếu kỳ (more formal/bookish). Opposite idea: thờ ơ (indifferent).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I am very curious about your new job.",
+    "Children are often curious when they see something strange.",
+    "She is curious to know who sent this gift."
+  ],
+  "notes_md": "**tò mò** = curious, wanting to know something. It’s about interest, not suspicion.\n\nIt describes a person’s feeling: *người tò mò*, *rất tò mò*, *hơi tò mò*. Often used with **về** + topic.  \nYou can also say **tò mò + không biết + clause** to show wondering.\n\nClose synonym: **hiếu kỳ** (more formal/bookish). Opposite idea: **thờ ơ** (indifferent).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:10:00.830Z",
+    "updatedAt": "2025-03-12T13:10:00.830Z",
+    "id": "46537bef-b952-4f62-90ea-9e6a4049f8cc",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I am very curious about this."
+      },
+      "choices": [],
+      "word": "tò mò",
+      "translatedAnswer": {
+        "en": "curious"
+      },
+      "language": "vi",
+      "sentence": "Tôi rất ___ về điều này.",
+      "answer": "tò mò"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T07:30:09.610Z",
+  "_id": "5LuLtkfwgeofVs9B2Tqe"
+}

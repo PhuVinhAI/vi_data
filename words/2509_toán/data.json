@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sử",
+    "toán",
+    "văn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em phải làm bài tập toán trước khi đi chơi với bạn.",
+    "Chị thích học toán vì nó giúp chị suy nghĩ logic hơn.",
+    "Anh trai của em rất giỏi môn toán ở trường."
+  ],
+  "rank": 2509,
+  "word": "toán",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "math",
+  "updatedAt": "2026-03-03T10:43:04.504Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I study math every day."
+      },
+      "answer": "toán",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi học ___ mỗi ngày.",
+      "word": "toán",
+      "translatedAnswer": {
+        "en": "math"
+      }
+    },
+    "createdAt": "2025-03-12T13:46:16.588Z",
+    "updatedAt": "2025-03-12T13:46:16.588Z",
+    "id": "b7207b98-0bd5-49df-a409-5d8d1718be5a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "toán = math (the school subject). It usually refers to mathematics as a subject you study in class.\n\nYou often say môn toán (the subject math), bài toán (a math problem), or học toán (study math). For counting, use môn for school subjects and bài for individual problems.\n\nIt can also mean a specific math problem in daily life, like something you need to calculate.  \n\nStrong pair: toán – văn (math vs. literature) to remember school subjects.",
+  "exampleSentencesTranslated": [
+    "I have to do my math homework before going out with friends.",
+    "I like studying math because it helps me think more logically.",
+    "My older brother is very good at math in school."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "math",
+      "es": "matemáticas",
+      "vi": "toán"
+    },
+    "createdAt": "2025-01-28T11:24:46.498Z",
+    "example": {
+      "es": "Hoy tengo clase de matemáticas.",
+      "vi": "Hôm nay tôi có tiết toán.",
+      "en": "Today I have math class."
+    },
+    "definitions": {
+      "en": "The study of numbers, shapes, and patterns.",
+      "es": "El estudio de números, formas y patrones.",
+      "vi": "Môn học về số, hình dạng và mẫu."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "sentence": "Môn học yêu thích của tôi là ___.",
+      "word": "toán",
+      "translatedAnswer": {
+        "en": "math"
+      },
+      "answer": "toán",
+      "translation": {
+        "en": "My favorite subject is math."
+      },
+      "hint": "t__n",
+      "choices": [
+        "văn",
+        "toán",
+        "sinh"
+      ]
+    },
+    "createdAt": "2025-03-12T13:46:16.588Z",
+    "updatedAt": "2025-03-12T13:46:16.588Z",
+    "id": "588b5310-db0e-4b6d-878e-b722e23f8d97",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**toán** = math (the school subject). It usually refers to mathematics as a subject you study in class.\n\nYou often say **môn toán** (the subject math), **bài toán** (a math problem), or **học toán** (study math). For counting, use **môn** for school subjects and **bài** for individual problems.\n\nIt can also mean a specific math problem in daily life, like something you need to calculate.  \n\nStrong pair: **toán – văn** (math vs. literature) to remember school subjects.",
+  "_id": "F6gByrQl03yofz15gB3I"
+}

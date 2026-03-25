@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:48:02.710Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:11:56.736Z",
+    "updatedAt": "2025-03-12T13:11:56.736Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "vụ",
+      "sentence": "Tôi đã nghe về ___ này.",
+      "translatedAnswer": {
+        "en": "case"
+      },
+      "language": "vi",
+      "word": "vụ",
+      "choices": [],
+      "translation": {
+        "en": "I have heard about this case."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "cd5d4011-c8df-463f-a3f8-841e2502fa12"
+  },
+  "notes_md": "**Vụ** usually means a *case* or *incident*, especially something serious like a crime, accident, or scandal. It’s a countable noun, so you say **một vụ, hai vụ…**\n\nIt’s often used with negative or official events (vụ cháy, vụ bê bối, vụ án). It sounds formal and factual, like something reported in the news.\n\nVery common second meaning: **“vụ” = crop/season** in farming (vụ hè, vụ mùa). Totally different context, so pay attention to the topic.\n\nClose idea: **việc** (a matter/thing), but *việc* is general; **vụ** feels more specific and often more serious.",
+  "exampleSentencesTranslated": [
+    "The police are investigating a theft case that happened last night.",
+    "Did you hear about the accident case on the highway?",
+    "The lawyer is preparing documents for this case."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "vụ",
+  "choices": [
+    "vụ",
+    "việc",
+    "bài"
+  ],
+  "notes": "Vụ usually means a case or incident, especially something serious like a crime, accident, or scandal. It’s a countable noun, so you say một vụ, hai vụ…\n\nIt’s often used with negative or official events (vụ cháy, vụ bê bối, vụ án). It sounds formal and factual, like something reported in the news.\n\nVery common second meaning: “vụ” = crop/season in farming (vụ hè, vụ mùa). Totally different context, so pay attention to the topic.\n\nClose idea: việc (a matter/thing), but việc is general; vụ feels more specific and often more serious.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:53:07.572Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một sự kiện hoặc sự cố, thường được sử dụng trong các bối cảnh pháp lý hoặc chính thức.",
+      "en": "An event or incident, often used in legal or formal contexts.",
+      "es": "Un evento o incidente, a menudo utilizado en contextos legales o formales."
+    },
+    "example": {
+      "es": "Necesitamos resolver este caso de inmediato.",
+      "vi": "Chúng ta cần giải quyết vụ này ngay.",
+      "en": "We need to resolve this case immediately."
+    },
+    "translations": {
+      "vi": "vụ",
+      "en": "case",
+      "es": "caso"
+    }
+  },
+  "definition": "case",
+  "rank": 1422,
+  "exampleSentences": [
+    "Cảnh sát đang điều tra một vụ trộm xảy ra tối qua.",
+    "Anh có nghe về vụ tai nạn trên đường cao tốc không?",
+    "Luật sư đang chuẩn bị hồ sơ cho vụ kiện này."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "We need to resolve this case."
+      },
+      "choices": [
+        "vụ",
+        "công việc",
+        "sự kiện"
+      ],
+      "hint": "v__",
+      "word": "vụ",
+      "translatedAnswer": {
+        "en": "case"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần giải quyết ___ này.",
+      "answer": "vụ"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "04362d48-9b05-4399-8569-369f66479eff",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:11:56.736Z",
+    "updatedAt": "2025-03-12T13:11:56.736Z"
+  },
+  "_id": "5sey3DGk8POHv7siwqN0"
+}

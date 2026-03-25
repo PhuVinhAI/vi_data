@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:58:22.069Z",
+    "translations": {
+      "es": "dar",
+      "vi": "cho",
+      "en": "give"
+    },
+    "example": {
+      "vi": "Tôi cho bạn một món quà.",
+      "es": "Te doy un regalo.",
+      "en": "I give you a gift."
+    },
+    "definitions": {
+      "vi": "cho; cho phép",
+      "es": "dar; permitir",
+      "en": "to give; to allow"
+    }
+  },
+  "definition": "give",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:20:41.209Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "cho",
+      "sentence": "Tôi mua quà ___ bạn.",
+      "language": "vi",
+      "translation": {
+        "en": "I buy a gift for you."
+      },
+      "translatedAnswer": {
+        "en": "for"
+      },
+      "answer": "cho"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:20:41.209Z",
+    "id": "d088eedf-dacf-447b-9b3e-5299a8d39d22"
+  },
+  "exampleSentencesTranslated": [
+    "Can you give me this pen?",
+    "Mom always gives me good advice in life.",
+    "Friends should give each other trust and support."
+  ],
+  "exampleSentences": [
+    "Anh có thể cho em mượn chiếc bút này được không?",
+    "Mẹ luôn cho con lời khuyên tốt trong cuộc sống.",
+    "Bạn bè nên cho nhau sự tin tưởng và hỗ trợ."
+  ],
+  "updatedAt": "2026-03-03T09:08:07.154Z",
+  "notes": "cho usually means “to give” — you pass something to someone. It’s used all the time when giving objects, money, help, or permission.\n\nIt can also mean “for” (intended for someone) and “let” in the sense of allowing.  \nClose cousin: tặng = give as a gift (more special, emotional).",
+  "rank": 1609,
+  "choices": [
+    "cho",
+    "chờ",
+    "chơi"
+  ],
+  "notes_md": "**cho** usually means **“to give”** — you pass something to someone. It’s used all the time when giving objects, money, help, or permission.\n\n\nIt can also mean **“for”** (intended for someone) and **“let”** in the sense of allowing.  \nClose cousin: **tặng** = give as a gift (more special, emotional).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:20:41.209Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:20:41.209Z",
+    "content": {
+      "hint": "c___",
+      "answer": "cho",
+      "translation": {
+        "en": "I buy a gift for you."
+      },
+      "translatedAnswer": {
+        "en": "for"
+      },
+      "word": "cho",
+      "language": "vi",
+      "sentence": "Tôi mua quà ___ bạn.",
+      "choices": [
+        "cho",
+        "với",
+        "từ"
+      ]
+    },
+    "id": "a48ccd87-6816-43fa-bdf6-7590317b7d0a"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cho",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "dKSSFVVVRx6Bae3UkBYN"
+}

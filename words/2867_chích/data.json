@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Sáng nay em phải đi bệnh viện để chích.",
+    "Bác sĩ nói anh nên chích để phòng bệnh.",
+    "Chị có sợ đau khi chích không?"
+  ],
+  "choices": [
+    "chích",
+    "rửa",
+    "bôi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:50:10.252Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To inject or to prick.",
+      "es": "Inyectar o pinchar.",
+      "vi": "Tiêm hoặc chích."
+    },
+    "translations": {
+      "vi": "chích",
+      "es": "inyectar",
+      "en": "inject"
+    },
+    "example": {
+      "es": "Ella inyecta medicina al paciente.",
+      "en": "She injects medicine for the patient.",
+      "vi": "Cô ấy chích thuốc cho bệnh nhân."
+    }
+  },
+  "updatedAt": "2026-03-03T18:06:31.026Z",
+  "exampleSentencesTranslated": [
+    "This morning I have to go to the hospital to inject.",
+    "The doctor said you should inject to prevent illness.",
+    "Are you afraid of pain when you inject?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chích = to inject (give a shot). It’s used for medical injections and also for insects stinging/biting.\n\nFor medicine, people say chích thuốc, chích vắc-xin, or chích ngừa (get vaccinated).  \nFor insects, it means to sting/ bite, like mosquitoes.\n\nNote: In the North, people usually say tiêm (inject) and muỗi đốt instead of chích. In the South, chích is very common for both.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:18:58.966Z",
+    "id": "653b457c-2a8b-4fa1-9eb1-1432b731c36f",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "stung"
+      },
+      "translation": {
+        "en": "She got stung on the hand."
+      },
+      "choices": [],
+      "word": "chích",
+      "answer": "chích",
+      "language": "vi",
+      "sentence": "Cô ấy bị ___ vào tay."
+    },
+    "updatedAt": "2025-03-12T16:18:58.966Z"
+  },
+  "word": "chích",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2867,
+  "notes_md": "**chích** = to inject (give a shot). It’s used for medical injections and also for insects stinging/biting.\n\nFor medicine, people say **chích thuốc**, **chích vắc-xin**, or **chích ngừa** (get vaccinated).  \nFor insects, it means to sting/ bite, like mosquitoes.\n\n\n**Note:** In the North, people usually say **tiêm** (inject) and **muỗi đốt** instead of *chích*. In the South, *chích* is very common for both.",
+  "multiChoiceQuiz": {
+    "id": "b25e00fc-b832-4e5e-aea2-4c1371a4e9e3",
+    "createdAt": "2025-03-12T16:18:58.966Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:18:58.966Z",
+    "content": {
+      "word": "chích",
+      "answer": "chích",
+      "language": "vi",
+      "choices": [
+        "cắn",
+        "chích",
+        "đâm"
+      ],
+      "translation": {
+        "en": "That person was stung by a bee."
+      },
+      "translatedAnswer": {
+        "en": "stung"
+      },
+      "hint": "c___h",
+      "sentence": "Người đó bị ___ bởi ong."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "definition": "inject",
+  "_id": "rHySXpQGUFnlmGjixQO3"
+}

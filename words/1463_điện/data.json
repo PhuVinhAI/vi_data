@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "điện",
+      "hint": "d___n",
+      "sentence": "Cần ___ cho đèn sáng.",
+      "translatedAnswer": {
+        "en": "electricity"
+      },
+      "choices": [
+        "năng lượng",
+        "điện",
+        "nhiệt độ"
+      ],
+      "answer": "điện",
+      "translation": {
+        "en": "Electricity is needed for the light to shine."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:47:07.062Z",
+    "id": "b4656ab2-7546-4665-a644-76711843e111",
+    "createdAt": "2025-03-12T16:47:07.062Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Nhà em vừa mất điện nên không thể xem tivi được.",
+    "Anh có thể kiểm tra hóa đơn điện tháng này giúp chị không?",
+    "Chúng ta nên tiết kiệm điện để bảo vệ môi trường."
+  ],
+  "updatedAt": "2026-03-03T08:52:07.437Z",
+  "choices": [
+    "điện",
+    "nước",
+    "đèn"
+  ],
+  "exampleSentencesTranslated": [
+    "My house just lost electricity so I can't watch TV.",
+    "Can you check this month's electricity bill for me?",
+    "We should save electricity to protect the environment."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "điện",
+  "notes": "Điện means electricity — the power that runs lights, machines, devices.  \n\nIt’s an uncountable noun; you don’t say “một điện,” just điện or add context like tiền điện (electricity bill), cúp/mất điện (power cut), bật/tắt điện (turn on/off the power).  \n\nVery common in compound nouns: điện thoại (phone), điện máy (electronics), điện lực (power company).  \n\nIt can also describe something electric, like in xe điện (electric vehicle).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:17:54.789Z",
+    "translations": {
+      "es": "electricidad",
+      "en": "electricity",
+      "vi": "điện"
+    },
+    "example": {
+      "vi": "Tôi cần bật điện để làm việc.",
+      "es": "Necesito encender la electricidad para trabajar.",
+      "en": "I need to turn on the electricity to work."
+    },
+    "definitions": {
+      "es": "Electricidad; el fenómeno físico asociado con la presencia y el movimiento de carga eléctrica.",
+      "en": "Electricity; the physical phenomenon associated with the presence and motion of electric charge.",
+      "vi": "Điện; hiện tượng vật lý liên quan đến sự hiện diện và chuyển động của điện tích."
+    }
+  },
+  "notes_md": "**Điện** means electricity — the power that runs lights, machines, devices.  \n\nIt’s an uncountable noun; you don’t say “một điện,” just *điện* or add context like *tiền điện* (electricity bill), *cúp/mất điện* (power cut), *bật/tắt điện* (turn on/off the power).  \n\nVery common in compound nouns: *điện thoại* (phone), *điện máy* (electronics), *điện lực* (power company).  \n\nIt can also describe something electric, like in *xe điện* (electric vehicle).",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "answer": "điện",
+      "translation": {
+        "en": "I need electricity to work."
+      },
+      "translatedAnswer": {
+        "en": "electricity"
+      },
+      "sentence": "Tôi cần ___ để làm việc.",
+      "word": "điện"
+    },
+    "updatedAt": "2025-03-12T16:47:07.062Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:47:07.062Z",
+    "id": "4d1d3c04-aef9-49e1-9deb-5a13d4fea694"
+  },
+  "rank": 1463,
+  "definition": "electricity",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "yI859ORFJ8xv4Ei0KeB5"
+}

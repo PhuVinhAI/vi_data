@@ -1,0 +1,98 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "Currency or wealth used for transactions.",
+      "es": "Moneda o riqueza utilizada para transacciones.",
+      "vi": "Tiền tệ hoặc tài sản được sử dụng cho các giao dịch."
+    },
+    "example": {
+      "vi": "Tiền bạc không phải là tất cả.",
+      "es": "El dinero no lo es todo.",
+      "en": "Money is not everything."
+    },
+    "translations": {
+      "es": "dinero",
+      "vi": "tiền bạc",
+      "en": "money"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:02:08.229Z"
+  },
+  "definition": "money",
+  "exampleSentencesTranslated": [
+    "He worries about money when preparing to buy a new house.",
+    "She often saves money to travel at the end of the year.",
+    "I think managing money wisely is very important in life."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "tiền bạc",
+      "translatedAnswer": {
+        "en": "money"
+      },
+      "translation": {
+        "en": "I need a lot of money to travel."
+      },
+      "sentence": "Tôi cần nhiều ___ để du lịch.",
+      "language": "vi",
+      "word": "tiền bạc"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:27:26.463Z",
+    "id": "302fe64b-6f96-4bd4-91c2-1245fd8b2847",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:27:26.463Z"
+  },
+  "updatedAt": "2026-03-03T09:32:49.163Z",
+  "exampleSentences": [
+    "Anh ấy lo lắng về tiền bạc khi chuẩn bị mua nhà mới.",
+    "Chị thường tiết kiệm tiền bạc để đi du lịch vào cuối năm.",
+    "Em nghĩ quản lý tiền bạc thông minh là rất quan trọng trong cuộc sống."
+  ],
+  "notes": "Tiền bạc means money, especially in a broad, general sense — not specific bills or coins, but financial matters overall.  \n\nIt’s an uncountable noun, so you don’t use classifiers; you don’t say một tiền bạc. It often appears in phrases about concerns or management, like talking about problems, pressure, or responsibility related to money.  \n\nCompared to tiền, which just means “money” in a neutral way, tiền bạc feels slightly more serious and abstract — more like “finances.”  \n\nYou’ll usually see it in discussions about life planning, stress, saving, or financial responsibility.",
+  "notes_md": "**Tiền bạc** means *money*, especially in a broad, general sense — not specific bills or coins, but financial matters overall.  \n\nIt’s an uncountable noun, so you don’t use classifiers; you don’t say *một tiền bạc*. It often appears in phrases about concerns or management, like talking about problems, pressure, or responsibility related to money.  \n\nCompared to **tiền**, which just means “money” in a neutral way, **tiền bạc** feels slightly more serious and abstract — more like “finances.”  \n\nYou’ll usually see it in discussions about life planning, stress, saving, or financial responsibility.",
+  "rank": 1841,
+  "choices": [
+    "tiền bạc",
+    "thời gian",
+    "sức khỏe"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:26.463Z",
+    "content": {
+      "translation": {
+        "en": "I need a lot of money to travel."
+      },
+      "translatedAnswer": {
+        "en": "money"
+      },
+      "hint": "t____ b____",
+      "answer": "tiền bạc",
+      "choices": [
+        "sách",
+        "tiền bạc",
+        "thời gian"
+      ],
+      "word": "tiền bạc",
+      "language": "vi",
+      "sentence": "Tôi cần nhiều ___ để du lịch."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:26.463Z",
+    "id": "ba113f25-3ed1-4bc1-9329-1dff0e028d15",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tiền bạc",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "eLQwjmO5IIzYZUK4wgTl"
+}

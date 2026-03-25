@@ -1,0 +1,99 @@
+{
+  "definition": "humankind",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "loài người",
+      "translation": {
+        "en": "The future of humankind is very important."
+      },
+      "answer": "loài người",
+      "sentence": "Tương lai của ___ rất quan trọng.",
+      "translatedAnswer": {
+        "en": "humankind"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:40:30.933Z",
+    "createdAt": "2025-03-12T14:40:30.933Z",
+    "id": "cdfa930d-0ffc-454f-a967-723701c806af",
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**Loài người** means *humankind* or *the human species* as a whole. It talks about all humans in general, not specific people.\n\nIt’s a fixed noun phrase: **loài** (species) + **người** (human). You don’t change or count it; it already refers to the whole species.  \n\nA very common synonym is **nhân loại** (a bit more formal, often used in news or serious topics).  \n\nIt’s used when speaking broadly about history, science, nature, or the future of humans as one group.",
+  "exampleSentences": [
+    "Anh tin rằng loài người có thể sống hòa bình với thiên nhiên.",
+    "Chị nghĩ loài người nên hợp tác để giải quyết vấn đề môi trường.",
+    "Loài người đã phát triển nhiều công nghệ mới trong vài thập kỷ qua."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The human species; mankind.",
+      "vi": "Loài người; nhân loại.",
+      "es": "La especie humana; la humanidad."
+    },
+    "createdAt": "2025-01-28T12:15:46.336Z",
+    "example": {
+      "en": "Humans need to protect the environment.",
+      "vi": "Loài người cần bảo vệ môi trường.",
+      "es": "Los seres humanos necesitan proteger el medio ambiente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "humans",
+      "vi": "loài người",
+      "es": "seres humanos"
+    }
+  },
+  "notes": "Loài người means humankind or the human species as a whole. It talks about all humans in general, not specific people.\n\nIt’s a fixed noun phrase: loài (species) + người (human). You don’t change or count it; it already refers to the whole species.  \n\nA very common synonym is nhân loại (a bit more formal, often used in news or serious topics).  \n\nIt’s used when speaking broadly about history, science, nature, or the future of humans as one group.",
+  "choices": [
+    "loài vật",
+    "loài người",
+    "loài chim"
+  ],
+  "updatedAt": "2026-03-03T10:30:43.485Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2391,
+  "exampleSentencesTranslated": [
+    "He believes that humankind can live peacefully with nature.",
+    "She thinks humankind should cooperate to solve environmental problems.",
+    "Humankind has developed many new technologies in recent decades."
+  ],
+  "word": "loài người",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:40:30.933Z",
+    "id": "5bb2ef11-1935-4c55-b72e-e011548f8aea",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "l___g",
+      "answer": "loài người",
+      "translation": {
+        "en": "The future of humankind is very important."
+      },
+      "word": "loài người",
+      "choices": [
+        "loài người",
+        "thế giới",
+        "nền văn minh"
+      ],
+      "sentence": "Tương lai của ___ rất quan trọng.",
+      "translatedAnswer": {
+        "en": "humankind"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:40:30.933Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "S54GtpGPT8b1qS2QWVGT"
+}

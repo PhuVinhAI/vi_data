@@ -1,0 +1,99 @@
+{
+  "rank": 2775,
+  "exampleSentences": [
+    "Chị luôn tin rằng sự thiện có thể thay đổi thế giới.",
+    "Anh ấy giúp đỡ người khác vì lòng thiện của mình.",
+    "Em thấy lòng thiện rất quan trọng trong cuộc sống hàng ngày."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:59:22.868Z",
+    "definitions": {
+      "vi": "Tính chất của việc tốt hoặc tử tế.",
+      "es": "La cualidad de ser bueno o amable.",
+      "en": "The quality of being good or kind."
+    },
+    "translations": {
+      "en": "goodness",
+      "es": "bondad",
+      "vi": "thiện"
+    },
+    "example": {
+      "en": "She always does good deeds.",
+      "vi": "Cô ấy luôn làm việc thiện.",
+      "es": "Ella siempre hace buenas acciones."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:23:37.813Z",
+    "createdAt": "2025-03-12T14:23:37.813Z",
+    "id": "7df3b87c-51f7-4dbb-8fc1-1b54844e49ca",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need kindness in life."
+      },
+      "language": "vi",
+      "choices": [
+        "độc ác",
+        "thiện",
+        "vô cảm"
+      ],
+      "hint": "t____n",
+      "word": "thiện",
+      "sentence": "Chúng ta cần ___ trong cuộc sống.",
+      "translatedAnswer": {
+        "en": "kindness"
+      },
+      "answer": "thiện"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "thiện",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**thiện** = kind, good, morally good. It’s about goodness in character or intention (opposite of **ác** = evil).\n\nIt’s mostly used in Sino‑Vietnamese compounds rather than standing alone in casual speech. You’ll often see it in words like **từ thiện** (charity), **thiện ác** (good and evil), **thiện chí** (goodwill).\n\nAs an adjective, it describes moral quality, usually in a slightly formal or thoughtful tone. As a noun idea, it can mean “goodness” in a general, moral sense.\n\nStrong contrast to remember: **thiện ↔ ác** (good vs evil).",
+  "choices": [
+    "thiện",
+    "thiết",
+    "thiếu"
+  ],
+  "updatedAt": "2026-03-03T17:29:07.642Z",
+  "exampleSentencesTranslated": [
+    "She always believes that kindness can change the world.",
+    "He helps others because of his kindness.",
+    "I think kindness is very important in daily life."
+  ],
+  "notes": "thiện = kind, good, morally good. It’s about goodness in character or intention (opposite of ác = evil).\n\nIt’s mostly used in Sino‑Vietnamese compounds rather than standing alone in casual speech. You’ll often see it in words like từ thiện (charity), thiện ác (good and evil), thiện chí (goodwill).\n\nAs an adjective, it describes moral quality, usually in a slightly formal or thoughtful tone. As a noun idea, it can mean “goodness” in a general, moral sense.\n\nStrong contrast to remember: thiện ↔ ác (good vs evil).",
+  "fillBlankQuiz": {
+    "id": "aeabcdac-fe93-4930-bf2d-6567803b23c2",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta cần ___ trong cuộc sống.",
+      "word": "thiện",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need kindness in life."
+      },
+      "answer": "thiện",
+      "translatedAnswer": {
+        "en": "kindness"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:23:37.813Z",
+    "createdAt": "2025-03-12T14:23:37.813Z"
+  },
+  "definition": "kindness",
+  "_id": "NndtWVQQxdrrTFjToNyk"
+}

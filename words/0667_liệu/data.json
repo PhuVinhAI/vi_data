@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "whether",
+  "exampleSentences": [
+    "Anh không biết liệu ngày mai trời có mưa hay không.",
+    "Chị đang phân vân liệu mình nên đi du lịch vào hè này.",
+    "Em tự hỏi liệu mình có thể vượt qua kỳ thi này không."
+  ],
+  "rank": 667,
+  "word": "liệu",
+  "choices": [
+    "liệu",
+    "lúc",
+    "luôn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I don't know whether it will rain tomorrow.",
+    "She is wondering whether she should travel this summer.",
+    "I wonder whether I can pass this exam."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "whether; if"
+    },
+    "word": "liệu",
+    "example": {
+      "en": "Do you know if it will rain tomorrow?",
+      "vi": "Bạn có biết liệu ngày mai trời có mưa không?"
+    },
+    "createdAt": "2025-05-24T16:20:24.155Z",
+    "definitions": {
+      "en": "A word used to express doubt or to ask about the possibility of something happening.",
+      "vi": "Từ dùng để bày tỏ sự nghi ngờ hoặc đặt câu hỏi về khả năng xảy ra của một điều gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**Liệu** means **“whether”** — used when you’re unsure and thinking about a possibility. It often shows doubt or questioning in your mind.\n\nIt usually comes before a full clause and is often paired with **“hay không”** at the end.  \n\nWithout **liệu**, you can just use the **có… không** question pattern, which feels more direct. Adding **liệu** makes it sound more thoughtful or uncertain.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:44:53.594Z",
+    "content": {
+      "hint": "l___",
+      "choices": [
+        "thật",
+        "không",
+        "liệu"
+      ],
+      "answer": "liệu",
+      "translation": {
+        "en": "Are you going?"
+      },
+      "translatedAnswer": {
+        "en": "going"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ đi không?",
+      "word": "liệu"
+    },
+    "createdAt": "2025-03-12T13:44:53.594Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "bd911396-92f3-4239-a0df-2cd937c627bc",
+    "type": "multiChoiceQuiz"
+  },
+  "updatedAt": "2026-03-03T07:28:30.808Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:44:53.594Z",
+    "createdAt": "2025-03-12T13:44:53.594Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "sure"
+      },
+      "language": "vi",
+      "word": "liệu",
+      "sentence": "Bạn có ___ chắc chắn không?",
+      "choices": [],
+      "translation": {
+        "en": "Are you sure?"
+      },
+      "answer": "liệu"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e75baa4e-7d6f-4f68-904e-2bbebb6a79b2"
+  },
+  "notes": "Liệu means “whether” — used when you’re unsure and thinking about a possibility. It often shows doubt or questioning in your mind.\n\nIt usually comes before a full clause and is often paired with “hay không” at the end.  \n\nWithout liệu, you can just use the có… không question pattern, which feels more direct. Adding liệu makes it sound more thoughtful or uncertain.",
+  "_id": "EiVlFxdTETN1s86uw6Vt"
+}

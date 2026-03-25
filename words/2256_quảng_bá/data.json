@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:59:11.268Z",
+    "updatedAt": "2025-03-12T12:59:11.268Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "3cd14d3e-01fc-4ad6-8964-4cfcb50b9f45",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ sản phẩm mới.",
+      "answer": "quảng bá",
+      "translation": {
+        "en": "We need to promote the new product."
+      },
+      "choices": [
+        "quảng bá",
+        "tiếp thị",
+        "bán hàng"
+      ],
+      "word": "quảng bá",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "promote"
+      },
+      "hint": "q___ b__"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Công ty đang sử dụng mạng xã hội để quảng bá sản phẩm mới.",
+    "Anh muốn quảng bá thương hiệu của mình đến nhiều khách hàng hơn.",
+    "Chúng ta nên quảng bá sự kiện này trên các trang web nổi tiếng."
+  ],
+  "rank": 2256,
+  "definition": "promote",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:42:13.808Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Promover o anunciar algo a una audiencia más amplia.",
+      "vi": "Quảng bá có nghĩa là giới thiệu hoặc quảng cáo một cái gì đó đến một đối tượng rộng hơn.",
+      "en": "To promote or advertise something to a wider audience."
+    },
+    "example": {
+      "es": "Promoveremos el nuevo producto a través de las redes sociales.",
+      "vi": "Chúng tôi sẽ quảng bá sản phẩm mới qua mạng xã hội.",
+      "en": "We will promote the new product through social media."
+    },
+    "translations": {
+      "es": "promover",
+      "vi": "quảng bá",
+      "en": "promote"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "quảng bá",
+    "giới thiệu",
+    "phát triển"
+  ],
+  "notes": "quảng bá = to promote or publicize something so more people know about it. It’s about spreading awareness and building attention.\n\nIt’s a verb, often used with things like sản phẩm, thương hiệu, hình ảnh, du lịch, văn hóa. The focus is on increasing visibility, not just selling.\n\nClose to quảng cáo (advertise), but quảng cáo sounds more commercial and paid, while quảng bá is broader and can include PR or general promotion. Opposite idea: giấu (hide).",
+  "word": "quảng bá",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The company is using social media to promote the new product.",
+    "He wants to promote his brand to more customers.",
+    "We should promote this event on popular websites."
+  ],
+  "notes_md": "**quảng bá** = to promote or publicize something so more people know about it. It’s about spreading awareness and building attention.\n\nIt’s a verb, often used with things like **sản phẩm, thương hiệu, hình ảnh, du lịch, văn hóa**. The focus is on increasing visibility, not just selling.\n\n\nClose to **quảng cáo** (advertise), but *quảng cáo* sounds more commercial and paid, while *quảng bá* is broader and can include PR or general promotion. Opposite idea: **giấu** (hide).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "quảng bá",
+      "sentence": "Chúng ta cần ___ sản phẩm mới.",
+      "word": "quảng bá",
+      "translatedAnswer": {
+        "en": "promote"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We need to promote the new product."
+      },
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "c213f777-624f-40ec-a1fc-7a8c77042876",
+    "createdAt": "2025-03-12T12:59:11.268Z",
+    "updatedAt": "2025-03-12T12:59:11.268Z"
+  },
+  "updatedAt": "2026-03-03T10:16:49.402Z",
+  "_id": "2dQMqef5jRSkPce9OKlA"
+}

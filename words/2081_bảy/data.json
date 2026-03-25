@@ -1,0 +1,99 @@
+{
+  "rank": 2081,
+  "notes_md": "**bảy** means **seven**.\n\nIt’s a number, so you put it before a classifier + noun: **bảy + classifier + noun** (bảy người, bảy cái ghế). Vietnamese numbers don’t change form.  \nYou also use it for age, dates, phone numbers, prices, and time.\n\nVery common extra meaning: **Thứ bảy** = Saturday (literally “day seven”).",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "b___",
+      "translation": {
+        "en": "I have seven cakes."
+      },
+      "translatedAnswer": {
+        "en": "seven"
+      },
+      "language": "vi",
+      "choices": [
+        "năm",
+        "bảy",
+        "mười"
+      ],
+      "answer": "bảy",
+      "word": "bảy",
+      "sentence": "Tôi có ___ chiếc bánh."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:25:16.008Z",
+    "createdAt": "2025-03-12T16:25:16.008Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d4349be4-a812-4ebe-921c-6d127616ec7d"
+  },
+  "definition": "seven",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "seventh"
+      },
+      "translation": {
+        "en": "Today is the seventh of July."
+      },
+      "choices": [],
+      "word": "bảy",
+      "answer": "bảy",
+      "language": "vi",
+      "sentence": "Hôm nay là ___ tháng Bảy."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:25:16.008Z",
+    "createdAt": "2025-03-12T16:25:16.008Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "da532ceb-71d8-4a42-bd14-57321b43f079"
+  },
+  "word": "bảy",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "bảy means seven.\n\nIt’s a number, so you put it before a classifier + noun: bảy + classifier + noun (bảy người, bảy cái ghế). Vietnamese numbers don’t change form.  \nYou also use it for age, dates, phone numbers, prices, and time.\n\nVery common extra meaning: Thứ bảy = Saturday (literally “day seven”).",
+  "exampleSentences": [
+    "Em có thể mua giúp anh bảy quả táo ở siêu thị không?",
+    "Gia đình chị có bảy người nên bữa cơm luôn rất vui.",
+    "Anh phải thức dậy lúc bảy giờ sáng để đi làm mỗi ngày."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The number seven.",
+      "es": "El número siete.",
+      "vi": "Số bảy."
+    },
+    "createdAt": "2025-01-28T13:56:13.411Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bảy",
+      "es": "siete",
+      "en": "seven"
+    },
+    "example": {
+      "vi": "Tôi có bảy quả táo.",
+      "en": "I have seven apples.",
+      "es": "Tengo siete manzanas."
+    }
+  },
+  "choices": [
+    "bảy",
+    "bốn",
+    "năm"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:58:17.494Z",
+  "exampleSentencesTranslated": [
+    "Can you buy seven apples for me at the supermarket?",
+    "There are seven people in my family so our meals are always cheerful.",
+    "I have to wake up at seven in the morning to go to work every day."
+  ],
+  "_id": "skUvF3aAgrqGReJgeo1d"
+}

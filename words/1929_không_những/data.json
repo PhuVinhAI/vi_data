@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:26:25.424Z",
+    "id": "e47a3094-967e-41e5-8f49-41962941300f",
+    "content": {
+      "word": "không những",
+      "choices": [
+        "không những",
+        "cũng không",
+        "không phải"
+      ],
+      "hint": "k___n",
+      "translation": {
+        "en": "She not only likes to eat cake."
+      },
+      "answer": "không những",
+      "sentence": "Cô ấy ___ thích ăn bánh.",
+      "translatedAnswer": {
+        "en": "not only"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:26:25.424Z"
+  },
+  "word": "không những",
+  "exampleSentencesTranslated": [
+    "He is not only good but also very hardworking at work.",
+    "She is not only good at cooking but also sings very well.",
+    "You are not only good at studying but also good at sports."
+  ],
+  "rank": 1929,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:42:05.368Z",
+  "choices": [
+    "không những",
+    "tuy nhiên",
+    "vì vậy"
+  ],
+  "notes": "không những = not only. It sets up the first part of a “not only… but also…” idea.\n\nIt’s a linking structure, so it needs a second part to complete the meaning. Most often it pairs with mà còn (strong, clear pair).\n\nVery close synonym: không chỉ … mà còn … (a bit more neutral). Without mà còn, the sentence feels unfinished.",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:02:31.287Z",
+    "definitions": {
+      "es": "Una frase utilizada para indicar que algo es cierto además de otra afirmación.",
+      "en": "A phrase used to indicate that something is true in addition to another statement.",
+      "vi": "Một cụm từ được sử dụng để chỉ ra rằng một điều gì đó là đúng ngoài một tuyên bố khác."
+    },
+    "example": {
+      "es": "No solo me gusta el café, sino que también me gusta el té.",
+      "en": "Not only do I like coffee, but I also like tea.",
+      "vi": "Không những tôi thích cà phê, mà tôi còn thích trà."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "no solo",
+      "en": "not only",
+      "vi": "không những"
+    }
+  },
+  "notes_md": "**không những** = *not only*. It sets up the first part of a “not only… but also…” idea.\n\nIt’s a linking structure, so it needs a second part to complete the meaning. Most often it pairs with **mà còn** (strong, clear pair).\n\n\nVery close synonym: **không chỉ … mà còn …** (a bit more neutral). Without **mà còn**, the sentence feels unfinished.",
+  "exampleSentences": [
+    "Anh ấy không những giỏi mà còn rất chăm chỉ trong công việc.",
+    "Chị không những nấu ăn ngon mà còn hát rất hay nữa.",
+    "Em không những học giỏi mà còn chơi thể thao tốt."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:26:25.424Z",
+    "id": "7ee2884e-fb4a-40bd-9013-216882da8821",
+    "content": {
+      "translation": {
+        "en": "She not only likes to eat cake."
+      },
+      "answer": "không những",
+      "choices": [],
+      "word": "không những",
+      "sentence": "Cô ấy ___ thích ăn bánh.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "not only"
+      }
+    },
+    "updatedAt": "2025-03-12T14:26:25.424Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "not only",
+  "_id": "OhxZvIKb3MSki2g1inSb"
+}

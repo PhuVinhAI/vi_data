@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "tự ti",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "insecure"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I feel insecure when talking."
+      },
+      "answer": "tự ti",
+      "sentence": "Tôi cảm thấy ___ khi nói chuyện."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "9a8426ff-c019-4206-8df7-857cf27c6979",
+    "createdAt": "2025-03-12T13:09:57.124Z",
+    "updatedAt": "2025-03-12T13:09:57.124Z"
+  },
+  "updatedAt": "2026-03-03T09:23:21.758Z",
+  "exampleSentencesTranslated": [
+    "Many young people feel self-doubt when speaking English in front of a crowd.",
+    "Don't have self-doubt about your appearance, everyone has their own strengths.",
+    "When facing failure, I often have feelings of self-doubt and don't want to try again."
+  ],
+  "notes_md": "**tự ti** = insecure, lacking confidence, feeling not good enough compared to others. It describes a person’s mindset about themselves.\n\nIt often goes with **về + noun** (what you feel insecure about) or **khi + clause** (the situation). You’ll also see it after verbs like *cảm thấy*, *trở nên*.\n\n\nStrong opposite: **tự tin** (confident). Related word: **mặc cảm (tự ti)** = inferiority complex, deeper and more negative.",
+  "notes": "tự ti = insecure, lacking confidence, feeling not good enough compared to others. It describes a person’s mindset about themselves.\n\nIt often goes with về + noun (what you feel insecure about) or khi + clause (the situation). You’ll also see it after verbs like cảm thấy, trở nên.\n\nStrong opposite: tự tin (confident). Related word: mặc cảm (tự ti) = inferiority complex, deeper and more negative.",
+  "choices": [
+    "tự tin",
+    "tự ti",
+    "tự hào"
+  ],
+  "word": "tự ti",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:09:57.124Z",
+    "updatedAt": "2025-03-12T13:09:57.124Z",
+    "content": {
+      "hint": "t___i",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "insecure"
+      },
+      "word": "tự ti",
+      "translation": {
+        "en": "She does not feel insecure about herself."
+      },
+      "choices": [
+        "tự ti",
+        "tự hào",
+        "tự do"
+      ],
+      "answer": "tự ti",
+      "sentence": "Cô ấy không cảm thấy ___ về bản thân."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "cb205ac4-5408-4364-b9cf-0ae125eb7193",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nhiều người trẻ cảm thấy tự ti khi nói tiếng Anh trước đám đông.",
+    "Em đừng tự ti về ngoại hình của mình, ai cũng có điểm mạnh riêng.",
+    "Khi gặp thất bại, anh thường có cảm giác tự ti và không muốn thử lại."
+  ],
+  "definition": "self-doubt",
+  "rank": 1751,
+  "flashcard": {
+    "example": {
+      "en": "She always feels insecure about her appearance.",
+      "vi": "Cô ấy luôn cảm thấy tự ti về ngoại hình của mình.",
+      "es": "Ella siempre se siente insegura acerca de su apariencia."
+    },
+    "translations": {
+      "es": "inseguro",
+      "en": "insecure",
+      "vi": "tự ti"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un sentimiento de insuficiencia o falta de confianza en uno mismo.",
+      "vi": "Cảm giác không đủ khả năng hoặc thiếu tự tin.",
+      "en": "A feeling of inadequacy or lack of self-confidence."
+    },
+    "createdAt": "2025-01-28T10:51:07.009Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "5LAQucM5KsNU5CTs6Q8H"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "life (as in prev/next incarnation life)",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:48:21.029Z",
+    "id": "c0bfdfb9-5ded-4f3c-95a6-c598b9e3f2a7",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I have lived through many lifetimes."
+      },
+      "answer": "kiếp",
+      "choices": [],
+      "word": "kiếp",
+      "sentence": "Tôi đã sống qua nhiều ___.",
+      "translatedAnswer": {
+        "en": "lifetimes"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:48:21.029Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Kiếp** means a *life* in the sense of one lifetime, often linked to reincarnation or fate. It feels spiritual or philosophical, not just everyday “life.”\n\nIt’s a noun, and you can say **một kiếp** (one lifetime). Very common pairings: **kiếp này / kiếp trước / kiếp sau** and **kiếp người** (human life).\n\n\nCompared to **đời** (life), *kiếp* sounds more about destiny or reincarnation, not just your general life period.",
+  "exampleSentences": [
+    "Anh luôn cố gắng sống một kiếp ý nghĩa và hạnh phúc.",
+    "Nhiều người tin rằng mỗi kiếp đều có một số phận riêng.",
+    "Em nghĩ rằng kiếp này mình sẽ gặp nhiều may mắn hơn."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Each lifetime has its own challenges.",
+      "vi": "Mỗi kiếp người đều có những thử thách riêng.",
+      "es": "Cada vida tiene sus propios desafíos."
+    },
+    "definitions": {
+      "es": "Una vida o existencia, a menudo utilizada en un contexto filosófico o espiritual.",
+      "en": "A lifetime or existence, often used in a philosophical or spiritual context.",
+      "vi": "Một kiếp sống hoặc sự tồn tại, thường được sử dụng trong bối cảnh triết học hoặc tâm linh."
+    },
+    "createdAt": "2025-01-28T12:22:24.170Z",
+    "translations": {
+      "vi": "kiếp",
+      "en": "lifetime",
+      "es": "vida"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Kiếp means a life in the sense of one lifetime, often linked to reincarnation or fate. It feels spiritual or philosophical, not just everyday “life.”\n\nIt’s a noun, and you can say một kiếp (one lifetime). Very common pairings: kiếp này / kiếp trước / kiếp sau and kiếp người (human life).\n\nCompared to đời (life), kiếp sounds more about destiny or reincarnation, not just your general life period.",
+  "choices": [
+    "kiếp",
+    "nghiệp",
+    "cuộc"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:54:44.187Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng ta chỉ có một ___ để sống.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "lifetime"
+      },
+      "word": "kiếp",
+      "choices": [
+        "thế giới",
+        "kiếp",
+        "cuộc sống"
+      ],
+      "hint": "k___p",
+      "translation": {
+        "en": "We only have one lifetime to live."
+      },
+      "answer": "kiếp"
+    },
+    "updatedAt": "2025-03-12T14:48:21.029Z",
+    "createdAt": "2025-03-12T14:48:21.029Z",
+    "id": "e65ed7bd-6975-4837-9c33-5967d12bbb21",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "kiếp",
+  "exampleSentencesTranslated": [
+    "He always tries to live a meaningful and happy life.",
+    "Many people believe that each life has its own destiny.",
+    "I think that in this life I will have more luck."
+  ],
+  "rank": 2047,
+  "_id": "TrnxoRVQRAjW1qi2PuUu"
+}

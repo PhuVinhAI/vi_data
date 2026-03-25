@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:50:35.966Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I like to watch plays on the weekend."
+      },
+      "choices": [],
+      "word": "kịch",
+      "translatedAnswer": {
+        "en": "plays"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích xem ___ vào cuối tuần.",
+      "answer": "kịch"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "03b7f526-ce82-4297-95e1-3f89e54c8d17",
+    "createdAt": "2025-03-12T13:03:29.312Z",
+    "updatedAt": "2025-03-12T13:03:29.312Z"
+  },
+  "notes_md": "**kịch** = drama, a play performed on stage (theater). It’s about actors performing a story live.\n\nIt’s a noun. You usually say **vở kịch** for “a play” (vở = classifier for performances like plays, operas).  \n\nCommon pairings: **xem kịch** (watch a play), **diễn kịch** (act in a play), **viết kịch** (write a play).  \n\nDon’t confuse it with **phim** (movie). *Kịch* is for stage performance, not film.",
+  "exampleSentencesTranslated": [
+    "Tonight I will go to watch drama with friends at the theater.",
+    "I really liked learning about drama when I was in high school.",
+    "She often watches drama on TV on weekends for entertainment."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "kịch",
+  "choices": [
+    "kịch",
+    "phim",
+    "nhạc"
+  ],
+  "notes": "kịch = drama, a play performed on stage (theater). It’s about actors performing a story live.\n\nIt’s a noun. You usually say vở kịch for “a play” (vở = classifier for performances like plays, operas).  \n\nCommon pairings: xem kịch (watch a play), diễn kịch (act in a play), viết kịch (write a play).  \n\nDon’t confuse it with phim (movie). Kịch is for stage performance, not film.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Me gusta ver obras de teatro los fines de semana.",
+      "en": "I enjoy watching plays on the weekend.",
+      "vi": "Tôi thích xem kịch vào cuối tuần."
+    },
+    "translations": {
+      "en": "play",
+      "vi": "kịch",
+      "es": "obra de teatro"
+    },
+    "definitions": {
+      "vi": "Một tác phẩm kịch nhằm mục đích biểu diễn bởi các diễn viên trên sân khấu.",
+      "en": "A dramatic work intended for performance by actors on a stage.",
+      "es": "Una obra dramática destinada a ser representada por actores en un escenario."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:45:50.910Z"
+  },
+  "rank": 1447,
+  "definition": "drama",
+  "exampleSentences": [
+    "Tối nay anh sẽ đi xem kịch cùng bạn bè ở nhà hát.",
+    "Em rất thích học về kịch khi còn học phổ thông.",
+    "Chị thường xem kịch trên tivi vào cuối tuần để giải trí."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:03:29.312Z",
+    "updatedAt": "2025-03-12T13:03:29.312Z",
+    "id": "eff54f8f-f9d4-4d8c-9805-d8e947ec8c48",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "kịch",
+      "sentence": "Tôi muốn đi xem ___ tối nay.",
+      "hint": "k___",
+      "translatedAnswer": {
+        "en": "play"
+      },
+      "language": "vi",
+      "word": "kịch",
+      "translation": {
+        "en": "I want to go see a play tonight."
+      },
+      "choices": [
+        "kịch",
+        "hài kịch",
+        "truyền hình"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "3onrUxaNg2rHTCSTkvM9"
+}

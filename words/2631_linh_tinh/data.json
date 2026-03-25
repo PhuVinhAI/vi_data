@@ -1,0 +1,99 @@
+{
+  "rank": 2631,
+  "exampleSentences": [
+    "Anh đừng mua linh tinh khi đi siêu thị nhé.",
+    "Em thấy trên bàn có nhiều đồ linh tinh quá.",
+    "Chị ấy hay nói chuyện linh tinh với bạn bè vào buổi tối."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy thường nói linh tinh khi buồn.",
+      "es": "Ella a menudo habla tonterías cuando está triste.",
+      "en": "She often talks nonsense when she's sad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "nonsense",
+      "es": "tonterías",
+      "vi": "linh tinh"
+    },
+    "definitions": {
+      "es": "Un término utilizado para describir algo que es trivial o sin sentido.",
+      "vi": "Một thuật ngữ được sử dụng để mô tả điều gì đó tầm thường hoặc vô nghĩa.",
+      "en": "A term used to describe something that is trivial or nonsensical."
+    },
+    "createdAt": "2025-01-28T11:48:47.250Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "linh tinh",
+  "multiChoiceQuiz": {
+    "id": "a5dd2da1-a5a0-4a5b-b310-2efd926a9e63",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "l___n",
+      "word": "linh tinh",
+      "sentence": "Tôi không thích ___ trong nhà.",
+      "translation": {
+        "en": "I don't like clutter in the house."
+      },
+      "language": "vi",
+      "choices": [
+        "vô lý",
+        "linh tinh",
+        "kỳ quặc"
+      ],
+      "translatedAnswer": {
+        "en": "clutter"
+      },
+      "answer": "linh tinh"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:11:29.376Z",
+    "createdAt": "2025-03-12T14:11:29.376Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Linh tinh** means random, miscellaneous, or trivial stuff — things that aren’t important or organized.  \n\nIt can describe **things** (đồ linh tinh = random items) or **actions/talk** (nói linh tinh = talk nonsense). It often adds a feeling of “messy, unnecessary, or pointless.”  \n\n\nClose synonym: **lặt vặt** (small, unimportant little things). Opposite idea: **quan trọng**, **nghiêm túc**.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Please don't buy random things when you go to the supermarket.",
+    "I see there are a lot of random things on the table.",
+    "She often talks about random things with her friends in the evening."
+  ],
+  "notes": "Linh tinh means random, miscellaneous, or trivial stuff — things that aren’t important or organized.  \n\nIt can describe things (đồ linh tinh = random items) or actions/talk (nói linh tinh = talk nonsense). It often adds a feeling of “messy, unnecessary, or pointless.”  \n\nClose synonym: lặt vặt (small, unimportant little things). Opposite idea: quan trọng, nghiêm túc.",
+  "updatedAt": "2026-03-03T11:30:13.112Z",
+  "choices": [
+    "linh tinh",
+    "quan trọng",
+    "cẩn thận"
+  ],
+  "definition": "random things (not important or not organized)",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "linh tinh",
+      "translatedAnswer": {
+        "en": "clutter"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I don't like clutter in the house."
+      },
+      "sentence": "Tôi không thích ___ trong nhà.",
+      "word": "linh tinh"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "135a2ab8-4659-443a-b6ed-6ce8e4c5a7c5",
+    "createdAt": "2025-03-12T14:11:29.376Z",
+    "updatedAt": "2025-03-12T14:11:29.376Z"
+  },
+  "_id": "L5Cdg3LEIuNq5mhWr457"
+}

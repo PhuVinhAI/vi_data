@@ -1,0 +1,98 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:06:20.820Z",
+    "translations": {
+      "en": "to be friends",
+      "es": "hacer amigos",
+      "vi": "làm bạn"
+    },
+    "example": {
+      "en": "We can be friends with each other.",
+      "vi": "Chúng ta có thể làm bạn với nhau.",
+      "es": "Podemos ser amigos entre nosotros."
+    },
+    "definitions": {
+      "en": "To become friends or to establish a friendship.",
+      "vi": "Trở thành bạn bè hoặc thiết lập một tình bạn.",
+      "es": "Hacer amistad o establecer una relación de amistad."
+    }
+  },
+  "definition": "be friends",
+  "exampleSentencesTranslated": [
+    "I want to be friends with you because you are very cheerful.",
+    "If you like reading books, we can be friends.",
+    "After the Vietnamese class, she and Lan decided to be friends."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:25:54.384Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:25:54.384Z",
+    "content": {
+      "sentence": "Chúng ta có thể ___ với nhau.",
+      "language": "vi",
+      "word": "làm bạn",
+      "translatedAnswer": {
+        "en": "friends"
+      },
+      "translation": {
+        "en": "We can be friends."
+      },
+      "answer": "làm bạn"
+    },
+    "id": "0b214915-d09e-45c3-9c6e-795a53dc54fd",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentences": [
+    "Anh muốn làm bạn với em vì em rất vui vẻ.",
+    "Nếu em thích đọc sách, chúng ta có thể làm bạn.",
+    "Sau buổi học tiếng Việt, chị và Lan quyết định làm bạn."
+  ],
+  "updatedAt": "2026-03-03T11:40:37.431Z",
+  "notes": "làm bạn = to become friends / to be friends with someone. It’s about starting or having a friendship.\n\nIt’s a verb phrase, so you use it with với + person.  \n\nOften used when you first meet someone or want to connect.  \nClose synonym: kết bạn (với) – a bit more like “add/make friends,” often used online.",
+  "rank": 2727,
+  "choices": [
+    "làm bạn",
+    "làm việc",
+    "làm bài"
+  ],
+  "notes_md": "**làm bạn** = to become friends / to be friends with someone. It’s about starting or having a friendship.\n\nIt’s a **verb phrase**, so you use it with **với + person**.  \n\nOften used when you first meet someone or want to connect.  \nClose synonym: **kết bạn (với)** – a bit more like “add/make friends,” often used online.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "ec79ed9b-bd7f-4899-a077-01c114aaed5b",
+    "content": {
+      "translatedAnswer": {
+        "en": "friends"
+      },
+      "translation": {
+        "en": "We can be friends."
+      },
+      "hint": "l___ b___",
+      "answer": "làm bạn",
+      "choices": [
+        "làm bạn",
+        "làm việc",
+        "làm quen"
+      ],
+      "language": "vi",
+      "sentence": "Chúng ta có thể ___ với nhau.",
+      "word": "làm bạn"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:25:54.384Z",
+    "updatedAt": "2025-03-12T13:25:54.384Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "làm bạn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9wqKeBwfLfc5I5nsiyf7"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "difficult",
+  "word": "khó",
+  "exampleSentences": [
+    "Anh thấy bài tập toán này khá khó cho em.",
+    "Chị nghĩ việc học tiếng Việt không khó nếu em chăm chỉ.",
+    "Làm việc nhóm sẽ dễ hơn nếu không gặp vấn đề khó."
+  ],
+  "rank": 204,
+  "choices": [
+    "khỏe",
+    "khó",
+    "khổ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "14ff5a3d-e712-43fd-854f-5434af2a3aba",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:42:44.447Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "difficult"
+      },
+      "sentence": "Bài toán này rất ___.",
+      "word": "khó",
+      "language": "vi",
+      "choices": [
+        "dễ",
+        "khó",
+        "thú vị"
+      ],
+      "hint": "k___",
+      "translation": {
+        "en": "This problem is very difficult."
+      },
+      "answer": "khó"
+    },
+    "createdAt": "2025-03-12T13:42:44.447Z"
+  },
+  "notes_md": "**khó** means *difficult* or *hard*. It describes something that needs effort or is not easy.\n\nIt’s an adjective, so it goes after the noun it describes, or before a verb to show something is hard to do.  \n\nYou’ll also see it in fixed combinations like **khó khăn** (difficulty) and **khó tính** (picky, hard to please).  \nOpposite: **dễ** (easy).",
+  "exampleSentencesTranslated": [
+    "I think this math homework is quite difficult for you.",
+    "I think learning Vietnamese is not difficult if you work hard.",
+    "Working in a group will be easier if there are no difficult problems."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:21:17.062Z",
+    "example": {
+      "es": "Este problema es realmente difícil.",
+      "vi": "Bài toán này thật khó.",
+      "en": "This problem is really difficult."
+    },
+    "translations": {
+      "es": "difícil",
+      "vi": "khó",
+      "en": "difficult"
+    },
+    "definitions": {
+      "vi": "Không dễ để làm, hiểu hoặc xử lý.",
+      "es": "No fácil de hacer, entender o tratar.",
+      "en": "Not easy to do, understand, or deal with."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "59391dc3-b1d3-4ae8-89a8-09c47c84e708",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Bài toán này rất ___.",
+      "word": "khó",
+      "translatedAnswer": {
+        "en": "difficult"
+      },
+      "answer": "khó",
+      "translation": {
+        "en": "This problem is very difficult."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:42:44.447Z",
+    "updatedAt": "2025-03-12T13:42:44.447Z"
+  },
+  "notes": "khó means difficult or hard. It describes something that needs effort or is not easy.\n\nIt’s an adjective, so it goes after the noun it describes, or before a verb to show something is hard to do.  \n\nYou’ll also see it in fixed combinations like khó khăn (difficulty) and khó tính (picky, hard to please).  \nOpposite: dễ (easy).",
+  "updatedAt": "2026-03-03T06:40:58.790Z",
+  "_id": "ECvTEuYE08nbnrnEw7cp"
+}

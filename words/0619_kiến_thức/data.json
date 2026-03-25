@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "She has solid knowledge."
+      },
+      "answer": "kiến thức",
+      "translatedAnswer": {
+        "en": "knowledge"
+      },
+      "sentence": "Cô ấy có ___ vững chắc.",
+      "word": "kiến thức"
+    },
+    "updatedAt": "2025-03-12T16:36:19.764Z",
+    "type": "fillBlankQuiz",
+    "id": "77e7afbf-155d-4169-9c13-38ed71b1150f",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:36:19.764Z"
+  },
+  "definition": "knowledge",
+  "rank": 619,
+  "notes_md": "**Kiến thức** means *knowledge* — what you know from learning, studying, or experience. It’s uncountable, so don’t say “một kiến thức”; use phrases like **kiến thức về…** (knowledge about…) or **lượng kiến thức** (amount of knowledge).\n\nCommon pairings: **mở rộng kiến thức** (expand knowledge), **truyền đạt kiến thức** (pass on knowledge), **nền tảng kiến thức** (knowledge foundation).  \n\nClose synonym: **hiểu biết** — more like “understanding” or awareness, often broader and less academic than *kiến thức*.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I want to expand my knowledge about Vietnamese history.",
+    "She shared a lot of useful knowledge in today's class.",
+    "You need to add more knowledge to do better on the test."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "kiến thức",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "knowledge"
+      },
+      "translation": {
+        "en": "Everyone needs knowledge to succeed."
+      },
+      "answer": "kiến thức",
+      "choices": [
+        "kinh nghiệm",
+        "kiến thức",
+        "sáng tạo"
+      ],
+      "language": "vi",
+      "word": "kiến thức",
+      "hint": "k_____c",
+      "sentence": "Mọi người cần ___ để thành công."
+    },
+    "updatedAt": "2025-03-12T16:36:19.764Z",
+    "id": "9dc93d7d-2190-41a6-9361-0cec09949877",
+    "createdAt": "2025-03-12T16:36:19.764Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh muốn mở rộng kiến thức về lịch sử Việt Nam.",
+    "Chị ấy chia sẻ nhiều kiến thức bổ ích trong buổi học hôm nay.",
+    "Em cần bổ sung thêm kiến thức để làm bài kiểm tra tốt hơn."
+  ],
+  "updatedAt": "2026-03-03T07:23:54.917Z",
+  "choices": [
+    "kỹ năng",
+    "kinh nghiệm",
+    "kiến thức"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Kiến thức means knowledge — what you know from learning, studying, or experience. It’s uncountable, so don’t say “một kiến thức”; use phrases like kiến thức về… (knowledge about…) or lượng kiến thức (amount of knowledge).\n\nCommon pairings: mở rộng kiến thức (expand knowledge), truyền đạt kiến thức (pass on knowledge), nền tảng kiến thức (knowledge foundation).  \n\nClose synonym: hiểu biết — more like “understanding” or awareness, often broader and less academic than kiến thức.",
+  "flashcard": {
+    "translations": {
+      "vi": "kiến thức",
+      "en": "knowledge",
+      "es": "conocimiento"
+    },
+    "definitions": {
+      "vi": "Các sự kiện, thông tin và kỹ năng mà một người có được thông qua kinh nghiệm hoặc giáo dục.",
+      "es": "Los hechos, la información y las habilidades adquiridas por una persona a través de la experiencia o la educación.",
+      "en": "The facts, information, and skills acquired by a person through experience or education."
+    },
+    "example": {
+      "en": "My knowledge of history is very rich.",
+      "es": "Mi conocimiento sobre la historia es muy amplio.",
+      "vi": "Kiến thức của tôi về lịch sử rất phong phú."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:07:40.645Z"
+  },
+  "_id": "vrtrGeq6jsuu5ZTCzNjP"
+}

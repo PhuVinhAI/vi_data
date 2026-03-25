@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chim = bird. Any kind of bird in general.\n\nIt’s a noun. Use the classifier con → con chim (one bird), hai con chim (two birds). No plural ending; number comes from the classifier.  \n\nOften combined with species names: chim sẻ (sparrow), chim bồ câu (pigeon), chim cánh cụt (penguin).  \n\nVery common slang meaning: penis (informal, playful, sometimes childish). Context makes it clear which meaning is intended.",
+  "flashcard": {
+    "translations": {
+      "vi": "chim",
+      "es": "pájaro",
+      "en": "bird"
+    },
+    "example": {
+      "en": "The bird is singing on the branch.",
+      "es": "El pájaro está cantando en la rama.",
+      "vi": "Con chim đang hót trên cành cây."
+    },
+    "definitions": {
+      "vi": "Một loài động vật có xương sống máu nóng, được đặc trưng bởi lông và chi trước được biến đổi thành cánh.",
+      "es": "Un pájaro, un vertebrado de sangre caliente caracterizado por plumas y extremidades anteriores modificadas como alas.",
+      "en": "A bird, a warm-blooded vertebrate characterized by feathers and forelimbs modified as wings."
+    },
+    "createdAt": "2025-01-28T13:50:15.975Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cá",
+    "chim",
+    "hoa"
+  ],
+  "exampleSentences": [
+    "Sáng nay anh thấy một con chim nhỏ đậu trên cửa sổ.",
+    "Em thích ra công viên để ngắm chim vào cuối tuần.",
+    "Bà của chị thường kể những câu chuyện về chim trong rừng."
+  ],
+  "exampleSentencesTranslated": [
+    "This morning I saw a small bird sitting on the window.",
+    "I like to go to the park to watch bird on weekends.",
+    "My grandmother often tells stories about bird in the forest."
+  ],
+  "updatedAt": "2026-03-03T09:17:13.700Z",
+  "rank": 1694,
+  "notes_md": "**chim** = bird. Any kind of bird in general.\n\nIt’s a noun. Use the classifier **con** → *con chim* (one bird), *hai con chim* (two birds). No plural ending; number comes from the classifier.  \n\nOften combined with species names: *chim sẻ* (sparrow), *chim bồ câu* (pigeon), *chim cánh cụt* (penguin).  \n\nVery common slang meaning: **penis** (informal, playful, sometimes childish). Context makes it clear which meaning is intended.",
+  "definition": "bird",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:19:04.529Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "819dff2d-73f8-4b62-bc7e-6ba0dda674ef",
+    "content": {
+      "word": "chim",
+      "answer": "chim",
+      "language": "vi",
+      "choices": [
+        "cá",
+        "chim",
+        "chó"
+      ],
+      "translation": {
+        "en": "There are many birds in the park."
+      },
+      "translatedAnswer": {
+        "en": "birds"
+      },
+      "hint": "c___m",
+      "sentence": "Có rất nhiều ___ trong công viên."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:19:04.529Z"
+  },
+  "word": "chim",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:19:04.529Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "dad45227-4339-405f-a617-7975c1236b54",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thấy một ___ bay trên trời.",
+      "translation": {
+        "en": "I see a bird flying in the sky."
+      },
+      "translatedAnswer": {
+        "en": "bird"
+      },
+      "choices": [],
+      "word": "chim",
+      "language": "vi",
+      "answer": "chim"
+    },
+    "updatedAt": "2025-03-12T16:19:04.529Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "rJHVMvHpVkYkysRAWTJG"
+}

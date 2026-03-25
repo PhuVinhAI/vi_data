@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:51:11.542Z",
+    "updatedAt": "2025-03-12T12:51:11.542Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8d405a4d-a401-4501-b968-f03aa85890b7",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "You are a member of this group."
+      },
+      "translatedAnswer": {
+        "en": "member"
+      },
+      "language": "vi",
+      "word": "thành viên",
+      "sentence": "Bạn là ___ của nhóm này.",
+      "answer": "thành viên"
+    }
+  },
+  "updatedAt": "2026-03-03T08:45:01.087Z",
+  "exampleSentencesTranslated": [
+    "He is a new member of the English club.",
+    "She is proud to become a member of this football team.",
+    "I want to register as a member of the school library."
+  ],
+  "notes_md": "**Thành viên** means *member* — someone who belongs to a group, team, organization, or family unit.\n\nIt’s a countable noun: *một thành viên, hai thành viên* (no plural ending needed).  \nOften followed by **của + group** to show which group someone belongs to.  \nCommon pairings: *thành viên chính thức* (official member), *thành viên tích cực* (active member), *ban thành viên / ban chấp hành* (member board/executive members).  \nClose word: **hội viên** — also “member,” but usually for clubs/associations, a bit more formal.",
+  "word": "thành viên",
+  "notes": "Thành viên means member — someone who belongs to a group, team, organization, or family unit.\n\nIt’s a countable noun: một thành viên, hai thành viên (no plural ending needed).  \nOften followed by của + group to show which group someone belongs to.  \nCommon pairings: thành viên chính thức (official member), thành viên tích cực (active member), ban thành viên / ban chấp hành (member board/executive members).  \nClose word: hội viên — also “member,” but usually for clubs/associations, a bit more formal.",
+  "choices": [
+    "thành viên",
+    "giảng viên",
+    "học viên"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh là thành viên mới của câu lạc bộ tiếng Anh.",
+    "Chị tự hào khi trở thành thành viên của đội bóng này.",
+    "Em muốn đăng ký làm thành viên thư viện ở trường."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "thành viên",
+      "sentence": "Bạn là ___ của nhóm này.",
+      "word": "thành viên",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "member"
+      },
+      "hint": "th___ viên",
+      "translation": {
+        "en": "You are a member of this group."
+      },
+      "choices": [
+        "thành viên",
+        "học viên",
+        "giáo viên"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "8e1550c8-f367-4ba5-9bb2-52267130a8c9",
+    "createdAt": "2025-03-12T12:51:11.542Z",
+    "updatedAt": "2025-03-12T12:51:11.542Z"
+  },
+  "flashcard": {
+    "example": {
+      "es": "Soy miembro de este club.",
+      "en": "I am a member of this club.",
+      "vi": "Tôi là thành viên của câu lạc bộ này."
+    },
+    "translations": {
+      "en": "member",
+      "vi": "thành viên",
+      "es": "miembro"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una persona que pertenece a un grupo u organización.",
+      "en": "A person who belongs to a group or organization.",
+      "vi": "Một người thuộc về một nhóm hoặc tổ chức."
+    },
+    "createdAt": "2025-01-28T10:35:22.990Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1393,
+  "definition": "member",
+  "_id": "0a5qStFjrRKAGUTRBQRA"
+}

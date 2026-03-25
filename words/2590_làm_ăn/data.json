@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "làm ăn",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:54.216Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:27:54.216Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "học hành",
+        "làm ăn",
+        "chơi đùa"
+      ],
+      "sentence": "Họ đang ___ với các công ty lớn.",
+      "language": "vi",
+      "word": "làm ăn",
+      "translatedAnswer": {
+        "en": "doing business"
+      },
+      "translation": {
+        "en": "They are doing business with large companies."
+      },
+      "answer": "làm ăn",
+      "hint": "l___n"
+    },
+    "id": "3d89f736-e646-4e19-af6c-b38c3ee2c9ae"
+  },
+  "notes_md": "**làm ăn** = to do business, to make a living through business or trade. It’s about business activity, not just working a normal job.\n\nUsed for running, starting, or managing business activities: *làm ăn với ai* (do business with someone), *làm ăn riêng* (run your own business). You can describe results: *làm ăn được* (business is going well), *làm ăn thua lỗ* (losing money), *làm ăn khấm khá* (prosperous).\n\n\nClose cousin: **kinh doanh** (more formal). “Làm ăn” feels more everyday and practical.",
+  "choices": [
+    "làm ăn",
+    "nghỉ ngơi",
+    "học tập"
+  ],
+  "rank": 2590,
+  "notes": "làm ăn = to do business, to make a living through business or trade. It’s about business activity, not just working a normal job.\n\nUsed for running, starting, or managing business activities: làm ăn với ai (do business with someone), làm ăn riêng (run your own business). You can describe results: làm ăn được (business is going well), làm ăn thua lỗ (losing money), làm ăn khấm khá (prosperous).\n\nClose cousin: kinh doanh (more formal). “Làm ăn” feels more everyday and practical.",
+  "updatedAt": "2026-03-03T11:26:15.087Z",
+  "exampleSentences": [
+    "Anh trai của em muốn làm ăn với một công ty nước ngoài.",
+    "Chị ấy đang tìm cách làm ăn hiệu quả hơn trong năm nay.",
+    "Nhiều người trẻ bắt đầu làm ăn riêng để kiếm thêm thu nhập."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:27:54.216Z",
+    "content": {
+      "word": "làm ăn",
+      "sentence": "Chúng tôi sẽ ___ với đối tác mới.",
+      "language": "vi",
+      "choices": [],
+      "answer": "làm ăn",
+      "translation": {
+        "en": "We will do business with the new partner."
+      },
+      "translatedAnswer": {
+        "en": "do business"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:27:54.216Z",
+    "id": "0daadaea-a13c-4820-9717-d335afb9388b",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "My older brother wants to do business with a foreign company.",
+    "She is looking for ways to do business more efficiently this year.",
+    "Many young people start to do business on their own to earn extra income."
+  ],
+  "definition": "do business",
+  "flashcard": {
+    "definitions": {
+      "en": "To do business or to engage in economic activities.",
+      "es": "Hacer negocios o participar en actividades económicas.",
+      "vi": "Làm việc hoặc tham gia vào các hoạt động kinh tế."
+    },
+    "example": {
+      "vi": "Chúng ta cần làm ăn chăm chỉ để thành công.",
+      "es": "Necesitamos trabajar duro para tener éxito.",
+      "en": "We need to work hard to succeed."
+    },
+    "translations": {
+      "vi": "làm ăn",
+      "es": "hacer negocios",
+      "en": "to do business"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:02:34.039Z"
+  },
+  "_id": "eRP11OhdKDyAPhXwdT6T"
+}

@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 111,
+  "definition": "day",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "day"
+      },
+      "choices": [],
+      "translation": {
+        "en": "Today is a special day."
+      },
+      "answer": "ngày",
+      "sentence": "Hôm nay là ___ đặc biệt.",
+      "word": "ngày"
+    },
+    "updatedAt": "2025-03-12T16:31:27.961Z",
+    "id": "c3f242b7-2f69-4807-9f29-7a1d26688205",
+    "createdAt": "2025-03-12T16:31:27.961Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**ngày** = day (a 24-hour period). It can also mean a specific calendar day.\n\nYou count it directly: *một ngày, hai ngày, ba ngày* (no classifier needed).  \nUse it for dates and time expressions like *ngày mai* (tomorrow), *ngày kia* (the day after tomorrow), *ngày mốt* (two days after tomorrow).  \nTo talk about duration, use: `Structure: trong + số + ngày` (trong ba ngày).  \n\nClose cousin: **hôm** (used for specific days like *hôm qua, hôm nay*), but **ngày** is more general and works for counting or formal dates.",
+  "flashcard": {
+    "createdAt": "2025-05-24T16:36:06.501Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "ngày",
+    "definitions": {
+      "en": "A period of 24 hours, usually from midnight to midnight.",
+      "vi": "Khoảng thời gian 24 giờ, tính từ nửa đêm này đến nửa đêm sau."
+    },
+    "example": {
+      "vi": "Hôm nay là một ngày đẹp trời.",
+      "en": "Today is a beautiful day."
+    },
+    "translations": {
+      "en": "day"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "ngày = day (a 24-hour period). It can also mean a specific calendar day.\n\nYou count it directly: một ngày, hai ngày, ba ngày (no classifier needed).  \nUse it for dates and time expressions like ngày mai (tomorrow), ngày kia (the day after tomorrow), ngày mốt (two days after tomorrow).  \nTo talk about duration, use: Structure: trong + số + ngày (trong ba ngày).  \n\nClose cousin: hôm (used for specific days like hôm qua, hôm nay), but ngày is more general and works for counting or formal dates.",
+  "word": "ngày",
+  "exampleSentencesTranslated": [
+    "Today I have a lot of things to do in one day.",
+    "I usually take a walk at the end of the day to relax.",
+    "She will meet her friends on the day this weekend."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "giờ",
+    "ngày",
+    "tháng"
+  ],
+  "multiChoiceQuiz": {
+    "id": "c57e37f6-c242-4fbb-b9b0-177f8fe985e4",
+    "createdAt": "2025-03-12T16:31:27.961Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "ngày",
+        "buổi",
+        "thời gian"
+      ],
+      "answer": "ngày",
+      "translation": {
+        "en": "Tomorrow will have a rainy day."
+      },
+      "translatedAnswer": {
+        "en": "day"
+      },
+      "sentence": "Ngày mai sẽ có ___ mưa.",
+      "hint": "g___",
+      "word": "ngày"
+    },
+    "updatedAt": "2025-03-12T16:31:27.961Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Hôm nay anh có rất nhiều việc phải làm trong một ngày.",
+    "Em thường đi dạo vào cuối ngày để thư giãn.",
+    "Chị sẽ gặp bạn bè vào ngày cuối tuần này."
+  ],
+  "updatedAt": "2026-03-03T06:14:32.744Z",
+  "_id": "uNTAvalApCtgPNn9Amly"
+}

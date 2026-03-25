@@ -1,0 +1,101 @@
+{
+  "definition": "as for",
+  "sentenceBreakdowns": [
+    "Anh (he) + thì (as for) + thích (like) + cơm (rice) + nóng (hot)",
+    "Chị (she) + thì (as for) + uống (drink) + trà (tea) + đá (ice) + mỗi (every) + ngày (day)",
+    "Em (I) + thì (as for) + ăn (eat) + mì (noodles) + gói (instant)"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "word": "thì",
+      "sentence": "Tôi sẽ đi ___ bạn đi.",
+      "translation": {
+        "en": "I will go if you go."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "if"
+      },
+      "answer": "thì"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "9a78f166-06ec-4cd4-82e9-3d59ac59cd94",
+    "createdAt": "2025-03-12T14:24:22.518Z",
+    "updatedAt": "2025-03-12T14:24:22.518Z"
+  },
+  "exampleSentencesTranslated": [
+    "As for him, he likes hot rice.",
+    "As for her, she drinks iced tea every day.",
+    "As for me, I eat instant noodles."
+  ],
+  "notes": "thì means “as for” and marks the topic you want to contrast or highlight. It helps shift focus, like “speaking of…” or “when it comes to…”.\n\nIt often follows a noun or pronoun to set up a comment about that person/thing.  \n\nIt’s also very common in conditional sentences to mean “then.”  \n\nThink of thì as a spotlight word — it points to what you’re about to say next.",
+  "choices": [
+    "là",
+    "thì",
+    "nếu"
+  ],
+  "updatedAt": "2026-03-03T06:03:16.685Z",
+  "notes_md": "**thì** means “as for” and marks the topic you want to contrast or highlight. It helps shift focus, like “speaking of…” or “when it comes to…”.\n\nIt often follows a noun or pronoun to set up a comment about that person/thing.  \n\nIt’s also very common in conditional sentences to mean “then.”  \n\nThink of **thì** as a spotlight word — it points to what you’re about to say next.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thì",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:24:22.518Z",
+    "createdAt": "2025-03-12T14:24:22.518Z",
+    "id": "dd88d52b-e165-48bb-8c95-9bfcf0f06b26",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "thì",
+      "translatedAnswer": {
+        "en": "you are right"
+      },
+      "sentence": "Tôi nghĩ ___ bạn đã đúng.",
+      "hint": "t__",
+      "word": "thì",
+      "language": "vi",
+      "choices": [
+        "thì",
+        "cũng",
+        "vì"
+      ],
+      "translation": {
+        "en": "I think you are right."
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ dùng để nối hai mệnh đề, thường chỉ điều kiện hoặc thời gian.",
+      "en": "A word used to connect clauses, often indicating condition or time."
+    },
+    "word": "thì",
+    "translations": {
+      "en": "then"
+    },
+    "createdAt": "2025-05-24T16:21:37.255Z",
+    "example": {
+      "en": "If it rains, we will stay at home.",
+      "vi": "Nếu trời mưa thì chúng ta sẽ ở nhà."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh thì thích cơm nóng.",
+    "Chị thì uống trà đá mỗi ngày.",
+    "Em thì ăn mì gói."
+  ],
+  "rank": 4,
+  "_id": "O6eiNivDeArFOKjdrJid"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "327674a6-1d0c-4230-903a-0e25550d6641",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Nước này có ___ cao.",
+      "word": "chất",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "quality"
+      },
+      "answer": "chất",
+      "translation": {
+        "en": "This water has high quality."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:37:00.368Z",
+    "updatedAt": "2025-03-12T13:37:00.368Z"
+  },
+  "notes": "chất usually means substance or material — something physical like a chemical, liquid, or material.\n\nIt’s an uncountable noun most of the time; you don’t usually say a classifier unless you’re talking about a specific type (like một chất khí, một chất độc). Very common in science contexts: hóa chất (chemical), chất lỏng (liquid), chất rắn (solid).  \n\nIt also means quality/property in words like tính chất (characteristic), which is super common in school and formal contexts.  \n\nIn casual speech, chất! can mean “cool” or “high-quality” — like something has style or strong character. Think of it as “solid” or “legit” in English slang.",
+  "updatedAt": "2026-03-03T08:15:48.034Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:37:00.368Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "quality"
+      },
+      "sentence": "Nước này có ___ cao.",
+      "word": "chất",
+      "language": "vi",
+      "choices": [
+        "chất",
+        "khả năng",
+        "mức độ"
+      ],
+      "hint": "c___t",
+      "translation": {
+        "en": "This water has high quality."
+      },
+      "answer": "chất"
+    },
+    "updatedAt": "2025-03-12T13:37:00.368Z",
+    "id": "3d454fbe-ac8a-4ee0-bcd5-9630f83c86a5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**chất** usually means **substance** or **material** — something physical like a chemical, liquid, or material.\n\nIt’s an uncountable noun most of the time; you don’t usually say a classifier unless you’re talking about a specific type (like *một chất khí*, *một chất độc*). Very common in science contexts: *hóa chất* (chemical), *chất lỏng* (liquid), *chất rắn* (solid).  \n\nIt also means **quality/property** in words like *tính chất* (characteristic), which is super common in school and formal contexts.  \n\nIn casual speech, **chất!** can mean “cool” or “high-quality” — like something has style or strong character. Think of it as “solid” or “legit” in English slang.",
+  "exampleSentencesTranslated": [
+    "Can you explain what this substance is used for?",
+    "In the laboratory, you must be careful when handling a strange substance.",
+    "She is researching a new substance to cure diseases."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:16:20.605Z",
+    "example": {
+      "vi": "Nước là một chất cần thiết cho sự sống.",
+      "es": "El agua es una sustancia esencial para la vida.",
+      "en": "Water is a substance essential for life."
+    },
+    "translations": {
+      "en": "substance",
+      "vi": "chất",
+      "es": "sustancia"
+    },
+    "definitions": {
+      "en": "A particular kind of matter with uniform properties.",
+      "es": "Un tipo particular de materia con propiedades uniformes.",
+      "vi": "Một loại vật chất có tính chất đồng nhất."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chất",
+    "màu",
+    "vật"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chất",
+  "exampleSentences": [
+    "Anh có thể giải thích chất này dùng để làm gì không?",
+    "Trong phòng thí nghiệm, em phải cẩn thận khi tiếp xúc với chất lạ.",
+    "Chị ấy đang nghiên cứu một chất mới để chữa bệnh."
+  ],
+  "rank": 1124,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "substance",
+  "_id": "CjdhY6cfei6cM22bcjrY"
+}

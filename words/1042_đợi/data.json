@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:24:39.033Z",
+    "updatedAt": "2025-03-12T14:24:39.033Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "d___",
+      "word": "đợi",
+      "sentence": "Bạn có thể ___ ở đây.",
+      "translation": {
+        "en": "You can wait here."
+      },
+      "choices": [
+        "nghỉ",
+        "đợi",
+        "chơi"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "wait"
+      },
+      "answer": "đợi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "af5e6946-60f4-41d3-9444-aa7855f01b37"
+  },
+  "word": "đợi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đợi** = to wait. You stay somewhere or pause an action until something or someone happens/comes.\n\nIt’s a verb, usually followed by a person or thing. Very often used with time words or events.\n\n\nClose synonym: **chờ** (almost the same meaning; chờ is slightly more common in casual speech).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "You have to wait here until I come back.",
+    "Can you wait a moment? The bus is coming soon.",
+    "I don't like to wait a long time at the hospital every visit."
+  ],
+  "notes": "đợi = to wait. You stay somewhere or pause an action until something or someone happens/comes.\n\nIt’s a verb, usually followed by a person or thing. Very often used with time words or events.\n\nClose synonym: chờ (almost the same meaning; chờ is slightly more common in casual speech).",
+  "updatedAt": "2026-03-03T08:07:11.508Z",
+  "choices": [
+    "đi",
+    "đợi",
+    "gọi"
+  ],
+  "definition": "wait",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:24:39.033Z",
+    "updatedAt": "2025-03-12T14:24:39.033Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "wait"
+      },
+      "answer": "đợi",
+      "translation": {
+        "en": "I will wait a little."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "đợi",
+      "sentence": "Tôi sẽ ___ một chút."
+    },
+    "id": "531407f3-691b-47e4-826c-4b389a992204"
+  },
+  "rank": 1042,
+  "exampleSentences": [
+    "Em phải đợi ở đây cho đến khi anh quay lại.",
+    "Chị có thể đợi một chút được không? Xe buýt sắp đến rồi.",
+    "Anh không thích phải đợi lâu ở bệnh viện mỗi lần khám."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I will wait for you here.",
+      "vi": "Tôi sẽ đợi bạn ở đây.",
+      "es": "Te esperaré aquí."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:00:33.243Z",
+    "definitions": {
+      "en": "To remain in a place until an expected event happens or until someone arrives.",
+      "es": "Permanecer en un lugar hasta que ocurra un evento esperado o hasta que alguien llegue.",
+      "vi": "Ở lại một nơi cho đến khi một sự kiện mong đợi xảy ra hoặc cho đến khi ai đó đến."
+    },
+    "translations": {
+      "en": "wait",
+      "vi": "đợi",
+      "es": "esperar"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "O9RQlzyfQXT40SJNJXqn"
+}

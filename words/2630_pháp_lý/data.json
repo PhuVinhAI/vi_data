@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:59.375Z",
+    "content": {
+      "choices": [
+        "pháp lý",
+        "kinh tế",
+        "xã hội"
+      ],
+      "word": "pháp lý",
+      "sentence": "Tài liệu này liên quan đến ___.",
+      "language": "vi",
+      "translation": {
+        "en": "This document relates to legal matters."
+      },
+      "translatedAnswer": {
+        "en": "legal"
+      },
+      "hint": "p____y",
+      "answer": "pháp lý"
+    },
+    "id": "de66c0a4-470f-4d38-8549-5307c149fc1c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:17:59.375Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "pháp lý",
+    "y tế",
+    "kỹ thuật"
+  ],
+  "rank": 2630,
+  "notes_md": "**Pháp lý** means *legal* or *related to the law*. It describes something connected to laws, courts, or official legal systems.\n\nIt’s an adjective, so it usually goes after a noun: *vấn đề pháp lý, thủ tục pháp lý, trách nhiệm pháp lý*. It talks about rules, rights, obligations, documents, status, etc.  \n\nOften paired with words about documents, procedures, disputes, or responsibility.  \n\nClose synonym: **hợp pháp** (legal in the sense of “lawful”) — but *pháp lý* is broader, more about “legal aspects,” while *hợp pháp* focuses on “allowed by law.”",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "pháp lý",
+  "fillBlankQuiz": {
+    "id": "88a5f7cf-26c8-4c6c-9482-356de69da6b0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:17:59.375Z",
+    "content": {
+      "choices": [],
+      "word": "pháp lý",
+      "sentence": "Tài liệu này liên quan đến ___.",
+      "language": "vi",
+      "translation": {
+        "en": "This document relates to legal matters."
+      },
+      "translatedAnswer": {
+        "en": "legal"
+      },
+      "answer": "pháp lý"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:17:59.375Z"
+  },
+  "exampleSentencesTranslated": [
+    "You need to check the legal documents before signing the contract.",
+    "She is studying legal issues at university.",
+    "I want to ask about the legal procedures when buying a house in Vietnam."
+  ],
+  "definition": "legal",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:52:33.538Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "legal",
+      "vi": "pháp lý",
+      "es": "legal"
+    },
+    "example": {
+      "en": "This document needs to be verified by a legal authority.",
+      "es": "Este documento necesita ser verificado por una autoridad legal.",
+      "vi": "Tài liệu này cần được xác nhận bởi cơ quan pháp lý."
+    },
+    "definitions": {
+      "vi": "Liên quan đến pháp luật hoặc các vấn đề pháp lý.",
+      "es": "Relativo a la ley o asuntos legales.",
+      "en": "Relating to the law or legal matters."
+    }
+  },
+  "notes": "Pháp lý means legal or related to the law. It describes something connected to laws, courts, or official legal systems.\n\nIt’s an adjective, so it usually goes after a noun: vấn đề pháp lý, thủ tục pháp lý, trách nhiệm pháp lý. It talks about rules, rights, obligations, documents, status, etc.  \n\nOften paired with words about documents, procedures, disputes, or responsibility.  \n\nClose synonym: hợp pháp (legal in the sense of “lawful”) — but pháp lý is broader, more about “legal aspects,” while hợp pháp focuses on “allowed by law.”",
+  "exampleSentences": [
+    "Anh cần kiểm tra các giấy tờ pháp lý trước khi ký hợp đồng.",
+    "Chị ấy đang học về các vấn đề pháp lý trong trường đại học.",
+    "Em muốn hỏi về thủ tục pháp lý khi mua nhà ở Việt Nam."
+  ],
+  "updatedAt": "2026-03-03T11:30:05.030Z",
+  "_id": "bcwH1qjNOokJLArUCCwm"
+}

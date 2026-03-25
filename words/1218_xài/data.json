@@ -1,0 +1,99 @@
+{
+  "word": "xài",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**xài** means **to use** or **to spend**, especially in everyday, casual talk. It’s often about using money, time, or personal things.\n\nYou’ll hear it a lot with **money, phones, apps, products, electricity**, etc. It feels more informal than *dùng*.  \n\nVery common in the South; in the North, people usually say **dùng** instead.  \nIf you remember one thing: **xài = casual “use/spend.”**",
+  "rank": 1218,
+  "choices": [
+    "xài",
+    "bán",
+    "mượn"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "87163b13-ddb1-45ab-b308-1e1a977d7dc5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:18:45.758Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "use"
+      },
+      "translation": {
+        "en": "Do you use the computer?"
+      },
+      "hint": "x___",
+      "answer": "xài",
+      "choices": [
+        "chơi",
+        "xài",
+        "đọc"
+      ],
+      "sentence": "Bạn có ___ máy tính không?",
+      "language": "vi",
+      "word": "xài"
+    },
+    "updatedAt": "2025-03-12T15:18:45.758Z"
+  },
+  "updatedAt": "2026-03-03T08:25:45.808Z",
+  "exampleSentences": [
+    "Em có thể xài điện thoại của anh một lát được không?",
+    "Chị luôn xài kem chống nắng khi ra ngoài trời nắng.",
+    "Anh không muốn xài quá nhiều tiền cho việc mua sắm."
+  ],
+  "notes": "xài means to use or to spend, especially in everyday, casual talk. It’s often about using money, time, or personal things.\n\nYou’ll hear it a lot with money, phones, apps, products, electricity, etc. It feels more informal than dùng.  \n\nVery common in the South; in the North, people usually say dùng instead.  \nIf you remember one thing: xài = casual “use/spend.”",
+  "flashcard": {
+    "example": {
+      "es": "A menudo uso mi teléfono para escuchar música.",
+      "vi": "Tôi thường xài điện thoại để nghe nhạc.",
+      "en": "I often use my phone to listen to music."
+    },
+    "definitions": {
+      "en": "to use; to spend (money); to consume",
+      "vi": "sử dụng; tiêu (tiền); tiêu thụ",
+      "es": "usar; gastar (dinero); consumir"
+    },
+    "createdAt": "2025-01-28T12:53:35.254Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "usar",
+      "vi": "xài",
+      "en": "use"
+    }
+  },
+  "definition": "use",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:18:45.758Z",
+    "id": "a423a320-7329-4980-a6ab-27e621a38048",
+    "content": {
+      "translatedAnswer": {
+        "en": "use"
+      },
+      "translation": {
+        "en": "I like to use this phone."
+      },
+      "answer": "xài",
+      "choices": [],
+      "sentence": "Tôi thích ___ điện thoại này.",
+      "language": "vi",
+      "word": "xài"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:45.758Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Can I use your phone for a while?",
+    "She always use sunscreen when going outside in the sun.",
+    "He does not want to use too much money on shopping."
+  ],
+  "_id": "bqpr5Sf3x1Tmmu4RBywJ"
+}

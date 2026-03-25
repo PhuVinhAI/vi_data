@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "La nube en el cielo es realmente hermosa.",
+      "vi": "Đám mây trên bầu trời thật đẹp.",
+      "en": "The cloud in the sky is really beautiful."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một nhóm hoặc một khối lượng của cái gì đó, thường được sử dụng để chỉ một đám đông hoặc một cụm.",
+      "es": "Un grupo o una masa de algo, a menudo utilizado para referirse a una multitud o un grupo.",
+      "en": "A group or a mass of something, often used to refer to a crowd or a cluster."
+    },
+    "translations": {
+      "vi": "đám",
+      "es": "nube",
+      "en": "cloud"
+    },
+    "createdAt": "2025-01-28T11:50:43.113Z"
+  },
+  "exampleSentences": [
+    "Anh nhìn thấy một đám trẻ con đang chơi ở công viên.",
+    "Chị muốn tham gia vào đám bạn này vì họ rất vui tính.",
+    "Em thường đi học cùng một đám bạn thân mỗi sáng."
+  ],
+  "rank": 1926,
+  "definition": "group",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I see a crowd of people in the park."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "đám",
+      "sentence": "Tôi thấy ___ người ở công viên.",
+      "translatedAnswer": {
+        "en": "crowd"
+      },
+      "answer": "đám"
+    },
+    "id": "268f76b4-7d69-438b-a02b-25b486a1bad8",
+    "createdAt": "2025-03-12T14:13:34.180Z",
+    "updatedAt": "2025-03-12T14:13:34.180Z"
+  },
+  "notes": "đám = a group, a bunch of people (sometimes things), seen as one crowd.\n\nIt’s a noun and often sounds informal. You usually say một đám + noun (một đám người, một đám học sinh). It can feel slightly casual or even dismissive depending on tone, like “that bunch.”  \n\nVery common set phrases: đám cưới (wedding), đám tang (funeral) — here it means an event gathering.  \n\nClose word: nhóm (more neutral, organized group). Đám feels more like a crowd or loosely connected bunch.",
+  "exampleSentencesTranslated": [
+    "He saw a group of children playing in the park.",
+    "She wants to join this group of friends because they are very funny.",
+    "I usually go to school with a group of close friends every morning."
+  ],
+  "updatedAt": "2026-03-03T09:41:49.783Z",
+  "choices": [
+    "đám",
+    "bàn",
+    "món"
+  ],
+  "notes_md": "**đám** = a group, a bunch of people (sometimes things), seen as one crowd.\n\nIt’s a noun and often sounds informal. You usually say **một đám + noun** (một đám người, một đám học sinh). It can feel slightly casual or even dismissive depending on tone, like “that bunch.”  \n\nVery common set phrases: **đám cưới** (wedding), **đám tang** (funeral) — here it means an event gathering.  \n\nClose word: **nhóm** (more neutral, organized group). **Đám** feels more like a crowd or loosely connected bunch.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:13:34.180Z",
+    "createdAt": "2025-03-12T14:13:34.180Z",
+    "id": "d58da27b-7438-46d9-ba0b-43efb68f2712",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I see a crowd of people in the park."
+      },
+      "language": "vi",
+      "choices": [
+        "nhóm",
+        "đám",
+        "đoàn"
+      ],
+      "word": "đám",
+      "hint": "đ___m",
+      "sentence": "Tôi thấy ___ người ở công viên.",
+      "translatedAnswer": {
+        "en": "crowd"
+      },
+      "answer": "đám"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "đám",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "LV0Ah9Oe6Hq1GMYcK42a"
+}

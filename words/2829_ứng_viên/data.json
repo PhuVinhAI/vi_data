@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "467462ac-7890-4d63-a8ac-a6fd75c44911",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:36:52.686Z",
+    "content": {
+      "choices": [
+        "ứng viên",
+        "người tuyển",
+        "nhà báo"
+      ],
+      "hint": "ứng_v___",
+      "translation": {
+        "en": "She is an excellent candidate."
+      },
+      "answer": "ứng viên",
+      "translatedAnswer": {
+        "en": "candidate"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy là một ___ xuất sắc.",
+      "word": "ứng viên"
+    },
+    "updatedAt": "2025-03-12T13:36:52.686Z"
+  },
+  "notes_md": "**Ứng viên** means *candidate* — someone who is being considered for a job, position, award, or election.\n\nIt’s a countable noun: *một ứng viên, các ứng viên*. You’ll often see it with words like *tiềm năng* (promising) or *sáng giá* (strong/top contender).  \n\nCommon collocations: *ứng viên cho vị trí…, ứng viên tổng thống, ứng viên học bổng*.  \n\n\nDon’t confuse it with *thí sinh* — that’s someone taking an exam or joining a competition, not necessarily applying for a job.",
+  "flashcard": {
+    "translations": {
+      "es": "candidato",
+      "vi": "ứng viên",
+      "en": "candidate"
+    },
+    "createdAt": "2025-01-28T11:16:11.497Z",
+    "example": {
+      "en": "I am a candidate for this position.",
+      "es": "Soy un candidato para este puesto.",
+      "vi": "Tôi là một ứng viên cho vị trí này."
+    },
+    "definitions": {
+      "vi": "Một người nộp đơn xin việc hoặc được đề cử cho một cuộc bầu cử.",
+      "es": "Una persona que solicita un trabajo o es nominada para una elección.",
+      "en": "A person who applies for a job or is nominated for election."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I think you are the right candidate for this position.",
+    "There are many candidates interviewing for the company this week.",
+    "I have prepared my documents to become a candidate for the scholarship."
+  ],
+  "notes": "Ứng viên means candidate — someone who is being considered for a job, position, award, or election.\n\nIt’s a countable noun: một ứng viên, các ứng viên. You’ll often see it with words like tiềm năng (promising) or sáng giá (strong/top contender).  \n\nCommon collocations: ứng viên cho vị trí…, ứng viên tổng thống, ứng viên học bổng.  \n\nDon’t confuse it with thí sinh — that’s someone taking an exam or joining a competition, not necessarily applying for a job.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:36:52.686Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "candidate"
+      },
+      "language": "vi",
+      "word": "ứng viên",
+      "sentence": "Tôi là một ___ mới.",
+      "choices": [],
+      "translation": {
+        "en": "I am a new candidate."
+      },
+      "answer": "ứng viên"
+    },
+    "updatedAt": "2025-03-12T13:36:52.686Z",
+    "type": "fillBlankQuiz",
+    "id": "01854a10-4867-486c-9f16-8ec11a11695c",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T18:01:49.646Z",
+  "definition": "candidate",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "ứng viên",
+  "rank": 2829,
+  "exampleSentences": [
+    "Chị nghĩ anh là ứng viên phù hợp cho vị trí này.",
+    "Có nhiều ứng viên tham gia phỏng vấn cho công ty tuần này.",
+    "Em đã chuẩn bị hồ sơ để trở thành ứng viên cho học bổng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nhà tuyển dụng",
+    "người quản lý",
+    "ứng viên"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "CemHcen2njYlb44HUdNK"
+}

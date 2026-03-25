@@ -1,0 +1,99 @@
+{
+  "notes": "Ừm = “um” in English. It shows you’re thinking, hesitating, or not 100% sure.\n\nIt’s a filler sound, usually at the beginning of a sentence while you buy time to think. It can also soften what you say, so you don’t sound too direct.\n\nVery similar to ờ (also “uh/um”). Slightly softer and more thoughtful than a quick “à” (which is more like “oh”).",
+  "fillBlankQuiz": {
+    "id": "1be856df-7336-4478-801b-4f37f7d2d434",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "He, um, does not agree."
+      },
+      "answer": "ừm",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Anh ấy, ___, không đồng ý.",
+      "word": "ừm",
+      "translatedAnswer": {
+        "en": "um"
+      }
+    },
+    "createdAt": "2025-03-12T17:16:57.248Z",
+    "updatedAt": "2025-03-12T17:16:57.248Z"
+  },
+  "updatedAt": "2026-03-03T10:24:12.361Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:16:57.248Z",
+    "content": {
+      "hint": "u__",
+      "choices": [
+        "ừm",
+        "vâng",
+        "ừ"
+      ],
+      "translation": {
+        "en": "He, um, does not agree."
+      },
+      "answer": "ừm",
+      "translatedAnswer": {
+        "en": "um"
+      },
+      "language": "vi",
+      "word": "ừm",
+      "sentence": "Anh ấy, ___, không đồng ý."
+    },
+    "createdAt": "2025-03-12T17:16:57.248Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "d2489e05-73ae-4c28-a3c5-e1227eb303b6"
+  },
+  "notes_md": "**Ừm** = “um” in English. It shows you’re thinking, hesitating, or not 100% sure.\n\nIt’s a filler sound, usually at the beginning of a sentence while you buy time to think. It can also soften what you say, so you don’t sound too direct.\n\n\nVery similar to **ờ** (also “uh/um”). Slightly softer and more thoughtful than a quick “à” (which is more like “oh”).",
+  "flashcard": {
+    "definitions": {
+      "es": "Un sonido utilizado para expresar duda o para indicar que se está pensando.",
+      "vi": "Âm thanh được sử dụng để diễn tả sự do dự hoặc để chỉ ra rằng đang suy nghĩ.",
+      "en": "A sound used to express hesitation or to indicate thinking."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:18:51.971Z",
+    "example": {
+      "vi": "Ừm, tôi hiểu rồi.",
+      "es": "Um, ahora entiendo.",
+      "en": "Um, I understand now."
+    },
+    "translations": {
+      "en": "um",
+      "es": "um",
+      "vi": "ừm"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Um, I think we should go to the movies tonight.",
+    "Um, I am not sure about this answer.",
+    "Um, can you help me with my math homework?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "ừm",
+    "vâng",
+    "dạ"
+  ],
+  "word": "ừm",
+  "exampleSentences": [
+    "Ừm, anh nghĩ chúng ta nên đi xem phim tối nay.",
+    "Ừm, em chưa chắc về câu trả lời này đâu.",
+    "Ừm, chị có thể giúp em làm bài tập toán không?"
+  ],
+  "rank": 2321,
+  "definition": "um",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "DMkqLsJjSMRdGHUuEgyG"
+}

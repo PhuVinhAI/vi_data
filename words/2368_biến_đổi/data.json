@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:41:35.911Z",
+    "definitions": {
+      "es": "Cambiar o transformar.",
+      "vi": "Thay đổi hoặc biến hình.",
+      "en": "To change or transform."
+    },
+    "translations": {
+      "en": "change",
+      "es": "cambio",
+      "vi": "biến đổi"
+    },
+    "example": {
+      "en": "The weather can change rapidly.",
+      "es": "El clima puede cambiar rápidamente.",
+      "vi": "Thời tiết có thể biến đổi nhanh chóng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Thời tiết ở thành phố này thường xuyên biến đổi rất nhanh.",
+    "Nếu em muốn tiến bộ, em cần phải biến đổi thói quen học tập.",
+    "Công nghệ mới đã làm cho cuộc sống của chúng ta biến đổi nhiều."
+  ],
+  "rank": 2368,
+  "definition": "change",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "biến đổi",
+      "sentence": "Mọi thứ đều sẽ ___ theo thời gian.",
+      "translation": {
+        "en": "Everything will change over time."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "change"
+      },
+      "answer": "biến đổi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "6d0225b5-f15f-4be8-897f-cc057e74ae2d",
+    "createdAt": "2025-03-12T14:03:44.372Z",
+    "updatedAt": "2025-03-12T14:03:44.372Z"
+  },
+  "notes": "Biến đổi = to change or transform, often in a noticeable or significant way. It’s stronger than just a small change.\n\nIt’s a verb. You’ll often see it with things like khí hậu, tính cách, xã hội, cơ thể.  \n\nClose to thay đổi, but biến đổi feels deeper or more dramatic.  \nRelated word: biến chuyển (more formal, often about situations or history).",
+  "exampleSentencesTranslated": [
+    "The weather in this city often change very quickly.",
+    "If you want to improve, you need to change your study habits.",
+    "New technology has made our lives change a lot."
+  ],
+  "choices": [
+    "biến đổi",
+    "phát triển",
+    "giảm xuống"
+  ],
+  "updatedAt": "2026-03-03T10:28:38.116Z",
+  "notes_md": "**Biến đổi** = to change or transform, often in a noticeable or significant way. It’s stronger than just a small change.\n\nIt’s a verb. You’ll often see it with things like khí hậu, tính cách, xã hội, cơ thể.  \n\nClose to **thay đổi**, but *biến đổi* feels deeper or more dramatic.  \nRelated word: **biến chuyển** (more formal, often about situations or history).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "biến đổi",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "biến đổi",
+      "translatedAnswer": {
+        "en": "change"
+      },
+      "sentence": "Mọi thứ đều sẽ ___ theo thời gian.",
+      "hint": "b___ đổi",
+      "word": "biến đổi",
+      "language": "vi",
+      "choices": [
+        "biến hóa",
+        "biến đổi",
+        "biến dạng"
+      ],
+      "translation": {
+        "en": "Everything will change over time."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "33c706ed-fc29-403c-9e54-81c5cd88c8c9",
+    "createdAt": "2025-03-12T14:03:44.372Z",
+    "updatedAt": "2025-03-12T14:03:44.372Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "JaeJNCmQBJDf1DvKBXTp"
+}

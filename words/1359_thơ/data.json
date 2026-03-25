@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I really like reading poetry every night before going to bed.",
+    "He wrote a special poetry for his mother’s birthday.",
+    "She often joins the poetry club at university with her friends."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "127d6d2e-2ab7-4e76-81c8-4dfe38ce37c4",
+    "content": {
+      "answer": "thơ",
+      "translatedAnswer": {
+        "en": "poetry"
+      },
+      "translation": {
+        "en": "I like to read the poetry of this author."
+      },
+      "language": "vi",
+      "sentence": "Tôi thích đọc ___ của tác giả này.",
+      "word": "thơ",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:23:46.105Z",
+    "updatedAt": "2025-03-12T15:23:46.105Z"
+  },
+  "definition": "poetry",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:58:26.569Z",
+    "translations": {
+      "vi": "thơ",
+      "es": "poesía",
+      "en": "poetry"
+    },
+    "example": {
+      "es": "Me gusta leer poesía por la mañana.",
+      "vi": "Tôi thích đọc thơ vào buổi sáng.",
+      "en": "I enjoy reading poetry in the morning."
+    },
+    "definitions": {
+      "es": "Una obra literaria que expresa sentimientos, ideas o cuenta una historia de manera rítmica y a menudo metafórica.",
+      "vi": "Một tác phẩm văn học thể hiện cảm xúc, ý tưởng hoặc kể một câu chuyện theo cách có nhịp điệu và thường mang tính ẩn dụ.",
+      "en": "A literary work that expresses feelings, ideas, or tells a story in a rhythmic and often metaphorical way."
+    }
+  },
+  "notes": "thơ means poetry or poems in general. It’s the art form, not just one specific poem.\n\nIt’s an uncountable noun when you mean poetry as a genre, but you count individual poems with bài → một bài thơ, hai bài thơ.  \nCommon pairings: thơ tình (love poetry), thơ thiếu nhi (children’s poetry), thơ ca (poetry in a broader/literary sense).  \nYou’ll often see verbs like viết thơ (write poetry), làm thơ (compose poetry), đọc thơ (read poetry).  \n\nTo remember it: thơ = poetry (the art), bài thơ = a poem (one piece).",
+  "updatedAt": "2026-03-03T08:41:07.220Z",
+  "exampleSentences": [
+    "Em rất thích đọc thơ vào mỗi buổi tối trước khi đi ngủ.",
+    "Anh đã viết một bài thơ đặc biệt để tặng cho mẹ nhân ngày sinh nhật.",
+    "Chị thường cùng bạn bè tham gia câu lạc bộ thơ ở trường đại học."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:23:46.105Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:46.105Z",
+    "content": {
+      "sentence": "Tôi thích đọc ___ của tác giả này.",
+      "language": "vi",
+      "word": "thơ",
+      "choices": [
+        "truyện",
+        "thơ",
+        "tiểu thuyết"
+      ],
+      "hint": "th__",
+      "answer": "thơ",
+      "translatedAnswer": {
+        "en": "poetry"
+      },
+      "translation": {
+        "en": "I like to read the poetry of this author."
+      }
+    },
+    "id": "b045dad1-89f2-4a67-9a7f-a71229604911"
+  },
+  "notes_md": "**thơ** means *poetry* or *poems* in general. It’s the art form, not just one specific poem.\n\nIt’s an uncountable noun when you mean poetry as a genre, but you count individual poems with **bài** → *một bài thơ, hai bài thơ*.  \nCommon pairings: **thơ tình** (love poetry), **thơ thiếu nhi** (children’s poetry), **thơ ca** (poetry in a broader/literary sense).  \nYou’ll often see verbs like **viết thơ** (write poetry), **làm thơ** (compose poetry), **đọc thơ** (read poetry).  \n\nTo remember it: *thơ* = poetry (the art), *bài thơ* = a poem (one piece).",
+  "choices": [
+    "trò",
+    "thơ",
+    "nhạc"
+  ],
+  "rank": 1359,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thơ",
+  "_id": "dNs8SJZzilkuNaOBtvv8"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 1075,
+  "definition": "fix",
+  "flashcard": {
+    "definitions": {
+      "en": "to fix or repair something that is broken or damaged.",
+      "vi": "sửa chữa hoặc khắc phục một cái gì đó bị hỏng hoặc bị hư hại.",
+      "es": "arreglar o reparar algo que está roto o dañado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:38:00.819Z",
+    "example": {
+      "es": "Necesito reparar mi coche.",
+      "en": "I need to repair my car.",
+      "vi": "Tôi cần sửa chiếc xe của mình."
+    },
+    "translations": {
+      "en": "repair",
+      "vi": "sửa",
+      "es": "reparar"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:53:55.623Z",
+    "updatedAt": "2025-03-12T12:53:55.623Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ máy tính của tôi.",
+      "answer": "sửa",
+      "choices": [
+        "sửa",
+        "thay",
+        "mua"
+      ],
+      "translation": {
+        "en": "I want to repair my computer."
+      },
+      "word": "sửa",
+      "translatedAnswer": {
+        "en": "repair"
+      },
+      "language": "vi",
+      "hint": "s__"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "539abd89-57c4-4ef9-8994-057fd10af6c6"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể giúp em sửa chiếc xe đạp bị hỏng không?",
+    "Máy tính của chị bị lỗi nên chị phải mang đi sửa.",
+    "Nếu em thấy lỗi trong bài viết, em nhớ sửa lại nhé."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "sửa = to fix or repair something that’s broken or wrong. It’s also used for correcting mistakes (like writing or homework).\n\nYou use sửa + object for physical things (sửa xe, sửa điện thoại) and for mistakes (sửa lỗi, sửa bài).  \nYou can add sửa lại when you mean “fix again” or “fix properly.”  \n\nFor writing or small adjustments, chỉnh is similar but softer (more like “adjust” or “edit”), while sửa feels more direct and hands-on.",
+  "choices": [
+    "sửa",
+    "giặt",
+    "xem"
+  ],
+  "word": "sửa",
+  "notes_md": "**sửa** = to fix or repair something that’s broken or wrong. It’s also used for correcting mistakes (like writing or homework).\n\nYou use **sửa + object** for physical things (sửa xe, sửa điện thoại) and for mistakes (sửa lỗi, sửa bài).  \nYou can add **sửa lại** when you mean “fix again” or “fix properly.”  \n\nFor writing or small adjustments, **chỉnh** is similar but softer (more like “adjust” or “edit”), while **sửa** feels more direct and hands-on.",
+  "exampleSentencesTranslated": [
+    "Can you help me fix the broken bicycle?",
+    "Her computer is broken so she has to take it to fix.",
+    "If you see a mistake in the essay, remember to fix it."
+  ],
+  "updatedAt": "2026-03-03T08:10:36.155Z",
+  "fillBlankQuiz": {
+    "id": "ef75a6c0-5545-4640-bfc2-65024620a128",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi cần ___ chiếc xe của mình.",
+      "answer": "sửa",
+      "translation": {
+        "en": "I need to repair my car."
+      },
+      "choices": [],
+      "word": "sửa",
+      "translatedAnswer": {
+        "en": "repair"
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T12:53:55.623Z",
+    "updatedAt": "2025-03-12T12:53:55.623Z"
+  },
+  "_id": "1JeaeAZXCbZJF1Z1Z4nq"
+}

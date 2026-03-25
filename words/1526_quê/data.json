@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:59:26.396Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1526,
+  "exampleSentencesTranslated": [
+    "My hometown is in central Vietnam, where there are many beautiful beaches.",
+    "Every Tet holiday, I return to my hometown to visit my grandparents.",
+    "She is very proud of her hometown because there are many long-standing traditions there."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "caaaebcb-a37f-419a-8473-17aebe53fb40",
+    "createdAt": "2025-03-12T14:36:29.657Z",
+    "updatedAt": "2025-03-12T14:36:29.657Z",
+    "content": {
+      "hint": "q__",
+      "translation": {
+        "en": "I will go back to my hometown this weekend."
+      },
+      "answer": "quê",
+      "word": "quê",
+      "choices": [
+        "thành phố",
+        "quê",
+        "vùng đất"
+      ],
+      "translatedAnswer": {
+        "en": "hometown"
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ về ___ vào cuối tuần."
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "quê",
+  "notes": "quê = your hometown, the place you’re from (usually where you were born or grew up).\n\nIt’s a noun and often used with possession: quê + của + someone. You’ll hear it a lot in phrases like going back or being there.\n\nRelated word: quê hương = more emotional/formal “homeland.”  \nCommon pairings: quê nhà (one’s home village) — very natural and personal.",
+  "choices": [
+    "quê",
+    "thành phố",
+    "nhà"
+  ],
+  "notes_md": "**quê** = your hometown, the place you’re from (usually where you were born or grew up).\n\nIt’s a noun and often used with possession: **quê + của + someone**. You’ll hear it a lot in phrases like going back or being there.\n\n\nRelated word: **quê hương** = more emotional/formal “homeland.”  \nCommon pairings: **quê nhà** (one’s home village) — very natural and personal.",
+  "exampleSentences": [
+    "Quê của anh ở miền Trung, nơi có nhiều bãi biển đẹp.",
+    "Mỗi dịp Tết, em đều về quê thăm ông bà nội ngoại.",
+    "Chị rất tự hào về quê vì ở đó có nhiều truyền thống lâu đời."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "hometown",
+      "vi": "quê",
+      "es": "pueblo natal"
+    },
+    "createdAt": "2025-01-28T12:12:10.236Z",
+    "definitions": {
+      "vi": "Quê hương hoặc nơi sinh; thường đề cập đến nguồn gốc hoặc cội rễ của một người.",
+      "en": "Hometown or native place; often refers to one's roots or origin.",
+      "es": "Lugar de origen o pueblo natal; a menudo se refiere a las raíces de una persona."
+    },
+    "example": {
+      "vi": "Tôi luôn nhớ quê hương của mình.",
+      "en": "I always miss my hometown.",
+      "es": "Siempre extraño mi pueblo natal."
+    }
+  },
+  "definition": "hometown",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "quê",
+      "translation": {
+        "en": "I return to my hometown."
+      },
+      "answer": "quê",
+      "translatedAnswer": {
+        "en": "hometown"
+      },
+      "language": "vi",
+      "sentence": "Tôi trở về ___ của mình."
+    },
+    "updatedAt": "2025-03-12T14:36:29.657Z",
+    "createdAt": "2025-03-12T14:36:29.657Z",
+    "id": "44754293-4551-4f00-a3b5-fdb922f107b8",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "R2cMjIUavnpMtjlfKDHV"
+}

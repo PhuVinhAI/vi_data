@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "e1747432-b6e6-4925-9bbd-9206c003fb63",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:59.924Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "old"
+      },
+      "translation": {
+        "en": "This car has been old for a long time."
+      },
+      "answer": "cũ",
+      "hint": "c__",
+      "choices": [
+        "mới",
+        "cũ",
+        "đẹp"
+      ],
+      "sentence": "Chiếc xe này đã ___ lâu.",
+      "language": "vi",
+      "word": "cũ"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:33:59.924Z"
+  },
+  "notes_md": "**cũ** = old; not new anymore. You use it to describe things that have been used for a long time or are from the past.\n\nIt goes after the noun: *nhà cũ, xe cũ, quần áo cũ*. It describes objects, places, clothes, memories, jobs, etc.\n\nIt can also mean “former/ex-” in some contexts, like a previous version or past relationship (bạn trai cũ = ex-boyfriend).\n\nOpposite: **mới** (new).",
+  "rank": 681,
+  "choices": [
+    "cũ",
+    "mới",
+    "đẹp"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cũ",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:59.924Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:59.924Z",
+    "content": {
+      "answer": "cũ",
+      "translatedAnswer": {
+        "en": "old"
+      },
+      "translation": {
+        "en": "This chair is very old."
+      },
+      "language": "vi",
+      "sentence": "Cái ghế này rất ___.",
+      "word": "cũ",
+      "choices": []
+    },
+    "id": "34b7ddf4-6942-4fb6-9083-43f0785fa13b"
+  },
+  "exampleSentencesTranslated": [
+    "This phone is very old but I still like to use it.",
+    "Can you lend me your old book?",
+    "My grandparents' house is in an old neighborhood."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This chair is very old.",
+      "es": "Esta silla es muy vieja.",
+      "vi": "Chiếc ghế này rất cũ."
+    },
+    "definitions": {
+      "es": "Refiriéndose a algo que es viejo o no nuevo.",
+      "vi": "Chỉ về một cái gì đó cũ hoặc không mới.",
+      "en": "Referring to something that is old or not new."
+    },
+    "createdAt": "2025-01-28T11:13:31.220Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "old",
+      "es": "viejo",
+      "vi": "cũ"
+    }
+  },
+  "definition": "old",
+  "notes": "cũ = old; not new anymore. You use it to describe things that have been used for a long time or are from the past.\n\nIt goes after the noun: nhà cũ, xe cũ, quần áo cũ. It describes objects, places, clothes, memories, jobs, etc.\n\nIt can also mean “former/ex-” in some contexts, like a previous version or past relationship (bạn trai cũ = ex-boyfriend).\n\nOpposite: mới (new).",
+  "updatedAt": "2026-03-03T07:29:51.347Z",
+  "exampleSentences": [
+    "Chiếc điện thoại này đã rất cũ nhưng anh vẫn thích dùng.",
+    "Em có thể cho chị mượn quyển sách cũ của em không?",
+    "Nhà của ông bà anh ở trong một khu phố cũ."
+  ],
+  "_id": "BnocCtUbyA09KzFVBJKX"
+}

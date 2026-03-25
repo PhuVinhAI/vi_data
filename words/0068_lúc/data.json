@@ -1,0 +1,104 @@
+{
+  "word": "lúc",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "time"
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ đến vào ___ này.",
+      "word": "lúc",
+      "choices": [
+        "thời gian",
+        "lúc",
+        "khoảng thời gian"
+      ],
+      "hint": "l__c",
+      "answer": "lúc",
+      "translation": {
+        "en": "I will come at this time."
+      }
+    },
+    "updatedAt": "2025-03-12T14:43:04.848Z",
+    "id": "709cc525-1fdc-4258-8f3f-2fa2da70961e",
+    "createdAt": "2025-03-12T14:43:04.848Z",
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 68,
+  "exampleSentencesTranslated": [
+    "We meet at six o'clock.",
+    "She opens the door at seven o'clock.",
+    "Mom cooks rice at noon."
+  ],
+  "updatedAt": "2026-03-03T06:09:58.455Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "khi",
+    "vào",
+    "lúc"
+  ],
+  "sentenceBreakdowns": [
+    "Chúng ta (we) + gặp (meet) + nhau (each other) + lúc (at) + sáu (six) + giờ (o'clock)",
+    "Chị (she) + mở (open) + cửa (door) + lúc (at) + bảy (seven) + giờ (o'clock)",
+    "Mẹ (mom) + nấu (cook) + cơm (rice) + lúc (at) + trưa (noon)"
+  ],
+  "notes": "lúc = at (a specific time) or when (a moment in time).\n\nIt’s used before a clear time point: hours, parts of the day, or specific moments.  \n\nIt can also mean “when” to talk about a situation in the past or present.  \n\nVery close to khi (“when”), but lúc feels a bit more concrete, like pointing to a specific moment.",
+  "flashcard": {
+    "example": {
+      "en": "I will arrive at 5 o'clock.",
+      "vi": "Tôi sẽ đến lúc 5 giờ.",
+      "es": "Llegaré a las 5 en punto."
+    },
+    "definitions": {
+      "vi": "Một thời điểm trong thời gian.",
+      "en": "A point in time.",
+      "es": "Un momento en el tiempo."
+    },
+    "createdAt": "2025-01-28T14:17:05.479Z",
+    "translations": {
+      "vi": "lúc",
+      "en": "time",
+      "es": "tiempo"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Chúng ta gặp nhau lúc sáu giờ.",
+    "Chị mở cửa lúc bảy giờ.",
+    "Mẹ nấu cơm lúc trưa."
+  ],
+  "notes_md": "**lúc** = *at* (a specific time) or *when* (a moment in time).\n\nIt’s used before a clear time point: hours, parts of the day, or specific moments.  \n\nIt can also mean “when” to talk about a situation in the past or present.  \n\nVery close to **khi** (“when”), but *lúc* feels a bit more concrete, like pointing to a specific moment.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "time"
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ đến vào ___ này.",
+      "answer": "lúc",
+      "translation": {
+        "en": "I will come at this time."
+      },
+      "choices": [],
+      "word": "lúc"
+    },
+    "updatedAt": "2025-03-12T14:43:04.848Z",
+    "createdAt": "2025-03-12T14:43:04.848Z",
+    "id": "6544bcd5-e51d-4ab0-a99d-82afe9f1931f",
+    "type": "fillBlankQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "at",
+  "_id": "SXCgJwVtbvocUYplMeTb"
+}

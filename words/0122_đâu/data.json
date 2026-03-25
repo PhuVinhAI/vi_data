@@ -1,0 +1,98 @@
+{
+  "notes_md": "**đâu** means **where**. It’s used to ask about location.\n\nIn Vietnamese questions, **đâu often goes at the end** of the sentence, not the beginning like in English.  \n\nIt’s also very common in negatives for emphasis: **đâu có / đâu phải** = “not at all / not true.”  \nStrong memory link: **đâu?** (where?) vs **đây / đó / kia** (here / there).",
+  "rank": 122,
+  "multiChoiceQuiz": {
+    "id": "b5194432-4b2b-48cb-97f6-e77b0575bc4e",
+    "createdAt": "2025-03-12T16:07:04.002Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:07:04.002Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta ___ đi chơi nhé.",
+      "word": "đâu",
+      "choices": [
+        "đâu",
+        "đi",
+        "chơi"
+      ],
+      "language": "vi",
+      "answer": "đâu",
+      "hint": "d___",
+      "translation": {
+        "en": "Let's go play somewhere."
+      },
+      "translatedAnswer": {
+        "en": "somewhere"
+      }
+    }
+  },
+  "definition": "where",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:07:04.002Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "somewhere"
+      },
+      "translation": {
+        "en": "Let's go play somewhere."
+      },
+      "word": "đâu",
+      "language": "vi",
+      "answer": "đâu",
+      "sentence": "Chúng ta ___ đi chơi nhé."
+    },
+    "id": "c373c32f-c8f5-445b-a690-7f8308243f92",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:07:04.002Z"
+  },
+  "word": "đâu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đâu means where. It’s used to ask about location.\n\nIn Vietnamese questions, đâu often goes at the end of the sentence, not the beginning like in English.  \n\nIt’s also very common in negatives for emphasis: đâu có / đâu phải = “not at all / not true.”  \nStrong memory link: đâu? (where?) vs đây / đó / kia (here / there).",
+  "exampleSentences": [
+    "Em để chìa khóa xe ở đâu trong phòng vậy?",
+    "Anh biết quán cà phê mới mở ở đâu không?",
+    "Chị ấy hỏi điện thoại của mình đang ở đâu rồi."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "ở",
+    "đâu",
+    "khi"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "đâu",
+      "en": "where",
+      "es": "dónde"
+    },
+    "example": {
+      "es": "¿A dónde vas?",
+      "en": "Where are you going?",
+      "vi": "Bạn đi đâu vậy?"
+    },
+    "createdAt": "2025-01-28T14:18:08.565Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Se utiliza para preguntar sobre la ubicación o el lugar.",
+      "en": "Used to ask about the location or place.",
+      "vi": "Dùng để hỏi về vị trí hoặc địa điểm."
+    }
+  },
+  "updatedAt": "2026-03-03T06:32:33.855Z",
+  "exampleSentencesTranslated": [
+    "Where did you put the car keys in the room?",
+    "Do you know where the newly opened coffee shop is?",
+    "She asked where her phone was."
+  ],
+  "_id": "o6PBAyY4SWqDmus4MK5u"
+}

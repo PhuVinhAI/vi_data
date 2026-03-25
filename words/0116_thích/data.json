@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I really like listening to music whenever I am free in the evening.",
+    "Do you like eating beef pho or do you want to try something else?",
+    "I like traveling with friends during the summer holidays."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:53:14.707Z",
+    "example": {
+      "vi": "Tôi thích ăn phở.",
+      "es": "Me gusta comer pho.",
+      "en": "I like to eat pho."
+    },
+    "translations": {
+      "en": "like",
+      "es": "gustar",
+      "vi": "thích"
+    },
+    "definitions": {
+      "es": "gustar; disfrutar",
+      "vi": "thích; yêu thích",
+      "en": "to like; to enjoy"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "id": "90d753bd-783b-4120-b398-4168b34a6f53",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:41:33.988Z",
+    "content": {
+      "choices": [
+        "thích",
+        "không thích",
+        "yêu thích"
+      ],
+      "hint": "t___h",
+      "translation": {
+        "en": "Do you like doing homework?"
+      },
+      "answer": "thích",
+      "translatedAnswer": {
+        "en": "like"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ làm bài tập không?",
+      "word": "thích"
+    },
+    "updatedAt": "2025-03-12T13:41:33.988Z"
+  },
+  "notes_md": "**thích** = to like, to enjoy something. It shows personal preference.\n\nUse it before a verb or noun: you can like doing something or like something directly.  \n\nIt’s weaker and more casual than **yêu** (to love).  \nNegative form is **không thích** (don’t like), often used to politely refuse.",
+  "updatedAt": "2026-03-03T06:32:03.286Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:41:33.988Z",
+    "createdAt": "2025-03-12T13:41:33.988Z",
+    "content": {
+      "sentence": "Tôi rất ___ món ăn này.",
+      "word": "thích",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "like"
+      },
+      "translation": {
+        "en": "I really like this dish."
+      },
+      "answer": "thích",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b8c2aba9-d745-4ab8-a50b-e5bc008e484e"
+  },
+  "notes": "thích = to like, to enjoy something. It shows personal preference.\n\nUse it before a verb or noun: you can like doing something or like something directly.  \n\nIt’s weaker and more casual than yêu (to love).  \nNegative form is không thích (don’t like), often used to politely refuse.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "like",
+  "exampleSentences": [
+    "Em rất thích nghe nhạc mỗi khi rảnh rỗi vào buổi tối.",
+    "Chị có thích ăn món phở bò không hay muốn thử món khác?",
+    "Anh thích đi du lịch cùng bạn bè vào kỳ nghỉ hè."
+  ],
+  "rank": 116,
+  "word": "thích",
+  "choices": [
+    "thích",
+    "giỏi",
+    "đọc"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "Do7ivdJHI06iypjqKXTS"
+}

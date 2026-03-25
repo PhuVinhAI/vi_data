@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-03-03T10:45:28.744Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "install"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ lại điện thoại.",
+      "word": "cài",
+      "answer": "cài",
+      "translation": {
+        "en": "I need to install the phone."
+      }
+    },
+    "createdAt": "2025-03-12T13:52:58.395Z",
+    "updatedAt": "2025-03-12T13:52:58.395Z",
+    "type": "fillBlankQuiz",
+    "id": "dbff6ff3-3424-49ce-a036-722d635ba7c7",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "cài = to install (apps, software, programs) on a device. It’s what you do to make something ready to use digitally.\n\nYou’ll hear it with tech words: cài app, cài phần mềm, cài chương trình, cài driver. The noun form cài đặt means “installation” or “settings.”\n\nIt also commonly means to fasten/button something, like clothes or accessories (cài cúc áo, cài hoa lên áo).\n\nThink of it as “put in place so it works or stays.”",
+  "exampleSentencesTranslated": [
+    "Can you help me install this app on my phone?",
+    "She installed new software for her computer this morning.",
+    "You need to install this program to learn English more easily."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "instalar",
+      "vi": "cài",
+      "en": "install"
+    },
+    "example": {
+      "en": "I will install the new app on my phone.",
+      "vi": "Tôi sẽ cài đặt ứng dụng mới trên điện thoại.",
+      "es": "Voy a instalar la nueva aplicación en mi teléfono."
+    },
+    "createdAt": "2025-01-28T11:30:48.861Z",
+    "definitions": {
+      "vi": "Cài đặt hoặc thiết lập một cái gì đó, thường là phần mềm hoặc ứng dụng.",
+      "es": "Instalar o configurar algo, típicamente software o una aplicación.",
+      "en": "To install or set up something, typically software or an application."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "install"
+      },
+      "word": "cài",
+      "sentence": "Bạn có thể ___ ứng dụng này không?",
+      "language": "vi",
+      "hint": "c__i",
+      "choices": [
+        "cài",
+        "xóa",
+        "mở"
+      ],
+      "translation": {
+        "en": "Can you install this application?"
+      },
+      "answer": "cài"
+    },
+    "createdAt": "2025-03-12T13:52:58.395Z",
+    "updatedAt": "2025-03-12T13:52:58.395Z",
+    "id": "7f2021e5-ed35-4765-89a6-a07d10658489",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**cài** = to install (apps, software, programs) on a device. It’s what you do to make something ready to use digitally.\n\nYou’ll hear it with tech words: *cài app, cài phần mềm, cài chương trình, cài driver*. The noun form **cài đặt** means “installation” or “settings.”\n\nIt also commonly means **to fasten/button** something, like clothes or accessories (cài cúc áo, cài hoa lên áo).\n\n\nThink of it as “put in place so it works or stays.”",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "xóa",
+    "cài",
+    "mở"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2532,
+  "exampleSentences": [
+    "Anh có thể giúp em cài ứng dụng này trên điện thoại không?",
+    "Chị đã cài phần mềm mới cho máy tính của mình sáng nay.",
+    "Em cần cài chương trình này để học tiếng Anh dễ hơn."
+  ],
+  "word": "cài",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "install",
+  "_id": "GcF77xT6OJfkSyX7zakJ"
+}

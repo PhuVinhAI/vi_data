@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:26:21.374Z",
+    "id": "eb396028-1b1f-4a94-9c7e-eabff3f1a07c",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "You need to be serious in your work."
+      },
+      "answer": "nghiêm túc",
+      "choices": [],
+      "word": "nghiêm túc",
+      "translatedAnswer": {
+        "en": "serious"
+      },
+      "language": "vi",
+      "sentence": "Bạn cần ___ hơn trong công việc."
+    },
+    "updatedAt": "2025-03-12T14:26:21.374Z"
+  },
+  "definition": "serious",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "He always works seriously.",
+      "vi": "Anh ấy luôn làm việc một cách nghiêm túc.",
+      "es": "Él siempre trabaja de manera seria."
+    },
+    "definitions": {
+      "vi": "Nghiêm túc trong thái độ hoặc hành vi.",
+      "en": "Serious or earnest in attitude or behavior.",
+      "es": "Serio o sincero en actitud o comportamiento."
+    },
+    "createdAt": "2025-01-28T12:02:25.727Z",
+    "translations": {
+      "es": "serio",
+      "en": "serious",
+      "vi": "nghiêm túc"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh ấy luôn làm việc một cách nghiêm túc và chăm chỉ mỗi ngày.",
+    "Chị nghĩ chúng ta nên nói chuyện nghiêm túc về kế hoạch này.",
+    "Em cần phải học nghiêm túc hơn nếu muốn đạt kết quả tốt."
+  ],
+  "notes_md": "**nghiêm túc** = serious, earnest, not joking around. It can describe a person, attitude, tone, situation, or problem.\n\nIt’s an adjective, so it goes after the noun: *thái độ nghiêm túc*, *vẻ mặt nghiêm túc*, *vấn đề nghiêm túc*. You can also use it after “rất/khá/hơi” to adjust the level.\n\nIt can mean both “serious in personality/behavior” and “serious in importance” (like a serious issue).  \n\nClose synonym: **nghiêm trọng** (but this is more for serious problems, not people). Opposite vibe: **vui vẻ**, **đùa giỡn**.",
+  "choices": [
+    "nghiêm túc",
+    "vui vẻ",
+    "lười biếng"
+  ],
+  "notes": "nghiêm túc = serious, earnest, not joking around. It can describe a person, attitude, tone, situation, or problem.\n\nIt’s an adjective, so it goes after the noun: thái độ nghiêm túc, vẻ mặt nghiêm túc, vấn đề nghiêm túc. You can also use it after “rất/khá/hơi” to adjust the level.\n\nIt can mean both “serious in personality/behavior” and “serious in importance” (like a serious issue).  \n\nClose synonym: nghiêm trọng (but this is more for serious problems, not people). Opposite vibe: vui vẻ, đùa giỡn.",
+  "rank": 1745,
+  "exampleSentencesTranslated": [
+    "He always works in a serious and hardworking way every day.",
+    "I think we should have a serious conversation about this plan.",
+    "You need to study more serious if you want to get good results."
+  ],
+  "word": "nghiêm túc",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "serious"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy rất ___ khi thuyết trình.",
+      "hint": "n____t",
+      "answer": "nghiêm túc",
+      "translation": {
+        "en": "She is very serious when presenting."
+      },
+      "word": "nghiêm túc",
+      "choices": [
+        "nghiêm túc",
+        "vui vẻ",
+        "hồn nhiên"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:26:21.374Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:26:21.374Z",
+    "id": "9b9def15-fd5e-4b3a-9335-49d426c76d89",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T09:22:44.294Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Ohrm2vczzAIL6D6Mdeuy"
+}

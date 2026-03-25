@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:25:42.565Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "trai",
+      "language": "vi",
+      "sentence": "Tôi muốn ăn một ___.",
+      "translation": {
+        "en": "I want to eat a fruit."
+      },
+      "translatedAnswer": {
+        "en": "fruit"
+      },
+      "answer": "trai"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:25:42.565Z",
+    "id": "d99e25ee-3325-40cf-bb63-3acc3941ca9d"
+  },
+  "exampleSentencesTranslated": [
+    "I have a boy who is very well-behaved and good at studying in the class.",
+    "She often takes the boy to the park to play on weekends.",
+    "I see the boy playing soccer with friends behind the school."
+  ],
+  "definition": "boy",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:06:09.351Z",
+    "translations": {
+      "en": "fruit",
+      "vi": "trái cây",
+      "es": "fruta"
+    },
+    "example": {
+      "es": "Esta fruta es muy deliciosa.",
+      "vi": "Cái trai này rất ngon.",
+      "en": "This fruit is very delicious."
+    },
+    "definitions": {
+      "vi": "Một loại trái cây, thường được gọi là 'trái cây' trong tiếng Anh.",
+      "es": "Un tipo de fruta, a menudo referido como 'fruta' en inglés.",
+      "en": "A type of fruit, often referred to as a 'fruit' in English."
+    }
+  },
+  "notes": "trai means boy or male (young). On its own, it sounds a bit bare; you’ll usually see it in common combinations.\n\nVery often it appears in compounds like con trai (son), bạn trai (boyfriend), or con trai nhỏ (little boy). When counting, use classifiers like đứa or người depending on age and context (đứa con trai, người con trai).\n\nIt contrasts with gái (girl), which helps you remember pairs like trai – gái.  \n\nBe careful: con trai = son, but trai alone doesn’t automatically mean “son.”",
+  "exampleSentences": [
+    "Anh có một trai rất ngoan và học giỏi trong lớp.",
+    "Chị thường đưa trai đi công viên chơi vào cuối tuần.",
+    "Em thấy trai kia đang đá bóng cùng các bạn sau trường."
+  ],
+  "updatedAt": "2026-03-03T08:03:30.656Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "5c54137f-d122-4f89-bb4d-8e91d4b18be4",
+    "content": {
+      "answer": "trai",
+      "hint": "tr__",
+      "translatedAnswer": {
+        "en": "fruit"
+      },
+      "translation": {
+        "en": "I see a fruit on the tree."
+      },
+      "sentence": "Tôi thấy một ___ ở trên cây.",
+      "language": "vi",
+      "word": "trai",
+      "choices": [
+        "cây",
+        "trai",
+        "lá"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:25:42.565Z",
+    "updatedAt": "2025-03-12T13:25:42.565Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "trai",
+    "gái",
+    "bàn"
+  ],
+  "rank": 1009,
+  "notes_md": "**trai** means *boy* or *male* (young). On its own, it sounds a bit bare; you’ll usually see it in common combinations.\n\nVery often it appears in compounds like **con trai** (son), **bạn trai** (boyfriend), or **con trai nhỏ** (little boy). When counting, use classifiers like **đứa** or **người** depending on age and context (đứa con trai, người con trai).\n\nIt contrasts with **gái** (girl), which helps you remember pairs like *trai – gái*.  \n\nBe careful: **con trai** = son, but **trai** alone doesn’t automatically mean “son.”",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trai",
+  "_id": "9uICX8FcYWIactfO7eYp"
+}

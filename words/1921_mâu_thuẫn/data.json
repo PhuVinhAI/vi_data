@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:41:13.031Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:11:11.967Z",
+    "updatedAt": "2025-03-12T13:11:11.967Z",
+    "id": "6bdfeab5-b744-4c4b-857d-23ee7fe019ce",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "mâu thuẫn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "contradiction"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This story has a big contradiction."
+      },
+      "answer": "mâu thuẫn",
+      "sentence": "Câu chuyện này có ___ lớn."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**Mâu thuẫn** means *conflict* or *disagreement* — when two people or ideas don’t match and cause tension.\n\nIt’s a **noun**. You usually say *có mâu thuẫn*, *xảy ra mâu thuẫn*, or *giải quyết mâu thuẫn*. It can be between people, groups, or even ideas (*mâu thuẫn nội bộ*, *mâu thuẫn lợi ích*).\n\n\nClose synonym: **xung đột** (a bit stronger, more intense).  \nOpposite idea: **hòa hợp** (getting along well).",
+  "exampleSentencesTranslated": [
+    "You and I often have conflict about how to raise our children.",
+    "In the group, everyone tries to resolve conflict peacefully.",
+    "She feels conflict between her job and personal life."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mâu thuẫn",
+  "choices": [
+    "mâu thuẫn",
+    "hạnh phúc",
+    "bất ngờ"
+  ],
+  "notes": "Mâu thuẫn means conflict or disagreement — when two people or ideas don’t match and cause tension.\n\nIt’s a noun. You usually say có mâu thuẫn, xảy ra mâu thuẫn, or giải quyết mâu thuẫn. It can be between people, groups, or even ideas (mâu thuẫn nội bộ, mâu thuẫn lợi ích).\n\nClose synonym: xung đột (a bit stronger, more intense).  \nOpposite idea: hòa hợp (getting along well).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một tình huống trong đó hai hoặc nhiều tuyên bố, ý tưởng hoặc hành động đối lập với nhau.",
+      "en": "A situation in which two or more statements, ideas, or actions are opposed to each other.",
+      "es": "Una situación en la que dos o más declaraciones, ideas o acciones se oponen entre sí."
+    },
+    "createdAt": "2025-01-28T10:52:26.273Z",
+    "example": {
+      "en": "There are many contradictions in the debate.",
+      "vi": "Có nhiều mâu thuẫn trong cuộc tranh luận.",
+      "es": "Hay muchas contradicciones en el debate."
+    },
+    "translations": {
+      "vi": "mâu thuẫn",
+      "en": "contradiction",
+      "es": "contradicción"
+    }
+  },
+  "definition": "conflict",
+  "rank": 1921,
+  "exampleSentences": [
+    "Anh và em thường xuyên có mâu thuẫn về cách nuôi dạy con.",
+    "Trong nhóm, mọi người cố gắng giải quyết mâu thuẫn một cách hòa bình.",
+    "Chị cảm thấy mâu thuẫn giữa công việc và cuộc sống cá nhân."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:11:11.967Z",
+    "updatedAt": "2025-03-12T13:11:11.967Z",
+    "content": {
+      "translation": {
+        "en": "This story has a big contradiction."
+      },
+      "choices": [
+        "mâu thuẫn",
+        "câu chuyện",
+        "sự thật"
+      ],
+      "word": "mâu thuẫn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "contradiction"
+      },
+      "hint": "m___n",
+      "sentence": "Câu chuyện này có ___ lớn.",
+      "answer": "mâu thuẫn"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "a7c690a8-9c37-4aba-b131-e21667a3dcd0",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "5lcWQQHmFVXOjN5BsY5d"
+}

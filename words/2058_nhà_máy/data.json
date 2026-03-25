@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:30.093Z",
+    "id": "1ba8abb7-748c-4a0b-8e9a-215dffec7c5a",
+    "content": {
+      "choices": [
+        "xưởng",
+        "nhà máy",
+        "công trường"
+      ],
+      "word": "nhà máy",
+      "sentence": "Công việc ở ___ rất thú vị.",
+      "language": "vi",
+      "translation": {
+        "en": "The job at the factory is very interesting."
+      },
+      "translatedAnswer": {
+        "en": "factory"
+      },
+      "hint": "n___ m__",
+      "answer": "nhà máy"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:30.093Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "nhà máy",
+    "cửa hàng",
+    "bệnh viện"
+  ],
+  "rank": 2058,
+  "notes_md": "**nhà máy** means *factory* — a place where goods are produced, usually on a large, industrial scale.\n\nIt’s a countable noun: **một nhà máy, hai nhà máy, các nhà máy**.  \nCommon pairings: **làm việc ở nhà máy**, **xây dựng nhà máy**, **nhà máy sản xuất + product**, **nhà máy điện** (power plant).  \nStronger, bigger than **xưởng** (workshop), which is usually smaller and less industrial.  \nUsed for manufacturing, energy, processing — not for offices (that’s **văn phòng**).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhà máy",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "7ec656f5-986a-4397-b7dc-46708958d648",
+    "content": {
+      "choices": [],
+      "word": "nhà máy",
+      "language": "vi",
+      "sentence": "Chúng tôi làm việc ở ___ lớn.",
+      "translation": {
+        "en": "We work at a large factory."
+      },
+      "translatedAnswer": {
+        "en": "factory"
+      },
+      "answer": "nhà máy"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:27:30.093Z",
+    "updatedAt": "2025-03-12T15:27:30.093Z"
+  },
+  "exampleSentencesTranslated": [
+    "My older brother works at a large car factory.",
+    "In the morning, I often pass the factory on the way to school.",
+    "Many people in my village find jobs at the nearby factory."
+  ],
+  "definition": "factory",
+  "flashcard": {
+    "translations": {
+      "vi": "nhà máy",
+      "es": "fábrica",
+      "en": "factory"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:02:12.053Z",
+    "definitions": {
+      "en": "A building or group of buildings where goods are manufactured.",
+      "vi": "Một tòa nhà hoặc nhóm tòa nhà nơi hàng hóa được sản xuất.",
+      "es": "Un edificio o grupo de edificios donde se fabrican bienes."
+    },
+    "example": {
+      "vi": "Nhà máy này sản xuất ô tô.",
+      "es": "Esta fábrica produce coches.",
+      "en": "This factory produces cars."
+    }
+  },
+  "notes": "nhà máy means factory — a place where goods are produced, usually on a large, industrial scale.\n\nIt’s a countable noun: một nhà máy, hai nhà máy, các nhà máy.  \nCommon pairings: làm việc ở nhà máy, xây dựng nhà máy, nhà máy sản xuất + product, nhà máy điện (power plant).  \nStronger, bigger than xưởng (workshop), which is usually smaller and less industrial.  \nUsed for manufacturing, energy, processing — not for offices (that’s văn phòng).",
+  "exampleSentences": [
+    "Anh trai em làm việc ở một nhà máy sản xuất xe hơi lớn.",
+    "Buổi sáng, chị thường đi qua nhà máy trên đường đến trường.",
+    "Nhiều người trong làng em kiếm việc làm tại nhà máy gần đó."
+  ],
+  "updatedAt": "2026-03-03T09:55:51.546Z",
+  "_id": "eLwxFRSw5TLz01Fp5XJz"
+}

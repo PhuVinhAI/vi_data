@@ -1,0 +1,99 @@
+{
+  "definition": "mind",
+  "flashcard": {
+    "definitions": {
+      "es": "La capacidad de pensar, entender y aprender; inteligencia.",
+      "vi": "Khả năng suy nghĩ, hiểu và học hỏi; trí thông minh.",
+      "en": "The ability to think, understand, and learn; intelligence."
+    },
+    "example": {
+      "en": "She has exceptional intelligence.",
+      "vi": "Cô ấy có trí thông minh vượt trội.",
+      "es": "Ella tiene una inteligencia excepcional."
+    },
+    "translations": {
+      "en": "intelligence",
+      "es": "inteligencia",
+      "vi": "trí"
+    },
+    "createdAt": "2025-01-28T13:55:00.406Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d05bb56b-d184-4ada-9750-d0ab646dc574",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:16.332Z",
+    "content": {
+      "word": "trí",
+      "language": "vi",
+      "sentence": "Tôi cần nâng cao ___ của mình.",
+      "choices": [],
+      "answer": "trí",
+      "translation": {
+        "en": "I need to enhance my intellect."
+      },
+      "translatedAnswer": {
+        "en": "intellect"
+      }
+    },
+    "updatedAt": "2025-03-12T15:16:16.332Z"
+  },
+  "exampleSentencesTranslated": [
+    "He always tries to train his mind every day by reading books.",
+    "She believes that mind is very important in solving difficult problems.",
+    "I like games that help develop mind and creativity."
+  ],
+  "updatedAt": "2026-03-03T10:29:39.370Z",
+  "exampleSentences": [
+    "Anh luôn cố gắng rèn luyện trí mỗi ngày bằng cách đọc sách.",
+    "Chị tin rằng trí rất quan trọng trong việc giải quyết vấn đề khó.",
+    "Em thích các trò chơi giúp phát triển trí và sự sáng tạo."
+  ],
+  "notes": "trí = mind, intellect — your ability to think, understand, remember, and reason.\n\nIt’s a noun and usually appears in set combinations rather than standing alone. Very common pairs: trí tuệ (intelligence), trí nhớ (memory), lý trí (reason, rational mind). It’s an abstract noun, so you don’t use classifiers with it.  \n\nClose words: đầu óc (more casual, “brain/mind”), tâm trí (mind with more emotional nuance).",
+  "notes_md": "**trí** = mind, intellect — your ability to think, understand, remember, and reason.\n\nIt’s a noun and usually appears in set combinations rather than standing alone. Very common pairs: **trí tuệ** (intelligence), **trí nhớ** (memory), **lý trí** (reason, rational mind). It’s an abstract noun, so you don’t use classifiers with it.  \n\nClose words: **đầu óc** (more casual, “brain/mind”), **tâm trí** (mind with more emotional nuance).",
+  "choices": [
+    "trí",
+    "tim",
+    "mắt"
+  ],
+  "rank": 2379,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:16:16.332Z",
+    "content": {
+      "choices": [
+        "trí",
+        "nhân cách",
+        "tình cảm"
+      ],
+      "word": "trí",
+      "language": "vi",
+      "sentence": "Cô ấy có một ___ thông minh.",
+      "translation": {
+        "en": "She has a smart intellect."
+      },
+      "translatedAnswer": {
+        "en": "intellect"
+      },
+      "hint": "t__",
+      "answer": "trí"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:16:16.332Z",
+    "id": "522ad33c-bb16-4757-b921-890fcacc0758",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "trí",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "bHghB30EAmojGatto9ai"
+}

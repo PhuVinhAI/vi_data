@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "nhà",
+      "es": "casa",
+      "en": "house"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:14:01.294Z",
+    "definitions": {
+      "en": "A building for human habitation.",
+      "es": "Un edificio para la habitación humana.",
+      "vi": "Một tòa nhà để ở."
+    },
+    "example": {
+      "vi": "Nhà của tôi rất đẹp.",
+      "es": "Mi casa es muy bonita.",
+      "en": "My house is very beautiful."
+    }
+  },
+  "definition": "house",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:34:49.604Z",
+    "type": "fillBlankQuiz",
+    "id": "4328f71c-9a26-4f2d-9bd3-a0177fd3e203",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:34:49.604Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "home"
+      },
+      "translation": {
+        "en": "I will go home now."
+      },
+      "answer": "nha",
+      "choices": [],
+      "sentence": "Tôi về ___ ngay bây giờ.",
+      "language": "vi",
+      "word": "nha"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I will come back to the house at six o'clock this evening.",
+    "Do you want to come to my house this weekend?",
+    "My parents are renovating the house to celebrate Tet."
+  ],
+  "exampleSentences": [
+    "Em sẽ về nha lúc sáu giờ tối nay.",
+    "Anh có muốn đến nha của chị chơi cuối tuần này không?",
+    "Ba mẹ đang sửa lại nha để đón Tết."
+  ],
+  "updatedAt": "2026-03-03T06:47:17.524Z",
+  "notes": "nha is a sentence‑ending particle that makes your tone softer, friendlier, or a bit persuasive. It’s like saying “okay?”, “please?”, or adding a gentle vibe.\n\nIt comes at the end of a sentence to soften requests, suggestions, or confirmations.  \n\nIt doesn’t change the core meaning, just the feeling — more warm and casual.\n\nIn the North, people often say “nhé” instead of nha.  \nDon’t confuse it with “nhà” (with a falling tone), which means house/home.",
+  "rank": 261,
+  "choices": [
+    "nha",
+    "bàn",
+    "trường"
+  ],
+  "notes_md": "**nha** is a sentence‑ending particle that makes your tone softer, friendlier, or a bit persuasive. It’s like saying “okay?”, “please?”, or adding a gentle vibe.\n\nIt comes at the **end of a sentence** to soften requests, suggestions, or confirmations.  \n\nIt doesn’t change the core meaning, just the feeling — more warm and casual.\n\nIn the North, people often say **“nhé”** instead of *nha*.  \nDon’t confuse it with **“nhà”** (with a falling tone), which means *house/home*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "998d15f0-32e8-468a-b237-c7de99ea7b2e",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:34:49.604Z",
+    "content": {
+      "choices": [
+        "nha",
+        "nhas",
+        "NHA"
+      ],
+      "sentence": "Tôi về ___ ngay bây giờ.",
+      "language": "vi",
+      "word": "nha",
+      "translatedAnswer": {
+        "en": "home"
+      },
+      "translation": {
+        "en": "I will go home now."
+      },
+      "answer": "nha",
+      "hint": "n___a"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:34:49.604Z"
+  },
+  "word": "nha",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "C0mxp65LNyKSW7yVcySL"
+}

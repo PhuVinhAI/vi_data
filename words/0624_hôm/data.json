@@ -1,0 +1,99 @@
+{
+  "word": "hôm",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hôm",
+    "giờ",
+    "năm"
+  ],
+  "rank": 624,
+  "notes_md": "**hôm** means “day,” but it’s mostly used to point to a specific day around now (like today, yesterday, etc.). You rarely use *hôm* alone — it almost always comes with another word.\n\nIt’s a noun, but it doesn’t take classifiers and doesn’t stand by itself. It combines with time words to anchor a day relative to the present.\n\n\nCompare with **ngày**: *ngày* is more general (a day in general, dates, duration), while *hôm* feels more specific and tied to a particular occasion or recent time.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "5a753c53-752a-47aa-bce5-0c11d00c3b83",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:40:08.695Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "today"
+      },
+      "translation": {
+        "en": "Today the weather is nice."
+      },
+      "hint": "h___m",
+      "answer": "hôm",
+      "choices": [
+        "hôm",
+        "hôms",
+        "HÔM"
+      ],
+      "language": "vi",
+      "sentence": "Hôm ___ trời đẹp.",
+      "word": "hôm"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:40:08.695Z"
+  },
+  "exampleSentences": [
+    "Hôm nay anh có kế hoạch đi ăn tối với bạn bè.",
+    "Em nhớ hôm sinh nhật của chị rất vui và ấm áp.",
+    "Chúng ta sẽ gặp nhau vào hôm cuối tuần này nhé?"
+  ],
+  "updatedAt": "2026-03-03T07:24:30.199Z",
+  "notes": "hôm means “day,” but it’s mostly used to point to a specific day around now (like today, yesterday, etc.). You rarely use hôm alone — it almost always comes with another word.\n\nIt’s a noun, but it doesn’t take classifiers and doesn’t stand by itself. It combines with time words to anchor a day relative to the present.\n\nCompare with ngày: ngày is more general (a day in general, dates, duration), while hôm feels more specific and tied to a particular occasion or recent time.",
+  "definition": "day",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:13:41.456Z",
+    "translations": {
+      "en": "today",
+      "es": "hoy",
+      "vi": "hôm"
+    },
+    "example": {
+      "es": "Hoy el clima es agradable.",
+      "vi": "Hôm nay trời đẹp.",
+      "en": "Today the weather is nice."
+    },
+    "definitions": {
+      "en": "The word 'hôm' means 'day' or 'today' in Vietnamese.",
+      "es": "La palabra 'hôm' significa 'día' o 'hoy' en vietnamita.",
+      "vi": "Từ 'hôm' có nghĩa là 'ngày' hoặc 'hôm nay' trong tiếng Việt."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Today I have plans to have dinner with friends on this day.",
+    "I remember the day of your birthday was very happy and warm.",
+    "Shall we meet on the day this weekend?"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:40:08.695Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "hôm",
+      "language": "vi",
+      "sentence": "Hôm ___ trời đẹp.",
+      "translation": {
+        "en": "Today the weather is nice."
+      },
+      "translatedAnswer": {
+        "en": "today"
+      },
+      "answer": "hôm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:40:08.695Z",
+    "id": "f48473ed-737d-4752-8185-4f01d6c8d5a7"
+  },
+  "_id": "hBrYsl1G4ewvzYuNVinW"
+}

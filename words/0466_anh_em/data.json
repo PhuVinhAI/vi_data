@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "anh em",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Họ là ___ của tôi.",
+      "language": "vi",
+      "word": "anh em",
+      "choices": [
+        "bạn bè",
+        "anh em",
+        "hàng xóm"
+      ],
+      "answer": "anh em",
+      "hint": "a___m",
+      "translatedAnswer": {
+        "en": "brothers"
+      },
+      "translation": {
+        "en": "They are my brothers."
+      }
+    },
+    "createdAt": "2025-03-12T15:28:47.646Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "aa1fe1fc-3b0f-42df-a213-95a078441e66",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:28:47.646Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 466,
+  "choices": [
+    "chị em",
+    "anh em",
+    "bạn bè"
+  ],
+  "notes_md": "**Anh em** means *brothers* (from the same family). It usually refers to male siblings together as a pair or group.\n\nIt’s a plural noun by nature — you don’t say *một anh em*. For one person, say **anh trai** (older brother) or **em trai** (younger brother).  \n\nIt can also mean *siblings* in general, but it feels male-focused unless context includes sisters.  \n\nVery commonly, **anh em** is used casually for close male friends — like “brothers” in English.  \n\nStrong connection: **anh** = older brother, **em** = younger sibling (or someone younger than you in general).",
+  "notes": "Anh em means brothers (from the same family). It usually refers to male siblings together as a pair or group.\n\nIt’s a plural noun by nature — you don’t say một anh em. For one person, say anh trai (older brother) or em trai (younger brother).  \n\nIt can also mean siblings in general, but it feels male-focused unless context includes sisters.  \n\nVery commonly, anh em is used casually for close male friends — like “brothers” in English.  \n\nStrong connection: anh = older brother, em = younger sibling (or someone younger than you in general).",
+  "exampleSentences": [
+    "Anh em thường giúp đỡ nhau khi gặp khó khăn trong cuộc sống.",
+    "Mỗi dịp lễ Tết, anh em lại tụ họp về nhà ăn cơm cùng gia đình.",
+    "Dù có cãi nhau, anh em vẫn luôn quan tâm và bảo vệ lẫn nhau."
+  ],
+  "updatedAt": "2026-03-03T07:09:03.906Z",
+  "exampleSentencesTranslated": [
+    "Brothers often help each other when facing difficulties in life.",
+    "On every holiday, brothers gather at home to have a meal with the family.",
+    "Even if they argue, brothers always care for and protect each other."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b84d77a4-37f0-4daf-b8f4-abf64869acdd",
+    "content": {
+      "answer": "anh em",
+      "translatedAnswer": {
+        "en": "brother"
+      },
+      "translation": {
+        "en": "I have a very close brother."
+      },
+      "sentence": "Tôi có một người ___ rất thân.",
+      "language": "vi",
+      "word": "anh em",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:28:47.646Z",
+    "updatedAt": "2025-03-12T15:28:47.646Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "My siblings are very close.",
+      "vi": "Anh em tôi rất thân thiết.",
+      "es": "Mis hermanos son muy cercanos."
+    },
+    "definitions": {
+      "vi": "Thuật ngữ dùng để chỉ anh chị em.",
+      "es": "Un término utilizado para referirse a hermanos o hermanos.",
+      "en": "A term used to refer to siblings or brothers."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:03:26.392Z",
+    "translations": {
+      "es": "hermanos",
+      "vi": "anh em",
+      "en": "siblings"
+    }
+  },
+  "definition": "brothers",
+  "_id": "eXfvRYHLS7SItv4axCfP"
+}

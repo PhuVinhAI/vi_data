@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-05-24T16:21:27.124Z",
+    "translations": {
+      "en": "oh my god"
+    },
+    "definitions": {
+      "en": "An exclamation used to express surprise, disappointment, or concern.",
+      "vi": "Câu cảm thán dùng để bày tỏ sự ngạc nhiên, thất vọng, hoặc lo lắng."
+    },
+    "word": "trời ơi",
+    "example": {
+      "en": "Oh my god, I forgot to bring the keys!",
+      "vi": "Trời ơi, tôi quên mang chìa khóa rồi!"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Trời ơi, em quên mang chìa khóa ở nhà rồi!",
+    "Trời ơi, sao anh lại làm mất điện thoại nữa vậy?",
+    "Trời ơi, hôm nay trời nóng quá nên chị không muốn ra ngoài."
+  ],
+  "rank": 1630,
+  "definition": "oh my god",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:20:30.894Z",
+    "createdAt": "2025-03-12T14:20:30.894Z",
+    "id": "55285e03-56f1-4451-823c-7ac8a71689c1",
+    "content": {
+      "answer": "trời ơi",
+      "translatedAnswer": {
+        "en": "shocked"
+      },
+      "sentence": "Bạn có ___ khi nghe tin này không?",
+      "word": "trời ơi",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "Are you shocked when hearing this news?"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Trời ơi means “oh my God!” or “oh my gosh!” It shows strong emotion — surprise, shock, frustration, excitement, even admiration.\n\nIt’s an exclamation, so you just say it at the beginning (or sometimes end) of a sentence to react to something. No grammar changes needed.\n\nLiterally, trời = “sky/heaven,” and ơi is a calling particle, like calling out to the sky.\n\nVery close to “Ôi!” (shorter, lighter) and similar in feeling to English “OMG!” but can be used for both good and bad surprises.",
+  "exampleSentencesTranslated": [
+    "Oh my god, I forgot to bring my keys from home!",
+    "Oh my god, why did you lose your phone again?",
+    "Oh my god, it’s so hot today that I don’t want to go outside."
+  ],
+  "choices": [
+    "trời ơi",
+    "cảm ơn",
+    "xin lỗi"
+  ],
+  "updatedAt": "2026-03-03T09:10:22.542Z",
+  "notes_md": "**Trời ơi** means “oh my God!” or “oh my gosh!” It shows strong emotion — surprise, shock, frustration, excitement, even admiration.\n\nIt’s an exclamation, so you just say it at the beginning (or sometimes end) of a sentence to react to something. No grammar changes needed.\n\nLiterally, *trời* = “sky/heaven,” and *ơi* is a calling particle, like calling out to the sky.\n\nVery close to **“Ôi!”** (shorter, lighter) and similar in feeling to English “OMG!” but can be used for both good and bad surprises.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:20:30.894Z",
+    "createdAt": "2025-03-12T14:20:30.894Z",
+    "id": "255bd853-709a-4eab-93d6-db498efcf973",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy đã nói rằng ___ không thể xảy ra.",
+      "hint": "t___ ơi",
+      "word": "trời ơi",
+      "language": "vi",
+      "choices": [
+        "không thể",
+        "trời ơi",
+        "không đâu"
+      ],
+      "translation": {
+        "en": "She said that it cannot happen."
+      },
+      "answer": "trời ơi",
+      "translatedAnswer": {
+        "en": "cannot happen"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "trời ơi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "NDPNc4ohIvIt6grsIlAk"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:29:59.710Z",
+    "definitions": {
+      "en": "To press or to push something, typically a button.",
+      "es": "Presionar o empujar algo, típicamente un botón.",
+      "vi": "Nhấn hoặc đẩy một cái gì đó, thường là một nút."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "press",
+      "es": "presionar",
+      "vi": "bấm"
+    },
+    "example": {
+      "en": "Press the button to open the door.",
+      "es": "Presiona el botón para abrir la puerta.",
+      "vi": "Bấm nút để mở cửa."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:52:38.377Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:56:53.279Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "press"
+      },
+      "translation": {
+        "en": "You need to press this button."
+      },
+      "sentence": "Bạn có ___ vào nút này.",
+      "language": "vi",
+      "word": "bấm",
+      "answer": "bấm"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:56:53.279Z",
+    "id": "90436ca8-c0df-4452-b582-bf9a02067c56"
+  },
+  "exampleSentencesTranslated": [
+    "Remember to press the green button when you want to open the door.",
+    "Can you press this phone number for me?",
+    "If you want to stop, you just need to press here."
+  ],
+  "definition": "press",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**bấm** = to press something with your finger. Usually for buttons, screens, keypads.\n\nYou use it with small devices: **bấm nút, bấm chuông, bấm số, bấm màn hình**. It often implies a quick, light press.\n\n\nIt can also mean **dial** (a phone number) or **click/tap** on a screen. Related word: **nhấn** (more general “press,” slightly more neutral/formal).",
+  "rank": 2027,
+  "choices": [
+    "bấm",
+    "gõ",
+    "xoay"
+  ],
+  "notes": "bấm = to press something with your finger. Usually for buttons, screens, keypads.\n\nYou use it with small devices: bấm nút, bấm chuông, bấm số, bấm màn hình. It often implies a quick, light press.\n\nIt can also mean dial (a phone number) or click/tap on a screen. Related word: nhấn (more general “press,” slightly more neutral/formal).",
+  "exampleSentences": [
+    "Anh nhớ bấm nút màu xanh khi muốn mở cửa nhé.",
+    "Em có thể bấm số điện thoại này giúp chị không?",
+    "Nếu muốn dừng lại, chị chỉ cần bấm vào đây thôi."
+  ],
+  "word": "bấm",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Bạn có ___ vào nút này.",
+      "word": "bấm",
+      "language": "vi",
+      "hint": "b___",
+      "answer": "bấm",
+      "translatedAnswer": {
+        "en": "press"
+      },
+      "choices": [
+        "nhấn",
+        "bấm",
+        "điều chỉnh"
+      ],
+      "translation": {
+        "en": "You need to press this button."
+      }
+    },
+    "updatedAt": "2025-03-12T14:56:53.279Z",
+    "createdAt": "2025-03-12T14:56:53.279Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "0f216ae1-71d4-4bbc-83df-213f0af94b57"
+  },
+  "_id": "W0l1sWOctzXtGKQSla1O"
+}

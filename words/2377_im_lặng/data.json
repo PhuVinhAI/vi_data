@@ -1,0 +1,99 @@
+{
+  "rank": 2377,
+  "exampleSentences": [
+    "Anh thường cảm thấy thoải mái khi ngồi im lặng đọc sách ở nhà.",
+    "Khi thầy giáo bước vào lớp, mọi người đều im lặng nghe giảng.",
+    "Chị ấy chọn im lặng thay vì tranh cãi với đồng nghiệp."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "En la clase, todos están en silencio.",
+      "vi": "Trong lớp học, mọi người đều im lặng.",
+      "en": "In the classroom, everyone is silent."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:39:40.616Z",
+    "definitions": {
+      "es": "El estado de estar en silencio o no hacer ruido.",
+      "vi": "Trạng thái không phát ra âm thanh hoặc không gây ồn ào.",
+      "en": "The state of being quiet or not making noise."
+    },
+    "translations": {
+      "es": "silencio",
+      "vi": "im lặng",
+      "en": "silent"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "im lặng",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Họ yêu cầu mọi người ___ trong phòng họp.",
+      "hint": "i___n",
+      "word": "im lặng",
+      "choices": [
+        "im lặng",
+        "nói chuyện",
+        "cười đùa"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "They asked everyone to be silent in the meeting room."
+      },
+      "answer": "im lặng",
+      "translatedAnswer": {
+        "en": "silent"
+      }
+    },
+    "id": "eab0e926-50d7-405e-88a7-9a012ed10543",
+    "createdAt": "2025-03-12T14:01:47.439Z",
+    "updatedAt": "2025-03-12T14:01:47.439Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**im lặng** means *silent* or *quiet*. It describes a person or place with no talking or noise.\n\nIt works like an adjective or a verb in Vietnamese, so you can say someone **im lặng** (is silent) without “to be.” It’s often used for people staying quiet in a situation, especially on purpose.\n\nCommon pairings: **giữ im lặng** (keep silent), **sự im lặng** (the silence – noun form).  \n\nClose opposite: **ồn ào** (noisy), which helps you remember the contrast.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "im lặng means silent or quiet. It describes a person or place with no talking or noise.\n\nIt works like an adjective or a verb in Vietnamese, so you can say someone im lặng (is silent) without “to be.” It’s often used for people staying quiet in a situation, especially on purpose.\n\nCommon pairings: giữ im lặng (keep silent), sự im lặng (the silence – noun form).  \n\nClose opposite: ồn ào (noisy), which helps you remember the contrast.",
+  "exampleSentencesTranslated": [
+    "He often feels comfortable when he sits silent reading books at home.",
+    "When the teacher entered the classroom, everyone was silent listening to the lecture.",
+    "She chose to be silent instead of arguing with her colleague."
+  ],
+  "updatedAt": "2026-03-03T10:29:25.514Z",
+  "choices": [
+    "ồn ào",
+    "im lặng",
+    "vui vẻ"
+  ],
+  "definition": "silent",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:01:47.439Z",
+    "updatedAt": "2025-03-12T14:01:47.439Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "silent"
+      },
+      "answer": "im lặng",
+      "word": "im lặng",
+      "sentence": "Chúng ta cần ___ trong thư viện.",
+      "translation": {
+        "en": "We need to be silent in the library."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "d03aff9a-c527-4bd8-acbb-6695d8aaf85f"
+  },
+  "_id": "J7biMUxFshTzxA2v2zwr"
+}

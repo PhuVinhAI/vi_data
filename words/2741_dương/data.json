@@ -1,0 +1,99 @@
+{
+  "word": "dương",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**dương** means *yang* — the “active, bright, hot, masculine” side in the yin–yang concept. It’s a noun and usually appears in the fixed pair **âm dương**.\n\nIt also very commonly means **positive** (in math or test results).  \n\nOpposite: **âm** (yin / negative).  \nSo think: *dương = bright, positive side* — in philosophy, numbers, and medical results.",
+  "choices": [
+    "âm",
+    "dương",
+    "thủy"
+  ],
+  "rank": 2741,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "962e5bf4-411d-4980-9fd1-6f5c826f6665",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:20:15.406Z",
+    "content": {
+      "word": "dương",
+      "sentence": "Mặt trời ___ lên từ phía đông.",
+      "language": "vi",
+      "choices": [
+        "trăng",
+        "sao",
+        "dương"
+      ],
+      "hint": "d____g",
+      "answer": "dương",
+      "translation": {
+        "en": "The sun rises from the east."
+      },
+      "translatedAnswer": {
+        "en": "sun"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:20:15.406Z"
+  },
+  "updatedAt": "2026-03-03T11:42:16.941Z",
+  "exampleSentences": [
+    "Trong triết học phương Đông, dương tượng trưng cho mặt trời và ánh sáng.",
+    "Âm và dương luôn cân bằng để tạo ra sự hài hòa trong vũ trụ.",
+    "Bác sĩ giải thích cho anh về sự khác biệt giữa âm và dương trong cơ thể."
+  ],
+  "notes": "dương means yang — the “active, bright, hot, masculine” side in the yin–yang concept. It’s a noun and usually appears in the fixed pair âm dương.\n\nIt also very commonly means positive (in math or test results).  \n\nOpposite: âm (yin / negative).  \nSo think: dương = bright, positive side — in philosophy, numbers, and medical results.",
+  "definition": "yang",
+  "flashcard": {
+    "definitions": {
+      "es": "Refiriéndose a la dirección positiva o hacia arriba, a menudo asociada con la luz o el brillo.",
+      "vi": "Chỉ hướng tích cực hoặc hướng lên, thường liên quan đến ánh sáng hoặc sự sáng sủa.",
+      "en": "Referring to the positive or upward direction, often associated with light or brightness."
+    },
+    "example": {
+      "vi": "Ánh sáng mặt trời chiếu dương lên mặt đất.",
+      "es": "La luz del sol brilla sobre el suelo.",
+      "en": "The sunlight shines down on the ground."
+    },
+    "translations": {
+      "es": "yang",
+      "vi": "dương",
+      "en": "yang"
+    },
+    "createdAt": "2025-01-28T11:00:39.542Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "In Eastern philosophy, yang symbolizes the sun and light.",
+    "Yin and yang are always balanced to create harmony in the universe.",
+    "The doctor explained to me the difference between yin and yang in the body."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "38411945-8cd9-4cd8-b455-8c589792093c",
+    "createdAt": "2025-03-12T13:20:15.406Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "dương",
+      "sentence": "Mặt trời ___ lên từ phía đông.",
+      "language": "vi",
+      "translation": {
+        "en": "The sun rises from the east."
+      },
+      "translatedAnswer": {
+        "en": "sun"
+      },
+      "answer": "dương"
+    },
+    "updatedAt": "2025-03-12T13:20:15.406Z"
+  },
+  "_id": "8NeZaBXoluw5Lg4odhoq"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "Một trạng thái căng thẳng hoặc áp lực về tinh thần hoặc cảm xúc.",
+      "es": "Un estado de tensión o estrés mental o emocional.",
+      "en": "A state of mental or emotional strain or tension."
+    },
+    "example": {
+      "es": "Me siento estresado antes del examen.",
+      "vi": "Tôi cảm thấy căng thẳng trước kỳ thi.",
+      "en": "I feel stressed before the exam."
+    },
+    "translations": {
+      "vi": "căng thẳng",
+      "es": "estresado",
+      "en": "stressed"
+    },
+    "createdAt": "2025-01-28T11:07:22.228Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "stress",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:26:58.769Z",
+    "id": "ff3175c1-6a0b-4617-a84f-22f8e52cf084",
+    "content": {
+      "sentence": "Cô ấy luôn cảm thấy ___ khi làm việc.",
+      "language": "vi",
+      "word": "căng thẳng",
+      "choices": [],
+      "answer": "căng thẳng",
+      "translatedAnswer": {
+        "en": "stressed"
+      },
+      "translation": {
+        "en": "She always feels stressed when working."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:26:58.769Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Lately, I have a lot of work so I feel stress.",
+    "When preparing for exams, I often have stress and worry.",
+    "She goes to yoga every week to reduce stress in her life."
+  ],
+  "exampleSentences": [
+    "Dạo này công việc của anh rất nhiều nên anh cảm thấy căng thẳng.",
+    "Khi chuẩn bị cho kỳ thi, em thường bị căng thẳng và lo lắng.",
+    "Chị ấy đi tập yoga mỗi tuần để giảm căng thẳng trong cuộc sống."
+  ],
+  "updatedAt": "2026-03-03T09:23:12.908Z",
+  "notes": "Căng thẳng means stressed or tense. It describes a feeling of mental pressure or emotional strain.\n\nIt’s an adjective, so it goes after a linking verb like cảm thấy, trở nên, làm ai đó... You use it for people, situations, relationships, work, exams, etc. It can also describe atmosphere: không khí căng thẳng (a tense atmosphere).\n\nYou’ll often hear it with verbs like bị, cảm thấy, gây, giảm (bị căng thẳng, gây căng thẳng).\n\nClose synonym: áp lực (pressure — more about external pressure than the feeling itself). Opposite: thoải mái, thư giãn (relaxed).",
+  "rank": 1750,
+  "choices": [
+    "lo lắng",
+    "căng thẳng",
+    "mệt mỏi"
+  ],
+  "notes_md": "**Căng thẳng** means *stressed* or *tense*. It describes a feeling of mental pressure or emotional strain.\n\nIt’s an **adjective**, so it goes after a linking verb like *cảm thấy*, *trở nên*, *làm ai đó...* You use it for people, situations, relationships, work, exams, etc. It can also describe atmosphere: *không khí căng thẳng* (a tense atmosphere).\n\nYou’ll often hear it with verbs like *bị*, *cảm thấy*, *gây*, *giảm* (bị căng thẳng, gây căng thẳng).\n\nClose synonym: *áp lực* (pressure — more about external pressure than the feeling itself). Opposite: *thoải mái*, *thư giãn* (relaxed).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:26:58.769Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:26:58.769Z",
+    "content": {
+      "sentence": "Cuộc thi này khiến tôi rất ___.",
+      "language": "vi",
+      "word": "căng thẳng",
+      "choices": [
+        "căng thẳng",
+        "vui vẻ",
+        "bình tĩnh"
+      ],
+      "hint": "c___ thẳng",
+      "answer": "căng thẳng",
+      "translatedAnswer": {
+        "en": "stressed"
+      },
+      "translation": {
+        "en": "This competition makes me very stressed."
+      }
+    },
+    "id": "8fa3ae11-9e69-478b-ae38-2915b83c55bd",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "căng thẳng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "AB3zXndVzLQZCXY4ziCU"
+}

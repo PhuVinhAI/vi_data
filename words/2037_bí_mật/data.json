@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you keep a secret if I tell you?",
+    "She told me an important secret about work.",
+    "I always feel happy when sharing a secret with my close friend."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:31:46.438Z",
+    "id": "c3ada8b4-1678-4458-add4-ae769e27314c",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:31:46.438Z",
+    "content": {
+      "answer": "bí mật",
+      "translatedAnswer": {
+        "en": "secret"
+      },
+      "translation": {
+        "en": "She has an interesting secret."
+      },
+      "sentence": "Cô ấy có một ___ thú vị.",
+      "language": "vi",
+      "word": "bí mật",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Đây là một bí mật giữa chúng ta.",
+      "es": "Este es un secreto entre nosotros.",
+      "en": "This is a secret between us."
+    },
+    "definitions": {
+      "en": "A piece of information that is kept hidden from others.",
+      "vi": "Một thông tin được giữ kín với người khác.",
+      "es": "Una información que se mantiene oculta de los demás."
+    },
+    "createdAt": "2025-01-28T13:06:45.266Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "secret",
+      "vi": "bí mật",
+      "es": "secreto"
+    }
+  },
+  "definition": "secret",
+  "notes": "bí mật means secret — something hidden that not everyone knows.\n\nIt’s a noun. You say một bí mật, nhiều bí mật. Common verbs: giữ bí mật (keep a secret), tiết lộ bí mật (reveal a secret), bật mí bí mật (spill the secret).  \n\nIt can describe personal things, love life, family matters, or bigger stuff like bí mật quốc gia (state secrets).  \n\nClose words: bí ẩn = mysterious (more about something hard to understand), not the same as a secret. Opposite idea: công khai (public, open).",
+  "updatedAt": "2026-03-03T09:53:38.496Z",
+  "exampleSentences": [
+    "Anh có thể giữ bí mật nếu em kể cho anh nghe không?",
+    "Chị ấy nói với em một bí mật rất quan trọng về công việc.",
+    "Em luôn cảm thấy vui khi được chia sẻ bí mật với bạn thân."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:31:46.438Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "secret"
+      },
+      "translation": {
+        "en": "They are keeping a big secret."
+      },
+      "hint": "b____t",
+      "answer": "bí mật",
+      "choices": [
+        "khó khăn",
+        "bí mật",
+        "giải pháp"
+      ],
+      "sentence": "Họ đang giữ một ___ lớn.",
+      "language": "vi",
+      "word": "bí mật"
+    },
+    "id": "c122e4c3-37d0-41f3-8984-5957cf88f0fa",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:31:46.438Z"
+  },
+  "notes_md": "**bí mật** means *secret* — something hidden that not everyone knows.\n\nIt’s a **noun**. You say *một bí mật*, *nhiều bí mật*. Common verbs: *giữ bí mật* (keep a secret), *tiết lộ bí mật* (reveal a secret), *bật mí bí mật* (spill the secret).  \n\nIt can describe personal things, love life, family matters, or bigger stuff like *bí mật quốc gia* (state secrets).  \n\nClose words: *bí ẩn* = mysterious (more about something hard to understand), not the same as a secret. Opposite idea: *công khai* (public, open).",
+  "rank": 2037,
+  "choices": [
+    "bí mật",
+    "tin tức",
+    "thông báo"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "bí mật",
+  "_id": "fIL1xeTOCt2o93yqLW6t"
+}

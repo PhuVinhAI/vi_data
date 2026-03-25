@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I am looking for the author of this book."
+      },
+      "word": "tác giả",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "author"
+      },
+      "answer": "tác giả",
+      "sentence": "Tôi đang tìm ___ của cuốn sách này.",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "5a3db201-083d-493e-9cf1-370b751119c0",
+    "createdAt": "2025-03-12T15:51:36.145Z",
+    "updatedAt": "2025-03-12T15:51:36.145Z"
+  },
+  "choices": [
+    "tác giả",
+    "độc giả",
+    "biên tập"
+  ],
+  "exampleSentences": [
+    "Em rất thích đọc sách của tác giả nổi tiếng này.",
+    "Anh có biết tác giả của bài hát đó là ai không?",
+    "Tác giả sẽ tham gia buổi ký tặng sách vào cuối tuần này."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Tác giả means author — the person who creates a book, article, poem, song, etc.\n\nIt’s a noun. You can say một tác giả / hai tác giả when counting. Very often followed by của + work to show what they wrote.\n\nClose synonym: nhà văn (writer), but nhà văn usually focuses on literary writers, while tác giả is broader (books, songs, scripts, research).",
+  "definition": "author",
+  "rank": 1632,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "09adaf13-719f-43e0-934d-47f26596bedb",
+    "content": {
+      "translation": {
+        "en": "I am looking for the author of this book."
+      },
+      "word": "tác giả",
+      "language": "vi",
+      "sentence": "Tôi đang tìm ___ của cuốn sách này.",
+      "choices": [
+        "nhà xuất bản",
+        "tác giả",
+        "độc giả"
+      ],
+      "hint": "t___ giả",
+      "translatedAnswer": {
+        "en": "author"
+      },
+      "answer": "tác giả"
+    },
+    "updatedAt": "2025-03-12T15:51:36.145Z",
+    "createdAt": "2025-03-12T15:51:36.145Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Tác giả** means *author* — the person who creates a book, article, poem, song, etc.\n\nIt’s a noun. You can say **một tác giả / hai tác giả** when counting. Very often followed by **của + work** to show what they wrote.\n\n\nClose synonym: **nhà văn** (writer), but *nhà văn* usually focuses on literary writers, while *tác giả* is broader (books, songs, scripts, research).",
+  "exampleSentencesTranslated": [
+    "I really like reading books by this famous author.",
+    "Do you know who the author of that song is?",
+    "The author will attend the book signing event this weekend."
+  ],
+  "updatedAt": "2026-03-03T09:10:32.666Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "The author of this book is very famous.",
+      "es": "El autor de este libro es muy famoso.",
+      "vi": "Tác giả của cuốn sách này rất nổi tiếng."
+    },
+    "definitions": {
+      "en": "A person who writes a book, article, or other written work.",
+      "es": "Una persona que escribe un libro, artículo u otra obra escrita.",
+      "vi": "Một người viết sách, bài báo hoặc tác phẩm viết khác."
+    },
+    "createdAt": "2025-01-28T13:24:02.324Z",
+    "translations": {
+      "es": "autor",
+      "en": "author",
+      "vi": "tác giả"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "tác giả",
+  "_id": "k1uvaAo69Dizyw2ZZUl0"
+}

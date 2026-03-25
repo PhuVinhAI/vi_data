@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "Ơ",
+      "en": "Oh",
+      "es": "Oh"
+    },
+    "example": {
+      "en": "Oh, do you see this?",
+      "es": "Oh, ¿ves esto?",
+      "vi": "Ơ, bạn có thấy cái này không?"
+    },
+    "definitions": {
+      "es": "Una interjección utilizada para expresar sorpresa o para llamar la atención de alguien.",
+      "en": "An interjection used to express surprise or to get someone's attention.",
+      "vi": "Một từ cảm thán dùng để diễn tả sự ngạc nhiên hoặc để thu hút sự chú ý của ai đó."
+    },
+    "createdAt": "2025-01-28T13:31:13.423Z"
+  },
+  "word": "ơ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T18:16:07.925Z",
+  "exampleSentencesTranslated": [
+    "Uh, I forgot to reply to your message.",
+    "Uh, isn't this the shirt you picked?",
+    "Uh, why has everyone already left?"
+  ],
+  "notes_md": "**ơ** = “uh?”, “oh?”, “huh?” — a quick sound you make when you’re surprised, confused, or just noticed something.\n\nIt’s an interjection, usually at the beginning of a sentence, followed by a comma. It shows sudden realization, mild confusion, or “wait, what?” energy. Tone matters: short and sharp = surprise; longer = confusion.\n\nIn the South, people often say **“ủa”** instead — same feeling, different sound.\n\nThink of it as the Vietnamese version of “Oh?” or “Huh?” when something doesn’t match your expectation.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:59:08.348Z",
+    "createdAt": "2025-03-12T15:59:08.348Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "80936362-433a-4650-bc22-151b0d3ee323",
+    "content": {
+      "word": "ơ",
+      "translation": {
+        "en": "Do you understand this?"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ hiểu bài này.",
+      "choices": [
+        "ơ",
+        "ơs",
+        "Ơ"
+      ],
+      "hint": "ơ___ơ",
+      "translatedAnswer": {
+        "en": "understand"
+      },
+      "answer": "ơ"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2954,
+  "definition": "uh",
+  "notes": "ơ = “uh?”, “oh?”, “huh?” — a quick sound you make when you’re surprised, confused, or just noticed something.\n\nIt’s an interjection, usually at the beginning of a sentence, followed by a comma. It shows sudden realization, mild confusion, or “wait, what?” energy. Tone matters: short and sharp = surprise; longer = confusion.\n\nIn the South, people often say “ủa” instead — same feeling, different sound.\n\nThink of it as the Vietnamese version of “Oh?” or “Huh?” when something doesn’t match your expectation.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Ơ, anh quên chưa trả lời tin nhắn của em rồi.",
+    "Ơ, đây không phải là chiếc áo mà chị đã chọn sao?",
+    "Ơ, tại sao mọi người lại đi về hết rồi nhỉ?"
+  ],
+  "choices": [
+    "ơ",
+    "ờ",
+    "ồ"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "ơ",
+      "translation": {
+        "en": "Do you understand this?"
+      },
+      "choices": [],
+      "sentence": "Bạn có ___ hiểu bài này.",
+      "translatedAnswer": {
+        "en": "understand"
+      },
+      "answer": "ơ"
+    },
+    "id": "80c40aa4-6f58-47a9-9a2a-1a38a7288259",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:59:08.348Z",
+    "updatedAt": "2025-03-12T15:59:08.348Z"
+  },
+  "_id": "ln6CmneFPrnQa2pS08ad"
+}

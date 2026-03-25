@@ -1,0 +1,104 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "e8186c63-a598-4d0a-aa61-44bfa57b0d9b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "work"
+      },
+      "answer": "việc",
+      "sentence": "Cô ấy đang làm ___ của mình.",
+      "choices": [
+        "việc",
+        "nhà",
+        "thời gian"
+      ],
+      "hint": "v___c",
+      "translation": {
+        "en": "She is doing her work."
+      },
+      "word": "việc",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:42:14.277Z",
+    "createdAt": "2025-03-12T15:42:14.277Z"
+  },
+  "sentenceBreakdowns": [
+    "Anh (he) + xong (finish) + việc (work) + sớm (early) + hôm nay (today)",
+    "Chị (she) + bắt đầu (start) + việc (work) + lúc (at) + tám (eight) + giờ (o'clock)",
+    "Em (I) + có (have) + việc (work) + hôm nay (today)"
+  ],
+  "notes_md": "**việc** = work, task, something you need to do. It’s a general noun for duties, jobs, or matters.\n\nUsually uncountable in feeling, but you can say **một việc** for a specific task. Very common pairings: **làm việc** (to work), **công việc** (job/work in general), **việc nhà** (housework), **việc làm** (employment).  \n\nYou’ll often hear **có việc** = to have something to take care of (often a reason you’re busy).  \n\n\nClose word: **chuyện** = “story/matter” (more about situations or talk), while **việc** feels more like a task or responsibility.",
+  "exampleSentencesTranslated": [
+    "He finishes work early today.",
+    "She starts work at eight o'clock.",
+    "I have work today."
+  ],
+  "updatedAt": "2026-03-03T06:09:45.513Z",
+  "word": "việc",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:15:24.758Z",
+    "definitions": {
+      "vi": "Một nhiệm vụ hoặc công việc cần phải hoàn thành.",
+      "en": "A task or job that needs to be done.",
+      "es": "Una tarea o trabajo que necesita ser realizado."
+    },
+    "example": {
+      "es": "Tengo mucho trabajo que hacer hoy.",
+      "en": "I have a lot of work to do today.",
+      "vi": "Tôi có nhiều việc phải làm hôm nay."
+    },
+    "translations": {
+      "vi": "việc",
+      "en": "work",
+      "es": "trabajo"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "viết",
+    "việc",
+    "viền"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:42:14.277Z",
+    "createdAt": "2025-03-12T15:42:14.277Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "dee070ee-f798-4264-ac9d-67edb97dbe3b",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi có rất nhiều ___ hôm nay.",
+      "answer": "việc",
+      "translatedAnswer": {
+        "en": "work"
+      },
+      "translation": {
+        "en": "I have a lot of work today."
+      },
+      "word": "việc",
+      "language": "vi"
+    }
+  },
+  "exampleSentences": [
+    "Anh xong việc sớm hôm nay.",
+    "Chị bắt đầu việc lúc tám giờ.",
+    "Em có việc hôm nay."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "việc = work, task, something you need to do. It’s a general noun for duties, jobs, or matters.\n\nUsually uncountable in feeling, but you can say một việc for a specific task. Very common pairings: làm việc (to work), công việc (job/work in general), việc nhà (housework), việc làm (employment).  \n\nYou’ll often hear có việc = to have something to take care of (often a reason you’re busy).  \n\nClose word: chuyện = “story/matter” (more about situations or talk), while việc feels more like a task or responsibility.",
+  "definition": "work",
+  "rank": 66,
+  "_id": "hloB4s2SEODxzwIKAuJA"
+}

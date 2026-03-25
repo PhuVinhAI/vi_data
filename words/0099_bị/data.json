@@ -1,0 +1,104 @@
+{
+  "rank": 99,
+  "sentenceBreakdowns": [
+    "Anh (you) + bị (get) + mất (lose) + điện thoại (phone)",
+    "Chị (you) + bị (get) + mất (lose) + tiền mặt (cash)",
+    "Em (I) + bị (get) + phạt (fine) + hai trăm nghìn (two hundred thousand)"
+  ],
+  "choices": [
+    "được",
+    "phải",
+    "bị"
+  ],
+  "notes_md": "**bị** is used to show something bad happens to someone — like “to suffer” or a negative passive “be …ed.” It often implies trouble, damage, or an unwanted result.\n\nIt goes before a verb to mark passive meaning, usually negative.  \n\nFor positive or lucky situations, Vietnamese uses **được** instead — this contrast is important.  \nThink of **bị** = bad outcome.",
+  "multiChoiceQuiz": {
+    "id": "3abd9b30-9c6f-4f6d-8a2e-fb134e3de144",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:34:11.955Z",
+    "content": {
+      "word": "bị",
+      "language": "vi",
+      "sentence": "Anh ấy ___ bẩn quần áo.",
+      "choices": [
+        "bị",
+        "được",
+        "có"
+      ],
+      "hint": "b__",
+      "answer": "bị",
+      "translation": {
+        "en": "He got his clothes dirty."
+      },
+      "translatedAnswer": {
+        "en": "got"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:34:11.955Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "bị",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi bị ốm hôm nay.",
+      "es": "Estoy enfermo hoy.",
+      "en": "I am sick today."
+    },
+    "definitions": {
+      "vi": "bị ảnh hưởng bởi điều gì đó, thường được sử dụng để chỉ việc ở trong một trạng thái hoặc tình huống tiêu cực.",
+      "es": "ser afectado por algo, a menudo utilizado para indicar estar en un estado o condición negativa.",
+      "en": "to be affected by something, often used to indicate being in a negative state or condition."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:08:39.913Z",
+    "translations": {
+      "en": "to be",
+      "es": "ser",
+      "vi": "bị"
+    }
+  },
+  "definition": "get",
+  "exampleSentencesTranslated": [
+    "You get your phone stolen.",
+    "You get your cash stolen.",
+    "I get fined two hundred thousand."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:34:11.955Z",
+    "id": "a4b99bf1-1603-4025-805d-9090812e1266",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:11.955Z",
+    "content": {
+      "answer": "bị",
+      "translation": {
+        "en": "She has a headache."
+      },
+      "translatedAnswer": {
+        "en": "has"
+      },
+      "word": "bị",
+      "language": "vi",
+      "sentence": "Cô ấy ___ đau đầu.",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentences": [
+    "Anh bị mất điện thoại.",
+    "Chị bị mất tiền mặt.",
+    "Em bị phạt hai trăm nghìn."
+  ],
+  "updatedAt": "2026-03-03T06:13:10.086Z",
+  "notes": "bị is used to show something bad happens to someone — like “to suffer” or a negative passive “be …ed.” It often implies trouble, damage, or an unwanted result.\n\nIt goes before a verb to mark passive meaning, usually negative.  \n\nFor positive or lucky situations, Vietnamese uses được instead — this contrast is important.  \nThink of bị = bad outcome.",
+  "_id": "fuF1phY71qZBEzuU4rpB"
+}

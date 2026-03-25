@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "dark",
+      "vi": "tối",
+      "es": "oscuro"
+    },
+    "createdAt": "2025-01-28T11:17:40.436Z",
+    "example": {
+      "es": "Esta noche lloverá.",
+      "vi": "Tối nay trời sẽ mưa.",
+      "en": "It will rain tonight."
+    },
+    "definitions": {
+      "vi": "Thời gian giữa lúc mặt trời lặn và mặt trời mọc khi trời tối.",
+      "es": "El período de tiempo entre el atardecer y el amanecer cuando está oscuro afuera.",
+      "en": "The period of time between sunset and sunrise when it is dark outside."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He usually goes for a walk with friends in the evening after work.",
+    "I will finish my homework before the evening.",
+    "She likes to have dinner with her family every evening."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "We will meet in the evening."
+      },
+      "answer": "tối",
+      "choices": [
+        "sáng",
+        "tối",
+        "trưa"
+      ],
+      "hint": "t__",
+      "sentence": "Chúng ta sẽ gặp nhau vào ___.",
+      "word": "tối",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "evening"
+      }
+    },
+    "createdAt": "2025-03-12T13:38:30.259Z",
+    "updatedAt": "2025-03-12T13:38:30.259Z",
+    "id": "32fe3981-75d1-40d5-bff7-37f058cf3588",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**tối** usually means **evening**. It can also mean **dark** (no light).\n\nAs a time noun, it often appears as **buổi tối** (the evening). You’ll also see it in fixed time phrases.  \n\nAs an adjective, it describes lack of light: **trời tối** (the sky is dark), **phòng tối** (a dark room).\n\nDon’t confuse it with **đêm** (night, later and deeper than evening). Opposite idea: **sáng** (bright / morning).",
+  "updatedAt": "2026-03-03T07:43:57.498Z",
+  "notes": "tối usually means evening. It can also mean dark (no light).\n\nAs a time noun, it often appears as buổi tối (the evening). You’ll also see it in fixed time phrases.  \n\nAs an adjective, it describes lack of light: trời tối (the sky is dark), phòng tối (a dark room).\n\nDon’t confuse it with đêm (night, later and deeper than evening). Opposite idea: sáng (bright / morning).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:38:30.259Z",
+    "createdAt": "2025-03-12T13:38:30.259Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I will go out this evening."
+      },
+      "answer": "tối",
+      "translatedAnswer": {
+        "en": "evening"
+      },
+      "sentence": "Tôi sẽ đi chơi ___ này.",
+      "word": "tối",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "426ad355-5160-4aae-91e5-8acabdb27092",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "evening",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 823,
+  "exampleSentences": [
+    "Anh thường đi dạo cùng bạn bè vào buổi tối sau giờ làm.",
+    "Em sẽ làm bài tập xong trước khi trời tối.",
+    "Chị thích ăn tối với gia đình vào mỗi buổi tối."
+  ],
+  "word": "tối",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tối",
+    "sáng",
+    "trưa"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "D9ONfy7UP1SaHqDHAPQu"
+}

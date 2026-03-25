@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "es": "Una ruta o curso de acción planificado.",
+      "en": "A planned route or course of action.",
+      "vi": "Một lộ trình hoặc kế hoạch hành động đã được lên kế hoạch."
+    },
+    "example": {
+      "vi": "Chúng ta cần xác định lộ trình cho chuyến đi này.",
+      "es": "Necesitamos determinar la ruta para este viaje.",
+      "en": "We need to determine the route for this trip."
+    },
+    "translations": {
+      "vi": "lộ trình",
+      "es": "ruta",
+      "en": "route"
+    },
+    "createdAt": "2025-01-28T14:15:47.629Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Lộ trình = route or planned path from A to B. It can be literal (travel) or more abstract like a roadmap/plan for something.\n\nIt’s a noun: một lộ trình, các lộ trình.  \nCommon pairings: lên lộ trình (set up a route/plan), theo lộ trình (follow the route), thay đổi lộ trình, lộ trình phát triển/cải cách (development/reform roadmap).\n\nIn real life it’s often physical (travel), but in work or business it often means a step‑by‑step plan over time.\n\nClose words: tuyến đường (more about the actual road/line), kế hoạch (general plan, less about path or sequence).",
+  "exampleSentencesTranslated": [
+    "Can you show me the route to the train station?",
+    "We should check the route before starting the trip.",
+    "Today I have to change the route because of a traffic problem."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lộ trình",
+  "choices": [
+    "lộ trình",
+    "thời gian",
+    "địa điểm"
+  ],
+  "exampleSentences": [
+    "Anh có thể chỉ cho em lộ trình đến nhà ga không?",
+    "Chúng ta nên kiểm tra lộ trình trước khi bắt đầu chuyến đi.",
+    "Hôm nay chị phải thay đổi lộ trình vì có sự cố giao thông."
+  ],
+  "updatedAt": "2026-03-03T10:34:17.977Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need a route for the trip."
+      },
+      "choices": [
+        "lịch trình",
+        "lộ trình",
+        "đường đi"
+      ],
+      "answer": "lộ trình",
+      "translatedAnswer": {
+        "en": "route"
+      },
+      "sentence": "Chúng ta cần ___ cho chuyến đi.",
+      "hint": "l___n",
+      "word": "lộ trình"
+    },
+    "updatedAt": "2025-03-12T16:44:58.860Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:44:58.860Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d1fdc504-cfc3-4efa-9dcc-4b3aa5d6af1b"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2427,
+  "definition": "route",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "answer": "lộ trình",
+      "translation": {
+        "en": "We need a route for the trip."
+      },
+      "translatedAnswer": {
+        "en": "route"
+      },
+      "language": "vi",
+      "word": "lộ trình",
+      "sentence": "Chúng ta cần ___ cho chuyến đi."
+    },
+    "updatedAt": "2025-03-12T16:44:58.860Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:44:58.860Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "ca259a29-c989-4060-9606-935a242d6f8f"
+  },
+  "notes_md": "**Lộ trình** = route or planned path from A to B. It can be literal (travel) or more abstract like a roadmap/plan for something.\n\nIt’s a noun: *một lộ trình, các lộ trình*.  \nCommon pairings: **lên lộ trình** (set up a route/plan), **theo lộ trình** (follow the route), **thay đổi lộ trình**, **lộ trình phát triển/cải cách** (development/reform roadmap).\n\nIn real life it’s often physical (travel), but in work or business it often means a step‑by‑step plan over time.\n\nClose words: **tuyến đường** (more about the actual road/line), **kế hoạch** (general plan, less about path or sequence).",
+  "_id": "xqHNWLxE08R7UYfTCudO"
+}

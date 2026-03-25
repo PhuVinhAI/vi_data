@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "signal"
+      },
+      "sentence": "Chúng ta cần ___ để kết nối.",
+      "word": "tín hiệu",
+      "language": "vi",
+      "choices": [],
+      "answer": "tín hiệu",
+      "translation": {
+        "en": "We need a signal to connect."
+      }
+    },
+    "createdAt": "2025-03-12T13:57:15.032Z",
+    "updatedAt": "2025-03-12T13:57:15.032Z",
+    "id": "f6bc032b-4b2e-45fa-9ca4-aaf1d536d445",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "tín hiệu = signal — a sign, message, or cue that gives information or tells you to act.\n\nIt’s a countable noun: một tín hiệu, các tín hiệu. Common pairings: tín hiệu điện thoại, tín hiệu Wi‑Fi, tín hiệu giao thông, phát tín hiệu, nhận tín hiệu. It’s used for physical signals (light, sound), tech signals (phone, internet), and abstract signals (romantic interest, warning).\n\nDon’t mix it up with dấu hiệu (sign/symptom) — dấu hiệu is more like evidence or a sign of something happening, while tín hiệu often implies something sent or transmitted.",
+  "updatedAt": "2026-03-03T10:38:00.662Z",
+  "notes_md": "**tín hiệu** = signal — a sign, message, or cue that gives information or tells you to act.\n\nIt’s a countable noun: *một tín hiệu, các tín hiệu*. Common pairings: *tín hiệu điện thoại, tín hiệu Wi‑Fi, tín hiệu giao thông, phát tín hiệu, nhận tín hiệu*. It’s used for physical signals (light, sound), tech signals (phone, internet), and abstract signals (romantic interest, warning).\n\nDon’t mix it up with **dấu hiệu** (sign/symptom) — *dấu hiệu* is more like evidence or a sign of something happening, while *tín hiệu* often implies something sent or transmitted.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "112783d1-26d1-47d0-8a23-057ed3ce6a78",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:57:15.032Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "signal"
+      },
+      "sentence": "Chúng ta cần ___ để kết nối.",
+      "word": "tín hiệu",
+      "language": "vi",
+      "choices": [
+        "tín hiệu",
+        "kết nối",
+        "dữ liệu"
+      ],
+      "hint": "t___u",
+      "translation": {
+        "en": "We need a signal to connect."
+      },
+      "answer": "tín hiệu"
+    },
+    "updatedAt": "2025-03-12T13:57:15.032Z"
+  },
+  "exampleSentencesTranslated": [
+    "He waited a long time but did not receive any signal from her.",
+    "When the green light turns on, that is a signal for everyone to start walking.",
+    "Can you send me a signal if you need help?"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Tín hiệu là âm thanh, cử chỉ hoặc chỉ dẫn khác truyền đạt thông tin.",
+      "es": "Una señal es un sonido, gesto u otra indicación que transmite información.",
+      "en": "A signal is a sound, gesture, or other indication that conveys information."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:35:09.817Z",
+    "example": {
+      "es": "La señal de mi teléfono es muy débil.",
+      "vi": "Tín hiệu từ điện thoại của tôi rất yếu.",
+      "en": "The signal from my phone is very weak."
+    },
+    "translations": {
+      "en": "signal",
+      "es": "señal",
+      "vi": "tín hiệu"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tín hiệu",
+    "thông báo",
+    "dấu hiệu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tín hiệu",
+  "exampleSentences": [
+    "Anh chờ mãi mà không nhận được bất kỳ tín hiệu nào từ em.",
+    "Khi đèn xanh bật lên, đó là tín hiệu để mọi người bắt đầu đi.",
+    "Chị có thể gửi cho em một tín hiệu nếu cần giúp đỡ được không?"
+  ],
+  "rank": 2462,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "signal",
+  "_id": "I5wcr93b8yHaTRkzXxR5"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nhẹ nhàng** = gentle, soft, mild. It describes something done in a careful, calm way.\n\nIt’s an adjective, but in Vietnamese it also works like an adverb after verbs. It describes actions (movement, touch), personality, weather, pain, or attitude.\n\n\nClose synonyms: **dịu dàng** (gentler, often about people), **êm** (soft for sound/feeling). Opposites: **mạnh**, **thô bạo**, **dữ dội**.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:09:07.915Z",
+    "createdAt": "2025-03-12T14:09:07.915Z",
+    "id": "f4e7324e-f110-45e7-a739-1c4ddaa0e855",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "du dương",
+        "nhẹ nhàng",
+        "mạnh mẽ"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "The music must be gentle to listen to."
+      },
+      "sentence": "Âm nhạc phải ___ để dễ nghe.",
+      "hint": "n___ n___g",
+      "word": "nhẹ nhàng",
+      "answer": "nhẹ nhàng",
+      "translatedAnswer": {
+        "en": "gentle"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "nhẹ nhàng",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "The music must be gentle to listen to."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "nhẹ nhàng",
+      "sentence": "Âm nhạc phải ___ để dễ nghe.",
+      "translatedAnswer": {
+        "en": "gentle"
+      },
+      "answer": "nhẹ nhàng"
+    },
+    "id": "be6aa2c0-f964-443c-98db-8540351ca8bd",
+    "createdAt": "2025-03-12T14:09:07.915Z",
+    "updatedAt": "2025-03-12T14:09:07.915Z"
+  },
+  "definition": "gentle",
+  "updatedAt": "2026-03-03T08:44:17.044Z",
+  "choices": [
+    "mạnh mẽ",
+    "nhẹ nhàng",
+    "ồn ào"
+  ],
+  "notes": "nhẹ nhàng = gentle, soft, mild. It describes something done in a careful, calm way.\n\nIt’s an adjective, but in Vietnamese it also works like an adverb after verbs. It describes actions (movement, touch), personality, weather, pain, or attitude.\n\nClose synonyms: dịu dàng (gentler, often about people), êm (soft for sound/feeling). Opposites: mạnh, thô bạo, dữ dội.",
+  "exampleSentencesTranslated": [
+    "She always talks to me in a gentle and pleasant way.",
+    "When holding the baby, you have to be very gentle so the baby is not scared.",
+    "Gentle music helps everyone relax after a stressful working day."
+  ],
+  "rank": 1386,
+  "flashcard": {
+    "example": {
+      "en": "She speaks very gently.",
+      "es": "Ella habla muy suavemente.",
+      "vi": "Cô ấy nói chuyện rất nhẹ nhàng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "suave",
+      "vi": "nhẹ nhàng",
+      "en": "gentle"
+    },
+    "definitions": {
+      "vi": "Nhẹ nhàng, dịu dàng hoặc nhẹ về cách cư xử.",
+      "es": "Suave, gentil o ligero en el comportamiento.",
+      "en": "Soft, gentle, or light in manner."
+    },
+    "createdAt": "2025-01-28T11:46:21.134Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị ấy luôn nói chuyện với em một cách nhẹ nhàng và dễ chịu.",
+    "Khi bế em bé, anh phải thật nhẹ nhàng để bé không sợ.",
+    "Âm nhạc nhẹ nhàng giúp mọi người thư giãn sau một ngày làm việc căng thẳng."
+  ],
+  "_id": "KjIbJVjmQbMRgWBHsZ74"
+}

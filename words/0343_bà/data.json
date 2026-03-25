@@ -1,0 +1,99 @@
+{
+  "word": "bà",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**bà** = grandmother. It refers to your grandma or an elderly woman.\n\nVietnamese uses family words like *bà* as pronouns, so it can mean “you” or “she” when talking to/about an older woman. You don’t need a classifier before *bà*.  \n\nTo be specific: *bà nội* = dad’s mother, *bà ngoại* = mom’s mother.  \n\nCommon pairing: *ông bà* = grandparents (both together).  \n\nIt can also mean “Mrs.” or “madam” in polite address to an older woman.",
+  "choices": [
+    "bà",
+    "ông",
+    "mẹ"
+  ],
+  "rank": 343,
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "bà",
+      "sentence": "Tôi đã gặp ___ ở chợ.",
+      "language": "vi",
+      "choices": [
+        "cô",
+        "bà",
+        "chị"
+      ],
+      "hint": "b__",
+      "answer": "bà",
+      "translation": {
+        "en": "I met the grandmother at the market."
+      },
+      "translatedAnswer": {
+        "en": "grandmother"
+      }
+    },
+    "createdAt": "2025-03-12T15:23:23.674Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7e5c4bf9-70c8-4589-a44c-6bdcff732e32",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:23:23.674Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:56:40.795Z",
+  "exampleSentences": [
+    "Cuối tuần này, em sẽ về quê thăm bà cùng cả gia đình.",
+    "Bà thường kể cho chị nghe nhiều câu chuyện cổ tích rất hay.",
+    "Mỗi sáng, bà ra vườn tưới hoa và cho gà ăn."
+  ],
+  "notes": "bà = grandmother. It refers to your grandma or an elderly woman.\n\nVietnamese uses family words like bà as pronouns, so it can mean “you” or “she” when talking to/about an older woman. You don’t need a classifier before bà.  \n\nTo be specific: bà nội = dad’s mother, bà ngoại = mom’s mother.  \n\nCommon pairing: ông bà = grandparents (both together).  \n\nIt can also mean “Mrs.” or “madam” in polite address to an older woman.",
+  "definition": "grandmother",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:04:01.708Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "grandmother",
+      "vi": "bà",
+      "es": "abuela"
+    },
+    "example": {
+      "es": "Mi abuela ama mucho a la familia.",
+      "vi": "Bà tôi rất yêu thương gia đình.",
+      "en": "My grandmother loves the family very much."
+    },
+    "definitions": {
+      "es": "Un término utilizado para referirse a una abuela o a una mujer anciana.",
+      "vi": "Một thuật ngữ dùng để chỉ bà hoặc một người phụ nữ lớn tuổi.",
+      "en": "A term used to refer to a grandmother or an elderly woman."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:23:23.674Z",
+    "id": "fe193c4a-50bd-49e9-9dd1-779e37f7cf01",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:23:23.674Z",
+    "content": {
+      "word": "bà",
+      "language": "vi",
+      "sentence": "Tôi đã gặp ___ ở chợ.",
+      "choices": [],
+      "answer": "bà",
+      "translation": {
+        "en": "I met the grandmother at the market."
+      },
+      "translatedAnswer": {
+        "en": "grandmother"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "This weekend, I will visit my grandmother with the whole family.",
+    "Grandmother often tells me many interesting fairy tales.",
+    "Every morning, grandmother goes to the garden to water flowers and feed the chickens."
+  ],
+  "_id": "dFGjZ6INqUDV1RmmnF8z"
+}

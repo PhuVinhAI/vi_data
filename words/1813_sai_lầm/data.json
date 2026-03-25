@@ -1,0 +1,99 @@
+{
+  "word": "sai lầm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Sai lầm** means a mistake — something wrong you did, said, or decided.\n\nIt’s a **noun**, and you can count it: *một sai lầm, những sai lầm*. Very common verbs with it are **mắc sai lầm** and **phạm sai lầm** (both = to make/commit a mistake).\n\n\nClose word: **lỗi** (more like “fault” or “error,” often smaller or more technical). Opposite idea: **đúng** (correct) or **thành công** (success), depending on context.",
+  "rank": 1813,
+  "choices": [
+    "sai lầm",
+    "kết quả",
+    "thành công"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "mistake"
+      },
+      "translation": {
+        "en": "She does not want to admit her mistake."
+      },
+      "hint": "s___m",
+      "answer": "sai lầm",
+      "choices": [
+        "sai lầm",
+        "lo lắng",
+        "thất bại"
+      ],
+      "sentence": "Cô ấy không muốn thừa nhận ___ của mình.",
+      "language": "vi",
+      "word": "sai lầm"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:13:12.681Z",
+    "id": "b43fda5f-3455-4524-af94-4b8afda47989",
+    "updatedAt": "2025-03-12T13:13:12.681Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:30:03.260Z",
+  "exampleSentences": [
+    "Anh ấy đã nhận ra sai lầm của mình sau khi nói chuyện với em.",
+    "Đừng lo lắng, ai cũng có thể mắc sai lầm trong cuộc sống.",
+    "Chị học được nhiều điều từ mỗi sai lầm mà mình đã trải qua."
+  ],
+  "notes": "Sai lầm means a mistake — something wrong you did, said, or decided.\n\nIt’s a noun, and you can count it: một sai lầm, những sai lầm. Very common verbs with it are mắc sai lầm and phạm sai lầm (both = to make/commit a mistake).\n\nClose word: lỗi (more like “fault” or “error,” often smaller or more technical). Opposite idea: đúng (correct) or thành công (success), depending on context.",
+  "flashcard": {
+    "example": {
+      "vi": "Mọi người đều có thể mắc sai lầm.",
+      "es": "Todos pueden cometer un error.",
+      "en": "Everyone can make a mistake."
+    },
+    "definitions": {
+      "en": "An error or a mistake.",
+      "es": "Un error o una equivocación.",
+      "vi": "Một lỗi hoặc một sai sót."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:54:27.194Z",
+    "translations": {
+      "en": "mistake",
+      "es": "error",
+      "vi": "sai lầm"
+    }
+  },
+  "definition": "mistake",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I made a mistake in the decision."
+      },
+      "translatedAnswer": {
+        "en": "mistake"
+      },
+      "answer": "sai lầm",
+      "choices": [],
+      "word": "sai lầm",
+      "language": "vi",
+      "sentence": "Tôi đã mắc phải ___ trong quyết định."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:13:12.681Z",
+    "id": "77cd484e-ec96-4348-87d2-d048046df092",
+    "updatedAt": "2025-03-12T13:13:12.681Z"
+  },
+  "exampleSentencesTranslated": [
+    "He realized his mistake after talking with you.",
+    "Don't worry, everyone can make a mistake in life.",
+    "She learned a lot from each mistake she has experienced."
+  ],
+  "_id": "6J5yhUUIj4nTqAFdGdcj"
+}

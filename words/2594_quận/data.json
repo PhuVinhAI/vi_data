@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I live in a district near the city center so it is very convenient to go to work.",
+    "I want to find a good restaurant in this district to celebrate my birthday.",
+    "I usually walk for exercise every morning around the district with my friends."
+  ],
+  "word": "quận",
+  "choices": [
+    "phường",
+    "xã",
+    "quận"
+  ],
+  "updatedAt": "2026-03-03T11:26:37.768Z",
+  "exampleSentences": [
+    "Anh sống ở quận gần trung tâm thành phố nên rất thuận tiện đi làm.",
+    "Chị muốn tìm một nhà hàng ngon ở quận này để tổ chức sinh nhật.",
+    "Em thường đi bộ tập thể dục mỗi sáng quanh quận với bạn bè."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "We will go to the new district."
+      },
+      "answer": "quận",
+      "choices": [
+        "thành phố",
+        "quận",
+        "khu vực"
+      ],
+      "translatedAnswer": {
+        "en": "district"
+      },
+      "language": "vi",
+      "hint": "q___n",
+      "word": "quận",
+      "sentence": "Chúng ta sẽ đến ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:51:38.414Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:51:38.414Z",
+    "id": "fa407d50-1b49-47a1-8fb6-74f70c813d66"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T14:21:34.900Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Vivo en el distrito 1.",
+      "en": "I live in District 1.",
+      "vi": "Tôi sống ở quận 1."
+    },
+    "definitions": {
+      "vi": "Một quận hoặc đơn vị hành chính trong một thành phố hoặc tỉnh.",
+      "en": "A district or administrative division in a city or province.",
+      "es": "Un distrito o división administrativa en una ciudad o provincia."
+    },
+    "translations": {
+      "es": "distrito",
+      "en": "district",
+      "vi": "quận"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Quận = a district of a city (an administrative area inside a big city).\n\nIt’s a countable noun: một quận, hai quận, các quận. You don’t need a classifier like cái.  \nOften used with numbers or names: quận 1, quận 7, or with location phrases like ở quận…, chuyển quận.  \nBigger than a phường (ward), but smaller than a whole city.  \nIn rural areas, the similar unit is huyện (district outside major cities).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "answer": "quận",
+      "translation": {
+        "en": "I live in this district."
+      },
+      "translatedAnswer": {
+        "en": "district"
+      },
+      "language": "vi",
+      "word": "quận",
+      "sentence": "Tôi sống ở ___ này."
+    },
+    "updatedAt": "2025-03-12T16:51:38.414Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:51:38.414Z",
+    "id": "b570eb15-cd85-4a57-87be-d1315d9c17b3"
+  },
+  "rank": 2594,
+  "definition": "district",
+  "notes_md": "**Quận** = a district of a city (an administrative area inside a big city).\n\nIt’s a countable noun: *một quận, hai quận, các quận*. You don’t need a classifier like *cái*.  \nOften used with numbers or names: *quận 1, quận 7*, or with location phrases like *ở quận…, chuyển quận*.  \nBigger than a *phường* (ward), but smaller than a whole city.  \nIn rural areas, the similar unit is *huyện* (district outside major cities).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "zcUyWuf0ypjWqofjCb74"
+}

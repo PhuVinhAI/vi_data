@@ -1,0 +1,104 @@
+{
+  "multiChoiceQuiz": {
+    "id": "8bb8ddf9-b277-4c57-b7a4-7c4252da606b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "tr___",
+      "choices": [
+        "sau",
+        "trước",
+        "giữa"
+      ],
+      "translation": {
+        "en": "The car goes before I get home."
+      },
+      "answer": "trước",
+      "translatedAnswer": {
+        "en": "before"
+      },
+      "word": "trước",
+      "sentence": "Xe đi ___ tôi đến nhà.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:36:30.704Z",
+    "updatedAt": "2025-03-12T13:36:30.704Z"
+  },
+  "notes_md": "**trước** = *before* (in time or position). It can mean earlier than something, or in front of something.\n\nAs a time word, it usually goes **after the verb** to show something happens earlier.  \n\nAs a position word, it means “in front of” and often pairs with **ở / đứng / ngồi**.\n\nOpposite is **sau** (after / behind) — easy pair to memorize: *trước ↔ sau*.",
+  "exampleSentencesTranslated": [
+    "I do homework before you.",
+    "He calls mom before dinner.",
+    "She studies before bedtime."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "before",
+      "vi": "trước",
+      "es": "antes"
+    },
+    "example": {
+      "es": "Comí antes de ir a dormir.",
+      "vi": "Tôi đã ăn trước khi đi ngủ.",
+      "en": "I ate before going to bed."
+    },
+    "createdAt": "2025-01-28T12:17:48.022Z",
+    "definitions": {
+      "en": "before; in front of; prior to.",
+      "vi": "trước; ở phía trước; trước khi.",
+      "es": "antes; delante de; previo a."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:36:30.704Z",
+    "createdAt": "2025-03-12T13:36:30.704Z",
+    "content": {
+      "sentence": "Tôi đi bộ ___ trường học.",
+      "word": "trước",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "before"
+      },
+      "answer": "trước",
+      "translation": {
+        "en": "I walk before the school."
+      },
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b649d032-bdf2-40d8-a082-f7f454514963"
+  },
+  "notes": "trước = before (in time or position). It can mean earlier than something, or in front of something.\n\nAs a time word, it usually goes after the verb to show something happens earlier.  \n\nAs a position word, it means “in front of” and often pairs with ở / đứng / ngồi.\n\nOpposite is sau (after / behind) — easy pair to memorize: trước ↔ sau.",
+  "updatedAt": "2026-03-03T06:12:39.885Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "before",
+  "word": "trước",
+  "exampleSentences": [
+    "Em làm bài tập trước anh.",
+    "Anh gọi mẹ trước bữa tối.",
+    "Chị học bài trước giờ ngủ."
+  ],
+  "rank": 95,
+  "choices": [
+    "sau",
+    "giữa",
+    "trước"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Em (I) + làm (do) + bài tập (homework) + trước (before) + anh (you)",
+    "Anh (he) + gọi (call) + mẹ (mom) + trước (before) + bữa tối (dinner)",
+    "Chị (she) + học (study) + bài (lesson) + trước (before) + giờ ngủ (bedtime)"
+  ],
+  "_id": "CUwNyocdGb9tVOpt2xmF"
+}

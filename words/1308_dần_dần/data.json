@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:05:29.360Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "dần dần",
+      "language": "vi",
+      "hint": "d___ d___",
+      "answer": "dần dần",
+      "sentence": "Chúng ta cần tiến bộ ___ trong công việc.",
+      "translation": {
+        "en": "We need to improve gradually in our work."
+      },
+      "choices": [
+        "từ từ",
+        "dần dần",
+        "chậm rãi"
+      ],
+      "translatedAnswer": {
+        "en": "gradually"
+      }
+    },
+    "updatedAt": "2025-03-12T15:05:29.360Z",
+    "id": "30f44c52-47f8-4bc9-9f21-6b4d91d841c0"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "dần dần",
+  "notes": "dần dần = gradually, little by little over time. It shows a slow change or progress.\n\nIt’s an adverb, usually placed before the verb or before phrases like trở nên + adjective.  \n\nIt’s about a process, not one sudden moment. Opposite idea: đột nhiên, ngay lập tức.  \n\nClose synonym: từ từ — but từ từ can also mean “slow down” as a command, while dần dần only talks about gradual change.",
+  "exampleSentences": [
+    "Khi học tiếng Việt, em thấy mình nói tốt hơn dần dần.",
+    "Thời tiết dần dần trở nên ấm áp hơn vào mùa xuân.",
+    "Anh ấy dần dần quen với công việc mới sau một tháng."
+  ],
+  "choices": [
+    "ngay lập tức",
+    "dần dần",
+    "bất ngờ"
+  ],
+  "rank": 1308,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**dần dần** = gradually, little by little over time. It shows a slow change or progress.\n\nIt’s an adverb, usually placed before the verb or before phrases like *trở nên + adjective*.  \n\nIt’s about a process, not one sudden moment. Opposite idea: *đột nhiên*, *ngay lập tức*.  \n\nClose synonym: *từ từ* — but *từ từ* can also mean “slow down” as a command, while *dần dần* only talks about gradual change.",
+  "definition": "gradually",
+  "exampleSentencesTranslated": [
+    "When learning Vietnamese, I find that I speak better gradually.",
+    "The weather gradually becomes warmer in the spring.",
+    "He gradually gets used to the new job after a month."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:05:29.360Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "dần dần",
+      "language": "vi",
+      "answer": "dần dần",
+      "sentence": "Cô ấy học ___ hơn mỗi ngày.",
+      "translation": {
+        "en": "She learns gradually more each day."
+      },
+      "translatedAnswer": {
+        "en": "gradually"
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T15:05:29.360Z",
+    "id": "854002d1-c2b9-4443-aeff-7bd568c1d814"
+  },
+  "updatedAt": "2026-03-03T08:35:51.212Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "She is learning English gradually every day.",
+      "es": "Ella está aprendiendo inglés gradualmente cada día.",
+      "vi": "Cô ấy học tiếng Anh dần dần mỗi ngày."
+    },
+    "translations": {
+      "en": "gradually",
+      "es": "gradualmente",
+      "vi": "dần dần"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Gradually; in a gradual manner.",
+      "es": "Gradualmente; de manera gradual.",
+      "vi": "Dần dần; theo cách dần dần."
+    },
+    "createdAt": "2025-01-28T12:38:02.391Z"
+  },
+  "_id": "YMsGIqn3SZxiZS8P2nrV"
+}

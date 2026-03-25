@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "Everyone has their own characteristics.",
+      "es": "Cada persona tiene sus propias características.",
+      "vi": "Mỗi người có những đặc điểm riêng."
+    },
+    "translations": {
+      "en": "characteristic",
+      "es": "característica",
+      "vi": "đặc điểm"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:45:33.707Z",
+    "definitions": {
+      "en": "A distinguishing feature or quality.",
+      "es": "Una característica o cualidad distintiva.",
+      "vi": "Một đặc điểm hoặc phẩm chất phân biệt."
+    }
+  },
+  "updatedAt": "2026-03-03T10:22:16.002Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "860182ce-071c-4726-abf1-c67d1940c1a7",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:11:12.330Z",
+    "updatedAt": "2025-03-12T15:11:12.330Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "characteristic"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This product has a characteristic."
+      },
+      "sentence": "Sản phẩm này có ___ riêng.",
+      "answer": "đặc điểm",
+      "word": "đặc điểm",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "A characteristic of this city is having many green parks.",
+    "Can you tell me some characteristics of your new job?",
+    "Hobbies are an important characteristic that helps people understand each other better."
+  ],
+  "definition": "characteristic",
+  "notes_md": "**đặc điểm** = characteristic, feature, trait of a person or thing. It’s what makes something the way it is.\n\nIt’s a countable noun: *một đặc điểm, những đặc điểm, các đặc điểm*.  \n\nOften used with verbs like *có*, *mang*, or *thể hiện* (có đặc điểm riêng).  \nClose words: *tính chất* (quality, often more abstract), *đặc trưng* (a distinctive feature that stands out more).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2304,
+  "choices": [
+    "đặc điểm",
+    "hoạt động",
+    "thời điểm"
+  ],
+  "exampleSentences": [
+    "Một đặc điểm nổi bật của thành phố này là có nhiều công viên xanh.",
+    "Anh có thể kể cho em nghe một số đặc điểm của công việc mới không?",
+    "Sở thích là một đặc điểm quan trọng giúp mọi người hiểu nhau hơn."
+  ],
+  "notes": "đặc điểm = characteristic, feature, trait of a person or thing. It’s what makes something the way it is.\n\nIt’s a countable noun: một đặc điểm, những đặc điểm, các đặc điểm.  \n\nOften used with verbs like có, mang, or thể hiện (có đặc điểm riêng).  \nClose words: tính chất (quality, often more abstract), đặc trưng (a distinctive feature that stands out more).",
+  "word": "đặc điểm",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:11:12.330Z",
+    "updatedAt": "2025-03-12T15:11:12.330Z",
+    "content": {
+      "translation": {
+        "en": "This product has a characteristic."
+      },
+      "translatedAnswer": {
+        "en": "characteristic"
+      },
+      "choices": [
+        "đặc điểm",
+        "đặc biệt",
+        "đặc sản"
+      ],
+      "answer": "đặc điểm",
+      "hint": "đ___m",
+      "word": "đặc điểm",
+      "language": "vi",
+      "sentence": "Sản phẩm này có ___ riêng."
+    },
+    "id": "aa055526-0dc0-4847-9267-ffaac2ae40aa"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "ZugElvgWmJhT3dQWXLMd"
+}

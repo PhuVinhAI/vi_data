@@ -1,0 +1,95 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A phrase used to give examples or make comparisons, meaning 'such as' or 'like'.",
+      "vi": "Cụm từ dùng để đưa ra ví dụ hoặc so sánh, nghĩa là giống như hoặc chẳng hạn như."
+    },
+    "word": "như là",
+    "example": {
+      "en": "I like sports such as soccer and basketball.",
+      "vi": "Tôi thích các môn thể thao như là bóng đá và bóng rổ."
+    },
+    "translations": {
+      "en": "such as; like"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:19:40.834Z"
+  },
+  "definition": "like",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:22:07.642Z",
+    "content": {
+      "answer": "như là",
+      "translatedAnswer": {
+        "en": "such as"
+      },
+      "translation": {
+        "en": "She likes food such as bread."
+      },
+      "sentence": "Cô ấy thích món ăn ___ bánh mì.",
+      "language": "vi",
+      "word": "như là"
+    },
+    "id": "adec4251-eb74-4e7f-9137-fd344a19aacb",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:22:07.642Z"
+  },
+  "exampleSentencesTranslated": [
+    "He likes to eat tropical fruits like mango and pineapple.",
+    "She wants to find a bright-colored shirt like yellow or pink.",
+    "I have hobbies like reading books and taking morning walks."
+  ],
+  "updatedAt": "2026-03-03T06:49:09.097Z",
+  "exampleSentences": [
+    "Anh thích ăn trái cây nhiệt đới như là xoài và dứa.",
+    "Chị muốn tìm một chiếc áo màu sáng như là vàng hoặc hồng.",
+    "Em có những sở thích như là đọc sách và đi bộ buổi sáng."
+  ],
+  "notes": "như là means “like” or “such as” when giving examples. It introduces examples after a general idea.\n\nIt usually comes after a noun or idea, then followed by one or more examples.  \n\nIn everyday speech, people often shorten it to just như — same meaning, more natural in quick conversation.  \n\nDon’t confuse it with như meaning “like/as” in comparisons; như là is mainly for listing examples.",
+  "notes_md": "**như là** means “like” or “such as” when giving examples. It introduces examples after a general idea.\n\nIt usually comes after a noun or idea, then followed by one or more examples.  \n\nIn everyday speech, people often shorten it to just **như** — same meaning, more natural in quick conversation.  \n\nDon’t confuse it with **như** meaning “like/as” in comparisons; **như là** is mainly for listing examples.",
+  "rank": 277,
+  "choices": [
+    "như là",
+    "với lại",
+    "hoặc là"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:22:07.642Z",
+    "type": "multiChoiceQuiz",
+    "id": "1db852b1-6d36-4272-b6bf-95113e278044",
+    "content": {
+      "hint": "nh___ l__",
+      "answer": "như là",
+      "translation": {
+        "en": "I like sports such as football."
+      },
+      "translatedAnswer": {
+        "en": "such as"
+      },
+      "word": "như là",
+      "language": "vi",
+      "sentence": "Tôi thích các môn thể thao ___ bóng đá.",
+      "choices": [
+        "như là",
+        "và",
+        "hoặc"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:22:07.642Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "như là",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "921wscCWP5EBDGuLA38Y"
+}

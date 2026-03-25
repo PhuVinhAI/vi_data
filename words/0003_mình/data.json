@@ -1,0 +1,104 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "mình",
+  "multiChoiceQuiz": {
+    "id": "0f3fb8ae-5532-4837-a690-e472cc5e2e5d",
+    "content": {
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "answer": "mình",
+      "translation": {
+        "en": "I am from Hanoi."
+      },
+      "choices": [
+        "mình",
+        "bạn",
+        "chúng"
+      ],
+      "language": "vi",
+      "hint": "m___h",
+      "word": "mình",
+      "sentence": "___ đến từ Hà Nội."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-05-24T13:38:09.361Z",
+    "createdAt": "2025-05-24T13:38:09.361Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mình** usually means **“I / me”** in a soft, friendly way. It sounds closer and warmer than **tôi**.\n\nIt’s used with friends, partners, or people you feel close to. Sometimes couples use **mình** for both “I” and “you,” which makes it feel intimate.\n\nIt can also mean **“we”** (including the listener) in casual talk.  \n\nAnother common meaning is **“body”** (your physical body), like in phrases about washing or hurting yourself.",
+  "updatedAt": "2026-03-03T06:03:12.270Z",
+  "choices": [
+    "tôi",
+    "em",
+    "mình"
+  ],
+  "notes": "mình usually means “I / me” in a soft, friendly way. It sounds closer and warmer than tôi.\n\nIt’s used with friends, partners, or people you feel close to. Sometimes couples use mình for both “I” and “you,” which makes it feel intimate.\n\nIt can also mean “we” (including the listener) in casual talk.  \n\nAnother common meaning is “body” (your physical body), like in phrases about washing or hurting yourself.",
+  "exampleSentencesTranslated": [
+    "I eat a bowl of hot rice.",
+    "I buy a new shirt.",
+    "I drink a glass of cold water."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-05-24T13:38:09.361Z",
+    "updatedAt": "2025-05-24T13:38:09.361Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "answer": "mình",
+      "translation": {
+        "en": "I like learning English."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "mình",
+      "sentence": "___ thích học tiếng Anh."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "826c3e3a-800f-4283-99a2-0e979dbb50a3"
+  },
+  "sentenceBreakdowns": [
+    "Mình (I) + ăn (eat) + một (a) + bát (bowl) + cơm (rice) + nóng (hot)",
+    "Mình (I) + mua (buy) + một (a) + cái (classifier) + áo (shirt) + mới (new)",
+    "Mình (I) + uống (drink) + một (a) + ly (glass) + nước (water) + lạnh (cold)"
+  ],
+  "definition": "I",
+  "rank": 3,
+  "exampleSentences": [
+    "Mình ăn một bát cơm nóng.",
+    "Mình mua một cái áo mới.",
+    "Mình uống một ly nước lạnh."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I like to eat pho.",
+      "es": "Me gusta comer pho.",
+      "vi": "Mình thích ăn phở."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:28:56.046Z",
+    "definitions": {
+      "es": "Un pronombre utilizado para referirse a uno mismo, a menudo traducido como 'yo' o 'me'.",
+      "vi": "Một đại từ dùng để chỉ bản thân, thường được dịch là 'tôi' hoặc 'mình'.",
+      "en": "A pronoun used to refer to oneself, often translated as 'I' or 'me'."
+    },
+    "translations": {
+      "en": "I",
+      "es": "Yo",
+      "vi": "Mình"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "JgDwkw0cWSSW7Y79wfw2"
+}

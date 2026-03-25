@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "kim cương",
+      "translation": {
+        "en": "She wears a beautiful diamond."
+      },
+      "answer": "kim cương",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "diamond"
+      },
+      "sentence": "Cô ấy đeo một chiếc ___ đẹp."
+    },
+    "updatedAt": "2025-03-12T14:38:51.187Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:38:51.187Z",
+    "id": "5abea231-bb11-4aba-b2ad-71ec83d5ddc0"
+  },
+  "definition": "diamond",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một loại đá quý bao gồm một dạng tinh thể trong suốt và không màu của carbon nguyên chất, là chất tự nhiên cứng nhất.",
+      "en": "A precious stone consisting of a clear and colorless crystalline form of pure carbon, the hardest naturally occurring substance.",
+      "es": "Una piedra preciosa que consiste en una forma cristalina clara y incolora de carbono puro, la sustancia natural más dura."
+    },
+    "createdAt": "2025-01-28T12:14:24.058Z",
+    "example": {
+      "vi": "Chiếc nhẫn này được làm bằng kim cương.",
+      "en": "This ring is made of diamond.",
+      "es": "Este anillo está hecho de diamante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "diamante",
+      "vi": "kim cương",
+      "en": "diamond"
+    }
+  },
+  "exampleSentences": [
+    "Anh muốn mua một chiếc nhẫn có viên kim cương thật đẹp để tặng em.",
+    "Chị ấy rất thích đeo dây chuyền có mặt kim cương mỗi ngày.",
+    "Em nghe nói kim cương là loại đá quý rất đắt tiền trên thế giới."
+  ],
+  "notes_md": "**kim cương** = diamond, the very hard, clear precious stone used in jewelry.  \n\nIt’s a **noun**. Use the classifier **viên** for a single stone: *một viên kim cương*.  \nCommon pairings: *đá kim cương, mỏ kim cương, nhẫn kim cương*.  \nIt can also describe quality in names like *giải kim cương* (top-level prize) or *tuổi kim cương* (60-year anniversary).  \nFor memory: *kim cương* = the hardest, most valuable kind of *đá quý* (precious stone).",
+  "choices": [
+    "kim loại",
+    "kim cương",
+    "ngọc trai"
+  ],
+  "notes": "kim cương = diamond, the very hard, clear precious stone used in jewelry.  \n\nIt’s a noun. Use the classifier viên for a single stone: một viên kim cương.  \nCommon pairings: đá kim cương, mỏ kim cương, nhẫn kim cương.  \nIt can also describe quality in names like giải kim cương (top-level prize) or tuổi kim cương (60-year anniversary).  \nFor memory: kim cương = the hardest, most valuable kind of đá quý (precious stone).",
+  "rank": 2585,
+  "exampleSentencesTranslated": [
+    "I want to buy a ring with a beautiful diamond to give you.",
+    "She really likes to wear a necklace with a diamond every day.",
+    "I heard that diamond is a very expensive gemstone in the world."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "c7cd628a-6369-4484-8615-6b414527a9a1",
+    "createdAt": "2025-03-12T14:38:51.187Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "This ring has a real diamond."
+      },
+      "answer": "kim cương",
+      "hint": "k__ c___n",
+      "word": "kim cương",
+      "choices": [
+        "ngọc trai",
+        "kim cương",
+        "ruby"
+      ],
+      "sentence": "Chiếc nhẫn này có ___ thật.",
+      "translatedAnswer": {
+        "en": "diamond"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:38:51.187Z"
+  },
+  "word": "kim cương",
+  "updatedAt": "2026-03-03T11:25:48.423Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "RcdsGvNflWcNGyIXvhyE"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "từ ngữ",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần hiểu rõ ___ trong bài học.",
+      "choices": [],
+      "language": "vi",
+      "answer": "từ ngữ",
+      "word": "từ ngữ",
+      "translation": {
+        "en": "I need to understand the vocabulary in the lesson."
+      },
+      "translatedAnswer": {
+        "en": "vocabulary"
+      }
+    },
+    "updatedAt": "2025-03-12T16:21:02.768Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:21:02.768Z",
+    "id": "de9b65f9-6b12-4623-8878-90d59b9e2eb6"
+  },
+  "definition": "words",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Trong sách có rất nhiều ___ mới.",
+      "word": "từ ngữ",
+      "answer": "từ ngữ",
+      "language": "vi",
+      "choices": [
+        "từ vựng",
+        "từ ngữ",
+        "câu chữ"
+      ],
+      "translatedAnswer": {
+        "en": "vocabulary"
+      },
+      "translation": {
+        "en": "There are many new vocabulary words in the book."
+      },
+      "hint": "t__ __"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:21:02.768Z",
+    "createdAt": "2025-03-12T16:21:02.768Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8c85f026-90fd-460e-b32d-0912b2802e92"
+  },
+  "rank": 2789,
+  "notes_md": "**Từ ngữ** means *words* or *vocabulary* in general — the language someone uses.\n\nIt’s a plural-style noun, but in Vietnamese it doesn’t change form. You can count it with **những / các từ ngữ** when you mean specific sets of words.  \n\nIt often pairs with verbs like **dùng** (use), **chọn** (choose), **hiểu** (understand), **giải thích** (explain).  \n\nClose to **từ** (word), but **từ ngữ** feels broader and a bit more formal — like “wording” or “vocabulary.” Another related word is **ngôn từ**, which sounds more literary.",
+  "exampleSentencesTranslated": [
+    "Can you explain the meaning of these words for me?",
+    "She often writes new words in her notebook when learning English.",
+    "I have difficulty remembering all the words in today's lesson."
+  ],
+  "updatedAt": "2026-03-03T17:57:31.901Z",
+  "choices": [
+    "từ ngữ",
+    "câu hỏi",
+    "bài tập"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "The vocabulary in Vietnamese is very rich.",
+      "es": "El vocabulario en vietnamita es muy rico.",
+      "vi": "Từ ngữ trong tiếng Việt rất phong phú."
+    },
+    "translations": {
+      "vi": "từ ngữ",
+      "es": "vocabulario",
+      "en": "vocabulary"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:51:49.121Z",
+    "definitions": {
+      "es": "Palabras o frases utilizadas en un idioma particular.",
+      "en": "Words or phrases used in a particular language.",
+      "vi": "Các từ hoặc cụm từ được sử dụng trong một ngôn ngữ cụ thể."
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể giải thích ý nghĩa của những từ ngữ này cho em không?",
+    "Chị thường ghi chú các từ ngữ mới vào sổ tay khi học tiếng Anh.",
+    "Em gặp khó khăn khi nhớ hết các từ ngữ trong bài học hôm nay."
+  ],
+  "notes": "Từ ngữ means words or vocabulary in general — the language someone uses.\n\nIt’s a plural-style noun, but in Vietnamese it doesn’t change form. You can count it with những / các từ ngữ when you mean specific sets of words.  \n\nIt often pairs with verbs like dùng (use), chọn (choose), hiểu (understand), giải thích (explain).  \n\nClose to từ (word), but từ ngữ feels broader and a bit more formal — like “wording” or “vocabulary.” Another related word is ngôn từ, which sounds more literary.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "revAV6Q72jEsDRsqhxNx"
+}

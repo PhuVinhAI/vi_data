@@ -1,0 +1,99 @@
+{
+  "definition": "near-sighted",
+  "flashcard": {
+    "definitions": {
+      "es": "Una condición del ojo donde los objetos lejanos aparecen borrosos mientras que los objetos cercanos se pueden ver claramente.",
+      "vi": "Một tình trạng của mắt khi các vật ở xa xuất hiện mờ trong khi các vật gần có thể nhìn thấy rõ.",
+      "en": "A condition of the eye where distant objects appear blurry while close objects can be seen clearly."
+    },
+    "example": {
+      "es": "Necesito ir al oculista porque soy miope.",
+      "vi": "Tôi cần đi khám mắt vì tôi bị cận.",
+      "en": "I need to see an eye doctor because I am nearsighted."
+    },
+    "translations": {
+      "es": "miope",
+      "vi": "cận",
+      "en": "nearsighted"
+    },
+    "createdAt": "2025-01-28T13:05:47.716Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I am near-sighted so I have to wear glasses when reading books.",
+    "I went to the eye doctor because I think I am near-sighted.",
+    "She cannot see the board clearly because she is near-sighted."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "cận",
+      "language": "vi",
+      "sentence": "Tôi cần mua kính ___.",
+      "translation": {
+        "en": "I need to buy glasses for nearsightedness."
+      },
+      "translatedAnswer": {
+        "en": "nearsightedness"
+      },
+      "answer": "cận"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:30:45.421Z",
+    "id": "3b9d2e85-e64d-442e-9c31-e05e4ce3462c",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:30:45.421Z"
+  },
+  "updatedAt": "2026-03-03T10:20:02.310Z",
+  "exampleSentences": [
+    "Em bị cận nên phải đeo kính khi đọc sách.",
+    "Anh đi khám mắt vì nghĩ mình bị cận.",
+    "Chị ấy không nhìn rõ bảng vì bị cận."
+  ],
+  "notes": "cận = near-sighted (can’t see far clearly). It describes your eyesight.\n\nIt’s an adjective, often used with bị or after mắt: bị cận, mắt cận. You can also say cận nặng / cận nhẹ for how strong it is, and đeo kính cận for wearing glasses for it.\n\nThe opposite is viễn (far-sighted), as in viễn thị.  \n\nYou’ll also see it in fixed words like cận thị (medical term for near-sightedness).",
+  "notes_md": "**cận** = near-sighted (can’t see far clearly). It describes your eyesight.\n\nIt’s an adjective, often used with **bị** or after **mắt**: *bị cận*, *mắt cận*. You can also say **cận nặng / cận nhẹ** for how strong it is, and **đeo kính cận** for wearing glasses for it.\n\nThe opposite is **viễn** (far-sighted), as in **viễn thị**.  \n\nYou’ll also see it in fixed words like **cận thị** (medical term for near-sightedness).",
+  "choices": [
+    "viễn",
+    "loạn",
+    "cận"
+  ],
+  "rank": 2284,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "cận",
+        "xa",
+        "điều chỉnh"
+      ],
+      "word": "cận",
+      "sentence": "Tôi cần mua kính ___.",
+      "language": "vi",
+      "translation": {
+        "en": "I need to buy glasses for nearsightedness."
+      },
+      "translatedAnswer": {
+        "en": "nearsightedness"
+      },
+      "hint": "c___n",
+      "answer": "cận"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:30:45.421Z",
+    "id": "9078ff93-9a17-420f-92c8-1b276500cc49",
+    "updatedAt": "2025-03-12T15:30:45.421Z"
+  },
+  "word": "cận",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "f2sq0LsyNTXaD8JPMmG3"
+}

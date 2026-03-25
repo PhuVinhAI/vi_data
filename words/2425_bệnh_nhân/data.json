@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Bệnh nhân cần được chăm sóc tốt.",
+      "en": "The patient needs good care.",
+      "es": "El paciente necesita buenos cuidados."
+    },
+    "translations": {
+      "vi": "bệnh nhân",
+      "en": "patient",
+      "es": "paciente"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A person receiving medical treatment.",
+      "vi": "Một người đang nhận điều trị y tế.",
+      "es": "Una persona que recibe tratamiento médico."
+    },
+    "createdAt": "2025-01-28T10:42:30.312Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "patient",
+  "rank": 2425,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Bác sĩ vừa khám cho một bệnh nhân mới vào sáng nay.",
+    "Anh hỏi y tá khi nào bệnh nhân có thể ăn sáng được.",
+    "Gia đình đến thăm bệnh nhân vào mỗi buổi chiều trong tuần."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:59:27.583Z",
+    "updatedAt": "2025-03-12T12:59:27.583Z",
+    "content": {
+      "answer": "bệnh nhân",
+      "sentence": "Bác sĩ hỏi ___ về triệu chứng.",
+      "hint": "b___n",
+      "word": "bệnh nhân",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "patient"
+      },
+      "translation": {
+        "en": "The doctor asks the patient about the symptoms."
+      },
+      "choices": [
+        "bệnh nhân",
+        "người khỏe",
+        "bác sĩ"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "a6fa9637-1520-418b-91ad-10e1dd6e54a6",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bệnh nhân",
+  "notes": "Bệnh nhân means patient — a person who is receiving medical treatment or care. It’s used in hospitals, clinics, and any healthcare setting.\n\nIt’s a countable noun: một bệnh nhân, nhiều bệnh nhân. Common pairings: bệnh nhân + điều trị / cấp cứu / nội trú / ngoại trú and verbs like chăm sóc bệnh nhân, khám bệnh nhân.  \n\nDon’t confuse it with khách hàng (customer) — that’s for business, not healthcare.  \n\nLiterally, bệnh = illness and nhân = person, so it’s “a sick person.”",
+  "choices": [
+    "bệnh nhân",
+    "bác sĩ",
+    "y tá"
+  ],
+  "notes_md": "**Bệnh nhân** means *patient* — a person who is receiving medical treatment or care. It’s used in hospitals, clinics, and any healthcare setting.\n\nIt’s a countable noun: *một bệnh nhân, nhiều bệnh nhân*. Common pairings: *bệnh nhân + điều trị / cấp cứu / nội trú / ngoại trú* and verbs like *chăm sóc bệnh nhân, khám bệnh nhân*.  \n\nDon’t confuse it with *khách hàng* (customer) — that’s for business, not healthcare.  \n\nLiterally, *bệnh* = illness and *nhân* = person, so it’s “a sick person.”",
+  "exampleSentencesTranslated": [
+    "The doctor just examined a patient this morning.",
+    "He asks the nurse when the patient can have breakfast.",
+    "The family visits the patient every afternoon during the week."
+  ],
+  "updatedAt": "2026-03-03T10:34:05.478Z",
+  "fillBlankQuiz": {
+    "id": "539fae00-97f6-4015-8b27-f80bf7f941d6",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "The doctor asks the patient about the symptoms."
+      },
+      "choices": [],
+      "word": "bệnh nhân",
+      "translatedAnswer": {
+        "en": "patient"
+      },
+      "language": "vi",
+      "sentence": "Bác sĩ hỏi ___ về triệu chứng.",
+      "answer": "bệnh nhân"
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T12:59:27.583Z",
+    "updatedAt": "2025-03-12T12:59:27.583Z"
+  },
+  "_id": "2jsN8DYqyeLItYUjFfFP"
+}

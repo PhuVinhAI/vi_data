@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:04:43.671Z",
+    "createdAt": "2025-03-12T14:04:43.671Z",
+    "id": "810b0d47-50f5-44f3-919b-cbc5dcfc1747",
+    "content": {
+      "hint": "th___p",
+      "word": "thực tập",
+      "sentence": "Tôi muốn ___ tiếng Anh.",
+      "translation": {
+        "en": "I want to practice English."
+      },
+      "language": "vi",
+      "choices": [
+        "học hỏi",
+        "thực tập",
+        "nghiên cứu"
+      ],
+      "translatedAnswer": {
+        "en": "practice"
+      },
+      "answer": "thực tập"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "thực tập",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**thực tập** = internship. It can be a noun (the internship) or a verb (to intern).\n\nAs a noun, you can say **một kỳ thực tập** (an internship period) or **chương trình thực tập**.  \nAs a verb, it often goes with places or fields.  \n\nRelated word: **thực tập sinh** = intern (the person).  \nClose idea: **học việc** (apprenticeship) — usually more hands-on, long-term, and for skilled trades.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I am looking for a company for an internship this summer.",
+    "She learned many new skills during her internship at the hospital.",
+    "He said that an internship helped him understand more about real work."
+  ],
+  "notes": "thực tập = internship. It can be a noun (the internship) or a verb (to intern).\n\nAs a noun, you can say một kỳ thực tập (an internship period) or chương trình thực tập.  \nAs a verb, it often goes with places or fields.  \n\nRelated word: thực tập sinh = intern (the person).  \nClose idea: học việc (apprenticeship) — usually more hands-on, long-term, and for skilled trades.",
+  "updatedAt": "2026-03-03T10:10:42.682Z",
+  "choices": [
+    "thực tập",
+    "giảng dạy",
+    "nghiên cứu"
+  ],
+  "definition": "internship",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "practice"
+      },
+      "answer": "thực tập",
+      "translation": {
+        "en": "I want to practice English."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "thực tập",
+      "sentence": "Tôi muốn ___ tiếng Anh."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "918d8e4f-9722-48f8-b7d5-c2c5813c4831",
+    "createdAt": "2025-03-12T14:04:43.671Z",
+    "updatedAt": "2025-03-12T14:04:43.671Z"
+  },
+  "rank": 2198,
+  "exampleSentences": [
+    "Em đang tìm một công ty để thực tập vào mùa hè này.",
+    "Chị đã học được nhiều kỹ năng mới khi thực tập ở bệnh viện.",
+    "Anh ấy nói rằng thực tập giúp anh hiểu thêm về công việc thực tế."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I am interning at a large company.",
+      "es": "Estoy haciendo prácticas en una gran empresa.",
+      "vi": "Tôi đang thực tập tại một công ty lớn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:42:39.392Z",
+    "definitions": {
+      "vi": "Một khoảng thời gian thực tập tại một tổ chức trong một thời gian giới hạn.",
+      "es": "Un período de experiencia laboral ofrecido por una organización por un tiempo limitado.",
+      "en": "A period of work experience offered by an organization for a limited period of time."
+    },
+    "translations": {
+      "es": "práctica",
+      "vi": "thực tập",
+      "en": "internship"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "JkuWwgNYaAccleS7yQJN"
+}

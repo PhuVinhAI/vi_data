@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:25:28.656Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "thừa",
+        "ít",
+        "vừa đủ"
+      ],
+      "sentence": "Món ăn này có ___ gia vị.",
+      "language": "vi",
+      "word": "thừa",
+      "translatedAnswer": {
+        "en": "too much"
+      },
+      "translation": {
+        "en": "This dish has too much seasoning."
+      },
+      "hint": "t___",
+      "answer": "thừa"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:25:28.656Z",
+    "id": "cf88d750-a90b-4560-9fdf-4eba5f0a7d3e"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**thừa** = extra, more than needed, leftover. It describes something that is beyond what’s necessary.\n\nIt usually comes **after a noun**: *cơm thừa, tiền thừa, thời gian thừa*. It can also be the main adjective in a sentence to say something is excessive.\n\n`Structure: còn thừa + noun (còn thừa tiền)`\n\nVery close to **dư** (also “extra”); opposite is **thiếu** (not enough). It can also mean “unnecessary” in some contexts (ý kiến thừa = unnecessary opinion).",
+  "choices": [
+    "thừa",
+    "thiếu",
+    "đủ"
+  ],
+  "rank": 2130,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thừa",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "e96eff28-1ad1-4b9a-92d5-4931596c1080",
+    "content": {
+      "answer": "thừa",
+      "translatedAnswer": {
+        "en": "extra"
+      },
+      "translation": {
+        "en": "I feel extra at the party."
+      },
+      "sentence": "Tôi cảm thấy ___ trong bữa tiệc.",
+      "language": "vi",
+      "word": "thừa",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:25:28.656Z",
+    "updatedAt": "2025-03-12T15:25:28.656Z"
+  },
+  "exampleSentencesTranslated": [
+    "If you cook extra rice, I can take it to work tomorrow.",
+    "She has an extra shirt, do you want to take it?",
+    "After the party, there is a lot of extra cake on the table."
+  ],
+  "definition": "extra",
+  "flashcard": {
+    "example": {
+      "en": "I have extra time to finish the assignment.",
+      "es": "Tengo tiempo de sobra para terminar la tarea.",
+      "vi": "Tôi có thừa thời gian để hoàn thành bài tập."
+    },
+    "definitions": {
+      "en": "Excess or surplus; more than what is needed.",
+      "vi": "Sự dư thừa; nhiều hơn những gì cần thiết.",
+      "es": "Exceso o sobrante; más de lo que se necesita."
+    },
+    "createdAt": "2025-01-28T13:00:19.915Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "extra",
+      "vi": "thừa",
+      "es": "extra"
+    }
+  },
+  "notes": "thừa = extra, more than needed, leftover. It describes something that is beyond what’s necessary.\n\nIt usually comes after a noun: cơm thừa, tiền thừa, thời gian thừa. It can also be the main adjective in a sentence to say something is excessive.\n\nStructure: còn thừa + noun (còn thừa tiền)\n\nVery close to dư (also “extra”); opposite is thiếu (not enough). It can also mean “unnecessary” in some contexts (ý kiến thừa = unnecessary opinion).",
+  "updatedAt": "2026-03-03T10:03:20.086Z",
+  "exampleSentences": [
+    "Nếu em nấu cơm thừa, anh có thể mang đi làm ngày mai.",
+    "Chị có một cái áo thừa, em có muốn lấy không?",
+    "Sau bữa tiệc, còn rất nhiều bánh thừa trên bàn."
+  ],
+  "_id": "dxRlkqbO9kynIDbkQiOB"
+}

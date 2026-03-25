@@ -1,0 +1,99 @@
+{
+  "definition": "worm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:04:40.309Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8fccff5d-d334-430c-bab3-f78e9ae64a13",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cái hố này rất ___.",
+      "translatedAnswer": {
+        "en": "deep"
+      },
+      "translation": {
+        "en": "This hole is very deep."
+      },
+      "hint": "s__",
+      "word": "sâu",
+      "answer": "sâu",
+      "language": "vi",
+      "choices": [
+        "sâu",
+        "rộng",
+        "nhỏ"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:04:40.309Z"
+  },
+  "notes_md": "**Sâu** usually means **worm** (a small, long insect with no legs). It’s a countable noun, so you say **con sâu** (classifier *con* for animals/creatures).\n\nIt also shows up in fixed phrases like **sâu răng** (tooth cavity, literally “tooth worm”) and **sâu bọ** (bugs/worms in general).\n\nVery commonly, **sâu** also means **deep** (adjective). It describes depth in water, space, feelings, colors, or thoughts.\n\n\nOpposite when it means “deep” is **nông** (shallow).",
+  "rank": 464,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "sâu",
+  "fillBlankQuiz": {
+    "id": "f4f90a57-f075-47eb-bea6-8c7d9be17b6e",
+    "createdAt": "2025-03-12T16:04:40.309Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:04:40.309Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Nước ở đây rất ___.",
+      "translation": {
+        "en": "The water here is very deep."
+      },
+      "translatedAnswer": {
+        "en": "deep"
+      },
+      "answer": "sâu",
+      "language": "vi",
+      "word": "sâu",
+      "choices": []
+    }
+  },
+  "notes": "Sâu usually means worm (a small, long insect with no legs). It’s a countable noun, so you say con sâu (classifier con for animals/creatures).\n\nIt also shows up in fixed phrases like sâu răng (tooth cavity, literally “tooth worm”) and sâu bọ (bugs/worms in general).\n\nVery commonly, sâu also means deep (adjective). It describes depth in water, space, feelings, colors, or thoughts.\n\nOpposite when it means “deep” is nông (shallow).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I saw a worm crawling on the leaf in the garden.",
+    "I do not like eating apples because there might be a worm inside.",
+    "He read a story about a little worm that wanted to become a butterfly."
+  ],
+  "updatedAt": "2026-03-03T07:08:49.939Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:36:03.414Z",
+    "definitions": {
+      "es": "Una forma larval de un insecto, especialmente de una mariposa o polilla.",
+      "en": "A larval form of an insect, especially a butterfly or moth.",
+      "vi": "Hình thức ấu trùng của một loại côn trùng, đặc biệt là bướm hoặc bướm đêm."
+    },
+    "example": {
+      "vi": "Con sâu bò trên cành cây.",
+      "en": "The caterpillar crawls on the branch.",
+      "es": "La oruga se arrastra por la rama."
+    },
+    "translations": {
+      "vi": "sâu",
+      "en": "caterpillar",
+      "es": "oruga"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sâu",
+    "rắn",
+    "cá"
+  ],
+  "exampleSentences": [
+    "Em nhìn thấy một con sâu đang bò trên lá cây ngoài vườn.",
+    "Chị không thích ăn táo vì trong đó có thể có sâu.",
+    "Anh đọc truyện về một chú sâu nhỏ muốn trở thành bươm bướm."
+  ],
+  "_id": "nL4UofC2ppf6NyXEYELj"
+}

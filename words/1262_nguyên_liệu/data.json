@@ -1,0 +1,99 @@
+{
+  "rank": 1262,
+  "exampleSentences": [
+    "Chị đã chuẩn bị đầy đủ nguyên liệu để nấu món canh này chưa?",
+    "Anh cần mua thêm nguyên liệu cho bữa tiệc tối nay.",
+    "Em thường chọn nguyên liệu tươi khi đi chợ nấu ăn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:41:32.043Z",
+    "translations": {
+      "es": "ingredientes",
+      "vi": "nguyên liệu",
+      "en": "ingredients"
+    },
+    "definitions": {
+      "en": "The substances or materials used in the preparation of food.",
+      "es": "Las sustancias o materiales utilizados en la preparación de alimentos.",
+      "vi": "Các chất hoặc vật liệu được sử dụng trong việc chuẩn bị thực phẩm."
+    },
+    "example": {
+      "en": "I need to buy ingredients to cook.",
+      "vi": "Tôi cần mua nguyên liệu để nấu ăn.",
+      "es": "Necesito comprar ingredientes para cocinar."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "nguyên liệu",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:03:39.569Z",
+    "createdAt": "2025-03-12T14:03:39.569Z",
+    "id": "6511888a-ff90-4b46-b157-cd5c50f7739b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "thực phẩm",
+        "nguyên liệu",
+        "gia vị"
+      ],
+      "translation": {
+        "en": "This dish needs good ingredients."
+      },
+      "sentence": "Món ăn này cần ___ tốt.",
+      "hint": "n___ liệu",
+      "word": "nguyên liệu",
+      "answer": "nguyên liệu",
+      "translatedAnswer": {
+        "en": "ingredients"
+      }
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Nguyên liệu** means *ingredient* — the basic material you use to make food (and sometimes other products). It’s a noun.\n\nYou usually say **nguyên liệu + món ăn** or **nguyên liệu để + verb**. It’s often used with words like *chuẩn bị, mua, chọn, thiếu, tươi, chính*.\n\nYou can count it with classifiers like **một nguyên liệu** or **các nguyên liệu**, but in cooking it’s often used in plural meaning without saying the number.\n\nClose word: **thành phần** = component/ingredient (more formal, often for food labels or recipes).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Nguyên liệu means ingredient — the basic material you use to make food (and sometimes other products). It’s a noun.\n\nYou usually say nguyên liệu + món ăn or nguyên liệu để + verb. It’s often used with words like chuẩn bị, mua, chọn, thiếu, tươi, chính.\n\nYou can count it with classifiers like một nguyên liệu or các nguyên liệu, but in cooking it’s often used in plural meaning without saying the number.\n\nClose word: thành phần = component/ingredient (more formal, often for food labels or recipes).",
+  "exampleSentencesTranslated": [
+    "Have you prepared all the ingredient to cook this soup?",
+    "I need to buy more ingredient for the dinner party tonight.",
+    "I usually choose fresh ingredient when I go to the market to cook."
+  ],
+  "choices": [
+    "gia vị",
+    "nguyên liệu",
+    "thực phẩm"
+  ],
+  "updatedAt": "2026-03-03T08:30:20.903Z",
+  "definition": "ingredient",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Món ăn này cần ___ tươi.",
+      "word": "nguyên liệu",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "This dish needs fresh ingredients."
+      },
+      "answer": "nguyên liệu",
+      "translatedAnswer": {
+        "en": "ingredients"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "4dd273ed-9545-495f-b06c-597f20f6513b",
+    "createdAt": "2025-03-12T14:03:39.569Z",
+    "updatedAt": "2025-03-12T14:03:39.569Z"
+  },
+  "_id": "JYt3oODSwIqc64W2h1my"
+}

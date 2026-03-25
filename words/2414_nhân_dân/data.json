@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "nhân dân",
+    "công nhân",
+    "người dân"
+  ],
+  "updatedAt": "2026-03-03T10:32:57.777Z",
+  "exampleSentences": [
+    "Chính phủ luôn lắng nghe ý kiến của nhân dân để phát triển đất nước.",
+    "Anh tin rằng sức mạnh của nhân dân có thể thay đổi xã hội tốt hơn.",
+    "Ngày lễ này được tổ chức để vinh danh nhân dân đã đóng góp cho cộng đồng."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:34:38.902Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "bbf0c47f-33b7-454e-9db2-cdd453a41c1e",
+    "content": {
+      "sentence": "Chúng ta cần ___ bảo vệ môi trường.",
+      "hint": "nh___n",
+      "word": "nhân dân",
+      "language": "vi",
+      "translation": {
+        "en": "We need the people to protect the environment."
+      },
+      "answer": "nhân dân",
+      "choices": [
+        "công dân",
+        "nhân dân",
+        "dân cư"
+      ],
+      "translatedAnswer": {
+        "en": "people"
+      }
+    },
+    "updatedAt": "2025-03-12T16:34:38.902Z",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "nhân dân",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The government always listens to the opinions of the people to develop the country.",
+    "I believe that the strength of the people can change society for the better.",
+    "This holiday is organized to honor the people who have contributed to the community."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "nhân dân",
+      "en": "the people",
+      "es": "el pueblo"
+    },
+    "definitions": {
+      "vi": "Công dân hoặc công chúng của một quốc gia.",
+      "en": "The general public or citizens of a nation.",
+      "es": "El público en general o los ciudadanos de una nación."
+    },
+    "example": {
+      "vi": "Nhân dân luôn đứng lên bảo vệ tổ quốc.",
+      "en": "The people always stand up to protect the homeland.",
+      "es": "El pueblo siempre se levanta para proteger la patria."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:06:02.853Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhân dân = the people of a country, especially in a national or political sense. It’s not just “people” in general, but the citizens as a collective group.\n\nIt’s a noun and usually refers to the whole population, so you don’t count it. You’ll often see it with words like chính phủ, nhà nước, đất nước, quyền lợi, ý kiến.\n\nStronger, more formal than người dân (which feels more everyday and concrete). Dân alone is more casual and broad.\n\nThink: nhân dân = “the people” in speeches, news, official talk.",
+  "notes_md": "**nhân dân** = *the people* of a country, especially in a national or political sense. It’s not just “people” in general, but the citizens as a collective group.\n\nIt’s a noun and usually refers to the whole population, so you don’t count it. You’ll often see it with words like **chính phủ**, **nhà nước**, **đất nước**, **quyền lợi**, **ý kiến**.\n\nStronger, more formal than **người dân** (which feels more everyday and concrete). **Dân** alone is more casual and broad.\n\nThink: **nhân dân** = “the people” in speeches, news, official talk.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:34:38.902Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e656d8d6-3411-478b-9983-2d6f6851dd02",
+    "content": {
+      "sentence": "Chúng ta cần ___ bảo vệ môi trường.",
+      "word": "nhân dân",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "people"
+      },
+      "answer": "nhân dân",
+      "translation": {
+        "en": "We need the people to protect the environment."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:34:38.902Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2414,
+  "definition": "the people (of a country)",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vZ9JyF91M9NO3DXpFl1C"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**cấp** usually means *level* or *rank*. It’s used for stages, degrees, or positions in a system.\n\nAs a noun, it often appears in fixed pairs like **cấp độ** (level), **cấp bậc** (rank), **sơ cấp / trung cấp / cao cấp** (basic / intermediate / advanced). It doesn’t need a classifier in most cases.\n\nVery common second meaning: **to provide / issue / grant** (money, documents, support).  \n\nThink of it as either “a level in a ladder” or “to give officially.”",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng tôi sẽ ___ bài thuyết trình.",
+      "word": "cấp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "answer": "cấp",
+      "translation": {
+        "en": "We will give the presentation."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:45:08.666Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:45:08.666Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "153d4562-62ff-48b9-98a9-0eb03dbdfeff"
+  },
+  "rank": 691,
+  "definition": "level",
+  "flashcard": {
+    "example": {
+      "vi": "Chúng tôi cần cấp nước cho khu vực này.",
+      "es": "Necesitamos suministrar agua a esta área.",
+      "en": "We need to supply water to this area."
+    },
+    "definitions": {
+      "vi": "cung cấp hoặc cung ứng một cái gì đó, thường trong bối cảnh chính thức.",
+      "en": "to supply or provide something, often in a formal or official context.",
+      "es": "suministrar o proporcionar algo, a menudo en un contexto formal u oficial."
+    },
+    "translations": {
+      "vi": "cấp",
+      "es": "suministrar",
+      "en": "supply"
+    },
+    "createdAt": "2025-01-28T14:15:56.785Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "cấp usually means level or rank. It’s used for stages, degrees, or positions in a system.\n\nAs a noun, it often appears in fixed pairs like cấp độ (level), cấp bậc (rank), sơ cấp / trung cấp / cao cấp (basic / intermediate / advanced). It doesn’t need a classifier in most cases.\n\nVery common second meaning: to provide / issue / grant (money, documents, support).  \n\nThink of it as either “a level in a ladder” or “to give officially.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "cấp",
+    "lớp",
+    "bài"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:45:08.666Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a6333a39-efd0-4d91-b993-1a12935f520f",
+    "content": {
+      "choices": [
+        "cấp",
+        "tặng",
+        "cho"
+      ],
+      "answer": "cấp",
+      "translation": {
+        "en": "We will give the presentation."
+      },
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "language": "vi",
+      "hint": "c__",
+      "word": "cấp",
+      "sentence": "Chúng tôi sẽ ___ bài thuyết trình."
+    },
+    "updatedAt": "2025-03-12T16:45:08.666Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Công ty đang tuyển nhân viên cho vị trí cấp quản lý.",
+    "Anh muốn học tiếng Anh ở cấp trung cấp để giao tiếp tốt hơn.",
+    "Chị ấy đã được thăng lên cấp cao hơn trong công ty."
+  ],
+  "updatedAt": "2026-03-03T07:30:42.727Z",
+  "word": "cấp",
+  "exampleSentencesTranslated": [
+    "The company is hiring employees for the management level position.",
+    "I want to study English at the intermediate level to communicate better.",
+    "She was promoted to a higher level in the company."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "xvSxaR54NOzgsaFfKFYT"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "lo lắng",
+    "vô tư",
+    "bận rộn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "carefree",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "vô tư",
+  "exampleSentences": [
+    "Em thấy chị luôn vô tư dù có nhiều áp lực trong công việc.",
+    "Những đứa trẻ chơi đùa vô tư ngoài sân nhà vào buổi chiều.",
+    "Dù gặp khó khăn, anh vẫn giữ được tinh thần vô tư và lạc quan."
+  ],
+  "rank": 2625,
+  "notes_md": "**Vô tư** means carefree, not worried, not overthinking things. It describes a person or attitude that feels light and relaxed.\n\nIt’s an **adjective**, used after verbs like *rất, khá, thật* to describe someone’s personality or mood. It can describe people, kids, or even behavior.\n\nIt can also mean doing something without thinking about consequences or other people’s feelings — sometimes a bit careless.  \nStrong memory link: *vô lo* (carefree, no worries) vs. *lo lắng* (worried).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:42:27.741Z",
+    "content": {
+      "hint": "v___",
+      "choices": [
+        "vô tư",
+        "sống động",
+        "tích cực"
+      ],
+      "translation": {
+        "en": "She is very carefree in life."
+      },
+      "answer": "vô tư",
+      "translatedAnswer": {
+        "en": "carefree"
+      },
+      "word": "vô tư",
+      "sentence": "Cô ấy rất ___ trong cuộc sống.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:42:27.741Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "edc31926-2e5f-4c23-a68a-ccbfa435ae44"
+  },
+  "flashcard": {
+    "definitions": {
+      "vi": "Không lo lắng hay bận tâm; vô tư.",
+      "es": "Libre de preocupaciones o preocupaciones; despreocupado.",
+      "en": "Free from worries or concerns; carefree."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:20:58.908Z",
+    "example": {
+      "es": "Ella vive muy despreocupada y no se preocupa por nada.",
+      "vi": "Cô ấy sống rất vô tư và không lo lắng về điều gì.",
+      "en": "She lives very carefree and doesn't worry about anything."
+    },
+    "translations": {
+      "en": "carefree",
+      "vi": "vô tư",
+      "es": "despreocupado"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I see you are always carefree even with a lot of pressure at work.",
+    "The children play carefree in the yard in the afternoon.",
+    "Even when facing difficulties, he still keeps a carefree and optimistic spirit."
+  ],
+  "notes": "Vô tư means carefree, not worried, not overthinking things. It describes a person or attitude that feels light and relaxed.\n\nIt’s an adjective, used after verbs like rất, khá, thật to describe someone’s personality or mood. It can describe people, kids, or even behavior.\n\nIt can also mean doing something without thinking about consequences or other people’s feelings — sometimes a bit careless.  \nStrong memory link: vô lo (carefree, no worries) vs. lo lắng (worried).",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "answer": "vô tư",
+      "translation": {
+        "en": "She is very carefree in life."
+      },
+      "translatedAnswer": {
+        "en": "carefree"
+      },
+      "sentence": "Cô ấy rất ___ trong cuộc sống.",
+      "word": "vô tư",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:42:27.741Z",
+    "updatedAt": "2025-03-12T13:42:27.741Z",
+    "id": "0b0cc045-f2cb-496b-9943-e18c064b094f",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T11:29:42.107Z",
+  "_id": "E6xXSnpp7vsa2Kr8qBBx"
+}

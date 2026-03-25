@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:57:56.433Z",
+    "updatedAt": "2025-03-12T14:57:56.433Z",
+    "content": {
+      "translation": {
+        "en": "The old man is walking in the park."
+      },
+      "choices": [
+        "trẻ",
+        "lão",
+        "khỏe"
+      ],
+      "translatedAnswer": {
+        "en": "old man"
+      },
+      "word": "lão",
+      "language": "vi",
+      "hint": "l__",
+      "answer": "lão",
+      "sentence": "Ông ___ đang đi bộ trong công viên."
+    },
+    "id": "09632095-2a67-4f27-a5e7-9a6c8732477c"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lão",
+  "notes": "lão means old man, usually an elderly man. It can sound a bit rough or blunt, depending on tone.\n\nIt’s a countable noun; you’ll often see it with classifiers like một lão, but more naturally as ông lão (old man, neutral). Used alone, lão can feel slightly disrespectful or used when the speaker is annoyed.\n\nCompared to ông (polite, neutral “older man”) or cụ (very respectful, very old), lão is less polite and more character-like, often heard in stories or when talking about someone with attitude.\n\nBe careful using it directly to address someone — it can come off as rude.",
+  "exampleSentences": [
+    "Anh ấy là một lão hàng xóm rất thân thiện với mọi người.",
+    "Lão trong truyện cổ tích thường có nhiều kinh nghiệm và thông minh.",
+    "Chị đã tặng quà cho lão sống một mình ở cuối làng."
+  ],
+  "choices": [
+    "lão",
+    "bà",
+    "trẻ"
+  ],
+  "rank": 2589,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**lão** means *old man*, usually an elderly man. It can sound a bit rough or blunt, depending on tone.\n\nIt’s a countable noun; you’ll often see it with classifiers like **một lão**, but more naturally as **ông lão** (old man, neutral). Used alone, **lão** can feel slightly disrespectful or used when the speaker is annoyed.\n\nCompared to **ông** (polite, neutral “older man”) or **cụ** (very respectful, very old), **lão** is less polite and more character-like, often heard in stories or when talking about someone with attitude.\n\nBe careful using it directly to address someone — it can come off as rude.",
+  "definition": "old man",
+  "exampleSentencesTranslated": [
+    "He is an old man neighbor who is very friendly to everyone.",
+    "The old man in fairy tales often has a lot of experience and is wise.",
+    "She gave a gift to the old man who lives alone at the end of the village."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:57:56.433Z",
+    "updatedAt": "2025-03-12T14:57:56.433Z",
+    "content": {
+      "translation": {
+        "en": "The old man is sitting on the chair."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "old man"
+      },
+      "answer": "lão",
+      "word": "lão",
+      "language": "vi",
+      "sentence": "Ông ___ đang ngồi trên ghế."
+    },
+    "id": "616f686d-fb7a-4e8a-93c3-777bdf18226a"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:26:10.336Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:30:43.885Z",
+    "definitions": {
+      "en": "An old man or elderly person.",
+      "es": "Un anciano o persona mayor.",
+      "vi": "Một người đàn ông già hoặc người cao tuổi."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "old man",
+      "es": "anciano",
+      "vi": "lão"
+    },
+    "example": {
+      "en": "The old man is sitting on the chair.",
+      "es": "El anciano está sentado en la silla.",
+      "vi": "Ông lão đang ngồi trên ghế."
+    }
+  },
+  "_id": "WI4FFun4FIXfZayfouYh"
+}

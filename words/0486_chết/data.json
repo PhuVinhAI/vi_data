@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy sợ ___ trong giấc mơ.",
+      "word": "chết",
+      "answer": "chết",
+      "language": "vi",
+      "choices": [
+        "sống",
+        "chết",
+        "mất"
+      ],
+      "translatedAnswer": {
+        "en": "die"
+      },
+      "translation": {
+        "en": "She is afraid to die in her dreams."
+      },
+      "hint": "c__t"
+    },
+    "updatedAt": "2025-03-12T16:19:18.387Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:19:18.387Z",
+    "id": "1e500981-e3bc-47e7-9d63-bd605c6c1f67"
+  },
+  "definition": "die",
+  "rank": 486,
+  "notes_md": "**chết** = to die. It’s used for people, animals, and living things stopping being alive.\n\nUse it directly after the subject, or with **vì + reason** to say the cause.  \n\nIt can also describe things that stop working or are “dead” (like a battery, engine, phone).  \nMore polite for people: **qua đời**. Opposite: **sống** (to live).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:19:18.387Z",
+    "id": "3159fe58-af07-4b75-9158-d58dd19d1bdb",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "die"
+      },
+      "translation": {
+        "en": "He will die if he is not careful."
+      },
+      "choices": [],
+      "word": "chết",
+      "answer": "chết",
+      "language": "vi",
+      "sentence": "Anh ấy sẽ ___ nếu không cẩn thận."
+    },
+    "updatedAt": "2025-03-12T16:19:18.387Z"
+  },
+  "word": "chết",
+  "notes": "chết = to die. It’s used for people, animals, and living things stopping being alive.\n\nUse it directly after the subject, or with vì + reason to say the cause.  \n\nIt can also describe things that stop working or are “dead” (like a battery, engine, phone).  \nMore polite for people: qua đời. Opposite: sống (to live).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:10:50.347Z",
+  "exampleSentencesTranslated": [
+    "If you are not careful when crossing the street, you can die.",
+    "My grandmother died three years ago.",
+    "This fish died because it did not have enough water."
+  ],
+  "exampleSentences": [
+    "Nếu không cẩn thận khi qua đường, em có thể chết.",
+    "Bà ngoại anh đã chết cách đây ba năm.",
+    "Con cá này đã chết vì không có đủ nước."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Dejar de vivir; fallecer.",
+      "en": "To cease to live; to pass away.",
+      "vi": "Ngừng sống; qua đời."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:50:27.706Z",
+    "example": {
+      "es": "El gato ha muerto.",
+      "en": "The cat has died.",
+      "vi": "Con mèo đã chết."
+    },
+    "translations": {
+      "vi": "chết",
+      "es": "morir",
+      "en": "to die"
+    }
+  },
+  "choices": [
+    "chết",
+    "chơi",
+    "chạy"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "rKsxjG2x1H3l8A6Wr4xl"
+}

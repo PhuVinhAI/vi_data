@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mặc",
+    "ngủ",
+    "đọc"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "wear",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 690,
+  "exampleSentences": [
+    "Sáng nay em quyết định mặc chiếc áo sơ mi màu xanh.",
+    "Anh thường mặc quần jean khi đi chơi với bạn bè.",
+    "Chị không biết nên mặc váy hay quần cho buổi tiệc tối nay."
+  ],
+  "word": "mặc",
+  "flashcard": {
+    "definitions": {
+      "es": "llevar o ponerse (ropa)",
+      "vi": "mặc hoặc mặc vào (quần áo)",
+      "en": "to wear or to put on (clothing)"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I am wearing a new shirt today.",
+      "es": "Hoy llevo una camisa nueva.",
+      "vi": "Tôi mặc áo mới hôm nay."
+    },
+    "createdAt": "2025-01-28T11:23:45.447Z",
+    "translations": {
+      "en": "to wear",
+      "es": "llevar",
+      "vi": "mặc"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "This morning I decided to wear a blue shirt.",
+    "He usually likes to wear jeans when hanging out with friends.",
+    "She does not know whether to wear a dress or pants to the party tonight."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:45:25.873Z",
+    "createdAt": "2025-03-12T13:45:25.873Z",
+    "content": {
+      "translation": {
+        "en": "I wear this shirt."
+      },
+      "answer": "mặc",
+      "choices": [
+        "đeo",
+        "mặc",
+        "mang"
+      ],
+      "hint": "m__c",
+      "sentence": "Tôi ___ chiếc áo này.",
+      "word": "mặc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "wear"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "36b14a20-f456-4964-b5e4-c3b0eb3333e4"
+  },
+  "notes_md": "**mặc** = to *wear* clothes on your body. It’s used for clothing you put on and have on.\n\nUse it with clothes: mặc áo, mặc quần, mặc váy, mặc đồng phục.  \n\nIt can also mean “ignore / don’t care about” in fixed phrases like *mặc kệ* (leave it, whatever).  \nOpposite idea: **cởi** = take off (clothes).",
+  "updatedAt": "2026-03-03T07:30:36.285Z",
+  "notes": "mặc = to wear clothes on your body. It’s used for clothing you put on and have on.\n\nUse it with clothes: mặc áo, mặc quần, mặc váy, mặc đồng phục.  \n\nIt can also mean “ignore / don’t care about” in fixed phrases like mặc kệ (leave it, whatever).  \nOpposite idea: cởi = take off (clothes).",
+  "fillBlankQuiz": {
+    "id": "31fbb059-31ab-46da-bd64-193677112fbc",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "wear"
+      },
+      "word": "mặc",
+      "sentence": "Tôi ___ chiếc áo này.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I wear this shirt."
+      },
+      "answer": "mặc"
+    },
+    "createdAt": "2025-03-12T13:45:25.873Z",
+    "updatedAt": "2025-03-12T13:45:25.873Z"
+  },
+  "_id": "EpjYXvmgda6tHh9DgYxQ"
+}

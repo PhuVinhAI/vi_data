@@ -1,0 +1,99 @@
+{
+  "rank": 1931,
+  "exampleSentences": [
+    "Anh có thể cho em một ít đường vào cà phê không?",
+    "Chị chỉ muốn ăn một ít cơm vào buổi tối thôi.",
+    "Em mang theo một ít tiền để mua đồ ăn sáng."
+  ],
+  "word": "một ít",
+  "definition": "a little",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "một ít",
+    "nhiều",
+    "tất cả"
+  ],
+  "updatedAt": "2026-03-03T09:42:15.953Z",
+  "notes": "một ít = a little / a small amount. It’s used for a small quantity of something, usually uncountable nouns.\n\nIt comes before a noun and softens the amount — not zero, but not much.  \n\nVery close to một chút (a tiny bit); both are casual and interchangeable in most situations. Opposite idea: nhiều (a lot).",
+  "fillBlankQuiz": {
+    "id": "e6f461ca-0dc4-49fa-a651-f56bc50d7d98",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I only need a little sugar."
+      },
+      "answer": "một ít",
+      "translatedAnswer": {
+        "en": "a little"
+      },
+      "language": "vi",
+      "sentence": "Tôi chỉ cần ___ đường.",
+      "word": "một ít"
+    },
+    "createdAt": "2025-03-12T13:39:17.488Z",
+    "updatedAt": "2025-03-12T13:39:17.488Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A small amount.",
+      "es": "Una pequeña cantidad.",
+      "vi": "Một lượng nhỏ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:18:20.730Z",
+    "example": {
+      "en": "I only need a little sugar for my coffee.",
+      "es": "Solo necesito un poco de azúcar para mi café.",
+      "vi": "Tôi chỉ cần một ít đường cho cà phê."
+    },
+    "translations": {
+      "es": "un poco",
+      "vi": "một ít",
+      "en": "a little"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you put a little sugar in my coffee?",
+    "I only want to eat a little rice in the evening.",
+    "I brought a little money to buy breakfast."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:39:17.488Z",
+    "createdAt": "2025-03-12T13:39:17.488Z",
+    "content": {
+      "answer": "một ít",
+      "translation": {
+        "en": "I only need a little sugar."
+      },
+      "hint": "m___ i__",
+      "choices": [
+        "một ít",
+        "nhiều",
+        "không đủ"
+      ],
+      "sentence": "Tôi chỉ cần ___ đường.",
+      "word": "một ít",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "a little"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "7118f935-af09-40a3-92ed-26a3575f2660",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**một ít** = *a little / a small amount*. It’s used for a small quantity of something, usually uncountable nouns.\n\nIt comes before a noun and softens the amount — not zero, but not much.  \n\nVery close to **một chút** (a tiny bit); both are casual and interchangeable in most situations. Opposite idea: **nhiều** (a lot).",
+  "_id": "DFFQc9Anrd87pcwtGyNl"
+}

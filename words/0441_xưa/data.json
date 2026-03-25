@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Grandma often tells me stories about old times.",
+    "In old times, I really liked hanging out with friends in the village.",
+    "She likes listening to old times music every evening to relax."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "xưa",
+  "choices": [
+    "mới",
+    "xưa",
+    "bây giờ"
+  ],
+  "exampleSentences": [
+    "Bà nội thường kể cho em nghe về những câu chuyện xưa.",
+    "Ngày xưa, anh rất thích đi chơi với bạn bè trong làng.",
+    "Chị thích nghe nhạc xưa vào mỗi buổi tối để thư giãn."
+  ],
+  "updatedAt": "2026-03-03T07:06:23.151Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:34:57.988Z",
+    "id": "066b0ce2-39e6-4e09-b2eb-e584f1906653",
+    "content": {
+      "hint": "x___",
+      "word": "xưa",
+      "sentence": "Câu chuyện này rất ___.",
+      "answer": "xưa",
+      "choices": [
+        "mới",
+        "xưa",
+        "cổ điển"
+      ],
+      "translation": {
+        "en": "This story is very old."
+      },
+      "translatedAnswer": {
+        "en": "old"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:34:57.988Z",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "Old; ancient; from a long time ago.",
+      "es": "Antiguo; de hace mucho tiempo.",
+      "vi": "Cũ; cổ; từ lâu."
+    },
+    "example": {
+      "vi": "Nhà xưa của tôi rất đẹp.",
+      "en": "My old house is very beautiful.",
+      "es": "Mi casa antigua es muy hermosa."
+    },
+    "translations": {
+      "vi": "xưa",
+      "es": "antiguo",
+      "en": "old"
+    },
+    "createdAt": "2025-01-28T14:06:16.093Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "xưa means “long ago” or “in the old days.” It talks about the past, often with a nostalgic feeling.\n\nIt usually follows a time word like ngày, hồi, or năm.  \n\nYou can also see it in fixed pairs like xưa kia (even longer ago, more story-like).  \nOpposite idea: nay, bây giờ (now).  \n\nAlone, xưa feels poetic; in daily speech, it almost always comes with a time word.",
+  "rank": 441,
+  "definition": "old times",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Câu chuyện này rất ___.",
+      "word": "xưa",
+      "language": "vi",
+      "choices": [],
+      "answer": "xưa",
+      "translation": {
+        "en": "This story is very old."
+      },
+      "translatedAnswer": {
+        "en": "old"
+      }
+    },
+    "updatedAt": "2025-03-12T16:34:57.988Z",
+    "id": "1599bfa1-79f7-42b8-b018-ab6ccb7c9bab",
+    "createdAt": "2025-03-12T16:34:57.988Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**xưa** means “long ago” or “in the old days.” It talks about the past, often with a nostalgic feeling.\n\nIt usually follows a time word like *ngày*, *hồi*, or *năm*.  \n\nYou can also see it in fixed pairs like *xưa kia* (even longer ago, more story-like).  \nOpposite idea: *nay*, *bây giờ* (now).  \n\nAlone, *xưa* feels poetic; in daily speech, it almost always comes with a time word.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vaXR1U2Bc2jtj4HQJRnK"
+}

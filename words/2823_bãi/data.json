@@ -1,0 +1,99 @@
+{
+  "rank": 2823,
+  "exampleSentences": [
+    "Chiều nay em muốn cùng anh đi dạo quanh bãi gần nhà không?",
+    "Trẻ con thường thích đá bóng ở bãi vì rộng rãi và an toàn.",
+    "Chị đã tìm thấy một bãi rất đẹp để tổ chức picnic cuối tuần."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "We will take a walk on the beach.",
+      "vi": "Chúng ta sẽ đi dạo ở bãi biển.",
+      "es": "Vamos a dar un paseo por la playa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:56:17.356Z",
+    "definitions": {
+      "en": "A beach or a shore, typically a sandy area by a body of water.",
+      "es": "Una playa o una orilla, típicamente un área de arena junto a un cuerpo de agua.",
+      "vi": "Một bãi biển hoặc bờ, thường là một khu vực cát bên cạnh một nguồn nước."
+    },
+    "translations": {
+      "vi": "bãi",
+      "es": "playa",
+      "en": "beach"
+    }
+  },
+  "word": "bãi",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:20:00.013Z",
+    "updatedAt": "2025-03-12T14:20:00.013Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "bãi",
+      "translatedAnswer": {
+        "en": "beach"
+      },
+      "language": "vi",
+      "choices": [
+        "bãi",
+        "công viên",
+        "sân vận động"
+      ],
+      "translation": {
+        "en": "We go to the beach."
+      },
+      "sentence": "Chúng tôi đi đến ___ ven biển.",
+      "word": "bãi",
+      "hint": "b___"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "bd0b71d9-5b17-46a1-83b7-b342f158cabc"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**bãi** = an open area of land, usually flat and not built up. Think “field / lot / open ground.”\n\nIt’s a **noun**. You say *một bãi* (one area/lot). Very common pairings: **bãi biển** (beach), **bãi cỏ** (grassy field), **bãi đậu xe** (parking lot), **bãi đất trống** (empty lot), **bãi rác** (dump).\n\nCompared to **sân** (yard/court), *bãi* feels more open, natural, or undeveloped.\n\nIt can also mean a “patch/pile” of something in casual speech, but the “open area” meaning is the one you’ll see most.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "bãi = an open area of land, usually flat and not built up. Think “field / lot / open ground.”\n\nIt’s a noun. You say một bãi (one area/lot). Very common pairings: bãi biển (beach), bãi cỏ (grassy field), bãi đậu xe (parking lot), bãi đất trống (empty lot), bãi rác (dump).\n\nCompared to sân (yard/court), bãi feels more open, natural, or undeveloped.\n\nIt can also mean a “patch/pile” of something in casual speech, but the “open area” meaning is the one you’ll see most.",
+  "exampleSentencesTranslated": [
+    "This afternoon do you want to walk around the open area near my house with me?",
+    "Children usually like to play football in the open area because it is spacious and safe.",
+    "I found a very nice open area to have a picnic this weekend."
+  ],
+  "choices": [
+    "cánh đồng",
+    "bãi",
+    "hồ"
+  ],
+  "updatedAt": "2026-03-03T18:01:06.142Z",
+  "definition": "open area",
+  "fillBlankQuiz": {
+    "id": "2514b686-3c01-47ca-87bb-fbbf5a654380",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "bãi",
+      "translatedAnswer": {
+        "en": "beach"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We go to the beach."
+      },
+      "sentence": "Chúng tôi đi đến ___ ven biển.",
+      "word": "bãi"
+    },
+    "updatedAt": "2025-03-12T14:20:00.013Z",
+    "createdAt": "2025-03-12T14:20:00.013Z"
+  },
+  "_id": "N6Ijw0FqLha8K21CR7Mx"
+}

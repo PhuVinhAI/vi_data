@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:44:46.932Z",
+    "createdAt": "2025-03-12T13:44:46.932Z",
+    "content": {
+      "choices": [
+        "khoảng",
+        "tầm",
+        "giới hạn"
+      ],
+      "hint": "t__m",
+      "translation": {
+        "en": "The height of this tree is considerable."
+      },
+      "answer": "tầm",
+      "translatedAnswer": {
+        "en": "considerable"
+      },
+      "language": "vi",
+      "sentence": "Chiều cao của cây này ___ lớn.",
+      "word": "tầm"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "6818d6ff-d35a-4f83-b76e-2574f85f5cf9",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**tầm** = around / approximately (time, number, amount). It makes things less exact.\n\nPut **tầm** before a number or time expression to mean “about.”  \n\nIt’s very similar to **khoảng** or **cỡ** — you can swap them in most everyday situations.\n\nLess commonly, **tầm** can mean “level” or “range” in words like *tầm quan trọng* (level of importance) or *tầm cỡ* (caliber/level).",
+  "flashcard": {
+    "definitions": {
+      "en": "A type of plant that grows on other trees, often associated with Christmas.",
+      "es": "Un tipo de planta que crece en otros árboles, a menudo asociada con la Navidad.",
+      "vi": "Một loại cây mọc trên cây khác, thường liên quan đến Giáng sinh."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "mistletoe",
+      "es": "muérdago",
+      "vi": "tầm gửi"
+    },
+    "createdAt": "2025-01-28T11:23:10.028Z",
+    "example": {
+      "vi": "Cây tầm gửi thường bám vào cây khác.",
+      "es": "El muérdago a menudo se adhiere a otro árbol.",
+      "en": "The mistletoe often clings to another tree."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I will come to your house around seven o'clock tonight.",
+    "I buy a plane ticket around the end of this month to go back to my hometown.",
+    "I usually wake up around six o'clock every day."
+  ],
+  "notes": "tầm = around / approximately (time, number, amount). It makes things less exact.\n\nPut tầm before a number or time expression to mean “about.”  \n\nIt’s very similar to khoảng or cỡ — you can swap them in most everyday situations.\n\nLess commonly, tầm can mean “level” or “range” in words like tầm quan trọng (level of importance) or tầm cỡ (caliber/level).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "1e151427-3ed6-4eb8-a849-07c5823262d8",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "The height of this tree is considerable."
+      },
+      "answer": "tầm",
+      "choices": [],
+      "language": "vi",
+      "word": "tầm",
+      "sentence": "Chiều cao của cây này ___ lớn.",
+      "translatedAnswer": {
+        "en": "considerable"
+      }
+    },
+    "createdAt": "2025-03-12T13:44:46.932Z",
+    "updatedAt": "2025-03-12T13:44:46.932Z"
+  },
+  "updatedAt": "2026-03-03T07:15:20.536Z",
+  "definition": "around",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tầm",
+  "rank": 530,
+  "exampleSentences": [
+    "Chị sẽ đến nhà em vào tầm bảy giờ tối nay nhé.",
+    "Anh mua vé máy bay tầm cuối tháng này để về quê.",
+    "Em thường thức dậy tầm sáu giờ sáng mỗi ngày."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "khoảng",
+    "tầm",
+    "gần"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "EfpiiBoXvtm7ST4WaxFu"
+}

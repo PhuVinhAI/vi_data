@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T11:32:23.067Z",
+  "flashcard": {
+    "definitions": {
+      "en": "A counter or stand where goods are sold or services are provided.",
+      "es": "Un mostrador o stand donde se venden bienes o se prestan servicios.",
+      "vi": "Một quầy hoặc bàn nơi hàng hóa được bán hoặc dịch vụ được cung cấp."
+    },
+    "createdAt": "2025-01-28T13:33:08.140Z",
+    "example": {
+      "vi": "Tôi đã mua hàng ở quầy thu ngân.",
+      "en": "I bought items at the checkout counter.",
+      "es": "Compré artículos en la caja."
+    },
+    "translations": {
+      "es": "mostrador",
+      "en": "counter",
+      "vi": "quầy"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "quầy",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He is waiting at the counter to pay for the goods.",
+    "You can ask the staff at the counter for information about the flight.",
+    "She usually buys coffee at the counter every morning before going to work."
+  ],
+  "notes_md": "**Quầy** means a **counter** — the long table or desk where you buy, order, ask, or pay for things.\n\nIt’s a noun. You can say **một quầy**, **hai quầy**; sometimes people add **cái** → **một cái quầy**, but often just the number + quầy is enough.  \n\nCommon pairings: **quầy thu ngân** (cashier counter), **quầy lễ tân** (reception desk), **quầy bar**, **quầy bán vé** (ticket counter).  \n\nThink of **quầy** as something fixed and official-looking — more solid and service-related than just a regular **bàn** (table).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:01:10.702Z",
+    "updatedAt": "2025-03-12T16:01:10.702Z",
+    "content": {
+      "translation": {
+        "en": "I stood at the counter for a while."
+      },
+      "word": "quầy",
+      "language": "vi",
+      "sentence": "Tôi đã đứng ở ___ một lúc.",
+      "choices": [
+        "quầy",
+        "cửa",
+        "bàn"
+      ],
+      "hint": "q___y",
+      "translatedAnswer": {
+        "en": "counter"
+      },
+      "answer": "quầy"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "0a1d06c5-0f21-4506-8448-a2c43dcd6987"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2651,
+  "notes": "Quầy means a counter — the long table or desk where you buy, order, ask, or pay for things.\n\nIt’s a noun. You can say một quầy, hai quầy; sometimes people add cái → một cái quầy, but often just the number + quầy is enough.  \n\nCommon pairings: quầy thu ngân (cashier counter), quầy lễ tân (reception desk), quầy bar, quầy bán vé (ticket counter).  \n\nThink of quầy as something fixed and official-looking — more solid and service-related than just a regular bàn (table).",
+  "definition": "counter",
+  "exampleSentences": [
+    "Anh đứng chờ ở quầy để thanh toán tiền mua hàng.",
+    "Em có thể hỏi nhân viên tại quầy về thông tin chuyến bay.",
+    "Chị thường mua cà phê ở quầy mỗi sáng trước khi đi làm."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bàn",
+    "ghế",
+    "quầy"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I go to the counter to buy things."
+      },
+      "word": "quầy",
+      "translatedAnswer": {
+        "en": "counter"
+      },
+      "answer": "quầy",
+      "sentence": "Tôi đến ___ để mua đồ.",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "3bc9d565-1f3c-435f-87bd-14c292706259",
+    "createdAt": "2025-03-12T16:01:10.702Z",
+    "updatedAt": "2025-03-12T16:01:10.702Z"
+  },
+  "_id": "mQbPIK4BIQB7KocI56ia"
+}

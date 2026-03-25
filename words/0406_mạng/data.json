@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:40:06.069Z",
+    "id": "8c16f37a-f62e-4c7a-83fd-5027493ce96d",
+    "content": {
+      "sentence": "Tôi sử dụng ___ để lướt web.",
+      "word": "mạng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "network"
+      },
+      "translation": {
+        "en": "I use the network to browse the web."
+      },
+      "answer": "mạng",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:40:06.069Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "internet",
+  "rank": 406,
+  "notes_md": "**mạng** usually means **the internet**. It’s what you use to go online, browse, message, stream, etc.\n\nIt’s a noun and usually uncountable when you mean the internet. Common pairings: **mạng Wi‑Fi**, **mạng xã hội** (social network), **kết nối mạng** (internet connection).\n\n\nVery common other meaning: **network** in general (computer network, social network). In some fixed phrases, **mạng** can also mean “life” (like *mạng sống* = life), but that’s a different context.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "mạng usually means the internet. It’s what you use to go online, browse, message, stream, etc.\n\nIt’s a noun and usually uncountable when you mean the internet. Common pairings: mạng Wi‑Fi, mạng xã hội (social network), kết nối mạng (internet connection).\n\nVery common other meaning: network in general (computer network, social network). In some fixed phrases, mạng can also mean “life” (like mạng sống = life), but that’s a different context.",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:11:53.267Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi cần kết nối mạng để làm việc.",
+      "es": "Necesito conectarme a la red para trabajar.",
+      "en": "I need to connect to the network to work."
+    },
+    "definitions": {
+      "en": "Network or web, often referring to a system of interconnected computers or the internet.",
+      "es": "Red o malla, a menudo refiriéndose a un sistema de computadoras interconectadas o a internet.",
+      "vi": "Mạng là một hệ thống các máy tính hoặc thiết bị được kết nối với nhau."
+    },
+    "translations": {
+      "es": "red",
+      "en": "network",
+      "vi": "mạng"
+    }
+  },
+  "word": "mạng",
+  "exampleSentencesTranslated": [
+    "He can't watch movies because the internet at his house is too slow today.",
+    "She often uses the internet to look for study information every day.",
+    "I ask my friends on the internet about famous travel places in Da Lat."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:40:06.069Z",
+    "id": "0c739610-1417-48fd-a145-87505f2ddb47",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "network"
+      },
+      "translation": {
+        "en": "I need to connect to the network."
+      },
+      "answer": "mạng",
+      "choices": [
+        "mạng",
+        "máy tính",
+        "điện thoại"
+      ],
+      "language": "vi",
+      "word": "mạng",
+      "hint": "m____",
+      "sentence": "Tôi cần kết nối ___."
+    },
+    "updatedAt": "2025-03-12T16:40:06.069Z"
+  },
+  "exampleSentences": [
+    "Anh không thể xem phim vì mạng nhà anh hôm nay quá yếu.",
+    "Chị thường dùng mạng để tìm kiếm thông tin học tập mỗi ngày.",
+    "Em hỏi bạn bè trên mạng về địa điểm du lịch nổi tiếng ở Đà Lạt."
+  ],
+  "updatedAt": "2026-03-03T07:02:59.069Z",
+  "choices": [
+    "mạng",
+    "bàn",
+    "đèn"
+  ],
+  "_id": "wm6apLtuPPLenfZKxFPX"
+}

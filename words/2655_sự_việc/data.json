@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T11:32:45.451Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:01:45.093Z",
+    "updatedAt": "2025-03-12T13:01:45.093Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "sự việc",
+      "sentence": "Tôi muốn biết ___ này.",
+      "word": "sự việc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "event"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I want to know this event."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "766f78c6-ef50-4ca7-a48e-b31b5ddbcade"
+  },
+  "notes_md": "**Sự việc** means an event or incident — usually something specific that happened. It often sounds a bit formal or serious.\n\nIt’s a countable noun: *một sự việc, nhiều sự việc*. Common pairings: *xảy ra sự việc*, *liên quan đến sự việc*, *giải quyết sự việc*, *làm rõ sự việc*.\n\nIt’s used more in reports or discussions about problems. A close synonym is **vụ việc** (often more serious, like a case), while **chuyện** is more casual and everyday.",
+  "exampleSentencesTranslated": [
+    "Have you told me about the event that happened yesterday?",
+    "After that event, everyone in the company became more careful.",
+    "She feels worried about the event that happened at her child's school."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "Sự việc means an event or incident — usually something specific that happened. It often sounds a bit formal or serious.\n\nIt’s a countable noun: một sự việc, nhiều sự việc. Common pairings: xảy ra sự việc, liên quan đến sự việc, giải quyết sự việc, làm rõ sự việc.\n\nIt’s used more in reports or discussions about problems. A close synonym is vụ việc (often more serious, like a case), while chuyện is more casual and everyday.",
+  "choices": [
+    "sự việc",
+    "kết quả",
+    "hoạt động"
+  ],
+  "word": "sự việc",
+  "definition": "event",
+  "rank": 2655,
+  "flashcard": {
+    "example": {
+      "es": "Este evento es muy importante.",
+      "en": "This event is very important.",
+      "vi": "Sự việc này rất quan trọng."
+    },
+    "translations": {
+      "en": "event",
+      "vi": "sự việc",
+      "es": "evento"
+    },
+    "definitions": {
+      "en": "An occurrence or incident.",
+      "vi": "Một sự kiện hoặc sự cố.",
+      "es": "Un acontecimiento o incidente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:44:39.860Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "This story relates to an event."
+      },
+      "choices": [
+        "sự kiện",
+        "sự việc",
+        "trường hợp"
+      ],
+      "hint": "s__ việc",
+      "word": "sự việc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "event"
+      },
+      "sentence": "Câu chuyện này liên quan đến ___.",
+      "answer": "sự việc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "c639622c-7a5f-40ac-8bb2-8f52a9c90b55",
+    "createdAt": "2025-03-12T13:01:45.093Z",
+    "updatedAt": "2025-03-12T13:01:45.093Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh kể cho em nghe về sự việc xảy ra hôm qua chưa?",
+    "Sau sự việc đó, mọi người trong công ty đều cẩn thận hơn.",
+    "Chị cảm thấy lo lắng về sự việc xảy ra ở trường của con."
+  ],
+  "_id": "3S9twbfWmQ981SdoxAdO"
+}

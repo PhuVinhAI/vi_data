@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:30:45.082Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "một số",
+        "tất cả",
+        "nhiều"
+      ],
+      "sentence": "Chúng tôi sẽ mời ___ mọi người.",
+      "language": "vi",
+      "word": "tất cả",
+      "translatedAnswer": {
+        "en": "all"
+      },
+      "translation": {
+        "en": "We will invite all the people."
+      },
+      "answer": "tất cả",
+      "hint": "t___a"
+    },
+    "createdAt": "2025-03-12T13:30:45.082Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e0066d88-9254-46a5-9ce4-ab2505c335d4"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tất cả** means *all* or *everything / everyone*, depending on what follows it. It talks about the whole group, not just part of it.\n\nIt usually comes before a noun or pronoun to mean 100% of something. Very often you’ll see **đều** after it to emphasize that every member does something.\n\n\nClose synonym: **mọi** (as in “mọi người”), but *mọi* goes directly before the noun and doesn’t need “tất cả.” More formal synonym: **hết thảy**.",
+  "choices": [
+    "tất cả",
+    "một phần",
+    "nhiều khi"
+  ],
+  "rank": 124,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "tất cả",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:30:45.082Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:45.082Z",
+    "content": {
+      "translation": {
+        "en": "We will invite all the people."
+      },
+      "translatedAnswer": {
+        "en": "all"
+      },
+      "answer": "tất cả",
+      "choices": [],
+      "word": "tất cả",
+      "language": "vi",
+      "sentence": "Chúng tôi sẽ mời ___ mọi người."
+    },
+    "id": "e28d4d46-3938-4312-a0c9-ab066903bb25"
+  },
+  "exampleSentencesTranslated": [
+    "Anh has prepared all documents for the meeting this morning.",
+    "Chị wants to thank all people who helped her last week.",
+    "Em can eat all this food if em wants."
+  ],
+  "definition": "all",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:19:56.435Z",
+    "translations": {
+      "en": "all"
+    },
+    "example": {
+      "en": "All the students arrived to class on time.",
+      "vi": "Tất cả học sinh đều đã đến lớp đúng giờ."
+    },
+    "word": "tất cả",
+    "definitions": {
+      "en": "Used to refer to the whole or every part of a group.",
+      "vi": "Dùng để chỉ toàn bộ hoặc mọi thành phần trong một nhóm."
+    }
+  },
+  "notes": "tất cả means all or everything / everyone, depending on what follows it. It talks about the whole group, not just part of it.\n\nIt usually comes before a noun or pronoun to mean 100% of something. Very often you’ll see đều after it to emphasize that every member does something.\n\nClose synonym: mọi (as in “mọi người”), but mọi goes directly before the noun and doesn’t need “tất cả.” More formal synonym: hết thảy.",
+  "updatedAt": "2026-03-03T06:32:45.685Z",
+  "exampleSentences": [
+    "Anh đã chuẩn bị tất cả tài liệu cho buổi họp sáng nay.",
+    "Chị muốn cảm ơn tất cả mọi người đã giúp đỡ chị tuần trước.",
+    "Em có thể ăn tất cả món ăn này nếu em muốn."
+  ],
+  "_id": "BAPuds1y8hDgesYlCh9R"
+}

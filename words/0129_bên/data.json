@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em ngồi ở bên anh để nghe thầy giảng bài dễ hơn.",
+    "Chị đặt túi xách của mình ở bên cửa ra vào rồi.",
+    "Mỗi khi buồn, mẹ luôn ở bên em và lắng nghe em chia sẻ."
+  ],
+  "updatedAt": "2026-03-03T06:33:23.084Z",
+  "notes": "bên means “side” or “next to.” It’s used to talk about position: something is at the side of something else.\n\nYou’ll often see it with location words: bên trái (left side), bên phải (right side), hai bên (both sides). It can also mean “party/side” in a situation, like two sides in a discussion (bên A, bên B).\n\nIt usually follows prepositions like ở to show location.  \n\nClose memory link: bên cạnh = next to (a bit more specific than just bên).",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đứng bên cửa sổ.",
+      "es": "Estoy de pie junto a la ventana.",
+      "en": "I am standing by the window."
+    },
+    "definitions": {
+      "en": "Next to or beside something.",
+      "es": "Al lado de o junto a algo.",
+      "vi": "Bên cạnh hoặc sát bên một cái gì đó."
+    },
+    "createdAt": "2025-01-28T13:05:28.657Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "side",
+      "es": "lado",
+      "vi": "bên"
+    }
+  },
+  "definition": "side",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:30:28.749Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "side"
+      },
+      "translation": {
+        "en": "The window is on the side of my house."
+      },
+      "answer": "bên",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Cửa sổ ở ___ nhà tôi.",
+      "word": "bên"
+    },
+    "id": "e9610f3e-f06b-4508-bd65-45370cd28d63",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:30:28.749Z"
+  },
+  "exampleSentencesTranslated": [
+    "I sit on the side of you to listen to the teacher more easily.",
+    "She already placed her handbag on the side of the entrance.",
+    "Whenever I am sad, my mom is always by my side and listens to me share."
+  ],
+  "word": "bên",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 129,
+  "choices": [
+    "trên",
+    "bên",
+    "dưới"
+  ],
+  "notes_md": "**bên** means “side” or “next to.” It’s used to talk about position: something is at the side of something else.\n\nYou’ll often see it with location words: **bên trái** (left side), **bên phải** (right side), **hai bên** (both sides). It can also mean “party/side” in a situation, like two sides in a discussion (**bên A, bên B**).\n\nIt usually follows prepositions like **ở** to show location.  \n\nClose memory link: **bên cạnh** = next to (a bit more specific than just bên).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:30:28.749Z",
+    "type": "multiChoiceQuiz",
+    "id": "e2cb80fa-ae05-404e-9753-9ffa89ece5cd",
+    "content": {
+      "hint": "b__n",
+      "answer": "bên",
+      "translatedAnswer": {
+        "en": "side"
+      },
+      "translation": {
+        "en": "The window is on the side of my house."
+      },
+      "language": "vi",
+      "sentence": "Cửa sổ ở ___ nhà tôi.",
+      "word": "bên",
+      "choices": [
+        "trong",
+        "bên",
+        "ngoài"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:30:28.749Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "f0tn0RpDIU2tTW31gdgA"
+}

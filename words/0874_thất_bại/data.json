@@ -1,0 +1,99 @@
+{
+  "definition": "failure",
+  "flashcard": {
+    "example": {
+      "es": "No tengo miedo al fracaso.",
+      "vi": "Tôi không sợ thất bại.",
+      "en": "I am not afraid of failure."
+    },
+    "definitions": {
+      "es": "La condición de no lograr un resultado deseado.",
+      "vi": "Tình trạng không đạt được kết quả mong muốn.",
+      "en": "The condition of not achieving a desired outcome."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:51:27.114Z",
+    "translations": {
+      "en": "failure",
+      "vi": "thất bại",
+      "es": "fracaso"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "After many times of failure, he still did not give up.",
+    "She learned many valuable lessons from each failure in life.",
+    "Don't be afraid of failure because sometimes it is an opportunity to grow."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi không sợ ___ trong cuộc sống.",
+      "word": "thất bại",
+      "choices": [],
+      "answer": "thất bại",
+      "translatedAnswer": {
+        "en": "failure"
+      },
+      "translation": {
+        "en": "I am not afraid of failure in life."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:50.962Z",
+    "id": "6d3bfc69-3116-440b-930d-07177975d2a4",
+    "updatedAt": "2025-03-12T15:16:50.962Z"
+  },
+  "updatedAt": "2026-03-03T07:49:29.830Z",
+  "exampleSentences": [
+    "Sau nhiều lần thất bại, anh ấy vẫn không bỏ cuộc.",
+    "Chị học được nhiều bài học quý giá từ mỗi thất bại trong cuộc sống.",
+    "Đừng sợ thất bại vì đôi khi đó là cơ hội để trưởng thành."
+  ],
+  "notes": "thất bại = failure; when something doesn’t succeed.\n\nIt’s a noun: một thất bại, often used with verbs like gặp, chịu, trải qua, dẫn đến. You’ll also see the more formal form sự thất bại in writing.\n\nIt can act like a verb meaning “to fail” when talking about plans, attempts, systems, etc.\n\nStrong opposite: thành công (success).",
+  "notes_md": "**thất bại** = failure; when something doesn’t succeed.\n\nIt’s a **noun**: *một thất bại*, often used with verbs like **gặp**, **chịu**, **trải qua**, **dẫn đến**. You’ll also see the more formal form **sự thất bại** in writing.\n\nIt can act like a **verb** meaning “to fail” when talking about plans, attempts, systems, etc.\n\n\nStrong opposite: **thành công** (success).",
+  "choices": [
+    "thành công",
+    "nỗ lực",
+    "thất bại"
+  ],
+  "rank": 874,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:16:50.962Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "failure"
+      },
+      "translation": {
+        "en": "People often learn from failure."
+      },
+      "hint": "th___i",
+      "answer": "thất bại",
+      "choices": [
+        "thắng lợi",
+        "thất bại",
+        "thách thức"
+      ],
+      "language": "vi",
+      "sentence": "Người ta thường học từ ___.",
+      "word": "thất bại"
+    },
+    "id": "8d7aa038-a2cd-4065-976e-e392de1391be",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:16:50.962Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thất bại",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "bOa7EwDk9KOlSVRTiv74"
+}

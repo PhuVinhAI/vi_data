@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:15:31.273Z",
+    "updatedAt": "2025-03-12T14:15:31.273Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "peaches"
+      },
+      "answer": "đào",
+      "word": "đào",
+      "sentence": "Tôi thích ăn ___ vào mùa hè.",
+      "translation": {
+        "en": "I like to eat peaches in the summer."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "99bacf8c-05f5-4620-9b02-b1b2f3bc96cf"
+  },
+  "definition": "peach",
+  "choices": [
+    "cam",
+    "đào",
+    "lê"
+  ],
+  "updatedAt": "2026-03-03T09:50:24.144Z",
+  "notes": "đào = peach, the sweet pink/orange fruit. It’s a countable noun: quả đào / trái đào (one peach), and the tree is cây đào.\n\nVery common pairing: hoa đào = peach blossom (the pink flowers, especially seen during Tết in the North).\n\nThere’s also a super common second meaning: đào = to dig.  \n\nTo remember: fruit = something you eat; verb = action with the ground.",
+  "exampleSentencesTranslated": [
+    "I like eating peach in the summer because it is very sweet.",
+    "I bought a kilo of fresh peach at the market this morning.",
+    "Can you help me peel this peach?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đào** = peach, the sweet pink/orange fruit. It’s a countable noun: **quả đào / trái đào** (one peach), and the tree is **cây đào**.\n\nVery common pairing: **hoa đào** = peach blossom (the pink flowers, especially seen during Tết in the North).\n\nThere’s also a super common second meaning: **đào** = to dig.  \n\nTo remember: fruit = something you eat; verb = action with the ground.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:15:31.273Z",
+    "createdAt": "2025-03-12T14:15:31.273Z",
+    "id": "cd57e954-9adf-48c3-a433-5a030d440582",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "There is a peach on the table."
+      },
+      "language": "vi",
+      "choices": [
+        "mận",
+        "đào",
+        "xoài"
+      ],
+      "hint": "d___",
+      "word": "đào",
+      "sentence": "Trên bàn có một quả ___.",
+      "translatedAnswer": {
+        "en": "peach"
+      },
+      "answer": "đào"
+    }
+  },
+  "word": "đào",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "The peach tree blooms in spring.",
+      "es": "El duraznero florece en primavera.",
+      "vi": "Cây đào ra hoa vào mùa xuân."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đào",
+      "es": "durazno",
+      "en": "peach"
+    },
+    "definitions": {
+      "en": "A fruit tree that produces peaches.",
+      "es": "Un árbol frutal que produce duraznos.",
+      "vi": "Một loại cây ăn quả cho trái đào."
+    },
+    "createdAt": "2025-01-28T11:52:30.192Z"
+  },
+  "exampleSentences": [
+    "Em thích ăn đào vào mùa hè vì nó rất ngọt.",
+    "Chị đã mua một ký đào tươi ở chợ sáng nay.",
+    "Anh có thể giúp em gọt vỏ đào này không?"
+  ],
+  "rank": 2006,
+  "_id": "Lxkxn2eXiMryhtXhBSFv"
+}

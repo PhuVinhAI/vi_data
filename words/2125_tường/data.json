@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I painted a picture on the wall.",
+      "vi": "Tôi vẽ tranh trên tường.",
+      "es": "Pinté un cuadro en la pared."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "pared",
+      "vi": "tường",
+      "en": "wall"
+    },
+    "definitions": {
+      "vi": "Một cấu trúc thẳng đứng định nghĩa và đôi khi bảo vệ một khu vực.",
+      "es": "Una estructura vertical que define y a veces protege un área.",
+      "en": "A vertical structure that defines and sometimes protects an area."
+    },
+    "createdAt": "2025-01-28T11:51:41.617Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh treo một bức tranh mới lên tường trong phòng khách.",
+    "Em thấy có vết bẩn trên tường, mình nên lau sạch đi.",
+    "Chị muốn sơn lại tường phòng ngủ thành màu xanh dịu."
+  ],
+  "rank": 2125,
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "tường",
+      "translatedAnswer": {
+        "en": "wall"
+      },
+      "sentence": "Tôi dựa vào ___ để vẽ.",
+      "word": "tường",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I lean against the wall to draw."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "c343c0fa-82d6-47ea-8184-8e9671df9335",
+    "createdAt": "2025-03-12T14:14:34.966Z",
+    "updatedAt": "2025-03-12T14:14:34.966Z"
+  },
+  "definition": "wall",
+  "updatedAt": "2026-03-03T10:02:50.561Z",
+  "choices": [
+    "trần",
+    "tường",
+    "cửa"
+  ],
+  "notes": "tường = wall (the solid vertical surface of a room or building).\n\nIt’s a noun. You often say bức tường (classifier bức for flat vertical things).  \nCommon pairings: dựa vào tường (lean against), đập vào tường (hit the wall), sát tường (right next to the wall).\n\nClose word: vách = partition wall (usually thinner, lighter). Think tường = solid structure, vách = divider inside.",
+  "exampleSentencesTranslated": [
+    "He hangs a new picture on the wall in the living room.",
+    "I see a stain on the wall; we should clean it.",
+    "She wants to repaint the wall of the bedroom to a soft blue."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tường** = wall (the solid vertical surface of a room or building).\n\nIt’s a noun. You often say **bức tường** (classifier *bức* for flat vertical things).  \nCommon pairings: **dựa vào tường** (lean against), **đập vào tường** (hit the wall), **sát tường** (right next to the wall).\n\nClose word: **vách** = partition wall (usually thinner, lighter). Think *tường* = solid structure, *vách* = divider inside.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tường",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:14:34.966Z",
+    "updatedAt": "2025-03-12T14:14:34.966Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "sàn",
+        "trần",
+        "tường"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "She decorates the wall with paintings."
+      },
+      "sentence": "Cô ấy trang trí ___ bằng tranh.",
+      "hint": "t___n",
+      "word": "tường",
+      "answer": "tường",
+      "translatedAnswer": {
+        "en": "wall"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "24f527d4-2469-47d3-83ef-a2885d49fee3"
+  },
+  "_id": "LkciTrFTlfz0AyWz3gHm"
+}

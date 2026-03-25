@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nướng",
+  "multiChoiceQuiz": {
+    "id": "6ff5b012-b233-461a-8f41-09c10a629d69",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "grill"
+      },
+      "answer": "nướng",
+      "translation": {
+        "en": "I like to grill fish in the evening."
+      },
+      "language": "vi",
+      "choices": [
+        "nướng",
+        "chiên",
+        "hấp"
+      ],
+      "word": "nướng",
+      "hint": "n__g",
+      "sentence": "Tôi thích ___ cá vào buổi tối."
+    },
+    "updatedAt": "2025-03-12T14:02:53.172Z",
+    "createdAt": "2025-03-12T14:02:53.172Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nướng** = to grill or roast food over heat, often directly over fire or in an oven. Think BBQ, charcoal, or dry heat.\n\nYou use it with food: *nướng + món ăn* (meat, fish, sweet potatoes, etc.). It often goes with tools or surfaces like *bằng lò* (by oven) or *trên than* (over charcoal).\n\n\nVery common slang: **nướng tiền** = to waste/spend money carelessly (like “burning” money).  \n\nClose cousins: **quay** (roast, often whole animals like duck), **rang** (dry-fry, smaller items like peanuts).",
+  "updatedAt": "2026-03-03T10:34:48.120Z",
+  "choices": [
+    "luộc",
+    "nướng",
+    "hấp"
+  ],
+  "exampleSentencesTranslated": [
+    "This weekend, I want to grill meat in the yard with friends.",
+    "She often grills fish for dinner because the whole family likes it.",
+    "I learned how to grill bread with the new oven."
+  ],
+  "notes": "nướng = to grill or roast food over heat, often directly over fire or in an oven. Think BBQ, charcoal, or dry heat.\n\nYou use it with food: nướng + món ăn (meat, fish, sweet potatoes, etc.). It often goes with tools or surfaces like bằng lò (by oven) or trên than (over charcoal).\n\nVery common slang: nướng tiền = to waste/spend money carelessly (like “burning” money).  \n\nClose cousins: quay (roast, often whole animals like duck), rang (dry-fry, smaller items like peanuts).",
+  "fillBlankQuiz": {
+    "id": "f475b5a7-0aed-43be-8df0-93a11355cd55",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "grill"
+      },
+      "answer": "nướng",
+      "word": "nướng",
+      "sentence": "Chúng tôi sẽ ___ thịt ở bữa tiệc.",
+      "translation": {
+        "en": "We will grill meat at the party."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:02:53.172Z",
+    "createdAt": "2025-03-12T14:02:53.172Z"
+  },
+  "definition": "grill",
+  "rank": 2432,
+  "exampleSentences": [
+    "Cuối tuần này, anh muốn nướng thịt ngoài vườn cùng bạn bè.",
+    "Chị thường nướng cá vào bữa tối vì cả nhà đều thích.",
+    "Em đã học cách nướng bánh mì bằng lò nướng mới."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:40:44.879Z",
+    "translations": {
+      "en": "grill",
+      "es": "asar",
+      "vi": "nướng"
+    },
+    "definitions": {
+      "en": "To cook food over direct heat, typically on a grill.",
+      "es": "Cocinar alimentos sobre calor directo, típicamente en una parrilla.",
+      "vi": "Nấu thức ăn trên lửa trực tiếp, thường là trên vỉ nướng."
+    },
+    "example": {
+      "es": "Me gusta asar carne los fines de semana.",
+      "vi": "Tôi thích nướng thịt vào cuối tuần.",
+      "en": "I like to grill meat on the weekends."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "JPXmRiP4akMLdkCoODlw"
+}

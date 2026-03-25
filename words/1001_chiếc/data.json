@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi đã mua ___ xe đạp mới.",
+      "word": "chiếc",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I bought a new bicycle."
+      },
+      "answer": "chiếc",
+      "translatedAnswer": {
+        "en": "a"
+      }
+    },
+    "updatedAt": "2025-03-12T16:33:53.257Z",
+    "id": "17267bdf-13ad-4ea5-8cde-748834baba59",
+    "createdAt": "2025-03-12T16:33:53.257Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "item",
+  "rank": 1001,
+  "notes_md": "**chiếc** is a classifier, like saying “a (single) item” in English. It’s used before certain nouns, especially vehicles and some individual objects.\n\nYou use **chiếc + noun** for things like cars, boats, phones, chairs—often when you see them as single, countable units. It feels a bit more specific and slightly more formal than **cái**, which is the general, all-purpose classifier.\n\nIf you’re unsure, **cái** usually works, but **chiếc** sounds more natural with vehicles and some distinct items.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:05:16.161Z",
+    "translations": {
+      "es": "pieza",
+      "en": "piece",
+      "vi": "chiếc"
+    },
+    "example": {
+      "es": "Tengo una bicicleta nueva.",
+      "en": "I have a new bicycle.",
+      "vi": "Tôi có một chiếc xe đạp mới."
+    },
+    "definitions": {
+      "en": "A classifier for objects, often used for items like vehicles or pieces of clothing.",
+      "es": "Un clasificador para objetos, a menudo utilizado para artículos como vehículos o prendas de vestir.",
+      "vi": "Một từ phân loại cho các đối tượng, thường được sử dụng cho các vật như phương tiện hoặc trang phục."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chiếc is a classifier, like saying “a (single) item” in English. It’s used before certain nouns, especially vehicles and some individual objects.\n\nYou use chiếc + noun for things like cars, boats, phones, chairs—often when you see them as single, countable units. It feels a bit more specific and slightly more formal than cái, which is the general, all-purpose classifier.\n\nIf you’re unsure, cái usually works, but chiếc sounds more natural with vehicles and some distinct items.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He bought a new item of motorbike to go to work every day.",
+    "I think this item of hat matches your shirt very well.",
+    "Can you get me an item of plate to put the fruit on?"
+  ],
+  "word": "chiếc",
+  "choices": [
+    "chiếc",
+    "cái",
+    "bức"
+  ],
+  "exampleSentences": [
+    "Anh mua một chiếc xe máy mới để đi làm mỗi ngày.",
+    "Em thấy chiếc mũ này rất hợp với áo của chị.",
+    "Chị có thể lấy giúp em một chiếc đĩa để để trái cây không?"
+  ],
+  "updatedAt": "2026-03-03T08:02:36.960Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I have this shirt."
+      },
+      "answer": "chiếc",
+      "choices": [
+        "một",
+        "chiếc",
+        "cái"
+      ],
+      "translatedAnswer": {
+        "en": "this"
+      },
+      "language": "vi",
+      "hint": "c___",
+      "word": "chiếc",
+      "sentence": "Tôi có ___ áo này."
+    },
+    "updatedAt": "2025-03-12T16:33:53.257Z",
+    "type": "multiChoiceQuiz",
+    "id": "831f951d-7dbe-446b-b474-196627acb4ae",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:33:53.257Z"
+  },
+  "_id": "v5rycTM08Xmj4lRICKJd"
+}

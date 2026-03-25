@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:32:27.970Z",
+  "word": "cho phép",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:48:37.150Z",
+    "content": {
+      "word": "cho phép",
+      "choices": [
+        "cấm",
+        "cho phép",
+        "khuyên"
+      ],
+      "translation": {
+        "en": "They allow me to participate."
+      },
+      "answer": "cho phép",
+      "hint": "c___h",
+      "sentence": "Họ ___ tôi tham gia.",
+      "translatedAnswer": {
+        "en": "allow"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "5371aaa3-14ef-4664-86dc-908576978c46",
+    "createdAt": "2025-03-12T14:48:37.150Z"
+  },
+  "exampleSentencesTranslated": [
+    "My parents do not allow me to go out late with friends.",
+    "The company will allow employees to work from home tomorrow.",
+    "Can you allow your friend to borrow your motorbike?"
+  ],
+  "rank": 1278,
+  "notes": "cho phép = to allow or give permission for something to happen.\n\nIt’s a verb, usually used when someone with authority agrees to something. Very common with rules, parents, bosses, schools, laws.  \nYou can also use it with things: cho phép + việc gì.\n\nClose synonym: cho (shorter, more casual). Opposite: cấm (forbid).",
+  "choices": [
+    "cho phép",
+    "giúp đỡ",
+    "cấm"
+  ],
+  "notes_md": "**cho phép** = to allow or give permission for something to happen.\n\nIt’s a verb, usually used when someone with authority agrees to something. Very common with rules, parents, bosses, schools, laws.  \nYou can also use it with things: cho phép + việc gì.\n\nClose synonym: **cho** (shorter, more casual). Opposite: **cấm** (forbid).",
+  "exampleSentences": [
+    "Ba mẹ không cho phép em đi chơi khuya với bạn bè.",
+    "Công ty sẽ cho phép nhân viên làm việc từ xa vào ngày mai.",
+    "Anh có thể cho phép bạn mượn xe của anh không?"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "cho phép",
+      "en": "to allow",
+      "es": "permitir"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "El maestro permite a los estudiantes salir a jugar.",
+      "vi": "Giáo viên cho phép học sinh ra ngoài chơi.",
+      "en": "The teacher allows the students to go outside to play."
+    },
+    "createdAt": "2025-01-28T12:22:37.317Z",
+    "definitions": {
+      "vi": "Cho phép ai đó làm điều gì đó.",
+      "en": "To allow or permit someone to do something.",
+      "es": "Permitir o autorizar a alguien a hacer algo."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "allow",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng tôi ___ sử dụng điện thoại.",
+      "translatedAnswer": {
+        "en": "allowed"
+      },
+      "language": "vi",
+      "answer": "cho phép",
+      "translation": {
+        "en": "We are allowed to use the phone."
+      },
+      "choices": [],
+      "word": "cho phép"
+    },
+    "updatedAt": "2025-03-12T14:48:37.150Z",
+    "createdAt": "2025-03-12T14:48:37.150Z",
+    "id": "f02b4e7b-67b3-4948-9cf5-93828a861700",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "TvZxW3f2BX6wDhgMQ06Q"
+}

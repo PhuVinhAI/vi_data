@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "excited",
+      "es": "emocionado",
+      "vi": "háo hức"
+    },
+    "example": {
+      "en": "I feel excited when I am about to go on a trip.",
+      "es": "Me siento emocionado cuando estoy a punto de ir de viaje.",
+      "vi": "Tôi cảm thấy háo hức khi sắp được đi du lịch."
+    },
+    "definitions": {
+      "en": "A feeling of eager anticipation or excitement.",
+      "es": "Una sensación de anticipación o emoción ansiosa.",
+      "vi": "Cảm giác háo hức, mong chờ điều gì đó."
+    },
+    "createdAt": "2025-01-28T12:30:52.336Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I am very excited to wait for my birthday.",
+    "The whole class is excited when preparing for the picnic.",
+    "He is excited to meet his old friend after many years apart."
+  ],
+  "fillBlankQuiz": {
+    "id": "5ca615ab-6f1c-48c7-8e96-f9eafdf4c890",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:58:04.543Z",
+    "updatedAt": "2025-03-12T14:58:04.543Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "excited"
+      },
+      "translation": {
+        "en": "I am very excited about this trip."
+      },
+      "sentence": "Tôi rất ___ về chuyến đi này.",
+      "answer": "háo hức",
+      "word": "háo hức",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:20:46.758Z",
+  "definition": "excited",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Háo hức** means feeling excited and eager about something that’s coming soon. It’s a happy, energetic kind of excitement.\n\nIt’s an adjective, used to describe a person’s feeling. You often see it with **rất, quá, vô cùng**, or after **cảm thấy**.\n\n\nClose synonyms: **phấn khích** (more intense, almost thrilled), **mong chờ** (more about looking forward, less emotional).",
+  "rank": 2995,
+  "choices": [
+    "háo hức",
+    "lo lắng",
+    "buồn bã"
+  ],
+  "word": "háo hức",
+  "notes": "Háo hức means feeling excited and eager about something that’s coming soon. It’s a happy, energetic kind of excitement.\n\nIt’s an adjective, used to describe a person’s feeling. You often see it with rất, quá, vô cùng, or after cảm thấy.\n\nClose synonyms: phấn khích (more intense, almost thrilled), mong chờ (more about looking forward, less emotional).",
+  "exampleSentences": [
+    "Em rất háo hức chờ đến ngày sinh nhật của mình.",
+    "Cả lớp đều háo hức khi chuẩn bị cho chuyến đi dã ngoại.",
+    "Anh ấy háo hức gặp lại bạn cũ sau nhiều năm xa cách."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:58:04.543Z",
+    "updatedAt": "2025-03-12T14:58:04.543Z",
+    "content": {
+      "sentence": "Cô ấy luôn ___ khi đi du lịch.",
+      "word": "háo hức",
+      "language": "vi",
+      "hint": "h___c",
+      "answer": "háo hức",
+      "choices": [
+        "mệt mỏi",
+        "háo hức",
+        "buồn bã"
+      ],
+      "translatedAnswer": {
+        "en": "excited"
+      },
+      "translation": {
+        "en": "She is always excited when traveling."
+      }
+    },
+    "id": "2083b6c9-8e4b-4009-bbe1-abf525bade64"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "WMiLHK8WgdlzikDBOrXn"
+}

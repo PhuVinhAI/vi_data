@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "equality",
+      "es": "igualdad",
+      "vi": "bình đẳng"
+    },
+    "example": {
+      "vi": "Mọi người đều có quyền bình đẳng.",
+      "es": "Todos tienen derecho a la igualdad.",
+      "en": "Everyone has the right to equality."
+    },
+    "definitions": {
+      "es": "El estado de ser igual, especialmente en estatus, derechos y oportunidades.",
+      "en": "The state of being equal, especially in status, rights, and opportunities.",
+      "vi": "Trạng thái của sự bình đẳng, đặc biệt là về địa vị, quyền lợi và cơ hội."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:52:32.399Z"
+  },
+  "choices": [
+    "bình đẳng",
+    "tự do",
+    "hạnh phúc"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh tin rằng mọi người trong xã hội nên được đối xử bình đẳng.",
+    "Ở công ty này, nam và nữ đều có cơ hội bình đẳng để phát triển.",
+    "Chị luôn dạy con phải tôn trọng bình đẳng giữa các bạn trong lớp."
+  ],
+  "exampleSentencesTranslated": [
+    "He believes everyone in society should be treated with equality.",
+    "In this company, men and women have equality to develop.",
+    "She always teaches her child to respect equality among classmates."
+  ],
+  "updatedAt": "2026-03-03T11:37:37.362Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Bình đẳng means equality — everyone has the same rights, chances, or treatment.\n\nIt’s an abstract noun, often used with sự → sự bình đẳng (more formal). You’ll see it in fixed phrases like bình đẳng giới (gender equality) or quyền bình đẳng (equal rights), where it works like an adjective after a noun.\n\nOpposite: bất bình đẳng (inequality) — easy pair to remember.",
+  "word": "bình đẳng",
+  "fillBlankQuiz": {
+    "id": "c18b6b38-5913-4a21-9c0f-af61b0817e0e",
+    "createdAt": "2025-03-12T16:21:33.033Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:21:33.033Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Mọi người đều có ___ trong xã hội.",
+      "translation": {
+        "en": "Everyone has equality in society."
+      },
+      "translatedAnswer": {
+        "en": "equality"
+      },
+      "choices": [],
+      "word": "bình đẳng",
+      "language": "vi",
+      "answer": "bình đẳng"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2701,
+  "notes_md": "**Bình đẳng** means *equality* — everyone has the same rights, chances, or treatment.\n\nIt’s an abstract noun, often used with **sự** → *sự bình đẳng* (more formal). You’ll see it in fixed phrases like **bình đẳng giới** (gender equality) or **quyền bình đẳng** (equal rights), where it works like an adjective after a noun.\n\n\nOpposite: **bất bình đẳng** (inequality) — easy pair to remember.",
+  "definition": "equality",
+  "multiChoiceQuiz": {
+    "id": "6c665007-0998-4c20-b024-e2ac9b0e4792",
+    "createdAt": "2025-03-12T16:21:33.033Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:21:33.033Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "equality"
+      },
+      "translation": {
+        "en": "Everyone has equality in society."
+      },
+      "hint": "b___g",
+      "word": "bình đẳng",
+      "answer": "bình đẳng",
+      "language": "vi",
+      "choices": [
+        "công lý",
+        "bình đẳng",
+        "tự do"
+      ],
+      "sentence": "Mọi người đều có ___ trong xã hội."
+    }
+  },
+  "_id": "rkui80nsgc0TzZqCrXyR"
+}

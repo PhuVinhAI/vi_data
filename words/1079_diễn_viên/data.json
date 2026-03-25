@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "ca sĩ",
+    "nhà văn",
+    "diễn viên"
+  ],
+  "rank": 1079,
+  "exampleSentences": [
+    "Chị thích xem phim có diễn viên nổi tiếng đóng vai chính.",
+    "Anh trai em muốn trở thành diễn viên trong tương lai.",
+    "Các diễn viên đang tập luyện cho vở kịch tối nay."
+  ],
+  "word": "diễn viên",
+  "definition": "actor",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:10:58.834Z",
+  "notes": "Diễn viên = actor or actress — a person who performs in movies, TV shows, or plays. It’s gender-neutral in Vietnamese.\n\nIt’s a countable noun: một diễn viên, hai diễn viên.  \nOften goes with words like điện ảnh (film), truyền hình (TV), kịch (theater), or roles like vai chính / vai phụ.\n\nCommon verb partners: đóng phim, đóng vai, thủ vai (to play a role).  \n\nRelated word: nghệ sĩ = artist/performer (broader; not just actors).",
+  "fillBlankQuiz": {
+    "id": "d4eed754-e6e7-47bc-834c-c594b517ef02",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:55:26.904Z",
+    "content": {
+      "answer": "diễn viên",
+      "translation": {
+        "en": "She is a famous actor."
+      },
+      "choices": [],
+      "sentence": "Cô ấy là ___ nổi tiếng.",
+      "word": "diễn viên",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "actor"
+      }
+    },
+    "updatedAt": "2025-03-12T13:55:26.904Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "She is a famous actress.",
+      "vi": "Cô ấy là một diễn viên nổi tiếng.",
+      "es": "Ella es una actriz famosa."
+    },
+    "createdAt": "2025-01-28T11:33:17.357Z",
+    "translations": {
+      "en": "actor/actress",
+      "vi": "diễn viên",
+      "es": "actor/actriz"
+    },
+    "definitions": {
+      "vi": "Một người biểu diễn trong các vở kịch, phim hoặc chương trình truyền hình.",
+      "es": "Una persona que actúa en obras de teatro, películas o programas de televisión.",
+      "en": "A person who performs in plays, movies, or television shows."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "She likes to watch movies where a famous actor plays the main role.",
+    "My older brother wants to become an actor in the future.",
+    "The actors are rehearsing for tonight's play."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:55:26.904Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "actor"
+      },
+      "sentence": "Cô ấy muốn trở thành ___ trong tương lai.",
+      "word": "diễn viên",
+      "language": "vi",
+      "hint": "d____n",
+      "choices": [
+        "nhạc sĩ",
+        "diễn viên",
+        "họa sĩ"
+      ],
+      "answer": "diễn viên",
+      "translation": {
+        "en": "She wants to become an actor in the future."
+      }
+    },
+    "createdAt": "2025-03-12T13:55:26.904Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "ef7312d8-d507-45cd-9bf8-682085f98199",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Diễn viên** = actor or actress — a person who performs in movies, TV shows, or plays. It’s gender-neutral in Vietnamese.\n\nIt’s a countable noun: *một diễn viên, hai diễn viên*.  \nOften goes with words like **điện ảnh** (film), **truyền hình** (TV), **kịch** (theater), or roles like **vai chính / vai phụ**.\n\nCommon verb partners: **đóng phim**, **đóng vai**, **thủ vai** (to play a role).  \n\nRelated word: **nghệ sĩ** = artist/performer (broader; not just actors).",
+  "_id": "HYGc3zxuQeZK9BcbkQCG"
+}

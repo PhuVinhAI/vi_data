@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:47:42.137Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "c2e3aa91-43e4-4bde-a4b8-f00256b3a5dd",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "method"
+      },
+      "word": "cách thức",
+      "sentence": "Tôi muốn biết ___ này.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I want to know this method."
+      },
+      "answer": "cách thức"
+    },
+    "createdAt": "2025-03-12T13:56:07.981Z",
+    "updatedAt": "2025-03-12T13:56:07.981Z"
+  },
+  "notes": "Cách thức means method or way of doing something, often a bit more formal than just cách. It’s used for structured or organized approaches.\n\nIt’s a countable noun: một cách thức, các cách thức. Common verbs with it are tìm, áp dụng, thực hiện, thay đổi (often about solving problems or doing tasks).\n\nVery close to phương pháp (more academic/technical) and cách (more casual, everyday). Think: cách = simple way, cách thức = more thought-out method.",
+  "exampleSentencesTranslated": [
+    "I want to find a more effective method to learn Vietnamese.",
+    "Can you show me the method to cook this dish?",
+    "We should try a new method to solve the problem."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "method",
+      "es": "método",
+      "vi": "cách thức"
+    },
+    "example": {
+      "en": "We need to find a way to solve this problem.",
+      "es": "Necesitamos encontrar una manera de resolver este problema.",
+      "vi": "Chúng ta cần tìm ra cách thức giải quyết vấn đề này."
+    },
+    "createdAt": "2025-01-28T11:33:58.105Z",
+    "definitions": {
+      "vi": "Một phương pháp hoặc cách làm điều gì đó.",
+      "es": "Un método o manera de hacer algo.",
+      "en": "A method or manner of doing something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "402291f3-dc14-4fe9-8fba-ef76441eb5e9",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:56:07.981Z",
+    "content": {
+      "translation": {
+        "en": "Can you show me that method?"
+      },
+      "answer": "cách thức",
+      "hint": "c___ thức",
+      "choices": [
+        "cách thức",
+        "quy trình",
+        "hình thức"
+      ],
+      "word": "cách thức",
+      "sentence": "Bạn có thể chỉ cho tôi ___ đó không?",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "method"
+      }
+    },
+    "createdAt": "2025-03-12T13:56:07.981Z"
+  },
+  "notes_md": "**Cách thức** means *method* or *way of doing something*, often a bit more formal than just **cách**. It’s used for structured or organized approaches.\n\nIt’s a countable noun: *một cách thức, các cách thức*. Common verbs with it are **tìm**, **áp dụng**, **thực hiện**, **thay đổi** (often about solving problems or doing tasks).\n\nVery close to **phương pháp** (more academic/technical) and **cách** (more casual, everyday). Think: *cách* = simple way, *cách thức* = more thought-out method.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cách thức",
+    "kế hoạch",
+    "thực phẩm"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1980,
+  "exampleSentences": [
+    "Anh muốn tìm một cách thức học tiếng Việt hiệu quả hơn.",
+    "Chị có thể chỉ cho em cách thức nấu món ăn này không?",
+    "Chúng ta nên thử một cách thức mới để giải quyết vấn đề."
+  ],
+  "word": "cách thức",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "method",
+  "_id": "Hq6QYS8idOAZenSMZ1L6"
+}

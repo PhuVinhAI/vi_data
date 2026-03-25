@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "pressure",
+      "es": "presión",
+      "vi": "áp lực"
+    },
+    "definitions": {
+      "vi": "Cảm giác căng thẳng hoặc gánh nặng do yêu cầu hoặc mong đợi.",
+      "es": "La sensación de estrés o carga debido a demandas o expectativas.",
+      "en": "The feeling of stress or burden due to demands or expectations."
+    },
+    "createdAt": "2025-01-28T11:52:52.483Z",
+    "example": {
+      "vi": "Tôi cảm thấy áp lực trong công việc.",
+      "es": "Siento presión en el trabajo.",
+      "en": "I feel pressure at work."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Dạo này anh cảm thấy nhiều áp lực trong công việc.",
+    "Em gặp áp lực khi phải hoàn thành bài tập đúng hạn.",
+    "Chị ấy luôn biết cách vượt qua áp lực trong cuộc sống."
+  ],
+  "rank": 523,
+  "definition": "pressure",
+  "fillBlankQuiz": {
+    "id": "455e1e7a-daa1-4c8e-9df9-5a24092d2837",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "áp lực",
+      "sentence": "Cô ấy cảm thấy ___ trong công việc.",
+      "translation": {
+        "en": "She feels pressure at work."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "pressure"
+      },
+      "answer": "áp lực"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:16:01.934Z",
+    "createdAt": "2025-03-12T14:16:01.934Z"
+  },
+  "exampleSentencesTranslated": [
+    "Lately I feel a lot of pressure at work.",
+    "I feel pressure when I have to finish assignments on time.",
+    "She always knows how to overcome pressure in life."
+  ],
+  "notes": "Áp lực = pressure, usually mental or emotional pressure from work, study, family, money, etc. It can also mean physical pressure (like water or air pressure), but daily use is mostly about stress from responsibilities.\n\nIt’s an uncountable noun in most cases: nhiều áp lực, ít áp lực, giảm áp lực, tạo áp lực. Often used with chịu / tạo / giảm / vượt qua.\n\nClose to căng thẳng (stress), but áp lực is the external pressure; căng thẳng is more the feeling inside.",
+  "choices": [
+    "áp lực",
+    "hạnh phúc",
+    "thành công"
+  ],
+  "updatedAt": "2026-03-03T07:14:34.730Z",
+  "notes_md": "**Áp lực** = pressure, usually mental or emotional pressure from work, study, family, money, etc. It can also mean physical pressure (like water or air pressure), but daily use is mostly about stress from responsibilities.\n\nIt’s an uncountable noun in most cases: *nhiều áp lực*, *ít áp lực*, *giảm áp lực*, *tạo áp lực*. Often used with **chịu / tạo / giảm / vượt qua**.\n\n\nClose to **căng thẳng** (stress), but *áp lực* is the external pressure; *căng thẳng* is more the feeling inside.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "pressure"
+      },
+      "answer": "áp lực",
+      "translation": {
+        "en": "This job brings a lot of pressure."
+      },
+      "choices": [
+        "mệt mỏi",
+        "áp lực",
+        "hạnh phúc"
+      ],
+      "language": "vi",
+      "hint": "á___",
+      "word": "áp lực",
+      "sentence": "Công việc này mang đến ___ lớn."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "26460b9b-cf84-4159-850c-b09babee6611",
+    "createdAt": "2025-03-12T14:16:01.934Z",
+    "updatedAt": "2025-03-12T14:16:01.934Z"
+  },
+  "word": "áp lực",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "MB0BdQDN2b4zRuYTcjWC"
+}

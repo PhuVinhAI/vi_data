@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**quay** = to turn or rotate something, or to turn your body/head. It’s about changing direction or position.\n\nAs a verb, it often goes with physical objects or parts of the body (đầu, người, xe, chìa khóa). It can also mean “to film/shoot” (quay phim, quay video) — very common in modern life.\n\n\nIt also combines with particles like **quay lại** (go back/return) and **quay về** (return to a place).  \nClose in meaning to **xoay** (rotate/spin), but *xoay* feels more like spinning around an axis, while *quay* is broader and more everyday.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "quay",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "quay",
+      "translatedAnswer": {
+        "en": "turn"
+      },
+      "language": "vi",
+      "choices": [
+        "quay",
+        "đi",
+        "dừng"
+      ],
+      "translation": {
+        "en": "Do you want to turn back?"
+      },
+      "sentence": "Bạn có muốn ___ lại không?",
+      "hint": "q__y",
+      "word": "quay"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "32c68fb8-df96-4803-bec0-f1338592d6a5",
+    "createdAt": "2025-03-12T14:13:42.502Z",
+    "updatedAt": "2025-03-12T14:13:42.502Z"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta cần ___ lại để xem.",
+      "word": "quay",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We need to turn back to see."
+      },
+      "answer": "quay",
+      "translatedAnswer": {
+        "en": "turn"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "59094503-aeaf-4e21-8505-36089465611d",
+    "createdAt": "2025-03-12T14:13:42.502Z",
+    "updatedAt": "2025-03-12T14:13:42.502Z"
+  },
+  "definition": "turn",
+  "updatedAt": "2026-03-03T11:35:09.191Z",
+  "choices": [
+    "quay",
+    "đẩy",
+    "kéo"
+  ],
+  "notes": "quay = to turn or rotate something, or to turn your body/head. It’s about changing direction or position.\n\nAs a verb, it often goes with physical objects or parts of the body (đầu, người, xe, chìa khóa). It can also mean “to film/shoot” (quay phim, quay video) — very common in modern life.\n\nIt also combines with particles like quay lại (go back/return) and quay về (return to a place).  \nClose in meaning to xoay (rotate/spin), but xoay feels more like spinning around an axis, while quay is broader and more everyday.",
+  "exampleSentencesTranslated": [
+    "Can you turn this chair slightly to the right?",
+    "When she heard her name called, she turned to look at me immediately.",
+    "I forgot to turn the door lock before going out this morning."
+  ],
+  "rank": 2678,
+  "flashcard": {
+    "example": {
+      "en": "We will come back here tomorrow.",
+      "vi": "Chúng ta sẽ quay lại đây vào ngày mai.",
+      "es": "Volveremos aquí mañana."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:50:51.258Z",
+    "translations": {
+      "vi": "quay",
+      "es": "dar la vuelta",
+      "en": "turn around"
+    },
+    "definitions": {
+      "en": "To turn around or return to a previous place.",
+      "vi": "Quay lại một nơi nào đó.",
+      "es": "Girar o regresar a un lugar anterior."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể quay nhẹ cái ghế này sang bên phải được không?",
+    "Khi chị nghe thấy tiếng gọi, chị quay lại nhìn em ngay lập tức.",
+    "Em quên quay khóa cửa trước khi ra ngoài sáng nay."
+  ],
+  "_id": "LWvsaPKGrGsJU1nb5Bhd"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "bờ",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:26:45.694Z",
+    "id": "14cec08c-8b02-438e-9612-9156fd5e4db0",
+    "createdAt": "2025-03-12T13:26:45.694Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "b__",
+      "answer": "bờ",
+      "translatedAnswer": {
+        "en": "shore"
+      },
+      "translation": {
+        "en": "We sit at the shore of the sea."
+      },
+      "sentence": "Chúng ta ngồi ở ___ biển.",
+      "language": "vi",
+      "word": "bờ",
+      "choices": [
+        "bờ",
+        "đá",
+        "cát"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bờ** = the edge or side of a body of water (river, lake, sea). Think “shore” or “bank.”\n\nIt’s a noun. No classifier is needed in many cases, but you can use *một bờ* when counting. Common pairings: *bờ sông* (river bank), *bờ biển* (beach/seashore), *bờ hồ*, *bờ ao*.\n\nIt can also mean “edge” more generally, like *bờ vực* (edge of a cliff → close to danger).  \n\nClose synonym: *mép* or *rìa* (edge), but *bờ* is more natural for water.",
+  "rank": 2159,
+  "choices": [
+    "bờ",
+    "cửa",
+    "ghế"
+  ],
+  "notes": "bờ = the edge or side of a body of water (river, lake, sea). Think “shore” or “bank.”\n\nIt’s a noun. No classifier is needed in many cases, but you can use một bờ when counting. Common pairings: bờ sông (river bank), bờ biển (beach/seashore), bờ hồ, bờ ao.\n\nIt can also mean “edge” more generally, like bờ vực (edge of a cliff → close to danger).  \n\nClose synonym: mép or rìa (edge), but bờ is more natural for water.",
+  "updatedAt": "2026-03-03T10:06:19.338Z",
+  "exampleSentences": [
+    "Sáng nay anh đi dạo cùng em ở bờ sông.",
+    "Lũ trẻ đang chơi đùa trên bờ biển gần nhà bà ngoại.",
+    "Chị ngồi đọc sách ở bờ hồ vào buổi chiều mát."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:26:45.694Z",
+    "type": "fillBlankQuiz",
+    "id": "3f901bb9-cd8d-4759-b2b1-08e8f0085baa",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:26:45.694Z",
+    "content": {
+      "answer": "bờ",
+      "translatedAnswer": {
+        "en": "shore"
+      },
+      "translation": {
+        "en": "The fish swims near the shore."
+      },
+      "language": "vi",
+      "sentence": "Con cá bơi gần ___.",
+      "word": "bờ",
+      "choices": []
+    }
+  },
+  "exampleSentencesTranslated": [
+    "This morning I walked with you at the edge of a body of water.",
+    "The kids are playing on the edge of a body of water near grandma's house.",
+    "She sits reading a book at the edge of a body of water in the cool afternoon."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I am standing by the riverbank.",
+      "es": "Estoy de pie junto a la orilla del río.",
+      "vi": "Tôi đứng ở bờ sông."
+    },
+    "definitions": {
+      "en": "The edge of a body of water, such as a river or lake.",
+      "vi": "Đường biên của một khối nước, như sông hoặc hồ.",
+      "es": "El borde de un cuerpo de agua, como un río o un lago."
+    },
+    "createdAt": "2025-01-28T11:07:07.989Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "bank",
+      "es": "orilla",
+      "vi": "bờ"
+    }
+  },
+  "definition": "edge of a body of water",
+  "_id": "A9nS0Mdk8trn5OBAM4oM"
+}

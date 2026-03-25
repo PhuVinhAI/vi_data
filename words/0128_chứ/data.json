@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chứ is a small particle that adds emphasis, expectation, or gentle contrast. In English, it often feels like “of course,” “right?”, or “but”.\n\nMost commonly, you put chứ at the end of a question to expect agreement or a “yes” answer — you’re not really doubting, just checking.  \n\nIt’s also used for contrast in the pattern chứ không (phải) = “not … but …”.  \n\nTone matters: with rising intonation, it sounds like checking; with firm tone, it can sound slightly defensive (“Of course!”).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ dùng để nhấn mạnh, xác nhận hoặc hỏi lại trong câu, thường mang ý nghĩa mong đợi sự đồng ý hoặc xác nhận.",
+      "en": "A particle used for emphasis, confirmation, or to seek agreement, often expecting affirmation."
+    },
+    "example": {
+      "vi": "Bạn không đi học hôm nay chứ?",
+      "en": "You're not going to school today, right?"
+    },
+    "translations": {
+      "en": "right?; of course; surely"
+    },
+    "createdAt": "2025-05-24T16:36:36.379Z",
+    "word": "chứ",
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T06:33:16.096Z",
+  "exampleSentences": [
+    "Em muốn đi ăn kem với anh chứ?",
+    "Chị sẽ giúp em học tiếng Việt chứ?",
+    "Món này ngon lắm, anh thử một miếng chứ!"
+  ],
+  "multiChoiceQuiz": {
+    "id": "cc6ceba4-2181-46fb-82d4-2c18ac7d47fc",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:35:26.447Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy thích ăn ___.",
+      "word": "chứ",
+      "hint": "c___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "it"
+      },
+      "translation": {
+        "en": "She likes to eat it."
+      },
+      "answer": "chứ",
+      "choices": [
+        "cá",
+        "chứ",
+        "thịt"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:35:26.447Z"
+  },
+  "choices": [
+    "chứ",
+    "nhưng",
+    "và"
+  ],
+  "word": "chứ",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "You want to go eat ice cream with me of course?",
+    "You will help me study Vietnamese of course?",
+    "This dish is delicious, you try a bite of course!"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**chứ** is a small particle that adds emphasis, expectation, or gentle contrast. In English, it often feels like “of course,” “right?”, or “but”.\n\nMost commonly, you put **chứ** at the end of a question to expect agreement or a “yes” answer — you’re not really doubting, just checking.  \n\nIt’s also used for contrast in the pattern **chứ không (phải)** = “not … but …”.  \n\nTone matters: with rising intonation, it sounds like checking; with firm tone, it can sound slightly defensive (“Of course!”).",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "chứ",
+      "sentence": "Bạn có biết ___ không?",
+      "answer": "chứ",
+      "translation": {
+        "en": "Do you know it?"
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "it"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:35:26.447Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:35:26.447Z",
+    "id": "2f0e90b0-282b-40f3-a508-880ec1fee940"
+  },
+  "rank": 128,
+  "definition": "of course",
+  "_id": "vfia45dtea2lVfV0mHrd"
+}

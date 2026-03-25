@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chiếc xe màu trắng kia là của anh à?",
+    "Em thích ngôi nhà lớn kia ở cuối con đường.",
+    "Chị có thấy con mèo nhỏ kia đang chơi dưới gốc cây không?"
+  ],
+  "updatedAt": "2026-03-03T06:39:22.941Z",
+  "notes": "kia = “that (over there)”, something far from both speaker and listener. It points to something at a distance.\n\nIt usually comes after the noun and works like a demonstrative marker.  \n\nIt contrasts with này (this, near me) and đó/đấy (that, nearer or already mentioned).  \nBesides physical distance, kia can also suggest emotional distance or “the other one” in context.",
+  "definition": "that (over there)",
+  "flashcard": {
+    "example": {
+      "vi": "Kia là một chiếc xe đẹp.",
+      "es": "Ese es un coche hermoso.",
+      "en": "That is a beautiful car."
+    },
+    "definitions": {
+      "vi": "Dùng để chỉ một cái gì đó ở xa hơn.",
+      "es": "Usado para referirse a algo que está más lejos.",
+      "en": "Used to refer to something that is farther away."
+    },
+    "createdAt": "2025-01-28T11:05:56.554Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "that",
+      "vi": "kia",
+      "es": "ese"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:16:03.193Z",
+    "id": "5e3e33ac-280b-4394-a6e0-67ac00db9015",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:16:03.193Z",
+    "content": {
+      "sentence": "Cái ghế ___ rất đẹp.",
+      "language": "vi",
+      "word": "kia",
+      "choices": [],
+      "answer": "kia",
+      "translatedAnswer": {
+        "en": "that"
+      },
+      "translation": {
+        "en": "That chair is very beautiful."
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Is the white car that (over there) yours?",
+    "I like that (over there) big house at the end of the street.",
+    "Do you see that (over there) little cat playing under the tree?"
+  ],
+  "word": "kia",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "kia",
+    "này",
+    "đó"
+  ],
+  "rank": 187,
+  "notes_md": "**kia** = “that (over there)”, something far from both speaker and listener. It points to something at a distance.\n\nIt usually comes **after the noun** and works like a demonstrative marker.  \n\nIt contrasts with **này** (this, near me) and **đó/đấy** (that, nearer or already mentioned).  \nBesides physical distance, *kia* can also suggest emotional distance or “the other one” in context.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:16:03.193Z",
+    "content": {
+      "sentence": "Cái ghế ___ rất đẹp.",
+      "language": "vi",
+      "word": "kia",
+      "choices": [
+        "kia",
+        "này",
+        "đó"
+      ],
+      "hint": "k__",
+      "answer": "kia",
+      "translatedAnswer": {
+        "en": "that"
+      },
+      "translation": {
+        "en": "That chair is very beautiful."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:16:03.193Z",
+    "id": "6328adcb-3e53-4be2-bc55-6c3dc8f83e19",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "9qbQas97vO8Ee9HbETf2"
+}

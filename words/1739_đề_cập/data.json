@@ -1,0 +1,99 @@
+{
+  "word": "đề cập",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đề cập** = to mention something briefly, to bring a topic up. It’s used when you talk about a subject without going into detail.\n\nIt’s more neutral/formal than *nhắc đến* (which feels more casual and spoken).  \nUsually followed by **đến + noun/topic**.\n\n\nYou’ll often see it in meetings, reports, presentations, or serious discussions.",
+  "choices": [
+    "đề cập",
+    "giải thích",
+    "thảo luận"
+  ],
+  "rank": 1739,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:21:33.453Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:21:33.453Z",
+    "content": {
+      "hint": "đ___c",
+      "answer": "đề cập",
+      "translation": {
+        "en": "We need to address this issue."
+      },
+      "translatedAnswer": {
+        "en": "address"
+      },
+      "word": "đề cập",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ vấn đề này.",
+      "choices": [
+        "giải quyết",
+        "đề cập",
+        "bàn luận"
+      ]
+    },
+    "id": "e55d583b-7912-4e6a-8ff5-f9d97e3a9528"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:22:02.301Z",
+  "exampleSentences": [
+    "Trong buổi họp, anh đã đề cập đến vấn đề quan trọng này.",
+    "Chị quên đề cập tên của em trong danh sách tham gia.",
+    "Thầy giáo thường đề cập các chủ đề khó trong bài giảng."
+  ],
+  "notes": "đề cập = to mention something briefly, to bring a topic up. It’s used when you talk about a subject without going into detail.\n\nIt’s more neutral/formal than nhắc đến (which feels more casual and spoken).  \nUsually followed by đến + noun/topic.\n\nYou’ll often see it in meetings, reports, presentations, or serious discussions.",
+  "definition": "mention",
+  "flashcard": {
+    "definitions": {
+      "vi": "Đề cập đến một điều gì đó hoặc nhắc đến nó.",
+      "es": "Hacer referencia a algo o mencionarlo.",
+      "en": "To refer to something or to mention it."
+    },
+    "example": {
+      "es": "En su discurso, mencionó muchos temas importantes.",
+      "vi": "Trong bài phát biểu, anh ấy đã đề cập đến nhiều vấn đề quan trọng.",
+      "en": "In his speech, he mentioned many important issues."
+    },
+    "translations": {
+      "vi": "đề cập",
+      "es": "mencionar",
+      "en": "to mention"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:02:01.488Z"
+  },
+  "exampleSentencesTranslated": [
+    "In the meeting, you mention this important issue.",
+    "You forgot to mention my name on the participant list.",
+    "The teacher often mention difficult topics in the lecture."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:21:33.453Z",
+    "id": "021097c6-ba74-4044-8919-5eb81555d1fe",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:21:33.453Z",
+    "content": {
+      "translation": {
+        "en": "We need to address this issue."
+      },
+      "translatedAnswer": {
+        "en": "address"
+      },
+      "answer": "đề cập",
+      "choices": [],
+      "word": "đề cập",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ vấn đề này."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "_id": "8opM3JVoHZMzC99Dnhci"
+}

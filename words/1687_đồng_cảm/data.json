@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:16:33.968Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:58:03.720Z",
+    "updatedAt": "2025-03-12T12:58:03.720Z",
+    "content": {
+      "word": "đồng cảm",
+      "translatedAnswer": {
+        "en": "empathize"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I always empathize with others."
+      },
+      "choices": [],
+      "answer": "đồng cảm",
+      "sentence": "Tôi luôn ___ với người khác."
+    },
+    "type": "fillBlankQuiz",
+    "id": "462c9082-5f50-4bd1-a5b0-34274e643eac",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**đồng cảm** = empathy; to understand and feel what someone else is feeling.\n\nIt can be a **verb** (“to empathize”) or a **noun** (usually in *sự đồng cảm* = empathy as a thing).  \nAs a verb, it often goes with **với + someone** or **về + something**.  \n\nClose to **cảm thông** (sympathy), but *đồng cảm* feels deeper — like you emotionally “share” their feeling, not just feel sorry for them.",
+  "exampleSentencesTranslated": [
+    "I feel a lot of empathy for your sad story.",
+    "She always tries to show empathy when her friends have difficulties.",
+    "Sometimes just one sentence can create empathy between two people."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đồng cảm",
+  "choices": [
+    "đồng cảm",
+    "tự tin",
+    "thất vọng"
+  ],
+  "notes": "đồng cảm = empathy; to understand and feel what someone else is feeling.\n\nIt can be a verb (“to empathize”) or a noun (usually in sự đồng cảm = empathy as a thing).  \nAs a verb, it often goes with với + someone or về + something.  \n\nClose to cảm thông (sympathy), but đồng cảm feels deeper — like you emotionally “share” their feeling, not just feel sorry for them.",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi luôn cố gắng đồng cảm với những người xung quanh.",
+      "en": "I always try to empathize with those around me.",
+      "es": "Siempre trato de empatizar con los que me rodean."
+    },
+    "translations": {
+      "es": "empatía",
+      "vi": "đồng cảm",
+      "en": "empathy"
+    },
+    "createdAt": "2025-01-28T10:41:20.129Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The ability to understand and share the feelings of another.",
+      "vi": "Khả năng hiểu và chia sẻ cảm xúc của người khác.",
+      "es": "La capacidad de entender y compartir los sentimientos de otro."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "empathy",
+  "rank": 1687,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cảm thấy rất đồng cảm với câu chuyện buồn của em.",
+    "Chị luôn cố gắng thể hiện sự đồng cảm khi bạn bè gặp khó khăn.",
+    "Đôi khi chỉ cần một lời nói cũng có thể tạo ra đồng cảm giữa hai người."
+  ],
+  "multiChoiceQuiz": {
+    "id": "bb24959f-f7ec-4047-80eb-9da19b6be93d",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "She is very empathetic towards everyone."
+      },
+      "choices": [
+        "từ bi",
+        "đồng cảm",
+        "nhẫn nại"
+      ],
+      "hint": "đ___ cảm",
+      "translatedAnswer": {
+        "en": "empathetic"
+      },
+      "language": "vi",
+      "word": "đồng cảm",
+      "sentence": "Cô ấy rất ___ với mọi người.",
+      "answer": "đồng cảm"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T12:58:03.720Z",
+    "updatedAt": "2025-03-12T12:58:03.720Z"
+  },
+  "_id": "2LYkuqyYjrJILLjYnbsi"
+}

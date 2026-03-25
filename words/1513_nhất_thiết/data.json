@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Không nhất thiết phải đến sớm, em có thể đến đúng giờ là được.",
+    "Anh nghĩ việc mua thêm đồ ăn không nhất thiết trong buổi tiệc này.",
+    "Chị ấy nói mình không nhất thiết phải trả lời ngay lập tức."
+  ],
+  "choices": [
+    "nhất thiết",
+    "bắt buộc",
+    "cần thiết"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "must"
+      },
+      "answer": "nhất thiết",
+      "choices": [],
+      "sentence": "Bạn ___ phải làm điều đó.",
+      "word": "nhất thiết",
+      "translation": {
+        "en": "You must do that."
+      },
+      "language": "vi"
+    },
+    "id": "fbc431c6-8b26-478a-8413-0ef9e8e08eb7",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:56:23.034Z",
+    "updatedAt": "2025-03-12T15:56:23.034Z"
+  },
+  "rank": 1513,
+  "definition": "absolutely necessary",
+  "notes": "nhất thiết = absolutely necessary, a must. It’s about something being required, not optional.\n\nYou’ll mostly see it in the negative: không nhất thiết = not necessarily / not required.  \n\nIt often goes with phải to talk about obligation, but in negative sentences phải can be dropped.  \nClose meaning: cần thiết (necessary), but nhất thiết feels stronger and more absolute.",
+  "notes_md": "**nhất thiết** = absolutely necessary, a must. It’s about something being required, not optional.\n\nYou’ll mostly see it in the negative: **không nhất thiết** = not necessarily / not required.  \n\nIt often goes with **phải** to talk about obligation, but in negative sentences **phải** can be dropped.  \nClose meaning: **cần thiết** (necessary), but *nhất thiết* feels stronger and more absolute.",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "nhất thiết",
+      "translation": {
+        "en": "You must do that."
+      },
+      "language": "vi",
+      "sentence": "Bạn ___ phải làm điều đó.",
+      "choices": [
+        "cần thiết",
+        "nhất thiết",
+        "không cần"
+      ],
+      "hint": "n___t thiết",
+      "translatedAnswer": {
+        "en": "must"
+      },
+      "answer": "nhất thiết"
+    },
+    "id": "d1921716-d800-4fc7-8bf9-386c5b3f2238",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:56:23.034Z",
+    "updatedAt": "2025-03-12T15:56:23.034Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhất thiết",
+  "flashcard": {
+    "example": {
+      "en": "You must complete the homework before going out.",
+      "es": "Debes completar la tarea antes de salir.",
+      "vi": "Bạn nhất thiết phải hoàn thành bài tập trước khi đi chơi."
+    },
+    "definitions": {
+      "en": "It is necessary or essential.",
+      "es": "Es necesario o esencial.",
+      "vi": "Nó là cần thiết hoặc thiết yếu."
+    },
+    "createdAt": "2025-01-28T13:28:30.300Z",
+    "translations": {
+      "vi": "nhất thiết",
+      "es": "debe",
+      "en": "must"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T08:58:06.621Z",
+  "exampleSentencesTranslated": [
+    "It is not absolutely necessary to come early; you can just be on time.",
+    "I think buying more food is not absolutely necessary for this party.",
+    "She said it is not absolutely necessary to answer immediately."
+  ],
+  "_id": "l4UHfU03AokvZRorle02"
+}

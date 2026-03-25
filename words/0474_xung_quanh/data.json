@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "xung quanh",
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "trong",
+        "xung quanh",
+        "dưới"
+      ],
+      "word": "xung quanh",
+      "language": "vi",
+      "sentence": "Có nhiều người ___ khu vực này.",
+      "translation": {
+        "en": "There are many people around this area."
+      },
+      "translatedAnswer": {
+        "en": "around"
+      },
+      "hint": "x___n",
+      "answer": "xung quanh"
+    },
+    "createdAt": "2025-03-12T15:40:17.849Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b8b17b6a-c980-4d00-8b29-aef88f6f1096",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:40:17.849Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xung quanh** means **around / surrounding** something in space. It talks about position, not movement.\n\nIt usually goes before a noun: **xung quanh + place/thing** to show what is being surrounded.  \nYou can also use it after verbs of position like *đứng, ngồi, đi, nhìn* to show where someone is in relation to something.\n\n\nClose synonym: **quanh** (shorter, more casual). In the South, people often say **chung quanh** instead of *xung quanh*.",
+  "rank": 474,
+  "choices": [
+    "xung quanh",
+    "bên dưới",
+    "ở giữa"
+  ],
+  "notes": "xung quanh means around / surrounding something in space. It talks about position, not movement.\n\nIt usually goes before a noun: xung quanh + place/thing to show what is being surrounded.  \nYou can also use it after verbs of position like đứng, ngồi, đi, nhìn to show where someone is in relation to something.\n\nClose synonym: quanh (shorter, more casual). In the South, people often say chung quanh instead of xung quanh.",
+  "updatedAt": "2026-03-03T07:09:43.338Z",
+  "exampleSentences": [
+    "Anh có thể nhìn thấy nhiều cây xanh xung quanh công viên này.",
+    "Chị ấy đặt ghế xung quanh bàn để mọi người ngồi ăn cùng nhau.",
+    "Những đứa trẻ đang chạy chơi xung quanh sân trường vào giờ ra chơi."
+  ],
+  "exampleSentencesTranslated": [
+    "You can see many green trees around this park.",
+    "She puts chairs around the table so everyone can eat together.",
+    "The children are running around the schoolyard during recess."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:40:17.849Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:40:17.849Z",
+    "content": {
+      "answer": "xung quanh",
+      "translation": {
+        "en": "The scenery around is very beautiful."
+      },
+      "translatedAnswer": {
+        "en": "around"
+      },
+      "word": "xung quanh",
+      "sentence": "Cảnh vật ___ rất đẹp.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "f7d461ca-e3eb-475a-bce2-2ebd9e5764f4",
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "Surrounding area or environment.",
+      "vi": "Khu vực hoặc môi trường xung quanh.",
+      "es": "Área o entorno circundante."
+    },
+    "example": {
+      "en": "The scenery around is very beautiful.",
+      "es": "El paisaje alrededor es muy hermoso.",
+      "vi": "Cảnh vật xung quanh rất đẹp."
+    },
+    "translations": {
+      "es": "alrededor",
+      "vi": "xung quanh",
+      "en": "around"
+    },
+    "createdAt": "2025-01-28T13:13:48.732Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "around",
+  "_id": "hCc6OJmCgal1CW50GGz5"
+}

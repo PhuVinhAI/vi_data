@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T10:54:35.039Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "nombre y reputación",
+      "vi": "tên tuổi",
+      "en": "name and reputation"
+    },
+    "example": {
+      "vi": "Tên tuổi của anh ấy rất nổi tiếng trong ngành.",
+      "es": "Su nombre es muy famoso en la industria.",
+      "en": "His name is very famous in the industry."
+    },
+    "definitions": {
+      "es": "El nombre y la reputación de una persona.",
+      "vi": "Tên và danh tiếng của một người.",
+      "en": "A person's name and reputation."
+    }
+  },
+  "definition": "fame",
+  "exampleSentencesTranslated": [
+    "He has built his fame in the field of music.",
+    "She wants to create her own fame at this company.",
+    "Many famous people protect their fame very carefully."
+  ],
+  "fillBlankQuiz": {
+    "id": "4ced0ed3-9a17-4902-9ceb-c481a90b96b8",
+    "content": {
+      "translation": {
+        "en": "Do you have a name and age?"
+      },
+      "translatedAnswer": {
+        "en": "name and age"
+      },
+      "answer": "tên tuổi",
+      "choices": [],
+      "word": "tên tuổi",
+      "language": "vi",
+      "sentence": "Bạn có ___ gì không?"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:13:22.327Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:13:22.327Z"
+  },
+  "updatedAt": "2026-03-03T10:24:38.342Z",
+  "exampleSentences": [
+    "Anh ấy đã xây dựng được tên tuổi trong lĩnh vực âm nhạc.",
+    "Chị muốn tạo dựng tên tuổi riêng ở công ty này.",
+    "Nhiều người nổi tiếng bảo vệ tên tuổi của mình rất cẩn thận."
+  ],
+  "notes": "tên tuổi = fame or reputation, especially built over time. It literally means “name and age,” but together it means your public standing.\n\nIt’s an uncountable noun; you don’t count it, you have or build it. Common verbs: xây dựng / tạo dựng / giữ gìn / bảo vệ / làm mất tên tuổi. Often used with có tên tuổi (to be well-known).\n\nClose synonyms: danh tiếng, uy tín (more about credibility and trust).",
+  "notes_md": "**tên tuổi** = fame or reputation, especially built over time. It literally means “name and age,” but together it means your public standing.\n\nIt’s an uncountable noun; you don’t count it, you *have* or *build* it. Common verbs: **xây dựng / tạo dựng / giữ gìn / bảo vệ / làm mất tên tuổi**. Often used with **có tên tuổi** (to be well-known).\n\n\nClose synonyms: **danh tiếng**, **uy tín** (more about credibility and trust).",
+  "rank": 2325,
+  "choices": [
+    "tên tuổi",
+    "thành công",
+    "danh sách"
+  ],
+  "multiChoiceQuiz": {
+    "id": "62f3e80e-a65b-47ed-8950-fef1fae38bc1",
+    "content": {
+      "hint": "t___uổi",
+      "answer": "tên tuổi",
+      "translation": {
+        "en": "They ask about your name and age."
+      },
+      "translatedAnswer": {
+        "en": "name and age"
+      },
+      "word": "tên tuổi",
+      "language": "vi",
+      "sentence": "Họ hỏi về ___ của bạn.",
+      "choices": [
+        "tên tuổi",
+        "địa chỉ",
+        "sở thích"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:13:22.327Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:13:22.327Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tên tuổi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "6L8zn4nRPhCMHKS40zBp"
+}

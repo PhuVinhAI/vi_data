@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần thông tin ___ hơn.",
+      "word": "nội bộ",
+      "hint": "n___ b__",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "internal"
+      },
+      "translation": {
+        "en": "We need more internal information."
+      },
+      "answer": "nội bộ",
+      "choices": [
+        "ngoại giao",
+        "nội bộ",
+        "công khai"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:51:32.992Z",
+    "id": "505779a5-6c3d-4fa3-a374-c392b77a0ccc",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:51:32.992Z"
+  },
+  "exampleSentences": [
+    "Anh đang giải quyết một số vấn đề nội bộ trong công ty.",
+    "Cuộc họp ngày mai chỉ dành cho các thành viên nội bộ thôi nhé.",
+    "Em cần xem lại các quy định nội bộ trước khi bắt đầu dự án mới."
+  ],
+  "updatedAt": "2026-03-03T09:50:41.388Z",
+  "choices": [
+    "nội bộ",
+    "bên ngoài",
+    "chính thức"
+  ],
+  "word": "nội bộ",
+  "exampleSentencesTranslated": [
+    "I am dealing with some internal problems in the company.",
+    "Tomorrow's meeting is only for internal members.",
+    "You need to review the internal regulations before starting the new project."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "nội bộ = internal, inside a group/organization (not for outsiders). It’s about things happening within a company, team, school, etc.\n\nIt’s an adjective and usually comes after the noun it describes. It talks about rules, problems, information, meetings that stay inside the group.  \n\nStrong contrast: bên ngoài (external), công khai (public).  \nThink: if it’s nội bộ, it’s not meant for the public.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "We have an internal meeting on Monday.",
+      "es": "Tenemos una reunión interna el lunes.",
+      "vi": "Chúng tôi có một cuộc họp nội bộ vào thứ Hai."
+    },
+    "definitions": {
+      "en": "Relating to or occurring within an organization.",
+      "es": "Relativo a o que ocurre dentro de una organización.",
+      "vi": "Liên quan đến hoặc xảy ra trong một tổ chức."
+    },
+    "translations": {
+      "vi": "nội bộ",
+      "en": "internal",
+      "es": "interno"
+    },
+    "createdAt": "2025-01-28T14:21:30.505Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**nội bộ** = internal, inside a group/organization (not for outsiders). It’s about things happening *within* a company, team, school, etc.\n\nIt’s an adjective and usually comes **after** the noun it describes. It talks about rules, problems, information, meetings that stay inside the group.  \n\nStrong contrast: **bên ngoài** (external), **công khai** (public).  \nThink: if it’s *nội bộ*, it’s not meant for the public.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:51:32.992Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2f1a8e19-5c9b-4fcf-8314-b1290a16ed78",
+    "content": {
+      "sentence": "Chúng ta cần thông tin ___ hơn.",
+      "word": "nội bộ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "internal"
+      },
+      "choices": [],
+      "translation": {
+        "en": "We need more internal information."
+      },
+      "answer": "nội bộ"
+    },
+    "updatedAt": "2025-03-12T16:51:32.992Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "internal",
+  "rank": 2009,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "zbiu2yKeWV05Z20VhUYr"
+}

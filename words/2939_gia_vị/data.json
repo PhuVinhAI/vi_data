@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Món ăn này cần thêm gia vị để ngon hơn.",
+      "es": "Este plato necesita más condimento para saber mejor.",
+      "en": "This dish needs more seasoning to taste better."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "condimento",
+      "vi": "gia vị",
+      "en": "seasoning"
+    },
+    "definitions": {
+      "en": "A substance used to enhance the flavor of food.",
+      "es": "Una sustancia utilizada para realzar el sabor de la comida.",
+      "vi": "Một chất được sử dụng để tăng cường hương vị của thực phẩm."
+    },
+    "createdAt": "2025-01-28T11:46:28.797Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích thêm nhiều gia vị vào món phở của mình.",
+    "Mẹ thường mua gia vị ở chợ để nấu ăn ngon hơn.",
+    "Anh có thể đưa cho chị lọ gia vị trên bàn không?"
+  ],
+  "rank": 2939,
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "seasoning"
+      },
+      "answer": "gia vị",
+      "translation": {
+        "en": "This dish needs more seasoning."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "gia vị",
+      "sentence": "Món ăn này cần thêm ___."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "bc617de3-92fd-4c72-a13b-5aed3ddc4acd",
+    "createdAt": "2025-03-12T14:09:16.946Z",
+    "updatedAt": "2025-03-12T14:09:16.946Z"
+  },
+  "definition": "spice",
+  "choices": [
+    "gia vị",
+    "rau sống",
+    "nước mắm"
+  ],
+  "updatedAt": "2026-03-03T18:14:34.851Z",
+  "notes": "Gia vị means spice or seasoning — things you add to food to give it more flavor (salt, pepper, chili, fish sauce, etc.).  \n\nIt’s a countable noun: một gia vị, các gia vị; you’ll also hear loại gia vị when talking about types. Often used with verbs like thêm, nêm, ướp (adding or seasoning food).  \n\nIt can refer to both dry spices and liquid seasonings, so it’s broader than just “spice.”  \n\nClose idea: nguyên liệu (ingredients) — but gia vị is just for flavor, not the main food.",
+  "exampleSentencesTranslated": [
+    "I like to add a lot of spice to my pho.",
+    "Mom often buys spice at the market to cook better.",
+    "Can you pass me the spice jar on the table?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Gia vị** means *spice* or *seasoning* — things you add to food to give it more flavor (salt, pepper, chili, fish sauce, etc.).  \n\nIt’s a **countable noun**: *một gia vị*, *các gia vị*; you’ll also hear *loại gia vị* when talking about types. Often used with verbs like *thêm*, *nêm*, *ướp* (adding or seasoning food).  \n\nIt can refer to both dry spices and liquid seasonings, so it’s broader than just “spice.”  \n\nClose idea: *nguyên liệu* (ingredients) — but *gia vị* is just for flavor, not the main food.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "gia vị",
+        "đường",
+        "muối"
+      ],
+      "translation": {
+        "en": "This dish needs more seasoning."
+      },
+      "sentence": "Món ăn này cần thêm ___.",
+      "hint": "g___i",
+      "word": "gia vị",
+      "answer": "gia vị",
+      "translatedAnswer": {
+        "en": "seasoning"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "55088253-35a0-40e9-bb1c-39d5ea885daa",
+    "createdAt": "2025-03-12T14:09:16.946Z",
+    "updatedAt": "2025-03-12T14:09:16.946Z"
+  },
+  "word": "gia vị",
+  "_id": "KkpyZYMSKsgUgxjAHPh2"
+}

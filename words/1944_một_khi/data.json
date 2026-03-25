@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Một khi anh đã quyết định, anh sẽ không thay đổi ý kiến nữa.",
+    "Chị sẽ giúp em một khi chị hoàn thành công việc của mình.",
+    "Một khi em học xong bài này, em sẽ đi ra ngoài chơi."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Once you have decided, just go for it.",
+      "vi": "Một khi bạn đã quyết định, hãy thực hiện ngay.",
+      "es": "Una vez que hayas decidido, simplemente hazlo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:59:49.101Z",
+    "translations": {
+      "en": "once",
+      "vi": "một khi",
+      "es": "una vez"
+    },
+    "definitions": {
+      "en": "A phrase used to indicate that once something happens, another thing will follow.",
+      "es": "Una frase utilizada para indicar que una vez que algo sucede, otra cosa seguirá.",
+      "vi": "Một cụm từ được sử dụng để chỉ ra rằng một khi điều gì đó xảy ra, điều khác sẽ theo sau."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1944,
+  "updatedAt": "2026-03-03T09:43:48.764Z",
+  "choices": [
+    "một khi",
+    "ngay khi",
+    "trước khi"
+  ],
+  "exampleSentencesTranslated": [
+    "Once I have decided, I will not change my mind.",
+    "I will help you once I finish my work.",
+    "Once I finish studying this lesson, I will go out to play."
+  ],
+  "notes": "một khi = once / once already (meaning: after something happens, the result will definitely follow).\n\nIt’s a conjunction used to set a condition that feels strong or final. The second clause is usually something certain or hard to change.\n\nIt often implies “no turning back” — similar feeling to once and for all. Close to khi đã, but một khi sounds stronger and more decisive.",
+  "fillBlankQuiz": {
+    "id": "6a60e834-c475-4cf7-bf79-c2fa62fd258e",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I will do that once you agree."
+      },
+      "sentence": "Tôi sẽ làm điều đó ___ bạn đồng ý.",
+      "word": "một khi",
+      "answer": "một khi",
+      "translatedAnswer": {
+        "en": "once"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:24:05.516Z",
+    "createdAt": "2025-03-12T14:24:05.516Z"
+  },
+  "definition": "once",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:24:05.516Z",
+    "createdAt": "2025-03-12T14:24:05.516Z",
+    "id": "a1260db0-e111-4641-8759-738a69259076",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "once"
+      },
+      "answer": "một khi",
+      "translation": {
+        "en": "I will do that once you agree."
+      },
+      "language": "vi",
+      "choices": [
+        "một khi",
+        "khi nào",
+        "chỉ khi"
+      ],
+      "hint": "m___ khi",
+      "word": "một khi",
+      "sentence": "Tôi sẽ làm điều đó ___ bạn đồng ý."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "một khi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**một khi** = *once / once already* (meaning: after something happens, the result will definitely follow).\n\nIt’s a conjunction used to set a condition that feels strong or final. The second clause is usually something certain or hard to change.\n\n\nIt often implies “no turning back” — similar feeling to *once and for all*. Close to **khi đã**, but *một khi* sounds stronger and more decisive.",
+  "_id": "O07fGJzbkTDZrPPSfVUd"
+}

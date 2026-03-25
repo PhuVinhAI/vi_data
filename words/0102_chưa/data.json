@@ -1,0 +1,96 @@
+{
+  "exampleSentencesTranslated": [
+    "Have you eaten breakfast not yet or are you still hungry?",
+    "Have you done your homework not yet but already gone out?",
+    "Have you watched that movie not yet with your friends?"
+  ],
+  "updatedAt": "2026-03-03T06:13:23.232Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "chưa",
+    "rồi",
+    "luôn"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Bạn ăn sáng chưa?",
+      "en": "Have you eaten breakfast yet?"
+    },
+    "translations": {
+      "en": "not yet / yet"
+    },
+    "definitions": {
+      "en": "A word used to ask or state that something has not happened or is not finished yet.",
+      "vi": "Từ dùng để hỏi hoặc nói về việc gì đó chưa xảy ra hoặc chưa hoàn thành."
+    },
+    "word": "chưa",
+    "createdAt": "2025-05-24T16:35:20.545Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh đã ăn sáng chưa hay vẫn còn đói?",
+    "Chị làm bài tập về nhà chưa mà lại đi chơi rồi?",
+    "Em đã xem bộ phim đó chưa cùng bạn bè của mình?"
+  ],
+  "notes": "Chưa means “not yet.” It talks about something that has not happened up to now.\n\nIt usually goes before a verb: chưa + V (chưa ăn, chưa xong).  \nTo ask “yet?” you often use đã + V + chưa? (đã làm chưa?).  \nYou can strengthen it with vẫn chưa = “still not yet.”  \nChưa bao giờ means “never (until now).”\n\nOpposite idea: rồi (already).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chưa",
+  "fillBlankQuiz": {
+    "id": "9d9aabc2-cc9a-4e3e-99eb-310289918fa5",
+    "createdAt": "2025-03-12T16:24:52.431Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:24:52.431Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ ăn tối.",
+      "translation": {
+        "en": "I haven't eaten dinner."
+      },
+      "translatedAnswer": {
+        "en": "haven't"
+      },
+      "choices": [],
+      "word": "chưa",
+      "language": "vi",
+      "answer": "chưa"
+    }
+  },
+  "definition": "not yet",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:24:52.431Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy ___ đi học.",
+      "language": "vi",
+      "choices": [
+        "đã",
+        "không",
+        "chưa"
+      ],
+      "answer": "chưa",
+      "word": "chưa",
+      "hint": "c___",
+      "translation": {
+        "en": "She hasn't gone to school."
+      },
+      "translatedAnswer": {
+        "en": "hasn't"
+      }
+    },
+    "id": "68f89200-592a-45bf-aa34-c5a98f829bd9",
+    "createdAt": "2025-03-12T16:24:52.431Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 102,
+  "notes_md": "**Chưa** means **“not yet.”** It talks about something that has not happened up to now.\n\nIt usually goes **before a verb**: *chưa + V* (chưa ăn, chưa xong).  \nTo ask “yet?” you often use **đã + V + chưa?** (đã làm chưa?).  \nYou can strengthen it with **vẫn chưa** = “still not yet.”  \n**Chưa bao giờ** means “never (until now).”\n\nOpposite idea: **rồi** (already).",
+  "_id": "sea7Uc580fIxhVlOPoJk"
+}

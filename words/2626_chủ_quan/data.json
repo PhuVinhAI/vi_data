@@ -1,0 +1,99 @@
+{
+  "definition": "subjective",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "subjective"
+      },
+      "translation": {
+        "en": "You need to be subjective in your decision."
+      },
+      "hint": "c___n",
+      "word": "chủ quan",
+      "answer": "chủ quan",
+      "language": "vi",
+      "choices": [
+        "khách quan",
+        "chủ quan",
+        "tương đối"
+      ],
+      "sentence": "Bạn cần ___ trong quyết định của mình."
+    },
+    "updatedAt": "2025-03-12T16:07:19.349Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:07:19.349Z",
+    "id": "05e94a8b-c0c1-42e0-b88c-f317881276ba"
+  },
+  "rank": 2626,
+  "notes_md": "**Chủ quan** = subjective, based on personal feelings or opinions, not on facts. It can also mean careless because you rely too much on your own judgment.\n\nIt describes people, opinions, decisions, or ways of thinking. Often used to criticize someone for not being careful or objective.\n\n\nOpposite idea: **khách quan** (objective) — good pair to remember.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chủ quan",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:07:19.349Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8fbe0570-f26f-4e2c-a48a-8c07b9535a79",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Bạn cần ___ trong quyết định của mình.",
+      "translation": {
+        "en": "You need to be subjective in your decision."
+      },
+      "translatedAnswer": {
+        "en": "subjective"
+      },
+      "answer": "chủ quan",
+      "language": "vi",
+      "word": "chủ quan",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:07:19.349Z"
+  },
+  "notes": "Chủ quan = subjective, based on personal feelings or opinions, not on facts. It can also mean careless because you rely too much on your own judgment.\n\nIt describes people, opinions, decisions, or ways of thinking. Often used to criticize someone for not being careful or objective.\n\nOpposite idea: khách quan (objective) — good pair to remember.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "You should not be subjective when taking this test.",
+    "If you are subjective, you might miss important details.",
+    "She is often subjective when judging other people's problems."
+  ],
+  "updatedAt": "2026-03-03T11:29:45.693Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dựa trên ý kiến, cảm xúc và thái độ cá nhân thay vì các sự kiện bên ngoài.",
+      "es": "Basado en opiniones, sentimientos y actitudes personales en lugar de hechos externos.",
+      "en": "Based on personal opinions, feelings, and attitudes rather than external facts."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:39:01.093Z",
+    "translations": {
+      "vi": "chủ quan",
+      "es": "subjetivo",
+      "en": "subjective"
+    },
+    "example": {
+      "en": "His assessment is subjective.",
+      "es": "Su evaluación es subjetiva.",
+      "vi": "Sự đánh giá của anh ấy là chủ quan."
+    }
+  },
+  "choices": [
+    "chủ quan",
+    "khách quan",
+    "cá nhân"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh không nên chủ quan khi làm bài kiểm tra này.",
+    "Nếu em chủ quan, em có thể bỏ lỡ những chi tiết quan trọng.",
+    "Chị ấy thường chủ quan khi đánh giá vấn đề của người khác."
+  ],
+  "_id": "oAg3VHwlmPUuoJyHdBz1"
+}

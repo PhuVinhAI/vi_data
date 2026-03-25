@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "lost",
+  "word": "lạc lối",
+  "exampleSentences": [
+    "Khi anh đến thành phố mới, anh đã lạc lối trong khu phố cổ.",
+    "Nếu em không có bản đồ, em rất dễ bị lạc lối ở đây.",
+    "Chị ấy cảm thấy lạc lối khi không biết nên làm gì tiếp theo."
+  ],
+  "rank": 2621,
+  "choices": [
+    "lạc lối",
+    "gặp gỡ",
+    "bắt đầu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "f0111ba9-5d37-44b2-b04a-f7dcd0cda413",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:53:26.060Z",
+    "createdAt": "2025-03-12T13:53:26.060Z",
+    "content": {
+      "translation": {
+        "en": "I have been lost in this city."
+      },
+      "answer": "lạc lối",
+      "hint": "l___ lối",
+      "choices": [
+        "mất",
+        "lạc lối",
+        "đi lạc"
+      ],
+      "language": "vi",
+      "sentence": "Tôi đã ___ trong thành phố này.",
+      "word": "lạc lối",
+      "translatedAnswer": {
+        "en": "lost"
+      }
+    }
+  },
+  "notes_md": "**Lạc lối** means “lost.” It can be physical (you don’t know where you are) or emotional/mental (you don’t know what to do in life).\n\nIt works like a state adjective after **bị** or **cảm thấy**. You can also use it after verbs of movement or in situations where someone lacks direction.\n\n\nClose synonym: **lạc đường** (more physical, about roads). For emotional meaning, it’s similar to **mất phương hướng** (stronger, more serious).",
+  "exampleSentencesTranslated": [
+    "When he came to the new city, he was lost in the old quarter.",
+    "If you don't have a map, you can easily get lost here.",
+    "She felt lost when she didn't know what to do next."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To be lost or disoriented, unable to find one's way.",
+      "vi": "Bị lạc hoặc không định hướng, không thể tìm đường.",
+      "es": "Estar perdido o desorientado, incapaz de encontrar el camino."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "perdido",
+      "vi": "lạc lối",
+      "en": "lost"
+    },
+    "createdAt": "2025-01-28T11:31:15.804Z",
+    "example": {
+      "en": "I feel lost in this city.",
+      "es": "Me siento perdido en esta ciudad.",
+      "vi": "Tôi cảm thấy lạc lối trong thành phố này."
+    }
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:53:26.060Z",
+    "content": {
+      "choices": [],
+      "answer": "lạc lối",
+      "translation": {
+        "en": "I feel lost on this road."
+      },
+      "translatedAnswer": {
+        "en": "lost"
+      },
+      "sentence": "Tôi cảm thấy ___ trên con đường này.",
+      "word": "lạc lối",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:53:26.060Z",
+    "id": "2dc5b234-663d-4702-b9a4-fb9a125089fd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "Lạc lối means “lost.” It can be physical (you don’t know where you are) or emotional/mental (you don’t know what to do in life).\n\nIt works like a state adjective after bị or cảm thấy. You can also use it after verbs of movement or in situations where someone lacks direction.\n\nClose synonym: lạc đường (more physical, about roads). For emotional meaning, it’s similar to mất phương hướng (stronger, more serious).",
+  "updatedAt": "2026-03-03T11:29:19.648Z",
+  "_id": "GqGbCS5vadlYINw5RxoG"
+}

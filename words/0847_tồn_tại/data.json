@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em không biết liệu loài vật này có thật sự tồn tại hay không.",
+    "Một số vấn đề trong cuộc sống luôn tồn tại dù mình cố gắng thay đổi.",
+    "Anh tin rằng tình bạn thật sự sẽ tồn tại theo thời gian."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:57:43.774Z",
+    "createdAt": "2025-03-12T15:57:43.774Z",
+    "id": "6c2b43c4-4e4d-4fb2-bdc6-01a8c31a7828",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need to exist in life."
+      },
+      "word": "tồn tại",
+      "choices": [],
+      "sentence": "Chúng ta cần phải ___ trong cuộc sống.",
+      "translatedAnswer": {
+        "en": "exist"
+      },
+      "answer": "tồn tại"
+    }
+  },
+  "choices": [
+    "tồn tại",
+    "thay đổi",
+    "kết thúc"
+  ],
+  "rank": 847,
+  "definition": "exist",
+  "notes": "tồn tại = to exist, to continue being real or present.\n\nIt’s a verb used for things, people, ideas, problems, systems — anything that “is there” or keeps existing. Often used in serious or abstract contexts (life, society, history, nature).  \n\nIt can mean simply “to be” in a philosophical sense, or “to continue to exist” over time.  \n\nStrong memory link: opposite is biến mất (disappear); more formal synonym is hiện hữu.",
+  "notes_md": "**tồn tại** = to exist, to continue being real or present.\n\nIt’s a verb used for things, people, ideas, problems, systems — anything that “is there” or keeps existing. Often used in serious or abstract contexts (life, society, history, nature).  \n\n\nIt can mean simply “to be” in a philosophical sense, or “to continue to exist” over time.  \n\nStrong memory link: opposite is **biến mất** (disappear); more formal synonym is **hiện hữu**.",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "exist"
+      },
+      "answer": "tồn tại",
+      "hint": "t___i",
+      "choices": [
+        "tồn tại",
+        "hạn chế",
+        "khoảng cách"
+      ],
+      "sentence": "Chúng ta cần phải ___ trong cuộc sống.",
+      "language": "vi",
+      "translation": {
+        "en": "We need to exist in life."
+      },
+      "word": "tồn tại"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "5c5a70ac-5e07-426e-b0c5-d9c83e42d801",
+    "createdAt": "2025-03-12T15:57:43.774Z",
+    "updatedAt": "2025-03-12T15:57:43.774Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "vi": "tồn tại",
+      "es": "existir",
+      "en": "exist"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Có sự tồn tại thực tế; là có thật.",
+      "en": "To have actual being; to be real.",
+      "es": "Tener existencia real; ser real."
+    },
+    "createdAt": "2025-01-28T13:29:51.001Z",
+    "example": {
+      "en": "Love exists forever.",
+      "es": "El amor existe para siempre.",
+      "vi": "Tình yêu tồn tại mãi mãi."
+    }
+  },
+  "word": "tồn tại",
+  "updatedAt": "2026-03-03T07:46:35.941Z",
+  "exampleSentencesTranslated": [
+    "I don't know if this creature really exist or not.",
+    "Some problems in life always exist even if we try to change.",
+    "I believe that true friendship will exist over time."
+  ],
+  "_id": "lYhWrvizj3ZvBa7PBWK7"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "nặng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**nặng** = heavy (a lot of weight). It describes something that is hard to lift, carry, or move.\n\nIt’s an adjective, so it goes after the noun: *vật nặng, túi nặng*. You can add degree words like *rất, quá, hơi* in front.\n\nIt’s also used figuratively for serious or severe things: *bệnh nặng* (serious illness), *hình phạt nặng* (harsh punishment), *nặng lời* (harsh in speech).\n\nOpposite: **nhẹ** (light).",
+  "rank": 1040,
+  "choices": [
+    "nhẹ",
+    "nặng",
+    "mạnh"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:35:24.126Z",
+    "content": {
+      "word": "nặng",
+      "sentence": "Cái búa này rất ___.",
+      "language": "vi",
+      "choices": [
+        "nhẹ",
+        "nặng",
+        "mỏng"
+      ],
+      "hint": "n___g",
+      "answer": "nặng",
+      "translation": {
+        "en": "This hammer is very heavy."
+      },
+      "translatedAnswer": {
+        "en": "heavy"
+      }
+    },
+    "id": "d89470d5-5be4-4abd-9812-4056aa42190d",
+    "updatedAt": "2025-03-12T15:35:24.126Z"
+  },
+  "updatedAt": "2026-03-03T08:06:38.633Z",
+  "exampleSentences": [
+    "Cái vali này quá nặng, em không thể tự mang được.",
+    "Mẹ bảo anh đừng bê thùng nước nặng một mình.",
+    "Sau khi tập thể dục, chân chị cảm thấy rất nặng."
+  ],
+  "notes": "nặng = heavy (a lot of weight). It describes something that is hard to lift, carry, or move.\n\nIt’s an adjective, so it goes after the noun: vật nặng, túi nặng. You can add degree words like rất, quá, hơi in front.\n\nIt’s also used figuratively for serious or severe things: bệnh nặng (serious illness), hình phạt nặng (harsh punishment), nặng lời (harsh in speech).\n\nOpposite: nhẹ (light).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:09:44.524Z",
+    "translations": {
+      "es": "pesado",
+      "vi": "nặng",
+      "en": "heavy"
+    },
+    "example": {
+      "vi": "Cái túi này rất nặng.",
+      "es": "Esta bolsa es muy pesada.",
+      "en": "This bag is very heavy."
+    },
+    "definitions": {
+      "vi": "Có trọng lượng lớn; khó nâng hoặc mang.",
+      "es": "Tener un gran peso; difícil de levantar o cargar.",
+      "en": "Having a great weight; difficult to lift or carry."
+    }
+  },
+  "definition": "heavy",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:35:24.126Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:35:24.126Z",
+    "content": {
+      "choices": [],
+      "word": "nặng",
+      "language": "vi",
+      "sentence": "Cái hộp này rất ___.",
+      "translation": {
+        "en": "This box is very heavy."
+      },
+      "translatedAnswer": {
+        "en": "heavy"
+      },
+      "answer": "nặng"
+    },
+    "id": "30a8fa71-7579-4c83-9927-ce0972785d91"
+  },
+  "exampleSentencesTranslated": [
+    "This suitcase is too heavy, I can't carry it by myself.",
+    "Mom told me not to lift the heavy water box alone.",
+    "After exercising, my legs feel very heavy."
+  ],
+  "_id": "g3vjOiWT77cPtXTGuPRU"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:52:57.823Z",
+    "id": "e8b30764-898e-45eb-9f54-9eb476b7dd66",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:52:57.823Z",
+    "content": {
+      "word": "tổng thể",
+      "translation": {
+        "en": "We need to consider the overall issue."
+      },
+      "translatedAnswer": {
+        "en": "overall"
+      },
+      "language": "vi",
+      "hint": "t___ thể",
+      "answer": "tổng thể",
+      "sentence": "Chúng ta cần xem xét ___ vấn đề.",
+      "choices": [
+        "tổng thể",
+        "cá nhân",
+        "chi tiết"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**tổng thể** = overall, as a whole. It talks about the big picture, not small details.\n\nIt can act like an adjective before a noun: **tổng thể + noun** (tổng thể kế hoạch, tổng thể dự án). It can also work like a noun meaning “the overall picture” after verbs like *nhìn*, *xem xét*, *đánh giá*.  \n\nThink of it as the opposite of **chi tiết** (details).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "El proyecto en general es muy impresionante.",
+      "vi": "Tổng thể dự án này rất ấn tượng.",
+      "en": "The overall project is very impressive."
+    },
+    "createdAt": "2025-01-28T14:22:54.471Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tổng thể",
+      "es": "en general",
+      "en": "overall"
+    },
+    "definitions": {
+      "vi": "Liên quan đến hoặc bao gồm toàn bộ; toàn diện.",
+      "es": "Relativo o que involucra el todo; comprensivo.",
+      "en": "Relating to or involving the whole; comprehensive."
+    }
+  },
+  "word": "tổng thể",
+  "rank": 2410,
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:52:57.823Z",
+    "id": "1425b33a-3ff9-4247-b9e1-b8df0ba61d6d",
+    "createdAt": "2025-03-12T16:52:57.823Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "tổng thể",
+      "translation": {
+        "en": "We need to consider the overall issue."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "overall"
+      },
+      "answer": "tổng thể",
+      "choices": [],
+      "sentence": "Chúng ta cần xem xét ___ vấn đề."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I think the overall of this project is very good compared to before.",
+    "I want to know the overall for the trip to Da Lat next week.",
+    "I find the overall of this room quite tidy and clean."
+  ],
+  "choices": [
+    "tổng thể",
+    "chi tiết",
+    "một phần"
+  ],
+  "exampleSentences": [
+    "Anh nghĩ tổng thể của dự án này rất tốt so với trước đây.",
+    "Chị muốn biết tổng thể kế hoạch cho chuyến đi Đà Lạt tuần sau.",
+    "Em thấy tổng thể căn phòng này khá gọn gàng và sạch sẽ."
+  ],
+  "definition": "overall",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:32:33.117Z",
+  "notes": "tổng thể = overall, as a whole. It talks about the big picture, not small details.\n\nIt can act like an adjective before a noun: tổng thể + noun (tổng thể kế hoạch, tổng thể dự án). It can also work like a noun meaning “the overall picture” after verbs like nhìn, xem xét, đánh giá.  \n\nThink of it as the opposite of chi tiết (details).",
+  "_id": "zwPRzrZPW6QxhyeSfncN"
+}

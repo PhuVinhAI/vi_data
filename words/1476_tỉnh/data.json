@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:40:37.612Z",
+    "createdAt": "2025-03-12T15:40:37.612Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "4e8a8a7d-33cb-4a4e-9583-57f8490152eb",
+    "content": {
+      "translatedAnswer": {
+        "en": "province"
+      },
+      "answer": "tỉnh",
+      "hint": "t___",
+      "sentence": "Tôi sống ở ___ này.",
+      "choices": [
+        "thành phố",
+        "tỉnh",
+        "quận"
+      ],
+      "language": "vi",
+      "word": "tỉnh",
+      "translation": {
+        "en": "I live in this province."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tỉnh** means **province** — a large administrative area in Vietnam, smaller than the whole country but bigger than a district. You can count it directly: *một tỉnh, hai tỉnh* (no classifier needed).  \n\nIt often pairs with words like **cấp tỉnh** (provincial level), **ủy ban tỉnh** (provincial committee), or contrasts with **thành phố** (city).  \n\nVery common second meaning: **tỉnh** = to wake up or regain consciousness, or to sober up. From this, you get **tỉnh táo** (clear-headed, alert).  \n\nStrong contrast to remember: **tỉnh** (province / wake up) vs **thành phố** (city).",
+  "exampleSentencesTranslated": [
+    "I was born in a small province in northern Vietnam.",
+    "My family plans to move to another province.",
+    "She often goes on business trips to many provinces across the country."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tỉnh",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi sống ở tỉnh Bình Dương.",
+      "es": "Vivo en la provincia de Binh Duong.",
+      "en": "I live in Binh Duong province."
+    },
+    "definitions": {
+      "es": "Una provincia o región en Vietnam.",
+      "en": "A province or a region in Vietnam.",
+      "vi": "Một tỉnh hoặc khu vực ở Việt Nam."
+    },
+    "createdAt": "2025-01-28T13:14:10.407Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tỉnh",
+      "en": "province",
+      "es": "provincia"
+    }
+  },
+  "updatedAt": "2026-03-03T08:53:46.292Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:40:37.612Z",
+    "updatedAt": "2025-03-12T15:40:37.612Z",
+    "content": {
+      "sentence": "Tôi sống ở ___ này.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "province"
+      },
+      "answer": "tỉnh",
+      "language": "vi",
+      "translation": {
+        "en": "I live in this province."
+      },
+      "word": "tỉnh"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "be3cd971-b53a-4a5f-b828-fb4849267b0c"
+  },
+  "choices": [
+    "tỉnh",
+    "quận",
+    "phố"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh sinh ra ở một tỉnh nhỏ miền Bắc Việt Nam.",
+    "Gia đình em dự định chuyển đến sống ở một tỉnh khác.",
+    "Chị thường đi công tác ở nhiều tỉnh trong cả nước."
+  ],
+  "definition": "province",
+  "notes": "tỉnh means province — a large administrative area in Vietnam, smaller than the whole country but bigger than a district. You can count it directly: một tỉnh, hai tỉnh (no classifier needed).  \n\nIt often pairs with words like cấp tỉnh (provincial level), ủy ban tỉnh (provincial committee), or contrasts with thành phố (city).  \n\nVery common second meaning: tỉnh = to wake up or regain consciousness, or to sober up. From this, you get tỉnh táo (clear-headed, alert).  \n\nStrong contrast to remember: tỉnh (province / wake up) vs thành phố (city).",
+  "rank": 1476,
+  "_id": "hLweLpQ3gtweFUSfROdn"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "sợ hãi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:26:49.659Z",
+    "id": "f827be06-1d8c-4e15-9dbe-d7f9377cf686",
+    "content": {
+      "choices": [
+        "bình tĩnh",
+        "sợ hãi",
+        "vui vẻ"
+      ],
+      "word": "sợ hãi",
+      "language": "vi",
+      "sentence": "Tôi ___ khi thấy bóng tối.",
+      "translation": {
+        "en": "I am afraid when I see the dark."
+      },
+      "translatedAnswer": {
+        "en": "afraid"
+      },
+      "hint": "s_____",
+      "answer": "sợ hãi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:26:49.659Z",
+    "type": "multiChoiceQuiz"
+  },
+  "choices": [
+    "sợ hãi",
+    "vui vẻ",
+    "bình tĩnh"
+  ],
+  "rank": 2063,
+  "notes_md": "**sợ hãi** = afraid, scared. It describes a strong feeling of fear.\n\nIt’s usually used as an adjective after a subject: *ai đó sợ hãi*. You can also use it as a noun for “fear” in a more abstract way.\n\n\nStronger and more intense than just **sợ**. Related words: **lo lắng** (anxious, more about worry), opposite: **can đảm** (brave).",
+  "notes": "sợ hãi = afraid, scared. It describes a strong feeling of fear.\n\nIt’s usually used as an adjective after a subject: ai đó sợ hãi. You can also use it as a noun for “fear” in a more abstract way.\n\nStronger and more intense than just sợ. Related words: lo lắng (anxious, more about worry), opposite: can đảm (brave).",
+  "exampleSentences": [
+    "Em cảm thấy sợ hãi khi xem phim kinh dị vào ban đêm.",
+    "Anh ấy sợ hãi khi phải nói trước đám đông lớn.",
+    "Chị không nên để bản thân bị sợ hãi bởi những điều nhỏ nhặt."
+  ],
+  "updatedAt": "2026-03-03T09:56:21.149Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I am afraid when I see the dark."
+      },
+      "translatedAnswer": {
+        "en": "afraid"
+      },
+      "answer": "sợ hãi",
+      "choices": [],
+      "word": "sợ hãi",
+      "sentence": "Tôi ___ khi thấy bóng tối.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:26:49.659Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "caa0a0df-8da7-488e-99c6-718611301ee6",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:26:49.659Z"
+  },
+  "exampleSentencesTranslated": [
+    "I feel afraid when watching horror movies at night.",
+    "He is afraid when he has to speak in front of a large crowd.",
+    "You should not let yourself be afraid of small things."
+  ],
+  "definition": "afraid",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm giác sợ hãi hoặc lo âu.",
+      "es": "Una sensación de miedo o ansiedad.",
+      "en": "A feeling of fear or anxiety."
+    },
+    "example": {
+      "es": "Me siento asustado al ver películas de terror.",
+      "vi": "Tôi cảm thấy sợ hãi khi xem phim kinh dị.",
+      "en": "I feel scared when watching horror movies."
+    },
+    "translations": {
+      "es": "miedo",
+      "vi": "sợ hãi",
+      "en": "fear"
+    },
+    "createdAt": "2025-01-28T11:07:12.339Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "AA3ofHadNvFL32h6GQH8"
+}

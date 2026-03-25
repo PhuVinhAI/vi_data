@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:06:10.031Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:48:55.832Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "return"
+      },
+      "sentence": "Tôi muốn ___ nhà.",
+      "word": "trở lại",
+      "language": "vi",
+      "choices": [],
+      "answer": "trở lại",
+      "translation": {
+        "en": "I want to return home."
+      }
+    },
+    "updatedAt": "2025-03-12T13:48:55.832Z",
+    "id": "1603fe9a-9f50-489e-92d9-5be368a9d3ae",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "trở lại = to come back / return to a place, person, or activity. It focuses on going back to where you were before.\n\nIt’s a verb, often used with places, time points, or situations. You can also use it for abstract things like feelings, habits, or problems coming back.\n\nClose synonym: quay lại (more casual and common in speech). Opposite idea: rời đi (leave).",
+  "exampleSentencesTranslated": [
+    "I will come back home this weekend.",
+    "If you forget something, you can come back to get it anytime.",
+    "After traveling, she feels very happy to come back to work."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "to return or come back to a place.",
+      "vi": "trở về hoặc quay lại một nơi nào đó.",
+      "es": "regresar o volver a un lugar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "come back",
+      "vi": "trở lại",
+      "es": "volver"
+    },
+    "createdAt": "2025-01-28T11:27:11.926Z",
+    "example": {
+      "es": "Volveré mañana.",
+      "vi": "Tôi sẽ trở lại vào ngày mai.",
+      "en": "I will come back tomorrow."
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "73648117-2c1c-49af-b3e9-8cf014c26a7c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:48:55.832Z",
+    "createdAt": "2025-03-12T13:48:55.832Z",
+    "content": {
+      "sentence": "Chúng ta sẽ ___ vào tháng tới.",
+      "word": "trở lại",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "return"
+      },
+      "translation": {
+        "en": "We will return next month."
+      },
+      "answer": "trở lại",
+      "choices": [
+        "đi tới",
+        "trở lại",
+        "đi ra"
+      ],
+      "hint": "tr___ lại"
+    }
+  },
+  "notes_md": "**trở lại** = to come back / return to a place, person, or activity. It focuses on going back to where you were before.\n\nIt’s a verb, often used with places, time points, or situations. You can also use it for abstract things like feelings, habits, or problems coming back.\n\n\nClose synonym: **quay lại** (more casual and common in speech). Opposite idea: **rời đi** (leave).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "trở lại",
+    "rời đi",
+    "bắt đầu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh sẽ trở lại nhà vào cuối tuần này.",
+    "Nếu em quên đồ, em có thể trở lại lấy bất cứ lúc nào.",
+    "Sau khi đi du lịch, chị cảm thấy rất vui khi được trở lại công việc."
+  ],
+  "rank": 439,
+  "word": "trở lại",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "come back",
+  "_id": "FaYRL2jlI6hihPNHKFMt"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "flag",
+  "rank": 1937,
+  "flashcard": {
+    "createdAt": "2025-01-28T10:41:48.568Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un juego que se juega en un tablero de cuadros con piezas que se mueven de maneras específicas.",
+      "vi": "Một trò chơi được chơi trên một bàn cờ có ô vuông với các quân cờ di chuyển theo cách cụ thể.",
+      "en": "A game played on a checkered board with pieces that move in specific ways."
+    },
+    "example": {
+      "es": "Me gusta jugar al ajedrez con mi amigo.",
+      "en": "I like to play chess with my friend.",
+      "vi": "Tôi thích chơi cờ với bạn."
+    },
+    "translations": {
+      "vi": "cờ",
+      "en": "chess",
+      "es": "ajedrez"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Họ chơi ___ ở công viên.",
+      "answer": "cờ",
+      "translation": {
+        "en": "They play chess in the park."
+      },
+      "choices": [
+        "bóng",
+        "cờ",
+        "đá"
+      ],
+      "hint": "c__",
+      "word": "cờ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "chess"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "cd9f214e-5eb9-491a-9450-eb1ad11223e0",
+    "createdAt": "2025-03-12T12:58:39.053Z",
+    "updatedAt": "2025-03-12T12:58:39.053Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh giơ lá cờ lên khi đội nhà ghi bàn.",
+    "Chị mua một lá cờ mới để trang trí phòng khách.",
+    "Em quên mang lá cờ, nên cả nhóm phải dùng khăn thay."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cờ",
+    "bàn",
+    "ghế"
+  ],
+  "notes": "lá cờ = flag (a piece of cloth with colors/symbols, usually for a country, team, or signal).\n\nIt’s a noun. Use the classifier lá for thin, flat things like leaves and flags: one flag = một lá cờ.  \n\nCommon verb pairings: treo cờ (hang a flag), kéo cờ (raise a flag), hạ cờ (lower a flag), vẫy cờ (wave a flag).  \nFor a national flag, you’ll often hear quốc kỳ (more formal, official tone).",
+  "word": "lá cờ",
+  "notes_md": "**lá cờ** = flag (a piece of cloth with colors/symbols, usually for a country, team, or signal).\n\nIt’s a noun. Use the classifier **lá** for thin, flat things like leaves and flags: one flag = *một lá cờ*.  \n\nCommon verb pairings: **treo cờ** (hang a flag), **kéo cờ** (raise a flag), **hạ cờ** (lower a flag), **vẫy cờ** (wave a flag).  \nFor a national flag, you’ll often hear **quốc kỳ** (more formal, official tone).",
+  "exampleSentencesTranslated": [
+    "He raised the flag when the home team scored.",
+    "She bought a new flag to decorate the living room.",
+    "I forgot to bring the flag, so the whole group had to use a scarf instead."
+  ],
+  "updatedAt": "2026-03-03T09:43:01.724Z",
+  "fillBlankQuiz": {
+    "id": "f2f29ce4-2db6-4f63-b3b1-75b5f47ebf7c",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I like to play chess on the beach."
+      },
+      "choices": [],
+      "word": "cờ",
+      "translatedAnswer": {
+        "en": "chess"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích chơi ___ trên biển.",
+      "answer": "cờ"
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T12:58:39.053Z",
+    "updatedAt": "2025-03-12T12:58:39.053Z"
+  },
+  "_id": "2URY9Qb4j4sHAnksykTy"
+}

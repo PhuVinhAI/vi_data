@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "sentence": "Anh ấy là ___ của công ty.",
+      "word": "đại diện",
+      "choices": [],
+      "answer": "đại diện",
+      "translatedAnswer": {
+        "en": "representative"
+      },
+      "translation": {
+        "en": "He is the representative of the company."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:27:54.901Z",
+    "id": "24a5809a-f13a-40f6-a699-578b82a28c3e",
+    "updatedAt": "2025-03-12T13:27:54.901Z"
+  },
+  "exampleSentencesTranslated": [
+    "You will be the representative of the group attending the meeting tomorrow.",
+    "She was chosen as the representative for the class in this competition.",
+    "The company needs a representative to talk to foreign customers."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:07:51.245Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "representative",
+      "es": "representante",
+      "vi": "đại diện"
+    },
+    "example": {
+      "en": "I am the representative of the company in this meeting.",
+      "vi": "Tôi là đại diện cho công ty trong cuộc họp này.",
+      "es": "Soy el representante de la empresa en esta reunión."
+    },
+    "definitions": {
+      "es": "Una persona elegida o designada para actuar o hablar en nombre de otros.",
+      "vi": "Một người được chọn hoặc bổ nhiệm để đại diện hoặc phát biểu cho người khác.",
+      "en": "A person chosen or appointed to act or speak for others."
+    }
+  },
+  "definition": "representative",
+  "notes": "đại diện means representative — a person who speaks or acts for someone else or a group. It can also be a verb meaning to represent.\n\nAs a noun, it often goes with organizations, groups, companies, classes, teams (đại diện công ty, đại diện nhóm). You don’t need a classifier in most everyday situations.\n\nAs a verb, it commonly pairs with cho to show who someone represents.\n\nClose synonym: thay mặt (more like “on behalf of,” focuses on the action, not the title).",
+  "updatedAt": "2026-03-03T08:49:15.618Z",
+  "exampleSentences": [
+    "Anh sẽ là đại diện của nhóm tham dự cuộc họp ngày mai.",
+    "Chị ấy được chọn làm đại diện cho lớp trong cuộc thi này.",
+    "Công ty cần một đại diện để nói chuyện với khách hàng nước ngoài."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:27:54.901Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:27:54.901Z",
+    "content": {
+      "choices": [
+        "người đại diện",
+        "đại diện",
+        "thành viên"
+      ],
+      "language": "vi",
+      "sentence": "Chúng tôi cần một ___ mới.",
+      "word": "đại diện",
+      "translatedAnswer": {
+        "en": "representative"
+      },
+      "translation": {
+        "en": "We need a new representative."
+      },
+      "hint": "d___n",
+      "answer": "đại diện"
+    },
+    "id": "f8be662f-655d-40a2-a6d8-2c504861d178",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đại diện** means *representative* — a person who speaks or acts for someone else or a group. It can also be a **verb** meaning *to represent*.\n\nAs a **noun**, it often goes with organizations, groups, companies, classes, teams (đại diện công ty, đại diện nhóm). You don’t need a classifier in most everyday situations.\n\nAs a **verb**, it commonly pairs with **cho** to show who someone represents.\n\n\nClose synonym: **thay mặt** (more like “on behalf of,” focuses on the action, not the title).",
+  "rank": 1434,
+  "choices": [
+    "đại diện",
+    "khách hàng",
+    "giám đốc"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đại diện",
+  "_id": "AKf4pKvjgmZ7cFfoTjb5"
+}

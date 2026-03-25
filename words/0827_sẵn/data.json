@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "ready"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I have prepared ready for the party."
+      },
+      "answer": "sẵn",
+      "sentence": "Tôi đã chuẩn bị ___ cho bữa tiệc.",
+      "word": "sẵn"
+    },
+    "updatedAt": "2025-03-12T16:50:34.425Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:50:34.425Z",
+    "id": "b2eb69cb-2d71-4fff-b3e2-01a498ab1836"
+  },
+  "rank": 827,
+  "definition": "ready",
+  "notes_md": "**sẵn** means *ready* or *already prepared/available*. It often adds the feeling of “it’s there and waiting.”\n\nIt’s an adjective, but it usually comes **after a verb** to show something is prepared in advance, or after **có** to mean “available.” It describes the state of something being ready to use or act on.\n\n\nVery common in daily actions when you prepare something before it’s needed. Close to **chuẩn bị trước** in meaning, but **sẵn** is shorter and more natural in quick speech.",
+  "flashcard": {
+    "translations": {
+      "vi": "sẵn",
+      "en": "ready",
+      "es": "listo"
+    },
+    "definitions": {
+      "vi": "Sẵn sàng hoặc có sẵn để sử dụng.",
+      "es": "Listo o disponible para usar.",
+      "en": "Ready or available for use."
+    },
+    "example": {
+      "vi": "Tôi đã chuẩn bị sẵn mọi thứ cho bữa tiệc.",
+      "es": "Tengo todo listo para la fiesta.",
+      "en": "I have everything ready for the party."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:20:39.182Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sẵn means ready or already prepared/available. It often adds the feeling of “it’s there and waiting.”\n\nIt’s an adjective, but it usually comes after a verb to show something is prepared in advance, or after có to mean “available.” It describes the state of something being ready to use or act on.\n\nVery common in daily actions when you prepare something before it’s needed. Close to chuẩn bị trước in meaning, but sẵn is shorter and more natural in quick speech.",
+  "word": "sẵn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I have the documents ready for the meeting this morning.",
+    "He is always ready to help friends when they need.",
+    "Are you ready this afternoon to meet me?"
+  ],
+  "choices": [
+    "sớm",
+    "sẵn",
+    "sang"
+  ],
+  "updatedAt": "2026-03-03T07:44:20.256Z",
+  "exampleSentences": [
+    "Em đã chuẩn bị sẵn tài liệu cho buổi họp sáng nay.",
+    "Anh luôn sẵn giúp đỡ bạn bè khi họ cần.",
+    "Chị có sẵn thời gian chiều nay để gặp em không?"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "s__n",
+      "word": "sẵn",
+      "sentence": "Họ đã ___ cho chuyến đi.",
+      "choices": [
+        "sẵn",
+        "mới",
+        "cũ"
+      ],
+      "answer": "sẵn",
+      "translation": {
+        "en": "They are ready for the trip."
+      },
+      "translatedAnswer": {
+        "en": "ready"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:50:34.425Z",
+    "id": "34cae3b5-4e24-43c4-91de-f0663ab82a43",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:50:34.425Z"
+  },
+  "_id": "zALs8C2lNeG2fKJfegR4"
+}

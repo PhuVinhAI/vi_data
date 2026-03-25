@@ -1,0 +1,99 @@
+{
+  "definition": "stand",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "stand"
+      },
+      "sentence": "Tôi sẽ ___ ở đây.",
+      "choices": [],
+      "word": "đứng",
+      "translation": {
+        "en": "I will stand here."
+      },
+      "answer": "đứng"
+    },
+    "updatedAt": "2025-03-12T14:34:04.138Z",
+    "id": "1b0fbcff-457c-4a16-a540-dc80e4620f74",
+    "createdAt": "2025-03-12T14:34:04.138Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đứng** = to stand (be on your feet, not sitting or lying). It’s the basic verb for being upright.\n\nYou use it for people, animals, and also objects that are upright (like a bottle standing on a table). It often combines with location words.\n\n\nIt can also mean “to be located” in a more formal sense (like a building standing somewhere). Opposite idea: **ngồi** (sit), **nằm** (lie).",
+  "exampleSentences": [
+    "Anh có thể đứng ở đây chờ em một chút được không?",
+    "Khi giáo viên vào lớp, tất cả học sinh đều đứng lên chào.",
+    "Chị thường đứng gần cửa sổ để ngắm nhìn thành phố vào buổi sáng."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Estoy de pie aquí esperando por ti.",
+      "en": "I am standing here waiting for you.",
+      "vi": "Tôi đứng ở đây chờ bạn."
+    },
+    "createdAt": "2025-01-28T12:09:39.391Z",
+    "definitions": {
+      "es": "Estar en una posición vertical sobre los pies.",
+      "en": "To be in an upright position on the feet.",
+      "vi": "Ở trong một vị trí thẳng đứng trên đôi chân."
+    },
+    "translations": {
+      "es": "estar de pie",
+      "vi": "đứng",
+      "en": "to stand"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "đứng = to stand (be on your feet, not sitting or lying). It’s the basic verb for being upright.\n\nYou use it for people, animals, and also objects that are upright (like a bottle standing on a table). It often combines with location words.\n\nIt can also mean “to be located” in a more formal sense (like a building standing somewhere). Opposite idea: ngồi (sit), nằm (lie).",
+  "choices": [
+    "ngồi",
+    "đứng",
+    "chạy"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:05:19.622Z",
+  "exampleSentencesTranslated": [
+    "Can you stand here and wait for me for a moment?",
+    "When the teacher enters the classroom, all the students stand to greet.",
+    "She often stands near the window to look at the city in the morning."
+  ],
+  "rank": 430,
+  "word": "đứng",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:34:04.138Z",
+    "id": "6eaf9040-8bf2-42a9-b8e9-c99f076dffeb",
+    "content": {
+      "hint": "d___g",
+      "translation": {
+        "en": "I will stand here."
+      },
+      "answer": "đứng",
+      "word": "đứng",
+      "choices": [
+        "ngồi",
+        "đứng",
+        "nằm"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "stand"
+      },
+      "sentence": "Tôi sẽ ___ ở đây."
+    },
+    "updatedAt": "2025-03-12T14:34:04.138Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "Qjy1HlFRdjsHqB4X6pR1"
+}

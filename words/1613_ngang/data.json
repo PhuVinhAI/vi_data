@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "2830d285-e600-4ee0-93b6-de2c61277593",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "This road is very flat to walk."
+      },
+      "sentence": "Đường này rất ___ để đi.",
+      "word": "ngang",
+      "answer": "ngang",
+      "translatedAnswer": {
+        "en": "flat"
+      }
+    },
+    "updatedAt": "2025-03-12T14:17:43.243Z",
+    "createdAt": "2025-03-12T14:17:43.243Z"
+  },
+  "definition": "horizontal",
+  "choices": [
+    "dọc",
+    "ngang",
+    "cao"
+  ],
+  "updatedAt": "2026-03-03T09:08:36.198Z",
+  "notes": "ngang means horizontal — flat from left to right, not up and down.  \n\nIt’s usually an adjective describing position or direction: a line, table, body, surface, etc. You’ll often see it with movement or position verbs like nằm, kẻ, đặt to show something is lying flat.  \n\nIt also means equal / on the same level when comparing things.  \n\nAs an adverb in some phrases, it can mean across (like moving from one side to the other), often in combinations such as đi ngang qua.  \n\nStrong contrast to remember: ngang (horizontal) vs dọc (vertical).",
+  "exampleSentencesTranslated": [
+    "He draws a horizontal line on the paper to divide it in half.",
+    "She puts the book horizontal on her study desk.",
+    "This shelf must be installed horizontal with the floor to look nice."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ngang** means *horizontal* — flat from left to right, not up and down.  \n\nIt’s usually an adjective describing position or direction: a line, table, body, surface, etc. You’ll often see it with movement or position verbs like **nằm**, **kẻ**, **đặt** to show something is lying flat.  \n\nIt also means **equal / on the same level** when comparing things.  \n\nAs an adverb in some phrases, it can mean **across** (like moving from one side to the other), often in combinations such as *đi ngang qua*.  \n\nStrong contrast to remember: **ngang** (horizontal) vs **dọc** (vertical).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:17:43.243Z",
+    "updatedAt": "2025-03-12T14:17:43.243Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "This road is very flat to walk."
+      },
+      "choices": [
+        "thẳng",
+        "đẹp",
+        "ngang"
+      ],
+      "language": "vi",
+      "hint": "n___g",
+      "word": "ngang",
+      "sentence": "Đường này rất ___ để đi.",
+      "translatedAnswer": {
+        "en": "flat"
+      },
+      "answer": "ngang"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "4e767e66-e24c-47f0-847d-c450299e37d8"
+  },
+  "word": "ngang",
+  "flashcard": {
+    "example": {
+      "en": "This table is level with that table.",
+      "vi": "Cái bàn này ngang bằng với cái bàn kia.",
+      "es": "Esta mesa está al mismo nivel que esa mesa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "nivel",
+      "vi": "ngang",
+      "en": "level"
+    },
+    "definitions": {
+      "vi": "Ngang là nằm ngang hoặc bằng phẳng; bằng nhau về vị trí hoặc địa vị.",
+      "es": "Horizontal o nivelado; igual en posición o estatus.",
+      "en": "Horizontal or level; equal in position or status."
+    },
+    "createdAt": "2025-01-28T11:54:28.667Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vẽ một đường ngang trên tờ giấy để chia đôi nó.",
+    "Em đặt cuốn sách nằm ngang trên bàn học của mình.",
+    "Chiếc kệ này phải được lắp ngang với mặt đất thì mới đẹp."
+  ],
+  "rank": 1613,
+  "_id": "McVZJeI0ALcz28l4uOXV"
+}

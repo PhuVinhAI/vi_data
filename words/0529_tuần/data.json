@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi đi làm mỗi ___ một lần.",
+      "word": "tuần",
+      "language": "vi",
+      "answer": "tuần",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "week"
+      },
+      "translation": {
+        "en": "I go to work once a week."
+      }
+    },
+    "updatedAt": "2025-03-12T15:04:05.408Z",
+    "createdAt": "2025-03-12T15:04:05.408Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e17879c6-da21-4e99-abea-b099d731d64a"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:15:13.572Z",
+  "exampleSentencesTranslated": [
+    "I go swimming three times every week to stay healthy.",
+    "She will go on a business trip to Hanoi for one week next month.",
+    "I usually call home at the end of the week."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "week",
+      "es": "semana",
+      "vi": "tuần"
+    },
+    "example": {
+      "en": "I have an appointment next week.",
+      "es": "Tengo una cita la próxima semana.",
+      "vi": "Tôi có một cuộc hẹn vào tuần tới."
+    },
+    "createdAt": "2025-01-28T12:36:17.008Z",
+    "definitions": {
+      "en": "A period of seven days.",
+      "es": "Un período de siete días.",
+      "vi": "Một khoảng thời gian bảy ngày."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Tuần** means *week* — a period of 7 days.\n\nIt’s a countable noun. You use a number directly before it: **một tuần, hai tuần, ba tuần** (no classifier needed).  \nVery common time phrases: **tuần này** (this week), **tuần trước** (last week), **tuần sau** (next week), **cuối tuần** (weekend).  \nWith frequency, use **mỗi tuần** = every week.",
+  "definition": "week",
+  "choices": [
+    "tuổi",
+    "tháng",
+    "tuần"
+  ],
+  "rank": 529,
+  "multiChoiceQuiz": {
+    "id": "06490eb1-6910-4239-9f16-8a517e3dc00a",
+    "createdAt": "2025-03-12T15:04:05.408Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi đi làm mỗi ___ một lần.",
+      "hint": "t___n",
+      "answer": "tuần",
+      "word": "tuần",
+      "language": "vi",
+      "choices": [
+        "tháng",
+        "tuần",
+        "năm"
+      ],
+      "translatedAnswer": {
+        "en": "week"
+      },
+      "translation": {
+        "en": "I go to work once a week."
+      }
+    },
+    "updatedAt": "2025-03-12T15:04:05.408Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Tuần means week — a period of 7 days.\n\nIt’s a countable noun. You use a number directly before it: một tuần, hai tuần, ba tuần (no classifier needed).  \nVery common time phrases: tuần này (this week), tuần trước (last week), tuần sau (next week), cuối tuần (weekend).  \nWith frequency, use mỗi tuần = every week.",
+  "exampleSentences": [
+    "Anh đi bơi ba lần mỗi tuần để giữ sức khỏe.",
+    "Chị sẽ đi công tác ở Hà Nội một tuần vào tháng sau.",
+    "Em thường gọi điện về nhà vào cuối tuần."
+  ],
+  "word": "tuần",
+  "_id": "Xvz9RXx5yQSYOVkwGiU0"
+}

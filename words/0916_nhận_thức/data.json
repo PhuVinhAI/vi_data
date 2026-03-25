@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em nghĩ nhận thức về môi trường của mọi người đang tăng lên.",
+    "Việc học ngoại ngữ giúp anh mở rộng nhận thức về các nền văn hóa khác nhau.",
+    "Chị cần nâng cao nhận thức của mình về sức khỏe tinh thần."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hiểu biết",
+    "nhận thức",
+    "trải nghiệm"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "nhận thức",
+      "es": "conciencia",
+      "en": "awareness"
+    },
+    "example": {
+      "es": "Mi comprensión sobre este tema ha cambiado.",
+      "en": "My understanding of this issue has changed.",
+      "vi": "Nhận thức của tôi về vấn đề này đã thay đổi."
+    },
+    "createdAt": "2025-01-28T13:38:51.824Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Khả năng nhận biết và hiểu một điều gì đó.",
+      "en": "The ability to be aware of and understand something.",
+      "es": "La capacidad de ser consciente y entender algo."
+    }
+  },
+  "updatedAt": "2026-03-03T07:53:41.254Z",
+  "exampleSentencesTranslated": [
+    "I think people's awareness of the environment is increasing.",
+    "Learning foreign languages helps me expand my awareness of different cultures.",
+    "I need to improve my awareness of mental health."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhận thức = awareness or understanding of something in your mind. It’s about how you see, realize, or understand an issue.\n\nIt’s an abstract noun, usually uncountable. You’ll often see it with verbs like nâng cao, mở rộng, thay đổi.  \n\nClose to ý thức, but nhận thức is more about intellectual understanding, while ý thức can also mean moral awareness or consciousness. Opposite idea: vô thức (unconscious, without awareness).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:07:12.014Z",
+    "id": "273f8026-2bd0-4a2f-b396-dcb4da7f7ab8",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We need awareness about this issue."
+      },
+      "translatedAnswer": {
+        "en": "awareness"
+      },
+      "choices": [],
+      "word": "nhận thức",
+      "language": "vi",
+      "answer": "nhận thức",
+      "sentence": "Chúng ta cần ___ về vấn đề này."
+    },
+    "updatedAt": "2025-03-12T16:07:12.014Z"
+  },
+  "word": "nhận thức",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**nhận thức** = awareness or understanding of something in your mind. It’s about how you see, realize, or understand an issue.\n\nIt’s an abstract noun, usually uncountable. You’ll often see it with verbs like **nâng cao**, **mở rộng**, **thay đổi**.  \n\nClose to **ý thức**, but *nhận thức* is more about intellectual understanding, while *ý thức* can also mean moral awareness or consciousness. Opposite idea: **vô thức** (unconscious, without awareness).",
+  "rank": 916,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "nhận thức",
+      "choices": [
+        "nhận thức",
+        "hành động",
+        "tư duy"
+      ],
+      "language": "vi",
+      "answer": "nhận thức",
+      "hint": "n___ thức",
+      "translation": {
+        "en": "We need awareness about this issue."
+      },
+      "translatedAnswer": {
+        "en": "awareness"
+      },
+      "sentence": "Chúng ta cần ___ về vấn đề này."
+    },
+    "updatedAt": "2025-03-12T16:07:12.014Z",
+    "createdAt": "2025-03-12T16:07:12.014Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "26147e7c-383e-47cf-bd96-bbb71df75dd9"
+  },
+  "definition": "awareness",
+  "_id": "o8j1dAY4bDCdiSIH7S1s"
+}

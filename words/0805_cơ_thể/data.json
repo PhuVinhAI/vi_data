@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:42:08.099Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:52:27.431Z",
+    "updatedAt": "2025-03-12T12:52:27.431Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi chăm sóc ___ của mình.",
+      "answer": "cơ thể",
+      "translation": {
+        "en": "I take care of my body."
+      },
+      "choices": [],
+      "word": "cơ thể",
+      "translatedAnswer": {
+        "en": "body"
+      },
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "369064c3-f82a-4f93-8130-43237169c591"
+  },
+  "notes_md": "**Cơ thể** means *body* — your whole physical body, not just one part. It’s a noun.\n\nYou usually don’t count it directly; say **một cơ thể** when needed, or use **cơ thể + của + someone** to show whose body (cơ thể của tôi). It often goes with words about health, like *khỏe mạnh, đau, mệt, phát triển*.\n\nIt refers to the whole body in general, not a specific part like *tay* (hand) or *chân* (leg).  \n\nA close synonym is **thân thể**, which sounds a bit more formal or literary.",
+  "exampleSentencesTranslated": [
+    "You need to drink plenty of water to keep your body healthy.",
+    "I feel tired when my body lacks sleep.",
+    "She exercises every day to keep her body fit."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "Cơ thể means body — your whole physical body, not just one part. It’s a noun.\n\nYou usually don’t count it directly; say một cơ thể when needed, or use cơ thể + của + someone to show whose body (cơ thể của tôi). It often goes with words about health, like khỏe mạnh, đau, mệt, phát triển.\n\nIt refers to the whole body in general, not a specific part like tay (hand) or chân (leg).  \n\nA close synonym is thân thể, which sounds a bit more formal or literary.",
+  "choices": [
+    "cơ thể",
+    "quần áo",
+    "sức khỏe"
+  ],
+  "word": "cơ thể",
+  "rank": 805,
+  "definition": "body",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cơ thể của tôi cần nhiều nước.",
+      "en": "My body needs a lot of water.",
+      "es": "Mi cuerpo necesita mucha agua."
+    },
+    "translations": {
+      "es": "cuerpo",
+      "en": "body",
+      "vi": "cơ thể"
+    },
+    "createdAt": "2025-01-28T10:36:35.506Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The physical structure of a person or an animal.",
+      "vi": "Cấu trúc vật lý của một người hoặc một con vật.",
+      "es": "La estructura física de una persona o un animal."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "a596fad3-236d-448a-9c8e-b10a259afb70",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "cơ thể",
+      "translatedAnswer": {
+        "en": "body"
+      },
+      "language": "vi",
+      "hint": "c___ thể",
+      "translation": {
+        "en": "I take care of my body."
+      },
+      "choices": [
+        "cơ thể",
+        "tinh thần",
+        "trí tuệ"
+      ],
+      "answer": "cơ thể",
+      "sentence": "Tôi chăm sóc ___ của mình."
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T12:52:27.431Z",
+    "updatedAt": "2025-03-12T12:52:27.431Z"
+  },
+  "exampleSentences": [
+    "Em cần uống nhiều nước để cơ thể luôn khỏe mạnh.",
+    "Anh cảm thấy mệt mỏi khi cơ thể thiếu ngủ.",
+    "Chị tập thể dục mỗi ngày để giữ cho cơ thể săn chắc."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "0s74xquNCXbfLjh3U2V1"
+}

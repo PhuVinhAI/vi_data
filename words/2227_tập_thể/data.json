@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "group",
+  "word": "tập thể",
+  "rank": 2227,
+  "exampleSentences": [
+    "Anh rất thích làm việc cùng tập thể vì mọi người hỗ trợ nhau.",
+    "Chị muốn tham gia hoạt động ngoài trời với tập thể vào cuối tuần này.",
+    "Em nghĩ rằng tập thể lớp mình nên tổ chức một buổi liên hoan nhỏ."
+  ],
+  "choices": [
+    "tập thể",
+    "cá nhân",
+    "gia đình"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:54:58.347Z",
+    "createdAt": "2025-03-12T13:54:58.347Z",
+    "content": {
+      "sentence": "Chúng ta sẽ ___ cùng nhau.",
+      "word": "tập thể",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "practice together"
+      },
+      "translation": {
+        "en": "We will practice together."
+      },
+      "answer": "tập thể",
+      "choices": [
+        "cá nhân",
+        "tập thể",
+        "riêng tư"
+      ],
+      "hint": "t___ t___"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "4571b45d-1f1b-439e-980a-b4b8b0d5a426",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**tập thể** = a group of people seen as a unit (team, collective). It focuses on people acting together, not just being in the same place.\n\nIt’s a noun. You’ll hear **một tập thể**, **trong tập thể**, **tinh thần tập thể** (team spirit). It’s more formal than *nhóm* (group), and often used for workplaces, classes, organizations.\n\nVery common other meaning: **tập thể dục** = to exercise (literally “group practice body,” but it just means exercise).  \n\nStrong contrast: *cá nhân* = individual (opposite idea: one person vs the group).",
+  "exampleSentencesTranslated": [
+    "He really likes working with the group because everyone helps each other.",
+    "She wants to join outdoor activities with the group this weekend.",
+    "I think our class group should organize a small party."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A collective or group, often referring to a community or team.",
+      "es": "Un colectivo o grupo, a menudo refiriéndose a una comunidad o equipo.",
+      "vi": "Một tập thể hoặc nhóm, thường đề cập đến một cộng đồng hoặc đội."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "colectivo",
+      "vi": "tập thể",
+      "en": "collective"
+    },
+    "createdAt": "2025-01-28T11:32:40.216Z",
+    "example": {
+      "en": "We participated in a group activity.",
+      "es": "Participamos en una actividad grupal.",
+      "vi": "Chúng tôi tham gia vào một hoạt động tập thể."
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "b793d37a-c385-4c32-a705-c34c1f9360f4",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "practice together"
+      },
+      "sentence": "Chúng ta sẽ ___ cùng nhau.",
+      "word": "tập thể",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We will practice together."
+      },
+      "answer": "tập thể"
+    },
+    "createdAt": "2025-03-12T13:54:58.347Z",
+    "updatedAt": "2025-03-12T13:54:58.347Z"
+  },
+  "notes": "tập thể = a group of people seen as a unit (team, collective). It focuses on people acting together, not just being in the same place.\n\nIt’s a noun. You’ll hear một tập thể, trong tập thể, tinh thần tập thể (team spirit). It’s more formal than nhóm (group), and often used for workplaces, classes, organizations.\n\nVery common other meaning: tập thể dục = to exercise (literally “group practice body,” but it just means exercise).  \n\nStrong contrast: cá nhân = individual (opposite idea: one person vs the group).",
+  "updatedAt": "2026-03-03T10:13:43.213Z",
+  "_id": "HQshqciawQnr8Ppud8jQ"
+}

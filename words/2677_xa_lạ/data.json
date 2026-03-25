@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:37:00.763Z",
+    "content": {
+      "sentence": "Đây là một nơi rất ___ với tôi.",
+      "translatedAnswer": {
+        "en": "strange"
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "xa lạ",
+      "translation": {
+        "en": "This is a very strange place to me."
+      },
+      "answer": "xa lạ"
+    },
+    "id": "dc8355c8-df16-45f7-8878-f1d9b0b40b4b",
+    "createdAt": "2025-03-12T14:37:00.763Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "strange",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "es": "extraño",
+      "en": "strange",
+      "vi": "xa lạ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I feel strange when I arrive in a new city.",
+      "vi": "Tôi cảm thấy xa lạ khi đến thành phố mới.",
+      "es": "Me siento extraño cuando llego a una ciudad nueva."
+    },
+    "createdAt": "2025-01-28T12:12:43.163Z",
+    "definitions": {
+      "vi": "Không quen thuộc hoặc lạ; không được biết đến hoặc công nhận.",
+      "en": "Unfamiliar or strange; not known or recognized.",
+      "es": "Desconocido o extraño; no conocido o reconocido."
+    }
+  },
+  "notes_md": "**xa lạ** = strange, unfamiliar, not known to you.\n\nIt describes things, places, situations, or even people that feel new or unknown. It often expresses a feeling of emotional distance too (not close, not connected).\n\n\nClose synonym: **lạ** (just “strange”), but *xa lạ* feels stronger and more distant. Opposite: **quen**, **quen thuộc** (familiar).",
+  "exampleSentences": [
+    "Lúc mới chuyển đến thành phố này, mọi thứ đều rất xa lạ với em.",
+    "Anh cảm thấy hơi xa lạ khi gặp những người bạn mới ở lớp.",
+    "Chị không thích ở nơi quá xa lạ vì chị nhớ gia đình."
+  ],
+  "choices": [
+    "thân thiện",
+    "xa lạ",
+    "vui vẻ"
+  ],
+  "notes": "xa lạ = strange, unfamiliar, not known to you.\n\nIt describes things, places, situations, or even people that feel new or unknown. It often expresses a feeling of emotional distance too (not close, not connected).\n\nClose synonym: lạ (just “strange”), but xa lạ feels stronger and more distant. Opposite: quen, quen thuộc (familiar).",
+  "rank": 2677,
+  "exampleSentencesTranslated": [
+    "When I first moved to this city, everything was very strange.",
+    "He feels a bit strange when meeting new friends in class.",
+    "She does not like being in a place that is too strange because she misses her family."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "44c7972e-39ee-43b6-b00f-c3d541095041",
+    "createdAt": "2025-03-12T14:37:00.763Z",
+    "content": {
+      "hint": "x__ l__",
+      "translation": {
+        "en": "I feel strange when coming here."
+      },
+      "answer": "xa lạ",
+      "word": "xa lạ",
+      "choices": [
+        "khó khăn",
+        "xa lạ",
+        "bình thường"
+      ],
+      "translatedAnswer": {
+        "en": "strange"
+      },
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ khi đến đây."
+    },
+    "updatedAt": "2025-03-12T14:37:00.763Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "xa lạ",
+  "updatedAt": "2026-03-03T11:34:58.316Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "R6cFvsXq7pcEkur9dala"
+}

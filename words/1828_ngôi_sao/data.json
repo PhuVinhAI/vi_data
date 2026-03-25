@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Trên bầu trời có ___ sáng.",
+      "hint": "g___o",
+      "word": "ngôi sao",
+      "language": "vi",
+      "translation": {
+        "en": "There is a bright star in the sky."
+      },
+      "answer": "ngôi sao",
+      "choices": [
+        "trăng",
+        "mặt trời",
+        "ngôi sao"
+      ],
+      "translatedAnswer": {
+        "en": "star"
+      }
+    },
+    "updatedAt": "2025-03-12T16:32:10.641Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:32:10.641Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f6159e2c-f210-4f90-8ca6-c88ef6187ad5"
+  },
+  "exampleSentences": [
+    "Tối qua anh nhìn thấy rất nhiều ngôi sao trên bầu trời.",
+    "Ngôi sao đó rất nổi tiếng trong lĩnh vực âm nhạc.",
+    "Em muốn trở thành một ngôi sao khi lớn lên."
+  ],
+  "updatedAt": "2026-03-03T09:31:33.913Z",
+  "choices": [
+    "ngôi sao",
+    "bầu trời",
+    "mặt trăng"
+  ],
+  "word": "ngôi sao",
+  "exampleSentencesTranslated": [
+    "Last night I saw many star in the sky.",
+    "That star is very famous in the music industry.",
+    "I want to become a star when I grow up."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "ngôi sao = star (the bright point in the night sky). It also very often means a celebrity.\n\nIt’s a countable noun: một ngôi sao, hai ngôi sao. You can also say vì sao for a (more poetic/literary) word for star.  \n\nFor celebrities, it combines naturally with fields: ngôi sao điện ảnh, ngôi sao bóng đá, ngôi sao ca nhạc.  \n\nStrong memory link: ngôi sao = star (sky or famous person), just like in English.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:03:23.928Z",
+    "translations": {
+      "vi": "ngôi sao",
+      "en": "star",
+      "es": "estrella"
+    },
+    "definitions": {
+      "en": "A celestial body that is visible in the night sky and emits light.",
+      "es": "Un cuerpo celeste que es visible en el cielo nocturno y emite luz.",
+      "vi": "Một thiên thể có thể nhìn thấy trên bầu trời đêm và phát ra ánh sáng."
+    },
+    "example": {
+      "en": "The brightest star in the sky is the North Star.",
+      "es": "La estrella más brillante en el cielo es la Estrella del Norte.",
+      "vi": "Ngôi sao sáng nhất trên bầu trời là sao Bắc Đẩu."
+    }
+  },
+  "notes_md": "**ngôi sao** = star (the bright point in the night sky). It also very often means a celebrity.\n\nIt’s a countable noun: **một ngôi sao, hai ngôi sao**. You can also say **vì sao** for a (more poetic/literary) word for star.  \n\nFor celebrities, it combines naturally with fields: **ngôi sao điện ảnh, ngôi sao bóng đá, ngôi sao ca nhạc**.  \n\nStrong memory link: **ngôi sao = star** (sky or famous person), just like in English.",
+  "rank": 1828,
+  "definition": "star",
+  "fillBlankQuiz": {
+    "id": "96f4cfb0-ac1a-4760-8b13-55be2412d7ec",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:32:10.641Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ngôi sao",
+      "sentence": "Trên bầu trời có ___ sáng.",
+      "answer": "ngôi sao",
+      "translation": {
+        "en": "There is a bright star in the sky."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "star"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:32:10.641Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uYXG72i7VhY9Y4SinzM3"
+}

@@ -1,0 +1,103 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "delicious"
+      },
+      "language": "vi",
+      "sentence": "Đây là món ăn ___ ngon.",
+      "word": "đấy",
+      "choices": [],
+      "translation": {
+        "en": "This is a delicious dish."
+      },
+      "answer": "đấy"
+    },
+    "createdAt": "2025-03-12T13:36:39.647Z",
+    "updatedAt": "2025-03-12T13:36:39.647Z",
+    "type": "fillBlankQuiz",
+    "id": "47c9cf3b-7758-47f1-ae66-a4eed1ac9945",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "đấy is a sentence-ending particle. It adds emphasis like “you know,” “I’m telling you,” or “just so you know.”\n\nIt usually goes at the end of a statement to stress or remind the listener of something. It can show mild insistence, warning, or reassurance, depending on tone.  \n\nVery close to đó — in the South, people prefer đó in everyday speech, while đấy is more Northern. Tone of voice matters a lot: soft tone = gentle reminder; stronger tone = warning or correction.",
+  "updatedAt": "2026-03-03T06:07:09.503Z",
+  "notes_md": "**đấy** is a sentence-ending particle. It adds emphasis like “you know,” “I’m telling you,” or “just so you know.”\n\nIt usually goes at the end of a statement to stress or remind the listener of something. It can show mild insistence, warning, or reassurance, depending on tone.  \n\n\nVery close to **đó** — in the South, people prefer *đó* in everyday speech, while *đấy* is more Northern. Tone of voice matters a lot: soft tone = gentle reminder; stronger tone = warning or correction.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "ad7bf348-7cd3-4f77-9074-09b6835de96a",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:36:39.647Z",
+    "createdAt": "2025-03-12T13:36:39.647Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "delicious"
+      },
+      "sentence": "Đây là món ăn ___ ngon.",
+      "word": "đấy",
+      "language": "vi",
+      "hint": "đ___y",
+      "choices": [
+        "đấy",
+        "đấys",
+        "ĐẤY"
+      ],
+      "answer": "đấy",
+      "translation": {
+        "en": "This is a delicious dish."
+      }
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I eat dinner, you know.",
+    "He drinks hot tea, you know.",
+    "She buys a new shirt, you know."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "that",
+      "es": "ese"
+    },
+    "example": {
+      "en": "This shirt is nice.",
+      "vi": "Cái áo này đẹp đấy.",
+      "es": "Esta camisa es bonita."
+    },
+    "createdAt": "2025-01-28T11:21:02.375Z",
+    "definitions": {
+      "en": "A demonstrative particle used to emphasize or indicate something.",
+      "es": "Una partícula demostrativa utilizada para enfatizar o indicar algo.",
+      "vi": "Một từ chỉ định được sử dụng để nhấn mạnh hoặc chỉ ra điều gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Em (I) + ăn (eat) + cơm tối (dinner) + đấy (you know)",
+    "Anh (he) + uống (drink) + trà nóng (hot tea) + đấy (you know)",
+    "Chị (she) + mua (buy) + áo mới (new shirt) + đấy (you know)"
+  ],
+  "choices": [
+    "nhé",
+    "đấy",
+    "này"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đấy",
+  "exampleSentences": [
+    "Em ăn cơm tối đấy.",
+    "Anh uống trà nóng đấy.",
+    "Chị mua áo mới đấy."
+  ],
+  "rank": 40,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "you know",
+  "_id": "CYihntlNfeYfeEXKKQ6i"
+}

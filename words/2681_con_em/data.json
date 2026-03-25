@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "younger sibling",
+      "es": "hermano menor",
+      "vi": "em"
+    },
+    "example": {
+      "en": "My younger sibling is very smart.",
+      "es": "Mi hermano menor es muy inteligente.",
+      "vi": "Con em rất thông minh."
+    },
+    "createdAt": "2025-01-28T12:38:44.769Z",
+    "definitions": {
+      "en": "A term used to refer to a younger sibling or a younger person.",
+      "es": "Un término utilizado para referirse a un hermano menor o a una persona más joven.",
+      "vi": "Một thuật ngữ dùng để chỉ một người em hoặc một người trẻ hơn."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I often help my younger sibling with homework every night.",
+    "She cares a lot about the health of her younger sibling in the family.",
+    "Whenever my younger sibling is sad, I am always there to encourage them."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi thấy ___ đang chơi ở công viên.",
+      "answer": "con em",
+      "language": "vi",
+      "word": "con em",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "my younger sibling"
+      },
+      "translation": {
+        "en": "I see my younger sibling playing in the park."
+      }
+    },
+    "updatedAt": "2025-03-12T15:06:20.855Z",
+    "createdAt": "2025-03-12T15:06:20.855Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "b25d9e5e-d6ee-4401-ba7e-1934be4739ff"
+  },
+  "updatedAt": "2026-03-03T11:35:30.452Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "younger sibling",
+  "notes_md": "**con em** = younger sibling (someone younger than you in the family). It can also mean “the younger kids” in a family when speaking collectively.\n\nIt’s a noun. You’ll often hear it with classifiers like **đứa** or **người** (đứa con em, mấy người con em).  \n\nIt usually refers to *your* or *someone’s* younger siblings, depending on context.  \n\nTo compare: **em** = younger sibling (one person), while **con em** often feels more collective or slightly more formal when talking about family members.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2681,
+  "choices": [
+    "con em",
+    "bạn bè",
+    "cha mẹ"
+  ],
+  "word": "con em",
+  "exampleSentences": [
+    "Anh thường giúp con em làm bài tập về nhà mỗi tối.",
+    "Chị rất quan tâm đến sức khỏe của con em trong gia đình.",
+    "Mỗi khi con em buồn, em luôn ở bên cạnh động viên."
+  ],
+  "notes": "con em = younger sibling (someone younger than you in the family). It can also mean “the younger kids” in a family when speaking collectively.\n\nIt’s a noun. You’ll often hear it with classifiers like đứa or người (đứa con em, mấy người con em).  \n\nIt usually refers to your or someone’s younger siblings, depending on context.  \n\nTo compare: em = younger sibling (one person), while con em often feels more collective or slightly more formal when talking about family members.",
+  "multiChoiceQuiz": {
+    "id": "181af35b-36dd-4100-858a-6d360629009e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:06:20.855Z",
+    "updatedAt": "2025-03-12T15:06:20.855Z",
+    "content": {
+      "sentence": "Tôi thấy ___ đang chơi ở công viên.",
+      "hint": "c__ e__",
+      "answer": "con em",
+      "word": "con em",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "my younger sibling"
+      },
+      "choices": [
+        "con anh",
+        "con em",
+        "con gái"
+      ],
+      "translation": {
+        "en": "I see my younger sibling playing in the park."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "YkOYS9YXtX5sVb6U5f7O"
+}

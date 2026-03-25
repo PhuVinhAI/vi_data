@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:26:47.059Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:47.059Z",
+    "content": {
+      "translation": {
+        "en": "You need to prove the research results."
+      },
+      "translatedAnswer": {
+        "en": "prove"
+      },
+      "answer": "chứng minh",
+      "choices": [],
+      "word": "chứng minh",
+      "sentence": "Bạn cần ___ kết quả nghiên cứu.",
+      "language": "vi"
+    },
+    "id": "e84b1072-a9fe-469c-bc98-a2669188b342",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "You need to prove you have finished the task before going home.",
+    "Can you prove your reason for being late today?",
+    "I have to prove the result of this experiment in the report."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:01:34.652Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "demostrar",
+      "vi": "chứng minh",
+      "en": "prove"
+    },
+    "example": {
+      "vi": "Bạn cần chứng minh rằng bạn đã hoàn thành bài tập.",
+      "es": "Necesitas demostrar que has completado la tarea.",
+      "en": "You need to prove that you have completed the assignment."
+    },
+    "definitions": {
+      "es": "Demostrar la verdad o existencia de algo mediante evidencia o argumento.",
+      "vi": "Chứng minh là chỉ ra sự thật hoặc sự tồn tại của một điều gì đó bằng chứng cứ hoặc lập luận.",
+      "en": "To demonstrate the truth or existence of something by evidence or argument."
+    }
+  },
+  "definition": "prove",
+  "notes": "Chứng minh means to prove — to show something is true with facts, evidence, or logic.  \n\nIt’s used when talking about evidence, reasons, results, theories, or innocence. You often use it with information or a statement after it.  \n\nVery close to chứng tỏ (also “to prove/show”), but chứng minh feels more formal and logical, like in school, science, or legal situations.  \n\nYou’ll also see it in the fixed phrase chứng minh nhân dân (ID card), but that’s a set noun phrase.",
+  "updatedAt": "2026-03-03T07:56:02.257Z",
+  "exampleSentences": [
+    "Anh cần chứng minh mình đã hoàn thành nhiệm vụ trước khi về nhà.",
+    "Chị có thể chứng minh lý do mình đi muộn hôm nay không?",
+    "Em phải chứng minh kết quả của thí nghiệm này trong bài báo cáo."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:26:47.059Z",
+    "content": {
+      "hint": "c___n",
+      "answer": "chứng minh",
+      "translatedAnswer": {
+        "en": "prove"
+      },
+      "translation": {
+        "en": "You need to prove the research results."
+      },
+      "sentence": "Bạn cần ___ kết quả nghiên cứu.",
+      "language": "vi",
+      "word": "chứng minh",
+      "choices": [
+        "chứng minh",
+        "giải thích",
+        "phân tích"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:47.059Z",
+    "id": "72fe4812-c624-47c9-bd0c-57b6ed679ff2",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Chứng minh** means **to prove** — to show something is true with facts, evidence, or logic.  \n\nIt’s used when talking about evidence, reasons, results, theories, or innocence. You often use it with information or a statement after it.  \n\nVery close to **chứng tỏ** (also “to prove/show”), but *chứng minh* feels more formal and logical, like in school, science, or legal situations.  \n\nYou’ll also see it in the fixed phrase **chứng minh nhân dân** (ID card), but that’s a set noun phrase.",
+  "rank": 942,
+  "choices": [
+    "chứng minh",
+    "giải thích",
+    "kiểm tra"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chứng minh",
+  "_id": "eFp8GSVMWa1Z03CvsLFa"
+}

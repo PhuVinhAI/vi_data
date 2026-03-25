@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Cô ấy đổ nước vào ___.",
+      "answer": "xô",
+      "translation": {
+        "en": "She pours water into the bucket."
+      },
+      "choices": [
+        "xô",
+        "xôs",
+        "XÔ"
+      ],
+      "hint": "x___ô",
+      "word": "xô",
+      "translatedAnswer": {
+        "en": "bucket"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "253994f5-704e-4911-99ea-8c924c60903b",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:01:23.591Z",
+    "updatedAt": "2025-03-12T13:01:23.591Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có thể lấy giúp anh cái xô ở ngoài sân không?",
+    "Chị dùng xô để đựng nước rửa rau mỗi sáng.",
+    "Mỗi lần tưới cây, bà thường mang theo một xô đầy nước."
+  ],
+  "definition": "bucket",
+  "rank": 2244,
+  "flashcard": {
+    "example": {
+      "es": "Empujé la silla lejos.",
+      "en": "I pushed the chair away.",
+      "vi": "Tôi đã xô đẩy chiếc ghế ra xa."
+    },
+    "translations": {
+      "es": "empujar",
+      "vi": "xô",
+      "en": "push"
+    },
+    "createdAt": "2025-01-28T10:44:17.308Z",
+    "definitions": {
+      "es": "Empujar o empujar algo.",
+      "en": "To push or shove something.",
+      "vi": "Đẩy hoặc xô một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nồi",
+    "xô",
+    "ly"
+  ],
+  "notes": "xô = bucket. A simple container with a handle, usually for carrying water or other liquids.\n\nIt’s a countable noun: một cái xô, hai cái xô. The classifier is cái. Common pairings: xô nước (a bucket of water), xô rác (trash bucket), xô nhựa (plastic bucket).\n\nDon’t confuse it with chậu (a basin, wider and open) or thùng (a bigger container or bin). Xô is usually medium-sized and easy to carry by hand.",
+  "word": "xô",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you get the bucket for me in the yard?",
+    "She uses a bucket to hold water for washing vegetables every morning.",
+    "Every time she waters the plants, grandma usually carries a full bucket."
+  ],
+  "notes_md": "**xô** = bucket. A simple container with a handle, usually for carrying water or other liquids.\n\nIt’s a countable noun: *một cái xô, hai cái xô*. The classifier is **cái**. Common pairings: *xô nước* (a bucket of water), *xô rác* (trash bucket), *xô nhựa* (plastic bucket).\n\nDon’t confuse it with **chậu** (a basin, wider and open) or **thùng** (a bigger container or bin). **Xô** is usually medium-sized and easy to carry by hand.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:01:23.591Z",
+    "updatedAt": "2025-03-12T13:01:23.591Z",
+    "id": "f6e489ee-2b90-471a-b38f-32f016541944",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Cô ấy đổ nước vào ___.",
+      "answer": "xô",
+      "choices": [],
+      "translation": {
+        "en": "She pours water into the bucket."
+      },
+      "word": "xô",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "bucket"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T10:15:35.678Z",
+  "_id": "3GiYJuVASKqp6cwMv3HV"
+}

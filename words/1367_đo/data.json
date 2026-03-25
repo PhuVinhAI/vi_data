@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I need to measure the length of this table to buy a cover.",
+    "The doctor will measure your blood pressure before the examination.",
+    "Can you help me measure the temperature of the water?"
+  ],
+  "updatedAt": "2026-03-03T08:42:04.248Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "đo",
+      "answer": "đo",
+      "sentence": "Tôi cần ___ chiều dài.",
+      "translation": {
+        "en": "I need to measure the length."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "measure"
+      }
+    },
+    "updatedAt": "2025-03-12T15:07:57.808Z",
+    "createdAt": "2025-03-12T15:07:57.808Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "2f24f1ba-7ac8-4c65-a27b-123fb94b3407"
+  },
+  "flashcard": {
+    "example": {
+      "en": "I will measure the length of the table.",
+      "es": "Voy a medir la longitud de la mesa.",
+      "vi": "Tôi sẽ đo chiều dài của bàn."
+    },
+    "translations": {
+      "en": "measure",
+      "es": "medir",
+      "vi": "đo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To measure or assess the size, amount, or degree of something.",
+      "es": "Medir o evaluar el tamaño, la cantidad o el grado de algo.",
+      "vi": "Để đo lường hoặc đánh giá kích thước, số lượng hoặc mức độ của một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:40:47.534Z"
+  },
+  "notes_md": "**đo** = to measure (size, length, weight, temperature, etc.).\n\nIt’s a verb you use when you check numbers using a tool or device. Common collocations: **đo chiều dài**, **đo chiều cao**, **đo cân nặng**, **đo nhiệt độ**, **đo huyết áp**. You often use it when shopping, building, cooking, or talking about health.\n\n\nClose synonym: **đong** (used more for measuring liquids or rice by volume, not general measuring).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "measure",
+  "choices": [
+    "đi",
+    "đo",
+    "đổ"
+  ],
+  "rank": 1367,
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "đo",
+      "hint": "d__",
+      "answer": "đo",
+      "sentence": "Bạn có thể ___ thời gian không?",
+      "translation": {
+        "en": "Can you measure the time?"
+      },
+      "translatedAnswer": {
+        "en": "measure"
+      },
+      "choices": [
+        "đo",
+        "tính",
+        "đánh giá"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:07:57.808Z",
+    "createdAt": "2025-03-12T15:07:57.808Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "47af742a-8790-4076-9fee-04322dd73b1d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đo",
+  "exampleSentences": [
+    "Em cần đo chiều dài của cái bàn này để mua khăn phủ.",
+    "Bác sĩ sẽ đo huyết áp cho anh trước khi khám bệnh.",
+    "Chị có thể giúp em đo nhiệt độ nước không?"
+  ],
+  "notes": "đo = to measure (size, length, weight, temperature, etc.).\n\nIt’s a verb you use when you check numbers using a tool or device. Common collocations: đo chiều dài, đo chiều cao, đo cân nặng, đo nhiệt độ, đo huyết áp. You often use it when shopping, building, cooking, or talking about health.\n\nClose synonym: đong (used more for measuring liquids or rice by volume, not general measuring).",
+  "_id": "Z4A8Vjf6ShFF42nDYvCz"
+}

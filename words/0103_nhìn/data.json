@@ -1,0 +1,96 @@
+{
+  "choices": [
+    "nghe",
+    "nhìn",
+    "nói"
+  ],
+  "rank": 103,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:13:47.783Z",
+    "updatedAt": "2025-03-12T15:13:47.783Z",
+    "content": {
+      "choices": [
+        "nhìn",
+        "nghe",
+        "cảm"
+      ],
+      "translatedAnswer": {
+        "en": "see"
+      },
+      "translation": {
+        "en": "I see a beautiful painting."
+      },
+      "sentence": "Tôi ___ thấy bức tranh đẹp.",
+      "word": "nhìn",
+      "language": "vi",
+      "hint": "n___n",
+      "answer": "nhìn"
+    },
+    "id": "7c923851-9dbd-4d28-8efc-9be0d641d31c"
+  },
+  "exampleSentences": [
+    "Anh có thể nhìn vào bức tranh này và cho em ý kiến không?",
+    "Mỗi sáng, chị thường nhìn ra cửa sổ để ngắm trời xanh.",
+    "Em nhìn thấy gì khi bước vào căn phòng đó lần đầu tiên?"
+  ],
+  "notes": "nhìn = to look, to direct your eyes at something. It’s about the physical action of using your eyes.\n\nYou usually use nhìn + object or add a direction like nhìn vào / nhìn ra / nhìn lên / nhìn xuống.  \n\nnhìn thấy = to see (you actually notice it), while xem is more like “watch” (TV, movie) or “check.”  \nYou can also say nhìn nhau (look at each other) or nhìn ai đó (look at someone).",
+  "word": "nhìn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:13:28.865Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:13:47.783Z",
+    "updatedAt": "2025-03-12T15:13:47.783Z",
+    "content": {
+      "translation": {
+        "en": "I see a beautiful painting."
+      },
+      "translatedAnswer": {
+        "en": "see"
+      },
+      "choices": [],
+      "word": "nhìn",
+      "language": "vi",
+      "answer": "nhìn",
+      "sentence": "Tôi ___ thấy bức tranh đẹp."
+    },
+    "id": "ff281811-8b69-4291-9c87-6c9d1afad646"
+  },
+  "exampleSentencesTranslated": [
+    "Can you look at this picture and give me your opinion?",
+    "Every morning, she usually looks out the window to see the blue sky.",
+    "What do you look at when you enter that room for the first time?"
+  ],
+  "flashcard": {
+    "createdAt": "2025-05-24T16:23:55.091Z",
+    "definitions": {
+      "en": "The act of using one's eyes to observe something or someone.",
+      "vi": "Hành động dùng mắt để quan sát một vật hoặc một người."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "look"
+    },
+    "example": {
+      "en": "The baby is looking out the window.",
+      "vi": "Em bé đang nhìn ra cửa sổ."
+    },
+    "word": "nhìn"
+  },
+  "notes_md": "**nhìn** = to look, to direct your eyes at something. It’s about the physical action of using your eyes.\n\nYou usually use **nhìn + object** or add a direction like **nhìn vào / nhìn ra / nhìn lên / nhìn xuống**.  \n\n**nhìn thấy** = to see (you actually notice it), while **xem** is more like “watch” (TV, movie) or “check.”  \nYou can also say **nhìn nhau** (look at each other) or **nhìn ai đó** (look at someone).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "look",
+  "_id": "amdMwPOvwfqib4590FKX"
+}

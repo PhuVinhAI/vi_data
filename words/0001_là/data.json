@@ -1,0 +1,104 @@
+{
+  "updatedAt": "2026-03-03T06:03:00.473Z",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "answer": "là",
+      "translation": {
+        "en": "I am a student."
+      },
+      "translatedAnswer": {
+        "en": "am"
+      },
+      "language": "vi",
+      "sentence": "Tôi ___ học sinh.",
+      "word": "là"
+    },
+    "createdAt": "2025-03-12T13:45:29.326Z",
+    "updatedAt": "2025-03-12T13:45:29.326Z",
+    "type": "fillBlankQuiz",
+    "id": "5e3b0201-15a6-4dcd-8703-7e2b5120b393",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "là = “to be” (is / am / are) when you connect two nouns. It links a subject with a job, identity, category, or definition.\n\nIt’s used between two noun phrases, not before adjectives (Vietnamese adjectives don’t need “to be”).  \n\nUse it for saying what someone/something is, not where it is or how it feels.  \nYou’ll also see it in definitions and explanations, like saying what something means or counts as.\n\nThink of it as the “equals sign” in a sentence: A = B.",
+  "exampleSentencesTranslated": [
+    "He is a doctor.",
+    "She is an English teacher.",
+    "This is a new table."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I am a student.",
+      "es": "Yo soy estudiante.",
+      "vi": "Tôi là sinh viên."
+    },
+    "createdAt": "2025-01-28T11:41:17.195Z",
+    "translations": {
+      "es": "es/son",
+      "vi": "là",
+      "en": "is/are"
+    },
+    "definitions": {
+      "en": "A verb used to indicate identity or equivalence.",
+      "vi": "Một động từ được sử dụng để chỉ ra danh tính hoặc sự tương đương.",
+      "es": "Un verbo utilizado para indicar identidad o equivalencia."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "9a705219-c350-4a71-af2a-332cab50027b",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:45:29.326Z",
+    "content": {
+      "answer": "là",
+      "translation": {
+        "en": "She is a doctor."
+      },
+      "hint": "l__",
+      "choices": [
+        "là",
+        "có",
+        "đang"
+      ],
+      "sentence": "Cô ấy ___ bác sĩ.",
+      "word": "là",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "is"
+      }
+    },
+    "createdAt": "2025-03-12T13:45:29.326Z"
+  },
+  "notes_md": "**là** = “to be” (is / am / are) when you connect two nouns. It links a subject with a job, identity, category, or definition.\n\nIt’s used between two noun phrases, not before adjectives (Vietnamese adjectives don’t need “to be”).  \n\nUse it for saying what someone/something *is*, not where it is or how it feels.  \nYou’ll also see it in definitions and explanations, like saying what something means or counts as.\n\nThink of it as the “equals sign” in a sentence: A = B.",
+  "sentenceBreakdowns": [
+    "Anh ấy (he) + là (is) + một (a) + bác sĩ (doctor)",
+    "Chị ấy (she) + là (is) + giáo viên (teacher) + tiếng Anh (English)",
+    "Đây (this) + là (is) + cái (classifier) + bàn (table) + mới (new)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "ở",
+    "bị",
+    "là"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1,
+  "exampleSentences": [
+    "Anh ấy là một bác sĩ.",
+    "Chị ấy là giáo viên tiếng Anh.",
+    "Đây là cái bàn mới."
+  ],
+  "word": "là",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "is",
+  "_id": "Eq42GihiQjZCqg6xViaW"
+}

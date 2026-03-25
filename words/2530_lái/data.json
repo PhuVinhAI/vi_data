@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "lái",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi sẽ ___ xe đến trường.",
+      "language": "vi",
+      "word": "lái",
+      "choices": [
+        "lái",
+        "láis",
+        "LÁI"
+      ],
+      "hint": "l___i",
+      "answer": "lái",
+      "translatedAnswer": {
+        "en": "drive"
+      },
+      "translation": {
+        "en": "I will drive the car to school."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:27.171Z",
+    "id": "1ba1755a-2913-4f99-a9c2-a2a04050259a",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:22:27.171Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**lái** = to drive a vehicle. It’s the normal verb for controlling a car, motorbike, plane, or boat.\n\nUse it with vehicles: lái xe, lái ô tô, lái xe máy, lái tàu, lái máy bay.  \n\nIt can also mean “to steer” in a broader sense, including steering a story or public opinion (lái câu chuyện, lái dư luận = spin/direct things).\n\nIn the South, people often say **chạy xe** instead of lái xe for everyday “drive/ride a motorbike,” but lái is still correct and understood everywhere.",
+  "rank": 2530,
+  "choices": [
+    "lái",
+    "ngủ",
+    "mua"
+  ],
+  "notes": "lái = to drive a vehicle. It’s the normal verb for controlling a car, motorbike, plane, or boat.\n\nUse it with vehicles: lái xe, lái ô tô, lái xe máy, lái tàu, lái máy bay.  \n\nIt can also mean “to steer” in a broader sense, including steering a story or public opinion (lái câu chuyện, lái dư luận = spin/direct things).\n\nIn the South, people often say chạy xe instead of lái xe for everyday “drive/ride a motorbike,” but lái is still correct and understood everywhere.",
+  "updatedAt": "2026-03-03T10:45:11.437Z",
+  "exampleSentences": [
+    "Anh có thể lái xe đưa em đến trường sáng mai không?",
+    "Chị mới học lái ô tô nên còn hơi lo lắng.",
+    "Ba thường lái xe máy đi làm mỗi ngày từ rất sớm."
+  ],
+  "fillBlankQuiz": {
+    "id": "25ee54e5-1854-42ff-b8ed-18327fb5a091",
+    "createdAt": "2025-03-12T15:22:27.171Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "lái",
+      "translatedAnswer": {
+        "en": "drive"
+      },
+      "translation": {
+        "en": "I will drive the car to school."
+      },
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ xe đến trường.",
+      "word": "lái",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:22:27.171Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you drive me to school tomorrow morning?",
+    "She just learned to drive a car so she is still a bit nervous.",
+    "Dad usually drive a motorbike to work early every day."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "to drive; to operate a vehicle",
+      "es": "conducir; operar un vehículo",
+      "vi": "lái; điều khiển một phương tiện"
+    },
+    "example": {
+      "en": "I will drive to school.",
+      "vi": "Tôi sẽ lái xe đến trường.",
+      "es": "Voy a conducir a la escuela."
+    },
+    "translations": {
+      "es": "conducir",
+      "vi": "lái",
+      "en": "drive"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:57:13.719Z"
+  },
+  "definition": "drive",
+  "_id": "d2MhVrErwfOuW5EUlLmR"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "xa",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b2005f39-e59c-4e72-8900-198dd434758a",
+    "content": {
+      "choices": [
+        "gần",
+        "xa",
+        "sâu"
+      ],
+      "word": "xa",
+      "language": "vi",
+      "sentence": "Cách đây ___ là một con sông.",
+      "translation": {
+        "en": "There is a river far away."
+      },
+      "translatedAnswer": {
+        "en": "far"
+      },
+      "hint": "x__",
+      "answer": "xa"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:05.295Z",
+    "updatedAt": "2025-03-12T15:26:05.295Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xa** means *far* — usually about physical distance.\n\nIt’s an adjective and can stand alone as the main description (no need for “là”). It describes places, people, or time/distance in general.  \nYou can also use it more abstractly, like emotional distance (*xa nhau*) or something unrealistic (*xa vời* = far‑fetched).\n\nCommon intensifiers: *rất xa*, *quá xa*, *hơi xa*.  \nOpposite: **gần** (near).",
+  "choices": [
+    "xa",
+    "gần",
+    "mới"
+  ],
+  "rank": 521,
+  "notes": "xa means far — usually about physical distance.\n\nIt’s an adjective and can stand alone as the main description (no need for “là”). It describes places, people, or time/distance in general.  \nYou can also use it more abstractly, like emotional distance (xa nhau) or something unrealistic (xa vời = far‑fetched).\n\nCommon intensifiers: rất xa, quá xa, hơi xa.  \nOpposite: gần (near).",
+  "updatedAt": "2026-03-03T07:14:24.786Z",
+  "exampleSentences": [
+    "Nhà của em ở rất xa trường nên em phải dậy sớm.",
+    "Anh muốn đi du lịch đến một nơi xa vào mùa hè này.",
+    "Chị cảm thấy nhớ gia đình khi sống xa nhà lâu ngày."
+  ],
+  "exampleSentencesTranslated": [
+    "My house is very far from the school so I have to wake up early.",
+    "I want to travel to a far place this summer.",
+    "She feels homesick when living far from home for a long time."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:05.295Z",
+    "content": {
+      "choices": [],
+      "sentence": "Ngôi nhà đó rất ___.",
+      "language": "vi",
+      "word": "xa",
+      "translatedAnswer": {
+        "en": "far"
+      },
+      "translation": {
+        "en": "That house is very far."
+      },
+      "answer": "xa"
+    },
+    "id": "784fce83-4ee4-4891-98cf-5da0bf14e77f",
+    "updatedAt": "2025-03-12T15:26:05.295Z"
+  },
+  "definition": "far",
+  "flashcard": {
+    "translations": {
+      "es": "lejos",
+      "vi": "xa",
+      "en": "far"
+    },
+    "createdAt": "2025-01-28T13:00:53.042Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một thuật ngữ được sử dụng để mô tả khoảng cách không gần.",
+      "es": "Un término utilizado para describir una distancia que no está cerca.",
+      "en": "A term used to describe a distance that is not close."
+    },
+    "example": {
+      "en": "That store is far away.",
+      "vi": "Cửa hàng đó ở xa.",
+      "es": "Esa tienda está lejos."
+    }
+  },
+  "_id": "e91qfry47levqXud0lJm"
+}

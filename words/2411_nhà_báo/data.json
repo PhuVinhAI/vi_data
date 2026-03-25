@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chị ấy là một nhà báo nổi tiếng và thường đi công tác nước ngoài.",
+    "Anh muốn trở thành nhà báo để viết tin tức cho mọi người.",
+    "Bố của em là nhà báo nên em thường nghe nhiều câu chuyện thú vị."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "giáo viên",
+    "nhà báo",
+    "bác sĩ"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:49:30.748Z",
+    "updatedAt": "2025-03-12T15:49:30.748Z",
+    "content": {
+      "choices": [],
+      "sentence": "Cô ấy là một ___ nổi tiếng.",
+      "translatedAnswer": {
+        "en": "journalist"
+      },
+      "answer": "nhà báo",
+      "language": "vi",
+      "translation": {
+        "en": "She is a famous journalist."
+      },
+      "word": "nhà báo"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "53cc3e2d-8710-4d71-ac22-a87b1831fc2d"
+  },
+  "rank": 2411,
+  "notes": "Nhà báo means journalist — a person who writes or reports news for newspapers, TV, radio, or online media.\n\nIt’s a countable noun: một nhà báo, hai nhà báo. You can say làm nhà báo (work as a journalist) or nghề nhà báo (the journalism profession). Often goes with words like bài báo (news article) and phỏng vấn (interview).\n\nClose word: phóng viên = reporter (more about gathering news in the field), while nhà báo is a bit broader and can include writers, editors, etc.",
+  "definition": "journalist",
+  "notes_md": "**Nhà báo** means *journalist* — a person who writes or reports news for newspapers, TV, radio, or online media.\n\nIt’s a countable noun: *một nhà báo, hai nhà báo*. You can say *làm nhà báo* (work as a journalist) or *nghề nhà báo* (the journalism profession). Often goes with words like *bài báo* (news article) and *phỏng vấn* (interview).\n\nClose word: **phóng viên** = reporter (more about gathering news in the field), while *nhà báo* is a bit broader and can include writers, editors, etc.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:49:30.748Z",
+    "updatedAt": "2025-03-12T15:49:30.748Z",
+    "content": {
+      "translation": {
+        "en": "He works as a journalist."
+      },
+      "word": "nhà báo",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "journalist"
+      },
+      "answer": "nhà báo",
+      "choices": [
+        "nhà thơ",
+        "nhà báo",
+        "nhà văn"
+      ],
+      "sentence": "Anh ấy làm việc như một ___.",
+      "hint": "nhà b___"
+    },
+    "id": "c22cc614-f3ac-421d-a91e-56a4141bc46f",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "updatedAt": "2026-03-03T10:32:39.779Z",
+  "word": "nhà báo",
+  "flashcard": {
+    "example": {
+      "vi": "Nhà báo đã phỏng vấn nhiều người để viết bài.",
+      "en": "The journalist interviewed many people to write the article.",
+      "es": "El periodista entrevistó a muchas personas para escribir el artículo."
+    },
+    "definitions": {
+      "vi": "Người viết bài báo hoặc phỏng vấn cho các tờ báo, tạp chí hoặc chương trình phát thanh.",
+      "es": "Una persona que escribe artículos de noticias o reportajes para periódicos, revistas o emisiones.",
+      "en": "A person who writes news articles or reports for newspapers, magazines, or broadcasts."
+    },
+    "createdAt": "2025-01-28T13:22:00.394Z",
+    "translations": {
+      "es": "periodista",
+      "en": "journalist",
+      "vi": "nhà báo"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She is a famous journalist and often travels abroad for work.",
+    "He wants to become a journalist to write news for everyone.",
+    "My dad is a journalist so I often hear many interesting stories."
+  ],
+  "_id": "jXw9IMy6vC9hrVJ0jv8G"
+}

@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:19:32.759Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:19:32.759Z",
+    "content": {
+      "hint": "ô ___m",
+      "answer": "ô nhiễm",
+      "translation": {
+        "en": "The river water is heavily polluted."
+      },
+      "translatedAnswer": {
+        "en": "polluted"
+      },
+      "word": "ô nhiễm",
+      "sentence": "Nước sông đang bị ___ nặng.",
+      "language": "vi",
+      "choices": [
+        "ô nhiễm",
+        "trong sạch",
+        "khô ráo"
+      ]
+    },
+    "id": "0bc0e709-15d9-44b7-ae3b-a9520351057a"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "ô nhiễm",
+    "bảo vệ",
+    "sạch sẽ"
+  ],
+  "rank": 2880,
+  "notes_md": "**Ô nhiễm** means *pollution* — when the environment (air, water, land) becomes dirty or harmful.\n\nIt’s an uncountable noun, so you don’t say *một ô nhiễm*; instead use phrases like **tình trạng ô nhiễm** (pollution situation) or **mức độ ô nhiễm** (level of pollution).  \nIt often goes with words like **không khí, nước, môi trường, tiếng ồn**.  \nYou’ll also see it in fixed combos like **ô nhiễm môi trường** and **ô nhiễm không khí**.  \nRelated word: **bẩn** (dirty) — more everyday and general; **ô nhiễm** is more serious and environmental.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ô nhiễm",
+  "exampleSentencesTranslated": [
+    "Air pollution in the city makes me feel hard to breathe.",
+    "She is worried about water pollution when swimming in the river.",
+    "I think we should work together to protect the environment from pollution."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "sentence": "Không khí ở thành phố này rất ___.",
+      "word": "ô nhiễm",
+      "choices": [],
+      "answer": "ô nhiễm",
+      "translatedAnswer": {
+        "en": "polluted"
+      },
+      "translation": {
+        "en": "The air in this city is very polluted."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:19:32.759Z",
+    "id": "a115bd28-2097-4894-a1a8-03d654480eb8",
+    "updatedAt": "2025-03-12T15:19:32.759Z"
+  },
+  "definition": "pollution",
+  "flashcard": {
+    "translations": {
+      "en": "pollution",
+      "es": "contaminación",
+      "vi": "ô nhiễm"
+    },
+    "createdAt": "2025-01-28T12:54:26.113Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "La presencia de sustancias nocivas en el medio ambiente, especialmente en el aire o el agua.",
+      "vi": "Sự hiện diện của các chất độc hại trong môi trường, đặc biệt là trong không khí hoặc nước.",
+      "en": "The presence of harmful substances in the environment, especially in the air or water."
+    },
+    "example": {
+      "en": "Air pollution is becoming a serious issue.",
+      "es": "La contaminación del aire se está convirtiendo en un problema serio.",
+      "vi": "Ô nhiễm không khí đang trở thành một vấn đề nghiêm trọng."
+    }
+  },
+  "notes": "Ô nhiễm means pollution — when the environment (air, water, land) becomes dirty or harmful.\n\nIt’s an uncountable noun, so you don’t say một ô nhiễm; instead use phrases like tình trạng ô nhiễm (pollution situation) or mức độ ô nhiễm (level of pollution).  \nIt often goes with words like không khí, nước, môi trường, tiếng ồn.  \nYou’ll also see it in fixed combos like ô nhiễm môi trường and ô nhiễm không khí.  \nRelated word: bẩn (dirty) — more everyday and general; ô nhiễm is more serious and environmental.",
+  "exampleSentences": [
+    "Ô nhiễm không khí ở thành phố khiến anh cảm thấy khó thở.",
+    "Chị lo lắng về ô nhiễm nước khi đi bơi ở sông.",
+    "Em nghĩ chúng ta nên cùng nhau bảo vệ môi trường khỏi ô nhiễm."
+  ],
+  "updatedAt": "2026-03-03T18:08:13.945Z",
+  "_id": "c50X3qQ9RyXb3XXIgmWn"
+}

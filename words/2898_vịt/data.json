@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:59:53.727Z",
+    "translations": {
+      "es": "pato",
+      "en": "duck",
+      "vi": "vịt"
+    },
+    "definitions": {
+      "es": "Un ave domesticada que a menudo se cría por su carne y huevos.",
+      "en": "A domesticated bird that is often raised for its meat and eggs.",
+      "vi": "Một loài chim được thuần hóa thường được nuôi để lấy thịt và trứng."
+    },
+    "example": {
+      "en": "I like to eat roasted duck.",
+      "es": "Me gusta comer pato asado.",
+      "vi": "Tôi thích ăn vịt quay."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "vịt = duck (the animal). It can also mean duck meat, depending on context.\n\nIt’s a countable noun. Use the classifier con for the animal: con vịt; for meat dishes, you often just say vịt or specify the dish (like roasted duck).  \n\nVery common pairings: vịt quay (roast duck), trứng vịt (duck eggs).  \n\nFiguratively, xấu như vịt (“ugly like a duck”) suggests someone looks awkward, like in the “ugly duckling” idea.",
+  "choices": [
+    "gà",
+    "vịt",
+    "bò"
+  ],
+  "exampleSentences": [
+    "Anh mua vịt ở chợ để nấu bữa tối cho gia đình.",
+    "Con vịt đang bơi trên mặt hồ vào buổi sáng sớm.",
+    "Chị thích ăn vịt quay hơn là gà rán."
+  ],
+  "updatedAt": "2026-03-03T18:10:16.300Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "duck"
+      },
+      "translation": {
+        "en": "I like to eat duck with rice."
+      },
+      "answer": "vịt",
+      "choices": [
+        "gà",
+        "vịt",
+        "lợn"
+      ],
+      "language": "vi",
+      "word": "vịt",
+      "hint": "v__t",
+      "sentence": "Tôi thích ăn ___ với cơm."
+    },
+    "updatedAt": "2025-03-12T16:28:57.402Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:28:57.402Z",
+    "id": "59217753-7bb9-4f95-a9ba-bad55a8140d7"
+  },
+  "word": "vịt",
+  "exampleSentencesTranslated": [
+    "He buys duck at the market to cook dinner for his family.",
+    "The duck is swimming on the lake in the early morning.",
+    "She prefers eating roast duck to fried chicken."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**vịt** = duck (the animal). It can also mean duck meat, depending on context.\n\nIt’s a countable noun. Use the classifier **con** for the animal: *con vịt*; for meat dishes, you often just say *vịt* or specify the dish (like roasted duck).  \n\nVery common pairings: **vịt quay** (roast duck), **trứng vịt** (duck eggs).  \n\nFiguratively, **xấu như vịt** (“ugly like a duck”) suggests someone looks awkward, like in the “ugly duckling” idea.",
+  "rank": 2898,
+  "definition": "duck",
+  "fillBlankQuiz": {
+    "id": "7b4fbe72-d8b6-4ff8-b081-9bd95a8ceaa7",
+    "createdAt": "2025-03-12T16:28:57.402Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I like to eat duck fried."
+      },
+      "answer": "vịt",
+      "translatedAnswer": {
+        "en": "duck"
+      },
+      "sentence": "Tôi thích ăn ___ chiên.",
+      "word": "vịt"
+    },
+    "updatedAt": "2025-03-12T16:28:57.402Z",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "tn9KoIXjrC3aVpDvyDLb"
+}

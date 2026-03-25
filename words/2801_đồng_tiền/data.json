@@ -1,0 +1,99 @@
+{
+  "definition": "coin",
+  "flashcard": {
+    "translations": {
+      "es": "moneda",
+      "vi": "đồng tiền",
+      "en": "coin"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:08:52.290Z",
+    "definitions": {
+      "es": "Un pedazo de metal o plástico utilizado como dinero.",
+      "vi": "Một mảnh kim loại hoặc nhựa được sử dụng như tiền.",
+      "en": "A piece of metal or plastic used as money."
+    },
+    "example": {
+      "en": "I found an old coin.",
+      "es": "Encontré una moneda antigua.",
+      "vi": "Tôi đã tìm thấy một đồng tiền cổ."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:34:26.422Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:26.422Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi cần ___ để mua đồ.",
+      "language": "vi",
+      "word": "đồng tiền",
+      "translatedAnswer": {
+        "en": "money"
+      },
+      "translation": {
+        "en": "I need money to buy things."
+      },
+      "answer": "đồng tiền"
+    },
+    "id": "83d8e0d2-26d1-4eed-a53c-a1c3c40867c8",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I found a coin under the table this morning.",
+    "Can you lend me a coin to buy water?",
+    "Children often like to collect coin from different countries."
+  ],
+  "exampleSentences": [
+    "Em nhặt được một đồng tiền dưới gầm bàn sáng nay.",
+    "Anh có thể cho chị mượn một đồng tiền để mua nước không?",
+    "Trẻ con thường thích sưu tập đồng tiền từ nhiều quốc gia khác nhau."
+  ],
+  "updatedAt": "2026-03-03T17:58:41.080Z",
+  "notes": "đồng tiền = a coin (a small round piece of metal used as money). It’s a countable noun.\n\nUse it with numbers like một đồng tiền, hai đồng tiền. Don’t confuse it with tiền (money in general) or đồng (the Vietnamese currency unit).\n\nIt often appears in phrases about value or spending, like talking about saving, earning, or the worth of something.\n\nVery common extended meaning: đồng tiền can also mean “money” in a more symbolic way (money as power or influence), not just a physical coin.",
+  "choices": [
+    "đồng tiền",
+    "bức tranh",
+    "cái ghế"
+  ],
+  "rank": 2801,
+  "notes_md": "**đồng tiền** = a coin (a small round piece of metal used as money). It’s a countable noun.\n\nUse it with numbers like *một đồng tiền, hai đồng tiền*. Don’t confuse it with **tiền** (money in general) or **đồng** (the Vietnamese currency unit).\n\nIt often appears in phrases about value or spending, like talking about saving, earning, or the worth of something.\n\nVery common extended meaning: **đồng tiền** can also mean “money” in a more symbolic way (money as power or influence), not just a physical coin.",
+  "multiChoiceQuiz": {
+    "id": "b36d73d6-d0a8-4893-8cea-fad9c479ba69",
+    "content": {
+      "word": "đồng tiền",
+      "language": "vi",
+      "sentence": "Cô ấy có nhiều ___ trong ví.",
+      "choices": [
+        "đồng xu",
+        "đồng tiền",
+        "giấy bạc"
+      ],
+      "hint": "đ___ tiền",
+      "answer": "đồng tiền",
+      "translation": {
+        "en": "She has a lot of money in her wallet."
+      },
+      "translatedAnswer": {
+        "en": "money"
+      }
+    },
+    "createdAt": "2025-03-12T15:34:26.422Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:34:26.422Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đồng tiền",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "fwO7pjZzXLx5ebsAhwCN"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Món ăn này có hương vị rất đặc biệt.",
+      "es": "Este plato tiene un sabor muy especial.",
+      "en": "This dish has a very special flavor."
+    },
+    "definitions": {
+      "es": "El sabor característico de un alimento o bebida.",
+      "vi": "Hương vị là đặc điểm của món ăn hoặc đồ uống.",
+      "en": "The characteristic taste of a food or drink."
+    },
+    "createdAt": "2025-01-28T13:12:17.001Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "flavor",
+      "vi": "hương vị",
+      "es": "sabor"
+    }
+  },
+  "definition": "flavor",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "2c9f09df-a41b-4280-8236-399450b4e83f",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:38:16.097Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "flavor"
+      },
+      "translation": {
+        "en": "This dish has a special flavor."
+      },
+      "answer": "hương vị",
+      "choices": [],
+      "sentence": "Món ăn này có ___ đặc biệt.",
+      "language": "vi",
+      "word": "hương vị"
+    },
+    "updatedAt": "2025-03-12T15:38:16.097Z"
+  },
+  "exampleSentencesTranslated": [
+    "I really like the flavor of the pho my mom cooks.",
+    "Each type of ice cream has a different flavor for you to choose.",
+    "I want to try the special flavor of Vietnamese coffee."
+  ],
+  "updatedAt": "2026-03-03T09:34:07.254Z",
+  "exampleSentences": [
+    "Anh rất thích hương vị của món phở mẹ nấu.",
+    "Mỗi loại kem đều có hương vị khác nhau để em lựa chọn.",
+    "Chị muốn thử hương vị đặc biệt của cà phê Việt Nam."
+  ],
+  "notes": "Hương vị means flavor — the taste (and often smell) of food or drink. It’s about how something feels in your mouth, not just sweet/salty, but the overall taste experience.\n\nIt’s a noun. You can say một hương vị, các hương vị, and it often goes with của to show what something tastes like.  \n\nCommon pairings: hương vị đặc trưng, hương vị quen thuộc, hương vị đậm đà.\n\nIt can also be a bit poetic, like the “flavor” of life or a place (not just food).  \n\nClose synonym: mùi vị (very similar, but hương vị feels slightly nicer and more positive).",
+  "notes_md": "**Hương vị** means *flavor* — the taste (and often smell) of food or drink. It’s about how something feels in your mouth, not just sweet/salty, but the overall taste experience.\n\nIt’s a noun. You can say **một hương vị**, **các hương vị**, and it often goes with **của** to show what something tastes like.  \n\nCommon pairings: **hương vị đặc trưng**, **hương vị quen thuộc**, **hương vị đậm đà**.\n\nIt can also be a bit poetic, like the “flavor” of life or a place (not just food).  \n\nClose synonym: **mùi vị** (very similar, but *hương vị* feels slightly nicer and more positive).",
+  "rank": 1853,
+  "choices": [
+    "hương vị",
+    "màu sắc",
+    "kích thước"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:38:16.097Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:38:16.097Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "h___ vị",
+      "answer": "hương vị",
+      "translation": {
+        "en": "This dish has a very delicious flavor."
+      },
+      "translatedAnswer": {
+        "en": "flavor"
+      },
+      "word": "hương vị",
+      "sentence": "Món ăn này có ___ rất ngon.",
+      "language": "vi",
+      "choices": [
+        "mùi vị",
+        "hương vị",
+        "màu sắc"
+      ]
+    },
+    "id": "b6526278-ef80-4813-a2c8-e111cefecb9a"
+  },
+  "word": "hương vị",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "grpIr7sQ2JT6Q05bQiN3"
+}

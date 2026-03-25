@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**hộp** = box. A container, usually with a lid, for holding or storing things.\n\nIt’s a countable noun. Use the classifier **cái**: *một cái hộp*, *hai cái hộp*.  \n\nOften paired with product names for packaged items (hộp sữa, hộp bánh).  \nBigger and rougher than a **hộp** is **thùng** (like a carton or crate) — think small neat box vs. big storage box.",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "hộp",
+      "sentence": "Tôi để ___ trên bàn.",
+      "answer": "hộp",
+      "translation": {
+        "en": "I put the box on the table."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "box"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:47:30.467Z",
+    "type": "fillBlankQuiz",
+    "id": "024f074a-2fb6-4ff3-9bab-65ad13b8f22f",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:47:30.467Z"
+  },
+  "rank": 2221,
+  "definition": "box",
+  "flashcard": {
+    "translations": {
+      "vi": "hộp",
+      "en": "box",
+      "es": "caja"
+    },
+    "example": {
+      "en": "I put the books in the box.",
+      "es": "Puse los libros en la caja.",
+      "vi": "Tôi để sách trong hộp."
+    },
+    "definitions": {
+      "vi": "Một vật chứa, thường có nắp, được sử dụng để lưu trữ hoặc vận chuyển.",
+      "es": "Un contenedor, típicamente con una tapa, utilizado para almacenamiento o transporte.",
+      "en": "A container, typically with a lid, used for storage or transport."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:18:24.855Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "hộp = box. A container, usually with a lid, for holding or storing things.\n\nIt’s a countable noun. Use the classifier cái: một cái hộp, hai cái hộp.  \n\nOften paired with product names for packaged items (hộp sữa, hộp bánh).  \nBigger and rougher than a hộp is thùng (like a carton or crate) — think small neat box vs. big storage box.",
+  "choices": [
+    "hộp",
+    "bút",
+    "ghế"
+  ],
+  "updatedAt": "2026-03-03T10:13:05.170Z",
+  "exampleSentences": [
+    "Anh có thể đưa cho em cái hộp màu xanh trên bàn không?",
+    "Chị thường để bánh quy vào trong một hộp nhỏ ở bếp.",
+    "Em mua một hộp quà sinh nhật để tặng bạn thân."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:47:30.467Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6368c493-45fe-4051-a198-01633522101e",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi để ___ trên bàn.",
+      "hint": "h___",
+      "word": "hộp",
+      "language": "vi",
+      "choices": [
+        "hộp",
+        "cái túi",
+        "hộp quà"
+      ],
+      "answer": "hộp",
+      "translation": {
+        "en": "I put the box on the table."
+      },
+      "translatedAnswer": {
+        "en": "box"
+      }
+    },
+    "updatedAt": "2025-03-12T16:47:30.467Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you give me the blue box on the table?",
+    "She usually puts cookies in a small box in the kitchen.",
+    "I bought a birthday box to give to my close friend."
+  ],
+  "word": "hộp",
+  "_id": "yTUs3BMaZdufu5KnDkTx"
+}

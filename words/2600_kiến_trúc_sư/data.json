@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Kiến trúc sư** means *architect* — a person who designs buildings. They plan houses, offices, schools, and think about both beauty and safety.\n\nIt’s a countable noun: *một kiến trúc sư, hai kiến trúc sư, những kiến trúc sư*.  \nCommon verbs: *là kiến trúc sư*, *làm kiến trúc sư*, *trở thành kiến trúc sư*.  \n\nDon’t confuse it with *kỹ sư xây dựng* (construction engineer) — the architect designs, the engineer focuses more on the technical building side.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "kiến trúc sư",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "họa sĩ",
+        "kiến trúc sư",
+        "nhà văn"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "She is a talented architect."
+      },
+      "sentence": "Cô ấy là một ___ tài năng.",
+      "hint": "k___ s___",
+      "word": "kiến trúc sư",
+      "answer": "kiến trúc sư",
+      "translatedAnswer": {
+        "en": "architect"
+      }
+    },
+    "id": "3c1d6ce7-f111-4936-958e-d0c113db03ed",
+    "createdAt": "2025-03-12T14:02:03.853Z",
+    "updatedAt": "2025-03-12T14:02:03.853Z"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I want to become an architect."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "kiến trúc sư",
+      "sentence": "Tôi muốn trở thành ___.",
+      "translatedAnswer": {
+        "en": "architect"
+      },
+      "answer": "kiến trúc sư"
+    },
+    "type": "fillBlankQuiz",
+    "id": "5322e6a6-c29c-49d9-ac79-8bce7724c064",
+    "createdAt": "2025-03-12T14:02:03.853Z",
+    "updatedAt": "2025-03-12T14:02:03.853Z"
+  },
+  "definition": "architect",
+  "choices": [
+    "bác sĩ",
+    "kỹ sư",
+    "kiến trúc sư"
+  ],
+  "updatedAt": "2026-03-03T11:27:16.648Z",
+  "exampleSentencesTranslated": [
+    "My older brother is a famous architect in this city.",
+    "I want to become an architect to design beautiful houses.",
+    "Whenever building a new house, my family always asks an architect for advice."
+  ],
+  "notes": "Kiến trúc sư means architect — a person who designs buildings. They plan houses, offices, schools, and think about both beauty and safety.\n\nIt’s a countable noun: một kiến trúc sư, hai kiến trúc sư, những kiến trúc sư.  \nCommon verbs: là kiến trúc sư, làm kiến trúc sư, trở thành kiến trúc sư.  \n\nDon’t confuse it with kỹ sư xây dựng (construction engineer) — the architect designs, the engineer focuses more on the technical building side.",
+  "rank": 2600,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "He is a talented architect.",
+      "es": "Él es un arquitecto talentoso.",
+      "vi": "Anh ấy là một kiến trúc sư tài năng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một người thiết kế các tòa nhà và các cấu trúc khác.",
+      "es": "Una persona que diseña edificios y otras estructuras.",
+      "en": "A person who designs buildings and other structures."
+    },
+    "translations": {
+      "en": "architect",
+      "es": "arquitecto",
+      "vi": "kiến trúc sư"
+    },
+    "createdAt": "2025-01-28T11:39:58.941Z"
+  },
+  "exampleSentences": [
+    "Anh trai em là một kiến trúc sư nổi tiếng ở thành phố này.",
+    "Chị muốn trở thành kiến trúc sư để thiết kế những ngôi nhà đẹp.",
+    "Mỗi khi xây dựng nhà mới, gia đình anh đều nhờ kiến trúc sư tư vấn."
+  ],
+  "_id": "JCaX8gMP2jSmuwx7uBYu"
+}

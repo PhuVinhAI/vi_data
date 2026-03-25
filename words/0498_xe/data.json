@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "xe",
+    "bàn",
+    "cửa"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:44:48.969Z",
+    "id": "d19b99ad-6099-4d6f-aae7-517fd989bc93",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "car"
+      },
+      "translation": {
+        "en": "They bought a big car."
+      },
+      "choices": [
+        "xe",
+        "nhà",
+        "thuyền"
+      ],
+      "answer": "xe",
+      "language": "vi",
+      "word": "xe",
+      "hint": "x__",
+      "sentence": "Họ đã mua một ___ lớn."
+    },
+    "updatedAt": "2025-03-12T16:44:48.969Z"
+  },
+  "exampleSentences": [
+    "Anh có muốn đi bằng xe hay đi bộ đến trường không?",
+    "Chị mới mua một chiếc xe mới vào tuần trước.",
+    "Em thường thấy nhiều xe trên đường vào giờ cao điểm."
+  ],
+  "updatedAt": "2026-03-03T07:12:03.050Z",
+  "exampleSentencesTranslated": [
+    "Do you want to go to school by vehicle or walk?",
+    "She just bought a new vehicle last week.",
+    "I often see many vehicles on the road during rush hour."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "xe",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:15:40.224Z",
+    "translations": {
+      "vi": "xe",
+      "en": "car",
+      "es": "coche"
+    },
+    "definitions": {
+      "vi": "Một phương tiện được sử dụng để vận chuyển người hoặc hàng hóa.",
+      "es": "Un vehículo utilizado para transportar personas o mercancías.",
+      "en": "A vehicle used for transporting people or goods."
+    },
+    "example": {
+      "en": "I have a new car.",
+      "es": "Tengo un coche nuevo.",
+      "vi": "Tôi có một chiếc xe mới."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Xe means vehicle. In daily Vietnamese, it often implies a motorbike unless you specify the type.\n\nIt’s a countable noun. Use classifiers like chiếc or cái: một chiếc xe.  \n\nVery common combinations: xe máy (motorbike), xe đạp (bicycle), xe hơi / ô tô (car), xe buýt (bus), xe tải (truck).  \n\nVietnamese doesn’t change the word for plural—number is shown by context or words like nhiều.",
+  "notes_md": "**Xe** means *vehicle*. In daily Vietnamese, it often implies a **motorbike** unless you specify the type.\n\nIt’s a countable noun. Use classifiers like **chiếc** or **cái**: *một chiếc xe*.  \n\nVery common combinations: **xe máy** (motorbike), **xe đạp** (bicycle), **xe hơi / ô tô** (car), **xe buýt** (bus), **xe tải** (truck).  \n\nVietnamese doesn’t change the word for plural—number is shown by context or words like *nhiều*.",
+  "fillBlankQuiz": {
+    "id": "1aaa8b9a-1297-4e8e-9026-c60bcc2cf1d1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:44:48.969Z",
+    "content": {
+      "sentence": "Tôi cần một ___ mới.",
+      "word": "xe",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I need a new car."
+      },
+      "answer": "xe",
+      "translatedAnswer": {
+        "en": "car"
+      }
+    },
+    "updatedAt": "2025-03-12T16:44:48.969Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "vehicle",
+  "rank": 498,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "xluDqOvgaSN738Hc8D19"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:01:06.738Z",
+    "updatedAt": "2025-03-12T16:01:06.738Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "answer": "xây",
+      "choices": [
+        "xây",
+        "mua",
+        "bán"
+      ],
+      "sentence": "Chúng ta cần ___ nhà mới.",
+      "hint": "x__",
+      "translation": {
+        "en": "We need to build a new house."
+      },
+      "word": "xây",
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b91e6823-f08a-4789-bfc5-371c95a168ee"
+  },
+  "notes_md": "**xây** = to build or construct something physical, like a house, road, or bridge. It’s about creating something solid and lasting.\n\nIt’s a verb, followed directly by the thing you build.  \n\nYou’ll also see **xây dựng**, which is more formal and broader — it can mean “build” in both physical and abstract senses (like building a plan or relationship).  \n\nGood contrast: **phá** = destroy/demolish — the opposite of *xây*.",
+  "exampleSentencesTranslated": [
+    "I want to build a small house in the suburbs.",
+    "We need to build a new bridge across the river.",
+    "The workers are building a school for the children in the village."
+  ],
+  "updatedAt": "2026-03-03T08:50:11.970Z",
+  "word": "xây",
+  "flashcard": {
+    "definitions": {
+      "en": "To construct or put together something, typically a building.",
+      "es": "Construir o ensamblar algo, típicamente un edificio.",
+      "vi": "Xây dựng hoặc lắp ráp một cái gì đó, thường là một tòa nhà."
+    },
+    "createdAt": "2025-01-28T13:33:02.845Z",
+    "example": {
+      "es": "Vamos a construir una casa nueva.",
+      "en": "We will build a new house.",
+      "vi": "Chúng tôi sẽ xây một ngôi nhà mới."
+    },
+    "translations": {
+      "en": "build",
+      "es": "construir",
+      "vi": "xây"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "xay",
+    "xây",
+    "xảy"
+  ],
+  "fillBlankQuiz": {
+    "id": "69e5fe1a-f008-47b9-bbc7-35b62827f992",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "sentence": "Chúng ta cần ___ nhà mới.",
+      "answer": "xây",
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "translation": {
+        "en": "We need to build a new house."
+      },
+      "word": "xây",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:01:06.738Z",
+    "createdAt": "2025-03-12T16:01:06.738Z"
+  },
+  "exampleSentences": [
+    "Anh muốn xây một ngôi nhà nhỏ ở ngoại ô.",
+    "Chúng ta cần xây một cây cầu mới qua sông.",
+    "Các công nhân đang xây trường học cho trẻ em trong làng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "xây = to build or construct something physical, like a house, road, or bridge. It’s about creating something solid and lasting.\n\nIt’s a verb, followed directly by the thing you build.  \n\nYou’ll also see xây dựng, which is more formal and broader — it can mean “build” in both physical and abstract senses (like building a plan or relationship).  \n\nGood contrast: phá = destroy/demolish — the opposite of xây.",
+  "definition": "build",
+  "rank": 1443,
+  "_id": "mQTV0kwULDcZWoE6bNvd"
+}

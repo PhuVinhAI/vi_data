@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "af99986b-e432-48a7-9fce-65d3226f20b9",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:30:36.887Z",
+    "content": {
+      "hint": "b___n",
+      "answer": "bận rộn",
+      "translatedAnswer": {
+        "en": "busy"
+      },
+      "translation": {
+        "en": "I am very busy with work today."
+      },
+      "sentence": "Hôm nay tôi rất ___ với công việc.",
+      "language": "vi",
+      "word": "bận rộn",
+      "choices": [
+        "rảnh rỗi",
+        "bận rộn",
+        "nhàn rỗi"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:30:36.887Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bận rộn** = busy; having a lot to do and not much free time.\n\nIt’s an adjective, used to describe people (sometimes schedules or days). You often pair it with **với + noun** to say what someone is busy with.  \n\n\nYou can also say just **bận** in casual speech — it’s shorter and very common. Opposite idea: **rảnh** (free, not busy).",
+  "choices": [
+    "bận rộn",
+    "vui vẻ",
+    "thư giãn"
+  ],
+  "rank": 2366,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bận rộn",
+  "exampleSentencesTranslated": [
+    "This week I am very busy with a lot of work at the office.",
+    "She is always busy so she doesn't have much time for her family.",
+    "I feel busy every time exams come close."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:30:36.887Z",
+    "type": "fillBlankQuiz",
+    "id": "cf0239d3-fdce-4e04-8b5d-73d8474637f5",
+    "content": {
+      "translation": {
+        "en": "I am very busy with work today."
+      },
+      "translatedAnswer": {
+        "en": "busy"
+      },
+      "answer": "bận rộn",
+      "choices": [],
+      "word": "bận rộn",
+      "sentence": "Hôm nay tôi rất ___ với công việc.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:36.887Z"
+  },
+  "definition": "busy",
+  "flashcard": {
+    "example": {
+      "en": "I am very busy with work today.",
+      "vi": "Hôm nay tôi rất bận rộn với công việc.",
+      "es": "Hoy estoy muy ocupado con el trabajo."
+    },
+    "definitions": {
+      "vi": "Có nhiều việc phải làm; không rảnh.",
+      "es": "Tener mucho que hacer; no estar libre.",
+      "en": "Having a lot to do; not free."
+    },
+    "createdAt": "2025-01-28T11:10:37.039Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "ocupado",
+      "vi": "bận rộn",
+      "en": "busy"
+    }
+  },
+  "notes": "bận rộn = busy; having a lot to do and not much free time.\n\nIt’s an adjective, used to describe people (sometimes schedules or days). You often pair it with với + noun to say what someone is busy with.  \n\nYou can also say just bận in casual speech — it’s shorter and very common. Opposite idea: rảnh (free, not busy).",
+  "updatedAt": "2026-03-03T10:28:28.257Z",
+  "exampleSentences": [
+    "Tuần này anh rất bận rộn với nhiều công việc ở văn phòng.",
+    "Chị ấy luôn bận rộn nên không có nhiều thời gian cho gia đình.",
+    "Em cảm thấy bận rộn mỗi khi kỳ thi đến gần."
+  ],
+  "_id": "B20DJpL4XLcupeYBDZih"
+}

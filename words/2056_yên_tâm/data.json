@@ -1,0 +1,99 @@
+{
+  "rank": 2056,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm thấy an tâm hoặc yên lòng về điều gì đó.",
+      "es": "Estar tranquilo o sentirse seguro acerca de algo.",
+      "en": "To be at ease or to feel secure about something."
+    },
+    "translations": {
+      "en": "rest assured",
+      "es": "estar tranquilo",
+      "vi": "yên tâm"
+    },
+    "createdAt": "2025-01-28T11:51:07.082Z",
+    "example": {
+      "en": "You can rest assured, everything will be fine.",
+      "es": "Puedes estar tranquilo, todo estará bien.",
+      "vi": "Bạn hãy yên tâm, mọi thứ sẽ ổn thôi."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Em cứ yên tâm, anh sẽ đến đón em đúng giờ.",
+    "Chị yên tâm khi biết con trai mình đã về nhà an toàn.",
+    "Sau khi nghe giải thích, mọi người đều yên tâm hơn về kết quả."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Yên tâm** = don’t worry / feel at ease. It’s about feeling mentally calm because you believe things will be okay.\n\nIt describes a person’s state of mind. You can use it alone to reassure someone, like telling them to relax.\n\n\nClose synonym: **an tâm** (a bit more formal). Opposite: **lo / lo lắng** (to worry).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "yên tâm",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "You can be at ease when you are here."
+      },
+      "language": "vi",
+      "choices": [
+        "yên tâm",
+        "lo lắng",
+        "không yên"
+      ],
+      "word": "yên tâm",
+      "hint": "y___m",
+      "sentence": "Bạn có thể ___ khi ở đây.",
+      "translatedAnswer": {
+        "en": "at ease"
+      },
+      "answer": "yên tâm"
+    },
+    "id": "63c742bd-d2f8-4b7f-910d-c78f04ca027b",
+    "createdAt": "2025-03-12T14:13:59.707Z",
+    "updatedAt": "2025-03-12T14:13:59.707Z"
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:13:59.707Z",
+    "updatedAt": "2025-03-12T14:13:59.707Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "You can be at ease when you are here."
+      },
+      "sentence": "Bạn có thể ___ khi ở đây.",
+      "word": "yên tâm",
+      "answer": "yên tâm",
+      "translatedAnswer": {
+        "en": "at ease"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e54b2ff7-8cd6-4238-ac5b-f5e974417f1d"
+  },
+  "definition": "don't worry",
+  "choices": [
+    "lo lắng",
+    "yên tâm",
+    "chờ đợi"
+  ],
+  "updatedAt": "2026-03-03T09:55:39.428Z",
+  "exampleSentencesTranslated": [
+    "Don't worry, I will pick you up on time.",
+    "(She) don't worry, when she knows her son is home safely.",
+    "After hearing the explanation, (everyone) don't worry about the result."
+  ],
+  "notes": "Yên tâm = don’t worry / feel at ease. It’s about feeling mentally calm because you believe things will be okay.\n\nIt describes a person’s state of mind. You can use it alone to reassure someone, like telling them to relax.\n\nClose synonym: an tâm (a bit more formal). Opposite: lo / lo lắng (to worry).",
+  "_id": "LcMVIdcaYlnmDoYl5ibi"
+}

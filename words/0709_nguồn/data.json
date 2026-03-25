@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nguồn = source, where something comes from. It can be physical (water, electricity) or abstract (money, information).\n\nIt’s a noun. You can say một nguồn, nhiều nguồn when you count different sources.\n\nVery common pairings are about supply or origin: money, energy, information, income.  \n\nClose idea: nguồn gốc = origin (the root/background of something).",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:21:16.140Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi cần tìm nguồn thông tin cho bài viết.",
+      "en": "I need to find a source of information for the article.",
+      "es": "Necesito encontrar una fuente de información para el artículo."
+    },
+    "definitions": {
+      "en": "A place, person, or thing from which something comes or can be obtained.",
+      "es": "Un lugar, persona o cosa de la que proviene algo o que se puede obtener.",
+      "vi": "Nơi, người hoặc vật mà từ đó một cái gì đó đến hoặc có thể được lấy."
+    },
+    "translations": {
+      "es": "fuente",
+      "en": "source",
+      "vi": "nguồn"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:51:18.553Z",
+    "id": "ce30a294-843e-4e59-b802-98c7f31c40fc",
+    "content": {
+      "sentence": "Chúng ta cần biết ___ thông tin.",
+      "hint": "n___n",
+      "word": "nguồn",
+      "language": "vi",
+      "answer": "nguồn",
+      "choices": [
+        "nguồn",
+        "mục tiêu",
+        "phương pháp"
+      ],
+      "translation": {
+        "en": "We need to know the source of information."
+      },
+      "translatedAnswer": {
+        "en": "source"
+      }
+    },
+    "updatedAt": "2025-03-12T16:51:18.553Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Em cần tìm nguồn thông tin đáng tin cậy cho bài luận này.",
+    "Anh ấy luôn kiểm tra nguồn trước khi chia sẻ tin tức.",
+    "Chị có thể cho em biết nguồn của bức ảnh này không?"
+  ],
+  "updatedAt": "2026-03-03T07:32:32.707Z",
+  "choices": [
+    "nguồn",
+    "người",
+    "nguyện"
+  ],
+  "word": "nguồn",
+  "exampleSentencesTranslated": [
+    "I need to find a reliable source of information for this essay.",
+    "He always checks the source before sharing news.",
+    "Can you tell me the source of this photo?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**nguồn** = source, where something comes from. It can be physical (water, electricity) or abstract (money, information).\n\nIt’s a noun. You can say *một nguồn, nhiều nguồn* when you count different sources.\n\nVery common pairings are about supply or origin: money, energy, information, income.  \n\nClose idea: **nguồn gốc** = origin (the root/background of something).",
+  "rank": 709,
+  "definition": "source",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:51:18.553Z",
+    "id": "0d59ca51-d0e1-4972-9f38-1c2e15632e7d",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I need to find a source of drinking water."
+      },
+      "answer": "nguồn",
+      "translatedAnswer": {
+        "en": "source"
+      },
+      "sentence": "Tôi cần tìm ___ nước uống.",
+      "word": "nguồn"
+    },
+    "updatedAt": "2025-03-12T16:51:18.553Z",
+    "type": "fillBlankQuiz"
+  },
+  "_id": "zUlZ9DfCNgH2Pautqm4n"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:21:02.013Z",
+    "content": {
+      "translation": {
+        "en": "She just arrived at my house."
+      },
+      "translatedAnswer": {
+        "en": "just"
+      },
+      "hint": "v___m___",
+      "answer": "vừa mới",
+      "choices": [
+        "vừa mới",
+        "ngay lập tức",
+        "có thể"
+      ],
+      "word": "vừa mới",
+      "language": "vi",
+      "sentence": "Cô ấy ___ đến nhà tôi."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:21:02.013Z",
+    "id": "c3c404ba-74ba-43e5-92bb-455cc74dbdb3",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**vừa mới** = just now, a very short time ago. It talks about something that happened very recently.\n\nIt goes before a verb to show recent completion.  \n\nYou can drop **mới** and just say **vừa** — meaning is almost the same, but **vừa mới** feels a bit stronger, like “only just.”  \n\nOften used with past actions that still feel “fresh” or have a result now.",
+  "choices": [
+    "vừa mới",
+    "sắp tới",
+    "đã từng"
+  ],
+  "rank": 1600,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "vừa mới",
+  "exampleSentencesTranslated": [
+    "I just now got home so I haven't changed clothes yet.",
+    "I just now finished breakfast so I'm not hungry.",
+    "She just now called her mom a few minutes ago."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:21:02.013Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:21:02.013Z",
+    "content": {
+      "sentence": "Cô ấy ___ đến nhà tôi.",
+      "language": "vi",
+      "word": "vừa mới",
+      "choices": [],
+      "answer": "vừa mới",
+      "translatedAnswer": {
+        "en": "just"
+      },
+      "translation": {
+        "en": "She just arrived at my house."
+      }
+    },
+    "id": "bc80d4fc-df4d-4fa4-8a49-5779ba0874b9",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "just now",
+  "flashcard": {
+    "example": {
+      "es": "Acabo de desayunar.",
+      "vi": "Tôi vừa mới ăn sáng.",
+      "en": "I just had breakfast."
+    },
+    "definitions": {
+      "en": "A phrase indicating that something has just happened.",
+      "es": "Una frase que indica que algo acaba de suceder.",
+      "vi": "Cụm từ chỉ ra rằng một điều gì đó vừa mới xảy ra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:09:58.153Z",
+    "translations": {
+      "en": "just",
+      "vi": "vừa mới",
+      "es": "justo"
+    }
+  },
+  "notes": "vừa mới = just now, a very short time ago. It talks about something that happened very recently.\n\nIt goes before a verb to show recent completion.  \n\nYou can drop mới and just say vừa — meaning is almost the same, but vừa mới feels a bit stronger, like “only just.”  \n\nOften used with past actions that still feel “fresh” or have a result now.",
+  "updatedAt": "2026-03-03T09:07:13.049Z",
+  "exampleSentences": [
+    "Anh vừa mới về đến nhà nên còn chưa kịp thay đồ.",
+    "Em vừa mới ăn sáng xong nên chưa đói đâu.",
+    "Chị ấy vừa mới gọi điện cho mẹ cách đây vài phút."
+  ],
+  "_id": "g89MKFbOiVwaB9EPuUQi"
+}

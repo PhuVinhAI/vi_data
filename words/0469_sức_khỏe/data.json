@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Mi salud es muy buena.",
+      "en": "My health is very good.",
+      "vi": "Sức khỏe của tôi rất tốt."
+    },
+    "translations": {
+      "en": "health",
+      "vi": "sức khỏe",
+      "es": "salud"
+    },
+    "createdAt": "2025-01-28T10:40:08.008Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El estado de estar libre de enfermedad o lesión; bienestar físico.",
+      "en": "The state of being free from illness or injury; physical well-being.",
+      "vi": "Trạng thái không bị bệnh tật hoặc chấn thương; sức khỏe thể chất."
+    }
+  },
+  "rank": 469,
+  "definition": "health",
+  "exampleSentences": [
+    "Anh nên tập thể dục mỗi ngày để giữ sức khỏe tốt.",
+    "Chị rất quan tâm đến sức khỏe của gia đình mình.",
+    "Bác sĩ khuyên em ăn nhiều rau để bảo vệ sức khỏe."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:56:54.285Z",
+    "updatedAt": "2025-03-12T12:56:54.285Z",
+    "id": "9cedadd9-458d-41be-a0f0-4e90b2285fc5",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "sức khỏe",
+      "sentence": "Cần chăm sóc ___ hàng ngày.",
+      "word": "sức khỏe",
+      "translatedAnswer": {
+        "en": "health"
+      },
+      "language": "vi",
+      "hint": "s___e",
+      "choices": [
+        "sức khỏe",
+        "tinh thần",
+        "thể lực"
+      ],
+      "translation": {
+        "en": "You need to take care of health daily."
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "sức khỏe",
+  "choices": [
+    "sức khỏe",
+    "thể thao",
+    "thức ăn"
+  ],
+  "notes": "Sức khỏe means health — your physical (and sometimes mental) condition. It’s about how well your body is doing.\n\nIt’s an uncountable noun, so you don’t count it with classifiers. You’ll often see it with words like giữ gìn (take care of), bảo vệ (protect), cải thiện (improve), or tình trạng (condition).\n\nCommon patterns: có sức khỏe (to be healthy enough), sức khỏe tốt/kém (good/poor health).\n\nClose idea: thể trạng (physical condition, more medical). Opposite vibe: bệnh tật (illness, sickness).",
+  "notes_md": "**Sức khỏe** means **health** — your physical (and sometimes mental) condition. It’s about how well your body is doing.\n\nIt’s an uncountable noun, so you don’t count it with classifiers. You’ll often see it with words like **giữ gìn** (take care of), **bảo vệ** (protect), **cải thiện** (improve), or **tình trạng** (condition).\n\nCommon patterns: **có sức khỏe** (to be healthy enough), **sức khỏe tốt/kém** (good/poor health).\n\nClose idea: **thể trạng** (physical condition, more medical). Opposite vibe: **bệnh tật** (illness, sickness).",
+  "exampleSentencesTranslated": [
+    "You should exercise every day to maintain good health.",
+    "She cares a lot about her family's health.",
+    "The doctor advises me to eat more vegetables to protect health."
+  ],
+  "updatedAt": "2026-03-03T07:09:18.247Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:56:54.285Z",
+    "updatedAt": "2025-03-12T12:56:54.285Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I care about my health."
+      },
+      "word": "sức khỏe",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "health"
+      },
+      "sentence": "Tôi quan tâm đến ___ của mình.",
+      "answer": "sức khỏe"
+    },
+    "type": "fillBlankQuiz",
+    "id": "500250c7-01ca-4960-b213-95bba826910f",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "206XZhoE7A2QyMFK7upQ"
+}

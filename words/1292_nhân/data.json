@@ -1,0 +1,99 @@
+{
+  "rank": 1292,
+  "exampleSentences": [
+    "Em thích ăn bánh trung thu có nhân đậu xanh.",
+    "Anh hãy tách hạt và lấy nhân ra giúp chị nhé.",
+    "Mẹ bảo trong quả hạnh nhân có kernel rất bổ dưỡng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:42:43.521Z",
+    "translations": {
+      "en": "person",
+      "es": "persona",
+      "vi": "nhân"
+    },
+    "definitions": {
+      "en": "A person who works in a specific job or role.",
+      "es": "Una persona que trabaja en un trabajo o rol específico.",
+      "vi": "Một người làm việc trong một công việc hoặc vai trò cụ thể."
+    },
+    "example": {
+      "en": "I am an office worker.",
+      "vi": "Tôi là một nhân viên văn phòng.",
+      "es": "Soy un empleado de oficina."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhân",
+  "multiChoiceQuiz": {
+    "id": "a3c205f8-d2b6-4789-836d-29a0852832fe",
+    "content": {
+      "translatedAnswer": {
+        "en": "factor"
+      },
+      "answer": "nhân",
+      "hint": "n___",
+      "word": "nhân",
+      "sentence": "Tôi cần ___ để hoàn thành công việc.",
+      "translation": {
+        "en": "I need a factor to complete the work."
+      },
+      "language": "vi",
+      "choices": [
+        "nhân",
+        "hệ số",
+        "phương trình"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:04:48.256Z",
+    "createdAt": "2025-03-12T14:04:48.256Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nhân** = the inside part of something solid, like the kernel of a nut or the filling inside food. It’s the part you eat after removing the shell or outer layer.\n\nIt’s a noun. You often see it in phrases like **nhân bánh** (cake filling), **nhân đậu xanh**, **nhân thịt**, or talking about separating **vỏ và nhân** (shell and kernel). Usually it doesn’t need a classifier; people just say *phần nhân* if they want to be clear.\n\nVery common other meanings: **nhân** = “person” in Sino‑Vietnamese words (like *bệnh nhân*, *nhân viên*), and **nhân** = “to multiply” in math. Same spelling, totally different meanings — context tells you which one.",
+  "choices": [
+    "nhân",
+    "vỏ",
+    "lá"
+  ],
+  "updatedAt": "2026-03-03T08:34:06.635Z",
+  "notes": "nhân = the inside part of something solid, like the kernel of a nut or the filling inside food. It’s the part you eat after removing the shell or outer layer.\n\nIt’s a noun. You often see it in phrases like nhân bánh (cake filling), nhân đậu xanh, nhân thịt, or talking about separating vỏ và nhân (shell and kernel). Usually it doesn’t need a classifier; people just say phần nhân if they want to be clear.\n\nVery common other meanings: nhân = “person” in Sino‑Vietnamese words (like bệnh nhân, nhân viên), and nhân = “to multiply” in math. Same spelling, totally different meanings — context tells you which one.",
+  "exampleSentencesTranslated": [
+    "I like eating mooncakes with green bean kernel.",
+    "Please separate the seeds and take the kernel out for me.",
+    "Mom said there is a very nutritious kernel inside an almond."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:04:48.256Z",
+    "updatedAt": "2025-03-12T14:04:48.256Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "nhân",
+      "sentence": "Tôi cần ___ để hoàn thành công việc.",
+      "translation": {
+        "en": "I need a factor to complete the work."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "factor"
+      },
+      "answer": "nhân"
+    },
+    "id": "e27dff24-b1d1-4f40-8faa-ff8084a3c7cd"
+  },
+  "definition": "kernel",
+  "_id": "JliQv3hmPoixiQfqOmem"
+}

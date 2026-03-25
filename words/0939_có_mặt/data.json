@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:55:46.315Z",
+  "exampleSentencesTranslated": [
+    "You need to be present at the meeting at eight o'clock tomorrow morning.",
+    "She is happy because all her friends are present at the birthday party.",
+    "I will try to be present on time in class tomorrow."
+  ],
+  "exampleSentences": [
+    "Anh cần có mặt ở cuộc họp lúc tám giờ sáng mai.",
+    "Chị vui vì tất cả bạn bè đều có mặt trong bữa tiệc sinh nhật.",
+    "Em sẽ cố gắng có mặt đúng giờ ở lớp học ngày mai."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "to be present",
+      "es": "estar presente",
+      "vi": "có mặt"
+    },
+    "example": {
+      "en": "I was present at the meeting yesterday.",
+      "es": "Estuve presente en la reunión de ayer.",
+      "vi": "Tôi có mặt tại buổi họp hôm qua."
+    },
+    "createdAt": "2025-01-28T13:42:56.794Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To be present or to attend.",
+      "es": "Estar presente o asistir.",
+      "vi": "Có mặt hoặc tham dự."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "vắng mặt",
+    "có mặt",
+    "đi học"
+  ],
+  "notes": "có mặt = to be present, to show up somewhere. It’s used when someone is physically at a place or event.\n\nYou usually use it with ở + place/event to say where someone is present.  \n\nIt focuses on attendance, not just existence. A close synonym is hiện diện (more formal). The opposite idea is vắng mặt (absent).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:10:50.984Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ tham dự buổi họp.",
+      "choices": [],
+      "word": "có mặt",
+      "answer": "có mặt",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "present"
+      },
+      "translation": {
+        "en": "I am present at the meeting."
+      }
+    },
+    "id": "5e9b18bc-488f-4543-9c44-ff4ec09dbfad",
+    "createdAt": "2025-03-12T16:10:50.984Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "có mặt",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:10:50.984Z",
+    "content": {
+      "word": "có mặt",
+      "answer": "có mặt",
+      "language": "vi",
+      "choices": [
+        "vắng mặt",
+        "có mặt",
+        "đi vắng"
+      ],
+      "translatedAnswer": {
+        "en": "present"
+      },
+      "translation": {
+        "en": "I am present at the meeting."
+      },
+      "hint": "c___ m___",
+      "sentence": "Tôi ___ tham dự buổi họp."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "e7f348a7-f2cc-431b-b704-96a1618604a6",
+    "createdAt": "2025-03-12T16:10:50.984Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "present",
+  "rank": 939,
+  "notes_md": "**có mặt** = to be present, to show up somewhere. It’s used when someone is physically at a place or event.\n\nYou usually use it with **ở + place/event** to say where someone is present.  \n\nIt focuses on attendance, not just existence. A close synonym is **hiện diện** (more formal). The opposite idea is **vắng mặt** (absent).",
+  "_id": "pIMNEevHp1OP6u9utE3e"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "khoa",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:14:50.024Z",
+    "content": {
+      "sentence": "Tôi học ở ___ này.",
+      "translation": {
+        "en": "I study in this department."
+      },
+      "translatedAnswer": {
+        "en": "department"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "khoa",
+      "word": "khoa"
+    },
+    "type": "fillBlankQuiz",
+    "id": "1d8002c2-6dae-4a6e-a393-aa5c8e30b429",
+    "createdAt": "2025-03-12T16:14:50.024Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**khoa** = department (a division in a university or hospital). It’s a countable noun: *một khoa, các khoa*.  \n\nYou use it for academic units (khoa luật, khoa công nghệ thông tin) and also hospital wards (khoa cấp cứu, khoa nhi).  \n\n\nClose words: **phòng** (office/room, usually smaller unit) and **ban** (section/committee). Don’t mix them up—*khoa* is usually bigger and more formal.",
+  "rank": 2642,
+  "definition": "department",
+  "multiChoiceQuiz": {
+    "id": "cca02ff9-c11a-4c88-870a-bb6c38551660",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:14:50.024Z",
+    "updatedAt": "2025-03-12T16:14:50.024Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi học ở ___ này.",
+      "hint": "k___",
+      "translation": {
+        "en": "I study in this department."
+      },
+      "translatedAnswer": {
+        "en": "department"
+      },
+      "language": "vi",
+      "choices": [
+        "khoa",
+        "trường",
+        "lớp"
+      ],
+      "answer": "khoa",
+      "word": "khoa"
+    }
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T13:46:38.954Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một bộ phận hoặc khoa trong một cơ sở giáo dục.",
+      "en": "A department or faculty in an educational institution.",
+      "es": "Un departamento o facultad en una institución educativa."
+    },
+    "translations": {
+      "en": "department",
+      "es": "departamento",
+      "vi": "khoa"
+    },
+    "example": {
+      "es": "Estoy estudiando en la facultad de medicina.",
+      "en": "I am studying in the medical department.",
+      "vi": "Tôi đang học ở khoa Y."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "khoa",
+    "phòng",
+    "bệnh"
+  ],
+  "exampleSentences": [
+    "Anh đang làm việc tại khoa tiếng Anh của trường đại học.",
+    "Chị muốn đăng ký học thêm một lớp ở khoa kinh tế.",
+    "Em nghe nói khoa y năm nay có nhiều sinh viên mới."
+  ],
+  "exampleSentencesTranslated": [
+    "I am working at the English department of the university.",
+    "I want to register for another class in the economics department.",
+    "I heard the medical department has many new students this year."
+  ],
+  "updatedAt": "2026-03-03T11:31:29.742Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "khoa = department (a division in a university or hospital). It’s a countable noun: một khoa, các khoa.  \n\nYou use it for academic units (khoa luật, khoa công nghệ thông tin) and also hospital wards (khoa cấp cứu, khoa nhi).  \n\nClose words: phòng (office/room, usually smaller unit) and ban (section/committee). Don’t mix them up—khoa is usually bigger and more formal.",
+  "_id": "qG1TzXWv0eF85RqeWB7o"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi muốn ___ chiếc áo này.",
+      "translatedAnswer": {
+        "en": "take"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I want to take this shirt."
+      },
+      "answer": "lấy",
+      "choices": [],
+      "word": "lấy"
+    },
+    "updatedAt": "2025-03-12T14:47:40.493Z",
+    "id": "ae706814-a706-4417-a035-59dc6d2c7ce6",
+    "createdAt": "2025-03-12T14:47:40.493Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "take",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lấy",
+      "en": "take",
+      "es": "tomar"
+    },
+    "definitions": {
+      "en": "to take, to get, to obtain",
+      "vi": "lấy, nhận",
+      "es": "tomar, obtener"
+    },
+    "createdAt": "2025-01-28T12:21:46.192Z",
+    "example": {
+      "es": "Yo tomo el libro de la mesa.",
+      "en": "I take the book from the table.",
+      "vi": "Tôi lấy sách từ bàn."
+    }
+  },
+  "notes_md": "**lấy** = *to take* or *to get* something. It’s used when you physically take, pick up, or obtain something.\n\nYou use **lấy + object** for grabbing, receiving, buying, or choosing something. It can also mean “take” in a more abstract way, like taking time or money.  \n\nVery common extra meanings: **lấy vợ / lấy chồng** = to get married (a man “takes a wife,” a woman “takes a husband”), and **lấy làm + adjective** = to feel something (formal, like “lấy làm tiếc”).  \n\nClose synonym: **cầm** (hold in your hand) — but *lấy* focuses on the action of getting, not just holding.",
+  "exampleSentences": [
+    "Anh có thể lấy cho em một ly nước được không?",
+    "Chị hãy lấy áo khoác trước khi ra ngoài nhé.",
+    "Em quên lấy sách từ bàn làm việc rồi."
+  ],
+  "choices": [
+    "lấy",
+    "để",
+    "cho"
+  ],
+  "notes": "lấy = to take or to get something. It’s used when you physically take, pick up, or obtain something.\n\nYou use lấy + object for grabbing, receiving, buying, or choosing something. It can also mean “take” in a more abstract way, like taking time or money.  \n\nVery common extra meanings: lấy vợ / lấy chồng = to get married (a man “takes a wife,” a woman “takes a husband”), and lấy làm + adjective = to feel something (formal, like “lấy làm tiếc”).  \n\nClose synonym: cầm (hold in your hand) — but lấy focuses on the action of getting, not just holding.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:47:40.493Z",
+    "id": "76974c0a-6e39-457e-a3bd-306aa5aa4078",
+    "content": {
+      "sentence": "Bạn có ___ quyển sách không?",
+      "translatedAnswer": {
+        "en": "take"
+      },
+      "language": "vi",
+      "word": "lấy",
+      "choices": [
+        "mang",
+        "lấy",
+        "đem"
+      ],
+      "hint": "l___",
+      "answer": "lấy",
+      "translation": {
+        "en": "Do you have to take the book?"
+      }
+    },
+    "updatedAt": "2025-03-12T14:47:40.493Z"
+  },
+  "word": "lấy",
+  "exampleSentencesTranslated": [
+    "Can you take me a glass of water?",
+    "Please take your coat before going outside.",
+    "I forgot to take the book from the desk."
+  ],
+  "rank": 264,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:47:39.690Z",
+  "_id": "TfNIXgbRFHpcDEshbpih"
+}

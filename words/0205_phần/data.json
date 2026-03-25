@@ -1,0 +1,99 @@
+{
+  "word": "phần",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**phần** = part, portion, or share of something. It’s used for physical pieces, sections of work, or someone’s share.\n\nIt’s a noun. You’ll often see it with numbers (*một phần, hai phần*) or in **phần + của + noun** to show ownership.  \n\nIt can mean a section of something abstract too (part of a plan, story, job).  \nVery common fixed phrases: **phần lớn** = most; **phần ăn** = a food portion.\n\nDifferent but important meaning: **phần mềm** = software (literally “soft part”), totally separate meaning but same word form.",
+  "rank": 205,
+  "choices": [
+    "phần",
+    "phòng",
+    "phấn"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "8f7dbff6-e8c0-4c13-8959-a59e847eb7ba",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:22:29.752Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "part"
+      },
+      "translation": {
+        "en": "I will do part of this assignment."
+      },
+      "hint": "p___n",
+      "answer": "phần",
+      "choices": [
+        "mục",
+        "phần",
+        "khía cạnh"
+      ],
+      "language": "vi",
+      "sentence": "Tôi sẽ làm ___ của bài tập này.",
+      "word": "phần"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:22:29.752Z"
+  },
+  "updatedAt": "2026-03-03T06:41:08.127Z",
+  "exampleSentences": [
+    "Anh muốn chia phần bánh này cho mọi người trong nhóm.",
+    "Chị đã hoàn thành phần công việc của mình trước thời hạn.",
+    "Em thích nhất phần cuối của bộ phim này vì rất cảm động."
+  ],
+  "notes": "phần = part, portion, or share of something. It’s used for physical pieces, sections of work, or someone’s share.\n\nIt’s a noun. You’ll often see it with numbers (một phần, hai phần) or in phần + của + noun to show ownership.  \n\nIt can mean a section of something abstract too (part of a plan, story, job).  \nVery common fixed phrases: phần lớn = most; phần ăn = a food portion.\n\nDifferent but important meaning: phần mềm = software (literally “soft part”), totally separate meaning but same word form.",
+  "flashcard": {
+    "translations": {
+      "vi": "phần",
+      "es": "parte",
+      "en": "part"
+    },
+    "createdAt": "2025-01-28T11:03:04.728Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A part or portion of something.",
+      "vi": "Một phần hoặc một phần của cái gì đó.",
+      "es": "Una parte o porción de algo."
+    },
+    "example": {
+      "vi": "Tôi muốn một phần bánh.",
+      "es": "Quiero un trozo de pastel.",
+      "en": "I want a piece of cake."
+    }
+  },
+  "definition": "part",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:22:29.752Z",
+    "type": "fillBlankQuiz",
+    "id": "5a93501c-0dcc-4d7d-82dc-35e7181c1d38",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:22:29.752Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi sẽ làm ___ của bài tập này.",
+      "language": "vi",
+      "word": "phần",
+      "translatedAnswer": {
+        "en": "part"
+      },
+      "translation": {
+        "en": "I will do part of this assignment."
+      },
+      "answer": "phần"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I want to share this part with everyone in the group.",
+    "She finished her part of the work before the deadline.",
+    "I like the last part of this movie the most because it is very touching."
+  ],
+  "_id": "99Yt5mTItUee4NTYAzTh"
+}

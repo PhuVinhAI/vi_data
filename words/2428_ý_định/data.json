@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ý định",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a3967558-a569-4e85-9234-9f16f55ac2e9",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:30:02.813Z",
+    "content": {
+      "hint": "ý ___",
+      "answer": "ý định",
+      "translatedAnswer": {
+        "en": "intention"
+      },
+      "translation": {
+        "en": "I have an intention for this plan."
+      },
+      "sentence": "Tôi có ___ cho kế hoạch này.",
+      "language": "vi",
+      "word": "ý định",
+      "choices": [
+        "kế hoạch",
+        "ý định",
+        "mục tiêu"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:30:02.813Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ý định** means *intention* — what someone plans or aims to do in their mind.\n\nIt’s a noun. You usually say **có ý định + verb** (to intend to do something) or talk about **ý định của ai** (someone’s intention). It often refers to plans that are not final yet — more like a mental plan than a fixed schedule.\n\nClose words: **dự định** (planned intention, a bit more concrete) and **kế hoạch** (plan, more detailed and organized).",
+  "rank": 2428,
+  "choices": [
+    "ý định",
+    "kế hoạch",
+    "sở thích"
+  ],
+  "notes": "Ý định means intention — what someone plans or aims to do in their mind.\n\nIt’s a noun. You usually say có ý định + verb (to intend to do something) or talk about ý định của ai (someone’s intention). It often refers to plans that are not final yet — more like a mental plan than a fixed schedule.\n\nClose words: dự định (planned intention, a bit more concrete) and kế hoạch (plan, more detailed and organized).",
+  "updatedAt": "2026-03-03T10:34:22.146Z",
+  "exampleSentences": [
+    "Anh có ý định mua một chiếc xe mới vào cuối năm nay.",
+    "Em không biết ý định thực sự của chị là gì trong chuyện này.",
+    "Chúng ta nên làm rõ ý định của mình trước khi bắt đầu dự án."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:30:02.813Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "ý định",
+      "language": "vi",
+      "sentence": "Tôi có ___ tốt cho tương lai.",
+      "translation": {
+        "en": "I have an intention for the future."
+      },
+      "translatedAnswer": {
+        "en": "intention"
+      },
+      "answer": "ý định"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:02.813Z",
+    "id": "548e7055-8e2e-4b34-a327-fd696740f49d"
+  },
+  "exampleSentencesTranslated": [
+    "He has an intention to buy a new car at the end of this year.",
+    "I don't know what her real intention is in this matter.",
+    "We should make our intention clear before starting the project."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một kế hoạch hoặc ý định để làm điều gì đó.",
+      "es": "Un plan o intención de hacer algo.",
+      "en": "A plan or intention to do something."
+    },
+    "example": {
+      "es": "Tengo la intención de aprender inglés.",
+      "vi": "Tôi có ý định học tiếng Anh.",
+      "en": "I have the intention to learn English."
+    },
+    "translations": {
+      "en": "intention",
+      "vi": "ý định",
+      "es": "intención"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:09:58.104Z"
+  },
+  "definition": "intention",
+  "_id": "Auu30DfMdWHGCkzSwXTv"
+}

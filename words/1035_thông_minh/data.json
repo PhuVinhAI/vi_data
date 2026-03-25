@@ -1,0 +1,99 @@
+{
+  "word": "thông minh",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1035,
+  "choices": [
+    "thông minh",
+    "chăm chỉ",
+    "vui vẻ"
+  ],
+  "notes_md": "**Thông minh** means *intelligent, smart* — someone who understands things quickly and thinks well.\n\nIt’s an adjective, used to describe people, children, students, animals, or even decisions/solutions. It usually comes after the noun it describes in Vietnamese word order (người thông minh).  \n\n\nClose synonyms: **khôn**, **sáng dạ** (often for kids).  \nOpposite: **ngu** (careful — this one is quite rude).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "0e840112-6a9f-4701-9a44-23e523a7d485",
+    "content": {
+      "choices": [
+        "khéo léo",
+        "thông minh",
+        "dễ thương"
+      ],
+      "sentence": "Cô ấy rất ___ trong việc học.",
+      "language": "vi",
+      "word": "thông minh",
+      "translatedAnswer": {
+        "en": "smart"
+      },
+      "translation": {
+        "en": "She is very smart in studying."
+      },
+      "hint": "t___g",
+      "answer": "thông minh"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:21:16.716Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:21:16.716Z"
+  },
+  "exampleSentences": [
+    "Em gái anh rất thông minh và luôn đạt điểm cao ở trường.",
+    "Bạn bè thường nói rằng chị ấy là người thông minh nhất nhóm.",
+    "Muốn thành công trong công việc, chúng ta cần phải thông minh và chăm chỉ."
+  ],
+  "updatedAt": "2026-03-03T08:06:12.435Z",
+  "notes": "Thông minh means intelligent, smart — someone who understands things quickly and thinks well.\n\nIt’s an adjective, used to describe people, children, students, animals, or even decisions/solutions. It usually comes after the noun it describes in Vietnamese word order (người thông minh).  \n\nClose synonyms: khôn, sáng dạ (often for kids).  \nOpposite: ngu (careful — this one is quite rude).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:01:44.171Z",
+    "translations": {
+      "vi": "thông minh",
+      "es": "inteligente",
+      "en": "smart"
+    },
+    "example": {
+      "en": "She is very smart.",
+      "es": "Ella es muy inteligente.",
+      "vi": "Cô ấy rất thông minh."
+    },
+    "definitions": {
+      "es": "Tener o mostrar una inteligencia rápida.",
+      "vi": "Có hoặc thể hiện trí thông minh nhanh nhạy.",
+      "en": "Having or showing a quick-witted intelligence."
+    }
+  },
+  "definition": "intelligent",
+  "fillBlankQuiz": {
+    "id": "a9191ee0-c674-4fdf-9221-f52c6c766d96",
+    "content": {
+      "word": "thông minh",
+      "language": "vi",
+      "sentence": "Cô ấy rất ___ trong việc học.",
+      "choices": [],
+      "answer": "thông minh",
+      "translation": {
+        "en": "She is very smart in studying."
+      },
+      "translatedAnswer": {
+        "en": "smart"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:21:16.716Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:21:16.716Z"
+  },
+  "exampleSentencesTranslated": [
+    "My younger sister is very intelligent and always gets high grades at school.",
+    "Friends often say that she is the most intelligent person in the group.",
+    "To be successful at work, we need to be intelligent and hardworking."
+  ],
+  "_id": "8cghTfF9JZDlfCCLiy3K"
+}

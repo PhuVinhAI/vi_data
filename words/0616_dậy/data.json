@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "68d2f96c-dba4-4d7c-bdbb-3cac27124367",
+    "content": {
+      "translatedAnswer": {
+        "en": "wake up"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I want to wake up earlier."
+      },
+      "sentence": "Tôi muốn ___ sớm hơn.",
+      "word": "dậy",
+      "language": "vi",
+      "answer": "dậy"
+    },
+    "updatedAt": "2025-03-12T15:06:32.926Z",
+    "createdAt": "2025-03-12T15:06:32.926Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T07:23:41.658Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Every morning, I usually wake up at six o'clock to get ready for school.",
+    "If you wake up late, you will be late for work.",
+    "She likes to wake up early to exercise outdoors."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "wake up",
+      "es": "despertar",
+      "vi": "dậy"
+    },
+    "example": {
+      "en": "I wake up early every day.",
+      "es": "Me despierto temprano todos los días.",
+      "vi": "Tôi dậy sớm mỗi ngày."
+    },
+    "createdAt": "2025-01-28T12:39:14.322Z",
+    "definitions": {
+      "en": "To rise or get up from a lying or sitting position.",
+      "es": "Levantarse o salir de una posición acostada o sentada.",
+      "vi": "Đứng dậy hoặc ra khỏi vị trí nằm hoặc ngồi."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**dậy** = to wake up, to get up from bed. It’s what you do when you stop sleeping and start your day.\n\nUse it for physically getting out of bed, not just opening your eyes. Often goes with time words or a reason.\n\n\nOpposite: **ngủ** (sleep).  \nBe careful not to confuse it with **dạy** (to teach) — same spelling except the tone mark.",
+  "definition": "wake up",
+  "choices": [
+    "dậy",
+    "ngủ",
+    "ăn"
+  ],
+  "rank": 616,
+  "multiChoiceQuiz": {
+    "id": "780c8e8c-2bd0-4f89-8ad8-95e19a44f7a0",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:06:32.926Z",
+    "updatedAt": "2025-03-12T15:06:32.926Z",
+    "content": {
+      "sentence": "Tôi sẽ ___ lúc 7 giờ.",
+      "word": "dậy",
+      "language": "vi",
+      "answer": "dậy",
+      "hint": "d__y",
+      "translatedAnswer": {
+        "en": "wake up"
+      },
+      "choices": [
+        "đi ngủ",
+        "dậy",
+        "ngủ thêm"
+      ],
+      "translation": {
+        "en": "I will wake up at 7 o'clock."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "dậy = to wake up, to get up from bed. It’s what you do when you stop sleeping and start your day.\n\nUse it for physically getting out of bed, not just opening your eyes. Often goes with time words or a reason.\n\nOpposite: ngủ (sleep).  \nBe careful not to confuse it with dạy (to teach) — same spelling except the tone mark.",
+  "exampleSentences": [
+    "Mỗi sáng, em thường dậy lúc sáu giờ để chuẩn bị đi học.",
+    "Nếu anh dậy muộn, anh sẽ bị trễ làm.",
+    "Chị thích dậy sớm để tập thể dục ngoài trời."
+  ],
+  "word": "dậy",
+  "_id": "Yp0APFAEsvmwop989GE9"
+}

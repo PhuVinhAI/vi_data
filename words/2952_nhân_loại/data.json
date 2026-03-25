@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhân loại = humankind, the whole human race as one group. It’s a big, abstract noun — not individual people, but all humans together.\n\nYou don’t count it. No classifiers. It’s treated as a single collective idea.\n\nCommon pairings: lịch sử nhân loại (history of humankind), tương lai nhân loại (future of humankind), vì nhân loại (for humankind), sự phát triển của nhân loại.\n\nClose word: loài người — very similar meaning, slightly more neutral/scientific feel. Think big picture: humanity as a whole, not specific people.",
+  "exampleSentences": [
+    "Anh tin rằng nhân loại sẽ vượt qua những thử thách lớn trong tương lai.",
+    "Chị nghĩ rằng khoa học đóng vai trò quan trọng đối với sự phát triển của nhân loại.",
+    "Em luôn mong muốn nhân loại sống hòa bình và không có chiến tranh."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhân loại",
+    "thiên nhiên",
+    "thế giới"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Nhân loại cần bảo vệ môi trường.",
+      "en": "Humanity needs to protect the environment.",
+      "es": "La humanidad necesita proteger el medio ambiente."
+    },
+    "translations": {
+      "vi": "nhân loại",
+      "en": "humanity",
+      "es": "humanidad"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:56:56.406Z",
+    "definitions": {
+      "es": "La raza humana; todos los seres humanos en conjunto.",
+      "en": "The human race; all human beings collectively.",
+      "vi": "Loài người; tất cả các sinh vật con người tập hợp lại."
+    }
+  },
+  "updatedAt": "2026-03-03T18:15:54.715Z",
+  "exampleSentencesTranslated": [
+    "He believes that humankind will overcome great challenges in the future.",
+    "She thinks that science plays an important role for the development of humankind.",
+    "I always wish that humankind lives in peace and without war."
+  ],
+  "notes_md": "**nhân loại** = humankind, the whole human race as one group. It’s a big, abstract noun — not individual people, but all humans together.\n\nYou don’t count it. No classifiers. It’s treated as a single collective idea.\n\nCommon pairings: *lịch sử nhân loại* (history of humankind), *tương lai nhân loại* (future of humankind), *vì nhân loại* (for humankind), *sự phát triển của nhân loại*.\n\nClose word: **loài người** — very similar meaning, slightly more neutral/scientific feel. Think big picture: humanity as a whole, not specific people.",
+  "rank": 2952,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "nh__ l__i",
+      "translation": {
+        "en": "We need to protect humanity."
+      },
+      "translatedAnswer": {
+        "en": "humanity"
+      },
+      "word": "nhân loại",
+      "choices": [
+        "bảo vệ",
+        "nhân loại",
+        "tương lai"
+      ],
+      "language": "vi",
+      "answer": "nhân loại",
+      "sentence": "Chúng ta cần bảo vệ ___."
+    },
+    "updatedAt": "2025-03-12T16:26:04.140Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:26:04.140Z",
+    "id": "fd873c8d-86ba-409a-a1f8-2cb886a88258"
+  },
+  "definition": "humankind",
+  "fillBlankQuiz": {
+    "id": "9f4cae06-b942-450e-a830-0f35f915b5a1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:26:04.140Z",
+    "updatedAt": "2025-03-12T16:26:04.140Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Mọi người đều thuộc về ___.",
+      "translation": {
+        "en": "Everyone belongs to humanity."
+      },
+      "translatedAnswer": {
+        "en": "humanity"
+      },
+      "answer": "nhân loại",
+      "language": "vi",
+      "word": "nhân loại",
+      "choices": []
+    }
+  },
+  "word": "nhân loại",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "swgx40vvSDVDbfxCzA4B"
+}

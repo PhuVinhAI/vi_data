@@ -1,0 +1,99 @@
+{
+  "definition": "to charge (an electronic device)",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:17:59.218Z",
+    "updatedAt": "2025-03-12T17:17:59.218Z",
+    "content": {
+      "translation": {
+        "en": "I need to charge the phone."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "sạc",
+      "sentence": "Tôi cần ___ điện thoại.",
+      "translatedAnswer": {
+        "en": "charge"
+      },
+      "answer": "sạc"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "0de61bc8-a43a-4088-8bfe-5c0597b73f85"
+  },
+  "notes": "sạc = to charge an electronic device (phone, laptop, etc.). It’s what you do to fill the battery with power.\n\nYou usually say sạc điện thoại, sạc laptop, sạc pin. If the battery is low, you cắm sạc (plug in the charger).  \nYou can add đầy to mean fully charged: sạc đầy.  \nOpposite idea: hết pin (out of battery).  \nMore formal synonym: nạp (pin), but sạc is much more natural in daily use.\n\nStructure: sạc + thiết bị / sạc pin cho + ai/cái gì (sạc điện thoại)",
+  "exampleSentencesTranslated": [
+    "I forgot to bring the cable to charge my phone when going to work today.",
+    "Can you lend me your laptop cable to charge for a while?",
+    "Before going to bed, I always remember to charge my phone battery."
+  ],
+  "choices": [
+    "sạc",
+    "xạc",
+    "sách"
+  ],
+  "updatedAt": "2026-03-03T18:09:23.911Z",
+  "notes_md": "**sạc** = to charge an electronic device (phone, laptop, etc.). It’s what you do to fill the battery with power.\n\nYou usually say **sạc điện thoại, sạc laptop, sạc pin**. If the battery is low, you **cắm sạc** (plug in the charger).  \nYou can add **đầy** to mean fully charged: **sạc đầy**.  \nOpposite idea: **hết pin** (out of battery).  \nMore formal synonym: **nạp (pin)**, but *sạc* is much more natural in daily use.\n\n`Structure: sạc + thiết bị / sạc pin cho + ai/cái gì` (sạc điện thoại)",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:17:59.218Z",
+    "createdAt": "2025-03-12T17:17:59.218Z",
+    "id": "5aa6440f-732b-471c-a0e7-859f97084fe8",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I need to charge the phone."
+      },
+      "language": "vi",
+      "choices": [
+        "sạc",
+        "ngủ",
+        "gọi"
+      ],
+      "hint": "s___c",
+      "word": "sạc",
+      "sentence": "Tôi cần ___ điện thoại.",
+      "translatedAnswer": {
+        "en": "charge"
+      },
+      "answer": "sạc"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "sạc",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need to charge my phone.",
+      "vi": "Tôi cần sạc điện thoại của mình.",
+      "es": "Necesito cargar mi teléfono."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To supply power to a battery or device.",
+      "vi": "Cung cấp năng lượng cho một pin hoặc thiết bị.",
+      "es": "Suministrar energía a una batería o dispositivo."
+    },
+    "translations": {
+      "en": "charge",
+      "vi": "sạc",
+      "es": "cargar"
+    },
+    "createdAt": "2025-01-28T11:43:19.391Z"
+  },
+  "exampleSentences": [
+    "Em quên mang theo dây sạc điện thoại khi đi làm hôm nay.",
+    "Anh có thể cho chị mượn sạc laptop một lát được không?",
+    "Trước khi đi ngủ, em luôn nhớ sạc pin cho điện thoại."
+  ],
+  "rank": 2890,
+  "_id": "JuJXmj4DRKx2WIhxb1Pd"
+}

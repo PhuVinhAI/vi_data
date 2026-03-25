@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "xóa",
+    "mở",
+    "lưu"
+  ],
+  "rank": 1890,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:06:36.791Z",
+    "content": {
+      "choices": [
+        "xóa",
+        "thêm",
+        "sửa"
+      ],
+      "translatedAnswer": {
+        "en": "delete"
+      },
+      "translation": {
+        "en": "I want to delete the old photo."
+      },
+      "sentence": "Tôi muốn ___ bức ảnh cũ.",
+      "word": "xóa",
+      "language": "vi",
+      "hint": "x__a",
+      "answer": "xóa"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:06:36.791Z",
+    "id": "e34126bf-0b48-4647-880a-4b84b24b86f7"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "xóa",
+  "exampleSentences": [
+    "Em có nên xóa bức ảnh này trên điện thoại không?",
+    "Anh lỡ gửi nhầm tin, em giúp anh xóa đi nhé.",
+    "Chị muốn xóa hết lịch sử cuộc gọi trước khi đưa máy cho em."
+  ],
+  "notes": "xóa = to delete or erase. You use it for removing text, files, photos, messages, or information.\n\nIt goes before the thing you remove: xóa + noun (xóa tin nhắn, xóa tên, xóa ứng dụng).  \nYou’ll also hear xóa đi (delete it / remove it) to make it sound more complete or decisive.  \nFor digital stuff, it’s the normal word; for pencil marks, tẩy is more specific (erase with an eraser).  \nIt can also mean “wipe out / eliminate” in abstract cases (xóa ký ức, xóa nợ), which feels stronger.",
+  "exampleSentencesTranslated": [
+    "Should I delete this photo on my phone?",
+    "I accidentally sent the wrong message—could you help me delete it?",
+    "She wants to delete all call history before giving the phone to me."
+  ],
+  "updatedAt": "2026-03-03T09:38:01.267Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:06:36.791Z",
+    "updatedAt": "2025-03-12T15:06:36.791Z",
+    "content": {
+      "answer": "xóa",
+      "language": "vi",
+      "word": "xóa",
+      "sentence": "Tôi cần ___ tài liệu này.",
+      "translation": {
+        "en": "I need to delete this document."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "delete"
+      }
+    },
+    "id": "f5551f32-74a4-4616-85a7-4e99a52be62e"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To remove or erase something.",
+      "es": "Eliminar o borrar algo.",
+      "vi": "Loại bỏ hoặc xóa bỏ một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:39:17.966Z",
+    "example": {
+      "en": "I need to delete this photo.",
+      "es": "Necesito borrar esta foto.",
+      "vi": "Tôi cần xóa bức ảnh này."
+    },
+    "translations": {
+      "en": "delete",
+      "es": "borrar",
+      "vi": "xóa"
+    }
+  },
+  "notes_md": "**xóa** = to delete or erase. You use it for removing text, files, photos, messages, or information.\n\nIt goes before the thing you remove: **xóa + noun** (xóa tin nhắn, xóa tên, xóa ứng dụng).  \nYou’ll also hear **xóa đi** (delete it / remove it) to make it sound more complete or decisive.  \nFor digital stuff, it’s the normal word; for pencil marks, **tẩy** is more specific (erase with an eraser).  \nIt can also mean “wipe out / eliminate” in abstract cases (xóa ký ức, xóa nợ), which feels stronger.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "delete",
+  "_id": "YpRcHdj6o76NxkIYCJK8"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "động lực",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:33:41.894Z",
+    "type": "multiChoiceQuiz",
+    "id": "7d519280-8f67-4257-ba3d-717d94d62f7a",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:41.894Z",
+    "content": {
+      "choices": [
+        "cảm hứng",
+        "động lực",
+        "năng lượng"
+      ],
+      "word": "động lực",
+      "language": "vi",
+      "sentence": "Tôi cần ___ để tiếp tục.",
+      "translation": {
+        "en": "I need motivation to continue."
+      },
+      "translatedAnswer": {
+        "en": "motivation"
+      },
+      "hint": "đ___ lực",
+      "answer": "động lực"
+    }
+  },
+  "rank": 825,
+  "choices": [
+    "động lực",
+    "cảm xúc",
+    "nỗ lực"
+  ],
+  "notes_md": "**Động lực** = motivation, the inner push that makes you do something or keep going. It’s the energy or reason behind your effort.\n\nIt’s an uncountable noun in most cases (no *một động lực* in casual use, unless you mean “one driving force” in a specific sense).  \nCommon pairings: **có động lực**, **mất động lực**, **tạo động lực**, **thiếu động lực**.\n\n\nClose idea: **động cơ** (motive, reason behind an action — more about purpose than energy). Opposite vibe: **thiếu động lực** (no drive).",
+  "notes": "Động lực = motivation, the inner push that makes you do something or keep going. It’s the energy or reason behind your effort.\n\nIt’s an uncountable noun in most cases (no một động lực in casual use, unless you mean “one driving force” in a specific sense).  \nCommon pairings: có động lực, mất động lực, tạo động lực, thiếu động lực.\n\nClose idea: động cơ (motive, reason behind an action — more about purpose than energy). Opposite vibe: thiếu động lực (no drive).",
+  "exampleSentences": [
+    "Anh luôn tìm động lực mỗi khi cảm thấy mệt mỏi với công việc.",
+    "Bạn bè tốt thường là động lực giúp em phấn đấu học tập mỗi ngày.",
+    "Những lời khen từ gia đình là động lực lớn để chị cố gắng hơn."
+  ],
+  "updatedAt": "2026-03-03T07:44:06.465Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:41.894Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "động lực",
+      "translation": {
+        "en": "I need motivation to continue."
+      },
+      "translatedAnswer": {
+        "en": "motivation"
+      },
+      "word": "động lực",
+      "sentence": "Tôi cần ___ để tiếp tục.",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:41.894Z",
+    "id": "1505b7de-b2dd-43c6-931f-1d861ae1de75"
+  },
+  "exampleSentencesTranslated": [
+    "He always looks for motivation whenever he feels tired with work.",
+    "Good friends are often motivation that helps me study harder every day.",
+    "Compliments from family are big motivation for me to try harder."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A reason or incentive that drives someone to take action.",
+      "es": "Una razón o incentivo que impulsa a alguien a actuar.",
+      "vi": "Một lý do hoặc động lực thúc đẩy ai đó hành động."
+    },
+    "example": {
+      "en": "Her success is my motivation.",
+      "es": "Su éxito es mi motivación.",
+      "vi": "Sự thành công của cô ấy là động lực cho tôi."
+    },
+    "translations": {
+      "en": "motivation",
+      "es": "motivación",
+      "vi": "động lực"
+    },
+    "createdAt": "2025-01-28T11:13:19.855Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "motivation",
+  "_id": "BmvNxXpcKdFU3NULw8W4"
+}

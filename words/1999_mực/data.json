@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:15:49.004Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:15:49.004Z",
+    "content": {
+      "choices": [
+        "tôm",
+        "mực",
+        "cá"
+      ],
+      "word": "mực",
+      "sentence": "Món ăn này có ___ rất ngon.",
+      "language": "vi",
+      "translation": {
+        "en": "This dish has very delicious squid."
+      },
+      "translatedAnswer": {
+        "en": "squid"
+      },
+      "answer": "mực",
+      "hint": "m___"
+    },
+    "id": "6068838d-a10a-460f-a755-7712927465cd"
+  },
+  "notes_md": "**mực** = ink (the liquid used for writing or printing). It’s an uncountable noun, so you usually say *mực* without numbers; use **lọ/chai mực** for a bottle of ink.\n\nCommon pairings: **mực in** (printer ink), **mực viết** (writing ink), **hết mực** (run out of ink), **đổ mực** (spill ink).  \nVery common second meaning: **mực** = squid (the seafood), totally different meaning but same spelling — context tells you which one.  \nMemory tip: think “ink is dark like squid ink” to link both meanings.",
+  "choices": [
+    "bút",
+    "giấy",
+    "mực"
+  ],
+  "rank": 1999,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mực",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:15:49.004Z",
+    "type": "fillBlankQuiz",
+    "id": "93843531-e426-495a-8f18-87912cfb65ee",
+    "content": {
+      "sentence": "Tôi thích ăn ___ nướng.",
+      "language": "vi",
+      "word": "mực",
+      "choices": [],
+      "answer": "mực",
+      "translatedAnswer": {
+        "en": "squid"
+      },
+      "translation": {
+        "en": "I like to eat grilled squid."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:15:49.004Z"
+  },
+  "exampleSentencesTranslated": [
+    "I bought more ink to replace in the office printer.",
+    "You accidentally spilled ink on my study desk last night.",
+    "I need ink to write a handwritten letter to my close friend."
+  ],
+  "definition": "ink",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích ăn mực nướng.",
+      "es": "Me gusta comer calamares a la parrilla.",
+      "en": "I like to eat grilled squid."
+    },
+    "definitions": {
+      "en": "A type of seafood, specifically squid.",
+      "es": "Un tipo de marisco, específicamente calamar.",
+      "vi": "Một loại hải sản, cụ thể là mực."
+    },
+    "createdAt": "2025-01-28T12:50:25.957Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "squid",
+      "es": "calamar",
+      "vi": "mực"
+    }
+  },
+  "notes": "mực = ink (the liquid used for writing or printing). It’s an uncountable noun, so you usually say mực without numbers; use lọ/chai mực for a bottle of ink.\n\nCommon pairings: mực in (printer ink), mực viết (writing ink), hết mực (run out of ink), đổ mực (spill ink).  \nVery common second meaning: mực = squid (the seafood), totally different meaning but same spelling — context tells you which one.  \nMemory tip: think “ink is dark like squid ink” to link both meanings.",
+  "updatedAt": "2026-03-03T09:49:39.198Z",
+  "exampleSentences": [
+    "Anh mua thêm mực để thay cho máy in ở văn phòng.",
+    "Chị lỡ làm đổ mực lên bàn học của em tối qua.",
+    "Em cần mực để viết thư tay cho bạn thân."
+  ],
+  "_id": "bESqAAIEt8FsvkPaVwAE"
+}

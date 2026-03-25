@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể gửi cho em tài liệu về buổi họp hôm qua không?",
+    "Chị đã in tất cả tài liệu cho lớp học ngày mai rồi.",
+    "Em cần tìm tài liệu để làm bài thuyết trình nhóm tuần này."
+  ],
+  "choices": [
+    "tài liệu",
+    "thời gian",
+    "bài tập"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:37:17.713Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un documento o material que proporciona información.",
+      "en": "A document or material that provides information.",
+      "vi": "Một tài liệu hoặc vật liệu cung cấp thông tin."
+    },
+    "translations": {
+      "en": "document",
+      "es": "documento",
+      "vi": "tài liệu"
+    },
+    "example": {
+      "es": "Necesito el documento para prepararme para la presentación.",
+      "en": "I need the document to prepare for the presentation.",
+      "vi": "Tôi cần tài liệu để chuẩn bị cho bài thuyết trình."
+    }
+  },
+  "updatedAt": "2026-03-03T10:39:59.042Z",
+  "exampleSentencesTranslated": [
+    "Can you send me the document about yesterday's meeting?",
+    "I have already printed all the document for tomorrow's class.",
+    "I need to find the document to do this week's group presentation."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tài liệu = document, materials (usually written or digital information you use for work or study).\n\nIt’s a noun. You can say một tài liệu (one document) or các/những tài liệu (documents), but often it works like an uncountable idea: “study materials.”  \n\nCommon pairings: tài liệu học tập (study materials), tài liệu tham khảo (reference materials), thu thập / lưu trữ / cung cấp tài liệu.  \n\nCompared to giấy tờ (official papers) or hồ sơ (file/record), tài liệu is broader and often about content, not just formal paperwork.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:05:48.638Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "310ef4ca-26b2-4597-bc01-fb91fb0cc166",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "tài liệu",
+      "language": "vi",
+      "answer": "tài liệu",
+      "translation": {
+        "en": "I need this document to study."
+      },
+      "translatedAnswer": {
+        "en": "document"
+      },
+      "sentence": "Tôi cần ___ này để học."
+    },
+    "updatedAt": "2025-03-12T16:05:48.638Z"
+  },
+  "word": "tài liệu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2480,
+  "notes_md": "**tài liệu** = document, materials (usually written or digital information you use for work or study).\n\nIt’s a noun. You can say *một tài liệu* (one document) or *các/những tài liệu* (documents), but often it works like an uncountable idea: “study materials.”  \n\nCommon pairings: *tài liệu học tập* (study materials), *tài liệu tham khảo* (reference materials), *thu thập / lưu trữ / cung cấp tài liệu*.  \n\nCompared to *giấy tờ* (official papers) or *hồ sơ* (file/record), *tài liệu* is broader and often about content, not just formal paperwork.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:05:48.638Z",
+    "id": "3cca9888-b191-4301-b208-80db67957106",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "tài liệu",
+      "answer": "tài liệu",
+      "language": "vi",
+      "choices": [
+        "tài liệu",
+        "sách",
+        "báo cáo"
+      ],
+      "translation": {
+        "en": "I need the document to complete the assignment."
+      },
+      "translatedAnswer": {
+        "en": "document"
+      },
+      "hint": "t____",
+      "sentence": "Tôi cần ___ để hoàn thành bài tập."
+    },
+    "updatedAt": "2025-03-12T16:05:48.638Z"
+  },
+  "definition": "document",
+  "_id": "nc34gpRsjveOtC64RiH3"
+}

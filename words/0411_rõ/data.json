@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "8deb6d72-aedf-4e55-b9d1-c8b060bff1a7",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "Your answer is very clear."
+      },
+      "word": "rõ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "clear"
+      },
+      "answer": "rõ",
+      "sentence": "Câu trả lời của bạn rất ___.",
+      "choices": [
+        "mờ",
+        "rõ",
+        "tối"
+      ],
+      "hint": "r__"
+    },
+    "updatedAt": "2025-03-12T15:53:33.989Z",
+    "createdAt": "2025-03-12T15:53:33.989Z"
+  },
+  "notes_md": "**rõ** means *clear* — easy to see, hear, or understand.\n\nIt’s an adjective, often describing sound, speech, writing, images, or ideas: *nghe rõ, nói rõ, viết rõ, rõ ràng*. It can also follow verbs to show the result: you hear/see something clearly.\n\n\nVery common pair: **rõ ràng** = clearly / obvious(ly), a bit stronger and more complete than just *rõ*.  \nOpposite to remember: **mờ** (blurry, unclear visually).",
+  "exampleSentencesTranslated": [
+    "Can you say it again for me so it is clear?",
+    "I need a clear instruction to do this assignment.",
+    "If you do not hear clear, you can ask the teacher again."
+  ],
+  "word": "rõ",
+  "flashcard": {
+    "definitions": {
+      "es": "Claro; fácil de entender.",
+      "en": "Clear; easy to understand.",
+      "vi": "Rõ; dễ hiểu."
+    },
+    "createdAt": "2025-01-28T13:25:43.789Z",
+    "example": {
+      "vi": "Tôi cần một câu trả lời rõ ràng.",
+      "es": "Necesito una respuesta clara.",
+      "en": "I need a clear answer."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "rõ",
+      "en": "clear",
+      "es": "claro"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T07:03:25.308Z",
+  "choices": [
+    "rõ",
+    "nói",
+    "gần"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "rõ",
+      "translation": {
+        "en": "Your answer is very clear."
+      },
+      "sentence": "Câu trả lời của bạn rất ___.",
+      "translatedAnswer": {
+        "en": "clear"
+      },
+      "answer": "rõ"
+    },
+    "id": "d88207af-3b8d-4033-811e-a8e3fff31c71",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:53:33.989Z",
+    "updatedAt": "2025-03-12T15:53:33.989Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh nói lại giúp em cho rõ hơn được không?",
+    "Chị cần một bản hướng dẫn rõ để làm bài này.",
+    "Nếu em không nghe rõ, em có thể hỏi lại giáo viên nhé."
+  ],
+  "definition": "clear",
+  "notes": "rõ means clear — easy to see, hear, or understand.\n\nIt’s an adjective, often describing sound, speech, writing, images, or ideas: nghe rõ, nói rõ, viết rõ, rõ ràng. It can also follow verbs to show the result: you hear/see something clearly.\n\nVery common pair: rõ ràng = clearly / obvious(ly), a bit stronger and more complete than just rõ.  \nOpposite to remember: mờ (blurry, unclear visually).",
+  "rank": 411,
+  "_id": "kNjey60FUoiy3WNTxF6a"
+}

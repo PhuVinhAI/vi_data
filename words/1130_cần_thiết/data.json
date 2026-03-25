@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Do you think bringing an umbrella when it rains is necessary?",
+    "She always prepares all the necessary documents before going to work.",
+    "To learn Vietnamese well, I find practicing every day is necessary."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cần thiết hoặc thiết yếu.",
+      "es": "Necesario o esencial.",
+      "en": "Necessary or essential."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "esencial",
+      "vi": "cần thiết",
+      "en": "essential"
+    },
+    "example": {
+      "en": "Learning English is essential for your career.",
+      "es": "Aprender inglés es esencial para tu carrera.",
+      "vi": "Việc học tiếng Anh là cần thiết cho sự nghiệp của bạn."
+    },
+    "createdAt": "2025-01-28T11:32:01.991Z"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "cần thiết",
+        "không cần",
+        "cần thêm"
+      ],
+      "hint": "c___ thiết",
+      "translation": {
+        "en": "This is necessary for your life."
+      },
+      "answer": "cần thiết",
+      "translatedAnswer": {
+        "en": "necessary"
+      },
+      "language": "vi",
+      "sentence": "Điều này là ___ cho cuộc sống của bạn.",
+      "word": "cần thiết"
+    },
+    "createdAt": "2025-03-12T13:54:15.584Z",
+    "updatedAt": "2025-03-12T13:54:15.584Z",
+    "id": "38153ea5-fad6-4de1-a552-11cce24e8a48",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**cần thiết** = necessary, needed, something you really should have or do.\n\nIt’s an adjective, usually describing things, actions, or conditions. Often used after **“là”** to state that something is necessary.\n\n\nStronger than *quan trọng* (important). Opposite idea: *không cần thiết* (not necessary).",
+  "updatedAt": "2026-03-03T08:16:16.888Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:54:15.584Z",
+    "createdAt": "2025-03-12T13:54:15.584Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "This is necessary for your life."
+      },
+      "answer": "cần thiết",
+      "translatedAnswer": {
+        "en": "necessary"
+      },
+      "sentence": "Điều này là ___ cho cuộc sống của bạn.",
+      "word": "cần thiết",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "cb750d4e-0b16-406c-92a8-3b40cb436975"
+  },
+  "notes": "cần thiết = necessary, needed, something you really should have or do.\n\nIt’s an adjective, usually describing things, actions, or conditions. Often used after “là” to state that something is necessary.\n\nStronger than quan trọng (important). Opposite idea: không cần thiết (not necessary).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "necessary",
+  "exampleSentences": [
+    "Anh có nghĩ rằng mang ô khi trời mưa là cần thiết không?",
+    "Chị luôn chuẩn bị tất cả giấy tờ cần thiết trước khi đi làm.",
+    "Để học tốt tiếng Việt, em thấy luyện tập mỗi ngày là cần thiết."
+  ],
+  "rank": 1130,
+  "word": "cần thiết",
+  "choices": [
+    "quan trọng",
+    "cần thiết",
+    "bắt buộc"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "H3dKa75RahPfDqwxnH2H"
+}

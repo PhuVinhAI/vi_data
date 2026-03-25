@@ -1,0 +1,99 @@
+{
+  "definition": "stereotype",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:33:30.120Z",
+    "content": {
+      "sentence": "Chúng ta cần một ___ mới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "model"
+      },
+      "choices": [],
+      "word": "khuôn mẫu",
+      "translation": {
+        "en": "We need a new model."
+      },
+      "answer": "khuôn mẫu"
+    },
+    "type": "fillBlankQuiz",
+    "id": "c9e05f91-05b3-408b-8165-a00fde290c31",
+    "createdAt": "2025-03-12T14:33:30.120Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh không muốn bị đánh giá dựa trên khuôn mẫu về nghề nghiệp.",
+    "Nhiều người nghĩ rằng khuôn mẫu về giới tính là không đúng.",
+    "Chị cố gắng phá vỡ khuôn mẫu khi làm việc trong lĩnh vực này."
+  ],
+  "notes_md": "**khuôn mẫu** = stereotype; a fixed, oversimplified idea about a group of people or things. It’s usually negative because it limits how we see others.\n\nIt’s a noun. You can say **một khuôn mẫu**, **những khuôn mẫu**, and often use it with verbs like **theo** (follow), **áp đặt** (impose), **phá vỡ** (break), **bị gắn với** (be labeled with).\n\nIt can also mean a “mold” or “template” in a physical or abstract sense, but in daily talk it’s mostly about social stereotypes.\n\nRelated word: **rập khuôn** (adj/verb) = rigid, copy-paste, not creative — good contrast if you want to talk about thinking that lacks originality.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "molde",
+      "vi": "khuôn mẫu",
+      "en": "mold"
+    },
+    "definitions": {
+      "es": "Un ejemplo estándar o típico de algo.",
+      "en": "A standard or typical example of something.",
+      "vi": "Một ví dụ tiêu chuẩn hoặc điển hình của một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:09:10.236Z",
+    "example": {
+      "vi": "Mọi người thường bị ràng buộc bởi những khuôn mẫu xã hội.",
+      "en": "People are often bound by social molds.",
+      "es": "Las personas a menudo están atadas por moldes sociales."
+    }
+  },
+  "notes": "khuôn mẫu = stereotype; a fixed, oversimplified idea about a group of people or things. It’s usually negative because it limits how we see others.\n\nIt’s a noun. You can say một khuôn mẫu, những khuôn mẫu, and often use it with verbs like theo (follow), áp đặt (impose), phá vỡ (break), bị gắn với (be labeled with).\n\nIt can also mean a “mold” or “template” in a physical or abstract sense, but in daily talk it’s mostly about social stereotypes.\n\nRelated word: rập khuôn (adj/verb) = rigid, copy-paste, not creative — good contrast if you want to talk about thinking that lacks originality.",
+  "choices": [
+    "khuôn mẫu",
+    "thói quen",
+    "phong tục"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:43:12.768Z",
+  "exampleSentencesTranslated": [
+    "He does not want to be judged based on a stereotype about careers.",
+    "Many people think that a stereotype about gender is not correct.",
+    "She tries to break the stereotype when working in this field."
+  ],
+  "rank": 2751,
+  "word": "khuôn mẫu",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:33:30.120Z",
+    "content": {
+      "word": "khuôn mẫu",
+      "choices": [
+        "khuôn mẫu",
+        "sáng tạo",
+        "khung hình"
+      ],
+      "hint": "k___mẫu",
+      "translation": {
+        "en": "We need a new model."
+      },
+      "answer": "khuôn mẫu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "model"
+      },
+      "sentence": "Chúng ta cần một ___ mới."
+    },
+    "id": "8fc34790-ed28-4470-ad61-49cc4c767f51",
+    "createdAt": "2025-03-12T14:33:30.120Z",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "QYVTX6FFrHZQNtYEPn97"
+}

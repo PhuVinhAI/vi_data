@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:53:03.465Z",
+    "updatedAt": "2025-03-12T15:53:03.465Z",
+    "content": {
+      "word": "trung học",
+      "translation": {
+        "en": "I study in middle school at this school."
+      },
+      "language": "vi",
+      "sentence": "Tôi học ___ ở trường này.",
+      "choices": [
+        "tiểu học",
+        "trung học",
+        "cao đẳng"
+      ],
+      "hint": "tr___g",
+      "translatedAnswer": {
+        "en": "middle school"
+      },
+      "answer": "trung học"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6afb3662-9c99-4c9f-8f73-138ffc9b45ac"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Trung học** means *secondary school* (middle school + high school level, depending on context). It’s about education after primary school.\n\nIt’s a noun. You’ll often hear it in phrases like **trường trung học** (secondary school) or **học sinh trung học** (secondary school student).  \n\nIn Vietnam, it’s commonly divided into **trung học cơ sở (THCS)** = lower secondary, and **trung học phổ thông (THPT)** = upper secondary/high school.  \n\nDon’t confuse it with **đại học** (university) — that’s higher education after trung học.",
+  "exampleSentencesTranslated": [
+    "My younger sister will start studying at secondary school next year.",
+    "Many secondary school students like to join clubs after class.",
+    "I made many new friends when I moved to a new secondary school."
+  ],
+  "updatedAt": "2026-03-03T18:16:56.321Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đang học ở trường trung học.",
+      "es": "Estoy estudiando en una escuela secundaria.",
+      "en": "I am studying at a high school."
+    },
+    "createdAt": "2025-01-28T13:25:16.666Z",
+    "definitions": {
+      "en": "The stage of education that follows primary school and precedes higher education.",
+      "es": "La etapa de educación que sigue a la escuela primaria y precede a la educación superior.",
+      "vi": "Giai đoạn giáo dục tiếp theo sau trường tiểu học và trước giáo dục đại học."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "high school",
+      "es": "escuela secundaria",
+      "vi": "trung học"
+    }
+  },
+  "word": "trung học",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tiểu học",
+    "trung học",
+    "đại học"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "9666da87-39b8-40ea-9d03-9cd9d291b998",
+    "content": {
+      "sentence": "Tôi học ___ ở trường này.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "middle school"
+      },
+      "answer": "trung học",
+      "language": "vi",
+      "translation": {
+        "en": "I study in middle school at this school."
+      },
+      "word": "trung học"
+    },
+    "updatedAt": "2025-03-12T15:53:03.465Z",
+    "createdAt": "2025-03-12T15:53:03.465Z"
+  },
+  "exampleSentences": [
+    "Em gái anh sẽ bắt đầu học tại trung học vào năm tới.",
+    "Nhiều học sinh trung học thích tham gia các câu lạc bộ sau giờ học.",
+    "Anh đã quen nhiều bạn mới khi chuyển đến trung học mới."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "Trung học means secondary school (middle school + high school level, depending on context). It’s about education after primary school.\n\nIt’s a noun. You’ll often hear it in phrases like trường trung học (secondary school) or học sinh trung học (secondary school student).  \n\nIn Vietnam, it’s commonly divided into trung học cơ sở (THCS) = lower secondary, and trung học phổ thông (THPT) = upper secondary/high school.  \n\nDon’t confuse it with đại học (university) — that’s higher education after trung học.",
+  "definition": "secondary school",
+  "rank": 2962,
+  "_id": "kJK0Q3979U27y0T4TZo8"
+}

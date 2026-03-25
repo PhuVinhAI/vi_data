@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:52:19.603Z",
+    "updatedAt": "2025-03-12T12:52:19.603Z",
+    "id": "261370a8-a5e7-4818-88cd-c02d23e03465",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "kỷ niệm",
+      "sentence": "Đó là một ___ đẹp.",
+      "word": "kỷ niệm",
+      "translatedAnswer": {
+        "en": "memory"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "That is a beautiful memory."
+      },
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T09:13:08.955Z",
+  "exampleSentencesTranslated": [
+    "He always keeps beautiful memory of his school days.",
+    "Every year, my family shares a special memory together.",
+    "She kept the movie ticket as a memory of their first date."
+  ],
+  "notes_md": "**kỷ niệm** = memory — something you remember from the past, usually emotional or meaningful.\n\nIt’s a **countable noun**: một kỷ niệm, nhiều kỷ niệm. Often used with adjectives like *đẹp, buồn, đáng nhớ* and verbs like *giữ, nhớ lại, tạo ra*.  \n\n\nIt can also mean a **souvenir** in phrases like *đồ kỷ niệm* (something you keep to remember an event).  \n\nClose word: *ký ức* = memory too, but more abstract and deeper; *kỷ niệm* often feels warmer and more personal.",
+  "word": "kỷ niệm",
+  "choices": [
+    "kỷ niệm",
+    "kết bạn",
+    "khuôn mặt"
+  ],
+  "notes": "kỷ niệm = memory — something you remember from the past, usually emotional or meaningful.\n\nIt’s a countable noun: một kỷ niệm, nhiều kỷ niệm. Often used with adjectives like đẹp, buồn, đáng nhớ and verbs like giữ, nhớ lại, tạo ra.  \n\nIt can also mean a souvenir in phrases like đồ kỷ niệm (something you keep to remember an event).  \n\nClose word: ký ức = memory too, but more abstract and deeper; kỷ niệm often feels warmer and more personal.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh luôn giữ những kỷ niệm đẹp về thời học sinh.",
+    "Mỗi năm, gia đình em lại cùng nhau kể về một kỷ niệm đáng nhớ.",
+    "Chị cất tấm vé xem phim làm kỷ niệm cho buổi hẹn đầu."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:52:19.603Z",
+    "updatedAt": "2025-03-12T12:52:19.603Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "kỷ niệm",
+        "truyền thuyết",
+        "khoảnh khắc"
+      ],
+      "translation": {
+        "en": "We will create new memories."
+      },
+      "hint": "k___m",
+      "word": "kỷ niệm",
+      "translatedAnswer": {
+        "en": "memories"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta sẽ tạo ra ___ mới.",
+      "answer": "kỷ niệm"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "5504442f-dcb0-4647-8c7b-201ef66d7676"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:36:28.615Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A memory or recollection of a past event, often associated with emotions.",
+      "vi": "Một ký ức hoặc hồi tưởng về một sự kiện trong quá khứ, thường gắn liền với cảm xúc.",
+      "es": "Un recuerdo o rememoración de un evento pasado, a menudo asociado con emociones."
+    },
+    "example": {
+      "vi": "Tôi luôn nhớ về những kỷ niệm đẹp trong quá khứ.",
+      "en": "I always remember the beautiful memories from the past.",
+      "es": "Siempre recuerdo los hermosos recuerdos del pasado."
+    },
+    "translations": {
+      "en": "memory",
+      "vi": "kỷ niệm",
+      "es": "recuerdo"
+    }
+  },
+  "rank": 1656,
+  "definition": "memory",
+  "_id": "0rWOGljg7qFjWURTgCky"
+}

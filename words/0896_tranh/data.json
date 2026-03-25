@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:10:27.476Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích vẽ ___.",
+      "translation": {
+        "en": "I like to draw pictures."
+      },
+      "translatedAnswer": {
+        "en": "pictures"
+      },
+      "answer": "tranh",
+      "language": "vi",
+      "word": "tranh",
+      "choices": []
+    },
+    "id": "b37c2f41-efc0-4071-a666-5eb5b3052d7b",
+    "createdAt": "2025-03-12T16:10:27.476Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "tranh",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 896,
+  "notes_md": "**tranh** = painting, picture (art you hang on a wall).  \n\nIt’s a **countable noun**. Use classifiers like **bức** or sometimes **tấm** → *bức tranh*, *tấm tranh*.  \n\nCommon pairings: **vẽ tranh** (draw/paint), **treo tranh** (hang a painting), **tranh phong cảnh** (landscape painting), **tranh sơn dầu** (oil painting).  \n\nBe careful: **tranh** (same spelling) can also mean “to compete” or “to argue/fight for” something — totally different meaning, same word form.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:10:27.476Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi thích vẽ ___.",
+      "translatedAnswer": {
+        "en": "pictures"
+      },
+      "translation": {
+        "en": "I like to draw pictures."
+      },
+      "hint": "t___h",
+      "word": "tranh",
+      "answer": "tranh",
+      "language": "vi",
+      "choices": [
+        "tranh",
+        "tranhs",
+        "TRANH"
+      ]
+    },
+    "id": "facbcf3a-c0de-4a99-bbf4-b6cbda30e444",
+    "createdAt": "2025-03-12T16:10:27.476Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "painting",
+  "exampleSentences": [
+    "Anh vừa mua một bức tranh mới để treo trong phòng khách.",
+    "Chị rất thích vẽ tranh vào những ngày cuối tuần.",
+    "Em muốn tặng mẹ một bức tranh nhân dịp sinh nhật của bà."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tranh",
+    "bàn",
+    "sách"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I enjoy looking at paintings in the museum.",
+      "es": "Disfruto mirando pinturas en el museo.",
+      "vi": "Tôi thích ngắm tranh trong bảo tàng."
+    },
+    "translations": {
+      "es": "pintura",
+      "en": "painting",
+      "vi": "tranh"
+    },
+    "createdAt": "2025-01-28T13:42:28.407Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una pintura o imagen, típicamente creada con pintura.",
+      "en": "A painting or picture, typically created with paint.",
+      "vi": "Một bức tranh hoặc hình ảnh, thường được tạo ra bằng sơn."
+    }
+  },
+  "updatedAt": "2026-03-03T07:51:44.455Z",
+  "exampleSentencesTranslated": [
+    "I just bought a new painting to hang in the living room.",
+    "She really likes to paint a painting on weekends.",
+    "I want to give my mom a painting for her birthday."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tranh = painting, picture (art you hang on a wall).  \n\nIt’s a countable noun. Use classifiers like bức or sometimes tấm → bức tranh, tấm tranh.  \n\nCommon pairings: vẽ tranh (draw/paint), treo tranh (hang a painting), tranh phong cảnh (landscape painting), tranh sơn dầu (oil painting).  \n\nBe careful: tranh (same spelling) can also mean “to compete” or “to argue/fight for” something — totally different meaning, same word form.",
+  "_id": "pAqoldghAWB20L273ORV"
+}

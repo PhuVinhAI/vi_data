@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "6afdcd6a-8c73-43f7-a5e5-f7a8931007d0",
+    "content": {
+      "answer": "dù",
+      "hint": "d___ù",
+      "translation": {
+        "en": "I will go even if it rains."
+      },
+      "translatedAnswer": {
+        "en": "even if"
+      },
+      "word": "dù",
+      "sentence": "Tôi sẽ đi ___ trời mưa.",
+      "language": "vi",
+      "choices": [
+        "dù",
+        "dùs",
+        "DÙ"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:21:37.631Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:21:37.631Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "bút",
+    "dù",
+    "nón"
+  ],
+  "rank": 569,
+  "notes_md": "**dù** = umbrella. It’s the thing you use to keep rain (or strong sun) off you.\n\nIt’s a countable noun: **một cái dù**, **hai cái dù**. Common verbs: **mở dù** (open), **gấp dù** (fold), **cầm dù** (hold), **che dù** (use it to cover yourself).\n\nVery common second meaning: **dù** = *although / even if* (same spelling, totally different job in the sentence).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "dù",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:21:37.631Z",
+    "type": "fillBlankQuiz",
+    "id": "798c9e03-27ba-4c50-aabe-6910e6c347c5",
+    "content": {
+      "answer": "dù",
+      "translatedAnswer": {
+        "en": "even if"
+      },
+      "translation": {
+        "en": "I will go even if it rains."
+      },
+      "sentence": "Tôi sẽ đi ___ trời mưa.",
+      "language": "vi",
+      "word": "dù",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:21:37.631Z"
+  },
+  "exampleSentencesTranslated": [
+    "It is raining today, remember to bring an umbrella when you go out.",
+    "She always keeps a small umbrella in her bag just in case.",
+    "I see many beautiful colored umbrella types at that store."
+  ],
+  "definition": "umbrella",
+  "flashcard": {
+    "translations": {
+      "en": "umbrella",
+      "es": "paraguas",
+      "vi": "dù"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:03:42.883Z",
+    "definitions": {
+      "vi": "Một thiết bị được sử dụng để bảo vệ khỏi mưa hoặc nắng, thường bao gồm một mái vòm tròn bằng vải trên một khung gập lại.",
+      "es": "Un dispositivo utilizado para protegerse de la lluvia o del sol, que consiste típicamente en un dosel circular de tela sobre un marco plegable.",
+      "en": "A device used for protection against rain or sun, typically consisting of a circular canopy of fabric on a folding frame."
+    },
+    "example": {
+      "en": "I brought an umbrella when it rained.",
+      "vi": "Tôi mang theo một cái dù khi trời mưa.",
+      "es": "Llevé un paraguas cuando llovió."
+    }
+  },
+  "notes": "dù = umbrella. It’s the thing you use to keep rain (or strong sun) off you.\n\nIt’s a countable noun: một cái dù, hai cái dù. Common verbs: mở dù (open), gấp dù (fold), cầm dù (hold), che dù (use it to cover yourself).\n\nVery common second meaning: dù = although / even if (same spelling, totally different job in the sentence).",
+  "exampleSentences": [
+    "Hôm nay trời mưa, anh nhớ mang dù khi ra ngoài nhé.",
+    "Chị ấy luôn để một cái dù nhỏ trong túi xách phòng khi cần.",
+    "Em thấy có nhiều loại dù màu sắc rất đẹp ở cửa hàng kia."
+  ],
+  "updatedAt": "2026-03-03T07:18:59.192Z",
+  "_id": "8p9cq1z7C6Hz8JFLkyLF"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:03:00.476Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:11:53.196Z",
+    "updatedAt": "2025-03-12T13:11:53.196Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "c50936ff-8e2a-4cf9-9020-0dfe19843cc8",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "giao dịch",
+      "sentence": "Chúng ta cần thực hiện ___ này.",
+      "word": "giao dịch",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "transaction"
+      },
+      "choices": [],
+      "translation": {
+        "en": "We need to carry out this transaction."
+      }
+    }
+  },
+  "notes_md": "**Giao dịch** means a transaction — an exchange of money, goods, or services. It’s used a lot for banking, business, shopping, and contracts.\n\nIt’s a **noun**. You can say *một giao dịch, các giao dịch*. Common pairings: *thực hiện giao dịch, tiến hành giao dịch, hủy giao dịch, phí giao dịch*.\n\n\nClose synonym: **thương vụ** (more like a business deal, often bigger and more formal).",
+  "exampleSentencesTranslated": [
+    "I just completed a bank transaction on my phone.",
+    "I want to check the transaction history in my account.",
+    "Online buying and selling transaction need to be clearly confirmed."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "giao dịch",
+  "choices": [
+    "giao dịch",
+    "hợp đồng",
+    "thanh toán"
+  ],
+  "notes": "Giao dịch means a transaction — an exchange of money, goods, or services. It’s used a lot for banking, business, shopping, and contracts.\n\nIt’s a noun. You can say một giao dịch, các giao dịch. Common pairings: thực hiện giao dịch, tiến hành giao dịch, hủy giao dịch, phí giao dịch.\n\nClose synonym: thương vụ (more like a business deal, often bigger and more formal).",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:53:03.112Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A transaction or exchange, especially in a business or financial context.",
+      "vi": "Một giao dịch hoặc trao đổi, đặc biệt trong bối cảnh kinh doanh hoặc tài chính.",
+      "es": "Una transacción o intercambio, especialmente en un contexto comercial o financiero."
+    },
+    "example": {
+      "es": "Necesito realizar una transacción bancaria.",
+      "vi": "Tôi cần thực hiện một giao dịch ngân hàng.",
+      "en": "I need to make a bank transaction."
+    },
+    "translations": {
+      "es": "transacción",
+      "vi": "giao dịch",
+      "en": "transaction"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1559,
+  "definition": "transaction",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa hoàn thành một giao dịch ngân hàng trên điện thoại.",
+    "Chị muốn kiểm tra lịch sử giao dịch trong tài khoản của mình.",
+    "Các giao dịch mua bán online cần được xác nhận rõ ràng."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "0d0ebb6e-87a8-4944-a42f-7ce2006b89d4",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "They are making a big transaction."
+      },
+      "choices": [
+        "giao dịch",
+        "thỏa thuận",
+        "hợp đồng"
+      ],
+      "hint": "g___c",
+      "translatedAnswer": {
+        "en": "transaction"
+      },
+      "language": "vi",
+      "word": "giao dịch",
+      "sentence": "Họ đang thực hiện ___ lớn.",
+      "answer": "giao dịch"
+    },
+    "createdAt": "2025-03-12T13:11:53.196Z",
+    "updatedAt": "2025-03-12T13:11:53.196Z"
+  },
+  "_id": "5sNHB0nbgr7PM8lcruoZ"
+}

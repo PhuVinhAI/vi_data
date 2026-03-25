@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Buổi sáng, em thường dậy sớm để ngắm mặt trời mọc.",
+    "Khi mặt trời chiếu sáng, anh thích đi dạo ngoài công viên.",
+    "Chị nhớ mang mũ khi ra ngoài vì mặt trời rất nóng hôm nay."
+  ],
+  "updatedAt": "2026-03-03T10:23:51.461Z",
+  "notes": "mặt trời = the sun, the big star that gives us light and heat.\n\nIt’s a noun. Usually you just say mặt trời without a classifier; saying một mặt trời sounds poetic or dramatic.  \nCommon pairings: mặt trời mọc (sunrise), mặt trời lặn (sunset), ánh mặt trời (sunlight), dưới mặt trời (under the sun).  \nIn more formal or poetic language, you might see thái dương (Sino-Vietnamese), but in daily speech people almost always say mặt trời.",
+  "definition": "the sun",
+  "flashcard": {
+    "translations": {
+      "vi": "mặt trời",
+      "es": "sol",
+      "en": "sun"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:04:10.886Z",
+    "definitions": {
+      "es": "La estrella en el centro del sistema solar que proporciona luz y calor a la Tierra.",
+      "vi": "Ngôi sao ở trung tâm của hệ mặt trời cung cấp ánh sáng và nhiệt cho Trái Đất.",
+      "en": "The star at the center of the solar system that provides light and heat to the Earth."
+    },
+    "example": {
+      "vi": "Mặt trời chiếu sáng cả bầu trời.",
+      "es": "El sol brilla intensamente en el cielo.",
+      "en": "The sun shines brightly in the sky."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "In the morning, I usually wake up early to watch the sun rise.",
+    "When the sun shines, I like to walk in the park.",
+    "Remember to bring a hat when going outside because the sun is very hot today."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:29:23.120Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:29:23.120Z",
+    "content": {
+      "answer": "mặt trời",
+      "translation": {
+        "en": "Today the sun is very beautiful."
+      },
+      "translatedAnswer": {
+        "en": "sun"
+      },
+      "word": "mặt trời",
+      "language": "vi",
+      "sentence": "Hôm nay ___ rất đẹp.",
+      "choices": []
+    },
+    "id": "bf4734c8-4195-4c2c-b141-b19d0d83b22c"
+  },
+  "word": "mặt trời",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mặt trăng",
+    "mặt trời",
+    "bầu trời"
+  ],
+  "rank": 2318,
+  "notes_md": "**mặt trời** = the sun, the big star that gives us light and heat.\n\nIt’s a noun. Usually you just say *mặt trời* without a classifier; saying *một mặt trời* sounds poetic or dramatic.  \nCommon pairings: *mặt trời mọc* (sunrise), *mặt trời lặn* (sunset), *ánh mặt trời* (sunlight), *dưới mặt trời* (under the sun).  \nIn more formal or poetic language, you might see **thái dương** (Sino-Vietnamese), but in daily speech people almost always say *mặt trời*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1416ec4e-50bb-4e26-8169-3237752db7a0",
+    "createdAt": "2025-03-12T15:29:23.120Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi thấy ___ trên bầu trời.",
+      "word": "mặt trời",
+      "choices": [
+        "mặt trăng",
+        "mặt trời",
+        "cái cây"
+      ],
+      "hint": "m___n",
+      "answer": "mặt trời",
+      "translatedAnswer": {
+        "en": "sun"
+      },
+      "translation": {
+        "en": "I see the sun in the sky."
+      }
+    },
+    "updatedAt": "2025-03-12T15:29:23.120Z"
+  },
+  "_id": "enr6F2PapzJ5ZZitioN0"
+}

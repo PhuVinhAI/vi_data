@@ -1,0 +1,96 @@
+{
+  "exampleSentencesTranslated": [
+    "You should not cross the boundary between work and personal life.",
+    "She always respects the boundary of each person in the work group.",
+    "I want to know where the boundary between these two cities is."
+  ],
+  "updatedAt": "2026-03-03T10:12:04.614Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ranh giới",
+    "giới hạn",
+    "biên giới"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A line or limit that separates two areas, countries, or different domains.",
+      "vi": "Đường hoặc giới hạn phân chia hai khu vực, quốc gia hoặc phạm vi khác nhau."
+    },
+    "word": "ranh giới",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:34:29.748Z",
+    "example": {
+      "en": "There is a clear boundary between the two countries.",
+      "vi": "Có một ranh giới rõ ràng giữa hai quốc gia."
+    },
+    "translations": {
+      "en": "boundary"
+    }
+  },
+  "exampleSentences": [
+    "Anh không nên vượt qua ranh giới giữa công việc và cuộc sống cá nhân.",
+    "Chị luôn tôn trọng ranh giới của mỗi người trong nhóm làm việc.",
+    "Em muốn biết ranh giới giữa hai thành phố này nằm ở đâu."
+  ],
+  "notes": "Ranh giới means a boundary or limit — a line that separates two things (physical or abstract).  \n\nIt’s a noun. You often use it with giữa A và B to show separation between two sides.  \n\nIt can be physical (like land) or abstract (like emotions, roles, rules).  \nClose word: biên giới = national border between countries (more official and geographic), while ranh giới is broader and more flexible.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ranh giới",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:19:34.814Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta cần xác định ___ của dự án.",
+      "choices": [],
+      "word": "ranh giới",
+      "answer": "ranh giới",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "boundaries"
+      },
+      "translation": {
+        "en": "We need to define the boundaries of the project."
+      }
+    },
+    "id": "8a725118-476e-401b-9b64-77577a0d133e",
+    "createdAt": "2025-03-12T16:19:34.814Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "boundary",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:19:34.814Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4da7c54c-acd8-43ca-a233-789a6b01884d",
+    "content": {
+      "translation": {
+        "en": "We need to define the boundaries of the project."
+      },
+      "translatedAnswer": {
+        "en": "boundaries"
+      },
+      "hint": "r___ g___",
+      "word": "ranh giới",
+      "answer": "ranh giới",
+      "language": "vi",
+      "choices": [
+        "ranh giới",
+        "giới hạn",
+        "biên giới"
+      ],
+      "sentence": "Chúng ta cần xác định ___ của dự án."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:19:34.814Z"
+  },
+  "notes_md": "**Ranh giới** means a boundary or limit — a line that separates two things (physical or abstract).  \n\nIt’s a noun. You often use it with **giữa A và B** to show separation between two sides.  \n\nIt can be physical (like land) or abstract (like emotions, roles, rules).  \nClose word: **biên giới** = national border between countries (more official and geographic), while *ranh giới* is broader and more flexible.",
+  "rank": 2212,
+  "_id": "rMq53EyVrU0DgzQHrEEz"
+}

@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "c04b7f47-3465-465e-bbda-12cfbbb85fcd",
+    "content": {
+      "choices": [
+        "một nghìn",
+        "trăm",
+        "một triệu"
+      ],
+      "word": "trăm",
+      "language": "vi",
+      "sentence": "Tôi có ___ đồng trong ví.",
+      "translation": {
+        "en": "I have a hundred dollars in my wallet."
+      },
+      "translatedAnswer": {
+        "en": "hundred"
+      },
+      "hint": "tr___m",
+      "answer": "trăm"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:23:41.334Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:23:41.334Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**trăm** means **hundred (100)**. It’s used when counting things in groups of one hundred.\n\nYou put a number before it: *một trăm* (100), *hai trăm* (200), etc. After that, add the noun directly—no classifier needed if the noun already fits naturally.\n\n\nIn bigger numbers, it sits between thousands and tens. For 101–109, Northern Vietnamese often says **linh**, Southern often says **lẻ** after *trăm* (both mean the “zero tens” spot).",
+  "rank": 1129,
+  "choices": [
+    "trăm",
+    "nghìn",
+    "mươi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "trăm",
+  "exampleSentencesTranslated": [
+    "He has read more than one hundred books this year.",
+    "She wants to buy one hundred flowers to give to her mother.",
+    "Can you count to one hundred in Vietnamese yet?"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:23:41.334Z",
+    "type": "fillBlankQuiz",
+    "id": "ee95cbe3-cf0c-4adf-bed0-890f92593514",
+    "content": {
+      "choices": [],
+      "word": "trăm",
+      "language": "vi",
+      "sentence": "Tôi có ___ đồng trong ví.",
+      "translation": {
+        "en": "I have a hundred dollars in my wallet."
+      },
+      "translatedAnswer": {
+        "en": "hundred"
+      },
+      "answer": "trăm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:23:41.334Z"
+  },
+  "flashcard": {
+    "example": {
+      "en": "There are a hundred ways to do that.",
+      "vi": "Có trăm cách để làm điều đó.",
+      "es": "Hay cien maneras de hacer eso."
+    },
+    "definitions": {
+      "vi": "Một số chỉ số một trăm.",
+      "es": "Un numeral que representa el número cien.",
+      "en": "A numeral representing the number one hundred."
+    },
+    "createdAt": "2025-01-28T11:04:10.679Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trăm",
+      "es": "cien",
+      "en": "hundred"
+    }
+  },
+  "definition": "hundred",
+  "notes": "trăm means hundred (100). It’s used when counting things in groups of one hundred.\n\nYou put a number before it: một trăm (100), hai trăm (200), etc. After that, add the noun directly—no classifier needed if the noun already fits naturally.\n\nIn bigger numbers, it sits between thousands and tens. For 101–109, Northern Vietnamese often says linh, Southern often says lẻ after trăm (both mean the “zero tens” spot).",
+  "updatedAt": "2026-03-03T08:16:13.398Z",
+  "exampleSentences": [
+    "Anh đã đọc hơn một trăm cuốn sách trong năm nay.",
+    "Chị muốn mua một trăm bông hoa để tặng mẹ.",
+    "Em có thể đếm đến một trăm bằng tiếng Việt chưa?"
+  ],
+  "_id": "9Xpzm8WeYXC7OvFHIQR6"
+}

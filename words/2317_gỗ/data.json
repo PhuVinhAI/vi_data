@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "The hard, fibrous material that makes up the trunk and branches of a tree.",
+      "es": "El material duro y fibroso que forma el tronco y las ramas de un árbol.",
+      "vi": "Chất liệu cứng, xơ, tạo thành thân và cành của cây."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "wood",
+      "vi": "gỗ",
+      "es": "madera"
+    },
+    "example": {
+      "en": "This table is made of wood.",
+      "es": "Esta mesa está hecha de madera.",
+      "vi": "Cái bàn này được làm bằng gỗ."
+    },
+    "createdAt": "2025-01-28T11:31:33.523Z"
+  },
+  "exampleSentencesTranslated": [
+    "He wants to buy a desk made of wood for the bedroom.",
+    "This small house is built completely from wood.",
+    "I think that wood box is beautiful and want to buy it as a gift."
+  ],
+  "multiChoiceQuiz": {
+    "id": "be74e97b-7a0a-43be-aada-a296fe123a76",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:53:45.571Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "wood"
+      },
+      "language": "vi",
+      "word": "gỗ",
+      "sentence": "Bàn được làm từ ___.",
+      "hint": "g__",
+      "choices": [
+        "kim loại",
+        "gỗ",
+        "nhựa"
+      ],
+      "translation": {
+        "en": "The table is made of wood."
+      },
+      "answer": "gỗ"
+    },
+    "updatedAt": "2025-03-12T13:53:45.571Z"
+  },
+  "notes_md": "**gỗ** = wood (the material from trees). It’s an uncountable material noun, but you use classifiers for pieces: *miếng gỗ, khúc gỗ, tấm gỗ* depending on shape.\n\nVery common with **bằng** to say something is made of wood, and in the phrase **đồ gỗ** (wooden furniture/things). You’ll also hear **gỗ tự nhiên** (solid/natural wood) vs **gỗ công nghiệp** (engineered wood).\n\nFigurative meaning: in slang, **đầu gỗ** describes someone who’s slow or clueless — like a “blockhead.”",
+  "updatedAt": "2026-03-03T10:23:45.822Z",
+  "notes": "gỗ = wood (the material from trees). It’s an uncountable material noun, but you use classifiers for pieces: miếng gỗ, khúc gỗ, tấm gỗ depending on shape.\n\nVery common with bằng to say something is made of wood, and in the phrase đồ gỗ (wooden furniture/things). You’ll also hear gỗ tự nhiên (solid/natural wood) vs gỗ công nghiệp (engineered wood).\n\nFigurative meaning: in slang, đầu gỗ describes someone who’s slow or clueless — like a “blockhead.”",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "5832f06e-2668-4a43-beaa-04a88d063a0a",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:53:45.571Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "wood"
+      },
+      "sentence": "Bàn được làm từ ___.",
+      "word": "gỗ",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "The table is made of wood."
+      },
+      "answer": "gỗ"
+    },
+    "createdAt": "2025-03-12T13:53:45.571Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đá",
+    "gỗ",
+    "nhựa"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "wood",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn mua một chiếc bàn làm việc bằng gỗ cho phòng ngủ.",
+    "Ngôi nhà nhỏ này được xây dựng hoàn toàn từ gỗ.",
+    "Em thấy cái hộp gỗ đó rất đẹp và muốn mua làm quà tặng."
+  ],
+  "rank": 2317,
+  "word": "gỗ",
+  "_id": "GuPTCvbDyHLBt4Rjg2l0"
+}

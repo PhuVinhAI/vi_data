@@ -1,0 +1,99 @@
+{
+  "word": "tiến bộ",
+  "exampleSentencesTranslated": [
+    "I notice that I have made a lot of progress in learning Vietnamese.",
+    "If you practice hard every day, you will see progress clearly.",
+    "She is very happy because our group is achieving progress in this project."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tiến bộ",
+    "học tập",
+    "thành công"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Học sinh cần ___ để thành công.",
+      "hint": "t___ b___",
+      "word": "tiến bộ",
+      "language": "vi",
+      "translation": {
+        "en": "Students need progress to succeed."
+      },
+      "answer": "tiến bộ",
+      "choices": [
+        "tiến bộ",
+        "cải thiện",
+        "thành công"
+      ],
+      "translatedAnswer": {
+        "en": "progress"
+      }
+    },
+    "updatedAt": "2025-03-12T16:36:39.008Z",
+    "type": "multiChoiceQuiz",
+    "id": "e28f86e9-08d7-4c93-ae6a-46f2a51b670d",
+    "createdAt": "2025-03-12T16:36:39.008Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Em nhận thấy mình đã có nhiều tiến bộ trong việc học tiếng Việt.",
+    "Nếu anh chăm chỉ luyện tập mỗi ngày, anh sẽ thấy tiến bộ rõ ràng.",
+    "Chị rất vui vì nhóm chúng ta đang đạt được tiến bộ trong dự án này."
+  ],
+  "updatedAt": "2026-03-03T10:32:47.765Z",
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta cần tiến bộ trong việc học tập.",
+      "es": "Necesitamos avanzar en nuestros estudios.",
+      "en": "We need to make progress in our studies."
+    },
+    "definitions": {
+      "vi": "Quá trình cải thiện hoặc phát triển.",
+      "es": "El proceso de mejorar o desarrollar.",
+      "en": "The process of improving or developing."
+    },
+    "translations": {
+      "vi": "tiến bộ",
+      "es": "progreso",
+      "en": "progress"
+    },
+    "createdAt": "2025-01-28T14:07:59.473Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "tiến bộ = progress, improvement over time. It’s about getting better step by step.\n\nIt’s usually an uncountable noun, so you don’t count it directly; you add words like một chút, nhiều, or use sự tiến bộ for a more formal tone.  \nStructure: có / đạt được + tiến bộ (có nhiều tiến bộ)\n\nIt can also act like an adjective after a noun, meaning “progressive” or “advanced” (like xã hội tiến bộ).  \nClose idea: cải thiện (improve) focuses more on fixing something; opposite: thụt lùi (go backward).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "e5cc699b-fbaf-494f-bf0f-3055bb4c0ad2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:36:39.008Z",
+    "content": {
+      "sentence": "Chúng ta cần ___ trong học tập.",
+      "word": "tiến bộ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "progress"
+      },
+      "choices": [],
+      "answer": "tiến bộ",
+      "translation": {
+        "en": "We need progress in studying."
+      }
+    },
+    "updatedAt": "2025-03-12T16:36:39.008Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2412,
+  "definition": "progress",
+  "notes_md": "**tiến bộ** = progress, improvement over time. It’s about getting better step by step.\n\nIt’s usually an uncountable noun, so you don’t count it directly; you add words like *một chút*, *nhiều*, or use *sự tiến bộ* for a more formal tone.  \n`Structure: có / đạt được + tiến bộ` (có nhiều tiến bộ)\n\nIt can also act like an adjective after a noun, meaning “progressive” or “advanced” (like *xã hội tiến bộ*).  \nClose idea: *cải thiện* (improve) focuses more on fixing something; opposite: *thụt lùi* (go backward).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vv9575mEOJGHNmbRvDGS"
+}

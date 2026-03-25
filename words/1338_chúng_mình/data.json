@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chúng mình",
+  "multiChoiceQuiz": {
+    "id": "ea9144f8-35e3-4534-a0cd-ea5bfa8ace0d",
+    "content": {
+      "language": "vi",
+      "sentence": "Chúng ta sẽ đi cùng ___ tới công viên.",
+      "word": "chúng mình",
+      "choices": [
+        "bọn mình",
+        "chúng mình",
+        "ta"
+      ],
+      "hint": "c___n",
+      "answer": "chúng mình",
+      "translatedAnswer": {
+        "en": "us"
+      },
+      "translation": {
+        "en": "We will go with us to the park."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:34:20.039Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:34:20.039Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chúng mình** = *we* (including the listener). It’s friendly and personal — like “you and I / we together.”\n\nUse it with friends, classmates, partners, or people you feel close to. It includes the person you’re talking to, unlike **chúng tôi** (which excludes the listener).  \n\n\nVery close synonym: **tụi mình** (more casual).  \nContrast to remember: **chúng tôi** = we (not you).",
+  "choices": [
+    "chúng tôi",
+    "chúng mình",
+    "bọn mình"
+  ],
+  "rank": 1338,
+  "notes": "chúng mình = we (including the listener). It’s friendly and personal — like “you and I / we together.”\n\nUse it with friends, classmates, partners, or people you feel close to. It includes the person you’re talking to, unlike chúng tôi (which excludes the listener).  \n\nVery close synonym: tụi mình (more casual).  \nContrast to remember: chúng tôi = we (not you).",
+  "updatedAt": "2026-03-03T08:38:55.996Z",
+  "exampleSentences": [
+    "Tối nay chúng mình đi ăn phở ở quán mới nhé?",
+    "Chủ nhật này chúng mình cùng nhau xem phim không?",
+    "Chúng mình đã học tiếng Việt với nhau được sáu tháng rồi."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:34:20.039Z",
+    "content": {
+      "answer": "chúng mình",
+      "translatedAnswer": {
+        "en": "us"
+      },
+      "translation": {
+        "en": "We will go with us to the park."
+      },
+      "language": "vi",
+      "sentence": "Chúng ta sẽ đi cùng ___ tới công viên.",
+      "word": "chúng mình",
+      "choices": []
+    },
+    "id": "60721215-df63-4182-845e-ea496d608a06",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:34:20.039Z"
+  },
+  "exampleSentencesTranslated": [
+    "Tonight we go eat pho at the new restaurant, okay?",
+    "This Sunday we will watch a movie together, right?",
+    "We have been learning Vietnamese together for six months already."
+  ],
+  "definition": "we (inclusive)",
+  "flashcard": {
+    "example": {
+      "es": "Nosotros saldremos este fin de semana.",
+      "vi": "Chúng mình sẽ đi chơi vào cuối tuần này.",
+      "en": "We will go out this weekend."
+    },
+    "definitions": {
+      "vi": "Một đại từ được sử dụng để chỉ một nhóm bao gồm người nói, tương đương với 'chúng tôi' trong tiếng Việt.",
+      "es": "Un pronombre utilizado para referirse a un grupo que incluye al hablante, equivalente a 'nosotros' en español.",
+      "en": "A pronoun used to refer to a group that includes the speaker, equivalent to 'we' in English."
+    },
+    "createdAt": "2025-01-28T11:13:50.413Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chúng mình",
+      "es": "nosotros",
+      "en": "we"
+    }
+  },
+  "_id": "BshZpB7u7aqXMYu7pBbp"
+}

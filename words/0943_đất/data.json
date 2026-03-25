@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:17:21.530Z",
+    "id": "5576b066-c72b-4768-8ff1-291fd48f2b99",
+    "content": {
+      "language": "vi",
+      "sentence": "Cây trồng cần ___ để phát triển.",
+      "word": "đất",
+      "choices": [],
+      "answer": "đất",
+      "translatedAnswer": {
+        "en": "soil"
+      },
+      "translation": {
+        "en": "Plants need soil to grow."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:17:21.530Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He just bought a small piece of land in the suburbs.",
+    "Children like to play on the land behind the house every afternoon.",
+    "My family grows vegetables on the land in front of the house."
+  ],
+  "definition": "land",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:57:48.990Z",
+    "translations": {
+      "en": "soil",
+      "vi": "đất",
+      "es": "tierra"
+    },
+    "example": {
+      "es": "Las plantas necesitan tierra para crecer.",
+      "vi": "Cây trồng cần đất để phát triển.",
+      "en": "Plants need soil to grow."
+    },
+    "definitions": {
+      "vi": "Lớp đất phía trên mà cây cối phát triển, thường là một chất liệu màu đen hoặc nâu tối bao gồm hỗn hợp các chất hữu cơ, đất sét và hạt đá.",
+      "es": "La capa superior de la tierra en la que crecen las plantas, un material negro o marrón oscuro que consiste típicamente en una mezcla de sustancias orgánicas, arcilla y partículas de roca.",
+      "en": "The upper layer of earth in which plants grow, a black or dark brown material typically consisting of a mixture of organic substances, clay, and rock particles."
+    }
+  },
+  "notes": "đất = land, ground, soil. It can mean the physical ground under your feet or a piece of land you own.\n\nIt’s a noun. For a plot of land, use mảnh đất or miếng đất (classifier: mảnh/miếng). Đất đai means land in general (often about property or farming).\n\nVery common combo: đất nước = country (literally “land + water”).  \nIt can also mean soil (for planting) or “earth” as in the ground, opposite of trời (sky).",
+  "updatedAt": "2026-03-03T07:56:07.624Z",
+  "exampleSentences": [
+    "Anh vừa mua một mảnh đất nhỏ ở ngoại ô thành phố.",
+    "Trẻ con thích chơi trên đất sau nhà mỗi buổi chiều.",
+    "Gia đình em trồng rau trên đất phía trước nhà."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:17:21.530Z",
+    "content": {
+      "hint": "d__t",
+      "answer": "đất",
+      "translatedAnswer": {
+        "en": "soil"
+      },
+      "translation": {
+        "en": "Plants need soil to grow."
+      },
+      "language": "vi",
+      "sentence": "Cây trồng cần ___ để phát triển.",
+      "word": "đất",
+      "choices": [
+        "cát",
+        "đất",
+        "đá"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:17:21.530Z",
+    "id": "6d6538f0-aa1f-4944-bbd5-4710b4d9e7cd",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đất** = land, ground, soil. It can mean the physical ground under your feet or a piece of land you own.\n\nIt’s a noun. For a plot of land, use **mảnh đất** or **miếng đất** (classifier: *mảnh/miếng*). **Đất đai** means land in general (often about property or farming).\n\nVery common combo: **đất nước** = country (literally “land + water”).  \nIt can also mean **soil** (for planting) or “earth” as in the ground, opposite of **trời** (sky).",
+  "choices": [
+    "đất",
+    "nước",
+    "cát"
+  ],
+  "rank": 943,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đất",
+  "_id": "7YMEbboPEzcb7PKPYHcE"
+}

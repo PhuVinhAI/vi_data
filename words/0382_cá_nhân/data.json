@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "tập thể",
+    "cá nhân",
+    "gia đình"
+  ],
+  "rank": 382,
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "personal"
+      },
+      "choices": [
+        "cá nhân",
+        "nổi bật",
+        "thông thường"
+      ],
+      "translation": {
+        "en": "This information is very personal and confidential."
+      },
+      "sentence": "Thông tin này rất ___ và bí mật.",
+      "word": "cá nhân",
+      "language": "vi",
+      "hint": "c___n",
+      "answer": "cá nhân"
+    },
+    "updatedAt": "2025-03-12T15:04:54.668Z",
+    "createdAt": "2025-03-12T15:04:54.668Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "88fb15fa-e0bc-4788-a3f5-f2a7b124a67c"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "cá nhân = an individual person (one single person, not a group).\n\nIt’s a noun. You’ll often see một cá nhân, từng cá nhân, or mỗi cá nhân to emphasize one-by-one. It contrasts strongly with tập thể (collective/group).\n\nIt can also act like an adjective meaning “personal,” especially in fixed phrases like thông tin cá nhân (personal information) or tài khoản cá nhân.\n\nThink: cá nhân = one person alone, not the whole team.",
+  "exampleSentences": [
+    "Em nghĩ mỗi cá nhân đều có ý kiến riêng của mình.",
+    "Chị muốn phát triển kỹ năng cá nhân để làm việc tốt hơn.",
+    "Anh đánh giá cao sự đóng góp của từng cá nhân trong nhóm."
+  ],
+  "word": "cá nhân",
+  "fillBlankQuiz": {
+    "id": "ede915c8-7ac4-47d3-80e7-9ab572b28ed0",
+    "createdAt": "2025-03-12T15:04:54.668Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Đây là thông tin ___ của tôi.",
+      "word": "cá nhân",
+      "language": "vi",
+      "answer": "cá nhân",
+      "translatedAnswer": {
+        "en": "personal"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This is my personal information."
+      }
+    },
+    "updatedAt": "2025-03-12T15:04:54.668Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:00:19.018Z",
+  "exampleSentencesTranslated": [
+    "I think every individual has their own opinion.",
+    "She wants to develop individual skills to work better.",
+    "He appreciates the contribution of each individual in the group."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A person regarded as a single, complete entity.",
+      "es": "Una persona considerada como una entidad única y completa.",
+      "vi": "Một người được coi là một thực thể đơn lẻ và hoàn chỉnh."
+    },
+    "createdAt": "2025-01-28T12:37:16.026Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "individual",
+      "es": "individuo",
+      "vi": "cá nhân"
+    },
+    "example": {
+      "en": "Each individual has the right to freedom.",
+      "es": "Cada individuo tiene derecho a la libertad.",
+      "vi": "Mỗi cá nhân đều có quyền tự do."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**cá nhân** = an individual person (one single person, not a group).\n\nIt’s a noun. You’ll often see **một cá nhân**, **từng cá nhân**, or **mỗi cá nhân** to emphasize one-by-one. It contrasts strongly with **tập thể** (collective/group).\n\nIt can also act like an adjective meaning “personal,” especially in fixed phrases like **thông tin cá nhân** (personal information) or **tài khoản cá nhân**.\n\nThink: **cá nhân = one person alone**, not the whole team.",
+  "definition": "individual",
+  "_id": "YDwmEZfJnLZ3E2iqIALb"
+}

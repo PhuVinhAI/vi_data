@@ -1,0 +1,99 @@
+{
+  "rank": 2720,
+  "exampleSentences": [
+    "Anh nghĩ mấu chốt của vấn đề này là sự giao tiếp chưa rõ ràng.",
+    "Chị có thể giải thích mấu chốt của bài học hôm nay cho em không?",
+    "Theo em, mấu chốt để thành công là phải kiên trì và chăm chỉ."
+  ],
+  "word": "mấu chốt",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "key point",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mấu chốt",
+    "kết quả",
+    "bước đầu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:39:36.793Z",
+  "fillBlankQuiz": {
+    "id": "c9983f82-6046-4c96-a516-a497948ef2dc",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This is the key point of the issue."
+      },
+      "answer": "mấu chốt",
+      "choices": [],
+      "sentence": "Điều này là ___ của vấn đề.",
+      "word": "mấu chốt",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "key point"
+      }
+    },
+    "createdAt": "2025-03-12T13:51:32.386Z",
+    "updatedAt": "2025-03-12T13:51:32.386Z"
+  },
+  "notes": "Mấu chốt means the key point — the most important part that decides everything. It’s the core idea or factor that makes the difference.\n\nIt’s a noun. Often used in the pattern mấu chốt của + noun to show “the key point of something.”  \n\nYou’ll often see it with verbs like tìm ra, nắm được, hiểu rõ (find / grasp / understand the key point).\n\nClose synonym: then chốt (a bit more formal, strategic feeling).",
+  "exampleSentencesTranslated": [
+    "I think the key point of this problem is unclear communication.",
+    "Can you explain the key point of today's lesson to me?",
+    "In my opinion, the key point to success is to be persistent and hardworking."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A crucial point or element that is essential for understanding or achieving something.",
+      "vi": "Một điểm hoặc yếu tố quan trọng cần thiết để hiểu hoặc đạt được điều gì đó.",
+      "es": "Un punto o elemento crucial que es esencial para entender o lograr algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "Collaboration is the key to success.",
+      "es": "La colaboración es la clave del éxito.",
+      "vi": "Sự hợp tác là mấu chốt để thành công."
+    },
+    "createdAt": "2025-01-28T11:29:21.798Z",
+    "translations": {
+      "es": "punto clave",
+      "vi": "mấu chốt",
+      "en": "key point"
+    }
+  },
+  "notes_md": "**Mấu chốt** means the key point — the most important part that decides everything. It’s the core idea or factor that makes the difference.\n\nIt’s a noun. Often used in the pattern **mấu chốt của + noun** to show “the key point of something.”  \n\nYou’ll often see it with verbs like *tìm ra*, *nắm được*, *hiểu rõ* (find / grasp / understand the key point).\n\nClose synonym: **then chốt** (a bit more formal, strategic feeling).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:51:32.386Z",
+    "createdAt": "2025-03-12T13:51:32.386Z",
+    "content": {
+      "translation": {
+        "en": "This is the key point of the issue."
+      },
+      "answer": "mấu chốt",
+      "hint": "m___t",
+      "choices": [
+        "cốt lõi",
+        "mấu chốt",
+        "điểm chính"
+      ],
+      "word": "mấu chốt",
+      "sentence": "Điều này là ___ của vấn đề.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "key point"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "f0c26b6e-a590-4b14-9143-d3f5a3e7d1ff"
+  },
+  "_id": "GCDP9abH3BLohRomK4dF"
+}

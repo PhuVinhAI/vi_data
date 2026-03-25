@@ -1,0 +1,101 @@
+{
+  "exampleSentences": [
+    "Em ăn cơm vì đói bụng.",
+    "Anh đóng cửa vì gió mạnh.",
+    "Chị mua áo vì trời lạnh."
+  ],
+  "rank": 67,
+  "word": "vì",
+  "definition": "because",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + ăn (eat) + cơm (rice) + vì (because) + đói (hungry) + bụng (belly)",
+    "Anh (he) + đóng (close) + cửa (door) + vì (because) + gió (wind) + mạnh (strong)",
+    "Chị (she) + mua (buy) + áo (shirt) + vì (because) + trời (weather) + lạnh (cold)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nên",
+    "vì",
+    "và"
+  ],
+  "updatedAt": "2026-03-03T06:09:51.643Z",
+  "notes": "vì means because — it gives the reason for something.\n\nIt’s a linking word that connects a result with its cause. You can put the reason after the main clause, or start with vì and then add the result after.\n\nIt works with both nouns and full clauses. A very close synonym is bởi vì (a bit more formal/clear, but same meaning).",
+  "fillBlankQuiz": {
+    "id": "1ad18642-7899-47dd-9c24-21470cca5965",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:46:32.815Z",
+    "content": {
+      "language": "vi",
+      "word": "vì",
+      "sentence": "Tôi làm điều này ___ tôi thích.",
+      "translatedAnswer": {
+        "en": "because"
+      },
+      "translation": {
+        "en": "I do this because I like it."
+      },
+      "answer": "vì",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:46:32.815Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A word used to indicate the cause or reason for something.",
+      "vi": "Từ dùng để chỉ nguyên nhân hoặc lý do của một sự việc."
+    },
+    "audioUrl": "flashcard.mp3",
+    "word": "vì",
+    "example": {
+      "en": "I was late because it rained.",
+      "vi": "Tôi đến muộn vì trời mưa."
+    },
+    "createdAt": "2025-05-24T16:20:28.952Z",
+    "translations": {
+      "en": "because"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I eat rice because I am hungry.",
+    "He closes the door because the wind is strong.",
+    "She buys a shirt because it is cold."
+  ],
+  "notes_md": "**vì** means **because** — it gives the reason for something.\n\nIt’s a linking word that connects a result with its cause. You can put the reason after the main clause, or start with **vì** and then add the result after.\n\n\nIt works with both nouns and full clauses. A very close synonym is **bởi vì** (a bit more formal/clear, but same meaning).",
+  "multiChoiceQuiz": {
+    "id": "3b5ecc06-998b-42d0-83ce-2fcc6ba18c8b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I learn Vietnamese because it is interesting."
+      },
+      "answer": "vì",
+      "choices": [
+        "vì",
+        "nên",
+        "mà"
+      ],
+      "hint": "v__",
+      "sentence": "Tôi học tiếng Việt ___ điều thú vị.",
+      "word": "vì",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "because"
+      }
+    },
+    "createdAt": "2025-03-12T13:46:32.815Z",
+    "updatedAt": "2025-03-12T13:46:32.815Z"
+  },
+  "_id": "FBAXY2hmQM4JMbLdG5rr"
+}

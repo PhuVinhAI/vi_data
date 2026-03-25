@@ -1,0 +1,99 @@
+{
+  "rank": 2574,
+  "exampleSentencesTranslated": [
+    "Before entering the room, you must ask for permission from the teacher.",
+    "I want to ask for permission to take a day off to handle personal matters.",
+    "She called to ask for permission from her boss to come home late today."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "xin phép",
+      "choices": [
+        "xin phép",
+        "cho phép",
+        "được phép"
+      ],
+      "hint": "x___p",
+      "translation": {
+        "en": "I need to ask for permission to go outside."
+      },
+      "answer": "xin phép",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "ask for permission"
+      },
+      "sentence": "Tôi cần ___ để đi ra ngoài."
+    },
+    "updatedAt": "2025-03-12T14:35:20.158Z",
+    "type": "multiChoiceQuiz",
+    "id": "a3ad74e4-74d2-40e4-888e-c23bd019ab86",
+    "createdAt": "2025-03-12T14:35:20.158Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "xin phép",
+  "updatedAt": "2026-03-03T11:24:42.920Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "xin phép",
+    "giải thích",
+    "chia sẻ"
+  ],
+  "notes": "xin phép = to ask for permission before doing something. It’s polite and often expected in formal or respectful situations.\n\nIt’s a verb phrase. You usually say who you ask and what you want to do.  \n\nYou’ll often hear it with teachers, bosses, parents, or elders.  \nStrong memory link: similar idea to cho phép (to allow) — xin phép = you ask, cho phép = someone gives permission.",
+  "flashcard": {
+    "example": {
+      "es": "Pido permiso a la maestra para salir.",
+      "en": "I ask for permission from the teacher to go outside.",
+      "vi": "Tôi xin phép cô giáo để ra ngoài."
+    },
+    "definitions": {
+      "es": "Pedir permiso.",
+      "en": "To ask for permission.",
+      "vi": "Xin phép."
+    },
+    "createdAt": "2025-01-28T12:10:39.499Z",
+    "translations": {
+      "es": "pedir permiso",
+      "en": "ask for permission",
+      "vi": "xin phép"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Trước khi vào phòng, em nhớ phải xin phép giáo viên.",
+    "Anh muốn xin phép nghỉ một ngày để giải quyết việc riêng.",
+    "Chị gọi điện để xin phép sếp về trễ hôm nay."
+  ],
+  "notes_md": "**xin phép** = to ask for permission before doing something. It’s polite and often expected in formal or respectful situations.\n\nIt’s a verb phrase. You usually say who you ask and what you want to do.  \n\nYou’ll often hear it with teachers, bosses, parents, or elders.  \nStrong memory link: similar idea to **cho phép** (to allow) — *xin phép* = you ask, *cho phép* = someone gives permission.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d74ce08d-9844-442b-a1cd-566b2f9a7b9a",
+    "createdAt": "2025-03-12T14:35:20.158Z",
+    "content": {
+      "word": "xin phép",
+      "choices": [],
+      "translation": {
+        "en": "I want to ask for permission before entering."
+      },
+      "answer": "xin phép",
+      "translatedAnswer": {
+        "en": "ask for permission"
+      },
+      "language": "vi",
+      "sentence": "Tôi muốn ___ trước khi vào."
+    },
+    "updatedAt": "2025-03-12T14:35:20.158Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "ask for permission",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "QpdIfLLVPTDEgpbe5wv3"
+}

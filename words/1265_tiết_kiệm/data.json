@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tiết kiệm",
+  "multiChoiceQuiz": {
+    "id": "171ef7ce-6a94-44cd-b8f3-005e99e22d76",
+    "createdAt": "2025-03-12T13:30:55.220Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "tiết kiệm",
+        "mất mát",
+        "tiêu thụ"
+      ],
+      "word": "tiết kiệm",
+      "sentence": "Chúng ta nên ___ năng lượng.",
+      "language": "vi",
+      "translation": {
+        "en": "We should save energy."
+      },
+      "translatedAnswer": {
+        "en": "save"
+      },
+      "answer": "tiết kiệm",
+      "hint": "t___ k___m"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:30:55.220Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1265,
+  "choices": [
+    "chi tiêu",
+    "tiêu xài",
+    "tiết kiệm"
+  ],
+  "notes_md": "**tiết kiệm** = to save money. It can also mean to use something economically (time, electricity, water).\n\nAs a verb, it often goes with money, time, electricity, water: *tiết kiệm tiền, tiết kiệm thời gian*.  \nIt can also describe a person’s habit: someone who is careful with spending.\n\nAs an adjective, **tiết kiệm** means “economical” or “thrifty” (người tiết kiệm, cách sống tiết kiệm).\n\nOpposite idea: **lãng phí** (wasteful) — a good contrast to remember.",
+  "notes": "tiết kiệm = to save money. It can also mean to use something economically (time, electricity, water).\n\nAs a verb, it often goes with money, time, electricity, water: tiết kiệm tiền, tiết kiệm thời gian.  \nIt can also describe a person’s habit: someone who is careful with spending.\n\nAs an adjective, tiết kiệm means “economical” or “thrifty” (người tiết kiệm, cách sống tiết kiệm).\n\nOpposite idea: lãng phí (wasteful) — a good contrast to remember.",
+  "exampleSentences": [
+    "Anh luôn cố gắng tiết kiệm để mua một chiếc xe mới.",
+    "Mẹ dạy em cách tiết kiệm mỗi khi nhận được tiền mừng tuổi.",
+    "Tiết kiệm điện là một cách giúp bảo vệ môi trường."
+  ],
+  "updatedAt": "2026-03-03T08:30:42.386Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:55.220Z",
+    "content": {
+      "word": "tiết kiệm",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ tiền cho chuyến đi.",
+      "choices": [],
+      "answer": "tiết kiệm",
+      "translation": {
+        "en": "We need to save money for the trip."
+      },
+      "translatedAnswer": {
+        "en": "save"
+      }
+    },
+    "id": "f6d1e691-4ed7-40a4-ab5b-a215f118b5f1",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:30:55.220Z"
+  },
+  "exampleSentencesTranslated": [
+    "He always tries to save money to buy a new car.",
+    "Mom teaches me how to save money whenever I receive lucky money.",
+    "To save money on electricity is one way to help protect the environment."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I always try to save money every month.",
+      "es": "Siempre trato de ahorrar dinero cada mes.",
+      "vi": "Tôi luôn cố gắng tiết kiệm tiền mỗi tháng."
+    },
+    "definitions": {
+      "en": "To use less of something, especially money, than you normally would.",
+      "vi": "Sử dụng ít hơn một cái gì đó, đặc biệt là tiền, so với mức bình thường.",
+      "es": "Usar menos de algo, especialmente dinero, de lo que normalmente usarías."
+    },
+    "createdAt": "2025-01-28T11:10:52.377Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tiết kiệm",
+      "es": "ahorrar",
+      "en": "save"
+    }
+  },
+  "definition": "save money",
+  "_id": "BCJKVSGPkA7j1iMwaimU"
+}

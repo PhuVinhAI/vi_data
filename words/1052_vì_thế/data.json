@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "vì thế",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a5b59255-61d9-4bd8-ac6d-a2d161923394",
+    "content": {
+      "translatedAnswer": {
+        "en": "because"
+      },
+      "translation": {
+        "en": "I didn't go because it was raining."
+      },
+      "answer": "vì thế",
+      "hint": "v___",
+      "choices": [
+        "bởi vậy",
+        "vì thế",
+        "do đó"
+      ],
+      "sentence": "Tôi không đến ___ trời mưa.",
+      "language": "vi",
+      "word": "vì thế"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:33:14.522Z",
+    "updatedAt": "2025-03-12T15:33:14.522Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "vì thế",
+    "tuy nhiên",
+    "do đó"
+  ],
+  "rank": 1052,
+  "notes_md": "**vì thế** = *therefore, as a result, so*. It shows a result that comes from what was just said.\n\nIt links two clauses: first the reason, then the result with **vì thế**.  \n\nIt sounds a bit more formal and written than **nên** (which is more common in speech). Similar to **do đó** (more formal). Use it to clearly show cause → result.",
+  "notes": "vì thế = therefore, as a result, so. It shows a result that comes from what was just said.\n\nIt links two clauses: first the reason, then the result with vì thế.  \n\nIt sounds a bit more formal and written than nên (which is more common in speech). Similar to do đó (more formal). Use it to clearly show cause → result.",
+  "exampleSentences": [
+    "Trời đang mưa rất to, vì thế anh không ra ngoài tối nay.",
+    "Em đã học rất chăm chỉ, vì thế em đã đạt điểm cao trong kỳ thi.",
+    "Chị ấy bị ốm, vì thế chị ấy không đến buổi họp hôm nay."
+  ],
+  "updatedAt": "2026-03-03T08:08:03.230Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:33:14.522Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "vì thế",
+      "language": "vi",
+      "sentence": "Tôi không đến ___ trời mưa.",
+      "translation": {
+        "en": "I didn't go because it was raining."
+      },
+      "translatedAnswer": {
+        "en": "because"
+      },
+      "answer": "vì thế"
+    },
+    "id": "3b05a163-9ccf-444e-847f-04741a3daba5",
+    "updatedAt": "2025-03-12T15:33:14.522Z"
+  },
+  "exampleSentencesTranslated": [
+    "It is raining heavily, therefore I am not going out tonight.",
+    "I studied very hard, therefore I got a high score in the exam.",
+    "She is sick, therefore she did not come to the meeting today."
+  ],
+  "definition": "therefore",
+  "flashcard": {
+    "definitions": {
+      "en": "A phrase used to indicate the result or reason of a previously mentioned situation.",
+      "vi": "Từ dùng để chỉ kết quả hoặc lý do của một sự việc đã nói trước đó."
+    },
+    "word": "vì thế",
+    "example": {
+      "en": "It was raining heavily, so we had to stay at home.",
+      "vi": "Trời mưa rất to, vì thế chúng tôi phải ở nhà."
+    },
+    "translations": {
+      "en": "therefore; so; for that reason"
+    },
+    "createdAt": "2025-05-24T16:30:26.318Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "fdvMSNgBLJCHUGbWRYQc"
+}

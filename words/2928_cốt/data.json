@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cốt",
+    "mục",
+    "phần"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cốt",
+  "rank": 2928,
+  "exampleSentences": [
+    "Anh luôn nhấn mạnh cốt của vấn đề khi thảo luận với nhóm.",
+    "Chị ấy nói rằng cốt của câu chuyện là bài học về sự kiên nhẫn.",
+    "Em cần hiểu rõ cốt của bài học này trước khi làm bài tập."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "main part",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "4b4e4a79-7664-4fc1-833f-6cc69ebd8051",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:37:22.310Z",
+    "createdAt": "2025-03-12T13:37:22.310Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "core"
+      },
+      "language": "vi",
+      "sentence": "Cái ___ của bài học rất quan trọng.",
+      "word": "cốt",
+      "choices": [],
+      "translation": {
+        "en": "The core of the lesson is very important."
+      },
+      "answer": "cốt"
+    }
+  },
+  "notes": "cốt means the main part, the core, or the most important point of something. It’s what really matters after you remove the extra details.\n\nIt’s a noun and usually abstract, so you don’t use classifiers with it. Often used in the pattern cốt của + noun to show “the core of” something.  \n\nVery common related words: cốt lõi (core, essence) and cốt truyện (plot of a story).  \nClose synonym: trọng tâm (main focus) — think “focus point” to remember it.",
+  "updatedAt": "2026-03-03T18:13:25.188Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "f3cb7091-0961-46f6-9faa-98f87c241e26",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:37:22.310Z",
+    "createdAt": "2025-03-12T13:37:22.310Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "core"
+      },
+      "language": "vi",
+      "sentence": "Cái ___ của bài học rất quan trọng.",
+      "word": "cốt",
+      "hint": "c__t",
+      "choices": [
+        "cốt",
+        "nền",
+        "trụ"
+      ],
+      "answer": "cốt",
+      "translation": {
+        "en": "The core of the lesson is very important."
+      }
+    }
+  },
+  "notes_md": "**cốt** means the main part, the core, or the most important point of something. It’s what really matters after you remove the extra details.\n\nIt’s a noun and usually abstract, so you don’t use classifiers with it. Often used in the pattern **cốt của + noun** to show “the core of” something.  \n\nVery common related words: **cốt lõi** (core, essence) and **cốt truyện** (plot of a story).  \nClose synonym: **trọng tâm** (main focus) — think “focus point” to remember it.",
+  "exampleSentencesTranslated": [
+    "He always emphasizes the main part of the issue when discussing with the group.",
+    "She said that the main part of the story is the lesson about patience.",
+    "You need to clearly understand the main part of this lesson before doing the exercises."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The essential part or main point of something.",
+      "vi": "Phần thiết yếu hoặc điểm chính của một cái gì đó.",
+      "es": "La parte esencial o el punto principal de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Cốt lõi của vấn đề là sự giao tiếp.",
+      "es": "El núcleo del problema es la comunicación.",
+      "en": "The core of the issue is communication."
+    },
+    "createdAt": "2025-01-28T11:16:43.618Z",
+    "translations": {
+      "en": "core",
+      "es": "núcleo",
+      "vi": "cốt"
+    }
+  },
+  "_id": "CparQdSbbA4jgfAsjhV1"
+}

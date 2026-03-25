@@ -1,0 +1,99 @@
+{
+  "rank": 2537,
+  "exampleSentences": [
+    "Em nên ăn nhiều rau để có dinh dưỡng tốt cho sức khỏe.",
+    "Chị đọc sách về dinh dưỡng để chăm sóc gia đình tốt hơn.",
+    "Anh quan tâm đến dinh dưỡng khi chọn món ăn mỗi ngày."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "El proceso de proporcionar o obtener los alimentos necesarios para la salud y el crecimiento.",
+      "vi": "Quá trình cung cấp hoặc nhận thức ăn cần thiết cho sức khỏe và sự phát triển.",
+      "en": "The process of providing or obtaining the food necessary for health and growth."
+    },
+    "translations": {
+      "vi": "dinh dưỡng",
+      "es": "nutrición",
+      "en": "nutrition"
+    },
+    "createdAt": "2025-01-28T11:40:36.620Z",
+    "example": {
+      "vi": "Dinh dưỡng là rất quan trọng cho sức khỏe.",
+      "es": "La nutrición es muy importante para la salud.",
+      "en": "Nutrition is very important for health."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "dinh dưỡng",
+      "translatedAnswer": {
+        "en": "nutrition"
+      },
+      "choices": [
+        "sức khỏe",
+        "dinh dưỡng",
+        "thức ăn"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "Eating a lot of vegetables is good for your nutrition."
+      },
+      "sentence": "Ăn nhiều rau củ tốt cho ___ của bạn.",
+      "hint": "d____n",
+      "word": "dinh dưỡng"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "f746e1f9-adbd-4025-8fcd-6bc5409ee808",
+    "createdAt": "2025-03-12T14:02:44.710Z",
+    "updatedAt": "2025-03-12T14:02:44.710Z"
+  },
+  "word": "dinh dưỡng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**dinh dưỡng** = nutrition, the food and nutrients your body needs to grow and stay healthy. It’s about how food affects your health.\n\nIt’s an uncountable noun — you don’t count it, you talk about *chế độ dinh dưỡng* (diet), *kiến thức dinh dưỡng* (nutrition knowledge), *thiếu/thừa dinh dưỡng* (lack/excess of nutrition).  \n\nDon’t confuse it with **chất dinh dưỡng** — that means “nutrients” (like protein, vitamins), the actual substances inside food.  \n\nOften used in health, fitness, parenting, and medical contexts.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "You should eat more vegetables to have good nutrition for your health.",
+    "She reads books about nutrition to take better care of her family.",
+    "He pays attention to nutrition when choosing food every day."
+  ],
+  "notes": "dinh dưỡng = nutrition, the food and nutrients your body needs to grow and stay healthy. It’s about how food affects your health.\n\nIt’s an uncountable noun — you don’t count it, you talk about chế độ dinh dưỡng (diet), kiến thức dinh dưỡng (nutrition knowledge), thiếu/thừa dinh dưỡng (lack/excess of nutrition).  \n\nDon’t confuse it with chất dinh dưỡng — that means “nutrients” (like protein, vitamins), the actual substances inside food.  \n\nOften used in health, fitness, parenting, and medical contexts.",
+  "choices": [
+    "dinh dưỡng",
+    "sức khỏe",
+    "thực phẩm"
+  ],
+  "updatedAt": "2026-03-03T10:45:59.014Z",
+  "definition": "nutrition",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "nutrition"
+      },
+      "answer": "dinh dưỡng",
+      "translation": {
+        "en": "We need nutrition in our diet."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "dinh dưỡng",
+      "sentence": "Chúng ta cần ___ trong chế độ ăn."
+    },
+    "type": "fillBlankQuiz",
+    "id": "3dfe766c-7f41-4721-bbcb-1f505737c5a1",
+    "createdAt": "2025-03-12T14:02:44.710Z",
+    "updatedAt": "2025-03-12T14:02:44.710Z"
+  },
+  "_id": "JOT9y1prgYITxqh58h6m"
+}

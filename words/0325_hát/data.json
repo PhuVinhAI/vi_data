@@ -1,0 +1,98 @@
+{
+  "choices": [
+    "nghe",
+    "hát",
+    "chơi"
+  ],
+  "rank": 325,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:53:29.906Z",
+    "updatedAt": "2025-03-12T14:53:29.906Z",
+    "content": {
+      "sentence": "Cô ấy thường ___ vào buổi tối.",
+      "word": "hát",
+      "language": "vi",
+      "hint": "h__t",
+      "answer": "hát",
+      "translatedAnswer": {
+        "en": "sings"
+      },
+      "choices": [
+        "hát",
+        "nhảy",
+        "đọc"
+      ],
+      "translation": {
+        "en": "She often sings in the evening."
+      }
+    },
+    "id": "66e8b78a-4f0d-412c-a804-84b9461bfeb6"
+  },
+  "word": "hát",
+  "exampleSentences": [
+    "Em thích hát mỗi khi cảm thấy vui vẻ cùng bạn bè.",
+    "Anh có thể hát một bài cho mọi người nghe không?",
+    "Chị thường hát khi đang nấu ăn trong bếp."
+  ],
+  "notes": "hát = to sing. Use it when someone uses their voice to perform a song or melody.\n\nIt’s an intransitive verb, but often followed by what you sing: hát + bài hát / bài + tên bài.  \nYou can also add who listens: hát cho + ai + nghe (hát cho mẹ nghe).  \nVery common collocations: hát hay (sing well), hát dở (sing badly), biết hát (can sing).\n\nRelated word: ca hát (singing, more formal/artistic).",
+  "exampleSentencesTranslated": [
+    "I like to sing whenever I feel happy with my friends.",
+    "Can you sing a song for everyone?",
+    "She often sings while cooking in the kitchen."
+  ],
+  "updatedAt": "2026-03-03T06:54:38.901Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:53:29.906Z",
+    "updatedAt": "2025-03-12T14:53:29.906Z",
+    "content": {
+      "translation": {
+        "en": "She often sings in the evening."
+      },
+      "translatedAnswer": {
+        "en": "sings"
+      },
+      "answer": "hát",
+      "language": "vi",
+      "word": "hát",
+      "sentence": "Cô ấy thường ___ vào buổi tối."
+    },
+    "id": "d00aa558-553b-4e44-99ce-ac27147faceb"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T12:26:50.958Z",
+    "definitions": {
+      "en": "To produce musical sounds with the voice.",
+      "es": "Producir sonidos musicales con la voz.",
+      "vi": "Sản xuất âm thanh âm nhạc bằng giọng nói."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "sing",
+      "es": "cantar",
+      "vi": "hát"
+    },
+    "example": {
+      "en": "I like to sing when I am happy.",
+      "es": "Me gusta cantar cuando estoy feliz.",
+      "vi": "Tôi thích hát khi tôi vui."
+    }
+  },
+  "notes_md": "**hát** = to sing. Use it when someone uses their voice to perform a song or melody.\n\nIt’s an intransitive verb, but often followed by what you sing: *hát + bài hát / bài + tên bài*.  \nYou can also add who listens: *hát cho + ai + nghe* (hát cho mẹ nghe).  \nVery common collocations: **hát hay** (sing well), **hát dở** (sing badly), **biết hát** (can sing).\n\nRelated word: **ca hát** (singing, more formal/artistic).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "sing",
+  "_id": "UrqtbLjnckWbAQZCWVr4"
+}

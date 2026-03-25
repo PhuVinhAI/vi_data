@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh rất thích cảm giác tự do khi đi bộ trên cánh đồng rộng lớn.",
+    "Em muốn sống ở một thành phố rộng lớn để có nhiều cơ hội hơn.",
+    "Gia đình chị vừa đi du lịch ở một khu rừng rộng lớn và xanh mát."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "rộng lớn",
+    "nhỏ bé",
+    "chật hẹp"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "rộng lớn",
+      "en": "vast",
+      "es": "amplio"
+    },
+    "example": {
+      "vi": "Cánh đồng này rất rộng lớn.",
+      "es": "Este campo es muy amplio.",
+      "en": "This field is very vast."
+    },
+    "definitions": {
+      "vi": "Lớn về kích thước hoặc diện tích; rộng rãi.",
+      "es": "Grande en tamaño o extensión; espacioso.",
+      "en": "Large in size or extent; spacious."
+    },
+    "createdAt": "2025-01-28T13:48:05.282Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T10:12:11.545Z",
+  "exampleSentencesTranslated": [
+    "He really likes the feeling of freedom when walking on a vast field.",
+    "I want to live in a vast city to have more opportunities.",
+    "My family just traveled to a vast and green forest."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "rộng lớn means very big or vast in size or scale. It’s stronger than just rộng (wide).\n\nIt’s an adjective, so it comes after the noun and describes places, spaces, nature, or abstract things like opportunities or markets.  \n\nThink big scale: sky, ocean, land, world, future.  \nClose synonym: bao la (even more poetic, “boundless”).  \nOpposites: nhỏ bé (tiny), chật hẹp (cramped).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cánh đồng này rất ___.",
+      "translation": {
+        "en": "This field is very large."
+      },
+      "translatedAnswer": {
+        "en": "large"
+      },
+      "answer": "rộng lớn",
+      "language": "vi",
+      "word": "rộng lớn",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:16:23.542Z",
+    "createdAt": "2025-03-12T16:16:23.542Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "41f8e3f6-c81a-4e0b-925a-98365bc76ba8"
+  },
+  "word": "rộng lớn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**rộng lớn** means *very big or vast* in size or scale. It’s stronger than just **rộng** (wide).\n\nIt’s an adjective, so it comes **after the noun** and describes places, spaces, nature, or abstract things like opportunities or markets.  \n\nThink big scale: sky, ocean, land, world, future.  \nClose synonym: **bao la** (even more poetic, “boundless”).  \nOpposites: **nhỏ bé** (tiny), **chật hẹp** (cramped).",
+  "rank": 2213,
+  "multiChoiceQuiz": {
+    "id": "3c3625a1-8d51-475b-b5db-3c25876842ff",
+    "createdAt": "2025-03-12T16:16:23.542Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:16:23.542Z",
+    "content": {
+      "translation": {
+        "en": "The sea here is very large."
+      },
+      "translatedAnswer": {
+        "en": "large"
+      },
+      "hint": "r___ l___",
+      "word": "rộng lớn",
+      "answer": "rộng lớn",
+      "language": "vi",
+      "choices": [
+        "rộng lớn",
+        "hẹp",
+        "nhỏ bé"
+      ],
+      "sentence": "Biển ở đây rất ___."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "definition": "vast",
+  "_id": "qjtW5OsRmhES1AZyxbX8"
+}

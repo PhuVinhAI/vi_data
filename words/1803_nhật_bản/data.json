@@ -1,0 +1,99 @@
+{
+  "word": "nhật bản",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I really want to travel to Japan during cherry blossom season.",
+    "His friend is learning Japanese to work in Japan.",
+    "She likes eating the traditional sushi of Japan."
+  ],
+  "choices": [
+    "hàn quốc",
+    "nhật bản",
+    "trung quốc"
+  ],
+  "multiChoiceQuiz": {
+    "id": "f00c2af2-c8c1-4270-a024-22704f597e33",
+    "createdAt": "2025-03-12T16:39:11.240Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi muốn đi ___ vào mùa hè.",
+      "hint": "n___ b__n",
+      "word": "nhật bản",
+      "language": "vi",
+      "choices": [
+        "hàn quốc",
+        "nhật bản",
+        "trung quốc"
+      ],
+      "answer": "nhật bản",
+      "translation": {
+        "en": "I want to go to Japan in the summer."
+      },
+      "translatedAnswer": {
+        "en": "Japan"
+      }
+    },
+    "updatedAt": "2025-03-12T16:39:11.240Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Em rất muốn đi du lịch nhật bản vào mùa hoa anh đào.",
+    "Bạn của anh đang học tiếng nhật bản để làm việc ở đó.",
+    "Chị thích ăn món sushi truyền thống của nhật bản."
+  ],
+  "updatedAt": "2026-03-03T09:28:52.656Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:10:49.600Z",
+    "translations": {
+      "vi": "Nhật Bản",
+      "es": "Japón",
+      "en": "Japan"
+    },
+    "example": {
+      "vi": "Nhật Bản là một đất nước xinh đẹp.",
+      "es": "Japón es un país hermoso.",
+      "en": "Japan is a beautiful country."
+    },
+    "definitions": {
+      "vi": "Nhật Bản, một quốc gia đảo ở Đông Á.",
+      "en": "Japan, an island country in East Asia.",
+      "es": "Japón, un país insular en Asia Oriental."
+    }
+  },
+  "notes": "Nhật Bản means Japan, the country. It’s a proper noun, so capitalize it: Nhật Bản.\n\nYou can say nước Nhật Bản for clarity, but usually just Nhật Bản is enough.  \nFor things related to Japan, use Nhật as a modifier: người Nhật (Japanese person), tiếng Nhật (Japanese language), văn hóa Nhật (Japanese culture). Note: we say tiếng Nhật, not tiếng Nhật Bản.\n\nStructure: ở / đến / từ + Nhật Bản (i.e. đến Nhật Bản)",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:39:11.240Z",
+    "id": "cf254395-308c-439c-8986-bc01b2960f76",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "nhật bản",
+      "sentence": "Tôi muốn đi ___ vào mùa hè.",
+      "translatedAnswer": {
+        "en": "Japan"
+      },
+      "choices": [],
+      "answer": "nhật bản",
+      "translation": {
+        "en": "I want to go to Japan in the summer."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:39:11.240Z"
+  },
+  "rank": 1803,
+  "definition": "Japan",
+  "notes_md": "**Nhật Bản** means *Japan*, the country. It’s a proper noun, so capitalize it: **Nhật Bản**.\n\nYou can say **nước Nhật Bản** for clarity, but usually just **Nhật Bản** is enough.  \nFor things related to Japan, use **Nhật** as a modifier: **người Nhật** (Japanese person), **tiếng Nhật** (Japanese language), **văn hóa Nhật** (Japanese culture). Note: we say **tiếng Nhật**, not *tiếng Nhật Bản*.\n\nStructure: ở / đến / từ + Nhật Bản (i.e. đến Nhật Bản)",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "wbwItvI24kF6hAKMhcu1"
+}

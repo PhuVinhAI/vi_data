@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "tấn công",
+    "bảo vệ",
+    "giúp đỡ"
+  ],
+  "rank": 2243,
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "attack"
+      },
+      "choices": [
+        "phòng thủ",
+        "tấn công",
+        "rút lui"
+      ],
+      "translation": {
+        "en": "We need to attack the enemy."
+      },
+      "sentence": "Chúng ta cần ___ kẻ địch.",
+      "language": "vi",
+      "word": "tấn công",
+      "hint": "t___g",
+      "answer": "tấn công"
+    },
+    "updatedAt": "2025-03-12T15:01:26.769Z",
+    "createdAt": "2025-03-12T15:01:26.769Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "14541452-c3f7-49a4-8c99-08a660207baf"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tấn công",
+  "notes": "tấn công = to attack — to use force or action to hurt, damage, or defeat someone/something.\n\nIt’s a verb. You tấn công + ai/cái gì (a person or target), or tấn công vào + mục tiêu to stress the direction. You can also say tấn công bằng + phương tiện (weapons, words, technology).  \n\nIt’s used for physical attacks, but also abstract ones like tấn công mạng (cyberattack) or attacking someone with criticism.  \n\nClose synonyms: đánh (more physical, everyday), công kích (more verbal/critical).  \nOpposite: phòng thủ (to defend).  \n\nStructure: tấn công + ai/cái gì; tấn công vào + mục tiêu; tấn công bằng + phương tiện (tấn công vào thành phố)",
+  "exampleSentences": [
+    "Hôm qua đội bóng của anh bị tấn công nhiều lần trong trận đấu.",
+    "Nếu em gặp nguy hiểm, em nên tránh xa người đang tấn công.",
+    "Tin tức nói rằng một nhóm đã tấn công ngân hàng vào ban đêm."
+  ],
+  "exampleSentencesTranslated": [
+    "Yesterday, your team suffered an attack many times in the match.",
+    "If you are in danger, you should avoid the person who is about to attack.",
+    "The news said that a group carried out an attack on the bank at night."
+  ],
+  "fillBlankQuiz": {
+    "id": "cad42f1f-0281-4547-942f-b171dc86df47",
+    "updatedAt": "2025-03-12T15:01:26.769Z",
+    "content": {
+      "language": "vi",
+      "word": "tấn công",
+      "answer": "tấn công",
+      "sentence": "Chúng ta cần ___ kẻ địch.",
+      "translation": {
+        "en": "We need to attack the enemy."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "attack"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:01:26.769Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:15:32.296Z",
+  "flashcard": {
+    "example": {
+      "en": "The army launched an attack on the enemy base.",
+      "es": "El ejército lanzó un ataque contra la base enemiga.",
+      "vi": "Quân đội đã tấn công vào căn cứ của đối phương."
+    },
+    "translations": {
+      "en": "attack",
+      "es": "ataque",
+      "vi": "tấn công"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To assault or attack someone or something.",
+      "es": "Asaltar o atacar a alguien o algo.",
+      "vi": "Tấn công là hành động tấn công ai đó hoặc cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:34:17.076Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**tấn công** = to attack — to use force or action to hurt, damage, or defeat someone/something.\n\nIt’s a verb. You **tấn công + ai/cái gì** (a person or target), or **tấn công vào + mục tiêu** to stress the direction. You can also say **tấn công bằng + phương tiện** (weapons, words, technology).  \n\nIt’s used for physical attacks, but also abstract ones like **tấn công mạng** (cyberattack) or attacking someone with criticism.  \n\nClose synonyms: **đánh** (more physical, everyday), **công kích** (more verbal/critical).  \nOpposite: **phòng thủ** (to defend).  \n\n`Structure: tấn công + ai/cái gì; tấn công vào + mục tiêu; tấn công bằng + phương tiện` (tấn công vào thành phố)",
+  "definition": "attack",
+  "_id": "XPslltpyav5CiunTBe4N"
+}

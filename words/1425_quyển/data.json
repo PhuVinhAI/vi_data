@@ -1,0 +1,99 @@
+{
+  "notes": "quyển means book, but more exactly it’s a classifier for bound printed things.\n\nYou use it before nouns like sách (book), vở (notebook), truyện (story).  \n\nIt can also mean a volume of a series.  \nVery close synonym: cuốn — both mean the same, but in the South, cuốn is often used more than quyển.",
+  "choices": [
+    "bút",
+    "quyển",
+    "bàn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:48:19.150Z",
+  "word": "quyển",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "q___n",
+      "translation": {
+        "en": "I bought a book."
+      },
+      "answer": "quyển",
+      "word": "quyển",
+      "choices": [
+        "quyển",
+        "bức",
+        "chiếc"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "book"
+      },
+      "sentence": "Tôi mua một ___ sách."
+    },
+    "updatedAt": "2025-03-12T17:18:54.724Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T17:18:54.724Z",
+    "id": "92b4b511-2a24-45ce-9f39-65c4fba699c9",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I just bought a new book at the bookstore near my house.",
+    "Can you lend me this book to read?",
+    "I like reading this book because it is very interesting."
+  ],
+  "rank": 1425,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "book",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "9473801a-f273-4e1c-8de7-48977bf24f3a",
+    "createdAt": "2025-03-12T17:18:54.724Z",
+    "content": {
+      "translation": {
+        "en": "I bought a book."
+      },
+      "answer": "quyển",
+      "word": "quyển",
+      "choices": [],
+      "sentence": "Tôi mua một ___ sách.",
+      "translatedAnswer": {
+        "en": "book"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T17:18:54.724Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**quyển** means *book*, but more exactly it’s a **classifier** for bound printed things.\n\nYou use it before nouns like *sách* (book), *vở* (notebook), *truyện* (story).  \n\nIt can also mean a *volume* of a series.  \nVery close synonym: **cuốn** — both mean the same, but in the South, *cuốn* is often used more than *quyển*.",
+  "exampleSentences": [
+    "Anh vừa mua một quyển mới ở hiệu sách gần nhà.",
+    "Chị có thể cho em mượn quyển này để đọc không?",
+    "Em thích đọc quyển này vì nó rất thú vị."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I am reading an interesting book.",
+      "vi": "Tôi đang đọc một quyển sách thú vị.",
+      "es": "Estoy leyendo un libro interesante."
+    },
+    "definitions": {
+      "es": "Un volumen o libro.",
+      "en": "A volume or book.",
+      "vi": "Một quyển sách hoặc tập."
+    },
+    "createdAt": "2025-01-28T12:02:05.062Z",
+    "translations": {
+      "en": "book",
+      "vi": "quyển",
+      "es": "libro"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "OcK0DMDBy31hdhz91MY8"
+}

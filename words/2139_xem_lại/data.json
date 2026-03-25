@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "review",
+      "vi": "xem lại",
+      "es": "revisar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito revisar la tarea antes de entregarla.",
+      "en": "I need to review the homework before submitting it.",
+      "vi": "Tôi cần xem lại bài tập trước khi nộp."
+    },
+    "definitions": {
+      "en": "To review or look over something again.",
+      "vi": "Xem xét hoặc nhìn lại một cái gì đó.",
+      "es": "Revisar o mirar algo de nuevo."
+    },
+    "createdAt": "2025-01-28T12:20:36.018Z"
+  },
+  "notes_md": "**xem lại** = to review, look at something again to check or refresh your memory. It’s used when you want to re-check details or rethink something.\n\nIt often goes with things like video, email, kế hoạch (plans), hoặc vấn đề. It can also mean reconsider, not just physically look again.\n\n\nClose words: **kiểm tra lại** (more formal, focus on checking for mistakes), **ôn lại** (review for study).",
+  "exampleSentences": [
+    "Em cần xem lại bài tập trước khi nộp cho giáo viên.",
+    "Anh muốn xem lại hợp đồng trước khi ký tên.",
+    "Chị thường xem lại các ghi chú sau mỗi buổi học."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:46:17.260Z",
+    "id": "a3ddbd51-7164-489a-ac15-8f7f66a5d7cd",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "review"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ bài kiểm tra.",
+      "answer": "xem lại",
+      "translation": {
+        "en": "I need to review the test."
+      },
+      "choices": [],
+      "word": "xem lại"
+    },
+    "updatedAt": "2025-03-12T14:46:17.260Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "review",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:46:17.260Z",
+    "id": "ed7273d4-b00d-4a93-8d75-f203951acac7",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi cần ___ bài kiểm tra.",
+      "translatedAnswer": {
+        "en": "review"
+      },
+      "language": "vi",
+      "word": "xem lại",
+      "choices": [
+        "xem lại",
+        "nghe lại",
+        "đọc lại"
+      ],
+      "hint": "x___ l__",
+      "answer": "xem lại",
+      "translation": {
+        "en": "I need to review the test."
+      }
+    },
+    "updatedAt": "2025-03-12T14:46:17.260Z"
+  },
+  "word": "xem lại",
+  "rank": 2139,
+  "exampleSentencesTranslated": [
+    "I need to review the homework before submitting it to the teacher.",
+    "I want to review the contract before signing.",
+    "She usually reviews her notes after every class."
+  ],
+  "updatedAt": "2026-03-03T10:04:09.076Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nhắc lại",
+    "xem lại",
+    "học lại"
+  ],
+  "notes": "xem lại = to review, look at something again to check or refresh your memory. It’s used when you want to re-check details or rethink something.\n\nIt often goes with things like video, email, kế hoạch (plans), hoặc vấn đề. It can also mean reconsider, not just physically look again.\n\nClose words: kiểm tra lại (more formal, focus on checking for mistakes), ôn lại (review for study).",
+  "_id": "TKo9G7FSg218jiq5rd9m"
+}

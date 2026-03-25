@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "8ecfb765-6da8-4be0-95d3-1487302cbc06",
+    "content": {
+      "translatedAnswer": {
+        "en": "taste"
+      },
+      "translation": {
+        "en": "This water has a sweet taste."
+      },
+      "hint": "v__",
+      "answer": "vị",
+      "choices": [
+        "mùi",
+        "hương",
+        "vị"
+      ],
+      "sentence": "Nước này có ___ ngọt.",
+      "language": "vi",
+      "word": "vị"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:31:04.595Z",
+    "updatedAt": "2025-03-12T15:31:04.595Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 524,
+  "choices": [
+    "vị",
+    "màu",
+    "mùi"
+  ],
+  "notes_md": "**vị** means *taste* or *flavor* — what you feel in your mouth when eating or drinking. It’s a noun.\n\nIt often goes with adjectives to describe specific tastes like sweet, salty, sour, bitter.  \n\nYou can say *một vị* when talking about a specific flavor, but usually it’s uncountable in meaning. Common pairings: vị ngọt (sweet taste), vị mặn (salty taste), vị đắng (bitter taste).\n\nVery common extra meaning: **vị** is also a polite classifier for respected people (like monks, officials), and can mean someone’s “position” in formal words like *địa vị* (social status).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "vị",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "tasty"
+      },
+      "translation": {
+        "en": "This dish is very tasty."
+      },
+      "answer": "vị",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Món ăn này rất ___.",
+      "word": "vị"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:31:04.595Z",
+    "id": "7212d81e-8082-4dbb-95ad-aa72e6e45b56",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:31:04.595Z"
+  },
+  "exampleSentencesTranslated": [
+    "I really like the sweet taste of this dessert.",
+    "I feel that the taste of this dish is a bit salty.",
+    "I am trying to recognize the special taste in this cup of coffee."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "sabor",
+      "vi": "vị",
+      "en": "taste"
+    },
+    "createdAt": "2025-01-28T13:06:03.148Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một hương vị hoặc vị giác đặc trưng của thực phẩm.",
+      "es": "Un sabor o gusto particular de la comida.",
+      "en": "A particular flavor or taste of food."
+    },
+    "example": {
+      "es": "Este plato tiene un sabor muy bueno.",
+      "vi": "Món ăn này có vị rất ngon.",
+      "en": "This dish has a very good taste."
+    }
+  },
+  "definition": "taste",
+  "notes": "vị means taste or flavor — what you feel in your mouth when eating or drinking. It’s a noun.\n\nIt often goes with adjectives to describe specific tastes like sweet, salty, sour, bitter.  \n\nYou can say một vị when talking about a specific flavor, but usually it’s uncountable in meaning. Common pairings: vị ngọt (sweet taste), vị mặn (salty taste), vị đắng (bitter taste).\n\nVery common extra meaning: vị is also a polite classifier for respected people (like monks, officials), and can mean someone’s “position” in formal words like địa vị (social status).",
+  "exampleSentences": [
+    "Anh thích vị ngọt của món chè này lắm.",
+    "Chị cảm thấy vị của món ăn này hơi mặn.",
+    "Em đang cố nhận ra vị đặc biệt trong ly cà phê này."
+  ],
+  "updatedAt": "2026-03-03T07:14:42.336Z",
+  "_id": "f9D9ssP7HvVQpRZpHLr2"
+}

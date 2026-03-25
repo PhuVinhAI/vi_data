@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hình",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:23:10.874Z",
+    "id": "1cf0d15a-e827-4daa-b6a6-a245ad7d48cc",
+    "content": {
+      "translation": {
+        "en": "I want to draw a new image."
+      },
+      "translatedAnswer": {
+        "en": "image"
+      },
+      "hint": "h___",
+      "answer": "hình",
+      "choices": [
+        "hình",
+        "bức tranh",
+        "hình ảnh"
+      ],
+      "word": "hình",
+      "sentence": "Tôi muốn vẽ một ___ mới.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:10.874Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hình** = picture, image (photo you can look at on a phone or paper).\n\nIt’s a noun. You often hear **một tấm hình / một bức hình** (for photos); in casual speech, **một cái hình** is also common. Very close to **ảnh** (photo) — in many situations, *hình* and *ảnh* feel interchangeable, but *ảnh* is slightly more specific to photos.\n\nIt can also mean **shape/form** in words like **hình dạng** (shape) or in math (geometric shapes).",
+  "choices": [
+    "hình",
+    "bàn",
+    "ghế"
+  ],
+  "rank": 518,
+  "notes": "hình = picture, image (photo you can look at on a phone or paper).\n\nIt’s a noun. You often hear một tấm hình / một bức hình (for photos); in casual speech, một cái hình is also common. Very close to ảnh (photo) — in many situations, hình and ảnh feel interchangeable, but ảnh is slightly more specific to photos.\n\nIt can also mean shape/form in words like hình dạng (shape) or in math (geometric shapes).",
+  "updatedAt": "2026-03-03T07:14:06.564Z",
+  "exampleSentences": [
+    "Em vừa chụp một hình đẹp ở công viên sáng nay.",
+    "Anh có thể gửi cho chị hình của buổi tiệc hôm qua không?",
+    "Mỗi lần nhìn lại hình cũ, em cảm thấy rất vui."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "a9dd6c15-5f67-4142-ac4e-04a162a71f35",
+    "content": {
+      "translation": {
+        "en": "I see that image is very beautiful."
+      },
+      "translatedAnswer": {
+        "en": "image"
+      },
+      "answer": "hình",
+      "choices": [],
+      "word": "hình",
+      "language": "vi",
+      "sentence": "Tôi nhìn thấy ___ đó rất đẹp."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:23:10.874Z",
+    "updatedAt": "2025-03-12T15:23:10.874Z"
+  },
+  "exampleSentencesTranslated": [
+    "I just took a beautiful picture at the park this morning.",
+    "Can you send me the picture of the party yesterday?",
+    "Every time I look at old pictures, I feel very happy."
+  ],
+  "definition": "picture",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:57:59.140Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "forma",
+      "vi": "hình",
+      "en": "shape"
+    },
+    "example": {
+      "vi": "Tôi vẽ một hình tròn.",
+      "es": "Dibujé un círculo.",
+      "en": "I drew a circle."
+    },
+    "definitions": {
+      "en": "A shape or figure, often used in geometry.",
+      "es": "Una forma o figura, a menudo utilizada en geometría.",
+      "vi": "Một hình dạng hoặc hình thức, thường được sử dụng trong hình học."
+    }
+  },
+  "_id": "dAlDROdPVcBpIK9SA9f4"
+}

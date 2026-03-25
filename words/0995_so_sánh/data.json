@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:22:44.832Z",
+    "createdAt": "2025-03-12T14:22:44.832Z",
+    "id": "05f5d108-2678-4082-b4b5-52b3f333506f",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "compare"
+      },
+      "answer": "so sánh",
+      "hint": "s___n",
+      "word": "so sánh",
+      "sentence": "Chúng tôi sẽ ___ hai sản phẩm.",
+      "translation": {
+        "en": "We will compare two products."
+      },
+      "language": "vi",
+      "choices": [
+        "đánh giá",
+        "so sánh",
+        "phân tích"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "word": "so sánh",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**so sánh** = to compare two or more things to see similarities or differences.\n\nIt’s a verb, used when you look at prices, people, results, quality, etc. Very often followed by **với** to show what you’re comparing to.\n\n`Structure: so sánh A với B` (i.e. so sánh giá với nhau)\n\nYou can also hear **so sánh A và B**, but **với** sounds more natural. A related word is **đối chiếu** (more formal, like cross-checking details).",
+  "choices": [
+    "giải thích",
+    "so sánh",
+    "mô tả"
+  ],
+  "updatedAt": "2026-03-03T08:01:57.849Z",
+  "notes": "so sánh = to compare two or more things to see similarities or differences.\n\nIt’s a verb, used when you look at prices, people, results, quality, etc. Very often followed by với to show what you’re comparing to.\n\nStructure: so sánh A với B (i.e. so sánh giá với nhau)\n\nYou can also hear so sánh A và B, but với sounds more natural. A related word is đối chiếu (more formal, like cross-checking details).",
+  "exampleSentencesTranslated": [
+    "I want to compare the prices of these two phones before buying.",
+    "She often compares her study results with her friends.",
+    "Can you compare these two paintings to see the difference?"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:22:44.832Z",
+    "updatedAt": "2025-03-12T14:22:44.832Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We will compare two products."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "so sánh",
+      "sentence": "Chúng tôi sẽ ___ hai sản phẩm.",
+      "translatedAnswer": {
+        "en": "compare"
+      },
+      "answer": "so sánh"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "ba7f23d3-1076-4801-be41-fa811314ce67"
+  },
+  "definition": "compare",
+  "rank": 995,
+  "exampleSentences": [
+    "Anh muốn so sánh giá của hai chiếc điện thoại này trước khi mua.",
+    "Chị thường so sánh kết quả học tập của mình với bạn bè.",
+    "Em có thể so sánh hai bức tranh này để thấy sự khác biệt không?"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:51:27.528Z",
+    "definitions": {
+      "vi": "Xem xét sự tương đồng và khác biệt giữa hai hoặc nhiều đối tượng.",
+      "es": "Examinar las similitudes y diferencias entre dos o más elementos.",
+      "en": "To examine the similarities and differences between two or more items."
+    },
+    "translations": {
+      "en": "compare",
+      "es": "comparar",
+      "vi": "so sánh"
+    },
+    "example": {
+      "en": "We need to compare these two products.",
+      "vi": "Chúng ta cần so sánh hai sản phẩm này.",
+      "es": "Necesitamos comparar estos dos productos."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "NgrUKuQS1fy2jWUmjIDS"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Mắt means eye — the body part you see with. It’s a noun.\n\nUse the classifier con: một con mắt, hai con mắt. Common pairings: mắt trái/phải (left/right eye), nhắm mắt (close eyes), mở mắt (open eyes), mắt kính (glasses).\n\nIt also means the “eye” of something: mắt kim (eye of a needle), mắt xích (link in a chain).  \n\nFiguratively, con mắt can mean someone’s “eye” or judgment/taste, like how they see or evaluate things.",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:14:30.403Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Mis ojos son muy bonitos.",
+      "en": "My eyes are very beautiful.",
+      "vi": "Mắt của tôi rất đẹp."
+    },
+    "definitions": {
+      "en": "The organ of sight in humans and animals.",
+      "es": "El órgano de la vista en humanos y animales.",
+      "vi": "Cơ quan thị giác ở người và động vật."
+    },
+    "translations": {
+      "vi": "mắt",
+      "es": "ojo",
+      "en": "eye"
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "e7d0e6db-fe22-46d0-b79f-2548d811d80d",
+    "createdAt": "2025-03-12T16:43:24.622Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "eyes"
+      },
+      "translation": {
+        "en": "He opened his eyes."
+      },
+      "answer": "mắt",
+      "choices": [
+        "tai",
+        "mắt",
+        "miệng"
+      ],
+      "sentence": "Anh ấy đã mở ___ ra.",
+      "word": "mắt",
+      "hint": "m__t"
+    },
+    "updatedAt": "2025-03-12T16:43:24.622Z"
+  },
+  "exampleSentences": [
+    "Mỗi buổi sáng, anh thường rửa mặt và lau sạch mắt.",
+    "Chị bị đau mắt nên phải đi khám bác sĩ ngày hôm qua.",
+    "Em thích màu mắt của mẹ vì chúng rất đẹp."
+  ],
+  "updatedAt": "2026-03-03T07:33:01.654Z",
+  "choices": [
+    "mắt",
+    "miệng",
+    "tai"
+  ],
+  "exampleSentencesTranslated": [
+    "Every morning, I usually wash my face and clean my eye.",
+    "She had a sore eye so she had to see a doctor yesterday.",
+    "I like my mother's eye color because it is very beautiful."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mắt",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Mắt** means *eye* — the body part you see with. It’s a noun.\n\nUse the classifier **con**: *một con mắt, hai con mắt*. Common pairings: *mắt trái/phải* (left/right eye), *nhắm mắt* (close eyes), *mở mắt* (open eyes), *mắt kính* (glasses).\n\nIt also means the “eye” of something: *mắt kim* (eye of a needle), *mắt xích* (link in a chain).  \n\nFiguratively, **con mắt** can mean someone’s “eye” or judgment/taste, like how they see or evaluate things.",
+  "rank": 713,
+  "definition": "eye",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "eyes"
+      },
+      "choices": [],
+      "answer": "mắt",
+      "translation": {
+        "en": "She has beautiful eyes."
+      },
+      "sentence": "Cô ấy có đôi ___ đẹp.",
+      "word": "mắt"
+    },
+    "updatedAt": "2025-03-12T16:43:24.622Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:43:24.622Z",
+    "id": "76b39f5c-e11a-4f57-ae16-576aace03080"
+  },
+  "_id": "xSY56iO6ncImRSNh9fYh"
+}

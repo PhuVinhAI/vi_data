@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:35:47.164Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I often go to the market on weekends."
+      },
+      "translatedAnswer": {
+        "en": "market"
+      },
+      "hint": "c___",
+      "answer": "chợ",
+      "choices": [
+        "siêu thị",
+        "chợ",
+        "cửa hàng"
+      ],
+      "word": "chợ",
+      "sentence": "Tôi thường đi ___ vào cuối tuần.",
+      "language": "vi"
+    },
+    "id": "01472caa-e7e5-4197-8b7c-0ed39688d3a2",
+    "updatedAt": "2025-03-12T15:35:47.164Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "chợ",
+    "trường",
+    "nhà"
+  ],
+  "rank": 1515,
+  "notes_md": "**chợ** = market — a place where people buy and sell food, clothes, and everyday stuff. Usually an open or traditional market, not a supermarket.\n\nIt’s a noun. You can say **cái chợ** (classifier *cái*), but people often just say *chợ*.  \nVery common verbs: **đi chợ** (go to the market), **ra chợ** (head out to the market).  \nOften paired with words like **chợ truyền thống** (traditional market) and **chợ đêm** (night market).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chợ",
+  "fillBlankQuiz": {
+    "id": "06cfd3ac-2503-42fc-81d9-08532d82540f",
+    "createdAt": "2025-03-12T15:35:47.164Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "chợ",
+      "sentence": "Tôi thường đi ___ vào cuối tuần.",
+      "language": "vi",
+      "translation": {
+        "en": "I often go to the market on weekends."
+      },
+      "translatedAnswer": {
+        "en": "market"
+      },
+      "answer": "chợ"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:35:47.164Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, she went to the market to buy vegetables and meat for her family.",
+    "He likes to go to the market on weekends to buy fresh fruit.",
+    "During Tet, the market is very crowded with people shopping."
+  ],
+  "definition": "market",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nơi mà mọi người mua và bán hàng hóa, thường là ngoài trời.",
+      "es": "Un lugar donde las personas compran y venden bienes, típicamente al aire libre.",
+      "en": "A place where people buy and sell goods, typically outdoors."
+    },
+    "example": {
+      "en": "I go to the market every morning.",
+      "es": "Voy al mercado cada mañana.",
+      "vi": "Tôi đi chợ mỗi sáng."
+    },
+    "translations": {
+      "en": "market",
+      "vi": "chợ",
+      "es": "mercado"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:09:49.057Z"
+  },
+  "notes": "chợ = market — a place where people buy and sell food, clothes, and everyday stuff. Usually an open or traditional market, not a supermarket.\n\nIt’s a noun. You can say cái chợ (classifier cái), but people often just say chợ.  \nVery common verbs: đi chợ (go to the market), ra chợ (head out to the market).  \nOften paired with words like chợ truyền thống (traditional market) and chợ đêm (night market).",
+  "exampleSentences": [
+    "Sáng nay, chị đi chợ mua rau và thịt cho gia đình.",
+    "Anh thích đến chợ vào cuối tuần để mua trái cây tươi.",
+    "Mỗi dịp Tết, chợ rất đông người đến mua sắm."
+  ],
+  "updatedAt": "2026-03-03T08:58:17.939Z",
+  "_id": "g5Fe8sI3PD6eqLsjUzWs"
+}

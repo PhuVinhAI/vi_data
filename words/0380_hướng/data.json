@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "hình",
+    "hướng",
+    "hưởng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "direction",
+  "exampleSentences": [
+    "Anh có thể chỉ cho em hướng đi đến nhà ga không?",
+    "Chị nên xem bản đồ để biết hướng cần đi tiếp theo.",
+    "Em thường bị lạc nếu không nhớ rõ hướng về nhà."
+  ],
+  "rank": 380,
+  "word": "hướng",
+  "exampleSentencesTranslated": [
+    "Can you show me the direction to the train station?",
+    "You should look at the map to know which direction to go next.",
+    "I often get lost if I do not clearly remember the direction to home."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "hướng",
+      "es": "dirección",
+      "en": "direction"
+    },
+    "createdAt": "2025-01-28T11:21:25.318Z",
+    "example": {
+      "es": "Estoy buscando la dirección correcta.",
+      "vi": "Tôi đang tìm hướng đi đúng.",
+      "en": "I am looking for the right direction."
+    },
+    "definitions": {
+      "vi": "Một hướng hoặc định hướng trong không gian.",
+      "es": "Una dirección u orientación en el espacio.",
+      "en": "A direction or orientation in space."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "42a0099c-0b93-4b5e-934f-1a23e160f862",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:42:53.409Z",
+    "createdAt": "2025-03-12T13:42:53.409Z",
+    "content": {
+      "answer": "hướng",
+      "translation": {
+        "en": "Need to determine the direction first."
+      },
+      "hint": "h___g",
+      "choices": [
+        "hướng",
+        "đường",
+        "khoảng"
+      ],
+      "sentence": "Cần xác định ___ đi trước.",
+      "word": "hướng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "direction"
+      }
+    }
+  },
+  "notes_md": "**Hướng** means **direction** — which way something goes or faces. It’s a noun, often used with classifiers like *một hướng*, *hai hướng*, and common pairings like *hướng đi* (way to go), *phương hướng* (general direction/plan), *đổi hướng* (change direction).\n\nIt can also mean **orientation or trend**, like the direction of development or thinking.\n\nAs a verb, *hướng* means **to aim/turn toward** something.  \n\nClose synonym: *phương hướng* (more abstract, about plans or life direction).",
+  "updatedAt": "2026-03-03T07:00:08.277Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:42:53.409Z",
+    "content": {
+      "word": "hướng",
+      "sentence": "Tôi đã tìm thấy ___ đi đúng.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "direction"
+      },
+      "translation": {
+        "en": "I found the right direction."
+      },
+      "answer": "hướng",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:42:53.409Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "137d4af4-ea65-4a0e-851c-493994857d64",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Hướng means direction — which way something goes or faces. It’s a noun, often used with classifiers like một hướng, hai hướng, and common pairings like hướng đi (way to go), phương hướng (general direction/plan), đổi hướng (change direction).\n\nIt can also mean orientation or trend, like the direction of development or thinking.\n\nAs a verb, hướng means to aim/turn toward something.  \n\nClose synonym: phương hướng (more abstract, about plans or life direction).",
+  "_id": "EFswqCqZ9EBsbIlH1bmY"
+}

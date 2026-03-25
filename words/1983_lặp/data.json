@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng ta cần ___ quy trình này.",
+      "answer": "lặp",
+      "choices": [
+        "lặp",
+        "tránh",
+        "ngừng"
+      ],
+      "translation": {
+        "en": "We need to repeat this process."
+      },
+      "word": "lặp",
+      "translatedAnswer": {
+        "en": "repeat"
+      },
+      "language": "vi",
+      "hint": "l__"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "cafdfc94-fd81-45ad-b69e-186604b9c719",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:33.503Z",
+    "updatedAt": "2025-03-12T13:00:33.503Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể lặp lại câu hỏi để em nghe rõ hơn không?",
+    "Khi học từ mới, chị thường lặp nhiều lần để nhớ lâu hơn.",
+    "Nếu em lặp sai bước này, kết quả sẽ không chính xác."
+  ],
+  "definition": "repeat",
+  "rank": 1983,
+  "flashcard": {
+    "createdAt": "2025-01-28T10:43:34.245Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Decir o hacer algo de nuevo.",
+      "vi": "Nói hoặc làm điều gì đó một lần nữa.",
+      "en": "To say or do something again."
+    },
+    "example": {
+      "es": "Necesito repetir mi pregunta.",
+      "en": "I need to repeat my question.",
+      "vi": "Tôi cần lặp lại câu hỏi của mình."
+    },
+    "translations": {
+      "es": "repetir",
+      "en": "repeat",
+      "vi": "lặp lại"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "lặp means “to repeat” — to do or say something again.  \n\nIt’s a verb. You usually say lặp lại + something when you repeat an action, word, or information.  \n\nVery common pattern: lặp đi lặp lại = over and over again (emphasizes repetition).  \n\nYou’ll see it with things like lặp từ (repeat a word), lặp lỗi (repeat a mistake), or lặp lại câu/câu hỏi.  \n\nClose synonym: nhắc lại (repeat again), but nhắc lại often feels more like “mention again,” while lặp focuses on the act of repeating.",
+  "choices": [
+    "lặp",
+    "nhắc",
+    "nghỉ"
+  ],
+  "word": "lặp",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you repeat the question so I can hear it better?",
+    "When learning new words, I often repeat many times to remember longer.",
+    "If you repeat this step incorrectly, the result will not be correct."
+  ],
+  "notes_md": "**lặp** means “to repeat” — to do or say something again.  \n\nIt’s a verb. You usually say **lặp lại + something** when you repeat an action, word, or information.  \n\nVery common pattern: **lặp đi lặp lại** = over and over again (emphasizes repetition).  \n\nYou’ll see it with things like *lặp từ* (repeat a word), *lặp lỗi* (repeat a mistake), or *lặp lại câu/câu hỏi*.  \n\nClose synonym: **nhắc lại** (repeat again), but *nhắc lại* often feels more like “mention again,” while *lặp* focuses on the act of repeating.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:00:33.503Z",
+    "updatedAt": "2025-03-12T13:00:33.503Z",
+    "id": "8126f4b4-49b6-4b8d-9202-4eba8e4df668",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta cần ___ quy trình này.",
+      "answer": "lặp",
+      "choices": [],
+      "translation": {
+        "en": "We need to repeat this process."
+      },
+      "word": "lặp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "repeat"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T09:48:02.203Z",
+  "_id": "362XXzrvRiDkpdrGVPhW"
+}

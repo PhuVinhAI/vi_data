@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "bận",
+    "rảnh",
+    "muộn"
+  ],
+  "rank": 2168,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "f4fce269-7a9b-49db-8923-bed0276903bf",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:38.345Z",
+    "updatedAt": "2025-03-12T15:00:38.345Z",
+    "content": {
+      "sentence": "Bạn có ___ không?",
+      "language": "vi",
+      "word": "rảnh",
+      "hint": "r___h",
+      "answer": "rảnh",
+      "translatedAnswer": {
+        "en": "free"
+      },
+      "choices": [
+        "bận",
+        "rảnh",
+        "nhàn rỗi"
+      ],
+      "translation": {
+        "en": "Are you free?"
+      }
+    }
+  },
+  "exampleSentences": [
+    "Chiều nay anh rảnh, em muốn đi uống cà phê không?",
+    "Nếu chị rảnh cuối tuần này, chúng ta có thể gặp nhau.",
+    "Bạn em hỏi khi nào em rảnh để cùng học tiếng Anh."
+  ],
+  "notes": "rảnh = free, not busy, having time. It describes a person’s schedule, not an object.\n\nIt’s an adjective and often goes after the subject, or after có to ask politely. You’ll usually attach a time word (chiều nay, cuối tuần, lúc nào).\n\nStrong opposite: bận (busy). Close synonym: rỗi (similar meaning, slightly more old-fashioned or formal).",
+  "word": "rảnh",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:00:38.345Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "rảnh",
+      "language": "vi",
+      "answer": "rảnh",
+      "sentence": "Bạn có ___ không?",
+      "translation": {
+        "en": "Are you free?"
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "free"
+      }
+    },
+    "updatedAt": "2025-03-12T15:00:38.345Z",
+    "id": "73ff86d8-81b6-472b-ac24-f1df0957865c"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:07:15.374Z",
+  "exampleSentencesTranslated": [
+    "This afternoon I am free, do you want to get coffee?",
+    "If you are free this weekend, we can meet.",
+    "My friend asked when I am free to study English together."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Having free time; not busy.",
+      "es": "Tener tiempo libre; no estar ocupado.",
+      "vi": "Có thời gian rảnh; không bận rộn."
+    },
+    "createdAt": "2025-01-28T12:33:31.789Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "free",
+      "es": "libre",
+      "vi": "rảnh"
+    },
+    "example": {
+      "en": "I am free today, so I will go to the movies.",
+      "es": "Hoy estoy libre, así que iré al cine.",
+      "vi": "Hôm nay tôi rảnh nên tôi sẽ đi xem phim."
+    }
+  },
+  "notes_md": "**rảnh** = free, not busy, having time. It describes a person’s schedule, not an object.\n\nIt’s an adjective and often goes after the subject, or after **có** to ask politely. You’ll usually attach a time word (chiều nay, cuối tuần, lúc nào).\n\n\nStrong opposite: **bận** (busy). Close synonym: **rỗi** (similar meaning, slightly more old-fashioned or formal).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "free (having time, not busy)",
+  "_id": "XHw6PwjPqZossxJxBP5a"
+}

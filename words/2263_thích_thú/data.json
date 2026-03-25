@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "enjoy",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "word": "thích thú",
+      "translation": {
+        "en": "I feel delighted when listening to music."
+      },
+      "answer": "thích thú",
+      "sentence": "Tôi cảm thấy ___ khi nghe nhạc.",
+      "translatedAnswer": {
+        "en": "delighted"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:30:04.225Z",
+    "createdAt": "2025-03-12T14:30:04.225Z",
+    "id": "81b517de-99d7-4bc5-972c-6d625fc8658e",
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**thích thú** = to feel delighted, really pleased, or excited in a positive way. It’s stronger and more emotional than just *thích* (like).\n\nIt describes a feeling, so it often comes after the subject without “là”, or after *cảm thấy*. You can use it with events, activities, or experiences.\n\n\nClose to: *vui*, but *thích thú* has more excitement and curiosity. Opposite feeling: *chán*, *buồn chán*.",
+  "exampleSentences": [
+    "Anh rất thích thú khi được đi du lịch cùng gia đình vào cuối tuần.",
+    "Chị ấy cảm thấy thích thú khi học một ngôn ngữ mới mỗi ngày.",
+    "Các em nhỏ luôn thích thú khi được chơi ở công viên vào buổi chiều."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "encantado",
+      "en": "delighted",
+      "vi": "thích thú"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Me siento encantado al ver esta película.",
+      "en": "I feel delighted when watching this movie.",
+      "vi": "Tôi cảm thấy thích thú khi xem bộ phim này."
+    },
+    "createdAt": "2025-01-28T12:06:09.299Z",
+    "definitions": {
+      "en": "A feeling of pleasure or enjoyment.",
+      "vi": "Cảm giác vui vẻ hoặc thích thú.",
+      "es": "Una sensación de placer o disfrute."
+    }
+  },
+  "notes": "thích thú = to feel delighted, really pleased, or excited in a positive way. It’s stronger and more emotional than just thích (like).\n\nIt describes a feeling, so it often comes after the subject without “là”, or after cảm thấy. You can use it with events, activities, or experiences.\n\nClose to: vui, but thích thú has more excitement and curiosity. Opposite feeling: chán, buồn chán.",
+  "choices": [
+    "thích thú",
+    "buồn chán",
+    "lo lắng"
+  ],
+  "updatedAt": "2026-03-03T10:17:39.982Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "thích thú",
+      "choices": [
+        "hứng thú",
+        "thích thú",
+        "tò mò"
+      ],
+      "hint": "t___ thú",
+      "translation": {
+        "en": "I feel delighted when listening to music."
+      },
+      "answer": "thích thú",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "delighted"
+      },
+      "sentence": "Tôi cảm thấy ___ khi nghe nhạc."
+    },
+    "updatedAt": "2025-03-12T14:30:04.225Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:30:04.225Z",
+    "id": "3516f35d-f9fe-4777-833d-8b569adcecf4"
+  },
+  "word": "thích thú",
+  "rank": 2263,
+  "exampleSentencesTranslated": [
+    "He really enjoy traveling with his family on the weekend.",
+    "She enjoy learning a new language every day.",
+    "The children always enjoy playing in the park in the afternoon."
+  ],
+  "_id": "PZfi6IiYTBdABBiXxxhy"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đào tạo = training. It’s about teaching skills or knowledge in a structured way, usually for work or professional development.\n\nIt’s a noun, often used with verbs like tổ chức, tham gia, cung cấp, nhận. You’ll often see it in phrases like khóa đào tạo (training course) or chương trình đào tạo (training program).\n\nClose to huấn luyện (more hands-on, practical training) and related to giáo dục (education, broader and long-term).",
+  "exampleSentences": [
+    "Công ty sẽ tổ chức một khóa đào tạo cho nhân viên mới vào tuần sau.",
+    "Anh đã tham gia chương trình đào tạo về kỹ năng giao tiếp trong công việc.",
+    "Chị nghĩ đào tạo là rất quan trọng để phát triển sự nghiệp lâu dài."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "giáo dục",
+    "đào tạo",
+    "học tập"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:54:13.290Z",
+    "definitions": {
+      "es": "El proceso de enseñar o desarrollar habilidades y conocimientos.",
+      "en": "The process of teaching or developing skills and knowledge.",
+      "vi": "Quá trình dạy hoặc phát triển kỹ năng và kiến thức."
+    },
+    "translations": {
+      "es": "capacitación",
+      "en": "training",
+      "vi": "đào tạo"
+    },
+    "example": {
+      "vi": "Chúng tôi cần đào tạo nhân viên mới.",
+      "es": "Necesitamos capacitar a los nuevos empleados.",
+      "en": "We need to train the new employees."
+    }
+  },
+  "updatedAt": "2026-03-03T07:54:15.141Z",
+  "exampleSentencesTranslated": [
+    "The company will organize a training course for new employees next week.",
+    "He participated in a training program on communication skills at work.",
+    "She thinks training is very important for long-term career development."
+  ],
+  "notes_md": "**đào tạo** = training. It’s about teaching skills or knowledge in a structured way, usually for work or professional development.\n\nIt’s a noun, often used with verbs like **tổ chức**, **tham gia**, **cung cấp**, **nhận**. You’ll often see it in phrases like **khóa đào tạo** (training course) or **chương trình đào tạo** (training program).\n\n\nClose to **huấn luyện** (more hands-on, practical training) and related to **giáo dục** (education, broader and long-term).",
+  "rank": 922,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:23:27.267Z",
+    "id": "5cbc6ee4-e14b-4deb-a6c7-3875554d74e2",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "đào tạo",
+      "answer": "đào tạo",
+      "language": "vi",
+      "choices": [
+        "học hỏi",
+        "đào tạo",
+        "huấn luyện"
+      ],
+      "translatedAnswer": {
+        "en": "training"
+      },
+      "translation": {
+        "en": "They need training for employees."
+      },
+      "hint": "d___a",
+      "sentence": "Họ cần ___ cho nhân viên."
+    },
+    "updatedAt": "2025-03-12T16:23:27.267Z"
+  },
+  "definition": "training",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng tôi cần ___ mới.",
+      "translation": {
+        "en": "We need new training."
+      },
+      "translatedAnswer": {
+        "en": "training"
+      },
+      "choices": [],
+      "word": "đào tạo",
+      "language": "vi",
+      "answer": "đào tạo"
+    },
+    "updatedAt": "2025-03-12T16:23:27.267Z",
+    "createdAt": "2025-03-12T16:23:27.267Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "9f1f80eb-a081-4fa1-ac6f-dcab8e19a62c"
+  },
+  "word": "đào tạo",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "sCwIw0DKcLbk7WwiBCLB"
+}

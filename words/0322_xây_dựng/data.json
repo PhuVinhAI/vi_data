@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "We need to build a new house.",
+      "es": "Necesitamos construir una casa nueva.",
+      "vi": "Chúng ta cần xây dựng một ngôi nhà mới."
+    },
+    "translations": {
+      "en": "build",
+      "es": "construir",
+      "vi": "xây dựng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:49:33.187Z",
+    "definitions": {
+      "en": "To construct or create something, typically a building or structure.",
+      "es": "Construir o crear algo, típicamente un edificio o estructura.",
+      "vi": "Xây dựng hoặc tạo ra một cái gì đó, thường là một tòa nhà hoặc cấu trúc."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He wants to build a small house in the suburbs.",
+    "The company is going to build a new bridge over the river.",
+    "I need a lot of time to build a good relationship."
+  ],
+  "updatedAt": "2026-03-03T06:54:15.462Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:14:55.898Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "We need to build a new house."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "answer": "xây dựng",
+      "word": "xây dựng",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ nhà mới."
+    },
+    "updatedAt": "2025-03-12T15:14:55.898Z",
+    "id": "32d61b6b-816a-4aae-a90a-7e1ea8312f76"
+  },
+  "definition": "to build",
+  "notes_md": "**xây dựng** = to build or construct something. Most often used for buildings, roads, bridges, etc.\n\nIt’s a verb and usually takes a direct object: you **xây dựng + something** (a house, a school, a plan). It’s also very common in abstract meanings like building a relationship, a career, a system, or trust.\n\n\nClose synonym: **xây** (shorter, more physical). *Xây dựng* feels broader and more formal, especially for abstract things.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 322,
+  "choices": [
+    "xây dựng",
+    "mua bán",
+    "chỉnh sửa"
+  ],
+  "word": "xây dựng",
+  "exampleSentences": [
+    "Anh muốn xây dựng một ngôi nhà nhỏ ở ngoại ô.",
+    "Công ty đang xây dựng một cây cầu mới qua sông.",
+    "Em cần nhiều thời gian để xây dựng một mối quan hệ tốt."
+  ],
+  "notes": "xây dựng = to build or construct something. Most often used for buildings, roads, bridges, etc.\n\nIt’s a verb and usually takes a direct object: you xây dựng + something (a house, a school, a plan). It’s also very common in abstract meanings like building a relationship, a career, a system, or trust.\n\nClose synonym: xây (shorter, more physical). Xây dựng feels broader and more formal, especially for abstract things.",
+  "multiChoiceQuiz": {
+    "id": "821112b5-0eb4-4d8e-aa74-13d2102a20d6",
+    "content": {
+      "translation": {
+        "en": "We need to build a new house."
+      },
+      "translatedAnswer": {
+        "en": "build"
+      },
+      "choices": [
+        "xây dựng",
+        "thiết kế",
+        "phát triển"
+      ],
+      "language": "vi",
+      "word": "xây dựng",
+      "hint": "x___n",
+      "answer": "xây dựng",
+      "sentence": "Chúng ta cần ___ nhà mới."
+    },
+    "updatedAt": "2025-03-12T15:14:55.898Z",
+    "createdAt": "2025-03-12T15:14:55.898Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "aykqASVhfvuVn5gwk0aZ"
+}

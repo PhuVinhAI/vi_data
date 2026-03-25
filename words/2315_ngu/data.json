@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:59:28.811Z",
+    "updatedAt": "2025-03-12T14:59:28.811Z",
+    "content": {
+      "word": "ngu",
+      "language": "vi",
+      "hint": "n__",
+      "answer": "ngu",
+      "sentence": "Tôi cảm thấy rất ___ hôm nay.",
+      "translation": {
+        "en": "I feel very stupid today."
+      },
+      "translatedAnswer": {
+        "en": "stupid"
+      },
+      "choices": [
+        "thông minh",
+        "ngu",
+        "khôn ngoan"
+      ]
+    },
+    "id": "2b47908d-ed0d-4238-b051-1addfdb55623"
+  },
+  "exampleSentences": [
+    "Anh ấy hay nói những điều rất ngu trước mặt bạn bè.",
+    "Chị không nên làm điều ngu như thế lần nữa.",
+    "Em nghĩ hành động đó thật ngu và không nên lặp lại."
+  ],
+  "notes": "Ngu means stupid or dumb. It’s informal and can sound harsh, so be careful using it.\n\nIt’s an adjective, used to describe a person, action, or idea. You can also say ngu + về + lĩnh vực to mean “bad at / ignorant about” something (ngu về toán).  \n\nStronger feeling than dốt (bad at studying) and close to khờ (naive, innocent). Opposite: thông minh (smart).\n\nBecause it’s blunt, it can easily offend—friends might joke with it, but in serious talk it sounds insulting.",
+  "word": "ngu",
+  "choices": [
+    "khôn",
+    "ngu",
+    "giỏi"
+  ],
+  "rank": 2315,
+  "notes_md": "**Ngu** means *stupid* or *dumb*. It’s informal and can sound harsh, so be careful using it.\n\nIt’s an adjective, used to describe a person, action, or idea. You can also say **ngu + về + lĩnh vực** to mean “bad at / ignorant about” something (ngu về toán).  \n\nStronger feeling than **dốt** (bad at studying) and close to **khờ** (naive, innocent). Opposite: **thông minh** (smart).\n\nBecause it’s blunt, it can easily offend—friends might joke with it, but in serious talk it sounds insulting.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "stupid",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:23:26.366Z",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "ngu",
+      "language": "vi",
+      "answer": "ngu",
+      "sentence": "Tôi cảm thấy rất ___ hôm nay.",
+      "translation": {
+        "en": "I feel very stupid today."
+      },
+      "translatedAnswer": {
+        "en": "stupid"
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T14:59:28.811Z",
+    "createdAt": "2025-03-12T14:59:28.811Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "c84692c9-e377-4423-a55d-26476443a9da"
+  },
+  "exampleSentencesTranslated": [
+    "He often says very stupid things in front of his friends.",
+    "You should not do something stupid like that again.",
+    "I think that action is stupid and should not be repeated."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:32:29.048Z",
+    "definitions": {
+      "en": "Foolish or lacking in intelligence.",
+      "es": "Tonto o carente de inteligencia.",
+      "vi": "Ngốc nghếch hoặc thiếu trí thông minh."
+    },
+    "example": {
+      "en": "He is really foolish for not studying.",
+      "es": "Él es realmente tonto por no estudiar.",
+      "vi": "Anh ấy thật ngu khi không học bài."
+    },
+    "translations": {
+      "en": "foolish",
+      "es": "tonto",
+      "vi": "ngu"
+    }
+  },
+  "_id": "WpHjiwDG8GInEETlVLhi"
+}

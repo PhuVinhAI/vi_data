@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T18:18:25.502Z",
+  "choices": [
+    "kế hoạch",
+    "bí quyết",
+    "kết quả"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you share with me your secret to success for learning English?",
+    "She always thinks that working hard is the secret to success for achieving goals.",
+    "Many people ask me about my secret to success for cooking well."
+  ],
+  "notes": "Bí quyết = the secret to success, a special trick or key that makes something work well. It’s usually something not everyone knows.\n\nIt’s a noun. You often say bí quyết + để + verb (bí quyết để thành công) or bí quyết + noun (bí quyết nấu ăn).  \n\nIt can be something practical (a method) or more abstract (a mindset or habit).  \n\nClose words: bí mật (secret in general, more about hidden information) and kinh nghiệm (experience — knowledge from doing, not necessarily a “secret”).",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "secret"
+      },
+      "answer": "bí quyết",
+      "word": "bí quyết",
+      "sentence": "Bạn có ___ để thành công không?",
+      "translation": {
+        "en": "Do you have the secret to succeed?"
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b874fabd-35de-48de-8e3b-77b5f6419f0e",
+    "createdAt": "2025-03-12T14:16:30.725Z",
+    "updatedAt": "2025-03-12T14:16:30.725Z"
+  },
+  "definition": "secret to success",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bí quyết",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:16:30.725Z",
+    "createdAt": "2025-03-12T14:16:30.725Z",
+    "id": "c9530aeb-7093-405a-a5ec-61f8394dfed9",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "bí quyết",
+        "kinh nghiệm",
+        "mẹo hay"
+      ],
+      "translation": {
+        "en": "She shares her secret."
+      },
+      "sentence": "Cô ấy chia sẻ ___ của mình.",
+      "word": "bí quyết",
+      "hint": "b___t",
+      "answer": "bí quyết",
+      "translatedAnswer": {
+        "en": "secret"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Bí quyết** = the secret to success, a special trick or key that makes something work well. It’s usually something not everyone knows.\n\nIt’s a noun. You often say **bí quyết + để + verb** (bí quyết để thành công) or **bí quyết + noun** (bí quyết nấu ăn).  \n\nIt can be something practical (a method) or more abstract (a mindset or habit).  \n\nClose words: **bí mật** (secret in general, more about hidden information) and **kinh nghiệm** (experience — knowledge from doing, not necessarily a “secret”).",
+  "exampleSentences": [
+    "Anh có thể chia sẻ cho em bí quyết học tiếng Anh hiệu quả không?",
+    "Chị luôn nghĩ rằng chăm chỉ là bí quyết để đạt được mục tiêu.",
+    "Nhiều người hỏi anh về bí quyết nấu ăn ngon của anh."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:53:24.961Z",
+    "translations": {
+      "en": "secret",
+      "es": "secreto",
+      "vi": "bí quyết"
+    },
+    "definitions": {
+      "vi": "Một phương pháp hoặc kỹ thuật được biết đến để tạo ra kết quả mong muốn.",
+      "es": "Un método o técnica que se conoce por producir un resultado deseado.",
+      "en": "A method or technique that is known to produce a desired result."
+    },
+    "example": {
+      "es": "El secreto del éxito es la perseverancia.",
+      "vi": "Bí quyết thành công là kiên trì.",
+      "en": "The secret to success is perseverance."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 2975,
+  "_id": "MOYDpK5ai7zUwgAxMxC4"
+}

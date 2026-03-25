@@ -1,0 +1,99 @@
+{
+  "word": "bao gồm",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Bao gồm** means *to include* — to have something as part of a whole. It’s used when listing parts that make up something bigger.\n\nIt often appears in formal or semi-formal contexts (plans, lists, services, reports). In casual speech, people often shorten it to **gồm** — same meaning, more natural in conversation.\n\n\nIt focuses on what is inside the set, not the total amount. A more formal synonym is **bao hàm**, but that’s used more in academic writing.",
+  "choices": [
+    "bao gồm",
+    "bắt đầu",
+    "kết thúc"
+  ],
+  "rank": 1684,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:18:46.746Z",
+    "content": {
+      "sentence": "Chương trình học ___ nhiều môn.",
+      "language": "vi",
+      "word": "bao gồm",
+      "choices": [
+        "bao gồm",
+        "không có",
+        "thêm vào"
+      ],
+      "hint": "b___g",
+      "answer": "bao gồm",
+      "translatedAnswer": {
+        "en": "includes"
+      },
+      "translation": {
+        "en": "The curriculum includes many subjects."
+      }
+    },
+    "id": "0ca7a931-4be5-4823-9d87-c4767ecfc60c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:18:46.746Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:16:17.443Z",
+  "exampleSentences": [
+    "Danh sách này bao gồm tất cả các thành viên trong nhóm.",
+    "Món ăn này bao gồm thịt gà, rau và nước sốt đặc biệt.",
+    "Chuyến du lịch sẽ bao gồm vé máy bay và khách sạn cho mọi người."
+  ],
+  "notes": "Bao gồm means to include — to have something as part of a whole. It’s used when listing parts that make up something bigger.\n\nIt often appears in formal or semi-formal contexts (plans, lists, services, reports). In casual speech, people often shorten it to gồm — same meaning, more natural in conversation.\n\nIt focuses on what is inside the set, not the total amount. A more formal synonym is bao hàm, but that’s used more in academic writing.",
+  "definition": "include",
+  "flashcard": {
+    "translations": {
+      "en": "includes",
+      "vi": "bao gồm",
+      "es": "incluye"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:59:14.660Z",
+    "definitions": {
+      "en": "to contain or comprise something as part of a whole",
+      "es": "contener o comprender algo como parte de un todo",
+      "vi": "chứa hoặc bao gồm một cái gì đó như một phần của tổng thể"
+    },
+    "example": {
+      "en": "Your shopping cart includes three items.",
+      "vi": "Giỏ hàng của bạn bao gồm ba sản phẩm.",
+      "es": "Tu carrito de compras incluye tres artículos."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:18:46.746Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:18:46.746Z",
+    "content": {
+      "word": "bao gồm",
+      "sentence": "Sách này ___ nhiều thông tin.",
+      "language": "vi",
+      "choices": [],
+      "answer": "bao gồm",
+      "translation": {
+        "en": "This book includes a lot of information."
+      },
+      "translatedAnswer": {
+        "en": "includes"
+      }
+    },
+    "id": "3d4aabde-7f3b-46fc-85f2-288e18c1f0e8",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "This list will include all members in the group.",
+    "This dish will include chicken, vegetables, and a special sauce.",
+    "The trip will include plane tickets and hotel for everyone."
+  ],
+  "_id": "7v8mxTmSB2aVGmi5F21R"
+}

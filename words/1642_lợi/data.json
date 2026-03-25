@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "An advantage or profit gained from something.",
+      "vi": "Một lợi thế hoặc lợi ích thu được từ một cái gì đó.",
+      "es": "Una ventaja o beneficio obtenido de algo."
+    },
+    "example": {
+      "en": "This will bring benefits to us.",
+      "vi": "Việc này sẽ mang lại lợi cho chúng ta.",
+      "es": "Esto nos traerá beneficios."
+    },
+    "translations": {
+      "en": "benefit",
+      "es": "beneficio",
+      "vi": "lợi"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:09:12.286Z"
+  },
+  "definition": "benefit",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:49.677Z",
+    "content": {
+      "word": "lợi",
+      "sentence": "Việc này mang lại ___ cho chúng ta.",
+      "language": "vi",
+      "choices": [],
+      "answer": "lợi",
+      "translation": {
+        "en": "This work brings benefits to us."
+      },
+      "translatedAnswer": {
+        "en": "benefits"
+      }
+    },
+    "id": "2a067ceb-ce2b-4562-903d-c79ce4346966",
+    "updatedAt": "2025-03-12T15:34:49.677Z"
+  },
+  "exampleSentencesTranslated": [
+    "I think learning foreign languages will bring many benefit for the future.",
+    "She chose this job because it has many benefit for her family.",
+    "He often carefully considers the benefit before making important decisions."
+  ],
+  "updatedAt": "2026-03-03T09:11:39.949Z",
+  "exampleSentences": [
+    "Em nghĩ việc học ngoại ngữ sẽ mang lại nhiều lợi cho tương lai.",
+    "Chị ấy chọn công việc này vì có nhiều lợi cho gia đình.",
+    "Anh thường xem xét kỹ lợi trước khi đưa ra quyết định quan trọng."
+  ],
+  "notes": "lợi means benefit or advantage — something good you gain from a situation.\n\nIt’s usually an uncountable noun, often used in fixed pairs like lợi ích (benefit) and quyền lợi (rights/entitlements). You’ll also see it in contrast with hại (harm), as in lợi và hại (pros and cons).  \n\nCommon pattern: có lợi cho + someone/something (có lợi cho sức khỏe).  \n\nRelated words help memory: có lợi (beneficial), bất lợi (disadvantageous), opposite idea = hại (harm).",
+  "notes_md": "**lợi** means *benefit* or *advantage* — something good you gain from a situation.\n\nIt’s usually an uncountable noun, often used in fixed pairs like **lợi ích** (benefit) and **quyền lợi** (rights/entitlements). You’ll also see it in contrast with **hại** (harm), as in **lợi và hại** (pros and cons).  \n\nCommon pattern: **có lợi cho + someone/something** (có lợi cho sức khỏe).  \n\nRelated words help memory: **có lợi** (beneficial), **bất lợi** (disadvantageous), opposite idea = **hại** (harm).",
+  "rank": 1642,
+  "choices": [
+    "lợi",
+    "hại",
+    "lời"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:34:49.677Z",
+    "content": {
+      "translation": {
+        "en": "This work brings benefits to us."
+      },
+      "translatedAnswer": {
+        "en": "benefits"
+      },
+      "hint": "l___",
+      "answer": "lợi",
+      "choices": [
+        "lợi",
+        "hại",
+        "chi phí"
+      ],
+      "word": "lợi",
+      "sentence": "Việc này mang lại ___ cho chúng ta.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:34:49.677Z",
+    "id": "7f07e321-f172-4a66-973f-806b48106661",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lợi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "g0F42ddry5uYiNNu0TP0"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cam",
+    "táo",
+    "chuối"
+  ],
+  "word": "táo",
+  "exampleSentences": [
+    "Sáng nay, em ăn một quả táo trước khi đi học.",
+    "Anh có thể mua giúp chị hai quả táo ở siêu thị không?",
+    "Bác sĩ khuyên nên ăn táo mỗi ngày để tốt cho sức khỏe."
+  ],
+  "rank": 2691,
+  "definition": "apple",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "táo = apple (the fruit). Simple, everyday noun.\n\nIt’s a countable noun, usually with the classifier quả (North) or trái (South): quả táo / trái táo.  \nYou’ll often hear it with colors or types: táo đỏ (red apple), táo xanh (green apple).  \nIt can also describe flavor in combinations like nước ép táo (apple juice).  \n\nDon’t confuse it with Táo (capital T), which refers to the Kitchen God in folklore — totally different meaning.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:50:54.995Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "apple"
+      },
+      "sentence": "Tôi thích ăn ___ mỗi sáng.",
+      "word": "táo",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I like to eat an apple every morning."
+      },
+      "answer": "táo"
+    },
+    "updatedAt": "2025-03-12T13:50:54.995Z",
+    "id": "87088f8e-3377-4bcf-b3d1-5d356caa97a0",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T11:36:30.568Z",
+  "notes_md": "**táo** = apple (the fruit). Simple, everyday noun.\n\nIt’s a countable noun, usually with the classifier **quả** (North) or **trái** (South): *quả táo / trái táo*.  \nYou’ll often hear it with colors or types: **táo đỏ** (red apple), **táo xanh** (green apple).  \nIt can also describe flavor in combinations like **nước ép táo** (apple juice).  \n\nDon’t confuse it with **Táo** (capital T), which refers to the Kitchen God in folklore — totally different meaning.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "6c3e1388-e853-4700-bf59-4deb4f0423c6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:50:54.995Z",
+    "content": {
+      "hint": "t__o",
+      "choices": [
+        "nho",
+        "táo",
+        "chuối"
+      ],
+      "translation": {
+        "en": "I like to eat apples in the summer."
+      },
+      "answer": "táo",
+      "translatedAnswer": {
+        "en": "apples"
+      },
+      "sentence": "Tôi thích ăn ___ vào mùa hè.",
+      "word": "táo",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:50:54.995Z"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích ăn táo mỗi ngày.",
+      "es": "Me gusta comer manzanas todos los días.",
+      "en": "I like to eat apples every day."
+    },
+    "createdAt": "2025-01-28T11:28:52.132Z",
+    "translations": {
+      "es": "manzana",
+      "vi": "táo",
+      "en": "apple"
+    },
+    "definitions": {
+      "en": "A round fruit with red, green, or yellow skin and a crisp, juicy flesh.",
+      "es": "Una fruta redonda con piel roja, verde o amarilla y una pulpa crujiente y jugosa.",
+      "vi": "Một loại trái cây hình tròn có vỏ màu đỏ, xanh hoặc vàng và thịt giòn, mọng nước."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, I ate an apple before going to school.",
+    "Can you help me buy two apples at the supermarket?",
+    "The doctor recommends eating an apple every day for good health."
+  ],
+  "_id": "G4hrMMQNk6UJ0j4p8zxa"
+}

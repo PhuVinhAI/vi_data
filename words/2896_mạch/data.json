@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:35:15.626Z",
+    "id": "cae16704-efaa-45c0-b834-c84381fa38a1",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "circuit"
+      },
+      "sentence": "Máy tính này có ___ rất nhanh.",
+      "choices": [],
+      "word": "mạch",
+      "translation": {
+        "en": "This computer has a fast circuit."
+      },
+      "answer": "mạch"
+    },
+    "updatedAt": "2025-03-12T14:35:15.626Z"
+  },
+  "definition": "pulse",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "es": "El vaso sanguíneo en el cuerpo es muy importante.",
+      "en": "The blood vessel in the body is very important.",
+      "vi": "Mạch máu trong cơ thể rất quan trọng."
+    },
+    "createdAt": "2025-01-28T12:10:36.037Z",
+    "definitions": {
+      "en": "A blood vessel or a channel through which blood flows.",
+      "vi": "Một mạch máu hoặc một kênh mà qua đó máu chảy.",
+      "es": "Un vaso sanguíneo o un canal por el que fluye la sangre."
+    },
+    "translations": {
+      "vi": "mạch",
+      "en": "vessel",
+      "es": "vaso"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**mạch** usually means **pulse** — the beat you feel from someone’s heart, especially at the wrist or neck. It’s a noun; you often say *bắt mạch* (check someone’s pulse) or *đo mạch* (measure pulse).\n\nIt also very commonly means a **vein** or **blood vessel** in the body (*mạch máu*). More broadly, *mạch* can mean a **line/flow** of something, like electricity (*mạch điện*) or water (*mạch nước*).\n\nA super common phrase is *một mạch*, meaning “in one go” or “without stopping,” like doing something continuously — think of it as one unbroken flow.",
+  "exampleSentences": [
+    "Bác sĩ kiểm tra mạch của chị khi chị đến khám bệnh.",
+    "Anh cảm thấy mạch của mình đập nhanh khi chạy bộ buổi sáng.",
+    "Em học cách đo mạch để chăm sóc người thân tốt hơn."
+  ],
+  "choices": [
+    "mạch",
+    "máu",
+    "tim"
+  ],
+  "notes": "mạch usually means pulse — the beat you feel from someone’s heart, especially at the wrist or neck. It’s a noun; you often say bắt mạch (check someone’s pulse) or đo mạch (measure pulse).\n\nIt also very commonly means a vein or blood vessel in the body (mạch máu). More broadly, mạch can mean a line/flow of something, like electricity (mạch điện) or water (mạch nước).\n\nA super common phrase is một mạch, meaning “in one go” or “without stopping,” like doing something continuously — think of it as one unbroken flow.",
+  "rank": 2896,
+  "exampleSentencesTranslated": [
+    "The doctor checks your pulse when you come for a checkup.",
+    "I feel my pulse beat fast when I jog in the morning.",
+    "I learn how to measure pulse to take better care of my family."
+  ],
+  "word": "mạch",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "68a47b34-1acf-43d1-ae09-f013103d520c",
+    "createdAt": "2025-03-12T14:35:15.626Z",
+    "updatedAt": "2025-03-12T14:35:15.626Z",
+    "content": {
+      "hint": "m___",
+      "answer": "mạch",
+      "translation": {
+        "en": "This computer has a fast circuit."
+      },
+      "word": "mạch",
+      "choices": [
+        "mạch",
+        "bo mạch",
+        "mạng"
+      ],
+      "translatedAnswer": {
+        "en": "circuit"
+      },
+      "language": "vi",
+      "sentence": "Máy tính này có ___ rất nhanh."
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T18:10:06.479Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "QotFV2OFFxsAagFK13Bg"
+}

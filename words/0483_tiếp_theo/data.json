@@ -1,0 +1,98 @@
+{
+  "definition": "next",
+  "fillBlankQuiz": {
+    "id": "0b7c6bce-2cef-4a6b-8d5f-6daa9c8882d8",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "continue"
+      },
+      "answer": "tiếp theo",
+      "translation": {
+        "en": "We will continue after eating."
+      },
+      "language": "vi",
+      "word": "tiếp theo",
+      "sentence": "Chúng ta sẽ ___ sau khi ăn."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:13:55.064Z",
+    "createdAt": "2025-03-12T14:13:55.064Z"
+  },
+  "exampleSentencesTranslated": [
+    "After finishing this exercise, I will do the next exercise.",
+    "Can you tell me the schedule for the next meeting?",
+    "Let's watch the next movie this weekend."
+  ],
+  "notes": "tiếp theo = next, the one that comes after something.\n\nIt usually goes after a noun to describe the next item in a sequence.  \n\nIt can also stand alone to mean “next” in a list or order.  \nVery close to kế tiếp (a bit more formal). Opposite idea: trước đó (before that).",
+  "choices": [
+    "tiếp theo",
+    "bắt đầu",
+    "kết thúc"
+  ],
+  "updatedAt": "2026-03-03T07:10:29.949Z",
+  "notes_md": "**tiếp theo** = next, the one that comes after something.\n\nIt usually goes **after a noun** to describe the next item in a sequence.  \n\nIt can also stand alone to mean “next” in a list or order.  \nVery close to **kế tiếp** (a bit more formal). Opposite idea: **trước đó** (before that).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:13:55.064Z",
+    "updatedAt": "2025-03-12T14:13:55.064Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "tiếp theo",
+      "translatedAnswer": {
+        "en": "continue"
+      },
+      "sentence": "Chúng ta sẽ ___ sau khi ăn.",
+      "word": "tiếp theo",
+      "hint": "t___h",
+      "language": "vi",
+      "choices": [
+        "kết thúc",
+        "tiếp theo",
+        "bắt đầu"
+      ],
+      "translation": {
+        "en": "We will continue after eating."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "14fd8fc9-bc31-4d4c-a833-e83c1e979a7c"
+  },
+  "word": "tiếp theo",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:51:02.895Z",
+    "definitions": {
+      "en": "Next; following in order or sequence.",
+      "es": "Siguiente; que sigue en orden o secuencia.",
+      "vi": "Tiếp theo; theo thứ tự hoặc chuỗi."
+    },
+    "translations": {
+      "en": "next",
+      "vi": "tiếp theo",
+      "es": "siguiente"
+    },
+    "example": {
+      "en": "We will go to the next point in the journey.",
+      "es": "Iremos al siguiente punto en el viaje.",
+      "vi": "Chúng ta sẽ đi đến điểm tiếp theo trong hành trình."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sau khi hoàn thành bài tập này, em sẽ làm bài tiếp theo.",
+    "Anh có thể cho chị biết lịch trình cho cuộc họp tiếp theo không?",
+    "Chúng ta hãy xem bộ phim tiếp theo vào cuối tuần này nhé."
+  ],
+  "rank": 483,
+  "_id": "Lc8w7VSNH68MhVl5Z35z"
+}

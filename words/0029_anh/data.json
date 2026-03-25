@@ -1,0 +1,104 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:00:40.897Z",
+    "updatedAt": "2025-03-12T16:00:40.897Z",
+    "content": {
+      "hint": "a__",
+      "choices": [
+        "chị",
+        "bạn",
+        "anh"
+      ],
+      "sentence": "Tôi đã nói chuyện với ___.",
+      "translatedAnswer": {
+        "en": "brother"
+      },
+      "answer": "anh",
+      "language": "vi",
+      "translation": {
+        "en": "I talked to my brother."
+      },
+      "word": "anh"
+    },
+    "id": "b21df722-b29a-44f1-a699-8f8c0795f8dd",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + gọi (call) + anh (you) + lúc (at) + sáu (six) + giờ (o'clock)",
+    "Chị (she) + gặp (meet) + anh (you) + ở (at) + cửa (shop) + hàng (store)",
+    "Em (I) + hỏi (ask) + anh (you) + đường (way) + đến (to) + trường (school)"
+  ],
+  "notes_md": "**anh** usually means **“you”** when you’re talking to a man who is a bit older than you. It’s based on age and relationship, not just grammar.\n\nIt literally means **“older brother,”** and you’ll also hear it for a boyfriend or husband in a sweet way. Vietnamese pronouns show relative age, so if you call someone *anh*, you’re putting yourself in the younger position.\n\nIt’s used for men slightly older than you, or sometimes similar age in romantic contexts. The matching pronoun is often **em** for the younger person.\n\n\nStrong memory link: *anh* ↔ *em* (older ↔ younger pair).",
+  "exampleSentencesTranslated": [
+    "I call you at six o'clock.",
+    "She meets you at the store.",
+    "I ask you the way to school."
+  ],
+  "updatedAt": "2026-03-03T06:05:56.833Z",
+  "flashcard": {
+    "example": {
+      "vi": "Anh là người bạn tốt nhất của tôi.",
+      "es": "Eres mi mejor amigo.",
+      "en": "You are my best friend."
+    },
+    "createdAt": "2025-01-28T14:14:17.349Z",
+    "definitions": {
+      "en": "A term used to refer to an older brother or a male friend.",
+      "es": "Un término utilizado para referirse a un hermano mayor o a un amigo masculino.",
+      "vi": "Một thuật ngữ dùng để chỉ anh trai hoặc một người bạn nam."
+    },
+    "translations": {
+      "es": "hermano, hermano mayor, tú (masculino)",
+      "en": "brother, older brother, you (male)",
+      "vi": "anh, anh trai, bạn (nam)"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "anh",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "chị",
+    "em",
+    "anh"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "brother"
+      },
+      "answer": "anh",
+      "choices": [],
+      "sentence": "Tôi gặp ___ ở trường.",
+      "translation": {
+        "en": "I met my brother at school."
+      },
+      "word": "anh",
+      "language": "vi"
+    },
+    "id": "fcb51903-dda5-48e7-b0c7-6b1b8582a692",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:00:40.897Z",
+    "updatedAt": "2025-03-12T16:00:40.897Z"
+  },
+  "exampleSentences": [
+    "Em gọi anh lúc sáu giờ.",
+    "Chị gặp anh ở cửa hàng.",
+    "Em hỏi anh đường đến trường."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "anh usually means “you” when you’re talking to a man who is a bit older than you. It’s based on age and relationship, not just grammar.\n\nIt literally means “older brother,” and you’ll also hear it for a boyfriend or husband in a sweet way. Vietnamese pronouns show relative age, so if you call someone anh, you’re putting yourself in the younger position.\n\nIt’s used for men slightly older than you, or sometimes similar age in romantic contexts. The matching pronoun is often em for the younger person.\n\nStrong memory link: anh ↔ em (older ↔ younger pair).",
+  "definition": "you",
+  "rank": 29,
+  "_id": "mDOW8ittxf9Ol5uJjNjK"
+}

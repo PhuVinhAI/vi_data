@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:21:08.729Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:21:08.729Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "ghi chú",
+        "ghi nhận",
+        "ghi lại"
+      ],
+      "word": "ghi nhận",
+      "language": "vi",
+      "sentence": "Chúng tôi sẽ ___ ý kiến của bạn.",
+      "translation": {
+        "en": "We will record your opinion."
+      },
+      "translatedAnswer": {
+        "en": "record"
+      },
+      "hint": "g____n",
+      "answer": "ghi nhận"
+    },
+    "id": "b9e3b6ad-61ac-4506-bc91-4aaa9e25b369"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ghi nhận** = to record or to acknowledge something. It can be about writing information down, or recognizing someone’s effort or contribution.\n\nAs a verb, it’s used with things like ý kiến (opinions), kết quả (results), đóng góp (contributions), thành tích (achievements), lỗi (mistakes). It often implies you accept something as valid or worth noting, not just physically writing it.\n\nIt can also mean “acknowledge” in a more formal tone — close to **công nhận**, but *công nhận* is stronger, like officially admitting something is true.",
+  "choices": [
+    "ghi nhớ",
+    "ghi nhận",
+    "ghi chép"
+  ],
+  "rank": 1948,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ghi nhận",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:21:08.729Z",
+    "content": {
+      "choices": [],
+      "word": "ghi nhận",
+      "sentence": "Chúng tôi sẽ ___ ý kiến của bạn.",
+      "language": "vi",
+      "translation": {
+        "en": "We will record your opinion."
+      },
+      "translatedAnswer": {
+        "en": "record"
+      },
+      "answer": "ghi nhận"
+    },
+    "id": "8c69de31-1e65-46f8-a7b1-6aa566492f08",
+    "updatedAt": "2025-03-12T13:21:08.729Z"
+  },
+  "exampleSentencesTranslated": [
+    "The company will record your feedback in the report.",
+    "She always records the efforts of her colleagues at work.",
+    "I need to record the study results in this chart."
+  ],
+  "definition": "record",
+  "flashcard": {
+    "translations": {
+      "en": "acknowledge",
+      "vi": "ghi nhận",
+      "es": "reconocer"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:01:35.367Z",
+    "definitions": {
+      "en": "To acknowledge or record something.",
+      "vi": "Để ghi nhận hoặc ghi lại điều gì đó.",
+      "es": "Reconocer o registrar algo."
+    },
+    "example": {
+      "en": "I acknowledge your opinion.",
+      "vi": "Tôi ghi nhận ý kiến của bạn.",
+      "es": "Reconozco tu opinión."
+    }
+  },
+  "notes": "ghi nhận = to record or to acknowledge something. It can be about writing information down, or recognizing someone’s effort or contribution.\n\nAs a verb, it’s used with things like ý kiến (opinions), kết quả (results), đóng góp (contributions), thành tích (achievements), lỗi (mistakes). It often implies you accept something as valid or worth noting, not just physically writing it.\n\nIt can also mean “acknowledge” in a more formal tone — close to công nhận, but công nhận is stronger, like officially admitting something is true.",
+  "updatedAt": "2026-03-03T09:44:12.108Z",
+  "exampleSentences": [
+    "Công ty sẽ ghi nhận ý kiến đóng góp của anh vào báo cáo.",
+    "Chị ấy luôn ghi nhận nỗ lực của đồng nghiệp trong công việc.",
+    "Em cần ghi nhận kết quả học tập vào bảng thống kê này."
+  ],
+  "_id": "8Xg9qJINTnn2KUEzAjWP"
+}

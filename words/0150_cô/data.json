@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "aunt"
+      },
+      "word": "cô",
+      "sentence": "Cô ấy là ___ của tôi.",
+      "language": "vi",
+      "hint": "c__",
+      "choices": [
+        "chị",
+        "cô",
+        "mẹ"
+      ],
+      "translation": {
+        "en": "She is my aunt."
+      },
+      "answer": "cô"
+    },
+    "createdAt": "2025-03-12T13:38:04.374Z",
+    "updatedAt": "2025-03-12T13:38:04.374Z",
+    "type": "multiChoiceQuiz",
+    "id": "67a3e5dc-3dff-4d1f-9bfc-f2742f444e7c",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Cô** usually means *aunt* — specifically your father’s younger sister. It’s a family noun, so you don’t need a classifier in normal use (cô, không phải *một cô* when talking about your own aunt).\n\nIt’s also very common for a *female teacher*, especially in school. Students call their female teacher **cô + name**.\n\nIn daily speech, **cô** can be a pronoun for a young woman, or a polite way for a young person to refer to herself when talking to kids.\n\nClose words: **chú** (father’s younger brother), **dì** (mother’s sister).",
+  "flashcard": {
+    "translations": {
+      "en": "aunt, young woman, teacher (female)",
+      "es": "tía, mujer joven, profesora (femenina)",
+      "vi": "cô, cô gái, giáo viên (nữ)"
+    },
+    "createdAt": "2025-01-28T12:26:23.723Z",
+    "example": {
+      "en": "She is a teacher.",
+      "vi": "Cô ấy là giáo viên.",
+      "es": "Ella es profesora."
+    },
+    "definitions": {
+      "en": "A term used to refer to a young woman or girl, often used as a respectful address.",
+      "vi": "Một thuật ngữ dùng để chỉ một người phụ nữ hoặc cô gái trẻ, thường được sử dụng như một cách xưng hô tôn trọng.",
+      "es": "Un término utilizado para referirse a una mujer joven o niña, a menudo usado como una forma de respeto."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "This weekend I will visit my aunt's house in the city.",
+    "Aunt always teaches me how to cook traditional dishes.",
+    "Every Tet holiday, aunt usually gives me small gifts."
+  ],
+  "notes": "Cô usually means aunt — specifically your father’s younger sister. It’s a family noun, so you don’t need a classifier in normal use (cô, không phải một cô when talking about your own aunt).\n\nIt’s also very common for a female teacher, especially in school. Students call their female teacher cô + name.\n\nIn daily speech, cô can be a pronoun for a young woman, or a polite way for a young person to refer to herself when talking to kids.\n\nClose words: chú (father’s younger brother), dì (mother’s sister).",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Cô ấy là ___ của tôi.",
+      "word": "cô",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "aunt"
+      },
+      "translation": {
+        "en": "She is my aunt."
+      },
+      "answer": "cô",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:38:04.374Z",
+    "updatedAt": "2025-03-12T13:38:04.374Z",
+    "id": "51d028f6-249b-4b4b-8f00-5802f4a8a56a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T06:35:31.600Z",
+  "definition": "aunt",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cô",
+  "rank": 150,
+  "exampleSentences": [
+    "Cuối tuần này em sẽ đến thăm nhà cô ở thành phố.",
+    "Cô luôn dạy anh cách nấu những món ăn truyền thống.",
+    "Mỗi dịp Tết, cô thường tặng em những món quà nhỏ."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bác",
+    "dì",
+    "cô"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "D4c7Do40linRPJEiSkVn"
+}

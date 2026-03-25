@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "fb5e2366-7556-4635-8b87-1e445f90e568",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:57:45.917Z",
+    "content": {
+      "answer": "gần",
+      "translation": {
+        "en": "This house is very close."
+      },
+      "choices": [],
+      "sentence": "Ngôi nhà này rất ___.",
+      "word": "gần",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "close"
+      }
+    },
+    "updatedAt": "2025-03-12T13:57:45.917Z"
+  },
+  "notes": "gần means near / close in distance. It can also mean almost with time or numbers.\n\nIt’s usually an adjective after ở or before a noun: gần + noun (gần nhà).  \nYou can use it with time/number to mean “almost”: gần + number/time (gần 5 giờ).  \nGần đây means “recently,” and gần như means “almost / nearly.”  \nOpposite: xa (far).",
+  "updatedAt": "2026-03-03T06:40:17.808Z",
+  "notes_md": "**gần** means **near / close** in distance. It can also mean **almost** with time or numbers.\n\nIt’s usually an adjective after **ở** or before a noun: **gần + noun** (gần nhà).  \nYou can use it with time/number to mean “almost”: **gần + number/time** (gần 5 giờ).  \n**Gần đây** means “recently,” and **gần như** means “almost / nearly.”  \nOpposite: **xa** (far).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "f0065672-c5b3-4dd8-8c7f-894c048f7a5c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:57:45.917Z",
+    "content": {
+      "sentence": "Cửa hàng này ở ___ trường học.",
+      "word": "gần",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "near"
+      },
+      "translation": {
+        "en": "This store is near the school."
+      },
+      "answer": "gần",
+      "choices": [
+        "xa",
+        "gần",
+        "dài"
+      ],
+      "hint": "g___n"
+    },
+    "createdAt": "2025-03-12T13:57:45.917Z"
+  },
+  "exampleSentencesTranslated": [
+    "My house is near the school so I walk every day.",
+    "I want to find a coffee shop near here to meet a friend.",
+    "I work near the supermarket so it is very convenient to buy food."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Near in distance or time.",
+      "es": "Cerca en distancia o tiempo.",
+      "vi": "Gần về khoảng cách hoặc thời gian."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "This store is close to my house.",
+      "es": "Esta tienda está cerca de mi casa.",
+      "vi": "Cửa hàng này gần nhà tôi."
+    },
+    "createdAt": "2025-01-28T13:55:55.721Z",
+    "translations": {
+      "es": "cerca",
+      "vi": "gần",
+      "en": "close"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "xa",
+    "lớn",
+    "gần"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "gần",
+  "exampleSentences": [
+    "Nhà anh ở gần trường nên anh đi bộ mỗi ngày.",
+    "Em muốn tìm một quán cà phê gần đây để gặp bạn.",
+    "Chị làm việc ở gần siêu thị nên rất tiện mua đồ ăn."
+  ],
+  "rank": 197,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "near",
+  "_id": "IHvL6eAxKoVcgwwHKagS"
+}

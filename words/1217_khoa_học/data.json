@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "nghệ thuật",
+    "khoa học",
+    "thể thao"
+  ],
+  "updatedAt": "2026-03-03T08:25:41.051Z",
+  "exampleSentences": [
+    "Em rất thích học môn khoa học ở trường vì nó thú vị.",
+    "Chị muốn đọc thêm sách về khoa học để hiểu thế giới hơn.",
+    "Anh đang tham gia một dự án nghiên cứu về khoa học môi trường."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "science"
+      },
+      "answer": "khoa học",
+      "choices": [
+        "khoa học",
+        "ngôn ngữ",
+        "toán học"
+      ],
+      "translation": {
+        "en": "I like the subject of science at school."
+      },
+      "language": "vi",
+      "word": "khoa học",
+      "hint": "k___c",
+      "sentence": "Tôi thích môn ___ ở trường."
+    },
+    "updatedAt": "2025-03-12T16:38:19.582Z",
+    "id": "a01b6c14-00f9-4725-b5e6-a6d4488bbcb0",
+    "createdAt": "2025-03-12T16:38:19.582Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "khoa học",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I really like studying science at school because it is interesting.",
+    "I want to read more books about science to understand the world better.",
+    "I am participating in a research project about environmental science."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "khoa học",
+      "es": "ciencia",
+      "en": "science"
+    },
+    "example": {
+      "es": "La ciencia nos ayuda a entender el mundo que nos rodea.",
+      "en": "Science helps us understand the world around us.",
+      "vi": "Khoa học giúp chúng ta hiểu thế giới xung quanh."
+    },
+    "definitions": {
+      "es": "Una empresa sistemática que construye y organiza el conocimiento en forma de explicaciones y predicciones comprobables sobre el universo.",
+      "en": "A systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.",
+      "vi": "Một lĩnh vực có hệ thống xây dựng và tổ chức kiến thức dưới dạng các giải thích và dự đoán có thể kiểm chứng về vũ trụ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:09:48.863Z"
+  },
+  "notes": "khoa học means science — the study of the natural world, facts, experiments, and research.  \n\nIt’s an uncountable noun in general use, so you don’t say “một khoa học” when you mean science as a field. To talk about a specific field, say một ngành khoa học (a branch of science).  \n\nCommon pairings: môn khoa học (science as a school subject), nhà khoa học (scientist), nghiên cứu khoa học (scientific research).  \n\nIt can also mean “scientific” in the sense of being systematic or logical, like có tính khoa học (scientific, methodical).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**khoa học** means *science* — the study of the natural world, facts, experiments, and research.  \n\nIt’s an uncountable noun in general use, so you don’t say “một khoa học” when you mean science as a field. To talk about a specific field, say **một ngành khoa học** (a branch of science).  \n\nCommon pairings: **môn khoa học** (science as a school subject), **nhà khoa học** (scientist), **nghiên cứu khoa học** (scientific research).  \n\nIt can also mean “scientific” in the sense of being systematic or logical, like **có tính khoa học** (scientific, methodical).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:38:19.582Z",
+    "id": "2e3b9478-a7f3-4c8f-b016-7fffc541c9cc",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "khoa học",
+      "sentence": "Tôi thích học ___.",
+      "translatedAnswer": {
+        "en": "science"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I like studying science."
+      },
+      "answer": "khoa học",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:38:19.582Z"
+  },
+  "definition": "science",
+  "rank": 1217,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "wPs1ZGC0jaU2EGHYuMD8"
+}

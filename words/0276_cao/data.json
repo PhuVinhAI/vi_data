@@ -1,0 +1,99 @@
+{
+  "word": "cao",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**cao** = tall or high. It describes height or level.\n\nUse it for people, buildings, mountains, trees, and also for numbers like prices, temperatures, or scores. It comes after the noun: *người cao*, *nhà cao*, *giá cao*.  \n\nIt can also mean “high” in a more abstract way (like high cost or high level).  \n\nOpposite: **thấp** (short, low).",
+  "rank": 276,
+  "choices": [
+    "thấp",
+    "cao",
+    "ngắn"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:42.559Z",
+    "content": {
+      "choices": [
+        "hẹp",
+        "cao",
+        "rộng"
+      ],
+      "word": "cao",
+      "sentence": "Cái nhà này rất ___.",
+      "language": "vi",
+      "translation": {
+        "en": "This house is very tall."
+      },
+      "translatedAnswer": {
+        "en": "tall"
+      },
+      "answer": "cao",
+      "hint": "c__"
+    },
+    "id": "62697403-76b1-4522-9558-3d48101c8e22",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:35:42.559Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:48:55.839Z",
+  "exampleSentences": [
+    "Anh của em rất cao nên luôn đứng ở phía sau khi chụp ảnh.",
+    "Chị muốn mua đôi giày này vì nó làm chị trông cao hơn.",
+    "Cây cột đèn ngoài đường này khá cao so với những cái khác."
+  ],
+  "notes": "cao = tall or high. It describes height or level.\n\nUse it for people, buildings, mountains, trees, and also for numbers like prices, temperatures, or scores. It comes after the noun: người cao, nhà cao, giá cao.  \n\nIt can also mean “high” in a more abstract way (like high cost or high level).  \n\nOpposite: thấp (short, low).",
+  "flashcard": {
+    "translations": {
+      "en": "tall",
+      "es": "alto",
+      "vi": "cao"
+    },
+    "createdAt": "2025-01-28T11:15:03.694Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Having a greater than average height.",
+      "es": "Tener una altura mayor que la media.",
+      "vi": "Có chiều cao lớn hơn mức trung bình."
+    },
+    "example": {
+      "es": "Este árbol es muy alto.",
+      "vi": "Cái cây này rất cao.",
+      "en": "This tree is very tall."
+    }
+  },
+  "definition": "tall",
+  "fillBlankQuiz": {
+    "id": "a3610c1c-b48b-42de-8e53-582698a5e2ad",
+    "content": {
+      "word": "cao",
+      "language": "vi",
+      "sentence": "Cái cây này rất ___.",
+      "choices": [],
+      "answer": "cao",
+      "translation": {
+        "en": "This tree is very tall."
+      },
+      "translatedAnswer": {
+        "en": "tall"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:35:42.559Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:35:42.559Z"
+  },
+  "exampleSentencesTranslated": [
+    "My older brother is very tall so he always stands at the back when taking photos.",
+    "I want to buy these shoes because they make me look tall.",
+    "This streetlight pole is quite tall compared to the others."
+  ],
+  "_id": "CGG3CHEzAcBpaWs8ykOc"
+}

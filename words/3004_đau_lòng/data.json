@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đau lòng",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:24:27.545Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "heartbreaking"
+      },
+      "translation": {
+        "en": "This story is truly heartbreaking."
+      },
+      "hint": "đ___g",
+      "answer": "đau lòng",
+      "choices": [
+        "buồn bã",
+        "đau lòng",
+        "hạnh phúc"
+      ],
+      "sentence": "Câu chuyện này thật sự ___.",
+      "language": "vi",
+      "word": "đau lòng"
+    },
+    "createdAt": "2025-03-12T15:24:27.545Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "deb15b04-837e-4a7d-9b0c-84c55f996fa8"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 3004,
+  "choices": [
+    "đau lòng",
+    "hạnh phúc",
+    "ngạc nhiên"
+  ],
+  "notes_md": "**Đau lòng** = heartbroken, deeply hurt emotionally. It’s stronger than just *buồn* (sad) — it feels heavy and personal.\n\nIt describes emotional pain caused by loss, betrayal, bad news, or separation. Often used with events or situations that affect someone deeply.\n\n\nClose synonyms: *đau khổ* (more intense, suffering), *buồn* (lighter, more general).",
+  "notes": "Đau lòng = heartbroken, deeply hurt emotionally. It’s stronger than just buồn (sad) — it feels heavy and personal.\n\nIt describes emotional pain caused by loss, betrayal, bad news, or separation. Often used with events or situations that affect someone deeply.\n\nClose synonyms: đau khổ (more intense, suffering), buồn (lighter, more general).",
+  "exampleSentences": [
+    "Anh cảm thấy rất đau lòng khi nghe tin buồn đó.",
+    "Chị ấy đã khóc suốt đêm vì quá đau lòng về chuyện cũ.",
+    "Em thấy đau lòng khi phải xa gia đình lâu như vậy."
+  ],
+  "updatedAt": "2026-03-03T18:21:54.557Z",
+  "exampleSentencesTranslated": [
+    "He felt very heartbroken when he heard that sad news.",
+    "She cried all night because she was too heartbroken about the past.",
+    "I feel heartbroken when I have to be away from my family for so long."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:24:27.545Z",
+    "content": {
+      "word": "đau lòng",
+      "sentence": "Cô ấy cảm thấy ___ khi nghe tin.",
+      "language": "vi",
+      "choices": [],
+      "answer": "đau lòng",
+      "translation": {
+        "en": "She feels heartbroken when hearing the news."
+      },
+      "translatedAnswer": {
+        "en": "heartbroken"
+      }
+    },
+    "id": "f999019e-99c2-4cdc-9472-67d73f6e5f0d",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:24:27.545Z"
+  },
+  "flashcard": {
+    "example": {
+      "es": "Me siento con el corazón roto cuando escucho malas noticias.",
+      "vi": "Tôi cảm thấy đau lòng khi nghe tin buồn.",
+      "en": "I feel heartbroken when I hear bad news."
+    },
+    "definitions": {
+      "es": "Con el corazón roto; sintiendo una profunda tristeza o dolor.",
+      "vi": "Đau lòng; cảm thấy nỗi buồn sâu sắc hoặc đau khổ.",
+      "en": "Heartbroken; feeling deep sorrow or grief."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:59:14.768Z",
+    "translations": {
+      "en": "heartbroken",
+      "vi": "đau lòng",
+      "es": "con el corazón roto"
+    }
+  },
+  "definition": "heartbroken",
+  "_id": "dajaAuWw0PjH8OsyTSI0"
+}

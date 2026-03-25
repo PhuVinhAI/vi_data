@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:41:27.032Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "bones"
+      },
+      "language": "vi",
+      "sentence": "Con chó có ___ trong cơ thể.",
+      "choices": [],
+      "word": "xương",
+      "translation": {
+        "en": "The dog has bones in its body."
+      },
+      "answer": "xương"
+    },
+    "id": "9df695d1-4919-422f-8762-78f123cd7310",
+    "createdAt": "2025-03-12T14:41:27.032Z",
+    "type": "fillBlankQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "bone",
+  "flashcard": {
+    "example": {
+      "en": "Bone is the hard part of the body.",
+      "vi": "Xương là phần cứng trong cơ thể.",
+      "es": "El hueso es la parte dura del cuerpo."
+    },
+    "createdAt": "2025-01-28T12:16:23.265Z",
+    "definitions": {
+      "es": "Un tejido conectivo duro y denso que forma el esqueleto.",
+      "en": "A hard, dense connective tissue that forms the skeleton.",
+      "vi": "Một loại mô liên kết cứng và đặc tạo thành bộ xương."
+    },
+    "translations": {
+      "es": "hueso",
+      "en": "bone",
+      "vi": "xương"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**xương** = bone, the hard part inside your body that supports it.\n\nIt’s a noun. You usually just say **xương** without a classifier, but you can use **cái xương**, **khúc xương** (a piece of bone). Very common pairings: **xương cá** (fish bones), **xương sườn** (ribs), **xương sống** (backbone), **xương khớp** (bones and joints), **gãy xương** (break a bone).\n\nIt can also describe someone very skinny: **gầy trơ xương** (all skin and bones).\n\nIn casual speech, especially in the North, **xương** can mean “tough” or “hard to deal with” (about work, tasks, situations).  \n\nMemory tip: think **xương = skeleton support**, both for your body and for something “hard” to handle.",
+  "exampleSentences": [
+    "Anh cẩn thận khi ăn cá vì có nhiều xương nhỏ.",
+    "Bác sĩ nói em cần uống sữa để xương chắc khỏe hơn.",
+    "Mẹ đang nấu canh xương bò cho cả nhà ăn tối."
+  ],
+  "choices": [
+    "xương",
+    "răng",
+    "da"
+  ],
+  "notes": "xương = bone, the hard part inside your body that supports it.\n\nIt’s a noun. You usually just say xương without a classifier, but you can use cái xương, khúc xương (a piece of bone). Very common pairings: xương cá (fish bones), xương sườn (ribs), xương sống (backbone), xương khớp (bones and joints), gãy xương (break a bone).\n\nIt can also describe someone very skinny: gầy trơ xương (all skin and bones).\n\nIn casual speech, especially in the North, xương can mean “tough” or “hard to deal with” (about work, tasks, situations).  \n\nMemory tip: think xương = skeleton support, both for your body and for something “hard” to handle.",
+  "word": "xương",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:41:27.032Z",
+    "id": "dfaee74c-29c5-4193-8a3f-f5b89d209c85",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ cho món ăn này.",
+      "translatedAnswer": {
+        "en": "bones"
+      },
+      "language": "vi",
+      "hint": "x__n",
+      "answer": "xương",
+      "translation": {
+        "en": "We need bones for this dish."
+      },
+      "word": "xương",
+      "choices": [
+        "thịt",
+        "xương",
+        "rau"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:41:27.032Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2223,
+  "exampleSentencesTranslated": [
+    "Be careful when eating fish because there are many small bone.",
+    "The doctor said I need to drink milk so my bone will be healthier.",
+    "Mom is cooking beef bone soup for the whole family for dinner."
+  ],
+  "updatedAt": "2026-03-03T10:13:22.107Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "SEyQkwHJTye3OhaBebfo"
+}

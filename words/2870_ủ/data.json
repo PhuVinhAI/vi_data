@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "ủ",
+    "nấu",
+    "xay"
+  ],
+  "rank": 2870,
+  "notes_md": "**ủ** = to ferment (let something sit so it changes naturally, like yogurt or dough). It’s also used for “keeping warm/incubating” and figuratively for “harboring” something inside for a while.\n\nWith food, it’s about controlled waiting so bacteria/yeast do the work; similar to **lên men**, but ủ focuses more on the process of letting it sit.  \n\nFiguratively, it means keeping something inside over time, like feelings, plans, or even illness.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7e603570-a431-4769-8c86-af346e32e15b",
+    "createdAt": "2025-03-12T13:15:54.162Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "u__",
+      "answer": "ủ",
+      "translation": {
+        "en": "I want to ferment this dish."
+      },
+      "translatedAnswer": {
+        "en": "ferment"
+      },
+      "word": "ủ",
+      "language": "vi",
+      "sentence": "Tôi muốn ___ món ăn này.",
+      "choices": [
+        "nấu",
+        "ủ",
+        "xào"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:15:54.162Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "ủ",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "ferment",
+  "flashcard": {
+    "definitions": {
+      "es": "Envolver o cubrir algo para mantenerlo caliente o húmedo.",
+      "vi": "Bọc hoặc che một cái gì đó để giữ ấm hoặc ẩm.",
+      "en": "To wrap or cover something to keep it warm or moist."
+    },
+    "example": {
+      "vi": "Tôi sẽ ủ bánh mì để nó mềm hơn.",
+      "es": "Voy a envolver el pan para mantenerlo suave.",
+      "en": "I will wrap the bread to keep it soft."
+    },
+    "translations": {
+      "es": "envolver",
+      "vi": "ủ",
+      "en": "to wrap"
+    },
+    "createdAt": "2025-01-28T10:56:22.557Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:15:54.162Z",
+    "type": "fillBlankQuiz",
+    "id": "786e9a41-5b5b-4c67-943f-ca5a5815eb5c",
+    "content": {
+      "translation": {
+        "en": "I want to ferment this dish."
+      },
+      "translatedAnswer": {
+        "en": "ferment"
+      },
+      "answer": "ủ",
+      "choices": [],
+      "word": "ủ",
+      "sentence": "Tôi muốn ___ món ăn này.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:15:54.162Z"
+  },
+  "exampleSentencesTranslated": [
+    "My mother often ferment yogurt at home every weekend.",
+    "You need to ferment the bread dough for a few hours before baking.",
+    "She showed me how to ferment pickles for the family meal."
+  ],
+  "exampleSentences": [
+    "Mẹ anh thường ủ sữa chua ở nhà vào mỗi cuối tuần.",
+    "Chị cần ủ bột bánh mì trong vài tiếng trước khi nướng.",
+    "Bà ấy chỉ cho em cách ủ dưa cho bữa cơm gia đình."
+  ],
+  "updatedAt": "2026-03-03T18:06:58.186Z",
+  "notes": "ủ = to ferment (let something sit so it changes naturally, like yogurt or dough). It’s also used for “keeping warm/incubating” and figuratively for “harboring” something inside for a while.\n\nWith food, it’s about controlled waiting so bacteria/yeast do the work; similar to lên men, but ủ focuses more on the process of letting it sit.  \n\nFiguratively, it means keeping something inside over time, like feelings, plans, or even illness.",
+  "_id": "72a1NhHDArqr7qiiMZVz"
+}

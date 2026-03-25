@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "responsibility"
+      },
+      "answer": "trách nhiệm",
+      "translation": {
+        "en": "I need to take more responsibility at work."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "trách nhiệm",
+      "sentence": "Tôi cần chịu ___ hơn trong công việc."
+    },
+    "id": "d078e5bf-406d-4631-bf2f-721677ec37c8",
+    "createdAt": "2025-03-12T14:00:49.518Z",
+    "updatedAt": "2025-03-12T14:00:49.518Z"
+  },
+  "definition": "responsibility",
+  "updatedAt": "2026-03-03T07:35:16.684Z",
+  "choices": [
+    "trách nhiệm",
+    "nhiệm vụ",
+    "quyền lợi"
+  ],
+  "notes": "Trách nhiệm = responsibility, something you are supposed to do or take care of.\n\nIt’s an uncountable noun in most cases, but you can say một trách nhiệm when talking about one specific duty. Very often used with có, nhận, thực hiện, hoàn thành, and especially chịu trách nhiệm (to be responsible).\n\nClose synonym: bổn phận (more moral/ethical duty). Opposite idea: vô trách nhiệm (irresponsible).",
+  "exampleSentencesTranslated": [
+    "He always tries to fulfill his responsibility at work.",
+    "She takes the responsibility of caring for the younger sibling in the family.",
+    "Everyone has the responsibility to keep the environment clean and beautiful."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Trách nhiệm** = responsibility, something you are supposed to do or take care of.\n\nIt’s an uncountable noun in most cases, but you can say *một trách nhiệm* when talking about one specific duty. Very often used with **có**, **nhận**, **thực hiện**, **hoàn thành**, and especially **chịu trách nhiệm** (to be responsible).\n\n\nClose synonym: **bổn phận** (more moral/ethical duty). Opposite idea: **vô trách nhiệm** (irresponsible).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trách nhiệm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:00:49.518Z",
+    "updatedAt": "2025-03-12T14:00:49.518Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "trách nhiệm",
+      "translatedAnswer": {
+        "en": "responsibility"
+      },
+      "language": "vi",
+      "choices": [
+        "trách nhiệm",
+        "công việc",
+        "kế hoạch"
+      ],
+      "translation": {
+        "en": "We must fulfill our responsibility."
+      },
+      "sentence": "Chúng ta phải thực hiện ___ của mình.",
+      "word": "trách nhiệm",
+      "hint": "t___n"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "69e3aceb-ac1e-4192-8744-8852ae24a0c2"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "trách nhiệm",
+      "es": "responsabilidad",
+      "en": "responsibility"
+    },
+    "definitions": {
+      "es": "El estado o hecho de tener el deber de ocuparse de algo o de tener control sobre alguien.",
+      "vi": "Trạng thái hoặc thực tế có nghĩa vụ phải giải quyết một cái gì đó hoặc có quyền kiểm soát ai đó.",
+      "en": "The state or fact of having a duty to deal with something or of having control over someone."
+    },
+    "createdAt": "2025-01-28T11:38:44.788Z",
+    "example": {
+      "vi": "Mỗi người đều có trách nhiệm với hành động của mình.",
+      "es": "Cada persona tiene la responsabilidad de sus acciones.",
+      "en": "Everyone has a responsibility for their actions."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh luôn cố gắng hoàn thành trách nhiệm của mình ở nơi làm việc.",
+    "Chị ấy nhận trách nhiệm chăm sóc em nhỏ trong gia đình.",
+    "Mỗi người đều có trách nhiệm giữ gìn môi trường sạch đẹp."
+  ],
+  "rank": 735,
+  "_id": "IuM4klUOvWooF5NjFS7b"
+}

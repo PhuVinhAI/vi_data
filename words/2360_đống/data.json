@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:27:56.353Z",
+  "exampleSentences": [
+    "Anh để sách thành một đống trên bàn làm việc của mình.",
+    "Chị vừa mua về một đống rau tươi ở chợ sáng nay.",
+    "Sau bữa tiệc, em phải dọn một đống chén dĩa trong bếp."
+  ],
+  "notes": "đống = a pile, a heap of things put together in a messy or loose way.\n\nIt’s a noun. You usually say một đống + noun to mean “a pile of” or even “a lot of” something.  \n\nIt often sounds a bit informal and can suggest “too much” or “annoyingly many.”  \nClose words: chồng (a neat stack), đám (a group of people/things), but đống feels more messy and physical.",
+  "definition": "pile",
+  "flashcard": {
+    "definitions": {
+      "es": "Un montón o pila de algo.",
+      "vi": "Một đống hoặc chồng của cái gì đó.",
+      "en": "A heap or pile of something."
+    },
+    "example": {
+      "en": "There is a pile of books on the table.",
+      "es": "Hay un montón de libros sobre la mesa.",
+      "vi": "Có một đống sách trên bàn."
+    },
+    "translations": {
+      "en": "pile",
+      "vi": "đống",
+      "es": "montón"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:56:54.441Z"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:16:30.110Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:16:30.110Z",
+    "content": {
+      "sentence": "Trên bàn có một ___ sách.",
+      "language": "vi",
+      "word": "đống",
+      "choices": [],
+      "answer": "đống",
+      "translatedAnswer": {
+        "en": "pile"
+      },
+      "translation": {
+        "en": "There is a pile of books on the table."
+      }
+    },
+    "id": "b26760eb-11f4-44f3-86d4-907ab69105ec",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He put a pile of books on his desk.",
+    "She just bought a pile of fresh vegetables at the market this morning.",
+    "After the party, I had to clean a pile of dishes in the kitchen."
+  ],
+  "word": "đống",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đống** = a pile, a heap of things put together in a messy or loose way.\n\nIt’s a noun. You usually say **một đống + noun** to mean “a pile of” or even “a lot of” something.  \n\nIt often sounds a bit informal and can suggest “too much” or “annoyingly many.”  \nClose words: **chồng** (a neat stack), **đám** (a group of people/things), but **đống** feels more messy and physical.",
+  "choices": [
+    "đồng",
+    "ống",
+    "đống"
+  ],
+  "rank": 2360,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "33abdb91-a53a-408b-b3dc-e3ee1691b473",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:16:30.110Z",
+    "content": {
+      "sentence": "Trên bàn có một ___ sách.",
+      "language": "vi",
+      "word": "đống",
+      "choices": [
+        "chồng",
+        "đống",
+        "bó"
+      ],
+      "hint": "d___g",
+      "answer": "đống",
+      "translatedAnswer": {
+        "en": "pile"
+      },
+      "translation": {
+        "en": "There is a pile of books on the table."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:16:30.110Z"
+  },
+  "_id": "7GeLRpj2e4LE6DRUj89k"
+}

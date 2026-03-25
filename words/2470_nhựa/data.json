@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A synthetic material made from polymers, commonly used for various products.",
+      "es": "Un material sintético hecho de polímeros, comúnmente utilizado para diversos productos.",
+      "vi": "Một loại vật liệu tổng hợp được làm từ polymer, thường được sử dụng cho nhiều sản phẩm khác nhau."
+    },
+    "example": {
+      "en": "This bottle is made of plastic.",
+      "vi": "Chiếc chai này được làm từ nhựa.",
+      "es": "Esta botella está hecha de plástico."
+    },
+    "translations": {
+      "es": "plástico",
+      "vi": "nhựa",
+      "en": "plastic"
+    },
+    "createdAt": "2025-01-28T12:51:06.318Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "plastic",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "56e8bc1a-3773-4dc6-a44a-704455847eb0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:29.046Z",
+    "content": {
+      "answer": "nhựa",
+      "translation": {
+        "en": "This box is made of plastic."
+      },
+      "translatedAnswer": {
+        "en": "plastic"
+      },
+      "word": "nhựa",
+      "sentence": "Chiếc hộp này làm từ ___.",
+      "language": "vi",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T15:16:29.046Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you get me a plastic bottle?",
+    "She always brings a plastic bag when going shopping.",
+    "They are collecting plastic for recycling in this neighborhood."
+  ],
+  "exampleSentences": [
+    "Em có thể lấy cho anh một cái chai nhựa được không?",
+    "Chị luôn mang theo túi nhựa khi đi chợ mua đồ.",
+    "Họ đang thu gom nhựa để tái chế trong khu phố này."
+  ],
+  "updatedAt": "2026-03-03T10:39:01.047Z",
+  "notes": "nhựa = plastic, the material used to make bottles, bags, containers, etc.  \n\nIt’s a noun. You often hear đồ nhựa (plastic items) or a classifier like cái with objects: cái ly nhựa, cái hộp nhựa.  \n\nVery common collocations: nhựa dùng một lần (single-use plastic), nhựa tái chế (recycled plastic).  \n\nIt can also mean sap/resin from trees (like sticky tree liquid), and in words like nhựa đường (asphalt).  \n\nFor memory: people also say ni lông (from “nylon”), especially for plastic bags — similar vibe but not exactly the same word.",
+  "rank": 2470,
+  "choices": [
+    "gỗ",
+    "nhựa",
+    "thủy tinh"
+  ],
+  "notes_md": "**nhựa** = plastic, the material used to make bottles, bags, containers, etc.  \n\nIt’s a noun. You often hear **đồ nhựa** (plastic items) or a classifier like **cái** with objects: *cái ly nhựa, cái hộp nhựa*.  \n\nVery common collocations: **nhựa dùng một lần** (single-use plastic), **nhựa tái chế** (recycled plastic).  \n\nIt can also mean **sap/resin** from trees (like sticky tree liquid), and in words like **nhựa đường** (asphalt).  \n\nFor memory: people also say **ni lông** (from “nylon”), especially for plastic bags — similar vibe but not exactly the same word.",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "n___a",
+      "answer": "nhựa",
+      "translatedAnswer": {
+        "en": "plastic"
+      },
+      "translation": {
+        "en": "This chair is made of plastic."
+      },
+      "language": "vi",
+      "sentence": "Chiếc ghế này được làm bằng ___.",
+      "word": "nhựa",
+      "choices": [
+        "gỗ",
+        "kim loại",
+        "nhựa"
+      ]
+    },
+    "createdAt": "2025-03-12T15:16:29.046Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "00432cbe-f39d-4209-b1bb-a7f549da4795",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:16:29.046Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhựa",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "bKMsfuXjIgvVXZgHPHcv"
+}

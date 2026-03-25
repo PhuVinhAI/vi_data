@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:08.141Z",
+    "content": {
+      "word": "thời kỳ",
+      "sentence": "Chúng ta đang sống trong ___ đầy thử thách.",
+      "language": "vi",
+      "choices": [
+        "thời kỳ",
+        "thế kỷ",
+        "tháng"
+      ],
+      "answer": "thời kỳ",
+      "hint": "t___ kỳ",
+      "translation": {
+        "en": "We are living in a challenging period."
+      },
+      "translatedAnswer": {
+        "en": "period"
+      }
+    },
+    "id": "aa791692-a6db-4a5a-9acd-b46405e4d868",
+    "updatedAt": "2025-03-12T15:27:08.141Z"
+  },
+  "rank": 1657,
+  "choices": [
+    "thời điểm",
+    "thời kỳ",
+    "giai đoạn"
+  ],
+  "notes_md": "**Thời kỳ** means a period of time, usually a longer or meaningful stage in history or life. It’s more formal and often used for historical, social, or developmental periods.\n\nIt’s a noun. You can say *một thời kỳ* (a period), *các thời kỳ* (periods). Common pairings: *thời kỳ chiến tranh* (war period), *thời kỳ phát triển* (development period), *thời kỳ đầu/cuối* (early/late period).\n\nIt’s very close to **giai đoạn**, but *thời kỳ* often feels broader or more historical.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thời kỳ",
+  "fillBlankQuiz": {
+    "id": "43a7db01-0d87-4ac9-a7c7-4de2454d7e19",
+    "content": {
+      "answer": "thời kỳ",
+      "translation": {
+        "en": "This is a difficult period."
+      },
+      "translatedAnswer": {
+        "en": "period"
+      },
+      "word": "thời kỳ",
+      "sentence": "Đây là ___ khó khăn.",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:27:08.141Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:27:08.141Z"
+  },
+  "exampleSentencesTranslated": [
+    "He lived in Hanoi during a very difficult period.",
+    "During this period, many people started to care more about health.",
+    "I like learning about the historical period of Vietnam."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A period or phase in time characterized by particular events or conditions.",
+      "vi": "Một khoảng thời gian hoặc giai đoạn trong thời gian được đặc trưng bởi các sự kiện hoặc điều kiện cụ thể.",
+      "es": "Un período o fase en el tiempo caracterizado por eventos o condiciones particulares."
+    },
+    "example": {
+      "es": "Durante este período, todo está cambiando rápidamente.",
+      "vi": "Trong thời kỳ này, mọi thứ đều thay đổi nhanh chóng.",
+      "en": "During this period, everything is changing rapidly."
+    },
+    "translations": {
+      "en": "period",
+      "vi": "thời kỳ",
+      "es": "período"
+    },
+    "createdAt": "2025-01-28T13:01:55.875Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "period",
+  "notes": "Thời kỳ means a period of time, usually a longer or meaningful stage in history or life. It’s more formal and often used for historical, social, or developmental periods.\n\nIt’s a noun. You can say một thời kỳ (a period), các thời kỳ (periods). Common pairings: thời kỳ chiến tranh (war period), thời kỳ phát triển (development period), thời kỳ đầu/cuối (early/late period).\n\nIt’s very close to giai đoạn, but thời kỳ often feels broader or more historical.",
+  "exampleSentences": [
+    "Anh ấy sống ở Hà Nội trong một thời kỳ rất khó khăn.",
+    "Thời kỳ này, nhiều người bắt đầu quan tâm đến sức khỏe hơn.",
+    "Em thích tìm hiểu về thời kỳ lịch sử của Việt Nam."
+  ],
+  "updatedAt": "2026-03-03T09:13:15.642Z",
+  "_id": "eIcECYBbk4YRT4iArVvP"
+}

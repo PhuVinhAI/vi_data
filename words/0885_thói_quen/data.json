@@ -1,0 +1,99 @@
+{
+  "word": "thói quen",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "thói quen",
+        "định nghĩa",
+        "tính cách"
+      ],
+      "translation": {
+        "en": "She has a bad habit."
+      },
+      "sentence": "Cô ấy có một ___ xấu.",
+      "word": "thói quen",
+      "hint": "t___n",
+      "answer": "thói quen",
+      "translatedAnswer": {
+        "en": "habit"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "1fc6138c-4f0e-4726-9e60-83ed92d54a99",
+    "createdAt": "2025-03-12T14:14:31.123Z",
+    "updatedAt": "2025-03-12T14:14:31.123Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**thói quen** = habit — something you do regularly, almost automatically.\n\nIt’s a noun. You can count it: *một thói quen*, *những thói quen*. Common verbs with it are **có** (have), **tạo** (build), **bỏ** (quit), **thay đổi** (change).  \n\nStructure: có / bỏ / tạo + thói quen + V (i.e. có thói quen dậy sớm)\n\nIt’s used for personal habits; for group or cultural habits, Vietnamese often uses **tập quán** (more about traditions than personal routines).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "thói quen = habit — something you do regularly, almost automatically.\n\nIt’s a noun. You can count it: một thói quen, những thói quen. Common verbs with it are có (have), tạo (build), bỏ (quit), thay đổi (change).  \n\nStructure: có / bỏ / tạo + thói quen + V (i.e. có thói quen dậy sớm)\n\nIt’s used for personal habits; for group or cultural habits, Vietnamese often uses tập quán (more about traditions than personal routines).",
+  "exampleSentencesTranslated": [
+    "I am trying to create a reading habit every day.",
+    "She knows that a healthy eating habit is very important for health.",
+    "I want to quit the habit of staying up late to get up earlier."
+  ],
+  "choices": [
+    "thức khuya",
+    "thói quen",
+    "sở thích"
+  ],
+  "updatedAt": "2026-03-03T07:50:38.814Z",
+  "definition": "habit",
+  "fillBlankQuiz": {
+    "id": "0c0f5f40-27c7-43c6-8738-490d8d74a3d3",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I have a good habit."
+      },
+      "sentence": "Tôi có một ___ tốt.",
+      "word": "thói quen",
+      "answer": "thói quen",
+      "translatedAnswer": {
+        "en": "habit"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:14:31.123Z",
+    "createdAt": "2025-03-12T14:14:31.123Z"
+  },
+  "rank": 885,
+  "exampleSentences": [
+    "Anh đang cố gắng tạo thói quen đọc sách mỗi ngày.",
+    "Chị biết rằng thói quen ăn uống lành mạnh rất quan trọng cho sức khỏe.",
+    "Em muốn bỏ thói quen thức khuya để dậy sớm hơn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Every morning, I have a habit of drinking coffee.",
+      "vi": "Mỗi sáng, tôi có thói quen uống cà phê.",
+      "es": "Cada mañana, tengo el hábito de tomar café."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:51:36.853Z",
+    "translations": {
+      "en": "habit",
+      "vi": "thói quen",
+      "es": "hábito"
+    },
+    "definitions": {
+      "en": "A regular practice or routine that is often done unconsciously.",
+      "vi": "Một thói quen hoặc thói quen thường xuyên mà thường được thực hiện một cách vô thức.",
+      "es": "Una práctica o rutina regular que a menudo se realiza de manera inconsciente."
+    }
+  },
+  "_id": "Lk0VbAPt3MuMgcysIJkT"
+}

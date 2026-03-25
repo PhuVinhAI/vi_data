@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:45:55.257Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:52:35.121Z",
+    "updatedAt": "2025-03-12T12:52:35.121Z",
+    "content": {
+      "word": "chú",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "uncle"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I asked if uncle is well."
+      },
+      "answer": "chú",
+      "sentence": "Cháu hỏi ___ có khỏe không?"
+    },
+    "type": "fillBlankQuiz",
+    "id": "8ec71182-e518-418e-826d-72a528a167dc",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**chú** = your father’s younger brother (your uncle on your dad’s side).  \n\nIt’s a **noun**, often used with *người* (hai người chú) or *ông chú* for a more specific “that uncle.” Vietnamese family words are very exact: **chú** is younger than your dad — if he’s older, that’s **bác**; your mom’s brother is **cậu**.  \n\nIt’s also used as a pronoun in family-style speech: a man can call himself *chú* when talking to a child, and the child calls him *chú* (pair: cháu – chú). This makes conversations feel personal and relational.",
+  "exampleSentencesTranslated": [
+    "My uncle lives in Ho Chi Minh City and is very friendly.",
+    "This weekend, my family will visit my uncle in the countryside.",
+    "My uncle often tells us interesting stories from his childhood."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "chú = your father’s younger brother (your uncle on your dad’s side).  \n\nIt’s a noun, often used with người (hai người chú) or ông chú for a more specific “that uncle.” Vietnamese family words are very exact: chú is younger than your dad — if he’s older, that’s bác; your mom’s brother is cậu.  \n\nIt’s also used as a pronoun in family-style speech: a man can call himself chú when talking to a child, and the child calls him chú (pair: cháu – chú). This makes conversations feel personal and relational.",
+  "choices": [
+    "chú",
+    "dì",
+    "cô"
+  ],
+  "word": "chú",
+  "definition": "uncle",
+  "rank": 840,
+  "flashcard": {
+    "example": {
+      "es": "Mi tío es una persona muy amable.",
+      "vi": "Chú tôi là một người rất tốt.",
+      "en": "My uncle is a very nice person."
+    },
+    "translations": {
+      "es": "tío",
+      "vi": "chú",
+      "en": "uncle"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un término informal para un tío o una forma respetuosa de dirigirse a un hombre mayor.",
+      "vi": "Một thuật ngữ không chính thức để chỉ một người chú hoặc một cách tôn trọng để gọi một người đàn ông lớn tuổi.",
+      "en": "An informal term for an uncle or a respectful way to address an older male."
+    },
+    "createdAt": "2025-01-28T10:36:43.361Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:52:35.121Z",
+    "updatedAt": "2025-03-12T12:52:35.121Z",
+    "content": {
+      "sentence": "Cháu hỏi ___ có khỏe không?",
+      "answer": "chú",
+      "translation": {
+        "en": "I asked if uncle is well."
+      },
+      "choices": [
+        "chú",
+        "bác",
+        "cô"
+      ],
+      "hint": "c__",
+      "word": "chú",
+      "translatedAnswer": {
+        "en": "uncle"
+      },
+      "language": "vi"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "9b72049e-bf66-4497-8f30-98572aa06f5b",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chú của em sống ở thành phố Hồ Chí Minh và rất thân thiện.",
+    "Cuối tuần này, gia đình anh sẽ đến thăm chú ở quê.",
+    "Chú thường kể cho chúng tôi nghe những câu chuyện thú vị lúc nhỏ."
+  ],
+  "_id": "0t0MvQBmCdQO2Kn2rxan"
+}

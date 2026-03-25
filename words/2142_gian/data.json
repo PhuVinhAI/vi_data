@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "gian",
+    "nhà",
+    "bàn"
+  ],
+  "updatedAt": "2026-03-03T10:04:27.300Z",
+  "exampleSentencesTranslated": [
+    "He is cleaning the room to prepare for the guests.",
+    "She wants to decorate the room with many fresh flowers and bright lights.",
+    "Can you help me arrange the room to make it tidier?"
+  ],
+  "notes": "Gian means a room or a section of a building. It often feels like a “compartment” or clearly divided space.\n\nIt’s a noun. You can say một gian + noun (một gian nhà, một gian bếp, một gian hàng). It’s often used for traditional houses, small shops, market stalls, or spaces divided by walls or frames.\n\nCompared to phòng (room), gian sounds more like a structural section, not just any room.  \n\nIt’s countable: một gian, hai gian, ba gian.",
+  "fillBlankQuiz": {
+    "id": "7d5db4dc-13e2-46f0-a151-2211df42c89d",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I need a space to rest."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "gian",
+      "sentence": "Tôi cần một ___ để nghỉ ngơi.",
+      "translatedAnswer": {
+        "en": "space"
+      },
+      "answer": "gian"
+    },
+    "updatedAt": "2025-03-12T14:19:24.736Z",
+    "createdAt": "2025-03-12T14:19:24.736Z"
+  },
+  "definition": "room",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:19:24.736Z",
+    "createdAt": "2025-03-12T14:19:24.736Z",
+    "id": "354644fe-db9b-4113-aaa1-94a8dbc3f7e0",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "gian",
+      "translatedAnswer": {
+        "en": "space"
+      },
+      "choices": [
+        "phòng",
+        "gian",
+        "kho"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "I need a space to rest."
+      },
+      "sentence": "Tôi cần một ___ để nghỉ ngơi.",
+      "hint": "g___n",
+      "word": "gian"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "gian",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Gian** means a room or a section of a building. It often feels like a “compartment” or clearly divided space.\n\nIt’s a noun. You can say **một gian** + noun (một gian nhà, một gian bếp, một gian hàng). It’s often used for traditional houses, small shops, market stalls, or spaces divided by walls or frames.\n\nCompared to **phòng** (room), *gian* sounds more like a structural section, not just any room.  \n\nIt’s countable: một gian, hai gian, ba gian.",
+  "exampleSentences": [
+    "Anh ấy đang dọn dẹp gian để chuẩn bị cho khách đến chơi.",
+    "Chị muốn trang trí gian với nhiều hoa tươi và đèn sáng.",
+    "Em có thể giúp anh sắp xếp lại gian cho gọn gàng hơn không?"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Căn phòng này rất gian và thoáng mát.",
+      "es": "Esta habitación es muy amplia y ventilada.",
+      "en": "This room is very spacious and airy."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:55:46.107Z",
+    "definitions": {
+      "en": "A term used to describe a space that is large and open.",
+      "vi": "Một thuật ngữ được sử dụng để mô tả một không gian lớn và thoáng đãng.",
+      "es": "Un término utilizado para describir un espacio que es grande y abierto."
+    },
+    "translations": {
+      "en": "spacious",
+      "vi": "gian",
+      "es": "amplio"
+    }
+  },
+  "rank": 2142,
+  "_id": "MxUn2AuEMul00uhP9Xlk"
+}

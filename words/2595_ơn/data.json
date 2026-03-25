@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He always remembers the gratitude of his parents for him.",
+    "She feels gratitude when friends help during difficult times.",
+    "I want to express gratitude to the teachers who taught me."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ơn",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "grace, favor, kindness",
+      "es": "gracia, favor, amabilidad",
+      "vi": "ơn, ân huệ, lòng tốt"
+    },
+    "createdAt": "2025-01-28T13:16:45.907Z",
+    "definitions": {
+      "es": "Un término utilizado para expresar gratitud o aprecio.",
+      "en": "A term used to express gratitude or appreciation.",
+      "vi": "Một thuật ngữ được sử dụng để bày tỏ lòng biết ơn hoặc sự trân trọng."
+    },
+    "example": {
+      "vi": "Tôi cảm ơn bạn vì đã giúp đỡ tôi.",
+      "en": "I thank you for helping me.",
+      "es": "Te agradezco por ayudarme."
+    }
+  },
+  "updatedAt": "2026-03-03T11:26:46.701Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:44:06.508Z",
+    "updatedAt": "2025-03-12T15:44:06.508Z",
+    "content": {
+      "translation": {
+        "en": "I really appreciate the help you gave me."
+      },
+      "word": "ơn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "help"
+      },
+      "answer": "ơn",
+      "sentence": "Tôi rất biết ___ bạn đã giúp tôi.",
+      "choices": [
+        "thương",
+        "ơn",
+        "yêu"
+      ],
+      "hint": "ơn"
+    },
+    "id": "5218fa9c-9182-47ed-bff1-937c95e339d2",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ơn** = gratitude, a feeling of thankfulness when someone helps you or treats you well. It’s a noun, usually uncountable (you don’t normally say *một ơn*).\n\nIt often appears in fixed phrases rather than standing alone.  \n\nIn requests, **làm ơn + V** means “please” and softens what you’re asking for.  \nClose connection: **biết ơn** (grateful) vs. **vô ơn** (ungrateful) — a strong opposite pair to remember.",
+  "definition": "gratitude",
+  "notes": "ơn = gratitude, a feeling of thankfulness when someone helps you or treats you well. It’s a noun, usually uncountable (you don’t normally say một ơn).\n\nIt often appears in fixed phrases rather than standing alone.  \n\nIn requests, làm ơn + V means “please” and softens what you’re asking for.  \nClose connection: biết ơn (grateful) vs. vô ơn (ungrateful) — a strong opposite pair to remember.",
+  "rank": 2595,
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I really appreciate the help you gave me."
+      },
+      "word": "ơn",
+      "choices": [],
+      "sentence": "Tôi rất biết ___ bạn đã giúp tôi.",
+      "answer": "ơn",
+      "translatedAnswer": {
+        "en": "help"
+      }
+    },
+    "id": "9c9e30da-70f9-422e-8a2b-42b5c7be1a8a",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:44:06.508Z",
+    "updatedAt": "2025-03-12T15:44:06.508Z"
+  },
+  "choices": [
+    "ơn",
+    "ơn nghĩa",
+    "ân"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh luôn nhớ đến ơn của cha mẹ dành cho mình.",
+    "Chị thấy ơn khi bạn bè giúp đỡ lúc khó khăn.",
+    "Em muốn bày tỏ ơn với thầy cô đã dạy dỗ em."
+  ],
+  "_id": "iA7zvk8gigGm7mlKTZut"
+}

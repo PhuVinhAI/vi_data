@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "to the extent that",
+      "es": "hasta el punto de",
+      "vi": "đến nỗi"
+    },
+    "example": {
+      "en": "She was so sad that she couldn't speak.",
+      "es": "Ella estaba tan triste que no podía hablar.",
+      "vi": "Cô ấy buồn đến nỗi không thể nói chuyện."
+    },
+    "createdAt": "2025-01-28T12:38:10.341Z",
+    "definitions": {
+      "en": "to the extent that; so much that",
+      "es": "hasta el punto de; tanto que",
+      "vi": "đến mức mà; đến nỗi"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T11:39:14.026Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:05:37.166Z",
+    "updatedAt": "2025-03-12T15:05:37.166Z",
+    "content": {
+      "translation": {
+        "en": "She cried to the point of not stopping."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "to the point of"
+      },
+      "answer": "đến nỗi",
+      "word": "đến nỗi",
+      "language": "vi",
+      "sentence": "Cô ấy khóc ___ không ngừng."
+    },
+    "id": "328a68d2-1dc2-4d84-a18a-1e9e40e3d681"
+  },
+  "exampleSentencesTranslated": [
+    "The weather is so hot today so...that I don't even want to go outside.",
+    "You laughed loudly so...that everyone in the room turned to look.",
+    "She worked hard so...that she forgot to eat lunch."
+  ],
+  "definition": "so...that",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đến nỗi** means *so… that…* — it shows a strong result caused by something.\n\nIt links a cause (often an adjective or verb) to an extreme result. The feeling or action is so intense that something else happens.\n\n\nIt’s stronger and more dramatic than just “rất” (very). Think of it as pushing things to a noticeable consequence.",
+  "rank": 2716,
+  "choices": [
+    "đến nỗi",
+    "nếu như",
+    "bởi vì"
+  ],
+  "notes": "đến nỗi means so… that… — it shows a strong result caused by something.\n\nIt links a cause (often an adjective or verb) to an extreme result. The feeling or action is so intense that something else happens.\n\nIt’s stronger and more dramatic than just “rất” (very). Think of it as pushing things to a noticeable consequence.",
+  "exampleSentences": [
+    "Trời hôm nay nóng đến nỗi anh không muốn ra ngoài.",
+    "Em cười lớn đến nỗi mọi người trong phòng đều quay lại nhìn.",
+    "Chị làm việc chăm chỉ đến nỗi quên cả ăn trưa."
+  ],
+  "word": "đến nỗi",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:05:37.166Z",
+    "content": {
+      "sentence": "Cô ấy khóc ___ không ngừng.",
+      "language": "vi",
+      "word": "đến nỗi",
+      "hint": "đ___ nỗi",
+      "answer": "đến nỗi",
+      "translatedAnswer": {
+        "en": "to the point of"
+      },
+      "choices": [
+        "đến nỗi",
+        "quá mức",
+        "rất nhiều"
+      ],
+      "translation": {
+        "en": "She cried to the point of not stopping."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:05:37.166Z",
+    "id": "4865bd11-0d71-46d4-bd45-bed23b8f7dc7"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "YT50VNaW9U1RG8WWo0ZZ"
+}

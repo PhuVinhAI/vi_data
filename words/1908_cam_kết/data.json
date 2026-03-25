@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "commitment",
+      "es": "compromiso",
+      "vi": "cam kết"
+    },
+    "createdAt": "2025-01-28T11:32:45.198Z",
+    "example": {
+      "en": "I commit to completing the project on time.",
+      "vi": "Tôi cam kết sẽ hoàn thành dự án đúng hạn.",
+      "es": "Me comprometo a completar el proyecto a tiempo."
+    },
+    "definitions": {
+      "en": "A promise or commitment to do something.",
+      "vi": "Một lời hứa hoặc cam kết để làm điều gì đó.",
+      "es": "Una promesa o compromiso de hacer algo."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He made a commitment to finish the project on time.",
+    "She hopes everyone keeps their commitment in group work.",
+    "I feel secure when I see a commitment from the company."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:55:02.399Z",
+    "content": {
+      "choices": [
+        "đảm bảo",
+        "cam kết",
+        "thực hiện"
+      ],
+      "hint": "c___t",
+      "translation": {
+        "en": "We are committed to carrying out this project."
+      },
+      "answer": "cam kết",
+      "translatedAnswer": {
+        "en": "committed"
+      },
+      "sentence": "Chúng tôi ___ thực hiện dự án này.",
+      "word": "cam kết",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:55:02.399Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e553f898-cc78-4670-8b66-358ce783d7d1",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Cam kết** means a commitment — a serious promise that you will do something. It’s stronger than just saying you *sẽ làm*.\n\nIt’s a **noun**, so you can say *một cam kết*, *những cam kết*. Common pairings: *đưa ra cam kết* (make a commitment), *giữ cam kết* (keep a commitment), *thực hiện cam kết* (fulfill a commitment), *phá vỡ cam kết* (break a commitment).\n\n\nClose words: *lời hứa* (promise, more personal and emotional), *trách nhiệm* (responsibility — duty, not just a promise).",
+  "updatedAt": "2026-03-03T09:39:52.001Z",
+  "notes": "Cam kết means a commitment — a serious promise that you will do something. It’s stronger than just saying you sẽ làm.\n\nIt’s a noun, so you can say một cam kết, những cam kết. Common pairings: đưa ra cam kết (make a commitment), giữ cam kết (keep a commitment), thực hiện cam kết (fulfill a commitment), phá vỡ cam kết (break a commitment).\n\nClose words: lời hứa (promise, more personal and emotional), trách nhiệm (responsibility — duty, not just a promise).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "e07c08b2-764c-41cc-b12e-baf9373be1a4",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:55:02.399Z",
+    "createdAt": "2025-03-12T13:55:02.399Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We are committed to carrying out this project."
+      },
+      "answer": "cam kết",
+      "translatedAnswer": {
+        "en": "committed"
+      },
+      "sentence": "Chúng tôi ___ thực hiện dự án này.",
+      "word": "cam kết",
+      "language": "vi"
+    }
+  },
+  "definition": "commitment",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đã đưa ra cam kết sẽ hoàn thành dự án đúng hạn.",
+    "Chị mong muốn mọi người giữ cam kết trong công việc nhóm.",
+    "Em cảm thấy yên tâm khi thấy cam kết từ phía công ty."
+  ],
+  "rank": 1908,
+  "word": "cam kết",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cam kết",
+    "kết quả",
+    "chứng nhận"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "HRjYdtfUdbgK4TnoOq5B"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đức",
+    "dục",
+    "đất"
+  ],
+  "rank": 1426,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Anh ấy có một ___ tốt.",
+      "word": "đức",
+      "language": "vi",
+      "answer": "đức",
+      "hint": "đ__",
+      "translatedAnswer": {
+        "en": "virtue"
+      },
+      "choices": [
+        "đức",
+        "tài",
+        "dũng"
+      ],
+      "translation": {
+        "en": "He has a good virtue."
+      }
+    },
+    "updatedAt": "2025-03-12T15:15:27.774Z",
+    "createdAt": "2025-03-12T15:15:27.774Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "9ef1fa4f-1227-409d-a761-eed7b44dc2d3"
+  },
+  "word": "đức",
+  "exampleSentences": [
+    "Người có đức luôn được mọi người kính trọng trong xã hội.",
+    "Cha mẹ thường dạy con cái phải sống có đức và trung thực.",
+    "Đức là điều quan trọng giúp em trở thành người tốt hơn."
+  ],
+  "notes": "đức = virtue, moral goodness inside a person. It’s about character and how morally good someone is.\n\nIt’s an uncountable noun, so you don’t use numbers with it. You’ll often see it in set phrases like đạo đức (morality), đức tính (a good trait), or verbs like tích đức (to accumulate virtue).  \n\nStrong opposites that help memory: thất đức / vô đức (immoral, lacking virtue).\n\nVery common other meaning: Đức (capital D) = Germany.",
+  "exampleSentencesTranslated": [
+    "A person with virtue is always respected by everyone in society.",
+    "Parents often teach their children to live with virtue and honesty.",
+    "Virtue is an important thing that helps you become a better person."
+  ],
+  "updatedAt": "2026-03-03T08:48:25.996Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "a6d3b237-b0cb-4004-ae52-f8a4e6a3258c",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:15:27.774Z",
+    "updatedAt": "2025-03-12T15:15:27.774Z",
+    "content": {
+      "translation": {
+        "en": "I really appreciate your virtue."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "virtue"
+      },
+      "answer": "đức",
+      "word": "đức",
+      "language": "vi",
+      "sentence": "Tôi rất quý ___ của bạn."
+    }
+  },
+  "flashcard": {
+    "translations": {
+      "en": "virtue",
+      "es": "virtud",
+      "vi": "đức"
+    },
+    "example": {
+      "en": "A person with virtue is often respected by others.",
+      "es": "Una persona con virtud es a menudo respetada por los demás.",
+      "vi": "Người có đức thường được mọi người kính trọng."
+    },
+    "createdAt": "2025-01-28T12:50:03.975Z",
+    "definitions": {
+      "en": "Moral excellence; a quality considered morally good.",
+      "es": "Excelencia moral; una cualidad considerada moralmente buena.",
+      "vi": "Sự xuất sắc về đạo đức; một phẩm chất được coi là tốt về mặt đạo đức."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**đức** = virtue, moral goodness inside a person. It’s about character and how morally good someone is.\n\nIt’s an uncountable noun, so you don’t use numbers with it. You’ll often see it in set phrases like **đạo đức** (morality), **đức tính** (a good trait), or verbs like **tích đức** (to accumulate virtue).  \n\nStrong opposites that help memory: **thất đức / vô đức** (immoral, lacking virtue).\n\nVery common other meaning: **Đức** (capital D) = Germany.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "virtue",
+  "_id": "b6G3A2zkyoJ4rSigCY95"
+}

@@ -1,0 +1,104 @@
+{
+  "choices": [
+    "một",
+    "ba",
+    "hai"
+  ],
+  "notes": "hai means two. It’s the basic number 2 in Vietnamese.\n\nUse it before a classifier + noun when counting things.  \n\nFor order (second), say thứ hai. It’s also used in dates, phone numbers, prices, and math.\n\nTo say “a pair,” Vietnamese often uses một đôi instead of hai when the two things naturally go together (like shoes).",
+  "word": "hai",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Anh (he) + có (has) + hai (two) + con (classifier) + mèo (cats)",
+    "Chị (she) + mua (buys) + hai (two) + cái (classifier) + bánh (cakes)",
+    "Em (I) + uống (drink) + hai (two) + ly (glasses) + nước (water)"
+  ],
+  "multiChoiceQuiz": {
+    "id": "6a3252bf-0ef1-4090-ac55-b333324be497",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "h__",
+      "word": "hai",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "two"
+      },
+      "translation": {
+        "en": "I have two cats."
+      },
+      "choices": [
+        "một",
+        "hai",
+        "ba"
+      ],
+      "answer": "hai",
+      "sentence": "Tôi có ___ con mèo."
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T12:54:27.796Z",
+    "updatedAt": "2025-03-12T12:54:27.796Z"
+  },
+  "exampleSentences": [
+    "Anh có hai con mèo.",
+    "Chị mua hai cái bánh.",
+    "Em uống hai ly nước."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "two",
+  "rank": 84,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Tengo dos gatos.",
+      "vi": "Tôi có hai con mèo.",
+      "en": "I have two cats."
+    },
+    "translations": {
+      "es": "dos",
+      "vi": "hai",
+      "en": "two"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El número dos.",
+      "en": "The number two.",
+      "vi": "Số hai."
+    },
+    "createdAt": "2025-01-28T12:58:14.901Z"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "e7c1c312-2d5d-4e19-962f-31caa62d85a1",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi có ___ con mèo.",
+      "answer": "hai",
+      "choices": [],
+      "translation": {
+        "en": "I have two cats."
+      },
+      "word": "hai",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "two"
+      }
+    },
+    "createdAt": "2025-03-12T12:54:27.796Z",
+    "updatedAt": "2025-03-12T12:54:27.796Z"
+  },
+  "updatedAt": "2026-03-03T06:11:37.669Z",
+  "exampleSentencesTranslated": [
+    "He has two cats.",
+    "She buys two cakes.",
+    "I drink two glasses of water."
+  ],
+  "notes_md": "**hai** means **two**. It’s the basic number 2 in Vietnamese.\n\nUse it before a classifier + noun when counting things.  \n\nFor order (second), say **thứ hai**. It’s also used in dates, phone numbers, prices, and math.\n\nTo say “a pair,” Vietnamese often uses **một đôi** instead of *hai* when the two things naturally go together (like shoes).",
+  "_id": "1T0xVyCoqcKl1JFhlarx"
+}

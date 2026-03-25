@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "giấc mơ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:15:39.787Z",
+    "id": "8e35c21d-6b54-4ac0-a375-b7011fd724dd",
+    "createdAt": "2025-03-12T15:15:39.787Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi thường có ___ vào ban đêm.",
+      "language": "vi",
+      "word": "giấc",
+      "choices": [
+        "giấc",
+        "cơn",
+        "mơ"
+      ],
+      "hint": "g___",
+      "answer": "giấc",
+      "translatedAnswer": {
+        "en": "dream"
+      },
+      "translation": {
+        "en": "I often have a dream at night."
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Giấc mơ** means a *dream* you have while sleeping. It can also mean a life dream or big goal.\n\nIt’s a countable noun: **một giấc mơ, hai giấc mơ**. The classifier **giấc** is also used for sleep (giấc ngủ).  \n\nCommon pairings: **giấc mơ đẹp** (nice dream), **giấc mơ lạ** (strange dream), **theo đuổi giấc mơ** (chase a dream).  \n\nDon’t confuse it with **ước mơ** — that’s more about hopes or ambitions, not dreams during sleep.",
+  "choices": [
+    "giấc",
+    "giận",
+    "gió"
+  ],
+  "rank": 1670,
+  "notes": "Giấc mơ means a dream you have while sleeping. It can also mean a life dream or big goal.\n\nIt’s a countable noun: một giấc mơ, hai giấc mơ. The classifier giấc is also used for sleep (giấc ngủ).  \n\nCommon pairings: giấc mơ đẹp (nice dream), giấc mơ lạ (strange dream), theo đuổi giấc mơ (chase a dream).  \n\nDon’t confuse it with ước mơ — that’s more about hopes or ambitions, not dreams during sleep.",
+  "updatedAt": "2026-03-03T09:14:48.593Z",
+  "exampleSentences": [
+    "Đêm qua em có giấc mơ lạ, sáng dậy vẫn nhớ.",
+    "Anh đang theo đuổi giấc mơ học tiếng Việt để đi làm.",
+    "Chị kể giấc mơ của chị cho em nghe được không?"
+  ],
+  "fillBlankQuiz": {
+    "id": "ff79cf21-7e30-4b8d-b7e0-3cda40978ec2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:15:39.787Z",
+    "content": {
+      "answer": "giấc",
+      "translatedAnswer": {
+        "en": "dream"
+      },
+      "translation": {
+        "en": "I often have a dream at night."
+      },
+      "language": "vi",
+      "sentence": "Tôi thường có ___ vào ban đêm.",
+      "word": "giấc",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:15:39.787Z"
+  },
+  "exampleSentencesTranslated": [
+    "Last night I had a strange dream, and I still remember it this morning.",
+    "He is pursuing his dream of learning Vietnamese to work.",
+    "Can you tell me your dream?"
+  ],
+  "definition": "dream",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một giấc mơ; một chuỗi suy nghĩ, hình ảnh hoặc cảm xúc xảy ra trong khi ngủ.",
+      "es": "Un sueño; una serie de pensamientos, imágenes o emociones que ocurren durante el sueño.",
+      "en": "A dream; a series of thoughts, images, or emotions occurring during sleep."
+    },
+    "example": {
+      "es": "Tuve un sueño hermoso.",
+      "vi": "Tôi có một giấc mơ đẹp.",
+      "en": "I had a beautiful dream."
+    },
+    "translations": {
+      "en": "dream",
+      "vi": "giấc",
+      "es": "sueño"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:50:16.439Z"
+  },
+  "_id": "bABaFWJrfn4JjrAYwowL"
+}

@@ -1,0 +1,101 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em bây giờ ăn cơm trưa",
+    "Anh bây giờ gọi mẹ anh",
+    "Chị bây giờ học tiếng Việt"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:59:57.711Z",
+    "updatedAt": "2025-03-12T15:59:57.711Z",
+    "content": {
+      "translation": {
+        "en": "Let's meet now."
+      },
+      "word": "bây giờ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "now"
+      },
+      "answer": "bây giờ",
+      "choices": [],
+      "sentence": "Chúng ta gặp nhau ___ nhé."
+    },
+    "id": "555ccf25-e6ef-4d2a-b855-dfcf876de80c",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "choices": [
+    "hôm nay",
+    "bây giờ",
+    "lúc này"
+  ],
+  "rank": 86,
+  "definition": "now",
+  "notes": "bây giờ means now, at this moment. It talks about what is happening in the present time.\n\nIt’s a time adverb, so it usually goes before or after the subject, but before the main verb is very common.  \n\nIt can also contrast past and present, like “before vs. now.”  \n\nClose words: hiện tại = “currently” (more formal), ngay bây giờ = “right now” (more urgent/strong).",
+  "notes_md": "**bây giờ** means *now*, at this moment. It talks about what is happening in the present time.\n\nIt’s a time adverb, so it usually goes before or after the subject, but before the main verb is very common.  \n\nIt can also contrast past and present, like “before vs. now.”  \n\nClose words: **hiện tại** = “currently” (more formal), **ngay bây giờ** = “right now” (more urgent/strong).",
+  "sentenceBreakdowns": [
+    "Em (I) + bây giờ (now) + ăn (eat) + cơm trưa (lunch)",
+    "Anh (he) + bây giờ (now) + gọi (call) + mẹ anh (his mother)",
+    "Chị (she) + bây giờ (now) + học (study) + tiếng Việt (Vietnamese)"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:59:57.711Z",
+    "createdAt": "2025-03-12T15:59:57.711Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "5687c4e9-b451-4098-99c8-6b29d13a3dd2",
+    "content": {
+      "translatedAnswer": {
+        "en": "now"
+      },
+      "answer": "bây giờ",
+      "sentence": "Tôi sẽ làm việc ___.",
+      "choices": [
+        "sau đó",
+        "bây giờ",
+        "trước đây"
+      ],
+      "hint": "b___a",
+      "translation": {
+        "en": "I will work now."
+      },
+      "word": "bây giờ",
+      "language": "vi"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "bây giờ",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đang học tiếng Việt bây giờ.",
+      "en": "I am studying Vietnamese now."
+    },
+    "definitions": {
+      "en": "Refers to the present time or moment.",
+      "vi": "Chỉ thời điểm hiện tại, lúc này."
+    },
+    "createdAt": "2025-05-24T16:32:54.329Z",
+    "word": "bây giờ",
+    "translations": {
+      "en": "now"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T06:11:48.914Z",
+  "exampleSentencesTranslated": [
+    "I eat lunch now.",
+    "He calls his mother now.",
+    "She studies Vietnamese now."
+  ],
+  "_id": "m2ijtFsxdRObICDXUlNl"
+}

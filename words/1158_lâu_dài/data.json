@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:18:58.827Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:45:54.211Z",
+    "updatedAt": "2025-03-12T12:45:54.211Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "lâu dài",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "long term"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This plan is for the long term future."
+      },
+      "answer": "lâu dài",
+      "sentence": "Kế hoạch này là cho tương lai ___."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "c5057dcd-565e-4c31-a785-4664f57284d6"
+  },
+  "notes_md": "**lâu dài** means long-term, lasting for a long time, not just temporary. It talks about duration and stability over time.\n\nIt’s an adjective, so it usually comes after the noun: *kế hoạch lâu dài, mục tiêu lâu dài, ảnh hưởng lâu dài*. It describes things like plans, goals, effects, strategies, relationships, or benefits.\n\nIt often contrasts with **ngắn hạn** (short-term). Think: *lâu dài = for years; ngắn hạn = for now*.",
+  "exampleSentencesTranslated": [
+    "I want to find a stable and long-term job in this city.",
+    "We need to make a long-term plan for the future of the group.",
+    "A long-term relationship needs trust and sharing."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lâu dài",
+  "choices": [
+    "lâu dài",
+    "ngắn ngủi",
+    "tạm thời"
+  ],
+  "notes": "lâu dài means long-term, lasting for a long time, not just temporary. It talks about duration and stability over time.\n\nIt’s an adjective, so it usually comes after the noun: kế hoạch lâu dài, mục tiêu lâu dài, ảnh hưởng lâu dài. It describes things like plans, goals, effects, strategies, relationships, or benefits.\n\nIt often contrasts with ngắn hạn (short-term). Think: lâu dài = for years; ngắn hạn = for now.",
+  "flashcard": {
+    "example": {
+      "es": "Necesitamos un plan a largo plazo para el desarrollo.",
+      "vi": "Chúng ta cần một kế hoạch lâu dài để phát triển.",
+      "en": "We need a long-term plan for development."
+    },
+    "translations": {
+      "vi": "lâu dài",
+      "en": "long-term",
+      "es": "a largo plazo"
+    },
+    "definitions": {
+      "es": "que dura mucho tiempo; perdurable.",
+      "en": "lasting for a long time; enduring.",
+      "vi": "kéo dài trong một thời gian dài; bền vững."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:33:22.457Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1158,
+  "definition": "long-term",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn tìm một công việc ổn định và lâu dài ở thành phố này.",
+    "Chúng ta cần lên kế hoạch lâu dài cho tương lai của nhóm.",
+    "Một mối quan hệ lâu dài cần sự tin tưởng và chia sẻ."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng tôi cần một chiến lược ___.",
+      "answer": "lâu dài",
+      "choices": [
+        "lâu dài",
+        "ngắn hạn",
+        "tạm thời"
+      ],
+      "translation": {
+        "en": "We need a long term strategy."
+      },
+      "word": "lâu dài",
+      "translatedAnswer": {
+        "en": "long term"
+      },
+      "language": "vi",
+      "hint": "l___ d___"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "3686cb69-e4dc-4aab-8389-613ae0ff7a5d",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T12:45:54.211Z",
+    "updatedAt": "2025-03-12T12:45:54.211Z"
+  },
+  "_id": "09lOGAGzVUfQhvui4ggX"
+}

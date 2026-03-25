@@ -1,0 +1,104 @@
+{
+  "choices": [
+    "cũ",
+    "đẹp",
+    "mới"
+  ],
+  "fillBlankQuiz": {
+    "id": "71772184-bc76-4a10-8217-3b00710abde8",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I just bought a new one."
+      },
+      "word": "mới",
+      "choices": [],
+      "sentence": "Tôi vừa mua một chiếc ___.",
+      "answer": "mới",
+      "translatedAnswer": {
+        "en": "new"
+      }
+    },
+    "updatedAt": "2025-03-12T15:48:50.642Z",
+    "createdAt": "2025-03-12T15:48:50.642Z"
+  },
+  "exampleSentences": [
+    "Em mua một cái áo mới.",
+    "Anh thích điện thoại mới.",
+    "Chị có xe đạp mới."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "mới = new. It describes something recently made, bought, or not used before.\n\nIt comes after the noun: noun + mới.  \n\nAs an adverb, mới also means “just / recently” and goes before the verb.  \nOpposite of mới (new) is cũ (old) — an easy, high-frequency pair to remember.",
+  "definition": "new",
+  "rank": 62,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "3d703096-5bd1-4653-a7c2-f93829c395f1",
+    "content": {
+      "hint": "m__",
+      "sentence": "Chiếc xe này rất ___.",
+      "choices": [
+        "cũ",
+        "mới",
+        "đẹp"
+      ],
+      "translatedAnswer": {
+        "en": "new"
+      },
+      "answer": "mới",
+      "language": "vi",
+      "translation": {
+        "en": "This car is very new."
+      },
+      "word": "mới"
+    },
+    "updatedAt": "2025-03-12T15:48:50.642Z",
+    "createdAt": "2025-03-12T15:48:50.642Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + mua (buy) + một (a) + cái (classifier) + áo (shirt) + mới (new)",
+    "Anh (he) + thích (likes) + điện thoại (phone) + mới (new)",
+    "Chị (she) + có (has) + xe đạp (bicycle) + mới (new)"
+  ],
+  "notes_md": "**mới** = new. It describes something recently made, bought, or not used before.\n\nIt comes **after the noun**: noun + mới.  \n\nAs an adverb, **mới** also means “just / recently” and goes before the verb.  \nOpposite of *mới* (new) is **cũ** (old) — an easy, high-frequency pair to remember.",
+  "exampleSentencesTranslated": [
+    "I buy a new shirt.",
+    "He likes the new phone.",
+    "She has a new bicycle."
+  ],
+  "updatedAt": "2026-03-03T06:09:22.408Z",
+  "word": "mới",
+  "flashcard": {
+    "translations": {
+      "es": "nuevo",
+      "en": "new",
+      "vi": "mới"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "mới được tạo ra hoặc có được; không cũ.",
+      "es": "recientemente creado u obtenido; no viejo.",
+      "en": "recently created or obtained; not old."
+    },
+    "createdAt": "2025-01-28T13:21:26.675Z",
+    "example": {
+      "en": "I just bought a new shirt.",
+      "es": "Acabo de comprar una camisa nueva.",
+      "vi": "Tôi vừa mua một chiếc áo mới."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "jJUREYCBOSgn5I40F1C4"
+}

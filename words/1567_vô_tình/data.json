@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "vô tình",
+    "cố ý",
+    "vui vẻ"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I accidentally met him yesterday."
+      },
+      "word": "vô tình",
+      "choices": [],
+      "sentence": "Tôi ___ gặp anh ấy hôm qua.",
+      "answer": "vô tình",
+      "translatedAnswer": {
+        "en": "accidentally"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "0f14ad4d-5913-4a51-a4ae-baac47655c0c",
+    "createdAt": "2025-03-12T15:56:10.523Z",
+    "updatedAt": "2025-03-12T15:56:10.523Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vô tình làm rơi điện thoại khi đang chạy bộ trong công viên.",
+    "Chị vô tình gặp lại bạn cũ ở quán cà phê hôm qua.",
+    "Em đã vô tình gửi nhầm tin nhắn cho người khác."
+  ],
+  "definition": "accidentally",
+  "notes": "vô tình = accidentally, unintentionally. You didn’t mean to do it.\n\nIt usually goes before a verb to show no intention.  \n\nIt can also mean heartless / emotionally cold when describing a person’s attitude. In that sense, it acts like an adjective after words like rất.\n\nStrong opposite: cố ý (on purpose). Close idea but different: tình cờ = by chance (more about coincidence than mistake).",
+  "rank": 1567,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:56:10.523Z",
+    "createdAt": "2025-03-12T15:56:10.523Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "1b52713d-6f45-40b4-97d3-837bcca5ff3f",
+    "content": {
+      "translatedAnswer": {
+        "en": "accidentally"
+      },
+      "answer": "vô tình",
+      "hint": "v___n",
+      "choices": [
+        "vô tình",
+        "cố ý",
+        "thường xuyên"
+      ],
+      "sentence": "Tôi ___ gặp anh ấy hôm qua.",
+      "language": "vi",
+      "translation": {
+        "en": "I accidentally met him yesterday."
+      },
+      "word": "vô tình"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**vô tình** = accidentally, unintentionally. You didn’t mean to do it.\n\nIt usually goes before a verb to show no intention.  \n\nIt can also mean **heartless / emotionally cold** when describing a person’s attitude. In that sense, it acts like an adjective after words like *rất*.\n\nStrong opposite: **cố ý** (on purpose). Close idea but different: **tình cờ** = by chance (more about coincidence than mistake).",
+  "exampleSentencesTranslated": [
+    "He accidentally dropped his phone while jogging in the park.",
+    "She accidentally met an old friend at the coffee shop yesterday.",
+    "I accidentally sent the message to the wrong person."
+  ],
+  "word": "vô tình",
+  "flashcard": {
+    "definitions": {
+      "en": "Happening by chance or unintentionally.",
+      "es": "Ocurriendo por casualidad o sin intención.",
+      "vi": "Xảy ra một cách tình cờ hoặc không có ý định."
+    },
+    "createdAt": "2025-01-28T13:28:16.500Z",
+    "example": {
+      "en": "I accidentally ran into an old friend at the supermarket.",
+      "es": "Me encontré accidentalmente con un viejo amigo en el supermercado.",
+      "vi": "Tôi vô tình gặp lại bạn cũ ở siêu thị."
+    },
+    "translations": {
+      "es": "accidental",
+      "en": "accidental",
+      "vi": "vô tình"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:03:55.525Z",
+  "_id": "l2q0o1nRJZBL82PZzakN"
+}

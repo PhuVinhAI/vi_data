@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:36:26.060Z",
+    "createdAt": "2025-03-12T13:36:26.060Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "taste"
+      },
+      "sentence": "Bạn có muốn ___ thử không?",
+      "word": "nếm",
+      "language": "vi",
+      "hint": "n__m",
+      "choices": [
+        "nếm",
+        "ngửi",
+        "nhìn"
+      ],
+      "answer": "nếm",
+      "translation": {
+        "en": "Do you want to taste it?"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "13d2f239-cbb2-4db2-b5c0-0ba1a0d17fc6",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**nếm** = to taste something with your mouth, usually a small amount to check the flavor. It’s about flavor testing, not eating fully.\n\nYou use it for food and drinks: soups, sauces, fruit, wine, etc. Often when cooking or deciding if something tastes good.\n\n\nClose words: **thử** (try — more general, not just taste) and **thưởng thức** (enjoy — more about appreciating the flavor, not just checking it).",
+  "exampleSentencesTranslated": [
+    "I want to taste this soup before putting it on the table.",
+    "Can you taste a bit of this fish sauce?",
+    "I have never tasted French cake before."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "nếm",
+      "es": "probar",
+      "en": "taste"
+    },
+    "example": {
+      "es": "Quiero probar este plato.",
+      "vi": "Tôi muốn nếm món ăn này.",
+      "en": "I want to taste this dish."
+    },
+    "createdAt": "2025-01-28T11:15:48.885Z",
+    "definitions": {
+      "es": "Percibir el sabor de algo tomando una pequeña cantidad en la boca.",
+      "vi": "Cảm nhận hương vị của một cái gì đó bằng cách lấy một lượng nhỏ vào miệng.",
+      "en": "To perceive the flavor of something by taking a small amount into the mouth."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:36:26.060Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to taste this dish."
+      },
+      "answer": "nếm",
+      "translatedAnswer": {
+        "en": "taste"
+      },
+      "language": "vi",
+      "word": "nếm",
+      "sentence": "Tôi muốn ___ món ăn này."
+    },
+    "updatedAt": "2025-03-12T13:36:26.060Z",
+    "id": "47b45731-a11e-4d73-93c0-92feb7998654",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "nếm = to taste something with your mouth, usually a small amount to check the flavor. It’s about flavor testing, not eating fully.\n\nYou use it for food and drinks: soups, sauces, fruit, wine, etc. Often when cooking or deciding if something tastes good.\n\nClose words: thử (try — more general, not just taste) and thưởng thức (enjoy — more about appreciating the flavor, not just checking it).",
+  "updatedAt": "2026-03-03T09:47:47.669Z",
+  "choices": [
+    "nếm",
+    "ngửi",
+    "nhìn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "taste",
+  "word": "nếm",
+  "rank": 1981,
+  "exampleSentences": [
+    "Anh muốn nếm món canh này trước khi mang ra bàn ăn.",
+    "Chị có thể nếm một chút nước mắm này không?",
+    "Em chưa từng nếm bánh ngọt Pháp bao giờ."
+  ],
+  "_id": "CRrnyXtDa5lWZrNMVvlM"
+}

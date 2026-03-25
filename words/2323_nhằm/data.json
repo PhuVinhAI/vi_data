@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhằm",
+    "nhanh",
+    "nhấn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nhằm",
+  "exampleSentences": [
+    "Anh học tiếng Việt mỗi ngày nhằm giao tiếp tốt hơn với đồng nghiệp.",
+    "Chị gửi email này nhằm thông báo lịch họp mới cho mọi người.",
+    "Em tiết kiệm tiền hàng tháng nhằm mua một chiếc xe máy mới."
+  ],
+  "rank": 2323,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "in order to",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:51:00.276Z",
+    "createdAt": "2025-03-12T13:51:00.276Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "to"
+      },
+      "word": "nhằm",
+      "sentence": "Tôi làm việc ___ để cải thiện kỹ năng.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I work to improve my skills."
+      },
+      "answer": "nhằm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "e3fe86fa-7d7b-4c4d-befa-5fd4ba0dbbe1"
+  },
+  "notes": "nhằm = “in order to” / “with the aim of.” It shows purpose.\n\nIt usually links two actions, where the second is the goal of the first. It sounds a bit more formal and written than để, which is the everyday equivalent.\n\nYou’ll also see nhằm mục đích (là) + V, which makes the purpose extra clear. If you’re speaking casually, you’ll often swap it for để, but in formal writing, nhằm feels more precise.",
+  "updatedAt": "2026-03-03T10:24:27.512Z",
+  "notes_md": "**nhằm** = “in order to” / “with the aim of.” It shows purpose.\n\nIt usually links two actions, where the second is the goal of the first. It sounds a bit more formal and written than **để**, which is the everyday equivalent.\n\n\nYou’ll also see **nhằm mục đích (là) + V**, which makes the purpose extra clear. If you’re speaking casually, you’ll often swap it for **để**, but in formal writing, **nhằm** feels more precise.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "d053bfc6-8e78-47b8-ac83-49b992ebad95",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:51:00.276Z",
+    "content": {
+      "language": "vi",
+      "word": "nhằm",
+      "sentence": "Tôi học tiếng Việt ___ hiểu văn hóa.",
+      "translatedAnswer": {
+        "en": "to"
+      },
+      "translation": {
+        "en": "I learn Vietnamese to understand the culture."
+      },
+      "answer": "nhằm",
+      "hint": "n____",
+      "choices": [
+        "để",
+        "nhằm",
+        "vì"
+      ]
+    },
+    "createdAt": "2025-03-12T13:51:00.276Z"
+  },
+  "exampleSentencesTranslated": [
+    "I study Vietnamese every day in order to improve communication with my colleagues",
+    "She sends this email in order to announce the new meeting schedule to everyone.",
+    "I save money every month in order to buy a new motorbike."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "apuntar, tener la intención o dirigir algo.",
+      "vi": "nhằm chỉ mục đích, ý định hoặc hướng tới điều gì đó.",
+      "en": "to aim, to intend, or to target something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:28:56.401Z",
+    "example": {
+      "vi": "Tôi học tiếng Anh nhằm cải thiện khả năng giao tiếp.",
+      "es": "Estudio inglés para mejorar mis habilidades de comunicación.",
+      "en": "I study English to improve my communication skills."
+    },
+    "translations": {
+      "es": "apuntar",
+      "vi": "nhằm",
+      "en": "to aim"
+    }
+  },
+  "_id": "G53kox3XHe3vBsRIv5Pi"
+}

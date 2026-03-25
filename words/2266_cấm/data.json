@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Trường này cấm học sinh mang điện thoại vào lớp học.",
+    "Ở công viên, người ta cấm mọi người đốt lửa trại vào ban đêm.",
+    "Chị nhớ nhé, bác sĩ đã cấm em ăn đồ ngọt sau phẫu thuật."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "forbid",
+      "es": "prohibir",
+      "vi": "cấm"
+    },
+    "definitions": {
+      "en": "to forbid or prohibit something",
+      "vi": "cấm hoặc ngăn cản điều gì đó",
+      "es": "prohibir o vetar algo"
+    },
+    "createdAt": "2025-01-28T11:57:05.450Z",
+    "example": {
+      "es": "Ellos prohíben la entrada a esta área.",
+      "vi": "Họ cấm không được vào khu vực này.",
+      "en": "They prohibit entry into this area."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2266,
+  "updatedAt": "2026-03-03T10:17:58.539Z",
+  "choices": [
+    "cho phép",
+    "cấm",
+    "giới hạn"
+  ],
+  "notes": "cấm = to forbid, to ban. It means something is not allowed, usually by a rule, authority, or law.\n\nIt’s a verb. You use it to say someone is not allowed to do something.  \n\nOften used for rules in schools, hospitals, parks, laws, or by doctors/parents.  \nStrong synonym: cấm đoán (more forceful, often about strict control).  \nOpposite idea: cho phép (to allow).",
+  "exampleSentencesTranslated": [
+    "At this school, students are forbidden to bring phones into class.",
+    "In the park, people are forbidden to make campfires at night.",
+    "Remember, the doctor has forbidden you to eat sweets after surgery."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:20:56.159Z",
+    "updatedAt": "2025-03-12T14:20:56.159Z",
+    "content": {
+      "answer": "cấm",
+      "translatedAnswer": {
+        "en": "prohibited"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "Bicycles are prohibited here."
+      },
+      "sentence": "Xe đạp ___ ở đây.",
+      "word": "cấm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "2fb6e399-258c-4fc5-bedf-6a424d4f903e"
+  },
+  "definition": "forbidden",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cấm",
+  "multiChoiceQuiz": {
+    "id": "a928b710-2be8-41a2-b4fd-4d88304b45d3",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "prohibited"
+      },
+      "answer": "cấm",
+      "hint": "c__m",
+      "word": "cấm",
+      "sentence": "Xe đạp ___ ở đây.",
+      "translation": {
+        "en": "Bicycles are prohibited here."
+      },
+      "choices": [
+        "cấm",
+        "cho phép",
+        "hạn chế"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:20:56.159Z",
+    "createdAt": "2025-03-12T14:20:56.159Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cấm** = to forbid, to ban. It means something is not allowed, usually by a rule, authority, or law.\n\nIt’s a verb. You use it to say someone is not allowed to do something.  \n\nOften used for rules in schools, hospitals, parks, laws, or by doctors/parents.  \nStrong synonym: **cấm đoán** (more forceful, often about strict control).  \nOpposite idea: **cho phép** (to allow).",
+  "_id": "NFZqAmt68rderqJRtwww"
+}

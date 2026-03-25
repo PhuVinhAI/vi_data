@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "To share one's thoughts or feelings with someone.",
+      "es": "Compartir los pensamientos o sentimientos de uno con alguien.",
+      "vi": "Chia sẻ những suy nghĩ hoặc cảm xúc của một người với ai đó."
+    },
+    "example": {
+      "vi": "Tôi muốn tâm sự với bạn về những điều trong cuộc sống.",
+      "es": "Quiero compartir mis pensamientos contigo sobre la vida.",
+      "en": "I want to share my thoughts with you about life."
+    },
+    "translations": {
+      "vi": "tâm sự",
+      "es": "compartir pensamientos o sentimientos",
+      "en": "share thoughts or feelings"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:01:21.018Z"
+  },
+  "definition": "confide",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:26:35.330Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:35.330Z",
+    "content": {
+      "choices": [],
+      "word": "tâm sự",
+      "sentence": "Tôi muốn ___ với bạn.",
+      "language": "vi",
+      "translation": {
+        "en": "I want to talk to you."
+      },
+      "translatedAnswer": {
+        "en": "talk"
+      },
+      "answer": "tâm sự"
+    },
+    "id": "2bd6e74a-7439-4c61-b437-54ec4d0c0eb8",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I often confide in you about difficulties in life.",
+    "I want to find a friend to confide in when I feel sad.",
+    "She always confides in her mother about important things."
+  ],
+  "updatedAt": "2026-03-03T09:43:19.400Z",
+  "exampleSentences": [
+    "Em thường tâm sự với chị về những khó khăn trong cuộc sống.",
+    "Anh muốn tìm một người bạn để tâm sự khi cảm thấy buồn.",
+    "Chị ấy luôn tâm sự với mẹ về mọi chuyện quan trọng."
+  ],
+  "notes": "Tâm sự = to confide, to share personal feelings or private thoughts with someone. It’s about opening your heart, usually about something emotional.\n\nYou usually tâm sự với + person and often về + topic.  \n\nIt’s softer and more emotional than chia sẻ (share). Close to thổ lộ, but thổ lộ feels deeper or more serious.  \n\nAs a noun, you’ll see lời tâm sự = heartfelt words/confessions.",
+  "notes_md": "**Tâm sự** = to confide, to share personal feelings or private thoughts with someone. It’s about opening your heart, usually about something emotional.\n\nYou usually **tâm sự với + person** and often **về + topic**.  \n\nIt’s softer and more emotional than **chia sẻ** (share). Close to **thổ lộ**, but *thổ lộ* feels deeper or more serious.  \n\nAs a noun, you’ll see **lời tâm sự** = heartfelt words/confessions.",
+  "rank": 1939,
+  "choices": [
+    "tâm sự",
+    "học tập",
+    "giải thích"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1f69609a-a291-4c24-990b-1ecdb5c55f15",
+    "content": {
+      "choices": [
+        "tâm sự",
+        "chia sẻ",
+        "trò chuyện"
+      ],
+      "language": "vi",
+      "sentence": "Tôi muốn ___ với bạn.",
+      "word": "tâm sự",
+      "translatedAnswer": {
+        "en": "talk"
+      },
+      "translation": {
+        "en": "I want to talk to you."
+      },
+      "hint": "t___",
+      "answer": "tâm sự"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:35.330Z",
+    "updatedAt": "2025-03-12T15:26:35.330Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tâm sự",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "eEBC6HVvLl7214eTgumg"
+}

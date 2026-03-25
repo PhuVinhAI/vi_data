@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Dạng means form, type, kind, or shape. It’s used when you group things by how they look or what category they belong to.\n\nIt’s a noun. You’ll often see it in patterns like dạng + danh từ (dạng bài, dạng câu hỏi, dạng người). It’s usually uncountable in feeling, but you can say nhiều dạng (many types).\n\nIt can also mean physical shape (dạng hình tròn) or abstract type (dạng tính cách). Close to loại, but dạng feels more about form/structure, while loại is more about category.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "dạng",
+    "dãy",
+    "dàng"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Hình thức hoặc hình dáng; một cách mà một cái gì đó có thể tồn tại hoặc được trình bày.",
+      "en": "Form or shape; a way in which something can exist or be presented.",
+      "es": "Forma o figura; una manera en que algo puede existir o ser presentado."
+    },
+    "createdAt": "2025-01-28T13:40:32.758Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "forma",
+      "en": "form",
+      "vi": "dạng"
+    },
+    "example": {
+      "es": "Ella tiene una forma de belleza única.",
+      "en": "She has a unique form of beauty.",
+      "vi": "Cô ấy có một dạng vẻ đẹp rất đặc biệt."
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể cho em xem dạng bài tập này không?",
+    "Có nhiều dạng câu hỏi khác nhau trong kỳ thi tiếng Việt.",
+    "Chị cần chọn đúng dạng giấy tờ để nộp cho công ty."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you show me the form of this exercise?",
+    "There are many different forms of questions in the Vietnamese exam.",
+    "You need to choose the correct form of document to submit to the company."
+  ],
+  "updatedAt": "2026-03-03T07:52:14.787Z",
+  "notes_md": "**Dạng** means *form, type, kind, or shape*. It’s used when you group things by how they look or what category they belong to.\n\nIt’s a noun. You’ll often see it in patterns like **dạng + danh từ** (dạng bài, dạng câu hỏi, dạng người). It’s usually uncountable in feeling, but you can say *nhiều dạng* (many types).\n\nIt can also mean physical shape (dạng hình tròn) or abstract type (dạng tính cách). Close to **loại**, but *dạng* feels more about form/structure, while *loại* is more about category.",
+  "rank": 901,
+  "definition": "form",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "This product has a new form."
+      },
+      "translatedAnswer": {
+        "en": "form"
+      },
+      "hint": "d___n",
+      "word": "dạng",
+      "answer": "dạng",
+      "language": "vi",
+      "choices": [
+        "hình thức",
+        "dạng",
+        "biểu mẫu"
+      ],
+      "sentence": "Sản phẩm này có ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:08:42.922Z",
+    "createdAt": "2025-03-12T16:08:42.922Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a2548c41-cc38-4f58-9325-a002df3c1ea3"
+  },
+  "word": "dạng",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:08:42.922Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "6104f5fb-1597-46e0-b324-30588c84086d",
+    "content": {
+      "sentence": "Sản phẩm này có ___ mới.",
+      "answer": "dạng",
+      "language": "vi",
+      "word": "dạng",
+      "choices": [],
+      "translation": {
+        "en": "This product has a new form."
+      },
+      "translatedAnswer": {
+        "en": "form"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:08:42.922Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "oey6XzcsVq8pQoPeLfZP"
+}

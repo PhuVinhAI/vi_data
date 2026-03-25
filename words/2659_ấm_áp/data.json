@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Having a comfortably high temperature; warm.",
+      "es": "Tener una temperatura alta y cómoda; cálido.",
+      "vi": "Có nhiệt độ cao và thoải mái; ấm."
+    },
+    "createdAt": "2025-01-28T12:35:51.659Z",
+    "example": {
+      "en": "The weather is really warm today.",
+      "es": "El clima está realmente cálido hoy.",
+      "vi": "Hôm nay thời tiết thật ấm áp."
+    },
+    "translations": {
+      "en": "warm",
+      "es": "cálido",
+      "vi": "ấm áp"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "My family always gives me a warm feeling every day.",
+    "This winter, I like to wear sweaters to feel warm.",
+    "Good friends make her life warm and meaningful."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:03:37.369Z",
+    "updatedAt": "2025-03-12T15:03:37.369Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "warm"
+      },
+      "translation": {
+        "en": "The weather today is very warm."
+      },
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "word": "ấm áp",
+      "language": "vi",
+      "answer": "ấm áp"
+    },
+    "id": "c0b6b605-d4ca-45e0-98f4-5a24b32b277e"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:33:09.925Z",
+  "definition": "warm",
+  "notes_md": "**Ấm áp** means *warm* — both physically (not cold) and emotionally (kind, comforting).\n\nIt’s an adjective. It describes weather, rooms, clothes, voice, atmosphere, relationships, feelings.  \nIt often follows **cảm thấy**, **trở nên**, **làm cho…**, or stands after a noun: *không khí ấm áp*, *giọng nói ấm áp*.  \n\nBesides temperature, it strongly suggests emotional warmth — friendly, caring, not cold or distant.  \nClose to **ấm**, but **ấm áp** feels softer and more emotional. Opposite: **lạnh lẽo** (cold and unfriendly).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2659,
+  "choices": [
+    "lạnh lẽo",
+    "ấm áp",
+    "mát mẻ"
+  ],
+  "word": "ấm áp",
+  "exampleSentences": [
+    "Gia đình em luôn mang lại cảm giác ấm áp cho em mỗi ngày.",
+    "Mùa đông này, anh thích mặc áo len để cảm thấy ấm áp hơn.",
+    "Bạn bè tốt làm cho cuộc sống của chị trở nên ấm áp và ý nghĩa."
+  ],
+  "notes": "Ấm áp means warm — both physically (not cold) and emotionally (kind, comforting).\n\nIt’s an adjective. It describes weather, rooms, clothes, voice, atmosphere, relationships, feelings.  \nIt often follows cảm thấy, trở nên, làm cho…, or stands after a noun: không khí ấm áp, giọng nói ấm áp.  \n\nBesides temperature, it strongly suggests emotional warmth — friendly, caring, not cold or distant.  \nClose to ấm, but ấm áp feels softer and more emotional. Opposite: lạnh lẽo (cold and unfriendly).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:03:37.369Z",
+    "content": {
+      "translation": {
+        "en": "The weather today is very warm."
+      },
+      "translatedAnswer": {
+        "en": "warm"
+      },
+      "choices": [
+        "lạnh lẽo",
+        "ấm áp",
+        "khô ráo"
+      ],
+      "hint": "ấm ___",
+      "answer": "ấm áp",
+      "word": "ấm áp",
+      "language": "vi",
+      "sentence": "Thời tiết hôm nay rất ___."
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:03:37.369Z",
+    "id": "6cc7da67-7ead-45e6-a38c-341741cebccc"
+  },
+  "_id": "XkgvO617Gn09VwkzYWz5"
+}

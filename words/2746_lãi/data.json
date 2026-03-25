@@ -1,0 +1,98 @@
+{
+  "exampleSentencesTranslated": [
+    "This year, my company achieved more profit than last year.",
+    "If I sell well, I will have a lot of profit from the business.",
+    "She wants to know the amount of profit the shop received this month."
+  ],
+  "fillBlankQuiz": {
+    "id": "197fbf0a-52fc-45ac-924e-77ac97bd162d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:26:34.074Z",
+    "content": {
+      "word": "lãi",
+      "sentence": "Lãi suất này rất ___ cho người vay.",
+      "language": "vi",
+      "answer": "lãi",
+      "translation": {
+        "en": "This interest rate is very favorable for borrowers."
+      },
+      "translatedAnswer": {
+        "en": "interest"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:26:34.074Z"
+  },
+  "definition": "profit",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:06:56.069Z",
+    "translations": {
+      "vi": "lãi",
+      "es": "ganancia",
+      "en": "profit"
+    },
+    "example": {
+      "es": "Obtuve ganancias de mi inversión.",
+      "vi": "Tôi đã kiếm được lãi từ khoản đầu tư của mình.",
+      "en": "I made a profit from my investment."
+    },
+    "definitions": {
+      "vi": "Lợi nhuận hoặc lãi suất thu được từ một khoản đầu tư hoặc khoản vay.",
+      "es": "La ganancia o interés obtenido de una inversión o préstamo.",
+      "en": "The profit or interest earned on an investment or loan."
+    }
+  },
+  "notes": "lãi = profit, the money you gain after costs. It’s also used for interest from banks.\n\nIt’s a noun. You often say tiền lãi, số lãi, or khoản lãi when talking about an amount.  \nCommon pairs: lãi suất (interest rate), lỗ và lãi (loss and profit).  \nStrong opposite: lỗ (loss).",
+  "exampleSentences": [
+    "Năm nay công ty của anh đạt được nhiều lãi hơn năm trước.",
+    "Nếu em bán hàng tốt, em sẽ có nhiều lãi từ việc kinh doanh.",
+    "Chị muốn biết số lãi mà cửa hàng nhận được tháng này."
+  ],
+  "updatedAt": "2026-03-03T11:42:47.251Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:26:34.074Z",
+    "type": "multiChoiceQuiz",
+    "id": "32999986-8b5c-4310-b067-c82fca729be7",
+    "content": {
+      "choices": [
+        "lãi",
+        "vay",
+        "sát"
+      ],
+      "sentence": "Lãi suất này rất ___ cho người vay.",
+      "language": "vi",
+      "word": "lãi",
+      "translatedAnswer": {
+        "en": "interest"
+      },
+      "translation": {
+        "en": "This interest rate is very favorable for borrowers."
+      },
+      "hint": "l___",
+      "answer": "lãi"
+    },
+    "createdAt": "2025-03-12T13:26:34.074Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "lỗ",
+    "lãi",
+    "giá"
+  ],
+  "rank": 2746,
+  "notes_md": "**lãi** = profit, the money you gain after costs. It’s also used for **interest** from banks.\n\nIt’s a noun. You often say **tiền lãi**, **số lãi**, or **khoản lãi** when talking about an amount.  \nCommon pairs: **lãi suất** (interest rate), **lỗ và lãi** (loss and profit).  \nStrong opposite: **lỗ** (loss).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lãi",
+  "_id": "A5yWMyy493BlQsX37IS8"
+}

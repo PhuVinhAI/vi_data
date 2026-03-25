@@ -1,0 +1,99 @@
+{
+  "definition": "hello",
+  "rank": 627,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Hola, ¿cómo estás hoy?",
+      "en": "Hello, how are you today?",
+      "vi": "Chào bạn, hôm nay bạn khỏe không?"
+    },
+    "translations": {
+      "en": "hello",
+      "vi": "chào",
+      "es": "hola"
+    },
+    "createdAt": "2025-01-28T14:18:57.782Z",
+    "definitions": {
+      "vi": "Một lời chào được sử dụng để nói xin chào.",
+      "en": "A greeting used to say hello.",
+      "es": "Un saludo utilizado para decir hola."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:11:25.999Z",
+    "updatedAt": "2025-03-12T13:11:25.999Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8196eda5-d3d5-4171-8640-7519d06237b7",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi sẽ ___ khi gặp bạn.",
+      "answer": "chào",
+      "translation": {
+        "en": "I will greet when I meet you."
+      },
+      "choices": [
+        "chào",
+        "tạm biệt",
+        "xin lỗi"
+      ],
+      "translatedAnswer": {
+        "en": "greet"
+      },
+      "language": "vi",
+      "word": "chào",
+      "hint": "c___o"
+    }
+  },
+  "exampleSentences": [
+    "Buổi sáng, anh thường chào hàng xóm khi đi làm.",
+    "Em nhớ chào thầy cô khi đến trường nhé.",
+    "Khi gặp bạn mới, chị luôn lịch sự chào trước."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "chào = hello; to greet someone. It’s what you say when you meet someone, and sometimes when you leave.\n\nIt’s a verb, so you usually follow it with a person or title. Very often paired with family terms or titles instead of names.\n\nIt can also mean “goodbye” in some contexts, but for clear “bye,” people often say tạm biệt. Xin chào is a more formal or polite version.",
+  "choices": [
+    "cảm ơn",
+    "chào",
+    "tạm biệt"
+  ],
+  "word": "chào",
+  "notes_md": "**chào** = hello; to greet someone. It’s what you say when you meet someone, and sometimes when you leave.\n\nIt’s a **verb**, so you usually follow it with a person or title. Very often paired with family terms or titles instead of names.\n\n\nIt can also mean “goodbye” in some contexts, but for clear “bye,” people often say **tạm biệt**. **Xin chào** is a more formal or polite version.",
+  "exampleSentencesTranslated": [
+    "In the morning, I usually say hello to my neighbors when going to work.",
+    "Remember to say hello to your teachers when you arrive at school.",
+    "When meeting new friends, I always politely say hello first."
+  ],
+  "updatedAt": "2026-03-03T07:24:45.629Z",
+  "fillBlankQuiz": {
+    "id": "0196d70f-c094-4089-98a5-7ed5b07fe521",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "chào",
+      "sentence": "Tôi muốn ___ bạn.",
+      "translatedAnswer": {
+        "en": "greet"
+      },
+      "language": "vi",
+      "word": "chào",
+      "choices": [],
+      "translation": {
+        "en": "I want to greet you."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:11:25.999Z",
+    "updatedAt": "2025-03-12T13:11:25.999Z"
+  },
+  "_id": "5oEHI80mvLJSJNjnteQn"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:40:42.276Z",
+    "id": "6742edae-c948-4785-864a-f26c39aee887",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Học sinh thường ___ kiến thức mới.",
+      "word": "tìm tòi",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "Students often explore new knowledge."
+      },
+      "answer": "tìm tòi",
+      "translatedAnswer": {
+        "en": "explore"
+      }
+    },
+    "updatedAt": "2025-03-12T16:40:42.276Z"
+  },
+  "rank": 2519,
+  "definition": "explore",
+  "notes_md": "**tìm tòi** = to explore or look into something with curiosity and effort. It often implies digging deeper, not just looking casually.\n\nIt’s a verb, usually followed by a noun about knowledge, ideas, methods, or places. It has a sense of active curiosity and personal effort.\n\n\nClose synonyms: **khám phá** (discover), **nghiên cứu** (research – more formal and academic).",
+  "flashcard": {
+    "translations": {
+      "en": "explore",
+      "es": "explorar",
+      "vi": "tìm tòi"
+    },
+    "example": {
+      "vi": "Tôi thích tìm tòi những điều mới mẻ.",
+      "en": "I enjoy exploring new things.",
+      "es": "Me gusta explorar cosas nuevas."
+    },
+    "definitions": {
+      "en": "To search for or investigate something in depth.",
+      "es": "Buscar o investigar algo en profundidad.",
+      "vi": "Tìm kiếm hoặc điều tra một cái gì đó một cách sâu sắc."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:12:13.358Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tìm tòi = to explore or look into something with curiosity and effort. It often implies digging deeper, not just looking casually.\n\nIt’s a verb, usually followed by a noun about knowledge, ideas, methods, or places. It has a sense of active curiosity and personal effort.\n\nClose synonyms: khám phá (discover), nghiên cứu (research – more formal and academic).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I like to explore new places on weekends.",
+    "She often explores ways to cook different dishes.",
+    "I want to explore more knowledge about technology."
+  ],
+  "word": "tìm tòi",
+  "choices": [
+    "tìm tòi",
+    "nghỉ ngơi",
+    "giải thích"
+  ],
+  "updatedAt": "2026-03-03T10:44:02.615Z",
+  "exampleSentences": [
+    "Anh thích tìm tòi những địa điểm mới vào cuối tuần.",
+    "Chị thường tìm tòi cách nấu các món ăn khác nhau.",
+    "Em muốn tìm tòi nhiều kiến thức hơn về công nghệ."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:40:42.276Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "cf8b7f19-143e-4b7c-925e-f8144b239bf4",
+    "content": {
+      "hint": "t___i",
+      "word": "tìm tòi",
+      "sentence": "Bạn có ___ để phát triển bản thân không?",
+      "translation": {
+        "en": "Do you have the desire to explore yourself?"
+      },
+      "answer": "tìm tòi",
+      "choices": [
+        "học hỏi",
+        "tìm tòi",
+        "phát triển"
+      ],
+      "translatedAnswer": {
+        "en": "explore"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:40:42.276Z",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "wqyuf93OJHIQ15T0rJuv"
+}

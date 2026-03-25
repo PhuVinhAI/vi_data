@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh thấy có dấu hiệu mưa nên mang theo ô ra ngoài.",
+    "Bác sĩ nói sốt cao là một dấu hiệu của bệnh cúm.",
+    "Nếu em nhận thấy dấu hiệu lạ trên da, hãy đi khám sớm nhé."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:00:54.856Z",
+    "definitions": {
+      "es": "Una señal o indicación de algo.",
+      "vi": "Một dấu hiệu hoặc chỉ dẫn về điều gì đó.",
+      "en": "A sign or indication of something."
+    },
+    "translations": {
+      "en": "sign",
+      "vi": "dấu hiệu",
+      "es": "signo"
+    },
+    "example": {
+      "en": "The signs of this illness are very clear.",
+      "es": "Los signos de esta enfermedad son muy claros.",
+      "vi": "Dấu hiệu của bệnh này rất rõ ràng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 2024,
+  "choices": [
+    "dấu hiệu",
+    "dấu vết",
+    "biểu hiện"
+  ],
+  "updatedAt": "2026-03-03T09:52:19.571Z",
+  "notes": "dấu hiệu = a sign or indication that something is happening or true. It’s a noun.\n\nYou usually say một dấu hiệu (a sign) or những dấu hiệu (signs). Very common patterns are có dấu hiệu… and dấu hiệu của….\n\nClose synonym: dấu (more like a mark or trace), but dấu hiệu is clearer when you mean a signal or symptom.",
+  "exampleSentencesTranslated": [
+    "I see a sign of rain, so I bring an umbrella outside.",
+    "The doctor says a high fever is a sign of the flu.",
+    "If you notice a strange sign on your skin, go see a doctor soon."
+  ],
+  "fillBlankQuiz": {
+    "id": "4eb0b0a3-9eb6-4d52-8c59-a0de6315bb3d",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "sign"
+      },
+      "answer": "dấu hiệu",
+      "word": "dấu hiệu",
+      "sentence": "Đây là ___ của bệnh này.",
+      "translation": {
+        "en": "This is a sign of this disease."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:25:03.198Z",
+    "createdAt": "2025-03-12T14:25:03.198Z"
+  },
+  "definition": "sign",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "dấu hiệu",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:25:03.198Z",
+    "updatedAt": "2025-03-12T14:25:03.198Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "dấu hiệu",
+      "translatedAnswer": {
+        "en": "sign"
+      },
+      "sentence": "Đây là ___ của bệnh này.",
+      "word": "dấu hiệu",
+      "hint": "d___e",
+      "language": "vi",
+      "choices": [
+        "dấu hiệu",
+        "triệu chứng",
+        "nguyên nhân"
+      ],
+      "translation": {
+        "en": "This is a sign of this disease."
+      }
+    },
+    "id": "0392ad4f-5d7f-497d-b885-72b21d21f8bb"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**dấu hiệu** = a sign or indication that something is happening or true. It’s a noun.\n\nYou usually say **một dấu hiệu** (a sign) or **những dấu hiệu** (signs). Very common patterns are **có dấu hiệu…** and **dấu hiệu của…**.\n\n\nClose synonym: **dấu** (more like a mark or trace), but **dấu hiệu** is clearer when you mean a signal or symptom.",
+  "_id": "OLRMaNBrzhoHMFNZKch7"
+}

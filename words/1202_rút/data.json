@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cần rút tiền từ máy ATM.",
+      "es": "Necesito retirar dinero del cajero automático.",
+      "en": "I need to withdraw money from the ATM."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "withdraw",
+      "vi": "rút",
+      "es": "retirar"
+    },
+    "definitions": {
+      "en": "To take out or remove something, especially money.",
+      "es": "Sacar o quitar algo, especialmente dinero.",
+      "vi": "Lấy ra hoặc loại bỏ một cái gì đó, đặc biệt là tiền."
+    },
+    "createdAt": "2025-01-28T11:47:45.008Z"
+  },
+  "exampleSentences": [
+    "Anh muốn rút tiền từ máy ATM gần đây.",
+    "Chị ấy quyết định rút đơn xin việc vì tìm được công việc khác.",
+    "Em nên rút tay ra khỏi nước nóng để không bị bỏng."
+  ],
+  "rank": 1202,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:10:35.522Z",
+    "updatedAt": "2025-03-12T14:10:35.522Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi cần ___ tiền từ tài khoản.",
+      "word": "rút",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I need to withdraw money from the account."
+      },
+      "answer": "rút",
+      "translatedAnswer": {
+        "en": "withdraw"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "c6003191-542a-4658-b261-aba124cd6b92"
+  },
+  "definition": "withdraw",
+  "choices": [
+    "rút",
+    "gửi",
+    "nhận"
+  ],
+  "updatedAt": "2026-03-03T08:23:52.671Z",
+  "exampleSentencesTranslated": [
+    "I want to withdraw money from the nearest ATM.",
+    "She decided to withdraw her job application because she found another job.",
+    "You should withdraw your hand from the hot water to avoid being burned."
+  ],
+  "notes": "rút = to withdraw or pull something out. It’s used when something moves back, comes out, or is taken away.\n\nYou use rút + object for physical things (rút tiền, rút thẻ, rút dao) and also for abstract things (rút đơn, rút lui). It can also mean “draw” in games (rút bài) or “shorten” (rút ngắn thời gian).\n\nVery common combo: rút kinh nghiệm = learn from experience (literally “draw experience”).  \nClose synonym: lấy ra (take out) but rút often implies pulling from inside something.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**rút** = to withdraw or pull something out. It’s used when something moves back, comes out, or is taken away.\n\nYou use **rút + object** for physical things (rút tiền, rút thẻ, rút dao) and also for abstract things (rút đơn, rút lui). It can also mean “draw” in games (rút bài) or “shorten” (rút ngắn thời gian).\n\n\nVery common combo: **rút kinh nghiệm** = learn from experience (literally “draw experience”).  \nClose synonym: **lấy ra** (take out) but *rút* often implies pulling from inside something.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "rút",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:10:35.522Z",
+    "updatedAt": "2025-03-12T14:10:35.522Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có thể ___ tiền không?",
+      "hint": "r__",
+      "word": "rút",
+      "language": "vi",
+      "choices": [
+        "rút",
+        "đặt",
+        "chuyển"
+      ],
+      "translation": {
+        "en": "Can you withdraw money?"
+      },
+      "answer": "rút",
+      "translatedAnswer": {
+        "en": "withdraw"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "7a5c3dfe-f8c7-4491-98e3-fcc0b93be41b"
+  },
+  "_id": "KuTh42yrMbuAArC9uj8y"
+}

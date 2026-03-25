@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi muốn toàn bộ bánh này.",
+      "es": "Quiero todo el pastel.",
+      "en": "I want the whole cake."
+    },
+    "definitions": {
+      "es": "Todo; completo; entero.",
+      "vi": "Toàn bộ; hoàn chỉnh; toàn thể.",
+      "en": "Whole; complete; entire."
+    },
+    "createdAt": "2025-01-28T13:10:53.750Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "toàn",
+      "es": "todo",
+      "en": "whole"
+    }
+  },
+  "definition": "entirely",
+  "exampleSentencesTranslated": [
+    "He talks about work entirely at gatherings with friends.",
+    "I did this homework entirely by myself without any help.",
+    "This dish is entirely vegetables so it is very healthy."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:21:10.464Z",
+    "type": "fillBlankQuiz",
+    "id": "f2481346-1a74-4c95-b517-0bc670e4fc17",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:21:10.464Z",
+    "content": {
+      "answer": "toàn",
+      "translation": {
+        "en": "She entirely works hard."
+      },
+      "translatedAnswer": {
+        "en": "entirely"
+      },
+      "word": "toàn",
+      "sentence": "Cô ấy ___ làm việc chăm chỉ.",
+      "language": "vi",
+      "choices": []
+    }
+  },
+  "updatedAt": "2026-03-03T07:42:38.478Z",
+  "exampleSentences": [
+    "Anh ấy toàn nói về công việc trong các buổi họp mặt bạn bè.",
+    "Em đã làm bài tập này toàn một mình mà không cần giúp đỡ.",
+    "Món ăn này toàn là rau nên rất tốt cho sức khỏe."
+  ],
+  "notes": "Toàn usually means entirely or all of it. Very often, it has the feeling of “nothing but” — sometimes slightly negative.\n\nIt goes before nouns or verbs to show 100% of something.  \nYou’ll also see toàn là + noun to emphasize “nothing but” (toàn là vấn đề).\n\nClose in meaning to đầy (full of), but toàn focuses more on totality, while đầy focuses on quantity. Opposite idea: một vài / vài (a few).",
+  "notes_md": "**Toàn** usually means *entirely* or *all of it*. Very often, it has the feeling of “nothing but” — sometimes slightly negative.\n\nIt goes before nouns or verbs to show 100% of something.  \nYou’ll also see **toàn là + noun** to emphasize “nothing but” (toàn là vấn đề).\n\nClose in meaning to **đầy** (full of), but *toàn* focuses more on totality, while *đầy* focuses on quantity. Opposite idea: **một vài / vài** (a few).",
+  "rank": 809,
+  "choices": [
+    "toàn",
+    "luôn",
+    "gần"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "entirely"
+      },
+      "translation": {
+        "en": "These days I am entirely busy."
+      },
+      "hint": "t___n",
+      "answer": "toàn",
+      "choices": [
+        "toàn",
+        "đôi",
+        "một"
+      ],
+      "sentence": "Những ngày này tôi ___ bận rộn.",
+      "language": "vi",
+      "word": "toàn"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:21:10.464Z",
+    "id": "5b87f804-c276-44d0-997c-b3e9d3fab8eb",
+    "updatedAt": "2025-03-12T17:21:10.464Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "toàn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "gLepdIQUB1Ci2rVXdxcy"
+}

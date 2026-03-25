@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "diễn tả",
+    "giải thích",
+    "trình bày"
+  ],
+  "rank": 2934,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Cô ấy có thể ___ suy nghĩ của mình.",
+      "word": "diễn tả",
+      "language": "vi",
+      "hint": "d___ t__",
+      "answer": "diễn tả",
+      "choices": [
+        "trình bày",
+        "diễn tả",
+        "thể hiện"
+      ],
+      "translatedAnswer": {
+        "en": "express"
+      },
+      "translation": {
+        "en": "She can express her thoughts."
+      }
+    },
+    "updatedAt": "2025-03-12T14:52:34.859Z",
+    "createdAt": "2025-03-12T14:52:34.859Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "470c78fb-9b2e-4253-ae55-4ba98f97e9b0"
+  },
+  "word": "diễn tả",
+  "exampleSentences": [
+    "Em có thể diễn tả cảm giác của mình khi nhận được tin vui không?",
+    "Anh sẽ diễn tả bức tranh này cho bạn nghe bằng lời của mình.",
+    "Cô giáo yêu cầu học sinh diễn tả cảnh đẹp ở quê hương mình."
+  ],
+  "notes": "diễn tả = to describe or express something in words. It’s about putting feelings, ideas, or images into language.\n\nIt’s a verb, often used with things like cảm xúc (emotions), cảm giác (feelings), ý tưởng (ideas), cảnh vật (scenery). You’re usually describing something abstract or detailed.\n\nClose synonym: miêu tả (more about describing what you see, slightly more formal).  \nAlso related: thể hiện (to express, often through actions or art, not just words).",
+  "exampleSentencesTranslated": [
+    "Can you describe your feelings when you received the good news?",
+    "I will describe this picture to you in my own words.",
+    "The teacher asked the students to describe the beautiful scenery in their hometown."
+  ],
+  "fillBlankQuiz": {
+    "id": "d98829f2-69aa-4522-a4a2-d8aca5c0d924",
+    "createdAt": "2025-03-12T14:52:34.859Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I do not know how to express my feelings."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "express"
+      },
+      "answer": "diễn tả",
+      "language": "vi",
+      "word": "diễn tả",
+      "sentence": "Tôi không biết ___ cảm xúc của mình."
+    },
+    "updatedAt": "2025-03-12T14:52:34.859Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:14:03.773Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:26:01.433Z",
+    "definitions": {
+      "en": "To express or describe something in words.",
+      "es": "Expresar o describir algo con palabras.",
+      "vi": "Diễn đạt hoặc mô tả điều gì đó bằng lời."
+    },
+    "example": {
+      "en": "She expresses her feelings very well.",
+      "es": "Ella expresa sus sentimientos muy bien.",
+      "vi": "Cô ấy diễn tả cảm xúc của mình rất tốt."
+    },
+    "translations": {
+      "en": "to express",
+      "es": "expresar",
+      "vi": "diễn tả"
+    }
+  },
+  "notes_md": "**diễn tả** = to describe or express something in words. It’s about putting feelings, ideas, or images into language.\n\nIt’s a verb, often used with things like *cảm xúc* (emotions), *cảm giác* (feelings), *ý tưởng* (ideas), *cảnh vật* (scenery). You’re usually describing something abstract or detailed.\n\n\nClose synonym: **miêu tả** (more about describing what you see, slightly more formal).  \nAlso related: **thể hiện** (to express, often through actions or art, not just words).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "describe",
+  "_id": "Ug3zKf384Fr1LtGKSq9L"
+}

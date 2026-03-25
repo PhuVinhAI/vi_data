@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta sẽ họp vào lúc 3 giờ chiều.",
+      "es": "Nos reuniremos a las 3 PM.",
+      "en": "We will meet at 3 PM."
+    },
+    "definitions": {
+      "vi": "Tập hợp hoặc tập trung để thảo luận hoặc họp.",
+      "en": "To gather or assemble for a discussion or meeting.",
+      "es": "Reunirse o ensamblarse para una discusión o reunión."
+    },
+    "translations": {
+      "vi": "họp",
+      "es": "reunir",
+      "en": "meet"
+    },
+    "createdAt": "2025-01-28T14:20:51.822Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "họp = to have a meeting, to meet for work or discussion. It’s a verb.\n\nYou usually use it for work, school, or official discussions. Common partners: họp với (meet with someone), họp về (about a topic), họp ở (at a place).\n\nAs a noun idea, you’ll often see it in phrases like cuộc họp or buổi họp (a meeting). A close synonym is gặp (meet), but gặp is casual and personal, while họp is more formal and organized.",
+  "choices": [
+    "học",
+    "hỏi",
+    "họp"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "họp",
+      "hint": "h___",
+      "sentence": "Chúng ta sẽ ___ vào lúc ba giờ.",
+      "translatedAnswer": {
+        "en": "meet"
+      },
+      "choices": [
+        "họp",
+        "đến",
+        "ngồi"
+      ],
+      "answer": "họp",
+      "translation": {
+        "en": "We will meet at three o'clock."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:50:50.499Z",
+    "type": "multiChoiceQuiz",
+    "id": "3bea11b7-2399-446a-84d3-c258ace70679",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:50:50.499Z"
+  },
+  "exampleSentences": [
+    "Sáng mai anh phải đến công ty để họp với đồng nghiệp.",
+    "Chị thường họp trực tuyến với đối tác nước ngoài vào mỗi thứ hai.",
+    "Em đã chuẩn bị tài liệu cho buổi họp chiều nay chưa?"
+  ],
+  "updatedAt": "2026-03-03T09:19:21.578Z",
+  "word": "họp",
+  "exampleSentencesTranslated": [
+    "Tomorrow morning I have to go to the company for a meeting with colleagues.",
+    "She usually has an online meeting with foreign partners every Monday.",
+    "Have you prepared the documents for the meeting this afternoon?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**họp** = to have a meeting, to meet for work or discussion. It’s a verb.\n\nYou usually use it for work, school, or official discussions. Common partners: **họp với** (meet with someone), **họp về** (about a topic), **họp ở** (at a place).\n\n\nAs a noun idea, you’ll often see it in phrases like **cuộc họp** or **buổi họp** (a meeting). A close synonym is **gặp** (meet), but *gặp* is casual and personal, while *họp* is more formal and organized.",
+  "rank": 1713,
+  "definition": "meeting",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chúng ta sẽ ___ vào lúc ba giờ.",
+      "word": "họp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "meet"
+      },
+      "answer": "họp",
+      "translation": {
+        "en": "We will meet at three o'clock."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:50:50.499Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:50:50.499Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "64267d5c-260a-41e7-b53a-dce70e967246"
+  },
+  "_id": "zKbS0WYXL97tNKisCWCM"
+}

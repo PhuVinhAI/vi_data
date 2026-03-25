@@ -1,0 +1,99 @@
+{
+  "definition": "spirit",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I need to have a good spirit to work."
+      },
+      "answer": "tinh thần",
+      "word": "tinh thần",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "spirit"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần có ___ tốt để làm việc."
+    },
+    "updatedAt": "2025-03-12T14:34:14.537Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:34:14.537Z",
+    "id": "d8388c70-d0cb-4d16-b884-6c83360ba435"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tinh thần** = spirit, mindset, or morale. It’s about your inner mental state or attitude, not your body.\n\nIt’s an uncountable noun, often used in phrases like *tinh thần lạc quan* (optimistic spirit), *tinh thần trách nhiệm* (sense of responsibility), *tinh thần đồng đội* (team spirit). You’ll often see it with verbs like *giữ*, *nâng cao*, *mất* (keep, boost, lose).  \n\nIt can also mean “mental/spiritual” in contrast with physical things, like *đời sống tinh thần* (mental/spiritual life) vs. *vật chất* (material).  \n\nClose ideas: *tâm trạng* (mood – more temporary), *ý chí* (willpower – stronger, more about determination).",
+  "exampleSentences": [
+    "Anh ấy luôn có tinh thần lạc quan trong công việc mỗi ngày.",
+    "Chúng ta cần giữ tinh thần đoàn kết để vượt qua khó khăn.",
+    "Dù mệt mỏi, chị vẫn cố gắng giữ tinh thần vui vẻ."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "espíritu",
+      "en": "spirit",
+      "vi": "tinh thần"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi luôn giữ tinh thần lạc quan trong cuộc sống.",
+      "en": "I always maintain a positive spirit in life.",
+      "es": "Siempre mantengo un espíritu positivo en la vida."
+    },
+    "createdAt": "2025-01-28T12:09:47.704Z",
+    "definitions": {
+      "vi": "Trạng thái tinh thần hoặc cảm xúc của một người; tinh thần.",
+      "en": "The mental or emotional state of a person; spirit.",
+      "es": "El estado mental o emocional de una persona; espíritu."
+    }
+  },
+  "notes": "tinh thần = spirit, mindset, or morale. It’s about your inner mental state or attitude, not your body.\n\nIt’s an uncountable noun, often used in phrases like tinh thần lạc quan (optimistic spirit), tinh thần trách nhiệm (sense of responsibility), tinh thần đồng đội (team spirit). You’ll often see it with verbs like giữ, nâng cao, mất (keep, boost, lose).  \n\nIt can also mean “mental/spiritual” in contrast with physical things, like đời sống tinh thần (mental/spiritual life) vs. vật chất (material).  \n\nClose ideas: tâm trạng (mood – more temporary), ý chí (willpower – stronger, more about determination).",
+  "choices": [
+    "tinh thần",
+    "cảm xúc",
+    "trí tuệ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:13:48.272Z",
+  "exampleSentencesTranslated": [
+    "He always has an optimistic spirit at work every day.",
+    "We need to keep the spirit of unity to overcome difficulties.",
+    "Even though she is tired, she still tries to keep a happy spirit."
+  ],
+  "rank": 515,
+  "word": "tinh thần",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "649e34e7-a69f-42e2-9d5a-4ed1b0daa3ec",
+    "createdAt": "2025-03-12T14:34:14.537Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:34:14.537Z",
+    "content": {
+      "word": "tinh thần",
+      "choices": [
+        "tinh thần",
+        "tâm hồn",
+        "tình cảm"
+      ],
+      "hint": "t___n",
+      "translation": {
+        "en": "They always keep a positive spirit."
+      },
+      "answer": "tinh thần",
+      "sentence": "Họ luôn giữ ___ tích cực.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "spirit"
+      }
+    }
+  },
+  "_id": "QkK3Ay3R9EGrP3L5ur1I"
+}

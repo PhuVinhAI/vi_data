@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "Sunday",
+  "rank": 2088,
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "Sunday"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I go to the market this Sunday."
+      },
+      "answer": "chủ nhật",
+      "language": "vi",
+      "word": "chủ nhật",
+      "sentence": "Tôi đi chợ vào ___ này."
+    },
+    "updatedAt": "2025-03-12T16:50:28.863Z",
+    "id": "3f47be0d-9ea3-4245-aa4d-c6d2870fc30d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:50:28.863Z"
+  },
+  "notes_md": "**chủ nhật** = Sunday, the last day of the week. It’s a noun, usually used as a time word.\n\nYou can say just **chủ nhật**, or the fuller form **ngày chủ nhật** (same meaning, slightly more formal). No classifier needed.\n\nIt often goes after **vào** to talk about plans in the future or habits (Structure: vào + chủ nhật).\n\nYou’ll also see it written as **CN** in schedules or messages.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chủ nhật = Sunday, the last day of the week. It’s a noun, usually used as a time word.\n\nYou can say just chủ nhật, or the fuller form ngày chủ nhật (same meaning, slightly more formal). No classifier needed.\n\nIt often goes after vào to talk about plans in the future or habits (Structure: vào + chủ nhật).\n\nYou’ll also see it written as CN in schedules or messages.",
+  "flashcard": {
+    "translations": {
+      "es": "domingo",
+      "en": "Sunday",
+      "vi": "chủ nhật"
+    },
+    "definitions": {
+      "es": "El séptimo día de la semana, generalmente considerado un día de descanso.",
+      "en": "The seventh day of the week, typically regarded as a day of rest.",
+      "vi": "Ngày thứ bảy trong tuần, thường được coi là ngày nghỉ."
+    },
+    "example": {
+      "vi": "Tôi đi chợ vào chủ nhật.",
+      "en": "I go to the market on Sunday.",
+      "es": "Voy al mercado el domingo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:20:35.727Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Anh usually hangs out with friends on Sunday.",
+    "Do you want to go to the movies with me on Sunday?",
+    "My family often has breakfast together on Sunday every week."
+  ],
+  "word": "chủ nhật",
+  "updatedAt": "2026-03-03T09:58:50.939Z",
+  "exampleSentences": [
+    "Anh thường đi chơi với bạn bè vào chủ nhật.",
+    "Chị có muốn cùng em đi xem phim vào chủ nhật không?",
+    "Gia đình em hay ăn sáng cùng nhau vào chủ nhật mỗi tuần."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:50:28.863Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "ae732582-4f73-4bda-9cb1-6398f7515520",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "Sunday"
+      },
+      "translation": {
+        "en": "I will go out next Sunday."
+      },
+      "answer": "chủ nhật",
+      "choices": [
+        "thứ hai",
+        "chủ nhật",
+        "thứ bảy"
+      ],
+      "sentence": "Tôi đi chơi vào ___ tới.",
+      "word": "chủ nhật",
+      "hint": "c___n"
+    },
+    "updatedAt": "2025-03-12T16:50:28.863Z"
+  },
+  "choices": [
+    "thứ hai",
+    "thứ bảy",
+    "chủ nhật"
+  ],
+  "_id": "z8wuUGIb45Bf6rsu1105"
+}

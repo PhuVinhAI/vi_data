@@ -1,0 +1,99 @@
+{
+  "rank": 2370,
+  "exampleSentences": [
+    "Chàng luôn tặng hoa cho người yêu vào mỗi dịp đặc biệt.",
+    "Bố mẹ rất quý chàng vì anh ấy chăm chỉ và tốt bụng.",
+    "Chàng đã đợi em dưới mưa suốt cả buổi chiều hôm qua."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:45:20.486Z",
+    "definitions": {
+      "vi": "Một người đàn ông trẻ tuổi hoặc cậu bé, thường được dùng để chỉ một nam giới theo cách thân mật hoặc trìu mến.",
+      "es": "Un joven o chico, a menudo utilizado para referirse a un hombre de manera casual o afectuosa.",
+      "en": "A young man or boy, often used to refer to a male in a casual or affectionate manner."
+    },
+    "translations": {
+      "en": "young man",
+      "es": "joven",
+      "vi": "chàng"
+    },
+    "example": {
+      "en": "That young man is very smart.",
+      "vi": "Chàng trai đó rất thông minh.",
+      "es": "Ese joven es muy inteligente."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chàng",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:07:59.357Z",
+    "updatedAt": "2025-03-12T14:07:59.357Z",
+    "content": {
+      "translation": {
+        "en": "She loves a kind boy."
+      },
+      "language": "vi",
+      "choices": [
+        "cô",
+        "chàng",
+        "bạn"
+      ],
+      "word": "chàng",
+      "hint": "c___g",
+      "sentence": "Cô ấy yêu một ___ tốt bụng.",
+      "translatedAnswer": {
+        "en": "boy"
+      },
+      "answer": "chàng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "60349af1-f349-4f8b-bda9-4f4b66e086ed"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chàng** means *young man*, often with a romantic or story-like feeling. It sounds a bit poetic, not as neutral as “guy” or “man.”\n\nIt’s a noun and usually refers to one specific young man in a story or emotional context. You’ll often see it paired with **nàng** (young woman) — they’re a classic couple word set: *chàng ↔ nàng*.\n\nIn everyday speech, people more often say **chàng trai** (young man) or just **anh** (older brother / young man). So if you use **chàng**, it can feel sweet, dramatic, or literary.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "The young man always gives flowers to his lover on special occasions.",
+    "My parents really like the young man because he is hardworking and kind.",
+    "The young man waited for me in the rain all afternoon yesterday."
+  ],
+  "notes": "chàng means young man, often with a romantic or story-like feeling. It sounds a bit poetic, not as neutral as “guy” or “man.”\n\nIt’s a noun and usually refers to one specific young man in a story or emotional context. You’ll often see it paired with nàng (young woman) — they’re a classic couple word set: chàng ↔ nàng.\n\nIn everyday speech, people more often say chàng trai (young man) or just anh (older brother / young man). So if you use chàng, it can feel sweet, dramatic, or literary.",
+  "updatedAt": "2026-03-03T10:28:48.720Z",
+  "choices": [
+    "chàng",
+    "chị",
+    "ông"
+  ],
+  "definition": "young man",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:07:59.357Z",
+    "createdAt": "2025-03-12T14:07:59.357Z",
+    "id": "ef34343d-b56b-41a2-98ed-4794ab987d2f",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "boy"
+      },
+      "answer": "chàng",
+      "word": "chàng",
+      "sentence": "Cô ấy yêu một ___ tốt bụng.",
+      "translation": {
+        "en": "She loves a kind boy."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "_id": "KRNcE4PDFnypLPIX3dPi"
+}

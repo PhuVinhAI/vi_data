@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:55:35.128Z",
+    "content": {
+      "word": "hoa hậu",
+      "language": "vi",
+      "answer": "hoa hậu",
+      "hint": "h___u",
+      "sentence": "Cô ấy muốn trở thành ___ trong tương lai.",
+      "translation": {
+        "en": "She wants to become a beauty queen in the future."
+      },
+      "translatedAnswer": {
+        "en": "beauty queen"
+      },
+      "choices": [
+        "người mẫu",
+        "hoa hậu",
+        "ca sĩ"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:55:35.128Z",
+    "id": "511440af-1c3c-4948-a1c9-d212d574f12d"
+  },
+  "notes": "Hoa hậu means beauty queen — the woman who wins a beauty pageant. It’s a noun for a specific title, not just any beautiful woman.\n\nYou often see it with competitions: hoa hậu Việt Nam, hoa hậu thế giới. To count it, use một hoa hậu, or add the classifier vị for a respectful tone (một vị hoa hậu).\n\nRelated words: á hậu (runner-up), người đẹp (beautiful woman, more general and less official).",
+  "exampleSentences": [
+    "Chị ấy mơ ước trở thành hoa hậu khi còn nhỏ.",
+    "Năm nay, em rất thích hoa hậu vì cô ấy thân thiện và thông minh.",
+    "Anh đã xem cuộc thi hoa hậu trên tivi tối qua cùng gia đình."
+  ],
+  "word": "hoa hậu",
+  "choices": [
+    "hoa hậu",
+    "cầu thủ",
+    "bác sĩ"
+  ],
+  "rank": 1597,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Hoa hậu** means *beauty queen* — the woman who wins a beauty pageant. It’s a **noun** for a specific title, not just any beautiful woman.\n\nYou often see it with competitions: *hoa hậu Việt Nam*, *hoa hậu thế giới*. To count it, use **một hoa hậu**, or add the classifier **vị** for a respectful tone (một vị hoa hậu).\n\nRelated words: **á hậu** (runner-up), **người đẹp** (beautiful woman, more general and less official).",
+  "definition": "beauty queen",
+  "fillBlankQuiz": {
+    "id": "8f99d5bc-cfe9-42c8-8b99-9083ede91c53",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:55:35.128Z",
+    "updatedAt": "2025-03-12T14:55:35.128Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "beauty queen"
+      },
+      "translation": {
+        "en": "She is the beauty queen of the contest."
+      },
+      "sentence": "Cô ấy là ___ của cuộc thi.",
+      "answer": "hoa hậu",
+      "language": "vi",
+      "word": "hoa hậu"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:06:55.899Z",
+  "exampleSentencesTranslated": [
+    "She dreamed of becoming a beauty queen when she was young.",
+    "This year, I really like the beauty queen because she is friendly and smart.",
+    "I watched the beauty queen contest on TV last night with my family."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "She is a famous beauty queen.",
+      "es": "Ella es una famosa reina de belleza.",
+      "vi": "Cô ấy là một hoa hậu nổi tiếng."
+    },
+    "translations": {
+      "en": "beauty queen",
+      "es": "reina de belleza",
+      "vi": "hoa hậu"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:28:45.857Z",
+    "definitions": {
+      "en": "A title given to a woman who has won a beauty contest.",
+      "es": "Un título otorgado a una mujer que ha ganado un concurso de belleza.",
+      "vi": "Danh hiệu được trao cho một người phụ nữ đã chiến thắng trong một cuộc thi sắc đẹp."
+    }
+  },
+  "_id": "VZSjmPZxmVxSIEofizv0"
+}

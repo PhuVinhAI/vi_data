@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He was criticized for his impolite behavior in class.",
+    "She really cares about her child's behavior at school.",
+    "Everyone should pay attention to their behavior in public places."
+  ],
+  "updatedAt": "2026-03-03T08:55:45.259Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "hành vi",
+    "thái độ",
+    "tâm trạng"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cách mà một người cư xử với người khác.",
+      "es": "La forma en que alguien se comporta hacia los demás.",
+      "en": "The way in which someone behaves towards others."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:46:05.476Z",
+    "translations": {
+      "es": "comportamiento",
+      "en": "behavior",
+      "vi": "hành vi"
+    },
+    "example": {
+      "es": "Su comportamiento es muy bueno.",
+      "en": "His behavior is very good.",
+      "vi": "Hành vi của anh ấy rất tốt."
+    }
+  },
+  "exampleSentences": [
+    "Anh ấy đã bị phê bình vì hành vi không lịch sự trong lớp học.",
+    "Chị rất quan tâm đến hành vi của con mình ở trường.",
+    "Mọi người nên chú ý đến hành vi của mình khi ở nơi công cộng."
+  ],
+  "notes": "hành vi = behavior, the way someone acts. It’s about actions that show attitude or personality.\n\nIt’s a noun. You can say hành vi này / những hành vi đó to point to specific behaviors. Often used with adjectives: hành vi xấu, hành vi bạo lực, hành vi tích cực.  \n\nClose idea: cư xử (verb = to behave). Hành vi is more formal and focuses on the action itself; cư xử is about how someone behaves in a situation.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "hành vi",
+  "fillBlankQuiz": {
+    "id": "b9c0f486-257f-4bdc-903c-120949810fd5",
+    "createdAt": "2025-03-12T16:14:13.638Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:14:13.638Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Học sinh cần cải thiện ___ của mình.",
+      "translation": {
+        "en": "Students need to improve their behavior."
+      },
+      "translatedAnswer": {
+        "en": "behavior"
+      },
+      "answer": "hành vi",
+      "language": "vi",
+      "word": "hành vi",
+      "choices": []
+    }
+  },
+  "definition": "behavior",
+  "multiChoiceQuiz": {
+    "id": "32eabc37-3420-4db7-859e-e596a006fd6b",
+    "createdAt": "2025-03-12T16:14:13.638Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:14:13.638Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "hành vi",
+      "choices": [
+        "hành vi",
+        "tính cách",
+        "thái độ"
+      ],
+      "language": "vi",
+      "answer": "hành vi",
+      "hint": "h___i",
+      "translation": {
+        "en": "Students need to improve their behavior."
+      },
+      "translatedAnswer": {
+        "en": "behavior"
+      },
+      "sentence": "Học sinh cần cải thiện ___ của mình."
+    }
+  },
+  "notes_md": "**hành vi** = behavior, the way someone acts. It’s about actions that show attitude or personality.\n\nIt’s a noun. You can say *hành vi này / những hành vi đó* to point to specific behaviors. Often used with adjectives: *hành vi xấu, hành vi bạo lực, hành vi tích cực*.  \n\n\nClose idea: **cư xử** (verb = to behave). *Hành vi* is more formal and focuses on the action itself; *cư xử* is about how someone behaves in a situation.",
+  "rank": 1494,
+  "_id": "q2FUlyNFvqkOucC5fYln"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "vũ trụ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "We are exploring a new universe."
+      },
+      "translatedAnswer": {
+        "en": "universe"
+      },
+      "answer": "vũ trụ",
+      "hint": "v___u",
+      "choices": [
+        "vũ trụ",
+        "hành tinh",
+        "ngôi sao"
+      ],
+      "word": "vũ trụ",
+      "sentence": "Chúng ta đang khám phá ___ mới.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:33:30.822Z",
+    "id": "d9616af4-c309-4aae-b261-50598c0319f3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:33:30.822Z"
+  },
+  "notes_md": "**vũ trụ** means *the universe* — everything that exists: stars, planets, space, time.\n\nIt’s an uncountable noun, so you don’t use classifiers with it. You’ll often see it in phrases like *trong vũ trụ* (in the universe) or *ngoài vũ trụ* (outer space).  \n\nCommon pairings: *vũ trụ bao la* (vast universe), *toàn vũ trụ* (the whole universe).  \n\nDon’t confuse it with *không gian* — that’s “space” (the area/space), while *vũ trụ* is the entire cosmos.",
+  "choices": [
+    "vũ trụ",
+    "thiên hà",
+    "hành tinh"
+  ],
+  "rank": 1573,
+  "notes": "vũ trụ means the universe — everything that exists: stars, planets, space, time.\n\nIt’s an uncountable noun, so you don’t use classifiers with it. You’ll often see it in phrases like trong vũ trụ (in the universe) or ngoài vũ trụ (outer space).  \n\nCommon pairings: vũ trụ bao la (vast universe), toàn vũ trụ (the whole universe).  \n\nDon’t confuse it with không gian — that’s “space” (the area/space), while vũ trụ is the entire cosmos.",
+  "updatedAt": "2026-03-03T09:04:32.081Z",
+  "exampleSentences": [
+    "Anh luôn tò mò về cách mà vũ trụ hình thành.",
+    "Chị tin rằng có nhiều hành tinh khác trong vũ trụ.",
+    "Em thích xem phim về những bí ẩn của vũ trụ."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:33:30.822Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "vũ trụ",
+      "translation": {
+        "en": "I like to talk about the universe."
+      },
+      "translatedAnswer": {
+        "en": "universe"
+      },
+      "word": "vũ trụ",
+      "sentence": "Tôi thích nói về ___.",
+      "language": "vi",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T15:33:30.822Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "825c107e-1fb0-48e2-872c-351b0ec8b339"
+  },
+  "exampleSentencesTranslated": [
+    "He is always curious about how the universe was formed.",
+    "She believes that there are many other planets in the universe.",
+    "I like watching movies about the mysteries of the universe."
+  ],
+  "definition": "universe",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:08:09.353Z",
+    "translations": {
+      "es": "universo",
+      "vi": "vũ trụ",
+      "en": "universe"
+    },
+    "example": {
+      "vi": "Vũ trụ rất rộng lớn và bí ẩn.",
+      "es": "El universo es vasto y misterioso.",
+      "en": "The universe is vast and mysterious."
+    },
+    "definitions": {
+      "en": "The universe; all of space and everything in it.",
+      "vi": "Vũ trụ; tất cả không gian và mọi thứ trong đó.",
+      "es": "El universo; todo el espacio y todo lo que hay en él."
+    }
+  },
+  "_id": "fhgHILEbduRmiQyXvHqA"
+}

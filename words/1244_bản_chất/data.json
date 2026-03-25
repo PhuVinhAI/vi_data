@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bản chất",
+    "hiện tượng",
+    "ý nghĩa"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "bản chất",
+      "es": "esencia",
+      "en": "essence"
+    },
+    "example": {
+      "vi": "Bản chất của con người là tốt đẹp.",
+      "es": "La esencia de la humanidad es buena.",
+      "en": "The essence of humanity is good."
+    },
+    "definitions": {
+      "vi": "Bản chất là bản chất nội tại hoặc phẩm chất không thể thiếu của một cái gì đó, đặc biệt là cái gì đó trừu tượng, xác định tính cách của nó.",
+      "en": "The intrinsic nature or indispensable quality of something, especially something abstract, that determines its character.",
+      "es": "La naturaleza intrínseca o calidad indispensable de algo, especialmente algo abstracto, que determina su carácter."
+    },
+    "createdAt": "2025-01-28T13:41:28.285Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh muốn hiểu rõ hơn về bản chất của vấn đề này.",
+    "Dù bề ngoài khác nhau, bản chất của họ rất giống nhau.",
+    "Chị tin rằng bản chất con người là hướng thiện."
+  ],
+  "exampleSentencesTranslated": [
+    "I want to understand the nature of this problem better.",
+    "Although they appear different, their nature is very similar.",
+    "She believes that human nature is to be good."
+  ],
+  "updatedAt": "2026-03-03T08:28:28.103Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Bản chất means the true nature or core of something — what it really is inside, not just how it looks. It’s about the essence.\n\nIt’s a noun. You’ll often see it with “của” to link it to something.  \n\nIt contrasts nicely with bề ngoài (appearance). Think: outside vs. inside.\n\nClose synonym: thực chất (the real situation), but bản chất feels deeper and more fundamental.",
+  "word": "bản chất",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi muốn hiểu ___ của con người.",
+      "choices": [],
+      "word": "bản chất",
+      "answer": "bản chất",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "nature"
+      },
+      "translation": {
+        "en": "I want to understand the nature of humans."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:09:25.759Z",
+    "createdAt": "2025-03-12T16:09:25.759Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "c3a42a77-5e05-4dd3-823b-4563c4cd5d1e"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Bản chất** means the true nature or core of something — what it really is inside, not just how it looks. It’s about the essence.\n\nIt’s a noun. You’ll often see it with **“của”** to link it to something.  \n\nIt contrasts nicely with **bề ngoài** (appearance). Think: *outside vs. inside*.\n\nClose synonym: **thực chất** (the real situation), but *bản chất* feels deeper and more fundamental.",
+  "rank": 1244,
+  "definition": "nature",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:09:25.759Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tính cách của cô ấy thể hiện ___ tốt.",
+      "hint": "b___t",
+      "translation": {
+        "en": "Her personality reflects her nature well."
+      },
+      "translatedAnswer": {
+        "en": "nature"
+      },
+      "language": "vi",
+      "choices": [
+        "bản chất",
+        "hình thức",
+        "tính cách"
+      ],
+      "answer": "bản chất",
+      "word": "bản chất"
+    },
+    "id": "bd2da890-3bce-44e7-837f-e545950c4d34",
+    "createdAt": "2025-03-12T16:09:25.759Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "ommWHJ1VPbBP2EJ0Q6Uv"
+}

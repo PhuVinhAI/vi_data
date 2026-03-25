@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T13:58:00.748Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một thuật ngữ được sử dụng để chỉ danh dự hoặc vinh quang.",
+      "es": "Un término utilizado para denotar honor o gloria.",
+      "en": "A term used to denote honor or glory."
+    },
+    "example": {
+      "es": "Él recibió un gran honor.",
+      "en": "He received a great honor.",
+      "vi": "Anh ấy đã nhận được vinh dự lớn."
+    },
+    "translations": {
+      "vi": "vinh",
+      "en": "glory",
+      "es": "gloria"
+    }
+  },
+  "choices": [
+    "vinh",
+    "vin",
+    "vịnh"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh ấy luôn cố gắng vì vinh của gia đình mình.",
+    "Chúng ta cần làm việc chăm chỉ để đạt được vinh cho đội.",
+    "Cô ấy cảm thấy rất tự hào khi nhận được vinh từ trường."
+  ],
+  "exampleSentencesTranslated": [
+    "He always tries for the glory of his family.",
+    "We need to work hard to achieve glory for the team.",
+    "She feels very proud when she receives glory from the school."
+  ],
+  "updatedAt": "2026-03-03T09:56:45.046Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "vinh = glory, honor — a high, respected status that makes someone proud.\n\nIt’s a noun and usually appears in fixed Sino‑Vietnamese compounds, not alone. Very common pairings: vinh quang (glory), vinh dự (honor), vinh danh (to honor someone), quang vinh (glorious). It’s abstract and uncountable; you normally don’t put a classifier directly before vinh.\n\nStrong memory link: opposite of nhục (shame). Close in meaning to danh dự (honor, reputation).",
+  "word": "vinh",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi muốn trở thành ___ trong cuộc sống.",
+      "translatedAnswer": {
+        "en": "glorious"
+      },
+      "translation": {
+        "en": "I want to become glorious in life."
+      },
+      "choices": [],
+      "word": "vinh",
+      "answer": "vinh",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:27:03.734Z",
+    "createdAt": "2025-03-12T16:27:03.734Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "4e39620a-1003-4bed-ae7b-fc5a0b98e1e8"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2066,
+  "notes_md": "**vinh** = glory, honor — a high, respected status that makes someone proud.\n\nIt’s a noun and usually appears in fixed Sino‑Vietnamese compounds, not alone. Very common pairings: **vinh quang** (glory), **vinh dự** (honor), **vinh danh** (to honor someone), **quang vinh** (glorious). It’s abstract and uncountable; you normally don’t put a classifier directly before *vinh*.\n\nStrong memory link: opposite of **nhục** (shame). Close in meaning to **danh dự** (honor, reputation).",
+  "definition": "glory",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:27:03.734Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "615a18a8-9591-4fa5-9141-48af731287df",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn trở thành ___ trong cuộc sống.",
+      "word": "vinh",
+      "answer": "vinh",
+      "language": "vi",
+      "choices": [
+        "hạnh",
+        "vinh",
+        "đẹp"
+      ],
+      "translation": {
+        "en": "I want to become glorious in life."
+      },
+      "translatedAnswer": {
+        "en": "glorious"
+      },
+      "hint": "v___"
+    },
+    "updatedAt": "2025-03-12T16:27:03.734Z"
+  },
+  "_id": "tDHIe1Lj71PIMDNhiEpU"
+}

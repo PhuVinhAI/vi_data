@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:55:15.305Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "871134f4-7303-4d62-917d-31bd1d80c8a9",
+    "createdAt": "2025-03-12T15:09:40.387Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "đổ",
+      "language": "vi",
+      "word": "đổ",
+      "sentence": "Trời bắt đầu ___ mưa.",
+      "translation": {
+        "en": "It starts to pour rain."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "pour"
+      }
+    },
+    "updatedAt": "2025-03-12T15:09:40.387Z"
+  },
+  "exampleSentencesTranslated": [
+    "Be careful not to spill water on the study table.",
+    "I accidentally spill coffee on the floor this morning.",
+    "If you spill milk, clean it up immediately."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:44:06.295Z",
+    "definitions": {
+      "en": "To pour or to spill.",
+      "es": "Verter o derramar.",
+      "vi": "Đổ hoặc làm tràn."
+    },
+    "example": {
+      "en": "The heavy rain caused water to pour onto the road.",
+      "es": "La fuerte lluvia hizo que el agua se derramara en la carretera.",
+      "vi": "Mưa lớn làm nước đổ xuống đường."
+    },
+    "translations": {
+      "en": "to pour",
+      "es": "verter",
+      "vi": "đổ"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đổ** = to spill (liquid) by accident. It’s used when something falls out and makes a mess.\n\nUse it with liquids or loose things: water, coffee, rice, sand.  \n\nIt also means to pour (intentionally), depending on context.  \nVery common extra meanings: “collapse/fall over” (đổ cây, đổ nhà) and “blame” in **đổ lỗi cho + person** (đổ lỗi cho tôi).\n\nClose contrast: *rơi* = fall/drop (solid object), *đổ* = spill or tip over.",
+  "definition": "spill",
+  "choices": [
+    "đổ",
+    "đặt",
+    "đem"
+  ],
+  "rank": 1489,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "đổ",
+      "language": "vi",
+      "hint": "đ___",
+      "answer": "đổ",
+      "sentence": "Nước sẽ ___ xuống đất.",
+      "translation": {
+        "en": "The water will pour down to the ground."
+      },
+      "translatedAnswer": {
+        "en": "pour"
+      },
+      "choices": [
+        "tràn",
+        "đổ",
+        "rơi"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:09:40.387Z",
+    "createdAt": "2025-03-12T15:09:40.387Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "8a3b1fb8-13ee-4904-8ffa-7c57ebadb581"
+  },
+  "notes": "đổ = to spill (liquid) by accident. It’s used when something falls out and makes a mess.\n\nUse it with liquids or loose things: water, coffee, rice, sand.  \n\nIt also means to pour (intentionally), depending on context.  \nVery common extra meanings: “collapse/fall over” (đổ cây, đổ nhà) and “blame” in đổ lỗi cho + person (đổ lỗi cho tôi).\n\nClose contrast: rơi = fall/drop (solid object), đổ = spill or tip over.",
+  "exampleSentences": [
+    "Em cẩn thận kẻo làm đổ nước lên bàn học nhé.",
+    "Anh vô ý đổ cà phê ra sàn sáng nay.",
+    "Nếu em đổ sữa, hãy lau sạch ngay lập tức."
+  ],
+  "word": "đổ",
+  "_id": "ZdmOweChVzyFsAriRJUT"
+}

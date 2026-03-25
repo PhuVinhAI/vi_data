@@ -1,0 +1,99 @@
+{
+  "word": "cồn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cồn",
+    "muối",
+    "đường"
+  ],
+  "rank": 2780,
+  "notes_md": "**cồn** = alcohol, especially the pure substance used in drinks or for disinfecting.  \n\nIt’s an uncountable noun, so you don’t say *một cồn*; you measure it with words like *chai cồn* (bottle of alcohol) or talk about *nồng độ cồn* (alcohol level). Common pairings: *cồn y tế* (medical alcohol), *đồ uống có cồn* (alcoholic drinks).  \n\nIt often appears in health or driving contexts when talking about alcohol content in the body.  \n\nAnother common meaning is a small sand dune or sandbank (*cồn cát*), especially in geography.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "45a0489b-bc36-447c-a7ad-132bb7772b64",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:25:25.756Z",
+    "content": {
+      "choices": [
+        "nước",
+        "cồn",
+        "đường"
+      ],
+      "sentence": "Tôi cần mua ___ để làm thuốc.",
+      "language": "vi",
+      "word": "cồn",
+      "translatedAnswer": {
+        "en": "alcohol"
+      },
+      "translation": {
+        "en": "I need to buy alcohol to make medicine."
+      },
+      "answer": "cồn",
+      "hint": "c__n"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:25:25.756Z"
+  },
+  "exampleSentences": [
+    "Anh không nên uống quá nhiều cồn vào buổi tối nay.",
+    "Bác sĩ nói chị nên hạn chế sử dụng cồn để bảo vệ sức khỏe.",
+    "Em thấy trong nhà không còn cồn để sát trùng vết thương nữa."
+  ],
+  "updatedAt": "2026-03-03T17:29:51.372Z",
+  "notes": "cồn = alcohol, especially the pure substance used in drinks or for disinfecting.  \n\nIt’s an uncountable noun, so you don’t say một cồn; you measure it with words like chai cồn (bottle of alcohol) or talk about nồng độ cồn (alcohol level). Common pairings: cồn y tế (medical alcohol), đồ uống có cồn (alcoholic drinks).  \n\nIt often appears in health or driving contexts when talking about alcohol content in the body.  \n\nAnother common meaning is a small sand dune or sandbank (cồn cát), especially in geography.",
+  "definition": "alcohol",
+  "flashcard": {
+    "translations": {
+      "en": "alcohol",
+      "es": "alcohol",
+      "vi": "cồn"
+    },
+    "createdAt": "2025-01-28T11:05:53.017Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un líquido incoloro y volátil que es inflamable y se utiliza como disolvente o desinfectante.",
+      "vi": "Một chất lỏng không màu, dễ bay hơi, dễ cháy và được sử dụng làm dung môi hoặc chất sát trùng.",
+      "en": "A colorless volatile liquid that is flammable and used as a solvent or disinfectant."
+    },
+    "example": {
+      "en": "Alcohol is used for disinfection.",
+      "es": "El alcohol se utiliza para desinfectar.",
+      "vi": "Cồn được sử dụng để sát trùng."
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "7aa95c68-1141-44c7-ba0a-7ddb99f12871",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần mua ___ để làm thuốc.",
+      "word": "cồn",
+      "translatedAnswer": {
+        "en": "alcohol"
+      },
+      "translation": {
+        "en": "I need to buy alcohol to make medicine."
+      },
+      "answer": "cồn"
+    },
+    "createdAt": "2025-03-12T13:25:25.756Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T13:25:25.756Z"
+  },
+  "exampleSentencesTranslated": [
+    "You should not drink too much alcohol tonight.",
+    "The doctor said you should limit alcohol to protect your health.",
+    "I see there is no alcohol left at home to disinfect the wound."
+  ],
+  "_id": "9qMBjrKQ5ejtCXqQwL91"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hòn** means a small island (an islet), especially a small piece of land surrounded by water.  \n\nIt’s also a **classifier** for small, solid, round-ish things like stones or lumps. You’ll often see it in combinations like small islands or pieces of rock.  \n\n\nCompared to **đảo** (island), *hòn* feels smaller and more physical—like something you could almost point at and say “that little chunk.”",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hòn",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:11:21.103Z",
+    "createdAt": "2025-03-12T14:11:21.103Z",
+    "id": "e306040c-1ee5-48a3-88a1-3dfa3d98a00b",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "hòn",
+        "viên",
+        "mảnh"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "There is a stone on the table."
+      },
+      "sentence": "Trên bàn có một ___ đá.",
+      "hint": "h___n",
+      "word": "hòn",
+      "answer": "hòn",
+      "translatedAnswer": {
+        "en": "stone"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:11:21.103Z",
+    "createdAt": "2025-03-12T14:11:21.103Z",
+    "id": "70bb94f6-9f82-4bf5-ac84-9d6757d1cce3",
+    "content": {
+      "answer": "hòn",
+      "translatedAnswer": {
+        "en": "stone"
+      },
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "There is a stone on the table."
+      },
+      "sentence": "Trên bàn có một ___ đá.",
+      "word": "hòn"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "islet",
+  "updatedAt": "2026-03-03T11:40:28.751Z",
+  "choices": [
+    "hòn",
+    "bãi",
+    "núi"
+  ],
+  "exampleSentencesTranslated": [
+    "I want to visit an islet offshore this weekend.",
+    "I think that small islet looks beautiful when seen from the beach.",
+    "My family once camped on a very quiet islet."
+  ],
+  "notes": "hòn means a small island (an islet), especially a small piece of land surrounded by water.  \n\nIt’s also a classifier for small, solid, round-ish things like stones or lumps. You’ll often see it in combinations like small islands or pieces of rock.  \n\nCompared to đảo (island), hòn feels smaller and more physical—like something you could almost point at and say “that little chunk.”",
+  "rank": 2725,
+  "flashcard": {
+    "example": {
+      "en": "This stone is very big.",
+      "vi": "Hòn đá này rất lớn.",
+      "es": "Esta piedra es muy grande."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:48:39.518Z",
+    "translations": {
+      "vi": "hòn",
+      "es": "piedra",
+      "en": "stone"
+    },
+    "definitions": {
+      "en": "A small rock or stone.",
+      "es": "Una pequeña roca o piedra.",
+      "vi": "Một viên đá nhỏ."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn đi thăm một hòn ngoài khơi vào cuối tuần này.",
+    "Em thấy hòn nhỏ đó rất đẹp khi nhìn từ bờ biển.",
+    "Gia đình chị từng cắm trại trên một hòn rất yên tĩnh."
+  ],
+  "_id": "L4pUlEGBllTGv4wCfB0E"
+}

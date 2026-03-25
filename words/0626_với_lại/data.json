@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "a04b6639-6d2b-40b2-b31c-66e1d07cec02",
+    "createdAt": "2025-03-12T16:27:58.701Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:27:58.701Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "với lại",
+      "answer": "với lại",
+      "language": "vi",
+      "choices": [
+        "với lại",
+        "và nữa",
+        "cũng như"
+      ],
+      "translation": {
+        "en": "I will go out with coming home."
+      },
+      "translatedAnswer": {
+        "en": "with"
+      },
+      "hint": "v___ lại",
+      "sentence": "Tôi sẽ đi chơi ___ về nhà."
+    }
+  },
+  "definition": "besides",
+  "rank": 626,
+  "notes_md": "**với lại** means “besides,” “and also,” or “on top of that.” It adds an extra reason or extra information to support what you just said.\n\nIt’s a linking phrase, usually placed before a second clause to strengthen your point. It often sounds like you’re piling on another reason.\n\n\nVery close to **hơn nữa** (more formal “moreover”), but **với lại** feels more natural in everyday speech.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:27:58.701Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a8f15105-3a49-4329-a9fe-68790b4bc485",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích ăn phở ___ bún.",
+      "choices": [],
+      "word": "với lại",
+      "language": "vi",
+      "answer": "với lại",
+      "translation": {
+        "en": "I like to eat pho with noodles."
+      },
+      "translatedAnswer": {
+        "en": "with"
+      }
+    },
+    "updatedAt": "2025-03-12T16:27:58.701Z"
+  },
+  "word": "với lại",
+  "notes": "với lại means “besides,” “and also,” or “on top of that.” It adds an extra reason or extra information to support what you just said.\n\nIt’s a linking phrase, usually placed before a second clause to strengthen your point. It often sounds like you’re piling on another reason.\n\nVery close to hơn nữa (more formal “moreover”), but với lại feels more natural in everyday speech.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:24:40.198Z",
+  "exampleSentencesTranslated": [
+    "I don't want to go to the movies, besides I have a lot of work to do.",
+    "I am already full, besides I don't really like this dish.",
+    "She bought this shirt because it's beautiful, besides the price is also cheap."
+  ],
+  "exampleSentences": [
+    "Anh không muốn đi xem phim, với lại anh còn nhiều việc phải làm.",
+    "Em đã ăn no rồi, với lại em không thích món này lắm.",
+    "Chị ấy mua chiếc áo này đẹp, với lại giá cũng rẻ nữa."
+  ],
+  "choices": [
+    "với lại",
+    "bởi vì",
+    "mặc dù"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "es": "Me gusta comer pho con pan.",
+      "en": "I like to eat pho with bread.",
+      "vi": "Tôi thích ăn phở với lại bánh mì."
+    },
+    "translations": {
+      "vi": "và cũng",
+      "es": "y también",
+      "en": "and also"
+    },
+    "definitions": {
+      "es": "se utiliza para agregar información o introducir un punto adicional.",
+      "en": "used to add information or to introduce an additional point.",
+      "vi": "được sử dụng để thêm thông tin hoặc giới thiệu một điểm bổ sung."
+    },
+    "createdAt": "2025-01-28T13:58:48.120Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "tUq0WTjDDH3RiFUSuuSU"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "es": "Un maestro o instructor, a menudo utilizado para referirse a un maestro masculino.",
+      "vi": "Một giáo viên hoặc người hướng dẫn, thường được dùng để chỉ một giáo viên nam.",
+      "en": "A teacher or instructor, often used to refer to a male teacher."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "teacher",
+      "vi": "thầy",
+      "es": "maestro"
+    },
+    "example": {
+      "en": "My teacher is very nice.",
+      "vi": "Thầy giáo của tôi rất tốt.",
+      "es": "Mi maestro es muy amable."
+    },
+    "createdAt": "2025-01-28T11:58:28.383Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, I met my male teacher at the school gate and greeted him.",
+    "I really respect my male teacher because he always helps students in class.",
+    "On Vietnamese Teachers' Day, we give flowers to our male teacher to thank him."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "teacher"
+      },
+      "language": "vi",
+      "sentence": "Em hỏi ___ về bài tập.",
+      "word": "thầy",
+      "hint": "t___",
+      "choices": [
+        "thầy",
+        "cô",
+        "bạn"
+      ],
+      "answer": "thầy",
+      "translation": {
+        "en": "I asked the teacher about the homework."
+      }
+    },
+    "createdAt": "2025-03-12T13:37:18.637Z",
+    "updatedAt": "2025-03-12T13:37:18.637Z",
+    "type": "multiChoiceQuiz",
+    "id": "c48382ca-c8cb-4378-a9ea-34fb8598f4f2",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Thầy** means a male teacher. Students use it to call or talk about their male teacher directly.\n\nIt’s a countable noun: *một thầy, hai thầy*. Often paired with **cô** (female teacher). You’ll also see it in compounds like **thầy giáo** (male teacher), **thầy thuốc** (doctor), **thầy chùa** (monk).\n\nIn class, a male teacher may call himself **thầy** when speaking to students (as a pronoun).",
+  "updatedAt": "2026-03-03T06:50:28.027Z",
+  "notes": "Thầy means a male teacher. Students use it to call or talk about their male teacher directly.\n\nIt’s a countable noun: một thầy, hai thầy. Often paired with cô (female teacher). You’ll also see it in compounds like thầy giáo (male teacher), thầy thuốc (doctor), thầy chùa (monk).\n\nIn class, a male teacher may call himself thầy when speaking to students (as a pronoun).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:37:18.637Z",
+    "content": {
+      "word": "thầy",
+      "sentence": "Em hỏi ___ về bài tập.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "teacher"
+      },
+      "translation": {
+        "en": "I asked the teacher about the homework."
+      },
+      "answer": "thầy",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:37:18.637Z",
+    "type": "fillBlankQuiz",
+    "id": "7f264002-ae09-4ba9-84d2-a290f123a83f",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thầy",
+    "cô",
+    "bác"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "male teacher",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sáng nay, em gặp thầy ở ngoài cổng trường và chào thầy.",
+    "Anh rất kính trọng thầy vì thầy luôn giúp đỡ học sinh trong lớp.",
+    "Ngày Nhà giáo Việt Nam, chúng em tặng hoa cho thầy để cảm ơn thầy."
+  ],
+  "rank": 289,
+  "word": "thầy",
+  "_id": "Con068hiKuJ1MiBJvfvT"
+}

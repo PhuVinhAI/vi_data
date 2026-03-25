@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chị muốn giữ những thông tin này là tư, không chia sẻ với ai.",
+    "Anh ấy có một văn phòng tư ở gần nhà.",
+    "Em cần một không gian tư để học bài hiệu quả hơn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "công",
+    "tư",
+    "chung"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Tôi nghĩ ___ của bạn rất hay.",
+      "translatedAnswer": {
+        "en": "idea"
+      },
+      "answer": "tư",
+      "language": "vi",
+      "word": "tư",
+      "translation": {
+        "en": "I think your idea is very good."
+      }
+    },
+    "id": "34a8bc35-43a8-4b0c-9aae-c6f94ef5badd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:40:59.815Z",
+    "updatedAt": "2025-03-12T15:40:59.815Z"
+  },
+  "rank": 1416,
+  "notes": "tư means private (not public, not shared with everyone). It contrasts strongly with công = public.\n\nIn modern Vietnamese, tư is usually part of compounds, not used alone. You’ll often see it in fixed phrases like tư nhân (private sector) or other formal terms.\n\nAs an adjective idea, it describes things that belong to one person or are not public (business, space, information).  \n\nMemory tip: think tư ↔ công (private ↔ public).",
+  "definition": "private",
+  "notes_md": "**tư** means *private* (not public, not shared with everyone). It contrasts strongly with **công** = public.\n\nIn modern Vietnamese, **tư** is usually part of compounds, not used alone. You’ll often see it in fixed phrases like **tư nhân** (private sector) or other formal terms.\n\nAs an adjective idea, it describes things that belong to one person or are not public (business, space, information).  \n\n\nMemory tip: think **tư ↔ công** (private ↔ public).",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "idea"
+      },
+      "answer": "tư",
+      "hint": "t__",
+      "sentence": "Cô ấy có ___ duy nhất cho vấn đề này.",
+      "choices": [
+        "tư",
+        "cách",
+        "hướng"
+      ],
+      "language": "vi",
+      "word": "tư",
+      "translation": {
+        "en": "She has a unique idea for this issue."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "b75e4202-0bf0-4cd4-a906-c1038d446173",
+    "createdAt": "2025-03-12T15:40:59.815Z",
+    "updatedAt": "2025-03-12T15:40:59.815Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:47:25.174Z",
+  "flashcard": {
+    "translations": {
+      "vi": "tư",
+      "es": "pensar",
+      "en": "think"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "suy nghĩ hoặc phản ánh; xem xét.",
+      "en": "to think or reflect; to consider.",
+      "es": "pensar o reflexionar; considerar."
+    },
+    "createdAt": "2025-01-28T13:14:26.263Z",
+    "example": {
+      "vi": "Tôi tư duy về vấn đề này.",
+      "en": "I think about this issue.",
+      "es": "Pienso en este problema."
+    }
+  },
+  "word": "tư",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She wants to keep this information private, not sharing with anyone.",
+    "He has a private office near his house.",
+    "I need a private space to study more effectively."
+  ],
+  "_id": "hPwrPddOxN7eNB6QbvRc"
+}

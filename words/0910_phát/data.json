@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:41:52.505Z",
+    "content": {
+      "hint": "p___",
+      "translation": {
+        "en": "They want to develop the project."
+      },
+      "answer": "phát",
+      "word": "phát",
+      "choices": [
+        "thực",
+        "phát",
+        "trình"
+      ],
+      "sentence": "Họ muốn ___ triển khai dự án.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "develop"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "a7369608-98ee-41f1-bd71-6b568189e822",
+    "createdAt": "2025-03-12T14:41:52.505Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "phát",
+  "exampleSentencesTranslated": [
+    "I will deliver letters to everyone tomorrow morning.",
+    "The post office worker is delivering the package in front of my house.",
+    "She delivers free bread to the poor every week."
+  ],
+  "rank": 910,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:53:06.847Z",
+  "choices": [
+    "phát",
+    "nhận",
+    "bán"
+  ],
+  "notes": "phát = to deliver or hand out something to people. Think “give out” in an organized way.\n\nIt’s a verb, often used when distributing things: letters, tickets, gifts, food, documents. It also commonly means “to broadcast” (radio, TV) or “to emit” (sound, light).\n\nClose memory link: phát ≈ “distribute”; for casual “give,” use cho, not phát.",
+  "flashcard": {
+    "translations": {
+      "vi": "phát",
+      "en": "to speak",
+      "es": "hablar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "She speaks very confidently.",
+      "vi": "Cô ấy phát biểu rất tự tin.",
+      "es": "Ella habla con mucha confianza."
+    },
+    "definitions": {
+      "es": "hablar o expresar algo, a menudo en un contexto formal.",
+      "en": "to speak or express something, often in a formal context.",
+      "vi": "nói hoặc diễn đạt điều gì đó, thường trong bối cảnh trang trọng."
+    },
+    "createdAt": "2025-01-28T12:17:00.401Z"
+  },
+  "notes_md": "**phát** = to deliver or hand out something to people. Think “give out” in an organized way.\n\nIt’s a verb, often used when distributing things: letters, tickets, gifts, food, documents. It also commonly means “to broadcast” (radio, TV) or “to emit” (sound, light).\n\n\nClose memory link: *phát* ≈ “distribute”; for casual “give,” use **cho**, not *phát*.",
+  "exampleSentences": [
+    "Anh sẽ phát thư cho mọi người vào sáng mai.",
+    "Nhân viên bưu điện đang phát bưu phẩm trước cửa nhà em.",
+    "Chị ấy phát bánh mì miễn phí cho người nghèo mỗi tuần."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:41:52.505Z",
+    "id": "6639f0bd-6b73-4878-bd85-d02c5d547848",
+    "content": {
+      "translatedAnswer": {
+        "en": "develop"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ những ý tưởng mới.",
+      "choices": [],
+      "word": "phát",
+      "answer": "phát",
+      "translation": {
+        "en": "We need to develop new ideas."
+      }
+    },
+    "updatedAt": "2025-03-12T14:41:52.505Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "deliver",
+  "_id": "SO9ytBWKQzOITYNzDq7r"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "urge",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:45:06.375Z",
+    "content": {
+      "sentence": "Tôi ___ làm việc mỗi ngày.",
+      "translatedAnswer": {
+        "en": "urge"
+      },
+      "language": "vi",
+      "answer": "thôi thúc",
+      "translation": {
+        "en": "I urge to work every day."
+      },
+      "choices": [],
+      "word": "thôi thúc"
+    },
+    "id": "a0c70fa1-3feb-45d6-8adc-5f06b0bf0ca0",
+    "createdAt": "2025-03-12T14:45:06.375Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cảm thấy một thôi thúc mạnh mẽ để học tiếng Việt mỗi ngày.",
+    "Chị ấy không thể bỏ qua thôi thúc muốn giúp đỡ người khác.",
+    "Đôi khi em có thôi thúc thử những điều mới mẻ trong cuộc sống."
+  ],
+  "notes_md": "**Thôi thúc** = an inner urge, a strong push from inside to do something. It’s about a feeling that won’t let you stay still.\n\nIt’s usually a **noun**: *một thôi thúc*, *có thôi thúc*, often followed by *muốn + verb*. It describes emotional or moral pressure coming from within, not from other people.\n\nIt can also work like a **verb** meaning “to urge/impel”:  \n\nClose synonym: **thúc đẩy** (more general “to motivate/push forward”), while *thôi thúc* feels more emotional and internal.",
+  "flashcard": {
+    "example": {
+      "es": "El impulso me llevó a actuar de inmediato.",
+      "vi": "Cảm giác thôi thúc khiến tôi phải hành động ngay.",
+      "en": "The urge pushed me to take action immediately."
+    },
+    "createdAt": "2025-01-28T12:19:15.546Z",
+    "definitions": {
+      "es": "Un fuerte deseo o impulso de hacer algo.",
+      "vi": "Một mong muốn hoặc thúc giục mạnh mẽ để làm điều gì đó.",
+      "en": "A strong desire or impulse to do something."
+    },
+    "translations": {
+      "es": "impulso",
+      "vi": "thôi thúc",
+      "en": "urge"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Thôi thúc = an inner urge, a strong push from inside to do something. It’s about a feeling that won’t let you stay still.\n\nIt’s usually a noun: một thôi thúc, có thôi thúc, often followed by muốn + verb. It describes emotional or moral pressure coming from within, not from other people.\n\nIt can also work like a verb meaning “to urge/impel”:  \n\nClose synonym: thúc đẩy (more general “to motivate/push forward”), while thôi thúc feels more emotional and internal.",
+  "choices": [
+    "thôi thúc",
+    "khuyến khích",
+    "bắt đầu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:33:15.975Z",
+  "word": "thôi thúc",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:45:06.375Z",
+    "id": "cd8d3090-c0b5-401b-b5f0-300f34a6f582",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "th___c",
+      "answer": "thôi thúc",
+      "translation": {
+        "en": "The feeling urges me to write books."
+      },
+      "word": "thôi thúc",
+      "choices": [
+        "khuyến khích",
+        "thôi thúc",
+        "tăng cường"
+      ],
+      "translatedAnswer": {
+        "en": "urge"
+      },
+      "language": "vi",
+      "sentence": "Cảm giác ___ tôi viết sách."
+    },
+    "updatedAt": "2025-03-12T14:45:06.375Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He feels a strong urge to learn Vietnamese every day.",
+    "She cannot ignore the urge to help others.",
+    "Sometimes I have the urge to try new things in life."
+  ],
+  "rank": 2660,
+  "_id": "T1rjPqPV0nvinb6qQmm8"
+}

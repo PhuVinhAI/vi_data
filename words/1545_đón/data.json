@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "đem",
+    "đón",
+    "đặt"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:21:35.001Z",
+    "createdAt": "2025-03-12T17:21:35.001Z",
+    "id": "ffc89956-e790-4530-892e-a8a1648da435",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I go pick up the child after school."
+      },
+      "word": "đón",
+      "language": "vi",
+      "sentence": "Tôi đi ___ con sau giờ học.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "pick up"
+      },
+      "answer": "đón"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chiều nay anh sẽ đi đón em ở trường.",
+    "Mẹ nhờ chị đón em trai sau giờ học.",
+    "Bạn có thể đón tôi ở sân bay lúc ba giờ không?"
+  ],
+  "definition": "pick up",
+  "notes": "đón = to pick someone up (go somewhere to meet them and bring them back). It’s about going toward someone/something to receive them.\n\nYou use đón + person (friend, child, guest) or đón + event/time (Tết, năm mới) to mean “welcome/celebrate.” It also works with natural things like đón gió, đón nắng (face/catch the wind or sun).  \n\nClose opposite: tiễn (see someone off).  \nNear synonym: rước (more formal or ceremonial, like weddings or important guests).",
+  "rank": 1545,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "49660792-7cba-45d9-b9ab-57f7804179af",
+    "content": {
+      "choices": [
+        "đón",
+        "mua",
+        "bán"
+      ],
+      "sentence": "Tôi đi ___ con sau giờ học.",
+      "hint": "đ___",
+      "translatedAnswer": {
+        "en": "pick up"
+      },
+      "answer": "đón",
+      "translation": {
+        "en": "I go pick up the child after school."
+      },
+      "word": "đón",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T17:21:35.001Z",
+    "createdAt": "2025-03-12T17:21:35.001Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đón** = to pick someone up (go somewhere to meet them and bring them back). It’s about going toward someone/something to receive them.\n\nYou use **đón + person** (friend, child, guest) or **đón + event/time** (Tết, năm mới) to mean “welcome/celebrate.” It also works with natural things like **đón gió, đón nắng** (face/catch the wind or sun).  \n\nClose opposite: **tiễn** (see someone off).  \nNear synonym: **rước** (more formal or ceremonial, like weddings or important guests).",
+  "exampleSentencesTranslated": [
+    "This afternoon I will go to pick up you at school.",
+    "Mom asked you to pick up little brother after school.",
+    "Can you pick up me at the airport at three o'clock?"
+  ],
+  "word": "đón",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "to pick up",
+      "es": "recoger",
+      "vi": "đón"
+    },
+    "example": {
+      "vi": "Tôi sẽ đón bạn ở sân bay.",
+      "es": "Te recogeré en el aeropuerto.",
+      "en": "I will pick you up at the airport."
+    },
+    "createdAt": "2025-01-28T13:15:59.415Z",
+    "definitions": {
+      "vi": "Nhận hoặc chào đón ai đó, thường là bằng cách đón họ.",
+      "es": "Recibir o dar la bienvenida a alguien, a menudo recogiendo a esa persona.",
+      "en": "To receive or welcome someone, often by picking them up."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:01:24.594Z",
+  "_id": "hutLmoWGt7Dgjloybop7"
+}

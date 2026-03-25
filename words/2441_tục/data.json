@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "They keep traditions in the family."
+      },
+      "answer": "tục",
+      "translatedAnswer": {
+        "en": "traditions"
+      },
+      "language": "vi",
+      "word": "tục",
+      "sentence": "Họ giữ ___ trong gia đình."
+    },
+    "createdAt": "2025-03-12T17:17:04.120Z",
+    "updatedAt": "2025-03-12T17:17:04.120Z",
+    "id": "04ceea20-1855-44f1-9d0e-878e25e0fb14",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "Tục means custom — a traditional practice people follow in a community.  \n\nIt’s a noun. You’ll often see it in set pairs like phong tục (customs, more formal/common), tập tục (traditional practices), and hủ tục (outdated/bad customs). You can say một tục, but in real life people usually say một phong tục.  \n\nVery common second meaning: tục = vulgar / obscene (about language or behavior), like in thô tục (rude, crude) or nói tục (to use swear words).  \n\nStrong contrast to remember: phong tục (neutral/positive tradition) vs hủ tục (negative, backward custom).",
+  "updatedAt": "2026-03-03T10:35:53.014Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:17:04.120Z",
+    "content": {
+      "choices": [
+        "tục",
+        "lễ",
+        "tập"
+      ],
+      "hint": "t___c",
+      "translation": {
+        "en": "They keep traditions in the family."
+      },
+      "answer": "tục",
+      "translatedAnswer": {
+        "en": "traditions"
+      },
+      "sentence": "Họ giữ ___ trong gia đình.",
+      "word": "tục",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T17:17:04.120Z",
+    "type": "multiChoiceQuiz",
+    "id": "717c43cf-3de2-4e04-b53d-1c444cfa1d9b",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Tục** means *custom* — a traditional practice people follow in a community.  \n\nIt’s a noun. You’ll often see it in set pairs like **phong tục** (customs, more formal/common), **tập tục** (traditional practices), and **hủ tục** (outdated/bad customs). You can say *một tục*, but in real life people usually say *một phong tục*.  \n\nVery common second meaning: **tục** = *vulgar / obscene* (about language or behavior), like in **thô tục** (rude, crude) or **nói tục** (to use swear words).  \n\nStrong contrast to remember: **phong tục** (neutral/positive tradition) vs **hủ tục** (negative, backward custom).",
+  "exampleSentencesTranslated": [
+    "In my hometown, there is a very special custom during Tet.",
+    "I like to learn about the custom of different regions.",
+    "Let me tell you about the wedding custom in Vietnam."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:23:13.534Z",
+    "example": {
+      "vi": "Tục lệ này đã tồn tại từ lâu.",
+      "es": "Esta costumbre ha existido durante mucho tiempo.",
+      "en": "This custom has existed for a long time."
+    },
+    "translations": {
+      "vi": "tục",
+      "es": "costumbre",
+      "en": "custom"
+    },
+    "definitions": {
+      "en": "A traditional practice or custom.",
+      "vi": "Một phong tục hoặc tập quán truyền thống.",
+      "es": "Una práctica o costumbre tradicional."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "tục",
+  "exampleSentences": [
+    "Ở quê anh, có một tục rất đặc biệt vào dịp Tết.",
+    "Em thích tìm hiểu về tục của các vùng miền khác nhau.",
+    "Chị kể cho em nghe về tục cưới hỏi ở Việt Nam nhé."
+  ],
+  "rank": 2441,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "custom",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tục",
+    "lễ",
+    "phép"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "EgDQ9A81GxrWGhk2mO2n"
+}

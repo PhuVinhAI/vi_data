@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "quyết",
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "quyết",
+        "tìm",
+        "hỏi"
+      ],
+      "sentence": "Tôi sẽ ___ hành động ngay lập tức.",
+      "language": "vi",
+      "word": "quyết",
+      "translatedAnswer": {
+        "en": "decide"
+      },
+      "translation": {
+        "en": "I will decide to act immediately."
+      },
+      "answer": "quyết",
+      "hint": "q____"
+    },
+    "createdAt": "2025-03-12T15:20:33.995Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6a201067-1cde-44a6-9e60-64ff8231099c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:20:33.995Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2534,
+  "choices": [
+    "quên",
+    "quyết",
+    "quen"
+  ],
+  "notes_md": "**quyết** = to decide, to make up your mind. It’s short and strong — you’ve stopped hesitating.\n\nIt usually goes before another verb: **quyết + V** (quyết làm, quyết đi). It shows firm intention, stronger than just *định* (plan/intend).  \n\nOften appears in set phrases like **quyết tâm** (determination) and **quyết định** (to decide / decision — fuller, more formal form).  \n\nOpposite idea: **do dự** (to hesitate). If you *quyết*, you’re done thinking and ready to act.",
+  "notes": "quyết = to decide, to make up your mind. It’s short and strong — you’ve stopped hesitating.\n\nIt usually goes before another verb: quyết + V (quyết làm, quyết đi). It shows firm intention, stronger than just định (plan/intend).  \n\nOften appears in set phrases like quyết tâm (determination) and quyết định (to decide / decision — fuller, more formal form).  \n\nOpposite idea: do dự (to hesitate). If you quyết, you’re done thinking and ready to act.",
+  "exampleSentences": [
+    "Anh chưa thể quyết nên đi du lịch ở đâu mùa hè này.",
+    "Chị cần thêm thời gian trước khi quyết về công việc mới.",
+    "Em sẽ quyết học tiếng Việt chăm chỉ hơn từ hôm nay."
+  ],
+  "updatedAt": "2026-03-03T10:45:39.216Z",
+  "exampleSentencesTranslated": [
+    "He cannot decide where to travel this summer.",
+    "She needs more time before she can decide about the new job.",
+    "I will decide to study Vietnamese more diligently from today."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:20:33.995Z",
+    "type": "fillBlankQuiz",
+    "id": "8ff0784b-5c05-4f7b-9050-f48f11e41fdd",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ hành động ngay lập tức.",
+      "word": "quyết",
+      "choices": [],
+      "answer": "quyết",
+      "translatedAnswer": {
+        "en": "decide"
+      },
+      "translation": {
+        "en": "I will decide to act immediately."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:20:33.995Z"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "decide",
+      "vi": "quyết định",
+      "es": "decidir"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:55:19.146Z",
+    "definitions": {
+      "vi": "Đưa ra quyết định hoặc sự xác định.",
+      "es": "Tomar una decisión o determinación.",
+      "en": "To make a decision or determination."
+    },
+    "example": {
+      "es": "Decido aprender inglés.",
+      "vi": "Tôi quyết định học tiếng Anh.",
+      "en": "I decide to learn English."
+    }
+  },
+  "definition": "decide",
+  "_id": "cLO7JwUAQCrYSfqCqhqY"
+}

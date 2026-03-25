@@ -1,0 +1,99 @@
+{
+  "definition": "meet",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "gặp gỡ",
+  "rank": 1850,
+  "exampleSentences": [
+    "Chị rất vui khi được gặp gỡ bạn bè cũ vào cuối tuần.",
+    "Anh hy vọng sẽ gặp gỡ nhiều người thú vị tại sự kiện này.",
+    "Sau nhiều năm xa cách, hai người cuối cùng cũng gặp gỡ nhau."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "gặp gỡ",
+    "chia tay",
+    "nói chuyện"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "d413d1f2-e810-449c-8280-b137dcc374e0",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:48:51.766Z",
+    "content": {
+      "choices": [
+        "gặp gỡ",
+        "trò chuyện",
+        "chúc mừng"
+      ],
+      "hint": "g___ g__",
+      "translation": {
+        "en": "They will meet at the party."
+      },
+      "answer": "gặp gỡ",
+      "translatedAnswer": {
+        "en": "meet"
+      },
+      "language": "vi",
+      "sentence": "Họ sẽ ___ trong buổi tiệc.",
+      "word": "gặp gỡ"
+    },
+    "updatedAt": "2025-03-12T13:48:51.766Z"
+  },
+  "notes_md": "**gặp gỡ** means “to meet” or “to get together with” someone, usually in a social or planned way. It feels a bit more intentional and friendly than just **gặp** (which can also mean bump into).\n\nIt’s a verb used with people, not things. You often use it for meeting friends, colleagues, partners, or new people.\n\n\nClose synonym: **gặp** (more neutral, can be accidental).  \nIt suggests interaction and connection, not just seeing someone briefly.",
+  "flashcard": {
+    "definitions": {
+      "en": "To meet or encounter someone.",
+      "es": "Encontrarse o reunirse con alguien.",
+      "vi": "Gặp hoặc gặp gỡ ai đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "Today I will meet with friends.",
+      "es": "Hoy me encontraré con amigos.",
+      "vi": "Hôm nay tôi sẽ gặp gỡ bạn bè."
+    },
+    "createdAt": "2025-01-28T11:27:07.766Z",
+    "translations": {
+      "es": "encontrar",
+      "vi": "gặp gỡ",
+      "en": "meet"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "She is very happy to meet old friends at the weekend.",
+    "He hopes to meet many interesting people at this event.",
+    "After many years apart, the two finally meet each other."
+  ],
+  "notes": "gặp gỡ means “to meet” or “to get together with” someone, usually in a social or planned way. It feels a bit more intentional and friendly than just gặp (which can also mean bump into).\n\nIt’s a verb used with people, not things. You often use it for meeting friends, colleagues, partners, or new people.\n\nClose synonym: gặp (more neutral, can be accidental).  \nIt suggests interaction and connection, not just seeing someone briefly.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:48:51.766Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We will meet next week."
+      },
+      "answer": "gặp gỡ",
+      "translatedAnswer": {
+        "en": "meet"
+      },
+      "sentence": "Chúng ta sẽ ___ vào tuần tới.",
+      "word": "gặp gỡ",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:48:51.766Z",
+    "id": "77702d03-2ec9-42b6-931d-92044d63c58c",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T09:33:45.667Z",
+  "_id": "FZwdJQv6YQ8UE9tcTPtg"
+}

@@ -1,0 +1,104 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I have one cat.",
+      "es": "Tengo un gato.",
+      "vi": "Tôi có một con mèo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:04:06.442Z",
+    "definitions": {
+      "es": "uno; una sola unidad o elemento.",
+      "vi": "một; một đơn vị hoặc vật thể duy nhất.",
+      "en": "one; a single unit or item."
+    },
+    "translations": {
+      "vi": "một",
+      "es": "uno",
+      "en": "one"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có một quyển sách.",
+    "Anh mua một quả táo.",
+    "Chị thấy một con chó."
+  ],
+  "rank": 9,
+  "definition": "one",
+  "sentenceBreakdowns": [
+    "Em (I) + có (have) + một (one) + quyển (classifier) + sách (book)",
+    "Anh (he) + mua (buy) + một (one) + quả (classifier) + táo (apple)",
+    "Chị (she) + thấy (see) + một (one) + con (classifier) + chó (dog)"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi đã đọc ___ cuốn sách.",
+      "word": "một",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I read a book."
+      },
+      "answer": "một",
+      "translatedAnswer": {
+        "en": "a"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "42121c48-8c5d-4af0-bfb7-0991e67e0264",
+    "createdAt": "2025-03-12T14:22:23.666Z",
+    "updatedAt": "2025-03-12T14:22:23.666Z"
+  },
+  "notes": "một = “one.” It’s the number 1, but it also works like “a / an” in English.\n\nYou use một + classifier + noun when counting things.  \n\nIt can also mean “one single” for emphasis (một mình = alone, by oneself). In casual speech, it sometimes softens meaning like “a bit” (một chút = a little).\n\nStrong contrast to remember: một (one) vs hai (two).",
+  "exampleSentencesTranslated": [
+    "I have one book.",
+    "He buys one apple.",
+    "She sees one dog."
+  ],
+  "updatedAt": "2026-03-03T06:03:53.446Z",
+  "choices": [
+    "hai",
+    "ba",
+    "một"
+  ],
+  "notes_md": "**một** = “one.” It’s the number 1, but it also works like “a / an” in English.\n\nYou use **một + classifier + noun** when counting things.  \n\nIt can also mean “one single” for emphasis (một mình = alone, by oneself). In casual speech, it sometimes softens meaning like “a bit” (một chút = a little).\n\nStrong contrast to remember: **một** (one) vs **hai** (two).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "một",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:22:23.666Z",
+    "updatedAt": "2025-03-12T14:22:23.666Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "m___t",
+      "word": "một",
+      "sentence": "Tôi muốn mua ___ chiếc xe.",
+      "translation": {
+        "en": "I want to buy a car."
+      },
+      "language": "vi",
+      "choices": [
+        "một",
+        "hai",
+        "ba"
+      ],
+      "translatedAnswer": {
+        "en": "a"
+      },
+      "answer": "một"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "0bf80d11-9706-41fb-85d5-d5ac9566d32d"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "NbpVhnBp9WGqeLaE3rXR"
+}

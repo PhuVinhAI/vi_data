@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "core"
+      },
+      "answer": "cốt lõi",
+      "hint": "c___l___",
+      "sentence": "Điều này rất ___ cho quyết định.",
+      "choices": [
+        "cốt lõi",
+        "phụ trợ",
+        "bên lề"
+      ],
+      "language": "vi",
+      "word": "cốt lõi",
+      "translation": {
+        "en": "This is very core to the decision."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "fdea22ee-9bb8-4b27-baae-1ff7da949d51",
+    "createdAt": "2025-03-12T15:52:18.743Z",
+    "updatedAt": "2025-03-12T15:52:18.743Z"
+  },
+  "notes_md": "**cốt lõi** = the core, the most important and central part of something.\n\nIt’s a noun phrase, usually not counted. You often use it to talk about the deepest or most essential part of an issue, idea, system, or value.  \n\nIt can also stand before a noun like an adjective: **vấn đề cốt lõi**, **yếu tố cốt lõi**.  \nClose synonyms: **trọng tâm** (main focus), **then chốt** (key/critical — more like “crucial”).",
+  "exampleSentencesTranslated": [
+    "He always believes that family is the core of happiness.",
+    "We should focus on the core of this problem.",
+    "The core value of the company is honesty and respect."
+  ],
+  "word": "cốt lõi",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cốt lõi",
+      "es": "núcleo",
+      "en": "core"
+    },
+    "createdAt": "2025-01-28T13:24:34.106Z",
+    "definitions": {
+      "vi": "Phần thiết yếu hoặc quan trọng nhất của một cái gì đó.",
+      "es": "La parte esencial o más importante de algo.",
+      "en": "The essential or most important part of something."
+    },
+    "example": {
+      "vi": "Giá trị cốt lõi của công ty là sự trung thực.",
+      "en": "The core value of the company is honesty.",
+      "es": "El valor fundamental de la empresa es la honestidad."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:11:55.698Z",
+  "choices": [
+    "cốt lõi",
+    "bắt đầu",
+    "kết quả"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "core"
+      },
+      "answer": "cốt lõi",
+      "choices": [],
+      "sentence": "Đây là ___ của vấn đề.",
+      "word": "cốt lõi",
+      "translation": {
+        "en": "This is the core of the problem."
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "610c232d-3a3f-4dd3-9748-ef355484d730",
+    "createdAt": "2025-03-12T15:52:18.743Z",
+    "updatedAt": "2025-03-12T15:52:18.743Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh luôn tin rằng gia đình là cốt lõi của hạnh phúc.",
+    "Chúng ta nên tập trung vào cốt lõi của vấn đề này.",
+    "Giá trị cốt lõi của công ty là sự trung thực và tôn trọng."
+  ],
+  "definition": "core",
+  "notes": "cốt lõi = the core, the most important and central part of something.\n\nIt’s a noun phrase, usually not counted. You often use it to talk about the deepest or most essential part of an issue, idea, system, or value.  \n\nIt can also stand before a noun like an adjective: vấn đề cốt lõi, yếu tố cốt lõi.  \nClose synonyms: trọng tâm (main focus), then chốt (key/critical — more like “crucial”).",
+  "rank": 1645,
+  "_id": "kAF5NUDmwS15ajVA3vkk"
+}

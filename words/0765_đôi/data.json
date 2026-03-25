@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:38:11.140Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:52:20.747Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "pair"
+      },
+      "sentence": "Tôi có một ___ giày mới.",
+      "word": "đôi",
+      "language": "vi",
+      "choices": [],
+      "answer": "đôi",
+      "translation": {
+        "en": "I have a new pair of shoes."
+      }
+    },
+    "updatedAt": "2025-03-12T13:52:20.747Z",
+    "id": "ccdc6418-9af6-4e66-bfc0-f1104b56c0fd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "đôi means a pair — two things that naturally go together.\n\nIt’s a noun and usually comes before another noun: you count with một đôi, hai đôi….  \n\nUse it for things that come in twos: body parts (đôi mắt, đôi tay) or matching items.  \nIt can also mean a romantic couple (like a boyfriend–girlfriend pair).  \n\nClose word: cặp — also “pair,” but đôi often feels more natural for things that are physically matched or symmetrical.",
+  "exampleSentencesTranslated": [
+    "I just bought a new pair of shoes for work.",
+    "I see a pair of green chopsticks on the table.",
+    "She gave her mother a pair of earrings for her birthday."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi có một đôi giày mới.",
+      "es": "Tengo un par de zapatos nuevos.",
+      "en": "I have a new pair of shoes."
+    },
+    "createdAt": "2025-01-28T11:30:14.251Z",
+    "translations": {
+      "en": "pair",
+      "es": "par",
+      "vi": "đôi"
+    },
+    "definitions": {
+      "en": "A pair; typically used to refer to two items that are used together.",
+      "es": "Un par; típicamente usado para referirse a dos elementos que se utilizan juntos.",
+      "vi": "Một đôi; thường được dùng để chỉ hai vật dụng đi cùng nhau."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:52:20.747Z",
+    "content": {
+      "language": "vi",
+      "word": "đôi",
+      "sentence": "Tôi cần một ___ mắt kính.",
+      "translatedAnswer": {
+        "en": "pair"
+      },
+      "translation": {
+        "en": "I need a pair of glasses."
+      },
+      "answer": "đôi",
+      "hint": "d__i",
+      "choices": [
+        "cặp",
+        "đôi",
+        "bộ"
+      ]
+    },
+    "createdAt": "2025-03-12T13:52:20.747Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "5a4fa8f7-bf22-4f6c-b56e-dbdb3f88fc46",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**đôi** means a *pair* — two things that naturally go together.\n\nIt’s a noun and usually comes before another noun: you count with **một đôi, hai đôi…**.  \n\nUse it for things that come in twos: body parts (đôi mắt, đôi tay) or matching items.  \nIt can also mean a romantic couple (like a boyfriend–girlfriend pair).  \n\nClose word: **cặp** — also “pair,” but *đôi* often feels more natural for things that are physically matched or symmetrical.",
+  "rank": 765,
+  "exampleSentences": [
+    "Anh vừa mua một đôi giày mới để đi làm.",
+    "Em thấy trên bàn có một đôi đũa màu xanh.",
+    "Chị ấy tặng mẹ một đôi hoa tai vào sinh nhật."
+  ],
+  "word": "đôi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "pair",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đôi",
+    "bàn",
+    "cái"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "GOl0GikhsaxiSNAJWgBr"
+}

@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:57:24.748Z",
+    "createdAt": "2025-03-12T13:57:24.748Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "average"
+      },
+      "language": "vi",
+      "sentence": "Điểm số của tôi là ___.",
+      "word": "trung bình",
+      "choices": [
+        "trung bình",
+        "cao",
+        "thấp"
+      ],
+      "hint": "t___n b___n",
+      "translation": {
+        "en": "My score is average."
+      },
+      "answer": "trung bình"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "068924f3-9cd0-410d-8fcd-53b27f86ea94"
+  },
+  "notes_md": "**Trung bình** means *average* — not high, not low, just in the middle. It’s used a lot for scores, prices, level, ability, temperature, income, etc.\n\nAs an adjective, it usually comes **after** the noun: *mức trung bình, điểm trung bình, thu nhập trung bình*.  \nYou’ll often see it in comparisons like *trên trung bình* (above average) and *dưới trung bình* (below average).\n\nIt can also act like a noun in phrases such as *tính trung bình* (calculate the average).\n\nClose opposite to remember: **xuất sắc** (excellent) or **kém** (poor) — “trung bình” sits right in the middle.",
+  "flashcard": {
+    "translations": {
+      "en": "average",
+      "es": "promedio",
+      "vi": "trung bình"
+    },
+    "createdAt": "2025-01-28T11:35:20.306Z",
+    "example": {
+      "vi": "Điểm trung bình của lớp này là 7.5.",
+      "es": "La puntuación promedio de esta clase es 7.5.",
+      "en": "The average score of this class is 7.5."
+    },
+    "definitions": {
+      "es": "Un valor que representa el valor central o típico en un conjunto de datos.",
+      "vi": "Một giá trị đại diện cho giá trị trung tâm hoặc điển hình trong một tập dữ liệu.",
+      "en": "A value that represents the central or typical value in a set of data."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "The class's average result this year is higher than last year.",
+    "I spend an average amount of money each month on food.",
+    "The average temperature here in winter is usually quite cold."
+  ],
+  "notes": "Trung bình means average — not high, not low, just in the middle. It’s used a lot for scores, prices, level, ability, temperature, income, etc.\n\nAs an adjective, it usually comes after the noun: mức trung bình, điểm trung bình, thu nhập trung bình.  \nYou’ll often see it in comparisons like trên trung bình (above average) and dưới trung bình (below average).\n\nIt can also act like a noun in phrases such as tính trung bình (calculate the average).\n\nClose opposite to remember: xuất sắc (excellent) or kém (poor) — “trung bình” sits right in the middle.",
+  "fillBlankQuiz": {
+    "id": "4b0badae-1787-413a-b77c-79c1e5bf92a0",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:57:24.748Z",
+    "content": {
+      "translation": {
+        "en": "My score is average."
+      },
+      "answer": "trung bình",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Điểm số của tôi là ___.",
+      "word": "trung bình",
+      "translatedAnswer": {
+        "en": "average"
+      }
+    },
+    "updatedAt": "2025-03-12T13:57:24.748Z"
+  },
+  "updatedAt": "2026-03-03T09:56:03.519Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "trung bình",
+    "cao nhất",
+    "thấp nhất"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "average",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "trung bình",
+  "exampleSentences": [
+    "Kết quả trung bình của lớp anh năm nay cao hơn năm ngoái.",
+    "Em tiêu khoảng một số tiền trung bình mỗi tháng cho ăn uống.",
+    "Nhiệt độ trung bình ở đây vào mùa đông thường khá lạnh."
+  ],
+  "rank": 2060,
+  "_id": "I7D8U6nQALkcBQxVajOi"
+}

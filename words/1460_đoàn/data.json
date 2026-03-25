@@ -1,0 +1,96 @@
+{
+  "fillBlankQuiz": {
+    "id": "5dd5718e-2efa-40f9-8635-fcac67c351f2",
+    "createdAt": "2025-03-12T16:23:22.248Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:23:22.248Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "đoàn",
+      "word": "đoàn",
+      "translation": {
+        "en": "We need a group to travel."
+      },
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "sentence": "Chúng ta cần một ___ để đi du lịch."
+    }
+  },
+  "word": "đoàn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**đoàn** = a group of people moving or working together, often organized.\n\nIt’s a noun. You usually say **một đoàn + noun** (đoàn khách, đoàn du lịch, đoàn phim). It often implies a larger, more formal or organized group than *nhóm*.\n\nCommon pairings: *đoàn khách* (tour group), *đoàn học sinh*, *đoàn công tác* (work delegation).\n\nClose words: **nhóm** = small group (more casual), **tốp** = small bunch. *Đoàn* feels bigger and more organized.",
+  "rank": 1460,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần một ___ để đi du lịch.",
+      "translatedAnswer": {
+        "en": "group"
+      },
+      "translation": {
+        "en": "We need a group to travel."
+      },
+      "hint": "d___n",
+      "word": "đoàn",
+      "answer": "đoàn",
+      "language": "vi",
+      "choices": [
+        "nhóm",
+        "đoàn",
+        "bạn bè"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:23:22.248Z",
+    "createdAt": "2025-03-12T16:23:22.248Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e6fa9407-fed1-45f2-bde2-25eafaeddb7d"
+  },
+  "definition": "group",
+  "exampleSentences": [
+    "Sáng nay, đoàn học sinh đến thăm bảo tàng cùng cô giáo.",
+    "Anh tham gia một đoàn du lịch để khám phá thành phố mới.",
+    "Cuối tuần này, đoàn của chúng ta sẽ tổ chức dã ngoại ở công viên."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A group of people who go, work, or participate together for a common purpose.",
+      "vi": "Một tập hợp người cùng đi, làm việc hoặc sinh hoạt chung vì một mục đích."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:34:55.959Z",
+    "word": "đoàn",
+    "translations": {
+      "en": "group"
+    },
+    "example": {
+      "en": "A group of students is visiting the museum.",
+      "vi": "Một đoàn học sinh đang tham quan bảo tàng."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đội",
+    "đoàn",
+    "lớp"
+  ],
+  "updatedAt": "2026-03-03T08:51:50.560Z",
+  "exampleSentencesTranslated": [
+    "This morning, the group of students visited the museum with their teacher.",
+    "He joined a group tour to explore the new city.",
+    "This weekend, our group will organize a picnic in the park."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đoàn = a group of people moving or working together, often organized.\n\nIt’s a noun. You usually say một đoàn + noun (đoàn khách, đoàn du lịch, đoàn phim). It often implies a larger, more formal or organized group than nhóm.\n\nCommon pairings: đoàn khách (tour group), đoàn học sinh, đoàn công tác (work delegation).\n\nClose words: nhóm = small group (more casual), tốp = small bunch. Đoàn feels bigger and more organized.",
+  "_id": "sCCD0seCSS8bwZTWjJOj"
+}

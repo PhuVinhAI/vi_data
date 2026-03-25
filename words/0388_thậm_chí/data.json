@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:23:52.742Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy ___ đi học mỗi ngày.",
+      "translation": {
+        "en": "She even goes to school every day."
+      },
+      "translatedAnswer": {
+        "en": "even"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "thậm chí",
+      "word": "thậm chí"
+    },
+    "id": "73b88044-666c-438d-ab11-0ab3b0839ccd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:23:52.742Z"
+  },
+  "word": "thậm chí",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:23:52.742Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2d2959ce-6ad6-4e54-b394-104b2bd3ce6c",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Họ ___ đã hoàn thành bài tập.",
+      "hint": "t___h",
+      "translation": {
+        "en": "They have even completed the homework."
+      },
+      "translatedAnswer": {
+        "en": "even"
+      },
+      "word": "thậm chí",
+      "choices": [
+        "chưa",
+        "thậm chí",
+        "rất"
+      ],
+      "language": "vi",
+      "answer": "thậm chí"
+    },
+    "updatedAt": "2025-03-12T16:23:52.742Z"
+  },
+  "definition": "even",
+  "rank": 388,
+  "notes_md": "**thậm chí** = *even*, used to add something more surprising, extreme, or unexpected.\n\nIt usually comes before the word or phrase you want to emphasize. It often strengthens a comparison or result.\n\n\nYou’ll often see it after phrases like *đến mức* (to the point that) to push the idea further. Think of it as adding an extra “wow, really?” layer.",
+  "updatedAt": "2026-03-03T07:01:02.112Z",
+  "exampleSentencesTranslated": [
+    "He is so busy that he does not even have time for breakfast.",
+    "The weather is so cold today that I even have to wear two jackets.",
+    "She likes reading books so much that she even forgets lunchtime."
+  ],
+  "exampleSentences": [
+    "Anh ấy bận rộn đến mức thậm chí không có thời gian ăn sáng.",
+    "Thời tiết hôm nay lạnh đến mức thậm chí em phải mặc hai áo khoác.",
+    "Chị thích đọc sách đến mức thậm chí quên cả giờ ăn trưa."
+  ],
+  "choices": [
+    "thậm chí",
+    "có lẽ",
+    "bởi vì"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "word": "thậm chí",
+    "createdAt": "2025-05-24T16:35:04.861Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Dùng để nhấn mạnh điều gì đó vượt quá mức bình thường hoặc mong đợi.",
+      "en": "Used to emphasize something that goes beyond what is usual or expected."
+    },
+    "example": {
+      "vi": "Trời mưa rất to, thậm chí có sấm sét.",
+      "en": "It was raining heavily, even with thunder and lightning."
+    },
+    "translations": {
+      "en": "even"
+    }
+  },
+  "notes": "thậm chí = even, used to add something more surprising, extreme, or unexpected.\n\nIt usually comes before the word or phrase you want to emphasize. It often strengthens a comparison or result.\n\nYou’ll often see it after phrases like đến mức (to the point that) to push the idea further. Think of it as adding an extra “wow, really?” layer.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "sHNpUHLovbsAufKURbg0"
+}

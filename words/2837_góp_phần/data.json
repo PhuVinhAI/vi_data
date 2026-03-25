@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:53:43.079Z",
+    "updatedAt": "2025-03-12T12:53:43.079Z",
+    "id": "f89813e8-f67b-4cca-9e99-8b11255bb609",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "góp phần",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "contributes"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This job contributes to the company's growth."
+      },
+      "answer": "góp phần",
+      "sentence": "Công việc này ___ vào sự phát triển của công ty."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T18:02:48.186Z",
+  "exampleSentencesTranslated": [
+    "He wants to contribute to the school's charity project.",
+    "Each member contributes to the overall success.",
+    "She hopes this new idea will contribute to improving the work."
+  ],
+  "notes_md": "**góp phần** = to contribute to something, to play a part in making something happen (usually something positive). It focuses on being one factor among many.\n\nIt’s used for results, changes, success, improvement, development. Softer than **đóng góp** (which feels more direct or concrete, like giving money, effort, or ideas).\n\n\nIt often implies teamwork or shared impact, not doing everything alone.",
+  "word": "góp phần",
+  "notes": "góp phần = to contribute to something, to play a part in making something happen (usually something positive). It focuses on being one factor among many.\n\nIt’s used for results, changes, success, improvement, development. Softer than đóng góp (which feels more direct or concrete, like giving money, effort, or ideas).\n\nIt often implies teamwork or shared impact, not doing everything alone.",
+  "choices": [
+    "góp phần",
+    "tìm kiếm",
+    "giải thích"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn góp phần vào dự án từ thiện của trường.",
+    "Mỗi thành viên đều góp phần tạo nên thành công chung.",
+    "Chị hy vọng ý tưởng mới này sẽ góp phần cải thiện công việc."
+  ],
+  "multiChoiceQuiz": {
+    "id": "f6edc85b-cf4f-40b6-b67f-3a73706703fd",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "góp phần",
+      "sentence": "Dự án này ___ vào sự thành công của nhóm.",
+      "hint": "g___n",
+      "word": "góp phần",
+      "translatedAnswer": {
+        "en": "contributes"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "This project contributes to the team's success."
+      },
+      "choices": [
+        "góp phần",
+        "hỗ trợ",
+        "cản trở"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T12:53:43.079Z",
+    "updatedAt": "2025-03-12T12:53:43.079Z"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Contribuir o jugar un papel en algo.",
+      "vi": "Đóng góp hoặc tham gia vào một cái gì đó.",
+      "en": "To contribute or play a part in something."
+    },
+    "createdAt": "2025-01-28T10:37:49.130Z",
+    "example": {
+      "en": "Everyone contributes to the success of the project.",
+      "vi": "Mỗi người đều góp phần vào sự thành công của dự án.",
+      "es": "Cada persona contribuye al éxito del proyecto."
+    },
+    "translations": {
+      "vi": "góp phần",
+      "en": "to contribute",
+      "es": "contribuir"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "contribute",
+  "rank": 2837,
+  "_id": "1G5gtcw6mEqLWx9aeznF"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "8eb2a72c-4a9e-496e-8bad-2851decc0b90",
+    "content": {
+      "translation": {
+        "en": "We recruit new employees."
+      },
+      "translatedAnswer": {
+        "en": "recruit"
+      },
+      "answer": "tuyển",
+      "choices": [],
+      "word": "tuyển",
+      "language": "vi",
+      "sentence": "Chúng tôi ___ nhân viên mới."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:36:20.289Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:36:20.289Z"
+  },
+  "exampleSentencesTranslated": [
+    "The company is looking to recruit new employees for this position.",
+    "Do you know anywhere that wants to recruit part-time workers?",
+    "She was recruited to the school's football team last year."
+  ],
+  "definition": "recruit",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:10:24.162Z",
+    "translations": {
+      "es": "reclutar",
+      "vi": "tuyển",
+      "en": "recruit"
+    },
+    "example": {
+      "es": "Estoy reclutando personal para la empresa.",
+      "vi": "Tôi đang tuyển nhân viên cho công ty.",
+      "en": "I am recruiting staff for the company."
+    },
+    "definitions": {
+      "en": "To select or recruit someone for a position or role.",
+      "vi": "Chọn hoặc tuyển dụng ai đó cho một vị trí hoặc vai trò.",
+      "es": "Seleccionar o reclutar a alguien para un puesto o rol."
+    }
+  },
+  "notes": "tuyển = to recruit or select someone for a job, team, school, or program. It’s about choosing people to join something.\n\nYou’ll often see it in tuyển dụng (recruit/hire staff) and tuyển sinh (admit students). It focuses on the selection process, not just giving a job.  \n\nClose word: thuê = hire (more about paying someone to work), while tuyển is about choosing the right person.",
+  "exampleSentences": [
+    "Công ty đang tuyển nhân viên mới cho vị trí này.",
+    "Anh biết chỗ nào đang tuyển nhân viên làm bán thời gian không?",
+    "Chị ấy đã được tuyển vào đội bóng của trường năm ngoái."
+  ],
+  "updatedAt": "2026-03-03T09:37:15.011Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:36:20.289Z",
+    "content": {
+      "choices": [
+        "tuyển",
+        "đào tạo",
+        "học tập"
+      ],
+      "word": "tuyển",
+      "language": "vi",
+      "sentence": "Họ đang ___ sinh viên cho khóa học.",
+      "translation": {
+        "en": "They are recruiting students for the course."
+      },
+      "translatedAnswer": {
+        "en": "recruiting"
+      },
+      "hint": "t____",
+      "answer": "tuyển"
+    },
+    "id": "8d23d5ca-5e23-4416-8c35-32897b7a267a",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:36:20.289Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "tuyển",
+    "học",
+    "giới thiệu"
+  ],
+  "rank": 1883,
+  "notes_md": "**tuyển** = to recruit or select someone for a job, team, school, or program. It’s about choosing people to join something.\n\nYou’ll often see it in **tuyển dụng** (recruit/hire staff) and **tuyển sinh** (admit students). It focuses on the selection process, not just giving a job.  \n\n\nClose word: **thuê** = hire (more about paying someone to work), while **tuyển** is about choosing the right person.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tuyển",
+  "_id": "gGMzqRArtth2aChxhNey"
+}

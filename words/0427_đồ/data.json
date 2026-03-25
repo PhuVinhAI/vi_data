@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "c50e89d2-c71f-4e01-a2d0-b9a2198769be",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi thích cái ___ này.",
+      "word": "đồ",
+      "translatedAnswer": {
+        "en": "item"
+      },
+      "translation": {
+        "en": "I like this item."
+      },
+      "answer": "đồ",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:57:29.639Z",
+    "updatedAt": "2025-03-12T13:57:29.639Z"
+  },
+  "notes": "đồ means “thing(s)” or “stuff.” It’s very general and used when you don’t want to name the specific item.\n\nIt’s an uncountable-feeling noun, but you usually use the classifier cái when counting: một cái đồ (rare alone), more natural is mấy cái đồ, nhiều đồ.  \nCommon pairings: đồ ăn (food), đồ uống (drinks), đồ dùng (items for use), đồ đạc (belongings, stuff in general).  \n\nStrong memory link: đồ đạc = a bunch of stuff, often personal belongings.",
+  "updatedAt": "2026-03-03T07:05:00.742Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "đồ",
+      "sentence": "Tôi cần mua ___ cho bữa tối.",
+      "translatedAnswer": {
+        "en": "items"
+      },
+      "translation": {
+        "en": "I need to buy items for dinner."
+      },
+      "answer": "đồ",
+      "hint": "đ___",
+      "choices": [
+        "đồ",
+        "thức ăn",
+        "nước uống"
+      ]
+    },
+    "createdAt": "2025-03-12T13:57:29.639Z",
+    "updatedAt": "2025-03-12T13:57:29.639Z",
+    "id": "45ef7e08-4297-4085-b2d9-7a8b07901dc3",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**đồ** means “thing(s)” or “stuff.” It’s very general and used when you don’t want to name the specific item.\n\nIt’s an uncountable-feeling noun, but you usually use the classifier **cái** when counting: *một cái đồ* (rare alone), more natural is **mấy cái đồ**, **nhiều đồ**.  \nCommon pairings: **đồ ăn** (food), **đồ uống** (drinks), **đồ dùng** (items for use), **đồ đạc** (belongings, stuff in general).  \n\nStrong memory link: **đồ đạc** = a bunch of stuff, often personal belongings.",
+  "exampleSentencesTranslated": [
+    "Can you help me carry these thing to the room?",
+    "She forgot some important thing at home so she had to go back.",
+    "I like to buy thing at the market because there are many options."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "An item or object, often used to refer to things in general.",
+      "vi": "Một vật hoặc đồ vật, thường được dùng để chỉ những thứ nói chung.",
+      "es": "Un artículo u objeto, a menudo utilizado para referirse a cosas en general."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "object",
+      "vi": "đồ",
+      "es": "objeto"
+    },
+    "createdAt": "2025-01-28T11:35:24.641Z",
+    "example": {
+      "en": "This object is very beautiful.",
+      "vi": "Cái đồ này rất đẹp.",
+      "es": "Este objeto es muy bonito."
+    }
+  },
+  "word": "đồ",
+  "rank": 427,
+  "exampleSentences": [
+    "Anh có thể giúp em mang mấy cái đồ này lên phòng không?",
+    "Chị để quên một số đồ quan trọng ở nhà nên phải quay lại.",
+    "Em thích mua đồ ở chợ vì ở đó có nhiều lựa chọn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "thing",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đồ",
+    "món",
+    "bàn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "I7Q1Q6IGFTCRbVMtvW94"
+}

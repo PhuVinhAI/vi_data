@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "công khai",
+    "riêng tư",
+    "chính thức"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "private",
+  "word": "riêng tư",
+  "exampleSentences": [
+    "Anh cần một không gian riêng tư để làm việc hiệu quả hơn.",
+    "Chị không thích chia sẻ chuyện riêng tư với người lạ.",
+    "Em luôn giữ thông tin cá nhân của mình rất riêng tư."
+  ],
+  "rank": 2390,
+  "notes_md": "**riêng tư** = private; not for other people to see, hear, or know. It’s about personal space, information, or moments.\n\nIt’s an **adjective**, so it comes after the noun: *không gian riêng tư*, *cuộc sống riêng tư*, *thông tin riêng tư*. Very often used with *quyền* → *quyền riêng tư* (right to privacy).\n\nClose meaning: *cá nhân* (personal), but *cá nhân* is more “individual,” while *riêng tư* stresses privacy. Opposite idea: *công khai* (public).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:54:40.031Z",
+    "createdAt": "2025-03-12T13:54:40.031Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "private"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần không gian ___.",
+      "word": "riêng tư",
+      "choices": [
+        "công cộng",
+        "riêng tư",
+        "mở rộng"
+      ],
+      "hint": "r___ t__",
+      "translation": {
+        "en": "I need private space."
+      },
+      "answer": "riêng tư"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "c2fb45d2-76d9-4ea9-8aac-91d20471c88d",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I need a private space to work more effectively.",
+    "I do not like to share private matters with strangers.",
+    "I always keep my personal information private."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need a private space to work.",
+      "vi": "Tôi cần một không gian riêng tư để làm việc.",
+      "es": "Necesito un espacio privado para trabajar."
+    },
+    "createdAt": "2025-01-28T11:32:25.950Z",
+    "translations": {
+      "es": "privado",
+      "vi": "riêng tư",
+      "en": "private"
+    },
+    "definitions": {
+      "en": "Relating to personal privacy or confidentiality.",
+      "vi": "Liên quan đến sự riêng tư hoặc bảo mật cá nhân.",
+      "es": "Relativo a la privacidad o confidencialidad personal."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "answer": "riêng tư",
+      "translation": {
+        "en": "I need private space."
+      },
+      "translatedAnswer": {
+        "en": "private"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần không gian ___.",
+      "word": "riêng tư"
+    },
+    "createdAt": "2025-03-12T13:54:40.031Z",
+    "updatedAt": "2025-03-12T13:54:40.031Z",
+    "type": "fillBlankQuiz",
+    "id": "7ecc93aa-c5d2-4ddc-8a6a-ce8051f24dd0",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "riêng tư = private; not for other people to see, hear, or know. It’s about personal space, information, or moments.\n\nIt’s an adjective, so it comes after the noun: không gian riêng tư, cuộc sống riêng tư, thông tin riêng tư. Very often used with quyền → quyền riêng tư (right to privacy).\n\nClose meaning: cá nhân (personal), but cá nhân is more “individual,” while riêng tư stresses privacy. Opposite idea: công khai (public).",
+  "updatedAt": "2026-03-03T10:30:38.527Z",
+  "_id": "HJozFLfMRpvNH9CeDjv1"
+}

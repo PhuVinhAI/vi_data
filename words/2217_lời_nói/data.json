@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh luôn cẩn thận với lời nói khi giao tiếp với khách hàng.",
+    "Chị ấy cảm thấy buồn vì những lời nói của bạn hôm qua.",
+    "Em nên giữ lời nói nhẹ nhàng để tránh làm người khác buồn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "lời nói",
+    "bức tranh",
+    "câu hỏi"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:50:23.743Z",
+    "updatedAt": "2025-03-12T15:50:23.743Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Her words are very kind."
+      },
+      "word": "lời nói",
+      "answer": "lời nói",
+      "translatedAnswer": {
+        "en": "words"
+      },
+      "choices": [],
+      "sentence": "Lời nói của cô ấy rất ___."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "887bd744-e025-49f7-a08d-6f221910576e"
+  },
+  "rank": 2217,
+  "notes": "lời nói = words, what someone says (spoken words, not writing).\n\nIt’s a noun. Usually uncountable in meaning, but you often see những lời nói when talking about specific things said. Common pairings: giữ lời nói, nghe lời nói, tin lời nói, làm tổn thương bằng lời nói.  \n\nClose to lời or câu nói, but lời nói feels a bit broader. Often contrasted with hành động (actions) — words vs. actions.",
+  "definition": "words",
+  "notes_md": "**lời nói** = words, what someone says (spoken words, not writing).\n\nIt’s a noun. Usually uncountable in meaning, but you often see **những lời nói** when talking about specific things said. Common pairings: *giữ lời nói*, *nghe lời nói*, *tin lời nói*, *làm tổn thương bằng lời nói*.  \n\n\nClose to **lời** or **câu nói**, but *lời nói* feels a bit broader. Often contrasted with **hành động** (actions) — words vs. actions.",
+  "multiChoiceQuiz": {
+    "id": "9b22c918-b632-4428-a592-137eb02287cd",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Lời nói của cô ấy rất ___.",
+      "choices": [
+        "lời nói",
+        "lời nóis",
+        "LỜI NÓI"
+      ],
+      "hint": "l___i",
+      "translatedAnswer": {
+        "en": "words"
+      },
+      "answer": "lời nói",
+      "word": "lời nói",
+      "translation": {
+        "en": "Her words are very kind."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:50:23.743Z",
+    "createdAt": "2025-03-12T15:50:23.743Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:12:39.576Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một biểu hiện hoặc tuyên bố bằng lời nói.",
+      "en": "A spoken expression or statement.",
+      "es": "Una expresión o declaración hablada."
+    },
+    "createdAt": "2025-01-28T13:22:52.273Z",
+    "example": {
+      "en": "His words are very sincere.",
+      "es": "Sus palabras son muy sinceras.",
+      "vi": "Lời nói của anh ấy rất chân thành."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "words",
+      "es": "palabras",
+      "vi": "lời nói"
+    }
+  },
+  "word": "lời nói",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He is always careful with his words when communicating with customers.",
+    "She felt sad because of your words yesterday.",
+    "You should keep your words gentle to avoid making others sad."
+  ],
+  "_id": "jfSC03QIzS1dUtb32ps5"
+}

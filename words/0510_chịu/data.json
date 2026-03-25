@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chịu",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:07:30.668Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi không ___ nổi áp lực.",
+      "choices": [],
+      "word": "chịu",
+      "language": "vi",
+      "answer": "chịu",
+      "translation": {
+        "en": "I cannot bear the pressure."
+      },
+      "translatedAnswer": {
+        "en": "bear"
+      }
+    },
+    "id": "40bd5dd0-eb79-4456-9388-e0dedb31a6aa",
+    "createdAt": "2025-03-12T16:07:30.668Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "accept",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy rất ___ với mọi người.",
+      "hint": "c__u",
+      "translation": {
+        "en": "She is very tolerant with everyone."
+      },
+      "translatedAnswer": {
+        "en": "tolerant"
+      },
+      "word": "chịu",
+      "choices": [
+        "chịu",
+        "khó",
+        "dễ"
+      ],
+      "language": "vi",
+      "answer": "chịu"
+    },
+    "updatedAt": "2025-03-12T16:07:30.668Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:07:30.668Z",
+    "id": "d6fe8dba-7206-4083-99e1-cdca04d212cf"
+  },
+  "notes_md": "**chịu** = to accept, to agree to do something, or to endure/suffer something. It often implies you’re not super happy about it, but you go along with it.\n\nVery common pattern for willingness:  \n`Structure: chịu + V` (chịu đi, chịu thử) → be willing to do something.  \nWith **không**, it often means refuse.\n\nIt also means “endure / stand” something physical or emotional.  \n`Structure: chịu được + N/V` (chịu được đau) → can stand / tolerate.\n\nStrong memory link: **đồng ý** (agree) is more neutral; **từ chối** (refuse) is the clear opposite of *chịu*.",
+  "rank": 510,
+  "exampleSentencesTranslated": [
+    "He does not want to accept responsibility for this.",
+    "If you do not accept studying, the results will not be good.",
+    "Parents always hope their children accept working hard."
+  ],
+  "updatedAt": "2026-03-03T07:13:16.548Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chịu",
+    "giỏi",
+    "thích"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:39:18.456Z",
+    "definitions": {
+      "en": "To bear, to endure, or to take responsibility.",
+      "es": "Soportar, aguantar o asumir responsabilidad.",
+      "vi": "Chịu đựng, gánh vác hoặc đảm nhận trách nhiệm."
+    },
+    "translations": {
+      "vi": "chịu đựng, gánh vác, đảm nhận trách nhiệm",
+      "en": "to bear, to endure, to take responsibility",
+      "es": "soportar, aguantar, asumir responsabilidad"
+    },
+    "example": {
+      "vi": "Tôi chịu trách nhiệm cho dự án này.",
+      "en": "I take responsibility for this project.",
+      "es": "Yo asumo la responsabilidad de este proyecto."
+    }
+  },
+  "exampleSentences": [
+    "Anh không muốn chịu trách nhiệm về việc này đâu.",
+    "Nếu em không chịu học, kết quả sẽ không tốt đâu.",
+    "Bố mẹ luôn mong con chịu khó làm việc chăm chỉ."
+  ],
+  "notes": "chịu = to accept, to agree to do something, or to endure/suffer something. It often implies you’re not super happy about it, but you go along with it.\n\nVery common pattern for willingness:  \nStructure: chịu + V (chịu đi, chịu thử) → be willing to do something.  \nWith không, it often means refuse.\n\nIt also means “endure / stand” something physical or emotional.  \nStructure: chịu được + N/V (chịu được đau) → can stand / tolerate.\n\nStrong memory link: đồng ý (agree) is more neutral; từ chối (refuse) is the clear opposite of chịu.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "oDu4uyXhlRd7nCgsGZTd"
+}

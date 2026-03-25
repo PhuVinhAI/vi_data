@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:15:58.139Z",
+    "id": "7d26a453-b0e2-4c80-bf05-e0c5b2abb4d1",
+    "createdAt": "2025-03-12T15:15:58.139Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "q___t",
+      "answer": "quan trọng",
+      "translatedAnswer": {
+        "en": "important"
+      },
+      "translation": {
+        "en": "The scores are important in applying for scholarships."
+      },
+      "sentence": "Điểm số ___ trong việc xin học bổng.",
+      "language": "vi",
+      "word": "quan trọng",
+      "choices": [
+        "cần thiết",
+        "quan trọng",
+        "bất tận"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "quan trọng",
+    "vui vẻ",
+    "dễ dàng"
+  ],
+  "rank": 179,
+  "notes_md": "**Quan trọng** means *important* or *serious* — something that really matters or has big impact.  \n\nIt’s an adjective, so it goes after the noun: *việc quan trọng, quyết định quan trọng, vấn đề quan trọng*. You can modify it with degree words like *rất, khá, cực kỳ*.  \n\nYou’ll often hear it in priorities: *quan trọng nhất* (the most important).  \n\nCommon opposite: *không quan trọng* or *nhỏ nhặt* (trivial).  \n\nMore formal synonym: *trọng yếu* (used in serious or official contexts).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "quan trọng",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:15:58.139Z",
+    "id": "f68de53d-7d22-4ea4-8270-3c25e3e0f9f8",
+    "content": {
+      "answer": "quan trọng",
+      "translatedAnswer": {
+        "en": "important"
+      },
+      "translation": {
+        "en": "This is very important to me."
+      },
+      "language": "vi",
+      "sentence": "Điều này rất ___ đối với tôi.",
+      "word": "quan trọng",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:15:58.139Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I think health is the most important thing in life.",
+    "I have an important meeting tomorrow morning so I need to prepare carefully.",
+    "She always reminds me to pay attention to important things at school."
+  ],
+  "definition": "important",
+  "flashcard": {
+    "createdAt": "2025-05-24T16:24:04.128Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "important"
+    },
+    "example": {
+      "en": "Family is very important to me.",
+      "vi": "Gia đình rất quan trọng đối với tôi."
+    },
+    "definitions": {
+      "en": "Having great value or significance; important.",
+      "vi": "Có giá trị lớn hoặc ảnh hưởng lớn đến điều gì đó."
+    },
+    "word": "quan trọng"
+  },
+  "notes": "Quan trọng means important or serious — something that really matters or has big impact.  \n\nIt’s an adjective, so it goes after the noun: việc quan trọng, quyết định quan trọng, vấn đề quan trọng. You can modify it with degree words like rất, khá, cực kỳ.  \n\nYou’ll often hear it in priorities: quan trọng nhất (the most important).  \n\nCommon opposite: không quan trọng or nhỏ nhặt (trivial).  \n\nMore formal synonym: trọng yếu (used in serious or official contexts).",
+  "exampleSentences": [
+    "Em nghĩ sức khỏe là điều quan trọng nhất trong cuộc sống.",
+    "Anh có một cuộc họp quan trọng vào sáng mai nên phải chuẩn bị kỹ.",
+    "Chị luôn nhắc em phải chú ý đến những việc quan trọng ở trường."
+  ],
+  "updatedAt": "2026-03-03T06:38:36.247Z",
+  "_id": "bFZ30u3kqcX9UzTRZkY9"
+}

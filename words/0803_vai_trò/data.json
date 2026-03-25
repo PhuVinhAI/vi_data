@@ -1,0 +1,99 @@
+{
+  "rank": 803,
+  "exampleSentences": [
+    "Mỗi thành viên trong nhóm đều có vai trò quan trọng riêng.",
+    "Anh muốn biết vai trò của mình trong dự án này là gì.",
+    "Chị ấy đảm nhận vai trò trưởng nhóm trong công ty."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The function or position that someone or something has in a situation, organization, or society.",
+      "es": "La función o posición que alguien o algo tiene en una situación, organización o sociedad.",
+      "vi": "Chức năng hoặc vị trí mà ai đó hoặc cái gì đó có trong một tình huống, tổ chức hoặc xã hội."
+    },
+    "translations": {
+      "vi": "vai trò",
+      "es": "papel",
+      "en": "role"
+    },
+    "createdAt": "2025-01-28T11:48:03.968Z",
+    "example": {
+      "en": "Everyone has an important role in the team.",
+      "es": "Cada persona tiene un papel importante en el equipo.",
+      "vi": "Mỗi người đều có vai trò quan trọng trong nhóm."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:10:51.595Z",
+    "createdAt": "2025-03-12T14:10:51.595Z",
+    "id": "f7053a6d-bb2a-4171-9cc2-ce6fdbb917a1",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "vai trò",
+        "trách nhiệm",
+        "nhiệm vụ"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "She wants to know her role."
+      },
+      "sentence": "Cô ấy muốn biết ___ của mình.",
+      "hint": "v__ r__",
+      "word": "vai trò",
+      "answer": "vai trò",
+      "translatedAnswer": {
+        "en": "role"
+      }
+    }
+  },
+  "word": "vai trò",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Vai trò** means *role* — the function or position someone or something has in a group, situation, or system.\n\nIt’s a noun. You often use it with **đóng vai trò** (to play a role) or **có vai trò** (to have a role).  \n\nCommon pairings: **vai trò quan trọng**, **vai trò chính**, **vai trò lãnh đạo**.  \nClose synonym: **chức năng** (function) — but *vai trò* is more about position or responsibility, while *chức năng* is about purpose or function.",
+  "choices": [
+    "vai trò",
+    "kết quả",
+    "thời gian"
+  ],
+  "updatedAt": "2026-03-03T07:41:56.223Z",
+  "exampleSentencesTranslated": [
+    "Each member in the group has an important role.",
+    "I want to know what my role in this project is.",
+    "She takes on the role of team leader in the company."
+  ],
+  "notes": "Vai trò means role — the function or position someone or something has in a group, situation, or system.\n\nIt’s a noun. You often use it with đóng vai trò (to play a role) or có vai trò (to have a role).  \n\nCommon pairings: vai trò quan trọng, vai trò chính, vai trò lãnh đạo.  \nClose synonym: chức năng (function) — but vai trò is more about position or responsibility, while chức năng is about purpose or function.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "He has an important role in the group."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "vai trò",
+      "sentence": "Anh ấy có ___ quan trọng trong nhóm.",
+      "translatedAnswer": {
+        "en": "role"
+      },
+      "answer": "vai trò"
+    },
+    "type": "fillBlankQuiz",
+    "id": "ba1c7307-a1e8-4918-8081-a8cbd3007c72",
+    "createdAt": "2025-03-12T14:10:51.595Z",
+    "updatedAt": "2025-03-12T14:10:51.595Z"
+  },
+  "definition": "role",
+  "_id": "KyJS31UbLez8pLzu7B0E"
+}

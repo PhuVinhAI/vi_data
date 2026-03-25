@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "I need to check the product catalog.",
+      "vi": "Tôi cần xem danh mục sản phẩm mới.",
+      "es": "Necesito revisar el catálogo de productos."
+    },
+    "createdAt": "2025-01-28T12:20:14.526Z",
+    "definitions": {
+      "en": "A list or catalog of items or categories.",
+      "vi": "Một danh sách hoặc catalog các mục hoặc danh mục.",
+      "es": "Una lista o catálogo de artículos o categorías."
+    },
+    "translations": {
+      "es": "catálogo",
+      "en": "catalog",
+      "vi": "danh mục"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**Danh mục** = a list, usually organized by category (more structured than a simple list).\n\nIt’s a noun. You can say *một danh mục*, *các danh mục*. It’s often followed by what it contains: *danh mục sản phẩm*, *danh mục đầu tư*, *danh mục tài liệu*.  \n\nCompared to **danh sách** (list), *danh mục* sounds more formal and organized, like items grouped into sections.",
+  "exampleSentences": [
+    "Chị đã chuẩn bị một danh mục các sản phẩm mới cho cửa hàng.",
+    "Anh muốn xem danh mục các khóa học tiếng Anh tại trung tâm này.",
+    "Em cần cập nhật danh mục sách trong thư viện cho hợp lý hơn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi cần xem ___ mới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "catalog"
+      },
+      "translation": {
+        "en": "I need to see the new catalog."
+      },
+      "answer": "danh mục",
+      "choices": [],
+      "word": "danh mục"
+    },
+    "updatedAt": "2025-03-12T14:46:00.879Z",
+    "type": "fillBlankQuiz",
+    "id": "567b50a8-a6ac-4abc-a9b7-6c74667896b3",
+    "createdAt": "2025-03-12T14:46:00.879Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "list",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "catalog"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần xem ___ trên trang web.",
+      "word": "danh mục",
+      "choices": [
+        "danh mục",
+        "sản phẩm",
+        "giá cả"
+      ],
+      "hint": "d___c",
+      "answer": "danh mục",
+      "translation": {
+        "en": "I need to see the catalog on the website."
+      }
+    },
+    "updatedAt": "2025-03-12T14:46:00.879Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:46:00.879Z",
+    "id": "4295f194-ba65-4c42-8844-7d9e2dbcd5d6"
+  },
+  "word": "danh mục",
+  "rank": 1881,
+  "exampleSentencesTranslated": [
+    "She has prepared a list of new products for the store.",
+    "He wants to see the list of English courses at this center.",
+    "I need to update the list of books in the library to make it more reasonable."
+  ],
+  "updatedAt": "2026-03-03T09:37:00.588Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "danh mục",
+    "bảng giá",
+    "thông báo"
+  ],
+  "notes": "Danh mục = a list, usually organized by category (more structured than a simple list).\n\nIt’s a noun. You can say một danh mục, các danh mục. It’s often followed by what it contains: danh mục sản phẩm, danh mục đầu tư, danh mục tài liệu.  \n\nCompared to danh sách (list), danh mục sounds more formal and organized, like items grouped into sections.",
+  "_id": "THof2j2UDipqSmA43pge"
+}

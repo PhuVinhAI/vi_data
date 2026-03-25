@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nơi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "nơi",
+      "hint": "n__i",
+      "translatedAnswer": {
+        "en": "place"
+      },
+      "translation": {
+        "en": "We will meet at this place."
+      },
+      "sentence": "Chúng ta sẽ gặp nhau ở ___ này.",
+      "language": "vi",
+      "word": "nơi",
+      "choices": [
+        "địa điểm",
+        "nơi",
+        "khu vực"
+      ]
+    },
+    "createdAt": "2025-03-12T13:12:56.825Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "aea2a246-d5f1-46b3-bfb9-2094409bc622",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:12:56.825Z"
+  },
+  "choices": [
+    "nơi",
+    "người",
+    "nước"
+  ],
+  "rank": 259,
+  "notes_md": "**nơi** means *place* or *location*. It’s a general word for somewhere, not specific like “house” or “city.”\n\nIt’s a noun and often pairs with adjectives to describe the type of place. You’ll also see it with question words to ask about locations. Compared to **chỗ**, *nơi* feels a bit more neutral or slightly formal, while *chỗ* is more casual and concrete.",
+  "notes": "nơi means place or location. It’s a general word for somewhere, not specific like “house” or “city.”\n\nIt’s a noun and often pairs with adjectives to describe the type of place. You’ll also see it with question words to ask about locations. Compared to chỗ, nơi feels a bit more neutral or slightly formal, while chỗ is more casual and concrete.",
+  "exampleSentences": [
+    "Anh muốn tìm một nơi yên tĩnh để học bài vào buổi tối.",
+    "Chị có biết nơi nào bán cà phê ngon gần đây không?",
+    "Em nghĩ đây là nơi đẹp nhất mà em từng đến."
+  ],
+  "updatedAt": "2026-03-03T06:46:50.488Z",
+  "exampleSentencesTranslated": [
+    "He wants to find a quiet place to study at night.",
+    "Do you know any place that sells good coffee nearby?",
+    "I think this is the most beautiful place I have ever been to."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:12:56.825Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "nơi",
+      "translation": {
+        "en": "We will meet at this place."
+      },
+      "translatedAnswer": {
+        "en": "place"
+      },
+      "word": "nơi",
+      "sentence": "Chúng ta sẽ gặp nhau ở ___ này.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "0b76da6d-ce18-430b-ac0e-3adc7eea6844",
+    "updatedAt": "2025-03-12T13:12:56.825Z"
+  },
+  "definition": "place",
+  "flashcard": {
+    "definitions": {
+      "es": "Un lugar o sitio.",
+      "vi": "Một địa điểm hoặc chỗ.",
+      "en": "A location or place."
+    },
+    "example": {
+      "en": "This is the place where I live.",
+      "es": "Este es el lugar donde vivo.",
+      "vi": "Đây là nơi tôi sống."
+    },
+    "translations": {
+      "en": "place",
+      "vi": "nơi",
+      "es": "lugar"
+    },
+    "createdAt": "2025-01-28T10:54:09.141Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "6CmLiwvdebGr5uTapkvT"
+}

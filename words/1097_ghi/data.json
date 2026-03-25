@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:36:51.371Z",
+    "definitions": {
+      "en": "To write down or record something.",
+      "es": "Escribir o registrar algo.",
+      "vi": "Ghi lại hoặc ghi chép điều gì đó."
+    },
+    "example": {
+      "en": "I will write down all the important information.",
+      "es": "Voy a anotar toda la información importante.",
+      "vi": "Tôi sẽ ghi lại tất cả thông tin quan trọng."
+    },
+    "translations": {
+      "en": "write",
+      "es": "escribir",
+      "vi": "ghi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:12:53.058Z",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "write"
+      },
+      "translation": {
+        "en": "I want to write down the information."
+      },
+      "sentence": "Tôi muốn ___ lại thông tin.",
+      "answer": "ghi",
+      "language": "vi",
+      "word": "ghi"
+    },
+    "updatedAt": "2025-03-12T15:04:29.372Z",
+    "createdAt": "2025-03-12T15:04:29.372Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "51af9968-5f22-4d36-afc5-f9c42a522f2e"
+  },
+  "exampleSentencesTranslated": [
+    "Remember to record the customer's phone number in the notebook.",
+    "I often record important things on my phone so I don't forget.",
+    "Can you help me record the shopping list on the board?"
+  ],
+  "definition": "record",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**ghi** = to write down or record something so you don’t forget it. It’s about putting information into writing.\n\nUse it with information: *ghi tên, ghi địa chỉ, ghi số, ghi điểm*. Often followed by **vào + place** (notebook, phone, form).  \n\nVery common combo: **ghi lại** = write down again or note carefully.  \nClose synonym: **viết** (write) — but *ghi* focuses more on recording info, not creative writing.",
+  "rank": 1097,
+  "choices": [
+    "ghi",
+    "gửi",
+    "giữ"
+  ],
+  "notes": "ghi = to write down or record something so you don’t forget it. It’s about putting information into writing.\n\nUse it with information: ghi tên, ghi địa chỉ, ghi số, ghi điểm. Often followed by vào + place (notebook, phone, form).  \n\nVery common combo: ghi lại = write down again or note carefully.  \nClose synonym: viết (write) — but ghi focuses more on recording info, not creative writing.",
+  "exampleSentences": [
+    "Anh nhớ ghi lại số điện thoại của khách hàng vào sổ nhé.",
+    "Em thường ghi chú những điều quan trọng vào điện thoại để không quên.",
+    "Chị có thể giúp em ghi danh sách mua sắm lên bảng không?"
+  ],
+  "word": "ghi",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:04:29.372Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I want to write down the information."
+      },
+      "translatedAnswer": {
+        "en": "write"
+      },
+      "choices": [
+        "đọc",
+        "ghi",
+        "xóa"
+      ],
+      "word": "ghi",
+      "language": "vi",
+      "hint": "g__",
+      "answer": "ghi",
+      "sentence": "Tôi muốn ___ lại thông tin."
+    },
+    "updatedAt": "2025-03-12T15:04:29.372Z",
+    "id": "022886b7-41e8-4012-aa6f-25b7b4e787cb"
+  },
+  "_id": "Y1AFHs3L2olvhVZxeg0I"
+}

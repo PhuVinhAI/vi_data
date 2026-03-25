@@ -1,0 +1,99 @@
+{
+  "word": "nghìn",
+  "flashcard": {
+    "translations": {
+      "vi": "nghìn",
+      "en": "thousand",
+      "es": "mil"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một đơn vị đo lường bằng một nghìn.",
+      "en": "A unit of measurement equal to one thousand.",
+      "es": "Una unidad de medida igual a mil."
+    },
+    "createdAt": "2025-01-28T13:32:08.851Z",
+    "example": {
+      "vi": "Có hàng nghìn người tham gia sự kiện này.",
+      "en": "There are thousands of people participating in this event.",
+      "es": "Hay miles de personas participando en este evento."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:35:04.040Z",
+  "exampleSentencesTranslated": [
+    "I have saved one thousand dong this month.",
+    "In big cities, there are thousands of people going to work every morning.",
+    "Every day, I read at least one thousand English words to practice."
+  ],
+  "notes_md": "**nghìn** means *thousand* (1,000). It’s a number used before a noun to show quantity.\n\nIt comes before the thing counted: **nghìn + noun** (often with a classifier in between if needed). You can combine it with words like *một* (one), *vài* (a few), *mấy* (several), or *hàng* (thousands of, a large vague number).\n\n\nIn the South, people often say **ngàn** instead of *nghìn* — same meaning, just regional preference.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "19545e6c-7bf1-4f36-ac56-9a3ce181360e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi có ___ đồng trong ví.",
+      "choices": [
+        "triệu",
+        "nghìn",
+        "tỷ"
+      ],
+      "hint": "n____",
+      "translatedAnswer": {
+        "en": "thousand"
+      },
+      "answer": "nghìn",
+      "translation": {
+        "en": "I have a thousand dong in my wallet."
+      },
+      "word": "nghìn",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:59:54.125Z",
+    "createdAt": "2025-03-12T15:59:54.125Z"
+  },
+  "rank": 1861,
+  "definition": "thousand",
+  "notes": "nghìn means thousand (1,000). It’s a number used before a noun to show quantity.\n\nIt comes before the thing counted: nghìn + noun (often with a classifier in between if needed). You can combine it with words like một (one), vài (a few), mấy (several), or hàng (thousands of, a large vague number).\n\nIn the South, people often say ngàn instead of nghìn — same meaning, just regional preference.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đã tiết kiệm được một nghìn đồng trong tháng này.",
+    "Ở thành phố lớn, có hàng nghìn người đi làm mỗi sáng.",
+    "Mỗi ngày, em đọc ít nhất một nghìn từ tiếng Anh để luyện tập."
+  ],
+  "choices": [
+    "nghìn",
+    "trăm",
+    "triệu"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:59:54.125Z",
+    "createdAt": "2025-03-12T15:59:54.125Z",
+    "id": "14f40202-7554-4fa9-bc49-3c4e2c1b5f4b",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I have a thousand dong in my wallet."
+      },
+      "word": "nghìn",
+      "language": "vi",
+      "choices": [],
+      "sentence": "Tôi có ___ đồng trong ví.",
+      "answer": "nghìn",
+      "translatedAnswer": {
+        "en": "thousand"
+      }
+    }
+  },
+  "_id": "m1xVZw11H9QRLZ4LTqHL"
+}

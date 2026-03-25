@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "giận",
+      "translation": {
+        "en": "She is very angry today."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "angry"
+      },
+      "language": "vi",
+      "word": "giận",
+      "sentence": "Cô ấy rất ___ hôm nay."
+    },
+    "updatedAt": "2025-03-12T16:33:34.398Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:33:34.398Z",
+    "id": "4e7bf5a7-1598-4a9d-be56-0ff0920fdc40"
+  },
+  "definition": "angry",
+  "rank": 1858,
+  "notes_md": "**Giận** = to be angry or mad at someone. It’s usually about feelings toward a person, not just a situation.\n\nIt acts like a verb: you *giận ai* (be mad at someone) or *giận vì chuyện gì* (be mad about something).  \n\nIt’s often emotional and personal, not explosive like rage.  \nRelated words: **tức** (angry + frustrated), **bực** (annoyed, lighter than giận).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:04:57.842Z",
+    "translations": {
+      "en": "angry",
+      "es": "enojado",
+      "vi": "giận"
+    },
+    "definitions": {
+      "en": "A strong feeling of displeasure or hostility.",
+      "es": "Un fuerte sentimiento de desagrado o hostilidad.",
+      "vi": "Một cảm giác mạnh mẽ về sự không hài lòng hoặc thù địch."
+    },
+    "example": {
+      "vi": "Tôi cảm thấy giận khi nghe tin đó.",
+      "es": "Me siento enojado cuando escucho esa noticia.",
+      "en": "I feel angry when I hear that news."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Giận = to be angry or mad at someone. It’s usually about feelings toward a person, not just a situation.\n\nIt acts like a verb: you giận ai (be mad at someone) or giận vì chuyện gì (be mad about something).  \n\nIt’s often emotional and personal, not explosive like rage.  \nRelated words: tức (angry + frustrated), bực (annoyed, lighter than giận).",
+  "word": "giận",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I don't want you to be angry because of something so small.",
+    "She often gets angry when someone breaks a promise.",
+    "If I do something wrong, my mom will be angry and not talk to me."
+  ],
+  "choices": [
+    "giận",
+    "vui",
+    "buồn"
+  ],
+  "exampleSentences": [
+    "Em không muốn anh giận vì chuyện nhỏ như thế này đâu.",
+    "Chị ấy thường giận khi ai đó không giữ lời hứa.",
+    "Nếu em làm sai, mẹ sẽ giận và không nói chuyện với em."
+  ],
+  "updatedAt": "2026-03-03T09:34:43.229Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:33:34.398Z",
+    "id": "56fe880b-d656-47b9-8fa5-3d209afff112",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "angry"
+      },
+      "choices": [
+        "bận",
+        "giận",
+        "mệt"
+      ],
+      "answer": "giận",
+      "translation": {
+        "en": "I do not want to make you angry."
+      },
+      "language": "vi",
+      "word": "giận",
+      "hint": "g___n",
+      "sentence": "Tôi không muốn làm bạn ___."
+    },
+    "updatedAt": "2025-03-12T16:33:34.398Z"
+  },
+  "_id": "v2UPSVloc5E9bizOhhLa"
+}

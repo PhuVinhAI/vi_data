@@ -1,0 +1,99 @@
+{
+  "word": "chút",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chút** means “a little” or “a small amount.” It’s used to soften things and make them sound lighter or more polite.\n\nYou usually say **một chút** before a noun or after a verb to mean “a bit.” It works with both actions and amounts.\n\n\nVery close to **một ít** — both mean “a little,” but *chút* often feels more casual and softer.",
+  "choices": [
+    "chút",
+    "nhiều",
+    "lớn"
+  ],
+  "rank": 1014,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:16:19.937Z",
+    "type": "multiChoiceQuiz",
+    "id": "d7468c40-0ef4-40c9-ae00-f19c084b8bea",
+    "content": {
+      "translatedAnswer": {
+        "en": "little"
+      },
+      "translation": {
+        "en": "I just need a little time."
+      },
+      "answer": "chút",
+      "hint": "c__t",
+      "choices": [
+        "một ít",
+        "chút",
+        "nhiều"
+      ],
+      "sentence": "Tôi chỉ cần ___ thời gian thôi.",
+      "language": "vi",
+      "word": "chút"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:16:19.937Z"
+  },
+  "updatedAt": "2026-03-03T08:04:04.908Z",
+  "exampleSentences": [
+    "Anh có thể đợi em một chút được không?",
+    "Chị muốn uống thêm một chút nước trước khi đi.",
+    "Em chỉ cần nghỉ ngơi một chút rồi sẽ tiếp tục làm việc."
+  ],
+  "notes": "chút means “a little” or “a small amount.” It’s used to soften things and make them sound lighter or more polite.\n\nYou usually say một chút before a noun or after a verb to mean “a bit.” It works with both actions and amounts.\n\nVery close to một ít — both mean “a little,” but chút often feels more casual and softer.",
+  "definition": "a little",
+  "flashcard": {
+    "example": {
+      "en": "Give me a little water.",
+      "vi": "Cho tôi một chút nước.",
+      "es": "Dame un poco de agua."
+    },
+    "definitions": {
+      "en": "A small amount or a little bit.",
+      "es": "Una pequeña cantidad o un poco.",
+      "vi": "Một lượng nhỏ hoặc một chút."
+    },
+    "createdAt": "2025-01-28T12:50:51.505Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chút",
+      "es": "poco",
+      "en": "little"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:16:19.937Z",
+    "createdAt": "2025-03-12T15:16:19.937Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "chút",
+      "language": "vi",
+      "sentence": "Tôi chỉ cần ___ thời gian thôi.",
+      "choices": [],
+      "answer": "chút",
+      "translation": {
+        "en": "I just need a little time."
+      },
+      "translatedAnswer": {
+        "en": "little"
+      }
+    },
+    "id": "c0f942df-b58c-473e-8a7e-1d2b43a045f8",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Can you wait for me a little?",
+    "I want to drink a little more water before going.",
+    "I just need to rest a little and then I will continue working."
+  ],
+  "_id": "bJP3MsFhEzig2EtpE1py"
+}

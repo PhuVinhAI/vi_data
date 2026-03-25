@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Anh wants to know what the role of the government in education is.",
+    "Did chị read the news about the new government policy today?",
+    "Em thinks the government should support people more in finding jobs."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:36:58.686Z",
+    "id": "973dadd4-8ba6-42fd-a7e0-2b27bd23a49a",
+    "content": {
+      "language": "vi",
+      "sentence": "Chính phủ đang làm việc với ___.",
+      "word": "nhà nước",
+      "choices": [],
+      "answer": "nhà nước",
+      "translatedAnswer": {
+        "en": "state"
+      },
+      "translation": {
+        "en": "The government is working with the state."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:36:58.686Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "government",
+  "flashcard": {
+    "definitions": {
+      "es": "Una entidad política que gobierna un territorio y población específicos.",
+      "vi": "Một thực thể chính trị quản lý một lãnh thổ và dân số cụ thể.",
+      "en": "A political entity that governs a specific territory and population."
+    },
+    "example": {
+      "vi": "Nhà nước cần bảo vệ quyền lợi của công dân.",
+      "es": "El gobierno necesita proteger los derechos de los ciudadanos.",
+      "en": "The government needs to protect the rights of citizens."
+    },
+    "translations": {
+      "en": "government",
+      "es": "gobierno",
+      "vi": "nhà nước"
+    },
+    "createdAt": "2025-01-28T13:10:58.572Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "nhà nước = the government / the State (the whole state system that runs the country). It’s broader than chính phủ (government as the cabinet/administration).\n\nIt’s an uncountable noun — you don’t use classifiers like một nhà nước when talking about your own country’s government. Often capitalized as Nhà nước when referring to the Vietnamese State officially.\n\nCommon pairings: chính sách nhà nước (state policy), cơ quan nhà nước (state agency), vai trò của nhà nước (the role of the state).\n\nThink: nhà nước = the whole system; chính phủ = the people currently in power.",
+  "updatedAt": "2026-03-03T18:06:08.625Z",
+  "exampleSentences": [
+    "Anh muốn biết vai trò của nhà nước trong giáo dục là gì.",
+    "Chị đã đọc báo về chính sách mới của nhà nước hôm nay chưa?",
+    "Em nghĩ nhà nước nên hỗ trợ người dân nhiều hơn trong việc làm."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "nhà nước",
+        "tổ chức",
+        "công ty"
+      ],
+      "word": "nhà nước",
+      "sentence": "Chính phủ đang làm việc với ___.",
+      "language": "vi",
+      "translation": {
+        "en": "The government is working with the state."
+      },
+      "translatedAnswer": {
+        "en": "state"
+      },
+      "hint": "n___t",
+      "answer": "nhà nước"
+    },
+    "createdAt": "2025-03-12T15:36:58.686Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8bcbf8ea-7c1e-448e-97cb-1761db85a96d",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:36:58.686Z"
+  },
+  "notes_md": "**nhà nước** = the government / the State (the whole state system that runs the country). It’s broader than *chính phủ* (government as the cabinet/administration).\n\nIt’s an uncountable noun — you don’t use classifiers like *một nhà nước* when talking about your own country’s government. Often capitalized as **Nhà nước** when referring to the Vietnamese State officially.\n\nCommon pairings: *chính sách nhà nước* (state policy), *cơ quan nhà nước* (state agency), *vai trò của nhà nước* (the role of the state).\n\nThink: *nhà nước* = the whole system; *chính phủ* = the people currently in power.",
+  "choices": [
+    "nhà nước",
+    "nhà trường",
+    "thị trường"
+  ],
+  "rank": 2864,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhà nước",
+  "_id": "gM3agkf9YZ07Kh5hbx12"
+}

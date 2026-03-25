@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đèn",
+    "bàn",
+    "tường"
+  ],
+  "notes": "đèn = lamp or light (the thing that gives light, not the light itself).\n\nIt’s a noun. Use classifiers like cái or chiếc: một cái đèn, một chiếc đèn. Very common with verbs bật (turn on) and tắt (turn off).\n\nYou’ll see it in many combos: đèn bàn (desk lamp), đèn đường (streetlight), đèn pin (flashlight), đèn giao thông (traffic light).",
+  "word": "đèn",
+  "definition": "lamp",
+  "rank": 2103,
+  "flashcard": {
+    "example": {
+      "es": "Enciendo la luz cuando se oscurece.",
+      "vi": "Tôi bật đèn khi trời tối.",
+      "en": "I turn on the light when it gets dark."
+    },
+    "translations": {
+      "vi": "đèn",
+      "en": "light",
+      "es": "luz"
+    },
+    "createdAt": "2025-01-28T10:43:44.765Z",
+    "definitions": {
+      "vi": "Một thiết bị phát ra ánh sáng, thường được cấp điện.",
+      "en": "A device that produces light, typically powered by electricity.",
+      "es": "Un dispositivo que produce luz, generalmente alimentado por electricidad."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:00:45.282Z",
+    "updatedAt": "2025-03-12T13:00:45.282Z",
+    "id": "49c3f69e-f3d3-4d85-89c8-710cdc92289e",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "đèn",
+      "sentence": "Tôi cần mua một ___ mới.",
+      "hint": "d___n",
+      "word": "đèn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "light"
+      },
+      "translation": {
+        "en": "I need to buy a new light."
+      },
+      "choices": [
+        "bóng",
+        "đèn",
+        "nến"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể bật đèn giúp em được không vì phòng hơi tối.",
+    "Mỗi tối, chị thường đọc sách dưới ánh đèn nhỏ trên bàn.",
+    "Khi mất điện, cả nhà em phải dùng đèn để thắp sáng."
+  ],
+  "updatedAt": "2026-03-03T10:00:31.604Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "b2897672-e757-41af-80f5-9c9dd243d097",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "đèn",
+      "translatedAnswer": {
+        "en": "light"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "There is a light in the room."
+      },
+      "choices": [],
+      "answer": "đèn",
+      "sentence": "Trong phòng có ___ sáng."
+    },
+    "createdAt": "2025-03-12T13:00:45.282Z",
+    "updatedAt": "2025-03-12T13:00:45.282Z"
+  },
+  "notes_md": "**đèn** = lamp or light (the thing that gives light, not the light itself).\n\nIt’s a noun. Use classifiers like **cái** or **chiếc**: *một cái đèn*, *một chiếc đèn*. Very common with verbs **bật** (turn on) and **tắt** (turn off).\n\nYou’ll see it in many combos: **đèn bàn** (desk lamp), **đèn đường** (streetlight), **đèn pin** (flashlight), **đèn giao thông** (traffic light).",
+  "exampleSentencesTranslated": [
+    "Can you turn on the lamp for me because the room is a bit dark?",
+    "Every night, she usually reads books under the small lamp on the table.",
+    "When there is a power outage, my whole family has to use a lamp for light."
+  ],
+  "_id": "38RFIs0V4lrrWRPnwx9B"
+}

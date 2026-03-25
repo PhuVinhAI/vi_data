@@ -1,0 +1,99 @@
+{
+  "definition": "similar",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:34:00.573Z",
+    "id": "95214acf-28bd-45d6-a628-7985fa46f91f",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "similar"
+      },
+      "sentence": "Câu trả lời này ___ với câu trước.",
+      "translation": {
+        "en": "This answer is similar to the previous one."
+      },
+      "answer": "tương tự",
+      "choices": [],
+      "word": "tương tự"
+    },
+    "updatedAt": "2025-03-12T14:34:00.573Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Món ăn này có hương vị tương tự món mẹ anh nấu ở nhà.",
+    "Em có thể tìm một chiếc áo tương tự như cái này không?",
+    "Kết quả của bạn tương tự kết quả của các bạn khác trong lớp."
+  ],
+  "notes_md": "**tương tự** = similar, alike in some way (not exactly the same).\n\nIt’s an adjective. You use it to compare two things that share features. Often followed by **như** to introduce what you’re comparing with.\n\n\nClose to **giống**, but *giống* feels more everyday and direct; *tương tự* sounds a bit more formal or abstract. Don’t confuse with **tương đương** (equal in value/level, not just similar).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tương tự",
+      "en": "similar",
+      "es": "similar"
+    },
+    "createdAt": "2025-01-28T12:09:35.297Z",
+    "definitions": {
+      "es": "Similar o parecido en naturaleza o características.",
+      "en": "Similar or alike in nature or characteristics.",
+      "vi": "Giống nhau hoặc tương đồng về bản chất hoặc đặc điểm."
+    },
+    "example": {
+      "es": "Este método es similar al anterior.",
+      "en": "This method is similar to the previous one.",
+      "vi": "Cách làm này tương tự như cách làm trước đó."
+    }
+  },
+  "notes": "tương tự = similar, alike in some way (not exactly the same).\n\nIt’s an adjective. You use it to compare two things that share features. Often followed by như to introduce what you’re comparing with.\n\nClose to giống, but giống feels more everyday and direct; tương tự sounds a bit more formal or abstract. Don’t confuse with tương đương (equal in value/level, not just similar).",
+  "choices": [
+    "tương tự",
+    "khác biệt",
+    "đặc biệt"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:03:08.418Z",
+  "exampleSentencesTranslated": [
+    "This dish has a similar taste to the one my mom cooks at home.",
+    "Can you find a shirt similar to this one?",
+    "Your result is similar to the results of other students in the class."
+  ],
+  "rank": 1006,
+  "word": "tương tự",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "tương tự",
+      "choices": [
+        "tương tự",
+        "khác biệt",
+        "đối lập"
+      ],
+      "hint": "t___i",
+      "translation": {
+        "en": "This answer is similar to the previous one."
+      },
+      "answer": "tương tự",
+      "sentence": "Câu trả lời này ___ với câu trước.",
+      "translatedAnswer": {
+        "en": "similar"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:34:00.573Z",
+    "type": "multiChoiceQuiz",
+    "id": "9dbf186b-2907-4961-bfba-06764f85c13c",
+    "createdAt": "2025-03-12T14:34:00.573Z"
+  },
+  "_id": "QddpIrR1MrRk7xCL3gD6"
+}

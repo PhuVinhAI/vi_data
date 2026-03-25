@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "a054ac30-616f-4a25-aa6f-479124014342",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:47:59.766Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "chừng",
+      "sentence": "Tôi sẽ về nhà ___ bảy giờ.",
+      "answer": "chừng",
+      "translation": {
+        "en": "I will go home around seven o'clock."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "around"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:47:59.766Z"
+  },
+  "rank": 2003,
+  "definition": "about",
+  "notes_md": "**chừng** means *about / approximately*. It’s used when you’re giving an estimate, not an exact number.\n\nIt usually comes right before a number, time, or amount.  \n\nIt softens what you say — like “roughly” or “around.”  \n\nVery close synonym: **khoảng** (you’ll often see **khoảng chừng** together for extra emphasis).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chừng means about / approximately. It’s used when you’re giving an estimate, not an exact number.\n\nIt usually comes right before a number, time, or amount.  \n\nIt softens what you say — like “roughly” or “around.”  \n\nVery close synonym: khoảng (you’ll often see khoảng chừng together for extra emphasis).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một từ được sử dụng để chỉ thời gian hoặc điều kiện gần đúng.",
+      "es": "Una palabra utilizada para indicar un tiempo o condición aproximada.",
+      "en": "A word used to indicate an approximate time or condition."
+    },
+    "example": {
+      "es": "¿Cuándo llegarás?",
+      "en": "When will you arrive?",
+      "vi": "Chừng nào bạn sẽ đến?"
+    },
+    "translations": {
+      "es": "acerca de, alrededor de, aproximadamente",
+      "en": "about, around, approximately",
+      "vi": "khoảng, chừng, ước chừng"
+    },
+    "createdAt": "2025-01-28T14:18:37.779Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I will come to your house at about eight o'clock tonight.",
+    "They had about fifty people join the party yesterday.",
+    "I think we need about three days to finish this work."
+  ],
+  "word": "chừng",
+  "updatedAt": "2026-03-03T09:50:04.200Z",
+  "exampleSentences": [
+    "Anh sẽ đến nhà em vào khoảng chừng tám giờ tối nay.",
+    "Họ có chừng năm mươi người tham gia buổi tiệc hôm qua.",
+    "Chị nghĩ chúng ta cần chừng ba ngày để hoàn thành công việc này."
+  ],
+  "multiChoiceQuiz": {
+    "id": "ff01aa86-a23e-4e8e-b8c0-9a696fe32e66",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:47:59.766Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "around"
+      },
+      "choices": [
+        "khoảng",
+        "chừng",
+        "gần"
+      ],
+      "answer": "chừng",
+      "translation": {
+        "en": "I will go home around seven o'clock."
+      },
+      "sentence": "Tôi sẽ về nhà ___ bảy giờ.",
+      "word": "chừng",
+      "hint": "c___n"
+    },
+    "updatedAt": "2025-03-12T16:47:59.766Z"
+  },
+  "choices": [
+    "chừng",
+    "chính",
+    "chậm"
+  ],
+  "_id": "yXVesF329T8CbHmpo6i8"
+}

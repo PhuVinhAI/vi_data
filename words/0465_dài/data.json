@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "dày",
+    "dài",
+    "gầy"
+  ],
+  "rank": 465,
+  "multiChoiceQuiz": {
+    "id": "be2e5ecd-e98b-4150-84da-85e5f7014bf2",
+    "content": {
+      "word": "dài",
+      "language": "vi",
+      "answer": "dài",
+      "hint": "d__",
+      "sentence": "Chiếc váy này rất ___.",
+      "translation": {
+        "en": "This dress is very long."
+      },
+      "translatedAnswer": {
+        "en": "long"
+      },
+      "choices": [
+        "ngắn",
+        "dài",
+        "rộng"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:05:32.755Z",
+    "createdAt": "2025-03-12T15:05:32.755Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "dài",
+  "notes": "dài means long (in length). Use it for physical length and also for duration in some cases.\n\nIt’s an adjective and comes after the noun it describes.  \n\nUse rất / quá / hơi before it to adjust intensity, and dài hơn for comparisons.  \nDon’t confuse it with lâu (long time) — dài is about length, lâu is about time.\n\nOpposite: ngắn (short).",
+  "exampleSentences": [
+    "Tóc của chị ấy rất dài nên mỗi sáng chị phải chải lâu.",
+    "Con đường từ nhà anh đến trường khá dài và nhiều cây xanh.",
+    "Chiếc khăn này đủ dài để quấn quanh cổ hai lần."
+  ],
+  "exampleSentencesTranslated": [
+    "Her hair is very long so she has to brush it for a long time every morning.",
+    "The road from his house to school is quite long and has many green trees.",
+    "This scarf is long enough to wrap around the neck twice."
+  ],
+  "fillBlankQuiz": {
+    "id": "b9d0d184-c3eb-4ea6-b5cf-2848e22403d1",
+    "updatedAt": "2025-03-12T15:05:32.755Z",
+    "content": {
+      "translation": {
+        "en": "This shirt is very long."
+      },
+      "translatedAnswer": {
+        "en": "long"
+      },
+      "choices": [],
+      "answer": "dài",
+      "word": "dài",
+      "language": "vi",
+      "sentence": "Chiếc áo này rất ___."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:05:32.755Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:08:58.167Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:38:05.740Z",
+    "definitions": {
+      "en": "Having a greater length than usual.",
+      "es": "Tener una longitud mayor de lo habitual.",
+      "vi": "Có chiều dài lớn hơn bình thường."
+    },
+    "example": {
+      "en": "This shirt is very long.",
+      "es": "Esta camisa es muy larga.",
+      "vi": "Chiếc áo này rất dài."
+    },
+    "translations": {
+      "en": "long",
+      "es": "largo",
+      "vi": "dài"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**dài** means **long** (in length). Use it for physical length and also for duration in some cases.\n\nIt’s an adjective and comes **after the noun** it describes.  \n\nUse **rất / quá / hơi** before it to adjust intensity, and **dài hơn** for comparisons.  \nDon’t confuse it with **lâu** (long time) — *dài* is about length, *lâu* is about time.\n\nOpposite: **ngắn** (short).",
+  "definition": "long",
+  "_id": "YPOvqi63u5JQApRY0w3z"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "21052f5a-04dd-4039-98f4-7ecaedfa56e1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:50:11.599Z",
+    "content": {
+      "language": "vi",
+      "word": "yêu thích",
+      "sentence": "Tôi rất ___ món ăn này.",
+      "translatedAnswer": {
+        "en": "love"
+      },
+      "translation": {
+        "en": "I really love this dish."
+      },
+      "answer": "yêu thích",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:50:11.599Z"
+  },
+  "notes": "yêu thích = to really like, to love (something). Stronger than thích, but softer than yêu for people.\n\nIt’s a verb: use it with things, activities, music, food, etc. Pattern: subject + yêu thích + noun.  \n\nIt can also act like an adjective before a noun to mean “favorite” (món ăn yêu thích, bộ phim yêu thích).\n\nClose to thích (like), but yêu thích feels warmer and more emotional. Not usually used for romantic love.",
+  "updatedAt": "2026-03-03T08:11:46.315Z",
+  "multiChoiceQuiz": {
+    "id": "17695ae0-2b15-4931-978c-0292209ae952",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "Everyone loves pop music."
+      },
+      "answer": "yêu thích",
+      "choices": [
+        "yêu thích",
+        "thích thú",
+        "đam mê"
+      ],
+      "hint": "y___h",
+      "sentence": "Mọi người đều ___ nhạc pop.",
+      "word": "yêu thích",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "love"
+      }
+    },
+    "createdAt": "2025-03-12T13:50:11.599Z",
+    "updatedAt": "2025-03-12T13:50:11.599Z"
+  },
+  "notes_md": "**yêu thích** = to really like, to love (something). Stronger than *thích*, but softer than *yêu* for people.\n\nIt’s a **verb**: use it with things, activities, music, food, etc. Pattern: subject + yêu thích + noun.  \n\nIt can also act like an adjective before a noun to mean “favorite” (món ăn yêu thích, bộ phim yêu thích).\n\nClose to *thích* (like), but *yêu thích* feels warmer and more emotional. Not usually used for romantic love.",
+  "exampleSentencesTranslated": [
+    "This book has been his favorite since he was a child.",
+    "My favorite food is beef pho every morning.",
+    "She often listens to her favorite song when she feels tired."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "yêu thích",
+      "es": "amar o gustar mucho",
+      "en": "to love or to like very much"
+    },
+    "createdAt": "2025-01-28T11:28:15.163Z",
+    "example": {
+      "es": "Me encanta leer libros.",
+      "vi": "Tôi yêu thích đọc sách.",
+      "en": "I love reading books."
+    },
+    "definitions": {
+      "vi": "có sở thích mạnh mẽ hoặc sự ưu tiên cho một cái gì đó",
+      "es": "tener una fuerte inclinación o preferencia por algo",
+      "en": "to have a strong liking or preference for something"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "yêu thích",
+  "exampleSentences": [
+    "Cuốn sách này là yêu thích của anh từ khi còn nhỏ.",
+    "Món ăn yêu thích của em là phở bò mỗi buổi sáng.",
+    "Chị thường nghe bài hát yêu thích khi cảm thấy mệt mỏi."
+  ],
+  "rank": 1087,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "favorite",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "yêu thương",
+    "yêu thích",
+    "thích thú"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Ft45MgDBMIp3g5PUhmj3"
+}

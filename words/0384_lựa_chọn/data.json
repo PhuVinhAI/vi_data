@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Necesito elegir un libro para leer.",
+      "vi": "Tôi cần lựa chọn một cuốn sách để đọc.",
+      "en": "I need to choose a book to read."
+    },
+    "translations": {
+      "es": "elegir",
+      "vi": "lựa chọn",
+      "en": "choose"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "seleccionar o tomar una decisión de un rango de opciones.",
+      "vi": "chọn hoặc đưa ra quyết định từ một loạt các lựa chọn.",
+      "en": "to select or make a decision from a range of options."
+    },
+    "createdAt": "2025-01-28T10:43:18.791Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 384,
+  "definition": "choice",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em cần phải đưa ra một lựa chọn cho bữa tối nay.",
+    "Anh ấy cảm thấy rất khó khi đứng trước nhiều lựa chọn khác nhau.",
+    "Chị nghĩ rằng mỗi người đều có quyền tự do lựa chọn nghề nghiệp."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "b840b463-b42f-4271-8bf4-f393ab499b2f",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "lựa chọn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "choice"
+      },
+      "hint": "l___n",
+      "translation": {
+        "en": "Do you have any other choice?"
+      },
+      "choices": [
+        "cơ hội",
+        "lựa chọn",
+        "khả năng"
+      ],
+      "answer": "lựa chọn",
+      "sentence": "Bạn có ___ nào khác không?"
+    },
+    "createdAt": "2025-03-12T13:00:19.656Z",
+    "updatedAt": "2025-03-12T13:00:19.656Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lựa chọn",
+  "choices": [
+    "quyết định",
+    "lựa chọn",
+    "kết quả"
+  ],
+  "notes": "lựa chọn = choice, an option you pick from different possibilities. It’s a noun.\n\nYou usually say một lựa chọn, nhiều lựa chọn, or các lựa chọn. Common verbs: đưa ra lựa chọn (make a choice), có lựa chọn (have options), lựa chọn tốt nhất / phù hợp nhất.\n\nIt focuses on the option itself, while quyết định is the decision you make after choosing. Related verb: chọn (to choose).",
+  "notes_md": "**lựa chọn** = choice, an option you pick from different possibilities. It’s a noun.\n\nYou usually say **một lựa chọn**, **nhiều lựa chọn**, or **các lựa chọn**. Common verbs: **đưa ra lựa chọn** (make a choice), **có lựa chọn** (have options), **lựa chọn tốt nhất / phù hợp nhất**.\n\nIt focuses on the *option itself*, while **quyết định** is the decision you make after choosing. Related verb: **chọn** (to choose).",
+  "exampleSentencesTranslated": [
+    "You need to make a choice for dinner tonight.",
+    "He feels it is very hard when faced with many different choices.",
+    "She thinks that everyone has the freedom of career choice."
+  ],
+  "updatedAt": "2026-03-03T07:00:32.577Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "lựa chọn",
+      "sentence": "Bạn cần ___ phù hợp cho bài kiểm tra.",
+      "word": "lựa chọn",
+      "translatedAnswer": {
+        "en": "choice"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "You need a choice suitable for the exam."
+      },
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "49d0e01d-ab1b-45b4-85b8-b7310763de72",
+    "createdAt": "2025-03-12T13:00:19.656Z",
+    "updatedAt": "2025-03-12T13:00:19.656Z"
+  },
+  "_id": "2ywqay0Yi0PN2FypDynO"
+}

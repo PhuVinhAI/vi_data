@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:23:11.182Z",
+    "createdAt": "2025-03-12T14:23:11.182Z",
+    "id": "ba280a36-d094-4ff0-b2ce-382351ac0dea",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "This flower is red."
+      },
+      "language": "vi",
+      "choices": [
+        "vàng",
+        "đỏ",
+        "xanh"
+      ],
+      "hint": "đ___",
+      "word": "đỏ",
+      "sentence": "Bông hoa này có màu ___.",
+      "translatedAnswer": {
+        "en": "red"
+      },
+      "answer": "đỏ"
+    }
+  },
+  "word": "đỏ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đỏ** means **red**, the basic color.\n\nIt’s an adjective and usually comes **after the noun** in Vietnamese (noun + đỏ). You can also use it after **màu** when you want to clearly say “the color red.”  \n\nIt describes things with red color: clothes, fruit, lights, faces, etc. It’s also common in fixed expressions like talking about someone’s face turning red (from embarrassment, anger, alcohol).  \n\nVery commonly, **đỏ** can also mean **lucky**, especially in games, gambling, or situations of good fortune.  \n\nMemory tip: think of **red envelopes** and luck in Asian culture — red = **đỏ** = lucky.",
+  "choices": [
+    "đỏ",
+    "vàng",
+    "xanh"
+  ],
+  "updatedAt": "2026-03-03T08:43:07.812Z",
+  "notes": "đỏ means red, the basic color.\n\nIt’s an adjective and usually comes after the noun in Vietnamese (noun + đỏ). You can also use it after màu when you want to clearly say “the color red.”  \n\nIt describes things with red color: clothes, fruit, lights, faces, etc. It’s also common in fixed expressions like talking about someone’s face turning red (from embarrassment, anger, alcohol).  \n\nVery commonly, đỏ can also mean lucky, especially in games, gambling, or situations of good fortune.  \n\nMemory tip: think of red envelopes and luck in Asian culture — red = đỏ = lucky.",
+  "exampleSentencesTranslated": [
+    "Today I am wearing a red shirt that stands out.",
+    "This apple is ripe so it has a beautiful red color.",
+    "I like to buy red roses as a birthday gift for my mother."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:23:11.182Z",
+    "updatedAt": "2025-03-12T14:23:11.182Z",
+    "content": {
+      "answer": "đỏ",
+      "translatedAnswer": {
+        "en": "red"
+      },
+      "sentence": "Cái xe này màu ___.",
+      "word": "đỏ",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "This car is red."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b97459e8-ba73-46e1-97ee-c745b37d4a84"
+  },
+  "definition": "red",
+  "rank": 1375,
+  "exampleSentences": [
+    "Hôm nay em mặc một chiếc áo màu đỏ rất nổi bật.",
+    "Quả táo này chín rồi nên có màu đỏ đẹp mắt.",
+    "Anh thích mua hoa hồng đỏ tặng sinh nhật cho mẹ."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một màu sắc giống như màu của máu hoặc dâu chín.",
+      "es": "Un color que se asemeja al de la sangre o las fresas maduras.",
+      "en": "A color that resembles that of blood or ripe strawberries."
+    },
+    "translations": {
+      "vi": "đỏ",
+      "es": "rojo",
+      "en": "red"
+    },
+    "createdAt": "2025-01-28T11:58:59.721Z",
+    "example": {
+      "en": "This shirt is red.",
+      "es": "Esta camisa es roja.",
+      "vi": "Cái áo này màu đỏ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Nm21DtXttiq5seF51y85"
+}

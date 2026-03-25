@@ -1,0 +1,99 @@
+{
+  "definition": "hide",
+  "flashcard": {
+    "translations": {
+      "vi": "giấu",
+      "es": "esconder",
+      "en": "hide"
+    },
+    "createdAt": "2025-01-28T13:09:04.173Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Che giấu hoặc giữ một cái gì đó không nhìn thấy.",
+      "es": "Ocultar o mantener algo fuera de la vista.",
+      "en": "To conceal or keep something out of sight."
+    },
+    "example": {
+      "en": "She hides the secret in her heart.",
+      "vi": "Cô ấy giấu bí mật trong lòng.",
+      "es": "Ella esconde el secreto en su corazón."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:34:38.989Z",
+    "id": "89aa3a07-02e0-4b81-8cab-c1abe692372c",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:38.989Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ thông tin này.",
+      "word": "giấu",
+      "translatedAnswer": {
+        "en": "hide"
+      },
+      "translation": {
+        "en": "I will hide this information."
+      },
+      "answer": "giấu"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Anh usually hide birthday presents under the bed.",
+    "Chị hide the key in the drawer so no one can find it.",
+    "Children should not hide secrets from their parents because they always want to help."
+  ],
+  "updatedAt": "2026-03-03T09:57:26.109Z",
+  "exampleSentences": [
+    "Anh thường giấu những món quà sinh nhật ở dưới gầm giường.",
+    "Chị giấu chiếc chìa khóa trong ngăn kéo để không ai tìm thấy.",
+    "Em nhỏ không nên giấu bí mật với ba mẹ vì họ luôn muốn giúp em."
+  ],
+  "notes": "giấu = to hide something so others can’t see or know about it.\n\nIt’s a transitive verb, so you need an object: you giấu something (giấu tiền, giấu điện thoại, giấu cảm xúc). It can be physical (hide an object) or abstract (hide feelings, secrets).  \n\nStrong opposite: lộ (to be exposed) — if you don’t giấu well, it lộ.",
+  "notes_md": "**giấu** = to hide something so others can’t see or know about it.\n\nIt’s a transitive verb, so you need an object: you **giấu** something (giấu tiền, giấu điện thoại, giấu cảm xúc). It can be physical (hide an object) or abstract (hide feelings, secrets).  \n\n\nStrong opposite: **lộ** (to be exposed) — if you don’t giấu well, it lộ.",
+  "choices": [
+    "giấu",
+    "gặp",
+    "giỏi"
+  ],
+  "rank": 2073,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:34:38.989Z",
+    "content": {
+      "hint": "g___",
+      "answer": "giấu",
+      "translation": {
+        "en": "We need to hide this."
+      },
+      "translatedAnswer": {
+        "en": "hide"
+      },
+      "word": "giấu",
+      "sentence": "Chúng ta cần ___ điều này.",
+      "language": "vi",
+      "choices": [
+        "giấu",
+        "biết",
+        "nhìn"
+      ]
+    },
+    "id": "62a340f8-d028-46d8-b586-eb435eda6756",
+    "updatedAt": "2025-03-12T15:34:38.989Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "giấu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "fyyqhG8JomPzXqYlQqOL"
+}

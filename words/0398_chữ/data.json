@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "8fbe3971-ff85-4754-9a64-0bf389e95e36",
+    "updatedAt": "2025-03-12T15:03:44.424Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "letters"
+      },
+      "choices": [
+        "số",
+        "hình",
+        "chữ"
+      ],
+      "translation": {
+        "en": "I write the letters on paper."
+      },
+      "sentence": "Tôi viết ___ trên giấy.",
+      "word": "chữ",
+      "language": "vi",
+      "hint": "c___",
+      "answer": "chữ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:03:44.424Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "chữ",
+  "exampleSentences": [
+    "Anh có thể viết một chữ đẹp trên tấm thiệp này không?",
+    "Em đang học cách nhận biết từng chữ trong bảng chữ cái.",
+    "Chị thấy chữ trên biển báo này hơi khó đọc vào buổi tối."
+  ],
+  "notes": "chữ = a letter (an alphabet letter or written character). It’s also often used for “written word” in a general sense.\n\nIt’s a countable noun: một chữ, hai chữ. You’ll hear it in combos like chữ cái (alphabet letter), chữ viết (handwriting/script), chữ ký (signature), chữ Hán (Chinese characters).\n\nSometimes chữ can loosely mean “word” in everyday talk, but if you want to be precise, “word” is từ.  \n\nRelated word: ký tự = character (more technical, like in typing or coding).",
+  "choices": [
+    "chữ",
+    "bút",
+    "sách"
+  ],
+  "rank": 398,
+  "notes_md": "**chữ** = a letter (an alphabet letter or written character). It’s also often used for “written word” in a general sense.\n\nIt’s a countable noun: *một chữ, hai chữ*. You’ll hear it in combos like *chữ cái* (alphabet letter), *chữ viết* (handwriting/script), *chữ ký* (signature), *chữ Hán* (Chinese characters).\n\nSometimes **chữ** can loosely mean “word” in everyday talk, but if you want to be precise, “word” is *từ*.  \n\nRelated word: *ký tự* = character (more technical, like in typing or coding).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "letter (of the alphabet or a written character)",
+  "exampleSentencesTranslated": [
+    "Can you write a beautiful letter on this card?",
+    "I am learning how to recognize each letter in the alphabet.",
+    "I find the letter on this sign a bit hard to read at night."
+  ],
+  "updatedAt": "2026-03-03T07:02:06.742Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:03:44.424Z",
+    "updatedAt": "2025-03-12T15:03:44.424Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "letters"
+      },
+      "translation": {
+        "en": "I write the letters on paper."
+      },
+      "sentence": "Tôi viết ___ trên giấy.",
+      "answer": "chữ",
+      "language": "vi",
+      "word": "chữ"
+    },
+    "id": "ed08016e-8937-4d6e-aba8-eb6d18d8710a"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "letter",
+      "es": "letra",
+      "vi": "chữ"
+    },
+    "example": {
+      "en": "I learn the letters every day.",
+      "es": "Aprendo las letras todos los días.",
+      "vi": "Tôi học chữ cái mỗi ngày."
+    },
+    "createdAt": "2025-01-28T12:35:59.453Z",
+    "definitions": {
+      "en": "A character or letter in a writing system.",
+      "es": "Un carácter o letra en un sistema de escritura.",
+      "vi": "Một ký tự hoặc chữ cái trong một hệ thống viết."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "XpVsNhKNIjX5VOalNkUH"
+}

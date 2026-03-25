@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "factor",
+      "es": "factor",
+      "vi": "yếu tố"
+    },
+    "example": {
+      "es": "Este factor es muy importante en la decisión.",
+      "vi": "Yếu tố này rất quan trọng trong quyết định.",
+      "en": "This factor is very important in the decision."
+    },
+    "createdAt": "2025-01-28T11:27:56.065Z",
+    "definitions": {
+      "es": "Un componente o elemento que contribuye a un resultado o situación.",
+      "vi": "Một thành phần hoặc yếu tố góp phần vào một kết quả hoặc tình huống.",
+      "en": "A component or element that contributes to a result or situation."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "The weather is a factor that greatly affects my travel plans.",
+    "An important factor in learning Vietnamese is practicing every day.",
+    "Health is a factor that she always prioritizes."
+  ],
+  "notes_md": "**Yếu tố** means *factor* — one part that influences a result or situation. It’s something that plays a role in making something happen.\n\nIt’s a countable noun: *một yếu tố, các yếu tố*. Often followed by adjectives (*yếu tố quan trọng, yếu tố chính*) or used in the pattern below.\n\n\nClose word: **nhân tố** (more formal, academic). Don’t confuse with **nguyên nhân** (cause) — *nguyên nhân* is the direct reason, while *yếu tố* is just one contributing part.",
+  "multiChoiceQuiz": {
+    "id": "70dfea98-4f01-4b0d-8575-086200d7d826",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Khách hàng là ___ quan trọng.",
+      "word": "yếu tố",
+      "translatedAnswer": {
+        "en": "factor"
+      },
+      "answer": "yếu tố",
+      "translation": {
+        "en": "The customer is an important factor."
+      },
+      "hint": "y___ô",
+      "choices": [
+        "yếu tố",
+        "tác động",
+        "phương pháp"
+      ]
+    },
+    "createdAt": "2025-03-12T17:17:21.664Z",
+    "updatedAt": "2025-03-12T17:17:21.664Z"
+  },
+  "updatedAt": "2026-03-03T07:15:07.771Z",
+  "notes": "Yếu tố means factor — one part that influences a result or situation. It’s something that plays a role in making something happen.\n\nIt’s a countable noun: một yếu tố, các yếu tố. Often followed by adjectives (yếu tố quan trọng, yếu tố chính) or used in the pattern below.\n\nClose word: nhân tố (more formal, academic). Don’t confuse with nguyên nhân (cause) — nguyên nhân is the direct reason, while yếu tố is just one contributing part.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:17:21.664Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Khách hàng là ___ quan trọng.",
+      "word": "yếu tố",
+      "translatedAnswer": {
+        "en": "factor"
+      },
+      "translation": {
+        "en": "The customer is an important factor."
+      },
+      "answer": "yếu tố",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T17:17:21.664Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "d168f2b8-4b0d-404b-83d1-a7a88c2f49ff",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "yếu tố",
+    "kết quả",
+    "quyết định"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "factor",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Yếu tố thời tiết ảnh hưởng lớn đến kế hoạch du lịch của anh.",
+    "Một yếu tố quan trọng trong việc học tiếng Việt là thực hành mỗi ngày.",
+    "Sức khỏe là yếu tố mà chị luôn đặt lên hàng đầu."
+  ],
+  "rank": 528,
+  "word": "yếu tố",
+  "_id": "FjN32O4MztZ6v2OgfBVl"
+}

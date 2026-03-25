@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "hơi means a little / slightly. It softens what you say, making it less strong.\n\nIt goes before adjectives or verbs to reduce the level of something.  \n\nIt’s softer than rất (very) and close to khá, but khá is usually a bit stronger and more positive.  \n\nVery common second meaning: hơi = breath / steam (like in hơi thở = breath).",
+  "exampleSentences": [
+    "Anh cảm thấy hơi mệt sau khi làm việc cả ngày.",
+    "Trời hôm nay hơi lạnh nên em mặc thêm áo khoác.",
+    "Chị nghĩ món ăn này hơi cay đối với em."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "un poco",
+      "en": "a bit",
+      "vi": "hơi"
+    },
+    "example": {
+      "vi": "Tôi cảm thấy hơi mệt.",
+      "en": "I feel a bit tired.",
+      "es": "Me siento un poco cansado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:58:13.258Z",
+    "definitions": {
+      "en": "A little; slightly.",
+      "es": "Un poco; ligeramente.",
+      "vi": "Một chút; hơi."
+    }
+  },
+  "choices": [
+    "rất",
+    "hơi",
+    "không"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "updatedAt": "2026-03-03T06:38:30.404Z",
+  "exampleSentencesTranslated": [
+    "I feel a little tired after working all day.",
+    "The weather is a little cold today so I wear an extra jacket.",
+    "I think this dish is a little spicy for you."
+  ],
+  "rank": 178,
+  "notes_md": "**hơi** means *a little / slightly*. It softens what you say, making it less strong.\n\nIt goes before adjectives or verbs to reduce the level of something.  \n\nIt’s softer than **rất** (very) and close to **khá**, but **khá** is usually a bit stronger and more positive.  \n\nVery common second meaning: **hơi** = *breath / steam* (like in *hơi thở* = breath).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:27:30.659Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "8420c9f2-c229-4ffa-82c5-079398d4c6ad",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "nhiều",
+        "hơi",
+        "ít"
+      ],
+      "answer": "hơi",
+      "word": "hơi",
+      "hint": "h___i",
+      "translation": {
+        "en": "The weather is a bit cold today."
+      },
+      "translatedAnswer": {
+        "en": "a bit"
+      },
+      "sentence": "Trời hôm nay ___ lạnh."
+    },
+    "updatedAt": "2025-03-12T16:27:30.659Z"
+  },
+  "definition": "a little",
+  "fillBlankQuiz": {
+    "id": "66cd77e6-61c6-421d-82b6-fdd6984bdbc0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:27:30.659Z",
+    "updatedAt": "2025-03-12T16:27:30.659Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "hơi",
+      "word": "hơi",
+      "translation": {
+        "en": "The weather is a bit cold today."
+      },
+      "translatedAnswer": {
+        "en": "a bit"
+      },
+      "sentence": "Trời hôm nay ___ lạnh."
+    }
+  },
+  "word": "hơi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "tEv4CyzudjeqP0dDVAi9"
+}

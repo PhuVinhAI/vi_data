@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "0fbd71be-4520-4239-91b9-d5544c9786c7",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I feel very calm when at home."
+      },
+      "sentence": "Tôi cảm thấy rất ___ khi ở nhà.",
+      "word": "yên",
+      "answer": "yên",
+      "translatedAnswer": {
+        "en": "calm"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:13:03.779Z",
+    "createdAt": "2025-03-12T14:13:03.779Z"
+  },
+  "definition": "peaceful",
+  "updatedAt": "2026-03-03T09:21:08.810Z",
+  "choices": [
+    "ồn ào",
+    "yên",
+    "nhiều"
+  ],
+  "exampleSentencesTranslated": [
+    "The morning in the countryside is very peaceful and the air is fresh.",
+    "He likes to sit and read in a peaceful place on the weekend.",
+    "After the argument, both wanted a peaceful space to think."
+  ],
+  "notes": "yên = peaceful, quiet, calm. It describes a place, situation, or your mind when there’s no noise or trouble.\n\nAs an adjective, it often comes after a noun (không gian yên) or in short descriptions. You’ll also see it in fixed pairs like bình yên (peaceful in a deeper, emotional way) and yên tĩnh (quiet in terms of sound).\n\nIt can describe people’s state too, like feeling settled or calm inside. Strong opposite to remember: ồn ào (noisy, chaotic).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**yên** = peaceful, quiet, calm. It describes a place, situation, or your mind when there’s no noise or trouble.\n\nAs an adjective, it often comes after a noun (không gian yên) or in short descriptions. You’ll also see it in fixed pairs like **bình yên** (peaceful in a deeper, emotional way) and **yên tĩnh** (quiet in terms of sound).\n\nIt can describe people’s state too, like feeling settled or calm inside. Strong opposite to remember: **ồn ào** (noisy, chaotic).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "yên",
+  "multiChoiceQuiz": {
+    "id": "bc2db5ac-c4b0-49a5-bfbd-77ebf4d217fb",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "yên",
+      "hint": "y__n",
+      "sentence": "Không khí ở đây rất ___ và dễ chịu.",
+      "translation": {
+        "en": "The air here is very calm and pleasant."
+      },
+      "language": "vi",
+      "choices": [
+        "yên",
+        "sáng",
+        "mát"
+      ],
+      "translatedAnswer": {
+        "en": "calm"
+      },
+      "answer": "yên"
+    },
+    "updatedAt": "2025-03-12T14:13:03.779Z",
+    "createdAt": "2025-03-12T14:13:03.779Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Me siento en paz cuando estoy con mi familia.",
+      "vi": "Tôi cảm thấy yên bình khi ở bên gia đình.",
+      "en": "I feel at peace when I am with my family."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:50:10.412Z",
+    "definitions": {
+      "en": "Calm, peaceful, or quiet.",
+      "es": "Tranquilo, pacífico o silencioso.",
+      "vi": "Yên tĩnh, bình yên hoặc không ồn ào."
+    },
+    "translations": {
+      "vi": "yên",
+      "es": "tranquilo",
+      "en": "calm"
+    }
+  },
+  "exampleSentences": [
+    "Buổi sáng ở quê rất yên và không khí trong lành.",
+    "Anh thích ngồi đọc sách ở nơi yên vào cuối tuần.",
+    "Sau khi cãi nhau, cả hai đều muốn một không gian yên để suy nghĩ."
+  ],
+  "rank": 1729,
+  "_id": "LOe4I8OahHCgm9B9TbHH"
+}

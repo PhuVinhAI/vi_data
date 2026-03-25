@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:43:12.062Z",
+    "definitions": {
+      "vi": "Kết quả là hậu quả hoặc hệ quả của một hành động hoặc sự kiện.",
+      "es": "El resultado o consecuencia de una acción o evento.",
+      "en": "The outcome or consequence of an action or event."
+    },
+    "translations": {
+      "en": "result",
+      "vi": "kết quả",
+      "es": "resultado"
+    },
+    "example": {
+      "es": "El resultado del examen fue muy bueno.",
+      "vi": "Kết quả của bài kiểm tra rất tốt.",
+      "en": "The result of the test was very good."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Kết quả của kỳ thi sẽ được công bố vào tuần sau.",
+    "Em rất vui vì đã đạt được kết quả tốt trong công việc.",
+    "Chị đang chờ kết quả từ bác sĩ sau khi kiểm tra sức khỏe."
+  ],
+  "rank": 1102,
+  "definition": "result",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:05:23.937Z",
+    "updatedAt": "2025-03-12T14:05:23.937Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "When checking, I see a good result."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "kết quả",
+      "sentence": "Khi kiểm tra, tôi thấy ___ tốt.",
+      "translatedAnswer": {
+        "en": "result"
+      },
+      "answer": "kết quả"
+    },
+    "id": "806e4538-d255-4d8b-a00d-6cad3b7060ee"
+  },
+  "exampleSentencesTranslated": [
+    "The result of the exam will be announced next week.",
+    "I am very happy because I achieved a good result at work.",
+    "She is waiting for the result from the doctor after the health check."
+  ],
+  "notes": "Kết quả means result or outcome — what you get after doing something or after something happens.\n\nIt’s a noun. You’ll often see it with có kết quả (have a result), đạt kết quả (achieve results), xem kết quả (check results), kết quả tốt/xấu (good/bad result).  \n\nYou don’t need a classifier in most cases; just use it directly.  \n\nClose synonym: kết cục (ending/outcome), but that’s more about a final ending, often dramatic.",
+  "updatedAt": "2026-03-03T08:13:25.275Z",
+  "choices": [
+    "kết quả",
+    "bài tập",
+    "phương pháp"
+  ],
+  "notes_md": "**Kết quả** means *result* or *outcome* — what you get after doing something or after something happens.\n\nIt’s a noun. You’ll often see it with **có kết quả** (have a result), **đạt kết quả** (achieve results), **xem kết quả** (check results), **kết quả tốt/xấu** (good/bad result).  \n\nYou don’t need a classifier in most cases; just use it directly.  \n\nClose synonym: **kết cục** (ending/outcome), but that’s more about a final ending, often dramatic.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "kết quả",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:05:23.937Z",
+    "createdAt": "2025-03-12T14:05:23.937Z",
+    "id": "8f1e567a-bd79-4cbe-ae4b-ac0e8a473205",
+    "content": {
+      "translation": {
+        "en": "The result of the test is very good."
+      },
+      "choices": [
+        "tinh thần",
+        "kết quả",
+        "sự kiện"
+      ],
+      "language": "vi",
+      "hint": "k___a",
+      "word": "kết quả",
+      "sentence": "Kết quả bài kiểm tra rất ___.",
+      "translatedAnswer": {
+        "en": "result"
+      },
+      "answer": "kết quả"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Jsf2uSrCjH3aFWma9Qf1"
+}

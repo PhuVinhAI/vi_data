@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "gánh",
+      "sentence": "Tôi cần ___ nặng trong tay.",
+      "language": "vi",
+      "translation": {
+        "en": "I need to carry something heavy in my hands."
+      },
+      "translatedAnswer": {
+        "en": "carry"
+      },
+      "answer": "gánh"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:33:47.803Z",
+    "id": "7bcfb444-20d5-413a-bafe-81c26e9fe986",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:33:47.803Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, grandma carry vegetables to the market to sell.",
+    "He usually carry water from the well to the house every day.",
+    "She has to carry many responsibilities in the family."
+  ],
+  "definition": "carry",
+  "flashcard": {
+    "example": {
+      "en": "I have to bear the burden for the family.",
+      "es": "Tengo que cargar con la carga de la familia.",
+      "vi": "Tôi phải gánh nặng cho gia đình."
+    },
+    "definitions": {
+      "vi": "Mang hoặc chịu một gánh nặng.",
+      "es": "Llevar o soportar una carga.",
+      "en": "To carry or bear a load."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:08:20.743Z",
+    "translations": {
+      "vi": "gánh",
+      "es": "cargar, soportar",
+      "en": "to carry, to bear"
+    }
+  },
+  "notes": "gánh = to carry something heavy on your shoulders, usually with a pole and loads on both sides. It gives the feeling of weight and effort.\n\nIt’s used for physical loads (water, rice, goods) and also for abstract burdens like responsibility, debt, or consequences. Compared to mang (general “carry”), gánh sounds heavier and more tiring; compared to vác, it’s usually balanced on both sides.\n\nIt often implies long-term effort or pressure, not just a quick action.",
+  "exampleSentences": [
+    "Sáng nay, bà ngoại gánh rau ra chợ bán.",
+    "Anh thường gánh nước từ giếng về nhà mỗi ngày.",
+    "Chị ấy phải gánh nhiều trách nhiệm trong gia đình."
+  ],
+  "updatedAt": "2026-03-03T10:21:41.738Z",
+  "multiChoiceQuiz": {
+    "id": "33568658-2ad9-49d6-8676-e290ed681814",
+    "content": {
+      "translatedAnswer": {
+        "en": "carry"
+      },
+      "translation": {
+        "en": "I can carry something heavy on my back."
+      },
+      "answer": "gánh",
+      "hint": "g___n",
+      "choices": [
+        "đem",
+        "gánh",
+        "cầm"
+      ],
+      "sentence": "Tôi có thể ___ nặng trên lưng.",
+      "language": "vi",
+      "word": "gánh"
+    },
+    "createdAt": "2025-03-12T15:33:47.803Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:33:47.803Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "gánh",
+    "chạy",
+    "ngồi"
+  ],
+  "rank": 2298,
+  "notes_md": "**gánh** = to carry something heavy on your shoulders, usually with a pole and loads on both sides. It gives the feeling of weight and effort.\n\nIt’s used for physical loads (water, rice, goods) and also for abstract burdens like responsibility, debt, or consequences. Compared to *mang* (general “carry”), **gánh** sounds heavier and more tiring; compared to *vác*, it’s usually balanced on both sides.\n\n\nIt often implies long-term effort or pressure, not just a quick action.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "gánh",
+  "_id": "flRGkLC74Jikg0egieKV"
+}

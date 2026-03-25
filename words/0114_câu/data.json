@@ -1,0 +1,99 @@
+{
+  "notes": "câu means sentence — a full line of words that expresses an idea.\n\nIt’s a countable noun, and the classifier is also câu: một câu, hai câu. You’ll often see it in combos like câu hỏi (question), câu trả lời (answer), câu chuyện (story), câu nói (saying), câu văn (written sentence).\n\nIt can refer to both spoken and written sentences.  \n\nVery common bonus meaning: câu can also be a verb meaning to fish (like câu cá). Same spelling, totally different meaning — context makes it clear.",
+  "choices": [
+    "câu",
+    "bàn",
+    "sách"
+  ],
+  "updatedAt": "2026-03-03T06:14:47.155Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:30:32.400Z",
+    "id": "cf5edcd7-82b8-4169-92ba-d6fea5df8637",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "câu",
+      "choices": [
+        "câu",
+        "đoạn",
+        "chương"
+      ],
+      "hint": "c__",
+      "answer": "câu",
+      "translation": {
+        "en": "I need a new sentence to say."
+      },
+      "translatedAnswer": {
+        "en": "sentence"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ mới để nói."
+    },
+    "updatedAt": "2025-03-12T14:30:32.400Z"
+  },
+  "word": "câu",
+  "rank": 114,
+  "exampleSentencesTranslated": [
+    "Can you read sentence number three in this book?",
+    "I want you to write a new sentence with this word.",
+    "She thinks the sentence in the test is quite easy to understand."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "sentence",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:30:32.400Z",
+    "id": "26dcff2a-47bc-41c2-9c96-8762571d33e2",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "câu",
+      "translation": {
+        "en": "I wrote a new sentence."
+      },
+      "answer": "câu",
+      "sentence": "Tôi đã viết một ___ mới.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sentence"
+      }
+    },
+    "updatedAt": "2025-03-12T14:30:32.400Z"
+  },
+  "exampleSentences": [
+    "Em có thể đọc lại câu số ba trong sách này không?",
+    "Anh muốn em viết một câu mới bằng từ này.",
+    "Chị thấy câu hỏi trong bài kiểm tra khá dễ hiểu."
+  ],
+  "notes_md": "**câu** means *sentence* — a full line of words that expresses an idea.\n\nIt’s a countable noun, and the classifier is also **câu**: *một câu, hai câu*. You’ll often see it in combos like **câu hỏi** (question), **câu trả lời** (answer), **câu chuyện** (story), **câu nói** (saying), **câu văn** (written sentence).\n\nIt can refer to both spoken and written sentences.  \n\nVery common bonus meaning: **câu** can also be a verb meaning *to fish* (like **câu cá**). Same spelling, totally different meaning — context makes it clear.",
+  "flashcard": {
+    "definitions": {
+      "en": "A sentence or a line, often used in the context of poetry or phrases.",
+      "vi": "Một câu hoặc một dòng, thường được sử dụng trong ngữ cảnh thơ ca hoặc cụm từ.",
+      "es": "Una oración o una línea, a menudo utilizada en el contexto de la poesía o frases."
+    },
+    "createdAt": "2025-01-28T12:06:37.049Z",
+    "example": {
+      "es": "Escribí una línea de poesía.",
+      "vi": "Tôi đã viết một câu thơ.",
+      "en": "I wrote a line of poetry."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "câu",
+      "en": "sentence",
+      "es": "oración"
+    }
+  },
+  "_id": "PqXqdHcWKgAbzPu9MKEL"
+}

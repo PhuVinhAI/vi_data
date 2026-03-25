@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:28:00.046Z",
+    "content": {
+      "choices": [],
+      "word": "ôi",
+      "sentence": "Ôi, trời đẹp quá ___!",
+      "language": "vi",
+      "translation": {
+        "en": "Oh, the sky is so beautiful!"
+      },
+      "translatedAnswer": {
+        "en": "Oh"
+      },
+      "answer": "ôi"
+    },
+    "id": "6fbd51ae-71d3-44b0-9edb-89ead81fc540",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:28:00.046Z"
+  },
+  "exampleSentencesTranslated": [
+    "Oh, I forgot today is your birthday.",
+    "Oh, it’s raining so heavily, I’ll have to wait a while before going home.",
+    "Oh, this dish is so delicious, I’ve never tried it before."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:38:31.527Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ôi",
+      "es": "oh",
+      "en": "oh"
+    },
+    "example": {
+      "es": "¡Oh, Dios mío, esto es increíble!",
+      "vi": "Ôi, trời ơi, thật tuyệt vời!",
+      "en": "Oh, my, this is amazing!"
+    },
+    "definitions": {
+      "en": "An expression of surprise or admiration.",
+      "vi": "Một biểu hiện của sự ngạc nhiên hoặc ngưỡng mộ.",
+      "es": "Una expresión de sorpresa o admiración."
+    }
+  },
+  "definition": "oh",
+  "notes": "Ôi means “oh!” — you use it to show sudden emotion like surprise, shock, happiness, sadness, or disappointment.\n\nIt’s an exclamation, usually at the beginning of a sentence to react to something.  \n\nThe feeling depends on tone and context — it can be positive (“wow!”) or negative (“oh no!”).  \nClose cousin: ôi trời ơi (stronger, like “oh my God”).",
+  "updatedAt": "2026-03-03T09:07:16.931Z",
+  "exampleSentences": [
+    "Ôi, em quên mất hôm nay là sinh nhật của anh.",
+    "Ôi, trời mưa to quá, chắc phải đợi một lúc mới về được.",
+    "Ôi, món ăn này ngon quá, chị chưa từng thử trước đây."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:28:00.046Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:28:00.046Z",
+    "content": {
+      "choices": [
+        "hả",
+        "trời",
+        "ôi"
+      ],
+      "sentence": "Trời ơi, ___, thật là tuyệt!",
+      "language": "vi",
+      "word": "ôi",
+      "translatedAnswer": {
+        "en": "Oh"
+      },
+      "translation": {
+        "en": "Oh my, it’s really amazing!"
+      },
+      "hint": "o__",
+      "answer": "ôi"
+    },
+    "id": "6b9dd4e9-d57b-40f8-a9cf-0e3e9d678332",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ôi** means “oh!” — you use it to show sudden emotion like surprise, shock, happiness, sadness, or disappointment.\n\nIt’s an exclamation, usually at the beginning of a sentence to react to something.  \n\nThe feeling depends on tone and context — it can be positive (“wow!”) or negative (“oh no!”).  \nClose cousin: **ôi trời ơi** (stronger, like “oh my God”).",
+  "rank": 1601,
+  "choices": [
+    "ôi",
+    "ơi",
+    "ôi trời"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ôi",
+  "_id": "AL2IxASovVNAvxrz0aQs"
+}

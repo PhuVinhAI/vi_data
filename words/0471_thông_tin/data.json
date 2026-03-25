@@ -1,0 +1,99 @@
+{
+  "rank": 471,
+  "exampleSentencesTranslated": [
+    "Can you give me more information about this trip?",
+    "She just received new information from the company this morning.",
+    "If you need any information, please contact me."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "information"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ mới không?",
+      "word": "thông tin",
+      "choices": [
+        "tin tức",
+        "thông tin",
+        "chi tiết"
+      ],
+      "translation": {
+        "en": "Do you have new information?"
+      },
+      "answer": "thông tin",
+      "hint": "th___n"
+    },
+    "updatedAt": "2025-03-12T14:27:04.099Z",
+    "type": "multiChoiceQuiz",
+    "id": "43c8478a-6f72-41ac-82e3-8db594a97df3",
+    "createdAt": "2025-03-12T14:27:04.099Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "thông tin",
+  "updatedAt": "2026-03-03T07:09:29.197Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thông báo",
+    "thông tin",
+    "tin tức"
+  ],
+  "notes": "Thông tin means information — facts or details you get, give, or look for.  \n\nIt’s usually an uncountable idea, but you can say một số thông tin, những thông tin when you mean pieces of info. Common pairings: cung cấp thông tin (provide info), nhận thông tin (receive info), tìm kiếm thông tin (search for info), thông tin cá nhân (personal info), thông tin chi tiết (detailed info).  \n\nClose words: tin tức = news (more about current events), dữ liệu = data (more technical/raw).",
+  "flashcard": {
+    "translations": {
+      "es": "información",
+      "vi": "thông tin",
+      "en": "information"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito información sobre el vuelo.",
+      "vi": "Tôi cần thông tin về chuyến bay.",
+      "en": "I need information about the flight."
+    },
+    "createdAt": "2025-01-28T12:03:13.579Z",
+    "definitions": {
+      "vi": "Dữ liệu hoặc kiến thức được truyền đạt hoặc nhận về một sự kiện hoặc hoàn cảnh cụ thể.",
+      "en": "Data or knowledge communicated or received concerning a particular fact or circumstance.",
+      "es": "Datos o conocimientos comunicados o recibidos sobre un hecho o circunstancia particular."
+    }
+  },
+  "notes_md": "**Thông tin** means *information* — facts or details you get, give, or look for.  \n\nIt’s usually an uncountable idea, but you can say *một số thông tin*, *những thông tin* when you mean pieces of info. Common pairings: *cung cấp thông tin* (provide info), *nhận thông tin* (receive info), *tìm kiếm thông tin* (search for info), *thông tin cá nhân* (personal info), *thông tin chi tiết* (detailed info).  \n\nClose words: *tin tức* = news (more about current events), *dữ liệu* = data (more technical/raw).",
+  "exampleSentences": [
+    "Anh có thể cho em thêm thông tin về chuyến du lịch này không?",
+    "Chị vừa nhận được thông tin mới từ công ty sáng nay.",
+    "Nếu em cần bất kỳ thông tin nào, hãy liên hệ với anh nhé."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "4a2062c0-803e-4524-ac5c-fa05aaa4f06e",
+    "createdAt": "2025-03-12T14:27:04.099Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:27:04.099Z",
+    "content": {
+      "word": "thông tin",
+      "choices": [],
+      "translation": {
+        "en": "I need information about the project."
+      },
+      "answer": "thông tin",
+      "translatedAnswer": {
+        "en": "information"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ về dự án."
+    }
+  },
+  "definition": "information",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Otk2knQN52Rxr8ngVOMz"
+}

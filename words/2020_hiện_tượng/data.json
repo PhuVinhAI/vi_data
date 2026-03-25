@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "fenómeno",
+      "vi": "hiện tượng",
+      "en": "phenomenon"
+    },
+    "definitions": {
+      "en": "A phenomenon is an observable event or occurrence.",
+      "vi": "Hiện tượng là một sự kiện hoặc hiện tượng có thể quan sát được.",
+      "es": "Un fenómeno es un evento u ocurrencia observable."
+    },
+    "createdAt": "2025-01-28T12:21:56.790Z",
+    "example": {
+      "en": "Light is a natural phenomenon.",
+      "vi": "Ánh sáng là một hiện tượng tự nhiên.",
+      "es": "La luz es un fenómeno natural."
+    }
+  },
+  "exampleSentences": [
+    "Anh đã đọc về một hiện tượng lạ trên biển trong tin tức sáng nay.",
+    "Chị nghĩ hiện tượng này sẽ kết thúc khi thời tiết thay đổi.",
+    "Nhiều người quan tâm đến hiện tượng xảy ra vào ban đêm hôm qua."
+  ],
+  "notes_md": "**Hiện tượng** means *phenomenon* — something that happens and can be observed, often unusual or noticeable.\n\nIt’s a noun. You can count it: *một hiện tượng, những hiện tượng*. It often goes with words like *lạ* (strange), *tự nhiên* (natural), *xã hội* (social).\n\nCommon verbs with it are *xảy ra* (happen) and *xuất hiện* (appear).\n\nMemory tip: **hiện** = appear/show up, so *hiện tượng* is something that shows itself.\n\nClose idea: *sự việc* (an event/incident), but *hiện tượng* feels more observational or scientific.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:47:48.608Z",
+    "id": "9bba6461-2311-4383-9eb5-bffcf2b43aba",
+    "content": {
+      "sentence": "Đó là một ___ thú vị.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "phenomenon"
+      },
+      "translation": {
+        "en": "That is an interesting phenomenon."
+      },
+      "answer": "hiện tượng",
+      "choices": [],
+      "word": "hiện tượng"
+    },
+    "updatedAt": "2025-03-12T14:47:48.608Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "phenomenon",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I read about a strange phenomenon on the sea in the news this morning.",
+    "She thinks this phenomenon will end when the weather changes.",
+    "Many people are interested in the phenomenon that happened last night."
+  ],
+  "rank": 2020,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:47:48.608Z",
+    "id": "8676eefa-0c28-4de5-96cc-fdadae677ded",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "hiện tượng",
+      "choices": [
+        "hiện tượng",
+        "sự việc",
+        "tình huống"
+      ],
+      "hint": "h___n",
+      "translation": {
+        "en": "We are researching a new phenomenon."
+      },
+      "answer": "hiện tượng",
+      "translatedAnswer": {
+        "en": "phenomenon"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta đang nghiên cứu một ___ mới."
+    },
+    "updatedAt": "2025-03-12T14:47:48.608Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "hiện tượng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:51:50.884Z",
+  "choices": [
+    "hiện tượng",
+    "thực vật",
+    "hiện đại"
+  ],
+  "notes": "Hiện tượng means phenomenon — something that happens and can be observed, often unusual or noticeable.\n\nIt’s a noun. You can count it: một hiện tượng, những hiện tượng. It often goes with words like lạ (strange), tự nhiên (natural), xã hội (social).\n\nCommon verbs with it are xảy ra (happen) and xuất hiện (appear).\n\nMemory tip: hiện = appear/show up, so hiện tượng is something that shows itself.\n\nClose idea: sự việc (an event/incident), but hiện tượng feels more observational or scientific.",
+  "_id": "TipzAiGLHo0e11EbaxnZ"
+}

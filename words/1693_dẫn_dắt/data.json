@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:55:00.292Z",
+    "updatedAt": "2025-03-12T12:55:00.292Z",
+    "id": "741f9612-2f0f-4c11-99f5-f3802af40500",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "d___ d___",
+      "word": "dẫn dắt",
+      "translatedAnswer": {
+        "en": "guide"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "The teacher will guide the students."
+      },
+      "choices": [
+        "hướng dẫn",
+        "dẫn dắt",
+        "gợi ý"
+      ],
+      "answer": "dẫn dắt",
+      "sentence": "Giáo viên sẽ ___ cho học sinh."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh ấy luôn sẵn sàng dẫn dắt nhóm khi có dự án mới.",
+    "Chị mong muốn dẫn dắt các bạn trẻ phát triển kỹ năng sống.",
+    "Huấn luyện viên đã dẫn dắt đội bóng đến chiến thắng lớn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "guide",
+  "rank": 1693,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Ella lidera al equipo en este proyecto.",
+      "en": "She leads the team in this project.",
+      "vi": "Cô ấy dẫn dắt nhóm trong dự án này."
+    },
+    "translations": {
+      "en": "to lead",
+      "es": "guiar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Guiar o liderar a alguien o algo.",
+      "en": "To guide or lead someone or something.",
+      "vi": "Hướng dẫn hoặc lãnh đạo ai đó hoặc cái gì đó."
+    },
+    "createdAt": "2025-01-28T10:38:59.852Z"
+  },
+  "choices": [
+    "dẫn dắt",
+    "giúp đỡ",
+    "học hỏi"
+  ],
+  "notes": "dẫn dắt = to guide or lead someone in the right direction, often in thinking, development, or action. It’s about leadership with direction, not just physically taking someone somewhere.\n\nUsed for leading a group, a team, a discussion, or someone’s growth. It often goes with abstract things like câu chuyện, chương trình, thế hệ, tư duy.  \n\nStronger and more intentional than hướng dẫn (which is more like “instruct”). Closer to “mentor” or “lead” in a big-picture sense.",
+  "word": "dẫn dắt",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He is always ready to guide the team when there is a new project.",
+    "She wants to guide young people to develop life skills.",
+    "The coach guided the football team to a big victory."
+  ],
+  "notes_md": "**dẫn dắt** = to guide or lead someone in the right direction, often in thinking, development, or action. It’s about leadership with direction, not just physically taking someone somewhere.\n\nUsed for leading a group, a team, a discussion, or someone’s growth. It often goes with abstract things like *câu chuyện, chương trình, thế hệ, tư duy*.  \n\nStronger and more intentional than *hướng dẫn* (which is more like “instruct”). Closer to “mentor” or “lead” in a big-picture sense.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "4d42af2f-12aa-46bb-aed8-ce7dd2764ae5",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "The teacher will guide the students."
+      },
+      "word": "dẫn dắt",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "guide"
+      },
+      "sentence": "Giáo viên sẽ ___ cho học sinh.",
+      "answer": "dẫn dắt"
+    },
+    "createdAt": "2025-03-12T12:55:00.292Z",
+    "updatedAt": "2025-03-12T12:55:00.292Z"
+  },
+  "updatedAt": "2026-03-03T09:17:08.485Z",
+  "_id": "1eKx8pavIbcagX4ppdUa"
+}

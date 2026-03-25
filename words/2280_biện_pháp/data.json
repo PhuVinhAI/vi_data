@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "biện pháp",
+    "kết quả",
+    "phương pháp"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:55:39.304Z",
+    "definitions": {
+      "vi": "Một phương pháp hoặc cách tiếp cận được thực hiện để đạt được một mục tiêu cụ thể.",
+      "es": "Un método o enfoque adoptado para lograr un objetivo específico.",
+      "en": "A method or approach taken to achieve a specific goal."
+    },
+    "translations": {
+      "vi": "biện pháp",
+      "es": "medida",
+      "en": "measure"
+    },
+    "example": {
+      "en": "We need to implement measures to reduce pollution.",
+      "es": "Necesitamos implementar medidas para reducir la contaminación.",
+      "vi": "Chúng ta cần áp dụng biện pháp để giảm ô nhiễm."
+    }
+  },
+  "exampleSentences": [
+    "Chị nghĩ chúng ta nên tìm một biện pháp mới để giải quyết vấn đề này.",
+    "Nếu thời tiết xấu, anh sẽ áp dụng biện pháp an toàn khi làm việc.",
+    "Em muốn biết biện pháp nào hiệu quả nhất cho sức khỏe của mình."
+  ],
+  "exampleSentencesTranslated": [
+    "I think we should find a new measure to solve this problem.",
+    "If the weather is bad, I will use a safety measure at work.",
+    "I want to know which measure is the most effective for my health."
+  ],
+  "updatedAt": "2026-03-03T10:19:30.960Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Biện pháp means a measure or method used to solve a problem or deal with a situation. It’s a practical action taken for a specific purpose.\n\nIt’s a countable noun: một biện pháp, nhiều biện pháp. Very common with verbs like áp dụng (apply), đưa ra (propose), thực hiện (carry out), tìm (find).\n\nOften followed by purpose:  \n\nClose synonym: giải pháp (solution). Giải pháp focuses more on the solution itself, while biện pháp emphasizes the action taken.",
+  "word": "biện pháp",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:24:36.652Z",
+    "content": {
+      "sentence": "Chúng ta cần ___ để giải quyết vấn đề.",
+      "translatedAnswer": {
+        "en": "measures"
+      },
+      "translation": {
+        "en": "We need measures to solve the problem."
+      },
+      "choices": [],
+      "word": "biện pháp",
+      "answer": "biện pháp",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "fe97f66f-6eed-4c46-b041-de8534799819",
+    "createdAt": "2025-03-12T16:24:36.652Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Biện pháp** means a *measure* or *method* used to solve a problem or deal with a situation. It’s a practical action taken for a specific purpose.\n\nIt’s a countable noun: *một biện pháp, nhiều biện pháp*. Very common with verbs like *áp dụng* (apply), *đưa ra* (propose), *thực hiện* (carry out), *tìm* (find).\n\nOften followed by purpose:  \n\nClose synonym: **giải pháp** (solution). *Giải pháp* focuses more on the solution itself, while *biện pháp* emphasizes the action taken.",
+  "rank": 2280,
+  "definition": "measure",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:24:36.652Z",
+    "id": "2de53991-fd06-4cab-a829-a73ff8dbd90d",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need measures to solve the problem."
+      },
+      "translatedAnswer": {
+        "en": "measures"
+      },
+      "hint": "b___p",
+      "word": "biện pháp",
+      "answer": "biện pháp",
+      "language": "vi",
+      "choices": [
+        "giải pháp",
+        "biện pháp",
+        "phương pháp"
+      ],
+      "sentence": "Chúng ta cần ___ để giải quyết vấn đề."
+    },
+    "updatedAt": "2025-03-12T16:24:36.652Z"
+  },
+  "_id": "sYZUvXSNdwhjLJUyw8Rj"
+}

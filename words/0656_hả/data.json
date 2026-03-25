@@ -1,0 +1,98 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "hả",
+    "nhỉ",
+    "à"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "really",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 656,
+  "exampleSentences": [
+    "Anh sẽ đi du lịch Đà Nẵng vào tuần sau, hả?",
+    "Chị mới mua chiếc điện thoại mới, hả?",
+    "Em chưa ăn sáng, hả? Sao lại đói vậy?"
+  ],
+  "word": "hả",
+  "flashcard": {
+    "translations": {
+      "en": "huh",
+      "es": "¿eh?"
+    },
+    "example": {
+      "vi": "Bạn có thấy cái này hả?",
+      "es": "¿Ves esto?",
+      "en": "Do you see this?"
+    },
+    "createdAt": "2025-01-28T11:32:21.932Z",
+    "definitions": {
+      "en": "A particle used at the end of a question to seek confirmation or clarification.",
+      "es": "Una partícula utilizada al final de una pregunta para buscar confirmación o aclaración.",
+      "vi": "Một từ dùng ở cuối câu hỏi để tìm kiếm sự xác nhận hoặc làm rõ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "You are going to travel to Da Nang next week, really?",
+    "You just bought a new phone, really?",
+    "You haven’t had breakfast, really? Why are you so hungry?"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "it"
+      },
+      "word": "hả",
+      "sentence": "Bạn có ___ không?",
+      "language": "vi",
+      "hint": "h__",
+      "choices": [
+        "không",
+        "hả",
+        "được"
+      ],
+      "translation": {
+        "en": "Do you have it?"
+      },
+      "answer": "hả"
+    },
+    "createdAt": "2025-03-12T13:54:36.314Z",
+    "updatedAt": "2025-03-12T13:54:36.314Z",
+    "id": "d642527c-b61c-446f-972c-f3b771fff3b9",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**hả** is a question particle, often like “really?” or a soft “huh?” at the end of a sentence. It shows surprise, checking, or mild doubt.\n\nIt doesn’t change the grammar of the sentence — you just add it at the end with a rising tone. It turns a statement into a yes/no check or shows you’re reacting to new info.\n\n\nVery close to **à**, but **hả** often feels a bit more surprised or doubtful. Tone matters — say it rising, not flat.",
+  "updatedAt": "2026-03-03T07:27:25.905Z",
+  "notes": "hả is a question particle, often like “really?” or a soft “huh?” at the end of a sentence. It shows surprise, checking, or mild doubt.\n\nIt doesn’t change the grammar of the sentence — you just add it at the end with a rising tone. It turns a statement into a yes/no check or shows you’re reacting to new info.\n\nVery close to à, but hả often feels a bit more surprised or doubtful. Tone matters — say it rising, not flat.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "348812b2-27bd-47b6-9f81-efd9b95bcfb1",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Bạn có ___ không?",
+      "word": "hả",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "it"
+      },
+      "answer": "hả",
+      "translation": {
+        "en": "Do you have it?"
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:54:36.314Z",
+    "updatedAt": "2025-03-12T13:54:36.314Z"
+  },
+  "_id": "HHrSfuHp9Ygmx5yfGNw0"
+}

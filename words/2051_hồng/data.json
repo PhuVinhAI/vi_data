@@ -1,0 +1,99 @@
+{
+  "rank": 2051,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "rose",
+      "es": "rosa",
+      "vi": "hồng"
+    },
+    "definitions": {
+      "en": "A type of flower known for its beauty and fragrance, often associated with love.",
+      "es": "Un tipo de flor conocida por su belleza y fragancia, a menudo asociada con el amor.",
+      "vi": "Một loại hoa nổi tiếng với vẻ đẹp và hương thơm, thường liên quan đến tình yêu."
+    },
+    "createdAt": "2025-01-28T11:46:56.036Z",
+    "example": {
+      "vi": "Cái hoa hồng rất đẹp.",
+      "es": "La rosa es muy hermosa.",
+      "en": "The rose is very beautiful."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Chị rất thích mặc áo màu hồng vào những ngày trời nắng.",
+    "Em mua một bó hoa hồng để tặng mẹ nhân dịp sinh nhật.",
+    "Căn phòng của bé gái được sơn màu hồng rất dễ thương."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hồng** = pink. It’s a color word.\n\nIt’s an adjective and usually comes **after** the noun in Vietnamese.  \n\nVery common combo: **màu hồng** = the color pink (more explicit).  \n\nIt also means **rose** in **hoa hồng** (rose flower), and in business **tiền hoa hồng** means commission (money you earn from a deal).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hồng",
+  "multiChoiceQuiz": {
+    "id": "184bfd41-6dc5-4129-8180-aba8b6ddab15",
+    "content": {
+      "answer": "hồng",
+      "translatedAnswer": {
+        "en": "pink"
+      },
+      "language": "vi",
+      "choices": [
+        "đỏ",
+        "hồng",
+        "xanh"
+      ],
+      "translation": {
+        "en": "My favorite color is pink."
+      },
+      "sentence": "Màu sắc yêu thích của tôi là ___.",
+      "word": "hồng",
+      "hint": "h___g"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:09:41.757Z",
+    "createdAt": "2025-03-12T14:09:41.757Z"
+  },
+  "fillBlankQuiz": {
+    "id": "102a7038-4d18-41d9-96a8-6a3e5816ee6f",
+    "content": {
+      "translation": {
+        "en": "This flower is pink."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "hồng",
+      "sentence": "Hoa này có màu ___.",
+      "translatedAnswer": {
+        "en": "pink"
+      },
+      "answer": "hồng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:09:41.757Z",
+    "createdAt": "2025-03-12T14:09:41.757Z"
+  },
+  "definition": "pink",
+  "choices": [
+    "xanh",
+    "hồng",
+    "vàng"
+  ],
+  "updatedAt": "2026-03-03T09:55:11.544Z",
+  "exampleSentencesTranslated": [
+    "She really likes to wear a pink shirt on sunny days.",
+    "I bought a bunch of pink flowers to give my mom for her birthday.",
+    "The little girl's room is painted a very cute pink color."
+  ],
+  "notes": "hồng = pink. It’s a color word.\n\nIt’s an adjective and usually comes after the noun in Vietnamese.  \n\nVery common combo: màu hồng = the color pink (more explicit).  \n\nIt also means rose in hoa hồng (rose flower), and in business tiền hoa hồng means commission (money you earn from a deal).",
+  "_id": "KniCkgQdOdcDxtdZ2LSK"
+}

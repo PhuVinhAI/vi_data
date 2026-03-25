@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "block",
+  "rank": 2717,
+  "exampleSentences": [
+    "Anh có thể giúp em chặn lối vào này không?",
+    "Chị đã phải chặn số điện thoại của người làm phiền chị.",
+    "Em đặt ghế ở cửa để chặn gió thổi vào phòng."
+  ],
+  "word": "chặn",
+  "choices": [
+    "chặn",
+    "mở",
+    "giữ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you help me block this entrance?",
+    "She had to block the phone number of the person bothering her.",
+    "I put a chair at the door to block the wind from coming in."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:26:54.196Z",
+    "example": {
+      "en": "I blocked his way.",
+      "es": "Bloqueé su camino.",
+      "vi": "Tôi đã chặn đường đi của anh ấy."
+    },
+    "translations": {
+      "en": "block",
+      "vi": "chặn",
+      "es": "bloquear"
+    },
+    "definitions": {
+      "en": "To obstruct or prevent passage.",
+      "es": "Obstruir o prevenir el paso.",
+      "vi": "Cản trở hoặc ngăn chặn lối đi."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**chặn** = to block or stop something from moving or happening. It’s used when you physically block something or prevent something from reaching a place/person.\n\nYou can chặn a road, a ball, a message, a person, or even a signal. It’s also used for stopping contact (calls, messages) or cutting off access online.\n\n\nClose meanings: **ngăn**, **cản** (both = stop/prevent). Think of *chặn* as more direct, like putting something right in the way.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:48:33.500Z",
+    "content": {
+      "language": "vi",
+      "word": "chặn",
+      "sentence": "Chúng ta phải ___ xe lại.",
+      "translatedAnswer": {
+        "en": "block"
+      },
+      "translation": {
+        "en": "We have to block the car."
+      },
+      "answer": "chặn",
+      "hint": "c___n",
+      "choices": [
+        "cản",
+        "chặn",
+        "dừng"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:48:33.500Z",
+    "id": "e3702bd4-3150-4fc7-819b-f423d89bcf64",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T11:39:19.381Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "0feeb230-b50f-4951-bd02-0e484aa92ebc",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:48:33.500Z",
+    "content": {
+      "word": "chặn",
+      "sentence": "Tôi cần ___ đường đi.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "block"
+      },
+      "translation": {
+        "en": "I need to block the road."
+      },
+      "answer": "chặn",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:48:33.500Z"
+  },
+  "notes": "chặn = to block or stop something from moving or happening. It’s used when you physically block something or prevent something from reaching a place/person.\n\nYou can chặn a road, a ball, a message, a person, or even a signal. It’s also used for stopping contact (calls, messages) or cutting off access online.\n\nClose meanings: ngăn, cản (both = stop/prevent). Think of chặn as more direct, like putting something right in the way.",
+  "_id": "FXMElcfcS4IdrwMi0bFf"
+}

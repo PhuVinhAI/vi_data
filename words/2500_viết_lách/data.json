@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:25:45.256Z",
+    "content": {
+      "answer": "viết lách",
+      "translation": {
+        "en": "I enjoy writing at night."
+      },
+      "choices": [],
+      "word": "viết lách",
+      "sentence": "Tôi thích ___ vào buổi tối.",
+      "translatedAnswer": {
+        "en": "writing"
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "47a82b85-70e8-4008-99d9-292774ed4565",
+    "createdAt": "2025-03-12T14:25:45.256Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "writing",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "writing",
+      "vi": "viết lách",
+      "es": "escritura"
+    },
+    "definitions": {
+      "es": "El acto de escribir, especialmente en un contexto creativo o literario.",
+      "vi": "Hành động viết, đặc biệt là trong bối cảnh sáng tạo hoặc văn học.",
+      "en": "The act of writing, especially in a creative or literary context."
+    },
+    "createdAt": "2025-01-28T12:01:35.688Z",
+    "example": {
+      "en": "I enjoy writing in the evening.",
+      "vi": "Tôi thích viết lách vào buổi tối.",
+      "es": "Disfruto escribir por la noche."
+    }
+  },
+  "exampleSentences": [
+    "Chị ấy dành nhiều thời gian cho viết lách mỗi buổi tối.",
+    "Anh đang học viết lách để cải thiện kỹ năng tiếng Việt.",
+    "Em cảm thấy vui khi được tham gia câu lạc bộ viết lách ở trường."
+  ],
+  "notes_md": "**Viết lách** means writing, especially creative or literary writing (stories, articles, personal writing). It often feels a bit informal, like “doing some writing.”\n\nIt’s an uncountable noun — you don’t use classifiers with it. Common pairings: *thích viết lách*, *đam mê viết lách*, *làm nghề viết lách*.  \n\nIt focuses more on the activity or craft, not just the act of writing words down.\n\nClose synonym: **viết văn** (more specific to literary writing).",
+  "choices": [
+    "vẽ tranh",
+    "viết lách",
+    "đọc sách"
+  ],
+  "notes": "Viết lách means writing, especially creative or literary writing (stories, articles, personal writing). It often feels a bit informal, like “doing some writing.”\n\nIt’s an uncountable noun — you don’t use classifiers with it. Common pairings: thích viết lách, đam mê viết lách, làm nghề viết lách.  \n\nIt focuses more on the activity or craft, not just the act of writing words down.\n\nClose synonym: viết văn (more specific to literary writing).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:25:45.256Z",
+    "id": "5f07ee9d-a67d-41f7-ab97-a548987e8f9b",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "writing"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích ___ vào buổi tối.",
+      "hint": "v____h",
+      "translation": {
+        "en": "I enjoy writing at night."
+      },
+      "answer": "viết lách",
+      "word": "viết lách",
+      "choices": [
+        "viết lách",
+        "đọc sách",
+        "học bài"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:25:45.256Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "viết lách",
+  "rank": 2500,
+  "exampleSentencesTranslated": [
+    "She spends a lot of time on writing every evening.",
+    "He is learning writing to improve his Vietnamese skills.",
+    "I feel happy to join the writing club at school."
+  ],
+  "updatedAt": "2026-03-03T10:42:06.070Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "OYrhweMrLa27QVXrgaX5"
+}

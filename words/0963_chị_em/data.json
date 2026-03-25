@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "My sister and I are very close.",
+      "vi": "Chị em tôi rất thân thiết.",
+      "es": "Mi hermana y yo somos muy unidas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chị em",
+      "es": "hermana",
+      "en": "sister"
+    },
+    "definitions": {
+      "en": "Sister; a term used to refer to a female sibling.",
+      "vi": "Chị em; thuật ngữ dùng để chỉ một người chị hoặc em gái.",
+      "es": "Hermana; un término utilizado para referirse a una hermana femenina."
+    },
+    "createdAt": "2025-01-28T12:00:41.309Z"
+  },
+  "exampleSentences": [
+    "Chị em thường cùng nhau đi mua sắm vào cuối tuần.",
+    "Mỗi khi có chuyện buồn, chị em luôn chia sẻ với nhau.",
+    "Gia đình anh có bốn chị em rất thân thiết và yêu thương nhau."
+  ],
+  "rank": 963,
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I go out with my sister on the weekend."
+      },
+      "sentence": "Tôi đi chơi với ___ vào cuối tuần.",
+      "word": "chị em",
+      "answer": "chị em",
+      "translatedAnswer": {
+        "en": "sister"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "5c8bafb1-d73b-4f7b-b3b1-de82a491b96f",
+    "createdAt": "2025-03-12T14:24:47.299Z",
+    "updatedAt": "2025-03-12T14:24:47.299Z"
+  },
+  "definition": "sisters",
+  "choices": [
+    "chị em",
+    "bạn bè",
+    "anh em"
+  ],
+  "updatedAt": "2026-03-03T07:58:18.704Z",
+  "notes": "Chị em means sisters — usually biological sisters in the same family.  \n\nIt’s a plural noun phrase. You can count it with numbers in front: hai chị em, ba chị em (no extra classifier needed). Often used to talk about the relationship as a unit, not each person separately.  \n\nIt can also mean female siblings in general (including cousins in some contexts) or even women who are close like sisters.  \n\nMemory tip: chị = older sister, so chị em often focuses on the sister side of siblings.",
+  "exampleSentencesTranslated": [
+    "Sisters often go shopping together on weekends.",
+    "Whenever there is something sad, sisters always share with each other.",
+    "His family has four sisters who are very close and love each other."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Chị em** means *sisters* — usually biological sisters in the same family.  \n\nIt’s a plural noun phrase. You can count it with numbers in front: *hai chị em, ba chị em* (no extra classifier needed). Often used to talk about the relationship as a unit, not each person separately.  \n\nIt can also mean *female siblings in general* (including cousins in some contexts) or even *women who are close like sisters*.  \n\nMemory tip: **chị** = older sister, so *chị em* often focuses on the sister side of siblings.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chị em",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "chị em",
+      "translatedAnswer": {
+        "en": "sister"
+      },
+      "sentence": "Tôi đi chơi với ___ vào cuối tuần.",
+      "hint": "c___m",
+      "word": "chị em",
+      "choices": [
+        "chị em",
+        "bạn bè",
+        "người thân"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "I go out with my sister on the weekend."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "3ad09429-7984-4246-b7e9-3cf4626e8f88",
+    "createdAt": "2025-03-12T14:24:47.299Z",
+    "updatedAt": "2025-03-12T14:24:47.299Z"
+  },
+  "_id": "OGZrRwYY6TFLqtAKyyhX"
+}

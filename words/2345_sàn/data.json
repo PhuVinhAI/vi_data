@@ -1,0 +1,99 @@
+{
+  "definition": "floor",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:50:32.333Z",
+    "id": "337f8965-e20a-47b6-bf09-cce3fb8d333d",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "floor"
+      },
+      "language": "vi",
+      "sentence": "Sàn ___ rất sạch sẽ.",
+      "answer": "sàn",
+      "translation": {
+        "en": "The floor is very clean."
+      },
+      "choices": [],
+      "word": "sàn"
+    },
+    "updatedAt": "2025-03-12T14:50:32.333Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em vừa lau sàn sạch sẽ nên đừng đi vào nhé.",
+    "Anh để giày trên sàn phòng khách mỗi tối sau khi về nhà.",
+    "Chị nhặt quyển sách rơi trên sàn lên giùm em được không?"
+  ],
+  "notes_md": "**sàn** = floor, the flat surface you walk on inside a building.  \n\nIt’s a noun; often used as **sàn nhà** (house floor). You’ll hear **trên sàn / dưới sàn** (on the floor / under the floor) and materials like **sàn gỗ** (wooden floor), **sàn bê tông** (concrete floor). You can say **cái sàn**, but usually just **sàn** is enough.  \n\nVery common second meaning: **sàn** = platform/exchange, like **sàn chứng khoán** (stock exchange) or **sàn thương mại điện tử** (e-commerce platform).  \n\nClose word: **nền** (ground/floor surface), but **nền** feels more like the base surface, while **sàn** is the constructed floor you stand on.",
+  "flashcard": {
+    "translations": {
+      "vi": "sàn",
+      "en": "floor",
+      "es": "suelo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Limpié el suelo.",
+      "vi": "Tôi đã lau sàn nhà.",
+      "en": "I cleaned the floor."
+    },
+    "definitions": {
+      "es": "La superficie inferior de una habitación sobre la que se puede caminar.",
+      "en": "The lower surface of a room on which one may walk.",
+      "vi": "Bề mặt dưới cùng của một căn phòng mà người ta có thể đi lại."
+    },
+    "createdAt": "2025-01-28T12:24:08.570Z"
+  },
+  "notes": "sàn = floor, the flat surface you walk on inside a building.  \n\nIt’s a noun; often used as sàn nhà (house floor). You’ll hear trên sàn / dưới sàn (on the floor / under the floor) and materials like sàn gỗ (wooden floor), sàn bê tông (concrete floor). You can say cái sàn, but usually just sàn is enough.  \n\nVery common second meaning: sàn = platform/exchange, like sàn chứng khoán (stock exchange) or sàn thương mại điện tử (e-commerce platform).  \n\nClose word: nền (ground/floor surface), but nền feels more like the base surface, while sàn is the constructed floor you stand on.",
+  "choices": [
+    "trần",
+    "tường",
+    "sàn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:26:34.375Z",
+  "exampleSentencesTranslated": [
+    "I just cleaned the floor so please don’t walk in yet.",
+    "He leaves his shoes on the floor of the living room every evening after coming home.",
+    "Can you pick up the book that fell on the floor for me?"
+  ],
+  "rank": 2345,
+  "word": "sàn",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng ta nên lau ___.",
+      "translatedAnswer": {
+        "en": "floor"
+      },
+      "language": "vi",
+      "word": "sàn",
+      "choices": [
+        "tường",
+        "sàn",
+        "trần"
+      ],
+      "hint": "s__n",
+      "translation": {
+        "en": "We should clean the floor."
+      },
+      "answer": "sàn"
+    },
+    "updatedAt": "2025-03-12T14:50:32.333Z",
+    "id": "df6fff75-9779-43a7-b00d-dc270a913733",
+    "createdAt": "2025-03-12T14:50:32.333Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "UEVc0o7J9iyCTizDzxL1"
+}

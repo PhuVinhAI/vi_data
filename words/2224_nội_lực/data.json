@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "inner strength",
+  "rank": 2224,
+  "fillBlankQuiz": {
+    "id": "8fe2d10a-67db-407a-a7c3-1b063c664435",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:30:57.332Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "She has strong inner strength."
+      },
+      "answer": "nội lực",
+      "translatedAnswer": {
+        "en": "inner strength"
+      },
+      "language": "vi",
+      "word": "nội lực",
+      "sentence": "Cô ấy có ___ mạnh mẽ."
+    },
+    "updatedAt": "2025-03-12T16:30:57.332Z"
+  },
+  "notes_md": "**Nội lực** means *inner strength* — the mental and emotional power inside you that helps you handle pressure or hardship.\n\nIt’s an uncountable noun; you don’t count it, you talk about having it, building it, or showing it. Common pairings: **có nội lực**, **rèn luyện nội lực**, **phát huy nội lực**, **nội lực mạnh/yếu**.  \n\nIt often refers to emotional stability, resilience, and self-control — not physical strength.  \n\nClose ideas: **sức mạnh nội tâm**, **bản lĩnh**. Opposite feeling: **yếu đuối** (weak, fragile).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:01:58.937Z",
+    "translations": {
+      "es": "fuerza interior",
+      "en": "inner strength",
+      "vi": "nội lực"
+    },
+    "definitions": {
+      "en": "The inner strength or power that a person possesses.",
+      "es": "La fuerza o poder interior que posee una persona.",
+      "vi": "Sức mạnh hoặc quyền lực bên trong mà một người sở hữu."
+    },
+    "example": {
+      "vi": "Mỗi người đều có nội lực để vượt qua khó khăn.",
+      "en": "Everyone has the inner strength to overcome difficulties.",
+      "es": "Cada persona tiene la fuerza interior para superar las dificultades."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Nội lực means inner strength — the mental and emotional power inside you that helps you handle pressure or hardship.\n\nIt’s an uncountable noun; you don’t count it, you talk about having it, building it, or showing it. Common pairings: có nội lực, rèn luyện nội lực, phát huy nội lực, nội lực mạnh/yếu.  \n\nIt often refers to emotional stability, resilience, and self-control — not physical strength.  \n\nClose ideas: sức mạnh nội tâm, bản lĩnh. Opposite feeling: yếu đuối (weak, fragile).",
+  "word": "nội lực",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He believes that inner strength helps him overcome difficulties in life.",
+    "She always tries to develop inner strength so pressure does not affect her.",
+    "When facing challenges, you need to use your inner strength to succeed."
+  ],
+  "choices": [
+    "nội lực",
+    "ngoại hình",
+    "kiến thức"
+  ],
+  "updatedAt": "2026-03-03T10:13:27.235Z",
+  "exampleSentences": [
+    "Anh tin rằng nội lực giúp mình vượt qua những khó khăn trong cuộc sống.",
+    "Chị ấy luôn cố gắng rèn luyện nội lực để không bị áp lực ảnh hưởng.",
+    "Khi gặp thử thách, em cần phát huy nội lực của bản thân để thành công."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "nội lực",
+      "hint": "n___c",
+      "sentence": "Cô ấy có ___ mạnh mẽ.",
+      "translatedAnswer": {
+        "en": "inner strength"
+      },
+      "choices": [
+        "năng lực",
+        "nội lực",
+        "sức mạnh"
+      ],
+      "answer": "nội lực",
+      "translation": {
+        "en": "She has strong inner strength."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:30:57.332Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:30:57.332Z",
+    "id": "ef7e7fa8-2b80-4f8f-b340-89b83e838de2"
+  },
+  "_id": "uGE2rgwkpu3x3oHTQfVM"
+}

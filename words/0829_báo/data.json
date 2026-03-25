@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "54bd9e8b-8122-4502-9ca8-296edab57ad0",
+    "createdAt": "2025-03-12T14:59:58.603Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "newspaper"
+      },
+      "translation": {
+        "en": "I read the newspaper daily."
+      },
+      "sentence": "Tôi đọc ___ hàng ngày.",
+      "language": "vi",
+      "word": "báo",
+      "answer": "báo"
+    },
+    "updatedAt": "2025-03-12T14:59:58.603Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:44:45.003Z",
+  "exampleSentencesTranslated": [
+    "This morning I read an interesting article in the newspaper.",
+    "She usually buys the newspaper at the store near her house every morning.",
+    "I want to know the latest news so I often read the newspaper online."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:32:56.376Z",
+    "definitions": {
+      "en": "A publication containing news, articles, advertisements, and other information.",
+      "es": "Una publicación que contiene noticias, artículos, anuncios y otra información.",
+      "vi": "Một ấn phẩm chứa tin tức, bài viết, quảng cáo và thông tin khác."
+    },
+    "example": {
+      "en": "I read the newspaper every morning.",
+      "es": "Leo el periódico cada mañana.",
+      "vi": "Tôi đọc báo mỗi sáng."
+    },
+    "translations": {
+      "en": "newspaper",
+      "es": "periódico",
+      "vi": "báo"
+    }
+  },
+  "notes_md": "**Báo** usually means *newspaper*. It’s a countable noun: use **tờ báo** for one issue, and common pairings are **đọc báo**, **mua báo**, **bài báo** (an article).\n\nIt can also mean *to inform / to report* (very common verb meaning).  \n\nRelated word: **tin tức** = news (the information), while **báo** is the newspaper itself.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "newspaper",
+  "choices": [
+    "sách",
+    "báo",
+    "tạp chí"
+  ],
+  "rank": 829,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:59:58.603Z",
+    "updatedAt": "2025-03-12T14:59:58.603Z",
+    "content": {
+      "sentence": "Tôi cần mua một ___ mới.",
+      "word": "báo",
+      "language": "vi",
+      "hint": "b__",
+      "answer": "báo",
+      "translatedAnswer": {
+        "en": "newspaper"
+      },
+      "choices": [
+        "sách",
+        "báo",
+        "tạp chí"
+      ],
+      "translation": {
+        "en": "I need to buy a new newspaper."
+      }
+    },
+    "id": "b6726b3d-66b7-47f0-81a1-72ea8ef95a34"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sáng nay anh đã đọc một bài viết thú vị trên báo.",
+    "Chị thường mua báo ở cửa hàng gần nhà mỗi sáng.",
+    "Em muốn biết tin tức mới nhất nên hay xem báo online."
+  ],
+  "notes": "Báo usually means newspaper. It’s a countable noun: use tờ báo for one issue, and common pairings are đọc báo, mua báo, bài báo (an article).\n\nIt can also mean to inform / to report (very common verb meaning).  \n\nRelated word: tin tức = news (the information), while báo is the newspaper itself.",
+  "word": "báo",
+  "_id": "WxBqOppZiGEmMO6oJm3e"
+}

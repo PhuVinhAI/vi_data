@@ -1,0 +1,99 @@
+{
+  "word": "điều kiện",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "424369f6-ef88-48aa-912c-b963301f8a48",
+    "createdAt": "2025-03-12T14:37:46.382Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ để bắt đầu.",
+      "translatedAnswer": {
+        "en": "conditions"
+      },
+      "language": "vi",
+      "hint": "đ___n",
+      "answer": "điều kiện",
+      "translation": {
+        "en": "We need conditions to start."
+      },
+      "word": "điều kiện",
+      "choices": [
+        "điều kiện",
+        "khó khăn",
+        "tiêu chuẩn"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:37:46.382Z"
+  },
+  "exampleSentencesTranslated": [
+    "I will help you if you meet the condition.",
+    "You need to carefully review the conditions before signing the contract.",
+    "The weather condition today is not good for going out."
+  ],
+  "rank": 788,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:40:35.688Z",
+  "choices": [
+    "điều kiện",
+    "kết quả",
+    "thời gian"
+  ],
+  "notes": "Điều kiện means a condition — something that must be met for something else to happen. It can also mean the circumstances/situation around something (living conditions, working conditions).\n\nIt’s a noun. You usually just say điều kiện without a classifier. Very common with verbs like đáp ứng điều kiện (meet conditions), đặt điều kiện (set conditions), có đủ điều kiện (be qualified/eligible).\n\nClose word: yêu cầu = requirement (more like a specific demand), while điều kiện is the overall condition needed.",
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta cần thảo luận về điều kiện hợp tác.",
+      "en": "We need to discuss the conditions for cooperation.",
+      "es": "Necesitamos discutir las condiciones para la cooperación."
+    },
+    "createdAt": "2025-01-28T12:13:30.439Z",
+    "definitions": {
+      "en": "A requirement or stipulation that must be met.",
+      "vi": "Một yêu cầu hoặc điều khoản cần phải được đáp ứng.",
+      "es": "Un requisito o estipulación que debe cumplirse."
+    },
+    "translations": {
+      "es": "condición",
+      "vi": "điều kiện",
+      "en": "condition"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh sẽ giúp em nếu em đáp ứng đủ điều kiện.",
+    "Chị cần xem kỹ các điều kiện trước khi ký hợp đồng.",
+    "Điều kiện thời tiết hôm nay không thuận lợi cho việc đi chơi."
+  ],
+  "notes_md": "**Điều kiện** means a *condition* — something that must be met for something else to happen. It can also mean the *circumstances/situation* around something (living conditions, working conditions).\n\nIt’s a noun. You usually just say **điều kiện** without a classifier. Very common with verbs like **đáp ứng điều kiện** (meet conditions), **đặt điều kiện** (set conditions), **có đủ điều kiện** (be qualified/eligible).\n\n\nClose word: **yêu cầu** = requirement (more like a specific demand), while **điều kiện** is the overall condition needed.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:37:46.382Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "conditions"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để bắt đầu.",
+      "translation": {
+        "en": "We need conditions to start."
+      },
+      "answer": "điều kiện",
+      "word": "điều kiện",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "id": "ef0386bd-bb85-4a49-bec7-4f6afb3160c6",
+    "createdAt": "2025-03-12T14:37:46.382Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "condition",
+  "_id": "RLmQx2WJbQx4voVI9ZGT"
+}

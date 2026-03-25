@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "This morning I have to sweep the house before going to school.",
+    "Can you help me sweep the yard on the weekend?",
+    "Every day grandma usually sweeps the path in front of the house."
+  ],
+  "updatedAt": "2026-03-03T17:58:29.639Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "en": "To clean a surface by brushing away dirt or debris.",
+      "es": "Limpiar una superficie cepillando la suciedad o los desechos.",
+      "vi": "Làm sạch một bề mặt bằng cách quét đi bụi bẩn hoặc rác."
+    },
+    "createdAt": "2025-01-28T13:28:07.834Z",
+    "example": {
+      "es": "Voy a barrer la casa por la mañana.",
+      "en": "I will sweep the house in the morning.",
+      "vi": "Tôi sẽ quét nhà vào buổi sáng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "barrer",
+      "en": "sweep",
+      "vi": "quét"
+    }
+  },
+  "word": "quét",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9fa7a933-d587-4818-93bd-64b2b94ef5c7",
+    "content": {
+      "translation": {
+        "en": "I will sweep the front yard."
+      },
+      "word": "quét",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sweep"
+      },
+      "answer": "quét",
+      "sentence": "Tôi sẽ ___ sân trước.",
+      "choices": [
+        "quét",
+        "rửa",
+        "dọn"
+      ],
+      "hint": "q__t"
+    },
+    "updatedAt": "2025-03-12T15:56:02.184Z",
+    "createdAt": "2025-03-12T15:56:02.184Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**quét** = to sweep (use a broom to clean the floor or ground).\n\nIt’s a verb. You usually quét + a place or surface (quét nhà, quét sân, quét sàn) or quét + dirt/trash (quét rác, quét lá). The focus is on the cleaning action with a broom.\n\nIt can also mean “to swipe” (a card/phone screen) or “to scan” (like radar or eyes scanning an area), so think of a wide back‑and‑forth movement.\n\nClose memory link: *lau* = wipe (with a cloth), while *quét* is specifically sweeping with a broom.",
+  "notes": "quét = to sweep (use a broom to clean the floor or ground).\n\nIt’s a verb. You usually quét + a place or surface (quét nhà, quét sân, quét sàn) or quét + dirt/trash (quét rác, quét lá). The focus is on the cleaning action with a broom.\n\nIt can also mean “to swipe” (a card/phone screen) or “to scan” (like radar or eyes scanning an area), so think of a wide back‑and‑forth movement.\n\nClose memory link: lau = wipe (with a cloth), while quét is specifically sweeping with a broom.",
+  "definition": "sweep",
+  "rank": 2799,
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:56:02.184Z",
+    "createdAt": "2025-03-12T15:56:02.184Z",
+    "id": "cd010121-82e7-4307-b1bb-c0986953fd16",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi cần ___ nhà cửa.",
+      "translatedAnswer": {
+        "en": "sweep"
+      },
+      "answer": "quét",
+      "language": "vi",
+      "translation": {
+        "en": "I need to sweep the house."
+      },
+      "word": "quét"
+    }
+  },
+  "choices": [
+    "lau",
+    "quét",
+    "rửa"
+  ],
+  "exampleSentences": [
+    "Sáng nay em phải quét nhà trước khi đi học.",
+    "Anh có thể giúp chị quét sân vào cuối tuần không?",
+    "Mỗi ngày bà thường quét lối đi trước cửa nhà."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "l1BPtf5Mb8xIVjZ6Ugai"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:22:47.485Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "wish"
+      },
+      "translation": {
+        "en": "I wish to have a small house."
+      },
+      "choices": [],
+      "word": "ước",
+      "answer": "ước",
+      "language": "vi",
+      "sentence": "Tôi ___ có một ngôi nhà nhỏ."
+    },
+    "id": "28939543-2eb0-4eee-828f-237fcdd1d762",
+    "createdAt": "2025-03-12T17:22:47.485Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "ước",
+  "multiChoiceQuiz": {
+    "id": "8cf5f1eb-916e-4604-b71c-bde615b479f3",
+    "createdAt": "2025-03-12T17:22:47.485Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T17:22:47.485Z",
+    "content": {
+      "hint": "ư__",
+      "translation": {
+        "en": "I wish to have a small house."
+      },
+      "translatedAnswer": {
+        "en": "wish"
+      },
+      "language": "vi",
+      "choices": [
+        "ước",
+        "thích",
+        "muốn"
+      ],
+      "answer": "ước",
+      "word": "ước",
+      "sentence": "Tôi ___ có một ngôi nhà nhỏ."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "definition": "wish",
+  "rank": 1936,
+  "notes_md": "**Ước** means *to wish* — usually for something unreal, hard, or not true right now. It feels more dreamy or regretful than **muốn** (which is just “want”).\n\nYou use it with a full clause (subject + verb). It often talks about present unreal situations or past regrets.\n\n\nAs a noun, it appears in **điều ước** = “a wish.”  \nClose in meaning: **mong** (hope, softer and more realistic).",
+  "updatedAt": "2026-03-03T09:42:54.304Z",
+  "exampleSentencesTranslated": [
+    "I wish I could travel with my family in the summer.",
+    "I wish I learned English better to find a good job.",
+    "I wish time would slow down when I am with my loved ones."
+  ],
+  "exampleSentences": [
+    "Em ước có thể đi du lịch cùng gia đình vào mùa hè.",
+    "Anh ước mình học tiếng Anh giỏi hơn để tìm công việc tốt.",
+    "Chị ước thời gian trôi chậm lại khi ở bên người thân."
+  ],
+  "choices": [
+    "ước",
+    "học",
+    "nghĩ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "I dream of becoming a doctor.",
+      "es": "Sueño con ser médico.",
+      "vi": "Tôi ước mơ trở thành bác sĩ."
+    },
+    "translations": {
+      "vi": "ước",
+      "es": "deseo",
+      "en": "wish"
+    },
+    "definitions": {
+      "vi": "Muốn hoặc mơ về điều gì đó.",
+      "es": "Desear o soñar con algo.",
+      "en": "To wish or to dream about something."
+    },
+    "createdAt": "2025-01-28T13:48:36.476Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Ước means to wish — usually for something unreal, hard, or not true right now. It feels more dreamy or regretful than muốn (which is just “want”).\n\nYou use it with a full clause (subject + verb). It often talks about present unreal situations or past regrets.\n\nAs a noun, it appears in điều ước = “a wish.”  \nClose in meaning: mong (hope, softer and more realistic).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "qqvPU2fyib2Rerxl61Ju"
+}

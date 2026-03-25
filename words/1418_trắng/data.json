@@ -1,0 +1,99 @@
+{
+  "definition": "white",
+  "flashcard": {
+    "definitions": {
+      "es": "El color blanco.",
+      "vi": "Màu trắng.",
+      "en": "The color white."
+    },
+    "example": {
+      "es": "El cielo está muy blanco hoy.",
+      "vi": "Bầu trời hôm nay rất trắng.",
+      "en": "The sky is very white today."
+    },
+    "translations": {
+      "en": "white",
+      "vi": "trắng",
+      "es": "blanco"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:03:16.996Z"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:22:45.730Z",
+    "id": "9ad87f59-f4aa-43be-830f-ca2243d9f7ed",
+    "content": {
+      "word": "trắng",
+      "language": "vi",
+      "sentence": "Bức tranh này có màu ___.",
+      "choices": [],
+      "answer": "trắng",
+      "translation": {
+        "en": "This painting is white."
+      },
+      "translatedAnswer": {
+        "en": "white"
+      }
+    },
+    "createdAt": "2025-03-12T13:22:45.730Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "This morning I wore a white shirt to work.",
+    "She likes to drink iced coffee with a lot of white milk.",
+    "This flower has very beautiful white petals."
+  ],
+  "exampleSentences": [
+    "Sáng nay anh mặc áo sơ mi trắng đi làm.",
+    "Chị thích uống cà phê sữa đá nhưng phải nhiều sữa trắng.",
+    "Bông hoa này có cánh màu trắng rất đẹp."
+  ],
+  "updatedAt": "2026-03-03T08:47:38.208Z",
+  "notes": "trắng means white — the color of snow, milk, paper. It’s an adjective and comes after the noun it describes.\n\nIt describes color, but can also mean pale (skin, face) depending on context. In some set phrases, it has extended meanings, like trắng tay = empty‑handed (literally “white hands”). Opposite to remember: đen (black).",
+  "choices": [
+    "đen",
+    "trắng",
+    "xanh"
+  ],
+  "rank": 1418,
+  "notes_md": "**trắng** means *white* — the color of snow, milk, paper. It’s an adjective and comes **after** the noun it describes.\n\n\nIt describes color, but can also mean *pale* (skin, face) depending on context. In some set phrases, it has extended meanings, like **trắng tay** = empty‑handed (literally “white hands”). Opposite to remember: **đen** (black).",
+  "multiChoiceQuiz": {
+    "id": "e140a69b-1216-4ad4-84a5-83a4da65a028",
+    "content": {
+      "language": "vi",
+      "sentence": "Cô ấy mặc áo ___ hôm nay.",
+      "word": "trắng",
+      "choices": [
+        "trắng",
+        "đen",
+        "xanh"
+      ],
+      "hint": "t___g",
+      "answer": "trắng",
+      "translatedAnswer": {
+        "en": "white"
+      },
+      "translation": {
+        "en": "She is wearing a white shirt today."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:22:45.730Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:22:45.730Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "trắng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "9CLwjEy6yE8HFd01QcUi"
+}

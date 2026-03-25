@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I bought a new bag."
+      },
+      "word": "cặp",
+      "choices": [],
+      "sentence": "Tôi mua một ___ mới.",
+      "translatedAnswer": {
+        "en": "bag"
+      },
+      "answer": "cặp"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "7af24056-3bbd-4145-9ad6-338bb56e1163",
+    "createdAt": "2025-03-12T15:45:10.406Z",
+    "updatedAt": "2025-03-12T15:45:10.406Z"
+  },
+  "choices": [
+    "cặp",
+    "bàn",
+    "xe"
+  ],
+  "exampleSentences": [
+    "Anh vừa mua một cặp giày mới cho buổi tiệc tối nay.",
+    "Em thường mang theo một cặp bút khi đến trường để phòng trường hợp bị mất.",
+    "Chị thấy trên bàn có một cặp kính mà không biết của ai."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "cặp = a pair — two things that go together.\n\nIt’s a noun. Use một cặp + noun for things that come in twos: một cặp giày, một cặp vớ, một cặp chim.  \nVery similar to đôi; both mean “pair,” but đôi often feels more natural for body parts or natural pairs (đôi mắt, đôi tay), while cặp is common for objects.  \nIt can also mean a romantic couple: một cặp (đôi).  \nAnother very common meaning: cái cặp = a school bag / briefcase.",
+  "definition": "pair",
+  "rank": 1372,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:45:10.406Z",
+    "createdAt": "2025-03-12T15:45:10.406Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "361321bb-9c1c-402f-b740-14bbdbd9311a",
+    "content": {
+      "translatedAnswer": {
+        "en": "bag"
+      },
+      "answer": "cặp",
+      "hint": "c__p",
+      "sentence": "Tôi cần một ___ để đựng sách.",
+      "choices": [
+        "cặp",
+        "hộp",
+        "túi"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "I need a bag to carry books."
+      },
+      "word": "cặp"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cặp** = a *pair* — two things that go together.\n\nIt’s a noun. Use **một cặp + noun** for things that come in twos: *một cặp giày, một cặp vớ, một cặp chim*.  \nVery similar to **đôi**; both mean “pair,” but **đôi** often feels more natural for body parts or natural pairs (*đôi mắt, đôi tay*), while **cặp** is common for objects.  \nIt can also mean a romantic couple: **một cặp (đôi)**.  \nAnother very common meaning: **cái cặp** = a school bag / briefcase.",
+  "exampleSentencesTranslated": [
+    "I just bought a new pair of shoes for the party tonight.",
+    "I usually bring a pair of pens to school in case I lose one.",
+    "I see a pair of glasses on the table but don't know whose they are."
+  ],
+  "updatedAt": "2026-03-03T08:42:41.928Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "en": "A pair or couple of items, often used to refer to matching objects.",
+      "es": "Un par o pareja de objetos, a menudo utilizado para referirse a objetos que coinciden.",
+      "vi": "Một cặp hoặc đôi vật, thường được dùng để chỉ những vật tương ứng."
+    },
+    "createdAt": "2025-01-28T13:17:39.409Z",
+    "example": {
+      "vi": "Tôi có một cặp giày mới.",
+      "es": "Tengo un par de zapatos nuevos.",
+      "en": "I have a new pair of shoes."
+    },
+    "translations": {
+      "es": "par",
+      "en": "pair",
+      "vi": "cặp"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "cặp",
+  "_id": "iKaQVqITGeZoFff47FFY"
+}

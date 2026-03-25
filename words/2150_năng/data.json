@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a5e5e353-7746-4744-a76d-80f1f9f1b0e9",
+    "content": {
+      "hint": "n___",
+      "answer": "năng",
+      "translation": {
+        "en": "She is very energetic in her work."
+      },
+      "translatedAnswer": {
+        "en": "energetic"
+      },
+      "word": "năng",
+      "sentence": "Cô ấy rất ___ trong công việc.",
+      "language": "vi",
+      "choices": [
+        "năng",
+        "khéo",
+        "giỏi"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:36.395Z",
+    "updatedAt": "2025-03-12T13:33:36.395Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**năng** means *diligent, hardworking*, but it’s rarely used alone in modern Vietnamese. You’ll almost always see it inside compounds.\n\nMost common combos: **siêng năng**, **chăm năng** (more natural: *chăm chỉ*). It describes a person who works or studies consistently and seriously.\n\nStrong memory links: **chăm chỉ / siêng năng** (synonyms), **lười** (lazy – opposite).\n\nOn its own, *năng* sounds formal or incomplete — think of it as a building block inside bigger words.",
+  "rank": 2150,
+  "choices": [
+    "lười",
+    "năng",
+    "chậm"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "năng",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:36.395Z",
+    "content": {
+      "translation": {
+        "en": "She is very energetic in her work."
+      },
+      "translatedAnswer": {
+        "en": "energetic"
+      },
+      "answer": "năng",
+      "choices": [],
+      "word": "năng",
+      "sentence": "Cô ấy rất ___ trong công việc.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:36.395Z",
+    "id": "68f19ae9-c0a3-4fc4-bab9-1e733e65c0c4",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "You should be diligent in studying every night to get good results.",
+    "He is very diligent at work in the office.",
+    "You should be diligent in exercising to stay healthy."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:13:16.169Z",
+    "translations": {
+      "es": "enérgico",
+      "vi": "năng động",
+      "en": "energetic"
+    },
+    "example": {
+      "en": "She is very energetic.",
+      "vi": "Cô ấy rất năng động.",
+      "es": "Ella es muy enérgica."
+    },
+    "definitions": {
+      "es": "Tener o mostrar mucha energía o entusiasmo.",
+      "vi": "Có hoặc thể hiện nhiều năng lượng hoặc nhiệt huyết.",
+      "en": "Having or showing a lot of energy or enthusiasm."
+    }
+  },
+  "definition": "diligent",
+  "notes": "năng means diligent, hardworking, but it’s rarely used alone in modern Vietnamese. You’ll almost always see it inside compounds.\n\nMost common combos: siêng năng, chăm năng (more natural: chăm chỉ). It describes a person who works or studies consistently and seriously.\n\nStrong memory links: chăm chỉ / siêng năng (synonyms), lười (lazy – opposite).\n\nOn its own, năng sounds formal or incomplete — think of it as a building block inside bigger words.",
+  "updatedAt": "2026-03-03T10:05:20.414Z",
+  "exampleSentences": [
+    "Em luôn năng học bài mỗi tối để đạt kết quả tốt.",
+    "Anh ấy là người rất năng trong công việc ở văn phòng.",
+    "Chị nên năng luyện tập thể thao để giữ sức khỏe tốt."
+  ],
+  "_id": "Bm4mOwYjcZwveB8TDpEY"
+}

@@ -1,0 +1,101 @@
+{
+  "word": "người ta",
+  "rank": 93,
+  "exampleSentences": [
+    "người ta bán trái cây tươi ngon",
+    "người ta nấu cơm ngon",
+    "người ta sửa xe máy cũ"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "people",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "người ta (people) + bán (sell) + trái cây (fruit) + tươi ngon (fresh delicious)",
+    "người ta (people) + nấu (cook) + cơm (rice) + ngon (tasty)",
+    "người ta (people) + sửa (fix) + xe máy (motorbike) + cũ (old)"
+  ],
+  "choices": [
+    "mọi người",
+    "người ta",
+    "chúng ta"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:37:14.970Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "people"
+      },
+      "word": "người ta",
+      "sentence": "___ thường đi bộ trên phố.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "People often walk on the street."
+      },
+      "answer": "người ta"
+    },
+    "createdAt": "2025-03-12T13:37:14.970Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "af56178d-0fe2-49ea-b062-e03d4c742fb0"
+  },
+  "notes": "Người ta usually means “people” in general, like “they” or “people” in English when you don’t say exactly who. It’s vague and impersonal.\n\nYou use it before a verb to talk about what people do or think in general.  \n\nIt can also mean “other people” in contrast with you, or even “someone else” in a relationship context (a romantic rival).  \n\nSimilar idea to họ (they), but người ta is more general and less specific.",
+  "updatedAt": "2026-03-03T06:12:29.216Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:37:14.970Z",
+    "createdAt": "2025-03-12T13:37:14.970Z",
+    "content": {
+      "hint": "người ___",
+      "choices": [
+        "họ",
+        "người ta",
+        "bạn bè"
+      ],
+      "translation": {
+        "en": "People often walk on the street."
+      },
+      "answer": "người ta",
+      "translatedAnswer": {
+        "en": "people"
+      },
+      "language": "vi",
+      "word": "người ta",
+      "sentence": "___ thường đi bộ trên phố."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "77b43164-bb08-49bf-bd13-663072052d35",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Người ta** usually means “people” in general, like “they” or “people” in English when you don’t say exactly who. It’s vague and impersonal.\n\nYou use it before a verb to talk about what people do or think in general.  \n\nIt can also mean “other people” in contrast with you, or even “someone else” in a relationship context (a romantic rival).  \n\nSimilar idea to **họ** (they), but **người ta** is more general and less specific.",
+  "exampleSentencesTranslated": [
+    "People sell fresh fruit",
+    "People cook tasty rice",
+    "People fix old motorbikes"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A phrase used to refer to people in general, without specifying anyone in particular.",
+      "vi": "Cụm từ dùng để chỉ người khác nói chung, không xác định cụ thể ai."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "people; one; they (impersonal subject)"
+    },
+    "createdAt": "2025-05-24T16:20:07.177Z",
+    "example": {
+      "en": "People say that exercising is very good for your health.",
+      "vi": "Người ta nói rằng tập thể dục rất tốt cho sức khỏe."
+    },
+    "word": "người ta"
+  },
+  "_id": "CnMyJBK1nsYu4mKKnbTB"
+}

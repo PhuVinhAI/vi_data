@@ -1,0 +1,103 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chỉ",
+    "đủ",
+    "thôi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Anh (he) + lấy (take) + một (one) + ly (cup) + thôi (only)",
+    "Chị (she) + mua (buy) + bánh (cake) + này (this) + thôi (only)",
+    "Em (you) + đọc (read) + một (one) + trang (page) + thôi (only)"
+  ],
+  "definition": "only",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thôi",
+  "exampleSentences": [
+    "Anh lấy một ly thôi.",
+    "Chị mua bánh này thôi.",
+    "Em đọc một trang thôi."
+  ],
+  "rank": 80,
+  "notes_md": "**thôi** usually means **“only / just”** — it limits something and makes it smaller or simpler. It often comes at the **end of the phrase** to soften the feeling.\n\n\nIt can also mean **“stop / that’s enough”** when said alone or at the start of a sentence — stronger tone, like telling someone to quit.  \n\nAs a softener, it makes requests or statements sound lighter and less demanding.  \n\nClose idea: **chỉ** = “only” too, but **chỉ** usually goes before the word it limits, while **thôi** often comes at the end.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:40:54.054Z",
+    "content": {
+      "word": "thôi",
+      "sentence": "Tôi sẽ dừng lại ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "now"
+      },
+      "translation": {
+        "en": "I will stop now."
+      },
+      "answer": "thôi",
+      "hint": "t___i",
+      "choices": [
+        "thôi",
+        "thôis",
+        "THÔI"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:40:54.054Z",
+    "id": "e3427eb1-87ec-477f-a97d-f36439c8a925",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "stop",
+      "es": "detener"
+    },
+    "example": {
+      "en": "Come on, don't worry anymore.",
+      "vi": "Thôi, đừng lo lắng nữa.",
+      "es": "Vamos, no te preocupes más."
+    },
+    "createdAt": "2025-01-28T12:29:29.617Z",
+    "definitions": {
+      "vi": "Dùng để chỉ việc dừng lại hoặc kết thúc một điều gì đó.",
+      "es": "Se utiliza para indicar detener o finalizar algo.",
+      "en": "Used to indicate stopping or ending something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He takes only one cup.",
+    "She buys only this cake.",
+    "You read only one page."
+  ],
+  "notes": "thôi usually means “only / just” — it limits something and makes it smaller or simpler. It often comes at the end of the phrase to soften the feeling.\n\nIt can also mean “stop / that’s enough” when said alone or at the start of a sentence — stronger tone, like telling someone to quit.  \n\nAs a softener, it makes requests or statements sound lighter and less demanding.  \n\nClose idea: chỉ = “only” too, but chỉ usually goes before the word it limits, while thôi often comes at the end.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "85506dbf-3a0a-4db6-a5ba-b6a5f68a00eb",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:40:54.054Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I will stop now."
+      },
+      "answer": "thôi",
+      "translatedAnswer": {
+        "en": "now"
+      },
+      "language": "vi",
+      "word": "thôi",
+      "sentence": "Tôi sẽ dừng lại ___."
+    },
+    "createdAt": "2025-03-12T13:40:54.054Z"
+  },
+  "updatedAt": "2026-03-03T06:11:13.038Z",
+  "_id": "DcTMuEE3WCLfQUGVRrjO"
+}

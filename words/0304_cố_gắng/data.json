@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cố gắng",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:19:36.082Z",
+    "content": {
+      "hint": "c___g",
+      "answer": "cố gắng",
+      "translation": {
+        "en": "I will try to learn Vietnamese."
+      },
+      "translatedAnswer": {
+        "en": "try"
+      },
+      "word": "cố gắng",
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ học tiếng Việt.",
+      "choices": [
+        "cố gắng",
+        "nỗ lực",
+        "dễ dàng"
+      ]
+    },
+    "id": "ee89495f-c240-4f8b-84e8-0f63137b8aea",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:19:36.082Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cố gắng** = to try, to make an effort. It’s about putting in effort, even when something is hard.\n\nIt’s a verb and usually comes before another verb to show what you’re trying to do.  \n\nYou’ll also see **cố gắng hết sức** = try your best / give it your all.  \n\nClose synonym: **nỗ lực** (more formal, stronger effort).  \nOpposite idea: **bỏ cuộc** (give up).",
+  "choices": [
+    "cố gắng",
+    "giúp đỡ",
+    "bắt đầu"
+  ],
+  "rank": 304,
+  "notes": "cố gắng = to try, to make an effort. It’s about putting in effort, even when something is hard.\n\nIt’s a verb and usually comes before another verb to show what you’re trying to do.  \n\nYou’ll also see cố gắng hết sức = try your best / give it your all.  \n\nClose synonym: nỗ lực (more formal, stronger effort).  \nOpposite idea: bỏ cuộc (give up).",
+  "updatedAt": "2026-03-03T06:51:56.106Z",
+  "exampleSentences": [
+    "Anh sẽ cố gắng hoàn thành công việc trước khi về nhà.",
+    "Chị luôn cố gắng học tiếng Anh mỗi ngày để tiến bộ hơn.",
+    "Em đã cố gắng hết sức trong kỳ thi vừa rồi."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "88267aef-514c-48d9-8eaa-7f07b5fd309c",
+    "content": {
+      "word": "cố gắng",
+      "language": "vi",
+      "sentence": "Tôi sẽ ___ học tiếng Việt.",
+      "choices": [],
+      "answer": "cố gắng",
+      "translation": {
+        "en": "I will try to learn Vietnamese."
+      },
+      "translatedAnswer": {
+        "en": "try"
+      }
+    },
+    "createdAt": "2025-03-12T13:19:36.082Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T13:19:36.082Z"
+  },
+  "exampleSentencesTranslated": [
+    "I will try to finish the work before going home.",
+    "She always try to study English every day to improve.",
+    "I try my best in the recent exam."
+  ],
+  "definition": "try",
+  "flashcard": {
+    "translations": {
+      "en": "try",
+      "es": "intentar",
+      "vi": "cố gắng"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:59:58.869Z",
+    "definitions": {
+      "vi": "Nỗ lực để đạt được điều gì đó.",
+      "es": "Hacer un esfuerzo para lograr algo.",
+      "en": "To make an effort to achieve something."
+    },
+    "example": {
+      "en": "I will try to study better.",
+      "es": "Voy a intentar estudiar mejor.",
+      "vi": "Tôi sẽ cố gắng học tốt hơn."
+    }
+  },
+  "_id": "8DOLOyMpAS4Psx4cOJ2u"
+}

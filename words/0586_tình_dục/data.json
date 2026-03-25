@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:20:46.127Z",
+  "exampleSentencesTranslated": [
+    "The topic of sexuality should be discussed openly and respectfully.",
+    "Many young people want to learn about sexuality to protect their health.",
+    "Education about sexuality is very necessary in schools nowadays."
+  ],
+  "rank": 586,
+  "multiChoiceQuiz": {
+    "id": "45e9e69d-49a8-4699-9bed-4c2d115bf0bf",
+    "createdAt": "2025-03-12T14:35:55.973Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:35:55.973Z",
+    "content": {
+      "hint": "t___c",
+      "answer": "tình dục",
+      "translation": {
+        "en": "This topic relates to sex."
+      },
+      "word": "tình dục",
+      "choices": [
+        "tình dục",
+        "tình yêu",
+        "sức khỏe"
+      ],
+      "sentence": "Chủ đề này liên quan đến ___.",
+      "translatedAnswer": {
+        "en": "sex"
+      },
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "tình dục",
+  "notes": "tình dục = sex; sexuality (the topic of sexual activity, sexual feelings, and sexual identity).\n\nIt’s an uncountable noun, so you don’t use numbers directly with it. Very common pairings: quan hệ tình dục (to have sex), giáo dục tình dục (sex education), lạm dụng tình dục (sexual abuse), xu hướng tình dục (sexual orientation).\n\nIt can refer both to physical sexual activity and the broader idea of sexuality in society. Compared to giới tính (biological sex/gender), tình dục is more about sexual activity and desire.",
+  "choices": [
+    "tình bạn",
+    "tình dục",
+    "tình cảm"
+  ],
+  "notes_md": "**tình dục** = sex; sexuality (the topic of sexual activity, sexual feelings, and sexual identity).\n\nIt’s an uncountable noun, so you don’t use numbers directly with it. Very common pairings: **quan hệ tình dục** (to have sex), **giáo dục tình dục** (sex education), **lạm dụng tình dục** (sexual abuse), **xu hướng tình dục** (sexual orientation).\n\nIt can refer both to physical sexual activity and the broader idea of sexuality in society. Compared to **giới tính** (biological sex/gender), *tình dục* is more about sexual activity and desire.",
+  "exampleSentences": [
+    "Chủ đề về tình dục nên được thảo luận một cách cởi mở và tôn trọng.",
+    "Nhiều người trẻ muốn tìm hiểu về tình dục để bảo vệ sức khỏe của mình.",
+    "Giáo dục về tình dục rất cần thiết trong các trường học hiện nay."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Sex is an important part of life.",
+      "vi": "Tình dục là một phần quan trọng trong cuộc sống.",
+      "es": "El sexo es una parte importante de la vida."
+    },
+    "createdAt": "2025-01-28T12:11:39.104Z",
+    "definitions": {
+      "en": "The biological and physiological characteristics that define humans as female or male.",
+      "vi": "Các đặc điểm sinh học và sinh lý xác định con người là nữ hay nam.",
+      "es": "Las características biológicas y fisiológicas que definen a los humanos como mujeres u hombres."
+    },
+    "translations": {
+      "en": "Sex",
+      "vi": "Tình dục",
+      "es": "Sexo"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "sexuality",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "519e3cf0-d2eb-4a96-a4d7-ad46e6f1dfb0",
+    "createdAt": "2025-03-12T14:35:55.973Z",
+    "content": {
+      "translation": {
+        "en": "We need to talk about sex."
+      },
+      "answer": "tình dục",
+      "choices": [],
+      "word": "tình dục",
+      "sentence": "Chúng ta cần nói về ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sex"
+      }
+    },
+    "updatedAt": "2025-03-12T14:35:55.973Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "QwyGQ4enJo3L7LgIK8cQ"
+}

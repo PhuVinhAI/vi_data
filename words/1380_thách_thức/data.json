@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "challenge",
+  "exampleSentences": [
+    "Anh luôn coi mỗi khó khăn trong công việc là một thách thức để trưởng thành.",
+    "Đối với em, việc học tiếng Việt là một thách thức lớn nhưng rất thú vị.",
+    "Chị tin rằng nhóm mình có thể vượt qua bất kỳ thách thức nào trong dự án này."
+  ],
+  "rank": 1380,
+  "word": "thách thức",
+  "choices": [
+    "thành công",
+    "thách thức",
+    "kết quả"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He always sees every difficulty at work as a challenge to grow.",
+    "For me, learning Vietnamese is a big challenge but very interesting.",
+    "She believes that our team can overcome any challenge in this project."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Una tarea o situación que pone a prueba las habilidades de alguien.",
+      "vi": "Một nhiệm vụ hoặc tình huống kiểm tra khả năng của ai đó.",
+      "en": "A task or situation that tests someone's abilities."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:29:46.706Z",
+    "example": {
+      "en": "This competition is a big challenge.",
+      "vi": "Cuộc thi này là một thách thức lớn.",
+      "es": "Esta competencia es un gran desafío."
+    },
+    "translations": {
+      "en": "challenge",
+      "vi": "thách thức",
+      "es": "desafío"
+    }
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "thách thức",
+      "translation": {
+        "en": "This is a big challenge."
+      },
+      "hint": "th___h",
+      "choices": [
+        "thách thức",
+        "cơ hội",
+        "khó khăn"
+      ],
+      "language": "vi",
+      "sentence": "Đây là một ___ lớn.",
+      "word": "thách thức",
+      "translatedAnswer": {
+        "en": "challenge"
+      }
+    },
+    "createdAt": "2025-03-12T13:51:54.525Z",
+    "updatedAt": "2025-03-12T13:51:54.525Z",
+    "id": "de5ead15-e006-4dc4-a9ac-dc0ef62f5ce0",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**thách thức** = a challenge, something difficult that tests you.\n\nIt’s a **countable noun**: một thách thức, nhiều thách thức.  \nOften used with verbs like **đối mặt với** (face), **vượt qua** (overcome), **chấp nhận** (accept).  \nVery close to **thử thách** — almost interchangeable in most situations.  \nIt can be about work, study, personal growth, or even physical difficulty.",
+  "updatedAt": "2026-03-03T08:43:38.636Z",
+  "fillBlankQuiz": {
+    "id": "62eb9cca-e3eb-475a-ba9f-230d38df5ac7",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "word": "thách thức",
+      "sentence": "Đây là một ___ lớn.",
+      "translatedAnswer": {
+        "en": "challenge"
+      },
+      "translation": {
+        "en": "This is a big challenge."
+      },
+      "answer": "thách thức",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:51:54.525Z",
+    "updatedAt": "2025-03-12T13:51:54.525Z"
+  },
+  "notes": "thách thức = a challenge, something difficult that tests you.\n\nIt’s a countable noun: một thách thức, nhiều thách thức.  \nOften used with verbs like đối mặt với (face), vượt qua (overcome), chấp nhận (accept).  \nVery close to thử thách — almost interchangeable in most situations.  \nIt can be about work, study, personal growth, or even physical difficulty.",
+  "_id": "GHh1D4K9WBkhCiAYeHWc"
+}

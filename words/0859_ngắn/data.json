@@ -1,0 +1,98 @@
+{
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "n___",
+      "word": "ngắn",
+      "sentence": "Chiếc váy này rất ___.",
+      "translation": {
+        "en": "This dress is very short."
+      },
+      "answer": "ngắn",
+      "choices": [
+        "ngắn",
+        "dài",
+        "rộng"
+      ],
+      "translatedAnswer": {
+        "en": "short"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:45:50.951Z",
+    "type": "multiChoiceQuiz",
+    "id": "79b9986c-4387-4d38-8208-1cc22091ca02",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:45:50.951Z"
+  },
+  "exampleSentences": [
+    "Anh thấy tóc em hôm nay cắt khá ngắn rồi đấy.",
+    "Bài văn này hơi ngắn nên em cần viết thêm vài câu nữa.",
+    "Chị thích mặc váy ngắn vào mùa hè vì cảm thấy mát mẻ hơn."
+  ],
+  "updatedAt": "2026-03-03T07:47:57.639Z",
+  "choices": [
+    "ngắn",
+    "cao",
+    "dài"
+  ],
+  "exampleSentencesTranslated": [
+    "I see your hair is cut quite short today.",
+    "This essay is a bit short so you need to write a few more sentences.",
+    "She likes wearing short skirts in the summer because it feels cooler."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ngắn",
+  "notes": "ngắn = short (in length, height, or time).\n\nIt describes things that don’t last long or aren’t long in size: hair, clothes, time, distance, text, etc. In Vietnamese, adjectives come after the noun: tóc ngắn, thời gian ngắn, quãng đường ngắn. It can also stand alone after “thì / là” to describe something.\n\nOpposite: dài (long).  \nComparative: ngắn hơn (shorter).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Having little length; not long.",
+      "es": "Tener poca longitud; no largo.",
+      "vi": "Có chiều dài ngắn; không dài."
+    },
+    "example": {
+      "vi": "Chiếc váy này rất ngắn.",
+      "es": "Este vestido es muy corto.",
+      "en": "This dress is very short."
+    },
+    "translations": {
+      "es": "corto",
+      "en": "short",
+      "vi": "ngắn"
+    },
+    "createdAt": "2025-01-28T14:16:51.745Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**ngắn** = short (in length, height, or time).\n\nIt describes things that don’t last long or aren’t long in size: hair, clothes, time, distance, text, etc. In Vietnamese, adjectives come **after** the noun: *tóc ngắn, thời gian ngắn, quãng đường ngắn*. It can also stand alone after “thì / là” to describe something.\n\nOpposite: **dài** (long).  \nComparative: **ngắn hơn** (shorter).",
+  "fillBlankQuiz": {
+    "id": "984ef89b-402d-47c4-9acd-de8a8aba2719",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:45:50.951Z",
+    "content": {
+      "sentence": "Chiếc áo này rất ___.",
+      "word": "ngắn",
+      "language": "vi",
+      "answer": "ngắn",
+      "translation": {
+        "en": "This shirt is very short."
+      },
+      "translatedAnswer": {
+        "en": "short"
+      }
+    },
+    "updatedAt": "2025-03-12T16:45:50.951Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 859,
+  "definition": "short",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "y5pmz8z9iEVGq0u2zM3S"
+}

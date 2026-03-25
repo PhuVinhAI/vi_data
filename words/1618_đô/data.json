@@ -1,0 +1,99 @@
+{
+  "definition": "dollar",
+  "flashcard": {
+    "example": {
+      "es": "Cambié dólares por dinero vietnamita.",
+      "vi": "Tôi đã đổi đô la sang tiền Việt.",
+      "en": "I exchanged dollars for Vietnamese money."
+    },
+    "definitions": {
+      "es": "Una unidad de moneda, específicamente refiriéndose al dólar.",
+      "vi": "Một đơn vị tiền tệ, đặc biệt là chỉ đồng đô la.",
+      "en": "A unit of currency, specifically referring to the dollar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:55:42.639Z",
+    "translations": {
+      "en": "dollar",
+      "vi": "đô",
+      "es": "dólar"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:15:29.354Z",
+    "id": "fd7de429-30a8-4099-9e33-0bd45d936bad",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:15:29.354Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Anh ấy có một trăm ___.",
+      "word": "đô",
+      "translatedAnswer": {
+        "en": "dollars"
+      },
+      "translation": {
+        "en": "He has one hundred dollars."
+      },
+      "answer": "đô"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I exchanged two hundred dollar to Vietnamese money yesterday.",
+    "I want to buy this shirt for fifteen dollar.",
+    "Can you lend me five dollar?"
+  ],
+  "exampleSentences": [
+    "Em đã đổi hai trăm đô sang tiền Việt hôm qua.",
+    "Anh muốn mua chiếc áo này giá mười lăm đô.",
+    "Chị có thể cho em mượn năm đô được không?"
+  ],
+  "updatedAt": "2026-03-03T09:09:07.890Z",
+  "notes": "đô means dollar, usually US dollar. It’s a casual, spoken short form of đô la.\n\nIt’s a noun and comes directly after a number: một đô, hai mươi đô, một trăm đô (no classifier needed).  \n\nPeople often use it when talking about prices, exchanging money, or borrowing money.  \n\nFull form: đô la (more neutral/complete), but đô is what you’ll hear in everyday speech.",
+  "choices": [
+    "đô",
+    "bò",
+    "đỏ"
+  ],
+  "rank": 1618,
+  "notes_md": "**đô** means **dollar**, usually US dollar. It’s a casual, spoken short form of **đô la**.\n\nIt’s a noun and comes directly after a number: *một đô, hai mươi đô, một trăm đô* (no classifier needed).  \n\nPeople often use it when talking about prices, exchanging money, or borrowing money.  \n\nFull form: **đô la** (more neutral/complete), but **đô** is what you’ll hear in everyday speech.",
+  "multiChoiceQuiz": {
+    "id": "9f7285b6-18ad-417b-9552-05bf0ce75b74",
+    "content": {
+      "answer": "đô",
+      "hint": "d___",
+      "translation": {
+        "en": "He has one hundred dollars."
+      },
+      "translatedAnswer": {
+        "en": "dollars"
+      },
+      "word": "đô",
+      "sentence": "Anh ấy có một trăm ___.",
+      "language": "vi",
+      "choices": [
+        "đô",
+        "nhà",
+        "mèo"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:15:29.354Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T17:15:29.354Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đô",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "6ss6WT5RR5pUjslteP3u"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "discovery",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "discovered"
+      },
+      "sentence": "Chúng tôi đã ___ một điều thú vị.",
+      "translation": {
+        "en": "We have discovered an interesting thing."
+      },
+      "answer": "phát hiện",
+      "choices": [],
+      "word": "phát hiện"
+    },
+    "updatedAt": "2025-03-12T14:33:41.927Z",
+    "createdAt": "2025-03-12T14:33:41.927Z",
+    "id": "567fd77d-6de9-4693-b300-72a3ad47e44c",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa có một phát hiện thú vị trong phòng thí nghiệm sáng nay.",
+    "Chị rất vui khi đọc về phát hiện mới trong lĩnh vực y học.",
+    "Nhờ có phát hiện này, em đã hiểu rõ hơn về vấn đề đó."
+  ],
+  "notes_md": "**phát hiện** = to discover or detect something that was hidden, unknown, or wrong. It’s used when you notice, find out, or uncover something.\n\nAs a **verb**, it often goes with things like lỗi (mistakes), bệnh (diseases), sự thật (truth), vấn đề (problems).  \n\nIt can also be a **noun** meaning “a discovery,” usually with *một* → *một phát hiện*.  \n\nClose synonym: **khám phá** (more like exploring and discovering something new); **phát giác** is stronger, often about exposing wrongdoing.",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:09:15.680Z",
+    "definitions": {
+      "es": "Descubrir o tomar conciencia de algo.",
+      "vi": "Tìm ra hoặc nhận thức về một điều gì đó.",
+      "en": "To find out or become aware of something."
+    },
+    "example": {
+      "es": "Descubrí algo interesante.",
+      "en": "I discovered something interesting.",
+      "vi": "Tôi đã phát hiện ra một điều thú vị."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "discover",
+      "vi": "phát hiện",
+      "es": "descubrir"
+    }
+  },
+  "notes": "phát hiện = to discover or detect something that was hidden, unknown, or wrong. It’s used when you notice, find out, or uncover something.\n\nAs a verb, it often goes with things like lỗi (mistakes), bệnh (diseases), sự thật (truth), vấn đề (problems).  \n\nIt can also be a noun meaning “a discovery,” usually with một → một phát hiện.  \n\nClose synonym: khám phá (more like exploring and discovering something new); phát giác is stronger, often about exposing wrongdoing.",
+  "choices": [
+    "phát hiện",
+    "bắt đầu",
+    "giải thích"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:22:49.640Z",
+  "exampleSentencesTranslated": [
+    "I just had an interesting discovery in the laboratory this morning.",
+    "She is very happy to read about the new discovery in the field of medicine.",
+    "Thanks to this discovery, I understand that issue better."
+  ],
+  "rank": 1193,
+  "word": "phát hiện",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "p___n",
+      "answer": "phát hiện",
+      "translation": {
+        "en": "They have discovered a big secret."
+      },
+      "word": "phát hiện",
+      "choices": [
+        "khám phá",
+        "phát hiện",
+        "tìm ra"
+      ],
+      "translatedAnswer": {
+        "en": "discovered"
+      },
+      "language": "vi",
+      "sentence": "Họ đã ___ một bí mật lớn."
+    },
+    "updatedAt": "2025-03-12T14:33:41.927Z",
+    "type": "multiChoiceQuiz",
+    "id": "11638c88-8e6d-4c9f-aba9-6b320f81a521",
+    "createdAt": "2025-03-12T14:33:41.927Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "QZH2SCKuFdYBYGBNzdWC"
+}

@@ -1,0 +1,96 @@
+{
+  "fillBlankQuiz": {
+    "id": "27cd0447-363c-47a0-aa5e-5e1f1388e4ab",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:45:24.175Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I am at the school."
+      },
+      "answer": "tại",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "at"
+      },
+      "language": "vi",
+      "word": "tại",
+      "sentence": "Tôi đang ở ___ trường học."
+    },
+    "updatedAt": "2025-03-12T16:45:24.175Z"
+  },
+  "rank": 120,
+  "definition": "at",
+  "notes_md": "**tại** usually means **“at”** (location or time), but it sounds a bit more formal than *ở*. You’ll see it a lot in writing, announcements, signs, or official contexts.\n\nIt goes before a place or event location.  \n\nVery commonly, **tại** also means **“because of” / “due to”** when talking about cause, especially blame.  \n\nFor strong memory: *ở* = neutral everyday “at”; *tại* = more formal or used for blame.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "I will wait for you at the coffee shop tonight at seven.",
+    "Did you leave your car keys at the desk?",
+    "I met my close friend at the park last weekend."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "tại",
+  "choices": [
+    "trên",
+    "tại",
+    "bởi"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng ta sẽ gặp ___ đây.",
+      "word": "tại",
+      "hint": "t__",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "at"
+      },
+      "choices": [
+        "ở",
+        "tại",
+        "trong"
+      ],
+      "answer": "tại",
+      "translation": {
+        "en": "We will meet at here."
+      }
+    },
+    "updatedAt": "2025-03-12T16:45:24.175Z",
+    "type": "multiChoiceQuiz",
+    "id": "fc27e80c-dd80-42df-b566-86ec21a83bb5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:45:24.175Z"
+  },
+  "exampleSentences": [
+    "Anh sẽ đợi em tại quán cà phê lúc bảy giờ tối nay.",
+    "Chị có để chìa khóa xe tại bàn làm việc không?",
+    "Em gặp bạn thân tại công viên vào cuối tuần trước."
+  ],
+  "updatedAt": "2026-03-03T06:32:23.175Z",
+  "flashcard": {
+    "translations": {
+      "en": "at; in; because of"
+    },
+    "example": {
+      "vi": "Tôi đang đợi bạn tại quán cà phê.",
+      "en": "I am waiting for you at the coffee shop."
+    },
+    "definitions": {
+      "vi": "Giới từ chỉ địa điểm hoặc nguyên nhân xảy ra sự việc.",
+      "en": "A preposition used to indicate location or cause of an event."
+    },
+    "word": "tại",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:36:57.304Z"
+  },
+  "notes": "tại usually means “at” (location or time), but it sounds a bit more formal than ở. You’ll see it a lot in writing, announcements, signs, or official contexts.\n\nIt goes before a place or event location.  \n\nVery commonly, tại also means “because of” / “due to” when talking about cause, especially blame.  \n\nFor strong memory: ở = neutral everyday “at”; tại = more formal or used for blame.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "y0Lwz3gUjGQWHXpsfehH"
+}

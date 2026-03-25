@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "ae47b2c1-329b-4c0c-9efe-e03005617288",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I want to buy a new set."
+      },
+      "choices": [
+        "dàn",
+        "sản phẩm",
+        "bộ sưu tập"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "set"
+      },
+      "word": "dàn",
+      "hint": "d___n",
+      "sentence": "Tôi muốn mua một bộ ___ mới.",
+      "answer": "dàn"
+    },
+    "createdAt": "2025-03-12T13:08:31.901Z",
+    "updatedAt": "2025-03-12T13:08:31.901Z"
+  },
+  "exampleSentences": [
+    "Anh mới mua một dàn âm thanh mới để nghe nhạc.",
+    "Nhà em có một dàn cây cảnh trước cửa rất đẹp.",
+    "Chị đang sắp xếp lại dàn ghế trong phòng khách."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "set",
+  "rank": 2486,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:49:41.210Z",
+    "definitions": {
+      "vi": "Một nhóm nhạc công chơi cùng nhau.",
+      "en": "A group of musicians playing together.",
+      "es": "Un grupo de músicos tocando juntos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "La banda actuó muy bien.",
+      "vi": "Dàn nhạc biểu diễn rất hay.",
+      "en": "The band performed very well."
+    },
+    "translations": {
+      "es": "banda",
+      "en": "band",
+      "vi": "dàn"
+    }
+  },
+  "choices": [
+    "dàn",
+    "bài",
+    "nhóm"
+  ],
+  "notes": "dàn = a set, system, or arranged group of things placed together. It often suggests many items lined up or organized as one unit.\n\nIt’s a noun, usually counted with một: một dàn + noun. Common pairings: dàn âm thanh (sound system), dàn nhạc (orchestra/band), dàn máy, dàn cây, dàn đèn.  \n\nIt focuses on the whole setup, not just one item. If you only mean one piece, don’t use dàn.  \n\nRelated idea: bộ is also “set,” but bộ is for smaller, more compact sets (like tools or clothes), while dàn feels bigger, arranged, or spread out.",
+  "word": "dàn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I just bought a new set of speakers to listen to music.",
+    "My house has a beautiful set of ornamental plants in front of the door.",
+    "She is rearranging the set of chairs in the living room."
+  ],
+  "notes_md": "**dàn** = a set, system, or arranged group of things placed together. It often suggests many items lined up or organized as one unit.\n\nIt’s a **noun**, usually counted with *một*: *một dàn + noun*. Common pairings: *dàn âm thanh* (sound system), *dàn nhạc* (orchestra/band), *dàn máy*, *dàn cây*, *dàn đèn*.  \n\nIt focuses on the whole setup, not just one item. If you only mean one piece, don’t use *dàn*.  \n\nRelated idea: *bộ* is also “set,” but *bộ* is for smaller, more compact sets (like tools or clothes), while *dàn* feels bigger, arranged, or spread out.",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi muốn mua một bộ ___ mới.",
+      "answer": "dàn",
+      "choices": [],
+      "translation": {
+        "en": "I want to buy a new set."
+      },
+      "word": "dàn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "set"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "6daba27f-c0cb-45bf-9bed-3010f1778a6e",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:08:31.901Z",
+    "updatedAt": "2025-03-12T13:08:31.901Z"
+  },
+  "updatedAt": "2026-03-03T10:40:37.910Z",
+  "_id": "50F4N3KGx9Lbk7faArus"
+}

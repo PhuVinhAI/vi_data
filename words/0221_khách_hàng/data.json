@@ -1,0 +1,99 @@
+{
+  "word": "khách hàng",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "nhân viên",
+    "khách hàng",
+    "giám đốc"
+  ],
+  "rank": 221,
+  "notes_md": "**khách hàng** = customer, the person who buys a product or service.\n\nIt’s a noun. You can say **một khách hàng**, **những khách hàng** (no special classifier needed).  \nCommon pairings: **khách hàng tiềm năng** (potential customer), **khách hàng thân thiết** (loyal customer), **chăm sóc khách hàng** (customer service).\n\nShort form **khách** can sometimes mean “customer” too, but it also means “guest,” so context matters.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:18:00.054Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:18:00.054Z",
+    "content": {
+      "translation": {
+        "en": "The company takes great care of customers."
+      },
+      "translatedAnswer": {
+        "en": "customers"
+      },
+      "hint": "k___ hàng",
+      "answer": "khách hàng",
+      "choices": [
+        "khách hàng",
+        "đối tác",
+        "nhân viên"
+      ],
+      "word": "khách hàng",
+      "language": "vi",
+      "sentence": "Công ty chăm sóc ___ rất kỹ lưỡng."
+    },
+    "id": "f835371f-3093-4627-91e2-de9c82e27493"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Hôm nay anh phải gọi điện cho khách hàng để xác nhận đơn hàng.",
+    "Nhân viên luôn cố gắng phục vụ khách hàng một cách nhiệt tình và chu đáo.",
+    "Chị ấy rất vui khi nhận được phản hồi tích cực từ khách hàng."
+  ],
+  "updatedAt": "2026-03-03T06:42:51.842Z",
+  "notes": "khách hàng = customer, the person who buys a product or service.\n\nIt’s a noun. You can say một khách hàng, những khách hàng (no special classifier needed).  \nCommon pairings: khách hàng tiềm năng (potential customer), khách hàng thân thiết (loyal customer), chăm sóc khách hàng (customer service).\n\nShort form khách can sometimes mean “customer” too, but it also means “guest,” so context matters.",
+  "definition": "customer",
+  "flashcard": {
+    "translations": {
+      "es": "cliente",
+      "vi": "khách hàng",
+      "en": "customer"
+    },
+    "createdAt": "2025-01-28T10:58:31.659Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một người hoặc tổ chức mua hàng hóa hoặc dịch vụ.",
+      "es": "Una persona u organización que compra bienes o servicios.",
+      "en": "A person or organization that purchases goods or services."
+    },
+    "example": {
+      "en": "The customer is always our top priority.",
+      "es": "El cliente siempre es nuestra principal prioridad.",
+      "vi": "Khách hàng luôn là ưu tiên hàng đầu của chúng tôi."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Today I have to call the customer to confirm the order.",
+    "The staff always try to serve the customer enthusiastically and attentively.",
+    "She is very happy to receive positive feedback from the customer."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:18:00.054Z",
+    "content": {
+      "answer": "khách hàng",
+      "translatedAnswer": {
+        "en": "customers"
+      },
+      "translation": {
+        "en": "We always serve the best customers."
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi luôn phục vụ ___ tốt nhất.",
+      "word": "khách hàng",
+      "choices": []
+    },
+    "id": "c4bcb30b-52db-46ad-9787-5e3c4d0ac2b6",
+    "updatedAt": "2025-03-12T13:18:00.054Z"
+  },
+  "_id": "7gfWzAdpoUd58aHfbbbW"
+}

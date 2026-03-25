@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I want to post a new article."
+      },
+      "answer": "đăng",
+      "choices": [
+        "đăng",
+        "viết",
+        "đọc"
+      ],
+      "translatedAnswer": {
+        "en": "post"
+      },
+      "sentence": "Tôi muốn ___ một bài viết mới.",
+      "hint": "d___g",
+      "word": "đăng"
+    },
+    "updatedAt": "2025-03-12T16:28:41.531Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:28:41.531Z",
+    "id": "1cd5685c-e3f1-4018-8bfc-98ccc1dd1618"
+  },
+  "exampleSentences": [
+    "Anh sẽ đăng bức ảnh này lên Facebook tối nay.",
+    "Chị vừa đăng thông báo mới trên trang chủ công ty.",
+    "Em muốn đăng bài viết này vào nhóm học tiếng Anh."
+  ],
+  "updatedAt": "2026-03-03T08:19:57Z",
+  "choices": [
+    "đọc",
+    "đăng",
+    "đợi"
+  ],
+  "word": "đăng",
+  "exampleSentencesTranslated": [
+    "I will post this photo on Facebook tonight.",
+    "She just posted a new announcement on the company's homepage.",
+    "I want to post this article in the English learning group."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "đăng = to post or publish something online. You use it when you put content on the internet for other people to see.\n\nIt’s a verb. Common objects: bài (post/article), ảnh (photo), tin (news), video, thông tin. Often goes with lên to show the platform.\n\nIt can also mean “publish” in a more formal sense (like newspapers or official websites). A close synonym is đăng tải (a bit more formal/complete-sounding).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-05-24T16:35:51.528Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "đăng",
+    "definitions": {
+      "vi": "Đưa thông tin, bài viết hoặc hình ảnh lên mạng xã hội, trang web hoặc báo chí.",
+      "en": "To post or upload information, articles, or images to social media, a website, or the press."
+    },
+    "example": {
+      "en": "I just posted a photo on Facebook.",
+      "vi": "Tôi vừa đăng một bức ảnh lên Facebook."
+    },
+    "translations": {
+      "en": "post; upload"
+    }
+  },
+  "notes_md": "**đăng** = to post or publish something online. You use it when you put content on the internet for other people to see.\n\nIt’s a verb. Common objects: **bài** (post/article), **ảnh** (photo), **tin** (news), **video**, **thông tin**. Often goes with **lên** to show the platform.\n\n\nIt can also mean “publish” in a more formal sense (like newspapers or official websites). A close synonym is **đăng tải** (a bit more formal/complete-sounding).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ một bài viết mới.",
+      "word": "đăng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "post"
+      },
+      "choices": [],
+      "answer": "đăng",
+      "translation": {
+        "en": "I want to post a new article."
+      }
+    },
+    "updatedAt": "2025-03-12T16:28:41.531Z",
+    "id": "f633c471-8647-4e1c-9f3e-060722476ca1",
+    "createdAt": "2025-03-12T16:28:41.531Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "post",
+  "rank": 1167,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "tfZHeSHcgL0Plv8Lzlgz"
+}

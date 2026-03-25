@@ -1,0 +1,99 @@
+{
+  "notes": "dùm means “for someone” or “do it for me,” used when asking someone to do a small favor.\n\nIt comes after the verb and makes the request softer and more friendly. You use it when you want someone to do something on your behalf. It often goes with pronouns like mình, em, anh, chị.\n\nIn the South, people often say giùm instead — same meaning, just different pronunciation/spelling. Similar idea to giúp, but giúp is a full verb (“help”), while dùm is lighter and attached after the action.",
+  "updatedAt": "2026-03-03T11:30:29.075Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "for me (please do something for someone)",
+  "exampleSentences": [
+    "Anh có thể mua hộp sữa này dùm em được không?",
+    "Chị làm ơn giữ cửa dùm anh một lát nhé.",
+    "Em nhắn tin cho bạn dùm chị vì chị đang bận."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you buy this carton of milk for me?",
+    "Could you please hold the door for me for a moment?",
+    "Can you text your friend for me since I’m busy?"
+  ],
+  "choices": [
+    "giúp",
+    "dùm",
+    "cho"
+  ],
+  "fillBlankQuiz": {
+    "id": "c09647ab-5431-47a7-aed0-494d015af376",
+    "updatedAt": "2025-03-12T16:53:10.787Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Bạn có thể giúp tôi ___.",
+      "choices": [],
+      "answer": "dùm",
+      "translatedAnswer": {
+        "en": "help"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "Can you help me, please?"
+      },
+      "word": "dùm"
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:53:10.787Z"
+  },
+  "rank": 2633,
+  "word": "dùm",
+  "flashcard": {
+    "translations": {
+      "es": "ayuda",
+      "vi": "giúp đỡ",
+      "en": "help"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "¿Puedes ayudarme un poco?",
+      "vi": "Bạn có thể giúp tôi một chút không?",
+      "en": "Can you help me a little?"
+    },
+    "createdAt": "2025-01-28T14:23:07.367Z",
+    "definitions": {
+      "en": "A term used to ask someone for help or assistance.",
+      "es": "Un término utilizado para pedir ayuda o asistencia.",
+      "vi": "Một thuật ngữ được sử dụng để yêu cầu ai đó giúp đỡ hoặc hỗ trợ."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**dùm** means “for someone” or “do it for me,” used when asking someone to do a small favor.\n\nIt comes after the verb and makes the request softer and more friendly. You use it when you want someone to do something on your behalf. It often goes with pronouns like *mình, em, anh, chị*.\n\n\nIn the South, people often say **giùm** instead — same meaning, just different pronunciation/spelling. Similar idea to **giúp**, but *giúp* is a full verb (“help”), while *dùm* is lighter and attached after the action.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:53:10.787Z",
+    "id": "7654a2bd-3e55-4001-83af-627f99959064",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:53:10.787Z",
+    "content": {
+      "sentence": "Bạn có thể giúp tôi ___.",
+      "choices": [
+        "giúp",
+        "dùm",
+        "hỗ trợ"
+      ],
+      "answer": "dùm",
+      "translatedAnswer": {
+        "en": "help"
+      },
+      "language": "vi",
+      "hint": "g___",
+      "word": "dùm",
+      "translation": {
+        "en": "Can you help me, please?"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "zzjlJbncXllqixsWNWBT"
+}

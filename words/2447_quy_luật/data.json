@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "quy luật",
+    "kết quả",
+    "thói quen"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "rule",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "quy luật",
+  "rank": 2447,
+  "exampleSentences": [
+    "Anh giải thích cho em nghe về quy luật trong trò chơi này nhé.",
+    "Chúng ta nên tuân theo quy luật của công ty khi làm việc.",
+    "Mỗi môn học đều có quy luật riêng mà em cần hiểu."
+  ],
+  "notes_md": "**Quy luật** = a rule or law, often a natural or logical pattern that things follow. It’s usually more abstract than *luật* (law as in legal rules).\n\nIt’s a noun: you can say *một quy luật*, *các quy luật*. Very common with ideas like *quy luật tự nhiên* (laws of nature) or *quy luật cung cầu* (law of supply and demand).\n\n\nThink of it as a built‑in pattern of how things work, not a rule someone just made up. Synonyms to connect: *luật* (official law), *nguyên tắc* (principle — more about guidelines).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:48:12.132Z",
+    "content": {
+      "choices": [
+        "quy luật",
+        "nguyên tắc",
+        "điều lệ"
+      ],
+      "hint": "q___t",
+      "translation": {
+        "en": "Everything follows this rule."
+      },
+      "answer": "quy luật",
+      "translatedAnswer": {
+        "en": "rule"
+      },
+      "sentence": "Mọi thứ đều tuân theo ___ này.",
+      "word": "quy luật",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:48:12.132Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f4b034a8-6291-4739-8c06-eb03f8b5ca07",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A principle or rule that governs behavior or actions.",
+      "vi": "Một nguyên tắc hoặc quy tắc điều chỉnh hành vi hoặc hành động.",
+      "es": "Un principio o regla que rige el comportamiento o las acciones."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "regla",
+      "vi": "quy luật",
+      "en": "rule"
+    },
+    "createdAt": "2025-01-28T11:26:28.663Z",
+    "example": {
+      "es": "En la vida, hay muchas reglas que necesitamos seguir.",
+      "vi": "Trong cuộc sống, có nhiều quy luật mà chúng ta cần tuân theo.",
+      "en": "In life, there are many rules that we need to follow."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He explains to me about the rule in this game.",
+    "We should follow the rule of the company when working.",
+    "Every subject has its own rule that I need to understand."
+  ],
+  "notes": "Quy luật = a rule or law, often a natural or logical pattern that things follow. It’s usually more abstract than luật (law as in legal rules).\n\nIt’s a noun: you can say một quy luật, các quy luật. Very common with ideas like quy luật tự nhiên (laws of nature) or quy luật cung cầu (law of supply and demand).\n\nThink of it as a built‑in pattern of how things work, not a rule someone just made up. Synonyms to connect: luật (official law), nguyên tắc (principle — more about guidelines).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "006447b9-8c2b-404f-b8b8-265730f43e62",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:48:12.132Z",
+    "createdAt": "2025-03-12T13:48:12.132Z",
+    "content": {
+      "translation": {
+        "en": "Everything follows this rule."
+      },
+      "answer": "quy luật",
+      "choices": [],
+      "language": "vi",
+      "word": "quy luật",
+      "sentence": "Mọi thứ đều tuân theo ___ này.",
+      "translatedAnswer": {
+        "en": "rule"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T10:36:33.858Z",
+  "_id": "FRYYrZy8NGbaeBTx6qM7"
+}

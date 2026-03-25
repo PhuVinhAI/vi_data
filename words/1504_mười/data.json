@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:41:21.846Z",
+    "createdAt": "2025-03-12T15:41:21.846Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "19808ce8-7ebd-4c1f-abfe-1f4a629f48ad",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "There are ten months in the year."
+      },
+      "word": "mười",
+      "translatedAnswer": {
+        "en": "ten"
+      },
+      "answer": "mười",
+      "hint": "m__i",
+      "sentence": "Trong năm có ___ tháng.",
+      "choices": [
+        "mười",
+        "chín",
+        "mười một"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mười** means **ten**. It’s a basic number used for counting and time.\n\nIt comes before a classifier when counting nouns.  \n\nIt also combines with other numbers to form 11–19: *mười một, mười hai, mười ba…* Note the special form **mười lăm** (15, not *mười năm*).\n\nFor bigger numbers, it changes slightly to **mươi** (like *hai mươi* = 20), which helps you recognize multiples of ten.",
+  "exampleSentencesTranslated": [
+    "I have ten favorite books on my bookshelf.",
+    "I have to get up at ten in the morning on weekends.",
+    "I have waited for my friend at the café for more than ten minutes."
+  ],
+  "updatedAt": "2026-03-03T08:57:03.706Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi có mười quyển sách.",
+      "en": "I have ten books.",
+      "es": "Tengo diez libros."
+    },
+    "createdAt": "2025-01-28T13:14:41.257Z",
+    "definitions": {
+      "vi": "Số mười.",
+      "es": "El número diez.",
+      "en": "The number ten."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mười",
+      "es": "diez",
+      "en": "ten"
+    }
+  },
+  "word": "mười",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:41:21.846Z",
+    "updatedAt": "2025-03-12T15:41:21.846Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi có ___ ngón tay.",
+      "translatedAnswer": {
+        "en": "ten"
+      },
+      "answer": "mười",
+      "translation": {
+        "en": "I have ten fingers."
+      },
+      "word": "mười",
+      "language": "vi"
+    },
+    "id": "40f6e09d-363c-4b02-b00b-c56900618ba1",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "choices": [
+    "bảy",
+    "mười",
+    "năm"
+  ],
+  "exampleSentences": [
+    "Anh có mười cuốn sách yêu thích trên giá sách của mình.",
+    "Chị phải dậy lúc mười giờ sáng vào cuối tuần.",
+    "Em đã đợi bạn ở quán cà phê hơn mười phút rồi."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "mười means ten. It’s a basic number used for counting and time.\n\nIt comes before a classifier when counting nouns.  \n\nIt also combines with other numbers to form 11–19: mười một, mười hai, mười ba… Note the special form mười lăm (15, not mười năm).\n\nFor bigger numbers, it changes slightly to mươi (like hai mươi = 20), which helps you recognize multiples of ten.",
+  "definition": "ten",
+  "rank": 1504,
+  "_id": "hUPJ07eOO7VlqnU0ALYb"
+}

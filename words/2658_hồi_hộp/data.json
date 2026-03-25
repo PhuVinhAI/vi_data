@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:28:28.872Z",
+    "id": "0ec2c56c-35c5-424a-ad7a-c11f2c7f6a4c",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:28:28.872Z",
+    "content": {
+      "translation": {
+        "en": "I feel nervous before performing."
+      },
+      "translatedAnswer": {
+        "en": "nervous"
+      },
+      "hint": "h______p",
+      "answer": "hồi hộp",
+      "choices": [
+        "hồi hộp",
+        "vui vẻ",
+        "bình tĩnh"
+      ],
+      "word": "hồi hộp",
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ trước khi biểu diễn."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Hồi hộp** = nervous, anxious, with your heart kind of racing. It can be from stress *or* excitement (like waiting for news).\n\nIt describes a person’s feeling before or during something important. Often used with **cảm thấy / thấy / rất / quá / hơi** in front.\n\nIt can also mean a suspenseful feeling when waiting for a result or watching something dramatic.\n\nClose words: **lo lắng** (more “worried”), **căng thẳng** (more “tense”). Hồi hộp often has a mix of fear + excitement.",
+  "rank": 2658,
+  "choices": [
+    "bình tĩnh",
+    "hồi hộp",
+    "vui vẻ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "hồi hộp",
+  "exampleSentencesTranslated": [
+    "Before the job interview, he felt very nervous.",
+    "I am usually nervous whenever I have to speak in front of the class.",
+    "She has been nervous waiting for her test results since this morning."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:28:28.872Z",
+    "id": "c875629b-2e9f-4c76-bfae-2c9447dd19ba",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:28:28.872Z",
+    "content": {
+      "answer": "hồi hộp",
+      "translation": {
+        "en": "I feel nervous when taking the exam."
+      },
+      "translatedAnswer": {
+        "en": "nervous"
+      },
+      "word": "hồi hộp",
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ khi thi.",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "en": "I feel nervous before the exam.",
+      "es": "Me siento nervioso antes del examen.",
+      "vi": "Tôi cảm thấy hồi hộp trước khi thi."
+    },
+    "definitions": {
+      "en": "Feeling anxious or excited about something that is about to happen.",
+      "es": "Sentirse ansioso o emocionado por algo que está a punto de suceder.",
+      "vi": "Cảm giác lo lắng hoặc phấn khích về điều gì đó sắp xảy ra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:08:30.244Z",
+    "translations": {
+      "en": "nervous",
+      "es": "nervioso",
+      "vi": "hồi hộp"
+    }
+  },
+  "definition": "nervous",
+  "notes": "Hồi hộp = nervous, anxious, with your heart kind of racing. It can be from stress or excitement (like waiting for news).\n\nIt describes a person’s feeling before or during something important. Often used with cảm thấy / thấy / rất / quá / hơi in front.\n\nIt can also mean a suspenseful feeling when waiting for a result or watching something dramatic.\n\nClose words: lo lắng (more “worried”), căng thẳng (more “tense”). Hồi hộp often has a mix of fear + excitement.",
+  "updatedAt": "2026-03-03T11:33:01.243Z",
+  "exampleSentences": [
+    "Trước khi phỏng vấn xin việc, anh cảm thấy rất hồi hộp.",
+    "Em thường hồi hộp mỗi khi phải nói chuyện trước lớp.",
+    "Chị hồi hộp chờ kết quả thi của mình từ sáng đến giờ."
+  ],
+  "_id": "AYqb35HsEZWhC0OslmvN"
+}

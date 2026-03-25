@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:32:54.411Z",
+    "id": "c72fd5c2-9663-41e8-bb32-743fc95eff61",
+    "content": {
+      "language": "vi",
+      "sentence": "Bạn có ___ món ăn nào không?",
+      "word": "chọn",
+      "choices": [
+        "lựa",
+        "chọn",
+        "thích"
+      ],
+      "hint": "c___n",
+      "answer": "chọn",
+      "translatedAnswer": {
+        "en": "choose"
+      },
+      "translation": {
+        "en": "Do you have any dish to choose?"
+      }
+    },
+    "createdAt": "2025-03-12T13:32:54.411Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**chọn** = to choose or pick something from options. It’s what you use when you decide between different possibilities.\n\nIt’s a verb, followed directly by a noun: chọn + thing/person (chọn màu đỏ). You can also use it for people in roles: chọn + ai + làm gì (chọn Lan làm nhóm trưởng).  \n\nVery common with words like *một cái*, *một người*, *phương án*, *cách*, *trường*, *ngành*.  \n\nClose synonym: **lựa (chọn)** — slightly more formal or careful, but often interchangeable in daily use.",
+  "rank": 227,
+  "choices": [
+    "chọn",
+    "chơi",
+    "chờ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chọn",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:32:54.411Z",
+    "type": "fillBlankQuiz",
+    "id": "01a0876a-496a-4af9-b47a-7807f6dc20fb",
+    "content": {
+      "answer": "chọn",
+      "translation": {
+        "en": "Do you have any dish to choose?"
+      },
+      "translatedAnswer": {
+        "en": "choose"
+      },
+      "word": "chọn",
+      "sentence": "Bạn có ___ món ăn nào không?",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:32:54.411Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, I have to choose another shirt because it’s too cold.",
+    "Which dish will you choose from the dinner menu tonight?",
+    "If you don’t know which one to choose, I can help you."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "chọn từ một nhóm.",
+      "es": "seleccionar o elegir de un grupo.",
+      "en": "to select or pick out from a group."
+    },
+    "example": {
+      "es": "Elijo este libro para leer.",
+      "vi": "Tôi chọn sách này để đọc.",
+      "en": "I choose this book to read."
+    },
+    "translations": {
+      "es": "elegir",
+      "vi": "chọn",
+      "en": "choose"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:12:29.755Z"
+  },
+  "definition": "choose",
+  "notes": "chọn = to choose or pick something from options. It’s what you use when you decide between different possibilities.\n\nIt’s a verb, followed directly by a noun: chọn + thing/person (chọn màu đỏ). You can also use it for people in roles: chọn + ai + làm gì (chọn Lan làm nhóm trưởng).  \n\nVery common with words like một cái, một người, phương án, cách, trường, ngành.  \n\nClose synonym: lựa (chọn) — slightly more formal or careful, but often interchangeable in daily use.",
+  "updatedAt": "2026-03-03T06:43:27.121Z",
+  "exampleSentences": [
+    "Sáng nay, em phải chọn áo khác vì trời lạnh quá.",
+    "Anh sẽ chọn món nào trong thực đơn tối nay?",
+    "Nếu chị không biết nên chọn cái nào, em có thể giúp chị."
+  ],
+  "_id": "BZJuCO8r4Bod9XE07DNN"
+}

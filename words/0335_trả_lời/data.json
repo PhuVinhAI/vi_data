@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:23:18.807Z",
+    "content": {
+      "hint": "tr__ l__i",
+      "answer": "trả lời",
+      "translation": {
+        "en": "You can answer this question."
+      },
+      "translatedAnswer": {
+        "en": "answer"
+      },
+      "word": "trả lời",
+      "sentence": "Bạn có thể ___ câu hỏi này.",
+      "language": "vi",
+      "choices": [
+        "trả lời",
+        "đặt câu",
+        "hỏi lại"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:23:18.807Z",
+    "id": "9e041906-c67a-4ec4-bdc7-aa2a83f461ab",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**trả lời** = to answer, to reply to someone or something. It’s used for questions, messages, calls, emails, comments, etc.\n\nIt’s a verb, so you use it directly with an object: trả lời + câu hỏi / tin nhắn / email. You can also say trả lời + someone when you mean “reply to someone.”\n\n\nClose synonym: **đáp lại** (more like “respond back,” slightly more formal or reactive).",
+  "rank": 335,
+  "choices": [
+    "trả lời",
+    "giải thích",
+    "hỏi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "trả lời",
+  "fillBlankQuiz": {
+    "id": "8b4b934c-2560-416b-afcf-1220a3080385",
+    "createdAt": "2025-03-12T13:23:18.807Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "answer"
+      },
+      "translation": {
+        "en": "You can answer this question."
+      },
+      "answer": "trả lời",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Bạn có thể ___ câu hỏi này.",
+      "word": "trả lời"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:23:18.807Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you answer this question within two minutes?",
+    "He answered the customer's email as soon as he received it.",
+    "Could you please answer the phone for me?"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To respond or give an answer to a question.",
+      "vi": "Để phản hồi hoặc đưa ra câu trả lời cho một câu hỏi.",
+      "es": "Responder o dar una respuesta a una pregunta."
+    },
+    "example": {
+      "en": "Can you answer this question?",
+      "vi": "Bạn có thể trả lời câu hỏi này không?",
+      "es": "¿Puedes responder a esta pregunta?"
+    },
+    "translations": {
+      "en": "answer",
+      "vi": "trả lời",
+      "es": "responder"
+    },
+    "createdAt": "2025-01-28T11:03:50.839Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "answer",
+  "notes": "trả lời = to answer, to reply to someone or something. It’s used for questions, messages, calls, emails, comments, etc.\n\nIt’s a verb, so you use it directly with an object: trả lời + câu hỏi / tin nhắn / email. You can also say trả lời + someone when you mean “reply to someone.”\n\nClose synonym: đáp lại (more like “respond back,” slightly more formal or reactive).",
+  "updatedAt": "2026-03-03T06:55:51.751Z",
+  "exampleSentences": [
+    "Em có thể trả lời câu hỏi này trong vòng hai phút không?",
+    "Anh đã trả lời email của khách hàng ngay khi nhận được.",
+    "Chị vui lòng trả lời điện thoại giúp em với được không?"
+  ],
+  "_id": "9Lp7S4zvEiivALq1ZkEX"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:09:32.474Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đơn thuần",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "This life is very simple and plain."
+      },
+      "answer": "đơn thuần",
+      "hint": "đ___n",
+      "word": "đơn thuần",
+      "choices": [
+        "phức tạp",
+        "đơn thuần",
+        "khó khăn"
+      ],
+      "sentence": "Cuộc sống này rất ___ và đơn giản.",
+      "translatedAnswer": {
+        "en": "plain"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:39:17.513Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:39:17.513Z",
+    "id": "f6725eea-83cb-4c31-9146-de213393c899",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2188,
+  "exampleSentencesTranslated": [
+    "He just wants a simple meal tonight.",
+    "I think your hobby is a simple thing to understand.",
+    "Not every problem is as simple as we think."
+  ],
+  "notes": "đơn thuần = simple, purely, merely — nothing more than that. It often downplays something.\n\nIt describes ideas, reasons, problems, feelings — especially when you want to say “it’s just that, nothing deeper.”  \n\nVery common with “chỉ” to soften or minimize: chỉ là đơn thuần…  \n\nClose in meaning to thuần túy (purely). Opposite idea: phức tạp (complicated).",
+  "choices": [
+    "đơn thuần",
+    "phức tạp",
+    "thường xuyên"
+  ],
+  "exampleSentences": [
+    "Anh chỉ muốn một bữa ăn đơn thuần vào buổi tối nay.",
+    "Em nghĩ sở thích của chị là điều đơn thuần và dễ hiểu.",
+    "Không phải mọi vấn đề đều đơn thuần như chúng ta tưởng đâu."
+  ],
+  "notes_md": "**đơn thuần** = simple, purely, merely — nothing more than that. It often downplays something.\n\nIt describes ideas, reasons, problems, feelings — especially when you want to say “it’s just that, nothing deeper.”  \n\nVery common with **“chỉ”** to soften or minimize: *chỉ là đơn thuần…*  \n\n\nClose in meaning to **thuần túy** (purely). Opposite idea: **phức tạp** (complicated).",
+  "flashcard": {
+    "example": {
+      "es": "Ella es solo una persona simple.",
+      "vi": "Cô ấy chỉ là một người đơn thuần.",
+      "en": "She is just a simple person."
+    },
+    "definitions": {
+      "es": "Simple; no complicado ni elaborado.",
+      "vi": "Đơn giản; không phức tạp hoặc cầu kỳ.",
+      "en": "Simple; not complicated or elaborate."
+    },
+    "createdAt": "2025-01-28T12:14:44.200Z",
+    "translations": {
+      "es": "simple",
+      "vi": "đơn thuần",
+      "en": "simple"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "simple",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "This life is very simple and plain."
+      },
+      "answer": "đơn thuần",
+      "word": "đơn thuần",
+      "choices": [],
+      "sentence": "Cuộc sống này rất ___ và đơn giản.",
+      "translatedAnswer": {
+        "en": "plain"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:39:17.513Z",
+    "createdAt": "2025-03-12T14:39:17.513Z",
+    "id": "3648332f-45c8-42b9-b7c6-c57437fbe246",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "RkESMghZcCEfFwmehNx1"
+}

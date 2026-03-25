@@ -1,0 +1,96 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:23:51.059Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi ___ sẽ đến đúng giờ.",
+      "language": "vi",
+      "word": "chắc chắn",
+      "translatedAnswer": {
+        "en": "definitely"
+      },
+      "translation": {
+        "en": "I will definitely arrive on time."
+      },
+      "answer": "chắc chắn"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:23:51.059Z",
+    "id": "ee5ff558-1107-48a8-ba08-3f1c4da9986b"
+  },
+  "exampleSentencesTranslated": [
+    "He is not certain about the plan for this weekend.",
+    "She will certain check the information before sending the email.",
+    "You need to be certain that you locked the door before going out."
+  ],
+  "definition": "certain",
+  "flashcard": {
+    "example": {
+      "en": "I am sure that I will arrive on time.",
+      "vi": "Tôi chắc chắn rằng mình sẽ đến đúng giờ."
+    },
+    "definitions": {
+      "en": "Expressing complete certainty about something; without doubt.",
+      "vi": "Diễn tả sự tin tưởng tuyệt đối vào điều gì đó; không nghi ngờ."
+    },
+    "word": "chắc chắn",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:29:17.385Z",
+    "translations": {
+      "en": "sure; certain"
+    }
+  },
+  "notes": "chắc chắn = certain, sure, confident something is true or will happen.  \n\nIt’s an adjective and can describe a person (feeling sure) or a situation (being certain). It also works like an adverb to strengthen a statement, meaning “definitely.”  \n\nClose synonym: chắc (more casual, shorter). Opposite idea: không chắc / không chắc chắn (not sure).",
+  "updatedAt": "2026-03-03T06:56:27.067Z",
+  "exampleSentences": [
+    "Anh chưa chắc chắn về kế hoạch cuối tuần này đâu.",
+    "Chị sẽ chắc chắn kiểm tra lại thông tin trước khi gửi email.",
+    "Em cần chắc chắn rằng mình đã khóa cửa trước khi ra ngoài."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c1147ac8-7fc8-416e-8ec9-7c534c1b824b",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:51.059Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "definitely"
+      },
+      "translation": {
+        "en": "I will definitely arrive on time."
+      },
+      "hint": "c___n",
+      "answer": "chắc chắn",
+      "choices": [
+        "có thể",
+        "chắc chắn",
+        "không chắc"
+      ],
+      "language": "vi",
+      "sentence": "Tôi ___ sẽ đến đúng giờ.",
+      "word": "chắc chắn"
+    },
+    "updatedAt": "2025-03-12T15:23:51.059Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chắc chắn** = certain, sure, confident something is true or will happen.  \n\nIt’s an adjective and can describe a person (feeling sure) or a situation (being certain). It also works like an adverb to strengthen a statement, meaning “definitely.”  \n\n\nClose synonym: **chắc** (more casual, shorter). Opposite idea: **không chắc / không chắc chắn** (not sure).",
+  "choices": [
+    "chắc chắn",
+    "ngẫu nhiên",
+    "tạm thời"
+  ],
+  "rank": 341,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chắc chắn",
+  "_id": "dQhLYYllb6E42ssiAyq6"
+}

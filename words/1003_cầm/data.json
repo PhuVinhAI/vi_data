@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you hold this bag for me for a moment?",
+    "When taking the bus, she always hold her wallet tightly so it won't get lost.",
+    "Remember to hold an umbrella when you go out in the rain!"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cầm",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:43:55.531Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "c4216517-feac-4c60-bc32-18fa715c6dfd",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "hold"
+      },
+      "translation": {
+        "en": "I want to hold this book."
+      },
+      "answer": "cầm",
+      "choices": [
+        "cầm",
+        "cầms",
+        "CẦM"
+      ],
+      "sentence": "Tôi muốn ___ cuốn sách này.",
+      "word": "cầm",
+      "hint": "c___m"
+    },
+    "updatedAt": "2025-03-12T16:43:55.531Z"
+  },
+  "exampleSentences": [
+    "Anh có thể cầm giúp em cái túi này một lát không?",
+    "Khi đi xe buýt, chị luôn cầm ví thật chặt để không bị mất.",
+    "Em nhớ phải cầm ô khi ra ngoài trời mưa nhé!"
+  ],
+  "updatedAt": "2026-03-03T08:02:50.596Z",
+  "choices": [
+    "cầm",
+    "mở",
+    "đọc"
+  ],
+  "notes": "cầm = to hold something in your hand. It’s about physically taking and keeping something in your hand, even for a short time.\n\nYou use it with small, movable objects: money, a phone, a bag, a knife, a baby. It often suggests active control with your hand, similar to nắm (grip) but more neutral; compare with giữ (keep/hold onto) which focuses more on keeping, not just holding.\n\nIt also very commonly means to pawn something for money (cầm đồ).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:14:46.985Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi cầm quyển sách trên bàn.",
+      "es": "Sostengo el libro sobre la mesa.",
+      "en": "I hold the book on the table."
+    },
+    "definitions": {
+      "en": "To hold or grasp something.",
+      "es": "Sostener o agarrar algo.",
+      "vi": "Cầm nắm hoặc giữ một cái gì đó."
+    },
+    "translations": {
+      "vi": "cầm",
+      "en": "hold",
+      "es": "sostener"
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "cầm",
+      "sentence": "Tôi muốn ___ cuốn sách này.",
+      "translatedAnswer": {
+        "en": "hold"
+      },
+      "answer": "cầm",
+      "translation": {
+        "en": "I want to hold this book."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:43:55.531Z",
+    "id": "f2812a0f-f5c9-4226-83db-1ccdc107aa3a",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:43:55.531Z"
+  },
+  "rank": 1003,
+  "definition": "hold",
+  "notes_md": "**cầm** = to hold something in your hand. It’s about physically taking and keeping something in your hand, even for a short time.\n\nYou use it with small, movable objects: money, a phone, a bag, a knife, a baby. It often suggests active control with your hand, similar to *nắm* (grip) but more neutral; compare with *giữ* (keep/hold onto) which focuses more on keeping, not just holding.\n\nIt also very commonly means **to pawn** something for money (*cầm đồ*).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "xcVKaeVS17yYYpEUAB8y"
+}

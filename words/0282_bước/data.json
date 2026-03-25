@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:44:11.022Z",
+    "updatedAt": "2025-03-12T15:44:11.022Z",
+    "content": {
+      "hint": "b___",
+      "choices": [
+        "bước",
+        "đoạn",
+        "công đoạn"
+      ],
+      "sentence": "Cô ấy đã hoàn thành ___ đầu tiên.",
+      "translatedAnswer": {
+        "en": "step"
+      },
+      "answer": "bước",
+      "language": "vi",
+      "translation": {
+        "en": "She has completed the first step."
+      },
+      "word": "bước"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6ecc991f-c786-4b0a-9480-2fd058ab157d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Bước** usually means a physical *step* when walking. It’s countable: *một bước, vài bước, từng bước* — no classifier needed.\n\nIt’s also a verb meaning *to step (somewhere)*, often with direction words.  \n\nBy extension, **bước** can mean a *stage or move* in progress (like a step forward in life or work).  \nRelated word: **bước chân** (more poetic, focuses on the footstep itself).",
+  "exampleSentencesTranslated": [
+    "Remember to be careful with each step when going down the stairs.",
+    "Please follow each step in the instructions to cook this dish.",
+    "She feels very proud of each step you make in your studies."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "vi": "bước",
+      "en": "step",
+      "es": "paso"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A step or movement made by lifting the foot and putting it down in a different place.",
+      "es": "Un paso o movimiento realizado levantando el pie y colocándolo en un lugar diferente.",
+      "vi": "Một bước hoặc chuyển động được thực hiện bằng cách nâng chân lên và đặt xuống ở một vị trí khác."
+    },
+    "createdAt": "2025-01-28T13:16:49.803Z",
+    "example": {
+      "en": "I will step outside.",
+      "es": "Voy a salir afuera.",
+      "vi": "Tôi sẽ bước ra ngoài."
+    }
+  },
+  "word": "bước",
+  "updatedAt": "2026-03-03T06:49:38.176Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:44:11.022Z",
+    "createdAt": "2025-03-12T15:44:11.022Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "70a16c1e-cdb8-4ba1-9713-f148399aab95",
+    "content": {
+      "answer": "bước",
+      "translatedAnswer": {
+        "en": "step"
+      },
+      "choices": [],
+      "sentence": "Tôi sẽ đi ___ tiếp theo.",
+      "language": "vi",
+      "translation": {
+        "en": "I will take the next step."
+      },
+      "word": "bước"
+    }
+  },
+  "choices": [
+    "bước",
+    "đường",
+    "chân"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh nhớ cẩn thận từng bước khi đi xuống cầu thang nhé.",
+    "Em hãy làm theo từng bước trong hướng dẫn để nấu món này.",
+    "Chị cảm thấy rất tự hào về mỗi bước tiến của em trong học tập."
+  ],
+  "definition": "step",
+  "notes": "Bước usually means a physical step when walking. It’s countable: một bước, vài bước, từng bước — no classifier needed.\n\nIt’s also a verb meaning to step (somewhere), often with direction words.  \n\nBy extension, bước can mean a stage or move in progress (like a step forward in life or work).  \nRelated word: bước chân (more poetic, focuses on the footstep itself).",
+  "rank": 282,
+  "_id": "iCG8G5QcfUGEMzuXoL74"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:08:39.416Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:51:43.903Z",
+    "updatedAt": "2025-03-12T12:51:43.903Z",
+    "id": "fbff9011-9f38-425c-a4b1-4e5e86ddafe8",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Bầu trời hôm nay rất ___.",
+      "answer": "xanh",
+      "choices": [],
+      "translation": {
+        "en": "The sky today is very blue."
+      },
+      "word": "xanh",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "blue"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**xanh** means *green* (a color). It’s an adjective and comes **after** the noun it describes.\n\nIt describes things by color and can act like a verb in simple sentences (no “to be” needed).  \n\nVery common extra meaning: **blue** (Vietnamese doesn’t clearly separate green/blue like English; context tells you which).  \nIt can also mean **unripe/young** (for fruit) or **pale/sickly** in some contexts.  \n\nMemory tip: think of **xanh lá cây** (leaf green) to lock in the core color meaning.",
+  "exampleSentencesTranslated": [
+    "I like to wear a green shirt to work on Mondays.",
+    "The trees in my garden always keep their leaves green all year round.",
+    "She bought a green bicycle for her younger brother for his birthday."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "xanh",
+    "đỏ",
+    "vàng"
+  ],
+  "notes": "xanh means green (a color). It’s an adjective and comes after the noun it describes.\n\nIt describes things by color and can act like a verb in simple sentences (no “to be” needed).  \n\nVery common extra meaning: blue (Vietnamese doesn’t clearly separate green/blue like English; context tells you which).  \nIt can also mean unripe/young (for fruit) or pale/sickly in some contexts.  \n\nMemory tip: think of xanh lá cây (leaf green) to lock in the core color meaning.",
+  "word": "xanh",
+  "definition": "green",
+  "rank": 1057,
+  "flashcard": {
+    "example": {
+      "es": "El cielo está muy azul hoy.",
+      "vi": "Bầu trời hôm nay rất xanh.",
+      "en": "The sky is very blue today."
+    },
+    "translations": {
+      "es": "azul",
+      "vi": "xanh",
+      "en": "blue"
+    },
+    "createdAt": "2025-01-28T10:35:55.486Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A color that resembles the color of the sky or sea.",
+      "vi": "Một màu sắc giống như màu của bầu trời hoặc biển.",
+      "es": "Un color que se asemeja al color del cielo o del mar."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:51:43.903Z",
+    "updatedAt": "2025-03-12T12:51:43.903Z",
+    "content": {
+      "answer": "xanh",
+      "sentence": "Cái lá này có màu ___.",
+      "word": "xanh",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "green"
+      },
+      "hint": "x___n",
+      "translation": {
+        "en": "This leaf is green."
+      },
+      "choices": [
+        "đỏ",
+        "xanh",
+        "vàng"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "91ffb62d-add1-433e-9811-a06dff070e97",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh thích mặc áo màu xanh khi đi làm vào thứ Hai.",
+    "Cây trong vườn nhà em luôn giữ lá xanh quanh năm.",
+    "Chị mua một chiếc xe đạp xanh cho em trai nhân dịp sinh nhật."
+  ],
+  "_id": "0gPsjICkLcbjTUfGddWQ"
+}

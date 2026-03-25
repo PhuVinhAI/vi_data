@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:22:53.489Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:52:03.630Z",
+    "content": {
+      "sentence": "Tôi cần một ___ để tập trung.",
+      "word": "tâm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "mind"
+      },
+      "answer": "tâm",
+      "translation": {
+        "en": "I need a mind to focus."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:52:03.630Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "ea0885db-519b-4ba3-b740-9bc71d96060a",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "tâm = mind or heart (your inner thoughts, feelings, moral center). It’s more about your inner state or conscience than your brain.\n\nIt’s usually uncountable and often appears in compounds: tâm trạng (mood), lương tâm (conscience), quan tâm (to care), yên tâm / an tâm (feel at ease), tận tâm (wholehearted).  \n\nYou can say có tâm (caring, thoughtful) vs vô tâm (careless, insensitive) — great contrast to remember.  \n\nSometimes people say cái tâm to stress someone’s moral heart or sincerity (not about romance, more about character).",
+  "exampleSentencesTranslated": [
+    "To study well, you need to keep your mind calm and patient.",
+    "He always tries to keep his mind relaxed when facing difficulties at work.",
+    "She believes that an optimistic mind will help her overcome challenges."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "tâm",
+      "es": "corazón",
+      "en": "heart"
+    },
+    "example": {
+      "es": "Mi corazón está muy en paz.",
+      "vi": "Tâm hồn của tôi rất bình yên.",
+      "en": "My heart is very peaceful."
+    },
+    "createdAt": "2025-01-28T14:13:35.539Z",
+    "definitions": {
+      "es": "Corazón o mente; a menudo se refiere al espíritu o estado emocional de una persona.",
+      "vi": "Trái tim hoặc tâm trí; thường chỉ tinh thần hoặc trạng thái cảm xúc của một người.",
+      "en": "Heart or mind; often refers to one's spirit or emotional state."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:52:03.630Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi cần một ___ để tập trung.",
+      "word": "tâm",
+      "translatedAnswer": {
+        "en": "mind"
+      },
+      "translation": {
+        "en": "I need a mind to focus."
+      },
+      "answer": "tâm",
+      "choices": [
+        "tâm",
+        "trí",
+        "hồn"
+      ],
+      "hint": "t__"
+    },
+    "updatedAt": "2025-03-12T13:52:03.630Z",
+    "id": "3c8cb844-98ac-4a87-ba09-8afaf8bb722c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**tâm** = mind or heart (your inner thoughts, feelings, moral center). It’s more about your inner state or conscience than your brain.\n\nIt’s usually uncountable and often appears in compounds: **tâm trạng** (mood), **lương tâm** (conscience), **quan tâm** (to care), **yên tâm / an tâm** (feel at ease), **tận tâm** (wholehearted).  \n\nYou can say **có tâm** (caring, thoughtful) vs **vô tâm** (careless, insensitive) — great contrast to remember.  \n\nSometimes people say **cái tâm** to stress someone’s moral heart or sincerity (not about romance, more about character).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tâm",
+    "tim",
+    "tầm"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Để học tốt, em cần giữ tâm bình tĩnh và kiên nhẫn.",
+    "Anh luôn cố gắng giữ tâm thoải mái khi gặp khó khăn trong công việc.",
+    "Chị tin rằng một tâm lạc quan sẽ giúp mình vượt qua thử thách."
+  ],
+  "rank": 608,
+  "word": "tâm",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "mind",
+  "_id": "GMUKX3wHsk7OUnUR5pJd"
+}

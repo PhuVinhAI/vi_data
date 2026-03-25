@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "a3a63c27-9f99-45f2-9ce4-56e1a02c28e2",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T17:17:43.055Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "you"
+      },
+      "sentence": "Tôi đã thấy ___ hôm qua.",
+      "word": "mày",
+      "language": "vi",
+      "hint": "m___",
+      "choices": [
+        "mày",
+        "nó",
+        "tôi"
+      ],
+      "answer": "mày",
+      "translation": {
+        "en": "I saw you yesterday."
+      }
+    },
+    "createdAt": "2025-03-12T17:17:43.055Z"
+  },
+  "notes_md": "**mày** = *you* (very informal). It’s used to talk to one person you’re very close to, or someone younger/lower in status.\n\nBe careful: it can sound rude or aggressive if the relationship isn’t close. It’s often paired with **tao** (“I” in the same rough/informal level), forming the tao–mày pair.\n\nNot used for strangers, elders, teachers, or in polite situations.",
+  "exampleSentencesTranslated": [
+    "Have you finished the homework yet today?",
+    "If you need help, just tell me.",
+    "Why are you so sad this morning?"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "mày",
+      "es": "tú",
+      "en": "you"
+    },
+    "createdAt": "2025-01-28T13:18:02.221Z",
+    "example": {
+      "es": "¿Quieres salir?",
+      "vi": "Mày có muốn đi chơi không?",
+      "en": "Do you want to go out?"
+    },
+    "definitions": {
+      "vi": "Bạn (không chính thức, số ít)",
+      "es": "Tú (informal, singular)",
+      "en": "You (informal, singular)"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "3ad2c31e-b70f-474f-a1ed-2ee22625252e",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "you"
+      },
+      "language": "vi",
+      "sentence": "___ đang làm gì vậy?",
+      "word": "mày",
+      "choices": [],
+      "translation": {
+        "en": "What are you doing?"
+      },
+      "answer": "mày"
+    },
+    "createdAt": "2025-03-12T17:17:43.055Z",
+    "updatedAt": "2025-03-12T17:17:43.055Z"
+  },
+  "notes": "mày = you (very informal). It’s used to talk to one person you’re very close to, or someone younger/lower in status.\n\nBe careful: it can sound rude or aggressive if the relationship isn’t close. It’s often paired with tao (“I” in the same rough/informal level), forming the tao–mày pair.\n\nNot used for strangers, elders, teachers, or in polite situations.",
+  "updatedAt": "2026-03-03T06:57:08.680Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "you (informal)",
+  "word": "mày",
+  "rank": 348,
+  "exampleSentences": [
+    "Mày đã làm xong bài tập về nhà chưa hôm nay?",
+    "Nếu mày cần giúp đỡ thì cứ nói với anh nhé.",
+    "Tại sao mày lại buồn như vậy vào sáng nay?"
+  ],
+  "choices": [
+    "mày",
+    "nó",
+    "chúng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Hrc1Pcfuru11OhvBxpL5"
+}

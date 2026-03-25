@@ -1,0 +1,99 @@
+{
+  "rank": 1576,
+  "exampleSentences": [
+    "Bài kiểm tra hôm nay cực khó nên em làm mãi mới xong.",
+    "Anh cực thích món phở ở quán này vì nó rất ngon.",
+    "Thời tiết ngoài trời hôm nay cực lạnh, nhớ mặc áo ấm nhé."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:38:04.070Z",
+    "translations": {
+      "es": "extremo",
+      "vi": "cực",
+      "en": "extreme"
+    },
+    "definitions": {
+      "en": "extreme or utmost; the highest point or degree.",
+      "vi": "cực là cực độ hoặc mức độ cao nhất.",
+      "es": "extremo o máximo; el punto o grado más alto."
+    },
+    "example": {
+      "en": "Mount Everest is the highest peak in the world.",
+      "vi": "Núi Everest là đỉnh núi cao nhất trên thế giới.",
+      "es": "El Monte Everest es el pico más alto del mundo."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:00:02.105Z",
+    "createdAt": "2025-03-12T14:00:02.105Z",
+    "id": "6ec739be-5833-4c76-9dae-7fe2f2547c39",
+    "content": {
+      "answer": "cực",
+      "translatedAnswer": {
+        "en": "extremely"
+      },
+      "sentence": "Trời hôm nay ___ lạnh.",
+      "hint": "c___",
+      "word": "cực",
+      "language": "vi",
+      "choices": [
+        "cực",
+        "khá",
+        "rất"
+      ],
+      "translation": {
+        "en": "The weather is extremely cold today."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "cực",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cực** = *extremely / super* (very strong emphasis). It makes adjectives or feelings more intense than **rất**.\n\nIt usually goes **before adjectives or verbs** to boost them.  \n\nIt’s informal and punchy — stronger and more emotional than *rất*.  \nSynonyms for memory: **rất**, **vô cùng** (more neutral/formal).  \nIt can also mean “pole” (like **Bắc Cực** = North Pole), but the intensifier meaning is what you’ll hear most in daily speech.",
+  "choices": [
+    "cực",
+    "nhiều",
+    "gần"
+  ],
+  "updatedAt": "2026-03-03T09:04:58.940Z",
+  "notes": "cực = extremely / super (very strong emphasis). It makes adjectives or feelings more intense than rất.\n\nIt usually goes before adjectives or verbs to boost them.  \n\nIt’s informal and punchy — stronger and more emotional than rất.  \nSynonyms for memory: rất, vô cùng (more neutral/formal).  \nIt can also mean “pole” (like Bắc Cực = North Pole), but the intensifier meaning is what you’ll hear most in daily speech.",
+  "exampleSentencesTranslated": [
+    "Today's test was extremely difficult so I took a long time to finish.",
+    "I extremely like the pho at this restaurant because it is very delicious.",
+    "The weather outside today is extremely cold, remember to wear warm clothes."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:00:02.105Z",
+    "createdAt": "2025-03-12T14:00:02.105Z",
+    "id": "ae87c5f9-9617-40d2-b1ac-5065d983337e",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "extremely"
+      },
+      "answer": "cực",
+      "translation": {
+        "en": "This is an extremely interesting thing."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "cực",
+      "sentence": "Đây là một điều ___ thú vị."
+    }
+  },
+  "definition": "extremely",
+  "_id": "IkapVZjaPPHvAiPuZPbf"
+}

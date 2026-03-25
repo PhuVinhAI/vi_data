@@ -1,0 +1,98 @@
+{
+  "word": "vở",
+  "exampleSentences": [
+    "Em để quên vở ở nhà nên không thể ghi bài hôm nay.",
+    "Anh có thể cho chị mượn vở để xem lại bài không?",
+    "Mỗi môn học, em đều có một vở riêng để ghi chép."
+  ],
+  "rank": 2354,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "notebook",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bút",
+    "sách",
+    "vở"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:37:40.237Z",
+    "createdAt": "2025-03-12T13:37:40.237Z",
+    "content": {
+      "answer": "vở",
+      "translation": {
+        "en": "I write the lesson in a notebook."
+      },
+      "translatedAnswer": {
+        "en": "notebook"
+      },
+      "word": "vở",
+      "sentence": "Tôi viết bài vào ___ mới.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "2424a1d8-4c4e-4d90-bc9d-92f269f20b52",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "vở = notebook, the book you write your school notes in.\n\nIt’s a countable noun. Use the classifier quyển/cuốn: một quyển vở. Plural is just những vở or a number in front.\n\nOften paired with viết vở (write in your notebook), mở vở (open your notebook), mua vở (buy notebooks).  \n\nDon’t confuse it with tập — in the South, tập is often used instead of vở for “notebook.”",
+  "updatedAt": "2026-03-03T10:27:24.211Z",
+  "multiChoiceQuiz": {
+    "id": "4c2e1e48-0874-4b8b-8342-17dd7f4791a8",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:37:40.237Z",
+    "content": {
+      "answer": "vở",
+      "translation": {
+        "en": "I need a notebook to take notes."
+      },
+      "hint": "v__",
+      "choices": [
+        "sách",
+        "vở",
+        "bút"
+      ],
+      "sentence": "Tôi cần một ___ để ghi chú.",
+      "word": "vở",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "notebook"
+      }
+    },
+    "updatedAt": "2025-03-12T13:37:40.237Z"
+  },
+  "notes_md": "**vở** = notebook, the book you write your school notes in.\n\nIt’s a countable noun. Use the classifier **quyển/cuốn**: *một quyển vở*. Plural is just **những vở** or a number in front.\n\nOften paired with **viết vở** (write in your notebook), **mở vở** (open your notebook), **mua vở** (buy notebooks).  \n\nDon’t confuse it with **tập** — in the South, *tập* is often used instead of *vở* for “notebook.”",
+  "exampleSentencesTranslated": [
+    "I forgot my notebook at home so I can't take notes today.",
+    "Can you lend me your notebook so I can review the lesson?",
+    "For each subject, I have a separate notebook for notes."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A notebook or exercise book used for writing.",
+      "es": "Un cuaderno o libro de ejercicios utilizado para escribir.",
+      "vi": "Một cuốn sổ hoặc sách bài tập dùng để viết."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "notebook",
+      "es": "cuaderno",
+      "vi": "vở"
+    },
+    "createdAt": "2025-01-28T11:16:59.411Z",
+    "example": {
+      "vi": "Tôi viết bài vào vở.",
+      "es": "Escribo mis notas en un cuaderno.",
+      "en": "I write my notes in a notebook."
+    }
+  },
+  "_id": "CvIrnTwdi4MuXl3if5ql"
+}

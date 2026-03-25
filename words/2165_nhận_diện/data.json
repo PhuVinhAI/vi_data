@@ -1,0 +1,99 @@
+{
+  "notes": "Nhận diện = to identify something by recognizing its features (face, voice, object, pattern). It’s about telling who/what something is.\n\nIt’s a verb, often used in formal or neutral contexts (technology, security, biology). You usually nhận diện + noun — a person, object, sound, problem, brand, face, fingerprint.\n\nClose to nhận ra (recognize), but nhận ra feels more personal/instant (“oh, I recognize!”), while nhận diện is more analytical or systematic.",
+  "choices": [
+    "nhận diện",
+    "phát hiện",
+    "trình bày"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:06:55.745Z",
+  "word": "nhận diện",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "4b3fcee4-9e20-40c6-a8d9-28e75be29114",
+    "createdAt": "2025-03-12T14:35:28.154Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "They are trying to identify strangers."
+      },
+      "answer": "nhận diện",
+      "hint": "nh___n",
+      "word": "nhận diện",
+      "choices": [
+        "nhận diện",
+        "phân biệt",
+        "tìm kiếm"
+      ],
+      "translatedAnswer": {
+        "en": "identify"
+      },
+      "language": "vi",
+      "sentence": "Họ đang cố gắng ___ người lạ."
+    },
+    "updatedAt": "2025-03-12T14:35:28.154Z"
+  },
+  "exampleSentencesTranslated": [
+    "Can you identify your friend's voice on the phone?",
+    "She is learning to identify different kinds of plants in the garden.",
+    "I find it hard to identify someone when they are wearing a mask."
+  ],
+  "rank": 2165,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "identify",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:35:28.154Z",
+    "id": "58a20e9a-7dcc-45dd-bb62-7bcf4b6f8eb9",
+    "content": {
+      "translation": {
+        "en": "We need to identify your face."
+      },
+      "answer": "nhận diện",
+      "choices": [],
+      "word": "nhận diện",
+      "sentence": "Chúng tôi cần ___ khuôn mặt của bạn.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "identify"
+      }
+    },
+    "updatedAt": "2025-03-12T14:35:28.154Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể nhận diện giọng nói của bạn qua điện thoại không?",
+    "Chị ấy học cách nhận diện các loại cây trong vườn.",
+    "Em thấy khó nhận diện ai đó khi họ đeo khẩu trang."
+  ],
+  "notes_md": "**Nhận diện** = to identify something by recognizing its features (face, voice, object, pattern). It’s about telling who/what something is.\n\nIt’s a verb, often used in formal or neutral contexts (technology, security, biology). You usually **nhận diện + noun** — a person, object, sound, problem, brand, face, fingerprint.\n\nClose to **nhận ra** (recognize), but *nhận ra* feels more personal/instant (“oh, I recognize!”), while *nhận diện* is more analytical or systematic.",
+  "flashcard": {
+    "translations": {
+      "en": "identify",
+      "vi": "nhận diện",
+      "es": "identificar"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesitamos identificar el problema antes de resolverlo.",
+      "en": "We need to identify the problem before solving it.",
+      "vi": "Chúng ta cần nhận diện vấn đề trước khi giải quyết."
+    },
+    "definitions": {
+      "vi": "Nhận ra hoặc xác định một cái gì đó.",
+      "en": "To recognize or identify something.",
+      "es": "Reconocer o identificar algo."
+    },
+    "createdAt": "2025-01-28T12:10:47.109Z"
+  },
+  "_id": "QqiSEoZZ6U33wyhGO50n"
+}

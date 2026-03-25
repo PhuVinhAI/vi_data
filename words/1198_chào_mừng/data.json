@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "welcome",
+  "word": "chào mừng",
+  "rank": 1198,
+  "exampleSentences": [
+    "Chúng tôi rất vui được chào mừng anh đến tham dự buổi tiệc này.",
+    "Nhà trường sẽ chào mừng các học sinh mới vào tuần tới.",
+    "Cả gia đình em sẽ chào mừng chị khi chị trở về từ chuyến công tác."
+  ],
+  "choices": [
+    "chào mừng",
+    "cảm ơn",
+    "hẹn gặp lại"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:56:03.514Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Họ ___ bạn đến sự kiện.",
+      "word": "chào mừng",
+      "translatedAnswer": {
+        "en": "welcome"
+      },
+      "answer": "chào mừng",
+      "translation": {
+        "en": "They welcome you to the event."
+      },
+      "hint": "ch___ m___",
+      "choices": [
+        "chào đón",
+        "chào mừng",
+        "chào hỏi"
+      ]
+    },
+    "createdAt": "2025-03-12T13:56:03.514Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "fa20f34f-0607-4ae4-837c-38f6d98b396b"
+  },
+  "notes_md": "**chào mừng** = to welcome someone. You use it when you happily receive or greet a person.\n\nIt’s a verb phrase. Often followed by a person + **đến / tới + place/event**.  \n\nIt sounds warm and positive, often used in formal or semi-formal situations (events, schools, companies).  \n\nStrong memory link: **hoan nghênh** = also “welcome,” but more formal and official.",
+  "exampleSentencesTranslated": [
+    "We are very happy to welcome you to this party.",
+    "The school will welcome the new students next week.",
+    "My whole family will welcome you when you return from your business trip."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "welcome",
+      "es": "bienvenido",
+      "vi": "chào mừng"
+    },
+    "createdAt": "2025-01-28T13:59:19.772Z",
+    "example": {
+      "vi": "Chào mừng bạn đến với buổi tiệc.",
+      "es": "Bienvenido a la fiesta.",
+      "en": "Welcome to the party."
+    },
+    "definitions": {
+      "es": "Un saludo utilizado para expresar bienvenida.",
+      "vi": "Một lời chào được sử dụng để thể hiện sự chào đón.",
+      "en": "A greeting used to express welcome."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "e9f1a6d8-ef2a-418a-b032-67a96710ca95",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:56:03.514Z",
+    "createdAt": "2025-03-12T13:56:03.514Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Chúng ta ___ đến buổi tiệc.",
+      "word": "chào mừng",
+      "translatedAnswer": {
+        "en": "welcome"
+      },
+      "answer": "chào mừng",
+      "translation": {
+        "en": "We welcome to the party."
+      },
+      "choices": []
+    }
+  },
+  "notes": "chào mừng = to welcome someone. You use it when you happily receive or greet a person.\n\nIt’s a verb phrase. Often followed by a person + đến / tới + place/event.  \n\nIt sounds warm and positive, often used in formal or semi-formal situations (events, schools, companies).  \n\nStrong memory link: hoan nghênh = also “welcome,” but more formal and official.",
+  "updatedAt": "2026-03-03T08:23:18.540Z",
+  "_id": "HozJge9JhbqPbbKvfW8c"
+}

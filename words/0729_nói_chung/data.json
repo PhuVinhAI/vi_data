@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "En general, el clima de hoy es muy agradable.",
+      "en": "Generally, the weather today is very nice.",
+      "vi": "Nói chung, thời tiết hôm nay rất đẹp."
+    },
+    "translations": {
+      "es": "en general",
+      "vi": "nói chung",
+      "en": "generally"
+    },
+    "createdAt": "2025-01-28T11:16:51.544Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "En general; en conjunto.",
+      "vi": "Nói chung; tổng thể.",
+      "en": "In general; overall."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "in general",
+  "rank": 729,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nói chung, anh thích ăn các món ăn Việt Nam hơn đồ Tây.",
+    "Nói chung, mọi người ở công ty đều rất thân thiện và hợp tác.",
+    "Em thấy, nói chung thời tiết ở đây khá dễ chịu vào mùa xuân."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:04:47.066Z",
+    "updatedAt": "2025-03-12T13:04:47.066Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6e288615-255f-4d52-8515-26c2e7a6a6fb",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "nói chung",
+      "sentence": "Chúng ta nên ___ về tình hình.",
+      "hint": "n___ chung",
+      "word": "nói chung",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "generally"
+      },
+      "translation": {
+        "en": "We should speak generally about the situation."
+      },
+      "choices": [
+        "nói rõ",
+        "nói chung",
+        "nói riêng"
+      ]
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nói chung",
+  "choices": [
+    "nói riêng",
+    "nói chung",
+    "nói thật"
+  ],
+  "notes": "nói chung means in general or overall. You use it to give a general opinion, not details.\n\nIt’s a linking phrase, usually at the beginning of a sentence to summarize your view. It can also appear mid-sentence to soften or generalize what you’re saying.\n\nClose synonym: nhìn chung (very similar meaning, slightly more formal).",
+  "notes_md": "**nói chung** means *in general* or *overall*. You use it to give a general opinion, not details.\n\nIt’s a linking phrase, usually at the beginning of a sentence to summarize your view. It can also appear mid-sentence to soften or generalize what you’re saying.\n\n\nClose synonym: **nhìn chung** (very similar meaning, slightly more formal).",
+  "exampleSentencesTranslated": [
+    "In general, I prefer eating Vietnamese food over Western food.",
+    "In general, everyone at the company is very friendly and cooperative.",
+    "I think, in general, the weather here is quite pleasant in spring."
+  ],
+  "updatedAt": "2026-03-03T07:34:42.274Z",
+  "fillBlankQuiz": {
+    "id": "682a3fcd-73a8-4328-8ff3-439f188d1389",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "nói chung",
+      "translatedAnswer": {
+        "en": "generally"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We should speak generally about the plan."
+      },
+      "choices": [],
+      "answer": "nói chung",
+      "sentence": "Chúng ta nên ___ về kế hoạch."
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:04:47.066Z",
+    "updatedAt": "2025-03-12T13:04:47.066Z"
+  },
+  "_id": "4KKuAmWRNGpyci1QawMD"
+}

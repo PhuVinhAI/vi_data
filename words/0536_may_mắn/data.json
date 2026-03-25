@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:15:54.086Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 536,
+  "exampleSentencesTranslated": [
+    "I feel very lucky to have a good friend like you.",
+    "She was lucky to win a prize in the raffle yesterday.",
+    "He said that he is lucky to work with a wonderful team."
+  ],
+  "word": "may mắn",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:40:15.152Z",
+    "id": "be36a433-a0c3-4d9f-bb33-7fec0041a1d5",
+    "content": {
+      "translatedAnswer": {
+        "en": "lucky"
+      },
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ hôm nay.",
+      "hint": "m___n",
+      "answer": "may mắn",
+      "translation": {
+        "en": "I feel lucky today."
+      },
+      "word": "may mắn",
+      "choices": [
+        "hạnh phúc",
+        "may mắn",
+        "buồn bã"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:40:15.152Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes": "may mắn = lucky; having good fortune happen to you.\n\nIt’s usually an adjective describing a person or situation: người may mắn, hôm nay may mắn, rất may mắn. It often goes with cảm thấy (feel), thật / rất / khá (really / very / quite).\n\nYou can also use it as a noun with sự → sự may mắn (luck, good fortune).\n\nStrong contrast: may mắn (lucky) ↔ xui / xui xẻo (unlucky, bad luck).",
+  "choices": [
+    "may mắn",
+    "hạnh phúc",
+    "bận rộn"
+  ],
+  "exampleSentences": [
+    "Em cảm thấy rất may mắn khi có một người bạn tốt như anh.",
+    "Chị đã may mắn trúng thưởng trong chương trình rút thăm hôm qua.",
+    "Anh ấy nói rằng mình may mắn được làm việc với một đội tuyệt vời."
+  ],
+  "notes_md": "**may mắn** = lucky; having good fortune happen to you.\n\nIt’s usually an adjective describing a person or situation: *người may mắn*, *hôm nay may mắn*, *rất may mắn*. It often goes with **cảm thấy** (feel), **thật / rất / khá** (really / very / quite).\n\nYou can also use it as a noun with **sự** → **sự may mắn** (luck, good fortune).\n\nStrong contrast: **may mắn** (lucky) ↔ **xui / xui xẻo** (unlucky, bad luck).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "afortunado",
+      "en": "lucky",
+      "vi": "may mắn"
+    },
+    "createdAt": "2025-01-28T12:15:39.050Z",
+    "definitions": {
+      "es": "Un estado de tener buena fortuna o suerte.",
+      "vi": "Trạng thái có vận may hoặc sự may mắn.",
+      "en": "A state of having good fortune or luck."
+    },
+    "example": {
+      "vi": "Tôi cảm thấy may mắn khi có bạn.",
+      "en": "I feel lucky to have you.",
+      "es": "Me siento afortunado de tenerte."
+    }
+  },
+  "definition": "lucky",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:40:15.152Z",
+    "id": "ddc8290d-0a33-4556-a4e1-650daf978d2f",
+    "content": {
+      "translation": {
+        "en": "You are really lucky in life."
+      },
+      "answer": "may mắn",
+      "choices": [],
+      "word": "may mắn",
+      "sentence": "Bạn thật ___ trong cuộc sống.",
+      "translatedAnswer": {
+        "en": "lucky"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:40:15.152Z"
+  },
+  "_id": "S4vjSpQLUlZU64bgFKwk"
+}

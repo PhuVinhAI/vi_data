@@ -1,0 +1,99 @@
+{
+  "definition": "cut (with force, usually using a knife or axe)",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "chặt",
+  "rank": 2090,
+  "exampleSentences": [
+    "Anh có thể giúp em chặt củi ngoài vườn được không?",
+    "Bà nội thường chặt rau để nấu canh cho cả nhà.",
+    "Chiếc dao này không đủ sắc để chặt thịt gà dễ dàng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cắt",
+    "chặt",
+    "gọt"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:59:25.129Z",
+    "createdAt": "2025-03-12T13:59:25.129Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "strong"
+      },
+      "sentence": "Cây này rất ___.",
+      "word": "chặt",
+      "language": "vi",
+      "choices": [
+        "chặt",
+        "mềm",
+        "nhẹ"
+      ],
+      "hint": "c___t",
+      "translation": {
+        "en": "This tree is very strong."
+      },
+      "answer": "chặt"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "d321065a-54b8-4880-87a2-bfa37ac66901",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**chặt** = to cut with strong force, usually using a heavy or sharp tool like a knife or axe. It implies big, solid things — not light slicing.\n\nYou use it for hard objects: **chặt cây, chặt gỗ, chặt xương, chặt tre**. It often suggests repeated, powerful hits.\n\nIt can also mean cutting something down completely (like a tree), not just making a small cut.\n\nRelated word: **cắt** = cut (more general, lighter). Think: *cắt giấy* (paper), but *chặt cây* (tree).",
+  "flashcard": {
+    "translations": {
+      "vi": "chặt",
+      "es": "cortar",
+      "en": "cut"
+    },
+    "createdAt": "2025-01-28T11:37:23.445Z",
+    "example": {
+      "es": "Este árbol está cortado muy ordenadamente.",
+      "vi": "Cây này được chặt rất gọn gàng.",
+      "en": "This tree is cut very neatly."
+    },
+    "definitions": {
+      "en": "To cut something into pieces or to chop.",
+      "vi": "Cắt một cái gì đó thành từng mảnh hoặc chặt.",
+      "es": "Cortar algo en pedazos o picar."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Can you help me cut the firewood with force in the yard?",
+    "Grandma often cuts the vegetables with force to cook soup for the family.",
+    "This knife is not sharp enough to cut the chicken with force easily."
+  ],
+  "notes": "chặt = to cut with strong force, usually using a heavy or sharp tool like a knife or axe. It implies big, solid things — not light slicing.\n\nYou use it for hard objects: chặt cây, chặt gỗ, chặt xương, chặt tre. It often suggests repeated, powerful hits.\n\nIt can also mean cutting something down completely (like a tree), not just making a small cut.\n\nRelated word: cắt = cut (more general, lighter). Think: cắt giấy (paper), but chặt cây (tree).",
+  "fillBlankQuiz": {
+    "id": "bfd853c6-b72f-470a-b2ad-7aa79acdbb6f",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:59:25.129Z",
+    "content": {
+      "translation": {
+        "en": "This tree is very strong."
+      },
+      "answer": "chặt",
+      "choices": [],
+      "word": "chặt",
+      "sentence": "Cây này rất ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "strong"
+      }
+    },
+    "updatedAt": "2025-03-12T13:59:25.129Z"
+  },
+  "updatedAt": "2026-03-03T09:59:11.076Z",
+  "_id": "If2AE9G3EpOIWOl6oJ7e"
+}

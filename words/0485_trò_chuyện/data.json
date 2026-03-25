@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "trò chuyện = to chat, to have a casual conversation. It’s light, friendly talking, not serious debating.\n\nIt’s a verb. You usually use it for relaxed back-and-forth talks with friends, family, coworkers.  \n\nVery close to nói chuyện (more neutral) and tán gẫu (more playful, chatty). It sounds warm and social, not formal.",
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta có thể trò chuyện về bất cứ điều gì.",
+      "en": "We can chat about anything.",
+      "es": "Podemos charlar sobre cualquier cosa."
+    },
+    "definitions": {
+      "vi": "Tham gia vào cuộc trò chuyện hoặc nói chuyện không chính thức.",
+      "es": "Participar en una conversación o hablar de manera informal.",
+      "en": "To engage in conversation or talk informally."
+    },
+    "translations": {
+      "en": "chat",
+      "es": "charlar",
+      "vi": "trò chuyện"
+    },
+    "createdAt": "2025-01-28T14:19:01.921Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Anh thường trò chuyện với bạn bè sau giờ làm việc.",
+    "Chúng ta có thể trò chuyện về kế hoạch du lịch cuối tuần này không?",
+    "Mỗi tối, mẹ và em gái đều ngồi trò chuyện trong phòng khách."
+  ],
+  "updatedAt": "2026-03-03T07:10:45.330Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta có thể ___ khi nào.",
+      "hint": "tr___n",
+      "word": "trò chuyện",
+      "language": "vi",
+      "choices": [
+        "trò chuyện",
+        "học hỏi",
+        "làm việc"
+      ],
+      "answer": "trò chuyện",
+      "translation": {
+        "en": "We can chat anytime."
+      },
+      "translatedAnswer": {
+        "en": "chat"
+      }
+    },
+    "updatedAt": "2025-03-12T16:48:31.929Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:48:31.929Z",
+    "id": "ca2e7549-3265-4409-9802-899fddb17d8d"
+  },
+  "choices": [
+    "trò chuyện",
+    "ngủ trưa",
+    "đi bộ"
+  ],
+  "exampleSentencesTranslated": [
+    "He often likes to chat with friends after work.",
+    "Can we chat about the travel plans for this weekend?",
+    "Every evening, my mom and younger sister sit and chat in the living room."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trò chuyện",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**trò chuyện** = to chat, to have a casual conversation. It’s light, friendly talking, not serious debating.\n\nIt’s a verb. You usually use it for relaxed back-and-forth talks with friends, family, coworkers.  \n\nVery close to **nói chuyện** (more neutral) and **tán gẫu** (more playful, chatty). It sounds warm and social, not formal.",
+  "rank": 485,
+  "definition": "chat",
+  "fillBlankQuiz": {
+    "id": "1251312d-c0d1-433e-9032-a06633a499be",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:48:31.929Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta có thể ___ vào buổi chiều.",
+      "word": "trò chuyện",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "chat"
+      },
+      "answer": "trò chuyện",
+      "translation": {
+        "en": "We can chat in the afternoon."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:48:31.929Z"
+  },
+  "_id": "yg13C50dRTGhLeFGOAPB"
+}

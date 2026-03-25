@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:43:07.317Z",
+  "fillBlankQuiz": {
+    "id": "20f942fe-0ff9-4bd1-8ebf-a4d4234a2359",
+    "content": {
+      "translation": {
+        "en": "The car is stuck in the tunnel."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "stuck"
+      },
+      "language": "vi",
+      "word": "kẹt",
+      "answer": "kẹt",
+      "sentence": "Xe hơi bị ___ trong đường hầm."
+    },
+    "updatedAt": "2025-03-12T15:04:50.472Z",
+    "createdAt": "2025-03-12T15:04:50.472Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "This morning I was stuck in traffic so I arrived late.",
+    "I can't go outside because the door is stuck.",
+    "She is stuck at the office because there is too much work to do."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To be stuck or trapped in a situation.",
+      "es": "Estar atrapado o bloqueado en una situación.",
+      "vi": "Bị mắc kẹt hoặc bị chặn trong một tình huống."
+    },
+    "createdAt": "2025-01-28T12:37:11.721Z",
+    "example": {
+      "en": "The car is stuck in traffic.",
+      "es": "El coche está atascado en el tráfico.",
+      "vi": "Xe bị kẹt trong giao thông."
+    },
+    "translations": {
+      "en": "stuck",
+      "es": "atascado",
+      "vi": "kẹt"
+    }
+  },
+  "notes_md": "**kẹt** = stuck; unable to move or get out of a situation.\n\nIt’s often used when something physically can’t move (door, key, wheel) or when a person can’t leave or act. It also describes being stuck in a situation like traffic, work, or time.  \n\nVery common extra meaning: short of money (“kẹt tiền”) — like you’re financially stuck.  \n\n\nClose synonym: **mắc** (also “stuck”), but *kẹt* feels more like blocked or trapped.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "stuck",
+  "choices": [
+    "kẹt",
+    "khát",
+    "kết"
+  ],
+  "rank": 2750,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "366eba9f-363b-4725-a356-3222618d95e4",
+    "content": {
+      "hint": "k__t",
+      "answer": "kẹt",
+      "word": "kẹt",
+      "language": "vi",
+      "sentence": "Xe hơi bị ___ trong đường hầm.",
+      "translation": {
+        "en": "The car is stuck in the tunnel."
+      },
+      "choices": [
+        "đứng",
+        "kẹt",
+        "chạy"
+      ],
+      "translatedAnswer": {
+        "en": "stuck"
+      }
+    },
+    "updatedAt": "2025-03-12T15:04:50.472Z",
+    "createdAt": "2025-03-12T15:04:50.472Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Sáng nay anh bị kẹt trong giao thông nên đến muộn.",
+    "Em không thể ra ngoài vì cửa bị kẹt rồi.",
+    "Chị ấy kẹt ở văn phòng vì có quá nhiều việc phải làm."
+  ],
+  "notes": "kẹt = stuck; unable to move or get out of a situation.\n\nIt’s often used when something physically can’t move (door, key, wheel) or when a person can’t leave or act. It also describes being stuck in a situation like traffic, work, or time.  \n\nVery common extra meaning: short of money (“kẹt tiền”) — like you’re financially stuck.  \n\nClose synonym: mắc (also “stuck”), but kẹt feels more like blocked or trapped.",
+  "word": "kẹt",
+  "_id": "Y7jxZHTxdi8lIFoQClqv"
+}

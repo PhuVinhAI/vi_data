@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:50:15.931Z",
+    "updatedAt": "2025-03-12T12:50:15.931Z",
+    "id": "294c2bc5-2b39-4dc0-a4d5-0265d43b7bd0",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "tụi mình",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "our group"
+      },
+      "choices": [],
+      "translation": {
+        "en": "We and our group will go out together."
+      },
+      "answer": "tụi mình",
+      "sentence": "Chúng ta và ___ sẽ cùng đi chơi."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T09:12:07.956Z",
+  "exampleSentencesTranslated": [
+    "Tonight we go eat pho at the new restaurant, okay?",
+    "If the weather is nice, we can walk in the park.",
+    "We finished the group assignment before the deadline."
+  ],
+  "notes_md": "**Tụi mình** means **“we”** (including the listener). It’s friendly and casual.\n\nIt’s used when the speaker and the person they’re talking to are in the same group. You can’t use it if you’re talking about “we” but excluding the listener.  \n\n\nIn the North, people more often say **chúng mình** instead — same meaning, just slightly less casual.",
+  "choices": [
+    "tụi mình",
+    "bọn họ",
+    "các bạn"
+  ],
+  "notes": "Tụi mình means “we” (including the listener). It’s friendly and casual.\n\nIt’s used when the speaker and the person they’re talking to are in the same group. You can’t use it if you’re talking about “we” but excluding the listener.  \n\nIn the North, people more often say chúng mình instead — same meaning, just slightly less casual.",
+  "word": "tụi mình",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:50:15.931Z",
+    "updatedAt": "2025-03-12T12:50:15.931Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4ccbc945-aa58-4d25-9d30-20e521901aa4",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta sẽ gặp ___ vào cuối tuần.",
+      "answer": "tụi mình",
+      "choices": [
+        "bạn mình",
+        "tụi mình",
+        "anh em"
+      ],
+      "translation": {
+        "en": "We will meet our group at the weekend."
+      },
+      "word": "tụi mình",
+      "translatedAnswer": {
+        "en": "our group"
+      },
+      "language": "vi",
+      "hint": "t___ m___"
+    }
+  },
+  "exampleSentences": [
+    "Tối nay tụi mình đi ăn phở ở quán mới nhé?",
+    "Nếu trời đẹp, tụi mình có thể đi dạo ở công viên.",
+    "Tụi mình đã hoàn thành bài tập nhóm trước thời hạn rồi."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "we",
+  "rank": 1647,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Nosotros saldremos este fin de semana.",
+      "en": "We will go out this weekend.",
+      "vi": "Tụi mình sẽ đi chơi vào cuối tuần này."
+    },
+    "translations": {
+      "es": "nosotros",
+      "vi": "tụi mình",
+      "en": "we"
+    },
+    "definitions": {
+      "vi": "Một thuật ngữ thông dụng trong tiếng Việt có nghĩa là 'chúng tôi' hoặc 'mình', thường được sử dụng giữa bạn bè.",
+      "en": "A colloquial term in Vietnamese meaning 'we' or 'us', often used among friends.",
+      "es": "Un término coloquial en vietnamita que significa 'nosotros' o 'nos', a menudo utilizado entre amigos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:34:59.066Z"
+  },
+  "_id": "0WnaIrpGV3VWn86db9Mi"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "để ý",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:32:03.121Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn cần ___ khi lái xe.",
+      "language": "vi",
+      "word": "để ý",
+      "choices": [
+        "học bài",
+        "để ý",
+        "nghỉ ngơi"
+      ],
+      "hint": "đ___ ý",
+      "answer": "để ý",
+      "translatedAnswer": {
+        "en": "pay attention"
+      },
+      "translation": {
+        "en": "You need to pay attention when driving."
+      }
+    },
+    "createdAt": "2025-03-12T13:32:03.121Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e44ed2f4-7807-492d-8202-c61c1c41fc01"
+  },
+  "notes_md": "**để ý** = to pay attention to something, to notice something. It’s about focusing your mind or becoming aware of a detail.\n\nIt’s usually followed by a person or thing you’re paying attention to.  \n\nIt can also mean **to take notice of** small changes or problems, often subtly. In casual contexts, **để ý ai** can mean “to have a crush on someone” (romantic interest).\n\nClose synonym: **chú ý** (more formal, often used in announcements).",
+  "choices": [
+    "quan tâm",
+    "để ý",
+    "tìm hiểu"
+  ],
+  "rank": 1066,
+  "notes": "để ý = to pay attention to something, to notice something. It’s about focusing your mind or becoming aware of a detail.\n\nIt’s usually followed by a person or thing you’re paying attention to.  \n\nIt can also mean to take notice of small changes or problems, often subtly. In casual contexts, để ý ai can mean “to have a crush on someone” (romantic interest).\n\nClose synonym: chú ý (more formal, often used in announcements).",
+  "updatedAt": "2026-03-03T08:09:38.500Z",
+  "exampleSentences": [
+    "Anh nhớ để ý khi đi qua đường đông xe nhé.",
+    "Chị phải để ý lời nói của mình khi nói trước đám đông.",
+    "Em nên để ý bài giảng của thầy nếu muốn hiểu bài tốt hơn."
+  ],
+  "exampleSentencesTranslated": [
+    "Remember to pay attention when crossing a busy street.",
+    "You have to pay attention to your words when speaking in front of a crowd.",
+    "You should pay attention to the teacher's lecture if you want to understand better."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:32:03.121Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "để ý",
+      "translatedAnswer": {
+        "en": "pay attention"
+      },
+      "translation": {
+        "en": "You remember to pay attention to yesterday's lecture."
+      },
+      "language": "vi",
+      "sentence": "Bạn nhớ ___ bài giảng hôm qua.",
+      "word": "để ý",
+      "choices": []
+    },
+    "id": "68e7bd7b-e8d0-4769-baaa-35463f7698a2",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:32:03.121Z"
+  },
+  "definition": "pay attention",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:11:45.178Z",
+    "translations": {
+      "vi": "để ý",
+      "es": "prestar atención",
+      "en": "to pay attention"
+    },
+    "example": {
+      "en": "You should pay attention to the small details.",
+      "vi": "Bạn hãy để ý đến những chi tiết nhỏ.",
+      "es": "Debes prestar atención a los pequeños detalles."
+    },
+    "definitions": {
+      "vi": "Chú ý hoặc nhận ra điều gì đó.",
+      "es": "Prestar atención o notar algo.",
+      "en": "To pay attention or to notice something."
+    }
+  },
+  "_id": "BQM28n3KWCk4pM35c7uK"
+}

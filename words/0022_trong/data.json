@@ -1,0 +1,104 @@
+{
+  "exampleSentences": [
+    "Em để sách trong túi.",
+    "Anh tìm chìa khóa trong nhà.",
+    "Chị uống nước trong bếp."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "inside",
+      "es": "dentro",
+      "vi": "trong"
+    },
+    "definitions": {
+      "es": "dentro; en el interior de; en medio de",
+      "vi": "ở bên trong; trong lòng; ở giữa",
+      "en": "inside; within; in the midst of"
+    },
+    "createdAt": "2025-01-28T14:12:22.164Z",
+    "example": {
+      "en": "What is inside this box?",
+      "vi": "Cái hộp này có cái gì trong?",
+      "es": "¿Qué hay dentro de esta caja?"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 22,
+  "choices": [
+    "trên",
+    "ngoài",
+    "trong"
+  ],
+  "updatedAt": "2026-03-03T06:05:12.172Z",
+  "exampleSentencesTranslated": [
+    "I put the book in the bag.",
+    "He looks for the key in the house.",
+    "She drinks water in the kitchen."
+  ],
+  "notes": "trong = “in / inside.” It shows something is inside a place, space, or container.\n\nIt goes before a noun and stays fixed: preposition + noun phrase.  \n\nIt can also mean “during” (time) and sometimes “among” (a group).  \nMemory tip: trong (inside) ↔ ngoài (outside).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:11:25.145Z",
+    "createdAt": "2025-03-12T14:11:25.145Z",
+    "id": "df47e61f-3d86-4b32-9d8b-5ccae2864ffe",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "in"
+      },
+      "answer": "trong",
+      "word": "trong",
+      "sentence": "Tôi để sách ___ cặp.",
+      "translation": {
+        "en": "I put the book in the bag."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "sentenceBreakdowns": [
+    "Em (I) + để (put) + sách (book) + trong (in) + túi (bag)",
+    "Anh (he) + tìm (look for) + chìa khóa (key) + trong (in) + nhà (house)",
+    "Chị (she) + uống (drink) + nước (water) + trong (in) + bếp (kitchen)"
+  ],
+  "definition": "in",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:11:25.145Z",
+    "createdAt": "2025-03-12T14:11:25.145Z",
+    "id": "7fa04e39-d119-4edc-9327-ad9f1073ef6a",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "ngoài",
+        "trong",
+        "dưới"
+      ],
+      "translation": {
+        "en": "I put the book in the bag."
+      },
+      "sentence": "Tôi để sách ___ cặp.",
+      "hint": "t___n",
+      "word": "trong",
+      "answer": "trong",
+      "translatedAnswer": {
+        "en": "in"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "trong",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**trong** = “in / inside.” It shows something is inside a place, space, or container.\n\nIt goes before a noun and stays fixed: preposition + noun phrase.  \n\nIt can also mean “during” (time) and sometimes “among” (a group).  \nMemory tip: **trong** (inside) ↔ **ngoài** (outside).",
+  "_id": "L57IArMT8NTBxR3Cl9Ce"
+}

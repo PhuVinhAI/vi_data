@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**nghỉ ngơi** means *to rest* or *to take a break* so your body or mind can recover. It’s used when you stop working, studying, or doing something tiring.\n\nIt’s an intransitive verb, so you usually don’t need an object after it. Often combined with time words like *một chút, một lát, vài ngày* to show how long the rest is.\n\n\nClose synonym: **nghỉ** (shorter, more general; can also mean “take time off” like from work or school). Opposite idea: **làm việc** (to work).",
+  "fillBlankQuiz": {
+    "id": "1a78e29e-bd52-4785-8e25-bf821e3df526",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:39:29.815Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi cần ___ sau một ngày dài.",
+      "word": "nghỉ ngơi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rest"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need to rest after a long day."
+      },
+      "answer": "nghỉ ngơi"
+    },
+    "updatedAt": "2025-03-12T16:39:29.815Z"
+  },
+  "definition": "rest",
+  "rank": 1875,
+  "flashcard": {
+    "createdAt": "2025-01-28T14:11:14.952Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Tomar un descanso o descansar.",
+      "en": "To take a break or rest.",
+      "vi": "Nghỉ ngơi có nghĩa là tạm dừng hoặc thư giãn."
+    },
+    "example": {
+      "en": "After a tiring day at work, I need to rest.",
+      "es": "Después de un día agotador en el trabajo, necesito descansar.",
+      "vi": "Sau một ngày làm việc mệt mỏi, tôi cần nghỉ ngơi."
+    },
+    "translations": {
+      "en": "rest",
+      "es": "descansar",
+      "vi": "nghỉ ngơi"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nghỉ ngơi means to rest or to take a break so your body or mind can recover. It’s used when you stop working, studying, or doing something tiring.\n\nIt’s an intransitive verb, so you usually don’t need an object after it. Often combined with time words like một chút, một lát, vài ngày to show how long the rest is.\n\nClose synonym: nghỉ (shorter, more general; can also mean “take time off” like from work or school). Opposite idea: làm việc (to work).",
+  "choices": [
+    "nghỉ ngơi",
+    "làm việc",
+    "học tập"
+  ],
+  "exampleSentences": [
+    "Sau khi làm việc cả ngày, anh cần nghỉ ngơi một chút.",
+    "Chị nên nghỉ ngơi nhiều hơn để khỏe lại nhanh chóng.",
+    "Em thường nghỉ ngơi vào buổi trưa khi ở văn phòng."
+  ],
+  "updatedAt": "2026-03-03T09:36:26.895Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi muốn ___ vào cuối tuần.",
+      "word": "nghỉ ngơi",
+      "hint": "n___n",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rest"
+      },
+      "translation": {
+        "en": "I want to rest on the weekend."
+      },
+      "answer": "nghỉ ngơi",
+      "choices": [
+        "nghỉ mát",
+        "nghỉ ngơi",
+        "nghỉ học"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:39:29.815Z",
+    "createdAt": "2025-03-12T16:39:29.815Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7f37a778-036b-4613-99d0-7deaec40b2ce"
+  },
+  "word": "nghỉ ngơi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "After working all day, you need to rest a little.",
+    "You should rest more to recover quickly.",
+    "I usually rest at noon when at the office."
+  ],
+  "_id": "wemlmH0cFNLlS2lkU9aj"
+}

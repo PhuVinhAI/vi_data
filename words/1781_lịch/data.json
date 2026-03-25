@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "lịch",
+    "bút",
+    "giấy"
+  ],
+  "exampleSentences": [
+    "Anh đã ghi chú cuộc họp vào lịch để không quên.",
+    "Em có thể xem lịch giúp chị ngày mai là thứ mấy không?",
+    "Mỗi sáng, bà thường kiểm tra lịch để biết các sự kiện quan trọng."
+  ],
+  "updatedAt": "2026-03-03T09:26:45.956Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Bạn có ___ này không?",
+      "hint": "l__h",
+      "word": "lịch",
+      "language": "vi",
+      "translation": {
+        "en": "Do you have this calendar?"
+      },
+      "answer": "lịch",
+      "choices": [
+        "sách",
+        "lịch",
+        "bảng"
+      ],
+      "translatedAnswer": {
+        "en": "calendar"
+      }
+    },
+    "updatedAt": "2025-03-12T16:34:20.503Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:34:20.503Z",
+    "id": "e7e770ee-dbd7-4f92-96ed-c5739b3bc9a1"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I have noted the meeting in the calendar so I won’t forget.",
+    "Can you check the calendar for me to see what day tomorrow is?",
+    "Every morning, grandma usually checks the calendar to know important events."
+  ],
+  "word": "lịch",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:05:43.009Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito revisar el calendario para hacer planes.",
+      "en": "I need to check the calendar to make plans.",
+      "vi": "Tôi cần xem lịch để lên kế hoạch."
+    },
+    "definitions": {
+      "vi": "Một hệ thống để tổ chức ngày, tháng và năm.",
+      "en": "A system for organizing days, months, and years.",
+      "es": "Un sistema para organizar días, meses y años."
+    },
+    "translations": {
+      "vi": "lịch",
+      "es": "calendario",
+      "en": "calendar"
+    }
+  },
+  "notes": "lịch = calendar. It’s what you use to see dates, months, and planned events.\n\nIt’s a countable noun: một cuốn lịch, một cái lịch. Common pairings: xem lịch (check the calendar), in lịch (print a calendar), lịch làm việc (work schedule), lịch học (class schedule).\n\nIt can also mean schedule/timetable, not just the physical paper calendar.\n\nEasy memory link: lịch → think “list of dates.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**lịch** = calendar. It’s what you use to see dates, months, and planned events.\n\nIt’s a **countable noun**: *một cuốn lịch*, *một cái lịch*. Common pairings: *xem lịch* (check the calendar), *in lịch* (print a calendar), *lịch làm việc* (work schedule), *lịch học* (class schedule).\n\nIt can also mean **schedule/timetable**, not just the physical paper calendar.\n\nEasy memory link: *lịch* → think “list of dates.”",
+  "fillBlankQuiz": {
+    "id": "6e26027e-af11-4a8b-b937-f6814387d27e",
+    "createdAt": "2025-03-12T16:34:20.503Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "answer": "lịch",
+      "translation": {
+        "en": "I check the calendar every month."
+      },
+      "translatedAnswer": {
+        "en": "calendar"
+      },
+      "language": "vi",
+      "word": "lịch",
+      "sentence": "Tôi xem ___ hàng tháng."
+    },
+    "updatedAt": "2025-03-12T16:34:20.503Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "calendar",
+  "rank": 1781,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vQxbCkOAr8xWb1iNQG7J"
+}

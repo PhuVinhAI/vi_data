@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nguyên bản",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "24dc3406-486a-4605-93af-becc275905ce",
+    "content": {
+      "translation": {
+        "en": "This document is the original of the author."
+      },
+      "translatedAnswer": {
+        "en": "original"
+      },
+      "hint": "n____n",
+      "answer": "nguyên bản",
+      "choices": [
+        "nguyên bản",
+        "bản sao",
+        "phiên bản"
+      ],
+      "word": "nguyên bản",
+      "language": "vi",
+      "sentence": "Tài liệu này là ___ của tác giả."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:15:09.288Z",
+    "updatedAt": "2025-03-12T13:15:09.288Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Nguyên bản** means the original version — not translated, not edited, not copied. It’s the first, authentic form of something.\n\nIt usually describes books, documents, artwork, movies, or files. It often comes after the noun: *sách nguyên bản, văn bản nguyên bản, file nguyên bản*.  \n\nIt contrasts strongly with **bản dịch** (translation), **bản sao** (copy), or **phiên bản** (version).  \n\nYou’ll often see it in patterns about reading, sending, keeping, or restoring something in its original form.",
+  "choices": [
+    "nguyên bản",
+    "bản sao",
+    "bản tóm tắt"
+  ],
+  "rank": 2171,
+  "notes": "Nguyên bản means the original version — not translated, not edited, not copied. It’s the first, authentic form of something.\n\nIt usually describes books, documents, artwork, movies, or files. It often comes after the noun: sách nguyên bản, văn bản nguyên bản, file nguyên bản.  \n\nIt contrasts strongly with bản dịch (translation), bản sao (copy), or phiên bản (version).  \n\nYou’ll often see it in patterns about reading, sending, keeping, or restoring something in its original form.",
+  "updatedAt": "2026-03-03T10:07:35.130Z",
+  "exampleSentences": [
+    "Anh muốn đọc cuốn sách này bằng nguyên bản thay vì bản dịch.",
+    "Bức tranh này là nguyên bản do họa sĩ nổi tiếng vẽ.",
+    "Em có thể gửi cho chị file nguyên bản của tài liệu này không?"
+  ],
+  "exampleSentencesTranslated": [
+    "He wants to read this book in the original version instead of the translation.",
+    "This painting is the original version painted by a famous artist.",
+    "Can you send me the original version of this document?"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tài liệu này là ___ của tác giả.",
+      "language": "vi",
+      "word": "nguyên bản",
+      "choices": [],
+      "answer": "nguyên bản",
+      "translatedAnswer": {
+        "en": "original"
+      },
+      "translation": {
+        "en": "This document is the original of the author."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:15:09.288Z",
+    "id": "3538e5d6-6975-4ef7-b85a-3cc235df1371",
+    "updatedAt": "2025-03-12T13:15:09.288Z"
+  },
+  "definition": "original version",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:55:58.948Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "original",
+      "vi": "nguyên bản",
+      "en": "original"
+    },
+    "example": {
+      "es": "Necesito ver la versión original de este documento.",
+      "vi": "Tôi cần xem nguyên bản của tài liệu này.",
+      "en": "I need to see the original version of this document."
+    },
+    "definitions": {
+      "en": "The original version of something.",
+      "vi": "Phiên bản gốc của một cái gì đó.",
+      "es": "La versión original de algo."
+    }
+  },
+  "_id": "6wRO2PWgUFIor8Y10hN2"
+}

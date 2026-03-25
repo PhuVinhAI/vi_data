@@ -1,0 +1,99 @@
+{
+  "definition": "pumpkin",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:06:42.067Z",
+    "updatedAt": "2025-03-12T14:06:42.067Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "squash"
+      },
+      "answer": "bí",
+      "word": "bí",
+      "sentence": "Tôi thích ăn ___ trong bữa sáng.",
+      "translation": {
+        "en": "I like to eat squash for breakfast."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "fb5275be-4a5c-4ce9-869f-17e978466c7a"
+  },
+  "notes": "bí = pumpkin / squash. It’s a noun for the vegetable itself.\n\nUse classifiers quả bí (North) or trái bí (South). Very common types: bí đỏ (pumpkin), bí xanh (winter melon), and in the North you’ll also hear bí ngô for pumpkin.\n\nIt often combines with food words like canh, cháo, bánh to name dishes.\n\nSouth note: bí ngô is more Northern; in the South, people usually say bí đỏ (or sometimes bí rợ).",
+  "exampleSentencesTranslated": [
+    "My mom often cooks pumpkin soup for the whole family in winter.",
+    "Can you help me buy a pumpkin at the market?",
+    "The child really likes eating pumpkin porridge because of its natural sweetness."
+  ],
+  "choices": [
+    "bí",
+    "dưa",
+    "cà"
+  ],
+  "updatedAt": "2026-03-03T11:38:37.596Z",
+  "notes_md": "**bí** = pumpkin / squash. It’s a noun for the vegetable itself.\n\nUse classifiers **quả bí** (North) or **trái bí** (South). Very common types: **bí đỏ** (pumpkin), **bí xanh** (winter melon), and in the North you’ll also hear **bí ngô** for pumpkin.\n\nIt often combines with food words like *canh*, *cháo*, *bánh* to name dishes.\n\nSouth note: **bí ngô** is more Northern; in the South, people usually say **bí đỏ** (or sometimes **bí rợ**).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "bí",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "bí",
+        "cà",
+        "rau"
+      ],
+      "translation": {
+        "en": "This dish has a very delicious squash flavor."
+      },
+      "sentence": "Món ăn này có vị ___ rất ngon.",
+      "hint": "b__",
+      "word": "bí",
+      "answer": "bí",
+      "translatedAnswer": {
+        "en": "squash"
+      }
+    },
+    "id": "3a9e8432-471b-45c9-833c-c3bc6e02e3b0",
+    "createdAt": "2025-03-12T14:06:42.067Z",
+    "updatedAt": "2025-03-12T14:06:42.067Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A type of squash, often orange in color, commonly used in cooking.",
+      "es": "Un tipo de calabaza, a menudo de color naranja, comúnmente utilizado en la cocina.",
+      "vi": "Một loại bí, thường có màu cam, thường được sử dụng trong nấu ăn."
+    },
+    "translations": {
+      "en": "pumpkin",
+      "vi": "bí",
+      "es": "calabaza"
+    },
+    "createdAt": "2025-01-28T11:44:20.520Z",
+    "example": {
+      "vi": "Tôi thích ăn bí đỏ.",
+      "es": "Me gusta comer calabaza.",
+      "en": "I like to eat pumpkin."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Mẹ em thường nấu canh bí cho cả nhà vào mùa đông.",
+    "Anh có thể mua giúp chị một quả bí ở chợ không?",
+    "Bé rất thích ăn cháo bí vì vị ngọt tự nhiên của nó."
+  ],
+  "rank": 2711,
+  "_id": "KKAMIKDia0RfiCWwLTea"
+}

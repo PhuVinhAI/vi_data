@@ -1,0 +1,96 @@
+{
+  "choices": [
+    "có vẻ",
+    "cảm ơn",
+    "giống như"
+  ],
+  "rank": 834,
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "seems"
+      },
+      "choices": [
+        "có vẻ",
+        "thích",
+        "đang"
+      ],
+      "translation": {
+        "en": "She seems to like eating fruit."
+      },
+      "sentence": "Cô ấy ___ thích ăn trái cây.",
+      "answer": "có vẻ",
+      "hint": "c___e",
+      "word": "có vẻ",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:10:01.967Z",
+    "createdAt": "2025-03-12T15:10:01.967Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "05bc998d-9ce0-4bc1-9fcd-b31616db888c"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Có vẻ hôm nay trời sẽ mưa, em nên mang theo ô.",
+    "Anh ấy có vẻ mệt nên anh sẽ về nhà nghỉ ngơi sớm.",
+    "Chị có vẻ thích món ăn này vì chị ăn rất nhiều."
+  ],
+  "notes": "có vẻ = seems / appears. You use it when something looks or feels a certain way, but you’re not 100% sure.\n\nIt goes before an adjective or verb phrase to show your impression.  \n\nIt’s softer and less direct than saying something as a fact. Close to hình như (seems like), but có vẻ is based more on what you observe.",
+  "word": "có vẻ",
+  "updatedAt": "2026-03-03T07:45:14.975Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "edd416d3-1a0d-4a78-aded-e5880aa4032e",
+    "updatedAt": "2025-03-12T15:10:01.967Z",
+    "content": {
+      "translation": {
+        "en": "The weather today seems beautiful."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "seems"
+      },
+      "answer": "có vẻ",
+      "word": "có vẻ",
+      "language": "vi",
+      "sentence": "Thời tiết hôm nay ___ đẹp."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:10:01.967Z"
+  },
+  "exampleSentencesTranslated": [
+    "It seems it will rain today, so you should bring an umbrella.",
+    "He seems tired so he will go home to rest early.",
+    "She seems to like this dish because she ate a lot."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "seems; appears"
+    },
+    "example": {
+      "en": "He seems tired after a long day at work.",
+      "vi": "Anh ấy có vẻ mệt sau một ngày làm việc dài."
+    },
+    "definitions": {
+      "en": "Used to indicate that something appears to be true or seems to be the case.",
+      "vi": "Diễn tả một điều gì đó có khả năng đúng hoặc có dấu hiệu như vậy."
+    },
+    "createdAt": "2025-05-24T16:23:40.713Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "có vẻ"
+  },
+  "notes_md": "**có vẻ** = *seems / appears*. You use it when something looks or feels a certain way, but you’re not 100% sure.\n\nIt goes before an adjective or verb phrase to show your impression.  \n\nIt’s softer and less direct than saying something as a fact. Close to **hình như** (seems like), but **có vẻ** is based more on what you observe.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "seems",
+  "_id": "Zh6yH0FDpD880BsT1PxN"
+}

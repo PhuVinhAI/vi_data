@@ -1,0 +1,99 @@
+{
+  "word": "cao cấp",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2012,
+  "choices": [
+    "cao cấp",
+    "bình dân",
+    "thường xuyên"
+  ],
+  "notes_md": "**cao cấp** = high-end, premium, top-tier. It describes something expensive, luxurious, or made for a higher market.\n\nIt’s an adjective and usually comes **after** the noun: *sản phẩm cao cấp, dịch vụ cao cấp, khách sạn cao cấp*. It often describes products, services, brands, technology, fashion, real estate.\n\nClose synonyms: **sang trọng** (luxurious, more about style/feeling), **đắt tiền** (expensive, focuses on price). Opposite: **bình dân** (budget, affordable, for ordinary customers).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7bd2af0a-a1af-431f-8a85-24a8c2b4721a",
+    "createdAt": "2025-03-12T13:19:32.535Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "cao cấp",
+      "sentence": "Sản phẩm này rất ___ và chất lượng.",
+      "language": "vi",
+      "choices": [
+        "bình dân",
+        "cao cấp",
+        "trung bình"
+      ],
+      "hint": "c___p",
+      "answer": "cao cấp",
+      "translation": {
+        "en": "This product is very high-end and quality."
+      },
+      "translatedAnswer": {
+        "en": "high-end"
+      }
+    },
+    "updatedAt": "2025-03-12T13:19:32.535Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị vừa mua một chiếc điện thoại cao cấp cho công việc mới.",
+    "Nhà hàng này nổi tiếng với các món ăn cao cấp và phục vụ chuyên nghiệp.",
+    "Nếu em muốn trải nghiệm dịch vụ cao cấp, hãy thử ở khách sạn này."
+  ],
+  "updatedAt": "2026-03-03T09:50:57.149Z",
+  "notes": "cao cấp = high-end, premium, top-tier. It describes something expensive, luxurious, or made for a higher market.\n\nIt’s an adjective and usually comes after the noun: sản phẩm cao cấp, dịch vụ cao cấp, khách sạn cao cấp. It often describes products, services, brands, technology, fashion, real estate.\n\nClose synonyms: sang trọng (luxurious, more about style/feeling), đắt tiền (expensive, focuses on price). Opposite: bình dân (budget, affordable, for ordinary customers).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:59:55.381Z",
+    "translations": {
+      "es": "alta gama",
+      "vi": "cao cấp",
+      "en": "high-end"
+    },
+    "example": {
+      "en": "This product is high-end.",
+      "vi": "Sản phẩm này là hàng cao cấp.",
+      "es": "Este producto es de alta gama."
+    },
+    "definitions": {
+      "vi": "Có chất lượng hoặc địa vị vượt trội.",
+      "es": "De calidad o estatus superior.",
+      "en": "Of superior quality or status."
+    }
+  },
+  "definition": "high-end",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:19:32.535Z",
+    "type": "fillBlankQuiz",
+    "id": "578240d8-b9d9-4569-8b8f-00c76401e911",
+    "content": {
+      "answer": "cao cấp",
+      "translatedAnswer": {
+        "en": "high-end"
+      },
+      "translation": {
+        "en": "This product is very high-end and quality."
+      },
+      "sentence": "Sản phẩm này rất ___ và chất lượng.",
+      "language": "vi",
+      "word": "cao cấp",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:19:32.535Z"
+  },
+  "exampleSentencesTranslated": [
+    "She just bought a high-end phone for her new job.",
+    "This restaurant is famous for high-end dishes and professional service.",
+    "If you want to experience high-end service, try staying at this hotel."
+  ],
+  "_id": "8D0ufr9D6cWGUqCGzPDN"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nội địa",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:07:51.905Z",
+    "updatedAt": "2025-03-12T14:07:51.905Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng tôi muốn phát triển ___ du lịch.",
+      "word": "nội địa",
+      "hint": "n___a",
+      "language": "vi",
+      "choices": [
+        "nội địa",
+        "quốc tế",
+        "ngoại lai"
+      ],
+      "translation": {
+        "en": "We want to develop domestic tourism."
+      },
+      "answer": "nội địa",
+      "translatedAnswer": {
+        "en": "domestic"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "a5eceb4b-a670-4ef5-b916-8bbc1be7a4cb"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Nội địa** means *domestic* — inside one country, not international.  \n\nIt’s an adjective and usually comes **after** the noun: *chuyến bay nội địa, thị trường nội địa, du lịch nội địa*. It describes things happening within national borders (transport, trade, products, services).  \n\nOften contrasted with **quốc tế** (international), which is a very useful opposite pair to remember.",
+  "updatedAt": "2026-03-03T11:32:50.754Z",
+  "choices": [
+    "nội địa",
+    "quốc tế",
+    "địa phương"
+  ],
+  "exampleSentencesTranslated": [
+    "He often books domestic flights when traveling within the country.",
+    "The domestic products in this supermarket are very rich and diverse.",
+    "She wants to know the departure times of domestic trains tomorrow."
+  ],
+  "notes": "Nội địa means domestic — inside one country, not international.  \n\nIt’s an adjective and usually comes after the noun: chuyến bay nội địa, thị trường nội địa, du lịch nội địa. It describes things happening within national borders (transport, trade, products, services).  \n\nOften contrasted with quốc tế (international), which is a very useful opposite pair to remember.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "domestic"
+      },
+      "answer": "nội địa",
+      "translation": {
+        "en": "We want to develop domestic tourism."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "nội địa",
+      "sentence": "Chúng tôi muốn phát triển ___ du lịch."
+    },
+    "type": "fillBlankQuiz",
+    "id": "e6a9081d-a4bd-4cf5-b09e-05f24f4aaf63",
+    "createdAt": "2025-03-12T14:07:51.905Z",
+    "updatedAt": "2025-03-12T14:07:51.905Z"
+  },
+  "definition": "domestic (inside a country)",
+  "rank": 2656,
+  "exampleSentences": [
+    "Anh thường đặt vé máy bay nội địa khi đi du lịch trong nước.",
+    "Các sản phẩm nội địa ở siêu thị này rất phong phú và đa dạng.",
+    "Chị muốn biết giờ khởi hành của các chuyến tàu nội địa ngày mai."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Hàng hóa nội địa đang được ưu tiên vận chuyển.",
+      "es": "Los productos nacionales están siendo priorizados para el envío.",
+      "en": "Domestic goods are being prioritized for shipping."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "domestic",
+      "vi": "nội địa",
+      "es": "nacional"
+    },
+    "definitions": {
+      "es": "Se refiere a algo que está dentro de las fronteras de un país, especialmente en términos de comercio.",
+      "vi": "Chỉ những gì nằm trong biên giới của một quốc gia, đặc biệt là trong thương mại.",
+      "en": "Referring to something that is within a country's borders, especially in terms of trade or commerce."
+    },
+    "createdAt": "2025-01-28T11:45:12.841Z"
+  },
+  "_id": "KR08Bx17VFHkbTF1LXLa"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nhân sự",
+    "kế toán",
+    "bảo vệ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "human resources",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhân sự",
+  "rank": 1050,
+  "exampleSentences": [
+    "Phòng nhân sự đang tuyển thêm người cho dự án mới.",
+    "Chị đã liên hệ với bộ phận nhân sự để hỏi về hợp đồng.",
+    "Anh nghĩ nhân sự là yếu tố quan trọng trong sự phát triển của công ty."
+  ],
+  "notes_md": "**Nhân sự** = human resources; the people who manage hiring, contracts, salaries, and staff issues in a company. It can also mean the staff/workforce themselves, depending on context.\n\nIt’s an uncountable noun in most cases (không nói “một nhân sự” unless meaning one staff member in formal HR talk). Very common with: *phòng nhân sự*, *bộ phận nhân sự*, *quản lý nhân sự*, *tuyển dụng nhân sự*.  \n\n\nClose synonym: *HR* (often used in companies, especially in writing or speech mixed with English).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:59:08.007Z",
+    "content": {
+      "translation": {
+        "en": "The company needs staff in charge."
+      },
+      "answer": "nhân sự",
+      "choices": [
+        "kế toán",
+        "nhân sự",
+        "marketing"
+      ],
+      "hint": "n___u",
+      "sentence": "Công ty đang cần ___ phụ trách.",
+      "word": "nhân sự",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "staff"
+      }
+    },
+    "createdAt": "2025-03-12T13:59:08.007Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "738b97f2-25b7-4572-ac3f-4dfbb0e208ad",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "en": "The human resources department is hiring new employees.",
+      "vi": "Bộ phận nhân sự đang tuyển dụng nhân viên mới.",
+      "es": "El departamento de recursos humanos está contratando nuevos empleados."
+    },
+    "createdAt": "2025-01-28T11:37:07.671Z",
+    "translations": {
+      "es": "recursos humanos",
+      "vi": "nhân sự",
+      "en": "human resources"
+    },
+    "definitions": {
+      "en": "The department responsible for managing employee relations and recruitment.",
+      "es": "El departamento encargado de gestionar las relaciones con los empleados y la contratación.",
+      "vi": "Bộ phận chịu trách nhiệm quản lý quan hệ nhân viên và tuyển dụng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "The human resources department is hiring more people for the new project.",
+    "She contacted the human resources department to ask about the contract.",
+    "He thinks human resources is an important factor in the development of the company."
+  ],
+  "notes": "Nhân sự = human resources; the people who manage hiring, contracts, salaries, and staff issues in a company. It can also mean the staff/workforce themselves, depending on context.\n\nIt’s an uncountable noun in most cases (không nói “một nhân sự” unless meaning one staff member in formal HR talk). Very common with: phòng nhân sự, bộ phận nhân sự, quản lý nhân sự, tuyển dụng nhân sự.  \n\nClose synonym: HR (often used in companies, especially in writing or speech mixed with English).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "318100fd-cbff-4c62-a0c4-ff3d1077ee44",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:59:08.007Z",
+    "content": {
+      "language": "vi",
+      "word": "nhân sự",
+      "sentence": "Công ty đang tuyển ___ mới.",
+      "translatedAnswer": {
+        "en": "staff"
+      },
+      "translation": {
+        "en": "The company is recruiting new staff."
+      },
+      "answer": "nhân sự",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:59:08.007Z"
+  },
+  "updatedAt": "2026-03-03T08:07:54.121Z",
+  "_id": "IborDlJKz4uMqJNPwUdj"
+}

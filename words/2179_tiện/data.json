@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:11:56.768Z",
+    "content": {
+      "sentence": "Sản phẩm này rất ___ để sử dụng.",
+      "hint": "t___n",
+      "answer": "tiện",
+      "word": "tiện",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "convenient"
+      },
+      "choices": [
+        "tiện",
+        "đẹp",
+        "rẻ"
+      ],
+      "translation": {
+        "en": "This product is very convenient to use."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:11:56.768Z",
+    "id": "161ef8eb-88c7-4d37-a900-c2cb4ee6540c"
+  },
+  "notes": "Tiện = convenient, easy to do without trouble. It describes situations, places, time, or actions that save effort, time, or money.\n\nIt often comes after rất / khá / không to grade how convenient something is. You’ll also see it in the pattern where you combine two actions naturally.\n\nVery common extra meaning: in tiện thể, it means “while you’re at it.”  \nOpposite to remember: bất tiện (inconvenient).",
+  "exampleSentences": [
+    "Nhà anh gần siêu thị nên rất tiện khi mua đồ ăn.",
+    "Chị thấy gửi email cho khách hàng sẽ tiện hơn gọi điện thoại.",
+    "Em muốn tìm một quán cà phê nào tiện cho cả nhóm đến học."
+  ],
+  "word": "tiện",
+  "choices": [
+    "tiện",
+    "đẹp",
+    "rộng"
+  ],
+  "rank": 2179,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Tiện** = convenient, easy to do without trouble. It describes situations, places, time, or actions that save effort, time, or money.\n\nIt often comes after **rất / khá / không** to grade how convenient something is. You’ll also see it in the pattern where you combine two actions naturally.\n\n\nVery common extra meaning: in **tiện thể**, it means “while you’re at it.”  \nOpposite to remember: **bất tiện** (inconvenient).",
+  "definition": "convenient",
+  "updatedAt": "2026-03-03T10:08:31.691Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "1d272ab2-4da6-48ac-a2e1-cd90f8b92852",
+    "content": {
+      "sentence": "Sản phẩm này rất ___ để sử dụng.",
+      "answer": "tiện",
+      "language": "vi",
+      "word": "tiện",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "convenient"
+      },
+      "translation": {
+        "en": "This product is very convenient to use."
+      }
+    },
+    "updatedAt": "2025-03-12T15:11:56.768Z",
+    "createdAt": "2025-03-12T15:11:56.768Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "His house is near the supermarket so it is very convenient when buying food.",
+    "She thinks sending emails to customers will be more convenient than calling.",
+    "I want to find a café that is convenient for the whole group to go study."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This is very convenient for me.",
+      "es": "Esto es muy conveniente para mí.",
+      "vi": "Cái này rất tiện cho tôi."
+    },
+    "translations": {
+      "en": "convenient",
+      "es": "conveniente",
+      "vi": "tiện"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Easy to use or suitable for a particular purpose.",
+      "es": "Fácil de usar o adecuado para un propósito particular.",
+      "vi": "Dễ sử dụng hoặc phù hợp với một mục đích cụ thể."
+    },
+    "createdAt": "2025-01-28T12:46:41.581Z"
+  },
+  "_id": "aGsjfJjCUxA379d47ZWA"
+}

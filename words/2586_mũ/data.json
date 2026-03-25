@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mũ",
+    "giày",
+    "áo"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "mũ",
+  "exampleSentences": [
+    "Anh quên mang mũ khi ra ngoài trời nắng hôm nay.",
+    "Chị mua một chiếc mũ mới để đi du lịch biển vào cuối tuần.",
+    "Em thích đội mũ màu đỏ khi đi học vì trông rất nổi bật."
+  ],
+  "rank": 2586,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "hat",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:38:41.006Z",
+    "createdAt": "2025-03-12T13:38:41.006Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need to buy a new hat."
+      },
+      "answer": "mũ",
+      "translatedAnswer": {
+        "en": "hat"
+      },
+      "language": "vi",
+      "word": "mũ",
+      "sentence": "Tôi cần mua một ___ mới."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "d33e219a-11a9-4a80-9f0c-85f179d67752",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "mũ = hat, something you wear on your head.\n\nIt’s a noun. Use classifiers like cái mũ or chiếc mũ (both natural for wearable items). The common verb with it is đội mũ (to wear a hat).  \n\nVery close word: nón — often used for traditional or casual hats (like nón lá). Think: mũ is general, nón often feels more specific or traditional.",
+  "updatedAt": "2026-03-03T11:25:53.093Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "970d082a-ff9a-4caa-9ecc-85b9a64515a5",
+    "updatedAt": "2025-03-12T13:38:41.006Z",
+    "content": {
+      "translation": {
+        "en": "They sell hats at the store."
+      },
+      "answer": "mũ",
+      "choices": [
+        "áo",
+        "mũ",
+        "giày"
+      ],
+      "hint": "m__",
+      "sentence": "Họ bán ___ ở cửa hàng.",
+      "word": "mũ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "hats"
+      }
+    },
+    "createdAt": "2025-03-12T13:38:41.006Z"
+  },
+  "notes_md": "**mũ** = hat, something you wear on your head.\n\nIt’s a noun. Use classifiers like **cái mũ** or **chiếc mũ** (both natural for wearable items). The common verb with it is **đội mũ** (to wear a hat).  \n\nVery close word: **nón** — often used for traditional or casual hats (like *nón lá*). Think: *mũ* is general, *nón* often feels more specific or traditional.",
+  "exampleSentencesTranslated": [
+    "He forgot to bring a hat when going out in the sun today.",
+    "She bought a new hat to go to the beach this weekend.",
+    "I like to wear a red hat when going to school because it looks very striking."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một vật che đầu, thường làm bằng vải, được đội để giữ ấm, bảo vệ hoặc thời trang.",
+      "es": "Una cobertura para la cabeza, típicamente hecha de tela, usada para abrigo, protección o moda.",
+      "en": "A head covering, typically made of fabric, worn for warmth, protection, or fashion."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:17:53.703Z",
+    "example": {
+      "vi": "Tôi đội mũ khi ra ngoài.",
+      "es": "Llevo un sombrero cuando salgo.",
+      "en": "I wear a hat when going outside."
+    },
+    "translations": {
+      "vi": "mũ",
+      "es": "sombrero",
+      "en": "hat"
+    }
+  },
+  "_id": "D9zK2GWDheEthbI4sGWN"
+}

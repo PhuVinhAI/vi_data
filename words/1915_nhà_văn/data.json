@@ -1,0 +1,99 @@
+{
+  "definition": "writer",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một người viết sách, truyện hoặc bài báo như một nghề.",
+      "es": "Una persona que escribe libros, historias o artículos como profesión.",
+      "en": "A person who writes books, stories, or articles as a profession."
+    },
+    "example": {
+      "en": "He is a famous writer.",
+      "vi": "Ông ấy là một nhà văn nổi tiếng.",
+      "es": "Él es un escritor famoso."
+    },
+    "translations": {
+      "en": "writer",
+      "vi": "nhà văn",
+      "es": "escritor"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:56:37.293Z"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:16:12.352Z",
+    "id": "fe6e5c54-0e2d-42d3-9137-ef0775e6c6b7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:16:12.352Z",
+    "content": {
+      "choices": [],
+      "word": "nhà văn",
+      "language": "vi",
+      "sentence": "Tôi muốn trở thành ___ nổi tiếng.",
+      "translation": {
+        "en": "I want to become a famous writer."
+      },
+      "translatedAnswer": {
+        "en": "writer"
+      },
+      "answer": "nhà văn"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "My older brother is a famous writer in Vietnam.",
+    "I want to become a writer to write books for children.",
+    "Every morning, this writer usually drinks coffee and writes stories."
+  ],
+  "exampleSentences": [
+    "Anh trai em là một nhà văn nổi tiếng ở Việt Nam.",
+    "Chị muốn trở thành nhà văn để viết sách cho thiếu nhi.",
+    "Mỗi buổi sáng, nhà văn này thường uống cà phê và viết truyện."
+  ],
+  "updatedAt": "2026-03-03T09:40:34.289Z",
+  "notes": "Nhà văn means writer, usually someone who writes books, stories, or novels (more literary than just “writing” anything).\n\nIt’s a countable noun: một nhà văn, hai nhà văn (classifier: một nhà văn, not “một cái”). Often goes with words like nổi tiếng, trẻ, chuyên nghiệp, hiện đại.\n\nIt usually refers to someone who writes literature, not just articles or news. For “author” in general (like of a textbook), you’ll also see tác giả — slightly broader and more formal.\n\nThink: nhà (person associated with a field) + văn (literature/writing) → a “literature person.”",
+  "choices": [
+    "nhà văn",
+    "bác sĩ",
+    "giáo viên"
+  ],
+  "rank": 1915,
+  "notes_md": "**Nhà văn** means *writer*, usually someone who writes books, stories, or novels (more literary than just “writing” anything).\n\nIt’s a countable noun: *một nhà văn, hai nhà văn* (classifier: **một nhà văn**, not “một cái”). Often goes with words like *nổi tiếng, trẻ, chuyên nghiệp, hiện đại*.\n\nIt usually refers to someone who writes literature, not just articles or news. For “author” in general (like of a textbook), you’ll also see **tác giả** — slightly broader and more formal.\n\nThink: **nhà** (person associated with a field) + **văn** (literature/writing) → a “literature person.”",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:16:12.352Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:16:12.352Z",
+    "content": {
+      "choices": [
+        "họa sĩ",
+        "nhà văn",
+        "nhà thơ"
+      ],
+      "word": "nhà văn",
+      "sentence": "Cô ấy là một ___ tài năng.",
+      "language": "vi",
+      "translation": {
+        "en": "She is a talented writer."
+      },
+      "translatedAnswer": {
+        "en": "writer"
+      },
+      "hint": "nh__ v__n",
+      "answer": "nhà văn"
+    },
+    "id": "9c57540f-8390-4166-bd48-d84afe577a2b"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhà văn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "7CTI8bjcMMIpi2jEv68j"
+}

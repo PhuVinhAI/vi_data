@@ -1,0 +1,99 @@
+{
+  "definition": "rope",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Cô ấy cầm ___ trong tay.",
+      "hint": "d__",
+      "translation": {
+        "en": "She is holding a rope in her hand."
+      },
+      "translatedAnswer": {
+        "en": "rope"
+      },
+      "word": "dây",
+      "choices": [
+        "dây",
+        "khăn",
+        "sách"
+      ],
+      "language": "vi",
+      "answer": "dây"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:08:46.927Z",
+    "createdAt": "2025-03-12T16:08:46.927Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "be2277d4-b98c-4836-b330-adfad812667b"
+  },
+  "rank": 1824,
+  "notes_md": "**dây** = rope, cord, string — any long, thin flexible thing.\n\nIt’s a noun. You usually count it with **sợi** (một sợi dây) or sometimes **đoạn** for a piece.  \n\nIt’s very flexible in meaning: **dây điện** (electric wire), **dây giày** (shoelace), **dây thừng** (thick rope), **dây đàn** (instrument string).  \n\nThink of **dây** as the general word, and **dây thừng** as a stronger, thicker rope.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "dây",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy cầm ___ trong tay.",
+      "choices": [],
+      "word": "dây",
+      "answer": "dây",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rope"
+      },
+      "translation": {
+        "en": "She is holding a rope in her hand."
+      }
+    },
+    "updatedAt": "2025-03-12T16:08:46.927Z",
+    "createdAt": "2025-03-12T16:08:46.927Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "ad652693-f2f6-4dc0-9992-a6e62c25f3b4"
+  },
+  "notes": "dây = rope, cord, string — any long, thin flexible thing.\n\nIt’s a noun. You usually count it with sợi (một sợi dây) or sometimes đoạn for a piece.  \n\nIt’s very flexible in meaning: dây điện (electric wire), dây giày (shoelace), dây thừng (thick rope), dây đàn (instrument string).  \n\nThink of dây as the general word, and dây thừng as a stronger, thicker rope.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He ties the box with a strong rope.",
+    "I see the cat playing with a rope on the floor.",
+    "Dad teaches her how to tie a rope for safe camping."
+  ],
+  "updatedAt": "2026-03-03T09:31:06.457Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "dây",
+    "cây",
+    "mây"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "rope",
+      "es": "cuerda",
+      "vi": "dây"
+    },
+    "example": {
+      "en": "I need a rope to tie things up.",
+      "es": "Necesito una cuerda para atar cosas.",
+      "vi": "Tôi cần một dây thừng để buộc đồ."
+    },
+    "createdAt": "2025-01-28T13:40:41.339Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một mảnh dài, mỏng được sử dụng để buộc hoặc gắn lại.",
+      "en": "A long, thin piece of material used for tying or binding.",
+      "es": "Un trozo largo y delgado de material utilizado para atar o unir."
+    }
+  },
+  "exampleSentences": [
+    "Anh buộc cái hộp lại bằng một đoạn dây chắc chắn.",
+    "Em thấy con mèo đang chơi với một sợi dây trên sàn nhà.",
+    "Bố dạy chị cách thắt nút dây để đi cắm trại an toàn."
+  ],
+  "_id": "og85r9prMH3SoZlgfyiO"
+}

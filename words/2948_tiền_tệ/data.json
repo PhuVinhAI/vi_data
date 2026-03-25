@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need to know about the currency of this country."
+      },
+      "answer": "tiền tệ",
+      "translatedAnswer": {
+        "en": "currency"
+      },
+      "language": "vi",
+      "word": "tiền tệ",
+      "sentence": "Tôi cần biết về ___ của đất nước này."
+    },
+    "updatedAt": "2025-03-12T16:31:06.528Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:31:06.528Z",
+    "id": "912782aa-9f54-4856-831b-b3672f12cd66"
+  },
+  "rank": 2948,
+  "definition": "currency",
+  "notes_md": "**Tiền tệ** means *currency* — the official money system of a country (like dollars, euros, đồng).  \n\nIt’s an uncountable noun in most cases; you usually don’t say “một tiền tệ,” but you can say **một loại tiền tệ** when talking about a specific currency type.  \n\nIt often appears in formal topics like **hệ thống tiền tệ**, **chính sách tiền tệ**, or **thị trường tiền tệ**.  \n\nCompared to **tiền** (money), *tiền tệ* sounds more technical and economic, not everyday cash in your wallet.",
+  "flashcard": {
+    "translations": {
+      "vi": "tiền tệ",
+      "en": "currency",
+      "es": "moneda"
+    },
+    "definitions": {
+      "vi": "Hệ thống tiền tệ được sử dụng phổ biến trong một quốc gia cụ thể.",
+      "en": "A system of money in general use in a particular country.",
+      "es": "Un sistema de dinero en uso general en un país particular."
+    },
+    "example": {
+      "es": "La moneda es un medio de intercambio en la economía.",
+      "en": "Currency is a medium of exchange in the economy.",
+      "vi": "Tiền tệ là phương tiện trao đổi trong nền kinh tế."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:02:08.461Z"
+  },
+  "notes": "Tiền tệ means currency — the official money system of a country (like dollars, euros, đồng).  \n\nIt’s an uncountable noun in most cases; you usually don’t say “một tiền tệ,” but you can say một loại tiền tệ when talking about a specific currency type.  \n\nIt often appears in formal topics like hệ thống tiền tệ, chính sách tiền tệ, or thị trường tiền tệ.  \n\nCompared to tiền (money), tiền tệ sounds more technical and economic, not everyday cash in your wallet.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "tiền tệ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I want to exchange currency before traveling abroad.",
+    "I am studying the currency systems of different countries.",
+    "I heard that this currency is losing value very quickly this year."
+  ],
+  "choices": [
+    "tiền tệ",
+    "ngân hàng",
+    "thị trường"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Ngân hàng có thông tin về ___.",
+      "word": "tiền tệ",
+      "hint": "t___ tệ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "currency"
+      },
+      "translation": {
+        "en": "The bank has information about the currency."
+      },
+      "answer": "tiền tệ",
+      "choices": [
+        "tài sản",
+        "tiền tệ",
+        "thông tin"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:31:06.528Z",
+    "type": "multiChoiceQuiz",
+    "id": "ac4b65a9-9222-421e-9e5e-7e31e04c4777",
+    "createdAt": "2025-03-12T16:31:06.528Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh muốn đổi tiền tệ trước khi đi du lịch nước ngoài.",
+    "Chị đang học về hệ thống tiền tệ của các quốc gia khác nhau.",
+    "Em nghe nói tiền tệ này đang mất giá rất nhanh trong năm nay."
+  ],
+  "updatedAt": "2026-03-03T18:15:34.336Z",
+  "_id": "uJDuLguFoWmmwybQKcZE"
+}

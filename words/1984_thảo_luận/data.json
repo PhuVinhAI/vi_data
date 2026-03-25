@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thảo luận",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:13:16.163Z",
+    "updatedAt": "2025-03-12T14:13:16.163Z",
+    "content": {
+      "answer": "thảo luận",
+      "translatedAnswer": {
+        "en": "discuss"
+      },
+      "language": "vi",
+      "choices": [
+        "thảo luận",
+        "tranh luận",
+        "giải thích"
+      ],
+      "translation": {
+        "en": "We need to discuss about the plan."
+      },
+      "sentence": "Chúng ta cần ___ về kế hoạch.",
+      "hint": "t____n",
+      "word": "thảo luận"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "6c36348e-9040-499c-8230-bc21a578e090"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Thảo luận** means *to discuss* — to talk about something together to share ideas or find a solution.  \n\nIt’s used when two or more people exchange opinions, often about plans, problems, or topics. You usually **thảo luận + về + topic** or **thảo luận + something** directly.  \n\n\nClose synonym: **bàn bạc** (a bit more about carefully talking something over to decide).",
+  "updatedAt": "2026-03-03T09:48:07.345Z",
+  "choices": [
+    "thảo luận",
+    "giới thiệu",
+    "giải thích"
+  ],
+  "exampleSentencesTranslated": [
+    "We should discuss the plan for this new project.",
+    "Can you discuss your opinion with the group?",
+    "The boss wants everyone to discuss important issues in the meeting."
+  ],
+  "notes": "Thảo luận means to discuss — to talk about something together to share ideas or find a solution.  \n\nIt’s used when two or more people exchange opinions, often about plans, problems, or topics. You usually thảo luận + về + topic or thảo luận + something directly.  \n\nClose synonym: bàn bạc (a bit more about carefully talking something over to decide).",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "discuss"
+      },
+      "answer": "thảo luận",
+      "translation": {
+        "en": "We need to discuss about the plan."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "thảo luận",
+      "sentence": "Chúng ta cần ___ về kế hoạch."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "896c59e3-6f1a-430e-928a-108cdef8d0f3",
+    "createdAt": "2025-03-12T14:13:16.163Z",
+    "updatedAt": "2025-03-12T14:13:16.163Z"
+  },
+  "definition": "discuss",
+  "rank": 1984,
+  "exampleSentences": [
+    "Chúng ta nên thảo luận về kế hoạch cho dự án mới này.",
+    "Anh có thể thảo luận ý kiến của mình với nhóm không?",
+    "Sếp muốn mọi người thảo luận các vấn đề quan trọng trong cuộc họp."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:50:24.799Z",
+    "translations": {
+      "en": "discuss",
+      "es": "discutir",
+      "vi": "thảo luận"
+    },
+    "definitions": {
+      "vi": "Nói về một cái gì đó với người khác để đạt được một quyết định.",
+      "es": "Hablar sobre algo con otros para llegar a una decisión.",
+      "en": "To talk about something with others in order to reach a decision."
+    },
+    "example": {
+      "en": "We need to discuss this plan.",
+      "vi": "Chúng ta cần thảo luận về kế hoạch này.",
+      "es": "Necesitamos discutir este plan."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "LQVqtnVfkIEGPaQaWHsf"
+}

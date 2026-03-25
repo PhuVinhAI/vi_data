@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tắt = to turn off something (light, device, electricity). It’s what you say when you stop something from working or producing light/sound.\n\nUse it with machines, lights, fire, sound: tắt đèn, tắt điện, tắt máy, tắt bếp, tắt chuông. It can also mean “go out” or “die out” for things like fire, light, or sound.\n\nOpposite: bật (turn on) — easy pair to memorize: bật ↔ tắt.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:04:05.779Z",
+    "translations": {
+      "vi": "tắt",
+      "es": "apagar",
+      "en": "turn off"
+    },
+    "example": {
+      "vi": "Hãy tắt đèn khi ra ngoài.",
+      "es": "Por favor, apaga la luz cuando salgas.",
+      "en": "Please turn off the light when you go out."
+    },
+    "definitions": {
+      "es": "Apagar o extinguir algo.",
+      "en": "To turn off or extinguish something.",
+      "vi": "Tắt hoặc làm ngừng hoạt động một cái gì đó."
+    }
+  },
+  "exampleSentences": [
+    "Anh nhớ tắt đèn khi ra khỏi phòng nhé.",
+    "Chị có thể tắt máy tính giúp em được không?",
+    "Mẹ bảo em tắt tivi trước khi đi ngủ."
+  ],
+  "updatedAt": "2026-03-03T09:03:41.875Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:32:49.851Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "884b50d9-ac43-4231-b0a5-ce42347eb212",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "mở",
+        "tắt",
+        "khởi động lại"
+      ],
+      "answer": "tắt",
+      "translation": {
+        "en": "Can you turn off the computer?"
+      },
+      "translatedAnswer": {
+        "en": "turn off"
+      },
+      "sentence": "Bạn có thể ___ máy tính không?",
+      "hint": "t__",
+      "word": "tắt"
+    },
+    "updatedAt": "2025-03-12T16:32:49.851Z"
+  },
+  "choices": [
+    "bật",
+    "mở",
+    "tắt"
+  ],
+  "word": "tắt",
+  "exampleSentencesTranslated": [
+    "Remember to turn off the lights when you leave the room.",
+    "Can you turn off the computer for me?",
+    "Mom told me to turn off the TV before going to bed."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**tắt** = to turn off something (light, device, electricity). It’s what you say when you stop something from working or producing light/sound.\n\nUse it with machines, lights, fire, sound: *tắt đèn, tắt điện, tắt máy, tắt bếp, tắt chuông*. It can also mean “go out” or “die out” for things like fire, light, or sound.\n\n\nOpposite: **bật** (turn on) — easy pair to memorize: *bật ↔ tắt*.",
+  "rank": 1565,
+  "definition": "turn off",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "turn off"
+      },
+      "choices": [],
+      "answer": "tắt",
+      "translation": {
+        "en": "Please turn off the light before going to sleep."
+      },
+      "language": "vi",
+      "word": "tắt",
+      "sentence": "Bạn hãy ___ đèn trước khi đi ngủ."
+    },
+    "updatedAt": "2025-03-12T16:32:49.851Z",
+    "type": "fillBlankQuiz",
+    "id": "c996687d-5a21-4ca1-9384-717ce6d95088",
+    "createdAt": "2025-03-12T16:32:49.851Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "uo1q28PcjNxSYAj6zWeX"
+}

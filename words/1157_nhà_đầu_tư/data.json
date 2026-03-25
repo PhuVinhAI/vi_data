@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Nhà đầu tư quan tâm đến dự án mới của anh không?",
+    "Chị ấy là một nhà đầu tư nổi tiếng trong lĩnh vực bất động sản.",
+    "Nhiều nhà đầu tư nước ngoài muốn hợp tác với công ty Việt Nam."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nhà đầu tư",
+    "nhà báo",
+    "nhà sản xuất"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "El inversor necesita investigar el mercado antes de tomar una decisión.",
+      "en": "The investor needs to research the market before making a decision.",
+      "vi": "Nhà đầu tư cần nghiên cứu thị trường trước khi quyết định."
+    },
+    "translations": {
+      "en": "investor",
+      "es": "inversor",
+      "vi": "nhà đầu tư"
+    },
+    "createdAt": "2025-01-28T13:41:51.149Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một người hoặc tổ chức phân bổ vốn với kỳ vọng có lợi nhuận tài chính.",
+      "en": "A person or entity that allocates capital with the expectation of a financial return.",
+      "es": "Una persona o entidad que asigna capital con la expectativa de un retorno financiero."
+    }
+  },
+  "updatedAt": "2026-03-03T08:18:53.674Z",
+  "exampleSentencesTranslated": [
+    "Is the investor interested in your new project?",
+    "She is a famous investor in the real estate field.",
+    "Many foreign investors want to cooperate with Vietnamese companies."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Nhà đầu tư = investor — a person or organization that puts money into something to make a profit.\n\nIt’s a countable noun: một nhà đầu tư, hai nhà đầu tư. Often followed by details like cá nhân (individual), tổ chức (institutional), nước ngoài (foreign).  \n\nCommon pairings: nhà đầu tư rót vốn, tìm kiếm cơ hội, chấp nhận rủi ro.  \n\nClose synonym: chủ đầu tư (more like the main/project owner-investor, not just any investor).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi là ___ thông minh.",
+      "translatedAnswer": {
+        "en": "investor"
+      },
+      "translation": {
+        "en": "I am an intelligent investor."
+      },
+      "choices": [],
+      "word": "nhà đầu tư",
+      "answer": "nhà đầu tư",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:09:44.310Z",
+    "createdAt": "2025-03-12T16:09:44.310Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a1718a11-0453-4132-ba3e-64b4000132a5"
+  },
+  "word": "nhà đầu tư",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Nhà đầu tư** = investor — a person or organization that puts money into something to make a profit.\n\nIt’s a countable noun: *một nhà đầu tư, hai nhà đầu tư*. Often followed by details like *cá nhân* (individual), *tổ chức* (institutional), *nước ngoài* (foreign).  \n\nCommon pairings: *nhà đầu tư rót vốn, tìm kiếm cơ hội, chấp nhận rủi ro*.  \n\n\nClose synonym: *chủ đầu tư* (more like the main/project owner-investor, not just any investor).",
+  "rank": 1157,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:09:44.310Z",
+    "id": "90e375c6-e700-44e2-a3b1-30c1cc744fca",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cô ấy cần gặp ___ để thảo luận.",
+      "word": "nhà đầu tư",
+      "choices": [
+        "nhà đầu tư",
+        "doanh nhân",
+        "chuyên gia"
+      ],
+      "language": "vi",
+      "answer": "nhà đầu tư",
+      "hint": "nhà ___",
+      "translation": {
+        "en": "She needs to meet an investor to discuss."
+      },
+      "translatedAnswer": {
+        "en": "investor"
+      }
+    },
+    "updatedAt": "2025-03-12T16:09:44.310Z"
+  },
+  "definition": "investor",
+  "_id": "owcdHMnO6j0c6uOpTYPe"
+}

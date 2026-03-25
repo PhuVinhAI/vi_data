@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh ấy cảm thấy xấu khi làm sai điều gì đó.",
+    "Nếu thời tiết xấu, chúng ta sẽ ở nhà hôm nay.",
+    "Cô giáo nói hành động nói dối là xấu và không nên làm."
+  ],
+  "updatedAt": "2026-03-03T07:54:20.816Z",
+  "notes": "xấu = bad. It describes something negative, wrong, low quality, or unpleasant.\n\nIt’s an adjective, so it goes after the noun: người xấu (bad person), tin xấu (bad news), kết quả xấu (bad result). It can describe behavior, situations, health, luck, or appearance.\n\nIt also commonly means ugly (about looks): xấu ↔ đẹp (beautiful). For “bad” in a moral sense, it contrasts with tốt (good).\n\nVery flexible word — if something isn’t good, nice, or pretty, xấu often fits.",
+  "definition": "bad",
+  "flashcard": {
+    "translations": {
+      "vi": "xấu",
+      "es": "feo",
+      "en": "ugly"
+    },
+    "createdAt": "2025-01-28T11:03:08.928Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Không dễ nhìn; không hấp dẫn.",
+      "es": "No agradable a la vista; poco atractivo.",
+      "en": "Not pleasant to look at; unattractive."
+    },
+    "example": {
+      "vi": "Cô ấy có một nụ cười xấu.",
+      "es": "Ella tiene una sonrisa fea.",
+      "en": "She has an ugly smile."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:22:34.368Z",
+    "content": {
+      "word": "xấu",
+      "sentence": "Cảnh vật này rất ___.",
+      "language": "vi",
+      "choices": [],
+      "answer": "xấu",
+      "translation": {
+        "en": "This scenery is very bad."
+      },
+      "translatedAnswer": {
+        "en": "bad"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:22:34.368Z",
+    "id": "5dd9602d-681e-4415-8cdb-a46b90d7d5f5",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He feels bad when he does something wrong.",
+    "If the weather is bad, we will stay at home today.",
+    "The teacher says lying is bad and should not be done."
+  ],
+  "word": "xấu",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "xấu",
+    "tốt",
+    "mới"
+  ],
+  "rank": 923,
+  "notes_md": "**xấu** = bad. It describes something negative, wrong, low quality, or unpleasant.\n\nIt’s an **adjective**, so it goes after the noun: *người xấu* (bad person), *tin xấu* (bad news), *kết quả xấu* (bad result). It can describe behavior, situations, health, luck, or appearance.\n\nIt also commonly means **ugly** (about looks): *xấu* ↔ *đẹp* (beautiful). For “bad” in a moral sense, it contrasts with *tốt* (good).\n\nVery flexible word — if something isn’t good, nice, or pretty, *xấu* often fits.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:22:34.368Z",
+    "type": "multiChoiceQuiz",
+    "id": "5380ecb8-b984-44f1-b593-f3256d5fe666",
+    "content": {
+      "choices": [
+        "đẹp",
+        "xấu",
+        "tốt"
+      ],
+      "sentence": "Bức tranh này thật ___.",
+      "language": "vi",
+      "word": "xấu",
+      "translatedAnswer": {
+        "en": "bad"
+      },
+      "translation": {
+        "en": "This painting is really bad."
+      },
+      "answer": "xấu",
+      "hint": "x___"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:22:34.368Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "99r73KhKX4RkZS1mbArv"
+}

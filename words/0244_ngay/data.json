@@ -1,0 +1,96 @@
+{
+  "definition": "immediately",
+  "flashcard": {
+    "translations": {
+      "en": "day"
+    },
+    "createdAt": "2025-05-24T16:29:03.835Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A period of 24 hours from midnight to midnight; a day.",
+      "vi": "Khoảng thời gian tính từ nửa đêm này đến nửa đêm sau, gồm 24 giờ."
+    },
+    "word": "ngay",
+    "example": {
+      "en": "We will meet tomorrow.",
+      "vi": "Chúng ta sẽ gặp nhau vào ngày mai."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "You need to reply to this email immediately to not miss important information.",
+    "I will call you back immediately when the meeting ends.",
+    "If you feel unwell, go see a doctor immediately."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "a862ff1e-5386-42a0-aa5f-fd10b8821350",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:42.976Z",
+    "content": {
+      "sentence": "Tôi sẽ đến ___ này.",
+      "language": "vi",
+      "word": "ngay",
+      "choices": [],
+      "answer": "ngay",
+      "translatedAnswer": {
+        "en": "right now"
+      },
+      "translation": {
+        "en": "I will come right now."
+      }
+    },
+    "updatedAt": "2025-03-12T15:16:42.976Z"
+  },
+  "updatedAt": "2026-03-03T06:45:06.955Z",
+  "exampleSentences": [
+    "Chị cần trả lời email này ngay để không bị lỡ thông tin quan trọng.",
+    "Anh sẽ gọi lại cho em ngay khi cuộc họp kết thúc.",
+    "Nếu em cảm thấy không khỏe, hãy đi khám bác sĩ ngay."
+  ],
+  "notes": "ngay means immediately or right away. It shows that something happens with no delay.\n\nIt usually comes after the verb or at the end of the clause to add urgency. Stronger than liền, similar to lập tức (more formal).\n\nIt also means right / exactly in time or place: ngay đây (right here), ngay bây giờ (right now).",
+  "notes_md": "**ngay** means *immediately* or *right away*. It shows that something happens with no delay.\n\nIt usually comes after the verb or at the end of the clause to add urgency. Stronger than **liền**, similar to **lập tức** (more formal).\n\nIt also means *right / exactly* in time or place: **ngay đây** (right here), **ngay bây giờ** (right now).",
+  "choices": [
+    "ngay",
+    "sau",
+    "muộn"
+  ],
+  "rank": 244,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "5afc3bb8-9d61-402e-9266-df0ae9baa48b",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:16:42.976Z",
+    "content": {
+      "hint": "n___",
+      "answer": "ngay",
+      "translatedAnswer": {
+        "en": "right away"
+      },
+      "translation": {
+        "en": "Please get to work right away."
+      },
+      "sentence": "Hãy làm việc ___ đi.",
+      "language": "vi",
+      "word": "ngay",
+      "choices": [
+        "luôn",
+        "ngay",
+        "chậm"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:16:42.976Z"
+  },
+  "word": "ngay",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "bMmzGVzn70qHralOBwtS"
+}

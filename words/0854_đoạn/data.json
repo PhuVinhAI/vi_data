@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "Một phần hoặc đoạn của văn bản.",
+      "en": "A section or segment of text.",
+      "es": "Una sección o segmento de texto."
+    },
+    "example": {
+      "vi": "Tôi đã đọc đoạn văn này.",
+      "es": "Leí este párrafo.",
+      "en": "I read this paragraph."
+    },
+    "translations": {
+      "es": "sección",
+      "en": "section",
+      "vi": "đoạn"
+    },
+    "createdAt": "2025-01-28T14:08:54.699Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đoạn = a section or part of something longer. Think “a chunk cut out of a bigger whole.”\n\nIt’s a noun. You usually say một đoạn + noun: đoạn văn (paragraph), đoạn đường (stretch of road), đoạn sông (part of a river), đoạn thời gian (a period of time).  \n\nIt’s used for both physical things (road, river) and abstract things (text, time, conversation).  \n\nClose word: phần (part) — more general; đoạn feels like a continuous slice from something longer.",
+  "word": "đoạn",
+  "exampleSentencesTranslated": [
+    "Can you read this section in the book again for me?",
+    "Remember to highlight the important section in the document before submitting.",
+    "I find this section of the movie very touching and meaningful."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "đoạn",
+    "dòng",
+    "chương"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:37:31.371Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a4d3e46d-560d-415b-9fd9-60d2ea876a78",
+    "content": {
+      "sentence": "Tôi muốn đọc ___ này.",
+      "word": "đoạn",
+      "hint": "đ___n",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "section"
+      },
+      "choices": [
+        "đoạn",
+        "hàng",
+        "câu"
+      ],
+      "answer": "đoạn",
+      "translation": {
+        "en": "I want to read this section."
+      }
+    },
+    "updatedAt": "2025-03-12T16:37:31.371Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh có thể đọc lại đoạn này trong sách giúp em được không?",
+    "Chị nhớ đánh dấu đoạn quan trọng trong tài liệu trước khi nộp.",
+    "Em thấy đoạn phim này rất cảm động và ý nghĩa."
+  ],
+  "updatedAt": "2026-03-03T07:47:28.854Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 854,
+  "definition": "section",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "section"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I want to read this section."
+      },
+      "answer": "đoạn",
+      "language": "vi",
+      "word": "đoạn",
+      "sentence": "Tôi muốn đọc ___ này."
+    },
+    "updatedAt": "2025-03-12T16:37:31.371Z",
+    "type": "fillBlankQuiz",
+    "id": "15c74686-af1b-4360-99f5-6ff35f35a214",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:37:31.371Z"
+  },
+  "notes_md": "**đoạn** = a section or part of something longer. Think “a chunk cut out of a bigger whole.”\n\nIt’s a noun. You usually say **một đoạn** + noun: đoạn văn (paragraph), đoạn đường (stretch of road), đoạn sông (part of a river), đoạn thời gian (a period of time).  \n\nIt’s used for both physical things (road, river) and abstract things (text, time, conversation).  \n\nClose word: **phần** (part) — more general; **đoạn** feels like a continuous slice from something longer.",
+  "_id": "w96CJjnPTFW8TFcV7O33"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "es": "Una lesión en el cuerpo, especialmente una que rompe la piel.",
+      "vi": "Một chấn thương trên cơ thể, đặc biệt là một chấn thương làm rách da.",
+      "en": "An injury to the body, especially one that breaks the skin."
+    },
+    "example": {
+      "vi": "Cô ấy bị vết thương ở chân.",
+      "es": "Ella tiene una herida en la pierna.",
+      "en": "She has a wound on her leg."
+    },
+    "translations": {
+      "en": "wound",
+      "es": "herida",
+      "vi": "vết thương"
+    },
+    "createdAt": "2025-01-28T13:10:30.466Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "wound",
+  "exampleSentencesTranslated": [
+    "He fell off his bike so he has a small wound on his leg.",
+    "The doctor advised me to keep the wound clean to heal quickly.",
+    "She carefully bandaged the wound after cutting her hand."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "wound"
+      },
+      "translation": {
+        "en": "She has a wound on her hand."
+      },
+      "answer": "vết thương",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Cô ấy có một ___ ở tay.",
+      "word": "vết thương"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:36:26.776Z",
+    "id": "4f67ed48-ee64-4b52-ba94-a8987ec03c7d",
+    "updatedAt": "2025-03-12T15:36:26.776Z"
+  },
+  "exampleSentences": [
+    "Anh bị ngã xe nên có một vết thương nhỏ trên chân.",
+    "Bác sĩ khuyên em nên giữ vết thương sạch sẽ để mau lành.",
+    "Chị ấy băng vết thương cẩn thận sau khi bị đứt tay."
+  ],
+  "updatedAt": "2026-03-03T09:24:33.709Z",
+  "notes": "Vết thương means a wound or injury on the body (cut, bruise, burn, etc.). It’s something physically damaged on the skin or inside the body.\n\nIt’s a countable noun: một vết thương, hai vết thương. Common verbs: bị / có / gây / băng / chữa / làm sạch vết thương. You can describe it with adjectives like nhỏ, sâu, nặng, hở.\n\nIt focuses on the physical mark itself, while thương tích sounds more formal and refers to injuries in general (often in reports).",
+  "rank": 1763,
+  "choices": [
+    "vết thương",
+    "vết bẩn",
+    "vết xước"
+  ],
+  "notes_md": "**Vết thương** means a wound or injury on the body (cut, bruise, burn, etc.). It’s something physically damaged on the skin or inside the body.\n\nIt’s a countable noun: *một vết thương, hai vết thương*. Common verbs: **bị / có / gây / băng / chữa / làm sạch vết thương**. You can describe it with adjectives like **nhỏ, sâu, nặng, hở**.\n\nIt focuses on the physical mark itself, while **thương tích** sounds more formal and refers to injuries in general (often in reports).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:36:26.776Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:36:26.776Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "v____ng",
+      "answer": "vết thương",
+      "translation": {
+        "en": "She has a wound on her hand."
+      },
+      "translatedAnswer": {
+        "en": "wound"
+      },
+      "word": "vết thương",
+      "sentence": "Cô ấy có một ___ ở tay.",
+      "language": "vi",
+      "choices": [
+        "vết thương",
+        "vết xước",
+        "vết bầm"
+      ]
+    },
+    "id": "d390a50e-551c-4a26-bb26-55b36b4bd014"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "vết thương",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "gGXCnu4iBTGYI3uJi25k"
+}

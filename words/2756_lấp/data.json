@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ cái ao.",
+      "word": "lấp",
+      "answer": "lấp",
+      "language": "vi",
+      "choices": [
+        "lấp",
+        "dọn",
+        "cải tạo"
+      ],
+      "translation": {
+        "en": "We need to fill the pond."
+      },
+      "translatedAnswer": {
+        "en": "fill"
+      },
+      "hint": "l__"
+    },
+    "updatedAt": "2025-03-12T16:05:52.802Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:05:52.802Z",
+    "id": "77546ba0-cdb0-4fea-8633-b197a4d69080"
+  },
+  "definition": "cover up",
+  "notes_md": "**lấp** = to fill in or cover up something so it’s no longer open or visible. Think of filling a hole, a gap, or covering something completely.\n\nIt’s a verb, usually used with physical spaces like **hố** (hole), **lỗ** (hole), **khe** (gap), or **khoảng trống** (empty space).  \n\nYou’ll also hear **lấp đầy** (fill completely) and **lấp kín** (cover tightly, no gaps).  \nClose synonym: **che** (cover), but *che* is more like blocking from view, not filling from inside.",
+  "rank": 2756,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I will fill this hole."
+      },
+      "translatedAnswer": {
+        "en": "fill"
+      },
+      "answer": "lấp",
+      "language": "vi",
+      "word": "lấp",
+      "choices": [],
+      "sentence": "Tôi sẽ ___ lỗ hổng này."
+    },
+    "updatedAt": "2025-03-12T16:05:52.802Z",
+    "createdAt": "2025-03-12T16:05:52.802Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "e2a16181-5cf1-4f1b-b888-ee23cc9e52a5"
+  },
+  "word": "lấp",
+  "notes": "lấp = to fill in or cover up something so it’s no longer open or visible. Think of filling a hole, a gap, or covering something completely.\n\nIt’s a verb, usually used with physical spaces like hố (hole), lỗ (hole), khe (gap), or khoảng trống (empty space).  \n\nYou’ll also hear lấp đầy (fill completely) and lấp kín (cover tightly, no gaps).  \nClose synonym: che (cover), but che is more like blocking from view, not filling from inside.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T12:07:11.618Z",
+  "exampleSentencesTranslated": [
+    "You need to use sand to cover up the hole in the yard.",
+    "They brought leaves to cover up the trash in the garden.",
+    "She asked me to help cover up the standing water on the path."
+  ],
+  "exampleSentences": [
+    "Anh cần dùng cát để lấp cái hố ở ngoài sân.",
+    "Họ mang lá cây đến để lấp rác trong vườn.",
+    "Chị nhờ em giúp lấp nước đọng trên đường đi."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "fill",
+      "es": "llenar",
+      "vi": "lấp"
+    },
+    "example": {
+      "en": "They fill the hole to build a house.",
+      "es": "Ellos llenan el agujero para construir una casa.",
+      "vi": "Họ lấp hố để xây dựng nhà."
+    },
+    "createdAt": "2025-01-28T13:37:24.340Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Lấp là hành động làm đầy hoặc che lấp một cái hố hoặc khoảng trống.",
+      "es": "Llenar o cubrir un agujero o espacio vacío.",
+      "en": "To fill in or cover up a hole or gap."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "lấp",
+    "lật",
+    "lắp"
+  ],
+  "_id": "nczKvcsutDgF3oTfB2U3"
+}

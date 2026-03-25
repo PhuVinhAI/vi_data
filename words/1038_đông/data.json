@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:55.768Z",
+    "id": "ee2799d1-21d2-4903-aaad-2979cfccf82b",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:55.768Z",
+    "content": {
+      "choices": [],
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "language": "vi",
+      "word": "đông",
+      "translatedAnswer": {
+        "en": "cold"
+      },
+      "translation": {
+        "en": "The weather today is very cold."
+      },
+      "answer": "đông"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "This coffee shop is very crowded on weekend mornings.",
+    "The market near my house is always crowded during festivals.",
+    "I don't like taking the bus when it is too crowded."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The season between autumn and spring, characterized by cold weather.",
+      "es": "La estación entre el otoño y la primavera, caracterizada por el clima frío.",
+      "vi": "Mùa giữa thu và xuân, có thời tiết lạnh."
+    },
+    "example": {
+      "en": "Winter in Vietnam is very cold.",
+      "es": "El invierno en Vietnam es muy frío.",
+      "vi": "Mùa đông ở Việt Nam rất lạnh."
+    },
+    "translations": {
+      "vi": "đông",
+      "es": "invierno",
+      "en": "winter"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:13:27.133Z"
+  },
+  "definition": "crowded",
+  "notes": "đông = crowded, full of people. It describes a place with many people in it.\n\nIt’s an adjective, usually after rất, quá, khá to show degree. It describes places or events: quán, đường, công viên, lớp học.  \n\nOften used in patterns like đông người (many people). Opposite: vắng (empty, not crowded).  \n\nVery common meaning: mùa đông = winter (same spelling, different meaning — check context).",
+  "exampleSentences": [
+    "Quán cà phê này rất đông vào buổi sáng cuối tuần.",
+    "Chợ gần nhà em luôn đông mỗi khi có lễ hội.",
+    "Anh không thích đi xe buýt khi quá đông người."
+  ],
+  "updatedAt": "2026-03-03T08:06:26.622Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "47ad6a09-64d8-4203-97ab-08d8a7c1334b",
+    "content": {
+      "sentence": "Mùa này thường rất ___.",
+      "language": "vi",
+      "word": "đông",
+      "choices": [
+        "nóng",
+        "mát",
+        "đông"
+      ],
+      "answer": "đông",
+      "hint": "d___g",
+      "translatedAnswer": {
+        "en": "cold"
+      },
+      "translation": {
+        "en": "This season is usually very cold."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:55.768Z",
+    "updatedAt": "2025-03-12T13:33:55.768Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1038,
+  "choices": [
+    "đông",
+    "đắt",
+    "đẹp"
+  ],
+  "notes_md": "**đông** = crowded, full of people. It describes a place with many people in it.\n\nIt’s an **adjective**, usually after *rất, quá, khá* to show degree. It describes places or events: quán, đường, công viên, lớp học.  \n\nOften used in patterns like **đông người** (many people). Opposite: **vắng** (empty, not crowded).  \n\nVery common meaning: **mùa đông** = winter (same spelling, different meaning — check context).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "đông",
+  "_id": "BnJskgw3BQhdakvEERt4"
+}

@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "5292f3be-2cd7-4500-a7ce-995f3f3f44f5",
+    "createdAt": "2025-03-12T15:11:04.175Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Ý tưởng của họ rất ___.",
+      "language": "vi",
+      "word": "sáng tạo",
+      "hint": "s___o",
+      "answer": "sáng tạo",
+      "translatedAnswer": {
+        "en": "creative"
+      },
+      "choices": [
+        "sáng tạo",
+        "bình thường",
+        "đơn giản"
+      ],
+      "translation": {
+        "en": "Their ideas are very creative."
+      }
+    },
+    "updatedAt": "2025-03-12T15:11:04.175Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sáng tạo = creativity; the ability to think of new, original ideas. It can describe both the quality (noun) and a person/thing (adjective: “creative”).\n\nAs a noun, you often see sự sáng tạo when talking about creativity in general. As an adjective, it describes people, ideas, work, solutions, etc.\n\nIt can also act like a verb in more formal contexts, meaning “to create” in an inventive way.\n\nStructure: sáng tạo + danh từ / sáng tạo ra + something (i.e. sáng tạo ra ý tưởng mới)\n\nClose words: sáng kiến (initiative/innovation, more concrete idea); opposite vibe: rập khuôn (formulaic, not creative).",
+  "exampleSentences": [
+    "Anh luôn khuyến khích em phát triển khả năng sáng tạo trong công việc.",
+    "Công ty này nổi tiếng với những ý tưởng sáng tạo độc đáo.",
+    "Giáo viên đánh giá cao sự sáng tạo của học sinh trong dự án này."
+  ],
+  "word": "sáng tạo",
+  "choices": [
+    "sáng tạo",
+    "kiên nhẫn",
+    "thành công"
+  ],
+  "rank": 442,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**sáng tạo** = creativity; the ability to think of new, original ideas. It can describe both the quality (noun) and a person/thing (adjective: “creative”).\n\nAs a noun, you often see **sự sáng tạo** when talking about creativity in general. As an adjective, it describes people, ideas, work, solutions, etc.\n\nIt can also act like a verb in more formal contexts, meaning “to create” in an inventive way.\n\nStructure: sáng tạo + danh từ / sáng tạo ra + something (i.e. sáng tạo ra ý tưởng mới)\n\nClose words: **sáng kiến** (initiative/innovation, more concrete idea); opposite vibe: **rập khuôn** (formulaic, not creative).",
+  "definition": "creativity",
+  "fillBlankQuiz": {
+    "id": "ac9a6d8d-2fec-4f18-82dc-8a859ec2e153",
+    "updatedAt": "2025-03-12T15:11:04.175Z",
+    "content": {
+      "answer": "sáng tạo",
+      "language": "vi",
+      "word": "sáng tạo",
+      "sentence": "Ý tưởng của họ rất ___.",
+      "translation": {
+        "en": "Their ideas are very creative."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "creative"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:11:04.175Z"
+  },
+  "updatedAt": "2026-03-03T07:06:34.837Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He always encourages me to develop creativity at work.",
+    "This company is famous for unique creativity ideas.",
+    "The teacher appreciates the students' creativity in this project."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:45:26.458Z",
+    "definitions": {
+      "en": "The ability to produce original and unusual ideas or to make something new.",
+      "es": "La capacidad de producir ideas originales y inusuales o de crear algo nuevo.",
+      "vi": "Khả năng tạo ra những ý tưởng độc đáo và khác lạ hoặc tạo ra cái gì đó mới."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "creative",
+      "es": "creativo",
+      "vi": "sáng tạo"
+    },
+    "example": {
+      "en": "She has many creative ideas.",
+      "es": "Ella tiene muchas ideas creativas.",
+      "vi": "Cô ấy có nhiều ý tưởng sáng tạo."
+    }
+  },
+  "_id": "ZrVsJmx0ZMnkab9VfDUi"
+}

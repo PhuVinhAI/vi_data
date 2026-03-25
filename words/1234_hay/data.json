@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Bộ phim tối qua rất hay, anh muốn xem lại lần nữa.",
+    "Chị tìm thấy một cuốn sách hay ở thư viện tuần trước.",
+    "Em nghĩ bài giảng hôm nay rất hay và dễ hiểu."
+  ],
+  "updatedAt": "2026-03-03T08:27:28.945Z",
+  "notes": "hay usually means interesting or good/enjoyable. You use it to describe things like movies, books, stories, lessons, music.\n\nIt can also mean someone is good at something, similar to giỏi but a bit more casual.\n\nVery common extra meaning: often (as an adverb, before a verb).  \n\nAnother super common meaning: or in choice questions.  \n\nTo remember: hay = interesting / often / or — three small meanings, all very common.",
+  "flashcard": {
+    "example": {
+      "vi": "Cái này hay quá!",
+      "es": "¡Esto es genial!",
+      "en": "This is great!"
+    },
+    "definitions": {
+      "en": "used to express approval or enjoyment; good, nice.",
+      "es": "se utiliza para expresar aprobación o disfrute; bueno, agradable.",
+      "vi": "được sử dụng để thể hiện sự chấp thuận hoặc thích thú; tốt, đẹp."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:11:07.592Z",
+    "translations": {
+      "es": "genial",
+      "vi": "hay",
+      "en": "great"
+    }
+  },
+  "definition": "interesting",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "dd4ace21-da97-4b2c-b659-524d9b2109a2",
+    "content": {
+      "choices": [],
+      "word": "hay",
+      "sentence": "Món ăn này rất ___.",
+      "language": "vi",
+      "translation": {
+        "en": "This dish is very good."
+      },
+      "translatedAnswer": {
+        "en": "good"
+      },
+      "answer": "hay"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:31:14.335Z",
+    "updatedAt": "2025-03-12T13:31:14.335Z"
+  },
+  "exampleSentencesTranslated": [
+    "The movie last night was very interesting, I want to watch it again.",
+    "She found an interesting book at the library last week.",
+    "I think today's lecture was very interesting and easy to understand."
+  ],
+  "word": "hay",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1234,
+  "choices": [
+    "hay",
+    "chán",
+    "dài"
+  ],
+  "notes_md": "**hay** usually means **interesting** or **good/enjoyable**. You use it to describe things like movies, books, stories, lessons, music.\n\nIt can also mean someone is **good at** something, similar to *giỏi* but a bit more casual.\n\nVery common extra meaning: **often** (as an adverb, before a verb).  \n\nAnother super common meaning: **or** in choice questions.  \n\nTo remember: *hay* = interesting / often / or — three small meanings, all very common.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:31:14.335Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Họ đang tìm một cách ___ để giải quyết vấn đề.",
+      "word": "hay",
+      "choices": [
+        "khó",
+        "hay",
+        "chậm"
+      ],
+      "hint": "h__",
+      "answer": "hay",
+      "translatedAnswer": {
+        "en": "good"
+      },
+      "translation": {
+        "en": "They are looking for a good way to solve the problem."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:31:14.335Z",
+    "id": "4e3fab51-27bf-4b2e-96b8-ce4862e16c6b",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "BLb94GdKB3q4FL1GpTHl"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Tối nay, chị sẽ làm mc cho chương trình ca nhạc.",
+    "Anh ấy là mc quen thuộc của đài truyền hình này.",
+    "Em muốn trở thành mc để dẫn các buổi sự kiện lớn."
+  ],
+  "updatedAt": "2026-03-03T09:28:24.478Z",
+  "notes": "mc = host, emcee — the person who leads a show or event and talks to the audience.\n\nIt’s a noun, borrowed from English “MC.” You can say một mc, hai mc (no classifier needed in casual speech). Common pairings: mc truyền hình, mc sự kiện, mc đám cưới.\n\nOften used with làm (to work as):  \n\nA close Vietnamese synonym is người dẫn chương trình (more formal/fully Vietnamese), but mc is shorter and very common in speech.",
+  "definition": "host",
+  "flashcard": {
+    "definitions": {
+      "vi": "MC là người dẫn chương trình, người tổ chức một sự kiện.",
+      "es": "MC se refiere a un Maestro de Ceremonias, una persona que presenta un evento.",
+      "en": "MC refers to a Master of Ceremonies, a person who hosts an event."
+    },
+    "example": {
+      "en": "The MC is the host of the show.",
+      "es": "El MC es el presentador del programa.",
+      "vi": "MC là người dẫn chương trình."
+    },
+    "translations": {
+      "es": "MC",
+      "vi": "MC",
+      "en": "MC"
+    },
+    "createdAt": "2025-01-28T13:01:04.152Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Tonight, you will be the host for the music show.",
+    "He is a familiar host of this television station.",
+    "I want to become a host to lead big events."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f3177344-eba4-4334-a16a-af79b486eff2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:21.649Z",
+    "content": {
+      "answer": "mc",
+      "translatedAnswer": {
+        "en": "mc"
+      },
+      "translation": {
+        "en": "I am a famous mc."
+      },
+      "language": "vi",
+      "sentence": "Tôi là một ___ nổi tiếng.",
+      "word": "mc",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T15:26:21.649Z"
+  },
+  "word": "mc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mc",
+    "nhạc sĩ",
+    "khách mời"
+  ],
+  "rank": 1799,
+  "notes_md": "**mc** = host, emcee — the person who leads a show or event and talks to the audience.\n\nIt’s a **noun**, borrowed from English “MC.” You can say *một mc, hai mc* (no classifier needed in casual speech). Common pairings: *mc truyền hình, mc sự kiện, mc đám cưới*.\n\nOften used with **làm** (to work as):  \n\nA close Vietnamese synonym is **người dẫn chương trình** (more formal/fully Vietnamese), but **mc** is shorter and very common in speech.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:21.649Z",
+    "content": {
+      "translation": {
+        "en": "She wants to become an mc in the future."
+      },
+      "translatedAnswer": {
+        "en": "mc"
+      },
+      "hint": "m__",
+      "answer": "mc",
+      "choices": [
+        "ca sĩ",
+        "mc",
+        "nhà văn"
+      ],
+      "word": "mc",
+      "language": "vi",
+      "sentence": "Cô ấy muốn trở thành ___ trong tương lai."
+    },
+    "id": "25e08734-fe1a-4a13-b731-7ee0085599ae",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:26:21.649Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "eCeTQvvFqpTtAilt0pY5"
+}

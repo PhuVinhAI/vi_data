@@ -1,0 +1,101 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "b56ef8f1-554b-486b-b3ed-6d915b7bbaf5",
+    "createdAt": "2025-03-12T16:07:15.783Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:07:15.783Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "sự",
+      "answer": "sự",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "thing"
+      },
+      "translation": {
+        "en": "This is an important thing."
+      },
+      "sentence": "Đây là ___ quan trọng."
+    }
+  },
+  "sentenceBreakdowns": [
+    "Anh (he) + nhặt (pick up) + sự (thing) + trên (on) + sàn (floor)",
+    "Chị (she) + cất (put away) + sự (thing) + vào (into) + hộp (box)",
+    "Em (I) + đưa (give) + sự (thing) + cho (to) + anh (you)"
+  ],
+  "word": "sự",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:07:15.783Z",
+    "content": {
+      "translation": {
+        "en": "This is an important thing."
+      },
+      "translatedAnswer": {
+        "en": "thing"
+      },
+      "hint": "s__",
+      "word": "sự",
+      "answer": "sự",
+      "language": "vi",
+      "choices": [
+        "sự",
+        "điều",
+        "cái"
+      ],
+      "sentence": "Đây là ___ quan trọng."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "60ac0774-66af-4d61-9d29-620a8bc49589",
+    "createdAt": "2025-03-12T16:07:15.783Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "thing",
+  "rank": 56,
+  "notes_md": "**sự** is not really “thing” in everyday Vietnamese. It’s a formal word used to turn verbs or adjectives into abstract nouns (like “-ness” or “the act of”).\n\nYou rarely use **sự** alone — it almost always sits in front of another word to create a concept.  \n\nIt often appears in more formal or written language, especially in set phrases.  \nClose in meaning to **việc**, but **việc** is more concrete (“a task/job”), while **sự** feels abstract (“a concept/state”).",
+  "updatedAt": "2026-03-03T06:08:45.503Z",
+  "exampleSentencesTranslated": [
+    "He picks up the thing on the floor.",
+    "She puts the thing into the box.",
+    "I give the thing to you."
+  ],
+  "exampleSentences": [
+    "Anh nhặt sự trên sàn.",
+    "Chị cất sự vào hộp.",
+    "Em đưa sự cho anh."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "điều",
+    "sự",
+    "việc"
+  ],
+  "flashcard": {
+    "createdAt": "2025-05-24T16:33:29.837Z",
+    "audioUrl": "flashcard.mp3",
+    "word": "sự",
+    "definitions": {
+      "vi": "Từ dùng để tạo danh từ trừu tượng, chỉ sự việc, tính chất hoặc trạng thái.",
+      "en": "A word used to form abstract nouns indicating an event, quality, or state."
+    },
+    "example": {
+      "en": "Patience is very important in life.",
+      "vi": "Sự kiên nhẫn rất quan trọng trong cuộc sống."
+    },
+    "translations": {
+      "en": "the (state of) / the act of / -ness / -tion (nominalizing prefix)"
+    }
+  },
+  "notes": "sự is not really “thing” in everyday Vietnamese. It’s a formal word used to turn verbs or adjectives into abstract nouns (like “-ness” or “the act of”).\n\nYou rarely use sự alone — it almost always sits in front of another word to create a concept.  \n\nIt often appears in more formal or written language, especially in set phrases.  \nClose in meaning to việc, but việc is more concrete (“a task/job”), while sự feels abstract (“a concept/state”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "o9JW8C77Y6U4dr4oBxLj"
+}

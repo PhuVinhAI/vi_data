@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Về phần anh, anh sẽ đến bữa tiệc lúc bảy giờ tối.",
+    "Về phần em, em thích đi du lịch hơn là ở nhà.",
+    "Về phần chị ấy, chị ấy đã hoàn thành xong công việc rồi."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:59:25.657Z",
+    "updatedAt": "2025-03-12T15:59:25.657Z",
+    "content": {
+      "choices": [],
+      "sentence": "Chúng ta sẽ nói ___ dự án này.",
+      "translatedAnswer": {
+        "en": "about"
+      },
+      "answer": "về phần",
+      "language": "vi",
+      "word": "về phần",
+      "translation": {
+        "en": "We will talk about this project."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "d5fba6d6-d985-4913-981a-90b5bdbb16a1"
+  },
+  "choices": [
+    "về phần",
+    "trong khi",
+    "bởi vì"
+  ],
+  "rank": 2680,
+  "definition": "as for",
+  "notes": "Về phần means as for or regarding someone/something. It shifts the focus to one specific person or topic.\n\nIt usually comes at the beginning of a clause to introduce that topic.  \n\nIt’s often used to compare different people’s situations or opinions.  \nClose synonym: còn (shorter and more casual in conversation).",
+  "notes_md": "**Về phần** means *as for* or *regarding* someone/something. It shifts the focus to one specific person or topic.\n\nIt usually comes at the beginning of a clause to introduce that topic.  \n\nIt’s often used to compare different people’s situations or opinions.  \nClose synonym: **còn** (shorter and more casual in conversation).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "7e484bdd-c25b-4d4c-bb64-1c78d2a9e5ce",
+    "content": {
+      "translatedAnswer": {
+        "en": "about"
+      },
+      "answer": "về phần",
+      "hint": "v___n",
+      "sentence": "Chúng ta sẽ nói ___ dự án này.",
+      "choices": [
+        "về phần",
+        "về điều",
+        "về nhà"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "We will talk about this project."
+      },
+      "word": "về phần"
+    },
+    "updatedAt": "2025-03-12T15:59:25.657Z",
+    "createdAt": "2025-03-12T15:59:25.657Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "về phần",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:31:35.560Z",
+    "definitions": {
+      "es": "En términos de; respecto a; en cuanto a.",
+      "en": "In terms of; regarding; as for.",
+      "vi": "Về phần; liên quan đến; đối với."
+    },
+    "example": {
+      "en": "As for me, I like reading books.",
+      "es": "En cuanto a mí, me gusta leer libros.",
+      "vi": "Về phần tôi, tôi thích đọc sách."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "as for",
+      "es": "en cuanto a",
+      "vi": "về phần"
+    }
+  },
+  "updatedAt": "2026-03-03T11:35:23.038Z",
+  "exampleSentencesTranslated": [
+    "As for me, I will come to the party at seven in the evening.",
+    "As for me, I prefer traveling rather than staying at home.",
+    "As for her, she has already finished the work."
+  ],
+  "_id": "lpetTYFvyEkTLIpJxa4d"
+}

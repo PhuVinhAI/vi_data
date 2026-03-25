@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi tặng quà cho bạn.",
+      "en": "I give a gift to you.",
+      "es": "Te doy un regalo."
+    },
+    "createdAt": "2025-01-28T12:19:27.373Z",
+    "definitions": {
+      "vi": "đưa cái gì đó như một món quà",
+      "en": "to give something as a gift",
+      "es": "dar algo como un regalo"
+    },
+    "translations": {
+      "es": "dar",
+      "en": "to give",
+      "vi": "tặng"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**tặng** = to give something as a gift (not just “give,” but give to show care, celebration, or respect).\n\nYou use it when the thing is meant as a present: flowers, money, gifts, awards, etc. It sounds warmer and more intentional than **cho** (which just means “give” in general).  \n\n\nFor elders or formal respect, **biếu** can be used instead of *tặng* — it feels more polite and humble.",
+  "exampleSentences": [
+    "Hôm qua anh tặng mẹ một bó hoa nhân ngày sinh nhật.",
+    "Mỗi dịp Tết, ông bà thường tặng em bao lì xì đỏ.",
+    "Chị dự định sẽ tặng bạn thân một cuốn sách yêu thích."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi muốn ___ món quà này.",
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I want to give this gift."
+      },
+      "answer": "tặng",
+      "choices": [],
+      "word": "tặng"
+    },
+    "updatedAt": "2025-03-12T14:45:17.915Z",
+    "createdAt": "2025-03-12T14:45:17.915Z",
+    "id": "046dce21-2f6f-4226-8e3f-e3cbadb016b2",
+    "type": "fillBlankQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "give as a gift",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:45:17.915Z",
+    "id": "aea8b987-67e9-48cb-b9ad-f4c89e7eec0f",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "sentence": "Tôi sẽ ___ cho bạn một món quà.",
+      "hint": "t__g",
+      "translation": {
+        "en": "I will give you a gift."
+      },
+      "answer": "tặng",
+      "word": "tặng",
+      "choices": [
+        "cho",
+        "tặng",
+        "đưa"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:45:17.915Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "tặng",
+  "rank": 1178,
+  "exampleSentencesTranslated": [
+    "Yesterday, I give as a gift my mother a bouquet of flowers for her birthday.",
+    "Every Tet holiday, my grandparents usually give as a gift me red lucky money envelopes.",
+    "She plans to give as a gift her best friend a favorite book."
+  ],
+  "updatedAt": "2026-03-03T08:21:01.498Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cho",
+    "mua",
+    "tặng"
+  ],
+  "notes": "tặng = to give something as a gift (not just “give,” but give to show care, celebration, or respect).\n\nYou use it when the thing is meant as a present: flowers, money, gifts, awards, etc. It sounds warmer and more intentional than cho (which just means “give” in general).  \n\nFor elders or formal respect, biếu can be used instead of tặng — it feels more polite and humble.",
+  "_id": "T5fxkggufv1PojHHxIwW"
+}

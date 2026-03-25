@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:42:14.659Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1369,
+  "exampleSentencesTranslated": [
+    "My parents have a lot of expectation for my academic results.",
+    "I feel stressed because my boss has high expectation for my work.",
+    "She always keeps a positive expectation about her future."
+  ],
+  "word": "kỳ vọng",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tôi có ___ về dự án này.",
+      "translatedAnswer": {
+        "en": "expectations"
+      },
+      "language": "vi",
+      "word": "kỳ vọng",
+      "choices": [
+        "kỳ vọng",
+        "niềm tin",
+        "hy vọng"
+      ],
+      "hint": "k___g",
+      "translation": {
+        "en": "I have expectations for this project."
+      },
+      "answer": "kỳ vọng"
+    },
+    "updatedAt": "2025-03-12T14:40:35.721Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:40:35.721Z",
+    "id": "ced82974-ec39-4974-a25b-33e773dac78b",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes": "Kỳ vọng = expectation — what you hope or believe will happen in the future. It can be positive or put pressure on someone.\n\nIt’s a noun. You often see it with verbs like có, đặt, giữ, đáp ứng, vượt quá (meet/exceed expectations).\n\nClose words: hy vọng (hope – more emotional, lighter), mong đợi (expect – more neutral, everyday). “Kỳ vọng” often feels a bit heavier or more serious.",
+  "choices": [
+    "kỳ vọng",
+    "lo lắng",
+    "hy vọng"
+  ],
+  "notes_md": "**Kỳ vọng** = expectation — what you hope or believe will happen in the future. It can be positive or put pressure on someone.\n\nIt’s a **noun**. You often see it with verbs like **có**, **đặt**, **giữ**, **đáp ứng**, **vượt quá** (meet/exceed expectations).\n\n\nClose words: **hy vọng** (hope – more emotional, lighter), **mong đợi** (expect – more neutral, everyday). “Kỳ vọng” often feels a bit heavier or more serious.",
+  "exampleSentences": [
+    "Ba mẹ đặt nhiều kỳ vọng vào kết quả học tập của em.",
+    "Anh cảm thấy áp lực vì sếp có kỳ vọng cao đối với công việc.",
+    "Chị luôn giữ kỳ vọng tích cực về tương lai của mình."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:15:50.527Z",
+    "definitions": {
+      "vi": "Một niềm tin rằng điều gì đó sẽ xảy ra hoặc điều gì đó là đúng.",
+      "en": "A belief that something will happen or that something is true.",
+      "es": "Una creencia de que algo sucederá o que algo es cierto."
+    },
+    "example": {
+      "vi": "Tôi có kỳ vọng cao về tương lai của mình.",
+      "en": "I have high expectations for my future.",
+      "es": "Tengo grandes expectativas para mi futuro."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "expectativa",
+      "vi": "kỳ vọng",
+      "en": "expectation"
+    }
+  },
+  "definition": "expectation",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:40:35.721Z",
+    "id": "a67d3354-c433-44b0-b6c8-878e6911aaf3",
+    "content": {
+      "sentence": "Tôi có ___ về dự án này.",
+      "translatedAnswer": {
+        "en": "expectations"
+      },
+      "language": "vi",
+      "answer": "kỳ vọng",
+      "translation": {
+        "en": "I have expectations for this project."
+      },
+      "choices": [],
+      "word": "kỳ vọng"
+    },
+    "updatedAt": "2025-03-12T14:40:35.721Z"
+  },
+  "_id": "S5zzyG6pMOP14CAbsQ76"
+}

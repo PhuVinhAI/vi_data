@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "See you tomorrow!"
+      },
+      "word": "mai",
+      "hint": "m__",
+      "sentence": "Hẹn gặp lại ___ nhé!",
+      "choices": [
+        "hôm qua",
+        "mai",
+        "ngày mai"
+      ],
+      "translatedAnswer": {
+        "en": "tomorrow"
+      },
+      "answer": "mai"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "b0f6f07e-8b11-4be3-8175-b86720e0e702",
+    "createdAt": "2025-03-12T15:51:44.965Z",
+    "updatedAt": "2025-03-12T15:51:44.965Z"
+  },
+  "notes_md": "**mai** means **tomorrow** — the day after today.  \n\nIt’s a time word, so it usually goes at the beginning or end of the sentence. You’ll often see it with future marker **sẽ**, but that’s optional if the time is already clear.  \n\n**ngày mai** is a slightly more explicit version of *mai*; both mean the same thing.  \n\nCommon pairs: **sáng mai, chiều mai, tối mai** (morning / afternoon / evening tomorrow).  \n\nStrong memory link: **hôm nay** (today) ↔ **mai / ngày mai** (tomorrow) ↔ **hôm qua** (yesterday).",
+  "exampleSentencesTranslated": [
+    "Do you want to go to the movies with me tomorrow?",
+    "I will submit this assignment to the teacher tomorrow.",
+    "I have to get up early tomorrow to prepare for the exam."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mai",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "tomorrow"
+    },
+    "example": {
+      "en": "Tomorrow we will go to the park.",
+      "vi": "Mai chúng ta sẽ đi chơi công viên."
+    },
+    "word": "mai",
+    "definitions": {
+      "vi": "Từ dùng để chỉ ngày sau ngày hôm nay; ngày kế tiếp.",
+      "en": "A word used to refer to the day after today; the next day."
+    },
+    "createdAt": "2025-05-24T16:32:01.355Z"
+  },
+  "updatedAt": "2026-03-03T08:55:07.384Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "391f6291-a62f-45a4-a53e-ff3a0bfff0c6",
+    "content": {
+      "translatedAnswer": {
+        "en": "tomorrow"
+      },
+      "answer": "mai",
+      "choices": [],
+      "sentence": "Tôi sẽ đi học ___.",
+      "language": "vi",
+      "translation": {
+        "en": "I will go to school tomorrow."
+      },
+      "word": "mai"
+    },
+    "updatedAt": "2025-03-12T15:51:44.965Z",
+    "createdAt": "2025-03-12T15:51:44.965Z"
+  },
+  "choices": [
+    "mai",
+    "hôm qua",
+    "bây giờ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có muốn đi xem phim với em vào mai không?",
+    "Chị sẽ nộp bài tập này vào mai cho giáo viên.",
+    "Em phải dậy sớm mai để chuẩn bị cho kỳ thi."
+  ],
+  "definition": "tomorrow",
+  "notes": "mai means tomorrow — the day after today.  \n\nIt’s a time word, so it usually goes at the beginning or end of the sentence. You’ll often see it with future marker sẽ, but that’s optional if the time is already clear.  \n\nngày mai is a slightly more explicit version of mai; both mean the same thing.  \n\nCommon pairs: sáng mai, chiều mai, tối mai (morning / afternoon / evening tomorrow).  \n\nStrong memory link: hôm nay (today) ↔ mai / ngày mai (tomorrow) ↔ hôm qua (yesterday).",
+  "rank": 1488,
+  "_id": "k3syM860SwYcBUthaMzi"
+}

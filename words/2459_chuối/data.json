@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "This morning I ate a banana before going to school.",
+    "Mom often buys banana to make dessert for the whole family.",
+    "Can you help me peel this banana?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chuối",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích ăn chuối vào buổi sáng.",
+      "en": "I like to eat bananas in the morning.",
+      "es": "Me gusta comer plátanos por la mañana."
+    },
+    "definitions": {
+      "vi": "Một loại trái cây dài, cong, mọc thành chùm và có thịt mềm, vỏ màu vàng khi chín.",
+      "en": "A long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe.",
+      "es": "Una fruta larga y curvada que crece en racimos y tiene pulpa blanda y piel amarilla cuando está madura."
+    },
+    "createdAt": "2025-01-28T13:26:50.562Z",
+    "translations": {
+      "es": "plátano",
+      "en": "banana",
+      "vi": "chuối"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T10:37:43.691Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "5c327531-92ec-4258-a2b7-12485ce258e1",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "chuối",
+      "translation": {
+        "en": "I like to eat bananas for breakfast."
+      },
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ cho bữa sáng.",
+      "choices": [
+        "mận",
+        "táo",
+        "chuối"
+      ],
+      "hint": "c____",
+      "translatedAnswer": {
+        "en": "bananas"
+      },
+      "answer": "chuối"
+    },
+    "updatedAt": "2025-03-12T15:54:44.260Z",
+    "createdAt": "2025-03-12T15:54:44.260Z"
+  },
+  "notes_md": "**Chuối** means *banana* — the long yellow fruit.  \n\nIt’s a countable noun: use **một quả chuối** (one banana). A bunch is **một nải chuối**, and you’ll often hear words like **vỏ chuối** (banana peel) or **bánh chuối** (banana cake).  \n\nIn casual speech, **chuối** can also mean *lame / awkward / silly* (about a situation or action). It’s informal and slightly teasing.  \n\nNo major North–South difference for this word.",
+  "definition": "banana",
+  "notes": "Chuối means banana — the long yellow fruit.  \n\nIt’s a countable noun: use một quả chuối (one banana). A bunch is một nải chuối, and you’ll often hear words like vỏ chuối (banana peel) or bánh chuối (banana cake).  \n\nIn casual speech, chuối can also mean lame / awkward / silly (about a situation or action). It’s informal and slightly teasing.  \n\nNo major North–South difference for this word.",
+  "rank": 2459,
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Tôi thích ăn ___ vào buổi sáng.",
+      "translatedAnswer": {
+        "en": "bananas"
+      },
+      "answer": "chuối",
+      "word": "chuối",
+      "translation": {
+        "en": "I like to eat bananas in the morning."
+      },
+      "language": "vi"
+    },
+    "id": "1e5112e7-31d7-4e18-bba2-d88d51d2df56",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:54:44.260Z",
+    "updatedAt": "2025-03-12T15:54:44.260Z"
+  },
+  "choices": [
+    "chuối",
+    "xoài",
+    "dưa hấu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sáng nay em ăn một quả chuối trước khi đi học.",
+    "Mẹ thường mua chuối về làm món tráng miệng cho cả nhà.",
+    "Anh có thể giúp chị gọt vỏ chuối này được không?"
+  ],
+  "_id": "khDWGSs0beNJjYlgqCjy"
+}

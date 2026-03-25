@@ -1,0 +1,99 @@
+{
+  "notes": "khóa usually means a course (a period of study). You use it as a countable noun: một khóa, hai khóa. It often goes with học → khóa học (more explicit: study course).\n\nIt’s commonly used for language courses, training programs, short-term classes, or even a whole university cohort (khóa 2024 = class of 2024).\n\nVery common other meaning: lock (noun) or to lock (verb). As a verb, it goes directly with an object like a door, phone, account, etc.  \n\nStrong memory link: khóa học (course) vs. cái khóa (a lock) — same word, totally different context.",
+  "fillBlankQuiz": {
+    "id": "71d09475-ad10-48d5-8f69-dd86b7359ffb",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:46:44.481Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "This door is locked."
+      },
+      "answer": "khóa",
+      "translatedAnswer": {
+        "en": "locked"
+      },
+      "word": "khóa",
+      "sentence": "Cửa này bị ___ lại.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:46:44.481Z"
+  },
+  "updatedAt": "2026-03-03T08:31:31.763Z",
+  "multiChoiceQuiz": {
+    "id": "85103819-1208-46d5-a52c-a14bdcace7d8",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "khóa",
+      "translation": {
+        "en": "This door is locked."
+      },
+      "hint": "k___",
+      "choices": [
+        "khóa",
+        "mở",
+        "đóng"
+      ],
+      "sentence": "Cửa này bị ___ lại.",
+      "word": "khóa",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "locked"
+      }
+    },
+    "createdAt": "2025-03-12T13:46:44.481Z",
+    "updatedAt": "2025-03-12T13:46:44.481Z"
+  },
+  "notes_md": "**khóa** usually means a **course** (a period of study). You use it as a countable noun: *một khóa*, *hai khóa*. It often goes with **học** → *khóa học* (more explicit: study course).\n\nIt’s commonly used for language courses, training programs, short-term classes, or even a whole university cohort (*khóa 2024* = class of 2024).\n\nVery common other meaning: **lock** (noun) or **to lock** (verb). As a verb, it goes directly with an object like a door, phone, account, etc.  \n\nStrong memory link: *khóa học* (course) vs. *cái khóa* (a lock) — same word, totally different context.",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã khóa cửa trước khi đi ngủ.",
+      "es": "Cerré la puerta antes de irme a dormir.",
+      "en": "I locked the door before going to sleep."
+    },
+    "createdAt": "2025-01-28T11:25:16.904Z",
+    "translations": {
+      "en": "lock",
+      "vi": "khóa",
+      "es": "cerradura"
+    },
+    "definitions": {
+      "en": "A device used to secure something, typically a door.",
+      "vi": "Một thiết bị được sử dụng để bảo vệ một cái gì đó, thường là một cánh cửa.",
+      "es": "Un dispositivo utilizado para asegurar algo, típicamente una puerta."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I have registered for a new English course starting next week.",
+    "I want to join a cooking course to improve my kitchen skills.",
+    "She completed a basic computer course at the center near her house."
+  ],
+  "word": "khóa",
+  "rank": 1270,
+  "exampleSentences": [
+    "Em đã đăng ký một khóa tiếng Anh mới bắt đầu vào tuần sau.",
+    "Anh muốn tham gia khóa học nấu ăn để cải thiện kỹ năng bếp núc.",
+    "Chị đã hoàn thành khóa tin học cơ bản ở trung tâm gần nhà."
+  ],
+  "definition": "course",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "khóa",
+    "lớp",
+    "bài"
+  ],
+  "_id": "FC5lXB7PtTJZ7SjJfidU"
+}

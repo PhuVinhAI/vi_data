@@ -1,0 +1,99 @@
+{
+  "word": "nuôi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nấu",
+    "nuôi",
+    "mua"
+  ],
+  "rank": 1069,
+  "notes_md": "**Nuôi** means to raise or take care of someone/something so they grow and live well. It’s used for people and animals, especially when you provide food, money, and daily care.\n\nYou use it with a noun after it.  \n`Structure: nuôi + người / động vật / ước mơ` (nuôi cá, nuôi gia súc, nuôi hy vọng)\n\nIt can also mean “to nurture” something abstract, like a dream, plan, or feeling. In that sense, it’s close to **chăm** (to care for), but *nuôi* focuses more on long-term support and growth.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:18:30.106Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:18:30.106Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi muốn ___ cá trong ao.",
+      "language": "vi",
+      "word": "nuôi",
+      "choices": [
+        "nuôi",
+        "bắt",
+        "thả"
+      ],
+      "hint": "n__i",
+      "answer": "nuôi",
+      "translatedAnswer": {
+        "en": "raise"
+      },
+      "translation": {
+        "en": "I want to raise fish in the pond."
+      }
+    },
+    "id": "fc8f261f-d8ec-4146-9cb5-19900aaddb5c"
+  },
+  "exampleSentences": [
+    "Anh muốn nuôi một con chó nhỏ trong nhà.",
+    "Bố mẹ em phải làm việc vất vả để nuôi các con.",
+    "Chị thích nuôi cây cảnh trên ban công mỗi ngày."
+  ],
+  "updatedAt": "2026-03-03T08:09:59.833Z",
+  "notes": "Nuôi means to raise or take care of someone/something so they grow and live well. It’s used for people and animals, especially when you provide food, money, and daily care.\n\nYou use it with a noun after it.  \nStructure: nuôi + người / động vật / ước mơ (nuôi cá, nuôi gia súc, nuôi hy vọng)\n\nIt can also mean “to nurture” something abstract, like a dream, plan, or feeling. In that sense, it’s close to chăm (to care for), but nuôi focuses more on long-term support and growth.",
+  "definition": "raise",
+  "flashcard": {
+    "translations": {
+      "es": "criar",
+      "vi": "nuôi",
+      "en": "to raise"
+    },
+    "createdAt": "2025-01-28T12:53:11.851Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "criar o nutrir (un animal o una planta)",
+      "vi": "nuôi dưỡng hoặc chăm sóc (một con vật hoặc một cây)",
+      "en": "to raise or nurture (an animal or a plant)"
+    },
+    "example": {
+      "es": "Tengo un perro.",
+      "vi": "Tôi nuôi một con chó.",
+      "en": "I have a dog."
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:30.106Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "raise"
+      },
+      "translation": {
+        "en": "We raise this cat."
+      },
+      "answer": "nuôi",
+      "choices": [],
+      "sentence": "Chúng tôi ___ con mèo này.",
+      "language": "vi",
+      "word": "nuôi"
+    },
+    "id": "d3178ac4-b23e-4035-ada9-7225f0f4ce89",
+    "updatedAt": "2025-03-12T15:18:30.106Z"
+  },
+  "exampleSentencesTranslated": [
+    "I want to raise a small dog in the house.",
+    "My parents have to work hard to raise their children.",
+    "She likes to raise ornamental plants on the balcony every day."
+  ],
+  "_id": "blxDRR3FkVo3PB9cwE8o"
+}

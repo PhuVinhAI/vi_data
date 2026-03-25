@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "This morning, he arrived at the office early to prepare for the meeting.",
+    "She usually has lunch with her colleagues near the office.",
+    "I forgot to bring my card to the office so I had to wait outside."
+  ],
+  "updatedAt": "2026-03-03T11:41:26.566Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "d06cd482-935b-42d3-9a11-8bf26a611ff5",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:55:58.090Z",
+    "updatedAt": "2025-03-12T14:55:58.090Z",
+    "content": {
+      "sentence": "Tôi làm việc tại ___ này.",
+      "language": "vi",
+      "word": "cơ quan",
+      "answer": "cơ quan",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "agency"
+      },
+      "translation": {
+        "en": "I work at this agency."
+      }
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "An organization or agency that performs a specific function.",
+      "es": "Una organización o agencia que realiza una función específica.",
+      "vi": "Một tổ chức hoặc cơ quan thực hiện một chức năng cụ thể."
+    },
+    "createdAt": "2025-01-28T12:29:06.592Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "agency",
+      "es": "agencia",
+      "vi": "cơ quan"
+    },
+    "example": {
+      "en": "This agency is responsible for the environment.",
+      "es": "Esta agencia es responsable del medio ambiente.",
+      "vi": "Cơ quan này chịu trách nhiệm về môi trường."
+    }
+  },
+  "notes_md": "**Cơ quan** usually means an office, especially a workplace in a formal or government context. It’s more official than *văn phòng*.\n\nIt’s a countable noun: *một cơ quan, các cơ quan*. Often used in phrases like *cơ quan nhà nước* (state agency) or *cơ quan chức năng* (authorities).\n\nIt can also mean an **organ** in the body (like *cơ quan nội tạng*), so context matters.\n\nIf you mean a company office in a casual/private sense, *công ty* or *văn phòng* may sound more natural.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "office",
+  "choices": [
+    "cơ quan",
+    "trường học",
+    "cửa hàng"
+  ],
+  "rank": 2734,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:55:58.090Z",
+    "updatedAt": "2025-03-12T14:55:58.090Z",
+    "content": {
+      "translation": {
+        "en": "They come to the agency today."
+      },
+      "translatedAnswer": {
+        "en": "agency"
+      },
+      "choices": [
+        "cơ quan",
+        "tổ chức",
+        "công ty"
+      ],
+      "answer": "cơ quan",
+      "hint": "c___n",
+      "word": "cơ quan",
+      "language": "vi",
+      "sentence": "Họ đến ___ hôm nay."
+    },
+    "id": "ff3f0b10-a5d6-407d-bd9e-583a78436efd"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cơ quan",
+  "exampleSentences": [
+    "Sáng nay anh đến cơ quan sớm để chuẩn bị cho cuộc họp.",
+    "Chị thường ăn trưa cùng đồng nghiệp ở gần cơ quan.",
+    "Em quên mang thẻ vào cơ quan nên phải đứng chờ ở ngoài."
+  ],
+  "notes": "Cơ quan usually means an office, especially a workplace in a formal or government context. It’s more official than văn phòng.\n\nIt’s a countable noun: một cơ quan, các cơ quan. Often used in phrases like cơ quan nhà nước (state agency) or cơ quan chức năng (authorities).\n\nIt can also mean an organ in the body (like cơ quan nội tạng), so context matters.\n\nIf you mean a company office in a casual/private sense, công ty or văn phòng may sound more natural.",
+  "_id": "VfR74FWerIIWpxw9uFZW"
+}

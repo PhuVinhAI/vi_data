@@ -1,0 +1,96 @@
+{
+  "notes": "mẹ = mother. It’s the normal, everyday word for your mom.\n\nIt’s a noun. You usually say mẹ + possessive like mẹ tôi, mẹ em, or just use mẹ alone when talking within the family. You don’t need a classifier in most cases.\n\nCommon pairing: bố mẹ = parents.  \n\nIn the South, people often say má instead of mẹ — same meaning, just regional.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:39:16.816Z",
+  "exampleSentencesTranslated": [
+    "Every morning, my mother prepares breakfast for me before I go to school.",
+    "He loves his mother because his mother always takes care of the whole family.",
+    "This weekend, she will visit her mother and help her cook."
+  ],
+  "exampleSentences": [
+    "Mỗi buổi sáng, mẹ đều chuẩn bị bữa sáng cho em trước khi đi học.",
+    "Anh rất yêu mẹ vì mẹ luôn quan tâm và chăm sóc cho cả gia đình.",
+    "Cuối tuần này, chị sẽ về thăm mẹ và giúp mẹ nấu ăn."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "mẹ",
+    "bà",
+    "chị"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:33:55.343Z",
+    "word": "mẹ",
+    "definitions": {
+      "vi": "Người phụ nữ sinh ra hoặc nuôi dưỡng mình.",
+      "en": "A woman who gives birth to or raises a child; mother."
+    },
+    "translations": {
+      "en": "mother"
+    },
+    "example": {
+      "en": "Mom is cooking rice in the kitchen.",
+      "vi": "Mẹ đang nấu cơm trong bếp."
+    }
+  },
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:11:16.196Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi hỏi ___ về bài học.",
+      "hint": "m__",
+      "translation": {
+        "en": "I asked my mother about the lesson."
+      },
+      "translatedAnswer": {
+        "en": "mother"
+      },
+      "language": "vi",
+      "choices": [
+        "bà",
+        "mẹ",
+        "chị"
+      ],
+      "answer": "mẹ",
+      "word": "mẹ"
+    },
+    "id": "32c51432-68e3-441a-a9aa-42f7a9e30a6d",
+    "createdAt": "2025-03-12T16:11:16.196Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "mother",
+  "notes_md": "**mẹ** = mother. It’s the normal, everyday word for your mom.\n\nIt’s a noun. You usually say **mẹ + possessive** like *mẹ tôi, mẹ em*, or just use *mẹ* alone when talking within the family. You don’t need a classifier in most cases.\n\nCommon pairing: **bố mẹ** = parents.  \n\nIn the South, people often say **má** instead of *mẹ* — same meaning, just regional.",
+  "rank": 186,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:11:16.196Z",
+    "id": "713821a8-50ee-4987-8e40-e1f724f055a8",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I love my mother."
+      },
+      "translatedAnswer": {
+        "en": "mother"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "mẹ",
+      "word": "mẹ",
+      "sentence": "Tôi yêu ___ của tôi."
+    },
+    "updatedAt": "2025-03-12T16:11:16.196Z"
+  },
+  "word": "mẹ",
+  "_id": "pMejwblM2blKm2KduQWh"
+}

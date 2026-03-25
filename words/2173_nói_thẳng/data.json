@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Me gusta cuando hablas directamente conmigo.",
+      "vi": "Tôi thích bạn nói thẳng với tôi.",
+      "en": "I like it when you speak frankly with me."
+    },
+    "translations": {
+      "en": "to speak frankly",
+      "vi": "nói thẳng",
+      "es": "hablar directamente"
+    },
+    "createdAt": "2025-01-28T10:41:03.355Z",
+    "definitions": {
+      "vi": "Nói một cách trực tiếp hoặc thẳng thắn mà không vòng vo.",
+      "en": "To speak directly or frankly without beating around the bush.",
+      "es": "Hablar directamente o con franqueza sin rodeos."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "say directly",
+  "rank": 2173,
+  "exampleSentences": [
+    "Anh có thể nói thẳng với em nếu anh không thích điều gì.",
+    "Chị ấy luôn nói thẳng suy nghĩ của mình trong các cuộc họp.",
+    "Bạn bè tốt là người dám nói thẳng khi em sai."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:57:46.172Z",
+    "updatedAt": "2025-03-12T12:57:46.172Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b38687cb-03d2-4bb9-9ac0-741489a0ccfb",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "nói dối",
+        "nói thẳng",
+        "nói nhẹ nhàng"
+      ],
+      "translation": {
+        "en": "He always speaks frankly with friends."
+      },
+      "hint": "n___h",
+      "word": "nói thẳng",
+      "translatedAnswer": {
+        "en": "speaks frankly"
+      },
+      "language": "vi",
+      "sentence": "Anh ấy luôn ___ với bạn bè.",
+      "answer": "nói thẳng"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nói thẳng",
+  "notes": "nói thẳng = to say something directly, honestly, without sugarcoating. It can feel blunt, but it’s usually about being straightforward.\n\nIt’s a verb phrase. You often use it when giving opinions, criticism, or personal feelings. It can sound brave, honest, or sometimes a bit harsh depending on tone.\n\nClose idea: nói thật (tell the truth) — softer and more about honesty. Opposite vibe: nói vòng vo (beat around the bush).",
+  "choices": [
+    "nói thẳng",
+    "nói dối",
+    "nói nhỏ"
+  ],
+  "notes_md": "**nói thẳng** = to say something directly, honestly, without sugarcoating. It can feel blunt, but it’s usually about being straightforward.\n\nIt’s a verb phrase. You often use it when giving opinions, criticism, or personal feelings. It can sound brave, honest, or sometimes a bit harsh depending on tone.\n\n\nClose idea: **nói thật** (tell the truth) — softer and more about honesty. Opposite vibe: **nói vòng vo** (beat around the bush).",
+  "exampleSentencesTranslated": [
+    "You can say directly to me if you don't like something.",
+    "She always says directly her thoughts in meetings.",
+    "A good friend is someone who dares to say directly when you are wrong."
+  ],
+  "updatedAt": "2026-03-03T10:07:48.100Z",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to speak frankly my opinion."
+      },
+      "translatedAnswer": {
+        "en": "speak frankly"
+      },
+      "language": "vi",
+      "word": "nói thẳng",
+      "sentence": "Tôi muốn ___ ý kiến của mình.",
+      "answer": "nói thẳng"
+    },
+    "type": "fillBlankQuiz",
+    "id": "a0c959ba-b333-4919-89ad-4ca7bdb57086",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T12:57:46.172Z",
+    "updatedAt": "2025-03-12T12:57:46.172Z"
+  },
+  "_id": "2F3zhx31b13ScQNTjgrw"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:18:35.761Z",
+    "definitions": {
+      "es": "El número total de personas que viven en un área específica.",
+      "vi": "Tổng số người sống trong một khu vực cụ thể.",
+      "en": "The total number of people living in a specific area."
+    },
+    "example": {
+      "vi": "Dân số Việt Nam đang tăng nhanh.",
+      "en": "The population of Vietnam is growing rapidly.",
+      "es": "La población de Vietnam está creciendo rápidamente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "población",
+      "vi": "dân số",
+      "en": "population"
+    }
+  },
+  "exampleSentences": [
+    "Dân số của thành phố này đang tăng rất nhanh trong năm nay.",
+    "Chị muốn biết dân số của Việt Nam là bao nhiêu không?",
+    "Nếu dân số tiếp tục tăng, chúng ta cần nhiều trường học hơn."
+  ],
+  "notes_md": "**Dân số** means *population* — the number of people living in a place (city, country, region).  \n\nIt’s an uncountable noun, so you don’t say *một dân số*; you usually say **dân số + của + place**.  \n\nCommon pairings: **tăng dân số** (population increase), **giảm dân số** (population decrease), **mật độ dân số** (population density).  \n\nIt’s mostly used in social, economic, or news contexts rather than casual daily talk.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "88abdb9b-baa5-42ea-8997-96b707f52c25",
+    "createdAt": "2025-03-12T14:44:27.003Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Việt Nam có ___ lớn.",
+      "translatedAnswer": {
+        "en": "population"
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "dân số",
+      "translation": {
+        "en": "Vietnam has a large population."
+      },
+      "answer": "dân số"
+    },
+    "updatedAt": "2025-03-12T14:44:27.003Z"
+  },
+  "definition": "population",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 1927,
+  "exampleSentencesTranslated": [
+    "The population of this city is increasing very quickly this year.",
+    "Do you want to know what the population of Vietnam is?",
+    "If the population keeps increasing, we will need more schools."
+  ],
+  "word": "dân số",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:44:27.003Z",
+    "content": {
+      "hint": "d___ số",
+      "translation": {
+        "en": "This city has a high population."
+      },
+      "answer": "dân số",
+      "word": "dân số",
+      "choices": [
+        "dân số",
+        "quốc gia",
+        "khu vực"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "population"
+      },
+      "sentence": "Thành phố này có ___ cao."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "f7bc54e0-8c29-4cf2-858e-cd5204f5065e",
+    "createdAt": "2025-03-12T14:44:27.003Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T09:41:55.417Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "dân số",
+    "kinh tế",
+    "diện tích"
+  ],
+  "notes": "Dân số means population — the number of people living in a place (city, country, region).  \n\nIt’s an uncountable noun, so you don’t say một dân số; you usually say dân số + của + place.  \n\nCommon pairings: tăng dân số (population increase), giảm dân số (population decrease), mật độ dân số (population density).  \n\nIt’s mostly used in social, economic, or news contexts rather than casual daily talk.",
+  "_id": "Sq5GRkQXIbPgoRzvIfMH"
+}

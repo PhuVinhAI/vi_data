@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:09:47.434Z",
+    "updatedAt": "2025-03-12T15:09:47.434Z",
+    "content": {
+      "hint": "h___ trợ",
+      "answer": "hỗ trợ",
+      "word": "hỗ trợ",
+      "language": "vi",
+      "sentence": "Chúng tôi cần ___ từ bạn.",
+      "translation": {
+        "en": "We need support from you."
+      },
+      "choices": [
+        "hỗ trợ",
+        "giúp đỡ",
+        "hỗn loạn"
+      ],
+      "translatedAnswer": {
+        "en": "support"
+      }
+    },
+    "id": "89c001a4-02c2-4f4a-9645-40fdfa9c807d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hỗ trợ",
+  "notes": "hỗ trợ = to support, assist, help someone with something. It’s a bit more formal and organized than giúp.\n\nYou use it when talking about work, projects, services, money, or technical help.  \n\nIt often appears as the noun sự hỗ trợ (the support).  \nClose to giúp / trợ giúp, but hỗ trợ sounds more professional or official.",
+  "exampleSentences": [
+    "Anh luôn sẵn sàng hỗ trợ em khi gặp khó khăn trong công việc.",
+    "Chị cần hỗ trợ từ đồng nghiệp để hoàn thành dự án đúng hạn.",
+    "Em cảm thấy tự tin hơn nhờ có sự hỗ trợ của gia đình."
+  ],
+  "choices": [
+    "giúp đỡ",
+    "hỗ trợ",
+    "khuyến khích"
+  ],
+  "rank": 651,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**hỗ trợ** = to support, assist, help someone with something. It’s a bit more formal and organized than *giúp*.\n\nYou use it when talking about work, projects, services, money, or technical help.  \n\nIt often appears as the noun **sự hỗ trợ** (the support).  \nClose to **giúp / trợ giúp**, but *hỗ trợ* sounds more professional or official.",
+  "definition": "support",
+  "exampleSentencesTranslated": [
+    "You are always ready to support me when I have difficulties at work.",
+    "She needs support from colleagues to finish the project on time.",
+    "I feel more confident thanks to the support of my family."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:09:47.434Z",
+    "content": {
+      "sentence": "Chúng tôi cần ___ từ bạn.",
+      "word": "hỗ trợ",
+      "language": "vi",
+      "answer": "hỗ trợ",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "support"
+      },
+      "translation": {
+        "en": "We need support from you."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:09:47.434Z",
+    "id": "8da64565-6b48-40ba-8dd5-82314ea74c18"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:26:51.478Z",
+  "flashcard": {
+    "translations": {
+      "en": "support",
+      "es": "apoyo",
+      "vi": "hỗ trợ"
+    },
+    "example": {
+      "en": "We will support you in this project.",
+      "es": "Te apoyaremos en este proyecto.",
+      "vi": "Chúng tôi sẽ hỗ trợ bạn trong dự án này."
+    },
+    "createdAt": "2025-01-28T12:44:19.468Z",
+    "definitions": {
+      "en": "To give assistance or help.",
+      "es": "Dar asistencia o ayuda.",
+      "vi": "Cung cấp sự trợ giúp hoặc hỗ trợ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "ZfhwRfsPn7SeNxRtvQv7"
+}

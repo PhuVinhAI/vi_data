@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you help me connect this device to wifi?",
+    "I just bought a new device to study English more effectively.",
+    "When the device has a problem, you should report it to the technical department immediately."
+  ],
+  "updatedAt": "2026-03-03T09:27:12.139Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cần mua một thiết bị mới cho công việc.",
+      "en": "I need to buy a new device for work.",
+      "es": "Necesito comprar un nuevo dispositivo para el trabajo."
+    },
+    "translations": {
+      "vi": "thiết bị",
+      "es": "dispositivo",
+      "en": "device"
+    },
+    "createdAt": "2025-01-28T13:53:11.151Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un dispositivo o equipo utilizado para un propósito específico.",
+      "en": "A device or equipment used for a specific purpose.",
+      "vi": "Một thiết bị hoặc dụng cụ được sử dụng cho một mục đích cụ thể."
+    }
+  },
+  "choices": [
+    "thiết bị",
+    "phần mềm",
+    "máy tính"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh có thể giúp em kết nối thiết bị này với wifi không?",
+    "Chị mới mua một thiết bị mới để học tiếng Anh hiệu quả hơn.",
+    "Khi thiết bị gặp sự cố, em nên báo cho bộ phận kỹ thuật ngay."
+  ],
+  "notes": "Thiết bị means device or equipment — a physical thing you use for a specific purpose (like a phone, machine, or tool).\n\nIt’s a countable noun: một thiết bị, hai thiết bị, các thiết bị. Common pairings: thiết bị điện tử (electronic device), thiết bị y tế (medical equipment), thiết bị di động (mobile device), lắp đặt thiết bị (install equipment), sử dụng thiết bị (use a device).\n\nIt’s more formal and technical than đồ (stuff). Sometimes close to máy (machine), but máy is usually one specific machine, while thiết bị is broader.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thiết bị",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:22:26.693Z",
+    "id": "b7d7c19c-161b-42ae-afb5-3e8d66fef1bc",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "thiết bị",
+      "language": "vi",
+      "answer": "thiết bị",
+      "translation": {
+        "en": "We need new equipment for the project."
+      },
+      "translatedAnswer": {
+        "en": "equipment"
+      },
+      "sentence": "Chúng tôi cần ___ mới cho dự án."
+    },
+    "updatedAt": "2025-03-12T16:22:26.693Z"
+  },
+  "definition": "device",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:22:26.693Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "1f7e2c65-1ae2-4bf1-b84b-ec4eedf3900d",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng tôi sử dụng ___ để làm việc.",
+      "translatedAnswer": {
+        "en": "equipment"
+      },
+      "translation": {
+        "en": "We use equipment to work."
+      },
+      "hint": "t__t_b__",
+      "word": "thiết bị",
+      "answer": "thiết bị",
+      "language": "vi",
+      "choices": [
+        "công cụ",
+        "thiết bị",
+        "vật liệu"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:22:26.693Z"
+  },
+  "rank": 1786,
+  "notes_md": "**Thiết bị** means *device* or *equipment* — a physical thing you use for a specific purpose (like a phone, machine, or tool).\n\nIt’s a countable noun: *một thiết bị*, *hai thiết bị*, *các thiết bị*. Common pairings: *thiết bị điện tử* (electronic device), *thiết bị y tế* (medical equipment), *thiết bị di động* (mobile device), *lắp đặt thiết bị* (install equipment), *sử dụng thiết bị* (use a device).\n\nIt’s more formal and technical than *đồ* (stuff). Sometimes close to *máy* (machine), but *máy* is usually one specific machine, while *thiết bị* is broader.",
+  "_id": "rvppxypN6tlHFPjMzHcm"
+}

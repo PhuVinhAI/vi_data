@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:03:48.159Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:50:20.972Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "popular"
+      },
+      "word": "phổ biến",
+      "sentence": "Sản phẩm này rất ___ trong thị trường.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "This product is very popular in the market."
+      },
+      "answer": "phổ biến"
+    },
+    "createdAt": "2025-03-12T13:50:20.972Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "6d44521e-4f7b-4531-ab8b-ca8642fd2f29",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Phổ biến means popular or widely used/known. It describes something that many people like, use, or know about.\n\nIt’s an adjective, so it comes after rất / khá / ngày càng / trở nên. You can use it for trends, products, ideas, diseases, habits, etc.  \n\nClose synonym: thịnh hành (more about trends or fashion). Opposite idea: hiếm (rare).",
+  "exampleSentencesTranslated": [
+    "This movie is very popular in Vietnam so many people have seen it.",
+    "Iced milk coffee is a popular drink among young people.",
+    "I see that this song is becoming popular on social media."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Widely known or prevalent.",
+      "vi": "Được biết đến rộng rãi hoặc phổ biến.",
+      "es": "Ampliamente conocido o prevalente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:28:22.463Z",
+    "example": {
+      "es": "La tecnología de la información es muy común hoy en día.",
+      "vi": "Công nghệ thông tin ngày nay rất phổ biến.",
+      "en": "Information technology is very common today."
+    },
+    "translations": {
+      "en": "common",
+      "vi": "phổ biến",
+      "es": "común"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "0a55b2e4-1880-48d9-aeb3-ac493faeb567",
+    "updatedAt": "2025-03-12T13:50:20.972Z",
+    "content": {
+      "sentence": "Sản phẩm này rất ___ trong thị trường.",
+      "word": "phổ biến",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "popular"
+      },
+      "translation": {
+        "en": "This product is very popular in the market."
+      },
+      "answer": "phổ biến",
+      "choices": [
+        "thông dụng",
+        "phổ biến",
+        "hiếm có"
+      ],
+      "hint": "p____n"
+    },
+    "createdAt": "2025-03-12T13:50:20.972Z"
+  },
+  "notes_md": "**Phổ biến** means *popular* or *widely used/known*. It describes something that many people like, use, or know about.\n\nIt’s an adjective, so it comes after **rất / khá / ngày càng / trở nên**. You can use it for trends, products, ideas, diseases, habits, etc.  \n\n\nClose synonym: **thịnh hành** (more about trends or fashion). Opposite idea: **hiếm** (rare).",
+  "rank": 1566,
+  "exampleSentences": [
+    "Phim này rất phổ biến ở Việt Nam nên nhiều người đã xem.",
+    "Cà phê sữa đá là một loại đồ uống phổ biến trong giới trẻ.",
+    "Anh thấy bài hát này đang trở nên phổ biến trên mạng xã hội."
+  ],
+  "word": "phổ biến",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "popular",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "phổ biến",
+    "khó hiểu",
+    "đặc biệt"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Fw6e0AbTaMQ1IN5kmrFz"
+}

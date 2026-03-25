@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "grape",
+      "vi": "nho",
+      "es": "uva"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I like to eat grapes in the summer.",
+      "vi": "Tôi thích ăn nho vào mùa hè.",
+      "es": "Me gusta comer uvas en verano."
+    },
+    "definitions": {
+      "en": "A small, round fruit that grows in bunches and is typically sweet.",
+      "vi": "Một loại trái cây nhỏ, hình tròn, thường mọc thành chùm và thường có vị ngọt.",
+      "es": "Una fruta pequeña y redonda que crece en racimos y es típicamente dulce."
+    },
+    "createdAt": "2025-01-28T12:23:58.646Z"
+  },
+  "notes_md": "**nho** = grape (the fruit).\n\nIt’s a noun. Count it with **một quả nho** (North) or **một trái nho** (South); a bunch is **một chùm nho**.  \n\nCommon pairings: **nho xanh, nho đỏ, nho tím** (green/red/purple grapes) and **nho khô** = raisins (dried grapes).  \nIf you want to be specific, add origin like **nho Mỹ, nho Úc** for imported grapes.",
+  "exampleSentences": [
+    "Em thích ăn nho vào buổi sáng cùng với sữa chua.",
+    "Chị mua một chùm nho tươi ở chợ về cho cả nhà.",
+    "Anh có thể giúp em rửa nho trước khi ăn không?"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:50:19.504Z",
+    "id": "faa952b4-32f2-43e1-b36d-d1002b4778de",
+    "content": {
+      "translation": {
+        "en": "I like to eat grapes."
+      },
+      "answer": "nho",
+      "choices": [],
+      "word": "nho",
+      "sentence": "Tôi thích ăn ___ chín.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "grapes"
+      }
+    },
+    "updatedAt": "2025-03-12T14:50:19.504Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "grape",
+  "word": "nho",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "05fae928-ee1c-4da6-bc73-bda43c907673",
+    "createdAt": "2025-03-12T14:50:19.504Z",
+    "updatedAt": "2025-03-12T14:50:19.504Z",
+    "content": {
+      "word": "nho",
+      "choices": [
+        "táo",
+        "nho",
+        "cam"
+      ],
+      "translation": {
+        "en": "The fruit I like is grapes."
+      },
+      "answer": "nho",
+      "hint": "n__o",
+      "sentence": "Trái cây mà tôi thích là ___.",
+      "translatedAnswer": {
+        "en": "grapes"
+      },
+      "language": "vi"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I like to eat grape in the morning with yogurt.",
+    "She bought a bunch of fresh grape at the market for the whole family.",
+    "Can you help me wash grape before eating?"
+  ],
+  "rank": 2170,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:07:29.991Z",
+  "choices": [
+    "nho",
+    "chuối",
+    "cam"
+  ],
+  "notes": "nho = grape (the fruit).\n\nIt’s a noun. Count it with một quả nho (North) or một trái nho (South); a bunch is một chùm nho.  \n\nCommon pairings: nho xanh, nho đỏ, nho tím (green/red/purple grapes) and nho khô = raisins (dried grapes).  \nIf you want to be specific, add origin like nho Mỹ, nho Úc for imported grapes.",
+  "_id": "UDedfVKY1tBJSzW2HzWK"
+}

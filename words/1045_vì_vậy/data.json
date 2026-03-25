@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-03-03T08:07:27.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1045,
+  "exampleSentencesTranslated": [
+    "He forgot to bring an umbrella, therefore he got wet when it rained.",
+    "She has a sore throat, therefore she cannot come to class today.",
+    "I finished my homework, therefore I can rest."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "v___i",
+      "translation": {
+        "en": "I have finished studying, therefore I will go to sleep."
+      },
+      "answer": "vì vậy",
+      "word": "vì vậy",
+      "choices": [
+        "bởi vì",
+        "vì vậy",
+        "do đó"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "therefore"
+      },
+      "sentence": "Tôi đã học xong, ___ tôi sẽ đi ngủ."
+    },
+    "updatedAt": "2025-03-12T14:49:32.631Z",
+    "createdAt": "2025-03-12T14:49:32.631Z",
+    "id": "fbde32c0-41a5-4771-848b-51a5808db2bf",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "vì vậy",
+  "notes": "vì vậy means therefore or so — it shows a result from something said before.\n\nIt connects two clauses: reason → result. The first clause gives the cause, and vì vậy introduces the consequence.\n\nIt’s a bit more formal and clear than nên (also “so”), and similar to do đó (more formal). Use it when you want to sound logical and structured.",
+  "choices": [
+    "tuy nhiên",
+    "vì vậy",
+    "cuối cùng"
+  ],
+  "notes_md": "**vì vậy** means *therefore* or *so* — it shows a result from something said before.\n\nIt connects two clauses: reason → result. The first clause gives the cause, and **vì vậy** introduces the consequence.\n\n\nIt’s a bit more formal and clear than **nên** (also “so”), and similar to **do đó** (more formal). Use it when you want to sound logical and structured.",
+  "exampleSentences": [
+    "Anh ấy quên mang ô, vì vậy anh ấy bị ướt khi trời mưa.",
+    "Chị bị đau họng, vì vậy chị không thể đến lớp hôm nay.",
+    "Em đã hoàn thành xong bài tập, vì vậy em có thể nghỉ ngơi."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "It was raining heavily, so we stayed at home.",
+      "vi": "Trời mưa lớn, vì vậy chúng tôi ở nhà."
+    },
+    "definitions": {
+      "en": "A phrase used to indicate the result or consequence of something mentioned earlier.",
+      "vi": "Từ dùng để chỉ kết quả hoặc lý do của một sự việc đã nêu trước đó."
+    },
+    "createdAt": "2025-05-24T16:22:22.672Z",
+    "translations": {
+      "en": "therefore; so"
+    },
+    "audioUrl": "flashcard.mp3",
+    "word": "vì vậy"
+  },
+  "definition": "therefore",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "vì vậy",
+      "answer": "vì vậy",
+      "translation": {
+        "en": "I have finished studying, therefore I will go to sleep."
+      },
+      "sentence": "Tôi đã học xong, ___ tôi sẽ đi ngủ.",
+      "translatedAnswer": {
+        "en": "therefore"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:49:32.631Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:49:32.631Z",
+    "id": "eed29a2b-7cdf-455c-9093-d51d5384d83f"
+  },
+  "_id": "U14WiQEpnJmGmIArdYb8"
+}

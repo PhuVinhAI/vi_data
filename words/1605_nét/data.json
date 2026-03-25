@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:12:04.621Z",
+    "updatedAt": "2025-03-12T13:12:04.621Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b669fee8-1e08-4947-8199-5f226e7abd98",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bức tranh này có ___ đẹp.",
+      "answer": "nét",
+      "translation": {
+        "en": "This painting has a beautiful feature."
+      },
+      "choices": [
+        "nét",
+        "màu",
+        "đường"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "feature"
+      },
+      "word": "nét",
+      "hint": "n__t"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Cô giáo hướng dẫn em cách viết từng nét trong chữ Hán.",
+    "Bức tranh này có nhiều nét vẽ rất tinh tế và đẹp mắt.",
+    "Anh thích ngắm nhìn những nét đặc biệt trên khuôn mặt của em."
+  ],
+  "rank": 1605,
+  "definition": "stroke",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:53:16.451Z",
+    "definitions": {
+      "vi": "Một đường hoặc nét vẽ xác định hình dạng hoặc đường viền của một cái gì đó.",
+      "en": "A line or stroke that defines the shape or outline of something.",
+      "es": "Una línea o trazo que define la forma o contorno de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "This painting has many beautiful features.",
+      "vi": "Bức tranh này có nhiều nét đẹp.",
+      "es": "Esta pintura tiene muchas características hermosas."
+    },
+    "translations": {
+      "es": "característica",
+      "vi": "nét",
+      "en": "feature"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nét",
+    "bút",
+    "dòng"
+  ],
+  "notes": "Nét means a stroke — one line made by a pen or brush. It’s also used for a feature or a small visible detail.\n\nAs a noun, you can say một nét, những nét, often in phrases like nét chữ (handwriting stroke), nét vẽ (drawing line), nét mặt (facial feature), đường nét (contours/lines). It often highlights something small but noticeable.\n\nIt can also mean a slight trace of something, like a hint of emotion or character (một nét buồn, nét riêng).\n\nThink of it as one small line → then extend that idea to one small detail or distinguishing feature.",
+  "word": "nét",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "The teacher guides me how to write each stroke in Chinese characters.",
+    "This painting has many strokes that are very delicate and beautiful.",
+    "I like to look at the special strokes on your face."
+  ],
+  "notes_md": "**Nét** means a *stroke* — one line made by a pen or brush. It’s also used for a *feature* or a small visible detail.\n\nAs a noun, you can say *một nét*, *những nét*, often in phrases like *nét chữ* (handwriting stroke), *nét vẽ* (drawing line), *nét mặt* (facial feature), *đường nét* (contours/lines). It often highlights something small but noticeable.\n\nIt can also mean a slight trace of something, like a hint of emotion or character (*một nét buồn*, *nét riêng*).\n\nThink of it as one small line → then extend that idea to one small detail or distinguishing feature.",
+  "fillBlankQuiz": {
+    "id": "19888e12-6424-4309-a74b-a492a67fac2b",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This painting has a beautiful feature."
+      },
+      "choices": [],
+      "word": "nét",
+      "translatedAnswer": {
+        "en": "feature"
+      },
+      "language": "vi",
+      "sentence": "Bức tranh này có ___ đẹp.",
+      "answer": "nét"
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:12:04.621Z",
+    "updatedAt": "2025-03-12T13:12:04.621Z"
+  },
+  "updatedAt": "2026-03-03T09:07:47.770Z",
+  "_id": "5usXF23Z5RiiS88vgRjx"
+}

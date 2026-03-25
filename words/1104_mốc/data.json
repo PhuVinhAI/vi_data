@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Bánh mì để lâu trong tủ lạnh bị mốc rồi, em đừng ăn nhé.",
+    "Nếu quần áo chưa khô mà gấp lại sẽ dễ bị mốc lắm.",
+    "Chị phát hiện có mốc trên tường phòng ngủ nên phải lau sạch ngay."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "milestone"
+      },
+      "answer": "mốc",
+      "choices": [],
+      "sentence": "Tôi đã đánh dấu ___ trên bản đồ.",
+      "language": "vi",
+      "translation": {
+        "en": "I marked a milestone on the map."
+      },
+      "word": "mốc"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "74494560-f85a-4467-a757-da07f299f6cd",
+    "createdAt": "2025-03-12T16:03:09.657Z",
+    "updatedAt": "2025-03-12T16:03:09.657Z"
+  },
+  "choices": [
+    "mốc",
+    "mắm",
+    "móc"
+  ],
+  "rank": 1104,
+  "definition": "mold",
+  "notes": "mốc = mold, the green/black stuff that grows on old or wet things like food, clothes, walls. It’s a noun and usually uncountable in daily use.\n\nYou often hear bị mốc (get moldy) or lên mốc (mold appears). A related word is mốc meo = very moldy, in bad condition.\n\nVery common second meaning: mốc = a milestone or important point in time (like a key date or stage).",
+  "notes_md": "**mốc** = mold, the green/black stuff that grows on old or wet things like food, clothes, walls. It’s a noun and usually uncountable in daily use.\n\nYou often hear **bị mốc** (get moldy) or **lên mốc** (mold appears). A related word is **mốc meo** = very moldy, in bad condition.\n\nVery common second meaning: **mốc** = a milestone or important point in time (like a key date or stage).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "b0ae276a-ebf4-4685-aa06-0d19a2fedcc0",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We need to set a milestone for the project."
+      },
+      "word": "mốc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "milestone"
+      },
+      "answer": "mốc",
+      "sentence": "Chúng ta cần đặt ___ cho dự án.",
+      "choices": [
+        "mốc",
+        "điểm",
+        "thời hạn"
+      ],
+      "hint": "m__"
+    },
+    "updatedAt": "2025-03-12T16:03:09.657Z",
+    "createdAt": "2025-03-12T16:03:09.657Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mốc",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mốc",
+      "en": "milestone",
+      "es": "hito"
+    },
+    "createdAt": "2025-01-28T13:34:46.818Z",
+    "definitions": {
+      "vi": "Một điểm hoặc sự kiện quan trọng trong một quá trình hoặc dòng thời gian.",
+      "en": "A significant point or event in a process or timeline.",
+      "es": "Un punto o evento significativo en un proceso o línea de tiempo."
+    },
+    "example": {
+      "vi": "Cái mốc này giúp tôi nhớ ngày sinh nhật.",
+      "en": "This milestone helps me remember my birthday.",
+      "es": "Este hito me ayuda a recordar mi cumpleaños."
+    }
+  },
+  "updatedAt": "2026-03-03T08:13:41.277Z",
+  "exampleSentencesTranslated": [
+    "The bread left in the fridge for a long time has mold, so don't eat it.",
+    "If you fold clothes that aren't dry yet, they will easily get mold.",
+    "She found mold on the bedroom wall, so she had to clean it immediately."
+  ],
+  "_id": "mwsQogznUK8eWmJWOzP1"
+}

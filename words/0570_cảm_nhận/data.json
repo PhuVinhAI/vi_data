@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "To perceive or feel something through the senses.",
+      "vi": "Cảm nhận một cái gì đó qua các giác quan.",
+      "es": "Percibir o sentir algo a través de los sentidos."
+    },
+    "example": {
+      "en": "I can feel the change in the atmosphere.",
+      "vi": "Tôi cảm nhận được sự thay đổi trong không khí.",
+      "es": "Puedo sentir el cambio en la atmósfera."
+    },
+    "translations": {
+      "en": "to feel",
+      "vi": "cảm nhận",
+      "es": "sentir"
+    },
+    "createdAt": "2025-01-28T10:59:38.287Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "feeling",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:19:14.872Z",
+    "type": "fillBlankQuiz",
+    "id": "08af1ec7-5ce3-46ed-9e77-dec6b9f113ae",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:19:14.872Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "feel"
+      },
+      "translation": {
+        "en": "I want to feel my emotions."
+      },
+      "answer": "cảm nhận",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi muốn ___ cảm xúc của mình.",
+      "word": "cảm nhận"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you share your feeling about this movie?",
+    "He always listens to the feeling of others before giving his opinion.",
+    "I like to write a diary to record my feeling each day."
+  ],
+  "exampleSentences": [
+    "Chị có thể chia sẻ cảm nhận của mình về bộ phim này không?",
+    "Anh ấy luôn lắng nghe cảm nhận của người khác trước khi đưa ra ý kiến.",
+    "Em thích viết nhật ký để ghi lại cảm nhận mỗi ngày."
+  ],
+  "updatedAt": "2026-03-03T07:19:06.698Z",
+  "notes": "cảm nhận = a feeling or personal perception about something (often after you see, hear, or experience it). It’s your inner reaction or opinion from the heart/mind.\n\nIt’s a noun. You can say một cảm nhận, những cảm nhận, and it’s often used with verbs like chia sẻ, bày tỏ, có.  \n\nClose to cảm giác (physical feeling or sensation), but cảm nhận is more about thoughts + emotional impressions together.",
+  "rank": 570,
+  "choices": [
+    "cảm nhận",
+    "giải thích",
+    "kết luận"
+  ],
+  "notes_md": "**cảm nhận** = a feeling or personal perception about something (often after you see, hear, or experience it). It’s your inner reaction or opinion from the heart/mind.\n\nIt’s a noun. You can say *một cảm nhận*, *những cảm nhận*, and it’s often used with verbs like *chia sẻ*, *bày tỏ*, *có*.  \n\n\nClose to **cảm giác** (physical feeling or sensation), but *cảm nhận* is more about thoughts + emotional impressions together.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:19:14.872Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "feel"
+      },
+      "translation": {
+        "en": "I cannot feel the difference."
+      },
+      "answer": "cảm nhận",
+      "hint": "c___n",
+      "choices": [
+        "cảm nhận",
+        "chạm",
+        "nghe"
+      ],
+      "sentence": "Tôi không thể ___ được sự khác biệt.",
+      "language": "vi",
+      "word": "cảm nhận"
+    },
+    "createdAt": "2025-03-12T13:19:14.872Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "3f582dba-1991-4571-9f1a-472079884dab",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "cảm nhận",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "88H52Bo1OtlStoiJLe7k"
+}

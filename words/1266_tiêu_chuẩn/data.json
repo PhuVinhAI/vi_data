@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:30:41.765Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "678c99ca-c968-478b-8088-9623a66e4a55",
+    "content": {
+      "word": "tiêu chuẩn",
+      "sentence": "Sản phẩm này đạt ___ cao.",
+      "choices": [],
+      "answer": "tiêu chuẩn",
+      "translation": {
+        "en": "This product meets high standards."
+      },
+      "translatedAnswer": {
+        "en": "standards"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:30:41.765Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "standard",
+  "rank": 1266,
+  "notes_md": "**tiêu chuẩn** = standard; a level or rule used to judge quality, safety, ability, etc.  \nIt’s a noun. You can say *một tiêu chuẩn*, *các tiêu chuẩn* (often used in plural like “criteria”).  \n\nCommon verbs: *đạt*, *không đạt*, *đáp ứng*, *đặt ra*, *tuân theo* + tiêu chuẩn.  \n\nClose synonym: **chuẩn** (shorter, more casual). **Quy chuẩn** is more official/technical.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "tiêu chuẩn",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "This company has a very high standard for product quality.",
+    "You must meet the standard to get this job.",
+    "I am learning about the safety standard in construction."
+  ],
+  "updatedAt": "2026-03-03T08:30:49.986Z",
+  "exampleSentences": [
+    "Công ty này có tiêu chuẩn rất cao về chất lượng sản phẩm.",
+    "Chị phải đạt tiêu chuẩn mới được nhận vào công việc này.",
+    "Anh đang tìm hiểu về tiêu chuẩn an toàn trong xây dựng."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "standards"
+      },
+      "choices": [
+        "tiêu chuẩn",
+        "quy định",
+        "điều kiện"
+      ],
+      "answer": "tiêu chuẩn",
+      "translation": {
+        "en": "This product meets high standards."
+      },
+      "language": "vi",
+      "word": "tiêu chuẩn",
+      "hint": "t___n",
+      "sentence": "Sản phẩm này đạt ___ cao."
+    },
+    "updatedAt": "2025-03-12T16:30:41.765Z",
+    "id": "a8a21d5a-6a88-448f-9d92-7a740f961391",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:30:41.765Z"
+  },
+  "choices": [
+    "tiêu chuẩn",
+    "mục tiêu",
+    "kế hoạch"
+  ],
+  "notes": "tiêu chuẩn = standard; a level or rule used to judge quality, safety, ability, etc.  \nIt’s a noun. You can say một tiêu chuẩn, các tiêu chuẩn (often used in plural like “criteria”).  \n\nCommon verbs: đạt, không đạt, đáp ứng, đặt ra, tuân theo + tiêu chuẩn.  \n\nClose synonym: chuẩn (shorter, more casual). Quy chuẩn is more official/technical.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:01:46.056Z",
+    "translations": {
+      "vi": "tiêu chuẩn",
+      "es": "estándar",
+      "en": "standard"
+    },
+    "definitions": {
+      "es": "Un nivel de calidad o logro.",
+      "en": "A level of quality or attainment.",
+      "vi": "Một mức độ chất lượng hoặc thành tựu."
+    },
+    "example": {
+      "vi": "Chúng ta cần tuân thủ tiêu chuẩn chất lượng.",
+      "en": "We need to adhere to the quality standards.",
+      "es": "Necesitamos cumplir con los estándares de calidad."
+    }
+  },
+  "_id": "uDdK2l7UBH3dNgGsEnja"
+}

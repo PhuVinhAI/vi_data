@@ -1,0 +1,99 @@
+{
+  "definition": "poor",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "kém",
+  "exampleSentences": [
+    "Kết quả học tập của anh năm nay khá kém so với năm trước.",
+    "Dịch vụ ở nhà hàng này được nhiều người đánh giá là kém.",
+    "Sức khỏe của bà dạo này yếu và thị lực cũng kém hơn trước."
+  ],
+  "rank": 1650,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "tốt",
+    "kém",
+    "giỏi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "sentence": "Cô ấy ___ trong môn toán.",
+      "word": "kém",
+      "translatedAnswer": {
+        "en": "worse"
+      },
+      "answer": "kém",
+      "translation": {
+        "en": "She is worse in math."
+      },
+      "hint": "k___m",
+      "choices": [
+        "tốt",
+        "kém",
+        "xuất sắc"
+      ]
+    },
+    "createdAt": "2025-03-12T13:59:40.679Z",
+    "updatedAt": "2025-03-12T13:59:40.679Z",
+    "type": "multiChoiceQuiz",
+    "id": "d6687930-ddf2-42bd-83c5-0c8a06244cb3",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**kém** means *poor, weak, not good* in quality or ability. It’s used to describe performance, skills, health, quality, etc.\n\nIt’s an adjective, so it comes after the noun or after “thì/là” in a sentence. You can also use degree words like **rất, khá, hơi** before it.\n\nIt often shows comparison: **kém hơn** = worse than / not as good as.  \n\nFor ability, it can mean “bad at” something. Strong opposites: **giỏi** (good at), **tốt** (good), **mạnh** (strong).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Không tốt; thiếu chất lượng hoặc khả năng.",
+      "es": "No bueno; falta de calidad o habilidad.",
+      "en": "Not good; lacking in quality or ability."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I am bad at English.",
+      "es": "Soy malo en inglés.",
+      "vi": "Tôi kém tiếng Anh."
+    },
+    "createdAt": "2025-01-28T11:37:40.254Z",
+    "translations": {
+      "en": "bad",
+      "vi": "kém",
+      "es": "malo"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "His academic results this year are quite poor compared to last year.",
+    "The service at this restaurant is rated as poor by many people.",
+    "Her health has been weak lately and her eyesight is also poor compared to before."
+  ],
+  "notes": "kém means poor, weak, not good in quality or ability. It’s used to describe performance, skills, health, quality, etc.\n\nIt’s an adjective, so it comes after the noun or after “thì/là” in a sentence. You can also use degree words like rất, khá, hơi before it.\n\nIt often shows comparison: kém hơn = worse than / not as good as.  \n\nFor ability, it can mean “bad at” something. Strong opposites: giỏi (good at), tốt (good), mạnh (strong).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:59:40.679Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I do this exercise worse than that one."
+      },
+      "answer": "kém",
+      "translatedAnswer": {
+        "en": "worse"
+      },
+      "language": "vi",
+      "word": "kém",
+      "sentence": "Tôi làm bài này ___ hơn bài kia."
+    },
+    "createdAt": "2025-03-12T13:59:40.679Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "882dcd55-feb3-4e02-ae00-3f91df1386bd",
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T09:12:28.729Z",
+  "_id": "IhB3Tqt8OxsjXFqcp12b"
+}

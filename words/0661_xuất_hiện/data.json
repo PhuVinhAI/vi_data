@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "xuất hiện",
+    "biến mất",
+    "nghỉ ngơi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "xuất hiện",
+  "exampleSentences": [
+    "Anh ấy thường xuất hiện đúng giờ trong các cuộc họp quan trọng.",
+    "Bỗng nhiên một con mèo đen xuất hiện trước cửa nhà em.",
+    "Nếu có vấn đề, chị hãy xuất hiện ngay để giúp mọi người."
+  ],
+  "rank": 661,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "appear",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "758eb7f0-141f-42ae-a7b1-d0cd3c1b344c",
+    "updatedAt": "2025-03-12T13:52:26.270Z",
+    "createdAt": "2025-03-12T13:52:26.270Z",
+    "content": {
+      "word": "xuất hiện",
+      "sentence": "Mặt trời sẽ ___ vào buổi sáng.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "appear"
+      },
+      "translation": {
+        "en": "The sun will appear in the morning."
+      },
+      "answer": "xuất hiện",
+      "choices": []
+    }
+  },
+  "notes": "xuất hiện = to appear, to show up, to become visible or present. It’s used for people, objects, problems, news, even symptoms.\n\nYou can use it when something wasn’t there before and then suddenly is. It often goes with places, media, or events.\n\nVery common for media: xuất hiện trên TV, trên báo, trên mạng.  \nSimilar: hiện ra (more visual, like something coming into sight), lộ diện (more dramatic). Opposite: biến mất.",
+  "updatedAt": "2026-03-03T07:27:59.689Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:52:26.270Z",
+    "createdAt": "2025-03-12T13:52:26.270Z",
+    "content": {
+      "choices": [
+        "xuất hiện",
+        "biến mất",
+        "tỏa sáng"
+      ],
+      "hint": "x___n",
+      "translation": {
+        "en": "The sun will appear in the morning."
+      },
+      "answer": "xuất hiện",
+      "translatedAnswer": {
+        "en": "appear"
+      },
+      "language": "vi",
+      "sentence": "Mặt trời sẽ ___ vào buổi sáng.",
+      "word": "xuất hiện"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "9c985a82-6601-4199-8e36-b36b088fce37",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**xuất hiện** = to appear, to show up, to become visible or present. It’s used for people, objects, problems, news, even symptoms.\n\nYou can use it when something wasn’t there before and then suddenly is. It often goes with places, media, or events.\n\n\nVery common for media: xuất hiện trên TV, trên báo, trên mạng.  \nSimilar: **hiện ra** (more visual, like something coming into sight), **lộ diện** (more dramatic). Opposite: **biến mất**.",
+  "exampleSentencesTranslated": [
+    "He often appear on time at important meetings.",
+    "Suddenly, a black cat appear in front of my house.",
+    "If there is a problem, you should appear immediately to help everyone."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Trở nên nhìn thấy hoặc xuất hiện.",
+      "es": "Llegar a ser visible o hacerse presente.",
+      "en": "To come into view or become visible."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:30:17.840Z",
+    "example": {
+      "en": "The sun appears after the rain.",
+      "vi": "Mặt trời xuất hiện sau cơn mưa.",
+      "es": "El sol aparece después de la lluvia."
+    },
+    "translations": {
+      "vi": "xuất hiện",
+      "es": "aparecer",
+      "en": "to appear"
+    }
+  },
+  "_id": "GPA4pzdfwGxzWFBYEW9n"
+}

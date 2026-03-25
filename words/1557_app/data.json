@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I use this app to study English every day.",
+    "I just downloaded a new app to manage my work.",
+    "Can you recommend a good app for listening to music?"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:02:43.944Z",
+  "fillBlankQuiz": {
+    "id": "ffb8ab69-33a1-4868-9c6b-592d6951b4cf",
+    "content": {
+      "sentence": "Tôi sử dụng ___ để học tiếng.",
+      "answer": "app",
+      "word": "app",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "app"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I use the app to learn the language."
+      }
+    },
+    "updatedAt": "2025-03-12T15:03:53.536Z",
+    "createdAt": "2025-03-12T15:03:53.536Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "application",
+      "es": "aplicación",
+      "vi": "ứng dụng"
+    },
+    "example": {
+      "en": "I downloaded a new app on my phone.",
+      "es": "Descargué una nueva aplicación en mi teléfono.",
+      "vi": "Tôi đã tải một ứng dụng mới trên điện thoại."
+    },
+    "definitions": {
+      "en": "A software application designed to perform a specific function directly for the user.",
+      "es": "Una aplicación de software diseñada para realizar una función específica directamente para el usuario.",
+      "vi": "Một ứng dụng phần mềm được thiết kế để thực hiện một chức năng cụ thể trực tiếp cho người dùng."
+    },
+    "createdAt": "2025-01-28T12:36:08.266Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**App** in Vietnamese is usually **app** (borrowed from English). It means a mobile or computer application.  \n\nIt’s a countable noun: **một app**, **hai app**. A more formal synonym is **ứng dụng** (you’ll see this in menus or official texts).  \n\nCommon verb pairings: **tải app** (download), **cài app** (install), **xóa app** (delete), **dùng app** (use).  \n\nIn speech, people say **app** a lot; **ứng dụng** sounds more official or written.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "app",
+  "choices": [
+    "app",
+    "bút",
+    "sách"
+  ],
+  "rank": 1557,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "179ad5ef-fca5-494b-9fad-582859b5970c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:03:53.536Z",
+    "updatedAt": "2025-03-12T15:03:53.536Z",
+    "content": {
+      "translation": {
+        "en": "I use the app to learn the language."
+      },
+      "choices": [
+        "app",
+        "apps",
+        "APP"
+      ],
+      "translatedAnswer": {
+        "en": "app"
+      },
+      "word": "app",
+      "language": "vi",
+      "hint": "a___p",
+      "answer": "app",
+      "sentence": "Tôi sử dụng ___ để học tiếng."
+    }
+  },
+  "word": "app",
+  "exampleSentences": [
+    "Em dùng app này để học tiếng Anh mỗi ngày.",
+    "Anh vừa tải một app mới để quản lý công việc.",
+    "Chị có thể giới thiệu cho em một app tốt để nghe nhạc không?"
+  ],
+  "notes": "App in Vietnamese is usually app (borrowed from English). It means a mobile or computer application.  \n\nIt’s a countable noun: một app, hai app. A more formal synonym is ứng dụng (you’ll see this in menus or official texts).  \n\nCommon verb pairings: tải app (download), cài app (install), xóa app (delete), dùng app (use).  \n\nIn speech, people say app a lot; ứng dụng sounds more official or written.",
+  "_id": "XsFDO0xeTnbj0ohSk1Ts"
+}

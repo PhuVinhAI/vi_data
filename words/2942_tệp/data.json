@@ -1,0 +1,99 @@
+{
+  "definition": "file",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có thể gửi cho anh tệp này qua email được không?",
+    "Chị vừa tải xuống một tệp quan trọng từ trang web công ty.",
+    "Anh lưu tất cả các tệp công việc vào một thư mục riêng trên máy tính."
+  ],
+  "rank": 2942,
+  "word": "tệp",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thư mục",
+    "tệp",
+    "hình ảnh"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "en": "A collection of data or information stored under a single name.",
+      "es": "Una colección de datos o información almacenada bajo un solo nombre.",
+      "vi": "Một tập hợp dữ liệu hoặc thông tin được lưu trữ dưới một tên duy nhất."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "file",
+      "es": "archivo",
+      "vi": "tệp"
+    },
+    "createdAt": "2025-01-28T11:20:19.691Z",
+    "example": {
+      "en": "I saved the file on my computer.",
+      "vi": "Tôi đã lưu tệp vào máy tính.",
+      "es": "Guardé el archivo en mi computadora."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you send me this file by email?",
+    "She just downloaded an important file from the company website.",
+    "He saves all work files in a separate folder on the computer."
+  ],
+  "notes_md": "**tệp** = a file, usually a digital file on a computer or phone.\n\nIt’s a noun. You can say *một tệp*, *hai tệp*, *các tệp* (no classifier needed). Very common pairings: *tệp tin* (full form), *tệp đính kèm* (attachment), *mở / lưu / tải lên / tải xuống / xóa tệp*.  \n\nClose synonym: **tệp tin** (same meaning, just more explicit). Don’t confuse with **tập** (notebook, volume).  \n\nUsed mostly for computer files, not physical paper folders (that’s more like *hồ sơ*).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:41:41.800Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "file"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã tải xuống ___ mới.",
+      "word": "tệp",
+      "choices": [
+        "tài liệu",
+        "tệp",
+        "hồ sơ"
+      ],
+      "hint": "t__",
+      "translation": {
+        "en": "I downloaded a new file."
+      },
+      "answer": "tệp"
+    },
+    "updatedAt": "2025-03-12T13:41:41.800Z",
+    "id": "bde60785-71c6-4e5f-a599-b04611a7aabb",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T18:14:54.232Z",
+  "notes": "tệp = a file, usually a digital file on a computer or phone.\n\nIt’s a noun. You can say một tệp, hai tệp, các tệp (no classifier needed). Very common pairings: tệp tin (full form), tệp đính kèm (attachment), mở / lưu / tải lên / tải xuống / xóa tệp.  \n\nClose synonym: tệp tin (same meaning, just more explicit). Don’t confuse with tập (notebook, volume).  \n\nUsed mostly for computer files, not physical paper folders (that’s more like hồ sơ).",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "tệp",
+      "translation": {
+        "en": "I downloaded a new file."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi đã tải xuống ___ mới.",
+      "word": "tệp",
+      "translatedAnswer": {
+        "en": "file"
+      }
+    },
+    "createdAt": "2025-03-12T13:41:41.800Z",
+    "updatedAt": "2025-03-12T13:41:41.800Z",
+    "id": "f0f0efde-5a42-4c43-99f2-82880a917355",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "DqhzzZsIEryyCRehdG4r"
+}

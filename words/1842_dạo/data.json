@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:32:57.695Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "dạo",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:48:10.602Z",
+    "content": {
+      "word": "dạo",
+      "choices": [
+        "chơi",
+        "dạo",
+        "đi bộ"
+      ],
+      "hint": "d___",
+      "answer": "dạo",
+      "translation": {
+        "en": "We will go for a walk in the afternoon."
+      },
+      "translatedAnswer": {
+        "en": "walk"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta sẽ đi ___ vào buổi chiều."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "5ba5bda6-c34b-4578-b02a-047bf0de5b9e",
+    "createdAt": "2025-03-12T14:48:10.602Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 1842,
+  "exampleSentencesTranslated": [
+    "He often invites me to walk around the park in the evening.",
+    "She likes to walk along the beach when it is cool.",
+    "I and my friends often walk on the street after school."
+  ],
+  "notes": "dạo most often appears in đi dạo = to take a walk, to stroll around for fun or relaxation. It’s about light, casual walking — not exercise or going somewhere with a goal.\n\nYou almost always use it with đi in daily speech.  \n\nVery common extra meaning: dạo này = “these days / recently,” talking about a current period of time. Also dạo trước = “some time ago.”\n\nClose idea: tản bộ (more formal, written style).",
+  "choices": [
+    "dạo",
+    "chạy",
+    "ngủ"
+  ],
+  "exampleSentences": [
+    "Anh thường rủ em đi dạo quanh công viên vào buổi tối.",
+    "Chị thích đi dạo dọc bờ biển khi trời mát mẻ.",
+    "Em và bạn bè hay đi dạo phố sau giờ học."
+  ],
+  "notes_md": "**dạo** most often appears in **đi dạo** = to take a walk, to stroll around for fun or relaxation. It’s about light, casual walking — not exercise or going somewhere with a goal.\n\nYou almost always use it with **đi** in daily speech.  \n\nVery common extra meaning: **dạo này** = “these days / recently,” talking about a current period of time. Also **dạo trước** = “some time ago.”\n\nClose idea: **tản bộ** (more formal, written style).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "stroll",
+      "vi": "dạo",
+      "es": "paseo"
+    },
+    "createdAt": "2025-01-28T12:22:16.443Z",
+    "definitions": {
+      "en": "to stroll or walk leisurely",
+      "vi": "đi bộ một cách thư giãn",
+      "es": "pasear o caminar de manera relajada"
+    },
+    "example": {
+      "vi": "Tôi thích dạo quanh công viên vào buổi chiều.",
+      "en": "I like to stroll around the park in the afternoon.",
+      "es": "Me gusta pasear por el parque por la tarde."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "walk",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "42971e22-212e-40a1-b4cc-f4a1c1563a52",
+    "createdAt": "2025-03-12T14:48:10.602Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "walk"
+      },
+      "sentence": "Chúng ta sẽ đi ___ một vòng quanh công viên.",
+      "translation": {
+        "en": "We will go for a walk around the park."
+      },
+      "answer": "dạo",
+      "choices": [],
+      "word": "dạo"
+    },
+    "updatedAt": "2025-03-12T14:48:10.602Z"
+  },
+  "_id": "TnwMEeTxC8DqP6fHeaZj"
+}

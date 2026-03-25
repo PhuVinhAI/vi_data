@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:59:31.655Z",
+    "translations": {
+      "vi": "bền vững",
+      "es": "sostenible",
+      "en": "sustainable"
+    },
+    "definitions": {
+      "en": "Capable of being maintained over the long term without harming the environment.",
+      "es": "Capaz de mantenerse a largo plazo sin dañar el medio ambiente.",
+      "vi": "Có khả năng duy trì lâu dài mà không gây hại cho môi trường."
+    },
+    "example": {
+      "en": "We need to develop a sustainable economy.",
+      "vi": "Chúng ta cần phát triển một nền kinh tế bền vững.",
+      "es": "Necesitamos desarrollar una economía sostenible."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chúng ta cần xây dựng một môi trường sống bền vững cho thế hệ sau.",
+    "Nông nghiệp bền vững giúp bảo vệ tài nguyên thiên nhiên.",
+    "Anh ấy chọn lối sống bền vững để giảm tác động xấu đến môi trường."
+  ],
+  "rank": 944,
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "bền vững",
+      "translatedAnswer": {
+        "en": "sustainable"
+      },
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We need a sustainable plan."
+      },
+      "sentence": "Chúng ta cần một kế hoạch ___.",
+      "word": "bền vững"
+    },
+    "type": "fillBlankQuiz",
+    "id": "b23b6430-095d-4f8a-803d-9002acd29d13",
+    "createdAt": "2025-03-12T14:23:48.457Z",
+    "updatedAt": "2025-03-12T14:23:48.457Z"
+  },
+  "definition": "sustainable",
+  "updatedAt": "2026-03-03T07:56:13.390Z",
+  "choices": [
+    "bền vững",
+    "hiện đại",
+    "an toàn"
+  ],
+  "exampleSentencesTranslated": [
+    "We need to build a sustainable living environment for the next generation.",
+    "Sustainable agriculture helps protect natural resources.",
+    "He chooses a sustainable lifestyle to reduce negative impacts on the environment."
+  ],
+  "notes": "Bền vững means sustainable or lasting for a long time without causing harm. It’s about something that can continue steadily and not collapse or damage the future.\n\nIt’s an adjective, so it describes things like phát triển (development), kinh tế (economy), môi trường (environment), mối quan hệ (relationships). It often talks about long-term stability, not short-term results.\n\nIt’s close to lâu dài (long-term) or ổn định (stable), but bền vững usually includes the idea of balance and responsibility. Opposite ideas are tạm thời (temporary) or mong manh (fragile).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Bền vững** means *sustainable* or *lasting for a long time without causing harm*. It’s about something that can continue steadily and not collapse or damage the future.\n\nIt’s an adjective, so it describes things like phát triển (development), kinh tế (economy), môi trường (environment), mối quan hệ (relationships). It often talks about long-term stability, not short-term results.\n\nIt’s close to **lâu dài** (long-term) or **ổn định** (stable), but *bền vững* usually includes the idea of balance and responsibility. Opposite ideas are **tạm thời** (temporary) or **mong manh** (fragile).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:23:48.457Z",
+    "createdAt": "2025-03-12T14:23:48.457Z",
+    "id": "85bf2cfc-1cf9-4260-9558-21ff1dcec82c",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "b___ v___",
+      "word": "bền vững",
+      "sentence": "Môi trường cần được bảo vệ ___.",
+      "translation": {
+        "en": "The environment needs to be protected sustainably."
+      },
+      "language": "vi",
+      "choices": [
+        "bền vững",
+        "tốt đẹp",
+        "trong sạch"
+      ],
+      "translatedAnswer": {
+        "en": "sustainably"
+      },
+      "answer": "bền vững"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "bền vững",
+  "_id": "NtP0QIDbZeDewYaUh10U"
+}

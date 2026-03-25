@@ -1,0 +1,104 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "después; más tarde en el tiempo.",
+      "en": "after; later in time.",
+      "vi": "sau; muộn hơn trong thời gian."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:29:33.314Z",
+    "example": {
+      "en": "I will come after dinner.",
+      "vi": "Tôi sẽ đến sau bữa tối.",
+      "es": "Vine después de la cena."
+    },
+    "translations": {
+      "vi": "sau",
+      "en": "after",
+      "es": "después"
+    }
+  },
+  "rank": 96,
+  "definition": "after",
+  "exampleSentences": [
+    "Em học bài sau bữa tối.",
+    "Anh rửa bát sau bữa ăn.",
+    "Chị gặp em sau buổi học."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + học (study) + bài (lessons) + sau (after) + bữa (meal) + tối (evening)",
+    "Anh (he) + rửa (wash) + bát (dishes) + sau (after) + bữa (meal) + ăn (meal)",
+    "Chị (she) + gặp (meet) + em (me) + sau (after) + buổi (session) + học (class)"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:49:16.875Z",
+    "updatedAt": "2025-03-12T12:49:16.875Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "sau",
+      "sentence": "Chúng ta sẽ gặp ___.",
+      "word": "sau",
+      "translatedAnswer": {
+        "en": "after"
+      },
+      "language": "vi",
+      "hint": "s__",
+      "choices": [
+        "trước",
+        "sau",
+        "đang"
+      ],
+      "translation": {
+        "en": "We will meet after."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "cf36612c-f41a-41e4-9490-592c05ad4931"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "sau",
+  "notes": "sau means after — something happens later in time than something else.\n\nIt goes before a noun or time phrase to show sequence. You’ll also see sau khi + clause to mean “after doing something.” As an adverb, sau đó means “after that.”\n\nOpposite idea: trước = before — nice mental pair: trước ↔ sau.",
+  "choices": [
+    "trước",
+    "dưới",
+    "sau"
+  ],
+  "notes_md": "**sau** means **after** — something happens later in time than something else.\n\nIt goes **before a noun or time phrase** to show sequence. You’ll also see **sau khi + clause** to mean “after doing something.” As an adverb, **sau đó** means “after that.”\n\n\nOpposite idea: **trước** = before — nice mental pair: *trước ↔ sau*.",
+  "exampleSentencesTranslated": [
+    "I study after dinner.",
+    "He washes dishes after the meal.",
+    "She meets me after class."
+  ],
+  "updatedAt": "2026-03-03T06:12:46.353Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:49:16.875Z",
+    "updatedAt": "2025-03-12T12:49:16.875Z",
+    "content": {
+      "sentence": "Tôi sẽ đi ___.",
+      "answer": "sau",
+      "translation": {
+        "en": "I will go after."
+      },
+      "choices": [],
+      "word": "sau",
+      "translatedAnswer": {
+        "en": "after"
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "df7b7f15-a02a-4ecc-9510-04afcdcfbd66",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "0LXXOGD23GDhktadsaWB"
+}

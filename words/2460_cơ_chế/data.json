@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "hệ thống",
+    "cơ chế",
+    "phương pháp"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "mechanism",
+  "word": "cơ chế",
+  "rank": 2460,
+  "exampleSentences": [
+    "Anh muốn tìm hiểu cơ chế hoạt động của chiếc máy này.",
+    "Chị ấy giải thích rõ cơ chế của hệ thống mới cho em.",
+    "Em nghĩ cơ chế này sẽ giúp công việc trở nên dễ dàng hơn."
+  ],
+  "notes_md": "**Cơ chế** means *mechanism* — the way something works or operates behind the scenes. It focuses on the system or process that makes something happen.\n\nIt’s a noun. You’ll often see it in phrases like **cơ chế hoạt động** (how something functions), **cơ chế quản lý**, **cơ chế thị trường**.  \n\nClose idea: **cách vận hành** (way of operating) — less technical.  \nThink of *cơ chế* as the hidden logic or system behind an action or result.",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "sentence": "Hệ thống này có ___ riêng.",
+      "word": "cơ chế",
+      "translatedAnswer": {
+        "en": "mechanism"
+      },
+      "answer": "cơ chế",
+      "translation": {
+        "en": "This system has a mechanism."
+      },
+      "hint": "c___e",
+      "choices": [
+        "cơ chế",
+        "quy trình",
+        "nguyên lý"
+      ]
+    },
+    "createdAt": "2025-03-12T13:45:09.963Z",
+    "updatedAt": "2025-03-12T13:45:09.963Z",
+    "id": "45ed2d05-6d4b-4b46-a2c9-cbf9ded70d21",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I want to understand the mechanism of this machine.",
+    "She explained the mechanism of the new system to me clearly.",
+    "I think this mechanism will make the work easier."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "cơ chế",
+      "es": "mecanismo",
+      "en": "mechanism"
+    },
+    "example": {
+      "es": "El mecanismo de esta máquina es muy complejo.",
+      "vi": "Cơ chế hoạt động của máy này rất phức tạp.",
+      "en": "The mechanism of this machine is very complex."
+    },
+    "createdAt": "2025-01-28T11:23:30.588Z",
+    "definitions": {
+      "en": "A system of parts working together in a machine; a process or technique.",
+      "vi": "Một hệ thống các bộ phận hoạt động cùng nhau trong một máy; một quy trình hoặc kỹ thuật.",
+      "es": "Un sistema de partes que trabajan juntas en una máquina; un proceso o técnica."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:45:09.963Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "This system has a mechanism."
+      },
+      "answer": "cơ chế",
+      "translatedAnswer": {
+        "en": "mechanism"
+      },
+      "language": "vi",
+      "sentence": "Hệ thống này có ___ riêng.",
+      "word": "cơ chế"
+    },
+    "createdAt": "2025-03-12T13:45:09.963Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "6a2d7ce2-f0dc-4e83-8b16-4fe3c3b027a2",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Cơ chế means mechanism — the way something works or operates behind the scenes. It focuses on the system or process that makes something happen.\n\nIt’s a noun. You’ll often see it in phrases like cơ chế hoạt động (how something functions), cơ chế quản lý, cơ chế thị trường.  \n\nClose idea: cách vận hành (way of operating) — less technical.  \nThink of cơ chế as the hidden logic or system behind an action or result.",
+  "updatedAt": "2026-03-03T10:37:49.064Z",
+  "_id": "ElzoUemoQHFygP8Ih3bD"
+}

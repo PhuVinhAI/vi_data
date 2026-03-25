@@ -1,0 +1,98 @@
+{
+  "definition": "month",
+  "rank": 270,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:38:43.327Z",
+    "definitions": {
+      "vi": "Một đơn vị thời gian bằng khoảng 30 hoặc 31 ngày, được sử dụng để chia năm.",
+      "en": "A unit of time equal to approximately 30 or 31 days, used to divide the year.",
+      "es": "Una unidad de tiempo igual a aproximadamente 30 o 31 días, utilizada para dividir el año."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Este mes tiene muchas fiestas.",
+      "en": "This month has many holidays.",
+      "vi": "Tháng này có nhiều ngày lễ."
+    },
+    "translations": {
+      "vi": "tháng",
+      "en": "month",
+      "es": "mes"
+    }
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:54:43.609Z",
+    "updatedAt": "2025-03-12T12:54:43.609Z",
+    "content": {
+      "answer": "tháng",
+      "sentence": "Chúng ta có một cuộc họp vào ___.",
+      "word": "tháng",
+      "translatedAnswer": {
+        "en": "month"
+      },
+      "language": "vi",
+      "hint": "t___g",
+      "choices": [
+        "năm",
+        "tuần",
+        "tháng"
+      ],
+      "translation": {
+        "en": "We have a meeting in the month."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "989a7951-47f0-4d67-be02-4f5ae04d7b80",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh sẽ đi du lịch cùng gia đình vào tháng tới.",
+    "Em đã học tiếng Việt được ba tháng rồi.",
+    "Chị thường nhận lương vào ngày cuối cùng của mỗi tháng."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "Tháng means month (one of the 12 parts of a year).\n\nIt’s a noun, and you put a number directly before it: một tháng, hai tháng, ba tháng — no classifier needed.  \nTo say a specific month of the year, use tháng + number (Structure: tháng + number — tháng 3 = March).  \nYou’ll often see it in time phrases like mỗi tháng (every month) or hàng tháng (monthly).  \nIt can also mean a lunar month in traditional or holiday contexts, but usually it just means a regular calendar month.",
+  "choices": [
+    "ngày",
+    "năm",
+    "tháng"
+  ],
+  "word": "tháng",
+  "notes_md": "**Tháng** means **month** (one of the 12 parts of a year).\n\nIt’s a noun, and you put a number directly before it: *một tháng, hai tháng, ba tháng* — no classifier needed.  \nTo say a specific month of the year, use **tháng + number** (Structure: tháng + number — tháng 3 = March).  \nYou’ll often see it in time phrases like **mỗi tháng** (every month) or **hàng tháng** (monthly).  \nIt can also mean a lunar month in traditional or holiday contexts, but usually it just means a regular calendar month.",
+  "exampleSentencesTranslated": [
+    "Anh will travel with his family next month.",
+    "Em has studied Vietnamese for three months.",
+    "Chị usually receives her salary on the last day of each month."
+  ],
+  "updatedAt": "2026-03-03T06:48:18.771Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:54:43.609Z",
+    "updatedAt": "2025-03-12T12:54:43.609Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "We have a meeting in the month."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "month"
+      },
+      "word": "tháng",
+      "sentence": "Chúng ta có một cuộc họp vào ___.",
+      "answer": "tháng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "3170d806-13cf-4ef1-bc62-edcba8196933"
+  },
+  "_id": "1XxSE1KOqqVy1nCQmGgD"
+}

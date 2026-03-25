@@ -1,0 +1,101 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:49:10.009Z",
+    "updatedAt": "2025-03-12T15:49:10.009Z",
+    "content": {
+      "hint": "c___n",
+      "sentence": "Bạn ___ muốn đi cùng không?",
+      "choices": [
+        "không",
+        "còn",
+        "có"
+      ],
+      "translatedAnswer": {
+        "en": "still"
+      },
+      "answer": "còn",
+      "language": "vi",
+      "word": "còn",
+      "translation": {
+        "en": "Do you still want to go with me?"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "70f8b85e-6757-45fb-92ae-a7d168cf7cb8"
+  },
+  "sentenceBreakdowns": [
+    "Anh (you-male) + còn (still) + muốn (want) + bánh (cake) + không (question)",
+    "Em (I) + còn (still) + học (study) + bài (lesson) + bây giờ (now)",
+    "Chị (she) + còn (still) + đợi (wait) + xe buýt (bus)"
+  ],
+  "notes_md": "**còn** usually means **“still”** (something continues, hasn’t stopped or changed). It often goes before a verb or adjective.\n\n\nIt also means **“left/remaining”** when talking about quantity or time (còn tiền, còn 2 ngày). In comparisons or contrast, **còn** can mean **“as for / whereas”** (A…, còn B…).\n\nStrong contrast vibe: like “but” in some contexts, but softer and more about setting two sides.",
+  "exampleSentencesTranslated": [
+    "Do you still want cake?",
+    "I am still studying now.",
+    "She still waits for the bus."
+  ],
+  "updatedAt": "2026-03-03T06:09:26.969Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "còn",
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ dùng để chỉ sự tiếp tục tồn tại, chưa hết hoặc vẫn còn lại.",
+      "en": "A word used to indicate that something remains, continues to exist, or is not finished."
+    },
+    "createdAt": "2025-05-24T16:31:31.899Z",
+    "word": "còn",
+    "example": {
+      "vi": "Tôi còn hai quyển sách chưa đọc.",
+      "en": "I still have two books that I haven't read."
+    },
+    "translations": {
+      "en": "still; remain; left"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:49:10.009Z",
+    "updatedAt": "2025-03-12T15:49:10.009Z",
+    "content": {
+      "word": "còn",
+      "translation": {
+        "en": "I still have time to go."
+      },
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "still"
+      },
+      "answer": "còn",
+      "choices": [],
+      "sentence": "Mình ___ có thời gian để đi."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "1ce7bae9-6980-478a-ba4c-f591b8fc60ba"
+  },
+  "choices": [
+    "vẫn",
+    "hết",
+    "còn"
+  ],
+  "exampleSentences": [
+    "Anh còn muốn bánh không?",
+    "Em còn học bài bây giờ.",
+    "Chị còn đợi xe buýt."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "còn usually means “still” (something continues, hasn’t stopped or changed). It often goes before a verb or adjective.\n\nIt also means “left/remaining” when talking about quantity or time (còn tiền, còn 2 ngày). In comparisons or contrast, còn can mean “as for / whereas” (A…, còn B…).\n\nStrong contrast vibe: like “but” in some contexts, but softer and more about setting two sides.",
+  "definition": "still",
+  "rank": 63,
+  "_id": "jOQGFHCuD1KDW1jaHIrV"
+}

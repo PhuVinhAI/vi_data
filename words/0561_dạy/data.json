@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi muốn ___ tiếng Anh.",
+      "translatedAnswer": {
+        "en": "teach"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "I want to teach English."
+      },
+      "answer": "dạy",
+      "word": "dạy",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T14:39:12.942Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:39:12.942Z",
+    "id": "b700cd29-c044-41be-b2d8-df093064873d",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "teach",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "es": "Ella enseña inglés a los estudiantes.",
+      "vi": "Cô ấy dạy tiếng Anh cho học sinh.",
+      "en": "She teaches English to students."
+    },
+    "definitions": {
+      "es": "enseñar; instruir",
+      "en": "to teach; to instruct",
+      "vi": "dạy; hướng dẫn"
+    },
+    "createdAt": "2025-01-28T12:14:39.172Z",
+    "translations": {
+      "es": "enseñar",
+      "en": "to teach",
+      "vi": "dạy"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**Dạy** means *to teach* or *to instruct*. It’s used when someone gives knowledge, skills, or guidance to another person.\n\nIt’s a verb. You usually say **dạy + someone + something** or **dạy + someone + to do something**.  \n\nYou can teach a subject (dạy toán), a skill (dạy nấu ăn), or even life lessons (dạy con).  \n\nOpposite idea: **học** = to learn (one teaches, the other learns).  \n\nIt can also mean to discipline or correct someone’s behavior, especially in family contexts.",
+  "exampleSentences": [
+    "Anh sẽ dạy em cách nấu món ăn này vào ngày mai.",
+    "Chị ấy rất thích dạy tiếng Anh cho trẻ em ở trường.",
+    "Bố thường dạy anh những điều quan trọng trong cuộc sống."
+  ],
+  "choices": [
+    "học",
+    "dạy",
+    "giúp"
+  ],
+  "notes": "Dạy means to teach or to instruct. It’s used when someone gives knowledge, skills, or guidance to another person.\n\nIt’s a verb. You usually say dạy + someone + something or dạy + someone + to do something.  \n\nYou can teach a subject (dạy toán), a skill (dạy nấu ăn), or even life lessons (dạy con).  \n\nOpposite idea: học = to learn (one teaches, the other learns).  \n\nIt can also mean to discipline or correct someone’s behavior, especially in family contexts.",
+  "rank": 561,
+  "exampleSentencesTranslated": [
+    "I will teach you how to cook this dish tomorrow.",
+    "She really likes to teach English to children at school.",
+    "Dad often teach me important things in life."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:39:12.942Z",
+    "id": "c12aed8d-f07f-4d0d-83ce-e11fa24635dc",
+    "content": {
+      "hint": "d___",
+      "translation": {
+        "en": "The teacher will teach the students."
+      },
+      "answer": "dạy",
+      "word": "dạy",
+      "choices": [
+        "học",
+        "dạy",
+        "thi"
+      ],
+      "sentence": "Giáo viên sẽ ___ cho học sinh.",
+      "translatedAnswer": {
+        "en": "teach"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:39:12.942Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "dạy",
+  "updatedAt": "2026-03-03T07:18:14.735Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Rk3GYUcJaDL6tXuE2tYa"
+}

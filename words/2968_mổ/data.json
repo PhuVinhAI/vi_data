@@ -1,0 +1,99 @@
+{
+  "rank": 2968,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:49:42.557Z",
+    "translations": {
+      "en": "surgery",
+      "es": "cirugía",
+      "vi": "phẫu thuật"
+    },
+    "definitions": {
+      "en": "To perform surgery; to cut open for medical purposes.",
+      "vi": "Thực hiện phẫu thuật; cắt mở ra cho mục đích y tế.",
+      "es": "Realizar una cirugía; cortar para fines médicos."
+    },
+    "example": {
+      "vi": "Bác sĩ sẽ mổ cho bệnh nhân vào sáng mai.",
+      "es": "El médico realizará una cirugía al paciente mañana por la mañana.",
+      "en": "The doctor will perform surgery on the patient tomorrow morning."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Ngày mai bác sĩ sẽ mổ cho anh ở bệnh viện trung ương.",
+    "Bà em vừa được mổ thành công và đang hồi phục rất tốt.",
+    "Bác sĩ nói rằng cần phải mổ để chữa bệnh cho chị ấy."
+  ],
+  "notes_md": "**mổ** = to operate on someone (do surgery). It’s the everyday verb for medical surgery.\n\nUse it with a person or a body part: you can **mổ ai**, **mổ + body part**, or **mổ lấy + noun** (like a baby, a tumor).  \n\nCommon pairings: **mổ cấp cứu** (emergency surgery), **mổ lấy thai** (C-section).  \nMore formal synonym: **phẫu thuật** (same meaning, sounds more official).\n\nIt can also mean “to dissect” (like in biology class), and in **mổ xẻ** it means to analyze something deeply.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "mổ",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:12:36.822Z",
+    "updatedAt": "2025-03-12T14:12:36.822Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "operate"
+      },
+      "answer": "mổ",
+      "translation": {
+        "en": "They will operate on the weekend."
+      },
+      "language": "vi",
+      "choices": [
+        "khám",
+        "mổ",
+        "tiêm"
+      ],
+      "hint": "m___",
+      "word": "mổ",
+      "sentence": "Họ sẽ ___ vào cuối tuần."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "b5ed2a36-6149-47c6-a680-fb6f90ff77ac"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "surgery",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "mổ",
+      "translatedAnswer": {
+        "en": "operate"
+      },
+      "sentence": "Bác sĩ sẽ ___ bệnh nhân vào ngày mai.",
+      "word": "mổ",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "The doctor will operate on the patient tomorrow."
+      }
+    },
+    "id": "6d5a6afd-93fd-441c-a329-b666fd460c10",
+    "createdAt": "2025-03-12T14:12:36.822Z",
+    "updatedAt": "2025-03-12T14:12:36.822Z"
+  },
+  "notes": "mổ = to operate on someone (do surgery). It’s the everyday verb for medical surgery.\n\nUse it with a person or a body part: you can mổ ai, mổ + body part, or mổ lấy + noun (like a baby, a tumor).  \n\nCommon pairings: mổ cấp cứu (emergency surgery), mổ lấy thai (C-section).  \nMore formal synonym: phẫu thuật (same meaning, sounds more official).\n\nIt can also mean “to dissect” (like in biology class), and in mổ xẻ it means to analyze something deeply.",
+  "exampleSentencesTranslated": [
+    "Tomorrow the doctor will perform surgery for him at the central hospital.",
+    "My grandmother just had successful surgery and is recovering very well.",
+    "The doctor said that surgery is needed to treat her illness."
+  ],
+  "updatedAt": "2026-03-03T18:17:40.721Z",
+  "choices": [
+    "mổ",
+    "mua",
+    "mở"
+  ],
+  "_id": "LMEJtZcsjwWifBBKE9H3"
+}

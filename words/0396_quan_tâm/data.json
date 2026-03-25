@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**quan tâm** = to care about, to pay attention to someone/something.\n\nIt’s a verb. You use it when you show care, concern, or interest in a person, situation, or issue. It often has an emotional meaning (care about someone) but can also mean simply paying attention.\n\n\nClose synonyms: **chăm sóc** (take care of, more physical/action-based), **để ý** (notice/pay attention, lighter).  \nOpposite idea: **bỏ mặc** (ignore, neglect).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:15:50.194Z",
+    "updatedAt": "2025-03-12T14:15:50.194Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "quan tâm",
+      "translatedAnswer": {
+        "en": "care"
+      },
+      "sentence": "Bạn có ___ tới tôi không?",
+      "word": "quan tâm",
+      "hint": "q___m",
+      "language": "vi",
+      "choices": [
+        "thích thú",
+        "quan tâm",
+        "chăm sóc"
+      ],
+      "translation": {
+        "en": "Do you care about me?"
+      }
+    },
+    "id": "761dc9e4-507b-425f-8579-764cc1ee2bb0"
+  },
+  "word": "quan tâm",
+  "fillBlankQuiz": {
+    "id": "58bfcdab-2f43-4591-b9b8-c4ab7f6fb782",
+    "content": {
+      "sentence": "Bạn có ___ tới tôi không?",
+      "word": "quan tâm",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "Do you care about me?"
+      },
+      "answer": "quan tâm",
+      "translatedAnswer": {
+        "en": "care"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:15:50.194Z",
+    "createdAt": "2025-03-12T14:15:50.194Z"
+  },
+  "definition": "care",
+  "choices": [
+    "quan tâm",
+    "lo lắng",
+    "giúp đỡ"
+  ],
+  "updatedAt": "2026-03-03T07:01:55.060Z",
+  "notes": "quan tâm = to care about, to pay attention to someone/something.\n\nIt’s a verb. You use it when you show care, concern, or interest in a person, situation, or issue. It often has an emotional meaning (care about someone) but can also mean simply paying attention.\n\nClose synonyms: chăm sóc (take care of, more physical/action-based), để ý (notice/pay attention, lighter).  \nOpposite idea: bỏ mặc (ignore, neglect).",
+  "exampleSentencesTranslated": [
+    "She always shows care about her family's health.",
+    "Can you care about my feelings more?",
+    "Good friends care when I have difficulties."
+  ],
+  "rank": 396,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "preocuparse",
+      "vi": "quan tâm",
+      "en": "care"
+    },
+    "definitions": {
+      "en": "To show concern or interest in someone or something.",
+      "vi": "Thể hiện sự quan tâm hoặc hứng thú với ai đó hoặc điều gì đó.",
+      "es": "Mostrar preocupación o interés por alguien o algo."
+    },
+    "createdAt": "2025-01-28T11:52:44.678Z",
+    "example": {
+      "vi": "Tôi luôn quan tâm đến sức khỏe của mình.",
+      "es": "Siempre me preocupo por mi salud.",
+      "en": "I always care about my health."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Chị luôn quan tâm đến sức khỏe của gia đình mình.",
+    "Anh có thể quan tâm đến cảm xúc của em nhiều hơn không?",
+    "Bạn bè tốt thường quan tâm khi mình gặp khó khăn."
+  ],
+  "_id": "M7jQIHe9NUU4idUoRpfC"
+}

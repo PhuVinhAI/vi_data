@@ -1,0 +1,99 @@
+{
+  "rank": 1993,
+  "exampleSentences": [
+    "Chị ấy rất buồn khi biết chồng mình đã ngoại tình.",
+    "Anh có nghĩ rằng ngoại tình sẽ làm gia đình hạnh phúc không?",
+    "Bạn em từng kể chuyện ngoại tình của một người quen."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "He cheated on his wife with another woman.",
+      "es": "Él le fue infiel a su esposa con otra mujer.",
+      "vi": "Anh ấy đã ngoại tình với một người phụ nữ khác."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ngoại tình",
+      "es": "infidelidad",
+      "en": "infidelity"
+    },
+    "definitions": {
+      "vi": "Hành động không chung thủy trong một mối quan hệ tình cảm.",
+      "es": "El acto de ser infiel en una relación romántica.",
+      "en": "The act of being unfaithful in a romantic relationship."
+    },
+    "createdAt": "2025-01-28T11:39:28.324Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "ngoại tình",
+      "translatedAnswer": {
+        "en": "affair"
+      },
+      "language": "vi",
+      "choices": [
+        "ngoại tình",
+        "bất hòa",
+        "gian dối"
+      ],
+      "translation": {
+        "en": "She does not accept his affair."
+      },
+      "sentence": "Cô ấy không chấp nhận ___ của anh ta.",
+      "word": "ngoại tình",
+      "hint": "n___ tình"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "e611b878-eea9-4995-9756-6efb1b727975",
+    "createdAt": "2025-03-12T14:01:31.819Z",
+    "updatedAt": "2025-03-12T14:01:31.819Z"
+  },
+  "word": "ngoại tình",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ngoại tình** means to cheat on your partner — to have a romantic or sexual relationship outside your committed relationship. It can be used as both a verb (“to cheat”) and a noun (“an affair”).\n\nAs a verb, it often goes with **với + person**.  \n\nAs a noun, it refers to the act or situation of adultery and is usually uncountable. A strong related word is **phản bội** (to betray), which is broader but often overlaps emotionally.",
+  "choices": [
+    "ngoại tình",
+    "ly hôn",
+    "kết hôn"
+  ],
+  "updatedAt": "2026-03-03T09:49:05.592Z",
+  "exampleSentencesTranslated": [
+    "She was very sad when she found out her husband cheat.",
+    "Do you think that cheat will make a family happy?",
+    "My friend once told me a story about someone who cheat."
+  ],
+  "notes": "Ngoại tình means to cheat on your partner — to have a romantic or sexual relationship outside your committed relationship. It can be used as both a verb (“to cheat”) and a noun (“an affair”).\n\nAs a verb, it often goes with với + person.  \n\nAs a noun, it refers to the act or situation of adultery and is usually uncountable. A strong related word is phản bội (to betray), which is broader but often overlaps emotionally.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:01:31.819Z",
+    "createdAt": "2025-03-12T14:01:31.819Z",
+    "id": "a89fa264-c86d-42f0-875e-be85336c49c2",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "He has an affair with someone else."
+      },
+      "sentence": "Anh ấy đã ___ với người khác.",
+      "word": "ngoại tình",
+      "answer": "ngoại tình",
+      "translatedAnswer": {
+        "en": "affair"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "definition": "cheat (on one's partner in a romantic relationship)",
+  "_id": "IzN0PlFJg3mr2vJh3Aib"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "section",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**mục** = a section or item in a document, list, form, or contract.  \nIt’s a countable noun: *một mục, hai mục, các mục*.  \n\nUsed for organized content like forms, menus, reports, or lists — each “mục” is one separate part.  \n\nDon’t confuse it with **mục tiêu** (goal) — that’s a fixed phrase; *mục* alone usually just means a section/item.",
+  "flashcard": {
+    "example": {
+      "en": "I have completed my goal.",
+      "es": "He completado mi objetivo.",
+      "vi": "Tôi đã hoàn thành mục tiêu của mình."
+    },
+    "translations": {
+      "en": "goal",
+      "es": "objetivo",
+      "vi": "mục tiêu"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:32:32.908Z",
+    "definitions": {
+      "en": "A goal or objective that one aims to achieve.",
+      "es": "Un objetivo o meta que uno busca alcanzar.",
+      "vi": "Một mục tiêu hoặc chỉ tiêu mà một người muốn đạt được."
+    }
+  },
+  "updatedAt": "2026-03-03T09:57:02.526Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "2053f7e2-9100-4253-97f6-6bf1ddc553dc",
+    "content": {
+      "translation": {
+        "en": "I have a goal to complete."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "goal"
+      },
+      "answer": "mục",
+      "word": "mục",
+      "language": "vi",
+      "sentence": "Tôi có ___ để hoàn thành."
+    },
+    "updatedAt": "2025-03-12T14:59:34.003Z",
+    "createdAt": "2025-03-12T14:59:34.003Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Can you show me the section I need to fill in on this form?",
+    "In this document, each section has very important information.",
+    "You should carefully read each section before signing the contract."
+  ],
+  "notes": "mục = a section or item in a document, list, form, or contract.  \nIt’s a countable noun: một mục, hai mục, các mục.  \n\nUsed for organized content like forms, menus, reports, or lists — each “mục” is one separate part.  \n\nDon’t confuse it with mục tiêu (goal) — that’s a fixed phrase; mục alone usually just means a section/item.",
+  "exampleSentences": [
+    "Anh có thể chỉ cho em mục cần điền trong biểu mẫu này không?",
+    "Trong tài liệu này, mỗi mục đều có thông tin rất quan trọng.",
+    "Chị nên đọc kỹ từng mục trước khi ký hợp đồng nhé."
+  ],
+  "word": "mục",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:59:34.003Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I have a goal to complete."
+      },
+      "translatedAnswer": {
+        "en": "goal"
+      },
+      "choices": [
+        "mục",
+        "bước",
+        "điểm"
+      ],
+      "word": "mục",
+      "language": "vi",
+      "answer": "mục",
+      "hint": "m___",
+      "sentence": "Tôi có một ___ để hoàn thành."
+    },
+    "updatedAt": "2025-03-12T14:59:34.003Z",
+    "id": "d1e6d013-8be1-41aa-a056-033ae45e71ce"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2068,
+  "choices": [
+    "mục",
+    "bài",
+    "chương"
+  ],
+  "_id": "WtgeSelPr9qtwJPOGFoJ"
+}

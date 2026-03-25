@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sáng nay em đi làm bằng xe máy vì trời mưa.",
+    "Anh có thể chỉ cho chị chỗ gửi xe máy gần đây không?",
+    "Bạn của em mới mua một chiếc xe máy màu đỏ rất đẹp."
+  ],
+  "choices": [
+    "xe đạp",
+    "xe hơi",
+    "xe máy"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I ride a motorbike to school every day."
+      },
+      "word": "xe máy",
+      "translatedAnswer": {
+        "en": "motorbike"
+      },
+      "answer": "xe máy",
+      "sentence": "Tôi đi ___ đến trường mỗi ngày.",
+      "choices": []
+    },
+    "id": "b56b3bfa-1dde-469c-a255-6be709e8efc6",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:44:42.967Z",
+    "updatedAt": "2025-03-12T15:44:42.967Z"
+  },
+  "rank": 2352,
+  "definition": "motorbike",
+  "notes": "xe máy = motorbike / motorcycle. It’s the super common two‑wheel vehicle people use to get around in Vietnam.\n\nIt’s a noun. Use classifiers like chiếc or cái (một chiếc xe máy). No plural change — just add a number if needed.  \n\nCommon verbs with it: đi xe máy (go by motorbike), chạy xe máy (ride/drive), lái xe máy, đậu/đỗ xe máy (park).  \n\nCompare: xe đạp = bicycle, ô tô = car. If it has an engine and two wheels, it’s almost always xe máy.",
+  "notes_md": "**xe máy** = motorbike / motorcycle. It’s the super common two‑wheel vehicle people use to get around in Vietnam.\n\nIt’s a noun. Use classifiers like **chiếc** or **cái** (một chiếc xe máy). No plural change — just add a number if needed.  \n\nCommon verbs with it: **đi xe máy** (go by motorbike), **chạy xe máy** (ride/drive), **lái xe máy**, **đậu/đỗ xe máy** (park).  \n\nCompare: **xe đạp** = bicycle, **ô tô** = car. If it has an engine and two wheels, it’s almost always **xe máy**.",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I ride a motorbike to work."
+      },
+      "word": "xe máy",
+      "translatedAnswer": {
+        "en": "motorbike"
+      },
+      "answer": "xe máy",
+      "hint": "x__ m__",
+      "sentence": "Tôi đi ___ đến chỗ làm.",
+      "choices": [
+        "ô tô",
+        "xe đạp",
+        "xe máy"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2c9d7b52-b099-4a05-8485-5ce8eb50942a",
+    "createdAt": "2025-03-12T15:44:42.967Z",
+    "updatedAt": "2025-03-12T15:44:42.967Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "moto",
+      "en": "motorbike",
+      "vi": "xe máy"
+    },
+    "example": {
+      "es": "Voy al trabajo en moto.",
+      "en": "I go to work by motorbike.",
+      "vi": "Tôi đi làm bằng xe máy."
+    },
+    "definitions": {
+      "vi": "Một phương tiện hai bánh được vận hành bằng động cơ.",
+      "es": "Un vehículo de dos ruedas impulsado por un motor.",
+      "en": "A two-wheeled vehicle powered by an engine."
+    },
+    "createdAt": "2025-01-28T13:17:30.972Z"
+  },
+  "word": "xe máy",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:27:15.534Z",
+  "exampleSentencesTranslated": [
+    "This morning I went to work by motorbike because it was raining.",
+    "Can you show me a place to park my motorbike nearby?",
+    "My friend just bought a very beautiful red motorbike."
+  ],
+  "_id": "iKOuYWIiruXgsZkeud1n"
+}

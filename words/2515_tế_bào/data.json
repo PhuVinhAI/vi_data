@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tế bào",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:33:03.295Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "cells"
+      },
+      "translation": {
+        "en": "The body has cells to grow."
+      },
+      "hint": "t___ b___",
+      "answer": "tế bào",
+      "choices": [
+        "tế bào",
+        "mô",
+        "khí"
+      ],
+      "language": "vi",
+      "sentence": "Cơ thể có ___ để phát triển.",
+      "word": "tế bào"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:03.295Z",
+    "id": "6b2298c0-e10e-413a-8d51-d7e2d685d850"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Tế bào** means a *cell* — the tiny basic unit that makes up all living things (humans, animals, plants).\n\nIt’s a countable noun: **một tế bào**, **hai tế bào**, **các tế bào**. In science contexts, it often pairs with words like **tế bào gốc** (stem cell), **tế bào ung thư** (cancer cell), **màng tế bào** (cell membrane).\n\nIt’s also used metaphorically in fixed phrases like **tế bào của xã hội** (the basic unit of society, usually meaning family).\n\nThink of it as the biological building block — small but fundamental.",
+  "choices": [
+    "tế bào",
+    "hóa học",
+    "nguyên tử"
+  ],
+  "rank": 2515,
+  "notes": "Tế bào means a cell — the tiny basic unit that makes up all living things (humans, animals, plants).\n\nIt’s a countable noun: một tế bào, hai tế bào, các tế bào. In science contexts, it often pairs with words like tế bào gốc (stem cell), tế bào ung thư (cancer cell), màng tế bào (cell membrane).\n\nIt’s also used metaphorically in fixed phrases like tế bào của xã hội (the basic unit of society, usually meaning family).\n\nThink of it as the biological building block — small but fundamental.",
+  "updatedAt": "2026-03-03T10:43:41.138Z",
+  "exampleSentences": [
+    "Bác sĩ nói mỗi tế bào trong cơ thể đều rất quan trọng.",
+    "Em vừa học về tế bào khi đi học môn sinh học hôm nay.",
+    "Một số bệnh có thể bắt đầu từ vấn đề trong tế bào của người."
+  ],
+  "exampleSentencesTranslated": [
+    "The doctor says every cell in the body is very important.",
+    "I just learned about cell in biology class today.",
+    "Some diseases can start from a problem in a cell of a person."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:03.295Z",
+    "id": "9b339d64-261b-4c4c-b577-5e028ae12f30",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:03.295Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "cells"
+      },
+      "translation": {
+        "en": "The body has cells to grow."
+      },
+      "answer": "tế bào",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Cơ thể có ___ để phát triển.",
+      "word": "tế bào"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "definition": "cell",
+  "flashcard": {
+    "example": {
+      "vi": "Tế bào là đơn vị cơ bản của sự sống.",
+      "es": "Una célula es la unidad básica de la vida.",
+      "en": "A cell is the basic unit of life."
+    },
+    "definitions": {
+      "en": "A cell is the smallest structural and functional unit of an organism.",
+      "es": "Una célula es la unidad estructural y funcional más pequeña de un organismo.",
+      "vi": "Tế bào là đơn vị cấu trúc và chức năng nhỏ nhất của một sinh vật."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:12:38.902Z",
+    "translations": {
+      "en": "cell",
+      "es": "célula",
+      "vi": "tế bào"
+    }
+  },
+  "_id": "BeXwXksTYMYzCXxQSMkk"
+}

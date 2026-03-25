@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:25:57.469Z",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "chi phí",
+      "sentence": "Tôi cần biết ___ của chuyến đi.",
+      "word": "chi phí",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "cost"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need to know the cost of the trip."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "a35a9e25-d48a-4ebf-b322-d5f0891cb83b",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:01:29.083Z",
+    "updatedAt": "2025-03-12T13:01:29.083Z"
+  },
+  "notes_md": "**Chi phí** means cost or expense — the money you have to pay for something.  \n\nIt’s an uncountable noun in most cases, so you don’t usually pluralize it in basic speech (not *chi phíes* or anything like that). You’ll often see it with verbs like **trả** (pay), **tính** (calculate), **giảm** (reduce), **tăng** (increase), or **tiết kiệm** (save on).  \n\nYou can also say **chi phí của + something** to show whose or which cost.  \n\nClose word: **giá** = price (usually the listed price), while **chi phí** is broader — all the money involved, not just the sticker price.",
+  "exampleSentencesTranslated": [
+    "I want to know what the cost of this trip is.",
+    "She tries to reduce the cost to save money every month.",
+    "I have to calculate the cost before buying a new computer."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chi phí",
+  "choices": [
+    "chi phí",
+    "lợi ích",
+    "quy định"
+  ],
+  "notes": "Chi phí means cost or expense — the money you have to pay for something.  \n\nIt’s an uncountable noun in most cases, so you don’t usually pluralize it in basic speech (not chi phíes or anything like that). You’ll often see it with verbs like trả (pay), tính (calculate), giảm (reduce), tăng (increase), or tiết kiệm (save on).  \n\nYou can also say chi phí của + something to show whose or which cost.  \n\nClose word: giá = price (usually the listed price), while chi phí is broader — all the money involved, not just the sticker price.",
+  "flashcard": {
+    "example": {
+      "en": "The cost of this trip is very high.",
+      "vi": "Chi phí cho chuyến đi này rất cao.",
+      "es": "El costo de este viaje es muy alto."
+    },
+    "translations": {
+      "vi": "chi phí",
+      "en": "cost",
+      "es": "costo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "La cantidad de dinero necesaria para algo; un gasto.",
+      "en": "The amount of money required for something; an expense.",
+      "vi": "Số tiền cần thiết cho một cái gì đó; một khoản chi phí."
+    },
+    "createdAt": "2025-01-28T10:44:20.799Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1220,
+  "definition": "cost",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn biết chi phí của chuyến du lịch này là bao nhiêu.",
+    "Chị cố gắng giảm chi phí để tiết kiệm tiền mỗi tháng.",
+    "Em phải tính toán chi phí trước khi mua máy tính mới."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:01:29.083Z",
+    "updatedAt": "2025-03-12T13:01:29.083Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d3f2af93-70bd-4975-93b0-55ff3a111c44",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "cost"
+      },
+      "language": "vi",
+      "word": "chi phí",
+      "hint": "c____",
+      "translation": {
+        "en": "I have the cost for the meal."
+      },
+      "choices": [
+        "giá cả",
+        "chi phí",
+        "tổng cộng"
+      ],
+      "answer": "chi phí",
+      "sentence": "Tôi có ___ cho bữa ăn."
+    }
+  },
+  "_id": "3GqSvs0cfg0JIkdUi9XT"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trình",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:32:00.699Z",
+    "content": {
+      "translation": {
+        "en": "I want to improve my level."
+      },
+      "translatedAnswer": {
+        "en": "level"
+      },
+      "hint": "tr___n",
+      "answer": "trình",
+      "choices": [
+        "trình",
+        "khả năng",
+        "kiến thức"
+      ],
+      "word": "trình",
+      "sentence": "Tôi muốn nâng cao ___ của mình.",
+      "language": "vi"
+    },
+    "id": "e5bd0995-1d2a-4b81-993d-0e2aded750ef",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:32:00.699Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**trình** = level, especially someone’s skill level or ability at something.\n\nIt’s a noun, often used casually to talk about how good someone is at a subject or skill. You’ll often see it with a specific area after it: *trình + môn/kỹ năng*.\n\n\nIt’s shorter and more informal than **trình độ**, which sounds more official or academic. You usually don’t need a classifier with it when talking about general ability.",
+  "choices": [
+    "trình",
+    "trạng",
+    "trải"
+  ],
+  "rank": 1636,
+  "notes": "trình = level, especially someone’s skill level or ability at something.\n\nIt’s a noun, often used casually to talk about how good someone is at a subject or skill. You’ll often see it with a specific area after it: trình + môn/kỹ năng.\n\nIt’s shorter and more informal than trình độ, which sounds more official or academic. You usually don’t need a classifier with it when talking about general ability.",
+  "updatedAt": "2026-03-03T09:11:01.694Z",
+  "exampleSentences": [
+    "Anh muốn kiểm tra trình tiếng Anh của em để giúp em học tốt hơn.",
+    "Chị ấy đang cố gắng nâng cao trình chuyên môn trong công việc.",
+    "Nếu em muốn tham gia khóa học này, em cần có trình trung cấp."
+  ],
+  "exampleSentencesTranslated": [
+    "I want to check your English level to help you study better.",
+    "She is trying to improve her professional level at work.",
+    "If you want to join this course, you need to have an intermediate level."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:32:00.699Z",
+    "content": {
+      "answer": "trình",
+      "translation": {
+        "en": "I need to improve my level."
+      },
+      "translatedAnswer": {
+        "en": "level"
+      },
+      "word": "trình",
+      "language": "vi",
+      "sentence": "Tôi cần nâng cao ___ của mình.",
+      "choices": []
+    },
+    "id": "20368cb7-1138-4b65-9743-c7481f2878aa",
+    "updatedAt": "2025-03-12T15:32:00.699Z"
+  },
+  "definition": "level",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:06:58.671Z",
+    "translations": {
+      "vi": "trình",
+      "es": "presentar",
+      "en": "present"
+    },
+    "example": {
+      "en": "I presented my idea.",
+      "es": "Presenté mi idea.",
+      "vi": "Tôi đã trình bày ý tưởng của mình."
+    },
+    "definitions": {
+      "vi": "Trình bày hoặc hiển thị một cái gì đó.",
+      "es": "Presentar o mostrar algo.",
+      "en": "To present or to display something."
+    }
+  },
+  "_id": "fPuAotYIFAkiVdebcNDu"
+}

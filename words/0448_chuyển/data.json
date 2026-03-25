@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:01:27.703Z",
+    "updatedAt": "2025-03-12T14:01:27.703Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "move"
+      },
+      "answer": "chuyển",
+      "translation": {
+        "en": "Do you want to move houses?"
+      },
+      "language": "vi",
+      "choices": [
+        "chuyển",
+        "đến",
+        "nhập"
+      ],
+      "hint": "c___n",
+      "word": "chuyển",
+      "sentence": "Bạn có muốn ___ nhà không?"
+    },
+    "id": "6c1c2666-a081-40dd-85ae-8d56e18e460c"
+  },
+  "word": "chuyển",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**chuyển** usually means *to transfer* or *to move something from one place/person/state to another*. It’s a very flexible verb.\n\nYou use it for physical movement (move a thing), money (transfer funds), and also abstract changes like switching topics, jobs, schools, or gears.\n\n\nA close synonym in some cases is **đổi** (change/switch), but **chuyển** feels more like shifting or transferring, while **đổi** often implies exchanging one thing for another.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chuyển usually means to transfer or to move something from one place/person/state to another. It’s a very flexible verb.\n\nYou use it for physical movement (move a thing), money (transfer funds), and also abstract changes like switching topics, jobs, schools, or gears.\n\nA close synonym in some cases is đổi (change/switch), but chuyển feels more like shifting or transferring, while đổi often implies exchanging one thing for another.",
+  "exampleSentencesTranslated": [
+    "Can you help me transfer the documents to another room?",
+    "I want to transfer money to my mom this weekend.",
+    "When you transfer houses, you need to pack your things carefully."
+  ],
+  "updatedAt": "2026-03-03T07:07:11.786Z",
+  "choices": [
+    "chuyển",
+    "giữ",
+    "mở"
+  ],
+  "definition": "transfer",
+  "fillBlankQuiz": {
+    "id": "4f29e327-92ba-4803-9ced-b5ac30e2196b",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I need to move the furniture to the new house."
+      },
+      "sentence": "Tôi cần ___ đồ đạc sang nhà mới.",
+      "word": "chuyển",
+      "answer": "chuyển",
+      "translatedAnswer": {
+        "en": "move"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:01:27.703Z",
+    "createdAt": "2025-03-12T14:01:27.703Z"
+  },
+  "rank": 448,
+  "exampleSentences": [
+    "Anh có thể giúp em chuyển tài liệu sang phòng khác không?",
+    "Chị muốn chuyển tiền cho mẹ vào cuối tuần này.",
+    "Khi chuyển nhà, em cần đóng gói đồ đạc cẩn thận."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Voy a transferir la mercancía a tu casa.",
+      "vi": "Tôi sẽ chuyển hàng đến nhà bạn.",
+      "en": "I will transfer the goods to your house."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chuyển",
+      "es": "transferir",
+      "en": "transfer"
+    },
+    "definitions": {
+      "es": "Mover o transferir de un lugar a otro.",
+      "vi": "Di chuyển hoặc chuyển giao từ nơi này sang nơi khác.",
+      "en": "To move or transfer from one place to another."
+    },
+    "createdAt": "2025-01-28T11:39:24.374Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "IygUOElNTv7ppWDg0Rww"
+}

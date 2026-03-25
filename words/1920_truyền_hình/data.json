@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "Một hệ thống truyền tải hình ảnh và âm thanh được tái hiện trên màn hình.",
+      "en": "A system for transmitting visual images and sound that are reproduced on screens.",
+      "es": "Un sistema para transmitir imágenes visuales y sonido que se reproducen en pantallas."
+    },
+    "createdAt": "2025-01-28T12:07:08.120Z",
+    "example": {
+      "en": "I like to watch television in the evening.",
+      "vi": "Tôi thích xem truyền hình vào buổi tối.",
+      "es": "Me gusta ver la televisión por la noche."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "televisión",
+      "vi": "truyền hình",
+      "en": "television"
+    }
+  },
+  "exampleSentences": [
+    "Tối nay anh muốn xem truyền hình cùng em không?",
+    "Chị thường xem truyền hình để cập nhật tin tức mỗi sáng.",
+    "Bố mẹ em thích xem truyền hình vào cuối tuần."
+  ],
+  "notes_md": "**Truyền hình** means *television* — the TV as a system or medium, not the physical TV set itself.\n\nIt’s an uncountable noun, so you don’t say “một truyền hình.” You’ll often see it with verbs like **xem** (xem truyền hình) or in phrases like **chương trình truyền hình** (TV program) and **đài truyền hình** (TV station).\n\nIf you mean the physical device, people usually say **cái TV** instead.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:31:04.614Z",
+    "id": "e7e36617-6350-4ffb-97ac-fab18d29ae59",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "television"
+      },
+      "sentence": "Tôi thích xem ___ vào buổi tối.",
+      "choices": [],
+      "word": "truyền hình",
+      "translation": {
+        "en": "I like to watch television in the evening."
+      },
+      "answer": "truyền hình"
+    },
+    "updatedAt": "2025-03-12T14:31:04.614Z"
+  },
+  "definition": "television",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 1920,
+  "exampleSentencesTranslated": [
+    "Do you want to watch television with me tonight?",
+    "She usually watches television to update the news every morning.",
+    "My parents like to watch television on weekends."
+  ],
+  "word": "truyền hình",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "truyền hình",
+      "choices": [
+        "truyền hình",
+        "phim ảnh",
+        "video clip"
+      ],
+      "translation": {
+        "en": "They are watching television in the living room."
+      },
+      "answer": "truyền hình",
+      "hint": "t___h",
+      "sentence": "Họ đang xem ___ ở phòng khách.",
+      "translatedAnswer": {
+        "en": "television"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:31:04.614Z",
+    "id": "41792df0-d70b-4bd8-9710-a9a45ec603f9",
+    "createdAt": "2025-03-12T14:31:04.614Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T09:41:05.381Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "truyền hình",
+    "phát thanh",
+    "điện ảnh"
+  ],
+  "notes": "Truyền hình means television — the TV as a system or medium, not the physical TV set itself.\n\nIt’s an uncountable noun, so you don’t say “một truyền hình.” You’ll often see it with verbs like xem (xem truyền hình) or in phrases like chương trình truyền hình (TV program) and đài truyền hình (TV station).\n\nIf you mean the physical device, people usually say cái TV instead.",
+  "_id": "Q3sw3jDKjTA33n4vPB7p"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chị thường mua quần áo trực tuyến vì tiện lợi và nhanh chóng.",
+    "Anh đang học một khóa tiếng Anh trực tuyến vào buổi tối.",
+    "Em đã tìm thấy nhiều tài liệu hữu ích trực tuyến cho bài tập này."
+  ],
+  "rank": 1503,
+  "word": "trực tuyến",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "online",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "truyền thống",
+    "trực tuyến",
+    "miễn phí"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:56:55.312Z",
+  "fillBlankQuiz": {
+    "id": "8a91ebae-445b-4ea2-a126-a6a6563f2e76",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:41:18.501Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "online"
+      },
+      "sentence": "Chúng tôi học ___ qua Internet.",
+      "word": "trực tuyến",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We study online through the Internet."
+      },
+      "answer": "trực tuyến"
+    },
+    "updatedAt": "2025-03-12T13:41:18.501Z"
+  },
+  "notes": "trực tuyến = online, happening on the internet instead of in person.  \n\nIt describes activities, services, or events done via the internet: học trực tuyến, họp trực tuyến, thanh toán trực tuyến. It usually comes after the noun it describes.  \n\nOften contrasts with trực tiếp (in person, face-to-face).",
+  "exampleSentencesTranslated": [
+    "She often buys clothes online because it is convenient and fast.",
+    "He is taking an online English course in the evening.",
+    "I found many useful materials online for this assignment."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "online",
+      "vi": "trực tuyến",
+      "es": "en línea"
+    },
+    "example": {
+      "en": "I attend an online class every evening.",
+      "vi": "Tôi tham gia lớp học trực tuyến vào mỗi tối.",
+      "es": "Asisto a una clase en línea cada noche."
+    },
+    "createdAt": "2025-01-28T11:19:53.995Z",
+    "definitions": {
+      "en": "Connected to or available through the internet.",
+      "es": "Conectado o disponible a través de internet.",
+      "vi": "Kết nối hoặc có sẵn qua internet."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:41:18.501Z",
+    "content": {
+      "hint": "t___n",
+      "choices": [
+        "trực tuyến",
+        "trực tiếp",
+        "trực giác"
+      ],
+      "translation": {
+        "en": "We study online through the Internet."
+      },
+      "answer": "trực tuyến",
+      "translatedAnswer": {
+        "en": "online"
+      },
+      "word": "trực tuyến",
+      "sentence": "Chúng tôi học ___ qua Internet.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:41:18.501Z",
+    "type": "multiChoiceQuiz",
+    "id": "5b7cdd4f-4c4d-4373-acd5-e1c7a7fb6c09",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**trực tuyến** = online, happening on the internet instead of in person.  \n\nIt describes activities, services, or events done via the internet: học trực tuyến, họp trực tuyến, thanh toán trực tuyến. It usually comes **after** the noun it describes.  \n\nOften contrasts with **trực tiếp** (in person, face-to-face).",
+  "_id": "DjPVQGz33oy1PreFu0Yx"
+}

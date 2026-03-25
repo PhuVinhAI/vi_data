@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:14:46.760Z",
+    "updatedAt": "2025-03-12T17:14:46.760Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "44930bbe-b8ec-4a56-a719-caee2b3674c9",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "vừa",
+      "sentence": "Anh ấy ___ ăn tối xong.",
+      "word": "vừa",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "just"
+      },
+      "choices": [],
+      "translation": {
+        "en": "He just finished dinner."
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T06:42:24.235Z",
+  "exampleSentencesTranslated": [
+    "I just now ate, so I don't want to eat anything more.",
+    "I just now received your message a moment ago.",
+    "I just now got home from school when it started raining heavily."
+  ],
+  "notes_md": "**vừa** usually means **just now / a short time ago** for something that happened very recently. It goes before the verb.\n\n\nIt can also mean **both … and …** when repeated.  \n\nAnother common meaning is **just enough / fitting exactly** (size, amount, level). It can describe size, time, temperature, money, etc.\n\nStrong memory link: think of *vừa* as “fresh + fitting” — either freshly happened or fitting just right.",
+  "word": "vừa",
+  "choices": [
+    "vừa",
+    "sớm",
+    "luôn"
+  ],
+  "notes": "vừa usually means just now / a short time ago for something that happened very recently. It goes before the verb.\n\nIt can also mean both … and … when repeated.  \n\nAnother common meaning is just enough / fitting exactly (size, amount, level). It can describe size, time, temperature, money, etc.\n\nStrong memory link: think of vừa as “fresh + fitting” — either freshly happened or fitting just right.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentences": [
+    "Anh vừa ăn cơm xong nên chưa muốn ăn thêm gì nữa.",
+    "Chị vừa nhận được tin nhắn của bạn lúc nãy.",
+    "Em vừa đi học về thì trời bắt đầu mưa rất to."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "fb32b4a5-226f-4705-b014-5a1e7caa1652",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "v___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "just"
+      },
+      "word": "vừa",
+      "translation": {
+        "en": "She just bought a new car."
+      },
+      "choices": [
+        "vừa",
+        "luôn",
+        "ít"
+      ],
+      "answer": "vừa",
+      "sentence": "Chị ấy ___ mua xe mới."
+    },
+    "createdAt": "2025-03-12T17:14:46.760Z",
+    "updatedAt": "2025-03-12T17:14:46.760Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "indicando que algo acaba de suceder o está sucediendo al mismo tiempo.",
+      "en": "indicating that something has just happened or is happening at the same time.",
+      "vi": "chỉ ra rằng một điều gì đó vừa xảy ra hoặc đang xảy ra cùng một lúc."
+    },
+    "createdAt": "2025-01-28T10:42:43.070Z",
+    "example": {
+      "es": "Acabo de terminar de comer.",
+      "vi": "Tôi vừa ăn xong.",
+      "en": "I just finished eating."
+    },
+    "translations": {
+      "es": "justo",
+      "vi": "vừa",
+      "en": "just"
+    }
+  },
+  "definition": "just now",
+  "rank": 217,
+  "_id": "2ox1ukqHSep707d17KZl"
+}

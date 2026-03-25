@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:48:51.360Z",
+    "definitions": {
+      "vi": "Lấy lớp ngoài hoặc vỏ ra khỏi một cái gì đó.",
+      "es": "Quitar la capa exterior o la piel de algo.",
+      "en": "To remove the outer layer or skin from something."
+    },
+    "translations": {
+      "en": "peel",
+      "es": "pelar",
+      "vi": "bóc"
+    },
+    "example": {
+      "en": "I will peel the fruit.",
+      "vi": "Tôi sẽ bóc vỏ trái cây.",
+      "es": "Voy a pelar la fruta."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em có thể giúp anh bóc vỏ cam này được không?",
+    "Mỗi sáng mẹ thường bóc chuối cho em ăn trước khi đi học.",
+    "Chị bóc từng lớp giấy gói để xem món quà bên trong."
+  ],
+  "rank": 2777,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:11:33.254Z",
+    "updatedAt": "2025-03-12T14:11:33.254Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "peel"
+      },
+      "answer": "bóc",
+      "translation": {
+        "en": "I need to peel this skin."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "bóc",
+      "sentence": "Tôi cần ___ lớp vỏ này."
+    },
+    "id": "c3047f34-e058-4800-8581-255ac82e61ea"
+  },
+  "definition": "to peel",
+  "updatedAt": "2026-03-03T17:29:22.064Z",
+  "choices": [
+    "bóc",
+    "gọt",
+    "cắt"
+  ],
+  "notes": "bóc = to peel or remove a thin outer layer (like skin, shell, wrapper). Think: taking something off the surface.\n\nYou use it for things with layers: bóc vỏ (peel skin/shell), bóc nhãn (remove a label), bóc sơn (strip paint). It’s very physical and hands-on.  \n\nIt can also mean “to expose/reveal” in informal speech, like bóc phốt (expose someone’s scandal).  \nClose memory link: lột = also “peel/strip,” often a bit stronger or rougher.",
+  "exampleSentencesTranslated": [
+    "Can you help me to peel this orange?",
+    "Every morning, mom peels bananas for me before I go to school.",
+    "She peels each layer of wrapping paper to see the present inside."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bóc** = to peel or remove a thin outer layer (like skin, shell, wrapper). Think: taking something off the surface.\n\nYou use it for things with layers: *bóc vỏ* (peel skin/shell), *bóc nhãn* (remove a label), *bóc sơn* (strip paint). It’s very physical and hands-on.  \n\nIt can also mean “to expose/reveal” in informal speech, like *bóc phốt* (expose someone’s scandal).  \nClose memory link: **lột** = also “peel/strip,” often a bit stronger or rougher.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:11:33.254Z",
+    "updatedAt": "2025-03-12T14:11:33.254Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng ta cần ___ trái cây.",
+      "hint": "b__c",
+      "word": "bóc",
+      "language": "vi",
+      "choices": [
+        "bóc",
+        "cắt",
+        "rửa"
+      ],
+      "translation": {
+        "en": "We need to peel the fruit."
+      },
+      "answer": "bóc",
+      "translatedAnswer": {
+        "en": "peel"
+      }
+    },
+    "id": "64c637b5-9893-4457-87f9-1cca2c8fdbf6"
+  },
+  "word": "bóc",
+  "_id": "L5d9FnyV8zOYeshpKbFw"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "word": "dường như",
+      "translation": {
+        "en": "She seems to have left already."
+      },
+      "translatedAnswer": {
+        "en": "seems"
+      },
+      "answer": "dường như",
+      "hint": "d___h",
+      "sentence": "Cô ấy ___ đã đi rồi.",
+      "choices": [
+        "thật sự",
+        "dường như",
+        "có thể"
+      ]
+    },
+    "id": "85289537-bfb5-4ea8-ab1a-0effb5da3db8",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:46:59.437Z",
+    "updatedAt": "2025-03-12T15:46:59.437Z"
+  },
+  "notes_md": "**dường như** = “seem” or “it seems that.” It shows you’re not 100% sure, just giving an impression.\n\nIt usually goes before a full clause.  \n\nIt makes your statement softer and less direct than a plain statement.  \nClose to **có vẻ (như)** — both mean “seem,” but *dường như* feels a bit more thoughtful or reflective.",
+  "exampleSentencesTranslated": [
+    "He seem not to know there is an important meeting today.",
+    "You seem to have forgotten to bring the keys when leaving the house.",
+    "It seem like it will rain, so she brought an umbrella just in case."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "dường như",
+  "flashcard": {
+    "definitions": {
+      "vi": "Có vẻ; hình như.",
+      "es": "Parece; parece que.",
+      "en": "It seems; it appears."
+    },
+    "createdAt": "2025-01-28T13:19:30.089Z",
+    "example": {
+      "vi": "Dường như trời sắp mưa.",
+      "en": "It seems like it's going to rain.",
+      "es": "Parece que va a llover."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "seems",
+      "es": "parece",
+      "vi": "dường như"
+    }
+  },
+  "updatedAt": "2026-03-03T10:17:06.093Z",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "dường như",
+      "translation": {
+        "en": "He seems not happy today."
+      },
+      "language": "vi",
+      "choices": [],
+      "sentence": "Cậu ấy ___ không vui hôm nay.",
+      "translatedAnswer": {
+        "en": "seems"
+      },
+      "answer": "dường như"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "22930f56-8fca-4287-9c79-d82ce5923591",
+    "createdAt": "2025-03-12T15:46:59.437Z",
+    "updatedAt": "2025-03-12T15:46:59.437Z"
+  },
+  "choices": [
+    "dường như",
+    "hầu như",
+    "giống như"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Dường như anh ấy không biết hôm nay có cuộc họp quan trọng.",
+    "Em dường như đã quên mang theo chìa khóa khi ra khỏi nhà.",
+    "Trời dường như sẽ mưa nên chị mang theo ô để phòng."
+  ],
+  "definition": "seem",
+  "notes": "dường như = “seem” or “it seems that.” It shows you’re not 100% sure, just giving an impression.\n\nIt usually goes before a full clause.  \n\nIt makes your statement softer and less direct than a plain statement.  \nClose to có vẻ (như) — both mean “seem,” but dường như feels a bit more thoughtful or reflective.",
+  "rank": 2259,
+  "_id": "ilHP58dFrUooysqoHSmS"
+}

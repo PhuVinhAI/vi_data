@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Chị có thể giúp em kiểm tra chất lượng của hàng trong kho không?",
+    "Anh muốn đặt thêm hàng để bán trong cửa hàng của mình.",
+    "Sáng nay, em nhận được một lô hàng mới từ nhà cung cấp."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "8c79c2c6-a7d6-4375-beeb-4b652ddc07cc",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "The store opens at 9 o'clock."
+      },
+      "word": "hàng",
+      "answer": "hàng",
+      "translatedAnswer": {
+        "en": "store"
+      },
+      "choices": [],
+      "sentence": "Cửa ___ mở lúc 9 giờ."
+    },
+    "updatedAt": "2025-03-12T17:22:07.438Z",
+    "createdAt": "2025-03-12T17:22:07.438Z"
+  },
+  "choices": [
+    "hàng",
+    "giày",
+    "bàn"
+  ],
+  "rank": 243,
+  "notes": "hàng = goods, merchandise — physical things that are bought and sold.\n\nIt’s a noun. No plural form; quantity is shown with words like lô hàng (a batch), kiện hàng (a package), món hàng (an item). Very common pairing: hàng hóa (goods, more formal/complete sound).\n\nAnother very common meaning is row / line (like a line of people or things), and from that you get xếp hàng = to line up.\n\nYou’ll also see it inside compound words: cửa hàng (shop), khách hàng (customer — literally “goods-line person,” think: person related to buying goods).",
+  "definition": "goods",
+  "notes_md": "**hàng** = goods, merchandise — physical things that are bought and sold.\n\nIt’s a noun. No plural form; quantity is shown with words like **lô hàng** (a batch), **kiện hàng** (a package), **món hàng** (an item). Very common pairing: **hàng hóa** (goods, more formal/complete sound).\n\nAnother very common meaning is **row / line** (like a line of people or things), and from that you get **xếp hàng** = to line up.\n\nYou’ll also see it inside compound words: **cửa hàng** (shop), **khách hàng** (customer — literally “goods-line person,” think: person related to buying goods).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:22:07.438Z",
+    "updatedAt": "2025-03-12T17:22:07.438Z",
+    "content": {
+      "translation": {
+        "en": "The store opens at 9 o'clock."
+      },
+      "word": "hàng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "store"
+      },
+      "answer": "hàng",
+      "choices": [
+        "hàng",
+        "trang",
+        "sách"
+      ],
+      "sentence": "Cửa ___ mở lúc 9 giờ.",
+      "hint": "h___g"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "4ae09daa-deeb-4f5d-99fe-bb0dc55288cb"
+  },
+  "updatedAt": "2026-03-03T06:45:00.934Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "hàng",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hàng hóa",
+      "es": "mercancía",
+      "en": "goods"
+    },
+    "example": {
+      "vi": "Tôi cần mua hàng mới.",
+      "en": "I need to buy new goods.",
+      "es": "Necesito comprar mercancía nueva."
+    },
+    "createdAt": "2025-01-28T13:34:03.340Z",
+    "definitions": {
+      "vi": "Hàng hóa hoặc mặt hàng đang được bán.",
+      "es": "Bienes o artículos que están a la venta.",
+      "en": "Goods or items that are for sale."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Can you help me check the quality of the goods in the warehouse?",
+    "I want to order more goods to sell in my store.",
+    "This morning, I received a new shipment of goods from the supplier."
+  ],
+  "_id": "mhcKc5eu6ZW194sZNk9y"
+}

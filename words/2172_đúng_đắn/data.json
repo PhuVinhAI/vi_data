@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh luôn cố gắng đưa ra những quyết định đúng đắn trong công việc.",
+    "Chị tin rằng lựa chọn đúng đắn sẽ mang lại kết quả tốt.",
+    "Bố mẹ thường khuyên em phải sống đúng đắn và trung thực."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đúng đắn",
+    "cẩn thận",
+    "chính xác"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:42:10.131Z",
+    "createdAt": "2025-03-12T15:42:10.131Z",
+    "id": "46a23b26-b96c-478c-82ee-f8d70949837b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "correct"
+      },
+      "answer": "đúng đắn",
+      "choices": [],
+      "sentence": "Câu trả lời của bạn là ___.",
+      "language": "vi",
+      "word": "đúng đắn",
+      "translation": {
+        "en": "Your answer is correct."
+      }
+    }
+  },
+  "rank": 2172,
+  "notes": "đúng đắn = proper, right, morally or logically correct. It’s about being correct in a thoughtful, ethical way — not just factually right.\n\nIt’s an adjective, used to describe things like quan điểm, thái độ, cách xử lý, lập trường. It often talks about judgment, behavior, or reasoning.\n\nStronger than just đúng (correct); it adds a sense of fairness or moral soundness. Close to hợp lý (reasonable). Opposite: sai trái (wrong in a moral way).\n\nYou’ll often see it after nouns it describes: một quan điểm đúng đắn, thái độ đúng đắn.",
+  "definition": "proper",
+  "notes_md": "**đúng đắn** = proper, right, morally or logically correct. It’s about being correct in a thoughtful, ethical way — not just factually right.\n\nIt’s an **adjective**, used to describe things like *quan điểm, thái độ, cách xử lý, lập trường*. It often talks about judgment, behavior, or reasoning.\n\nStronger than just **đúng** (correct); it adds a sense of fairness or moral soundness. Close to **hợp lý** (reasonable). Opposite: **sai trái** (wrong in a moral way).\n\nYou’ll often see it after nouns it describes: *một quan điểm đúng đắn, thái độ đúng đắn*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:42:10.131Z",
+    "updatedAt": "2025-03-12T15:42:10.131Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Do you think this answer is correct?"
+      },
+      "word": "đúng đắn",
+      "translatedAnswer": {
+        "en": "correct"
+      },
+      "answer": "đúng đắn",
+      "hint": "đ___ đ__n",
+      "choices": [
+        "sai lầm",
+        "đúng đắn",
+        "không chính xác"
+      ],
+      "sentence": "Bạn có nghĩ đáp án này là ___ không?"
+    },
+    "id": "65fa7348-bf59-4626-9bba-d6b33e17de5b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T10:07:42.742Z",
+  "word": "đúng đắn",
+  "flashcard": {
+    "translations": {
+      "vi": "đúng đắn",
+      "es": "correcto",
+      "en": "correct"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Câu trả lời của bạn rất đúng đắn.",
+      "en": "Your answer is very correct.",
+      "es": "Tu respuesta es muy correcta."
+    },
+    "definitions": {
+      "es": "Correcto o adecuado en un sentido moral o lógico.",
+      "en": "Correct or right in a moral or logical sense.",
+      "vi": "Đúng hoặc hợp lý về mặt đạo đức hoặc logic."
+    },
+    "createdAt": "2025-01-28T13:15:21.201Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He always tries to make proper decisions at work.",
+    "She believes that a proper choice will bring good results.",
+    "My parents often advise me to live a proper and honest life."
+  ],
+  "_id": "hl7TLaWA56pU4jZj7O6c"
+}

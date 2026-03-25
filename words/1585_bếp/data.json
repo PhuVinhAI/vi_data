@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bếp",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:31:54.612Z",
+    "type": "multiChoiceQuiz",
+    "id": "ab8415b6-27af-4b51-9ce2-d42a33e47a96",
+    "createdAt": "2025-03-12T13:31:54.612Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "b__p",
+      "answer": "bếp",
+      "translation": {
+        "en": "This kitchen is very modern."
+      },
+      "translatedAnswer": {
+        "en": "kitchen"
+      },
+      "word": "bếp",
+      "language": "vi",
+      "sentence": "Cái ___ này rất hiện đại.",
+      "choices": [
+        "bếp",
+        "bồn",
+        "bàn"
+      ]
+    }
+  },
+  "notes_md": "**bếp** = kitchen. It’s the place where you cook, prepare food, and often eat together at home.\n\nIt’s a noun. You can say **cái bếp** (the kitchen / a stove) or **phòng bếp** (kitchen room). Very often paired with **nấu ăn**, **dọn bếp**, **vào bếp**, **ra bếp**.\n\nIt can also mean **stove** depending on context (like gas stove, wood stove), so listen for clues. Related word: **nhà bếp** (kitchen area, sometimes more formal).",
+  "choices": [
+    "bàn",
+    "bếp",
+    "cửa"
+  ],
+  "rank": 1585,
+  "notes": "bếp = kitchen. It’s the place where you cook, prepare food, and often eat together at home.\n\nIt’s a noun. You can say cái bếp (the kitchen / a stove) or phòng bếp (kitchen room). Very often paired with nấu ăn, dọn bếp, vào bếp, ra bếp.\n\nIt can also mean stove depending on context (like gas stove, wood stove), so listen for clues. Related word: nhà bếp (kitchen area, sometimes more formal).",
+  "updatedAt": "2026-03-03T09:05:52.451Z",
+  "exampleSentences": [
+    "Mỗi sáng anh đều vào bếp pha cà phê cho cả nhà.",
+    "Chị thích nấu ăn nên thường dành nhiều thời gian trong bếp.",
+    "Em có thể giúp mẹ dọn dẹp bếp sau bữa tối không?"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:31:54.612Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:31:54.612Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi nấu ăn trong ___ của tôi.",
+      "word": "bếp",
+      "choices": [],
+      "answer": "bếp",
+      "translatedAnswer": {
+        "en": "kitchen"
+      },
+      "translation": {
+        "en": "I cook in my kitchen."
+      }
+    },
+    "id": "1f7d7faf-7ba3-4079-b53b-3c8a48ecc419",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Every morning he goes into the kitchen to make coffee for the family.",
+    "She likes cooking so she often spends a lot of time in the kitchen.",
+    "Can you help mom clean up the kitchen after dinner?"
+  ],
+  "definition": "kitchen",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:11:34.237Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "kitchen",
+      "es": "cocina",
+      "vi": "bếp"
+    },
+    "example": {
+      "vi": "Tôi đang nấu ăn trong bếp.",
+      "es": "Estoy cocinando en la cocina.",
+      "en": "I am cooking in the kitchen."
+    },
+    "definitions": {
+      "en": "A room or area where food is prepared and cooked.",
+      "es": "Una habitación o área donde se prepara y cocina la comida.",
+      "vi": "Một phòng hoặc khu vực nơi thực phẩm được chuẩn bị và nấu chín."
+    }
+  },
+  "_id": "BPSDH5YIRoIKySSQr50G"
+}

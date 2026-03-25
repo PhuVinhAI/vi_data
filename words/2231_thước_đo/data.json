@@ -1,0 +1,98 @@
+{
+  "choices": [
+    "thước đo",
+    "bút chì",
+    "giấy nháp"
+  ],
+  "rank": 2231,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "50354a5b-757e-40b1-a925-dc9900bebd59",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:59:25.033Z",
+    "updatedAt": "2025-03-12T14:59:25.033Z",
+    "content": {
+      "translation": {
+        "en": "You need a measure to check the size."
+      },
+      "choices": [
+        "thước đo",
+        "cân nặng",
+        "đo đạc"
+      ],
+      "translatedAnswer": {
+        "en": "measure"
+      },
+      "word": "thước đo",
+      "language": "vi",
+      "hint": "th___",
+      "answer": "thước đo",
+      "sentence": "Cần có ___ để kiểm tra kích thước."
+    }
+  },
+  "word": "thước đo",
+  "notes": "Thước đo literally means a measuring tool (like a ruler or measuring device).  \n\nIt’s a noun. Use cái thước đo when counting. It often goes with what is being measured: thước đo chiều dài, thước đo nhiệt độ.  \n\nIt also has a very common figurative meaning: a standard or benchmark to evaluate something, like thước đo thành công (a measure of success).  \n\nClose synonym in the abstract sense: tiêu chuẩn (standard), but thước đo feels more like “how you measure or judge something.”",
+  "exampleSentences": [
+    "Anh có thể cho em mượn thước đo để kiểm tra chiều dài này không?",
+    "Trong lớp học, cô giáo yêu cầu mỗi học sinh chuẩn bị một thước đo.",
+    "Khi sửa chữa bàn, ba luôn dùng thước đo để đảm bảo mọi thứ chính xác."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you lend me a measurement tool to check this length?",
+    "In class, the teacher asks each student to prepare a measurement tool.",
+    "When fixing the table, dad always uses a measurement tool to make sure everything is accurate."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:14:07.090Z",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "thước đo",
+      "language": "vi",
+      "answer": "thước đo",
+      "sentence": "Anh ấy sử dụng ___ để đo chiều dài.",
+      "translation": {
+        "en": "He uses a measure to determine the length."
+      },
+      "translatedAnswer": {
+        "en": "measure"
+      }
+    },
+    "updatedAt": "2025-03-12T14:59:25.033Z",
+    "createdAt": "2025-03-12T14:59:25.033Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "ec54f362-1c7d-4d76-bd95-14040032f709"
+  },
+  "flashcard": {
+    "example": {
+      "en": "This measuring tool is very accurate.",
+      "es": "Esta herramienta de medición es muy precisa.",
+      "vi": "Thước đo này rất chính xác."
+    },
+    "translations": {
+      "en": "measuring tool",
+      "es": "herramienta de medición",
+      "vi": "thước đo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A device used to determine the size, amount, or degree of something.",
+      "es": "Un dispositivo utilizado para determinar el tamaño, la cantidad o el grado de algo.",
+      "vi": "Một thiết bị được sử dụng để xác định kích thước, số lượng hoặc mức độ của một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:32:25.328Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Thước đo** literally means a measuring tool (like a ruler or measuring device).  \n\nIt’s a noun. Use **cái thước đo** when counting. It often goes with what is being measured: *thước đo chiều dài, thước đo nhiệt độ*.  \n\nIt also has a very common figurative meaning: a standard or benchmark to evaluate something, like *thước đo thành công* (a measure of success).  \n\nClose synonym in the abstract sense: **tiêu chuẩn** (standard), but *thước đo* feels more like “how you measure or judge something.”",
+  "definition": "measurement tool",
+  "_id": "Wmw0J5W0XmgTe4libXEm"
+}

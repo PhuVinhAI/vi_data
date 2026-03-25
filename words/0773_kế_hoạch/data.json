@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "kết quả",
+    "kế hoạch",
+    "kỹ năng"
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Una propuesta detallada para hacer o lograr algo.",
+      "en": "A detailed proposal for doing or achieving something.",
+      "vi": "Một đề xuất chi tiết để thực hiện hoặc đạt được điều gì đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:48:09.499Z",
+    "example": {
+      "vi": "Tôi đã lập kế hoạch cho chuyến đi này.",
+      "en": "I have made a plan for this trip.",
+      "es": "He hecho un plan para este viaje."
+    },
+    "translations": {
+      "vi": "kế hoạch",
+      "en": "plan",
+      "es": "plan"
+    }
+  },
+  "exampleSentences": [
+    "Anh đã chuẩn bị một kế hoạch cho chuyến du lịch cuối tuần này.",
+    "Chị muốn thảo luận về kế hoạch học tập với em vào chiều nay.",
+    "Nhóm của chúng ta cần có một kế hoạch rõ ràng để hoàn thành dự án."
+  ],
+  "exampleSentencesTranslated": [
+    "I have prepared a plan for this weekend's trip.",
+    "I want to discuss the study plan with you this afternoon.",
+    "Our team needs a clear plan to complete the project."
+  ],
+  "updatedAt": "2026-03-03T07:39:05.575Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Kế hoạch means plan — something you prepare before doing something. It’s a countable noun: một kế hoạch, nhiều kế hoạch.\n\nCommon verbs: lập kế hoạch, lên kế hoạch (to make a plan), thực hiện kế hoạch (carry out), theo kế hoạch (according to plan).  \n\nIt’s often followed by cho + noun (kế hoạch cho dự án) or về + noun (kế hoạch về tài chính).  \n\nClose word: dự định = intention (more about what you intend, less detailed than kế hoạch).",
+  "word": "kế hoạch",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta cần ___ cho bữa tiệc.",
+      "translatedAnswer": {
+        "en": "plan"
+      },
+      "translation": {
+        "en": "We need a plan for the party."
+      },
+      "choices": [],
+      "word": "kế hoạch",
+      "answer": "kế hoạch",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:16:28.949Z",
+    "createdAt": "2025-03-12T16:16:28.949Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "5ef666e8-7ea5-4236-a445-4712e1350df7"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 773,
+  "notes_md": "**Kế hoạch** means *plan* — something you prepare before doing something. It’s a **countable noun**: một kế hoạch, nhiều kế hoạch.\n\nCommon verbs: **lập kế hoạch**, **lên kế hoạch** (to make a plan), **thực hiện kế hoạch** (carry out), **theo kế hoạch** (according to plan).  \n\nIt’s often followed by **cho + noun** (kế hoạch cho dự án) or **về + noun** (kế hoạch về tài chính).  \n\nClose word: **dự định** = intention (more about what you intend, less detailed than kế hoạch).",
+  "definition": "plan",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:16:28.949Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần một ___ cho bữa tiệc.",
+      "hint": "k___n",
+      "translation": {
+        "en": "We need a plan for the party."
+      },
+      "translatedAnswer": {
+        "en": "plan"
+      },
+      "word": "kế hoạch",
+      "choices": [
+        "dự án",
+        "kế hoạch",
+        "chiến lược"
+      ],
+      "language": "vi",
+      "answer": "kế hoạch"
+    },
+    "id": "58f1fb86-4796-4d48-a338-d9cf0668948b",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:16:28.949Z"
+  },
+  "_id": "qlzeqaNOYGmq9XmUfZTg"
+}

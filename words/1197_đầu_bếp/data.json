@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đầu bếp = chef, the person who cooks professionally in a restaurant or hotel.\n\nIt’s a countable noun: một đầu bếp, hai đầu bếp. Often used with words like giỏi (skilled), nổi tiếng (famous), or places like nhà hàng, khách sạn.  \n\nCommon pairings: đầu bếp chính (head chef), phụ bếp (kitchen assistant), bếp trưởng (another way to say head chef).  \n\nIt focuses on the professional role, not just someone who can cook at home.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:59:33.112Z",
+    "translations": {
+      "vi": "đầu bếp",
+      "en": "chef",
+      "es": "chef"
+    },
+    "example": {
+      "es": "El chef de este restaurante es muy talentoso.",
+      "en": "The chef of this restaurant is very talented.",
+      "vi": "Đầu bếp của nhà hàng này rất tài năng."
+    },
+    "definitions": {
+      "vi": "Người nấu ăn chuyên nghiệp, đặc biệt là đầu bếp chính trong một nhà hàng.",
+      "es": "Una persona que cocina profesionalmente, especialmente el cocinero principal en un restaurante.",
+      "en": "A person who cooks professionally, especially the chief cook in a restaurant."
+    }
+  },
+  "exampleSentences": [
+    "Chị muốn trở thành đầu bếp giỏi để nấu ăn cho gia đình.",
+    "Anh ấy làm việc ở nhà hàng lớn với vai trò đầu bếp.",
+    "Mỗi khi em đến quán ăn này, em luôn gặp đầu bếp rất thân thiện."
+  ],
+  "updatedAt": "2026-03-03T08:23:14.802Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:28:37.977Z",
+    "id": "92dfe141-90e5-4ad1-a7e4-8247bab832b7",
+    "content": {
+      "hint": "đ___ b___",
+      "word": "đầu bếp",
+      "sentence": "Ai là ___ giỏi nhất trong nhà hàng?",
+      "translation": {
+        "en": "Who is the best chef in the restaurant?"
+      },
+      "answer": "đầu bếp",
+      "choices": [
+        "đầu bếp",
+        "nhà hàng",
+        "thực phẩm"
+      ],
+      "translatedAnswer": {
+        "en": "chef"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:28:37.977Z",
+    "type": "multiChoiceQuiz"
+  },
+  "choices": [
+    "đầu bếp",
+    "nhân viên",
+    "bác sĩ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She wants to become a good chef to cook for her family.",
+    "He works at a big restaurant as a chef.",
+    "Every time I come to this eatery, I always meet a very friendly chef."
+  ],
+  "word": "đầu bếp",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**đầu bếp** = chef, the person who cooks professionally in a restaurant or hotel.\n\nIt’s a countable noun: *một đầu bếp, hai đầu bếp*. Often used with words like *giỏi* (skilled), *nổi tiếng* (famous), or places like *nhà hàng, khách sạn*.  \n\nCommon pairings: *đầu bếp chính* (head chef), *phụ bếp* (kitchen assistant), *bếp trưởng* (another way to say head chef).  \n\nIt focuses on the professional role, not just someone who can cook at home.",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "đầu bếp",
+      "sentence": "Tôi muốn trở thành ___ nổi tiếng.",
+      "choices": [],
+      "answer": "đầu bếp",
+      "translation": {
+        "en": "I want to become a famous chef."
+      },
+      "translatedAnswer": {
+        "en": "chef"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:28:37.977Z",
+    "type": "fillBlankQuiz",
+    "id": "7e8e31f7-e670-4d0a-bf1f-59d94a979058",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:28:37.977Z"
+  },
+  "definition": "chef",
+  "rank": 1197,
+  "_id": "teVcpMspK9zaRmlqyvST"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:42:24.562Z",
+    "definitions": {
+      "en": "To give something and receive something in return.",
+      "es": "Dar algo y recibir algo a cambio.",
+      "vi": "Đưa cái gì đó và nhận lại cái gì đó."
+    },
+    "translations": {
+      "es": "intercambiar",
+      "vi": "trao đổi",
+      "en": "exchange"
+    },
+    "example": {
+      "en": "We need to exchange information to understand each other better.",
+      "es": "Necesitamos intercambiar información para entendernos mejor.",
+      "vi": "Chúng ta cần trao đổi thông tin để hiểu nhau hơn."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn trao đổi ý kiến với em về dự án này.",
+    "Chúng ta có thể trao đổi số điện thoại để liên lạc dễ hơn không?",
+    "Sau buổi họp, mọi người đã trao đổi nhiều thông tin hữu ích."
+  ],
+  "rank": 1008,
+  "definition": "exchange",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:04:28.818Z",
+    "createdAt": "2025-03-12T14:04:28.818Z",
+    "id": "224d15e6-99f3-4b45-bb1b-2264e2c00ac8",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "We will exchange information with each other."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "trao đổi",
+      "sentence": "Chúng ta sẽ ___ thông tin với nhau.",
+      "translatedAnswer": {
+        "en": "exchange"
+      },
+      "answer": "trao đổi"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I want to exchange ideas with you about this project.",
+    "Can we exchange phone numbers to contact each other more easily?",
+    "After the meeting, everyone exchanged a lot of useful information."
+  ],
+  "notes": "trao đổi = to exchange. It’s used when two sides give and receive something (information, ideas, goods).\n\nVery common with abstract things: trao đổi ý kiến, thông tin, kinh nghiệm. You can also use it for physical things, but it’s more common for ideas and communication.\n\nClose synonym: thảo luận (discuss) — but thảo luận focuses more on discussing, while trao đổi highlights the two-way exchange.",
+  "updatedAt": "2026-03-03T08:03:20.820Z",
+  "choices": [
+    "trao đổi",
+    "thảo luận",
+    "giải thích"
+  ],
+  "notes_md": "**trao đổi** = to exchange. It’s used when two sides give and receive something (information, ideas, goods).\n\nVery common with abstract things: *trao đổi ý kiến, thông tin, kinh nghiệm*. You can also use it for physical things, but it’s more common for ideas and communication.\n\n\nClose synonym: **thảo luận** (discuss) — but *thảo luận* focuses more on discussing, while *trao đổi* highlights the two-way exchange.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "trao đổi",
+      "translatedAnswer": {
+        "en": "exchange"
+      },
+      "sentence": "Bạn có muốn ___ ý kiến không?",
+      "word": "trao đổi",
+      "hint": "tr___ đổi",
+      "language": "vi",
+      "choices": [
+        "đổi chác",
+        "trao đổi",
+        "thảo luận"
+      ],
+      "translation": {
+        "en": "Do you want to exchange opinions?"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "a3f89ebd-1264-4778-a10e-d10cb5349197",
+    "createdAt": "2025-03-12T14:04:28.818Z",
+    "updatedAt": "2025-03-12T14:04:28.818Z"
+  },
+  "word": "trao đổi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "JjA04hixpdCX3AvuLNef"
+}

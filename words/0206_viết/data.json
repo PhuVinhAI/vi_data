@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em có thể viết một bức thư ngắn cho bạn của mình không?",
+    "Sáng nay, anh phải viết báo cáo cho công ty trước khi đi làm.",
+    "Chị thường viết nhật ký mỗi tối để ghi lại những suy nghĩ của mình."
+  ],
+  "updatedAt": "2026-03-03T06:41:21.601Z",
+  "notes": "viết = to write (put words on paper or screen).\n\nUse it for letters, emails, essays, reports, messages, lyrics, etc. You can add what you write, who you write to, what you write about, or what you write with.  \nStructure: viết + something / viết cho + person / viết về + topic / viết bằng + tool or language (i.e. viết email cho sếp)\n\nviết focuses on creating text; ghi is more like “write down” or “note down” (quick, short info). Don’t confuse it with vẽ (to draw).",
+  "definition": "write",
+  "flashcard": {
+    "definitions": {
+      "es": "formar letras, palabras o símbolos en una superficie con un instrumento.",
+      "vi": "hình thành chữ cái, từ hoặc ký hiệu trên một bề mặt bằng một công cụ.",
+      "en": "to form letters, words, or symbols on a surface with an instrument."
+    },
+    "example": {
+      "vi": "Tôi thích viết nhật ký mỗi ngày.",
+      "es": "Me gusta escribir en mi diario todos los días.",
+      "en": "I like to write in my diary every day."
+    },
+    "translations": {
+      "vi": "viết",
+      "es": "escribir",
+      "en": "to write"
+    },
+    "createdAt": "2025-01-28T13:08:56.815Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Can you write a short letter to your friend?",
+    "This morning, I have to write a report for the company before going to work.",
+    "She usually writes a diary every night to record her thoughts."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "7ff7a6f9-2063-4596-b7ba-d1c0977b3b87",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi cần ___ thư này.",
+      "word": "viết",
+      "choices": [],
+      "answer": "viết",
+      "translatedAnswer": {
+        "en": "write"
+      },
+      "translation": {
+        "en": "I need to write this letter."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:31.094Z",
+    "updatedAt": "2025-03-12T15:34:31.094Z"
+  },
+  "word": "viết",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "đọc",
+    "viết",
+    "nghe"
+  ],
+  "rank": 206,
+  "notes_md": "**viết** = to write (put words on paper or screen).\n\nUse it for letters, emails, essays, reports, messages, lyrics, etc. You can add what you write, who you write to, what you write about, or what you write with.  \nStructure: viết + something / viết cho + person / viết về + topic / viết bằng + tool or language (i.e. viết email cho sếp)\n\n**viết** focuses on creating text; **ghi** is more like “write down” or “note down” (quick, short info). Don’t confuse it with **vẽ** (to draw).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:34:31.094Z",
+    "id": "f782122e-2b34-4d9a-989b-796e103c79de",
+    "content": {
+      "hint": "v__t",
+      "answer": "viết",
+      "translation": {
+        "en": "She writes a poem."
+      },
+      "translatedAnswer": {
+        "en": "write"
+      },
+      "word": "viết",
+      "sentence": "Cô ấy ___ một bài thơ.",
+      "language": "vi",
+      "choices": [
+        "vẽ",
+        "đọc",
+        "viết"
+      ]
+    },
+    "createdAt": "2025-03-12T15:34:31.094Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "fxwHjh5Hnds8n0GBEOay"
+}

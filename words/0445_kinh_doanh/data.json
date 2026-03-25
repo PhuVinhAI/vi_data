@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:01:20.118Z",
+    "updatedAt": "2025-03-12T13:01:20.118Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn học ___ tốt hơn.",
+      "answer": "kinh doanh",
+      "choices": [],
+      "translation": {
+        "en": "I want to learn business better."
+      },
+      "word": "kinh doanh",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "business"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "737c5be0-3bf9-48c0-b9ec-dfb439bd03bf"
+  },
+  "updatedAt": "2026-03-03T07:06:52.902Z",
+  "exampleSentencesTranslated": [
+    "I want to learn more about business to open my own shop.",
+    "She has a lot of experience in international business.",
+    "My family has done business selling clothes at the market for many years."
+  ],
+  "notes_md": "**Kinh doanh** means “to do business” or “business” in general. It’s about buying, selling, or running something to make money.\n\nAs a verb, it often goes with products or fields: *kinh doanh quần áo, kinh doanh online, kinh doanh bất động sản*. You can also say *kinh doanh trong lĩnh vực + N* to show the area.\n\n\nClose words: *buôn bán* (more small-scale, market-style trading). *Kinh doanh* sounds broader and more formal.",
+  "word": "kinh doanh",
+  "notes": "Kinh doanh means “to do business” or “business” in general. It’s about buying, selling, or running something to make money.\n\nAs a verb, it often goes with products or fields: kinh doanh quần áo, kinh doanh online, kinh doanh bất động sản. You can also say kinh doanh trong lĩnh vực + N to show the area.\n\nClose words: buôn bán (more small-scale, market-style trading). Kinh doanh sounds broader and more formal.",
+  "choices": [
+    "kinh doanh",
+    "giảng dạy",
+    "du lịch"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn học thêm về kinh doanh để mở cửa hàng riêng.",
+    "Chị ấy có nhiều kinh nghiệm trong lĩnh vực kinh doanh quốc tế.",
+    "Gia đình em đã kinh doanh quần áo ở chợ nhiều năm rồi."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "72bb38a5-22de-49f2-9c7d-e9bd6ed42b71",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "kinh doanh",
+      "sentence": "Tôi muốn học ___ tốt hơn.",
+      "hint": "k____n",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "business"
+      },
+      "word": "kinh doanh",
+      "translation": {
+        "en": "I want to learn business better."
+      },
+      "choices": [
+        "kinh doanh",
+        "quản lý",
+        "đầu tư"
+      ]
+    },
+    "createdAt": "2025-03-12T13:01:20.118Z",
+    "updatedAt": "2025-03-12T13:01:20.118Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "La actividad de hacer, comprar o vender bienes o proporcionar servicios a cambio de dinero.",
+      "en": "The activity of making, buying, or selling goods or providing services in exchange for money.",
+      "vi": "Hoạt động làm, mua hoặc bán hàng hóa hoặc cung cấp dịch vụ để đổi lấy tiền."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:44:13.642Z",
+    "example": {
+      "en": "I want to learn how to do business effectively.",
+      "vi": "Tôi muốn học cách kinh doanh hiệu quả.",
+      "es": "Quiero aprender a hacer negocios de manera efectiva."
+    },
+    "translations": {
+      "en": "business",
+      "vi": "kinh doanh",
+      "es": "negocios"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "business",
+  "rank": 445,
+  "_id": "3G0ixIPs54WvHzk1hawX"
+}

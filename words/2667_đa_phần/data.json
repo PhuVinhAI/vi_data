@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:04:54.963Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đa phần",
+      "es": "la mayoría",
+      "en": "most part"
+    },
+    "example": {
+      "en": "Most students like Math.",
+      "vi": "Đa phần học sinh đều thích môn Toán.",
+      "es": "La mayoría de los estudiantes les gusta las matemáticas."
+    },
+    "definitions": {
+      "vi": "Phần lớn hoặc phần nhiều của một cái gì đó.",
+      "es": "La mayoría o la mayor parte de algo.",
+      "en": "The majority or most part of something."
+    }
+  },
+  "definition": "most",
+  "fillBlankQuiz": {
+    "id": "88889082-034d-43f0-8ef9-6012b95dd2fa",
+    "content": {
+      "choices": [],
+      "sentence": "Người dân ___ thích xem phim.",
+      "language": "vi",
+      "word": "đa phần",
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "translation": {
+        "en": "Most people like to watch movies."
+      },
+      "answer": "đa phần"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:24:26.698Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:24:26.698Z"
+  },
+  "exampleSentencesTranslated": [
+    "Most of my friends like to listen to pop music on weekends.",
+    "Most of the employees at the company arrive on time.",
+    "Most of the customers at this restaurant are satisfied with the food."
+  ],
+  "updatedAt": "2026-03-03T11:33:57.450Z",
+  "exampleSentences": [
+    "Đa phần bạn bè của em đều thích nghe nhạc pop vào cuối tuần.",
+    "Anh thấy đa phần nhân viên ở công ty đều đi làm đúng giờ.",
+    "Chị nghĩ đa phần thực khách ở nhà hàng này đều hài lòng với món ăn."
+  ],
+  "notes": "đa phần = most, the majority of something. It talks about a large part of a group, not all.\n\nIt’s often placed before a noun to describe a group of people or things.  \n\nIt’s similar to phần lớn (very close in meaning).  \nDon’t confuse it with hầu hết (almost all, stronger than đa phần).",
+  "notes_md": "**đa phần** = most, the majority of something. It talks about a large part of a group, not all.\n\nIt’s often placed before a noun to describe a group of people or things.  \n\nIt’s similar to **phần lớn** (very close in meaning).  \nDon’t confuse it with **hầu hết** (almost all, stronger than *đa phần*).",
+  "rank": 2667,
+  "choices": [
+    "đa phần",
+    "ít khi",
+    "một chút"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:24:26.698Z",
+    "content": {
+      "hint": "đ___n",
+      "answer": "đa phần",
+      "translation": {
+        "en": "Most people like to watch movies."
+      },
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "word": "đa phần",
+      "language": "vi",
+      "sentence": "Người dân ___ thích xem phim.",
+      "choices": [
+        "đa phần",
+        "một phần",
+        "không phần"
+      ]
+    },
+    "id": "d9ae5d5f-24c8-42c5-be63-8701a9242061",
+    "updatedAt": "2025-03-12T13:24:26.698Z"
+  },
+  "word": "đa phần",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "9epLrBj2yqLf4G1FOdA4"
+}

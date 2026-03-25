@@ -1,0 +1,96 @@
+{
+  "flashcard": {
+    "createdAt": "2025-05-24T16:30:04.961Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "how; how come"
+    },
+    "example": {
+      "en": "How do you know that?",
+      "vi": "Bạn làm sao biết được điều đó?"
+    },
+    "definitions": {
+      "en": "A phrase used to ask about how something is done or why something happens.",
+      "vi": "Từ dùng để hỏi về cách thức, phương pháp hoặc lý do của một việc gì đó."
+    },
+    "word": "làm sao"
+  },
+  "definition": "how",
+  "exampleSentencesTranslated": [
+    "Can you show me how to cook this dish?",
+    "I don't know how to solve this problem quickly.",
+    "I want to know how I can speak Vietnamese better."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:30:16.001Z",
+    "content": {
+      "answer": "làm sao",
+      "translation": {
+        "en": "Can you help me how?"
+      },
+      "translatedAnswer": {
+        "en": "how"
+      },
+      "word": "làm sao",
+      "sentence": "Bạn có ___ giúp tôi không?",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:30:16.001Z",
+    "id": "658a7bcf-c0fc-4db4-aeb5-75ae7292e454",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentences": [
+    "Anh có thể chỉ cho em làm sao để nấu món này không?",
+    "Chị không biết làm sao để giải quyết vấn đề này nhanh chóng.",
+    "Em muốn biết làm sao có thể nói tiếng Việt tốt hơn."
+  ],
+  "updatedAt": "2026-03-03T06:47:46.722Z",
+  "notes": "làm sao = how (how to do something). It’s used when asking about method or solution.\n\nOften followed by để + verb to mean “how to…”  \n\nYou’ll also see làm sao mà + clause to show doubt, surprise, or “how could…”.  \n\nIn spoken Vietnamese, làm sao? can also mean “what’s wrong?” depending on context.",
+  "rank": 265,
+  "choices": [
+    "làm sao",
+    "ở đâu",
+    "khi nào"
+  ],
+  "notes_md": "**làm sao** = *how* (how to do something). It’s used when asking about method or solution.\n\nOften followed by **để + verb** to mean “how to…”  \n\nYou’ll also see **làm sao mà + clause** to show doubt, surprise, or “how could…”.  \n\nIn spoken Vietnamese, **làm sao?** can also mean “what’s wrong?” depending on context.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:30:16.001Z",
+    "type": "multiChoiceQuiz",
+    "id": "829600f1-7512-4750-9146-aefe9c51c9a1",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:30:16.001Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "way"
+      },
+      "translation": {
+        "en": "Do you have a way to solve this problem?"
+      },
+      "answer": "làm sao",
+      "hint": "l___o",
+      "choices": [
+        "cách nào",
+        "làm sao",
+        "giải pháp"
+      ],
+      "sentence": "Bạn có ___ để giải quyết vấn đề này.",
+      "language": "vi",
+      "word": "làm sao"
+    }
+  },
+  "word": "làm sao",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "ews2hl3c9lZXa5PflOGc"
+}

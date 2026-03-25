@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Nghề nghiệp của anh là gì vậy?",
+    "Chị muốn thay đổi nghề nghiệp trong năm tới.",
+    "Bố mẹ luôn ủng hộ em chọn nghề nghiệp phù hợp với sở thích."
+  ],
+  "rank": 1454,
+  "word": "nghề nghiệp",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "occupation",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nghề nghiệp",
+    "sở thích",
+    "địa chỉ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:51:15.758Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "4c021764-5120-4b95-a123-cebcd5d764c9",
+    "updatedAt": "2025-03-12T13:53:17.657Z",
+    "createdAt": "2025-03-12T13:53:17.657Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Bạn có ___ gì không?",
+      "word": "nghề nghiệp",
+      "translatedAnswer": {
+        "en": "profession"
+      },
+      "translation": {
+        "en": "Do you have a profession?"
+      },
+      "answer": "nghề nghiệp",
+      "choices": []
+    }
+  },
+  "notes": "Nghề nghiệp means occupation or profession — the kind of job someone chooses as a career. It’s more about long-term career identity, not just a temporary job.\n\nIt’s a noun. You can say một nghề nghiệp, but often just use it without a classifier in general talk. Common pairings: chọn nghề nghiệp (choose a career), thay đổi nghề nghiệp (change careers), định hướng nghề nghiệp (career orientation).\n\nIt’s a bit more formal and broader than công việc (job/work), which can mean a specific position or task.",
+  "exampleSentencesTranslated": [
+    "What is your occupation?",
+    "I want to change my occupation next year.",
+    "My parents always support me to choose an occupation that suits my interests."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "trabajo",
+      "vi": "nghề nghiệp",
+      "en": "job"
+    },
+    "example": {
+      "es": "Estoy buscando un nuevo trabajo.",
+      "vi": "Tôi đang tìm kiếm một nghề nghiệp mới.",
+      "en": "I am looking for a new job."
+    },
+    "createdAt": "2025-01-28T11:31:06.512Z",
+    "definitions": {
+      "es": "Una profesión u ocupación.",
+      "vi": "Một nghề hoặc công việc.",
+      "en": "A profession or occupation."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**Nghề nghiệp** means *occupation* or *profession* — the kind of job someone chooses as a career. It’s more about long-term career identity, not just a temporary job.\n\nIt’s a noun. You can say **một nghề nghiệp**, but often just use it without a classifier in general talk. Common pairings: *chọn nghề nghiệp* (choose a career), *thay đổi nghề nghiệp* (change careers), *định hướng nghề nghiệp* (career orientation).\n\nIt’s a bit more formal and broader than **công việc** (job/work), which can mean a specific position or task.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "f3fe905d-3a91-4087-b6fe-d391b8696cd4",
+    "updatedAt": "2025-03-12T13:53:17.657Z",
+    "createdAt": "2025-03-12T13:53:17.657Z",
+    "content": {
+      "sentence": "Bạn chọn ___ nào cho tương lai?",
+      "word": "nghề nghiệp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "profession"
+      },
+      "translation": {
+        "en": "Which profession do you choose for the future?"
+      },
+      "answer": "nghề nghiệp",
+      "choices": [
+        "nghề nghiệp",
+        "sở thích",
+        "kế hoạch"
+      ],
+      "hint": "n___p"
+    }
+  },
+  "_id": "GlAA74IbSyyVjzUPzN90"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "cá",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bò",
+    "tôm",
+    "cá"
+  ],
+  "rank": 961,
+  "notes_md": "**cá** = fish (the animal, or fish as food).\n\nIt’s a countable noun. Use the classifier **con** for a whole fish: *con cá*.  \nCommon pairings: **cá hồi** (salmon), **cá thu** (mackerel), **cá ngừ** (tuna), **cá vàng** (goldfish).  \n\nIt can mean both a live fish and fish as meat, so context tells you if it’s swimming or on your plate.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:37:44.123Z",
+    "id": "9d48f886-2709-4854-bf6d-3621d89713af",
+    "content": {
+      "hint": "c__",
+      "answer": "cá",
+      "translation": {
+        "en": "I want to buy fish for dinner."
+      },
+      "translatedAnswer": {
+        "en": "fish"
+      },
+      "word": "cá",
+      "language": "vi",
+      "sentence": "Tôi muốn mua ___ cho bữa tối.",
+      "choices": [
+        "gà",
+        "cá",
+        "thịt"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:37:44.123Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích ăn cá nướng với cơm vào bữa tối.",
+    "Anh đã mua cá tươi ở chợ sáng nay để nấu canh.",
+    "Gia đình chị thường đi câu cá ở sông vào cuối tuần."
+  ],
+  "updatedAt": "2026-03-03T07:58:08.633Z",
+  "notes": "cá = fish (the animal, or fish as food).\n\nIt’s a countable noun. Use the classifier con for a whole fish: con cá.  \nCommon pairings: cá hồi (salmon), cá thu (mackerel), cá ngừ (tuna), cá vàng (goldfish).  \n\nIt can mean both a live fish and fish as meat, so context tells you if it’s swimming or on your plate.",
+  "definition": "fish",
+  "flashcard": {
+    "translations": {
+      "es": "pescado",
+      "vi": "cá",
+      "en": "fish"
+    },
+    "createdAt": "2025-01-28T13:11:45.200Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một loài động vật có xương sống sống dưới nước, thường có vây và mang.",
+      "es": "Un animal vertebrado que vive en el agua, generalmente con aletas y branquias.",
+      "en": "A water-dwelling vertebrate animal, typically having fins and gills."
+    },
+    "example": {
+      "vi": "Tôi thích ăn cá.",
+      "es": "Me gusta comer pescado.",
+      "en": "I like to eat fish."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I like eating grilled fish with rice for dinner.",
+    "I bought fresh fish at the market this morning to make soup.",
+    "My family often goes fishing for fish at the river on weekends."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "254d1819-0021-4721-9a7b-a5d4f0dd8115",
+    "content": {
+      "answer": "cá",
+      "translatedAnswer": {
+        "en": "fish"
+      },
+      "translation": {
+        "en": "I like to eat fish in the morning."
+      },
+      "sentence": "Tôi thích ăn ___ vào buổi sáng.",
+      "language": "vi",
+      "word": "cá",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:37:44.123Z",
+    "updatedAt": "2025-03-12T15:37:44.123Z"
+  },
+  "_id": "ga9r23Adk88F4oz6bwCY"
+}

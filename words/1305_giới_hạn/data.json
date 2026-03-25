@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I think I should set a limit for my phone usage time.",
+    "There is a limit to the number of people joining this event.",
+    "I want to know what the speed limit is on this road."
+  ],
+  "updatedAt": "2026-03-03T08:35:33.234Z",
+  "word": "giới hạn",
+  "flashcard": {
+    "translations": {
+      "en": "limit",
+      "es": "límite",
+      "vi": "giới hạn"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Chúng ta cần đặt ra một giới hạn cho thời gian làm việc.",
+      "en": "We need to set a limit on working hours.",
+      "es": "Necesitamos establecer un límite en las horas de trabajo."
+    },
+    "createdAt": "2025-01-28T13:17:50.324Z",
+    "definitions": {
+      "vi": "Một sự hạn chế về mức độ hoặc số lượng của một cái gì đó.",
+      "es": "Una restricción sobre la extensión o cantidad de algo.",
+      "en": "A restriction on the extent or amount of something."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "ee2a29cd-3758-453c-852e-83def1435afc",
+    "content": {
+      "translatedAnswer": {
+        "en": "limit"
+      },
+      "answer": "giới hạn",
+      "choices": [
+        "giới hạn",
+        "không giới hạn",
+        "tối đa"
+      ],
+      "sentence": "Họ có ___ cho các sản phẩm.",
+      "hint": "g___n",
+      "translation": {
+        "en": "They have a limit for products."
+      },
+      "word": "giới hạn",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:45:34.676Z",
+    "createdAt": "2025-03-12T15:45:34.676Z"
+  },
+  "notes_md": "**Giới hạn** = a limit, a boundary you shouldn’t go past (time, number, ability, speed, etc.). It’s the point where something stops or can’t go further.\n\nIt’s a noun. You often say **giới hạn của + noun** (the limit of something) or **có giới hạn / vượt quá giới hạn**. It works for both physical limits and abstract ones (money, patience, skill).\n\nClose synonym: **hạn** (shorter, often for deadlines or quotas). Opposite idea: **không giới hạn** (no limit / unlimited).",
+  "notes": "Giới hạn = a limit, a boundary you shouldn’t go past (time, number, ability, speed, etc.). It’s the point where something stops or can’t go further.\n\nIt’s a noun. You often say giới hạn của + noun (the limit of something) or có giới hạn / vượt quá giới hạn. It works for both physical limits and abstract ones (money, patience, skill).\n\nClose synonym: hạn (shorter, often for deadlines or quotas). Opposite idea: không giới hạn (no limit / unlimited).",
+  "definition": "limit",
+  "rank": 1305,
+  "choices": [
+    "giới hạn",
+    "bắt đầu",
+    "kết thúc"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "6f88d261-19fb-42ef-9105-126210d1315a",
+    "content": {
+      "sentence": "Chúng ta cần ___ cho dự án.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "limit"
+      },
+      "answer": "giới hạn",
+      "translation": {
+        "en": "We need a limit for the project."
+      },
+      "word": "giới hạn",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:45:34.676Z",
+    "createdAt": "2025-03-12T15:45:34.676Z"
+  },
+  "exampleSentences": [
+    "Anh nghĩ mình nên đặt giới hạn cho thời gian sử dụng điện thoại.",
+    "Có một giới hạn về số lượng người tham gia sự kiện này.",
+    "Chị muốn biết giới hạn tốc độ trên con đường này là bao nhiêu."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "iOEnKth7cnZwcrsqG0OD"
+}

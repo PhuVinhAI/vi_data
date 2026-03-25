@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "all"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã ăn ___ bánh.",
+      "translation": {
+        "en": "I have eaten all the cake."
+      },
+      "answer": "hết",
+      "choices": [],
+      "word": "hết"
+    },
+    "updatedAt": "2025-03-12T14:33:15.172Z",
+    "id": "a0d740f2-340f-43f8-88ef-8385620b8c3d",
+    "createdAt": "2025-03-12T14:33:15.172Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "none left",
+  "flashcard": {
+    "definitions": {
+      "en": "Used to indicate that something is finished or no longer available.",
+      "vi": "Được sử dụng để chỉ ra rằng một cái gì đó đã kết thúc hoặc không còn nữa.",
+      "es": "Se utiliza para indicar que algo ha terminado o ya no está disponible."
+    },
+    "createdAt": "2025-01-28T12:08:53.214Z",
+    "example": {
+      "en": "The water in the bottle is gone.",
+      "vi": "Nước trong chai đã hết.",
+      "es": "El agua en la botella se ha acabado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "acabado",
+      "vi": "hết",
+      "en": "gone"
+    }
+  },
+  "exampleSentences": [
+    "Anh ơi, trong tủ lạnh không còn sữa nữa, đã hết rồi.",
+    "Chị muốn mua bánh mì nhưng tiệm báo là hết từ sáng.",
+    "Em chờ mãi mà vé xem phim cũng đã hết trước khi đến."
+  ],
+  "notes_md": "**Hết** means “finished” or “none left.” It’s used when something is used up, sold out, or completely gone.\n\nIt often comes after the thing that’s gone: noun + hết (tiền hết, nước hết). It can also stand alone when the context is clear.\n\n\nVery common with time, money, battery, food, tickets. Opposite idea: **còn** = still have / still left.",
+  "choices": [
+    "hết",
+    "mới",
+    "nhiều"
+  ],
+  "notes": "Hết means “finished” or “none left.” It’s used when something is used up, sold out, or completely gone.\n\nIt often comes after the thing that’s gone: noun + hết (tiền hết, nước hết). It can also stand alone when the context is clear.\n\nVery common with time, money, battery, food, tickets. Opposite idea: còn = still have / still left.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:33:15.172Z",
+    "id": "f6364fee-5863-4e43-8060-4fed5cd505e6",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "all"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy đã làm ___ bài tập.",
+      "word": "hết",
+      "choices": [
+        "hết",
+        "mới",
+        "còn lại"
+      ],
+      "hint": "h__t",
+      "translation": {
+        "en": "She has completed all the homework."
+      },
+      "answer": "hết"
+    },
+    "updatedAt": "2025-03-12T14:33:15.172Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "hết",
+  "exampleSentencesTranslated": [
+    "Brother, there is none left in the fridge, the milk is none left.",
+    "Sister wants to buy bread but the shop said there is none left since morning.",
+    "I waited a long time but there were none left of the movie tickets before I arrived."
+  ],
+  "rank": 138,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:34:16.212Z",
+  "_id": "QVkl7yQjMiOcQB0tqdxx"
+}

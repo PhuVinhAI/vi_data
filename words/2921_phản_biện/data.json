@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:00:11.227Z",
+    "translations": {
+      "vi": "phản biện",
+      "en": "rebuttal",
+      "es": "refutación"
+    },
+    "definitions": {
+      "vi": "Một phản hồi hoặc lập luận phản đối hoặc mâu thuẫn với một tuyên bố hoặc ý tưởng.",
+      "en": "A response or argument that opposes or contradicts a statement or idea.",
+      "es": "Una respuesta o argumento que se opone o contradice una declaración o idea."
+    },
+    "example": {
+      "en": "In the meeting, he made a very sharp rebuttal.",
+      "es": "En la reunión, él hizo una refutación muy aguda.",
+      "vi": "Trong cuộc họp, anh ấy đã có một phản biện rất sắc bén."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Phản biện means a critical response or counter-argument to someone’s idea. It’s not just disagreeing — it’s giving reasons and logic to challenge a point.\n\nIt’s a noun. You often use it with verbs like đưa ra, trình bày, chuẩn bị + phản biện. It usually goes with ideas: ý kiến, quan điểm, lập luận.\n\nIt sounds more formal and thoughtful than just cãi (argue). Think of it as structured disagreement, not emotional fighting.",
+  "choices": [
+    "phản biện",
+    "thuyết trình",
+    "giải thích"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rebuttal"
+      },
+      "translation": {
+        "en": "I need a rebuttal for my opinion."
+      },
+      "choices": [
+        "phản biện",
+        "phản hồi",
+        "phản xạ"
+      ],
+      "answer": "phản biện",
+      "sentence": "Tôi cần ___ cho ý kiến của mình.",
+      "word": "phản biện",
+      "hint": "p___n"
+    },
+    "updatedAt": "2025-03-12T16:29:14.573Z",
+    "id": "2827fbbc-f9d6-4553-949d-1fe5ef4a184f",
+    "createdAt": "2025-03-12T16:29:14.573Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh luôn chuẩn bị phản biện khi tham gia các cuộc thảo luận nhóm.",
+    "Cô giáo khuyến khích học sinh đưa ra phản biện để lớp học sôi nổi hơn.",
+    "Khi nghe ý kiến mới, em cố gắng lắng nghe trước khi phản biện."
+  ],
+  "updatedAt": "2026-03-03T18:12:43.955Z",
+  "exampleSentencesTranslated": [
+    "He always prepares a critical argument when joining group discussions.",
+    "The teacher encourages students to give a critical argument to make the class more lively.",
+    "When hearing a new idea, I try to listen before giving a critical argument."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "phản biện",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Phản biện** means a critical response or counter-argument to someone’s idea. It’s not just disagreeing — it’s giving reasons and logic to challenge a point.\n\nIt’s a noun. You often use it with verbs like *đưa ra*, *trình bày*, *chuẩn bị* + phản biện. It usually goes with ideas: *ý kiến, quan điểm, lập luận*.\n\nIt sounds more formal and thoughtful than just *cãi* (argue). Think of it as structured disagreement, not emotional fighting.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I need a rebuttal for my opinion."
+      },
+      "answer": "phản biện",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "rebuttal"
+      },
+      "language": "vi",
+      "word": "phản biện",
+      "sentence": "Tôi cần ___ cho ý kiến của mình."
+    },
+    "updatedAt": "2025-03-12T16:29:14.573Z",
+    "createdAt": "2025-03-12T16:29:14.573Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "98e6eaf1-7bff-4526-96ca-3797fa5e2165"
+  },
+  "definition": "critical argument",
+  "rank": 2921,
+  "_id": "tsfH9h3HQVLpaHWnUXr9"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "trang web",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "tr___g w__b",
+      "answer": "trang web",
+      "translation": {
+        "en": "Do you know any website?"
+      },
+      "translatedAnswer": {
+        "en": "website"
+      },
+      "word": "trang web",
+      "language": "vi",
+      "sentence": "Bạn có biết ___ nào không?",
+      "choices": [
+        "trang sách",
+        "trang web",
+        "trang tin"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:22:03.673Z",
+    "id": "738cdc62-5961-4ac3-abb7-2df7805f9650",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:22:03.673Z"
+  },
+  "notes_md": "**Trang web** means *website* — a page or set of pages on the internet you visit online.  \n\nIt’s a countable noun: *một trang web, hai trang web*. You often use it with verbs like *truy cập* (access), *tìm trên* (search on), *xem* (view), *tạo* (create).  \n\nCommon pairings: *trang web bán hàng* (shopping site), *trang web chính thức* (official site), *trang web cá nhân* (personal website).",
+  "rank": 1925,
+  "choices": [
+    "trang web",
+    "báo chí",
+    "mạng xã hội"
+  ],
+  "notes": "Trang web means website — a page or set of pages on the internet you visit online.  \n\nIt’s a countable noun: một trang web, hai trang web. You often use it with verbs like truy cập (access), tìm trên (search on), xem (view), tạo (create).  \n\nCommon pairings: trang web bán hàng (shopping site), trang web chính thức (official site), trang web cá nhân (personal website).",
+  "updatedAt": "2026-03-03T09:41:44.975Z",
+  "exampleSentences": [
+    "Anh thường truy cập trang web này để đọc tin tức buổi sáng.",
+    "Em đã tìm thấy công thức nấu ăn mới trên trang web yêu thích của mình.",
+    "Chị cần đăng ký tài khoản trên trang web trước khi mua hàng."
+  ],
+  "exampleSentencesTranslated": [
+    "I often visit this website to read the morning news.",
+    "I found a new cooking recipe on my favorite website.",
+    "You need to register an account on the website before shopping."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:22:03.673Z",
+    "type": "fillBlankQuiz",
+    "id": "5d59ba6f-fd9e-4582-ad1f-5dcd05c7f974",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:03.673Z",
+    "content": {
+      "choices": [],
+      "word": "trang web",
+      "sentence": "Tôi cần tìm ___ này.",
+      "language": "vi",
+      "translation": {
+        "en": "I need to find this website."
+      },
+      "translatedAnswer": {
+        "en": "website"
+      },
+      "answer": "trang web"
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A collection of related web pages located under a single domain name.",
+      "es": "Una colección de páginas web relacionadas ubicadas bajo un solo nombre de dominio.",
+      "vi": "Một tập hợp các trang web liên quan nằm dưới một tên miền duy nhất."
+    },
+    "example": {
+      "en": "I often visit this website to find information.",
+      "es": "A menudo visito este sitio web para encontrar información.",
+      "vi": "Tôi thường truy cập trang web này để tìm thông tin."
+    },
+    "translations": {
+      "vi": "trang web",
+      "es": "sitio web",
+      "en": "website"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:56:54.514Z"
+  },
+  "definition": "website",
+  "_id": "cy8a6h9XJFXmEwikvdZz"
+}

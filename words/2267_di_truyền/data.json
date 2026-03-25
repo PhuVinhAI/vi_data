@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "d27e8884-0165-4b55-a06f-2bed74b2d91b",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "di truyền",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "inherited"
+      },
+      "choices": [],
+      "translation": {
+        "en": "Their personality is inherited from parents."
+      },
+      "answer": "di truyền",
+      "sentence": "Tính cách của họ là ___ từ cha mẹ."
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:02:41.811Z",
+    "updatedAt": "2025-03-12T13:02:41.811Z"
+  },
+  "updatedAt": "2026-03-03T10:18:09.160Z",
+  "exampleSentencesTranslated": [
+    "He is worried about diseases that may be related to heredity in the family.",
+    "I think my blue eye color is because of heredity from my mother.",
+    "I am learning about heredity in biology class at school."
+  ],
+  "notes_md": "**di truyền** means heredity — traits or diseases passed from parents to children through genes. It’s an abstract noun, so you don’t count it; you use it in phrases.\n\nIt often appears after **do** (because of) or in noun phrases like **bệnh di truyền** (hereditary disease) or **yếu tố di truyền** (genetic factor). You’ll also see **di truyền học**, which means genetics as a school subject or field.\n\nClose idea: **gen** (gene) — the unit; **di truyền** is the process or concept.",
+  "word": "di truyền",
+  "choices": [
+    "di truyền",
+    "phát triển",
+    "tự nhiên"
+  ],
+  "notes": "di truyền means heredity — traits or diseases passed from parents to children through genes. It’s an abstract noun, so you don’t count it; you use it in phrases.\n\nIt often appears after do (because of) or in noun phrases like bệnh di truyền (hereditary disease) or yếu tố di truyền (genetic factor). You’ll also see di truyền học, which means genetics as a school subject or field.\n\nClose idea: gen (gene) — the unit; di truyền is the process or concept.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy lo lắng về các bệnh có thể liên quan đến di truyền trong gia đình.",
+    "Em nghĩ màu mắt xanh của mình là do di truyền từ mẹ.",
+    "Chị đang học về di truyền trong môn sinh học ở trường."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Tính cách của họ là ___ từ cha mẹ.",
+      "answer": "di truyền",
+      "translation": {
+        "en": "Their personality is inherited from parents."
+      },
+      "choices": [
+        "di truyền",
+        "kế thừa",
+        "bẩm sinh"
+      ],
+      "hint": "d___n",
+      "translatedAnswer": {
+        "en": "inherited"
+      },
+      "language": "vi",
+      "word": "di truyền"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "4bf1b18b-1b0e-4a96-b321-4563ca0a5b12",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:02:41.811Z",
+    "updatedAt": "2025-03-12T13:02:41.811Z"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T10:45:12.644Z",
+    "definitions": {
+      "en": "The transmission of genetic characteristics from parents to offspring.",
+      "vi": "Sự truyền đạt các đặc điểm di truyền từ cha mẹ sang con cái.",
+      "es": "La transmisión de características genéticas de padres a hijos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Mi personalidad se hereda de mi madre.",
+      "vi": "Tính cách của tôi di truyền từ mẹ.",
+      "en": "My personality is inherited from my mother."
+    },
+    "translations": {
+      "en": "inheritance",
+      "vi": "di truyền",
+      "es": "herencia"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "heredity",
+  "rank": 2267,
+  "_id": "3gj46WMKaYwRIwYpnyms"
+}

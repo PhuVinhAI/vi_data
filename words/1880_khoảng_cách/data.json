@@ -1,0 +1,99 @@
+{
+  "rank": 1880,
+  "exampleSentences": [
+    "Anh cảm thấy khoảng cách giữa hai thành phố này khá xa.",
+    "Khi dịch bệnh xảy ra, mọi người phải giữ khoảng cách an toàn.",
+    "Khoảng cách tuổi tác không quan trọng nếu chúng ta hiểu nhau."
+  ],
+  "word": "khoảng cách",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "distance",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "khoảng cách",
+    "thời gian",
+    "sự lựa chọn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:36:53.515Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:40:43.749Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Giữa hai thành phố có ___ lớn.",
+      "word": "khoảng cách",
+      "translatedAnswer": {
+        "en": "distance"
+      },
+      "translation": {
+        "en": "There is a large distance between the two cities."
+      },
+      "answer": "khoảng cách",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:40:43.749Z",
+    "id": "1de09dfb-72af-4ec9-91ec-882e2454a902",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "khoảng cách = distance, the space between two things, people, places, or ideas. It can be physical or more abstract (like emotional distance).\n\nIt’s a noun. You often see it with giữa … và … (between A and B) or từ … đến … (from A to B).  \n\nIt also works for non-physical gaps, like age or feelings.  \nClose synonym: cự ly (more formal, often for sports or measured distances).",
+  "exampleSentencesTranslated": [
+    "He feels the distance between these two cities is quite far.",
+    "When the pandemic happened, everyone had to keep a safe distance.",
+    "Age distance is not important if we understand each other."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Khoảng cách giữa hai thành phố này rất xa.",
+      "es": "La distancia entre estas dos ciudades es muy larga.",
+      "en": "The distance between these two cities is very far."
+    },
+    "createdAt": "2025-01-28T11:19:30.464Z",
+    "translations": {
+      "en": "distance",
+      "vi": "khoảng cách",
+      "es": "distancia"
+    },
+    "definitions": {
+      "en": "The amount of space between two points.",
+      "es": "La cantidad de espacio entre dos puntos.",
+      "vi": "Số lượng không gian giữa hai điểm."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:40:43.749Z",
+    "content": {
+      "translation": {
+        "en": "There is a large distance between the two cities."
+      },
+      "answer": "khoảng cách",
+      "hint": "k___g",
+      "choices": [
+        "khoảng cách",
+        "diện tích",
+        "không khí"
+      ],
+      "word": "khoảng cách",
+      "sentence": "Giữa hai thành phố có ___ lớn.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "distance"
+      }
+    },
+    "updatedAt": "2025-03-12T13:40:43.749Z",
+    "id": "0e966f37-7568-4fdd-9edc-d8184ed83d7b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**khoảng cách** = distance, the space between two things, people, places, or ideas. It can be physical or more abstract (like emotional distance).\n\nIt’s a **noun**. You often see it with **giữa … và …** (between A and B) or **từ … đến …** (from A to B).  \n\nIt also works for non-physical gaps, like age or feelings.  \nClose synonym: **cự ly** (more formal, often for sports or measured distances).",
+  "_id": "DbDCs9TEl10aBASKpcB0"
+}

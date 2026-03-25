@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "diễn viên",
+    "ca sĩ",
+    "nhạc sĩ"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:37:27.692Z",
+    "id": "785677ca-f6a6-4fa8-91e0-4f0fec145e5f",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "ca sĩ",
+      "hint": "c__i",
+      "sentence": "Cô ấy là một ___ nổi tiếng.",
+      "translatedAnswer": {
+        "en": "singer"
+      },
+      "choices": [
+        "diễn viên",
+        "nhà văn",
+        "ca sĩ"
+      ],
+      "answer": "ca sĩ",
+      "translation": {
+        "en": "She is a famous singer."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:37:27.692Z"
+  },
+  "exampleSentences": [
+    "Em rất thích nghe nhạc của ca sĩ nổi tiếng này.",
+    "Anh trai của chị muốn trở thành ca sĩ khi lớn lên.",
+    "Mỗi tối thứ bảy, quán cà phê này mời một ca sĩ đến biểu diễn."
+  ],
+  "updatedAt": "2026-03-03T09:15:19.711Z",
+  "word": "ca sĩ",
+  "exampleSentencesTranslated": [
+    "I really like listening to this famous singer's music.",
+    "Her older brother wants to become a singer when he grows up.",
+    "Every Saturday night, this coffee shop invites a singer to perform."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy là một ca sĩ nổi tiếng.",
+      "es": "Ella es una cantante famosa.",
+      "en": "She is a famous singer."
+    },
+    "definitions": {
+      "en": "A person who sings, especially professionally.",
+      "es": "Una persona que canta, especialmente de manera profesional.",
+      "vi": "Một người hát, đặc biệt là chuyên nghiệp."
+    },
+    "translations": {
+      "vi": "ca sĩ",
+      "es": "cantante",
+      "en": "singer"
+    },
+    "createdAt": "2025-01-28T14:08:50.922Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Ca sĩ means singer — someone who sings songs, usually professionally.  \n\nIt’s a countable noun: một ca sĩ, hai ca sĩ, những ca sĩ. Common pairings are ca sĩ nổi tiếng (famous singer), ca sĩ trẻ (young singer), ca sĩ chính (lead singer).  \n\nYou’ll often see it with music styles: ca sĩ nhạc pop, ca sĩ nhạc rock, ca sĩ nhạc trữ tình.  \n\nA stronger word for a very respected, famous singer is danh ca — think “legendary singer.”",
+  "notes_md": "**Ca sĩ** means *singer* — someone who sings songs, usually professionally.  \n\nIt’s a countable noun: *một ca sĩ, hai ca sĩ, những ca sĩ*. Common pairings are *ca sĩ nổi tiếng* (famous singer), *ca sĩ trẻ* (young singer), *ca sĩ chính* (lead singer).  \n\nYou’ll often see it with music styles: *ca sĩ nhạc pop, ca sĩ nhạc rock, ca sĩ nhạc trữ tình*.  \n\nA stronger word for a very respected, famous singer is **danh ca** — think “legendary singer.”",
+  "rank": 1675,
+  "definition": "singer",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:37:27.692Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2b4d9997-01fa-4314-8dce-f9d0004ea949",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ca sĩ",
+      "sentence": "Tôi muốn gặp một ___ nổi tiếng.",
+      "translation": {
+        "en": "I want to meet a famous singer."
+      },
+      "answer": "ca sĩ",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "singer"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:37:27.692Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "w7gT7GbuJe7Ax1KhPvGT"
+}

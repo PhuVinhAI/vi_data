@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Bạn cần nói ___ hơn.",
+      "word": "cụ thể",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "You need to speak more specifically."
+      },
+      "answer": "cụ thể",
+      "translatedAnswer": {
+        "en": "specifically"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "f5cb8a94-6693-47d8-8409-4fd03b8e03e7",
+    "createdAt": "2025-03-12T14:21:13.589Z",
+    "updatedAt": "2025-03-12T14:21:13.589Z"
+  },
+  "definition": "specific",
+  "updatedAt": "2026-03-03T07:42:26.005Z",
+  "choices": [
+    "chính xác",
+    "cụ thể",
+    "quan trọng"
+  ],
+  "notes": "cụ thể = specific, clear in detail, not vague.\n\nIt’s an adjective, used after a noun to describe information, plans, time, numbers, ideas, etc. It means you give real details, not just general talk.\n\nOpposite: chung chung (vague, general). Close meaning: chi tiết (detailed) — but cụ thể focuses on being clear and exact.",
+  "exampleSentencesTranslated": [
+    "Can you tell me the specific time of the meeting?",
+    "I need specific information about the location of this event.",
+    "I want to hear everyone's specific opinion about the new plan."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cụ thể** = specific, clear in detail, not vague.\n\nIt’s an adjective, used after a noun to describe information, plans, time, numbers, ideas, etc. It means you give real details, not just general talk.\n\nOpposite: **chung chung** (vague, general). Close meaning: **chi tiết** (detailed) — but *cụ thể* focuses on being clear and exact.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:21:13.589Z",
+    "updatedAt": "2025-03-12T14:21:13.589Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "specifically"
+      },
+      "answer": "cụ thể",
+      "translation": {
+        "en": "You need to speak more specifically."
+      },
+      "choices": [
+        "chi tiết",
+        "cụ thể",
+        "khái quát"
+      ],
+      "language": "vi",
+      "hint": "c__ t__",
+      "word": "cụ thể",
+      "sentence": "Bạn cần nói ___ hơn."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9678967e-9235-447c-88fa-644bcee62231"
+  },
+  "word": "cụ thể",
+  "flashcard": {
+    "example": {
+      "en": "You need to provide a specific plan.",
+      "vi": "Bạn cần đưa ra một kế hoạch cụ thể.",
+      "es": "Necesitas proporcionar un plan específico."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Específico o detallado; no general.",
+      "vi": "Cụ thể hoặc chi tiết; không chung chung.",
+      "en": "Specific or detailed; not general."
+    },
+    "translations": {
+      "vi": "cụ thể",
+      "es": "específico",
+      "en": "specific"
+    },
+    "createdAt": "2025-01-28T11:57:22.404Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị có thể cho em biết thời gian cụ thể của cuộc họp không?",
+    "Em cần thông tin cụ thể về địa điểm tổ chức sự kiện này.",
+    "Anh muốn nghe ý kiến cụ thể của mọi người về kế hoạch mới."
+  ],
+  "rank": 807,
+  "_id": "NPyqMpQb4MXtru9cONzs"
+}

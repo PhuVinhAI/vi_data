@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh cần thời gian để giải quyết vấn đề này với sếp.",
+    "Chị đã giải quyết xong công việc trước khi về nhà.",
+    "Họ cùng nhau giải quyết mọi khó khăn trong dự án."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Necesitamos resolver este problema de inmediato.",
+      "vi": "Chúng ta cần giải quyết vấn đề này ngay.",
+      "en": "We need to solve this problem right away."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:55:20.690Z",
+    "definitions": {
+      "en": "To find a solution to a problem or difficulty.",
+      "vi": "Tìm ra giải pháp cho một vấn đề hoặc khó khăn.",
+      "es": "Encontrar una solución a un problema o dificultad."
+    },
+    "translations": {
+      "en": "solve",
+      "es": "resolver",
+      "vi": "giải quyết"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 512,
+  "exampleSentencesTranslated": [
+    "I need time to solve this problem with my boss.",
+    "She solved the work before going home.",
+    "They solve all the difficulties in the project together."
+  ],
+  "notes": "giải quyết = to solve or deal with a problem. It’s used when something needs action to be fixed or handled.\n\nYou use it with things like vấn đề (problem), chuyện (matter), công việc (task), mâu thuẫn (conflict). It often implies finding a solution, not just talking about it.\n\nYou can also say giải quyết cho ai (solve something for someone).\n\nClose synonym: xử lý (handle) — xử lý can feel more technical or practical, while giải quyết focuses on solving the problem itself.",
+  "updatedAt": "2026-03-03T07:13:30.239Z",
+  "choices": [
+    "giải quyết",
+    "phát triển",
+    "thảo luận"
+  ],
+  "definition": "solve",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:18:55.762Z",
+    "updatedAt": "2025-03-12T14:18:55.762Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "giải quyết",
+      "translatedAnswer": {
+        "en": "solve"
+      },
+      "sentence": "Chúng ta cần ___ vấn đề này.",
+      "word": "giải quyết",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need to solve this issue."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "44db6219-5fdd-4c56-bc41-54232fc0d81d"
+  },
+  "word": "giải quyết",
+  "multiChoiceQuiz": {
+    "id": "5c609f9f-d2c5-49b6-859f-2bf82d2801cb",
+    "content": {
+      "sentence": "Bạn có thể ___ bài toán không?",
+      "hint": "g___t",
+      "word": "giải quyết",
+      "choices": [
+        "giải quyết",
+        "giải thích",
+        "giải phẫu"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "Can you solve the math problem?"
+      },
+      "answer": "giải quyết",
+      "translatedAnswer": {
+        "en": "solve"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:18:55.762Z",
+    "createdAt": "2025-03-12T14:18:55.762Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**giải quyết** = to solve or deal with a problem. It’s used when something needs action to be fixed or handled.\n\nYou use it with things like *vấn đề* (problem), *chuyện* (matter), *công việc* (task), *mâu thuẫn* (conflict). It often implies finding a solution, not just talking about it.\n\nYou can also say **giải quyết cho ai** (solve something for someone).\n\nClose synonym: **xử lý** (handle) — *xử lý* can feel more technical or practical, while *giải quyết* focuses on solving the problem itself.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "Mlxdgv0ZENnxAt8nuLLy"
+}

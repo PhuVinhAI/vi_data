@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:48:45.142Z",
+    "id": "f1d205ad-3273-4450-bea2-5f718b48c5f4",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "fly"
+      },
+      "answer": "thả",
+      "translation": {
+        "en": "We will fly the kite high."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "thả",
+      "sentence": "Chúng ta sẽ ___ chiếc diều lên cao."
+    },
+    "updatedAt": "2025-03-12T16:48:45.142Z"
+  },
+  "rank": 1771,
+  "definition": "release",
+  "notes_md": "**thả** = to release or let something go so it’s free. You use it when you stop holding, keeping, or controlling something.\n\nIt often goes with animals, objects, or things that can move away: fish, birds, balloons, hair, even prisoners. It can also mean to let something fall lightly or naturally (not throw hard).  \n\n\nCommon combos: *thả lỏng* (relax your body), *thả tóc* (let your hair down), *thả thính* (slang: casually flirt or “drop hints” online).  \n\nClose to **buông** (let go), but *buông* can feel more emotional; opposite is **giữ** (hold/keep).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "thả = to release or let something go so it’s free. You use it when you stop holding, keeping, or controlling something.\n\nIt often goes with animals, objects, or things that can move away: fish, birds, balloons, hair, even prisoners. It can also mean to let something fall lightly or naturally (not throw hard).  \n\nCommon combos: thả lỏng (relax your body), thả tóc (let your hair down), thả thính (slang: casually flirt or “drop hints” online).  \n\nClose to buông (let go), but buông can feel more emotional; opposite is giữ (hold/keep).",
+  "flashcard": {
+    "example": {
+      "vi": "Cô ấy thả con chim ra ngoài.",
+      "es": "Ella soltó el pájaro afuera.",
+      "en": "She released the bird outside."
+    },
+    "definitions": {
+      "vi": "Để cho cái gì đó đi, thả ra hoặc bỏ xuống.",
+      "es": "Dejar ir, soltar o dejar caer algo.",
+      "en": "To let go, release, or drop something."
+    },
+    "translations": {
+      "en": "release",
+      "es": "soltar",
+      "vi": "thả"
+    },
+    "createdAt": "2025-01-28T14:19:15.428Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I will release this fish into the river so it can live freely.",
+    "Remember to release the balloons into the sky at the end of the party.",
+    "Every morning, I usually release the birds from the cage so they can fly around."
+  ],
+  "word": "thả",
+  "updatedAt": "2026-03-03T09:25:41.129Z",
+  "exampleSentences": [
+    "Anh sẽ thả con cá này về sông để nó được sống tự do.",
+    "Chị nhớ thả bóng bay lên trời vào cuối buổi tiệc nhé.",
+    "Mỗi sáng, em thường thả chim ra khỏi lồng cho chúng bay chơi."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "drop"
+      },
+      "answer": "thả",
+      "choices": [
+        "buông",
+        "thả",
+        "ném"
+      ],
+      "translation": {
+        "en": "They will drop the fruit on the ground."
+      },
+      "sentence": "Họ sẽ ___ trái cây xuống đất.",
+      "word": "thả",
+      "hint": "th__"
+    },
+    "updatedAt": "2025-03-12T16:48:45.142Z",
+    "id": "98dff91c-9cec-49fb-99f6-fe758a85c145",
+    "createdAt": "2025-03-12T16:48:45.142Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "choices": [
+    "giữ",
+    "thả",
+    "bắt"
+  ],
+  "_id": "yhfi8vfkt2PMcyv0jUv6"
+}

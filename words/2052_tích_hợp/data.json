@@ -1,0 +1,99 @@
+{
+  "rank": 2052,
+  "flashcard": {
+    "example": {
+      "en": "We need to integrate the systems to work more efficiently.",
+      "vi": "Chúng ta cần tích hợp các hệ thống để làm việc hiệu quả hơn.",
+      "es": "Necesitamos integrar los sistemas para trabajar de manera más eficiente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Combinar o incorporar diferentes elementos en un todo unificado.",
+      "vi": "Kết hợp hoặc tích hợp các yếu tố khác nhau thành một thể thống nhất.",
+      "en": "To combine or incorporate different elements into a unified whole."
+    },
+    "translations": {
+      "en": "integrate",
+      "es": "integrar",
+      "vi": "tích hợp"
+    },
+    "createdAt": "2025-01-28T11:55:03.283Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn tích hợp phần mềm mới vào hệ thống làm việc của mình.",
+    "Chị đang học cách tích hợp các kỹ năng mềm vào công việc hàng ngày.",
+    "Nhóm của em sẽ tích hợp những ý tưởng sáng tạo vào dự án này."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tích hợp** = to integrate, to combine different parts into one working system.\n\nIt’s a verb used a lot with tech, systems, features, skills, or processes. You “tích hợp” something *into* something else to make it work together smoothly.\n\n\nIt often appears in formal or work/tech contexts. A close synonym is **kết hợp**, but *tích hợp* feels more technical and system-based, not just mixing things together.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "e1d3bdac-ef8b-45ee-a60a-60a34047545d",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "integrate"
+      },
+      "answer": "tích hợp",
+      "translation": {
+        "en": "Can you integrate the system?"
+      },
+      "language": "vi",
+      "choices": [
+        "tích hợp",
+        "phát triển",
+        "cải tiến"
+      ],
+      "hint": "t___g",
+      "word": "tích hợp",
+      "sentence": "Bạn có thể ___ hệ thống không?"
+    },
+    "updatedAt": "2025-03-12T14:18:35.352Z",
+    "createdAt": "2025-03-12T14:18:35.352Z"
+  },
+  "word": "tích hợp",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:18:35.352Z",
+    "updatedAt": "2025-03-12T14:18:35.352Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "We need to integrate this software."
+      },
+      "sentence": "Chúng ta cần ___ phần mềm này.",
+      "word": "tích hợp",
+      "answer": "tích hợp",
+      "translatedAnswer": {
+        "en": "integrate"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "4899f8d2-213b-4bef-90a9-eb287818cc56"
+  },
+  "definition": "integrate",
+  "updatedAt": "2026-03-03T09:55:16.403Z",
+  "choices": [
+    "tích hợp",
+    "bổ sung",
+    "phát triển"
+  ],
+  "notes": "tích hợp = to integrate, to combine different parts into one working system.\n\nIt’s a verb used a lot with tech, systems, features, skills, or processes. You “tích hợp” something into something else to make it work together smoothly.\n\nIt often appears in formal or work/tech contexts. A close synonym is kết hợp, but tích hợp feels more technical and system-based, not just mixing things together.",
+  "exampleSentencesTranslated": [
+    "I want to integrate the new software into my work system.",
+    "I am learning how to integrate soft skills into my daily work.",
+    "My team will integrate creative ideas into this project."
+  ],
+  "_id": "MhmopOuOzIwPPUgd4T9a"
+}

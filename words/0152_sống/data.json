@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh muốn sống ở thành phố này lâu dài cùng gia đình.",
+    "Chị ấy luôn cố gắng sống một cuộc đời ý nghĩa và hạnh phúc.",
+    "Bạn bè của em thích sống gần biển để ngắm hoàng hôn mỗi ngày."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I live in Hanoi.",
+      "es": "Vivo en Hanoi.",
+      "vi": "Tôi sống ở Hà Nội."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "có sự sống; cư trú hoặc tồn tại ở một nơi.",
+      "es": "estar vivo; residir o existir en un lugar.",
+      "en": "to be alive; to reside or exist in a place."
+    },
+    "translations": {
+      "vi": "sống",
+      "es": "vivir",
+      "en": "live"
+    },
+    "createdAt": "2025-01-28T11:52:01.082Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 152,
+  "exampleSentencesTranslated": [
+    "Anh wants to live in this city for a long time with his family.",
+    "She always tries to live a meaningful and happy life.",
+    "My friends like to live near the sea to watch the sunset every day."
+  ],
+  "notes": "sống = to live, to be alive. It’s used for living somewhere, living with someone, or living in a certain way.\n\nCommon patterns: sống ở + place, sống với + person, sống bằng/nhờ + something (money/job/support). You can also say sống như… to describe a lifestyle.\n\nIt also means “to survive” in phrases like sống sót (survive). \n\nStrong memory link: opposite is chết (to die).",
+  "choices": [
+    "chết",
+    "sống",
+    "học"
+  ],
+  "updatedAt": "2026-03-03T06:35:42.629Z",
+  "definition": "live",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:14:57.369Z",
+    "createdAt": "2025-03-12T14:14:57.369Z",
+    "id": "cb60da31-7da9-485e-9305-03be3205ba40",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi muốn ___ ở đây.",
+      "word": "sống",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I want to live here."
+      },
+      "answer": "sống",
+      "translatedAnswer": {
+        "en": "live"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "word": "sống",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "chơi",
+        "sống",
+        "học"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "We will live in this city."
+      },
+      "sentence": "Chúng ta sẽ ___ trong thành phố này.",
+      "hint": "s___g",
+      "word": "sống",
+      "answer": "sống",
+      "translatedAnswer": {
+        "en": "live"
+      }
+    },
+    "id": "fec611f6-13b4-4bbd-b7b4-76e89f7af0e3",
+    "createdAt": "2025-03-12T14:14:57.369Z",
+    "updatedAt": "2025-03-12T14:14:57.369Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**sống** = to live, to be alive. It’s used for living somewhere, living with someone, or living in a certain way.\n\nCommon patterns: **sống ở + place**, **sống với + person**, **sống bằng/nhờ + something** (money/job/support). You can also say **sống như…** to describe a lifestyle.\n\nIt also means “to survive” in phrases like **sống sót** (survive). \n\nStrong memory link: opposite is **chết** (to die).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "LqwYi83L9aIM1eJFpk3Y"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "mức",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:04:24.202Z",
+    "createdAt": "2025-03-12T14:04:24.202Z",
+    "id": "072e433e-9cce-4a2b-88de-931437ec1a53",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to determine the necessary level."
+      },
+      "language": "vi",
+      "choices": [
+        "mức",
+        "điểm",
+        "cấp"
+      ],
+      "hint": "m___",
+      "word": "mức",
+      "sentence": "Chúng ta cần xác định ___ cần thiết.",
+      "translatedAnswer": {
+        "en": "level"
+      },
+      "answer": "mức"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mức** = level, degree, or amount of something. It’s a noun used to measure how high/low, strong/weak, expensive/cheap, etc.\n\nYou’ll often see it with abstract things: **mức giá** (price level), **mức lương** (salary level), **mức độ** (degree), **mức sống** (standard of living). It usually follows another noun to specify “how much/how intense.”\n\n\nClose words: **mức độ** (more formal, “degree”), **trình độ** (level of skill/education — don’t mix these up).",
+  "choices": [
+    "mức",
+    "bức",
+    "mật"
+  ],
+  "updatedAt": "2026-03-03T07:16:04.337Z",
+  "exampleSentencesTranslated": [
+    "You need to improve your English level to study abroad.",
+    "I think the price level of this restaurant is quite reasonable.",
+    "I have reached the highest level in this game."
+  ],
+  "notes": "mức = level, degree, or amount of something. It’s a noun used to measure how high/low, strong/weak, expensive/cheap, etc.\n\nYou’ll often see it with abstract things: mức giá (price level), mức lương (salary level), mức độ (degree), mức sống (standard of living). It usually follows another noun to specify “how much/how intense.”\n\nClose words: mức độ (more formal, “degree”), trình độ (level of skill/education — don’t mix these up).",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I need to know this level."
+      },
+      "sentence": "Tôi cần biết ___ này.",
+      "word": "mức",
+      "answer": "mức",
+      "translatedAnswer": {
+        "en": "level"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "bd52f5e3-e05a-455a-957e-8b6dadfeb9c3",
+    "createdAt": "2025-03-12T14:04:24.202Z",
+    "updatedAt": "2025-03-12T14:04:24.202Z"
+  },
+  "definition": "level",
+  "rank": 538,
+  "exampleSentences": [
+    "Em cần nâng cao mức tiếng Anh của mình để đi du học.",
+    "Chị thấy mức giá của nhà hàng này khá hợp lý.",
+    "Anh đã đạt đến mức cao nhất trong trò chơi này rồi."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need to increase my level of concentration.",
+      "es": "Necesito aumentar mi nivel de concentración.",
+      "vi": "Tôi cần tăng mức độ tập trung của mình."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A level or degree of something.",
+      "es": "Un nivel o grado de algo.",
+      "vi": "Một mức độ hoặc cấp độ của một cái gì đó."
+    },
+    "translations": {
+      "vi": "mức",
+      "es": "nivel",
+      "en": "level"
+    },
+    "createdAt": "2025-01-28T11:42:20.715Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Ji8Pcjn8AoXxhaw4gyxq"
+}

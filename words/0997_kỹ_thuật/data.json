@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:58:17.480Z",
+    "updatedAt": "2025-03-12T12:58:17.480Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "9b1820cf-cabc-43c2-bf6b-a68a6a3eba66",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "kỹ thuật",
+      "sentence": "Anh ấy rất giỏi về ___.",
+      "word": "kỹ thuật",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "technique"
+      },
+      "choices": [],
+      "translation": {
+        "en": "He is very good at technique."
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T08:02:10.093Z",
+  "exampleSentencesTranslated": [
+    "I am studying technology to work at the new company.",
+    "She is very interested in the advancements of modern technology.",
+    "This job requires you to have knowledge of technology."
+  ],
+  "notes_md": "**kỹ thuật** usually means *technology* or *engineering* — the technical field behind machines, systems, and industry.\n\nIt’s a noun. You’ll often see it in phrases like *ngành kỹ thuật* (engineering field) or *lĩnh vực kỹ thuật*. It also combines with other nouns: *kỹ thuật số* (digital technology), *kỹ thuật cao* (high-tech).\n\nVery commonly, **kỹ thuật** can also mean *technique* or *method* — the practical skill of doing something well.\n\nStrong memory link: **kỹ năng** = skill (your ability), while **kỹ thuật** = technical method or technology.",
+  "word": "kỹ thuật",
+  "choices": [
+    "kỹ năng",
+    "kỹ thuật",
+    "thiết bị"
+  ],
+  "notes": "kỹ thuật usually means technology or engineering — the technical field behind machines, systems, and industry.\n\nIt’s a noun. You’ll often see it in phrases like ngành kỹ thuật (engineering field) or lĩnh vực kỹ thuật. It also combines with other nouns: kỹ thuật số (digital technology), kỹ thuật cao (high-tech).\n\nVery commonly, kỹ thuật can also mean technique or method — the practical skill of doing something well.\n\nStrong memory link: kỹ năng = skill (your ability), while kỹ thuật = technical method or technology.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh đang học về kỹ thuật để làm việc ở công ty mới.",
+    "Chị ấy rất quan tâm đến những tiến bộ của kỹ thuật hiện đại.",
+    "Công việc này yêu cầu em phải có kiến thức về kỹ thuật."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:58:17.480Z",
+    "updatedAt": "2025-03-12T12:58:17.480Z",
+    "id": "45896bb2-b71e-460d-9d4b-0dd62b4d7c4f",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "k___t",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "technique"
+      },
+      "word": "kỹ thuật",
+      "translation": {
+        "en": "She studies technique to become an engineer."
+      },
+      "choices": [
+        "kỹ thuật",
+        "nguyên lý",
+        "công nghệ"
+      ],
+      "answer": "kỹ thuật",
+      "sentence": "Cô ấy học ___ để trở thành kỹ sư."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Esta técnica es muy efectiva para mejorar la productividad.",
+      "en": "This technique is very effective in improving productivity.",
+      "vi": "Kỹ thuật này rất hiệu quả trong việc cải thiện năng suất."
+    },
+    "translations": {
+      "en": "technique",
+      "vi": "kỹ thuật",
+      "es": "técnica"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un método o forma de hacer algo, especialmente uno que es sistemático o científico.",
+      "vi": "Một phương pháp hoặc cách làm điều gì đó, đặc biệt là một phương pháp có hệ thống hoặc khoa học.",
+      "en": "A method or way of doing something, especially one that is systematic or scientific."
+    },
+    "createdAt": "2025-01-28T10:41:31.975Z"
+  },
+  "definition": "technology",
+  "rank": 997,
+  "_id": "2MjPsDfXVBPHzkkIZ1TT"
+}

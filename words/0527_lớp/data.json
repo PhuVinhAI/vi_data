@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:04:45.655Z",
+    "content": {
+      "translation": {
+        "en": "I like studying in the new class."
+      },
+      "choices": [
+        "lớp",
+        "trường",
+        "giáo viên"
+      ],
+      "translatedAnswer": {
+        "en": "class"
+      },
+      "hint": "l__p",
+      "answer": "lớp",
+      "word": "lớp",
+      "language": "vi",
+      "sentence": "Tôi thích học ở ___ mới."
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:04:45.655Z",
+    "id": "e39b877d-c923-4c0f-8b4d-ec25748413c0"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lớp",
+  "exampleSentences": [
+    "Sáng nay anh quên mang sách đến lớp nên phải mượn bạn.",
+    "Chị thích nhất môn toán trong lớp vì thầy dạy rất dễ hiểu.",
+    "Em có nhiều bạn mới khi bắt đầu vào lớp mới năm nay."
+  ],
+  "notes": "lớp usually means a class in school — a group of students learning together or a specific lesson period.  \n\nIt’s a countable noun: một lớp, hai lớp; you can also say lớp học to be more specific (“school class”).  \n\nVery commonly, lớp also means a layer of something (like a layer of clothes, paint, dust, cream). Think of it as “one layer on top of another.”  \n\nIt can also refer to a grade level (like lớp 1, lớp 12).  \n\nMemory tip: one word = either a group of students or a layer stacked on something.",
+  "choices": [
+    "lớp",
+    "bàn",
+    "trường"
+  ],
+  "rank": 527,
+  "notes_md": "**lớp** usually means a *class* in school — a group of students learning together or a specific lesson period.  \n\nIt’s a countable noun: *một lớp, hai lớp*; you can also say *lớp học* to be more specific (“school class”).  \n\nVery commonly, **lớp** also means a *layer* of something (like a layer of clothes, paint, dust, cream). Think of it as “one layer on top of another.”  \n\nIt can also refer to a *grade level* (like lớp 1, lớp 12).  \n\nMemory tip: one word = either a group of students or a layer stacked on something.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "class",
+  "exampleSentencesTranslated": [
+    "This morning I forgot to bring my book to class so I had to borrow one from a friend.",
+    "She likes math class the most because the teacher teaches very clearly.",
+    "I have many new friends when I start a new class this year."
+  ],
+  "fillBlankQuiz": {
+    "id": "c2a25c1c-6769-4284-99be-da4ce99073f3",
+    "createdAt": "2025-03-12T15:04:45.655Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I am studying in this class."
+      },
+      "translatedAnswer": {
+        "en": "class"
+      },
+      "choices": [],
+      "word": "lớp",
+      "language": "vi",
+      "answer": "lớp",
+      "sentence": "Tôi đang học trong ___ này."
+    },
+    "updatedAt": "2025-03-12T15:04:45.655Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:15:02.038Z",
+  "flashcard": {
+    "definitions": {
+      "en": "A group of students who are taught together.",
+      "es": "Un grupo de estudiantes que son enseñados juntos.",
+      "vi": "Một nhóm học sinh được dạy cùng nhau."
+    },
+    "createdAt": "2025-01-28T12:37:07.941Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "class",
+      "es": "clase",
+      "vi": "lớp"
+    },
+    "example": {
+      "en": "I am studying in this class.",
+      "es": "Estoy estudiando en esta clase.",
+      "vi": "Tôi đang học trong lớp này."
+    }
+  },
+  "_id": "Y5wHkEMJFwBLfXruogwd"
+}

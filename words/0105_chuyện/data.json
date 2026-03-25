@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "chuyến",
+    "chuyện",
+    "chuyên"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "story",
+  "word": "chuyện",
+  "rank": 105,
+  "exampleSentences": [
+    "Em thích nghe anh kể chuyện hồi nhỏ của mình lắm.",
+    "Chị có biết chuyện gì vừa xảy ra ở trường không?",
+    "Mỗi tối, mẹ thường đọc chuyện cho em gái trước khi ngủ."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:45:53.703Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "story"
+      },
+      "language": "vi",
+      "word": "chuyện",
+      "sentence": "Cô ấy kể ___ rất thú vị.",
+      "hint": "c____n",
+      "choices": [
+        "truyện",
+        "chuyện",
+        "kịch"
+      ],
+      "translation": {
+        "en": "She tells a very interesting story."
+      },
+      "answer": "chuyện"
+    },
+    "updatedAt": "2025-03-12T13:45:53.703Z",
+    "id": "d599bb22-ec86-4c3d-b1e7-9047165a133c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Chuyện** means *story*, but also more broadly *a matter / an issue / something that happened*. It’s very flexible and often refers to events or topics in general.\n\nAs a noun, you can count it with **một câu chuyện** (a story), but **chuyện** alone often feels more abstract. It combines naturally with verbs like **kể chuyện** (tell a story), **nói chuyện** (talk/chat), and **hỏi chuyện** (ask about something).  \n\nIt also works like “thing” in English when talking about situations: **chuyện gì**, **chuyện của ai**, **chuyện về + topic**.  \n\nClose cousin: **việc** = a task/affair (more practical, work-related), while **chuyện** feels more like stories, events, or personal matters.",
+  "exampleSentencesTranslated": [
+    "I like listening to you tell a story from your childhood.",
+    "Do you know the story that just happened at school?",
+    "Every night, mom usually reads a story to my younger sister before bed."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A matter or a story.",
+      "vi": "Một vấn đề hoặc một câu chuyện.",
+      "es": "Un asunto o una historia."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Có chuyện gì vậy?",
+      "es": "¿Qué pasa?",
+      "en": "What's the matter?"
+    },
+    "createdAt": "2025-01-28T11:24:15.453Z",
+    "translations": {
+      "en": "matter",
+      "es": "asunto",
+      "vi": "chuyện"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "6bcbf7a1-7da6-4ff1-a786-c24ec0729f3a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:45:53.703Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "story"
+      },
+      "sentence": "Tôi muốn kể ___ này cho bạn.",
+      "word": "chuyện",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I want to tell this story to you."
+      },
+      "answer": "chuyện"
+    },
+    "updatedAt": "2025-03-12T13:45:53.703Z"
+  },
+  "notes": "Chuyện means story, but also more broadly a matter / an issue / something that happened. It’s very flexible and often refers to events or topics in general.\n\nAs a noun, you can count it with một câu chuyện (a story), but chuyện alone often feels more abstract. It combines naturally with verbs like kể chuyện (tell a story), nói chuyện (talk/chat), and hỏi chuyện (ask about something).  \n\nIt also works like “thing” in English when talking about situations: chuyện gì, chuyện của ai, chuyện về + topic.  \n\nClose cousin: việc = a task/affair (more practical, work-related), while chuyện feels more like stories, events, or personal matters.",
+  "updatedAt": "2026-03-03T06:13:44.952Z",
+  "_id": "F28bjUnT2PTtwLcXGd4S"
+}

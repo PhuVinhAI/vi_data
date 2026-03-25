@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "hạng",
+    "giải",
+    "giá"
+  ],
+  "exampleSentences": [
+    "Anh muốn biết hạng của đội bóng này sau mùa giải vừa rồi.",
+    "Chị đã đạt hạng cao trong kỳ thi tiếng Anh năm nay.",
+    "Em thích xem ai có hạng cao nhất trong lớp học."
+  ],
+  "rank": 2994,
+  "word": "hạng",
+  "definition": "rank",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:20:41.318Z",
+  "notes": "hạng means rank or position in a list, competition, or level system. It’s a noun.\n\nIt often goes with numbers or words like cao / thấp to show level or quality. You’ll see it in sports, school results, product quality, or social status.\n\nClose words: cấp (level, often more official/system-based) and loại (type/category, not about ranking). Opposite idea: cao ↔ thấp when talking about rank quality.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "7352514a-633b-4700-a358-61a60993b27c",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:35:59.537Z",
+    "createdAt": "2025-03-12T13:35:59.537Z",
+    "content": {
+      "answer": "hạng",
+      "translation": {
+        "en": "This product belongs to the highest rank."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Sản phẩm này thuộc ___ cao nhất.",
+      "word": "hạng",
+      "translatedAnswer": {
+        "en": "rank"
+      }
+    }
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Anh ấy đứng hạng nhất trong cuộc thi.",
+      "es": "Él ocupó el primer lugar en la competencia.",
+      "en": "He ranked first in the competition."
+    },
+    "createdAt": "2025-01-28T11:15:21.709Z",
+    "translations": {
+      "en": "rank",
+      "es": "rango",
+      "vi": "hạng"
+    },
+    "definitions": {
+      "vi": "Một loại hoặc cấp độ chất lượng, hạng hoặc địa vị.",
+      "es": "Una categoría o nivel de calidad, rango o estatus.",
+      "en": "A category or level of quality, rank, or status."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He wants to know the rank of this football team after last season.",
+    "She achieved a high rank in the English exam this year.",
+    "I like to see who has the highest rank in the class."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:35:59.537Z",
+    "content": {
+      "hint": "h___",
+      "choices": [
+        "hạng",
+        "cấp",
+        "loại"
+      ],
+      "translation": {
+        "en": "This product belongs to the highest rank."
+      },
+      "answer": "hạng",
+      "translatedAnswer": {
+        "en": "rank"
+      },
+      "language": "vi",
+      "sentence": "Sản phẩm này thuộc ___ cao nhất.",
+      "word": "hạng"
+    },
+    "createdAt": "2025-03-12T13:35:59.537Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "8b30a237-cfc4-4ccf-a94f-5138c8e20cea"
+  },
+  "notes_md": "**hạng** means *rank* or *position* in a list, competition, or level system. It’s a noun.\n\nIt often goes with numbers or words like **cao / thấp** to show level or quality. You’ll see it in sports, school results, product quality, or social status.\n\n\nClose words: **cấp** (level, often more official/system-based) and **loại** (type/category, not about ranking). Opposite idea: **cao ↔ thấp** when talking about rank quality.",
+  "_id": "CIrpUuksm7UAp7NNADkY"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:54:48.173Z",
+  "exampleSentencesTranslated": [
+    "He looked all over the house but it turns out the keys were in his jacket pocket.",
+    "She thought you forgot your wallet, but it turns out you put it in your backpack.",
+    "Everyone thought it would rain, but it turns out it was sunny all day."
+  ],
+  "exampleSentences": [
+    "Anh tìm khắp nhà nhưng hóa ra chìa khóa ở trong túi áo.",
+    "Chị nghĩ em quên mang theo ví, nhưng hóa ra em đã để nó trong balo.",
+    "Mọi người tưởng trời sẽ mưa, nhưng hóa ra trời nắng suốt cả ngày."
+  ],
+  "choices": [
+    "hóa ra",
+    "thật ra",
+    "lúc nào"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Hóa ra cô ấy là bạn của tôi.",
+      "es": "Resulta que ella es mi amiga.",
+      "en": "It turns out she is my friend."
+    },
+    "translations": {
+      "vi": "hóa ra",
+      "en": "it turns out",
+      "es": "resulta"
+    },
+    "definitions": {
+      "vi": "Hóa ra; có vẻ như.",
+      "en": "It turns out; it appears that.",
+      "es": "Resulta; parece que."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:46:48.276Z"
+  },
+  "notes": "Hóa ra = “turns out / it turns out (that)”. You use it when the result is different from what you thought before.\n\nIt usually appears in the second clause, after you realize something. It often contrasts with an earlier assumption (often after nhưng).\n\nClose in meaning to thì ra (very similar, slightly softer in tone).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:14:58.220Z",
+    "id": "26a384eb-9087-4bdc-a6c8-f488db594f39",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy ___ là bạn của tôi.",
+      "translation": {
+        "en": "She turns out to be my friend."
+      },
+      "translatedAnswer": {
+        "en": "turns out"
+      },
+      "choices": [],
+      "word": "hóa ra",
+      "language": "vi",
+      "answer": "hóa ra"
+    },
+    "updatedAt": "2025-03-12T16:14:58.220Z"
+  },
+  "word": "hóa ra",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:14:58.220Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "accde125-027c-4a98-9241-c2c4f79f8c75",
+    "content": {
+      "sentence": "Cô ấy ___ là bạn của tôi.",
+      "translation": {
+        "en": "She turns out to be my friend."
+      },
+      "translatedAnswer": {
+        "en": "turns out"
+      },
+      "hint": "h___a",
+      "word": "hóa ra",
+      "answer": "hóa ra",
+      "language": "vi",
+      "choices": [
+        "hóa ra",
+        "có thể",
+        "không thể"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:14:58.220Z"
+  },
+  "definition": "turns out",
+  "rank": 2048,
+  "notes_md": "**Hóa ra** = “turns out / it turns out (that)”. You use it when the result is different from what you thought before.\n\nIt usually appears in the second clause, after you realize something. It often contrasts with an earlier assumption (often after *nhưng*).\n\n\nClose in meaning to **thì ra** (very similar, slightly softer in tone).",
+  "_id": "qKlfSCTdJV6P0cyRZHU7"
+}

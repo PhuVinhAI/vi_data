@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:05:57.142Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a21a7a74-0060-4b9a-a09b-64c409e450ff",
+    "content": {
+      "sentence": "Hôm nay tôi đi ___ mới.",
+      "language": "vi",
+      "choices": [
+        "trường học",
+        "lớp học",
+        "bài học"
+      ],
+      "answer": "lớp học",
+      "word": "lớp học",
+      "hint": "l___h",
+      "translation": {
+        "en": "Today I am going to a class."
+      },
+      "translatedAnswer": {
+        "en": "class"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T16:05:57.142Z"
+  },
+  "definition": "classroom",
+  "notes_md": "**lớp học** = classroom, the physical room where students and a teacher study together.\n\nIt’s a countable noun: *một lớp học, hai lớp học*. Often used with **trong**, **vào**, **ra khỏi** (location words) because it’s a place.  \nDon’t confuse it with **lớp** alone, which can mean “class” as a group of students, not the room.  \nClose word: **phòng học** (literally “study room”) — very similar, but *lớp học* focuses more on the class setting, not just the room itself.",
+  "rank": 2742,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:05:57.142Z",
+    "content": {
+      "translation": {
+        "en": "Today I am going to a class."
+      },
+      "translatedAnswer": {
+        "en": "class"
+      },
+      "answer": "lớp học",
+      "language": "vi",
+      "word": "lớp học",
+      "choices": [],
+      "sentence": "Hôm nay tôi đi ___ mới."
+    },
+    "type": "fillBlankQuiz",
+    "id": "17d61a8e-782b-4218-b041-f3fb2e0559cf",
+    "createdAt": "2025-03-12T16:05:57.142Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "word": "lớp học",
+  "notes": "lớp học = classroom, the physical room where students and a teacher study together.\n\nIt’s a countable noun: một lớp học, hai lớp học. Often used with trong, vào, ra khỏi (location words) because it’s a place.  \nDon’t confuse it with lớp alone, which can mean “class” as a group of students, not the room.  \nClose word: phòng học (literally “study room”) — very similar, but lớp học focuses more on the class setting, not just the room itself.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:42:24.167Z",
+  "exampleSentencesTranslated": [
+    "This morning, I arrived at the classroom very early to prepare for the test.",
+    "He usually sits near the window in the classroom because he likes the light.",
+    "She forgot to bring her textbook to the classroom today."
+  ],
+  "exampleSentences": [
+    "Sáng nay, em đến lớp học rất sớm để chuẩn bị bài kiểm tra.",
+    "Anh thường ngồi gần cửa sổ trong lớp học vì thích ánh sáng.",
+    "Chị ấy quên mang sách giáo khoa vào lớp học hôm nay."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "aula",
+      "en": "classroom",
+      "vi": "lớp học"
+    },
+    "example": {
+      "es": "Hoy tengo una clase de inglés.",
+      "en": "Today I have an English class.",
+      "vi": "Hôm nay tôi có lớp học tiếng Anh."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:37:28.268Z",
+    "definitions": {
+      "vi": "Một phòng hoặc không gian nơi học sinh được dạy.",
+      "es": "Un lugar o espacio donde se enseña a los estudiantes.",
+      "en": "A room or space where students are taught."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "phòng học",
+    "lớp học",
+    "giáo viên"
+  ],
+  "_id": "nfSU3kEQCy0BCdFGoEOJ"
+}

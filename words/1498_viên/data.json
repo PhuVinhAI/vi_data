@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "viên",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7b3d1f3b-2185-451f-bfdf-930f91cd7f4c",
+    "content": {
+      "choices": [
+        "viên",
+        "nhân",
+        "giảng"
+      ],
+      "sentence": "Tôi là một ___ chức năng.",
+      "language": "vi",
+      "word": "viên",
+      "translatedAnswer": {
+        "en": "functionary"
+      },
+      "translation": {
+        "en": "I am a functionary."
+      },
+      "hint": "v___n",
+      "answer": "viên"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:16:38.325Z",
+    "updatedAt": "2025-03-12T17:16:38.325Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**viên** usually shows up in words meaning “member.” On its own, it’s rarely used to mean “member” — it’s part of a bigger word.\n\nIt combines with another noun to form a person in a group or role.  \n\nYou don’t say *một viên* to mean “a member” — you say *một thành viên*, *một nhân viên*, etc.\n\nVery common other meaning: **viên** = a small round unit like a pill or tablet, and it also works as a classifier for round objects (like viên thuốc).",
+  "rank": 1498,
+  "choices": [
+    "viên",
+    "bàn",
+    "sách"
+  ],
+  "notes": "viên usually shows up in words meaning “member.” On its own, it’s rarely used to mean “member” — it’s part of a bigger word.\n\nIt combines with another noun to form a person in a group or role.  \n\nYou don’t say một viên to mean “a member” — you say một thành viên, một nhân viên, etc.\n\nVery common other meaning: viên = a small round unit like a pill or tablet, and it also works as a classifier for round objects (like viên thuốc).",
+  "updatedAt": "2026-03-03T08:56:25.762Z",
+  "exampleSentences": [
+    "Chị là một viên trong nhóm nghiên cứu mới thành lập.",
+    "Mỗi viên của câu lạc bộ đều có trách nhiệm riêng.",
+    "Anh ấy đã trở thành viên của đội bóng từ năm ngoái."
+  ],
+  "exampleSentencesTranslated": [
+    "She is a member in the newly established research group.",
+    "Each member of the club has their own responsibility.",
+    "He became a member of the football team last year."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:16:38.325Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "viên",
+      "sentence": "Tôi là một ___ chức năng.",
+      "language": "vi",
+      "translation": {
+        "en": "I am a functionary."
+      },
+      "translatedAnswer": {
+        "en": "functionary"
+      },
+      "answer": "viên"
+    },
+    "createdAt": "2025-03-12T17:16:38.325Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "33e3d45e-6734-4d56-aac9-76148f60cc9e"
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "Un objeto pequeño y redondo, a menudo utilizado para referirse a pastillas o caramelos.",
+      "vi": "Một vật nhỏ, hình tròn, thường được dùng để chỉ thuốc hoặc kẹo.",
+      "en": "A small, round object or item, often used to refer to pills or candies."
+    },
+    "example": {
+      "en": "I bought a candy.",
+      "es": "Compré un caramelo.",
+      "vi": "Tôi đã mua một viên kẹo."
+    },
+    "translations": {
+      "en": "pill, candy",
+      "es": "pastilla, caramelo",
+      "vi": "thuốc, kẹo"
+    },
+    "createdAt": "2025-01-28T11:13:07.962Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "member",
+  "_id": "BjohIe2PjZY5YYl4hAF7"
+}

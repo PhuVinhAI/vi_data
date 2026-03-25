@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**cụ** = a very elderly person, usually older than *ông/bà* (grandparent age). It’s a respectful way to refer to someone very old.\n\nIt’s a noun. You can say *một cụ*, *các cụ*. Common pairings: *cụ ông* (very old man), *cụ bà* (very old woman).\n\nIt can also mean “great-grandparent” in family terms, like *cụ nội* / *cụ ngoại*.\n\nCompared to *người già* (elderly person), *cụ* sounds more respectful and personal.",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "cụ",
+      "sentence": "Tôi cần ___ để làm bài tập.",
+      "translatedAnswer": {
+        "en": "tool"
+      },
+      "answer": "cụ",
+      "translation": {
+        "en": "I need a tool to do the homework."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:34:42.849Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:34:42.849Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "af04a4d2-23c3-4a99-b368-0c48d9597e90"
+  },
+  "definition": "elder",
+  "rank": 1794,
+  "notes": "cụ = a very elderly person, usually older than ông/bà (grandparent age). It’s a respectful way to refer to someone very old.\n\nIt’s a noun. You can say một cụ, các cụ. Common pairings: cụ ông (very old man), cụ bà (very old woman).\n\nIt can also mean “great-grandparent” in family terms, like cụ nội / cụ ngoại.\n\nCompared to người già (elderly person), cụ sounds more respectful and personal.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:06:06.280Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một thuật ngữ dùng để chỉ một người cao tuổi, thường với sự tôn trọng.",
+      "es": "Un término utilizado para referirse a una persona mayor, a menudo con respeto.",
+      "en": "A term used to refer to an elderly person, often with respect."
+    },
+    "example": {
+      "vi": "Cụ của tôi rất thông minh.",
+      "en": "My grandfather is very smart.",
+      "es": "Mi abuelo es muy inteligente."
+    },
+    "translations": {
+      "en": "grandfather",
+      "es": "abuelo",
+      "vi": "cụ"
+    }
+  },
+  "updatedAt": "2026-03-03T09:27:57.429Z",
+  "exampleSentences": [
+    "Anh vừa gặp một cụ đang đi bộ ngoài công viên sáng nay.",
+    "Gia đình em luôn kính trọng cụ và lắng nghe lời khuyên của cụ.",
+    "Bà nội kể lại nhiều câu chuyện hay về cụ khi còn trẻ."
+  ],
+  "multiChoiceQuiz": {
+    "id": "e4b68ff9-8d33-4162-8252-25c3459fa102",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:34:42.849Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "tool"
+      },
+      "choices": [
+        "củ",
+        "cụ",
+        "cụm"
+      ],
+      "answer": "cụ",
+      "translation": {
+        "en": "I need a tool to do the homework."
+      },
+      "language": "vi",
+      "word": "cụ",
+      "hint": "c__",
+      "sentence": "Tôi cần ___ để làm bài tập."
+    },
+    "updatedAt": "2025-03-12T16:34:42.849Z"
+  },
+  "choices": [
+    "bà",
+    "cụ",
+    "ông"
+  ],
+  "word": "cụ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I just met an elder walking in the park this morning.",
+    "My family always respects the elder and listens to the elder's advice.",
+    "Grandma tells many interesting stories about the elder when young."
+  ],
+  "_id": "vaCpgrNrizaFXCCX1wvX"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sáng usually means morning (the early part of the day). It’s often used in time phrases like buổi sáng, sáng nay, sáng mai, and you don’t need a classifier.\n\nVery common extra meaning: bright (light, not dark), describing light, colors, rooms, or eyes. It can also mean smart/quick-minded in phrases like sáng dạ.\n\nOpposite for the time meaning: tối (evening/night). Opposite for the light meaning: tối (dark).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:17:46.130Z",
+    "translations": {
+      "vi": "sáng",
+      "es": "brillante",
+      "en": "bright"
+    },
+    "definitions": {
+      "es": "Brillante; claro; luminoso.",
+      "en": "Bright; light; clear.",
+      "vi": "Sáng; có ánh sáng; rõ ràng."
+    },
+    "example": {
+      "vi": "Hôm nay trời sáng và đẹp.",
+      "es": "Hoy el cielo está claro y hermoso.",
+      "en": "Today the sky is bright and beautiful."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Anh likes to drink coffee in the morning before going to work.",
+    "Chị usually jogs around the park in the morning to stay healthy.",
+    "Em always wakes up early in the morning to prepare breakfast for the whole family."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "sáng",
+  "exampleSentences": [
+    "Anh thích uống cà phê vào mỗi sáng trước khi đi làm.",
+    "Chị thường chạy bộ quanh công viên vào sáng để giữ sức khỏe.",
+    "Em luôn dậy sớm vào sáng để chuẩn bị bữa ăn sáng cho cả nhà."
+  ],
+  "updatedAt": "2026-03-03T07:04:07.651Z",
+  "multiChoiceQuiz": {
+    "id": "673e8474-d43b-4a59-9acf-11cca9fcacf8",
+    "createdAt": "2025-03-12T16:46:56.208Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "s___g",
+      "word": "sáng",
+      "sentence": "Hôm nay trời rất ___.",
+      "translation": {
+        "en": "Today the sky is very bright."
+      },
+      "answer": "sáng",
+      "choices": [
+        "sáng",
+        "sángs",
+        "SÁNG"
+      ],
+      "translatedAnswer": {
+        "en": "bright"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:46:56.208Z"
+  },
+  "choices": [
+    "tối",
+    "chiều",
+    "sáng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 418,
+  "definition": "morning",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:46:56.208Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "51cd6b76-e52b-4f2e-a0fb-26b45afb3127",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Hôm nay trời rất ___.",
+      "word": "sáng",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "Today the sky is very bright."
+      },
+      "answer": "sáng",
+      "translatedAnswer": {
+        "en": "bright"
+      }
+    },
+    "updatedAt": "2025-03-12T16:46:56.208Z"
+  },
+  "notes_md": "**sáng** usually means **morning** (the early part of the day). It’s often used in time phrases like *buổi sáng*, *sáng nay*, *sáng mai*, and you don’t need a classifier.\n\n\nVery common extra meaning: **bright** (light, not dark), describing light, colors, rooms, or eyes. It can also mean **smart/quick-minded** in phrases like *sáng dạ*.\n\nOpposite for the time meaning: *tối* (evening/night). Opposite for the light meaning: *tối* (dark).",
+  "_id": "yG14gFjWLLOEHAiHC5cV"
+}

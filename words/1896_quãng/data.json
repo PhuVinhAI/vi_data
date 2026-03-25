@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "period",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:41:31.445Z",
+    "id": "c73bb192-bf44-4b73-8eba-7c4900bbe10b",
+    "content": {
+      "translatedAnswer": {
+        "en": "distance"
+      },
+      "language": "vi",
+      "sentence": "Đoạn đường này rất ___.",
+      "translation": {
+        "en": "This distance is very long."
+      },
+      "answer": "quãng",
+      "word": "quãng",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T14:41:31.445Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**Quãng** means a period of time or a stretch/section of something. It often implies a *segment* within something longer.\n\nIt’s a noun and usually goes with **một quãng + time word** (một quãng thời gian, một quãng đời). You can also use it for distance: **một quãng đường** (a stretch of road).\n\nIt feels a bit reflective when talking about life or memories — like a chapter, not just a random moment.\n\nClose words: **khoảng** (about/approximately — don’t confuse them), **giai đoạn** (phase, more formal).",
+  "exampleSentences": [
+    "Anh đã sống ở Đà Nẵng một quãng thời gian khá dài.",
+    "Chị nhớ nhất quãng tuổi thơ khi còn ở quê với gia đình.",
+    "Em trải qua một quãng khó khăn trước khi tìm được việc làm."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "distancia",
+      "vi": "quãng",
+      "en": "distance"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Quãng đường này rất dài.",
+      "en": "This distance is very long.",
+      "es": "Esta distancia es muy larga."
+    },
+    "createdAt": "2025-01-28T12:16:28.118Z",
+    "definitions": {
+      "es": "Un tramo o distancia entre dos puntos.",
+      "vi": "Một đoạn hoặc khoảng cách giữa hai điểm.",
+      "en": "A stretch or distance between two points."
+    }
+  },
+  "notes": "Quãng means a period of time or a stretch/section of something. It often implies a segment within something longer.\n\nIt’s a noun and usually goes with một quãng + time word (một quãng thời gian, một quãng đời). You can also use it for distance: một quãng đường (a stretch of road).\n\nIt feels a bit reflective when talking about life or memories — like a chapter, not just a random moment.\n\nClose words: khoảng (about/approximately — don’t confuse them), giai đoạn (phase, more formal).",
+  "choices": [
+    "quãng",
+    "giữa",
+    "lần"
+  ],
+  "updatedAt": "2026-03-03T09:38:37.629Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:41:31.445Z",
+    "id": "f24cc30d-10ca-4f08-9969-6d07a8790fde",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to measure the distance to go."
+      },
+      "answer": "quãng",
+      "hint": "q___",
+      "word": "quãng",
+      "choices": [
+        "quãng",
+        "khúc",
+        "đoạn"
+      ],
+      "sentence": "Chúng ta cần đo ___ đường đi.",
+      "translatedAnswer": {
+        "en": "distance"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:41:31.445Z"
+  },
+  "word": "quãng",
+  "rank": 1896,
+  "exampleSentencesTranslated": [
+    "He lived in Da Nang for a long period of time.",
+    "She remembers the period of her childhood living in the countryside with her family most.",
+    "I went through a difficult period before finding a job."
+  ],
+  "_id": "SGE7zJKjZkAvcogFtXTD"
+}

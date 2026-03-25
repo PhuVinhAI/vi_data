@@ -1,0 +1,103 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "thing",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-05-24T13:31:50.765Z",
+    "id": "b1d450a9-0de5-4560-b6fc-350e3a871935",
+    "content": {
+      "translation": {
+        "en": "I have a new thing."
+      },
+      "answer": "cái",
+      "choices": [],
+      "word": "cái",
+      "translatedAnswer": {
+        "en": "thing"
+      },
+      "language": "vi",
+      "sentence": "Tôi có một ___ mới."
+    },
+    "updatedAt": "2025-05-24T13:31:50.765Z"
+  },
+  "exampleSentences": [
+    "Anh cần cái này ngay bây giờ.",
+    "Em mua cái đó cho mẹ.",
+    "Chị thấy cái mới ở cửa hàng."
+  ],
+  "notes_md": "**cái** usually means “thing,” but it’s mainly a **classifier** for objects in Vietnamese. You use it before many inanimate nouns: objects, tools, furniture, general items.\n\n\nIt’s the most common, “default” classifier when you’re not sure which one to use. It can also add a slightly emotional or emphatic tone in some phrases (like when pointing out or criticizing something).\n\nStrong memory tip: think of **cái** as the go-to word for physical “stuff” you can point at.",
+  "flashcard": {
+    "example": {
+      "es": "Esta mesa es muy bonita.",
+      "en": "This table is very beautiful.",
+      "vi": "Cái bàn này rất đẹp."
+    },
+    "definitions": {
+      "es": "Un clasificador utilizado para objetos, a menudo indicando un artículo específico.",
+      "en": "A classifier used for objects, often indicating a specific item.",
+      "vi": "Một từ phân loại dùng cho đồ vật, thường chỉ một món đồ cụ thể."
+    },
+    "createdAt": "2025-05-24T12:36:19.648Z",
+    "translations": {
+      "en": "the",
+      "es": "el/la"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "cái usually means “thing,” but it’s mainly a classifier for objects in Vietnamese. You use it before many inanimate nouns: objects, tools, furniture, general items.\n\nIt’s the most common, “default” classifier when you’re not sure which one to use. It can also add a slightly emotional or emphatic tone in some phrases (like when pointing out or criticizing something).\n\nStrong memory tip: think of cái as the go-to word for physical “stuff” you can point at.",
+  "choices": [
+    "con",
+    "cái",
+    "chiếc"
+  ],
+  "sentenceBreakdowns": [
+    "Anh (he) + cần (need) + cái (thing) + này (this) + ngay bây giờ (right now)",
+    "Em (I) + mua (buy) + cái (thing) + đó (that) + cho (for) + mẹ (mom)",
+    "Chị (she) + thấy (see) + cái (thing) + mới (new) + ở (at) + cửa hàng (store)"
+  ],
+  "updatedAt": "2026-03-03T06:03:05.260Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cái",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e51849a9-16c3-415b-adbc-d6e230b2629f",
+    "createdAt": "2025-05-24T13:31:50.765Z",
+    "content": {
+      "hint": "c___",
+      "translation": {
+        "en": "Do you see this thing?"
+      },
+      "answer": "cái",
+      "word": "cái",
+      "choices": [
+        "cái",
+        "màu",
+        "này"
+      ],
+      "sentence": "Bạn thấy ___ này không?",
+      "translatedAnswer": {
+        "en": "thing"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-05-24T13:31:50.765Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2,
+  "exampleSentencesTranslated": [
+    "He needs this thing right now.",
+    "I buy that thing for mom.",
+    "She sees the new thing at the store."
+  ],
+  "_id": "RNbTXVR8vvbYl04t35le"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:49:42.785Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:14:13.007Z",
+    "updatedAt": "2025-03-12T17:14:13.007Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2f1f7e8e-46ac-4104-b051-1f61ebec0737",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Thank you."
+      },
+      "translatedAnswer": {
+        "en": "thank"
+      },
+      "language": "vi",
+      "word": "ạ",
+      "sentence": "Cảm ơn ___.",
+      "answer": "ạ"
+    }
+  },
+  "notes_md": "**ạ** is a polite sentence-ending particle. It makes your sentence softer and more respectful, especially when talking to someone older, higher status, or a customer.\n\nIt usually goes at the **end of a sentence**. It doesn’t change the meaning, just the tone — more polite, humble, and careful.\n\n\nIt’s very common in service situations, when answering elders, or when asking polite questions. You’ll often see it together with **dạ** at the beginning for extra politeness.\n\nThink of **ạ** as adding a respectful “sir/ma’am tone” to the whole sentence.",
+  "exampleSentencesTranslated": [
+    "Thank you very much, polite particle, for helping me today.",
+    "Yes, do you have any more questions, polite particle?",
+    "Can I ask if the restaurant is still open at this time, polite particle?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ạ",
+    "nhé",
+    "nha"
+  ],
+  "notes": "ạ is a polite sentence-ending particle. It makes your sentence softer and more respectful, especially when talking to someone older, higher status, or a customer.\n\nIt usually goes at the end of a sentence. It doesn’t change the meaning, just the tone — more polite, humble, and careful.\n\nIt’s very common in service situations, when answering elders, or when asking polite questions. You’ll often see it together with dạ at the beginning for extra politeness.\n\nThink of ạ as adding a respectful “sir/ma’am tone” to the whole sentence.",
+  "word": "ạ",
+  "definition": "polite particle",
+  "rank": 283,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una partícula educada utilizada en vietnamita para mostrar respeto.",
+      "en": "A polite particle used in Vietnamese to show respect.",
+      "vi": "Một từ ngữ lịch sự được sử dụng trong tiếng Việt để thể hiện sự tôn trọng."
+    },
+    "createdAt": "2025-01-28T10:40:51.008Z",
+    "example": {
+      "es": "Hola, señor/señora.",
+      "en": "Hello, sir/ma'am.",
+      "vi": "Chào bạn, ạ."
+    },
+    "translations": {
+      "en": "sir/ma'am (polite suffix)",
+      "vi": "ạ (hậu tố lịch sự)",
+      "es": "señor/señora (sufijo educado)"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "thank"
+      },
+      "language": "vi",
+      "word": "ạ",
+      "hint": "polite particle",
+      "translation": {
+        "en": "Thank you."
+      },
+      "choices": [
+        "ạ",
+        "nhé",
+        "nha"
+      ],
+      "answer": "ạ",
+      "sentence": "Cảm ơn ___."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "0b3952a8-3ae3-406b-8ef0-a4f79f26b106",
+    "createdAt": "2025-03-12T17:14:13.007Z",
+    "updatedAt": "2025-03-12T17:14:13.007Z"
+  },
+  "exampleSentences": [
+    "Em cảm ơn anh rất nhiều ạ, vì đã giúp em hôm nay.",
+    "Dạ, chị muốn hỏi thêm gì nữa không ạ?",
+    "Anh cho em hỏi giờ này nhà hàng còn mở cửa không ạ?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "2A2zyNvV643Loh9jUIxD"
+}

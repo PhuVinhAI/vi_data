@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Necesito ingresar la información en el formulario.",
+      "en": "I need to enter the information into the form.",
+      "vi": "Tôi cần nhập thông tin vào biểu mẫu."
+    },
+    "translations": {
+      "vi": "nhập",
+      "en": "enter",
+      "es": "ingresar"
+    },
+    "createdAt": "2025-01-28T10:43:01.513Z",
+    "definitions": {
+      "en": "To enter or input data or information.",
+      "vi": "Nhập dữ liệu hoặc thông tin.",
+      "es": "Ingresar o introducir datos o información."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "enter",
+  "rank": 1759,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em cần nhập mật khẩu mới để đăng nhập vào hệ thống.",
+    "Anh có thể giúp chị nhập dữ liệu vào bảng tính này được không?",
+    "Khi đi du lịch nước ngoài, bạn phải nhập thông tin cá nhân vào mẫu đơn."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:00:01.120Z",
+    "updatedAt": "2025-03-12T13:00:01.120Z",
+    "id": "d94d110a-545e-4352-8383-2c42d8c61cfa",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "nhập",
+      "sentence": "Bạn có thể ___ mã code ở đây.",
+      "translatedAnswer": {
+        "en": "input"
+      },
+      "language": "vi",
+      "word": "nhập",
+      "hint": "n___",
+      "translation": {
+        "en": "You can input the code here."
+      },
+      "choices": [
+        "nhập",
+        "xuất",
+        "sửa"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhập",
+  "choices": [
+    "xuất",
+    "nhập",
+    "mở"
+  ],
+  "notes": "nhập = to enter something into a system (like typing info), or to bring something in. Most often, it’s about putting data in.\n\nYou’ll see it with things like mật khẩu (password), dữ liệu (data), thông tin (information).  \nIt also means “import” in business: nhập khẩu = import (opposite: xuất khẩu = export).  \nAnother common meaning: nhập viện = be admitted to hospital (literally “enter hospital”).",
+  "notes_md": "**nhập** = to enter something into a system (like typing info), or to bring something in. Most often, it’s about putting data in.\n\nYou’ll see it with things like mật khẩu (password), dữ liệu (data), thông tin (information).  \nIt also means “import” in business: **nhập khẩu** = import (opposite: **xuất khẩu** = export).  \nAnother common meaning: **nhập viện** = be admitted to hospital (literally “enter hospital”).",
+  "exampleSentencesTranslated": [
+    "You need to enter a new password to enter the system.",
+    "Can you help me enter data into this spreadsheet?",
+    "When traveling abroad, you have to enter personal information into the form."
+  ],
+  "updatedAt": "2026-03-03T09:24:12.749Z",
+  "fillBlankQuiz": {
+    "id": "db497344-478c-4c03-accf-40c93b6b98cb",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi cần ___ thông tin này.",
+      "answer": "nhập",
+      "choices": [],
+      "translation": {
+        "en": "I need to input this information."
+      },
+      "translatedAnswer": {
+        "en": "input"
+      },
+      "language": "vi",
+      "word": "nhập"
+    },
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T13:00:01.120Z",
+    "updatedAt": "2025-03-12T13:00:01.120Z"
+  },
+  "_id": "2u3PuIgt0yJ0XevmmXF6"
+}

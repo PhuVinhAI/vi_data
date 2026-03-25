@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "biến động",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Thời tiết hôm nay có ___ không?",
+      "language": "vi",
+      "word": "biến động",
+      "choices": [
+        "ổn định",
+        "biến động",
+        "dễ chịu"
+      ],
+      "hint": "b___n",
+      "answer": "biến động",
+      "translatedAnswer": {
+        "en": "fluctuating"
+      },
+      "translation": {
+        "en": "Is the weather fluctuating today?"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:28:39.882Z",
+    "id": "67722e7a-adce-447e-a9c2-259149410e7e",
+    "updatedAt": "2025-03-12T15:28:39.882Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "biến động",
+    "ổn định",
+    "khó khăn"
+  ],
+  "rank": 2164,
+  "notes_md": "**Biến động** = sudden change, usually something unstable or unpredictable (often negative or worrying).\n\nIt’s a **noun**. You’ll often see it with words like *có*, *xảy ra*, *gây ra*, *trải qua*, or after *sự* → *sự biến động*. It’s commonly used for markets, prices, politics, economy, weather, or life situations.\n\nIt’s stronger than *thay đổi* (change) — *biến động* suggests ups and downs, instability. Close synonym: *dao động* (fluctuation), but *biến động* feels bigger and more serious.",
+  "notes": "Biến động = sudden change, usually something unstable or unpredictable (often negative or worrying).\n\nIt’s a noun. You’ll often see it with words like có, xảy ra, gây ra, trải qua, or after sự → sự biến động. It’s commonly used for markets, prices, politics, economy, weather, or life situations.\n\nIt’s stronger than thay đổi (change) — biến động suggests ups and downs, instability. Close synonym: dao động (fluctuation), but biến động feels bigger and more serious.",
+  "exampleSentences": [
+    "Gần đây, thị trường chứng khoán có nhiều biến động khiến mọi người lo lắng.",
+    "Anh đã nghe tin về biến động lớn trong công ty tuần trước chưa?",
+    "Gia đình em phải thích nghi với biến động của cuộc sống thành phố."
+  ],
+  "updatedAt": "2026-03-03T10:06:50.017Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:28:39.882Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:28:39.882Z",
+    "content": {
+      "word": "biến động",
+      "sentence": "Thị trường đang có ___ lớn.",
+      "language": "vi",
+      "choices": [],
+      "answer": "biến động",
+      "translation": {
+        "en": "The market is having significant fluctuations."
+      },
+      "translatedAnswer": {
+        "en": "fluctuations"
+      }
+    },
+    "id": "a8d958a4-082c-45a2-afc9-36e5feab799f",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Recently, the stock market has had a lot of sudden change, making everyone worried.",
+    "Did you hear about the sudden change in the company last week?",
+    "My family has to adapt to the sudden change of city life."
+  ],
+  "definition": "sudden change",
+  "flashcard": {
+    "example": {
+      "es": "El mercado de valores está experimentando muchas fluctuaciones.",
+      "vi": "Thị trường chứng khoán đang trải qua nhiều biến động.",
+      "en": "The stock market is experiencing a lot of fluctuations."
+    },
+    "definitions": {
+      "es": "Un cambio o fluctuación en una situación o condición.",
+      "vi": "Một sự thay đổi hoặc biến động trong một tình huống hoặc điều kiện.",
+      "en": "A change or fluctuation in a situation or condition."
+    },
+    "createdAt": "2025-01-28T13:03:15.963Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "fluctuation",
+      "es": "fluctuación",
+      "vi": "biến động"
+    }
+  },
+  "_id": "eVzjSB4fygOTJwvTMJoi"
+}

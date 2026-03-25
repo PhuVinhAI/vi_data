@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh xin lỗi vì đến trễ trong buổi họp sáng nay.",
+    "Nếu em về nhà trễ, nhớ gọi cho mẹ nhé.",
+    "Chị thường xuyên đi làm trễ vì kẹt xe vào buổi sáng."
+  ],
+  "updatedAt": "2026-03-03T10:19:06.909Z",
+  "notes": "trễ = late (not on time).\n\nIt describes being late for time, events, work, school, etc. It often comes after verbs like đến, đi, về, làm to show someone is late.  \nYou can also use it with time words like giờ, hẹn, buổi học.  \n\nStructure: đến / đi / về + trễ; trễ + giờ  \n\nOpposite: sớm (early). In the North, people often say muộn instead of trễ.",
+  "definition": "late",
+  "flashcard": {
+    "definitions": {
+      "es": "Llegar después del tiempo esperado o programado.",
+      "vi": "Đến sau thời gian dự kiến hoặc đã lên lịch.",
+      "en": "Arriving after the expected or scheduled time."
+    },
+    "example": {
+      "en": "I arrived late for the meeting.",
+      "es": "Llegué tarde a la reunión.",
+      "vi": "Tôi đã đến trễ cho buổi họp."
+    },
+    "translations": {
+      "es": "tarde",
+      "vi": "trễ",
+      "en": "late"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:03:46.832Z"
+  },
+  "exampleSentencesTranslated": [
+    "I'm sorry for being late to the meeting this morning.",
+    "If you come home late, remember to call mom.",
+    "She is often late to work because of morning traffic."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d69eb0ba-dc6f-4ae3-8d60-7d81abd1bd83",
+    "createdAt": "2025-03-12T13:23:14.207Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "trễ",
+      "translation": {
+        "en": "I arrive late to the class."
+      },
+      "translatedAnswer": {
+        "en": "late"
+      },
+      "word": "trễ",
+      "sentence": "Tôi đến ___ lớp học.",
+      "language": "vi",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:23:14.207Z"
+  },
+  "word": "trễ",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "trễ",
+    "sớm",
+    "đủ"
+  ],
+  "rank": 2276,
+  "notes_md": "**trễ** = late (not on time).\n\nIt describes being late for time, events, work, school, etc. It often comes after verbs like *đến, đi, về, làm* to show someone is late.  \nYou can also use it with time words like *giờ, hẹn, buổi học*.  \n\n**Structure:** đến / đi / về + trễ; trễ + giờ  \n\nOpposite: **sớm** (early). In the North, people often say **muộn** instead of *trễ*.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:23:14.207Z",
+    "createdAt": "2025-03-12T13:23:14.207Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "choices": [
+        "sớm",
+        "trễ",
+        "đúng giờ"
+      ],
+      "sentence": "Tôi đến ___ lớp học.",
+      "language": "vi",
+      "word": "trễ",
+      "translatedAnswer": {
+        "en": "late"
+      },
+      "translation": {
+        "en": "I arrive late to the class."
+      },
+      "hint": "t___",
+      "answer": "trễ"
+    },
+    "id": "97c2cf9f-ebe8-4d4f-a8d3-fd6d07b36f18",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "9INIvHhKTLUN52B3DN6K"
+}

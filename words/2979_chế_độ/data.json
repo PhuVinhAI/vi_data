@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em cần chuyển điện thoại sang chế độ im lặng khi vào lớp.",
+    "Anh đã thay đổi chế độ ăn uống để khỏe mạnh hơn.",
+    "Chị có biết cách thiết lập chế độ tiết kiệm pin cho máy tính không?"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "0a6a633a-ec7e-401b-92c7-20df6696024d",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "regime"
+      },
+      "answer": "chế độ",
+      "choices": [],
+      "sentence": "Chúng ta cần thay đổi ___ của mình.",
+      "language": "vi",
+      "word": "chế độ",
+      "translation": {
+        "en": "We need to change our regime."
+      }
+    },
+    "updatedAt": "2025-03-12T15:52:28.246Z",
+    "createdAt": "2025-03-12T15:52:28.246Z"
+  },
+  "choices": [
+    "chế độ",
+    "hệ thống",
+    "phương pháp"
+  ],
+  "rank": 2979,
+  "notes": "chế độ = a mode or system — the way something operates or is organized. It’s a noun.\n\nYou’ll often see it in tech (phone mode, airplane mode), health (diet, workout plan), or politics (political system). Use it with một / các + chế độ when counting, or in patterns like chế độ + N (chế độ ăn, chế độ làm việc, chế độ tự động). It can mean either a temporary setting (mode) or a long-term system (regime/system).\n\nClose idea: hệ thống = system (more about structure), while chế độ feels more like how something runs or is set up.",
+  "definition": "system",
+  "notes_md": "**chế độ** = a *mode* or *system* — the way something operates or is organized. It’s a noun.\n\nYou’ll often see it in tech (phone mode, airplane mode), health (diet, workout plan), or politics (political system). Use it with **một / các + chế độ** when counting, or in patterns like **chế độ + N** (chế độ ăn, chế độ làm việc, chế độ tự động). It can mean either a temporary setting (mode) or a long-term system (regime/system).\n\nClose idea: **hệ thống** = system (more about structure), while **chế độ** feels more like how something runs or is set up.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:52:28.246Z",
+    "updatedAt": "2025-03-12T15:52:28.246Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "regime"
+      },
+      "answer": "chế độ",
+      "hint": "c___o",
+      "sentence": "Cô ấy đang theo ___ ăn kiêng.",
+      "choices": [
+        "chế độ",
+        "phương pháp",
+        "hệ thống"
+      ],
+      "language": "vi",
+      "word": "chế độ",
+      "translation": {
+        "en": "She is following a diet regime."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "e2db7c28-5204-467f-8750-82c9834ba7fa"
+  },
+  "updatedAt": "2026-03-03T18:18:50.880Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chế độ",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:24:43.913Z",
+    "definitions": {
+      "vi": "Một hệ thống hoặc phương pháp quản lý hoặc điều hành một cái gì đó.",
+      "en": "A system or method of governing or managing something.",
+      "es": "Un sistema o método de gobernar o gestionar algo."
+    },
+    "example": {
+      "es": "La dieta es muy importante para la salud.",
+      "en": "The diet is very important for health.",
+      "vi": "Chế độ ăn uống là rất quan trọng cho sức khỏe."
+    },
+    "translations": {
+      "vi": "chế độ",
+      "es": "sistema",
+      "en": "system"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "You need to switch your phone to system when entering class.",
+    "He changed his diet system to be healthier.",
+    "Do you know how to set up the power-saving system for the computer?"
+  ],
+  "_id": "kEWtYpreCZmN4kgwyQsB"
+}

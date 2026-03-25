@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:26:31.174Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "c3e93e0e-7401-40b6-ab38-f3b6c423c9b0",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Công ty đang đầu tư vào ___ mới.",
+      "translatedAnswer": {
+        "en": "e-commerce"
+      },
+      "translation": {
+        "en": "The company is investing in new e-commerce."
+      },
+      "hint": "t___i___",
+      "word": "thương mại điện tử",
+      "answer": "thương mại điện tử",
+      "language": "vi",
+      "choices": [
+        "thương mại điện tử",
+        "dịch vụ trực tuyến",
+        "kinh doanh truyền thống"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:26:31.174Z"
+  },
+  "definition": "e-commerce",
+  "notes_md": "**Thương mại điện tử** means *e-commerce* — buying and selling goods or services online.\n\nIt’s an uncountable noun, so you don’t say *một thương mại điện tử*; instead use phrases like **ngành thương mại điện tử** (the e-commerce industry) or **lĩnh vực thương mại điện tử** (the e-commerce field).  \nIt often goes with verbs like **phát triển**, **tham gia**, **kinh doanh**, **đầu tư vào**.  \nRelated words: **mua sắm online**, **bán hàng online** (more casual), and **kinh doanh trực tuyến** (slightly more formal).",
+  "rank": 1819,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:26:31.174Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Thương nhân đang phát triển ___.",
+      "translation": {
+        "en": "The merchants are developing e-commerce."
+      },
+      "translatedAnswer": {
+        "en": "e-commerce"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "thương mại điện tử",
+      "word": "thương mại điện tử"
+    },
+    "id": "8c8ea5d8-4614-476c-8b0b-98fa19d0e487",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:26:31.174Z"
+  },
+  "word": "thương mại điện tử",
+  "notes": "Thương mại điện tử means e-commerce — buying and selling goods or services online.\n\nIt’s an uncountable noun, so you don’t say một thương mại điện tử; instead use phrases like ngành thương mại điện tử (the e-commerce industry) or lĩnh vực thương mại điện tử (the e-commerce field).  \nIt often goes with verbs like phát triển, tham gia, kinh doanh, đầu tư vào.  \nRelated words: mua sắm online, bán hàng online (more casual), and kinh doanh trực tuyến (slightly more formal).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:30:35.911Z",
+  "exampleSentencesTranslated": [
+    "I am learning how to sell products through e-commerce to expand my business.",
+    "Many young people nowadays like to shop using e-commerce because it is convenient.",
+    "She took a course on e-commerce to develop new skills."
+  ],
+  "exampleSentences": [
+    "Anh đang học cách bán hàng qua thương mại điện tử để mở rộng kinh doanh.",
+    "Nhiều người trẻ hiện nay thích mua sắm bằng thương mại điện tử vì tiện lợi.",
+    "Chị đã tham gia một khóa học về thương mại điện tử để phát triển kỹ năng mới."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "thương mại điện tử",
+    "thương mại truyền thống",
+    "mua sắm trực tiếp"
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "thương mại điện tử",
+      "en": "e-commerce",
+      "es": "comercio electrónico"
+    },
+    "example": {
+      "es": "El comercio electrónico está creciendo rápidamente en Vietnam.",
+      "en": "E-commerce is growing rapidly in Vietnam.",
+      "vi": "Thương mại điện tử đang phát triển nhanh chóng ở Việt Nam."
+    },
+    "definitions": {
+      "vi": "Việc mua bán hàng hóa hoặc dịch vụ qua internet.",
+      "en": "The buying and selling of goods or services using the internet.",
+      "es": "La compra y venta de bienes o servicios utilizando internet."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:57:18.366Z"
+  },
+  "_id": "t3yFyzHPNXbeDHcpWYX1"
+}

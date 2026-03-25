@@ -1,0 +1,99 @@
+{
+  "word": "cuốn",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bút",
+    "cuốn",
+    "bàn"
+  ],
+  "rank": 363,
+  "notes_md": "**Cuốn** usually means a *volume* — it’s a classifier for bound items like books, notebooks, magazines. In English you just say “a book,” but in Vietnamese you need a classifier: number + **cuốn** + noun (hai cuốn sách, một cuốn vở).\n\nIt’s used for things made of pages bound together. A close synonym is **quyển** — they’re often interchangeable.\n\n**Cuốn** is also a very common verb meaning *to roll, wrap, or wind* something.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "19a995cd-49c3-46c9-9919-e492fdfa3c17",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:17:03.015Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi đã đọc ___ rất thú vị.",
+      "word": "cuốn",
+      "choices": [
+        "cuốn",
+        "truyện",
+        "tài liệu"
+      ],
+      "hint": "c___n",
+      "answer": "cuốn",
+      "translatedAnswer": {
+        "en": "book"
+      },
+      "translation": {
+        "en": "I read a very interesting book."
+      }
+    },
+    "updatedAt": "2025-03-12T15:17:03.015Z"
+  },
+  "exampleSentences": [
+    "Anh vừa mua một cuốn mới ở nhà sách hôm qua.",
+    "Chị thích đọc cuốn này mỗi tối trước khi đi ngủ.",
+    "Em đã để quên cuốn trên bàn học rồi."
+  ],
+  "updatedAt": "2026-03-03T06:58:43.166Z",
+  "notes": "Cuốn usually means a volume — it’s a classifier for bound items like books, notebooks, magazines. In English you just say “a book,” but in Vietnamese you need a classifier: number + cuốn + noun (hai cuốn sách, một cuốn vở).\n\nIt’s used for things made of pages bound together. A close synonym is quyển — they’re often interchangeable.\n\nCuốn is also a very common verb meaning to roll, wrap, or wind something.",
+  "definition": "book",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:51:43.991Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "roll",
+      "vi": "cuốn",
+      "es": "enroll"
+    },
+    "example": {
+      "en": "I rolled up this book.",
+      "es": "Enrollé este libro.",
+      "vi": "Tôi đã cuốn sách này lại."
+    },
+    "definitions": {
+      "en": "To roll up or wrap something.",
+      "vi": "Cuốn lại hoặc bọc lại một cái gì đó.",
+      "es": "Enrollar o envolver algo."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:17:03.015Z",
+    "id": "c4ec5ed1-bb88-40bd-89a3-8992dffdec2e",
+    "content": {
+      "translation": {
+        "en": "I bought a new book."
+      },
+      "translatedAnswer": {
+        "en": "book"
+      },
+      "answer": "cuốn",
+      "choices": [],
+      "word": "cuốn",
+      "sentence": "Tôi đã mua một ___ mới.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T15:17:03.015Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I just bought a new book at the bookstore yesterday.",
+    "She likes to read this book every night before going to bed.",
+    "I left the book on the study table."
+  ],
+  "_id": "bPNDRc0tAj6X4pHRONYo"
+}

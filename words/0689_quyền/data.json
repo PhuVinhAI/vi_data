@@ -1,0 +1,99 @@
+{
+  "word": "quyền",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Everyone has the right to express their opinion.",
+    "You have the right to choose the job you love.",
+    "He always protects the right of vulnerable people in society."
+  ],
+  "choices": [
+    "quyền",
+    "giấy",
+    "luật"
+  ],
+  "updatedAt": "2026-03-03T07:30:33.116Z",
+  "exampleSentences": [
+    "Mỗi người đều có quyền được nói lên ý kiến của mình.",
+    "Chị có quyền chọn công việc mà mình yêu thích.",
+    "Anh ấy luôn bảo vệ quyền của những người yếu thế trong xã hội."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Everyone has their own rights."
+      },
+      "answer": "quyền",
+      "choices": [
+        "quyền",
+        "trách nhiệm",
+        "nghĩa vụ"
+      ],
+      "translatedAnswer": {
+        "en": "rights"
+      },
+      "sentence": "Mọi người đều có ___ của riêng mình.",
+      "hint": "q____",
+      "word": "quyền"
+    },
+    "updatedAt": "2025-03-12T16:38:57.571Z",
+    "id": "a78f7fb0-1dd3-48da-9441-79e94d5dc1f5",
+    "createdAt": "2025-03-12T16:38:57.571Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "flashcard": {
+    "example": {
+      "en": "Everyone has the right to freedom of speech.",
+      "es": "Todos tienen el derecho a la libertad de expresión.",
+      "vi": "Mỗi người đều có quyền tự do ngôn luận."
+    },
+    "definitions": {
+      "vi": "Một quyền lợi đạo đức hoặc pháp lý để có hoặc làm điều gì đó.",
+      "es": "Un derecho moral o legal a tener o hacer algo.",
+      "en": "A moral or legal entitlement to have or do something."
+    },
+    "translations": {
+      "vi": "quyền",
+      "es": "derecho",
+      "en": "right"
+    },
+    "createdAt": "2025-01-28T14:10:36.464Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "quyền = a right (something you are allowed or entitled to do). It’s about permission, freedom, or legal/social entitlement.\n\nIt’s an abstract noun, so no classifier. Very common with có quyền + V (to have the right to do something).  \n\nDon’t confuse with quyền lực (power/authority over others).  \nOpposite idea: nghĩa vụ (duty/obligation).",
+  "definition": "right",
+  "rank": 689,
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Mọi người đều có ___ của riêng mình.",
+      "word": "quyền",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "rights"
+      },
+      "translation": {
+        "en": "Everyone has their own rights."
+      },
+      "answer": "quyền",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:38:57.571Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:38:57.571Z",
+    "id": "e3fd764c-5a9c-4e78-b09f-df93dc7b349b"
+  },
+  "notes_md": "**quyền** = a *right* (something you are allowed or entitled to do). It’s about permission, freedom, or legal/social entitlement.\n\nIt’s an abstract noun, so no classifier. Very common with **có quyền + V** (to have the right to do something).  \n\nDon’t confuse with **quyền lực** (power/authority over others).  \nOpposite idea: **nghĩa vụ** (duty/obligation).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "wYL9MjYH40chXeNbT07r"
+}

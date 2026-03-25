@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "bca3a1f4-a4a6-4648-bdb6-2b8c3e118a89",
+    "createdAt": "2025-03-12T13:22:15.286Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I feel very shocked when I hear this news."
+      },
+      "translatedAnswer": {
+        "en": "shocked"
+      },
+      "hint": "s___",
+      "answer": "sốc",
+      "choices": [
+        "bàng hoàng",
+        "sốc",
+        "ngạc nhiên"
+      ],
+      "word": "sốc",
+      "sentence": "Tôi cảm thấy rất ___ khi nghe tin này.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:22:15.286Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**sốc** = shocked, emotionally shaken by something sudden or unexpected. It describes how someone feels after surprising or bad news.\n\nIt’s an adjective and often goes with **bị** or **cảm thấy**. You can also use **gây sốc** for something that is shocking.\n\n\nClose words: **choáng** (more like stunned/dizzy), **bàng hoàng** (deeply shaken, often sad). Opposite vibe: **bình thản** (calm, unfazed).",
+  "choices": [
+    "sốc",
+    "vui",
+    "buồn"
+  ],
+  "rank": 2394,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "sốc",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:22:15.286Z",
+    "id": "3d51b975-0423-4530-bddb-f839398b7567",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:22:15.286Z",
+    "content": {
+      "answer": "sốc",
+      "translatedAnswer": {
+        "en": "shocked"
+      },
+      "translation": {
+        "en": "I feel very shocked when I hear this news."
+      },
+      "sentence": "Tôi cảm thấy rất ___ khi nghe tin này.",
+      "language": "vi",
+      "word": "sốc",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Yesterday I heard that news and I was really shocked.",
+    "She was shocked when she found out the results of the recent exam.",
+    "I have never seen my mom shocked like that before."
+  ],
+  "definition": "shocked",
+  "flashcard": {
+    "translations": {
+      "vi": "sốc",
+      "es": "shock",
+      "en": "shock"
+    },
+    "createdAt": "2025-01-28T11:02:50.824Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A sudden and intense feeling of surprise or disbelief.",
+      "es": "Una sensación repentina e intensa de sorpresa o incredulidad.",
+      "vi": "Cảm giác bất ngờ và mạnh mẽ về điều gì đó không thể tin được."
+    },
+    "example": {
+      "en": "I was shocked when I heard that news.",
+      "vi": "Tôi cảm thấy sốc khi nghe tin đó.",
+      "es": "Me quedé en shock cuando escuché esa noticia."
+    }
+  },
+  "notes": "sốc = shocked, emotionally shaken by something sudden or unexpected. It describes how someone feels after surprising or bad news.\n\nIt’s an adjective and often goes with bị or cảm thấy. You can also use gây sốc for something that is shocking.\n\nClose words: choáng (more like stunned/dizzy), bàng hoàng (deeply shaken, often sad). Opposite vibe: bình thản (calm, unfazed).",
+  "updatedAt": "2026-03-03T10:31:02.284Z",
+  "exampleSentences": [
+    "Hôm qua anh nghe tin đó và thật sự cảm thấy rất sốc.",
+    "Chị bị sốc khi biết kết quả của kỳ thi vừa rồi.",
+    "Em chưa từng thấy mẹ em sốc như vậy trước đây."
+  ],
+  "_id": "94ey8wKRJA4RSItdlq0A"
+}

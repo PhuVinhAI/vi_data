@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "40fcb6ef-230d-4063-9aa4-7cfa60cef3b3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "xin",
+      "translatedAnswer": {
+        "en": "ask"
+      },
+      "language": "vi",
+      "choices": [
+        "nhờ",
+        "xin",
+        "hỏi"
+      ],
+      "translation": {
+        "en": "Can you ask me something?"
+      },
+      "sentence": "Bạn có thể ___ tôi một điều không?",
+      "hint": "x__",
+      "word": "xin"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:04:07.172Z",
+    "createdAt": "2025-03-12T14:04:07.172Z"
+  },
+  "word": "xin",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xin** = to ask for / to request. It’s also used like “please” to make your speech polite.\n\nIt’s a verb. You use it when you want permission, help, or something from someone.  \n\nIt often softens your sentence and shows respect, especially with older people or in formal situations. Strong memory link: think of **“ask politely”** rather than just “ask.”",
+  "choices": [
+    "xin",
+    "cho",
+    "mua"
+  ],
+  "updatedAt": "2026-03-03T07:04:23.807Z",
+  "exampleSentencesTranslated": [
+    "Can I please borrow this pen for a moment?",
+    "She said please before entering the meeting room after knocking.",
+    "I please send this document back for you to review."
+  ],
+  "notes": "xin = to ask for / to request. It’s also used like “please” to make your speech polite.\n\nIt’s a verb. You use it when you want permission, help, or something from someone.  \n\nIt often softens your sentence and shows respect, especially with older people or in formal situations. Strong memory link: think of “ask politely” rather than just “ask.”",
+  "fillBlankQuiz": {
+    "id": "ed70815a-da0e-4778-941f-8e50a5c107e3",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "xin",
+      "translatedAnswer": {
+        "en": "ask for"
+      },
+      "sentence": "Tôi muốn ___ giúp bạn.",
+      "word": "xin",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I want to ask for help."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:04:07.172Z",
+    "createdAt": "2025-03-12T14:04:07.172Z"
+  },
+  "definition": "please",
+  "rank": 421,
+  "exampleSentences": [
+    "Anh xin cho em mượn chiếc bút này một lát được không?",
+    "Chị xin vào phòng họp sau khi đã gõ cửa.",
+    "Em xin gửi lại tài liệu này cho anh xem qua."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Xin chào, bạn khỏe không?",
+      "es": "Hola, ¿cómo estás?",
+      "en": "Hello, how are you?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "xin",
+      "es": "por favor",
+      "en": "please"
+    },
+    "definitions": {
+      "es": "Una forma educada de pedir algo o saludar a alguien.",
+      "vi": "Một cách lịch sự để yêu cầu điều gì đó hoặc để chào ai đó.",
+      "en": "A polite way to ask for something or to greet someone."
+    },
+    "createdAt": "2025-01-28T13:15:00.528Z"
+  },
+  "_id": "JgztQdQUccMzd8hc5SmZ"
+}

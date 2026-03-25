@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**đối tượng** = target, the person or thing being focused on. It’s a noun.\n\nYou can use it for people or things: a target group, a suspect, a research subject. Common pairings: **đối tượng khách hàng** (target customers), **đối tượng nghiên cứu** (research subject), **đối tượng tình nghi** (suspect).\n\nIt’s countable: **một đối tượng**, **các đối tượng**.  \n\nIt can also mean “object” in a more general or technical sense, but in everyday use it often overlaps with **mục tiêu** (goal/target) — *mục tiêu* is more about goals, while *đối tượng* is more about the specific person/thing involved.*",
+  "rank": 793,
+  "definition": "target",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:30:04.962Z",
+    "id": "e9e56f88-58d2-4a31-b944-ea2fe7299fbd",
+    "content": {
+      "sentence": "Đây là ___ của nghiên cứu.",
+      "word": "đối tượng",
+      "language": "vi",
+      "choices": [],
+      "answer": "đối tượng",
+      "translation": {
+        "en": "This is the subject of the research."
+      },
+      "translatedAnswer": {
+        "en": "subject"
+      }
+    },
+    "updatedAt": "2025-03-12T16:30:04.962Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "đối tượng = target, the person or thing being focused on. It’s a noun.\n\nYou can use it for people or things: a target group, a suspect, a research subject. Common pairings: đối tượng khách hàng (target customers), đối tượng nghiên cứu (research subject), đối tượng tình nghi (suspect).\n\nIt’s countable: một đối tượng, các đối tượng.  \n\nIt can also mean “object” in a more general or technical sense, but in everyday use it often overlaps with mục tiêu (goal/target) — mục tiêu is more about goals, while đối tượng is more about the specific person/thing involved.*",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:01:04.650Z",
+    "translations": {
+      "es": "objeto",
+      "en": "subject",
+      "vi": "đối tượng"
+    },
+    "definitions": {
+      "es": "Una persona o cosa que es el foco de atención o acción.",
+      "en": "A person or thing that is the focus of attention or action.",
+      "vi": "Một người hoặc vật là trung tâm của sự chú ý hoặc hành động."
+    },
+    "example": {
+      "vi": "Đối tượng nghiên cứu của chúng tôi là thanh niên.",
+      "en": "The subject of our research is young people.",
+      "es": "El objeto de nuestra investigación son los jóvenes."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "d3a6ba64-6302-4c98-ac41-ba57cbe28eb9",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:30:04.962Z",
+    "content": {
+      "language": "vi",
+      "answer": "đối tượng",
+      "choices": [
+        "đối tượng",
+        "đối thủ",
+        "đối tác"
+      ],
+      "translation": {
+        "en": "This is the subject of the research."
+      },
+      "translatedAnswer": {
+        "en": "subject"
+      },
+      "sentence": "Đây là ___ của nghiên cứu.",
+      "hint": "đ___ t___n",
+      "word": "đối tượng"
+    },
+    "updatedAt": "2025-03-12T16:30:04.962Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Anh đang tìm kiếm đối tượng phù hợp cho dự án mới này.",
+    "Chị đã xác định đối tượng cần giúp đỡ trong cộng đồng.",
+    "Giáo viên yêu cầu học sinh chọn một đối tượng để nghiên cứu."
+  ],
+  "updatedAt": "2026-03-03T07:41:04.111Z",
+  "choices": [
+    "kế hoạch",
+    "đối tượng",
+    "mục tiêu"
+  ],
+  "exampleSentencesTranslated": [
+    "I am looking for a suitable target for this new project.",
+    "She has identified the target that needs help in the community.",
+    "The teacher asked the students to choose a target to research."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đối tượng",
+  "_id": "u1xzRyzd7BhpIv3xaJGU"
+}

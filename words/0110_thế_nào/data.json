@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:57:58.144Z",
+    "updatedAt": "2025-03-12T12:57:58.144Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "d84ef849-e476-4d19-ac86-9a726d1f78cd",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "thế nào",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "how"
+      },
+      "choices": [],
+      "translation": {
+        "en": "How do you feel?"
+      },
+      "answer": "thế nào",
+      "sentence": "Bạn cảm thấy ___ không?"
+    }
+  },
+  "updatedAt": "2026-03-03T06:14:26.480Z",
+  "exampleSentencesTranslated": [
+    "How was your feeling about the weekend trip?",
+    "Can you show me how to make this dish?",
+    "How is your new job these days?"
+  ],
+  "notes_md": "**thế nào** means **“how”**. You use it to ask about condition, quality, or method.\n\nIt often comes at the **end of a sentence** when asking for someone’s opinion or situation. It can also mean “what… like?” depending on context.\n\n\nVery close to **“sao”** in speech, but *thế nào* feels a bit more neutral/complete.",
+  "choices": [
+    "thế nào",
+    "ở đâu",
+    "bao nhiêu"
+  ],
+  "notes": "thế nào means “how”. You use it to ask about condition, quality, or method.\n\nIt often comes at the end of a sentence when asking for someone’s opinion or situation. It can also mean “what… like?” depending on context.\n\nVery close to “sao” in speech, but thế nào feels a bit more neutral/complete.",
+  "word": "thế nào",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:57:58.144Z",
+    "updatedAt": "2025-03-12T12:57:58.144Z",
+    "content": {
+      "answer": "thế nào",
+      "sentence": "Bạn cảm thấy ___ không?",
+      "hint": "t___o",
+      "word": "thế nào",
+      "translatedAnswer": {
+        "en": "how"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "How do you feel?"
+      },
+      "choices": [
+        "thế nào",
+        "thế nàos",
+        "THẾ NÀO"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "eaafd375-d99f-4e09-81e4-0017e0cf09c6",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh cảm thấy về chuyến đi cuối tuần qua thế nào?",
+    "Chị có thể chỉ cho em biết cách làm món này thế nào không?",
+    "Công việc mới của em dạo này thế nào rồi?"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "how",
+  "rank": 110,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "How do you feel today?",
+      "vi": "Bạn cảm thấy thế nào hôm nay?",
+      "es": "¿Cómo te sientes hoy?"
+    },
+    "translations": {
+      "es": "cómo",
+      "vi": "thế nào",
+      "en": "how"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Se utiliza para preguntar sobre la condición o la manera de algo.",
+      "en": "Used to ask about the condition or manner of something.",
+      "vi": "Dùng để hỏi về tình trạng hoặc cách thức của một cái gì đó."
+    },
+    "createdAt": "2025-01-28T10:41:15.953Z"
+  },
+  "_id": "2LQKDOt5fhVMPlcchuZq"
+}

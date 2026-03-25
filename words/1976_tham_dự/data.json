@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:53:34.407Z",
+    "definitions": {
+      "es": "Estar presente en un evento o reunión.",
+      "vi": "Có mặt tại một sự kiện hoặc buổi họp.",
+      "en": "To be present at an event or gathering."
+    },
+    "translations": {
+      "en": "attend",
+      "es": "asistir",
+      "vi": "tham dự"
+    },
+    "example": {
+      "es": "Asistiré a la reunión mañana.",
+      "vi": "Tôi sẽ tham dự buổi họp vào ngày mai.",
+      "en": "I will attend the meeting tomorrow."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Ngày mai anh sẽ tham dự buổi họp quan trọng ở công ty.",
+    "Em rất vui khi được tham dự sinh nhật của bạn thân.",
+    "Chị không thể tham dự lớp học hôm nay vì bị ốm."
+  ],
+  "rank": 1976,
+  "fillBlankQuiz": {
+    "id": "e07512ac-4131-4c08-984f-a2e7f428a077",
+    "content": {
+      "sentence": "Tôi sẽ ___ cuộc họp này.",
+      "word": "tham dự",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I will attend this meeting."
+      },
+      "answer": "tham dự",
+      "translatedAnswer": {
+        "en": "attend"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:16:39.186Z",
+    "createdAt": "2025-03-12T14:16:39.186Z"
+  },
+  "definition": "attend",
+  "choices": [
+    "thăm viếng",
+    "tham dự",
+    "tham quan"
+  ],
+  "updatedAt": "2026-03-03T09:47:18.575Z",
+  "notes": "Tham dự = to attend, to be present at an event. It’s used for meetings, events, ceremonies, classes — situations where you show up.\n\nIt’s more formal than just dự, and more neutral than tham gia (which implies actively joining in).  \nYou tham dự something; you don’t use it for casual hangouts.\n\nMemory tip: tham dự = show up, tham gia = take part.",
+  "exampleSentencesTranslated": [
+    "Tomorrow I will attend an important meeting at the company.",
+    "I am very happy to attend my best friend's birthday.",
+    "She cannot attend class today because she is sick."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Tham dự** = to attend, to be present at an event. It’s used for meetings, events, ceremonies, classes — situations where you show up.\n\nIt’s more formal than just **dự**, and more neutral than **tham gia** (which implies actively joining in).  \nYou *tham dự* something; you don’t use it for casual hangouts.\n\n\nMemory tip: **tham dự = show up**, **tham gia = take part**.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tham dự",
+  "multiChoiceQuiz": {
+    "id": "8db5cf86-26d9-4546-98a8-96fd5d1c0460",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "tham dự",
+      "translatedAnswer": {
+        "en": "attend"
+      },
+      "sentence": "Bạn có ___ buổi lễ không?",
+      "word": "tham dự",
+      "hint": "t___ dự",
+      "language": "vi",
+      "choices": [
+        "tham dự",
+        "không tham dự",
+        "bỏ lỡ"
+      ],
+      "translation": {
+        "en": "Will you attend the ceremony?"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:16:39.186Z",
+    "createdAt": "2025-03-12T14:16:39.186Z"
+  },
+  "_id": "MPnWdc6LTdG3tgMXpXDW"
+}

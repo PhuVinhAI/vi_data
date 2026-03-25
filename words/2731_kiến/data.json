@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "kiến",
+  "flashcard": {
+    "translations": {
+      "vi": "kiến",
+      "es": "hormiga",
+      "en": "ant"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:17:08.173Z",
+    "definitions": {
+      "vi": "Một loài côn trùng nhỏ thường sống thành đàn và nổi tiếng với sức mạnh cũng như khả năng làm việc cùng nhau.",
+      "en": "A small insect that typically lives in colonies and is known for its strength and ability to work together.",
+      "es": "Un pequeño insecto que generalmente vive en colonias y es conocido por su fuerza y capacidad para trabajar en conjunto."
+    },
+    "example": {
+      "en": "The ant is crawling on the ground.",
+      "es": "La hormiga está arrastrándose por el suelo.",
+      "vi": "Con kiến đang bò trên mặt đất."
+    }
+  },
+  "updatedAt": "2026-03-03T11:41:04.516Z",
+  "exampleSentencesTranslated": [
+    "I saw an ant on my study table this morning.",
+    "I left bread in the kitchen so there are many ant there.",
+    "I don't like ant because they make nests in the kitchen."
+  ],
+  "notes_md": "**kiến** = ant (the small insect that lives in groups and crawls everywhere).\n\nIt’s a countable noun. Use the classifier **con** → *một con kiến, hai con kiến*.  \nAnts often appear in groups, so you’ll hear **đàn kiến** (a colony/group of ants) and **tổ kiến** (ant nest).  \nCommon pairings: **kiến cắn** (ant bites), **kiến lửa** (fire ant).  \n\nEasy memory link: tiny but always in a crowd.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:44:26.931Z",
+    "updatedAt": "2025-03-12T15:44:26.931Z",
+    "content": {
+      "hint": "k___n",
+      "choices": [
+        "bọ",
+        "kiến",
+        "côn trùng"
+      ],
+      "sentence": "Tôi thấy một ___ trên cành cây.",
+      "translatedAnswer": {
+        "en": "ant"
+      },
+      "answer": "kiến",
+      "language": "vi",
+      "translation": {
+        "en": "I see an ant on the branch."
+      },
+      "word": "kiến"
+    },
+    "id": "c1e75ff0-32d1-44cc-a8f5-4ff2abfc7b61",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2731,
+  "definition": "ant",
+  "notes": "kiến = ant (the small insect that lives in groups and crawls everywhere).\n\nIt’s a countable noun. Use the classifier con → một con kiến, hai con kiến.  \nAnts often appear in groups, so you’ll hear đàn kiến (a colony/group of ants) and tổ kiến (ant nest).  \nCommon pairings: kiến cắn (ant bites), kiến lửa (fire ant).  \n\nEasy memory link: tiny but always in a crowd.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thấy một con kiến bò trên bàn học sáng nay.",
+    "Anh để bánh mì ngoài bếp nên có nhiều kiến đến.",
+    "Chị không thích kiến vì chúng làm tổ trong nhà bếp."
+  ],
+  "fillBlankQuiz": {
+    "id": "1074bb60-bf0b-4ac6-bf0d-996b49bf7cee",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I see an ant on the branch."
+      },
+      "word": "kiến",
+      "choices": [],
+      "sentence": "Tôi thấy một ___ trên cành cây.",
+      "answer": "kiến",
+      "translatedAnswer": {
+        "en": "ant"
+      }
+    },
+    "updatedAt": "2025-03-12T15:44:26.931Z",
+    "createdAt": "2025-03-12T15:44:26.931Z"
+  },
+  "choices": [
+    "kiến",
+    "chim",
+    "chuột"
+  ],
+  "_id": "iG0ITnV7WFcXXO5SYNp2"
+}

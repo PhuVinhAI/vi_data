@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:01:39.628Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:56:14.880Z",
+    "updatedAt": "2025-03-12T14:56:14.880Z",
+    "content": {
+      "sentence": "Tôi cần một ___ để đo.",
+      "language": "vi",
+      "word": "thước",
+      "answer": "thước",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "ruler"
+      },
+      "translation": {
+        "en": "I need a ruler to measure."
+      }
+    },
+    "id": "277bf89c-0669-4d4e-93aa-4ff9f2631682"
+  },
+  "exampleSentencesTranslated": [
+    "Can you lend me a ruler to draw a straight line?",
+    "I always keep a ruler in my pencil case to use when needed.",
+    "He bought a new ruler for his daughter to study math."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "ruler",
+      "es": "regla",
+      "vi": "thước"
+    },
+    "example": {
+      "en": "I need a ruler to measure the length.",
+      "es": "Necesito una regla para medir la longitud.",
+      "vi": "Tôi cần một thước để đo chiều dài."
+    },
+    "definitions": {
+      "en": "A tool used for measuring length or drawing straight lines.",
+      "es": "Una herramienta utilizada para medir longitud o dibujar líneas rectas.",
+      "vi": "Một công cụ dùng để đo chiều dài hoặc vẽ các đường thẳng."
+    },
+    "createdAt": "2025-01-28T12:29:25.788Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Thước** = a ruler, the straight tool you use to measure or draw lines.\n\nIt’s a **noun**. Use the classifier **cái**: *một cái thước*. Common pairings: **thước kẻ** (ruler for drawing lines), **thước đo** (measuring tool), **đo bằng thước** (measure with a ruler).\n\nIt often goes with verbs like **đo** (measure) and **kẻ** (draw lines).\n\nIt can also mean an old unit of length (like a traditional “yard”), but in daily use it almost always means the school ruler.",
+  "definition": "ruler",
+  "choices": [
+    "bút",
+    "thước",
+    "tẩy"
+  ],
+  "rank": 1547,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "8c784182-e393-49da-a12b-038bad0a2b08",
+    "content": {
+      "translatedAnswer": {
+        "en": "ruler"
+      },
+      "choices": [
+        "thước",
+        "thướcs",
+        "THƯỚC"
+      ],
+      "translation": {
+        "en": "I need a ruler to measure."
+      },
+      "sentence": "Tôi cần một ___ để đo.",
+      "word": "thước",
+      "language": "vi",
+      "hint": "t___c",
+      "answer": "thước"
+    },
+    "updatedAt": "2025-03-12T14:56:14.880Z",
+    "createdAt": "2025-03-12T14:56:14.880Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes": "Thước = a ruler, the straight tool you use to measure or draw lines.\n\nIt’s a noun. Use the classifier cái: một cái thước. Common pairings: thước kẻ (ruler for drawing lines), thước đo (measuring tool), đo bằng thước (measure with a ruler).\n\nIt often goes with verbs like đo (measure) and kẻ (draw lines).\n\nIt can also mean an old unit of length (like a traditional “yard”), but in daily use it almost always means the school ruler.",
+  "exampleSentences": [
+    "Em có thể cho anh mượn thước để kẻ đường thẳng không?",
+    "Chị luôn để thước trong hộp bút để sử dụng khi cần.",
+    "Anh mua một cái thước mới cho con gái để học toán."
+  ],
+  "word": "thước",
+  "_id": "VpUNJUS1RfNrcTIIPFhF"
+}

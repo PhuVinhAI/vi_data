@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:48:33.972Z",
+    "updatedAt": "2025-03-12T15:48:33.972Z",
+    "content": {
+      "answer": "cãi",
+      "translatedAnswer": {
+        "en": "argue"
+      },
+      "choices": [],
+      "sentence": "Tôi không thích ___ với bạn.",
+      "translation": {
+        "en": "I do not like to argue with you."
+      },
+      "word": "cãi",
+      "language": "vi"
+    },
+    "id": "4ef489e6-ee9f-446f-9a63-b5ab4183c4b4",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "choices": [
+    "cười",
+    "cãi",
+    "cảm"
+  ],
+  "exampleSentences": [
+    "Anh và em không nên cãi nhau về chuyện nhỏ như vậy.",
+    "Mỗi lần bị mẹ mắng, em thường cãi lại để giải thích ý mình.",
+    "Bạn bè thân thiết cũng có thể cãi vì hiểu lầm trong cuộc sống."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "cãi = to argue or quarrel with someone, usually in a heated or emotional way. It’s used when people disagree and talk back and forth.\n\nIt often goes with nhau when two sides argue: cãi nhau (argue with each other). You can also say cãi + ai (argue with someone) or cãi lại (talk back / argue back, often to someone older or in authority).\n\nClose synonym: tranh cãi (more formal, like “debate” or “dispute”). Opposite vibe: hòa thuận (get along peacefully).",
+  "definition": "argue",
+  "rank": 2026,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:48:33.972Z",
+    "updatedAt": "2025-03-12T15:48:33.972Z",
+    "content": {
+      "translation": {
+        "en": "They often argue about politics."
+      },
+      "word": "cãi",
+      "language": "vi",
+      "sentence": "Họ thường ___ về chính trị.",
+      "choices": [
+        "tranh luận",
+        "cãi",
+        "thảo luận"
+      ],
+      "hint": "c__i",
+      "translatedAnswer": {
+        "en": "argue"
+      },
+      "answer": "cãi"
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "9acd2c9a-528f-4f03-ba64-b4d7eae45c30"
+  },
+  "notes_md": "**cãi** = to argue or quarrel with someone, usually in a heated or emotional way. It’s used when people disagree and talk back and forth.\n\nIt often goes with **nhau** when two sides argue: *cãi nhau* (argue with each other). You can also say **cãi + ai** (argue with someone) or **cãi lại** (talk back / argue back, often to someone older or in authority).\n\n\nClose synonym: **tranh cãi** (more formal, like “debate” or “dispute”). Opposite vibe: **hòa thuận** (get along peacefully).",
+  "exampleSentencesTranslated": [
+    "You and I should not argue about such small things.",
+    "Every time mom scolds me, I often argue back to explain my point.",
+    "Close friends can also argue because of misunderstandings in life."
+  ],
+  "updatedAt": "2026-03-03T09:52:32.492Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cãi",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cãi",
+      "es": "discutir",
+      "en": "argue"
+    },
+    "createdAt": "2025-01-28T13:21:09.800Z",
+    "definitions": {
+      "en": "To argue or dispute; to disagree verbally.",
+      "es": "Discutir o disputar; no estar de acuerdo verbalmente.",
+      "vi": "Cãi nhau hoặc tranh luận; không đồng ý bằng lời nói."
+    },
+    "example": {
+      "vi": "Họ thường cãi nhau về những vấn đề nhỏ.",
+      "es": "A menudo discuten sobre problemas pequeños.",
+      "en": "They often argue about small issues."
+    }
+  },
+  "_id": "j8pmDLjyLm45SfYEbBwk"
+}

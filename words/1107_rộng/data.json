@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Phòng khách nhà anh rất rộng nên mọi người thích tụ họp ở đó.",
+    "Chị muốn tìm một căn hộ rộng để có thể nuôi thêm một con mèo.",
+    "Công viên này rất rộng nên bọn trẻ có thể chơi thoải mái."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "wide",
+      "es": "amplio",
+      "vi": "rộng"
+    },
+    "definitions": {
+      "en": "Wide or spacious; having a large extent from side to side.",
+      "vi": "Rộng hoặc có không gian; có một độ lớn lớn từ bên này sang bên kia.",
+      "es": "Ancho o espacioso; que tiene una gran extensión de lado a lado."
+    },
+    "createdAt": "2025-01-28T11:44:08.534Z",
+    "example": {
+      "en": "This room is very spacious.",
+      "vi": "Căn phòng này rất rộng.",
+      "es": "Esta habitación es muy amplia."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "rank": 1107,
+  "notes": "Rộng means spacious, wide, big in space. It describes something that has a lot of room inside or across.\n\nIt’s an adjective, so it usually comes after the noun: nhà rộng, đường rộng, áo rộng. It describes rooms, houses, roads, clothes, spaces, even knowledge (kiến thức rộng = broad knowledge).\n\nOpposite: chật / hẹp (narrow, cramped).  \nIt can also mean “loose” for clothes — if clothes are too big on you, they are rộng.",
+  "exampleSentencesTranslated": [
+    "The living room in my house is very spacious so everyone likes to gather there.",
+    "She wants to find a spacious apartment so she can have another cat.",
+    "This park is very spacious so the kids can play comfortably."
+  ],
+  "choices": [
+    "rộng",
+    "đẹp",
+    "sạch"
+  ],
+  "updatedAt": "2026-03-03T08:13:56.953Z",
+  "definition": "spacious",
+  "fillBlankQuiz": {
+    "id": "907d3093-ee8b-442a-aa13-3bfcbb6efb48",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "rộng",
+      "translatedAnswer": {
+        "en": "wide"
+      },
+      "sentence": "Căn phòng này rất ___.",
+      "word": "rộng",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "This room is very wide."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:06:20.013Z",
+    "createdAt": "2025-03-12T14:06:20.013Z"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:06:20.013Z",
+    "updatedAt": "2025-03-12T14:06:20.013Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Căn phòng này rất ___.",
+      "hint": "r__g",
+      "word": "rộng",
+      "language": "vi",
+      "choices": [
+        "hẹp",
+        "rộng",
+        "chật"
+      ],
+      "translation": {
+        "en": "This room is very wide."
+      },
+      "answer": "rộng",
+      "translatedAnswer": {
+        "en": "wide"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "f9cca067-50e9-4aec-8161-6aedb0488bb3"
+  },
+  "word": "rộng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Rộng** means *spacious, wide, big in space*. It describes something that has a lot of room inside or across.\n\nIt’s an **adjective**, so it usually comes after the noun: *nhà rộng, đường rộng, áo rộng*. It describes rooms, houses, roads, clothes, spaces, even knowledge (*kiến thức rộng* = broad knowledge).\n\nOpposite: **chật / hẹp** (narrow, cramped).  \nIt can also mean “loose” for clothes — if clothes are too big on you, they are *rộng*.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "KF2Tf5MN4nIRIsqNGhmb"
+}

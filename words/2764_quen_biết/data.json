@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T12:08:36.760Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:59:57.557Z",
+    "updatedAt": "2025-03-12T12:59:57.557Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "cb7469f7-9f78-4176-a563-a605f849100a",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "quen biết",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "get to know"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I want to get to know a new friend."
+      },
+      "answer": "quen biết",
+      "sentence": "Tôi muốn ___ với bạn mới."
+    }
+  },
+  "notes_md": "**Quen biết** means *to be acquainted with* someone — you know them, but not necessarily very close. It’s about having a connection or having met before.\n\nIt’s a verb phrase and is mostly used with people, not things. You can use it when talking about social or professional connections.\n\n\nClose to **biết** (to know), but **quen biết** focuses more on the relationship/connection. If the relationship becomes closer, you’d use **thân** (close) instead.",
+  "exampleSentencesTranslated": [
+    "Are you acquainted with anyone working at this company?",
+    "He is acquainted with many people in the tourism industry.",
+    "I have just become acquainted with a very friendly classmate."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "quen biết",
+    "thân thiết",
+    "gặp gỡ"
+  ],
+  "notes": "Quen biết means to be acquainted with someone — you know them, but not necessarily very close. It’s about having a connection or having met before.\n\nIt’s a verb phrase and is mostly used with people, not things. You can use it when talking about social or professional connections.\n\nClose to biết (to know), but quen biết focuses more on the relationship/connection. If the relationship becomes closer, you’d use thân (close) instead.",
+  "word": "quen biết",
+  "rank": 2764,
+  "definition": "acquainted",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:42:57.987Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To be acquainted with someone; to know someone.",
+      "vi": "Quen với ai đó; biết ai đó.",
+      "es": "Estar familiarizado con alguien; conocer a alguien."
+    },
+    "example": {
+      "vi": "Tôi đã quen biết anh ấy từ lâu.",
+      "en": "I have known him for a long time.",
+      "es": "Lo conozco desde hace mucho tiempo."
+    },
+    "translations": {
+      "es": "conocer",
+      "en": "to know",
+      "vi": "quen biết"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "6f492d12-46bd-4b82-bc4f-4e1e89ce9737",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "q___ b___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "acquaintance"
+      },
+      "word": "quen biết",
+      "translation": {
+        "en": "Do you have an acquaintance here?"
+      },
+      "choices": [
+        "quen biết",
+        "thân quen",
+        "bạn bè"
+      ],
+      "answer": "quen biết",
+      "sentence": "Bạn có ___ ở đây không?"
+    },
+    "createdAt": "2025-03-12T12:59:57.557Z",
+    "updatedAt": "2025-03-12T12:59:57.557Z"
+  },
+  "exampleSentences": [
+    "Chị có quen biết ai làm việc ở công ty này không?",
+    "Anh ấy quen biết nhiều người trong ngành du lịch.",
+    "Em mới quen biết một bạn cùng lớp rất thân thiện."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "2tbHTscETj3Z81NCffzJ"
+}

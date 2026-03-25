@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "5b698a0c-0662-431f-bb76-1f12e0bd9971",
+    "createdAt": "2025-03-12T16:08:26.342Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:08:26.342Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Họ đi ___ chiều về nhà.",
+      "answer": "ngược",
+      "language": "vi",
+      "word": "ngược",
+      "choices": [],
+      "translation": {
+        "en": "They go in the opposite direction home."
+      },
+      "translatedAnswer": {
+        "en": "opposite"
+      }
+    }
+  },
+  "word": "ngược",
+  "multiChoiceQuiz": {
+    "id": "2be7a2ef-9e65-49b7-bf15-79db337aec54",
+    "createdAt": "2025-03-12T16:08:26.342Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:08:26.342Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Họ đi ___ chiều về nhà.",
+      "language": "vi",
+      "choices": [
+        "tiến",
+        "ngược",
+        "xuôi"
+      ],
+      "answer": "ngược",
+      "word": "ngược",
+      "hint": "n____",
+      "translation": {
+        "en": "They go in the opposite direction home."
+      },
+      "translatedAnswer": {
+        "en": "opposite"
+      }
+    }
+  },
+  "definition": "opposite",
+  "rank": 1440,
+  "notes_md": "**Ngược** means *opposite* or *backwards*. It describes something going in the reverse direction, order, or position.\n\nIt’s an adjective/adverb, often used for direction (đi ngược dòng), order (viết ngược), or logic/attitude (tính cách trái ngược). You’ll also see **ngược lại** = “in contrast / on the contrary,” very common in arguments or comparisons.  \n\nClose pairs: **trái ngược** (stronger contrast), opposite of **xuôi** (with the flow / forward).",
+  "updatedAt": "2026-03-03T08:49:56.045Z",
+  "exampleSentencesTranslated": [
+    "You wore your shirt in the opposite way so the print is hidden.",
+    "I am sitting in the opposite direction of the bus's movement.",
+    "We have opposite opinions on this issue."
+  ],
+  "exampleSentences": [
+    "Anh để áo ngược nên em thấy hình in bị che mất.",
+    "Em ngồi ngược chiều với hướng đi của xe buýt.",
+    "Chúng ta có ý kiến ngược nhau về vấn đề này."
+  ],
+  "choices": [
+    "ngang",
+    "ngược",
+    "ngắn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "es": "En la dirección opuesta; reverso.",
+      "en": "In the opposite direction; reverse.",
+      "vi": "Theo hướng ngược lại; đảo ngược."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:40:13.971Z",
+    "example": {
+      "vi": "Tôi đi ngược lại con đường cũ.",
+      "en": "I walked back along the old road.",
+      "es": "Caminé de regreso por el viejo camino."
+    },
+    "translations": {
+      "vi": "ngược",
+      "es": "inverso",
+      "en": "reverse"
+    }
+  },
+  "notes": "Ngược means opposite or backwards. It describes something going in the reverse direction, order, or position.\n\nIt’s an adjective/adverb, often used for direction (đi ngược dòng), order (viết ngược), or logic/attitude (tính cách trái ngược). You’ll also see ngược lại = “in contrast / on the contrary,” very common in arguments or comparisons.  \n\nClose pairs: trái ngược (stronger contrast), opposite of xuôi (with the flow / forward).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "oaJ6LTn6FIC65pmbM1bz"
+}

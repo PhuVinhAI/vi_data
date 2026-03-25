@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:28:58.217Z",
+  "exampleSentences": [
+    "Anh có thể cho em một ly nước lọc được không?",
+    "Buổi sáng, chị thường uống nước lọc trước khi ăn sáng.",
+    "Khi đi tập gym, em luôn mang theo chai nước lọc bên mình."
+  ],
+  "notes": "nước lọc = filtered water, plain water with nothing added. It’s just regular drinking water, not soda, juice, or alcohol.\n\nIt’s an uncountable noun, so you count it with containers: ly nước lọc, chai nước lọc, cốc nước lọc.  \n\nOften contrasted with nước ngọt (soft drinks) or nước có ga (sparkling water).  \nIf you want to emphasize “plain water,” this is the natural word to use.",
+  "definition": "filtered water",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:00:33.093Z",
+    "translations": {
+      "en": "plain water",
+      "vi": "nước lọc",
+      "es": "agua natural"
+    },
+    "example": {
+      "en": "I want a glass of plain water.",
+      "vi": "Tôi muốn một ly nước lọc.",
+      "es": "Quiero un vaso de agua natural."
+    },
+    "definitions": {
+      "vi": "Nước không có chất phụ gia.",
+      "es": "Agua natural sin aditivos.",
+      "en": "Plain water without any additives."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:25:41.811Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I want to drink water."
+      },
+      "translatedAnswer": {
+        "en": "water"
+      },
+      "answer": "nước lọc",
+      "choices": [],
+      "word": "nước lọc",
+      "language": "vi",
+      "sentence": "Tôi muốn uống ___."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:25:41.811Z",
+    "id": "c9e9e002-4b3f-400d-932b-c49f4feb61d6"
+  },
+  "exampleSentencesTranslated": [
+    "Can you give me a glass of filtered water?",
+    "In the morning, she usually drinks filtered water before breakfast.",
+    "When going to the gym, I always bring a bottle of filtered water with me."
+  ],
+  "word": "nước lọc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nước lọc** = filtered water, plain water with nothing added. It’s just regular drinking water, not soda, juice, or alcohol.\n\nIt’s an uncountable noun, so you count it with containers: *ly nước lọc*, *chai nước lọc*, *cốc nước lọc*.  \n\nOften contrasted with *nước ngọt* (soft drinks) or *nước có ga* (sparkling water).  \nIf you want to emphasize “plain water,” this is the natural word to use.",
+  "choices": [
+    "nước ngọt",
+    "nước lọc",
+    "nước ép"
+  ],
+  "rank": 2372,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:25:41.811Z",
+    "type": "multiChoiceQuiz",
+    "id": "a9780f58-6e55-4c17-bafc-9ccf2789c751",
+    "content": {
+      "sentence": "Bạn có muốn uống ___ không?",
+      "language": "vi",
+      "word": "nước lọc",
+      "choices": [
+        "nước ngọt",
+        "nước lọc",
+        "nước trái cây"
+      ],
+      "answer": "nước lọc",
+      "hint": "nước l___",
+      "translatedAnswer": {
+        "en": "water"
+      },
+      "translation": {
+        "en": "Do you want to drink water?"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:25:41.811Z"
+  },
+  "_id": "dyVUYKB7hpco7rovp4Qt"
+}

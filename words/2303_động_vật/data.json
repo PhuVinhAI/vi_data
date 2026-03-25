@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:22:10.575Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "động vật",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Họ nghiên cứu về ___ ở trường.",
+      "translatedAnswer": {
+        "en": "animals"
+      },
+      "language": "vi",
+      "word": "động vật",
+      "choices": [
+        "thực vật",
+        "động vật",
+        "vật lý"
+      ],
+      "translation": {
+        "en": "They study animals at school."
+      },
+      "answer": "động vật",
+      "hint": "đ___t"
+    },
+    "updatedAt": "2025-03-12T14:46:23.363Z",
+    "id": "be1731c7-6301-4427-b075-fe82815646c7",
+    "createdAt": "2025-03-12T14:46:23.363Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2303,
+  "exampleSentencesTranslated": [
+    "I really like going to the zoo to see many kinds of animal.",
+    "At school, I learn about animal that live in the rainforest.",
+    "I think animal also need to be protected just like humans."
+  ],
+  "notes": "Động vật means animal — any living creature that isn’t a plant or human. It’s a noun.\n\nUse the classifier con for individual animals (con động vật sounds formal; usually you name the specific animal: con chó, con mèo). To talk about species, use loài động vật (animal species).  \n\nCommon pairings: động vật hoang dã (wild animals), động vật nuôi (domestic animals), bảo vệ động vật (protect animals).  \n\nOften contrasted with thực vật (plants) — that pair is super common in biology topics.",
+  "choices": [
+    "thực vật",
+    "động vật",
+    "thức ăn"
+  ],
+  "exampleSentences": [
+    "Anh rất thích đến sở thú để xem nhiều loại động vật khác nhau.",
+    "Ở trường, em học về động vật sống trong rừng nhiệt đới.",
+    "Chị nghĩ rằng động vật cũng cần được bảo vệ giống như con người."
+  ],
+  "notes_md": "**Động vật** means *animal* — any living creature that isn’t a plant or human. It’s a noun.\n\nUse the classifier **con** for individual animals (con động vật sounds formal; usually you name the specific animal: con chó, con mèo). To talk about species, use **loài động vật** (animal species).  \n\nCommon pairings: **động vật hoang dã** (wild animals), **động vật nuôi** (domestic animals), **bảo vệ động vật** (protect animals).  \n\nOften contrasted with **thực vật** (plants) — that pair is super common in biology topics.",
+  "flashcard": {
+    "definitions": {
+      "es": "Un organismo vivo que se alimenta de materia orgánica, típicamente con órganos sensoriales y sistema nervioso especializados.",
+      "en": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system.",
+      "vi": "Một sinh vật sống, thường ăn thức ăn hữu cơ, có các cơ quan cảm giác và hệ thần kinh chuyên biệt."
+    },
+    "createdAt": "2025-01-28T12:20:40.668Z",
+    "example": {
+      "en": "Animals living in the forest are very diverse.",
+      "vi": "Động vật sống trong rừng rất đa dạng.",
+      "es": "Los animales que viven en el bosque son muy diversos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "animales",
+      "en": "animals",
+      "vi": "động vật"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "animal",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:46:23.363Z",
+    "id": "bc096617-116c-4e1a-b8cd-cdc46424fa14",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích xem ___ trong sở thú.",
+      "translatedAnswer": {
+        "en": "animals"
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "động vật",
+      "answer": "động vật",
+      "translation": {
+        "en": "I like to see animals in the zoo."
+      }
+    },
+    "updatedAt": "2025-03-12T14:46:23.363Z"
+  },
+  "_id": "TQDWhLEgaY4lLkCaUVPZ"
+}

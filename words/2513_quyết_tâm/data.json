@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T13:59:24.210Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A firm intention or resolve to achieve something.",
+      "es": "Una firme intención o resolución para lograr algo.",
+      "vi": "Một ý định hoặc quyết tâm vững chắc để đạt được điều gì đó."
+    },
+    "example": {
+      "vi": "Tôi quyết tâm hoàn thành dự án này.",
+      "en": "I am determined to complete this project.",
+      "es": "Estoy decidido a completar este proyecto."
+    },
+    "translations": {
+      "en": "determination",
+      "es": "determinación",
+      "vi": "quyết tâm"
+    }
+  },
+  "notes": "Quyết tâm = determination, a strong will to do something and not give up. It’s the inner drive that keeps you going even when things are hard.\n\nIt’s an uncountable noun, so you don’t say một quyết tâm in normal situations. Often used with có / giữ / thể hiện quyết tâm.\n\nClose words: ý chí (willpower, a bit deeper/stronger), kiên trì (persistence – more about continuing steadily). Opposite idea: bỏ cuộc (to give up).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "quyết tâm",
+    "hi vọng",
+    "kiên nhẫn"
+  ],
+  "updatedAt": "2026-03-03T10:43:27.942Z",
+  "exampleSentences": [
+    "Với quyết tâm, anh đã hoàn thành cuộc thi marathon đầu tiên của mình.",
+    "Chị luôn giữ quyết tâm khi học tiếng Anh mỗi ngày.",
+    "Em cần quyết tâm để đạt được mục tiêu trong năm nay."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi có ___ trong công việc.",
+      "hint": "q___m",
+      "word": "quyết tâm",
+      "language": "vi",
+      "translation": {
+        "en": "I have determination in my work."
+      },
+      "choices": [
+        "nỗ lực",
+        "quyết tâm",
+        "kiên nhẫn"
+      ],
+      "answer": "quyết tâm",
+      "translatedAnswer": {
+        "en": "determination"
+      }
+    },
+    "updatedAt": "2025-03-12T16:28:29.653Z",
+    "id": "4a391901-d985-476a-a695-07aebb0274f7",
+    "createdAt": "2025-03-12T16:28:29.653Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "quyết tâm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "With determination, he finished his first marathon.",
+    "She always has determination when studying English every day.",
+    "You need determination to achieve your goals this year."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Quyết tâm** = determination, a strong will to do something and not give up. It’s the inner drive that keeps you going even when things are hard.\n\nIt’s an uncountable noun, so you don’t say *một quyết tâm* in normal situations. Often used with **có / giữ / thể hiện quyết tâm**.\n\n\nClose words: **ý chí** (willpower, a bit deeper/stronger), **kiên trì** (persistence – more about continuing steadily). Opposite idea: **bỏ cuộc** (to give up).",
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I have determination in my work."
+      },
+      "answer": "quyết tâm",
+      "translatedAnswer": {
+        "en": "determination"
+      },
+      "sentence": "Tôi có ___ trong công việc.",
+      "word": "quyết tâm"
+    },
+    "updatedAt": "2025-03-12T16:28:29.653Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:28:29.653Z",
+    "id": "3abc7ddb-fa35-4474-b414-e66d5656a052"
+  },
+  "definition": "determination",
+  "rank": 2513,
+  "_id": "tcJsG71gVJKXc40qjdiE"
+}

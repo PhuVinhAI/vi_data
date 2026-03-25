@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nồi",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:27:39.147Z",
+    "id": "14a1b47e-ceaa-4d40-b2ab-e7df06cae477",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:27:39.147Z",
+    "content": {
+      "answer": "nồi",
+      "hint": "n__i",
+      "translatedAnswer": {
+        "en": "pot"
+      },
+      "translation": {
+        "en": "I need a new pot."
+      },
+      "sentence": "Tôi cần một ___ mới.",
+      "language": "vi",
+      "word": "nồi",
+      "choices": [
+        "chảo",
+        "nồi",
+        "bát"
+      ]
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Nồi** means a *pot* — a deep cooking container you use on the stove.  \n\nIt’s a countable noun: **một cái nồi, hai cái nồi** (classifier: *cái*).  \nCommon pairings: **nồi cơm** (rice pot), **nồi canh** (soup pot), **nồi lẩu** (hotpot), **nồi áp suất** (pressure cooker).  \nDon’t mix it up with **chảo** (pan/frying pan) — *nồi* is deeper and usually for boiling or simmering.  \nYou’ll often hear it with verbs like **nấu** (cook), **bắc** (put on the stove), and **đậy** (cover).",
+  "rank": 2302,
+  "choices": [
+    "nồi",
+    "đĩa",
+    "bát"
+  ],
+  "notes": "Nồi means a pot — a deep cooking container you use on the stove.  \n\nIt’s a countable noun: một cái nồi, hai cái nồi (classifier: cái).  \nCommon pairings: nồi cơm (rice pot), nồi canh (soup pot), nồi lẩu (hotpot), nồi áp suất (pressure cooker).  \nDon’t mix it up with chảo (pan/frying pan) — nồi is deeper and usually for boiling or simmering.  \nYou’ll often hear it with verbs like nấu (cook), bắc (put on the stove), and đậy (cover).",
+  "updatedAt": "2026-03-03T10:22:06.415Z",
+  "exampleSentences": [
+    "Em vừa mua một cái nồi mới để nấu canh cho gia đình.",
+    "Anh để quên nồi trên bếp nên cơm bị cháy.",
+    "Chị có thể giúp em rửa nồi sau bữa ăn không?"
+  ],
+  "exampleSentencesTranslated": [
+    "I just bought a new pot to cook soup for the family.",
+    "He forgot the pot on the stove so the rice burned.",
+    "Can you help me wash the pot after the meal?"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:27:39.147Z",
+    "type": "fillBlankQuiz",
+    "id": "16187205-7c43-4f01-af8c-2ca02a8a4dd9",
+    "content": {
+      "answer": "nồi",
+      "translatedAnswer": {
+        "en": "pot"
+      },
+      "translation": {
+        "en": "I cook in a pot."
+      },
+      "sentence": "Tôi nấu ăn trong ___.",
+      "language": "vi",
+      "word": "nồi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:27:39.147Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "A container used for cooking food, typically made of metal or ceramic.",
+      "vi": "Một cái chứa dùng để nấu thức ăn, thường làm bằng kim loại hoặc gốm.",
+      "es": "Un recipiente utilizado para cocinar alimentos, generalmente hecho de metal o cerámica."
+    },
+    "example": {
+      "en": "I cook rice in the pot.",
+      "es": "Cocino arroz en la olla.",
+      "vi": "Tôi nấu cơm trong nồi."
+    },
+    "translations": {
+      "vi": "nồi",
+      "es": "olla",
+      "en": "pot"
+    },
+    "createdAt": "2025-01-28T13:02:20.621Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "pot",
+  "_id": "eNjTeJayPsLiGGiW9Rv2"
+}

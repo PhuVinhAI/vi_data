@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:14:38.560Z",
+    "id": "61ffc17d-d3f0-4b6b-a901-769c5081f532",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "star"
+      },
+      "translation": {
+        "en": "I see a star in the sky."
+      },
+      "hint": "n___a",
+      "word": "nga",
+      "answer": "nga",
+      "language": "vi",
+      "choices": [
+        "nga",
+        "ngas",
+        "NGA"
+      ],
+      "sentence": "Tôi nhìn thấy ___ trên bầu trời."
+    },
+    "updatedAt": "2025-03-12T16:14:38.560Z"
+  },
+  "definition": "Russia",
+  "notes_md": "**Nga** = Russia (the country). It’s a proper noun, so capitalize it.\n\nYou’ll often see it in pairs like **nước Nga** (the country Russia), **người Nga** (Russian person), **tiếng Nga** (Russian language), **văn hóa Nga** (Russian culture). No classifier needed for countries.\n\nFormal name: **Liên bang Nga** (Russian Federation).\n\nVery commonly, **Nga** is also a Vietnamese female name — totally different meaning, just same spelling.",
+  "rank": 1891,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "a39211d2-d747-4dd4-9c88-f94d83a34cc9",
+    "createdAt": "2025-03-12T16:14:38.560Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:14:38.560Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "answer": "nga",
+      "word": "nga",
+      "translation": {
+        "en": "I see a star in the sky."
+      },
+      "translatedAnswer": {
+        "en": "star"
+      },
+      "sentence": "Tôi nhìn thấy ___ trên bầu trời."
+    }
+  },
+  "word": "nga",
+  "notes": "Nga = Russia (the country). It’s a proper noun, so capitalize it.\n\nYou’ll often see it in pairs like nước Nga (the country Russia), người Nga (Russian person), tiếng Nga (Russian language), văn hóa Nga (Russian culture). No classifier needed for countries.\n\nFormal name: Liên bang Nga (Russian Federation).\n\nVery commonly, Nga is also a Vietnamese female name — totally different meaning, just same spelling.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:38:08.302Z",
+  "exampleSentencesTranslated": [
+    "He wants to travel to Russia this winter.",
+    "My friend is studying Russian at university.",
+    "I like to watch documentaries about Russia and the culture of this country."
+  ],
+  "exampleSentences": [
+    "Anh ấy muốn đi du lịch nga vào mùa đông năm nay.",
+    "Bạn em đang học tiếng nga ở trường đại học.",
+    "Chị thích xem phim tài liệu về nga và văn hóa của nước này."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một thuật ngữ dùng để chỉ một người phụ nữ Nga.",
+      "en": "A term used to refer to a Russian woman.",
+      "es": "Un término utilizado para referirse a una mujer rusa."
+    },
+    "createdAt": "2025-01-28T13:46:21.396Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "She is a very beautiful Russian woman.",
+      "es": "Ella es una mujer rusa muy hermosa.",
+      "vi": "Cô ấy là một người nga rất xinh đẹp."
+    },
+    "translations": {
+      "es": "mujer rusa",
+      "en": "Russian woman",
+      "vi": "người Nga"
+    }
+  },
+  "choices": [
+    "nga",
+    "pháp",
+    "mỹ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "qAIOE9gusTbZKeCkh7Fp"
+}

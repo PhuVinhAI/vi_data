@@ -1,0 +1,104 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "also"
+      },
+      "translation": {
+        "en": "I also know that."
+      },
+      "answer": "cũng",
+      "choices": [],
+      "sentence": "Tôi ___ biết điều đó.",
+      "language": "vi",
+      "word": "cũng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:37:07.346Z",
+    "id": "1496edfe-b6f1-4c6e-96c8-c16e80279d35",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:37:07.346Z"
+  },
+  "exampleSentencesTranslated": [
+    "I also like black coffee.",
+    "He also eats lunch.",
+    "She also watches comedy movies."
+  ],
+  "definition": "also",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:27:25.297Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "también",
+      "vi": "cũng",
+      "en": "also"
+    },
+    "example": {
+      "es": "A mí también me gusta comer pho.",
+      "vi": "Tôi cũng thích ăn phở.",
+      "en": "I also like to eat pho."
+    },
+    "definitions": {
+      "en": "also; too; as well",
+      "es": "también; igual",
+      "vi": "cũng; cũng như"
+    }
+  },
+  "notes": "cũng means also / too. You use it to say something is the same or similar to another thing.\n\nIt usually goes after the subject and before the main verb or adjective.  \n\nIt can link ideas across sentences, showing agreement or similarity. It works with verbs and adjectives.\n\nVery close to English “also”; sometimes like “too” at the end of a sentence in English, but in Vietnamese it stays before the verb.",
+  "exampleSentences": [
+    "Em cũng thích cà phê đen.",
+    "Anh cũng ăn cơm trưa.",
+    "Chị cũng xem phim hài."
+  ],
+  "updatedAt": "2026-03-03T06:04:28.712Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "also"
+      },
+      "translation": {
+        "en": "I also like to eat pho."
+      },
+      "answer": "cũng",
+      "hint": "c___",
+      "choices": [
+        "rất",
+        "cũng",
+        "không"
+      ],
+      "sentence": "Tôi ___ thích ăn phở.",
+      "language": "vi",
+      "word": "cũng"
+    },
+    "createdAt": "2025-03-12T15:37:07.346Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "9be41a7d-4bc1-42e9-9ca7-5e3383ecac53",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:37:07.346Z"
+  },
+  "choices": [
+    "cũng",
+    "đã",
+    "đang"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + cũng (also) + thích (like) + cà phê (coffee) + đen (black)",
+    "Anh (he) + cũng (also) + ăn (eat) + cơm trưa (lunch)",
+    "Chị (she) + cũng (also) + xem (watch) + phim hài (comedy movie)"
+  ],
+  "rank": 15,
+  "notes_md": "**cũng** means **also / too**. You use it to say something is the same or similar to another thing.\n\nIt usually goes **after the subject and before the main verb or adjective**.  \n\nIt can link ideas across sentences, showing agreement or similarity. It works with verbs and adjectives.\n\nVery close to English **“also”**; sometimes like **“too”** at the end of a sentence in English, but in Vietnamese it stays before the verb.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "cũng",
+  "_id": "gQsNOHbH9mLwvhufbYHa"
+}

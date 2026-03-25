@@ -1,0 +1,99 @@
+{
+  "definition": "not",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "452bf75e-31c6-4cf9-92c4-85995c0d383e",
+    "createdAt": "2025-03-12T14:30:22.683Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:30:22.683Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "anyone"
+      },
+      "sentence": "Tôi không biết ___ ai ở đây.",
+      "choices": [],
+      "word": "bất",
+      "translation": {
+        "en": "I don't know anyone here."
+      },
+      "answer": "bất"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh không thể thành công nếu bất cố gắng mỗi ngày.",
+    "Bất ai quan tâm cũng có thể tham gia vào cuộc họp này.",
+    "Chị ấy cảm thấy không vui khi bất hiểu lý do."
+  ],
+  "notes_md": "**bất** means “not” or “un-”, but it’s a prefix, not a standalone word.  \n\nIt attaches to Sino‑Vietnamese words (often formal vocabulary) to create the opposite meaning. You can’t use it by itself like **không**.  \n\n\nCompared to **không**, *bất* sounds more formal and is fixed inside certain words. Think of it like English “un-” in *unfair, illegal, unexpected*.",
+  "flashcard": {
+    "example": {
+      "es": "No puedo estar sorprendido por esta noticia.",
+      "vi": "Tôi không thể bất ngờ trước tin này.",
+      "en": "I cannot be surprised by this news."
+    },
+    "definitions": {
+      "en": "A prefix meaning 'not' or 'un-' used to negate a word.",
+      "vi": "Một tiền tố có nghĩa là 'không' hoặc 'không có' dùng để phủ định một từ.",
+      "es": "Un prefijo que significa 'no' o 'in-' utilizado para negar una palabra."
+    },
+    "createdAt": "2025-01-28T12:06:28.216Z",
+    "translations": {
+      "es": "no",
+      "vi": "không",
+      "en": "not"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "bất means “not” or “un-”, but it’s a prefix, not a standalone word.  \n\nIt attaches to Sino‑Vietnamese words (often formal vocabulary) to create the opposite meaning. You can’t use it by itself like không.  \n\nCompared to không, bất sounds more formal and is fixed inside certain words. Think of it like English “un-” in unfair, illegal, unexpected.",
+  "choices": [
+    "bất",
+    "có",
+    "luôn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:13:37.386Z",
+  "exampleSentencesTranslated": [
+    "You cannot succeed if you do not try every day.",
+    "Not anyone interested can join this meeting.",
+    "She does not feel happy when she does not understand the reason."
+  ],
+  "rank": 2930,
+  "word": "bất",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:30:22.683Z",
+    "id": "db24ef6c-e102-40c8-907d-c42c5baa17a2",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "b___t",
+      "translation": {
+        "en": "I don't know anyone here."
+      },
+      "answer": "bất",
+      "word": "bất",
+      "choices": [
+        "bất",
+        "bấts",
+        "BẤT"
+      ],
+      "translatedAnswer": {
+        "en": "anyone"
+      },
+      "language": "vi",
+      "sentence": "Tôi không biết ___ ai ở đây."
+    },
+    "updatedAt": "2025-03-12T14:30:22.683Z"
+  },
+  "_id": "PdamoDgyLzyYkf02VR6w"
+}

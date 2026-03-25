@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "id": "10eca39b-488e-41b8-a739-71cdb38e3487",
+    "content": {
+      "translation": {
+        "en": "The main person spoke at the meeting."
+      },
+      "translatedAnswer": {
+        "en": "main"
+      },
+      "choices": [
+        "chính",
+        "mới",
+        "cũ"
+      ],
+      "word": "chính",
+      "language": "vi",
+      "hint": "c___n",
+      "answer": "chính",
+      "sentence": "Người ___ đã phát biểu trong cuộc họp."
+    },
+    "updatedAt": "2025-03-12T15:02:49.327Z",
+    "createdAt": "2025-03-12T15:02:49.327Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "chính usually means main / principal — the most important part of something. It describes nouns like ideas, reasons, roles, entrances, topics.\n\nIt can also mean exact / exactly / oneself, adding emphasis.  \n\nVery common in the pattern:  \n\nStrong pairs: chủ yếu (main, mostly) is close in meaning; opposite is phụ (secondary, extra).",
+  "exampleSentences": [
+    "Anh ấy là người chịu trách nhiệm chính trong dự án này.",
+    "Bài học hôm nay tập trung vào ý chính của câu chuyện.",
+    "Cửa ra vào chính của nhà trường luôn mở vào buổi sáng."
+  ],
+  "word": "chính",
+  "choices": [
+    "phụ",
+    "chính",
+    "khác"
+  ],
+  "rank": 145,
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**chính** usually means **main / principal** — the most important part of something. It describes nouns like ideas, reasons, roles, entrances, topics.\n\nIt can also mean **exact / exactly / oneself**, adding emphasis.  \n\nVery common in the pattern:  \n\nStrong pairs: **chủ yếu** (main, mostly) is close in meaning; opposite is **phụ** (secondary, extra).",
+  "definition": "main",
+  "fillBlankQuiz": {
+    "id": "0ce20cf7-3947-421f-984c-a2569e477b7d",
+    "updatedAt": "2025-03-12T15:02:49.327Z",
+    "content": {
+      "sentence": "Tôi là người ___ trong công ty.",
+      "language": "vi",
+      "word": "chính",
+      "answer": "chính",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "main"
+      },
+      "translation": {
+        "en": "I am the main person in the company."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:02:49.327Z"
+  },
+  "updatedAt": "2026-03-03T06:35:00.586Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He is the main person responsible for this project.",
+    "Today's lesson focuses on the main idea of the story.",
+    "The main entrance of the school is always open in the morning."
+  ],
+  "flashcard": {
+    "word": "chính",
+    "translations": {
+      "en": "main; primary; correct; genuine"
+    },
+    "example": {
+      "en": "He is the main person in this project.",
+      "vi": "Anh ấy là người chính trong dự án này."
+    },
+    "createdAt": "2025-05-24T16:23:12.660Z",
+    "definitions": {
+      "en": "Main, primary, or correct; genuine.",
+      "vi": "Quan trọng nhất, chủ yếu hoặc đúng, xác thực."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "XfpoCoRdWpdWeE89yN5E"
+}

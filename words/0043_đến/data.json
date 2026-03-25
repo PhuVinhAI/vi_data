@@ -1,0 +1,101 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + đến (arrive) + nhà (house) + anh ấy (his)",
+    "Anh ấy (he) + đến (arrive) + cửa hàng (store) + đó (that)",
+    "Chị ấy (she) + đến (arrive) + nhà (house) + bạn em (my friend)"
+  ],
+  "notes_md": "**đến** = to arrive, to reach a place. It’s the basic verb for getting somewhere.\n\nUse it with a location after it: **đến + place**. You can also use it for time (like reaching a point in time) or events.\n\n\nIt’s often paired with **đi** (go) or **về** (return) in longer sentences to show movement direction. Opposite idea: **rời / đi khỏi** (leave).",
+  "rank": 43,
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "arrive"
+      },
+      "choices": [],
+      "answer": "đến",
+      "translation": {
+        "en": "I will arrive at 6 o'clock."
+      },
+      "language": "vi",
+      "word": "đến",
+      "sentence": "Tôi sẽ ___ vào lúc 6 giờ."
+    },
+    "updatedAt": "2025-03-12T16:35:21.458Z",
+    "id": "bf30bef8-62c9-4106-92f7-8e94097e93ff",
+    "createdAt": "2025-03-12T16:35:21.458Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "arrive",
+  "flashcard": {
+    "definitions": {
+      "en": "To move or arrive at a place from somewhere else.",
+      "vi": "Di chuyển từ nơi khác tới một địa điểm nào đó."
+    },
+    "example": {
+      "en": "I will come to your house at 7 o'clock.",
+      "vi": "Tôi sẽ đến nhà bạn vào lúc 7 giờ."
+    },
+    "translations": {
+      "en": "come; arrive"
+    },
+    "createdAt": "2025-05-24T16:36:31.097Z",
+    "word": "đến",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "đến = to arrive, to reach a place. It’s the basic verb for getting somewhere.\n\nUse it with a location after it: đến + place. You can also use it for time (like reaching a point in time) or events.\n\nIt’s often paired with đi (go) or về (return) in longer sentences to show movement direction. Opposite idea: rời / đi khỏi (leave).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "đi",
+    "vào",
+    "đến"
+  ],
+  "multiChoiceQuiz": {
+    "id": "3bdbe342-7212-4709-a83e-b9011d906540",
+    "createdAt": "2025-03-12T16:35:21.458Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "đến",
+        "rời",
+        "gặp"
+      ],
+      "answer": "đến",
+      "translation": {
+        "en": "We will arrive at the restaurant at 7 o'clock."
+      },
+      "translatedAnswer": {
+        "en": "arrive"
+      },
+      "sentence": "Chúng ta sẽ ___ nhà hàng lúc 7 giờ.",
+      "hint": "đ___",
+      "word": "đến"
+    },
+    "updatedAt": "2025-03-12T16:35:21.458Z"
+  },
+  "exampleSentences": [
+    "Em đến nhà anh ấy.",
+    "Anh ấy đến cửa hàng đó.",
+    "Chị ấy đến nhà bạn em."
+  ],
+  "updatedAt": "2026-03-03T06:07:27.108Z",
+  "exampleSentencesTranslated": [
+    "I arrive at his house.",
+    "He will arrive at that store.",
+    "She will arrive at my friend's house."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "đến",
+  "_id": "ve10PBVJXlxpK05p0dPR"
+}

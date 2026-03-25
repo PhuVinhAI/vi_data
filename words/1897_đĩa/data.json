@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "bát",
+    "đĩa",
+    "nĩa"
+  ],
+  "rank": 1897,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:10:32.278Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "bát",
+        "đĩa",
+        "cốc"
+      ],
+      "translatedAnswer": {
+        "en": "plate"
+      },
+      "translation": {
+        "en": "I need to buy a new plate."
+      },
+      "sentence": "Tôi cần mua một ___ mới.",
+      "word": "đĩa",
+      "language": "vi",
+      "hint": "d___",
+      "answer": "đĩa"
+    },
+    "updatedAt": "2025-03-12T15:10:32.278Z",
+    "id": "a02b493f-b55a-487e-8c75-193ec1d6b406"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "đĩa",
+  "notes": "đĩa means dish or plate — the flat thing you put food on.\n\nIt’s a noun. Use classifiers like cái or chiếc: một cái đĩa, hai chiếc đĩa. Common pairings: đĩa cơm, đĩa bánh, đĩa thịt.\n\nIt also very commonly means a disc (CD/DVD), like đĩa CD, đĩa nhạc — same word, different object.\n\nEasy contrast: đĩa (plate) vs bát (bowl).",
+  "exampleSentences": [
+    "Anh có thể lấy cho em một cái đĩa để bỏ trái cây không?",
+    "Chị vừa rửa xong tất cả các đĩa trong bồn rửa rồi.",
+    "Nhà hàng này có một đĩa đặc biệt rất nổi tiếng vào buổi tối."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you get me a dish to put the fruit on?",
+    "I just finished washing all the dishes in the sink.",
+    "This restaurant has a special dish that is very famous in the evening."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "đĩa",
+      "word": "đĩa",
+      "language": "vi",
+      "sentence": "Tôi đặt ___ trên bàn.",
+      "translation": {
+        "en": "I put the plate on the table."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "plate"
+      }
+    },
+    "updatedAt": "2025-03-12T15:10:32.278Z",
+    "createdAt": "2025-03-12T15:10:32.278Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "71abdc97-4607-4b76-b17b-5eab6ff4ab66"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:38:44.736Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A flat dish used for serving food.",
+      "es": "Un plato plano utilizado para servir comida.",
+      "vi": "Một cái đĩa phẳng dùng để phục vụ thức ăn."
+    },
+    "createdAt": "2025-01-28T12:44:55.899Z",
+    "example": {
+      "en": "I put the plate on the table.",
+      "es": "Puse el plato sobre la mesa.",
+      "vi": "Tôi đặt đĩa lên bàn."
+    },
+    "translations": {
+      "en": "plate",
+      "es": "plato",
+      "vi": "đĩa"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đĩa** means *dish* or *plate* — the flat thing you put food on.\n\nIt’s a noun. Use classifiers like **cái** or **chiếc**: *một cái đĩa*, *hai chiếc đĩa*. Common pairings: **đĩa cơm, đĩa bánh, đĩa thịt**.\n\nIt also very commonly means a **disc** (CD/DVD), like **đĩa CD, đĩa nhạc** — same word, different object.\n\nEasy contrast: **đĩa** (plate) vs **bát** (bowl).",
+  "definition": "dish",
+  "_id": "ZmKtgjg4ZKj0p2N4tpBA"
+}

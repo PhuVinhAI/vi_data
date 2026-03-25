@@ -1,0 +1,104 @@
+{
+  "choices": [
+    "hơn",
+    "rất",
+    "nhất"
+  ],
+  "rank": 82,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:20:29.328Z",
+    "updatedAt": "2025-03-12T17:20:29.328Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "choices": [
+        "nhất",
+        "nhiều",
+        "ít"
+      ],
+      "translation": {
+        "en": "Choose the most delicious dish."
+      },
+      "sentence": "Chọn món ăn ___ ngon.",
+      "word": "nhất",
+      "language": "vi",
+      "hint": "n___t",
+      "answer": "nhất"
+    },
+    "id": "864b9b39-5fc1-4ebe-b235-c255e3d36d31"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nhất",
+  "exampleSentences": [
+    "Anh chọn áo đắt nhất.",
+    "Chị thích món phở nhất.",
+    "Em thích sách này nhất."
+  ],
+  "notes": "nhất means most — the highest level or degree of something. It’s how you form the superlative in Vietnamese.\n\nIt usually comes after adjectives to mean “the most” (biggest, best, fastest). It can also follow verbs to mean “the most” in terms of action or preference.\n\nTo say “the most + noun,” Vietnamese often adds nhất at the end of the description, not before the noun like in English.  \n\nOpposite idea: nhất ↔ ít nhất (most ↔ least).",
+  "exampleSentencesTranslated": [
+    "He chooses the most expensive shirt.",
+    "She likes pho the most.",
+    "I like this book the most."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:20:29.328Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Anh ấy là người giỏi ___ trong lớp.",
+      "answer": "nhất",
+      "language": "vi",
+      "word": "nhất",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "best"
+      },
+      "translation": {
+        "en": "He is the best in the class."
+      }
+    },
+    "updatedAt": "2025-03-12T17:20:29.328Z",
+    "id": "79720fd6-7ce4-4a44-beaa-42cd32fd91f9"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:11:23.937Z",
+  "sentenceBreakdowns": [
+    "Anh (he) + chọn (chooses) + áo (shirt) + đắt (expensive) + nhất (most)",
+    "Chị (she) + thích (likes) + món (dish) + phở (pho) + nhất (most)",
+    "Em (I) + thích (like) + sách (book) + này (this) + nhất (most)"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The highest in rank, quality, or degree.",
+      "es": "El más alto en rango, calidad o grado.",
+      "vi": "Cao nhất về cấp bậc, chất lượng hoặc mức độ."
+    },
+    "createdAt": "2025-01-28T12:45:45.480Z",
+    "example": {
+      "en": "I am the best in the class.",
+      "es": "Soy el mejor de la clase.",
+      "vi": "Tôi là người nhất trong lớp."
+    },
+    "translations": {
+      "en": "best",
+      "es": "mejor",
+      "vi": "nhất"
+    }
+  },
+  "notes_md": "**nhất** means **most** — the highest level or degree of something. It’s how you form the superlative in Vietnamese.\n\nIt usually comes **after adjectives** to mean “the most” (biggest, best, fastest). It can also follow **verbs** to mean “the most” in terms of action or preference.\n\n\nTo say “the most + noun,” Vietnamese often adds **nhất** at the end of the description, not before the noun like in English.  \n\nOpposite idea: **nhất ↔ ít nhất** (most ↔ least).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "most",
+  "_id": "ZzGlkpZohtU36e6XAU7C"
+}

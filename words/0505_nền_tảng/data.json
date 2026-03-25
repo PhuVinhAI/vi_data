@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:12:43.024Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "416fef33-4827-44af-a443-8d2d604ce17b",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:42:15.817Z",
+    "createdAt": "2025-03-12T13:42:15.817Z",
+    "content": {
+      "answer": "nền tảng",
+      "translation": {
+        "en": "Knowledge is the foundation for learning."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Kiến thức là ___ cho việc học.",
+      "word": "nền tảng",
+      "translatedAnswer": {
+        "en": "foundation"
+      }
+    }
+  },
+  "notes": "Nền tảng means foundation or base — the thing everything else is built on. It can be physical, abstract (knowledge, skills), or digital (a tech platform).\n\nIt’s a noun. You can say một nền tảng, những nền tảng. Common pairings: nền tảng vững chắc, nền tảng kiến thức, nền tảng tài chính, nền tảng công nghệ.\n\nIt also means “platform” in tech (like a social media or learning platform).\n\nClose synonyms: nền móng (more physical), cơ sở (more formal/administrative).",
+  "exampleSentencesTranslated": [
+    "We need a strong foundation to build this company.",
+    "You should learn the basic foundation before starting a new project.",
+    "Family is an important foundation in everyone's life."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cơ sở hoặc nguyên tắc nền tảng cho một cái gì đó.",
+      "es": "La base subyacente o principio de algo.",
+      "en": "The underlying basis or principle for something."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:20:50.728Z",
+    "example": {
+      "es": "La educación es la base para el desarrollo de la sociedad.",
+      "vi": "Giáo dục là nền tảng cho sự phát triển của xã hội.",
+      "en": "Education is the foundation for the development of society."
+    },
+    "translations": {
+      "en": "foundation",
+      "es": "fundamento",
+      "vi": "nền tảng"
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "33ad4ae1-0535-40db-9c8e-da9fbfa6d275",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:42:15.817Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "foundation"
+      },
+      "word": "nền tảng",
+      "sentence": "Kiến thức là ___ cho việc học.",
+      "language": "vi",
+      "hint": "n___ t__g",
+      "choices": [
+        "cơ sở",
+        "nền tảng",
+        "mục tiêu"
+      ],
+      "translation": {
+        "en": "Knowledge is the foundation for learning."
+      },
+      "answer": "nền tảng"
+    },
+    "updatedAt": "2025-03-12T13:42:15.817Z"
+  },
+  "notes_md": "**Nền tảng** means *foundation* or *base* — the thing everything else is built on. It can be physical, abstract (knowledge, skills), or digital (a tech platform).\n\nIt’s a noun. You can say *một nền tảng*, *những nền tảng*. Common pairings: *nền tảng vững chắc*, *nền tảng kiến thức*, *nền tảng tài chính*, *nền tảng công nghệ*.\n\nIt also means “platform” in tech (like a social media or learning platform).\n\nClose synonyms: *nền móng* (more physical), *cơ sở* (more formal/administrative).",
+  "exampleSentences": [
+    "Chúng ta cần một nền tảng vững chắc để xây dựng công ty này.",
+    "Em nên học kiến thức nền tảng trước khi bắt đầu dự án mới.",
+    "Gia đình là nền tảng quan trọng trong cuộc sống của mỗi người."
+  ],
+  "rank": 505,
+  "word": "nền tảng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "foundation",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "nền tảng",
+    "kế hoạch",
+    "giải pháp"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "E3GmKga92IG5YVR7YCkf"
+}

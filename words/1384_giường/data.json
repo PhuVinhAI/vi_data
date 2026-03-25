@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "bàn",
+    "giường",
+    "tủ"
+  ],
+  "rank": 1384,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "8a0b8af5-4af4-4db1-965b-a1e8dad93ac4",
+    "content": {
+      "sentence": "Tôi ngủ trên ___ mỗi đêm.",
+      "word": "giường",
+      "language": "vi",
+      "hint": "g____n",
+      "answer": "giường",
+      "choices": [
+        "ghế",
+        "giường",
+        "sofa"
+      ],
+      "translatedAnswer": {
+        "en": "bed"
+      },
+      "translation": {
+        "en": "I sleep on the bed every night."
+      }
+    },
+    "updatedAt": "2025-03-12T15:03:40.843Z",
+    "createdAt": "2025-03-12T15:03:40.843Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "giường",
+  "notes": "giường means bed — the piece of furniture you sleep on. It’s a countable noun: một cái giường (classifier: cái).\n\nCommon pairings: giường đôi (double bed), giường đơn (single bed), giường tầng (bunk bed), ga giường (bedsheet), khung giường (bed frame).  \n\nDon’t confuse it with nệm (mattress) — that’s the soft part on top of the bed.",
+  "exampleSentences": [
+    "Anh mới mua một cái giường mới cho phòng ngủ của mình.",
+    "Em thường đọc sách trên giường trước khi đi ngủ.",
+    "Chị có muốn thay ga giường vào cuối tuần này không?"
+  ],
+  "exampleSentencesTranslated": [
+    "I just bought a new bed for my bedroom.",
+    "I usually read books on the bed before going to sleep.",
+    "Do you want to change the bed sheets this weekend?"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:44:03.100Z",
+  "fillBlankQuiz": {
+    "id": "01136184-c7ed-4137-b469-a8a12dde0278",
+    "content": {
+      "translation": {
+        "en": "I sleep on the bed every night."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "bed"
+      },
+      "language": "vi",
+      "word": "giường",
+      "answer": "giường",
+      "sentence": "Tôi ngủ trên ___ mỗi đêm."
+    },
+    "updatedAt": "2025-03-12T15:03:40.843Z",
+    "createdAt": "2025-03-12T15:03:40.843Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A piece of furniture for sleep or rest, typically a rectangular frame with a mattress.",
+      "es": "Un mueble para dormir o descansar, típicamente un marco rectangular con un colchón.",
+      "vi": "Một món đồ nội thất dùng để ngủ hoặc nghỉ ngơi, thường là một khung hình chữ nhật với một cái đệm."
+    },
+    "createdAt": "2025-01-28T12:35:55.763Z",
+    "example": {
+      "en": "I need to buy a new bed.",
+      "es": "Necesito comprar una cama nueva.",
+      "vi": "Tôi cần mua một cái giường mới."
+    },
+    "translations": {
+      "en": "bed",
+      "es": "cama",
+      "vi": "giường"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**giường** means *bed* — the piece of furniture you sleep on. It’s a countable noun: **một cái giường** (classifier: *cái*).\n\nCommon pairings: **giường đôi** (double bed), **giường đơn** (single bed), **giường tầng** (bunk bed), **ga giường** (bedsheet), **khung giường** (bed frame).  \n\nDon’t confuse it with **nệm** (mattress) — that’s the soft part on top of the bed.",
+  "definition": "bed",
+  "_id": "XmvSVtwWzdxgKE7hoj0T"
+}

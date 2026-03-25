@@ -1,0 +1,99 @@
+{
+  "definition": "need",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c___n",
+      "translation": {
+        "en": "I need an umbrella."
+      },
+      "translatedAnswer": {
+        "en": "need"
+      },
+      "word": "cần",
+      "choices": [
+        "cần",
+        "muốn",
+        "thích"
+      ],
+      "language": "vi",
+      "answer": "cần",
+      "sentence": "Tôi ___ một chiếc ô."
+    },
+    "updatedAt": "2025-03-12T16:20:10.346Z",
+    "createdAt": "2025-03-12T16:20:10.346Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "86712a7b-dada-4406-beeb-d285d39519cc"
+  },
+  "rank": 106,
+  "notes_md": "**cần** = *to need*. You use it when something is necessary for you to do or have.\n\nIt’s a verb, so it goes before a noun or another verb. No “to” like in English — just put the verb right after.\n\n\n**cần phải + verb** sounds stronger, closer to “must” or “really need to.”  \nOpposite idea: **không cần** = don’t need.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cần",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ sách này.",
+      "choices": [],
+      "word": "cần",
+      "language": "vi",
+      "answer": "cần",
+      "translation": {
+        "en": "I need this book."
+      },
+      "translatedAnswer": {
+        "en": "need"
+      }
+    },
+    "updatedAt": "2025-03-12T16:20:10.346Z",
+    "createdAt": "2025-03-12T16:20:10.346Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "11e95c50-2e75-4203-af72-9491c88173b5"
+  },
+  "notes": "cần = to need. You use it when something is necessary for you to do or have.\n\nIt’s a verb, so it goes before a noun or another verb. No “to” like in English — just put the verb right after.\n\ncần phải + verb sounds stronger, closer to “must” or “really need to.”  \nOpposite idea: không cần = don’t need.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Do you need any help with your math homework?",
+    "I need to buy a new shirt for work.",
+    "I need to rest after a long day at work."
+  ],
+  "updatedAt": "2026-03-03T06:14:07.870Z",
+  "choices": [
+    "cần",
+    "muốn",
+    "được"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "cần thiết hoặc có nhu cầu về một cái gì đó",
+      "en": "to require or have a necessity for something",
+      "es": "requerir o tener necesidad de algo"
+    },
+    "createdAt": "2025-01-28T13:51:15.357Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesito un paraguas.",
+      "en": "I need an umbrella.",
+      "vi": "Tôi cần một cái ô."
+    },
+    "translations": {
+      "es": "necesitar",
+      "en": "need",
+      "vi": "cần"
+    }
+  },
+  "exampleSentences": [
+    "Anh có cần giúp gì với bài tập toán không?",
+    "Em cần mua một cái áo mới cho công việc.",
+    "Chị cần nghỉ ngơi sau một ngày làm việc dài."
+  ],
+  "_id": "rWOGRmxnM2OX4AaH1mLI"
+}

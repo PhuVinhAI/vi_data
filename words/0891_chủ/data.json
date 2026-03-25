@@ -1,0 +1,99 @@
+{
+  "word": "chủ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 891,
+  "choices": [
+    "chủ",
+    "bạn",
+    "khách"
+  ],
+  "notes_md": "**chủ** = owner, the person who has legal control over something (a house, shop, company, etc.).  \n\nIt’s a noun. Often followed by **của + noun** to show what someone owns.  \n\nYou’ll often hear **ông chủ / bà chủ** for “boss” or “shop owner.” Opposite idea is **nhân viên** (employee).  \n\nIn some common compounds, **chủ** also carries the idea of “main” or “primary” (like in *chủ yếu* = mainly), but alone it usually means “owner.”",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:13:50.984Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "He is the owner of the house."
+      },
+      "translatedAnswer": {
+        "en": "owner"
+      },
+      "hint": "c___",
+      "answer": "chủ",
+      "choices": [
+        "chủ",
+        "người thuê",
+        "khách"
+      ],
+      "word": "chủ",
+      "sentence": "Anh ấy là ___ của căn nhà.",
+      "language": "vi"
+    },
+    "id": "08ec650b-3d29-4b47-858a-87eb0bd21e1e",
+    "updatedAt": "2025-03-12T13:13:50.984Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh là chủ của quán cà phê nhỏ ở góc phố.",
+    "Chị muốn gặp chủ ngôi nhà để hỏi về giá thuê.",
+    "Em đã nói chuyện với chủ cửa hàng về việc đổi sản phẩm."
+  ],
+  "updatedAt": "2026-03-03T07:51:17.268Z",
+  "notes": "chủ = owner, the person who has legal control over something (a house, shop, company, etc.).  \n\nIt’s a noun. Often followed by của + noun to show what someone owns.  \n\nYou’ll often hear ông chủ / bà chủ for “boss” or “shop owner.” Opposite idea is nhân viên (employee).  \n\nIn some common compounds, chủ also carries the idea of “main” or “primary” (like in chủ yếu = mainly), but alone it usually means “owner.”",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:54:54.502Z",
+    "translations": {
+      "es": "dueño",
+      "vi": "chủ",
+      "en": "owner"
+    },
+    "example": {
+      "vi": "Chủ nhà rất thân thiện.",
+      "es": "El dueño es muy amable.",
+      "en": "The owner is very friendly."
+    },
+    "definitions": {
+      "en": "A person who owns something.",
+      "vi": "Một người sở hữu cái gì đó.",
+      "es": "Una persona que posee algo."
+    }
+  },
+  "definition": "owner",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:13:50.984Z",
+    "id": "602b0b85-6ee5-4fb8-b2bb-21a890a7cd77",
+    "createdAt": "2025-03-12T13:13:50.984Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "owner"
+      },
+      "translation": {
+        "en": "She is my owner."
+      },
+      "answer": "chủ",
+      "choices": [],
+      "sentence": "Cô ấy là ___ của tôi.",
+      "language": "vi",
+      "word": "chủ"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He is the owner of a small coffee shop on the corner.",
+    "She wants to meet the owner of the house to ask about the rental price.",
+    "I talked to the owner of the store about exchanging the product."
+  ],
+  "_id": "6VERRr9Ci7x8JnOxVq2b"
+}

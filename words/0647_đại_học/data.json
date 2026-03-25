@@ -1,0 +1,99 @@
+{
+  "rank": 647,
+  "exampleSentences": [
+    "Em dự định sẽ học ngành sư phạm tại đại học năm sau.",
+    "Anh đã kết bạn với nhiều người khi học ở đại học.",
+    "Chị thường tham gia các câu lạc bộ ở đại học để gặp gỡ bạn mới."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:24:46.603Z",
+    "definitions": {
+      "vi": "Một cơ sở giáo dục đại học cung cấp các bằng cấp đại học và sau đại học.",
+      "es": "Una institución de educación superior que ofrece títulos de pregrado y posgrado.",
+      "en": "A higher education institution that offers undergraduate and postgraduate degrees."
+    },
+    "translations": {
+      "en": "university",
+      "es": "universidad",
+      "vi": "đại học"
+    },
+    "example": {
+      "es": "Estoy estudiando en una gran universidad.",
+      "vi": "Tôi đang học tại một trường đại học lớn.",
+      "en": "I am studying at a large university."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đại học",
+  "multiChoiceQuiz": {
+    "id": "57cbf5ce-176d-45ca-a6d1-a5b74b4b7f7a",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "đ___ h___",
+      "word": "đại học",
+      "sentence": "Tôi muốn vào ___ năm tới.",
+      "translation": {
+        "en": "I want to enter university next year."
+      },
+      "language": "vi",
+      "choices": [
+        "trường nghề",
+        "đại học",
+        "trường cấp ba"
+      ],
+      "translatedAnswer": {
+        "en": "university"
+      },
+      "answer": "đại học"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:03:53.054Z",
+    "createdAt": "2025-03-12T14:03:53.054Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đại học** = university (the institution or level of higher education after high school).\n\nIt’s a noun. You can say **trường đại học** (university as a school) or just **đại học** when talking about the level of study. After prepositions like *ở, vào, học tại*, it doesn’t need any extra words.\n\nCommon pairings: **thi đại học** (take the university entrance exam), **học đại học** (attend university), **tốt nghiệp đại học** (graduate from university).  \n\nDon’t confuse it with **cao đẳng** (college, usually shorter and more practical programs).",
+  "choices": [
+    "trung học",
+    "đại học",
+    "tiểu học"
+  ],
+  "updatedAt": "2026-03-03T07:26:29.927Z",
+  "exampleSentencesTranslated": [
+    "I plan to study education at university next year.",
+    "I made many friends when studying at university.",
+    "She often joins clubs at university to meet new friends."
+  ],
+  "notes": "đại học = university (the institution or level of higher education after high school).\n\nIt’s a noun. You can say trường đại học (university as a school) or just đại học when talking about the level of study. After prepositions like ở, vào, học tại, it doesn’t need any extra words.\n\nCommon pairings: thi đại học (take the university entrance exam), học đại học (attend university), tốt nghiệp đại học (graduate from university).  \n\nDon’t confuse it with cao đẳng (college, usually shorter and more practical programs).",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:03:53.054Z",
+    "createdAt": "2025-03-12T14:03:53.054Z",
+    "id": "e8746e22-2d86-46ef-b5d5-a7401e643104",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "university"
+      },
+      "answer": "đại học",
+      "word": "đại học",
+      "sentence": "Tôi đang học ở ___.",
+      "translation": {
+        "en": "I am studying at university."
+      },
+      "language": "vi",
+      "choices": []
+    }
+  },
+  "definition": "university",
+  "_id": "JbgVpHqB5LhwGEzX0Clt"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "nurture"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ trẻ em.",
+      "translation": {
+        "en": "We need to nurture children."
+      },
+      "answer": "nuôi dưỡng",
+      "word": "nuôi dưỡng",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T14:39:31.036Z",
+    "createdAt": "2025-03-12T14:39:31.036Z",
+    "id": "62fecc3a-9c1d-4fd3-907d-f49b2f4f4ecc",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "to raise and take care of someone or something",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "nurture",
+      "vi": "nuôi dưỡng",
+      "es": "nutrir"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Los padres siempre nutren a sus hijos con amor.",
+      "vi": "Cha mẹ luôn nuôi dưỡng con cái bằng tình yêu thương.",
+      "en": "Parents always nurture their children with love."
+    },
+    "definitions": {
+      "es": "Cuidar y fomentar el crecimiento o desarrollo de alguien o algo.",
+      "vi": "Chăm sóc và khuyến khích sự phát triển của ai đó hoặc cái gì đó.",
+      "en": "To care for and encourage the growth or development of someone or something."
+    },
+    "createdAt": "2025-01-28T12:14:56.935Z"
+  },
+  "exampleSentences": [
+    "Bà ngoại em đã nuôi dưỡng em từ nhỏ cho đến lớn.",
+    "Anh chị đang cố gắng nuôi dưỡng con để chúng khỏe mạnh và hạnh phúc.",
+    "Gia đình em nuôi dưỡng một con chó nhỏ trong nhà."
+  ],
+  "notes_md": "**Nuôi dưỡng** means to raise and take care of someone or something over time so they grow well. It’s about long-term care, not just feeding.\n\nYou use it for people, animals, and also abstract things like feelings or dreams.  \n\nCompared to **nuôi** (just “raise/feed”), *nuôi dưỡng* feels deeper and more intentional. It’s close to **chăm sóc**, but chăm sóc is general care, while nuôi dưỡng focuses on growth and development.",
+  "choices": [
+    "nuôi dưỡng",
+    "học hỏi",
+    "giúp đỡ"
+  ],
+  "notes": "Nuôi dưỡng means to raise and take care of someone or something over time so they grow well. It’s about long-term care, not just feeding.\n\nYou use it for people, animals, and also abstract things like feelings or dreams.  \n\nCompared to nuôi (just “raise/feed”), nuôi dưỡng feels deeper and more intentional. It’s close to chăm sóc, but chăm sóc is general care, while nuôi dưỡng focuses on growth and development.",
+  "rank": 2079,
+  "exampleSentencesTranslated": [
+    "My grandmother helped to raise and take care of me since I was little.",
+    "They are trying to raise and take care of their children so they are healthy and happy.",
+    "My family raises and takes care of a small dog at home."
+  ],
+  "word": "nuôi dưỡng",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "n____g",
+      "answer": "nuôi dưỡng",
+      "translation": {
+        "en": "They decided to nurture pets."
+      },
+      "word": "nuôi dưỡng",
+      "choices": [
+        "chăm sóc",
+        "nuôi dưỡng",
+        "giáo dục"
+      ],
+      "sentence": "Họ quyết định ___ thú cưng.",
+      "translatedAnswer": {
+        "en": "nurture"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:39:31.036Z",
+    "id": "597d205b-321b-41bc-ab13-246348b46de5",
+    "createdAt": "2025-03-12T14:39:31.036Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T09:58:04.759Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "RofwG9wjwlo62LAdaDwy"
+}

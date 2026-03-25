@@ -1,0 +1,99 @@
+{
+  "notes": "Tiếng nói means voice — the sound someone makes when they speak. It can also mean someone’s opinion or influence in a group (having a say).\n\nIt’s a noun. You often see tiếng nói của + someone (someone’s voice) and có tiếng nói trong + something (to have influence in).  \n\nDon’t confuse it with giọng nói — giọng nói is more about tone/accent, while tiếng nói is the voice itself or figurative “say”.",
+  "choices": [
+    "tiếng nói",
+    "ngôn ngữ",
+    "giọng hát"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:35:45.064Z",
+  "exampleSentencesTranslated": [
+    "When I am nervous, my voice becomes small and shaky.",
+    "Everyone has their own voice in their family.",
+    "I want to listen to the voice of every member in the meeting."
+  ],
+  "rank": 1868,
+  "word": "tiếng nói",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:37:34.783Z",
+    "id": "5cf92605-f36c-43c6-b0d0-cd61d1a715a3",
+    "content": {
+      "word": "tiếng nói",
+      "choices": [
+        "tiếng nói",
+        "âm thanh",
+        "giọng nói"
+      ],
+      "translation": {
+        "en": "I hear her voice."
+      },
+      "answer": "tiếng nói",
+      "hint": "ti___ nói",
+      "translatedAnswer": {
+        "en": "voice"
+      },
+      "language": "vi",
+      "sentence": "Tôi nghe ___ của cô ấy."
+    },
+    "updatedAt": "2025-03-12T14:37:34.783Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "voice",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I hear her voice."
+      },
+      "answer": "tiếng nói",
+      "word": "tiếng nói",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "voice"
+      },
+      "language": "vi",
+      "sentence": "Tôi nghe ___ của cô ấy."
+    },
+    "updatedAt": "2025-03-12T14:37:34.783Z",
+    "id": "3158fadb-bc64-4976-a323-bd80ff9a9597",
+    "createdAt": "2025-03-12T14:37:34.783Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Khi em lo lắng, tiếng nói của em trở nên nhỏ và run.",
+    "Mỗi người đều có tiếng nói riêng trong gia đình của mình.",
+    "Anh muốn lắng nghe tiếng nói của mọi thành viên trong cuộc họp."
+  ],
+  "notes_md": "**Tiếng nói** means *voice* — the sound someone makes when they speak. It can also mean someone’s *opinion or influence* in a group (having a say).\n\nIt’s a noun. You often see **tiếng nói của + someone** (someone’s voice) and **có tiếng nói trong + something** (to have influence in).  \n\n\nDon’t confuse it with **giọng nói** — *giọng nói* is more about tone/accent, while *tiếng nói* is the voice itself or figurative “say”.",
+  "flashcard": {
+    "example": {
+      "es": "Su voz es muy suave.",
+      "en": "Her voice is very soothing.",
+      "vi": "Tiếng nói của cô ấy rất êm dịu."
+    },
+    "createdAt": "2025-01-28T12:13:21.461Z",
+    "definitions": {
+      "es": "El sonido producido por los humanos al hablar; voz.",
+      "en": "The sound produced by humans when speaking; voice.",
+      "vi": "Âm thanh do con người phát ra khi nói; giọng nói."
+    },
+    "translations": {
+      "en": "voice",
+      "vi": "tiếng nói",
+      "es": "voz"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "RKl1IbA6chexBBeq4jAr"
+}

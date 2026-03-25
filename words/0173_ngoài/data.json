@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Me gusta caminar afuera en el parque.",
+      "vi": "Tôi thích đi dạo ngoài công viên.",
+      "en": "I like to walk outside in the park."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "outside",
+      "es": "fuera",
+      "vi": "ngoài"
+    },
+    "definitions": {
+      "vi": "Ngoài; bên ngoài; vượt ra ngoài.",
+      "es": "Fuera; externo; más allá.",
+      "en": "Outside; external; beyond."
+    },
+    "createdAt": "2025-01-28T12:00:23.087Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể đợi em ngoài nhà hàng một lát được không?",
+    "Buổi tối, các em nhỏ thường chơi ngoài sân sau khi ăn cơm.",
+    "Chị thích uống cà phê ngoài ban công vào buổi sáng sớm."
+  ],
+  "rank": 173,
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "outside"
+      },
+      "answer": "ngoài",
+      "translation": {
+        "en": "I live outside this city."
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "ngoài",
+      "sentence": "Tôi sống ___ thành phố này."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "0d429961-6caf-40d3-97d9-ad887c533f12",
+    "createdAt": "2025-03-12T14:24:30.831Z",
+    "updatedAt": "2025-03-12T14:24:30.831Z"
+  },
+  "definition": "outside",
+  "updatedAt": "2026-03-03T06:38:01.238Z",
+  "choices": [
+    "trong",
+    "ngoài",
+    "bên"
+  ],
+  "exampleSentencesTranslated": [
+    "Can you wait for me outside the restaurant for a while?",
+    "In the evening, the children often play outside the yard after dinner.",
+    "She likes to drink coffee outside the balcony in the early morning."
+  ],
+  "notes": "ngoài = outside, out (opposite of trong = inside). It can describe location or direction.\n\nUsed after verbs like ở (be), ra (go out), đứng (stand), etc.\n\nIt also means “besides / in addition” in ngoài ra.\n\nWith numbers, ngoài + number = more than (ngoài 20 tuổi = over 20 years old).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ngoài** = outside, out (opposite of *trong* = inside). It can describe location or direction.\n\nUsed after verbs like *ở* (be), *ra* (go out), *đứng* (stand), etc.\n\n\nIt also means “besides / in addition” in **ngoài ra**.\n\nWith numbers, **ngoài + number** = more than (ngoài 20 tuổi = over 20 years old).",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:24:30.831Z",
+    "createdAt": "2025-03-12T14:24:30.831Z",
+    "id": "90d919dc-1c77-4e18-933d-fcfcab407372",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "trong",
+        "ngoài",
+        "trên"
+      ],
+      "translation": {
+        "en": "We will be outside when it rains."
+      },
+      "sentence": "Chúng ta sẽ ___ trời mưa.",
+      "hint": "n___",
+      "word": "ngoài",
+      "answer": "ngoài",
+      "translatedAnswer": {
+        "en": "outside"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "ngoài",
+  "_id": "O8j3OV7oKMzQWLfMOWuC"
+}

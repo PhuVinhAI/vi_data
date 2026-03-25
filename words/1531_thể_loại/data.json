@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:59:54.644Z",
+  "exampleSentences": [
+    "Anh thích thể loại phim hành động hơn thể loại hài.",
+    "Chị thường đọc sách thuộc nhiều thể loại khác nhau.",
+    "Em muốn biết thể loại nhạc nào phổ biến ở Việt Nam."
+  ],
+  "notes": "Thể loại means genre — a category of art or media like movies, music, or books.\n\nIt’s a noun. You usually say một thể loại, các thể loại, or use it in phrases like thể loại phim / nhạc / sách / truyện. It’s often followed directly by what it classifies.\n\nIt’s more specific than loại (type/kind). For music and art, you might also hear dòng (like dòng nhạc), but thể loại is more general.",
+  "flashcard": {
+    "translations": {
+      "en": "genre",
+      "vi": "thể loại",
+      "es": "género"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:14:42.162Z",
+    "definitions": {
+      "es": "Una categoría o tipo de obra artística, como la literatura, la música o el cine.",
+      "vi": "Một loại hoặc thể loại của tác phẩm nghệ thuật, chẳng hạn như văn học, âm nhạc hoặc phim.",
+      "en": "A category or type of artistic work, such as literature, music, or film."
+    },
+    "example": {
+      "en": "I like the action movie genre.",
+      "es": "Me gusta el género de películas de acción.",
+      "vi": "Tôi thích thể loại phim hành động."
+    }
+  },
+  "definition": "genre",
+  "exampleSentencesTranslated": [
+    "I prefer the action movie genre over the comedy genre.",
+    "She often reads books from many different genres.",
+    "I want to know which music genre is popular in Vietnam."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:35:19.225Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:35:19.225Z",
+    "content": {
+      "sentence": "Tôi thích ___ phim này.",
+      "language": "vi",
+      "word": "thể loại",
+      "choices": [],
+      "answer": "thể loại",
+      "translatedAnswer": {
+        "en": "genre"
+      },
+      "translation": {
+        "en": "I like this genre of movie."
+      }
+    },
+    "id": "9381f947-d378-4b73-9587-f863a42aa934",
+    "type": "fillBlankQuiz"
+  },
+  "word": "thể loại",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Thể loại** means *genre* — a category of art or media like movies, music, or books.\n\nIt’s a noun. You usually say **một thể loại**, **các thể loại**, or use it in phrases like *thể loại phim / nhạc / sách / truyện*. It’s often followed directly by what it classifies.\n\nIt’s more specific than **loại** (type/kind). For music and art, you might also hear **dòng** (like *dòng nhạc*), but **thể loại** is more general.",
+  "rank": 1531,
+  "choices": [
+    "thể loại",
+    "câu chuyện",
+    "chủ đề"
+  ],
+  "multiChoiceQuiz": {
+    "id": "7011746e-5210-4985-9771-46155c2f2650",
+    "content": {
+      "translation": {
+        "en": "This movie belongs to the action genre."
+      },
+      "translatedAnswer": {
+        "en": "genre"
+      },
+      "hint": "t___ l___",
+      "answer": "thể loại",
+      "choices": [
+        "thể loại",
+        "nội dung",
+        "diễn viên"
+      ],
+      "word": "thể loại",
+      "sentence": "Phim này thuộc ___ hành động.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:19.225Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:35:19.225Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "CCqtkT7RIjTCqnNJteM6"
+}

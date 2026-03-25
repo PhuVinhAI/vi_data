@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "tài xế",
+    "hành khách",
+    "giáo viên"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:04:08.176Z",
+    "createdAt": "2025-03-12T16:04:08.176Z",
+    "id": "5bcab414-6be3-48fe-84f1-a32c34a4ea8c",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "tài xế",
+      "translatedAnswer": {
+        "en": "driver"
+      },
+      "choices": [],
+      "sentence": "Tôi là ___ của công ty này.",
+      "translation": {
+        "en": "I am the driver of this company."
+      },
+      "word": "tài xế",
+      "language": "vi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy là tài xế của xe buýt trường học mỗi sáng.",
+    "Em hỏi tài xế về địa chỉ của nhà hàng mới.",
+    "Chị nghĩ tài xế này lái xe rất cẩn thận vào ban đêm."
+  ],
+  "definition": "driver",
+  "notes": "tài xế = driver (someone whose job is to drive a vehicle). It usually implies a professional driver, not just anyone who can drive.\n\nIt’s a noun. Use classifiers like một tài xế, hai tài xế. Common pairings: tài xế taxi, tài xế xe buýt, tài xế xe tải, tài xế Grab.\n\nClose synonym: người lái xe (more general — could be any driver, not necessarily a job).  \nYou’ll often hear it with verbs like làm (work as) or thuê (hire).",
+  "rank": 2945,
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "She works as a driver."
+      },
+      "word": "tài xế",
+      "translatedAnswer": {
+        "en": "driver"
+      },
+      "answer": "tài xế",
+      "hint": "t___",
+      "choices": [
+        "bác sĩ",
+        "tài xế",
+        "họa sĩ"
+      ],
+      "sentence": "Cô ấy làm việc như một ___."
+    },
+    "id": "3a63bc9e-b540-4734-90f9-655e94459d35",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:04:08.176Z",
+    "updatedAt": "2025-03-12T16:04:08.176Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tài xế** = driver (someone whose job is to drive a vehicle). It usually implies a professional driver, not just anyone who can drive.\n\nIt’s a noun. Use classifiers like **một tài xế**, **hai tài xế**. Common pairings: **tài xế taxi**, **tài xế xe buýt**, **tài xế xe tải**, **tài xế Grab**.\n\nClose synonym: **người lái xe** (more general — could be any driver, not necessarily a job).  \nYou’ll often hear it with verbs like **làm** (work as) or **thuê** (hire).",
+  "exampleSentencesTranslated": [
+    "He is the driver of the school bus every morning.",
+    "I asked the driver about the address of the new restaurant.",
+    "I think this driver drives very carefully at night."
+  ],
+  "word": "tài xế",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một người lái xe.",
+      "es": "Una persona que conduce un vehículo.",
+      "en": "A person who drives a vehicle."
+    },
+    "createdAt": "2025-01-28T13:35:30.480Z",
+    "example": {
+      "en": "The driver drives very carefully.",
+      "es": "El conductor conduce con mucho cuidado.",
+      "vi": "Tài xế lái xe rất cẩn thận."
+    },
+    "translations": {
+      "en": "driver",
+      "es": "conductor",
+      "vi": "tài xế"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T18:15:12.208Z",
+  "_id": "nBUAQHTZOIrMQWUREvvw"
+}

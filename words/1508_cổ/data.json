@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "cổ",
+    "tay",
+    "lưng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "neck",
+  "rank": 1508,
+  "exampleSentences": [
+    "Anh bị đau cổ sau khi ngồi làm việc nhiều giờ liền.",
+    "Chị thường đeo khăn quanh cổ khi trời lạnh.",
+    "Bác sĩ khuyên em nên xoay cổ nhẹ nhàng mỗi sáng."
+  ],
+  "word": "cổ",
+  "exampleSentencesTranslated": [
+    "He has neck pain after sitting and working for many hours.",
+    "She often wears a scarf around her neck when it is cold.",
+    "The doctor advised me to gently rotate my neck every morning."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The part of the body connecting the head to the rest of the body.",
+      "vi": "Phần cơ thể nối đầu với phần còn lại của cơ thể.",
+      "es": "La parte del cuerpo que conecta la cabeza con el resto del cuerpo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cổ",
+      "es": "cuello",
+      "en": "neck"
+    },
+    "createdAt": "2025-01-28T11:23:41.262Z",
+    "example": {
+      "en": "She has a long neck.",
+      "es": "Ella tiene un cuello largo.",
+      "vi": "Cô ấy có một chiếc cổ dài."
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "db0cc6c8-238d-4348-87e5-9e1e18295c7e",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:45:21.689Z",
+    "content": {
+      "language": "vi",
+      "word": "cổ",
+      "sentence": "Cô ấy có một chiếc vòng ___ đẹp.",
+      "translatedAnswer": {
+        "en": "necklace"
+      },
+      "translation": {
+        "en": "She has a beautiful necklace."
+      },
+      "answer": "cổ",
+      "hint": "c___ổ",
+      "choices": [
+        "cổ",
+        "cổs",
+        "CỔ"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:45:21.689Z"
+  },
+  "notes_md": "**cổ** means *neck* — the part between your head and shoulders. It’s a noun; you often hear it in fixed pairs like **cổ áo** (collar), **cổ tay** (wrist), **cổ họng** (throat), **đau cổ** (neck pain).  \n\nNo classifier is needed in most everyday use, but you can use **cái cổ** when pointing to it physically.  \n\nThere’s also a very common second meaning: **cổ** = *ancient/old* (Sino-Vietnamese), as in **cổ điển** (classical) or **cổ kính** (ancient-looking).  \n\nEasy memory trick: one **cổ** holds your head up; the other **cổ** takes you back in time.",
+  "updatedAt": "2026-03-03T08:57:37.997Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:45:21.689Z",
+    "content": {
+      "sentence": "Cô ấy có một chiếc vòng ___ đẹp.",
+      "word": "cổ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "necklace"
+      },
+      "answer": "cổ",
+      "translation": {
+        "en": "She has a beautiful necklace."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:45:21.689Z",
+    "type": "fillBlankQuiz",
+    "id": "05d5f5dc-1cad-4c00-9b95-3cdabdbc9fdd",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "cổ means neck — the part between your head and shoulders. It’s a noun; you often hear it in fixed pairs like cổ áo (collar), cổ tay (wrist), cổ họng (throat), đau cổ (neck pain).  \n\nNo classifier is needed in most everyday use, but you can use cái cổ when pointing to it physically.  \n\nThere’s also a very common second meaning: cổ = ancient/old (Sino-Vietnamese), as in cổ điển (classical) or cổ kính (ancient-looking).  \n\nEasy memory trick: one cổ holds your head up; the other cổ takes you back in time.",
+  "_id": "EpCXxjfBurnwF8T7LKPT"
+}

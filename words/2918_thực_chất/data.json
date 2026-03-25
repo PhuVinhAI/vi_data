@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "thực chất",
+    "tạm thời",
+    "chính xác"
+  ],
+  "rank": 2918,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:14:49.079Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "thực chất",
+      "hint": "th___t",
+      "word": "thực chất",
+      "language": "vi",
+      "sentence": "Tôi muốn hiểu ___ của vấn đề.",
+      "translation": {
+        "en": "I want to understand the essence of the issue."
+      },
+      "translatedAnswer": {
+        "en": "essence"
+      },
+      "choices": [
+        "bản chất",
+        "thực chất",
+        "tinh thần"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:14:49.079Z",
+    "id": "f92a7f55-f89c-45e1-9dbf-01cb3a583f94"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thực chất",
+  "notes": "thực chất means in reality / actually — the true nature of something, not what it seems on the surface.\n\nIt’s usually used to correct a wrong assumption or show contrast between appearance and reality. It often comes before a clause and works like a sentence adverb.\n\nVery close to thật ra (actually), but thực chất feels a bit more analytical, focusing on the real nature of something. Related word: bản chất (core nature, essence).",
+  "exampleSentences": [
+    "Em nghĩ công việc này đơn giản nhưng thực chất nó khá phức tạp.",
+    "Anh ấy có vẻ vui vẻ nhưng thực chất rất lo lắng về kỳ thi.",
+    "Nhiều người tưởng chị giàu nhưng thực chất chị sống rất tiết kiệm."
+  ],
+  "exampleSentencesTranslated": [
+    "I think this job is simple but the actual nature is quite complicated.",
+    "He seems happy but the actual nature is he is very worried about the exam.",
+    "Many people think you are rich but the actual nature is you live very frugally."
+  ],
+  "updatedAt": "2026-03-03T18:12:24.502Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "essence"
+      },
+      "translation": {
+        "en": "I want to understand the essence of the issue."
+      },
+      "sentence": "Tôi muốn hiểu ___ của vấn đề.",
+      "word": "thực chất",
+      "language": "vi",
+      "answer": "thực chất"
+    },
+    "updatedAt": "2025-03-12T15:14:49.079Z",
+    "createdAt": "2025-03-12T15:14:49.079Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "235a3a96-6488-42f2-95f2-88944e4445d1"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "In essence; fundamentally.",
+      "es": "En esencia; fundamentalmente.",
+      "vi": "Về bản chất; một cách cơ bản."
+    },
+    "createdAt": "2025-01-28T12:49:28.634Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "essence",
+      "es": "esencia",
+      "vi": "thực chất"
+    },
+    "example": {
+      "en": "In essence, the problem is not as difficult as we think.",
+      "es": "En esencia, el problema no es tan difícil como pensamos.",
+      "vi": "Thực chất, vấn đề không khó như chúng ta nghĩ."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**thực chất** means *in reality / actually* — the true nature of something, not what it seems on the surface.\n\nIt’s usually used to correct a wrong assumption or show contrast between appearance and reality. It often comes before a clause and works like a sentence adverb.\n\n\nVery close to **thật ra** (actually), but *thực chất* feels a bit more analytical, focusing on the real nature of something. Related word: **bản chất** (core nature, essence).",
+  "definition": "actual nature",
+  "_id": "ayja54ZtgWmXiM1eQLOK"
+}

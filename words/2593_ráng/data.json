@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T11:26:30.644Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:57:33.922Z",
+    "content": {
+      "translation": {
+        "en": "You need to try harder at work."
+      },
+      "answer": "ráng",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Bạn cần ___ hơn trong công việc.",
+      "word": "ráng",
+      "translatedAnswer": {
+        "en": "try"
+      }
+    },
+    "updatedAt": "2025-03-12T13:57:33.922Z",
+    "id": "6b7ad4ca-6f26-41f3-84c4-52922bfcdc02",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "ráng = try hard, make an effort (especially when something is difficult or you’re tired).\n\nIt’s a verb used before another verb to show effort or determination. Softer and more emotional than cố — it often sounds like “I’ll do my best, even if it’s tough.”\n\nVery close to cố (both = try hard), but ráng feels more personal and common in Southern speech; in the North, people often say cố instead.",
+  "exampleSentencesTranslated": [
+    "I will try hard to finish my homework before going to bed tonight.",
+    "I try hard to wake up early every day to exercise for good health.",
+    "I try hard to study Vietnamese every day to speak better."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:35:29.416Z",
+    "example": {
+      "es": "Voy a intentar terminar mi tarea.",
+      "vi": "Tôi sẽ ráng làm bài tập về nhà.",
+      "en": "I will try to finish my homework."
+    },
+    "translations": {
+      "es": "intentar",
+      "vi": "ráng",
+      "en": "try"
+    },
+    "definitions": {
+      "vi": "Cố gắng hoặc nỗ lực.",
+      "es": "Intentar o hacer un esfuerzo.",
+      "en": "To try or to make an effort."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**ráng** = try hard, make an effort (especially when something is difficult or you’re tired).\n\nIt’s a verb used before another verb to show effort or determination. Softer and more emotional than *cố* — it often sounds like “I’ll do my best, even if it’s tough.”\n\n\nVery close to **cố** (both = try hard), but *ráng* feels more personal and common in Southern speech; in the North, people often say *cố* instead.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "a2eb6e86-2016-4775-81c7-b2ba00cc0f47",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:57:33.922Z",
+    "content": {
+      "word": "ráng",
+      "sentence": "Bạn cần ___ hơn trong học tập.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "try"
+      },
+      "translation": {
+        "en": "You need to try harder in your studies."
+      },
+      "answer": "ráng",
+      "hint": "r____",
+      "choices": [
+        "cố",
+        "ráng",
+        "điều chỉnh"
+      ]
+    },
+    "createdAt": "2025-03-12T13:57:33.922Z"
+  },
+  "rank": 2593,
+  "exampleSentences": [
+    "Em sẽ ráng hoàn thành bài tập trước khi đi ngủ tối nay.",
+    "Anh ráng dậy sớm mỗi ngày để tập thể dục cho khỏe.",
+    "Chị ráng học tiếng Việt mỗi ngày để nói chuyện tốt hơn."
+  ],
+  "word": "ráng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "try hard",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ráng",
+    "nghỉ",
+    "chơi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "I9zWZ1Npe9jQDVhlMY7l"
+}

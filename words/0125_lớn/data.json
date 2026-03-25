@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "lớn",
+    "nhỏ",
+    "mới"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "big",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lớn",
+  "exampleSentences": [
+    "Nhà của anh ấy rất lớn và có nhiều phòng sáng.",
+    "Em muốn có một con chó lớn để chơi cùng mỗi ngày.",
+    "Công ty này không lớn nhưng mọi người làm việc rất chăm chỉ."
+  ],
+  "rank": 125,
+  "notes_md": "**lớn** = big, large. It describes size, but also age or importance depending on context.\n\nIt comes **after the noun**: nhà lớn, vấn đề lớn. It can also mean “grown-up/adult” in phrases like *người lớn* (adults).\n\nVery common opposite: **nhỏ** (small) — easy memory pair: *lớn ↔ nhỏ*.  \nIn the South, people often say **to** instead of *lớn* for physical size.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:46:25.093Z",
+    "content": {
+      "translation": {
+        "en": "This house is very large."
+      },
+      "answer": "lớn",
+      "hint": "l___n",
+      "choices": [
+        "nhỏ",
+        "lớn",
+        "trung bình"
+      ],
+      "word": "lớn",
+      "sentence": "Cái nhà này rất ___.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "large"
+      }
+    },
+    "createdAt": "2025-03-12T13:46:25.093Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "88962fae-7608-4147-bae0-87f54ab08f48",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Cái nhà này rất lớn.",
+      "es": "Esta casa es muy grande.",
+      "en": "This house is very big."
+    },
+    "createdAt": "2025-01-28T11:24:53.600Z",
+    "translations": {
+      "en": "big",
+      "vi": "lớn",
+      "es": "grande"
+    },
+    "definitions": {
+      "es": "Grande o de gran tamaño.",
+      "vi": "Lớn hoặc có kích thước lớn.",
+      "en": "Big or large in size."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "His house is very big and has many bright rooms.",
+    "I want to have a big dog to play with every day.",
+    "This company is not big but everyone works very hard."
+  ],
+  "notes": "lớn = big, large. It describes size, but also age or importance depending on context.\n\nIt comes after the noun: nhà lớn, vấn đề lớn. It can also mean “grown-up/adult” in phrases like người lớn (adults).\n\nVery common opposite: nhỏ (small) — easy memory pair: lớn ↔ nhỏ.  \nIn the South, people often say to instead of lớn for physical size.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "486cea7b-8721-410e-ac58-adace300d0c6",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:46:25.093Z",
+    "createdAt": "2025-03-12T13:46:25.093Z",
+    "content": {
+      "translation": {
+        "en": "This house is very large."
+      },
+      "answer": "lớn",
+      "choices": [],
+      "language": "vi",
+      "word": "lớn",
+      "sentence": "Cái nhà này rất ___.",
+      "translatedAnswer": {
+        "en": "large"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T06:32:55.747Z",
+  "_id": "F8yBd32mdIgBzjEoBzFn"
+}

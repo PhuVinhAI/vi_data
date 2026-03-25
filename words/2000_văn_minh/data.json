@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:34:21.284Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:34:21.284Z",
+    "content": {
+      "word": "văn minh",
+      "sentence": "Xã hội này rất ___ và hiện đại.",
+      "language": "vi",
+      "choices": [
+        "văn minh",
+        "tiên tiến",
+        "khổ hạnh"
+      ],
+      "hint": "v____n",
+      "answer": "văn minh",
+      "translation": {
+        "en": "This society is very civilized and modern."
+      },
+      "translatedAnswer": {
+        "en": "civilized"
+      }
+    },
+    "id": "36708634-e1d6-4602-afa4-4193f6df7884",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Văn minh** usually means *civilized* — polite, educated, behaving in a socially respectful way. It describes people, behavior, or societies that follow rules and care about others.\n\nAs an adjective, it often goes with words like *xã hội*, *hành vi*, *cách cư xử*. You can say someone *cư xử văn minh* to mean they act properly.\n\nIt’s also a very common noun meaning *civilization* — a developed culture or historical society.  \n\nClose idea: **lịch sự** (polite) — but *văn minh* feels broader, more about overall social development or awareness. Opposite idea: **thiếu văn minh** (uncivilized, rude).",
+  "rank": 2000,
+  "choices": [
+    "văn minh",
+    "hiện đại",
+    "lịch sự"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "văn minh",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:34:21.284Z",
+    "content": {
+      "word": "văn minh",
+      "sentence": "Xã hội này rất ___ và hiện đại.",
+      "language": "vi",
+      "choices": [],
+      "answer": "văn minh",
+      "translation": {
+        "en": "This society is very civilized and modern."
+      },
+      "translatedAnswer": {
+        "en": "civilized"
+      }
+    },
+    "id": "1b56b443-c627-405f-8d27-33cf4dd7a8ab",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:34:21.284Z"
+  },
+  "exampleSentencesTranslated": [
+    "I think modern society should become more civilized.",
+    "She always teaches her children to behave in a civilized way with everyone around.",
+    "I feel that living in a big city is very civilized and convenient."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Nuestra sociedad está luchando por una civilización sostenible.",
+      "vi": "Xã hội chúng ta đang hướng tới một nền văn minh bền vững.",
+      "en": "Our society is striving for a sustainable civilization."
+    },
+    "definitions": {
+      "vi": "Một trạng thái phát triển xã hội của con người được coi là tiên tiến nhất.",
+      "es": "Un estado de desarrollo social humano que se considera el más avanzado.",
+      "en": "A state of human social development that is considered most advanced."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:08:48.262Z",
+    "translations": {
+      "en": "civilization",
+      "es": "civilización",
+      "vi": "văn minh"
+    }
+  },
+  "definition": "civilized",
+  "notes": "Văn minh usually means civilized — polite, educated, behaving in a socially respectful way. It describes people, behavior, or societies that follow rules and care about others.\n\nAs an adjective, it often goes with words like xã hội, hành vi, cách cư xử. You can say someone cư xử văn minh to mean they act properly.\n\nIt’s also a very common noun meaning civilization — a developed culture or historical society.  \n\nClose idea: lịch sự (polite) — but văn minh feels broader, more about overall social development or awareness. Opposite idea: thiếu văn minh (uncivilized, rude).",
+  "updatedAt": "2026-03-03T09:49:47.890Z",
+  "exampleSentences": [
+    "Anh nghĩ xã hội hiện đại nên ngày càng văn minh hơn.",
+    "Chị luôn dạy con phải cư xử văn minh với mọi người xung quanh.",
+    "Em cảm thấy sống ở thành phố lớn rất văn minh và tiện lợi."
+  ],
+  "_id": "fvM86gs2SkSAuvUrioaw"
+}

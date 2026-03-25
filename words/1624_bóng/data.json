@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:09:43.772Z",
+  "exampleSentencesTranslated": [
+    "This afternoon I will go to the park to kick the ball with my friends.",
+    "He bought his son a new ball for his birthday.",
+    "She likes to watch ball games with her family on the weekend."
+  ],
+  "exampleSentences": [
+    "Chiều nay em sẽ ra công viên đá bóng với bạn.",
+    "Anh mua cho con trai một quả bóng mới vào sinh nhật.",
+    "Chị thích xem bóng đá với gia đình vào cuối tuần."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bàn",
+    "bóng",
+    "bánh"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "sombra",
+      "en": "shadow",
+      "vi": "bóng"
+    },
+    "example": {
+      "en": "The shadow of the tree is very big.",
+      "es": "La sombra del árbol es muy grande.",
+      "vi": "Cái bóng của cây rất lớn."
+    },
+    "createdAt": "2025-01-28T13:55:28.570Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Una sombra o una pelota.",
+      "en": "A shadow or a ball.",
+      "vi": "Một cái bóng hoặc một quả bóng."
+    }
+  },
+  "notes": "bóng = ball (the round thing you play with). It’s a countable noun, usually with the classifier quả → quả bóng.  \n\nVery common in sports words: bóng đá (soccer/football), bóng rổ (basketball), bóng chuyền (volleyball).  \n\nIt can also mean shadow (cái bóng) — same spelling, different meaning, so pay attention to context.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:24:32.590Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "fba62a39-1434-4017-b3ad-4e15b25477f6",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Trẻ em đang chơi với ___.",
+      "translation": {
+        "en": "The children are playing with a ball."
+      },
+      "translatedAnswer": {
+        "en": "ball"
+      },
+      "answer": "bóng",
+      "language": "vi",
+      "word": "bóng",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:24:32.590Z"
+  },
+  "word": "bóng",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta cần mua một cái ___ mới.",
+      "hint": "b__g",
+      "translation": {
+        "en": "We need to buy a new ball."
+      },
+      "translatedAnswer": {
+        "en": "ball"
+      },
+      "word": "bóng",
+      "choices": [
+        "đĩa",
+        "bóng",
+        "mũ"
+      ],
+      "language": "vi",
+      "answer": "bóng"
+    },
+    "updatedAt": "2025-03-12T16:24:32.590Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:24:32.590Z",
+    "id": "bc5d01bf-87fb-459e-894b-81abe480534a"
+  },
+  "definition": "ball",
+  "notes_md": "**bóng** = ball (the round thing you play with). It’s a **countable noun**, usually with the classifier **quả** → *quả bóng*.  \n\nVery common in sports words: **bóng đá** (soccer/football), **bóng rổ** (basketball), **bóng chuyền** (volleyball).  \n\nIt can also mean **shadow** (cái bóng) — same spelling, different meaning, so pay attention to context.",
+  "rank": 1624,
+  "_id": "sWMI5gOVwJaf2se2G2YP"
+}

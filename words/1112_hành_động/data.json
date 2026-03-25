@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "hành động",
+    "cảm xúc",
+    "ý kiến"
+  ],
+  "updatedAt": "2026-03-03T08:14:30.641Z",
+  "exampleSentencesTranslated": [
+    "You need to think carefully before taking any action.",
+    "She regrets her action yesterday.",
+    "I believe that every small action can make a big change."
+  ],
+  "notes": "Hành động means action — something you do, a concrete act. It’s about behavior, not just thoughts or words.\n\nIt’s a countable noun: một hành động, những hành động. Often used with verbs like thực hiện, có, đưa ra, kiểm soát.  \n\nIt contrasts nicely with lời nói (words), which helps you remember: words vs actions.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:00:59.719Z",
+    "createdAt": "2025-03-12T14:00:59.719Z",
+    "id": "3eea8e4a-ab21-4d6e-a4d6-498fbd11c28b",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "hành động",
+      "translatedAnswer": {
+        "en": "action"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I like the new action."
+      },
+      "sentence": "Tôi thích ___ mới.",
+      "word": "hành động"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "definition": "action",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:00:59.719Z",
+    "updatedAt": "2025-03-12T14:00:59.719Z",
+    "content": {
+      "sentence": "Phim này có nhiều ___ thú vị.",
+      "hint": "h___ động",
+      "word": "hành động",
+      "language": "vi",
+      "choices": [
+        "hành động",
+        "tình tiết",
+        "nhân vật"
+      ],
+      "translation": {
+        "en": "This movie has many interesting actions."
+      },
+      "answer": "hành động",
+      "translatedAnswer": {
+        "en": "action"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "cc07329f-c480-4886-a7b8-91be5b8fe1a8"
+  },
+  "word": "hành động",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Hành động** means *action* — something you do, a concrete act. It’s about behavior, not just thoughts or words.\n\nIt’s a countable noun: *một hành động, những hành động*. Often used with verbs like *thực hiện*, *có*, *đưa ra*, *kiểm soát*.  \n\n\nIt contrasts nicely with *lời nói* (words), which helps you remember: words vs actions.",
+  "exampleSentences": [
+    "Anh cần phải suy nghĩ kỹ trước khi đưa ra bất kỳ hành động nào.",
+    "Chị ấy cảm thấy hối hận về hành động của mình hôm qua.",
+    "Em tin rằng mỗi hành động nhỏ đều có thể tạo nên sự thay đổi lớn."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "We need to take action right now.",
+      "vi": "Chúng ta cần hành động ngay bây giờ.",
+      "es": "Necesitamos actuar ahora mismo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:38:52.650Z",
+    "definitions": {
+      "vi": "Quá trình làm một cái gì đó, thường để đạt được một mục tiêu.",
+      "es": "El proceso de hacer algo, típicamente para lograr un objetivo.",
+      "en": "The process of doing something, typically to achieve an aim."
+    },
+    "translations": {
+      "en": "action",
+      "es": "acción",
+      "vi": "hành động"
+    }
+  },
+  "rank": 1112,
+  "_id": "IuwOeZsZzQvwOLh0iO64"
+}

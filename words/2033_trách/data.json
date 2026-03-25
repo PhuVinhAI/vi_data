@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:27:47.956Z",
+    "id": "aba01643-0de8-460e-a2cf-355b42c07cae",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "trách",
+      "translation": {
+        "en": "I will blame you if you are wrong."
+      },
+      "choices": [],
+      "word": "trách",
+      "sentence": "Tôi sẽ ___ bạn nếu bạn sai.",
+      "translatedAnswer": {
+        "en": "blame"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:27:47.956Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "blame",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "culpa",
+      "vi": "trách",
+      "en": "blame"
+    },
+    "definitions": {
+      "es": "culpar o reprochar a alguien por algo",
+      "en": "to blame or reproach someone for something",
+      "vi": "đổ lỗi hoặc trách móc ai đó vì điều gì"
+    },
+    "createdAt": "2025-01-28T12:04:01.902Z",
+    "example": {
+      "es": "No quiero culpar a nadie.",
+      "en": "I don't want to blame anyone.",
+      "vi": "Tôi không muốn trách ai cả."
+    }
+  },
+  "exampleSentences": [
+    "Anh không muốn trách em về những gì đã xảy ra hôm qua.",
+    "Chị thường trách bản thân khi công việc không thành công.",
+    "Bạn bè tốt sẽ không trách nhau vì những lỗi nhỏ."
+  ],
+  "notes_md": "**Trách** means *to blame* or *to reproach someone*. It’s about saying something is someone’s fault.\n\nIt’s a verb, and you usually **trách + someone** for something. The tone can be light (gentle scolding) or serious (real blame), depending on context.\n\n\nVery common collocations: **trách ai**, **trách mình** (blame yourself), **đừng trách** (don’t blame…).  \nClose synonym: **đổ lỗi (cho)** = to shift blame (often stronger, more negative).",
+  "choices": [
+    "trách",
+    "giúp",
+    "khen"
+  ],
+  "notes": "Trách means to blame or to reproach someone. It’s about saying something is someone’s fault.\n\nIt’s a verb, and you usually trách + someone for something. The tone can be light (gentle scolding) or serious (real blame), depending on context.\n\nVery common collocations: trách ai, trách mình (blame yourself), đừng trách (don’t blame…).  \nClose synonym: đổ lỗi (cho) = to shift blame (often stronger, more negative).",
+  "word": "trách",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "5d26e72f-cf80-4ceb-b2e7-6a4858180fe9",
+    "createdAt": "2025-03-12T14:27:47.956Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:27:47.956Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "blame"
+      },
+      "language": "vi",
+      "sentence": "Tôi không muốn ___ ai cả.",
+      "hint": "t___h",
+      "answer": "trách",
+      "translation": {
+        "en": "I do not want to blame anyone."
+      },
+      "word": "trách",
+      "choices": [
+        "khen",
+        "trách",
+        "thương"
+      ]
+    }
+  },
+  "rank": 2033,
+  "exampleSentencesTranslated": [
+    "I don't want to blame you for what happened yesterday.",
+    "She often blames herself when the work is not successful.",
+    "Good friends will not blame each other for small mistakes."
+  ],
+  "updatedAt": "2026-03-03T09:53:16.977Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "P0tHHYOGjW044aeUbRYF"
+}

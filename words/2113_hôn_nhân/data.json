@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:21:00.395Z",
+    "type": "multiChoiceQuiz",
+    "id": "3fdd3141-8477-4989-b1cb-98332daa0244",
+    "content": {
+      "translation": {
+        "en": "They held a marriage last month."
+      },
+      "translatedAnswer": {
+        "en": "marriage"
+      },
+      "hint": "h___n",
+      "answer": "hôn nhân",
+      "choices": [
+        "hôn nhân",
+        "đám cưới",
+        "kết hôn"
+      ],
+      "word": "hôn nhân",
+      "sentence": "Họ đã tổ chức ___ vào tháng trước.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:21:00.395Z"
+  },
+  "notes_md": "**Hôn nhân** means *marriage* — the legal and social relationship between two people as husband and wife. It’s a **noun** and usually uncountable when talking about the idea in general.\n\nYou often see it in phrases like **kết hôn** (to get married), **duy trì hôn nhân** (maintain a marriage), or **tan vỡ hôn nhân** (a marriage breaks down).  \n\n\nA close synonym is **hôn lễ** (wedding ceremony), but that’s the event — *hôn nhân* is the long-term relationship.",
+  "rank": 2113,
+  "choices": [
+    "hôn nhân",
+    "ly dị",
+    "tình bạn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "hôn nhân",
+  "exampleSentencesTranslated": [
+    "They have lived happily in their marriage for the past ten years.",
+    "I think marriage needs trust and sharing from both people.",
+    "Her friend just celebrated five years of marriage last week."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:21:00.395Z",
+    "content": {
+      "choices": [],
+      "word": "hôn nhân",
+      "language": "vi",
+      "sentence": "Họ đang thảo luận về ___.",
+      "translation": {
+        "en": "They are discussing marriage."
+      },
+      "translatedAnswer": {
+        "en": "marriage"
+      },
+      "answer": "hôn nhân"
+    },
+    "id": "af447049-3697-47d9-bd03-1c8795659f57",
+    "updatedAt": "2025-03-12T13:21:00.395Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "vi": "Sự kết hợp hợp pháp hoặc được công nhận chính thức của hai người như là những đối tác trong một mối quan hệ cá nhân.",
+      "es": "La unión legal o formalmente reconocida de dos personas como parejas en una relación personal.",
+      "en": "The legally or formally recognized union of two people as partners in a personal relationship."
+    },
+    "example": {
+      "en": "Marriage is an important part of life.",
+      "es": "El matrimonio es una parte importante de la vida.",
+      "vi": "Hôn nhân là một phần quan trọng trong cuộc sống."
+    },
+    "translations": {
+      "es": "matrimonio",
+      "vi": "hôn nhân",
+      "en": "marriage"
+    },
+    "createdAt": "2025-01-28T11:01:26.952Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "marriage",
+  "notes": "Hôn nhân means marriage — the legal and social relationship between two people as husband and wife. It’s a noun and usually uncountable when talking about the idea in general.\n\nYou often see it in phrases like kết hôn (to get married), duy trì hôn nhân (maintain a marriage), or tan vỡ hôn nhân (a marriage breaks down).  \n\nA close synonym is hôn lễ (wedding ceremony), but that’s the event — hôn nhân is the long-term relationship.",
+  "updatedAt": "2026-03-03T10:01:40.051Z",
+  "exampleSentences": [
+    "Anh chị đã sống hạnh phúc trong hôn nhân suốt mười năm qua.",
+    "Em nghĩ hôn nhân cần sự tin tưởng và chia sẻ từ cả hai người.",
+    "Bạn của chị vừa tổ chức lễ kỷ niệm năm năm hôn nhân tuần trước."
+  ],
+  "_id": "8XRYLE5eggddbzbigh0v"
+}

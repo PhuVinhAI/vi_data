@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I am asking you something, do you hear the question?",
+    "You want to know why I chose this dish, question?",
+    "You think I will agree with your opinion, question?"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A vowel sound in Vietnamese that is pronounced with a rounded lip.",
+      "es": "Un sonido de vocal en vietnamita que se pronuncia con los labios redondeados.",
+      "vi": "Một âm nguyên âm trong tiếng Việt được phát âm với môi tròn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:28:18.837Z",
+    "example": {
+      "en": "I think that ư is a very special sound.",
+      "es": "Creo que ư es un sonido muy especial.",
+      "vi": "Tôi thấy rằng ư là một âm rất đặc biệt."
+    },
+    "translations": {
+      "vi": "một âm đặc biệt",
+      "es": "un sonido especial",
+      "en": "a special sound"
+    }
+  },
+  "multiChoiceQuiz": {
+    "id": "48f9048a-425b-4f70-bc98-e48f0a5e2a26",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:50:16.341Z",
+    "content": {
+      "hint": "___",
+      "choices": [
+        "và",
+        "ư",
+        "nhưng"
+      ],
+      "translation": {
+        "en": "She has a special request."
+      },
+      "answer": "ư",
+      "translatedAnswer": {
+        "en": "request"
+      },
+      "word": "ư",
+      "sentence": "Cô ấy có ___ yêu cầu đặc biệt.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:50:16.341Z"
+  },
+  "notes_md": "**ư** is a sentence‑ending question particle. It shows surprise, doubt, or mild disbelief — like “really?” or “is that so?”\n\nIt comes at the **end of a statement** to turn it into a questioning tone, often when you’re not fully convinced. It feels a bit sharp or skeptical, not neutral.\n\n\nIt’s stronger and more doubtful than **à**. Think of **ư** as a slightly challenging “oh, really?” tone.",
+  "updatedAt": "2026-03-03T10:42:32.433Z",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "request"
+      },
+      "sentence": "Cô ấy có ___ yêu cầu đặc biệt.",
+      "word": "ư",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "She has a special request."
+      },
+      "answer": "ư"
+    },
+    "createdAt": "2025-03-12T13:50:16.341Z",
+    "updatedAt": "2025-03-12T13:50:16.341Z",
+    "id": "c71528ac-397b-4ee5-8be0-537ef6b830af",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "ư is a sentence‑ending question particle. It shows surprise, doubt, or mild disbelief — like “really?” or “is that so?”\n\nIt comes at the end of a statement to turn it into a questioning tone, often when you’re not fully convinced. It feels a bit sharp or skeptical, not neutral.\n\nIt’s stronger and more doubtful than à. Think of ư as a slightly challenging “oh, really?” tone.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "question",
+  "exampleSentences": [
+    "Em đang hỏi anh một điều, anh có nghe thấy ư?",
+    "Chị muốn biết tại sao em lại chọn món này ư?",
+    "Anh nghĩ em sẽ đồng ý với ý kiến của anh ư?"
+  ],
+  "rank": 2504,
+  "word": "ư",
+  "choices": [
+    "ư",
+    "à",
+    "ừ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "Fvrpe88sUVgvLm74niJJ"
+}

@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-03-03T17:57:44.189Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi có ba anh chị em.",
+      "es": "Tengo tres hermanos.",
+      "en": "I have three siblings."
+    },
+    "createdAt": "2025-01-28T13:28:59.411Z",
+    "definitions": {
+      "vi": "Một thuật ngữ dùng để chỉ anh chị em.",
+      "es": "Un término utilizado para referirse a hermanos o hermanas.",
+      "en": "A term used to refer to siblings or brothers and sisters."
+    },
+    "translations": {
+      "es": "hermanos",
+      "en": "siblings"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "anh chị em",
+  "exampleSentencesTranslated": [
+    "I have two siblings and we are very close.",
+    "Siblings often help each other when facing difficulties in life.",
+    "During holidays, siblings usually gather at home with their parents."
+  ],
+  "notes_md": "**Anh chị em** means *siblings* — your brothers and sisters as a group. It refers to all siblings together, not just one person.\n\nYou usually use it with numbers: **số + anh chị em** to say how many siblings someone has. It’s a fixed pair phrase (anh = older brother, chị = older sister, em = younger sibling), but together it just means “siblings” in general.\n\nIt can also imply closeness and family bond, not just biological siblings (like very close cousins). Related words: **anh em** (often “brothers” or close male friends), **chị em** (sisters or close female friends).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:56:52.645Z",
+    "createdAt": "2025-03-12T15:56:52.645Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "d26d7951-96b9-4251-b007-cb1d4b35be36",
+    "content": {
+      "translation": {
+        "en": "I have siblings who are very close."
+      },
+      "word": "anh chị em",
+      "language": "vi",
+      "sentence": "Tôi có ___ rất thân thiết.",
+      "choices": [
+        "bạn bè",
+        "anh chị em",
+        "họ hàng"
+      ],
+      "hint": "a___ c___",
+      "translatedAnswer": {
+        "en": "siblings"
+      },
+      "answer": "anh chị em"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2791,
+  "notes": "Anh chị em means siblings — your brothers and sisters as a group. It refers to all siblings together, not just one person.\n\nYou usually use it with numbers: số + anh chị em to say how many siblings someone has. It’s a fixed pair phrase (anh = older brother, chị = older sister, em = younger sibling), but together it just means “siblings” in general.\n\nIt can also imply closeness and family bond, not just biological siblings (like very close cousins). Related words: anh em (often “brothers” or close male friends), chị em (sisters or close female friends).",
+  "definition": "siblings",
+  "exampleSentences": [
+    "Anh có hai anh chị em và chúng tôi rất thân thiết.",
+    "Anh chị em thường giúp đỡ nhau khi gặp khó khăn trong cuộc sống.",
+    "Những dịp lễ Tết, anh chị em thường tụ họp về nhà cùng cha mẹ."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I have siblings who are very close."
+      },
+      "word": "anh chị em",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "siblings"
+      },
+      "answer": "anh chị em",
+      "choices": [],
+      "sentence": "Tôi có ___ rất thân thiết."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "424054b0-aa90-42d5-a95b-26e45f6c3863",
+    "createdAt": "2025-03-12T15:56:52.645Z",
+    "updatedAt": "2025-03-12T15:56:52.645Z"
+  },
+  "choices": [
+    "anh chị em",
+    "bạn bè",
+    "cha mẹ"
+  ],
+  "_id": "lDBXPtmuiWwDMeArVlaX"
+}

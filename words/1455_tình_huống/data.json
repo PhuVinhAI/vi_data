@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:51:19.721Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "0f9a8c3c-bfc9-4bd5-8e87-39bd27c1ca6d",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "In this situation, everyone participates."
+      },
+      "word": "tình huống",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "situation"
+      },
+      "sentence": "Trong ___ này, mọi người đều tham gia.",
+      "answer": "tình huống"
+    },
+    "createdAt": "2025-03-12T12:56:18.748Z",
+    "updatedAt": "2025-03-12T12:56:18.748Z"
+  },
+  "notes_md": "**tình huống** = situation, a specific set of circumstances happening at a certain time. It’s used when you talk about what’s going on and how people need to react.\n\nIt’s a noun, often used with classifiers like *một tình huống*, *những tình huống*. Common pairings: *tình huống khẩn cấp* (emergency), *tình huống bất ngờ* (unexpected situation), *xử lý tình huống* (handle a situation).\n\nClose in meaning to *trường hợp*, but *trường hợp* feels more like a “case” or instance, while *tình huống* focuses on the overall scenario and context.",
+  "exampleSentencesTranslated": [
+    "She faced a difficult situation at work yesterday.",
+    "In a dangerous situation, you should stay calm and think carefully.",
+    "Tell me about a funny situation you have experienced."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "tình huống = situation, a specific set of circumstances happening at a certain time. It’s used when you talk about what’s going on and how people need to react.\n\nIt’s a noun, often used with classifiers like một tình huống, những tình huống. Common pairings: tình huống khẩn cấp (emergency), tình huống bất ngờ (unexpected situation), xử lý tình huống (handle a situation).\n\nClose in meaning to trường hợp, but trường hợp feels more like a “case” or instance, while tình huống focuses on the overall scenario and context.",
+  "choices": [
+    "tình huống",
+    "kết quả",
+    "lý do"
+  ],
+  "word": "tình huống",
+  "rank": 1455,
+  "definition": "situation",
+  "flashcard": {
+    "example": {
+      "vi": "Trong tình huống này, bạn nên bình tĩnh.",
+      "en": "In this situation, you should stay calm.",
+      "es": "En esta situación, deberías mantener la calma."
+    },
+    "translations": {
+      "en": "situation",
+      "vi": "tình huống",
+      "es": "situación"
+    },
+    "createdAt": "2025-01-28T10:39:40.630Z",
+    "definitions": {
+      "es": "Un conjunto de circunstancias o condiciones.",
+      "vi": "Một tập hợp các hoàn cảnh hoặc điều kiện.",
+      "en": "A set of circumstances or conditions."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "7c259cc8-d070-41c0-99d6-e1afd999581e",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "tình huống",
+      "translatedAnswer": {
+        "en": "situation"
+      },
+      "language": "vi",
+      "hint": "t___g",
+      "choices": [
+        "tình huống",
+        "khó khăn",
+        "thời gian"
+      ],
+      "translation": {
+        "en": "We need to consider the new situation."
+      },
+      "answer": "tình huống",
+      "sentence": "Chúng ta cần xem xét ___ mới."
+    },
+    "createdAt": "2025-03-12T12:56:18.748Z",
+    "updatedAt": "2025-03-12T12:56:18.748Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị đã gặp một tình huống khó xử trong công việc hôm qua.",
+    "Trong tình huống nguy hiểm, anh nên bình tĩnh và suy nghĩ kỹ.",
+    "Em hãy kể cho anh nghe một tình huống vui mà em từng trải qua."
+  ],
+  "_id": "1rP48U7iPm3byoC4sqit"
+}

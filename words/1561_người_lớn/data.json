@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "người lớn",
+    "trẻ em",
+    "thanh niên"
+  ],
+  "rank": 1561,
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:00:03.331Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "ng___n",
+      "answer": "người lớn",
+      "word": "người lớn",
+      "language": "vi",
+      "sentence": "Tôi cần gặp ___ để thảo luận.",
+      "translation": {
+        "en": "I need to meet an adult to discuss."
+      },
+      "choices": [
+        "trẻ em",
+        "người lớn",
+        "thanh niên"
+      ],
+      "translatedAnswer": {
+        "en": "adult"
+      }
+    },
+    "updatedAt": "2025-03-12T15:00:03.331Z",
+    "id": "d2cca147-37f0-43a7-8870-b048dc2e2721"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "người lớn",
+  "exampleSentences": [
+    "Anh ấy là người lớn nên phải chịu trách nhiệm với hành động của mình.",
+    "Trẻ em không được vào rạp chiếu phim này nếu không có người lớn đi cùng.",
+    "Người lớn thường uống cà phê vào buổi sáng để tỉnh táo hơn."
+  ],
+  "notes": "người lớn = adult, grown-up. It refers to someone who is fully grown, not a child.\n\nIt’s a noun phrase: người (person) + lớn (big). You can count it with classifiers like một người lớn, hai người lớn.  \n\nOften contrasted with trẻ em (children), so you’ll hear them as a pair: người lớn và trẻ em.  \n\nIt can also imply maturity and responsibility, not just age. Opposite idea: trẻ con (kid, childish person — can sound negative).",
+  "exampleSentencesTranslated": [
+    "He is an adult so he must take responsibility for his actions.",
+    "Children are not allowed to enter this cinema without an adult accompanying them.",
+    "Adults often drink coffee in the morning to feel more awake."
+  ],
+  "updatedAt": "2026-03-03T09:03:10.159Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I am an adult here."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "adult"
+      },
+      "answer": "người lớn",
+      "language": "vi",
+      "word": "người lớn",
+      "sentence": "Tôi là ___ ở đây."
+    },
+    "updatedAt": "2025-03-12T15:00:03.331Z",
+    "createdAt": "2025-03-12T15:00:03.331Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "c8415c0c-26f7-45ba-864a-6a8f42e05995"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T12:33:00.299Z",
+    "definitions": {
+      "en": "An adult; a person who is fully grown or developed.",
+      "es": "Un adulto; una persona que está completamente crecida o desarrollada.",
+      "vi": "Người lớn; một người đã trưởng thành hoặc phát triển hoàn toàn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "adult",
+      "es": "adulto",
+      "vi": "người lớn"
+    },
+    "example": {
+      "en": "Adults usually have more responsibilities than children.",
+      "es": "Los adultos suelen tener más responsabilidades que los niños.",
+      "vi": "Người lớn thường có nhiều trách nhiệm hơn trẻ em."
+    }
+  },
+  "notes_md": "**người lớn** = adult, grown-up. It refers to someone who is fully grown, not a child.\n\nIt’s a **noun phrase**: *người* (person) + *lớn* (big). You can count it with classifiers like **một người lớn, hai người lớn**.  \n\nOften contrasted with **trẻ em** (children), so you’ll hear them as a pair: *người lớn và trẻ em*.  \n\nIt can also imply maturity and responsibility, not just age. Opposite idea: **trẻ con** (kid, childish person — can sound negative).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "adult",
+  "_id": "WzCQib1o8RJQx46G78uT"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "This is a new model."
+      },
+      "answer": "mô hình",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "model"
+      },
+      "language": "vi",
+      "word": "mô hình",
+      "sentence": "Đây là một ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:42:36.276Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T16:42:36.276Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "682affd9-9fd0-443d-9440-aca52c63cc17"
+  },
+  "definition": "model",
+  "rank": 1163,
+  "notes_md": "**mô hình** = model. Most often it means a small physical model, but very often it also means a system or framework (like a business model).\n\nIt’s a countable noun: *một mô hình, các mô hình*. Common pairings: *mô hình kinh doanh, mô hình giáo dục, mô hình 3D, mô hình quản lý*. You’ll often see verbs like *xây dựng, áp dụng, phát triển* + *mô hình*.\n\n\nClose idea: *kiểu* (more casual, “type/style”), but *mô hình* sounds more structured and systematic.",
+  "flashcard": {
+    "translations": {
+      "en": "model",
+      "es": "modelo",
+      "vi": "mô hình"
+    },
+    "example": {
+      "vi": "Tôi đã tạo ra một mô hình mới cho dự án.",
+      "es": "Creé un nuevo modelo para el proyecto.",
+      "en": "I created a new model for the project."
+    },
+    "definitions": {
+      "vi": "Một đại diện hoặc ví dụ về một cái gì đó, thường được sử dụng để trình bày hoặc phân tích.",
+      "es": "Una representación o ejemplo de algo, a menudo utilizado para demostración o análisis.",
+      "en": "A representation or example of something, often used for demonstration or analysis."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:13:50.598Z"
+  },
+  "notes": "mô hình = model. Most often it means a small physical model, but very often it also means a system or framework (like a business model).\n\nIt’s a countable noun: một mô hình, các mô hình. Common pairings: mô hình kinh doanh, mô hình giáo dục, mô hình 3D, mô hình quản lý. You’ll often see verbs like xây dựng, áp dụng, phát triển + mô hình.\n\nClose idea: kiểu (more casual, “type/style”), but mô hình sounds more structured and systematic.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I am building a small model of this house.",
+    "I want to refer to the business model of your company.",
+    "They use a model to explain the new idea in the meeting."
+  ],
+  "word": "mô hình",
+  "choices": [
+    "mô hình",
+    "kế hoạch",
+    "bản đồ"
+  ],
+  "updatedAt": "2026-03-03T08:19:27.163Z",
+  "exampleSentences": [
+    "Anh đang xây dựng một mô hình nhỏ của ngôi nhà này.",
+    "Chị muốn tham khảo mô hình kinh doanh của công ty bạn.",
+    "Họ sử dụng mô hình để giải thích ý tưởng mới trong cuộc họp."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:42:36.276Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "f225a6af-efe6-4e2c-a37d-9fce7eba8639",
+    "content": {
+      "sentence": "Chúng ta cần một ___ tốt hơn.",
+      "word": "mô hình",
+      "hint": "m___n",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "model"
+      },
+      "translation": {
+        "en": "We need a better model."
+      },
+      "choices": [
+        "hình mẫu",
+        "mô hình",
+        "đối tượng"
+      ],
+      "answer": "mô hình"
+    },
+    "updatedAt": "2025-03-12T16:42:36.276Z",
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "xJK9D1UVYsUK38nf6rNn"
+}

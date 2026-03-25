@@ -1,0 +1,99 @@
+{
+  "rank": 2289,
+  "exampleSentences": [
+    "Anh thích uống trà khi trời lạnh vì nó làm anh cảm thấy ấm.",
+    "Sáng nay, em mặc áo khoác để ra ngoài cho ấm hơn.",
+    "Gia đình quây quần bên nhau trong căn phòng nhỏ nhưng rất ấm."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "This blanket is very warm.",
+      "vi": "Cái chăn này rất ấm.",
+      "es": "Esta manta es muy cálida."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Having a moderate degree of heat; not cold.",
+      "es": "Tener un grado moderado de calor; no frío.",
+      "vi": "Có một mức độ nhiệt độ vừa phải; không lạnh."
+    },
+    "translations": {
+      "en": "warm",
+      "es": "cálido",
+      "vi": "ấm"
+    },
+    "createdAt": "2025-01-28T11:58:47.653Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ấm",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "warm"
+      },
+      "answer": "ấm",
+      "hint": "â__",
+      "word": "ấm",
+      "sentence": "Trời hôm nay rất ___.",
+      "translation": {
+        "en": "The weather today is very warm."
+      },
+      "choices": [
+        "lạnh",
+        "ấm",
+        "mát"
+      ],
+      "language": "vi"
+    },
+    "id": "c6288e61-866b-4fde-a672-03aad9ec85c2",
+    "createdAt": "2025-03-12T14:22:58.681Z",
+    "updatedAt": "2025-03-12T14:22:58.681Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ấm** means *warm* — a comfortable temperature, not hot and not cold. It describes weather, water, clothes, rooms, or even feelings and colors (*màu ấm* = warm colors).\n\nIt often comes after nouns: *nước ấm, thời tiết ấm*. You can compare it with *hơn* and *nhất*.\n\n\nStrong opposite: **lạnh** (cold). Softer, lighter cool is **mát**, which is different from ấm.",
+  "choices": [
+    "lạnh",
+    "ấm",
+    "mát"
+  ],
+  "updatedAt": "2026-03-03T10:20:41.061Z",
+  "notes": "Ấm means warm — a comfortable temperature, not hot and not cold. It describes weather, water, clothes, rooms, or even feelings and colors (màu ấm = warm colors).\n\nIt often comes after nouns: nước ấm, thời tiết ấm. You can compare it with hơn and nhất.\n\nStrong opposite: lạnh (cold). Softer, lighter cool is mát, which is different from ấm.",
+  "exampleSentencesTranslated": [
+    "I like to drink tea when it's cold because it makes me feel warm.",
+    "This morning, I wore a jacket to go outside so I would be warm.",
+    "The family gathers together in a small room that is very warm."
+  ],
+  "fillBlankQuiz": {
+    "id": "4c13fcda-af32-4c89-8e3b-c2cb2ccb0923",
+    "content": {
+      "translation": {
+        "en": "This water is very warm."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "ấm",
+      "sentence": "Nước này rất ___.",
+      "translatedAnswer": {
+        "en": "warm"
+      },
+      "answer": "ấm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:22:58.681Z",
+    "createdAt": "2025-03-12T14:22:58.681Z"
+  },
+  "definition": "warm",
+  "_id": "NklSZcYaaNNd8oPtCoqZ"
+}

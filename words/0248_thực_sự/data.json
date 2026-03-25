@@ -1,0 +1,96 @@
+{
+  "flashcard": {
+    "createdAt": "2025-05-24T16:30:38.454Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "really; truly; actually"
+    },
+    "example": {
+      "en": "I really like this dish.",
+      "vi": "Tôi thực sự rất thích món ăn này."
+    },
+    "definitions": {
+      "en": "Used to express that something is true, genuine, or sincere.",
+      "vi": "Diễn tả điều gì đó là đúng, chân thành hoặc không giả dối."
+    },
+    "word": "thực sự"
+  },
+  "definition": "really",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:37:35.445Z",
+    "id": "88126890-15b2-47f6-81a0-1be8775522a5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:37:35.445Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "translation": {
+        "en": "I really like this dish."
+      },
+      "answer": "thực sự",
+      "choices": [],
+      "sentence": "Tôi ___ yêu thích món ăn này.",
+      "language": "vi",
+      "word": "thực sự"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I really want to help you pass this exam.",
+    "I am really happy to meet my old friend again.",
+    "I really like this dish because it's very delicious and special."
+  ],
+  "updatedAt": "2026-03-03T06:45:37.318Z",
+  "exampleSentences": [
+    "Anh thực sự muốn giúp em vượt qua kỳ thi này.",
+    "Chị cảm thấy thực sự hạnh phúc khi gặp lại bạn cũ.",
+    "Em thực sự thích món ăn này vì rất ngon và đặc biệt."
+  ],
+  "notes": "thực sự = really, truly. It adds emphasis and shows something is genuine or sincere.\n\nIt’s an adverb, placed before a verb or adjective to strengthen the feeling or fact. It often shows that the speaker means it seriously, not just casually.\n\nVery close to thật sự (almost the same in daily use). Compared to rất (very), thực sự feels more about sincerity or truth, not just degree.",
+  "notes_md": "**thực sự** = really, truly. It adds emphasis and shows something is genuine or sincere.\n\nIt’s an adverb, placed before a verb or adjective to strengthen the feeling or fact. It often shows that the speaker means it seriously, not just casually.\n\n\nVery close to **thật sự** (almost the same in daily use). Compared to **rất** (very), *thực sự* feels more about sincerity or truth, not just degree.",
+  "rank": 248,
+  "choices": [
+    "thường xuyên",
+    "thực sự",
+    "tạm thời"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:37:35.445Z",
+    "content": {
+      "hint": "th___y",
+      "answer": "thực sự",
+      "translation": {
+        "en": "She really wants to travel."
+      },
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "word": "thực sự",
+      "language": "vi",
+      "sentence": "Cô ấy ___ muốn đi du lịch.",
+      "choices": [
+        "thực sự",
+        "chỉ",
+        "có lẽ"
+      ]
+    },
+    "createdAt": "2025-03-12T15:37:35.445Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d60d54fd-ab6c-4928-b1c7-0a13a783d6ec",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thực sự",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "gXgfxAhnGrdhQJKxQyXk"
+}

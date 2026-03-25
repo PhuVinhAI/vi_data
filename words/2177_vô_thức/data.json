@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "Relating to the part of the mind that is not fully aware but influences actions and feelings.",
+      "es": "Relativo a la parte de la mente que no está completamente consciente pero influye en las acciones y sentimientos.",
+      "vi": "Liên quan đến phần của tâm trí không hoàn toàn nhận thức nhưng ảnh hưởng đến hành động và cảm xúc."
+    },
+    "translations": {
+      "es": "subconsciente",
+      "vi": "vô thức",
+      "en": "subconscious"
+    },
+    "createdAt": "2025-01-28T11:38:40.404Z",
+    "example": {
+      "es": "Cuando trabajo, a menudo caigo en un estado subconsciente.",
+      "vi": "Khi tôi làm việc, tôi thường rơi vào trạng thái vô thức.",
+      "en": "When I work, I often fall into a subconscious state."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Khi anh lái xe về nhà, nhiều hành động là vô thức.",
+    "Chị ấy thường làm những việc nhỏ một cách vô thức khi đang suy nghĩ.",
+    "Đôi khi em nói điều gì đó vô thức mà không nhận ra."
+  ],
+  "rank": 2177,
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "vô thức",
+      "translatedAnswer": {
+        "en": "unconscious"
+      },
+      "sentence": "Tâm trí con người thường rất ___.",
+      "word": "vô thức",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "The human mind is often very unconscious."
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "61e1b08d-7075-407c-af58-0f6a30a12750",
+    "createdAt": "2025-03-12T14:00:37.594Z",
+    "updatedAt": "2025-03-12T14:00:37.594Z"
+  },
+  "definition": "unconscious",
+  "choices": [
+    "vô thức",
+    "ý thức",
+    "chủ động"
+  ],
+  "updatedAt": "2026-03-03T10:08:18.649Z",
+  "exampleSentencesTranslated": [
+    "When he drives home, many actions are unconscious.",
+    "She often does small things unconscious when she is thinking.",
+    "Sometimes I say something unconscious without realizing it."
+  ],
+  "notes": "vô thức = unconscious, not aware of what you’re doing. It’s when something happens without intention or awareness.\n\nIt usually describes actions, reactions, habits, or thoughts that happen automatically. You often see it after a verb, or in the form “một cách vô thức” to act like an adverb.\n\nDon’t confuse it with vô ý (careless / by accident because you weren’t paying attention). Opposite idea: có ý thức (conscious, aware).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**vô thức** = unconscious, not aware of what you’re doing. It’s when something happens without intention or awareness.\n\nIt usually describes actions, reactions, habits, or thoughts that happen automatically. You often see it after a verb, or in the form **“một cách vô thức”** to act like an adverb.\n\n\nDon’t confuse it with **vô ý** (careless / by accident because you weren’t paying attention). Opposite idea: **có ý thức** (conscious, aware).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:00:37.594Z",
+    "updatedAt": "2025-03-12T14:00:37.594Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "unconscious"
+      },
+      "answer": "vô thức",
+      "hint": "v___h",
+      "word": "vô thức",
+      "sentence": "Tâm trí con người thường rất ___.",
+      "translation": {
+        "en": "The human mind is often very unconscious."
+      },
+      "language": "vi",
+      "choices": [
+        "có ý thức",
+        "vô thức",
+        "đồng cảm"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "4afd5038-9135-4b66-b66b-a651904c4b65"
+  },
+  "word": "vô thức",
+  "_id": "Ipq91cXGLfFa2CUByXQk"
+}

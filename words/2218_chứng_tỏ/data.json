@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:10:27.326Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "prove"
+      },
+      "choices": [
+        "chứng tỏ",
+        "thể hiện",
+        "khẳng định"
+      ],
+      "translation": {
+        "en": "He needs to prove the accuracy."
+      },
+      "sentence": "Anh ta cần ___ tính đúng đắn.",
+      "language": "vi",
+      "word": "chứng tỏ",
+      "hint": "c___ t__",
+      "answer": "chứng tỏ"
+    },
+    "updatedAt": "2025-03-12T15:10:27.326Z",
+    "id": "b0cb2fcd-112c-4f0d-bec2-d7f0af26c425"
+  },
+  "word": "chứng tỏ",
+  "notes": "Chứng tỏ means “to prove” or “to show clearly that something is true.” It’s about showing evidence through actions, facts, or results.\n\nIt’s a verb, often used when talking about ability, truth, or a point you want others to believe.  \n\nIt’s close to chứng minh (more formal, logical proof). Chứng tỏ often feels more personal or based on real-life results.",
+  "exampleSentences": [
+    "Anh cần chứng tỏ khả năng của mình trong công việc mới.",
+    "Chị muốn chứng tỏ cho mọi người thấy chị có thể làm được.",
+    "Em phải chứng tỏ sự chăm chỉ để được thầy cô tin tưởng."
+  ],
+  "choices": [
+    "chứng tỏ",
+    "giải thích",
+    "thảo luận"
+  ],
+  "rank": 2218,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Chứng tỏ** means “to prove” or “to show clearly that something is true.” It’s about showing evidence through actions, facts, or results.\n\nIt’s a verb, often used when talking about ability, truth, or a point you want others to believe.  \n\nIt’s close to **chứng minh** (more formal, logical proof). *Chứng tỏ* often feels more personal or based on real-life results.",
+  "definition": "prove",
+  "exampleSentencesTranslated": [
+    "You need to prove your ability in the new job.",
+    "She wants to prove to everyone that she can do it.",
+    "You must prove your hard work to gain the teachers’ trust."
+  ],
+  "updatedAt": "2026-03-03T10:12:45.266Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "She will prove her abilities."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "prove"
+      },
+      "language": "vi",
+      "word": "chứng tỏ",
+      "answer": "chứng tỏ",
+      "sentence": "Cô ấy sẽ ___ năng lực của mình."
+    },
+    "updatedAt": "2025-03-12T15:10:27.326Z",
+    "createdAt": "2025-03-12T15:10:27.326Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "196c4477-216b-49ae-87d7-d14227388307"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To demonstrate or prove something.",
+      "es": "Demostrar o probar algo.",
+      "vi": "Để chứng minh hoặc chứng tỏ điều gì đó."
+    },
+    "createdAt": "2025-01-28T12:44:51.722Z",
+    "example": {
+      "en": "She has proven her abilities in the competition.",
+      "es": "Ella ha demostrado sus habilidades en la competencia.",
+      "vi": "Cô ấy đã chứng tỏ khả năng của mình trong cuộc thi."
+    },
+    "translations": {
+      "en": "to prove",
+      "es": "demostrar",
+      "vi": "chứng tỏ"
+    }
+  },
+  "_id": "Zm81uoDKX1NtzlUA7K6T"
+}

@@ -1,0 +1,98 @@
+{
+  "word": "heo",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2072,
+  "choices": [
+    "heo",
+    "trâu",
+    "bò"
+  ],
+  "notes_md": "**Heo** means **pig** (the animal).  \n\nIt’s a countable noun, so use the classifier **con** → *con heo*. Very common in food phrases like **thịt heo** (pork).  \n\nIn the South, people usually say **heo**; in the North, they often say **lợn** for the same animal.  \n\nYou’ll also see it in fixed phrases like **heo đất** (piggy bank) — think of the pig shape used to save money.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:25:24.581Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "There is a pig in the garden."
+      },
+      "translatedAnswer": {
+        "en": "pig"
+      },
+      "hint": "h__",
+      "answer": "heo",
+      "choices": [
+        "gà",
+        "heo",
+        "bò"
+      ],
+      "word": "heo",
+      "sentence": "Trong vườn có một con ___.",
+      "language": "vi"
+    },
+    "id": "a8c82e02-7194-4c58-acd2-c259ab3d5c98",
+    "updatedAt": "2025-03-12T15:25:24.581Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Sáng nay, anh thấy một con heo nhỏ chạy quanh vườn.",
+    "Em thích ăn thịt heo khi gia đình nấu vào cuối tuần.",
+    "Chị mua heo đất để tiết kiệm tiền cho chuyến du lịch."
+  ],
+  "updatedAt": "2026-03-03T09:57:22.828Z",
+  "notes": "Heo means pig (the animal).  \n\nIt’s a countable noun, so use the classifier con → con heo. Very common in food phrases like thịt heo (pork).  \n\nIn the South, people usually say heo; in the North, they often say lợn for the same animal.  \n\nYou’ll also see it in fixed phrases like heo đất (piggy bank) — think of the pig shape used to save money.",
+  "flashcard": {
+    "example": {
+      "vi": "Con heo đang ăn cỏ.",
+      "es": "El cerdo está comiendo hierba.",
+      "en": "The pig is eating grass."
+    },
+    "definitions": {
+      "en": "A domesticated animal raised for food, typically having a stout body and a snout.",
+      "es": "Un animal domesticado criado para alimento, que típicamente tiene un cuerpo robusto y un hocico."
+    },
+    "createdAt": "2025-01-28T13:00:10.923Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "heo",
+      "es": "cerdo",
+      "en": "pig"
+    }
+  },
+  "definition": "pig",
+  "fillBlankQuiz": {
+    "id": "b89ae31f-aae9-4460-bc68-d3ed18e60eda",
+    "content": {
+      "sentence": "Tôi thích ăn ___ nướng.",
+      "language": "vi",
+      "word": "heo",
+      "choices": [],
+      "answer": "heo",
+      "translatedAnswer": {
+        "en": "pig"
+      },
+      "translation": {
+        "en": "I like to eat roasted pig."
+      }
+    },
+    "createdAt": "2025-03-12T15:25:24.581Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:25:24.581Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning, I saw a small pig running around the garden.",
+    "I like eating pig when my family cooks on the weekend.",
+    "She buys a pig to save money for the trip."
+  ],
+  "_id": "dwLAP8ujrehda28Al4ro"
+}

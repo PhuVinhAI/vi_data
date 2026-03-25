@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:04:15.942Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "7a655f7b-cb1b-49a9-9a28-f5ac38d83ab2",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "vỏ",
+      "sentence": "Quả cam có ___ rất dày.",
+      "word": "vỏ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "skin"
+      },
+      "choices": [],
+      "translation": {
+        "en": "The orange has a thick skin."
+      }
+    },
+    "createdAt": "2025-03-12T12:53:00.650Z",
+    "updatedAt": "2025-03-12T12:53:00.650Z"
+  },
+  "notes_md": "**vỏ** = shell, peel, or outer layer of something. It’s the outside part you remove or see first.\n\nIt’s a noun. Use **cái vỏ** for single items, or **lớp vỏ** to stress the layer. Common pairings: **vỏ trái cây** (fruit peel), **vỏ trứng** (eggshell), **vỏ cây** (tree bark), **vỏ xe** (tire), **vỏ điện thoại** (phone case).\n\nIt contrasts nicely with **ruột** (inside, guts) or **lõi** (core). Think: *vỏ = outside, ruột = inside*.",
+  "exampleSentencesTranslated": [
+    "I peeled the orange shell and then shared it with the whole family to eat together.",
+    "She shelled the banana for the baby, then cleaned up the dining table.",
+    "Can you help me shell the garlic quickly? My hands are burning too much."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "vỏ",
+    "lõi",
+    "ruột"
+  ],
+  "notes": "vỏ = shell, peel, or outer layer of something. It’s the outside part you remove or see first.\n\nIt’s a noun. Use cái vỏ for single items, or lớp vỏ to stress the layer. Common pairings: vỏ trái cây (fruit peel), vỏ trứng (eggshell), vỏ cây (tree bark), vỏ xe (tire), vỏ điện thoại (phone case).\n\nIt contrasts nicely with ruột (inside, guts) or lõi (core). Think: vỏ = outside, ruột = inside.",
+  "word": "vỏ",
+  "definition": "shell",
+  "rank": 2140,
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "La cubierta exterior o piel de una fruta u objeto.",
+      "vi": "Lớp bọc bên ngoài hoặc vỏ của một loại trái cây hoặc vật thể.",
+      "en": "The outer covering or skin of a fruit or object."
+    },
+    "createdAt": "2025-01-28T10:37:08.348Z",
+    "example": {
+      "es": "La naranja tiene una cáscara naranja.",
+      "en": "The orange has an orange peel.",
+      "vi": "Quả cam có vỏ màu cam."
+    },
+    "translations": {
+      "en": "peel",
+      "vi": "vỏ",
+      "es": "cáscara"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "The apple has a red skin."
+      },
+      "choices": [
+        "thịt",
+        "hạt",
+        "vỏ"
+      ],
+      "hint": "v__",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "skin"
+      },
+      "word": "vỏ",
+      "sentence": "Quả táo có ___ màu đỏ.",
+      "answer": "vỏ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "90ba167b-0f88-4058-938e-7467d96c7434",
+    "createdAt": "2025-03-12T12:53:00.650Z",
+    "updatedAt": "2025-03-12T12:53:00.650Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em bóc vỏ cam rồi chia cho cả nhà cùng ăn.",
+    "Chị bóc vỏ chuối cho bé, rồi dọn dẹp bàn ăn.",
+    "Anh giúp em bóc vỏ tỏi nhanh, kẻo tay em cay quá."
+  ],
+  "_id": "0zBgqAFdPHI85DFdAmtG"
+}

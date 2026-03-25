@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "7196ae58-01f3-4af5-b6cf-935526ec39fe",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "chứng nhận",
+      "translatedAnswer": {
+        "en": "certificate"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I received a certificate from the school."
+      },
+      "sentence": "Tôi đã nhận ___ từ trường.",
+      "word": "chứng nhận"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:05:27.751Z",
+    "createdAt": "2025-03-12T14:05:27.751Z"
+  },
+  "definition": "certificate",
+  "updatedAt": "2026-03-03T17:29:55.985Z",
+  "choices": [
+    "chứng nhận",
+    "bằng cấp",
+    "giấy tờ"
+  ],
+  "exampleSentencesTranslated": [
+    "He has received the certificate for completing the English course.",
+    "She needs this certificate to apply for a job at the new company.",
+    "Can you show me the certificate for participating in the event?"
+  ],
+  "notes": "Chứng nhận means certificate — an official document that proves something is true or completed.\n\nIt’s a countable noun: một chứng nhận, hai chứng nhận. Often used in phrases like chứng nhận hoàn thành, chứng nhận y tế, chứng nhận kết hôn. The verb often used with it is cấp (to issue) or nhận (to receive).\n\nClose synonym: giấy chứng nhận (a bit more formal, emphasizes the physical paper).  \nDon’t confuse with chứng minh (to prove — that’s a verb).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Chứng nhận** means *certificate* — an official document that proves something is true or completed.\n\nIt’s a **countable noun**: *một chứng nhận, hai chứng nhận*. Often used in phrases like **chứng nhận hoàn thành**, **chứng nhận y tế**, **chứng nhận kết hôn**. The verb often used with it is **cấp** (to issue) or **nhận** (to receive).\n\nClose synonym: **giấy chứng nhận** (a bit more formal, emphasizes the physical paper).  \nDon’t confuse with **chứng minh** (to prove — that’s a verb).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "chứng nhận",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:05:27.751Z",
+    "createdAt": "2025-03-12T14:05:27.751Z",
+    "id": "9ad72583-b5b7-4cee-b68d-dc4885f6430e",
+    "content": {
+      "answer": "chứng nhận",
+      "translatedAnswer": {
+        "en": "certificate"
+      },
+      "language": "vi",
+      "choices": [
+        "giấy phép",
+        "chứng nhận",
+        "thư mời"
+      ],
+      "translation": {
+        "en": "I received a certificate from the school."
+      },
+      "sentence": "Tôi đã nhận ___ từ trường.",
+      "hint": "ch___n",
+      "word": "chứng nhận"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "createdAt": "2025-01-28T11:43:15.684Z",
+    "translations": {
+      "es": "certificado",
+      "vi": "chứng nhận",
+      "en": "certificate"
+    },
+    "definitions": {
+      "es": "Un documento que confirma la veracidad de algo.",
+      "vi": "Một tài liệu xác nhận sự thật của một điều gì đó.",
+      "en": "A document that confirms the truth of something."
+    },
+    "example": {
+      "en": "I received my graduation certificate.",
+      "vi": "Tôi đã nhận được chứng nhận tốt nghiệp.",
+      "es": "Recibí mi certificado de graduación."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đã nhận được chứng nhận hoàn thành khóa học tiếng Anh rồi.",
+    "Chị cần chứng nhận này để xin việc ở công ty mới.",
+    "Em có thể cho anh xem chứng nhận tham gia sự kiện không?"
+  ],
+  "rank": 2781,
+  "_id": "JtivGmmYUwHbrtxSJulG"
+}

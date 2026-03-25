@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "A strong enthusiasm or desire for something.",
+      "es": "Un fuerte entusiasmo o deseo por algo.",
+      "vi": "Một sự nhiệt huyết hoặc mong muốn mạnh mẽ về điều gì đó."
+    },
+    "example": {
+      "es": "Tengo una pasión por la música.",
+      "vi": "Tôi có đam mê với âm nhạc.",
+      "en": "I have a passion for music."
+    },
+    "translations": {
+      "es": "pasión",
+      "vi": "đam mê",
+      "en": "passion"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:14:10.465Z"
+  },
+  "definition": "passion",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:34:53.503Z",
+    "id": "4c55d8da-6617-4e71-9237-97e7b4cc812f",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:34:53.503Z",
+    "content": {
+      "answer": "đam mê",
+      "translatedAnswer": {
+        "en": "passion"
+      },
+      "translation": {
+        "en": "I have a passion for my work."
+      },
+      "language": "vi",
+      "sentence": "Tôi có ___ với công việc của mình.",
+      "word": "đam mê",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He has a passion for music since he was young.",
+    "She always tries to pursue her passion despite difficulties.",
+    "I think that passion is very important in life."
+  ],
+  "updatedAt": "2026-03-03T07:56:25.289Z",
+  "exampleSentences": [
+    "Anh có đam mê với âm nhạc từ khi còn nhỏ.",
+    "Chị luôn cố gắng theo đuổi đam mê của mình bất chấp khó khăn.",
+    "Em nghĩ rằng đam mê là điều rất quan trọng trong cuộc sống."
+  ],
+  "notes": "đam mê = passion — a very strong feeling of love and energy for something. Stronger and deeper than just a hobby.\n\nIt’s a noun. Often used with có, theo đuổi, nuôi dưỡng, cháy bỏng.  \n\nYou’ll also hear niềm đam mê to make it sound more emotional or heartfelt. Compared to sở thích (hobby), đam mê feels more intense and life-defining.",
+  "notes_md": "**đam mê** = passion — a very strong feeling of love and energy for something. Stronger and deeper than just a hobby.\n\nIt’s a noun. Often used with **có**, **theo đuổi**, **nuôi dưỡng**, **cháy bỏng**.  \n\nYou’ll also hear **niềm đam mê** to make it sound more emotional or heartfelt. Compared to **sở thích** (hobby), *đam mê* feels more intense and life-defining.",
+  "rank": 946,
+  "choices": [
+    "đam mê",
+    "hạnh phúc",
+    "thành công"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "đam mê",
+      "sentence": "Tôi có ___ với âm nhạc.",
+      "language": "vi",
+      "choices": [
+        "niềm vui",
+        "đam mê",
+        "sở thích"
+      ],
+      "hint": "đ___",
+      "answer": "đam mê",
+      "translation": {
+        "en": "I have a passion for music."
+      },
+      "translatedAnswer": {
+        "en": "passion"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:34:53.503Z",
+    "id": "52d0e692-f8ef-4467-9e9f-f76d29eb682c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:34:53.503Z"
+  },
+  "word": "đam mê",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "C3puHAkKwUEdRQDhNeFL"
+}

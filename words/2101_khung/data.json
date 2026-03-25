@@ -1,0 +1,99 @@
+{
+  "word": "khung",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "khung",
+    "bàn",
+    "gương"
+  ],
+  "rank": 2101,
+  "notes_md": "**khung** = frame — the physical border or structure that holds something.  \n\nIt’s a countable noun: **một cái khung**. Common pairings: *khung ảnh* (picture frame), *khung cửa* (door/window frame), *khung xe* (bike/car frame).  \n\nIt also means a structural framework or outline, like the basic structure of a building or plan.  \n\nVery common extended meaning: *khung giờ* = a time slot (a fixed period of time).  \n\nThink of it as “the structure that holds or defines something,” whether it’s a photo, a building, or even time.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:25:33.166Z",
+    "content": {
+      "hint": "k____",
+      "answer": "khung",
+      "translatedAnswer": {
+        "en": "frame"
+      },
+      "translation": {
+        "en": "I need a frame to hang the picture."
+      },
+      "sentence": "Tôi cần một ___ để treo tranh.",
+      "language": "vi",
+      "word": "khung",
+      "choices": [
+        "khung",
+        "bảng",
+        "cái kệ"
+      ]
+    },
+    "id": "7b0dd2e9-679d-4867-bf1c-a471ccddc597",
+    "updatedAt": "2025-03-12T15:25:33.166Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh muốn mua một khung mới để treo bức tranh này lên.",
+    "Chị đã chọn một khung màu trắng cho ảnh gia đình ở phòng khách.",
+    "Em thấy khung này có vừa với giấy chứng nhận của anh không?"
+  ],
+  "updatedAt": "2026-03-03T10:00:19.482Z",
+  "notes": "khung = frame — the physical border or structure that holds something.  \n\nIt’s a countable noun: một cái khung. Common pairings: khung ảnh (picture frame), khung cửa (door/window frame), khung xe (bike/car frame).  \n\nIt also means a structural framework or outline, like the basic structure of a building or plan.  \n\nVery common extended meaning: khung giờ = a time slot (a fixed period of time).  \n\nThink of it as “the structure that holds or defines something,” whether it’s a photo, a building, or even time.",
+  "definition": "frame",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:00:24.207Z",
+    "translations": {
+      "en": "frame",
+      "es": "marco",
+      "vi": "khung"
+    },
+    "example": {
+      "en": "I bought a new frame.",
+      "vi": "Tôi đã mua một khung tranh mới.",
+      "es": "Compré un marco nuevo."
+    },
+    "definitions": {
+      "en": "A rigid structure that surrounds or supports something.",
+      "vi": "Một cấu trúc cứng bao quanh hoặc hỗ trợ một cái gì đó.",
+      "es": "Una estructura rígida que rodea o soporta algo."
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "151fa009-a9ee-4c5c-8810-e6091762b85b",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:25:33.166Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần một ___ để treo tranh.",
+      "word": "khung",
+      "translatedAnswer": {
+        "en": "frame"
+      },
+      "translation": {
+        "en": "I need a frame to hang the picture."
+      },
+      "answer": "khung"
+    },
+    "updatedAt": "2025-03-12T15:25:33.166Z"
+  },
+  "exampleSentencesTranslated": [
+    "I want to buy a new frame to hang this painting.",
+    "She chose a white frame for the family photo in the living room.",
+    "Do you think this frame fits your certificate?"
+  ],
+  "_id": "dxqqiH4svLsgAj3NsHer"
+}

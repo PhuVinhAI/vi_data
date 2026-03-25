@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I have a new suggestion for this project that I want to share.",
+    "I think your suggestion is very reasonable and should be implemented.",
+    "If you have any suggestion, please tell me."
+  ],
+  "updatedAt": "2026-03-03T10:26:55.494Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đề xuất",
+      "en": "proposal",
+      "es": "propuesta"
+    },
+    "createdAt": "2025-01-28T13:28:26.545Z",
+    "definitions": {
+      "en": "A suggestion or plan put forward for consideration.",
+      "es": "Una sugerencia o plan presentado para consideración.",
+      "vi": "Một gợi ý hoặc kế hoạch được đưa ra để xem xét."
+    },
+    "example": {
+      "en": "I want to make a new proposal for the project.",
+      "es": "Quiero hacer una nueva propuesta para el proyecto.",
+      "vi": "Tôi muốn đưa ra một đề xuất mới cho dự án."
+    }
+  },
+  "word": "đề xuất",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:56:19.880Z",
+    "createdAt": "2025-03-12T15:56:19.880Z",
+    "id": "001c9b5e-9cba-4369-aee9-c8ff05cf4ff2",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We need a proposal for this project."
+      },
+      "word": "đề xuất",
+      "language": "vi",
+      "sentence": "Chúng tôi cần ___ cho dự án này.",
+      "choices": [
+        "kế hoạch",
+        "đề xuất",
+        "sáng kiến"
+      ],
+      "hint": "đ___t",
+      "translatedAnswer": {
+        "en": "proposal"
+      },
+      "answer": "đề xuất"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đề xuất** means *to suggest / to propose*. It can also be a noun meaning *a proposal*.\n\nAs a **verb**, it’s often used in formal or work contexts: you propose an idea, plan, solution, or change.  \n\nAs a **noun**, it’s countable: *một đề xuất, các đề xuất*. Common pairings: *đề xuất mới, đề xuất hợp lý, chấp nhận/từ chối đề xuất*.\n\nClose synonym: **gợi ý** (more casual, lighter). *Đề xuất* sounds stronger and more official.",
+  "notes": "đề xuất means to suggest / to propose. It can also be a noun meaning a proposal.\n\nAs a verb, it’s often used in formal or work contexts: you propose an idea, plan, solution, or change.  \n\nAs a noun, it’s countable: một đề xuất, các đề xuất. Common pairings: đề xuất mới, đề xuất hợp lý, chấp nhận/từ chối đề xuất.\n\nClose synonym: gợi ý (more casual, lighter). Đề xuất sounds stronger and more official.",
+  "definition": "suggestion",
+  "rank": 2349,
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:56:19.880Z",
+    "createdAt": "2025-03-12T15:56:19.880Z",
+    "id": "4a013676-8945-4b72-bf81-c69c7c3b1557",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need a proposal for this project."
+      },
+      "word": "đề xuất",
+      "answer": "đề xuất",
+      "translatedAnswer": {
+        "en": "proposal"
+      },
+      "choices": [],
+      "sentence": "Chúng tôi cần ___ cho dự án này."
+    }
+  },
+  "choices": [
+    "đề xuất",
+    "kết luận",
+    "giải thích"
+  ],
+  "exampleSentences": [
+    "Anh có một đề xuất mới cho dự án này muốn chia sẻ.",
+    "Chị thấy đề xuất của em rất hợp lý và nên thực hiện.",
+    "Nếu em có bất kỳ đề xuất nào, hãy nói với anh nhé."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "l3qBCBgBYeZKFdHYNyiM"
+}

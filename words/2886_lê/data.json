@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "cam",
+    "lê",
+    "mận"
+  ],
+  "rank": 2886,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "l__",
+      "answer": "lê",
+      "language": "vi",
+      "word": "lê",
+      "sentence": "Tôi muốn mua ___ ở chợ.",
+      "translation": {
+        "en": "I want to buy pears at the market."
+      },
+      "translatedAnswer": {
+        "en": "pears"
+      },
+      "choices": [
+        "táo",
+        "lê",
+        "cam"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:04:09.924Z",
+    "createdAt": "2025-03-12T15:04:09.924Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "496ae4e9-918c-435e-b221-4bf16de76e1d"
+  },
+  "exampleSentences": [
+    "Sáng nay em mua một quả lê ở chợ để ăn trưa.",
+    "Anh thích ăn lê vì nó ngọt và nhiều nước.",
+    "Chị có muốn thử một miếng lê không, nó rất tươi ngon."
+  ],
+  "notes": "lê = pear, the fruit. Simple, everyday food word.\n\nIt’s a countable noun, so you need a classifier: quả (North) or trái (South).  \n\nCommon pairings: lê chín (ripe pear), lê giòn (crisp pear), nước ép lê (pear juice).  \nPlural just adds những or các in front, like other nouns.",
+  "word": "lê",
+  "fillBlankQuiz": {
+    "id": "84db366f-20bd-4508-85f9-f36a22afe344",
+    "content": {
+      "translation": {
+        "en": "I like to eat pears in the summer."
+      },
+      "translatedAnswer": {
+        "en": "pears"
+      },
+      "choices": [],
+      "answer": "lê",
+      "word": "lê",
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ vào mùa hè."
+    },
+    "updatedAt": "2025-03-12T15:04:09.924Z",
+    "createdAt": "2025-03-12T15:04:09.924Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:08:49.544Z",
+  "exampleSentencesTranslated": [
+    "This morning I bought a pear at the market for lunch.",
+    "I like to eat pear because it is sweet and juicy.",
+    "Do you want to try a piece of pear? It is very fresh and delicious."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:36:20.890Z",
+    "definitions": {
+      "en": "A type of fruit that is typically sweet and juicy.",
+      "es": "Un tipo de fruta que es típicamente dulce y jugosa.",
+      "vi": "Một loại trái cây thường ngọt và mọng nước."
+    },
+    "example": {
+      "en": "I like to eat pears in the summer.",
+      "es": "Me gusta comer peras en verano.",
+      "vi": "Tôi thích ăn lê vào mùa hè."
+    },
+    "translations": {
+      "en": "pear",
+      "es": "pera",
+      "vi": "lê"
+    }
+  },
+  "notes_md": "**lê** = pear, the fruit. Simple, everyday food word.\n\nIt’s a **countable noun**, so you need a classifier: *quả* (North) or *trái* (South).  \n\nCommon pairings: *lê chín* (ripe pear), *lê giòn* (crisp pear), *nước ép lê* (pear juice).  \nPlural just adds *những* or *các* in front, like other nouns.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "pear",
+  "_id": "XxJFUinZwZ4VjfAdEOuh"
+}

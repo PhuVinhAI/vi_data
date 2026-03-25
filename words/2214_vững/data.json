@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "vững = stable, steady, firm. It can be physical (not shaking, not falling) or mental (strong, confident, solid inside).\n\nIt describes nouns: nền tảng vững, tinh thần vững, tay lái vững, lập trường vững.  \nIt often means “solid” in skills or knowledge, like being strong in a subject.\n\nClose to chắc (firm, solid); opposite ideas are yếu, lung lay, không vững.\n\nStructure: vững về + lĩnh vực; giữ vững + N (vững về ngữ pháp)",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:19:06.084Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Mạnh mẽ và ổn định; không có khả năng ngã hoặc sụp đổ.",
+      "en": "Strong and stable; not likely to fall or give way.",
+      "es": "Fuerte y estable; poco probable que caiga o ceda."
+    },
+    "example": {
+      "vi": "Cây cầu này rất vững.",
+      "en": "This bridge is very sturdy.",
+      "es": "Este puente es muy sólido."
+    },
+    "translations": {
+      "en": "sturdy",
+      "es": "sólido",
+      "vi": "vững"
+    }
+  },
+  "updatedAt": "2026-03-03T10:12:22.316Z",
+  "exampleSentences": [
+    "Anh ấy luôn giữ tâm lý vững khi gặp khó khăn trong công việc.",
+    "Chị cần có kiến thức vững để làm tốt công việc này.",
+    "Nếu em muốn thành công, em phải xây dựng nền tảng vững từ đầu."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "steady"
+      },
+      "translation": {
+        "en": "She is very steady in her work."
+      },
+      "answer": "vững",
+      "choices": [
+        "vững",
+        "mạnh",
+        "yếu"
+      ],
+      "sentence": "Cô ấy rất ___ trong công việc.",
+      "word": "vững",
+      "hint": "v___"
+    },
+    "updatedAt": "2025-03-12T17:23:34.393Z",
+    "type": "multiChoiceQuiz",
+    "id": "f25a952b-7a96-4178-a614-2e0bc4dd3665",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:23:34.393Z"
+  },
+  "choices": [
+    "vững",
+    "vui",
+    "vắng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He always keeps a stable mind when facing difficulties at work.",
+    "You need stable knowledge to do this job well.",
+    "If you want to succeed, you must build a stable foundation from the beginning."
+  ],
+  "word": "vững",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**vững** = stable, steady, firm. It can be physical (not shaking, not falling) or mental (strong, confident, solid inside).\n\nIt describes nouns: nền tảng vững, tinh thần vững, tay lái vững, lập trường vững.  \nIt often means “solid” in skills or knowledge, like being strong in a subject.\n\nClose to **chắc** (firm, solid); opposite ideas are **yếu**, **lung lay**, **không vững**.\n\n`Structure: vững về + lĩnh vực; giữ vững + N` (vững về ngữ pháp)",
+  "definition": "stable",
+  "rank": 2214,
+  "fillBlankQuiz": {
+    "id": "a9aaa638-ae97-4148-a3af-ffe2c890daf8",
+    "createdAt": "2025-03-12T17:23:34.393Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy rất ___ trong công việc.",
+      "word": "vững",
+      "language": "vi",
+      "answer": "vững",
+      "translation": {
+        "en": "She is very steady in her work."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "steady"
+      }
+    },
+    "updatedAt": "2025-03-12T17:23:34.393Z"
+  },
+  "_id": "ygKFPrs2VhnnxkLeVOXG"
+}

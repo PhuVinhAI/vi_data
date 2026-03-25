@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Sáng nay anh bị mắc kẹt trong thang máy gần nửa tiếng.",
+    "Chiếc xe của em bị mắc kẹt trên đường ngập nước sau cơn mưa lớn.",
+    "Chị cảm thấy mắc kẹt với quá nhiều công việc cần hoàn thành hôm nay."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "mắc kẹt",
+    "giải quyết",
+    "đi tiếp"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "stuck"
+      },
+      "answer": "mắc kẹt",
+      "choices": [],
+      "sentence": "Tôi bị ___ trong thang máy.",
+      "language": "vi",
+      "translation": {
+        "en": "I am stuck in the elevator."
+      },
+      "word": "mắc kẹt"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "800a0b49-bbb6-43ca-b455-5a1993ed3216",
+    "createdAt": "2025-03-12T15:41:48.759Z",
+    "updatedAt": "2025-03-12T15:41:48.759Z"
+  },
+  "rank": 2620,
+  "notes": "Mắc kẹt means stuck — physically unable to move or get out. It can also mean feeling trapped in a situation.\n\nIt’s often used with bị when something bad happens unexpectedly. You can use it for vehicles, people, objects, or abstract situations (work, relationships, problems).\n\nClose synonym: kẹt (shorter, more casual). Opposite idea: thoát ra / thoát khỏi (get out, escape).",
+  "definition": "stuck",
+  "notes_md": "**Mắc kẹt** means *stuck* — physically unable to move or get out. It can also mean feeling trapped in a situation.\n\nIt’s often used with **bị** when something bad happens unexpectedly. You can use it for vehicles, people, objects, or abstract situations (work, relationships, problems).\n\n\nClose synonym: **kẹt** (shorter, more casual). Opposite idea: **thoát ra / thoát khỏi** (get out, escape).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "3cccb311-fc22-4b0f-89b9-9cf9d7eae9a6",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I am stuck in the elevator."
+      },
+      "word": "mắc kẹt",
+      "hint": "m___ kẹt",
+      "choices": [
+        "bị kẹt",
+        "mắc kẹt",
+        "đã kẹt"
+      ],
+      "sentence": "Tôi bị ___ trong thang máy.",
+      "translatedAnswer": {
+        "en": "stuck"
+      },
+      "answer": "mắc kẹt"
+    },
+    "updatedAt": "2025-03-12T15:41:48.759Z",
+    "createdAt": "2025-03-12T15:41:48.759Z"
+  },
+  "updatedAt": "2026-03-03T11:29:14.671Z",
+  "word": "mắc kẹt",
+  "flashcard": {
+    "definitions": {
+      "es": "No poder moverse o escapar de una situación.",
+      "en": "To be unable to move or escape from a situation.",
+      "vi": "Không thể di chuyển hoặc thoát khỏi một tình huống."
+    },
+    "createdAt": "2025-01-28T13:15:04.216Z",
+    "example": {
+      "vi": "Tôi bị mắc kẹt trong giao thông.",
+      "es": "Estoy atrapado en el tráfico.",
+      "en": "I am stuck in traffic."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "stuck",
+      "es": "atrapado",
+      "vi": "mắc kẹt"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "This morning I was stuck in the elevator for almost half an hour.",
+    "My car was stuck on the flooded street after the heavy rain.",
+    "She feels stuck with too much work to finish today."
+  ],
+  "_id": "hfMEXSFVbfhMUzQdgLZM"
+}

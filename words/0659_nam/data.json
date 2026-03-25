@@ -1,0 +1,99 @@
+{
+  "definition": "male",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 659,
+  "exampleSentences": [
+    "Anh trai em là nam và rất thích chơi bóng đá.",
+    "Ở lớp học này có nhiều học sinh nam hơn nữ.",
+    "Bác sĩ nam này rất tận tâm với bệnh nhân của mình."
+  ],
+  "word": "nam",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "nữ",
+    "nam",
+    "bạn"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:27:51.498Z",
+    "example": {
+      "en": "He is a man.",
+      "vi": "Anh ấy là nam giới.",
+      "es": "Él es un hombre."
+    },
+    "translations": {
+      "en": "man",
+      "es": "hombre",
+      "vi": "nam"
+    },
+    "definitions": {
+      "en": "A male human being.",
+      "es": "Un ser humano masculino.",
+      "vi": "Một con người nam giới."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "My older brother is male and really likes playing football.",
+    "There are more male students than female in this class.",
+    "This male doctor is very dedicated to his patients."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:49:49.107Z",
+    "content": {
+      "translation": {
+        "en": "I have been here for years."
+      },
+      "answer": "nam",
+      "choices": [
+        "tháng",
+        "tuần",
+        "nam"
+      ],
+      "hint": "n__",
+      "language": "vi",
+      "sentence": "Tôi đã ở đây ___ năm.",
+      "word": "nam",
+      "translatedAnswer": {
+        "en": "years"
+      }
+    },
+    "createdAt": "2025-03-12T13:49:49.107Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "fe6a94e4-7465-42fc-9b38-d0047fc0f10d",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**nam** means *male* (biologically male). It’s used for people and sometimes animals.\n\nAs a noun, it often appears after another noun to specify gender: *giáo viên nam, ca sĩ nam, học sinh nam*. A very common pairing is **nam – nữ** (male – female).\n\nIt’s neutral and factual, not emotional. The opposite word is **nữ** (female), which is a strong memory pair: *nam = male, nữ = female*.",
+  "updatedAt": "2026-03-03T07:27:43.751Z",
+  "notes": "nam means male (biologically male). It’s used for people and sometimes animals.\n\nAs a noun, it often appears after another noun to specify gender: giáo viên nam, ca sĩ nam, học sinh nam. A very common pairing is nam – nữ (male – female).\n\nIt’s neutral and factual, not emotional. The opposite word is nữ (female), which is a strong memory pair: nam = male, nữ = female.",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "years"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã ở đây ___ năm.",
+      "word": "nam",
+      "choices": [],
+      "translation": {
+        "en": "I have been here for years."
+      },
+      "answer": "nam"
+    },
+    "createdAt": "2025-03-12T13:49:49.107Z",
+    "updatedAt": "2025-03-12T13:49:49.107Z",
+    "id": "a23c0086-444f-4cbc-9ca8-92baca59f4f3",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "FhqNL74LWKA6jmvNTKRT"
+}

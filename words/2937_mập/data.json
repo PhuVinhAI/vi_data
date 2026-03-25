@@ -1,0 +1,98 @@
+{
+  "exampleSentences": [
+    "Em bé nhà anh rất dễ thương và hơi mập một chút.",
+    "Chị không muốn ăn nhiều bánh ngọt vì sợ sẽ bị mập.",
+    "Bạn của em thường nói rằng mèo của em rất mập."
+  ],
+  "rank": 2937,
+  "word": "mập",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "fat",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "gầy",
+    "mập",
+    "cao"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:14:23.815Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:45:06.200Z",
+    "content": {
+      "answer": "mập",
+      "translation": {
+        "en": "The cat is very chubby."
+      },
+      "language": "vi",
+      "word": "mập",
+      "sentence": "Con mèo ___ rất đáng yêu.",
+      "translatedAnswer": {
+        "en": "chubby"
+      }
+    },
+    "createdAt": "2025-03-12T13:45:06.200Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "388a1a2f-0fa0-4f5f-8265-5bd505fafa89",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "mập = fat, chubby. It describes someone or something with extra body weight.\n\nIt’s an adjective, usually placed after the noun (người mập, con mèo mập). It can sound cute for kids or animals, but for adults it may feel a bit blunt or sensitive.  \n\nOpposite: gầy (skinny). Similar word: béo (more neutral/standard for “fat”).",
+  "exampleSentencesTranslated": [
+    "Your baby is very cute and a little fat.",
+    "She doesn't want to eat many sweets because she's afraid of getting fat.",
+    "My friend often says that my cat is fat."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Có hình dáng cơ thể tròn trịa hoặc mũm mĩm.",
+      "es": "Tener una forma de cuerpo redonda o regordeta.",
+      "en": "Having a round or plump body shape."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Cô ấy rất mập nhưng rất dễ thương.",
+      "es": "Ella es muy gordita pero muy linda.",
+      "en": "She is very chubby but very cute."
+    },
+    "createdAt": "2025-01-28T11:23:26.118Z",
+    "translations": {
+      "vi": "mập",
+      "es": "gordito",
+      "en": "chubby"
+    }
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "234e379b-d421-4e61-9459-b09f3ebf7cdc",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:45:06.200Z",
+    "content": {
+      "sentence": "Cô ấy có một chú chó ___.",
+      "word": "mập",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "chubby"
+      },
+      "translation": {
+        "en": "She has a chubby dog."
+      },
+      "answer": "mập",
+      "hint": "m__p",
+      "choices": [
+        "gầy",
+        "mập",
+        "nhỏ"
+      ]
+    },
+    "createdAt": "2025-03-12T13:45:06.200Z"
+  },
+  "notes_md": "**mập** = fat, chubby. It describes someone or something with extra body weight.\n\nIt’s an adjective, usually placed after the noun (người mập, con mèo mập). It can sound cute for kids or animals, but for adults it may feel a bit blunt or sensitive.  \n\nOpposite: **gầy** (skinny). Similar word: **béo** (more neutral/standard for “fat”).",
+  "_id": "EkCelIyHiV9gve06DLaD"
+}

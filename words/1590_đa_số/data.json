@@ -1,0 +1,98 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Đa số học sinh đều thích môn Toán.",
+      "es": "La mayoría de los estudiantes les gusta Matemáticas.",
+      "en": "Most students like Math."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The majority or most of a group.",
+      "es": "La mayoría o la mayor parte de un grupo.",
+      "vi": "Phần lớn hoặc hầu hết một nhóm."
+    },
+    "translations": {
+      "vi": "đa số",
+      "es": "la mayoría",
+      "en": "most"
+    },
+    "createdAt": "2025-01-28T11:56:53.913Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Đa số bạn bè của anh thích đi du lịch vào mùa hè.",
+    "Trong lớp học, đa số học sinh đã làm bài tập về nhà.",
+    "Đa số người Việt Nam rất thân thiện và hiếu khách."
+  ],
+  "rank": 1590,
+  "fillBlankQuiz": {
+    "id": "2dbc4091-cfde-457d-8fa0-b4497d97220d",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "answer": "đa số",
+      "word": "đa số",
+      "sentence": "___ người dân ủng hộ quyết định này.",
+      "translation": {
+        "en": "Most citizens support this decision."
+      },
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:20:41.274Z",
+    "createdAt": "2025-03-12T14:20:41.274Z"
+  },
+  "definition": "the majority",
+  "choices": [
+    "đa số",
+    "một ít",
+    "mọi người"
+  ],
+  "updatedAt": "2026-03-03T09:06:18.729Z",
+  "exampleSentencesTranslated": [
+    "The majority of my friends like to travel in the summer.",
+    "In the class, the majority of students did their homework.",
+    "The majority of Vietnamese people are very friendly and hospitable."
+  ],
+  "notes": "đa số = the majority, most of a group. It talks about a bigger part compared to the rest.\n\nIt’s a noun phrase and often goes before a noun directly, without a classifier. You can also use it alone when the group is already clear from context.\n\nStrong synonym: phần lớn (very similar meaning).  \nOpposite: thiểu số = minority.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đa số** = the majority, most of a group. It talks about a bigger part compared to the rest.\n\nIt’s a noun phrase and often goes before a noun directly, without a classifier. You can also use it alone when the group is already clear from context.\n\n\nStrong synonym: **phần lớn** (very similar meaning).  \nOpposite: **thiểu số** = minority.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:20:41.274Z",
+    "createdAt": "2025-03-12T14:20:41.274Z",
+    "id": "8d4b6be2-6834-4146-99af-a6301a22ad6e",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "đ___ số",
+      "word": "đa số",
+      "sentence": "___ người dân ủng hộ quyết định này.",
+      "translation": {
+        "en": "Most citizens support this decision."
+      },
+      "language": "vi",
+      "choices": [
+        "một phần",
+        "đa số",
+        "tất cả"
+      ],
+      "translatedAnswer": {
+        "en": "most"
+      },
+      "answer": "đa số"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "đa số",
+  "_id": "NEfYpCSqKooSRJ8CuzRg"
+}

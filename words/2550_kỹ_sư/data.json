@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:06:46.563Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "6ba4a052-0b0c-4755-b5ba-3c9af8122430",
+    "content": {
+      "choices": [],
+      "word": "kỹ sư",
+      "language": "vi",
+      "answer": "kỹ sư",
+      "translation": {
+        "en": "He is a skilled engineer."
+      },
+      "translatedAnswer": {
+        "en": "engineer"
+      },
+      "sentence": "Anh ấy là ___ giỏi."
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:06:46.563Z"
+  },
+  "word": "kỹ sư",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "kỹ sư",
+      "answer": "kỹ sư",
+      "language": "vi",
+      "choices": [
+        "họa sĩ",
+        "nhà văn",
+        "kỹ sư"
+      ],
+      "translation": {
+        "en": "She is a famous engineer."
+      },
+      "translatedAnswer": {
+        "en": "engineer"
+      },
+      "hint": "k___",
+      "sentence": "Cô ấy là một ___ nổi tiếng."
+    },
+    "updatedAt": "2025-03-12T16:06:46.563Z",
+    "createdAt": "2025-03-12T16:06:46.563Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "000198c4-fbb6-4d78-a79e-2264cea9d269"
+  },
+  "definition": "engineer",
+  "rank": 2550,
+  "notes_md": "**Kỹ sư** means *engineer* — someone trained to design, build, or fix technical systems (machines, buildings, software, etc.).\n\nIt’s a countable noun: **một kỹ sư, hai kỹ sư**.  \nOften followed by a field to specify the type: **kỹ sư xây dựng** (construction engineer), **kỹ sư phần mềm** (software engineer), **kỹ sư cơ khí** (mechanical engineer).  \nIt’s a formal job title, usually used after university-level study.  \n\nNote: You may also see the spelling **kĩ sư** — same meaning, just a spelling variation.",
+  "updatedAt": "2026-03-03T10:49:58.559Z",
+  "exampleSentencesTranslated": [
+    "My older brother is an engineer working in Ho Chi Minh City.",
+    "She wants to become an engineer after graduating from university.",
+    "His father is an engineer and often fixes machines at home."
+  ],
+  "exampleSentences": [
+    "Anh trai em là một kỹ sư làm việc ở thành phố Hồ Chí Minh.",
+    "Chị muốn trở thành kỹ sư sau khi tốt nghiệp đại học.",
+    "Bố của anh là kỹ sư và thường sửa máy móc ở nhà."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "bác sĩ",
+    "giáo viên",
+    "kỹ sư"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:38:21.611Z",
+    "definitions": {
+      "vi": "Một người thiết kế, xây dựng hoặc bảo trì động cơ, máy móc hoặc cấu trúc.",
+      "es": "Una persona que diseña, construye o mantiene motores, máquinas o estructuras.",
+      "en": "A person who designs, builds, or maintains engines, machines, or structures."
+    },
+    "translations": {
+      "vi": "kỹ sư",
+      "es": "ingeniero",
+      "en": "engineer"
+    },
+    "example": {
+      "vi": "Anh ấy là một kỹ sư giỏi.",
+      "es": "Él es un buen ingeniero.",
+      "en": "He is a good engineer."
+    }
+  },
+  "notes": "Kỹ sư means engineer — someone trained to design, build, or fix technical systems (machines, buildings, software, etc.).\n\nIt’s a countable noun: một kỹ sư, hai kỹ sư.  \nOften followed by a field to specify the type: kỹ sư xây dựng (construction engineer), kỹ sư phần mềm (software engineer), kỹ sư cơ khí (mechanical engineer).  \nIt’s a formal job title, usually used after university-level study.  \n\nNote: You may also see the spelling kĩ sư — same meaning, just a spelling variation.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "nzdnUdWkxgWrcOzrGzzX"
+}

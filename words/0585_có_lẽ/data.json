@@ -1,0 +1,96 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Today it may rain."
+      },
+      "word": "có lẽ",
+      "translatedAnswer": {
+        "en": "may"
+      },
+      "answer": "có lẽ",
+      "sentence": "Hôm nay ___ trời sẽ mưa.",
+      "choices": []
+    },
+    "id": "87b66888-0c6b-413b-bc07-aeebc4482b7d",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:57:48.378Z",
+    "updatedAt": "2025-03-12T15:57:48.378Z"
+  },
+  "choices": [
+    "có lẽ",
+    "chắc chắn",
+    "ngay lập tức"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Có lẽ anh sẽ đi chơi vào cuối tuần này nếu trời đẹp.",
+    "Chị có lẽ quên mang theo điện thoại nên không trả lời tin nhắn.",
+    "Em có lẽ sẽ thử món ăn mới ở nhà hàng hôm nay."
+  ],
+  "definition": "maybe",
+  "notes": "có lẽ = maybe, probably. It shows you’re not 100% sure about something.\n\nIt usually goes before the subject or before the verb, and sounds a bit more thoughtful or uncertain than just “maybe.”  \n\nIt’s softer and more polite than saying something directly as a fact.  \nClose synonym: chắc (là) = probably (a bit stronger confidence).",
+  "rank": 585,
+  "multiChoiceQuiz": {
+    "id": "78161309-c89b-4f34-b44e-8a705387bed5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "may"
+      },
+      "answer": "có lẽ",
+      "sentence": "Hôm nay ___ trời sẽ mưa.",
+      "choices": [
+        "có thể",
+        "có lẽ",
+        "chắc chắn"
+      ],
+      "hint": "c___e",
+      "translation": {
+        "en": "Today it may rain."
+      },
+      "word": "có lẽ",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:57:48.378Z",
+    "createdAt": "2025-03-12T15:57:48.378Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**có lẽ** = maybe, probably. It shows you’re not 100% sure about something.\n\nIt usually goes before the subject or before the verb, and sounds a bit more thoughtful or uncertain than just “maybe.”  \n\nIt’s softer and more polite than saying something directly as a fact.  \nClose synonym: **chắc (là)** = probably (a bit stronger confidence).",
+  "exampleSentencesTranslated": [
+    "Maybe I will go out this weekend if the weather is nice.",
+    "Maybe she forgot to bring her phone so she didn't reply to the message.",
+    "Maybe I will try a new dish at the restaurant today."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "en": "maybe; perhaps"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Hôm nay trời nhiều mây, có lẽ sẽ mưa.",
+      "en": "Today the sky is cloudy; it might rain."
+    },
+    "createdAt": "2025-05-24T16:32:40.243Z",
+    "definitions": {
+      "vi": "Từ dùng để diễn tả sự không chắc chắn, có thể xảy ra.",
+      "en": "A word used to express uncertainty or possibility."
+    },
+    "word": "có lẽ"
+  },
+  "word": "có lẽ",
+  "updatedAt": "2026-03-03T07:20:41.733Z",
+  "_id": "lZ6Nf482u91r20lHKRUJ"
+}

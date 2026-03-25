@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Em sẽ gặp bạn ở nhà trường sau giờ học hôm nay nhé.",
+    "Nhà trường luôn tổ chức nhiều hoạt động ngoại khóa cho học sinh.",
+    "Anh đã liên hệ với nhà trường để hỏi về lịch học mới."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "school",
+      "es": "escuela",
+      "vi": "nhà trường"
+    },
+    "definitions": {
+      "en": "An institution for educating children or students.",
+      "vi": "Một cơ sở giáo dục cho trẻ em hoặc học sinh.",
+      "es": "Una institución para educar a niños o estudiantes."
+    },
+    "createdAt": "2025-01-28T11:57:49.708Z",
+    "example": {
+      "en": "The school organized a graduation ceremony.",
+      "vi": "Nhà trường tổ chức buổi lễ tốt nghiệp.",
+      "es": "La escuela organizó una ceremonia de graduación."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2926,
+  "notes": "nhà trường = the school as an institution (teachers + administration), not just the building. It often means “the school authorities.”\n\nIt’s a noun. You can say nhà trường + verb when talking about official actions (nhà trường thông báo, nhà trường quyết định).  \n\nDon’t confuse it with trường (học), which is the physical school or just “school” in general.  \n\nThink: trường = the place; nhà trường = the organization running it.",
+  "exampleSentencesTranslated": [
+    "I will meet you at the school after class today.",
+    "The school always organizes many extracurricular activities for students.",
+    "He contacted the school to ask about the new schedule."
+  ],
+  "updatedAt": "2026-03-03T18:13:10.648Z",
+  "choices": [
+    "nhà trường",
+    "nhà hàng",
+    "nhà thờ"
+  ],
+  "definition": "school",
+  "fillBlankQuiz": {
+    "id": "9419e618-4c1f-4db1-9449-85ea917904ab",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "school"
+      },
+      "answer": "nhà trường",
+      "word": "nhà trường",
+      "sentence": "Tôi đang học tại ___.",
+      "translation": {
+        "en": "I am studying at the school."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:21:49.006Z",
+    "createdAt": "2025-03-12T14:21:49.006Z"
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:21:49.006Z",
+    "updatedAt": "2025-03-12T14:21:49.006Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "school"
+      },
+      "answer": "nhà trường",
+      "word": "nhà trường",
+      "hint": "nh___ng",
+      "sentence": "Học sinh đến ___ mỗi ngày.",
+      "translation": {
+        "en": "Students go to the school every day."
+      },
+      "language": "vi",
+      "choices": [
+        "trường học",
+        "nhà trường",
+        "cơ sở giáo dục"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "8a41882b-fcf5-4b75-a921-f63df1cef12f"
+  },
+  "word": "nhà trường",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nhà trường** = the school as an institution (teachers + administration), not just the building. It often means “the school authorities.”\n\nIt’s a noun. You can say *nhà trường + verb* when talking about official actions (nhà trường thông báo, nhà trường quyết định).  \n\nDon’t confuse it with **trường (học)**, which is the physical school or just “school” in general.  \n\nThink: **trường** = the place; **nhà trường** = the organization running it.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "NYvoRo9CydADbJcqwUtN"
+}

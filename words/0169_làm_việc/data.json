@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "làm việc",
+    "nghỉ ngơi",
+    "chơi thể thao"
+  ],
+  "exampleSentences": [
+    "Anh thường làm việc ở văn phòng từ thứ hai đến thứ sáu.",
+    "Chị muốn tìm một nơi yên tĩnh để làm việc hiệu quả hơn.",
+    "Em có thể làm việc nhóm với các bạn vào cuối tuần không?"
+  ],
+  "updatedAt": "2026-03-03T06:37:37.649Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T16:52:06.511Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "67a74f6b-15d5-4433-9908-bfddb9eab826",
+    "content": {
+      "sentence": "Họ thường ___ vào buổi tối.",
+      "word": "làm việc",
+      "hint": "l___g",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "work"
+      },
+      "translation": {
+        "en": "They often work in the evening."
+      },
+      "answer": "làm việc",
+      "choices": [
+        "nghỉ ngơi",
+        "học tập",
+        "làm việc"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:52:06.511Z",
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "He usually goes to the office to work from Monday to Friday.",
+    "She wants to find a quiet place to work more efficiently.",
+    "Can you work in a group with your friends at the weekend?"
+  ],
+  "word": "làm việc",
+  "flashcard": {
+    "translations": {
+      "vi": "làm việc",
+      "es": "trabajar",
+      "en": "to work"
+    },
+    "definitions": {
+      "vi": "Tham gia vào hoạt động thể chất hoặc tinh thần để đạt được kết quả.",
+      "en": "To engage in physical or mental activity to achieve a result.",
+      "es": "Participar en una actividad física o mental para lograr un resultado."
+    },
+    "example": {
+      "vi": "Tôi thích làm việc vào buổi sáng.",
+      "en": "I like to work in the morning.",
+      "es": "Me gusta trabajar por la mañana."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:22:01.219Z"
+  },
+  "notes": "làm việc = to work (do your job or tasks). It can mean working at a job or just doing work in general.\n\nIt’s a verb, so you usually add place, people, or time after it.  \n\nIt can also mean “function/work” for machines or systems (máy không làm việc = the machine isn’t working).\n\nClose synonym: làm (more general, just “do”); làm việc sounds more formal or job-focused.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**làm việc** = to work (do your job or tasks). It can mean working at a job or just doing work in general.\n\nIt’s a verb, so you usually add place, people, or time after it.  \n\nIt can also mean “function/work” for machines or systems (máy không làm việc = the machine isn’t working).\n\nClose synonym: **làm** (more general, just “do”); *làm việc* sounds more formal or job-focused.",
+  "fillBlankQuiz": {
+    "id": "e47eb815-4a3d-4299-a128-b835adaaa856",
+    "createdAt": "2025-03-12T16:52:06.511Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "làm việc",
+      "sentence": "Chúng tôi sẽ ___ vào thứ Hai.",
+      "translatedAnswer": {
+        "en": "work"
+      },
+      "choices": [],
+      "translation": {
+        "en": "We will work on Monday."
+      },
+      "answer": "làm việc",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:52:06.511Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "work",
+  "rank": 169,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "zhPuRXOxgWiatYoLjHZe"
+}

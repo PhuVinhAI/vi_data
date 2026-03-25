@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sạch",
+    "mới",
+    "bẩn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "sạch",
+  "rank": 1956,
+  "exampleSentences": [
+    "Chị luôn giữ nhà cửa sạch để cảm thấy dễ chịu hơn.",
+    "Em rửa tay sạch trước khi ăn cơm với gia đình.",
+    "Anh thích mặc áo quần sạch mỗi ngày đi làm."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "clean",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "clean"
+      },
+      "sentence": "Căn phòng này rất ___.",
+      "word": "sạch",
+      "language": "vi",
+      "choices": [],
+      "answer": "sạch",
+      "translation": {
+        "en": "This room is very clean."
+      }
+    },
+    "createdAt": "2025-03-12T13:40:57.940Z",
+    "updatedAt": "2025-03-12T13:40:57.940Z",
+    "id": "c4c9c53d-c44a-4fae-ba72-97e2b1f0510b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "sạch = clean, not dirty. It describes things like rooms, clothes, hands, food, or water.\n\nAs an adjective, it usually comes after the noun: nhà sạch, tay sạch. You can add degree words like rất sạch, quá sạch, không sạch.\n\nIt also has a very common meaning of “completely / totally” when used after a verb.  \n\nStrong contrast: sạch (clean) vs bẩn (dirty).",
+  "updatedAt": "2026-03-03T09:45:05.936Z",
+  "notes_md": "**sạch** = clean, not dirty. It describes things like rooms, clothes, hands, food, or water.\n\nAs an adjective, it usually comes after the noun: *nhà sạch, tay sạch*. You can add degree words like **rất sạch**, **quá sạch**, **không sạch**.\n\nIt also has a very common meaning of “completely / totally” when used after a verb.  \n\nStrong contrast: **sạch** (clean) vs **bẩn** (dirty).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f5cf2d1b-b705-4de0-9066-7a24558b0556",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "clean"
+      },
+      "sentence": "Bàn ăn này rất ___.",
+      "word": "sạch",
+      "language": "vi",
+      "choices": [
+        "bẩn",
+        "sạch",
+        "mới"
+      ],
+      "hint": "s___",
+      "translation": {
+        "en": "This dining table is very clean."
+      },
+      "answer": "sạch"
+    },
+    "createdAt": "2025-03-12T13:40:57.940Z",
+    "updatedAt": "2025-03-12T13:40:57.940Z"
+  },
+  "exampleSentencesTranslated": [
+    "She always keeps the house clean to feel more comfortable.",
+    "I wash my hands clean before eating with my family.",
+    "He likes to wear clean clothes every day to work."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:19:37.795Z",
+    "example": {
+      "es": "Esta habitación está muy limpia.",
+      "vi": "Căn phòng này rất sạch.",
+      "en": "This room is very clean."
+    },
+    "translations": {
+      "en": "clean",
+      "vi": "sạch",
+      "es": "limpio"
+    },
+    "definitions": {
+      "en": "Free from dirt, marks, or stains.",
+      "es": "Libre de suciedad, marcas o manchas.",
+      "vi": "Không có bụi bẩn, vết bẩn hoặc vết ố."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "DdUJncsu6KBKakO1TA5o"
+}

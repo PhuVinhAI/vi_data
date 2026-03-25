@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2328,
+  "definition": "alert",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "awake"
+      },
+      "translation": {
+        "en": "I feel very awake after getting enough sleep."
+      },
+      "answer": "tỉnh táo",
+      "choices": [],
+      "language": "vi",
+      "word": "tỉnh táo",
+      "sentence": "Tôi cảm thấy rất ___ sau khi ngủ đủ."
+    },
+    "updatedAt": "2025-03-12T16:37:39.618Z",
+    "createdAt": "2025-03-12T16:37:39.618Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "d5053d58-4650-4137-9ded-219c135a7514"
+  },
+  "notes_md": "**tỉnh táo** = alert, clear-headed, awake in your mind. Not just “not sleeping” — it means your brain is sharp and focused.\n\nIt’s an adjective, so it describes a person’s mental state. You can say someone *rất tỉnh táo*, *không tỉnh táo*, or *giữ tỉnh táo* (stay alert). It’s often used in situations needing focus or good judgment.\n\nStrong contrast: **mơ màng**, **lơ mơ** (drowsy, spaced out). If you’re *tỉnh táo*, you’re thinking clearly — not confused or half-asleep.",
+  "flashcard": {
+    "definitions": {
+      "es": "Estar despierto y consciente; no estar somnoliento.",
+      "en": "Being awake and aware; not drowsy.",
+      "vi": "Tỉnh táo; không buồn ngủ."
+    },
+    "example": {
+      "es": "Después de una buena noche de sueño, me siento alerta.",
+      "en": "After a good night's sleep, I feel alert.",
+      "vi": "Sau một giấc ngủ ngon, tôi cảm thấy tỉnh táo."
+    },
+    "translations": {
+      "vi": "tỉnh táo",
+      "en": "alert",
+      "es": "alerta"
+    },
+    "createdAt": "2025-01-28T14:09:08.708Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tỉnh táo = alert, clear-headed, awake in your mind. Not just “not sleeping” — it means your brain is sharp and focused.\n\nIt’s an adjective, so it describes a person’s mental state. You can say someone rất tỉnh táo, không tỉnh táo, or giữ tỉnh táo (stay alert). It’s often used in situations needing focus or good judgment.\n\nStrong contrast: mơ màng, lơ mơ (drowsy, spaced out). If you’re tỉnh táo, you’re thinking clearly — not confused or half-asleep.",
+  "word": "tỉnh táo",
+  "exampleSentencesTranslated": [
+    "In the morning, I drink coffee to feel more alert.",
+    "You need to be alert when driving on the highway.",
+    "She tries to stay up late but is not alert enough to keep studying."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mệt mỏi",
+    "tỉnh táo",
+    "lo lắng"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "awake"
+      },
+      "translation": {
+        "en": "I need to be awake to work effectively."
+      },
+      "answer": "tỉnh táo",
+      "choices": [
+        "mệt mỏi",
+        "tỉnh táo",
+        "buồn ngủ"
+      ],
+      "sentence": "Tôi cần phải ___ để làm việc hiệu quả.",
+      "word": "tỉnh táo",
+      "hint": "t___o"
+    },
+    "updatedAt": "2025-03-12T16:37:39.618Z",
+    "id": "29ff2e28-596c-47a6-b315-faa69dc62e3b",
+    "createdAt": "2025-03-12T16:37:39.618Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Buổi sáng, em uống cà phê để cảm thấy tỉnh táo hơn.",
+    "Anh cần phải tỉnh táo khi lái xe trên đường cao tốc.",
+    "Chị cố gắng thức khuya nhưng không còn đủ tỉnh táo để học tiếp."
+  ],
+  "updatedAt": "2026-03-03T10:24:58.135Z",
+  "_id": "wCW8ojKEo0sFSlk8TpaK"
+}

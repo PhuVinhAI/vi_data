@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "18f8ea02-1ab6-4403-be9d-b52f80ab5bbc",
+    "content": {
+      "translatedAnswer": {
+        "en": "men"
+      },
+      "translation": {
+        "en": "This job is often more suited for men."
+      },
+      "answer": "nam giới",
+      "hint": "n___ g___",
+      "choices": [
+        "nữ giới",
+        "nam giới",
+        "trẻ em"
+      ],
+      "sentence": "Công việc này thường dành cho ___ hơn.",
+      "language": "vi",
+      "word": "nam giới"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:15:44.870Z",
+    "updatedAt": "2025-03-12T13:15:44.870Z"
+  },
+  "rank": 2540,
+  "choices": [
+    "nam giới",
+    "phụ nữ",
+    "trẻ em"
+  ],
+  "notes_md": "**Nam giới** means **men** (adult males). It’s a general, slightly formal way to talk about men as a group.\n\nIt’s a noun and usually refers to men in general, not a specific person. You’ll often see it with **phụ nữ / nữ giới** (women) when comparing genders. To make it clearly plural or general, you can add **các** or **những**, but it’s often understood as plural already.\n\nCompared to **đàn ông**, *nam giới* sounds more neutral and formal (used in discussions, statistics, social topics). Opposite: **nữ giới** (women).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nam giới",
+  "exampleSentencesTranslated": [
+    "In this company, the number of men and women is almost equal.",
+    "Men often play football at the park on weekends.",
+    "In this class, there are only three men and twelve women."
+  ],
+  "fillBlankQuiz": {
+    "id": "506b5123-5155-4046-9c39-f1e3f9f25e6a",
+    "content": {
+      "answer": "nam giới",
+      "translatedAnswer": {
+        "en": "men"
+      },
+      "translation": {
+        "en": "In society, men play an important role."
+      },
+      "sentence": "Trong xã hội, ___ đóng vai trò quan trọng.",
+      "language": "vi",
+      "word": "nam giới",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:15:44.870Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:15:44.870Z"
+  },
+  "flashcard": {
+    "translations": {
+      "en": "men",
+      "es": "hombres",
+      "vi": "nam giới"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:56:15.460Z",
+    "definitions": {
+      "en": "The male gender or men as a group.",
+      "es": "El género masculino o los hombres como grupo.",
+      "vi": "Giới tính nam hoặc nam giới như một nhóm."
+    },
+    "example": {
+      "vi": "Nam giới thường thích thể thao.",
+      "es": "Los hombres a menudo disfrutan de los deportes.",
+      "en": "Men often enjoy sports."
+    }
+  },
+  "definition": "men",
+  "notes": "Nam giới means men (adult males). It’s a general, slightly formal way to talk about men as a group.\n\nIt’s a noun and usually refers to men in general, not a specific person. You’ll often see it with phụ nữ / nữ giới (women) when comparing genders. To make it clearly plural or general, you can add các or những, but it’s often understood as plural already.\n\nCompared to đàn ông, nam giới sounds more neutral and formal (used in discussions, statistics, social topics). Opposite: nữ giới (women).",
+  "exampleSentences": [
+    "Ở công ty này, số lượng nam giới và nữ giới gần bằng nhau.",
+    "Nam giới thường chơi đá bóng vào cuối tuần ở công viên.",
+    "Trong lớp học này, chỉ có ba nam giới và mười hai nữ giới."
+  ],
+  "updatedAt": "2026-03-03T10:46:49.792Z",
+  "_id": "70a1VOpDOCCKG8fu3GzH"
+}

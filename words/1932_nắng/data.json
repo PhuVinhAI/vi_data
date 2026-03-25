@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:33:53.415Z",
+    "definitions": {
+      "en": "The light and warmth received from the sun.",
+      "es": "La luz y el calor recibidos del sol.",
+      "vi": "Ánh sáng và nhiệt độ nhận được từ mặt trời."
+    },
+    "example": {
+      "en": "Today the sun is shining beautifully.",
+      "es": "Hoy el sol brilla hermosamente.",
+      "vi": "Hôm nay trời nắng đẹp."
+    },
+    "translations": {
+      "en": "sunshine",
+      "es": "luz del sol",
+      "vi": "ánh nắng"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "Today is very sunny so I brought a hat.",
+    "She likes to take a walk on sunny days.",
+    "He usually drinks a lot of water when the weather is too sunny."
+  ],
+  "fillBlankQuiz": {
+    "id": "32bb5078-d212-4d37-8851-9ef0e3ae5acb",
+    "createdAt": "2025-03-12T15:01:07.333Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "Today the weather is sunny."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "sunny"
+      },
+      "answer": "nắng",
+      "language": "vi",
+      "word": "nắng",
+      "sentence": "Hôm nay trời có ___."
+    },
+    "updatedAt": "2025-03-12T15:01:07.333Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:42:28.707Z",
+  "definition": "sunny",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nắng** = sun, sunlight, the heat/light from the sun. It often implies bright, hot weather.\n\nIt’s a noun. You use it in phrases like **trời nắng** (the weather is sunny), **có nắng** (there is sunshine), or describe it with words like **nắng to**, **nắng gắt** (strong sun), **nắng nhẹ** (mild sun).  \n\nIt also appears in actions related to the sun, like going out into it or drying things under it.\n\n`Structure: ra + nắng / phơi + đồ + dưới nắng` (ra nắng, phơi đồ dưới nắng)\n\nStrong contrast: **nắng** ↔ **mưa** (rain), and sometimes ↔ **râm/mát** (shady, cool).",
+  "rank": 1932,
+  "choices": [
+    "mưa",
+    "lạnh",
+    "nắng"
+  ],
+  "word": "nắng",
+  "notes": "nắng = sun, sunlight, the heat/light from the sun. It often implies bright, hot weather.\n\nIt’s a noun. You use it in phrases like trời nắng (the weather is sunny), có nắng (there is sunshine), or describe it with words like nắng to, nắng gắt (strong sun), nắng nhẹ (mild sun).  \n\nIt also appears in actions related to the sun, like going out into it or drying things under it.\n\nStructure: ra + nắng / phơi + đồ + dưới nắng (ra nắng, phơi đồ dưới nắng)\n\nStrong contrast: nắng ↔ mưa (rain), and sometimes ↔ râm/mát (shady, cool).",
+  "exampleSentences": [
+    "Hôm nay trời rất nắng nên em mang theo mũ.",
+    "Chị thích đi dạo vào những ngày nắng đẹp.",
+    "Anh thường uống nhiều nước khi thời tiết quá nắng."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:01:07.333Z",
+    "updatedAt": "2025-03-12T15:01:07.333Z",
+    "content": {
+      "sentence": "Hôm nay trời có ___.",
+      "hint": "n__g",
+      "answer": "nắng",
+      "word": "nắng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sunny"
+      },
+      "choices": [
+        "mát",
+        "mưa",
+        "nắng"
+      ],
+      "translation": {
+        "en": "Today the weather is sunny."
+      }
+    },
+    "id": "4ea61542-fcca-450e-8363-ab9c4834865e"
+  },
+  "_id": "XPZ0Dvz6SOBtwSv35PU7"
+}

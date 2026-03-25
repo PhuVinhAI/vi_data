@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:00:16.630Z",
+  "word": "đơn vị",
+  "flashcard": {
+    "translations": {
+      "vi": "đơn vị",
+      "es": "unidad",
+      "en": "unit"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A unit is a standard quantity used for measurement.",
+      "es": "Una unidad es una cantidad estándar utilizada para medir.",
+      "vi": "Đơn vị là một lượng tiêu chuẩn được sử dụng để đo lường."
+    },
+    "createdAt": "2025-01-28T13:20:56.924Z",
+    "example": {
+      "en": "Each unit in this problem is important.",
+      "es": "Cada unidad en este problema es importante.",
+      "vi": "Mỗi đơn vị trong bài toán này đều quan trọng."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I work in a new unit in the company.",
+    "You need to convert this number to another unit for calculation.",
+    "Each unit in the army has its own tasks."
+  ],
+  "notes_md": "**Đơn vị** means *unit*. Most often it’s a basic measurement unit (meter, kilogram, dollar, etc.).\n\nIt’s a countable noun: *một đơn vị, hai đơn vị*. Very common with **đơn vị đo lường** (unit of measurement), **đơn vị tiền tệ** (currency unit), and **đơn vị hành chính** (administrative unit).  \n\nIt can also mean a group or organization inside a bigger system, like a department, company branch, or military unit.  \n\nThink of it as one “block” inside a bigger structure — either for measuring things or organizing people.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "1652c73a-564d-4cd6-af9b-36c4770328fa",
+    "content": {
+      "sentence": "Chúng ta cần xác định ___ này.",
+      "choices": [
+        "đơn vị",
+        "phương pháp",
+        "khái niệm"
+      ],
+      "hint": "đ___i",
+      "translatedAnswer": {
+        "en": "unit"
+      },
+      "answer": "đơn vị",
+      "translation": {
+        "en": "We need to identify this unit."
+      },
+      "word": "đơn vị",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:48:21.428Z",
+    "createdAt": "2025-03-12T15:48:21.428Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1535,
+  "notes": "Đơn vị means unit. Most often it’s a basic measurement unit (meter, kilogram, dollar, etc.).\n\nIt’s a countable noun: một đơn vị, hai đơn vị. Very common with đơn vị đo lường (unit of measurement), đơn vị tiền tệ (currency unit), and đơn vị hành chính (administrative unit).  \n\nIt can also mean a group or organization inside a bigger system, like a department, company branch, or military unit.  \n\nThink of it as one “block” inside a bigger structure — either for measuring things or organizing people.",
+  "definition": "unit",
+  "exampleSentences": [
+    "Anh làm việc ở một đơn vị mới trong công ty.",
+    "Chị cần chuyển đổi số này sang đơn vị khác để tính toán.",
+    "Mỗi đơn vị trong quân đội đều có nhiệm vụ riêng."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đơn vị",
+    "bài học",
+    "nhóm trưởng"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:48:21.428Z",
+    "createdAt": "2025-03-12T15:48:21.428Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "33ee5c5c-c405-4ada-97c1-d9837707ed82",
+    "content": {
+      "sentence": "Công ty sử dụng một ___ mới.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "unit"
+      },
+      "answer": "đơn vị",
+      "language": "vi",
+      "translation": {
+        "en": "The company uses a new unit."
+      },
+      "word": "đơn vị"
+    }
+  },
+  "_id": "j2EIFANRMF6JdiCPgPu4"
+}

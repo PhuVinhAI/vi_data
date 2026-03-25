@@ -1,0 +1,104 @@
+{
+  "exampleSentences": [
+    "Anh thích cà phê hơn trà.",
+    "Chị ăn cơm hơn mì.",
+    "Em thích mèo hơn chó."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "kém",
+    "nhất",
+    "hơn"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:22:01.950Z",
+    "updatedAt": "2025-03-12T17:22:01.950Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I like this dish more."
+      },
+      "word": "hơn",
+      "choices": [],
+      "sentence": "Tôi thích món này ___.",
+      "translatedAnswer": {
+        "en": "more"
+      },
+      "answer": "hơn"
+    },
+    "id": "a8ce3944-eb5b-4785-86ad-c06969d118b7",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "rank": 47,
+  "notes": "hơn means “more” or “than” when comparing two things. It shows that one thing has a higher degree than another.\n\nIt comes after an adjective or verb in comparisons.  \n\nWith adjectives, it means “more + adjective” (đắt hơn = more expensive). With verbs, it shows preference or greater action (thích hơn = prefer more).\n\nOpposite idea: kém hơn (less than). For equality, use bằng (as…as).",
+  "definition": "than",
+  "sentenceBreakdowns": [
+    "Anh (he) + thích (like) + cà phê (coffee) + hơn (than) + trà (tea)",
+    "Chị (she) + ăn (eat) + cơm (rice) + hơn (than) + mì (noodles)",
+    "Em (I) + thích (like) + mèo (cats) + hơn (than) + chó (dogs)"
+  ],
+  "notes_md": "**hơn** means **“more” or “than”** when comparing two things. It shows that one thing has a higher degree than another.\n\nIt comes **after an adjective or verb** in comparisons.  \n\nWith adjectives, it means “more + adjective” (đắt hơn = more expensive). With verbs, it shows preference or greater action (thích hơn = prefer more).\n\nOpposite idea: **kém hơn** (less than). For equality, use **bằng** (as…as).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:22:01.950Z",
+    "updatedAt": "2025-03-12T17:22:01.950Z",
+    "content": {
+      "hint": "h___n",
+      "sentence": "Tôi thích món này ___.",
+      "choices": [
+        "hơn",
+        "hơns",
+        "HƠN"
+      ],
+      "translatedAnswer": {
+        "en": "more"
+      },
+      "answer": "hơn",
+      "language": "vi",
+      "translation": {
+        "en": "I like this dish more."
+      },
+      "word": "hơn"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "1ad3a5f6-6366-43a1-9e59-86e5f78747d0"
+  },
+  "updatedAt": "2026-03-03T06:07:51.499Z",
+  "word": "hơn",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi học tiếng Anh hơn năm nay.",
+      "en": "I have been studying English for more than a year.",
+      "es": "He estado estudiando inglés durante más de un año."
+    },
+    "createdAt": "2025-01-28T13:28:51.020Z",
+    "definitions": {
+      "en": "Used to indicate a greater degree or amount.",
+      "es": "Se utiliza para indicar un mayor grado o cantidad.",
+      "vi": "Được sử dụng để chỉ mức độ hoặc số lượng lớn hơn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "more",
+      "es": "más",
+      "vi": "hơn"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "He likes coffee more than tea.",
+    "She eats rice more than noodles.",
+    "I like cats more than dogs."
+  ],
+  "_id": "lBoRKs1bvk2eFMA9Tt2j"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you get me a small bowl to eat rice?",
+    "Every morning, grandma usually uses a small bowl to drink tea.",
+    "She washes the small bowl carefully after the whole family finishes dinner."
+  ],
+  "updatedAt": "2026-03-03T18:10:59.222Z",
+  "flashcard": {
+    "example": {
+      "es": "Vertí té en la taza.",
+      "en": "I poured tea into the cup.",
+      "vi": "Tôi đã rót trà vào chén."
+    },
+    "createdAt": "2025-01-28T13:23:57.979Z",
+    "definitions": {
+      "vi": "Một cái bát hoặc chén nhỏ dùng để uống hoặc phục vụ thức ăn.",
+      "en": "A small bowl or cup used for drinking or serving food.",
+      "es": "Un tazón o taza pequeña utilizada para beber o servir comida."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chén",
+      "en": "cup",
+      "es": "taza"
+    }
+  },
+  "word": "chén",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I need a bowl to eat rice."
+      },
+      "word": "chén",
+      "language": "vi",
+      "sentence": "Tôi cần một ___ để ăn cơm.",
+      "choices": [
+        "bát",
+        "đĩa",
+        "chén"
+      ],
+      "hint": "c__n",
+      "translatedAnswer": {
+        "en": "bowl"
+      },
+      "answer": "chén"
+    },
+    "id": "c76b243f-d2b0-4caa-909d-98c83890e723",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:51:31.344Z",
+    "updatedAt": "2025-03-12T15:51:31.344Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**chén** = a small bowl, usually for rice, soup, or dipping sauce.\n\nIt’s a noun. Count it with **cái**: *một cái chén*, but people often just say *một chén*. Common pairings: *chén cơm* (bowl of rice), *chén canh* (bowl of soup), *chén nước mắm* (small bowl of fish sauce).\n\nIn the South, **chén** is common; in the North, people often say **bát** for the same thing. Think: *chén* = smaller, more delicate; *tô* = bigger bowl.",
+  "notes": "chén = a small bowl, usually for rice, soup, or dipping sauce.\n\nIt’s a noun. Count it with cái: một cái chén, but people often just say một chén. Common pairings: chén cơm (bowl of rice), chén canh (bowl of soup), chén nước mắm (small bowl of fish sauce).\n\nIn the South, chén is common; in the North, people often say bát for the same thing. Think: chén = smaller, more delicate; tô = bigger bowl.",
+  "definition": "small bowl",
+  "rank": 2904,
+  "choices": [
+    "bát",
+    "ly",
+    "chén"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:51:31.344Z",
+    "createdAt": "2025-03-12T15:51:31.344Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "3332b3af-a4b8-4575-8695-671e6af5527c",
+    "content": {
+      "translatedAnswer": {
+        "en": "bowl"
+      },
+      "answer": "chén",
+      "sentence": "Tôi cần một ___ để ăn cơm.",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I need a bowl to eat rice."
+      },
+      "word": "chén"
+    }
+  },
+  "exampleSentences": [
+    "Em có thể lấy cho anh một chén để ăn cơm không?",
+    "Mỗi sáng, bà thường dùng một chén nhỏ để uống trà.",
+    "Chị rửa chén sạch sẽ sau khi cả nhà ăn tối xong."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "k14wsf2DJnFkQPmHJtKc"
+}

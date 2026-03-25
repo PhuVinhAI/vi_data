@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T11:13:23.281Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "includes",
+      "es": "incluye",
+      "vi": "gồm"
+    },
+    "example": {
+      "en": "This meal includes rice, meat, and vegetables.",
+      "vi": "Bữa ăn này gồm có cơm, thịt và rau.",
+      "es": "Esta comida incluye arroz, carne y verduras."
+    },
+    "definitions": {
+      "en": "to include; to consist of",
+      "es": "incluir; consistir en",
+      "vi": "bao gồm; gồm có"
+    }
+  },
+  "definition": "include",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:33:52.148Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:33:52.148Z",
+    "content": {
+      "answer": "gồm",
+      "translation": {
+        "en": "The party includes many dishes."
+      },
+      "translatedAnswer": {
+        "en": "includes"
+      },
+      "word": "gồm",
+      "sentence": "Bữa tiệc ___ nhiều món ăn.",
+      "language": "vi",
+      "choices": []
+    },
+    "id": "28bc4a48-164a-4442-b680-a2f8432f2bba",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Today's menu include three main dishes and one dessert.",
+    "Tomorrow morning's meeting will include all members of the team.",
+    "This ticket price already include a drink and a cake for each person."
+  ],
+  "exampleSentences": [
+    "Thực đơn hôm nay gồm ba món chính và một món tráng miệng.",
+    "Buổi họp sáng mai sẽ gồm tất cả các thành viên trong nhóm.",
+    "Giá vé này đã gồm nước uống và bánh ngọt cho mỗi người."
+  ],
+  "updatedAt": "2026-03-03T09:49:35.593Z",
+  "notes": "Gồm means “to include” or “to consist of.” It lists the parts that make up a whole.\n\nIt’s used to show what something is made up of. The subject is the whole thing, and what comes after gồm are its parts.\n\nVery close to bao gồm (a bit more formal and slightly stronger, like “including”). You can’t use gồm at the end of a sentence by itself — it always needs the list after it.",
+  "rank": 1998,
+  "choices": [
+    "gồm",
+    "giảm",
+    "gặp"
+  ],
+  "notes_md": "**Gồm** means “to include” or “to consist of.” It lists the parts that make up a whole.\n\nIt’s used to show what something is made up of. The subject is the whole thing, and what comes after *gồm* are its parts.\n\n\nVery close to **bao gồm** (a bit more formal and slightly stronger, like “including”). You can’t use *gồm* at the end of a sentence by itself — it always needs the list after it.",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:33:52.148Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "The party includes many dishes."
+      },
+      "translatedAnswer": {
+        "en": "includes"
+      },
+      "answer": "gồm",
+      "hint": "g___n",
+      "choices": [
+        "có",
+        "gồm",
+        "điểm"
+      ],
+      "word": "gồm",
+      "sentence": "Bữa tiệc ___ nhiều món ăn.",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:33:52.148Z",
+    "id": "5a0f6f4f-caf0-466d-b3b3-075088e7e58d"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "gồm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Bn8cSkXrFqaBuHZN8vj0"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "We should enjoy life every day.",
+      "vi": "Chúng ta nên tận hưởng cuộc sống mỗi ngày.",
+      "es": "Debemos disfrutar de la vida cada día."
+    },
+    "definitions": {
+      "vi": "Tận hưởng có nghĩa là cảm thấy vui vẻ hoặc thích thú với điều gì đó một cách trọn vẹn.",
+      "es": "Tomar placer en o disfrutar algo plenamente.",
+      "en": "To take pleasure in or to enjoy something fully."
+    },
+    "createdAt": "2025-01-28T11:15:17.818Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tận hưởng",
+      "es": "disfrutar",
+      "en": "enjoy"
+    }
+  },
+  "definition": "enjoy",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:35:55.884Z",
+    "id": "3ab78e95-4704-4f95-9034-6531de5a743b",
+    "content": {
+      "translatedAnswer": {
+        "en": "enjoy"
+      },
+      "translation": {
+        "en": "We will enjoy this vacation."
+      },
+      "answer": "tận hưởng",
+      "choices": [],
+      "sentence": "Chúng ta sẽ ___ kỳ nghỉ này.",
+      "language": "vi",
+      "word": "tận hưởng"
+    },
+    "createdAt": "2025-03-12T13:35:55.884Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "After working hard, he wants to enjoy a vacation at the beach.",
+    "You should enjoy time with your family every weekend.",
+    "Every morning, I like to enjoy a hot cup of coffee on the balcony."
+  ],
+  "updatedAt": "2026-03-03T09:14:23.577Z",
+  "exampleSentences": [
+    "Sau khi làm việc chăm chỉ, anh muốn tận hưởng kỳ nghỉ ở biển.",
+    "Chị nên tận hưởng thời gian bên gia đình mỗi cuối tuần.",
+    "Mỗi sáng, em thích tận hưởng ly cà phê nóng ngoài ban công."
+  ],
+  "notes": "tận hưởng = to enjoy something fully, to really experience the pleasure of it. It’s about soaking it in, not just doing it.\n\nIt’s a verb, followed directly by a noun: tận hưởng + experience/time/feeling (tận hưởng cuộc sống, tận hưởng khoảnh khắc, tận hưởng cảm giác tự do). You use it for positive things like time, trips, moments, success.\n\nClose words: thưởng thức (enjoy, often for food/art), hưởng thụ (enjoy in a more indulgent, sometimes lazy way).",
+  "notes_md": "**tận hưởng** = to enjoy something fully, to really experience the pleasure of it. It’s about soaking it in, not just doing it.\n\nIt’s a verb, followed directly by a noun: tận hưởng + experience/time/feeling (tận hưởng cuộc sống, tận hưởng khoảnh khắc, tận hưởng cảm giác tự do). You use it for positive things like time, trips, moments, success.\n\nClose words: **thưởng thức** (enjoy, often for food/art), **hưởng thụ** (enjoy in a more indulgent, sometimes lazy way).",
+  "rank": 1667,
+  "choices": [
+    "tận hưởng",
+    "giải quyết",
+    "tham gia"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "d567cdad-844c-475c-ba59-d9dd5f495650",
+    "content": {
+      "translatedAnswer": {
+        "en": "enjoy"
+      },
+      "translation": {
+        "en": "We will enjoy this vacation."
+      },
+      "hint": "t___n hưởng",
+      "answer": "tận hưởng",
+      "choices": [
+        "thích thú",
+        "tận hưởng",
+        "đắm chìm"
+      ],
+      "sentence": "Chúng ta sẽ ___ kỳ nghỉ này.",
+      "language": "vi",
+      "word": "tận hưởng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:55.884Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:35:55.884Z"
+  },
+  "word": "tận hưởng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "CGiY4wTEZgO52K0cppLf"
+}

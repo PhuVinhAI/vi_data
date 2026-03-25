@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "story",
+  "word": "câu chuyện",
+  "rank": 149,
+  "exampleSentences": [
+    "Em rất thích nghe câu chuyện mà anh kể tối qua.",
+    "Chị có thể chia sẻ câu chuyện về chuyến du lịch của mình không?",
+    "Mỗi câu chuyện đều mang một bài học ý nghĩa cho chúng ta."
+  ],
+  "choices": [
+    "câu chuyện",
+    "cuộc sống",
+    "bài hát"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    null,
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**câu chuyện** = story. It’s something told about events, real or fictional.\n\nIt’s a noun. Use the classifier **câu** for counting: *một câu chuyện, hai câu chuyện*, or **những câu chuyện** for plural.  \n\nVery common with verbs like **kể** (tell), **nghe** (listen to), **chia sẻ** (share), **viết** (write).  \n\nIt can also mean a broader “matter” or “issue” in a discussion (like “the story here is…”).  \n\nClose to **truyện**, but *truyện* often sounds more like a written or fictional tale, while *câu chuyện* is more general and everyday.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "37681994-3f3f-4f9f-a391-a7cda9b11b77",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:48:47.457Z",
+    "content": {
+      "translation": {
+        "en": "She tells a very interesting story."
+      },
+      "answer": "câu chuyện",
+      "hint": "c___n",
+      "choices": [
+        "truyền thuyết",
+        "câu chuyện",
+        "huyền thoại"
+      ],
+      "language": "vi",
+      "word": "câu chuyện",
+      "sentence": "Cô ấy kể ___ rất thú vị.",
+      "translatedAnswer": {
+        "en": "story"
+      }
+    },
+    "updatedAt": "2025-03-12T13:48:47.457Z"
+  },
+  "exampleSentencesTranslated": [
+    "I really liked the story you told last night.",
+    "Can you share the story about your trip?",
+    "Every story carries a meaningful lesson for us."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:27:02.742Z",
+    "example": {
+      "es": "Esta historia es muy interesante.",
+      "vi": "Câu chuyện này rất thú vị.",
+      "en": "This story is very interesting."
+    },
+    "translations": {
+      "en": "story",
+      "es": "historia",
+      "vi": "câu chuyện"
+    },
+    "definitions": {
+      "en": "A narrative or account of events.",
+      "vi": "Một câu chuyện hoặc tài khoản về các sự kiện.",
+      "es": "Una narrativa o relato de eventos."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:48:47.457Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I like to listen to a good story."
+      },
+      "answer": "câu chuyện",
+      "translatedAnswer": {
+        "en": "story"
+      },
+      "language": "vi",
+      "word": "câu chuyện",
+      "sentence": "Tôi thích nghe ___ hay."
+    },
+    "createdAt": "2025-03-12T13:48:47.457Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "6dbde641-33f5-425b-8587-ea0c2efeee06",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "câu chuyện = story. It’s something told about events, real or fictional.\n\nIt’s a noun. Use the classifier câu for counting: một câu chuyện, hai câu chuyện, or những câu chuyện for plural.  \n\nVery common with verbs like kể (tell), nghe (listen to), chia sẻ (share), viết (write).  \n\nIt can also mean a broader “matter” or “issue” in a discussion (like “the story here is…”).  \n\nClose to truyện, but truyện often sounds more like a written or fictional tale, while câu chuyện is more general and everyday.",
+  "updatedAt": "2026-03-03T06:35:23.849Z",
+  "_id": "FZ2KNsv26cuy5Zt6cYvR"
+}

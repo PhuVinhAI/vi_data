@@ -1,0 +1,96 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "uncle or aunt (older sibling of one's parent)"
+    },
+    "audioUrl": "flashcard.mp3",
+    "word": "bác",
+    "example": {
+      "en": "My uncle is very kind and often tells me stories.",
+      "vi": "Bác của tôi rất hiền và hay kể chuyện cho tôi nghe."
+    },
+    "definitions": {
+      "en": "A term for an uncle or aunt who is older than one's father or mother.",
+      "vi": "Cách gọi anh hoặc chị của bố mẹ, thường dùng để chỉ người lớn tuổi hơn bố mẹ."
+    },
+    "createdAt": "2025-05-24T16:21:57.214Z"
+  },
+  "notes_md": "**bác** = uncle or aunt who is older than your parent (older brother/sister of your mom or dad).  \n\nIt’s a family noun, so you don’t use “my/your” alone — you say *bác + possessive* (bác tôi, bác anh). You can also call someone **bác** directly if they’re about your parents’ age or older, as a polite way to address them.  \n\nCompared to other family words: **chú/cô/dì** are for younger siblings of your parents; **bác** is only for the older ones.",
+  "exampleSentences": [
+    "Anh sẽ đến thăm bác vào cuối tuần này cùng gia đình.",
+    "Bác thường kể cho em nghe nhiều câu chuyện thú vị thời nhỏ.",
+    "Mỗi dịp Tết, em đều chúc Tết bác và nhận lì xì."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "6ee559a1-a614-461a-b87c-8a521f59cb5b",
+    "createdAt": "2025-03-12T14:34:39.910Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:34:39.910Z",
+    "content": {
+      "choices": [],
+      "word": "bác",
+      "answer": "bác",
+      "translation": {
+        "en": "I met my uncle yesterday."
+      },
+      "translatedAnswer": {
+        "en": "uncle"
+      },
+      "language": "vi",
+      "sentence": "Tôi gặp ___ của mình hôm qua."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "uncle or aunt",
+  "word": "bác",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "1c788ea2-5e7e-41c1-86ae-31a4b6bbbc06",
+    "createdAt": "2025-03-12T14:34:39.910Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "b__",
+      "translation": {
+        "en": "I visited my uncle over the weekend."
+      },
+      "answer": "bác",
+      "word": "bác",
+      "choices": [
+        "bác",
+        "cô",
+        "dì"
+      ],
+      "translatedAnswer": {
+        "en": "uncle"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã đi thăm ___ vào cuối tuần."
+    },
+    "updatedAt": "2025-03-12T14:34:39.910Z"
+  },
+  "exampleSentencesTranslated": [
+    "I will visit my uncle or aunt this weekend with my family.",
+    "My uncle or aunt often tells me many interesting childhood stories.",
+    "Every Lunar New Year, I wish my uncle or aunt a happy new year and receive lucky money."
+  ],
+  "rank": 533,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:15:39.781Z",
+  "choices": [
+    "bác",
+    "cô",
+    "chú"
+  ],
+  "notes": "bác = uncle or aunt who is older than your parent (older brother/sister of your mom or dad).  \n\nIt’s a family noun, so you don’t use “my/your” alone — you say bác + possessive (bác tôi, bác anh). You can also call someone bác directly if they’re about your parents’ age or older, as a polite way to address them.  \n\nCompared to other family words: chú/cô/dì are for younger siblings of your parents; bác is only for the older ones.",
+  "_id": "QnUv4drmLkvZQJ0haL1l"
+}

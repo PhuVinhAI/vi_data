@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "liều",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:30:51.337Z",
+    "type": "multiChoiceQuiz",
+    "id": "a748335e-6018-4e93-87a4-cb01214c0c00",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:30:51.337Z",
+    "content": {
+      "sentence": "Bạn có ___ làm điều đó không?",
+      "language": "vi",
+      "word": "liều",
+      "choices": [
+        "mạo hiểm",
+        "liều",
+        "an toàn"
+      ],
+      "answer": "liều",
+      "hint": "l___",
+      "translatedAnswer": {
+        "en": "dare"
+      },
+      "translation": {
+        "en": "Do you dare to do that?"
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Liều** means to *dare* or to do something risky without being fully sure of the result. It often implies boldness mixed with danger.\n\nAs a **verb**, it’s usually followed by another verb: you *liều + V* when you take a risk to do something. It can also describe a person as bold or reckless in certain contexts.  \n\nClose ideas: **mạo hiểm** (to take a risk, more neutral) and **gan** (brave/gutsy). Opposite feeling: **thận trọng** (careful).  \n\nRelated noun: **sự liều lĩnh** = recklessness (stronger, more negative).",
+  "rank": 2802,
+  "choices": [
+    "liều",
+    "chậm",
+    "mạnh"
+  ],
+  "notes": "Liều means to dare or to do something risky without being fully sure of the result. It often implies boldness mixed with danger.\n\nAs a verb, it’s usually followed by another verb: you liều + V when you take a risk to do something. It can also describe a person as bold or reckless in certain contexts.  \n\nClose ideas: mạo hiểm (to take a risk, more neutral) and gan (brave/gutsy). Opposite feeling: thận trọng (careful).  \n\nRelated noun: sự liều lĩnh = recklessness (stronger, more negative).",
+  "updatedAt": "2026-03-03T17:58:46.078Z",
+  "exampleSentences": [
+    "Anh ấy quyết định liều để thử một công việc mới.",
+    "Nếu em liều nói ra sự thật, mọi người sẽ hiểu hơn.",
+    "Chị không muốn liều khi chưa biết kết quả sẽ ra sao."
+  ],
+  "exampleSentencesTranslated": [
+    "He decided to dare to try a new job.",
+    "If you dare to tell the truth, everyone will understand better.",
+    "I don't want to dare when I don't know what the result will be."
+  ],
+  "fillBlankQuiz": {
+    "id": "43274a82-6a2e-47e8-bb9e-cb6c81f8811e",
+    "content": {
+      "translatedAnswer": {
+        "en": "daring"
+      },
+      "translation": {
+        "en": "I am very daring when doing this."
+      },
+      "answer": "liều",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi rất ___ khi làm việc này.",
+      "word": "liều"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:30:51.337Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:30:51.337Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "liều",
+      "es": "dosis",
+      "en": "dose"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:05:52.190Z",
+    "definitions": {
+      "vi": "Một lượng cụ thể của thuốc hoặc dược phẩm được dùng trong một lần.",
+      "es": "Una cantidad específica de un medicamento o droga tomada a la vez.",
+      "en": "A specific quantity of a medicine or drug taken at one time."
+    },
+    "example": {
+      "en": "I need a dose of medicine to feel better.",
+      "es": "Necesito una dosis de medicina para sentirme mejor.",
+      "vi": "Tôi cần một liều thuốc để cảm thấy tốt hơn."
+    }
+  },
+  "definition": "dare",
+  "_id": "f6O0JHzOE76hdY5M3uPi"
+}

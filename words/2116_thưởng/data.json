@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Tôi nhận được ___ từ công ty.",
+      "translatedAnswer": {
+        "en": "reward"
+      },
+      "language": "vi",
+      "hint": "th_____",
+      "answer": "thưởng",
+      "translation": {
+        "en": "I received a reward from the company."
+      },
+      "word": "thưởng",
+      "choices": [
+        "thưởng",
+        "khuyến mãi",
+        "tiền thưởng"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:26:41.481Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:26:41.481Z",
+    "id": "aab69c46-c55e-48f2-9cf8-19be7ad4ea55"
+  },
+  "word": "thưởng",
+  "exampleSentencesTranslated": [
+    "If you study well, your parents will give you a reward.",
+    "The company decided to give a reward to employees who worked hard this month.",
+    "He always gives himself a reward with a milk tea after finishing work."
+  ],
+  "rank": 2116,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:01:59.307Z",
+  "choices": [
+    "thưởng",
+    "tặng",
+    "nộp"
+  ],
+  "notes": "thưởng = to reward someone, or to treat yourself as a reward. It’s about giving something good because of effort or achievement.\n\nAs a verb, it’s usually thưởng cho + someone + something (thưởng cho nhân viên tiền, thưởng cho con quà). You can also say tự thưởng (cho mình) when you give yourself a treat.\n\nAs a noun, it appears in words like phần thưởng (reward/prize) or tiền thưởng (bonus money).\n\nClose to tặng (to give as a gift), but thưởng has the idea of merit or effort behind it.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "recompensa",
+      "en": "reward",
+      "vi": "thưởng"
+    },
+    "definitions": {
+      "vi": "Một phần thưởng hoặc giải thưởng được trao cho thành tích.",
+      "en": "A reward or prize given for achievement.",
+      "es": "Una recompensa o premio otorgado por un logro."
+    },
+    "createdAt": "2025-01-28T12:02:49.374Z",
+    "example": {
+      "es": "Recibí una recompensa por mi buen trabajo.",
+      "vi": "Tôi nhận được một phần thưởng cho công việc tốt.",
+      "en": "I received a reward for my good work."
+    }
+  },
+  "exampleSentences": [
+    "Nếu em học giỏi, bố mẹ sẽ thưởng cho em một món quà nhỏ.",
+    "Công ty quyết định thưởng cho nhân viên làm việc chăm chỉ trong tháng này.",
+    "Anh luôn thưởng cho bản thân một ly trà sữa sau khi hoàn thành công việc."
+  ],
+  "notes_md": "**thưởng** = to reward someone, or to treat yourself as a reward. It’s about giving something good because of effort or achievement.\n\nAs a **verb**, it’s usually **thưởng cho + someone + something** (thưởng cho nhân viên tiền, thưởng cho con quà). You can also say **tự thưởng (cho mình)** when you give yourself a treat.\n\nAs a **noun**, it appears in words like **phần thưởng** (reward/prize) or **tiền thưởng** (bonus money).\n\nClose to **tặng** (to give as a gift), but *thưởng* has the idea of merit or effort behind it.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:26:41.481Z",
+    "id": "87b032eb-4431-4ca4-b7aa-5e5a9f178b62",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "reward"
+      },
+      "language": "vi",
+      "sentence": "Tôi nhận được ___ từ công ty.",
+      "word": "thưởng",
+      "choices": [],
+      "translation": {
+        "en": "I received a reward from the company."
+      },
+      "answer": "thưởng"
+    },
+    "updatedAt": "2025-03-12T14:26:41.481Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "reward",
+  "_id": "OrB3crkxyYB28nB8DliH"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Tengo muchas emociones al ver esa película.",
+      "vi": "Tôi có nhiều cảm xúc khi xem bộ phim đó.",
+      "en": "I have many emotions when watching that movie."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:38:29.676Z",
+    "translations": {
+      "en": "emotion",
+      "vi": "cảm xúc",
+      "es": "emoción"
+    },
+    "definitions": {
+      "en": "A mental state that arises spontaneously rather than through conscious effort.",
+      "vi": "Một trạng thái tinh thần phát sinh một cách tự nhiên thay vì thông qua nỗ lực có ý thức.",
+      "es": "Un estado mental que surge espontáneamente en lugar de a través de un esfuerzo consciente."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh không muốn che giấu cảm xúc thật của mình với em.",
+    "Chị ấy thường chia sẻ cảm xúc với bạn bè khi buồn.",
+    "Em thấy cảm xúc của mình thay đổi khi nghe nhạc."
+  ],
+  "rank": 317,
+  "definition": "emotion",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:03:30.679Z",
+    "createdAt": "2025-03-12T14:03:30.679Z",
+    "id": "b9fa49f3-ffc5-479a-ab86-e7eb6b0ce352",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "cảm xúc",
+      "translatedAnswer": {
+        "en": "emotions"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I have many emotions in my soul."
+      },
+      "sentence": "Tôi có nhiều ___ trong tâm hồn.",
+      "word": "cảm xúc"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He doesn't want to hide his real emotion from you.",
+    "She often shares emotion with her friends when she is sad.",
+    "I feel my emotion changes when I listen to music."
+  ],
+  "notes": "Cảm xúc means emotion or feeling — what you feel inside, like happiness, anger, sadness, etc. It’s a noun.\n\nYou often use it with của + person to show whose emotion, or with verbs like bộc lộ (express), giữ/kiềm chế (control), che giấu (hide).  \n\nClose word: tình cảm (more about affection/love, often relational).  \nOpposite idea to remember: lý trí (logic/reason).",
+  "choices": [
+    "cảm xúc",
+    "kể chuyện",
+    "quan điểm"
+  ],
+  "updatedAt": "2026-03-03T06:53:48.914Z",
+  "notes_md": "**Cảm xúc** means *emotion* or *feeling* — what you feel inside, like happiness, anger, sadness, etc. It’s a noun.\n\nYou often use it with **của + person** to show whose emotion, or with verbs like **bộc lộ** (express), **giữ/kiềm chế** (control), **che giấu** (hide).  \n\nClose word: **tình cảm** (more about affection/love, often relational).  \nOpposite idea to remember: **lý trí** (logic/reason).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cảm xúc",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:03:30.679Z",
+    "updatedAt": "2025-03-12T14:03:30.679Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "She expresses emotions very well."
+      },
+      "language": "vi",
+      "choices": [
+        "cảm xúc",
+        "tình cảm",
+        "hành động"
+      ],
+      "word": "cảm xúc",
+      "hint": "c___u",
+      "sentence": "Cô ấy thể hiện ___ rất tốt.",
+      "translatedAnswer": {
+        "en": "emotions"
+      },
+      "answer": "cảm xúc"
+    },
+    "id": "5a7bbef7-5576-4738-a3ba-f45a21276ed6"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "JYfABQIBXnPl1fdow2Oo"
+}

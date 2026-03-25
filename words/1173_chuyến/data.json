@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:20:35.090Z",
+  "fillBlankQuiz": {
+    "id": "f24c59e2-c962-4fb4-a5b2-8df4a0c59103",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:17:36.079Z",
+    "content": {
+      "language": "vi",
+      "word": "chuyến",
+      "sentence": "Tôi có một ___ đi du lịch.",
+      "translatedAnswer": {
+        "en": "trip"
+      },
+      "translation": {
+        "en": "I have a trip to travel."
+      },
+      "answer": "chuyến",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T17:17:36.079Z"
+  },
+  "notes": "chuyến = a trip or a journey, usually one specific instance of going somewhere. It often refers to a single ride, flight, or travel event.\n\nIt’s a countable noun: một chuyến, hai chuyến. Very often paired with transport or travel words: chuyến bay (flight), chuyến xe (bus/ride), chuyến đi (trip).\n\nIt focuses on the event of traveling, not the whole experience like cuộc du lịch (a vacation/travel experience). Think of chuyến as “one trip” from A to B.",
+  "exampleSentencesTranslated": [
+    "He booked tickets for the trip to Da Nang next week.",
+    "She is really looking forward to the trip with her family this summer.",
+    "I remember the first time I took the trip on the trans-Vietnam train with my friends."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A journey or trip, often referring to a specific travel route.",
+      "es": "Un viaje o trayecto, a menudo refiriéndose a una ruta de viaje específica.",
+      "vi": "Một chuyến đi hoặc hành trình, thường đề cập đến một lộ trình cụ thể."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chuyến",
+      "es": "viaje",
+      "en": "trip"
+    },
+    "createdAt": "2025-01-28T11:33:06.894Z",
+    "example": {
+      "es": "He reservado un billete para este viaje.",
+      "vi": "Tôi đã đặt vé cho chuyến đi này.",
+      "en": "I have booked a ticket for this trip."
+    }
+  },
+  "notes_md": "**chuyến** = a trip or a journey, usually one specific instance of going somewhere. It often refers to a single ride, flight, or travel event.\n\nIt’s a countable noun: *một chuyến, hai chuyến*. Very often paired with transport or travel words: *chuyến bay* (flight), *chuyến xe* (bus/ride), *chuyến đi* (trip).\n\nIt focuses on the event of traveling, not the whole experience like **cuộc du lịch** (a vacation/travel experience). Think of **chuyến** as “one trip” from A to B.",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi có một ___ đi du lịch.",
+      "word": "chuyến",
+      "translatedAnswer": {
+        "en": "trip"
+      },
+      "answer": "chuyến",
+      "translation": {
+        "en": "I have a trip to travel."
+      },
+      "hint": "c___n",
+      "choices": [
+        "chuyến",
+        "buổi",
+        "giờ"
+      ]
+    },
+    "createdAt": "2025-03-12T17:17:36.079Z",
+    "updatedAt": "2025-03-12T17:17:36.079Z",
+    "type": "multiChoiceQuiz",
+    "id": "4bfb67bf-6580-44ca-aedb-83580bf49cfa",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 1173,
+  "exampleSentences": [
+    "Anh đã đặt vé cho chuyến đi Đà Nẵng vào tuần sau.",
+    "Chị rất mong chờ chuyến du lịch cùng gia đình vào mùa hè này.",
+    "Em nhớ lần đầu tiên đi chuyến tàu xuyên Việt cùng bạn bè."
+  ],
+  "word": "chuyến",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "trip",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chuyến",
+    "bữa",
+    "giờ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "HXAAg0oWighAXT2vQETT"
+}

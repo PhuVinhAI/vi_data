@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T06:54:23.566Z",
+  "exampleSentencesTranslated": [
+    "I haven't seen you for a long time, are you well?",
+    "Have you been waiting here for a long time or just arrived?",
+    "I think if I have to wait for a long time, I will feel tired."
+  ],
+  "exampleSentences": [
+    "Em đã không gặp anh lâu rồi, anh có khỏe không?",
+    "Chị đợi ở đây lâu chưa hay mới đến?",
+    "Anh nghĩ nếu phải chờ lâu quá sẽ thấy mệt."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:46:44.552Z",
+    "definitions": {
+      "es": "Durante mucho tiempo; una larga duración.",
+      "en": "For a long time; a long duration.",
+      "vi": "Trong một thời gian dài; một khoảng thời gian dài."
+    },
+    "translations": {
+      "vi": "lâu",
+      "en": "long",
+      "es": "largo"
+    },
+    "example": {
+      "vi": "Tôi đã sống ở đây lâu rồi.",
+      "es": "He vivido aquí por mucho tiempo.",
+      "en": "I have lived here for a long time."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "lâu",
+    "sớm",
+    "ngắn"
+  ],
+  "notes": "lâu = a long time; long in terms of time (not length).  \n\nUsed after verbs to say something lasts long or happens after a long time. It often talks about waiting, living, knowing, etc.  \n\nCommon with time questions and “already”: you’ll see it in questions about duration and in phrases meaning “for a long time now.”  \n\nOpposites to remember: nhanh (fast), sớm (early).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:14:54.230Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "d69dd499-5578-4a1c-9cb1-ccd025c1d50c",
+    "content": {
+      "sentence": "Tôi đã đợi ___ rồi.",
+      "choices": [],
+      "word": "lâu",
+      "language": "vi",
+      "answer": "lâu",
+      "translation": {
+        "en": "I have waited a long time."
+      },
+      "translatedAnswer": {
+        "en": "long time"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T16:14:54.230Z"
+  },
+  "word": "lâu",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:14:54.230Z",
+    "content": {
+      "sentence": "Chúng ta đã không gặp nhau ___ rồi.",
+      "language": "vi",
+      "choices": [
+        "mãi",
+        "lâu",
+        "ngày"
+      ],
+      "answer": "lâu",
+      "word": "lâu",
+      "hint": "l__",
+      "translation": {
+        "en": "We haven't met for a long time."
+      },
+      "translatedAnswer": {
+        "en": "long time"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "9be59592-c0d5-48a1-af44-c17d1035bca9",
+    "createdAt": "2025-03-12T16:14:54.230Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "definition": "a long time",
+  "rank": 323,
+  "notes_md": "**lâu** = a long time; long in terms of time (not length).  \n\nUsed after verbs to say something lasts long or happens after a long time. It often talks about waiting, living, knowing, etc.  \n\nCommon with time questions and “already”: you’ll see it in questions about duration and in phrases meaning “for a long time now.”  \n\nOpposites to remember: **nhanh** (fast), **sớm** (early).",
+  "_id": "qGm3wSZ9y9jGvlvs8A6n"
+}

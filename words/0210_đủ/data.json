@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "dư",
+    "đủ",
+    "thiếu"
+  ],
+  "notes": "đủ means enough — as much as needed, not lacking.\n\nIt usually comes before a noun to show quantity: đủ + noun.  \n\nIt also goes with để + verb to show purpose or result.  \n\nNegative form is very common: không đủ = not enough.  \nOpposite idea: thiếu = to lack (strong contrast: đủ ↔ thiếu).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:44:35.667Z",
+    "id": "ca7ff044-e002-46d2-83a4-a299bf3c982a",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "enough"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ tiền để mua sách.",
+      "word": "đủ",
+      "choices": [
+        "nhiều",
+        "đủ",
+        "ít"
+      ],
+      "translation": {
+        "en": "I need enough money to buy books."
+      },
+      "answer": "đủ",
+      "hint": "d__"
+    },
+    "updatedAt": "2025-03-12T14:44:35.667Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "đủ",
+  "exampleSentencesTranslated": [
+    "I don't have enough time to finish the work today.",
+    "She has bought enough ingredients to cook this dish.",
+    "I don't feel confident enough to speak in front of many people."
+  ],
+  "rank": 210,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:41:40.575Z",
+  "fillBlankQuiz": {
+    "id": "f2988816-ee17-4074-b867-8215359838f9",
+    "createdAt": "2025-03-12T14:44:35.667Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I find enough time to study."
+      },
+      "answer": "đủ",
+      "choices": [],
+      "word": "đủ",
+      "translatedAnswer": {
+        "en": "enough"
+      },
+      "language": "vi",
+      "sentence": "Tôi thấy ___ thời gian để học."
+    },
+    "updatedAt": "2025-03-12T14:44:35.667Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "enough",
+  "flashcard": {
+    "translations": {
+      "es": "suficiente",
+      "en": "enough",
+      "vi": "đủ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I have eaten enough.",
+      "vi": "Tôi đã ăn đủ rồi.",
+      "es": "He comido suficiente."
+    },
+    "createdAt": "2025-01-28T12:18:44.663Z",
+    "definitions": {
+      "vi": "đủ; vừa đủ",
+      "en": "sufficient; enough",
+      "es": "suficiente; bastante"
+    }
+  },
+  "exampleSentences": [
+    "Anh không có đủ thời gian để hoàn thành công việc hôm nay.",
+    "Chị đã mua đủ nguyên liệu để nấu món ăn này rồi.",
+    "Em cảm thấy không đủ tự tin để nói chuyện trước nhiều người."
+  ],
+  "notes_md": "**đủ** means *enough* — as much as needed, not lacking.\n\nIt usually comes **before a noun** to show quantity: đủ + noun.  \n\nIt also goes with **để + verb** to show purpose or result.  \n\nNegative form is very common: **không đủ** = not enough.  \nOpposite idea: **thiếu** = to lack (strong contrast: đủ ↔ thiếu).",
+  "_id": "SsFXQu9TlYxqekrWltqa"
+}

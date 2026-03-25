@@ -1,0 +1,99 @@
+{
+  "rank": 2255,
+  "flashcard": {
+    "example": {
+      "en": "I like to eat grilled shrimp.",
+      "es": "Me gusta comer camarones a la parrilla.",
+      "vi": "Tôi thích ăn tôm nướng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A type of seafood that is commonly eaten, known as shrimp.",
+      "vi": "Một loại hải sản thường được ăn, được gọi là tôm.",
+      "es": "Un tipo de marisco que se consume comúnmente, conocido como camarón."
+    },
+    "translations": {
+      "es": "camarón",
+      "vi": "tôm",
+      "en": "shrimp"
+    },
+    "createdAt": "2025-01-28T11:48:28.275Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích ăn cơm chiên với tôm và rau củ vào buổi tối.",
+    "Anh mua tôm tươi ở chợ sáng nay để nấu bữa trưa cho cả nhà.",
+    "Chị ấy không ăn tôm vì bị dị ứng với hải sản."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**tôm** = shrimp. Small seafood with a shell, very common in Vietnamese food.\n\nIt’s a countable noun, and the classifier is **con** → *con tôm*, *hai con tôm*.  \nOften used in food names: **tôm hùm** (lobster), **tôm sú** (tiger shrimp), **tôm khô** (dried shrimp), **tôm chiên / luộc / nướng** (fried / boiled / grilled shrimp).  \n\nShrimp is a type of **hải sản** (seafood), so you’ll often see those words together.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "b690b572-7726-4c4d-b243-5fef19eac305",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "shrimp"
+      },
+      "answer": "tôm",
+      "hint": "t__m",
+      "word": "tôm",
+      "sentence": "Món ăn này có ___ rất ngon.",
+      "translation": {
+        "en": "This dish has very delicious shrimp."
+      },
+      "language": "vi",
+      "choices": [
+        "cá",
+        "mực",
+        "tôm"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:11:12.179Z",
+    "createdAt": "2025-03-12T14:11:12.179Z"
+  },
+  "word": "tôm",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "shrimp"
+      },
+      "answer": "tôm",
+      "word": "tôm",
+      "sentence": "Tôi thích ăn ___ trong bữa tối.",
+      "translation": {
+        "en": "I like to eat shrimp for dinner."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "id": "f6bb4ebf-3eb9-4cc2-8f28-ac2d52461974",
+    "createdAt": "2025-03-12T14:11:12.179Z",
+    "updatedAt": "2025-03-12T14:11:12.179Z"
+  },
+  "definition": "shrimp",
+  "choices": [
+    "tôm",
+    "cá",
+    "bò"
+  ],
+  "updatedAt": "2026-03-03T10:16:43.744Z",
+  "exampleSentencesTranslated": [
+    "I like to eat fried rice with shrimp and vegetables in the evening.",
+    "I bought fresh shrimp at the market this morning to cook lunch for the family.",
+    "She does not eat shrimp because she is allergic to seafood."
+  ],
+  "notes": "tôm = shrimp. Small seafood with a shell, very common in Vietnamese food.\n\nIt’s a countable noun, and the classifier is con → con tôm, hai con tôm.  \nOften used in food names: tôm hùm (lobster), tôm sú (tiger shrimp), tôm khô (dried shrimp), tôm chiên / luộc / nướng (fried / boiled / grilled shrimp).  \n\nShrimp is a type of hải sản (seafood), so you’ll often see those words together.",
+  "_id": "L2CEwx8sDv9kfX8uYD7x"
+}

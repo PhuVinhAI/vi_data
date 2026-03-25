@@ -1,0 +1,99 @@
+{
+  "definition": "sports",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh rất thích chơi thể thao vào mỗi buổi chiều sau giờ làm việc.",
+    "Chị thường xem các chương trình thể thao trên tivi cùng gia đình vào cuối tuần.",
+    "Em nghĩ rằng tập thể thao đều đặn giúp cơ thể khỏe mạnh hơn."
+  ],
+  "rank": 1431,
+  "word": "thể thao",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "thời trang",
+    "thể thao",
+    "giải trí"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "es": "Actividades físicas que implican competencia o ejercicio.",
+      "vi": "Các hoạt động thể chất liên quan đến cạnh tranh hoặc tập thể dục.",
+      "en": "Physical activities that involve competition or exercise."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:37:27.730Z",
+    "example": {
+      "en": "I like to play sports on the weekend.",
+      "es": "Me gusta practicar deportes los fines de semana.",
+      "vi": "Tôi thích chơi thể thao vào cuối tuần."
+    },
+    "translations": {
+      "en": "sports",
+      "vi": "thể thao",
+      "es": "deportes"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He really likes playing sports every afternoon after work.",
+    "She often watches sports programs on TV with her family on weekends.",
+    "I think that exercising with sports regularly makes the body healthier."
+  ],
+  "notes_md": "**Thể thao** means **sports** in general — physical activities like football, swimming, basketball.\n\nIt’s an uncountable noun when you mean “sports” in general: *thích thể thao, xem thể thao, tập thể thao*.  \nTo talk about one specific sport, use **môn thể thao** (môn = subject/sport).  \n\nClose word: **vận động** (physical movement/exercise) — broader, not always competitive like *thể thao*.",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I like to play sports on the weekend."
+      },
+      "answer": "thể thao",
+      "choices": [
+        "thể thao",
+        "âm nhạc",
+        "văn học"
+      ],
+      "hint": "t___o",
+      "language": "vi",
+      "sentence": "Tôi thích chơi ___ vào cuối tuần.",
+      "word": "thể thao",
+      "translatedAnswer": {
+        "en": "sports"
+      }
+    },
+    "createdAt": "2025-03-12T13:59:28.992Z",
+    "updatedAt": "2025-03-12T13:59:28.992Z",
+    "id": "66863399-05a2-4ea7-8649-b2de77359c5b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T08:48:55.002Z",
+  "notes": "Thể thao means sports in general — physical activities like football, swimming, basketball.\n\nIt’s an uncountable noun when you mean “sports” in general: thích thể thao, xem thể thao, tập thể thao.  \nTo talk about one specific sport, use môn thể thao (môn = subject/sport).  \n\nClose word: vận động (physical movement/exercise) — broader, not always competitive like thể thao.",
+  "fillBlankQuiz": {
+    "id": "60ef6884-6108-48bd-9457-e9bfe1327e87",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I like to play sports on the weekend."
+      },
+      "answer": "thể thao",
+      "choices": [],
+      "word": "thể thao",
+      "sentence": "Tôi thích chơi ___ vào cuối tuần.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sports"
+      }
+    },
+    "createdAt": "2025-03-12T13:59:28.992Z",
+    "updatedAt": "2025-03-12T13:59:28.992Z"
+  },
+  "_id": "If7b4xzA1AfI4juPDT92"
+}

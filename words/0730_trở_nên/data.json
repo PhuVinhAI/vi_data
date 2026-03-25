@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "bắt đầu",
+    "trở nên",
+    "giữ lại"
+  ],
+  "rank": 730,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:04:25.172Z",
+    "updatedAt": "2025-03-12T15:04:25.172Z",
+    "content": {
+      "sentence": "Cô ấy ___ xinh đẹp hơn trước.",
+      "language": "vi",
+      "word": "trở nên",
+      "hint": "tr___n",
+      "answer": "trở nên",
+      "translatedAnswer": {
+        "en": "becomes"
+      },
+      "choices": [
+        "trở thành",
+        "trở nên",
+        "trở lại"
+      ],
+      "translation": {
+        "en": "She becomes more beautiful than before."
+      }
+    },
+    "id": "9e48e6dc-6218-4e34-86ab-3c87c15f5e3b"
+  },
+  "word": "trở nên",
+  "notes": "trở nên = to become, to change into a new state or condition. It focuses on a gradual change in quality or feeling.\n\nIt’s usually followed by an adjective (better, sad, serious, difficult). You use it when something changes over time, not instantly.\n\nDon’t confuse it with trở thành. Trở thành is for becoming a person/job/status, while trở nên is for becoming a state or quality.",
+  "exampleSentences": [
+    "Sau kỳ nghỉ hè, em muốn trở nên tự tin hơn khi nói tiếng Anh.",
+    "Nếu làm việc chăm chỉ, anh sẽ trở nên thành công trong tương lai.",
+    "Khi trời lạnh, không khí ở đây trở nên trong lành và dễ chịu hơn."
+  ],
+  "exampleSentencesTranslated": [
+    "After the summer holiday, I want to become more confident when speaking English.",
+    "If you work hard, you will become successful in the future.",
+    "When it is cold, the air here will become fresh and comfortable."
+  ],
+  "updatedAt": "2026-03-03T07:34:47.713Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Cô ấy ___ xinh đẹp hơn trước.",
+      "answer": "trở nên",
+      "language": "vi",
+      "word": "trở nên",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "becomes"
+      },
+      "translation": {
+        "en": "She becomes more beautiful than before."
+      }
+    },
+    "updatedAt": "2025-03-12T15:04:25.172Z",
+    "createdAt": "2025-03-12T15:04:25.172Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "f1825ee5-c035-4de5-87da-98409576d6e9"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:36:42.979Z",
+    "definitions": {
+      "en": "To become; to turn into a different state or condition.",
+      "es": "Convertirse; pasar a ser un estado o condición diferente.",
+      "vi": "Trở thành; chuyển sang một trạng thái hoặc điều kiện khác."
+    },
+    "example": {
+      "en": "She became more beautiful after putting on makeup.",
+      "es": "Ella se volvió más hermosa después de maquillarse.",
+      "vi": "Cô ấy trở nên xinh đẹp hơn sau khi trang điểm."
+    },
+    "translations": {
+      "en": "to become",
+      "es": "convertirse",
+      "vi": "trở nên"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**trở nên** = **to become**, to change into a new state or condition. It focuses on a gradual change in quality or feeling.\n\nIt’s usually followed by an **adjective** (better, sad, serious, difficult). You use it when something changes over time, not instantly.\n\n\nDon’t confuse it with **trở thành**. *Trở thành* is for becoming a person/job/status, while *trở nên* is for becoming a state or quality.",
+  "definition": "become",
+  "_id": "Y0eQWCq4jXlzwKoOLqlX"
+}

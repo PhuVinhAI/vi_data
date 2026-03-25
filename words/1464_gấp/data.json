@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi cần làm việc này thật ___.",
+      "answer": "gấp",
+      "translation": {
+        "en": "I need to do this urgently."
+      },
+      "choices": [
+        "gấp",
+        "chậm",
+        "dễ"
+      ],
+      "hint": "g___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "urgently"
+      },
+      "word": "gấp"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "e2b63a18-cb73-4276-b591-b9f811cc3a16",
+    "createdAt": "2025-03-12T17:15:01.451Z",
+    "updatedAt": "2025-03-12T17:15:01.451Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể giúp em với công việc gấp này không?",
+    "Chị ơi, có cuộc họp gấp vào chiều nay nhé.",
+    "Nếu có việc gấp, em cứ gọi cho anh bất cứ lúc nào."
+  ],
+  "definition": "urgent",
+  "rank": 1464,
+  "flashcard": {
+    "example": {
+      "es": "Necesito doblar este documento para la reunión.",
+      "en": "I need to fold this document for the meeting.",
+      "vi": "Tôi cần gấp tài liệu này cho cuộc họp."
+    },
+    "translations": {
+      "en": "fold",
+      "vi": "gấp",
+      "es": "doblar"
+    },
+    "definitions": {
+      "es": "Doblar o ser urgente.",
+      "vi": "Gấp có nghĩa là gập lại hoặc khẩn cấp.",
+      "en": "To fold or to be urgent."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:52:06.464Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "gấp usually means urgent — something that needs to be done right away. It describes nouns like việc, chuyện, tình huống, and comes after the noun (việc gấp, tin gấp).\n\nIt also very commonly means to fold (like folding paper or clothes), used as a regular verb.\n\nAnother super common meaning is “times more” / multiplied”.  \n\nTo remember: gấp = “pressing” (urgent) or “folding,” both give a sense of something being tightened or increased.",
+  "choices": [
+    "chậm",
+    "gấp",
+    "cao"
+  ],
+  "word": "gấp",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you help me with this urgent task?",
+    "Hey, there is an urgent meeting this afternoon.",
+    "If there is something urgent, just call me anytime."
+  ],
+  "notes_md": "**gấp** usually means **urgent** — something that needs to be done right away. It describes nouns like *việc, chuyện, tình huống*, and comes after the noun (việc gấp, tin gấp).\n\nIt also very commonly means **to fold** (like folding paper or clothes), used as a regular verb.\n\nAnother super common meaning is **“times more” / multiplied”**.  \n\nTo remember: *gấp* = “pressing” (urgent) or “folding,” both give a sense of something being tightened or increased.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:15:01.451Z",
+    "updatedAt": "2025-03-12T17:15:01.451Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "be95c7c9-3a2b-4f95-86c8-4635463bcb3e",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "gấp",
+      "sentence": "Tôi cần làm việc này thật ___.",
+      "word": "gấp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "urgently"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I need to do this urgently."
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T08:52:15.275Z",
+  "_id": "5cMZuWnDz5aIzn00pEbj"
+}

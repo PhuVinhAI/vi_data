@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "374f8178-be58-4831-af89-b343a9200bcc",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:42:36.244Z",
+    "createdAt": "2025-03-12T13:42:36.244Z",
+    "content": {
+      "sentence": "Họ sẽ ___ vào cuối tháng.",
+      "word": "cưới",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "get married"
+      },
+      "translation": {
+        "en": "They will get married at the end of the month."
+      },
+      "answer": "cưới",
+      "choices": []
+    }
+  },
+  "notes": "cưới = to marry, to get married (usually focusing on the act of marrying someone).\n\nIt’s a verb and needs an object: you cưới ai (marry someone). It often goes with words about weddings like đám cưới (wedding), lễ cưới (wedding ceremony), vợ/chồng (wife/husband).\n\nRelated word: kết hôn = to get married (more formal, used in documents or announcements).",
+  "updatedAt": "2026-03-03T09:40:14.034Z",
+  "notes_md": "**cưới** = to marry, to get married (usually focusing on the act of marrying someone).\n\nIt’s a verb and needs an object: you **cưới ai** (marry someone). It often goes with words about weddings like *đám cưới* (wedding), *lễ cưới* (wedding ceremony), *vợ/chồng* (wife/husband).\n\n\nRelated word: **kết hôn** = to get married (more formal, used in documents or announcements).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:42:36.244Z",
+    "createdAt": "2025-03-12T13:42:36.244Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Chúng tôi sẽ ___ vào cuối năm.",
+      "word": "cưới",
+      "translatedAnswer": {
+        "en": "get married"
+      },
+      "translation": {
+        "en": "We will get married at the end of the year."
+      },
+      "answer": "cưới",
+      "choices": [
+        "cưới",
+        "ly hôn",
+        "đính hôn"
+      ],
+      "hint": "c__i"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "3869fb0d-c9c6-4300-ac0a-d4c655df6b83",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I want to marry you next autumn.",
+    "My older sister will marry her lover at the end of this month.",
+    "My friend plans to marry after finishing university."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To marry or to get married.",
+      "es": "Casarse o contraer matrimonio.",
+      "vi": "Kết hôn hoặc tổ chức lễ cưới."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "marry",
+      "es": "casar",
+      "vi": "cưới"
+    },
+    "createdAt": "2025-01-28T11:21:09.361Z",
+    "example": {
+      "en": "They will get married at the end of this month.",
+      "vi": "Họ sẽ cưới vào cuối tháng này.",
+      "es": "Ellos se casarán a finales de este mes."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cưới",
+    "học",
+    "chơi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cưới",
+  "exampleSentences": [
+    "Anh muốn cưới em vào mùa thu năm sau.",
+    "Chị gái anh sẽ cưới người yêu vào cuối tháng này.",
+    "Bạn của em định cưới sau khi học xong đại học."
+  ],
+  "rank": 1912,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "marry",
+  "_id": "E8HnrDkuQ5kWXfgTB2wv"
+}

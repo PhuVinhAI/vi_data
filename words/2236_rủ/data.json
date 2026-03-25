@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:55:50.753Z",
+    "updatedAt": "2025-03-12T15:55:50.753Z",
+    "content": {
+      "translation": {
+        "en": "Do you want to invite someone to go out?"
+      },
+      "word": "rủ",
+      "language": "vi",
+      "sentence": "Bạn có ___ đi chơi không?",
+      "choices": [
+        "mời",
+        "rủ",
+        "kêu"
+      ],
+      "hint": "r__",
+      "translatedAnswer": {
+        "en": "invite"
+      },
+      "answer": "rủ"
+    },
+    "id": "e4096a83-6ec2-4209-a51e-d1afdba49a28",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**rủ** = to invite someone to do something together, usually something casual or social. It feels friendly, not formal.\n\nYou use it when you suggest an activity and want the other person to join you. It’s about doing something together, not just inviting someone to a place.\n\n\nClose synonym: **mời** (more polite/formal, often used for offering food or inviting guests).  \nIf you just suggest an idea without directly inviting someone, you’d use **đề nghị**, which feels less personal.",
+  "exampleSentencesTranslated": [
+    "Tonight I will invite you to go to the movies with friends.",
+    "Every weekend, she often invites everyone to go on an outdoor picnic.",
+    "Do you want to invite Lan to join the new English class?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "rủ",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi muốn rủ bạn đi xem phim.",
+      "es": "Quiero invitarte a ir al cine.",
+      "en": "I want to invite you to go to the movies."
+    },
+    "definitions": {
+      "vi": "Mời ai đó làm điều gì đó.",
+      "en": "To invite someone to do something.",
+      "es": "Invitar a alguien a hacer algo."
+    },
+    "createdAt": "2025-01-28T13:27:58.009Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "rủ",
+      "en": "invite",
+      "es": "invitar"
+    }
+  },
+  "updatedAt": "2026-03-03T10:14:43.840Z",
+  "fillBlankQuiz": {
+    "id": "e68d6e51-0104-43b0-8b22-f38e519789da",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "Do you want to invite someone to go out?"
+      },
+      "word": "rủ",
+      "language": "vi",
+      "choices": [],
+      "sentence": "Bạn có ___ đi chơi không?",
+      "answer": "rủ",
+      "translatedAnswer": {
+        "en": "invite"
+      }
+    },
+    "updatedAt": "2025-03-12T15:55:50.753Z",
+    "createdAt": "2025-03-12T15:55:50.753Z"
+  },
+  "choices": [
+    "rủ",
+    "giúp",
+    "tặng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Tối nay anh sẽ rủ em đi xem phim cùng bạn bè.",
+    "Mỗi cuối tuần, chị thường rủ mọi người đi dã ngoại ngoài trời.",
+    "Em muốn rủ Lan tham gia lớp học tiếng Anh mới không?"
+  ],
+  "definition": "invite (to do something together)",
+  "notes": "rủ = to invite someone to do something together, usually something casual or social. It feels friendly, not formal.\n\nYou use it when you suggest an activity and want the other person to join you. It’s about doing something together, not just inviting someone to a place.\n\nClose synonym: mời (more polite/formal, often used for offering food or inviting guests).  \nIf you just suggest an idea without directly inviting someone, you’d use đề nghị, which feels less personal.",
+  "rank": 2236,
+  "_id": "kxh8YW6EQDw1LcxQMjO0"
+}

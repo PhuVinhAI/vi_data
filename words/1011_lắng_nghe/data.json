@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "es": "escuchar",
+      "en": "listen",
+      "vi": "lắng nghe"
+    },
+    "example": {
+      "vi": "Tôi thích lắng nghe nhạc khi làm việc.",
+      "en": "I like to listen to music while working.",
+      "es": "Me gusta escuchar música mientras trabajo."
+    },
+    "definitions": {
+      "en": "To pay attention to sound or to hear something.",
+      "es": "Prestar atención al sonido o escuchar algo.",
+      "vi": "Chú ý đến âm thanh hoặc nghe một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:09:44.744Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "lắng nghe = to really listen, with attention and care (not just hear sounds).\n\nIt’s a verb. You use it when you focus on someone’s words, feelings, or sounds on purpose.  \nStronger and more intentional than just nghe (hear/listen casually).\n\nMemory tip: nghe = hear; lắng nghe = listen carefully, with your heart + brain.",
+  "exampleSentencesTranslated": [
+    "He always tries to listen to everyone's opinions in the group.",
+    "She knows how to listen when I talk about my sad stories.",
+    "If you want to understand others, you should learn how to listen."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lắng nghe",
+  "choices": [
+    "lắng nghe",
+    "giải thích",
+    "trả lời"
+  ],
+  "exampleSentences": [
+    "Anh luôn cố gắng lắng nghe ý kiến của mọi người trong nhóm.",
+    "Chị ấy biết cách lắng nghe khi em kể về chuyện buồn của mình.",
+    "Nếu em muốn hiểu người khác, em nên học cách lắng nghe."
+  ],
+  "updatedAt": "2026-03-03T08:03:46.541Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:38:15.918Z",
+    "id": "79be68f3-6d40-4d72-98f4-16fddd945daf",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "l___ nghe",
+      "word": "lắng nghe",
+      "sentence": "Chúng ta cần ___ kỹ lời dạy.",
+      "answer": "lắng nghe",
+      "choices": [
+        "học hỏi",
+        "lắng nghe",
+        "nói chuyện"
+      ],
+      "translation": {
+        "en": "We need to listen carefully to the teachings."
+      },
+      "translatedAnswer": {
+        "en": "listen"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:38:15.918Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1011,
+  "definition": "listen",
+  "fillBlankQuiz": {
+    "id": "1c2c547d-9471-4cf6-be49-ec5dc51f522b",
+    "createdAt": "2025-03-12T16:38:15.918Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I want to listen to music."
+      },
+      "answer": "lắng nghe",
+      "translatedAnswer": {
+        "en": "listen"
+      },
+      "language": "vi",
+      "word": "lắng nghe",
+      "sentence": "Tôi muốn ___ âm nhạc."
+    },
+    "updatedAt": "2025-03-12T16:38:15.918Z",
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**lắng nghe** = to really listen, with attention and care (not just hear sounds).\n\nIt’s a verb. You use it when you focus on someone’s words, feelings, or sounds on purpose.  \nStronger and more intentional than just **nghe** (hear/listen casually).\n\n\nMemory tip: **nghe** = hear; **lắng nghe** = listen carefully, with your heart + brain.",
+  "_id": "wNY5Ado78MkmtztGQ6Ld"
+}

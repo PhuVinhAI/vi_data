@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "To convey a message or advice in a gentle or subtle way.",
+      "es": "Transmitir un mensaje o consejo de manera suave o sutil.",
+      "vi": "Truyền đạt một thông điệp hoặc lời khuyên một cách nhẹ nhàng hoặc tinh tế."
+    },
+    "translations": {
+      "es": "recordar o aconsejar suavemente",
+      "vi": "nhắc nhở hoặc khuyên bảo nhẹ nhàng",
+      "en": "to remind or advise gently"
+    },
+    "createdAt": "2025-01-28T11:59:58.417Z",
+    "example": {
+      "es": "Ella a menudo da recordatorios suaves a sus amigos.",
+      "vi": "Cô ấy thường nhắn nhủ những điều tốt đẹp cho bạn bè.",
+      "en": "She often gives gentle reminders to her friends."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Trước khi đi làm xa, mẹ luôn nhắn nhủ em phải giữ gìn sức khỏe.",
+    "Thầy giáo nhắn nhủ học sinh chuẩn bị bài đầy đủ trước khi đến lớp.",
+    "Bố thường nhắn nhủ anh cố gắng học tập để có tương lai tốt."
+  ],
+  "rank": 2903,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:24:13.841Z",
+    "updatedAt": "2025-03-12T14:24:13.841Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "nhắn nhủ",
+      "sentence": "Tôi muốn ___ điều này cho bạn.",
+      "translation": {
+        "en": "I want to convey this to you."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "convey"
+      },
+      "answer": "nhắn nhủ"
+    },
+    "type": "fillBlankQuiz",
+    "id": "ba8b98aa-e44d-4865-86e1-814619d9c69a"
+  },
+  "definition": "remind or give advice",
+  "updatedAt": "2026-03-03T18:10:54.087Z",
+  "choices": [
+    "nhắn nhủ",
+    "khuyên bảo",
+    "thông báo"
+  ],
+  "exampleSentencesTranslated": [
+    "Before going to work far away, mom always remind or give advice me to take care of my health.",
+    "The teacher remind or give advice students to prepare the lessons carefully before coming to class.",
+    "Dad often remind or give advice me to study hard for a good future."
+  ],
+  "notes": "Nhắn nhủ means to gently remind or give caring advice, usually before someone leaves or does something important. It often has a warm, emotional tone — not just a neutral reminder.\n\nIt’s a verb, and the speaker usually cares about the listener (parents, teachers, loved ones). It often goes with words like phải, nên, nhớ to give advice or instructions.\n\nClose synonym: dặn dò (very similar, maybe slightly more about careful instructions).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Nhắn nhủ** means to gently remind or give caring advice, usually before someone leaves or does something important. It often has a warm, emotional tone — not just a neutral reminder.\n\nIt’s a verb, and the speaker usually cares about the listener (parents, teachers, loved ones). It often goes with words like *phải, nên, nhớ* to give advice or instructions.\n\n\nClose synonym: **dặn dò** (very similar, maybe slightly more about careful instructions).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "nhắn nhủ",
+  "multiChoiceQuiz": {
+    "id": "9439a00a-1de1-4c03-a7a0-478dbf6dbd12",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I have a message for you about the project."
+      },
+      "choices": [
+        "nhắn nhủ",
+        "thông điệp",
+        "lời nhắn"
+      ],
+      "language": "vi",
+      "hint": "nh__ nh__",
+      "word": "nhắn nhủ",
+      "sentence": "Tôi có ___ cho bạn về dự án.",
+      "translatedAnswer": {
+        "en": "message"
+      },
+      "answer": "nhắn nhủ"
+    },
+    "updatedAt": "2025-03-12T14:24:13.841Z",
+    "createdAt": "2025-03-12T14:24:13.841Z"
+  },
+  "_id": "O4Dcvfs1cVtS8nWncvWr"
+}

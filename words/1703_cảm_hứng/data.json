@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:21:46.705Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:21:46.705Z",
+    "content": {
+      "word": "cảm hứng",
+      "language": "vi",
+      "sentence": "Tôi cần ___ để viết bài thơ.",
+      "choices": [
+        "sự sáng tạo",
+        "cảm hứng",
+        "động lực"
+      ],
+      "hint": "c____ng",
+      "answer": "cảm hứng",
+      "translation": {
+        "en": "I need inspiration to write a poem."
+      },
+      "translatedAnswer": {
+        "en": "inspiration"
+      }
+    },
+    "id": "1cf7d62a-0c70-4d9b-8f4a-1c8c80b4f377"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**cảm hứng** = inspiration — that mental spark that makes you want to create or do something.\n\nIt’s an uncountable noun, so you usually say *có cảm hứng*, *mất cảm hứng*, *tìm cảm hứng*. Very common collocations: *truyền cảm hứng*, *mang lại cảm hứng*, *nguồn cảm hứng*.  \n\n\nClose word: **động lực** = motivation. *Cảm hứng* is the creative spark; *động lực* is the drive that pushes you to keep going.",
+  "choices": [
+    "cảm hứng",
+    "kỷ niệm",
+    "giấc mơ"
+  ],
+  "rank": 1703,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cảm hứng",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:21:46.705Z",
+    "id": "32f9d05f-10ab-40de-9b61-696bbc1c94cb",
+    "content": {
+      "translatedAnswer": {
+        "en": "inspiration"
+      },
+      "translation": {
+        "en": "I need inspiration to write a poem."
+      },
+      "answer": "cảm hứng",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cần ___ để viết bài thơ.",
+      "word": "cảm hứng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:21:46.705Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "She often finds inspiration from her favorite books.",
+    "When he listens to music, he feels more inspiration to work.",
+    "Good friends always bring inspiration to me every day."
+  ],
+  "definition": "inspiration",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:56:37.371Z",
+    "translations": {
+      "vi": "cảm hứng",
+      "es": "inspiración",
+      "en": "inspiration"
+    },
+    "example": {
+      "vi": "Tôi luôn tìm kiếm cảm hứng trong cuộc sống.",
+      "es": "Siempre busco inspiración en la vida.",
+      "en": "I always seek inspiration in life."
+    },
+    "definitions": {
+      "en": "A feeling of enthusiasm or creativity that motivates someone to do something.",
+      "vi": "Cảm giác hứng thú hoặc sáng tạo thúc đẩy ai đó làm điều gì đó.",
+      "es": "Un sentimiento de entusiasmo o creatividad que motiva a alguien a hacer algo."
+    }
+  },
+  "notes": "cảm hứng = inspiration — that mental spark that makes you want to create or do something.\n\nIt’s an uncountable noun, so you usually say có cảm hứng, mất cảm hứng, tìm cảm hứng. Very common collocations: truyền cảm hứng, mang lại cảm hứng, nguồn cảm hứng.  \n\nClose word: động lực = motivation. Cảm hứng is the creative spark; động lực is the drive that pushes you to keep going.",
+  "updatedAt": "2026-03-03T09:18:11.561Z",
+  "exampleSentences": [
+    "Chị thường tìm cảm hứng từ những cuốn sách yêu thích của mình.",
+    "Khi anh nghe nhạc, anh cảm thấy nhiều cảm hứng hơn để làm việc.",
+    "Những người bạn tốt luôn mang lại cảm hứng cho em mỗi ngày."
+  ],
+  "_id": "cqKS2xlshaanD79kIzut"
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "sản phẩm",
+    "cửa hàng",
+    "dịch vụ"
+  ],
+  "updatedAt": "2026-03-03T06:37:54.122Z",
+  "exampleSentences": [
+    "Chị muốn mua sản phẩm này vì nó rất nổi tiếng trên mạng.",
+    "Anh đã thử sản phẩm mới của công ty và thấy khá hài lòng.",
+    "Em nên đọc kỹ thông tin trước khi chọn mua một sản phẩm bất kỳ."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "sản phẩm",
+        "sản phẩms",
+        "SẢN PHẨM"
+      ],
+      "answer": "sản phẩm",
+      "translation": {
+        "en": "We have received a new product."
+      },
+      "translatedAnswer": {
+        "en": "product"
+      },
+      "language": "vi",
+      "hint": "s___m",
+      "word": "sản phẩm",
+      "sentence": "Chúng tôi đã nhận được ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:49:34.897Z",
+    "type": "multiChoiceQuiz",
+    "id": "e1b57609-dc8a-40a1-b76d-3eb8e1754dc5",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:49:34.897Z"
+  },
+  "word": "sản phẩm",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "She wants to buy this product because it is very popular online.",
+    "He tried the new product from the company and felt quite satisfied.",
+    "You should read the information carefully before choosing to buy any product."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:19:52.090Z",
+    "translations": {
+      "es": "producto",
+      "en": "product",
+      "vi": "sản phẩm"
+    },
+    "example": {
+      "vi": "Sản phẩm này rất chất lượng.",
+      "es": "Este producto es de muy alta calidad.",
+      "en": "This product is of very high quality."
+    },
+    "definitions": {
+      "es": "Un artículo que se fabrica o refina para la venta.",
+      "en": "An item that is manufactured or refined for sale.",
+      "vi": "Một mặt hàng được sản xuất hoặc tinh chế để bán."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Sản phẩm means product — something that is made to sell or use. It can be physical (like food, clothes, electronics) or abstract (like a creative or digital product).\n\nIt’s a countable noun. Use classifiers like một sản phẩm, hai sản phẩm (no special classifier needed in most cases).  \nOften goes with words like mới (new), chất lượng cao (high quality), chính hãng (authentic).\n\nRelated word: hàng hóa = goods (more general, often for trade or bulk items).",
+  "notes_md": "**Sản phẩm** means *product* — something that is made to sell or use. It can be physical (like food, clothes, electronics) or abstract (like a creative or digital product).\n\nIt’s a countable noun. Use classifiers like **một sản phẩm**, **hai sản phẩm** (no special classifier needed in most cases).  \nOften goes with words like **mới** (new), **chất lượng cao** (high quality), **chính hãng** (authentic).\n\n\nRelated word: **hàng hóa** = goods (more general, often for trade or bulk items).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng tôi đã nhận được ___ mới.",
+      "word": "sản phẩm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "product"
+      },
+      "answer": "sản phẩm",
+      "translation": {
+        "en": "We have received a new product."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T16:49:34.897Z",
+    "id": "a1350d1f-1591-443f-8844-414cc4528ddd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:49:34.897Z"
+  },
+  "rank": 172,
+  "definition": "product",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "ypgLEhJENdP6ypT47Zhw"
+}

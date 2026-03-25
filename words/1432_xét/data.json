@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:49:01.059Z",
+  "exampleSentencesTranslated": [
+    "I will consider your application carefully before making a decision.",
+    "I need to consider different factors when choosing a workplace.",
+    "The teacher will consider the grades and study attitude of the students."
+  ],
+  "rank": 1432,
+  "word": "xét",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:28:05.102Z",
+    "id": "ef19f331-3915-468b-a7f0-25e1d9ee0c81",
+    "content": {
+      "sentence": "Bạn có muốn ___ vấn đề không?",
+      "translatedAnswer": {
+        "en": "consider"
+      },
+      "language": "vi",
+      "word": "xét",
+      "choices": [
+        "xét",
+        "đánh giá",
+        "phân tích"
+      ],
+      "hint": "x__",
+      "translation": {
+        "en": "Do you want to consider the issue?"
+      },
+      "answer": "xét"
+    },
+    "updatedAt": "2025-03-12T14:28:05.102Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes": "xét = to consider, examine, or review something before deciding. It’s about looking at details carefully.\n\nYou use it with things like hồ sơ (applications), vấn đề (issues), khả năng (possibility), điều kiện (conditions). It often implies some level of evaluation or judgment.  \n\nVery common in fixed pairs: xem xét (consider carefully), xét lại (reconsider), xét xử (judge in court).",
+  "choices": [
+    "xét",
+    "giải",
+    "gửi"
+  ],
+  "exampleSentences": [
+    "Anh sẽ xét kỹ hồ sơ của em trước khi đưa ra quyết định.",
+    "Chị cần xét các yếu tố khác nhau khi chọn nơi làm việc.",
+    "Giáo viên sẽ xét điểm và thái độ học tập của học sinh."
+  ],
+  "notes_md": "**xét** = to consider, examine, or review something before deciding. It’s about looking at details carefully.\n\nYou use it with things like hồ sơ (applications), vấn đề (issues), khả năng (possibility), điều kiện (conditions). It often implies some level of evaluation or judgment.  \n\n\nVery common in fixed pairs: **xem xét** (consider carefully), **xét lại** (reconsider), **xét xử** (judge in court).",
+  "flashcard": {
+    "example": {
+      "es": "Necesitamos reconsiderar esta decisión.",
+      "en": "We need to reconsider this decision.",
+      "vi": "Chúng ta cần xét lại quyết định này."
+    },
+    "createdAt": "2025-01-28T12:04:16.447Z",
+    "definitions": {
+      "vi": "xem xét hoặc cân nhắc điều gì đó một cách cẩn thận",
+      "en": "to examine or consider something carefully",
+      "es": "examinar o considerar algo cuidadosamente"
+    },
+    "translations": {
+      "es": "examinar",
+      "en": "to examine",
+      "vi": "xét"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "consider",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "xét",
+      "translation": {
+        "en": "We need to consider this situation."
+      },
+      "choices": [],
+      "word": "xét",
+      "translatedAnswer": {
+        "en": "consider"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ tình huống này."
+    },
+    "updatedAt": "2025-03-12T14:28:05.102Z",
+    "id": "cad99445-5f49-4361-88e0-dd2b1afb75cd",
+    "createdAt": "2025-03-12T14:28:05.102Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "P2o49Qj5OPF3mw0Ggl2m"
+}

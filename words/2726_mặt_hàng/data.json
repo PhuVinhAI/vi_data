@@ -1,0 +1,99 @@
+{
+  "rank": 2726,
+  "exampleSentences": [
+    "Anh muốn biết cửa hàng này có những mặt hàng nào đặc biệt không?",
+    "Chị thường chọn mặt hàng nào khi đi siêu thị vào cuối tuần?",
+    "Em thấy mặt hàng này đang được giảm giá trong tháng này."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:59:04.437Z",
+    "translations": {
+      "en": "product",
+      "es": "producto",
+      "vi": "mặt hàng"
+    },
+    "definitions": {
+      "en": "An item or product that is available for sale.",
+      "es": "Un artículo o producto que está disponible para la venta.",
+      "vi": "Một mặt hàng hoặc sản phẩm có sẵn để bán."
+    },
+    "example": {
+      "es": "Esta tienda tiene una amplia variedad de productos.",
+      "vi": "Cửa hàng này có nhiều mặt hàng đa dạng.",
+      "en": "This store has a wide variety of products."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:23:15.846Z",
+    "createdAt": "2025-03-12T14:23:15.846Z",
+    "id": "85976f2d-136d-4de8-a112-49b7a997e29a",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cửa hàng này bán nhiều ___ khác nhau.",
+      "hint": "m___ hàng",
+      "word": "mặt hàng",
+      "language": "vi",
+      "choices": [
+        "sản phẩm",
+        "mặt hàng",
+        "dịch vụ"
+      ],
+      "translation": {
+        "en": "This store sells many different items."
+      },
+      "answer": "mặt hàng",
+      "translatedAnswer": {
+        "en": "items"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "mặt hàng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**mặt hàng** = a type of product or item for sale. It’s used when talking about categories of goods in a shop or business.\n\nIt’s a countable noun: *một mặt hàng, nhiều mặt hàng, các mặt hàng*. Often used in business or shopping contexts like *kinh doanh mặt hàng*, *cung cấp mặt hàng*, *mặt hàng mới / mặt hàng cao cấp*.  \n\nClose words: **sản phẩm** (product, more general) and **hàng hóa** (goods, broader and more formal).  \n\nThink of **mặt hàng** as “product line” or “item category,” not just one physical item.",
+  "choices": [
+    "mặt hàng",
+    "giá cả",
+    "sản xuất"
+  ],
+  "updatedAt": "2026-03-03T11:40:33.963Z",
+  "exampleSentencesTranslated": [
+    "Do you want to know if this store has any special type of product?",
+    "Which type of product do you usually choose when you go to the supermarket on weekends?",
+    "I see this type of product is on sale this month."
+  ],
+  "notes": "mặt hàng = a type of product or item for sale. It’s used when talking about categories of goods in a shop or business.\n\nIt’s a countable noun: một mặt hàng, nhiều mặt hàng, các mặt hàng. Often used in business or shopping contexts like kinh doanh mặt hàng, cung cấp mặt hàng, mặt hàng mới / mặt hàng cao cấp.  \n\nClose words: sản phẩm (product, more general) and hàng hóa (goods, broader and more formal).  \n\nThink of mặt hàng as “product line” or “item category,” not just one physical item.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:23:15.846Z",
+    "updatedAt": "2025-03-12T14:23:15.846Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "mặt hàng",
+      "translatedAnswer": {
+        "en": "item"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need to identify this item."
+      },
+      "sentence": "Chúng ta cần xác định ___ này.",
+      "word": "mặt hàng"
+    },
+    "type": "fillBlankQuiz",
+    "id": "f4907557-2352-4dd9-b58d-c6bf1cb27517"
+  },
+  "definition": "type of product",
+  "_id": "NmkI484Bkag6GvKtRzfs"
+}

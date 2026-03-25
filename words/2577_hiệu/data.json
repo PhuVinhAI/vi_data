@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "She usually buys books at a shop near her house.",
+    "He wants to find a shop that sells nice clothes for you.",
+    "I and my mom often go to a shop to buy school supplies."
+  ],
+  "rank": 2577,
+  "word": "hiệu",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:30:36.025Z",
+    "id": "ef0e1362-7017-424a-9d24-fac148273d89",
+    "content": {
+      "translation": {
+        "en": "We need efficiency in our work."
+      },
+      "answer": "hiệu",
+      "hint": "h___",
+      "word": "hiệu",
+      "choices": [
+        "hiệu",
+        "tốc độ",
+        "chất lượng"
+      ],
+      "sentence": "Chúng ta cần ___ trong công việc.",
+      "translatedAnswer": {
+        "en": "efficiency"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:30:36.025Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:24:57.379Z",
+  "choices": [
+    "hiệu",
+    "trường",
+    "chợ"
+  ],
+  "notes": "Hiệu means shop or store, usually a small business selling specific things. It’s a noun: một hiệu, hai hiệu.\n\nYou’ll mostly see it in fixed phrases like hiệu thuốc (pharmacy), hiệu sách (bookstore), hiệu may (tailor shop), hiệu ảnh (photo studio). On its own, it sounds a bit old-fashioned.\n\nA very common synonym is cửa hàng (more general and modern). If you’re not sure, cửa hàng is the safer everyday choice.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "tienda",
+      "vi": "hiệu",
+      "en": "store"
+    },
+    "definitions": {
+      "vi": "Một cửa hàng hoặc tiệm, đặc biệt là nơi bán sách.",
+      "en": "A store or shop, especially one that sells books.",
+      "es": "Una tienda o comercio, especialmente uno que vende libros."
+    },
+    "createdAt": "2025-01-28T12:06:40.937Z",
+    "example": {
+      "es": "Esta tienda tiene una librería muy bonita.",
+      "vi": "Cửa hàng này có hiệu sách rất đẹp.",
+      "en": "This store has a very nice bookstore."
+    }
+  },
+  "notes_md": "**Hiệu** means *shop* or *store*, usually a small business selling specific things. It’s a noun: **một hiệu, hai hiệu**.\n\nYou’ll mostly see it in fixed phrases like **hiệu thuốc** (pharmacy), **hiệu sách** (bookstore), **hiệu may** (tailor shop), **hiệu ảnh** (photo studio). On its own, it sounds a bit old-fashioned.\n\nA very common synonym is **cửa hàng** (more general and modern). If you’re not sure, *cửa hàng* is the safer everyday choice.",
+  "exampleSentences": [
+    "Chị thường đi mua sách ở một hiệu gần nhà.",
+    "Anh muốn tìm một hiệu bán quần áo đẹp cho em.",
+    "Em và mẹ hay đến hiệu để mua đồ dùng học tập."
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:30:36.025Z",
+    "id": "a4d46107-91b5-431d-bd8f-83294b8c66c4",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "hiệu",
+      "translation": {
+        "en": "This company is very efficient in the industry."
+      },
+      "choices": [],
+      "word": "hiệu",
+      "translatedAnswer": {
+        "en": "efficient"
+      },
+      "language": "vi",
+      "sentence": "Công ty này rất ___ trong ngành."
+    },
+    "updatedAt": "2025-03-12T14:30:36.025Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "shop",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "PrXuAdmylWeiRxGMKE6O"
+}

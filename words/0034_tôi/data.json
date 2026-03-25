@@ -1,0 +1,103 @@
+{
+  "exampleSentences": [
+    "tôi mua một cái áo.",
+    "tôi đọc một cuốn sách.",
+    "tôi gọi một ly cà phê."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "___ rất thích ăn phở.",
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "answer": "tôi",
+      "translation": {
+        "en": "I really like to eat pho."
+      },
+      "word": "tôi",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "93158c42-edc3-44a1-a9bb-8930c01250eb",
+    "createdAt": "2025-03-12T15:53:29.392Z",
+    "updatedAt": "2025-03-12T15:53:29.392Z"
+  },
+  "choices": [
+    "anh",
+    "tôi",
+    "em"
+  ],
+  "rank": 34,
+  "notes": "tôi = “I” (the speaker). It’s neutral and polite, safe to use in most situations, especially with people you don’t know well.\n\nIt works as a subject pronoun before verbs or adjectives.  \n\nCompared to other “I” words: mình is softer/more intimate, tao is rough or very informal. If you’re unsure, tôi is the safe choice.",
+  "definition": "I",
+  "sentenceBreakdowns": [
+    "tôi (I) + mua (buy) + một (a) + cái (classifier) + áo (shirt)",
+    "tôi (I) + đọc (read) + một (a) + cuốn (classifier) + sách (book)",
+    "tôi (I) + gọi (order) + một (a) + ly (cup) + cà phê (coffee)"
+  ],
+  "notes_md": "**tôi** = “I” (the speaker). It’s neutral and polite, safe to use in most situations, especially with people you don’t know well.\n\nIt works as a subject pronoun before verbs or adjectives.  \n\nCompared to other “I” words: **mình** is softer/more intimate, **tao** is rough or very informal. If you’re unsure, **tôi** is the safe choice.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "18027c26-a1a5-4185-8083-3e93ac5db984",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I really like to eat pho."
+      },
+      "word": "tôi",
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "answer": "tôi",
+      "hint": "t___",
+      "choices": [
+        "bạn",
+        "tôi",
+        "họ"
+      ],
+      "sentence": "___ rất thích ăn phở."
+    },
+    "updatedAt": "2025-03-12T15:53:29.392Z",
+    "createdAt": "2025-03-12T15:53:29.392Z"
+  },
+  "updatedAt": "2026-03-03T06:06:30.145Z",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "tôi",
+  "flashcard": {
+    "translations": {
+      "vi": "Tôi",
+      "en": "I",
+      "es": "Yo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I am a student.",
+      "es": "Yo soy estudiante.",
+      "vi": "Tôi là sinh viên."
+    },
+    "createdAt": "2025-01-28T13:41:10.602Z",
+    "definitions": {
+      "es": "Yo (pronombre de primera persona del singular)",
+      "en": "I (first person singular pronoun)",
+      "vi": "Tôi (đại từ nhân xưng ngôi thứ nhất số ít)"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I buy a shirt.",
+    "I read a book.",
+    "I order a coffee."
+  ],
+  "_id": "kN7aM5bIovJDx4MriPXD"
+}

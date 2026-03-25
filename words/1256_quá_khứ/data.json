@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "quá khứ",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:14:49.876Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "q___ khứ",
+      "answer": "quá khứ",
+      "translation": {
+        "en": "I do not remember my past."
+      },
+      "translatedAnswer": {
+        "en": "past"
+      },
+      "word": "quá khứ",
+      "sentence": "Tôi không nhớ ___ của mình.",
+      "language": "vi",
+      "choices": [
+        "hiện tại",
+        "tương lai",
+        "quá khứ"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:14:49.876Z",
+    "id": "efabf78f-8231-4bf8-9930-e63223dd1574"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**quá khứ** = the past. It’s the time before now — your personal history or history in general.\n\nIt’s a **noun**, so you often see it after words like *trong* (in), *về* (about), *thuộc về* (belong to), *trở lại* (go back to). It pairs naturally with *hiện tại* (present) and *tương lai* (future) — think of the classic trio: past–present–future.\n\nYou can use it for both personal memories and historical periods.  \n\nMemory hook: *quá* = “over” or “too much” → time that has already “gone over” = the past.",
+  "rank": 1256,
+  "choices": [
+    "tương lai",
+    "hiện tại",
+    "quá khứ"
+  ],
+  "notes": "quá khứ = the past. It’s the time before now — your personal history or history in general.\n\nIt’s a noun, so you often see it after words like trong (in), về (about), thuộc về (belong to), trở lại (go back to). It pairs naturally with hiện tại (present) and tương lai (future) — think of the classic trio: past–present–future.\n\nYou can use it for both personal memories and historical periods.  \n\nMemory hook: quá = “over” or “too much” → time that has already “gone over” = the past.",
+  "updatedAt": "2026-03-03T08:29:41.241Z",
+  "exampleSentences": [
+    "Anh thường kể cho em nghe những câu chuyện về quá khứ.",
+    "Chị không muốn nhắc lại những điều buồn trong quá khứ.",
+    "Em học được nhiều bài học quan trọng từ quá khứ của mình."
+  ],
+  "fillBlankQuiz": {
+    "id": "ac2d86fd-8c5b-429b-adaa-c7e4de2e967c",
+    "content": {
+      "translatedAnswer": {
+        "en": "past"
+      },
+      "translation": {
+        "en": "I do not remember my past."
+      },
+      "answer": "quá khứ",
+      "choices": [],
+      "sentence": "Tôi không nhớ ___ của mình.",
+      "language": "vi",
+      "word": "quá khứ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:14:49.876Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:14:49.876Z"
+  },
+  "exampleSentencesTranslated": [
+    "He often tells me stories about the past.",
+    "She does not want to mention sad things in the past.",
+    "I learned many important lessons from the past."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The time before the present; a period that has already happened.",
+      "es": "El tiempo antes del presente; un período que ya ha ocurrido.",
+      "vi": "Thời gian trước hiện tại; một khoảng thời gian đã xảy ra."
+    },
+    "example": {
+      "es": "A menudo pienso en mi pasado.",
+      "vi": "Tôi thường nhớ về quá khứ của mình.",
+      "en": "I often think about my past."
+    },
+    "translations": {
+      "en": "past",
+      "vi": "quá khứ",
+      "es": "pasado"
+    },
+    "createdAt": "2025-01-28T10:55:38.850Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "the past",
+  "_id": "6r0oL0I7ItGIQhUyukNf"
+}

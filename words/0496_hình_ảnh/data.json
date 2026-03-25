@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you send me the image of the document?",
+    "I think this image is very beautiful and meaningful.",
+    "I have already saved that image to the computer."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "hình ảnh",
+  "flashcard": {
+    "translations": {
+      "vi": "hình ảnh",
+      "en": "image",
+      "es": "imagen"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một đại diện cho hình thức bên ngoài của một người hoặc vật trong nghệ thuật.",
+      "es": "Una representación de la forma externa de una persona o cosa en el arte.",
+      "en": "A representation of the external form of a person or thing in art."
+    },
+    "createdAt": "2025-01-28T13:22:04Z",
+    "example": {
+      "vi": "Hình ảnh này rất đẹp.",
+      "es": "Esta imagen es muy hermosa.",
+      "en": "This image is very beautiful."
+    }
+  },
+  "updatedAt": "2026-03-03T07:11:49.774Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need to find new images."
+      },
+      "word": "hình ảnh",
+      "hint": "h____n",
+      "choices": [
+        "hình ảnh",
+        "video clip",
+        "bức tranh"
+      ],
+      "sentence": "Chúng ta cần tìm ___ mới.",
+      "translatedAnswer": {
+        "en": "images"
+      },
+      "answer": "hình ảnh"
+    },
+    "id": "d4ec7dc4-89f4-40ac-a895-fdddf8b68ad0",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:49:36.513Z",
+    "updatedAt": "2025-03-12T15:49:36.513Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hình ảnh** = image, picture (anything you can see visually: photo, illustration, visual).  \n\nIt’s a noun. You can say *một hình ảnh*, but for specific photos people often use classifiers like *tấm* or *bức* (tấm hình, bức ảnh).  \n\nCommon verbs with it: *chụp*, *lưu*, *gửi*, *đăng*, *chia sẻ*, *chỉnh sửa*, *hiện lên*.  \n\nIt can also mean someone’s public image or reputation (hình ảnh của một công ty / người nổi tiếng).  \n\nClose words: *hình* (short, casual), *bức ảnh* (more clearly “photo”).",
+  "definition": "image",
+  "notes": "hình ảnh = image, picture (anything you can see visually: photo, illustration, visual).  \n\nIt’s a noun. You can say một hình ảnh, but for specific photos people often use classifiers like tấm or bức (tấm hình, bức ảnh).  \n\nCommon verbs with it: chụp, lưu, gửi, đăng, chia sẻ, chỉnh sửa, hiện lên.  \n\nIt can also mean someone’s public image or reputation (hình ảnh của một công ty / người nổi tiếng).  \n\nClose words: hình (short, casual), bức ảnh (more clearly “photo”).",
+  "rank": 496,
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I like to see beautiful images."
+      },
+      "word": "hình ảnh",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "images"
+      },
+      "answer": "hình ảnh",
+      "sentence": "Tôi thích xem ___ đẹp.",
+      "choices": []
+    },
+    "id": "730c8398-5f9b-4e67-b816-fb662429a0ac",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:49:36.513Z",
+    "updatedAt": "2025-03-12T15:49:36.513Z"
+  },
+  "choices": [
+    "hình ảnh",
+    "bức thư",
+    "giọng nói"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị có thể gửi cho em hình ảnh của tài liệu không?",
+    "Anh thấy hình ảnh này rất đẹp và ý nghĩa.",
+    "Em đã lưu hình ảnh đó vào máy tính rồi."
+  ],
+  "_id": "jXy72dGI9TyAXcEgDdSj"
+}

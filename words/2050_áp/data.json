@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "The doctor said you should reduce pressure to protect your health.",
+    "She feels a lot of pressure in her new job.",
+    "I often feel pressure when I have to finish homework on time."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "translations": {
+      "vi": "áp lực",
+      "en": "pressure",
+      "es": "presión"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Siento presión en el trabajo.",
+      "en": "I feel pressure at work.",
+      "vi": "Tôi cảm thấy áp lực trong công việc."
+    },
+    "createdAt": "2025-01-28T13:24:13.149Z",
+    "definitions": {
+      "vi": "Lực tác động lên một vật, thường gây ra căng thẳng hoặc áp lực.",
+      "en": "The force exerted on an object, often causing stress or tension.",
+      "es": "La fuerza ejercida sobre un objeto, a menudo causando estrés o tensión."
+    }
+  },
+  "word": "áp",
+  "updatedAt": "2026-03-03T09:55:03.571Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:51:51.398Z",
+    "createdAt": "2025-03-12T15:51:51.398Z",
+    "id": "70f89d1c-3440-4082-a26d-4f492fe1b660",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "á__",
+      "choices": [
+        "nắng",
+        "áp",
+        "mát"
+      ],
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "translatedAnswer": {
+        "en": "oppressive"
+      },
+      "answer": "áp",
+      "language": "vi",
+      "translation": {
+        "en": "The weather today is very oppressive."
+      },
+      "word": "áp"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**áp** means *pressure*. On its own, it’s rarely used in daily speech — you’ll usually see it inside compound words.\n\nVery common combos: **áp lực** (pressure, stress), **huyết áp** (blood pressure), **áp suất** (physical pressure). So think of **áp** as the “pressure” core that combines with other words.\n\nIt’s a Sino‑Vietnamese root, so it sounds more formal and is often used in academic, medical, or technical contexts.\n\nTo remember it: **áp lực** = pressure/stress (life, work), while the opposite feeling would be **thoải mái** (relaxed).",
+  "definition": "pressure",
+  "notes": "áp means pressure. On its own, it’s rarely used in daily speech — you’ll usually see it inside compound words.\n\nVery common combos: áp lực (pressure, stress), huyết áp (blood pressure), áp suất (physical pressure). So think of áp as the “pressure” core that combines with other words.\n\nIt’s a Sino‑Vietnamese root, so it sounds more formal and is often used in academic, medical, or technical contexts.\n\nTo remember it: áp lực = pressure/stress (life, work), while the opposite feeling would be thoải mái (relaxed).",
+  "rank": 2050,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:51:51.398Z",
+    "updatedAt": "2025-03-12T15:51:51.398Z",
+    "content": {
+      "translation": {
+        "en": "The weather today is very oppressive."
+      },
+      "word": "áp",
+      "language": "vi",
+      "choices": [],
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "answer": "áp",
+      "translatedAnswer": {
+        "en": "oppressive"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "cccf9fd5-6b6e-48e4-b408-3f68820f9cd3"
+  },
+  "choices": [
+    "áp",
+    "lực",
+    "nhiệt"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Bác sĩ nói anh nên giảm áp để bảo vệ sức khỏe.",
+    "Chị cảm thấy nhiều áp trong công việc mới của mình.",
+    "Em thường bị áp khi phải hoàn thành bài tập đúng hạn."
+  ],
+  "_id": "k4XVrqJ3mm3wzbUP21Yh"
+}

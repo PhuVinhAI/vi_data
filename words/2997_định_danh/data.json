@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "định danh",
+    "định nghĩa",
+    "định vị"
+  ],
+  "notes": "định danh = identification; to identify who someone is or what something is.\n\nAs a verb, it means to confirm or recognize identity, often in admin or tech contexts (định danh khách hàng, định danh người dùng).  \n\nAs a noun, it’s more formal and often appears in fixed phrases like mã định danh (ID code) or thông tin định danh (identifying information).  \n\nClose to xác định (determine), but định danh focuses more on identity, not just figuring something out.",
+  "word": "định danh",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:27:34.934Z",
+    "content": {
+      "word": "định danh",
+      "choices": [
+        "định danh",
+        "tên gọi",
+        "mã số"
+      ],
+      "translation": {
+        "en": "I need a new identifier."
+      },
+      "answer": "định danh",
+      "hint": "đ___n",
+      "translatedAnswer": {
+        "en": "identifier"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ mới."
+    },
+    "type": "multiChoiceQuiz",
+    "id": "6adebb18-13d9-4359-9452-90ab2c8ff30c",
+    "createdAt": "2025-03-12T14:27:34.934Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 2997,
+  "exampleSentencesTranslated": [
+    "You need identification when accessing the company system.",
+    "Please provide identification to receive the reward.",
+    "The app requires users to enter personal identification."
+  ],
+  "updatedAt": "2026-03-03T18:21:06.884Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "c8bf13ca-1fdc-4666-b177-2f07c6a3201b",
+    "createdAt": "2025-03-12T14:27:34.934Z",
+    "updatedAt": "2025-03-12T14:27:34.934Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "identifier"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ mới.",
+      "answer": "định danh",
+      "translation": {
+        "en": "I need a new identifier."
+      },
+      "choices": [],
+      "word": "định danh"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "identification",
+  "flashcard": {
+    "translations": {
+      "es": "identificar",
+      "en": "identify",
+      "vi": "định danh"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Chúng ta cần định danh người này trước khi tiến hành.",
+      "en": "We need to identify this person before proceeding.",
+      "es": "Necesitamos identificar a esta persona antes de continuar."
+    },
+    "definitions": {
+      "es": "Identificar o designar a alguien o algo.",
+      "en": "To identify or designate someone or something.",
+      "vi": "Để xác định hoặc chỉ định ai đó hoặc cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:03:45.245Z"
+  },
+  "exampleSentences": [
+    "Anh cần định danh khi truy cập vào hệ thống công ty.",
+    "Chị vui lòng cung cấp định danh để nhận phần thưởng.",
+    "Ứng dụng yêu cầu người dùng nhập định danh cá nhân."
+  ],
+  "notes_md": "**định danh** = identification; to identify who someone is or what something is.\n\nAs a **verb**, it means to confirm or recognize identity, often in admin or tech contexts (định danh khách hàng, định danh người dùng).  \n\nAs a **noun**, it’s more formal and often appears in fixed phrases like *mã định danh* (ID code) or *thông tin định danh* (identifying information).  \n\nClose to **xác định** (determine), but *định danh* focuses more on identity, not just figuring something out.",
+  "_id": "OxymjrtYw092q8TG36Zv"
+}

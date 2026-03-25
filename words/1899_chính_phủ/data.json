@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chính phủ",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:14:28.265Z",
+    "type": "multiChoiceQuiz",
+    "id": "8b786878-b041-47b6-8df0-d421f19e4e38",
+    "content": {
+      "hint": "c___p",
+      "answer": "chính phủ",
+      "translatedAnswer": {
+        "en": "government"
+      },
+      "translation": {
+        "en": "I believe in the government of the country."
+      },
+      "language": "vi",
+      "sentence": "Tôi tin vào ___ của đất nước.",
+      "word": "chính phủ",
+      "choices": [
+        "chính phủ",
+        "quốc hội",
+        "thị trường"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:14:28.265Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1899,
+  "choices": [
+    "chính phủ",
+    "giáo viên",
+    "công ty"
+  ],
+  "notes_md": "**chính phủ** = government, the group of people who run a country and make big decisions. It usually means the national government, not local authorities.\n\nIt’s a noun and normally used without a classifier. You’ll often see it with a country name (chính phủ Việt Nam), or adjectives like *mới* (new), *hiện tại* (current).\n\nCommon pairings: *thành lập chính phủ* (form a government), *lật đổ chính phủ* (overthrow a government), *chính phủ trung ương* (central government).\n\nDon’t confuse it with **nhà nước** (the state, more about the system) or **chính quyền** (local authorities/administration).",
+  "notes": "chính phủ = government, the group of people who run a country and make big decisions. It usually means the national government, not local authorities.\n\nIt’s a noun and normally used without a classifier. You’ll often see it with a country name (chính phủ Việt Nam), or adjectives like mới (new), hiện tại (current).\n\nCommon pairings: thành lập chính phủ (form a government), lật đổ chính phủ (overthrow a government), chính phủ trung ương (central government).\n\nDon’t confuse it with nhà nước (the state, more about the system) or chính quyền (local authorities/administration).",
+  "exampleSentences": [
+    "Chính phủ đang đưa ra nhiều chính sách mới để giúp người dân.",
+    "Anh nghe tin chính phủ sẽ hỗ trợ các doanh nghiệp nhỏ không?",
+    "Chính phủ đã quyết định tăng ngân sách cho giáo dục năm nay."
+  ],
+  "updatedAt": "2026-03-03T09:38:58.837Z",
+  "exampleSentencesTranslated": [
+    "The government is introducing many new policies to help the people.",
+    "Did you hear that the government will support small businesses?",
+    "The government has decided to increase the budget for education this year."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:14:28.265Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "government"
+      },
+      "translation": {
+        "en": "I believe in the government of the country."
+      },
+      "answer": "chính phủ",
+      "choices": [],
+      "sentence": "Tôi tin vào ___ của đất nước.",
+      "language": "vi",
+      "word": "chính phủ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:14:28.265Z",
+    "id": "f683cb4e-acc4-48fa-ad65-d9791c35bc93"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:55:20.679Z",
+    "translations": {
+      "es": "gobierno",
+      "vi": "chính phủ",
+      "en": "government"
+    },
+    "example": {
+      "en": "The government has introduced many new policies.",
+      "es": "El gobierno ha introducido muchas políticas nuevas.",
+      "vi": "Chính phủ đã đưa ra nhiều chính sách mới."
+    },
+    "definitions": {
+      "es": "El órgano de gobierno de una nación, estado o comunidad.",
+      "vi": "Cơ quan quản lý của một quốc gia, bang hoặc cộng đồng.",
+      "en": "The governing body of a nation, state, or community."
+    }
+  },
+  "definition": "government",
+  "_id": "6jSfbv4jOaLS54QM73wG"
+}

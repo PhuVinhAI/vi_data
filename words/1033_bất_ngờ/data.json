@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:26:09.193Z",
+    "type": "fillBlankQuiz",
+    "id": "2f6edd59-e8d6-48c3-903d-8f5eab213e3e",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:09.193Z",
+    "content": {
+      "sentence": "Tôi cảm thấy ___ khi gặp lại bạn.",
+      "language": "vi",
+      "word": "bất ngờ",
+      "choices": [],
+      "answer": "bất ngờ",
+      "translatedAnswer": {
+        "en": "surprised"
+      },
+      "translation": {
+        "en": "I was surprised when I met you again."
+      }
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He was very surprised to receive a gift from you.",
+    "She felt surprised by the result of the exam this time.",
+    "Everyone was surprised to hear the news that he moved."
+  ],
+  "definition": "surprised",
+  "flashcard": {
+    "example": {
+      "es": "Me sorprendió recibir esta noticia.",
+      "vi": "Tôi cảm thấy bất ngờ khi nhận được tin này.",
+      "en": "I was surprised when I received this news."
+    },
+    "definitions": {
+      "es": "Inesperado o sorprendente.",
+      "vi": "Không mong đợi hoặc gây bất ngờ.",
+      "en": "Unexpected or surprising."
+    },
+    "createdAt": "2025-01-28T13:00:56.746Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bất ngờ",
+      "es": "sorpresa",
+      "en": "surprise"
+    }
+  },
+  "notes": "bất ngờ = surprised / unexpected. It describes a sudden feeling when something happens that you didn’t expect.\n\nIt’s an adjective. You can use it after cảm thấy or rất/khá/hơi (rất bất ngờ, khá bất ngờ). It also describes events: tin bất ngờ, kết quả bất ngờ.\n\nAlso: làm ai (đó) bất ngờ = to surprise someone.\n\nClose synonym: ngạc nhiên (more neutral).  \nOpposite idea: không ngạc nhiên (not surprised).",
+  "exampleSentences": [
+    "Anh rất bất ngờ khi nhận được món quà từ em.",
+    "Chị cảm thấy bất ngờ vì kết quả của kỳ thi lần này.",
+    "Mọi người đều bất ngờ khi nghe tin anh ấy chuyển nhà."
+  ],
+  "updatedAt": "2026-03-03T08:06:00.357Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:26:09.193Z",
+    "type": "multiChoiceQuiz",
+    "id": "13aa3767-4a29-412b-afe2-4bc05a9b7229",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:09.193Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "surprised"
+      },
+      "translation": {
+        "en": "I felt surprised when I heard the news."
+      },
+      "hint": "b___ n___",
+      "answer": "bất ngờ",
+      "choices": [
+        "bất ngờ",
+        "thú vị",
+        "hạnh phúc"
+      ],
+      "sentence": "Tôi cảm thấy ___ khi nghe tin.",
+      "language": "vi",
+      "word": "bất ngờ"
+    }
+  },
+  "choices": [
+    "bất ngờ",
+    "hạnh phúc",
+    "tức giận"
+  ],
+  "rank": 1033,
+  "notes_md": "**bất ngờ** = surprised / unexpected. It describes a sudden feeling when something happens that you didn’t expect.\n\nIt’s an adjective. You can use it after **cảm thấy** or **rất/khá/hơi** (rất bất ngờ, khá bất ngờ). It also describes events: **tin bất ngờ**, **kết quả bất ngờ**.\n\nAlso: **làm ai (đó) bất ngờ** = to surprise someone.\n\nClose synonym: **ngạc nhiên** (more neutral).  \nOpposite idea: **không ngạc nhiên** (not surprised).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bất ngờ",
+  "_id": "e9YAs1SrNtZ06QaNhddj"
+}

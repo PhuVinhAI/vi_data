@@ -1,0 +1,98 @@
+{
+  "rank": 2106,
+  "exampleSentences": [
+    "Em bị cảm nên mũi của em bị nghẹt cả ngày hôm nay.",
+    "Chị thường rửa mặt sạch sẽ để giữ mũi không bị nổi mụn.",
+    "Anh có thể ngửi thấy mùi bánh mì thơm bằng mũi của mình."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "My nose is blocked.",
+      "es": "Mi nariz está tapada.",
+      "vi": "Mũi của tôi bị nghẹt."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:44:59.341Z",
+    "translations": {
+      "en": "nose",
+      "vi": "mũi",
+      "es": "nariz"
+    },
+    "definitions": {
+      "en": "The part of the face that contains the nostrils and organs of smell.",
+      "es": "La parte de la cara que contiene las fosas nasales y los órganos del olfato.",
+      "vi": "Phần của khuôn mặt chứa lỗ mũi và các cơ quan khứu giác."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "d939fab9-ce7e-4b91-bcf9-f0f8b732a782",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "nose"
+      },
+      "answer": "mũi",
+      "translation": {
+        "en": "She has a very sensitive nose."
+      },
+      "language": "vi",
+      "choices": [
+        "mắt",
+        "miệng",
+        "mũi"
+      ],
+      "hint": "m__i",
+      "word": "mũi",
+      "sentence": "Cô ấy có ___ rất nhạy cảm."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:07:27.070Z",
+    "createdAt": "2025-03-12T14:07:27.070Z"
+  },
+  "word": "mũi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**mũi** means **nose**, the part of your face you breathe through. It’s a noun, usually counted with **cái** → *cái mũi*.  \n\nIt often appears in body descriptions like **cao mũi** (high nose bridge) or **đau mũi** (nose pain).  \n\nVery common extra meanings: **mũi** can mean a **point/tip** (mũi dao = knife tip), a **needle** (mũi kim), or a **shot/injection** (mũi tiêm).  \n\nThink of it as “something that sticks out or points forward” — that core idea connects the nose, a needle, and a blade tip.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "mũi means nose, the part of your face you breathe through. It’s a noun, usually counted with cái → cái mũi.  \n\nIt often appears in body descriptions like cao mũi (high nose bridge) or đau mũi (nose pain).  \n\nVery common extra meanings: mũi can mean a point/tip (mũi dao = knife tip), a needle (mũi kim), or a shot/injection (mũi tiêm).  \n\nThink of it as “something that sticks out or points forward” — that core idea connects the nose, a needle, and a blade tip.",
+  "exampleSentencesTranslated": [
+    "I have a cold so my nose is stuffy all day today.",
+    "She often washes her face carefully to keep her nose from getting pimples.",
+    "He can smell the delicious bread with his nose."
+  ],
+  "choices": [
+    "mũi",
+    "tai",
+    "mắt"
+  ],
+  "updatedAt": "2026-03-03T10:00:55.004Z",
+  "definition": "nose",
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "mũi",
+      "translatedAnswer": {
+        "en": "nose"
+      },
+      "sentence": "Tôi bị đau ___.",
+      "word": "mũi",
+      "language": "vi",
+      "translation": {
+        "en": "I have a pain in my nose."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b6630e64-4d0a-49f9-ac1a-25800e661a2e",
+    "createdAt": "2025-03-12T14:07:27.070Z",
+    "updatedAt": "2025-03-12T14:07:27.070Z"
+  },
+  "_id": "KQdAMbzhSnTKL2leAxKB"
+}

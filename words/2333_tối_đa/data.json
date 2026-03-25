@@ -1,0 +1,99 @@
+{
+  "notes": "tối đa = maximum; the highest possible amount or limit.\n\nIt’s usually placed before a number or quantity to show the upper limit.  \n\nIt can also describe a level: mức tối đa, công suất tối đa, tốc độ tối đa.  \nOpposite is tối thiểu (minimum) — think “đa” = more, “thiểu” = less.",
+  "choices": [
+    "tối đa",
+    "tối thiểu",
+    "trung bình"
+  ],
+  "updatedAt": "2026-03-03T10:25:25.799Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "50f6c3fc-e0aa-4d64-b5a8-2a7e013986f0",
+    "createdAt": "2025-03-12T14:37:17.504Z",
+    "updatedAt": "2025-03-12T14:37:17.504Z",
+    "content": {
+      "word": "tối đa",
+      "choices": [
+        "tối đa",
+        "không giới hạn",
+        "tương đối"
+      ],
+      "hint": "t___a",
+      "translation": {
+        "en": "The number of participants is a maximum of 100."
+      },
+      "answer": "tối đa",
+      "sentence": "Số người tham gia là ___ 100.",
+      "translatedAnswer": {
+        "en": "maximum"
+      },
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "tối đa",
+  "rank": 2333,
+  "exampleSentencesTranslated": [
+    "You can bring a maximum of two suitcases when flying.",
+    "You should use a maximum of three spoons of sugar in this recipe.",
+    "You can stay in the library for a maximum of four hours each day."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "maximum",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "36c882be-b0bc-49b2-993f-c33c3fad2cdb",
+    "createdAt": "2025-03-12T14:37:17.504Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:37:17.504Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "maximum"
+      },
+      "sentence": "Số người tham gia là ___ 100.",
+      "translation": {
+        "en": "The number of participants is a maximum of 100."
+      },
+      "answer": "tối đa",
+      "choices": [],
+      "word": "tối đa"
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**tối đa** = maximum; the highest possible amount or limit.\n\nIt’s usually placed before a number or quantity to show the upper limit.  \n\nIt can also describe a level: *mức tối đa*, *công suất tối đa*, *tốc độ tối đa*.  \nOpposite is **tối thiểu** (minimum) — think “đa” = more, “thiểu” = less.",
+  "exampleSentences": [
+    "Em có thể mang theo tối đa hai chiếc vali khi đi máy bay.",
+    "Chị nên dùng tối đa ba muỗng đường trong công thức này.",
+    "Anh có thể ở lại thư viện tối đa bốn giờ mỗi ngày."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:13:01.116Z",
+    "definitions": {
+      "es": "La mayor cantidad o grado posible.",
+      "en": "The greatest amount or degree possible.",
+      "vi": "Số lượng hoặc mức độ lớn nhất có thể."
+    },
+    "example": {
+      "es": "Debes aprovechar al máximo tu tiempo.",
+      "vi": "Bạn nên sử dụng tối đa thời gian của mình.",
+      "en": "You should make the most of your time."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tối đa",
+      "en": "maximum",
+      "es": "máximo"
+    }
+  },
+  "_id": "RCkM6uiOccgwQyWMheSY"
+}

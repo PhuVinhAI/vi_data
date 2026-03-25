@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "d8466655-faee-41ed-a803-70dea13fc142",
+    "content": {
+      "language": "vi",
+      "sentence": "Cô ấy cảm thấy ___ trong cuộc thi.",
+      "word": "yếu",
+      "choices": [
+        "mạnh",
+        "yếu",
+        "cứng"
+      ],
+      "hint": "y___",
+      "answer": "yếu",
+      "translatedAnswer": {
+        "en": "weak"
+      },
+      "translation": {
+        "en": "She feels weak in the competition."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:14:04.041Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:14:04.041Z"
+  },
+  "notes_md": "**yếu** means *weak* — not strong in body, power, ability, or quality.  \n\nIt’s an adjective, so it comes after the noun: *sức khỏe yếu, cơ thể yếu, tín hiệu yếu*. It can describe physical strength, health, skills, arguments, signals, or even personality (ý chí yếu = weak will).  \n\nIt also means “poor” in ability: *tiếng Anh yếu* (not good at English).  \n\nOpposite: **mạnh** (strong). A useful pair to remember: *điểm yếu* (weak point) vs *điểm mạnh* (strong point).*",
+  "choices": [
+    "yêu",
+    "yếu",
+    "giỏi"
+  ],
+  "rank": 1550,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "yếu",
+  "exampleSentencesTranslated": [
+    "After being sick, I feel very weak and don't want to do anything.",
+    "The cold weather makes me feel weaker than usual.",
+    "You need to exercise more because your health is a bit weak."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:14:04.041Z",
+    "id": "f8112eaa-8ae2-481f-ae72-31f6f797a0d9",
+    "content": {
+      "translation": {
+        "en": "She feels weak in the competition."
+      },
+      "translatedAnswer": {
+        "en": "weak"
+      },
+      "answer": "yếu",
+      "choices": [],
+      "word": "yếu",
+      "sentence": "Cô ấy cảm thấy ___ trong cuộc thi.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:14:04.041Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "weak",
+  "flashcard": {
+    "example": {
+      "es": "Ella se siente débil después de estar enferma.",
+      "vi": "Cô ấy cảm thấy yếu sau khi bệnh.",
+      "en": "She feels weak after being sick."
+    },
+    "definitions": {
+      "vi": "Thiếu sức mạnh hoặc năng lượng.",
+      "es": "Faltando fuerza o energía.",
+      "en": "Lacking strength or energy."
+    },
+    "createdAt": "2025-01-28T10:55:05.008Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "débil",
+      "vi": "yếu",
+      "en": "weak"
+    }
+  },
+  "notes": "yếu means weak — not strong in body, power, ability, or quality.  \n\nIt’s an adjective, so it comes after the noun: sức khỏe yếu, cơ thể yếu, tín hiệu yếu. It can describe physical strength, health, skills, arguments, signals, or even personality (ý chí yếu = weak will).  \n\nIt also means “poor” in ability: tiếng Anh yếu (not good at English).  \n\nOpposite: mạnh (strong). A useful pair to remember: điểm yếu (weak point) vs điểm mạnh (strong point).*",
+  "updatedAt": "2026-03-03T09:01:59.200Z",
+  "exampleSentences": [
+    "Sau khi ốm, em cảm thấy rất yếu và không muốn làm gì cả.",
+    "Thời tiết lạnh làm anh thấy yếu hơn bình thường.",
+    "Chị cần tập thể dục nhiều hơn vì sức khỏe của chị hơi yếu."
+  ],
+  "_id": "6dVZZVMxj7w5HKeFXnB9"
+}

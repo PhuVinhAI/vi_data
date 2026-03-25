@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "cháu",
+      "es": "nieto o pariente más joven",
+      "en": "grandchild or younger relative"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:07:17.607Z",
+    "definitions": {
+      "vi": "Một thuật ngữ được sử dụng trong tiếng Việt để chỉ một người trẻ hơn, thường là cháu hoặc người thân trẻ tuổi.",
+      "es": "Un término utilizado en vietnamita para referirse a una persona más joven, a menudo un nieto o un pariente más joven.",
+      "en": "A term used in Vietnamese to refer to a younger person, often a grandchild or younger relative."
+    },
+    "example": {
+      "es": "Me gusta mucho salir con mis abuelos.",
+      "vi": "Cháu rất thích đi chơi với ông bà.",
+      "en": "I really enjoy going out with my grandparents."
+    }
+  },
+  "definition": "grandchild",
+  "exampleSentencesTranslated": [
+    "Grandma, today your grandchild will visit you in the afternoon.",
+    "Uncle is very proud of his grandchild's academic achievements this year.",
+    "When your grandchild has free time, call your aunt."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:26:53.894Z",
+    "type": "fillBlankQuiz",
+    "id": "dc632513-2263-4cb5-ac46-1dc5cc3993be",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:26:53.894Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "grandchild"
+      },
+      "translation": {
+        "en": "I am your grandchild."
+      },
+      "answer": "cháu",
+      "choices": [],
+      "sentence": "Tôi là ___ của bạn.",
+      "language": "vi",
+      "word": "cháu"
+    }
+  },
+  "updatedAt": "2026-03-03T07:27:52.407Z",
+  "exampleSentences": [
+    "Bà ơi, hôm nay cháu sẽ đến thăm bà vào buổi chiều nhé.",
+    "Chú rất tự hào về thành tích học tập của cháu năm nay.",
+    "Khi nào cháu có thời gian rảnh thì gọi điện cho cô nhé."
+  ],
+  "notes": "cháu = grandchild. It’s what grandparents call their son’s or daughter’s child.\n\nYou’ll often hear cháu nội (son’s child) and cháu ngoại (daughter’s child). To count, say đứa cháu (for a kid) or con cháu when talking about descendants in general.\n\nVery important: cháu is also a pronoun. A younger person uses cháu to refer to themselves when speaking to someone much older (grandparent age).",
+  "notes_md": "**cháu** = grandchild. It’s what grandparents call their son’s or daughter’s child.\n\nYou’ll often hear **cháu nội** (son’s child) and **cháu ngoại** (daughter’s child). To count, say **đứa cháu** (for a kid) or **con cháu** when talking about descendants in general.\n\nVery important: **cháu** is also a pronoun. A younger person uses **cháu** to refer to themselves when speaking to someone much older (grandparent age).",
+  "rank": 660,
+  "choices": [
+    "bác",
+    "cháu",
+    "dì"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:26:53.894Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "c___",
+      "answer": "cháu",
+      "translatedAnswer": {
+        "en": "grandchild"
+      },
+      "translation": {
+        "en": "She is my grandchild."
+      },
+      "sentence": "Cô ấy là ___ của tôi.",
+      "language": "vi",
+      "word": "cháu",
+      "choices": [
+        "bạn",
+        "cháu",
+        "chị"
+      ]
+    },
+    "id": "23cab5c3-7f7d-4c04-a663-33ad688aa908",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:26:53.894Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "cháu",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "AApxK8NsOz0r6vKgrWb7"
+}

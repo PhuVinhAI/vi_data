@@ -1,0 +1,101 @@
+{
+  "rank": 58,
+  "notes": "Thứ usually means “thing” — a general word for objects, ideas, or stuff when you don’t name it specifically. It’s vague, like “something” or “stuff” in English.\n\nIt’s a noun, but not used with classifiers like normal concrete nouns; it already feels abstract and general. Often used when you don’t know or don’t want to say exactly what it is.\n\nIt also means “ordinal number” marker (first, second, third…).  \n\nVery common in days of the week too (Monday–Saturday use thứ + number).",
+  "definition": "thing",
+  "exampleSentences": [
+    "Em cần thứ này hôm nay.",
+    "Anh thích thứ đó lắm.",
+    "Chị tìm thứ đó ở đây."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đồ",
+    "vật",
+    "thứ"
+  ],
+  "fillBlankQuiz": {
+    "id": "a1eadf72-05b8-4085-9f58-cc4d123b9f82",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "Today is the second day of October."
+      },
+      "word": "thứ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "the"
+      },
+      "answer": "thứ",
+      "choices": [],
+      "sentence": "Hôm nay là ___ hai tháng mười."
+    },
+    "updatedAt": "2025-03-12T15:57:12.557Z",
+    "createdAt": "2025-03-12T15:57:12.557Z"
+  },
+  "updatedAt": "2026-03-03T06:08:58.066Z",
+  "flashcard": {
+    "example": {
+      "vi": "Hôm nay là thứ Hai.",
+      "en": "Today is Monday."
+    },
+    "createdAt": "2025-05-24T16:32:35.680Z",
+    "definitions": {
+      "vi": "Từ dùng để chỉ các ngày trong tuần hoặc thứ tự, vị trí của một vật, người.",
+      "en": "A word used to indicate days of the week or the order/rank of things or people."
+    },
+    "word": "thứ",
+    "translations": {
+      "en": "order; kind; day (of the week)"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "thứ",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "I need this thing today.",
+    "I really like that thing.",
+    "She is looking for that thing here."
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + cần (need) + thứ (thing) + này (this) + hôm nay (today)",
+    "Anh (I) + thích (like) + thứ (thing) + đó (that) + lắm (really)",
+    "Chị (she) + tìm (look for) + thứ (thing) + đó (that) + ở (at) + đây (here)"
+  ],
+  "notes_md": "**Thứ** usually means “thing” — a general word for objects, ideas, or stuff when you don’t name it specifically. It’s vague, like “something” or “stuff” in English.\n\nIt’s a **noun**, but not used with classifiers like normal concrete nouns; it already feels abstract and general. Often used when you don’t know or don’t want to say exactly what it is.\n\nIt also means **“ordinal number” marker** (first, second, third…).  \n\nVery common in days of the week too (Monday–Saturday use thứ + number).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:57:12.557Z",
+    "createdAt": "2025-03-12T15:57:12.557Z",
+    "id": "bb5d22f0-0057-46d0-9be2-0028f910c1be",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "thứ",
+      "translation": {
+        "en": "Today is the second day of October."
+      },
+      "language": "vi",
+      "sentence": "Hôm nay là ___ hai tháng mười.",
+      "choices": [
+        "thứ",
+        "cuối",
+        "đầu"
+      ],
+      "hint": "th___",
+      "translatedAnswer": {
+        "en": "the"
+      },
+      "answer": "thứ"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "lKqC3F5vbAnjRJVHxwiQ"
+}

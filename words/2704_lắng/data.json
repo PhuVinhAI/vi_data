@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:33:26.089Z",
+    "id": "a0defbef-ca82-4156-968d-89a6bdd21165",
+    "content": {
+      "word": "lắng",
+      "sentence": "Tôi cần ___ lại trước khi quyết định.",
+      "translatedAnswer": {
+        "en": "reflect"
+      },
+      "choices": [],
+      "answer": "lắng",
+      "translation": {
+        "en": "I need to reflect before deciding."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:33:26.089Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2704,
+  "definition": "listen carefully",
+  "notes_md": "**lắng** usually means to listen carefully and attentively. It’s about focus, not just hearing sounds.\n\nYou rarely use **lắng** alone for “listen”; it’s most common in **lắng nghe** (to listen closely). Compared to **nghe** (to hear / listen), **lắng nghe** shows more care and attention.\n\nIt also has another very common meaning: to settle or become calm (like water, wind, or emotions). So it can describe things becoming quiet, still, or less intense.\n\nAlso common: **lắng xuống** (become calm / subside)",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:04:49.500Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To listen attentively or to pay close attention.",
+      "es": "Escuchar atentamente o prestar mucha atención.",
+      "vi": "Lắng nghe một cách chú ý hoặc chú ý nhiều."
+    },
+    "example": {
+      "es": "Escucho música todos los días.",
+      "en": "I listen to music every day.",
+      "vi": "Tôi lắng nghe nhạc mỗi ngày."
+    },
+    "translations": {
+      "es": "escuchar",
+      "en": "listen",
+      "vi": "lắng"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "lắng usually means to listen carefully and attentively. It’s about focus, not just hearing sounds.\n\nYou rarely use lắng alone for “listen”; it’s most common in lắng nghe (to listen closely). Compared to nghe (to hear / listen), lắng nghe shows more care and attention.\n\nIt also has another very common meaning: to settle or become calm (like water, wind, or emotions). So it can describe things becoming quiet, still, or less intense.\n\nAlso common: lắng xuống (become calm / subside)",
+  "word": "lắng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Please listen carefully to your mother's advice before making a decision.",
+    "He always listen carefully when someone shares their sadness with him.",
+    "When studying in class, you should listen carefully to the teacher explaining to understand better."
+  ],
+  "choices": [
+    "lắng",
+    "làm",
+    "lặng"
+  ],
+  "updatedAt": "2026-03-03T11:37:55.607Z",
+  "exampleSentences": [
+    "Em hãy lắng nghe lời khuyên của mẹ trước khi quyết định.",
+    "Anh luôn lắng khi ai đó chia sẻ chuyện buồn với mình.",
+    "Khi học trên lớp, chị nên lắng giáo viên giảng bài để hiểu rõ hơn."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "l___",
+      "word": "lắng",
+      "sentence": "Tôi cần ___ lại trước khi quyết định.",
+      "translation": {
+        "en": "I need to reflect before deciding."
+      },
+      "choices": [
+        "nghe",
+        "lắng",
+        "suy nghĩ"
+      ],
+      "answer": "lắng",
+      "translatedAnswer": {
+        "en": "reflect"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:33:26.089Z",
+    "type": "multiChoiceQuiz",
+    "id": "07b55a0c-c164-486c-95a9-e4ebc9f3146f",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:33:26.089Z"
+  },
+  "_id": "uztdJLXHN5MlgPRAl7LP"
+}

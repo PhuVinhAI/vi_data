@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**tiếc** = to regret, to feel sorry about something that already happened (or didn’t happen). It’s that “I wish…” feeling.\n\nIt’s a verb. You use it for missed chances, lost things, or mistakes.  \nYou can also say **tiếc + noun** for something lost or wasted.\n\nVery common intensifier: **tiếc quá** = “what a pity!”  \nRelated word: **tiếc nuối** (stronger, deeper regret).",
+  "rank": 1721,
+  "definition": "regret",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi rất ___ khi nghe tin xấu.",
+      "word": "tiếc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "sorry"
+      },
+      "choices": [],
+      "answer": "tiếc",
+      "translation": {
+        "en": "I am very sorry to hear the bad news."
+      }
+    },
+    "updatedAt": "2025-03-12T16:33:38.817Z",
+    "id": "6820e8d7-c259-4113-9ef9-09479f236f18",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:33:38.817Z"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:05:02.649Z",
+    "translations": {
+      "vi": "tiếc",
+      "es": "lamentar",
+      "en": "regret"
+    },
+    "definitions": {
+      "vi": "Cảm thấy buồn hoặc thất vọng về một điều gì đó đã xảy ra hoặc đã được thực hiện.",
+      "es": "Sentirse triste o decepcionado por algo que ha sucedido o se ha hecho.",
+      "en": "To feel sad or disappointed about something that has happened or been done."
+    },
+    "example": {
+      "es": "Lamento no haber ido a la fiesta.",
+      "en": "I regret not going to the party.",
+      "vi": "Tôi tiếc vì đã không đến buổi tiệc."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "tiếc = to regret, to feel sorry about something that already happened (or didn’t happen). It’s that “I wish…” feeling.\n\nIt’s a verb. You use it for missed chances, lost things, or mistakes.  \nYou can also say tiếc + noun for something lost or wasted.\n\nVery common intensifier: tiếc quá = “what a pity!”  \nRelated word: tiếc nuối (stronger, deeper regret).",
+  "choices": [
+    "tiệc",
+    "tiếc",
+    "tiền"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:33:38.817Z",
+    "id": "6fc3474e-c30f-4a3c-8e4c-01ebc97622d2",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "tiếc",
+      "hint": "t___",
+      "sentence": "Tôi rất ___ khi nghe tin xấu.",
+      "translatedAnswer": {
+        "en": "sorry"
+      },
+      "translation": {
+        "en": "I am very sorry to hear the bad news."
+      },
+      "answer": "tiếc",
+      "choices": [
+        "vui",
+        "buồn",
+        "tiếc"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:33:38.817Z"
+  },
+  "exampleSentences": [
+    "Anh rất tiếc vì không thể tham dự buổi tiệc hôm qua.",
+    "Chị cảm thấy tiếc khi bỏ lỡ cơ hội du lịch cùng bạn bè.",
+    "Em tiếc vì đã không học chăm chỉ hơn cho kỳ thi vừa rồi."
+  ],
+  "updatedAt": "2026-03-03T09:20:16.941Z",
+  "word": "tiếc",
+  "exampleSentencesTranslated": [
+    "I feel regret because I could not attend the party yesterday.",
+    "She feels regret when she missed the chance to travel with friends.",
+    "I have regret for not studying harder for the recent exam."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "v2nhECBBWM4TvhE54O3F"
+}

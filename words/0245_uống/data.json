@@ -1,0 +1,99 @@
+{
+  "rank": 245,
+  "choices": [
+    "ăn",
+    "ngủ",
+    "uống"
+  ],
+  "word": "uống",
+  "exampleSentences": [
+    "Anh có muốn uống nước cam hay nước lọc không?",
+    "Mỗi sáng, em thường uống một ly cà phê trước khi đi làm.",
+    "Chị nhớ uống thuốc đúng giờ như bác sĩ dặn nhé."
+  ],
+  "notes": "uống = to drink. You use it for taking liquids into your body.\n\nIt goes with drinks and also medicine: water, coffee, beer, milk, thuốc (medicine). For alcohol, uống rượu/bia often implies social drinking.\n\nTo remember: uống is for liquids, while ăn is for solid food.",
+  "multiChoiceQuiz": {
+    "id": "51d78ebf-394a-466f-9d45-2dd5696f59e9",
+    "createdAt": "2025-03-12T15:03:57.423Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Chúng ta có thể ___ nước không?",
+      "word": "uống",
+      "language": "vi",
+      "hint": "u___g",
+      "answer": "uống",
+      "choices": [
+        "uống",
+        "ăn",
+        "nếm"
+      ],
+      "translatedAnswer": {
+        "en": "drink"
+      },
+      "translation": {
+        "en": "Can we drink water?"
+      }
+    },
+    "updatedAt": "2025-03-12T15:03:57.423Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "to drink",
+      "es": "beber",
+      "vi": "uống"
+    },
+    "example": {
+      "en": "I like to drink tea in the morning.",
+      "es": "Me gusta beber té por la mañana.",
+      "vi": "Tôi thích uống trà vào buổi sáng."
+    },
+    "createdAt": "2025-01-28T12:36:12.806Z",
+    "definitions": {
+      "en": "To consume a liquid through the mouth.",
+      "es": "Consumir un líquido a través de la boca.",
+      "vi": "Tiêu thụ một chất lỏng qua miệng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to drink orange juice or plain water?",
+    "Every morning, I usually drink a cup of coffee before going to work.",
+    "Remember to drink the medicine on time as the doctor instructed."
+  ],
+  "fillBlankQuiz": {
+    "id": "6ad94c25-cbbf-4946-9b47-a49e1f0f3b1e",
+    "content": {
+      "sentence": "Tôi thích ___ trà.",
+      "answer": "uống",
+      "word": "uống",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "drink"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I like to drink tea."
+      }
+    },
+    "updatedAt": "2025-03-12T15:03:57.423Z",
+    "createdAt": "2025-03-12T15:03:57.423Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T06:45:12.065Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "to drink",
+  "notes_md": "**uống** = to drink. You use it for taking liquids into your body.\n\nIt goes with drinks and also medicine: water, coffee, beer, milk, thuốc (medicine). For alcohol, *uống rượu/bia* often implies social drinking.\n\n\nTo remember: *uống* is for liquids, while *ăn* is for solid food.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "XuAdSEWHne3eR4LVEhau"
+}

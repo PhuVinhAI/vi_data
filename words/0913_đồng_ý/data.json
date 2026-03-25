@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:47:51.290Z",
+    "createdAt": "2025-03-12T15:47:51.290Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "87389538-8740-4e0d-a891-be3215a8717f",
+    "content": {
+      "answer": "đồng ý",
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "choices": [],
+      "sentence": "Bạn có ___ tham gia không?",
+      "translation": {
+        "en": "Do you agree to participate?"
+      },
+      "word": "đồng ý",
+      "language": "vi"
+    }
+  },
+  "choices": [
+    "đồng ý",
+    "từ chối",
+    "nghĩ ngợi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có đồng ý với ý kiến của em trong cuộc họp không?",
+    "Nếu chị đồng ý, chúng ta sẽ bắt đầu dự án vào tuần sau.",
+    "Ba mẹ đồng ý cho em đi du lịch cùng bạn bè vào hè này."
+  ],
+  "definition": "agree",
+  "notes": "đồng ý = to agree, to say yes to something. It’s the basic, everyday way to show agreement.\n\nIt’s a verb. You can agree with someone, agree to do something, or give permission.\n\nStrong opposite: phản đối (oppose). Close synonym: tán thành (more formal, like “approve/support”).",
+  "rank": 913,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:47:51.290Z",
+    "createdAt": "2025-03-12T15:47:51.290Z",
+    "id": "3e3eaa66-bc33-4de1-b5fc-d1749200e0fe",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có ___ tham gia không?",
+      "choices": [
+        "đồng ý",
+        "không đồng ý",
+        "từ chối"
+      ],
+      "hint": "đ___ y",
+      "translatedAnswer": {
+        "en": "agree"
+      },
+      "answer": "đồng ý",
+      "translation": {
+        "en": "Do you agree to participate?"
+      },
+      "word": "đồng ý",
+      "language": "vi"
+    }
+  },
+  "notes_md": "**đồng ý** = to agree, to say yes to something. It’s the basic, everyday way to show agreement.\n\nIt’s a verb. You can agree **with** someone, agree **to** do something, or give permission.\n\n\nStrong opposite: **phản đối** (oppose). Close synonym: **tán thành** (more formal, like “approve/support”).",
+  "exampleSentencesTranslated": [
+    "Do you agree with my opinion in the meeting?",
+    "If you agree, we will start the project next week.",
+    "My parents agree to let me travel with friends this summer."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đồng ý",
+  "flashcard": {
+    "translations": {
+      "en": "agree",
+      "es": "de acuerdo",
+      "vi": "đồng ý"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Có cùng ý kiến hoặc đồng thuận.",
+      "es": "Tener la misma opinión o consentir.",
+      "en": "To have the same opinion or to consent."
+    },
+    "createdAt": "2025-01-28T13:20:30.321Z",
+    "example": {
+      "es": "Estoy de acuerdo con tu opinión.",
+      "en": "I agree with your opinion.",
+      "vi": "Tôi đồng ý với ý kiến của bạn."
+    }
+  },
+  "updatedAt": "2026-03-03T07:53:22.831Z",
+  "_id": "iy91djCTGUooPAga0glc"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:28:44.530Z",
+  "exampleSentencesTranslated": [
+    "I like to wear a black shirt when going to work on Mondays.",
+    "She wants to drink black coffee in the morning to feel more awake.",
+    "Last night I saw a black cat on the street."
+  ],
+  "exampleSentences": [
+    "Anh thích mặc áo sơ mi đen khi đi làm vào thứ Hai.",
+    "Chị muốn uống cà phê đen vào buổi sáng để tỉnh táo hơn.",
+    "Tối qua em nhìn thấy một con mèo đen ngoài đường."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:42:18.474Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "El color negro.",
+      "en": "The color black.",
+      "vi": "Màu sắc đen."
+    },
+    "example": {
+      "es": "El cielo está muy oscuro hoy.",
+      "en": "The sky is very dark today.",
+      "vi": "Bầu trời hôm nay thật đen."
+    },
+    "translations": {
+      "vi": "đen",
+      "en": "black",
+      "es": "negro"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "xanh",
+    "trắng",
+    "đen"
+  ],
+  "notes": "đen = black (the color). It describes the color of objects, clothes, hair, sky, etc., and comes after the noun in Vietnamese (màu đen, tóc đen).\n\nIt can also mean dark in a general sense (dark night, dark sky).\n\nFiguratively, đen can mean unlucky (vận đen = bad luck). Opposite for color: trắng (white).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "8b6c101f-ee0a-409b-aa6d-3bc39d613692",
+    "createdAt": "2025-03-12T16:10:18.986Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T16:10:18.986Z",
+    "content": {
+      "sentence": "Màu sắc yêu thích của tôi là ___.",
+      "translation": {
+        "en": "My favorite color is black."
+      },
+      "translatedAnswer": {
+        "en": "black"
+      },
+      "answer": "đen",
+      "language": "vi",
+      "word": "đen",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "word": "đen",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Màu của chiếc xe là ___.",
+      "word": "đen",
+      "answer": "đen",
+      "language": "vi",
+      "choices": [
+        "trắng",
+        "đen",
+        "xanh"
+      ],
+      "translation": {
+        "en": "The color of the car is black."
+      },
+      "translatedAnswer": {
+        "en": "black"
+      },
+      "hint": "d__n"
+    },
+    "updatedAt": "2025-03-12T16:10:18.986Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:10:18.986Z",
+    "id": "645808fb-ddd5-4f6f-9f36-5122074848ba"
+  },
+  "definition": "black",
+  "rank": 1247,
+  "notes_md": "**đen** = black (the color). It describes the color of objects, clothes, hair, sky, etc., and comes **after** the noun in Vietnamese (màu đen, tóc đen).\n\nIt can also mean **dark** in a general sense (dark night, dark sky).\n\nFiguratively, **đen** can mean **unlucky** (vận đen = bad luck). Opposite for color: **trắng** (white).",
+  "_id": "p9LXVpLTnjfWQFkJYRCd"
+}

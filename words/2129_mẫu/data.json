@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "mẫu = sample; a small part or example that represents a bigger whole.\n\nIt’s a countable noun: một mẫu, hai mẫu. Often followed by another noun to show what kind of sample.  \n\nVery common in science, business, fashion, and design. It can also mean a model/pattern (like a design style), close to kiểu in some contexts.\n\nThink of it as “a small piece used to test, show, or copy something.”",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mẫu",
+    "màu",
+    "mẫu vật"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:46:00.477Z",
+    "definitions": {
+      "es": "Una muestra o modelo utilizado como referencia.",
+      "en": "A sample or model used for reference.",
+      "vi": "Một mẫu hoặc mô hình được sử dụng làm tham khảo."
+    },
+    "translations": {
+      "vi": "mẫu",
+      "en": "sample",
+      "es": "muestra"
+    },
+    "example": {
+      "vi": "Tôi cần một mẫu giấy để viết.",
+      "en": "I need a sample paper to write on.",
+      "es": "Necesito una muestra de papel para escribir."
+    }
+  },
+  "exampleSentences": [
+    "Anh có thể cho em xem một mẫu của áo này được không?",
+    "Chị đã gửi mẫu máu đến bệnh viện để kiểm tra.",
+    "Em cần chuẩn bị một mẫu báo cáo cho buổi họp ngày mai."
+  ],
+  "exampleSentencesTranslated": [
+    "Can you show me a sample of this shirt?",
+    "She sent a sample to the hospital for testing.",
+    "You need to prepare a sample for the meeting tomorrow."
+  ],
+  "updatedAt": "2026-03-03T10:03:12.757Z",
+  "notes_md": "**mẫu** = sample; a small part or example that represents a bigger whole.\n\nIt’s a **countable noun**: *một mẫu, hai mẫu*. Often followed by another noun to show what kind of sample.  \n\nVery common in science, business, fashion, and design. It can also mean a **model/pattern** (like a design style), close to *kiểu* in some contexts.\n\nThink of it as “a small piece used to test, show, or copy something.”",
+  "rank": 2129,
+  "definition": "sample",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:14:04.928Z",
+    "content": {
+      "sentence": "Tôi cần một ___ mới.",
+      "language": "vi",
+      "choices": [
+        "mẫu",
+        "hình",
+        "màu"
+      ],
+      "answer": "mẫu",
+      "word": "mẫu",
+      "hint": "m__",
+      "translation": {
+        "en": "I need a new sample."
+      },
+      "translatedAnswer": {
+        "en": "sample"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "63e064f7-3e4f-4b3a-b8be-d5c9d6fc4e29",
+    "createdAt": "2025-03-12T16:14:04.928Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "mẫu",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I need a new sample."
+      },
+      "translatedAnswer": {
+        "en": "sample"
+      },
+      "choices": [],
+      "word": "mẫu",
+      "language": "vi",
+      "answer": "mẫu",
+      "sentence": "Tôi cần một ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:14:04.928Z",
+    "createdAt": "2025-03-12T16:14:04.928Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "d717dc07-8bad-4a0a-9f91-5e96a347096c"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "q26BfkasNGJ9TBKzZulA"
+}

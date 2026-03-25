@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "thường thường",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:22:19.200Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi ___ đi đến trường vào buổi sáng.",
+      "word": "thường thường",
+      "choices": [
+        "thường",
+        "thường thường",
+        "đôi khi"
+      ],
+      "hint": "th___ thường",
+      "answer": "thường thường",
+      "translatedAnswer": {
+        "en": "usually"
+      },
+      "translation": {
+        "en": "I usually go to school in the morning."
+      }
+    },
+    "id": "da52bcbc-4add-4960-9636-47c321ad16c5",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:22:19.200Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**thường thường** = *usually*, *most of the time*. It talks about habits or things that happen regularly.\n\nIt’s an adverb, so it goes before the main verb. It’s basically a softer, more casual version of **thường**. In modern speech, many people just say **thường**; **thường xuyên** is a bit stronger (“frequently”).\n\n\nTo remember: **thường** = usual → doubled = “yeah, pretty usual.”",
+  "rank": 2488,
+  "choices": [
+    "luôn luôn",
+    "thường thường",
+    "đôi khi"
+  ],
+  "notes": "thường thường = usually, most of the time. It talks about habits or things that happen regularly.\n\nIt’s an adverb, so it goes before the main verb. It’s basically a softer, more casual version of thường. In modern speech, many people just say thường; thường xuyên is a bit stronger (“frequently”).\n\nTo remember: thường = usual → doubled = “yeah, pretty usual.”",
+  "updatedAt": "2026-03-03T10:40:57.024Z",
+  "exampleSentences": [
+    "Anh thường thường uống cà phê vào buổi sáng trước khi đi làm.",
+    "Chị thường thường đi bộ trong công viên mỗi cuối tuần.",
+    "Em thường thường ăn cơm với gia đình vào bữa tối."
+  ],
+  "exampleSentencesTranslated": [
+    "I usually drink coffee in the morning before going to work.",
+    "I usually walk in the park every weekend.",
+    "I usually eat dinner with my family."
+  ],
+  "fillBlankQuiz": {
+    "id": "1f8d614d-e114-4398-814e-4014880b5124",
+    "content": {
+      "translation": {
+        "en": "I usually go to school in the morning."
+      },
+      "translatedAnswer": {
+        "en": "usually"
+      },
+      "answer": "thường thường",
+      "choices": [],
+      "word": "thường thường",
+      "sentence": "Tôi ___ đi đến trường vào buổi sáng.",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:22:19.200Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:22:19.200Z"
+  },
+  "flashcard": {
+    "example": {
+      "es": "Normalmente camino a la escuela.",
+      "vi": "Tôi thường thường đi bộ đến trường.",
+      "en": "I usually walk to school."
+    },
+    "definitions": {
+      "es": "Normalmente; habitualmente.",
+      "vi": "Thường; thường xuyên.",
+      "en": "Usually; habitually."
+    },
+    "createdAt": "2025-01-28T11:02:55.030Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "normalmente",
+      "vi": "thường thường",
+      "en": "usually"
+    }
+  },
+  "definition": "usually",
+  "_id": "964rvoFrt7tb2y4RWoXp"
+}

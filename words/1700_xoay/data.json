@@ -1,0 +1,99 @@
+{
+  "notes": "xoay = to turn or rotate something. It’s used when you change the direction or position of an object.\n\nYou can xoay + object (body parts, objects, knobs, wheels, etc.). It also works with direction words like sang trái / sang phải to show which way you turn.\n\nIt can describe moving your body too, like turning your head or body around.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "girar",
+      "en": "turn",
+      "vi": "xoay"
+    },
+    "example": {
+      "en": "Please turn the chair so I can sit.",
+      "es": "Por favor, gira la silla para que pueda sentarme.",
+      "vi": "Hãy xoay cái ghế để tôi có thể ngồi."
+    },
+    "definitions": {
+      "vi": "Xoay là hành động quay hoặc xoay một vật xung quanh một điểm trung tâm.",
+      "en": "To turn or rotate something around a central point.",
+      "es": "Girar o rotar algo alrededor de un punto central."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:03:02.907Z"
+  },
+  "word": "xoay",
+  "exampleSentencesTranslated": [
+    "Can you turn this chair around for me?",
+    "You need to turn the key to the right to open the door.",
+    "When taking a photo, remember to turn your phone horizontally."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "turns"
+      },
+      "choices": [
+        "đi",
+        "xoay",
+        "trở lại"
+      ],
+      "answer": "xoay",
+      "translation": {
+        "en": "The car turns around the corner."
+      },
+      "sentence": "Chiếc xe ___ quanh góc phố.",
+      "word": "xoay",
+      "hint": "x__y"
+    },
+    "updatedAt": "2025-03-12T16:31:58.678Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:31:58.678Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "0eac7b96-2227-4f11-aa0a-e1a88cc80e4f"
+  },
+  "exampleSentences": [
+    "Anh có thể xoay cái ghế này lại giúp em được không?",
+    "Em cần xoay chìa khóa sang phải để mở cửa.",
+    "Khi chụp ảnh, chị nhớ xoay điện thoại theo chiều ngang nhé."
+  ],
+  "updatedAt": "2026-03-03T09:17:47.976Z",
+  "choices": [
+    "xoay",
+    "đẩy",
+    "kéo"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "bf8a31b4-8092-49f6-990b-c346a3c9814a",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:31:58.678Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "xoay",
+      "sentence": "Chiếc xe ___ quanh góc phố.",
+      "translatedAnswer": {
+        "en": "turns"
+      },
+      "choices": [],
+      "answer": "xoay",
+      "translation": {
+        "en": "The car turns around the corner."
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:31:58.678Z"
+  },
+  "definition": "turn",
+  "rank": 1700,
+  "notes_md": "**xoay** = to turn or rotate something. It’s used when you change the direction or position of an object.\n\nYou can **xoay + object** (body parts, objects, knobs, wheels, etc.). It also works with direction words like **sang trái / sang phải** to show which way you turn.\n\nIt can describe moving your body too, like turning your head or body around.",
+  "_id": "uVS4IxGqN2muRcI3Uyxt"
+}

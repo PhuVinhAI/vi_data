@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Công ty cần ___ nhân viên.",
+      "word": "thải",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "lay off"
+      },
+      "answer": "thải",
+      "translation": {
+        "en": "The company needs to lay off employees."
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T17:23:07.050Z",
+    "createdAt": "2025-03-12T17:23:07.050Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "5644eb00-f923-4467-821d-29d0af339030"
+  },
+  "rank": 2877,
+  "definition": "release (usually waste or unwanted substances)",
+  "notes_md": "**thải** = to release or discharge, usually something unwanted like waste or harmful substances.\n\nIt’s a verb, often used for factories, vehicles, the body, or systems that push something out. Common collocations: **thải khí**, **thải độc**, **thải nước bẩn**, **thải CO2**.  \n\nIt often sounds formal or technical. A very close synonym is **xả** (more everyday), but **thải** feels more about waste or by-products.  \n\nRelated noun: **chất thải** = waste (material that has been discharged).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "The factory near my house often release smoke into the environment.",
+    "You should pay attention when you release trash in the right place.",
+    "The city has a plan to reduce the amount of release into the river."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "thải",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:23:07.050Z",
+    "id": "405036db-0ea0-4831-9f8b-bfbc90da2dc6",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "thải",
+      "hint": "t___",
+      "sentence": "Họ đã ___ nhiều rác.",
+      "translatedAnswer": {
+        "en": "discharged"
+      },
+      "translation": {
+        "en": "They discharged a lot of waste."
+      },
+      "answer": "thải",
+      "choices": [
+        "thải",
+        "tích",
+        "giữ"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T17:23:07.050Z"
+  },
+  "exampleSentences": [
+    "Nhà máy gần nhà em thường thải khói ra môi trường.",
+    "Chị nên chú ý khi thải rác vào đúng nơi quy định.",
+    "Thành phố đang có kế hoạch giảm lượng chất thải ra sông."
+  ],
+  "updatedAt": "2026-03-03T18:07:49.079Z",
+  "choices": [
+    "thải",
+    "giảm",
+    "đốt"
+  ],
+  "notes": "thải = to release or discharge, usually something unwanted like waste or harmful substances.\n\nIt’s a verb, often used for factories, vehicles, the body, or systems that push something out. Common collocations: thải khí, thải độc, thải nước bẩn, thải CO2.  \n\nIt often sounds formal or technical. A very close synonym is xả (more everyday), but thải feels more about waste or by-products.  \n\nRelated noun: chất thải = waste (material that has been discharged).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T14:04:15.869Z",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Necesitamos desechar la basura correctamente.",
+      "en": "We need to dispose of the trash properly.",
+      "vi": "Chúng ta cần thải rác đúng cách."
+    },
+    "definitions": {
+      "en": "To dispose of or to emit.",
+      "es": "Desechar o emitir.",
+      "vi": "Thải ra hoặc phát thải."
+    },
+    "translations": {
+      "vi": "thải",
+      "en": "dispose",
+      "es": "desechar"
+    }
+  },
+  "_id": "uowhUIkmdutRxpvEsC7f"
+}

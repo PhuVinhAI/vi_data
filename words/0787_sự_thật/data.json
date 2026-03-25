@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh muốn biết sự thật về chuyện đã xảy ra hôm qua.",
+    "Đôi khi sự thật có thể làm người khác buồn nhưng vẫn nên nói.",
+    "Em luôn tin rằng sự thật sẽ được mọi người công nhận."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "The truth is the most important thing.",
+      "es": "La verdad es lo más importante.",
+      "vi": "Sự thật là điều quan trọng nhất."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "truth",
+      "es": "verdad",
+      "vi": "sự thật"
+    },
+    "definitions": {
+      "es": "La calidad o estado de estar en conformidad con los hechos o la realidad.",
+      "vi": "Chất lượng hoặc trạng thái phù hợp với sự thật hoặc thực tế.",
+      "en": "The quality or state of being in accord with fact or reality."
+    },
+    "createdAt": "2025-01-28T11:44:50.722Z"
+  },
+  "rank": 787,
+  "exampleSentencesTranslated": [
+    "I want to know the truth about what happened yesterday.",
+    "Sometimes the truth can make others sad but it should still be told.",
+    "I always believe that the truth will be recognized by everyone."
+  ],
+  "notes": "sự thật = the truth, the real facts about something. It’s what actually happened or what is real.\n\nIt’s a noun. You often use it after verbs like nói (say), biết (know), che giấu (hide), tiết lộ (reveal).  \nYou can say một sự thật when talking about one specific fact, but often it appears without a classifier.\n\nCommon pattern: Sự thật là… to introduce the real situation.  \nStrong opposite: lời nói dối (a lie).",
+  "updatedAt": "2026-03-03T07:40:29.950Z",
+  "choices": [
+    "sự thật",
+    "kết quả",
+    "thời gian"
+  ],
+  "definition": "the truth",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:07:17.777Z",
+    "updatedAt": "2025-03-12T14:07:17.777Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "sự thật",
+      "translatedAnswer": {
+        "en": "truth"
+      },
+      "sentence": "Đó là ___ mà tôi biết.",
+      "word": "sự thật",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "That is the truth that I know."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "2be8e2cb-82a4-4765-8cf9-bc1e43729c60"
+  },
+  "word": "sự thật",
+  "multiChoiceQuiz": {
+    "id": "cf23a257-5a82-4144-95ee-48bd663b5a50",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "She talked about the truth in the meeting."
+      },
+      "language": "vi",
+      "choices": [
+        "sự thật",
+        "hư cấu",
+        "bí mật"
+      ],
+      "word": "sự thật",
+      "hint": "s___t",
+      "sentence": "Cô ấy nói về ___ trong cuộc họp.",
+      "translatedAnswer": {
+        "en": "truth"
+      },
+      "answer": "sự thật"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:07:17.777Z",
+    "createdAt": "2025-03-12T14:07:17.777Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**sự thật** = the truth, the real facts about something. It’s what actually happened or what is real.\n\nIt’s a noun. You often use it after verbs like **nói** (say), **biết** (know), **che giấu** (hide), **tiết lộ** (reveal).  \nYou can say **một sự thật** when talking about one specific fact, but often it appears without a classifier.\n\nCommon pattern: **Sự thật là…** to introduce the real situation.  \nStrong opposite: **lời nói dối** (a lie).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "KOy5fV4WI4uFDsUzV977"
+}

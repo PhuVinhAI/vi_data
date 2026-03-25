@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:20:48.071Z",
+    "content": {
+      "hint": "c___ t___",
+      "answer": "công thức",
+      "translation": {
+        "en": "Do you have the recipe for this dish?"
+      },
+      "translatedAnswer": {
+        "en": "recipe"
+      },
+      "word": "công thức",
+      "language": "vi",
+      "sentence": "Bạn có ___ của món ăn này không?",
+      "choices": [
+        "công thức",
+        "nguyên liệu",
+        "dụng cụ"
+      ]
+    },
+    "id": "1a736a90-f9ae-43c6-906b-7441e8fbcd11",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T17:20:48.071Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Công thức** means *formula* — either a math/science formula or a recipe for cooking. It’s a noun.\n\nYou can count it: *một công thức, hai công thức*. Common pairings: *công thức toán / vật lý / hóa học* (academic formulas) and *công thức nấu ăn / làm bánh* (recipes).\n\nIt can also mean a fixed pattern or “formula” for success, love, etc. — like a set way that works.\n\nClose synonym in cooking: *cách làm* (more like “method”), but *công thức* sounds more structured and exact.",
+  "choices": [
+    "công thức",
+    "bài tập",
+    "kết quả"
+  ],
+  "rank": 1329,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "công thức",
+  "exampleSentencesTranslated": [
+    "Can you show me the formula for making this cake?",
+    "To solve this problem, you need to remember the important formula.",
+    "She often uses her mother's old formula to cook soup."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "8902a62a-fdc1-4f81-b13c-49d074f36b63",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:20:48.071Z",
+    "content": {
+      "answer": "công thức",
+      "translatedAnswer": {
+        "en": "recipe"
+      },
+      "translation": {
+        "en": "I need a recipe to cook this dish."
+      },
+      "sentence": "Tôi cần ___ để nấu món này.",
+      "language": "vi",
+      "word": "công thức",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T17:20:48.071Z"
+  },
+  "definition": "formula",
+  "flashcard": {
+    "translations": {
+      "en": "formula",
+      "es": "fórmula",
+      "vi": "công thức"
+    },
+    "createdAt": "2025-01-28T13:03:52.511Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A set of instructions or rules for performing a task or solving a problem.",
+      "es": "Un conjunto de instrucciones o reglas para realizar una tarea o resolver un problema.",
+      "vi": "Một tập hợp các hướng dẫn hoặc quy tắc để thực hiện một nhiệm vụ hoặc giải quyết một vấn đề."
+    },
+    "example": {
+      "en": "This formula is very easy to understand.",
+      "vi": "Công thức này rất dễ hiểu.",
+      "es": "Esta fórmula es muy fácil de entender."
+    }
+  },
+  "notes": "Công thức means formula — either a math/science formula or a recipe for cooking. It’s a noun.\n\nYou can count it: một công thức, hai công thức. Common pairings: công thức toán / vật lý / hóa học (academic formulas) and công thức nấu ăn / làm bánh (recipes).\n\nIt can also mean a fixed pattern or “formula” for success, love, etc. — like a set way that works.\n\nClose synonym in cooking: cách làm (more like “method”), but công thức sounds more structured and exact.",
+  "updatedAt": "2026-03-03T08:37:58.575Z",
+  "exampleSentences": [
+    "Em có thể chỉ cho anh công thức làm bánh này không?",
+    "Để giải bài toán này, em cần nhớ công thức quan trọng.",
+    "Chị thường sử dụng công thức cũ của mẹ để nấu canh."
+  ],
+  "_id": "egDLHISA9Z8kgiZkxX88"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "f4e10c47-cfbc-454a-9a92-2a79b625ef75",
+    "content": {
+      "hint": "th___n",
+      "word": "thỏa thuận",
+      "sentence": "Họ đã ký ___ với nhau.",
+      "translation": {
+        "en": "They signed an agreement with each other."
+      },
+      "language": "vi",
+      "choices": [
+        "thỏa thuận",
+        "hợp đồng",
+        "cam kết"
+      ],
+      "translatedAnswer": {
+        "en": "agreement"
+      },
+      "answer": "thỏa thuận"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:03:48.581Z",
+    "createdAt": "2025-03-12T14:03:48.581Z"
+  },
+  "word": "thỏa thuận",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**thỏa thuận** = an agreement, a deal between two or more people about what they will do. It’s used for both personal and business situations.\n\nIt’s a **countable noun**: *một thỏa thuận, các thỏa thuận*. Common verbs: *đạt thỏa thuận* (reach an agreement), *ký thỏa thuận* (sign an agreement), *phá vỡ thỏa thuận* (break an agreement).\n\n\nClose synonym: **giao kèo** (more casual), **hiệp định** (more formal, often between organizations or countries).",
+  "choices": [
+    "hợp đồng",
+    "thỏa thuận",
+    "giấy phép"
+  ],
+  "updatedAt": "2026-03-03T10:47:17.716Z",
+  "exampleSentencesTranslated": [
+    "You and I have an agreement about sharing the housework.",
+    "We should sign the agreement before starting the new project.",
+    "If you do not agree with this agreement, we can discuss more."
+  ],
+  "notes": "thỏa thuận = an agreement, a deal between two or more people about what they will do. It’s used for both personal and business situations.\n\nIt’s a countable noun: một thỏa thuận, các thỏa thuận. Common verbs: đạt thỏa thuận (reach an agreement), ký thỏa thuận (sign an agreement), phá vỡ thỏa thuận (break an agreement).\n\nClose synonym: giao kèo (more casual), hiệp định (more formal, often between organizations or countries).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Chúng ta cần ___ rõ ràng.",
+      "word": "thỏa thuận",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "We need a clear agreement."
+      },
+      "answer": "thỏa thuận",
+      "translatedAnswer": {
+        "en": "agreement"
+      }
+    },
+    "id": "7fb0f2c6-e2ab-4c16-9ec6-99baab471262",
+    "createdAt": "2025-03-12T14:03:48.581Z",
+    "updatedAt": "2025-03-12T14:03:48.581Z"
+  },
+  "definition": "agreement",
+  "rank": 2546,
+  "exampleSentences": [
+    "Anh và em đã có một thỏa thuận về việc chia sẻ công việc nhà.",
+    "Chúng ta nên ký thỏa thuận trước khi bắt đầu dự án mới.",
+    "Nếu chị không đồng ý với thỏa thuận này, chúng ta có thể thảo luận thêm."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Chúng ta cần thỏa thuận về giá cả trước khi ký hợp đồng.",
+      "es": "Necesitamos acordar el precio antes de firmar el contrato.",
+      "en": "We need to agree on the price before signing the contract."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:41:39.833Z",
+    "translations": {
+      "en": "agreement",
+      "es": "acuerdo",
+      "vi": "thỏa thuận"
+    },
+    "definitions": {
+      "en": "An agreement or arrangement made between two or more parties.",
+      "es": "Un acuerdo o disposición hecha entre dos o más partes.",
+      "vi": "Một thỏa thuận hoặc sắp xếp được thực hiện giữa hai hoặc nhiều bên."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "JbFw3yxB6Py0VIDSTUsE"
+}

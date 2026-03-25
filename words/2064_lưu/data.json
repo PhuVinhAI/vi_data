@@ -1,0 +1,99 @@
+{
+  "definition": "save",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "4a0f3ff3-bdd8-4079-8bb8-7600385afa1c",
+    "createdAt": "2025-03-12T14:33:45.718Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "save"
+      },
+      "sentence": "Tôi cần ___ lại tài liệu.",
+      "choices": [],
+      "word": "lưu",
+      "translation": {
+        "en": "I need to save the document."
+      },
+      "answer": "lưu"
+    },
+    "updatedAt": "2025-03-12T14:33:45.718Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**lưu** = to save or store something so you don’t lose it. Most often used for digital things like files, photos, contacts, documents.\n\nIt’s a verb, usually followed by the thing you’re saving + where you save it.  \n\nYou’ll often hear **lưu lại** (save again / keep for later) and **bảo lưu** (formally “reserve/retain,” like keeping a right or a result).  \n\nThink of it like English “save” — very practical, mostly about keeping data or information safe.",
+  "exampleSentences": [
+    "Anh nhớ lưu số điện thoại của em vào máy nhé.",
+    "Chị sẽ lưu tài liệu này vào máy tính trước khi tắt.",
+    "Em đừng quên lưu hình ảnh đó lại sau khi chỉnh sửa xong."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "save",
+      "vi": "lưu",
+      "es": "guardar"
+    },
+    "createdAt": "2025-01-28T12:09:20.654Z",
+    "definitions": {
+      "vi": "Lưu trữ hoặc bảo quản một cái gì đó để sử dụng sau.",
+      "en": "To save or store something for future use.",
+      "es": "Guardar o almacenar algo para uso futuro."
+    },
+    "example": {
+      "es": "Voy a guardar este documento en la computadora.",
+      "en": "I will save this document on the computer.",
+      "vi": "Tôi sẽ lưu tài liệu này vào máy tính."
+    }
+  },
+  "notes": "lưu = to save or store something so you don’t lose it. Most often used for digital things like files, photos, contacts, documents.\n\nIt’s a verb, usually followed by the thing you’re saving + where you save it.  \n\nYou’ll often hear lưu lại (save again / keep for later) and bảo lưu (formally “reserve/retain,” like keeping a right or a result).  \n\nThink of it like English “save” — very practical, mostly about keeping data or information safe.",
+  "choices": [
+    "xóa",
+    "lưu",
+    "gửi"
+  ],
+  "updatedAt": "2026-03-03T09:56:28.531Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2064,
+  "exampleSentencesTranslated": [
+    "Remember to save my phone number in your device.",
+    "I will save this document on the computer before turning it off.",
+    "Don't forget to save that picture after you finish editing."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:33:45.718Z",
+    "content": {
+      "hint": "l__",
+      "answer": "lưu",
+      "translation": {
+        "en": "Do you want to save a copy?"
+      },
+      "word": "lưu",
+      "choices": [
+        "lưu",
+        "xóa",
+        "chỉnh sửa"
+      ],
+      "translatedAnswer": {
+        "en": "save"
+      },
+      "language": "vi",
+      "sentence": "Bạn có muốn ___ bản sao không?"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "20ec6985-95b0-42e5-9e97-a221b4ebb968",
+    "createdAt": "2025-03-12T14:33:45.718Z"
+  },
+  "word": "lưu",
+  "_id": "QbdKzRmmGjCipVFcI0Pg"
+}

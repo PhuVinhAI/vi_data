@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:03:00.803Z",
+    "createdAt": "2025-03-12T16:03:00.803Z",
+    "id": "73035503-d9be-4113-bbca-70fd4e1b4f0d",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "onion"
+      },
+      "answer": "hành",
+      "choices": [
+        "tỏi",
+        "hành",
+        "gừng"
+      ],
+      "sentence": "Món ăn này có ___ rất thơm.",
+      "hint": "h___",
+      "translation": {
+        "en": "This dish has a very fragrant onion."
+      },
+      "word": "hành",
+      "language": "vi"
+    }
+  },
+  "notes_md": "**Hành** means **onion**. In cooking, it often refers to small shallots unless you say otherwise.\n\nUse the classifier **củ** → *một củ hành, hai củ hành*.  \nCommon types: **hành tây** (big round onion), **hành lá** (green onion), **hành tím** (shallot).  \n\nIt’s very common in Vietnamese dishes, often chopped, fried, or added for aroma.",
+  "exampleSentencesTranslated": [
+    "I like to add a lot of onion to pho to make it more fragrant.",
+    "Can you help me buy a kilogram of onion at the market?",
+    "Mom usually sautés onion for fragrance before cooking soup."
+  ],
+  "word": "hành",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "onion",
+      "es": "cebolla",
+      "vi": "hành"
+    },
+    "example": {
+      "es": "Me gusta comer cebollas en mi ensalada.",
+      "en": "I like to eat onions in my salad.",
+      "vi": "Tôi thích ăn hành trong món salad."
+    },
+    "createdAt": "2025-01-28T13:34:38.861Z",
+    "definitions": {
+      "vi": "Một loại rau củ hình hành được sử dụng trong nấu ăn, thường để tạo hương vị.",
+      "en": "A bulbous vegetable used in cooking, often for flavor.",
+      "es": "Un vegetal bulboso utilizado en la cocina, a menudo para dar sabor."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T10:15:54.491Z",
+  "choices": [
+    "hành",
+    "tỏi",
+    "ớt"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:03:00.803Z",
+    "updatedAt": "2025-03-12T16:03:00.803Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi thích ăn ___ trong món ăn.",
+      "translatedAnswer": {
+        "en": "onion"
+      },
+      "answer": "hành",
+      "language": "vi",
+      "translation": {
+        "en": "I like to eat onion in the dish."
+      },
+      "word": "hành"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "9a1dea86-aa7a-4687-b397-f2860757b319"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em thích cho nhiều hành vào phở để món ăn thơm hơn.",
+    "Anh có thể mua giúp chị một ký hành ngoài chợ không?",
+    "Mẹ thường phi hành cho thơm trước khi nấu canh."
+  ],
+  "definition": "onion",
+  "notes": "Hành means onion. In cooking, it often refers to small shallots unless you say otherwise.\n\nUse the classifier củ → một củ hành, hai củ hành.  \nCommon types: hành tây (big round onion), hành lá (green onion), hành tím (shallot).  \n\nIt’s very common in Vietnamese dishes, often chopped, fried, or added for aroma.",
+  "rank": 2247,
+  "_id": "mv3vZK83JYg2nsNkImhc"
+}

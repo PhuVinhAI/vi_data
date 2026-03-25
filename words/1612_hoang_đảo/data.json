@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "hoang đảo",
+    "bãi biển",
+    "núi lửa"
+  ],
+  "word": "hoang đảo",
+  "exampleSentences": [
+    "Anh từng mơ được sống trên một hoang đảo yên tĩnh và đẹp đẽ.",
+    "Nếu bị lạc trên hoang đảo, em sẽ làm gì đầu tiên?",
+    "Nhóm bạn quyết định khám phá hoang đảo vào kỳ nghỉ hè năm nay."
+  ],
+  "rank": 1612,
+  "definition": "desert island",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Hoang đảo means a desert island — an island with no people living on it. It suggests isolation, wild nature, and no modern facilities.\n\nIt’s a noun. You can say một hoang đảo or more naturally một hòn đảo hoang (same meaning, just flipped word order).  \n\nCommon pairings: sống trên hoang đảo, bị lạc trên hoang đảo, mắc kẹt trên hoang đảo.  \n\nSynonym to remember: đảo hoang (very common, same meaning).",
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "I see an island when I go to the beach."
+      },
+      "answer": "hoang đảo",
+      "choices": [],
+      "sentence": "Tôi thấy ___ khi đi biển.",
+      "word": "hoang đảo",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "island"
+      }
+    },
+    "createdAt": "2025-03-12T13:41:22.211Z",
+    "updatedAt": "2025-03-12T13:41:22.211Z",
+    "id": "0d52da73-ae33-450a-87fb-4afe7bab49dd",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T09:08:27.159Z",
+  "notes_md": "**Hoang đảo** means a *desert island* — an island with no people living on it. It suggests isolation, wild nature, and no modern facilities.\n\nIt’s a noun. You can say **một hoang đảo** or more naturally **một hòn đảo hoang** (same meaning, just flipped word order).  \n\nCommon pairings: **sống trên hoang đảo**, **bị lạc trên hoang đảo**, **mắc kẹt trên hoang đảo**.  \n\nSynonym to remember: **đảo hoang** (very common, same meaning).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "444d303e-8631-4ee8-b04a-349053c29d72",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "island"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi đã khám phá ___ mới.",
+      "word": "hoang đảo",
+      "choices": [
+        "hoang đảo",
+        "hòn đảo",
+        "đảo nhỏ"
+      ],
+      "hint": "h___g d___",
+      "translation": {
+        "en": "We explored a new island."
+      },
+      "answer": "hoang đảo"
+    },
+    "createdAt": "2025-03-12T13:41:22.211Z",
+    "updatedAt": "2025-03-12T13:41:22.211Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "Un estado de estar perdido o confundido, a menudo utilizado para describir una sensación de desorientación.",
+      "vi": "Trạng thái bị lạc hoặc bối rối, thường được sử dụng để mô tả cảm giác mất phương hướng.",
+      "en": "A state of being lost or confused, often used to describe a feeling of disorientation."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "She felt lost when there was no one around.",
+      "vi": "Cô ấy cảm thấy hoang đảo khi không có ai bên cạnh.",
+      "es": "Ella se sintió perdida cuando no había nadie alrededor."
+    },
+    "createdAt": "2025-01-28T11:19:59.331Z",
+    "translations": {
+      "en": "lost",
+      "es": "perdido",
+      "vi": "hoang đảo"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He used to dream of living on a quiet and beautiful desert island.",
+    "If you got lost on a desert island, what would you do first?",
+    "The group of friends decided to explore a desert island during this summer holiday."
+  ],
+  "_id": "DjxQ7GqQ9PHBStpgLhLb"
+}

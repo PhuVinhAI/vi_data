@@ -1,0 +1,98 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cứng",
+    "sắc",
+    "nhẹ"
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "color",
+      "es": "color",
+      "vi": "màu sắc"
+    },
+    "example": {
+      "es": "Ella tiene un vestido de un color rojo brillante.",
+      "en": "She has a dress in a bright red color.",
+      "vi": "Cô ấy có một chiếc váy sắc màu đỏ."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:48:28.635Z",
+    "definitions": {
+      "vi": "Chất lượng của việc sáng hoặc sống động về màu sắc.",
+      "es": "La calidad de ser brillante o vívido en color.",
+      "en": "The quality of being bright or vivid in color."
+    }
+  },
+  "exampleSentences": [
+    "Em cẩn thận nhé, con dao này rất sắc nên dễ bị đứt tay.",
+    "Em nghe giọng chị sắc quá, chắc chị đang bực chuyện gì.",
+    "Chị thích dùng cây bút chì sắc để vẽ hình chính xác hơn."
+  ],
+  "exampleSentencesTranslated": [
+    "Be careful, this knife is very sharp so it's easy to cut your hand.",
+    "Your voice sounds so sharp; you must be upset about something.",
+    "She likes to use a sharp pencil to draw more accurately."
+  ],
+  "updatedAt": "2026-03-03T09:51:21.747Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sắc usually means sharp, like a knife that can cut easily.  \n\nIt describes things like blades, scissors, or anything that can cut; opposite is cùn (blunt), and similar is bén. It can also describe a voice or tone that sounds sharp, harsh, or cutting emotionally.  \n\nAs an adjective, it comes after the noun and can be used with degree words like rất, quá, hơi.  \n\nYou’ll also see it in common combinations like sắc nét (clear/sharp image) or màu sắc (color — here sắc means “shade/tone”).",
+  "word": "sắc",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:16:51.132Z",
+    "id": "056d50c7-4c7b-4ae9-b566-193afe725e33",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "answer": "sắc",
+      "word": "sắc",
+      "translatedAnswer": {
+        "en": "color"
+      },
+      "translation": {
+        "en": "The color of the painting is very beautiful."
+      },
+      "sentence": "Màu ___ của bức tranh rất đẹp."
+    },
+    "updatedAt": "2025-03-12T16:16:51.132Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2015,
+  "notes_md": "**sắc** usually means **sharp**, like a knife that can cut easily.  \n\nIt describes things like blades, scissors, or anything that can cut; opposite is **cùn** (blunt), and similar is **bén**. It can also describe a **voice or tone** that sounds sharp, harsh, or cutting emotionally.  \n\nAs an adjective, it comes after the noun and can be used with degree words like *rất, quá, hơi*.  \n\nYou’ll also see it in common combinations like **sắc nét** (clear/sharp image) or **màu sắc** (color — here *sắc* means “shade/tone”).",
+  "definition": "sharp",
+  "multiChoiceQuiz": {
+    "id": "403eadcc-0592-4c60-9336-16a06c90ab26",
+    "createdAt": "2025-03-12T16:16:51.132Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:16:51.132Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "sắc",
+      "choices": [
+        "đậm",
+        "sắc",
+        "nhạt"
+      ],
+      "language": "vi",
+      "answer": "sắc",
+      "hint": "s__c",
+      "translation": {
+        "en": "The color of the painting is very beautiful."
+      },
+      "translatedAnswer": {
+        "en": "color"
+      },
+      "sentence": "Màu ___ của bức tranh rất đẹp."
+    }
+  },
+  "_id": "qnP43Oxbzj7R5IANmBtl"
+}

@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T07:24:22.855Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "f553a160-bdcb-48d6-a088-01916d8eb6b8",
+    "updatedAt": "2025-03-12T13:38:49.360Z",
+    "createdAt": "2025-03-12T13:38:49.360Z",
+    "content": {
+      "translation": {
+        "en": "I am pursuing my career."
+      },
+      "answer": "sự nghiệp",
+      "choices": [],
+      "word": "sự nghiệp",
+      "sentence": "Tôi đang theo đuổi ___ của mình.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "career"
+      }
+    }
+  },
+  "notes": "Sự nghiệp = career — your long-term professional path, not just one job. It’s about growth, achievements, and direction over time.\n\nIt’s an uncountable noun in most cases; you don’t count it with classifiers. Often used with verbs like theo đuổi, phát triển, xây dựng, bắt đầu.  \n\nCommon pattern: sự nghiệp + của + ai to show whose career.  \n\nClose words: nghề (job/profession in general, more about what you do), công việc (a specific job). “Sự nghiệp” sounds bigger and long-term.",
+  "exampleSentencesTranslated": [
+    "I want to develop my career in the field of information technology.",
+    "She is very proud of her career at the hospital.",
+    "My parents always support me to pursue my dream career."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A person's course or progress through life, often in a particular profession.",
+      "vi": "Quá trình hoặc tiến trình của một người trong cuộc sống, thường trong một nghề nghiệp cụ thể.",
+      "es": "El curso o progreso de una persona a lo largo de la vida, a menudo en una profesión particular."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "career",
+      "es": "carrera",
+      "vi": "sự nghiệp"
+    },
+    "createdAt": "2025-01-28T11:18:02.281Z",
+    "example": {
+      "es": "Estoy construyendo mi carrera.",
+      "vi": "Tôi đang xây dựng sự nghiệp của mình.",
+      "en": "I am building my career."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "77bc2db8-8e6a-42b7-8308-5be27c807271",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:38:49.360Z",
+    "content": {
+      "language": "vi",
+      "word": "sự nghiệp",
+      "sentence": "Tôi đang xây dựng ___ mới.",
+      "translatedAnswer": {
+        "en": "career"
+      },
+      "translation": {
+        "en": "I am building a new career."
+      },
+      "answer": "sự nghiệp",
+      "hint": "s__ nghiệp",
+      "choices": [
+        "dự án",
+        "sự nghiệp",
+        "kế hoạch"
+      ]
+    },
+    "updatedAt": "2025-03-12T13:38:49.360Z"
+  },
+  "notes_md": "**Sự nghiệp** = career — your long-term professional path, not just one job. It’s about growth, achievements, and direction over time.\n\nIt’s an uncountable noun in most cases; you don’t count it with classifiers. Often used with verbs like *theo đuổi*, *phát triển*, *xây dựng*, *bắt đầu*.  \n\nCommon pattern: *sự nghiệp + của + ai* to show whose career.  \n\nClose words: *nghề* (job/profession in general, more about what you do), *công việc* (a specific job). “Sự nghiệp” sounds bigger and long-term.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "sự nghiệp",
+    "kinh nghiệm",
+    "thành tích"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 623,
+  "exampleSentences": [
+    "Anh muốn phát triển sự nghiệp trong lĩnh vực công nghệ thông tin.",
+    "Chị ấy rất tự hào về sự nghiệp của mình ở bệnh viện.",
+    "Bố mẹ luôn ủng hộ em theo đuổi sự nghiệp mơ ước."
+  ],
+  "word": "sự nghiệp",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "career",
+  "_id": "DBeutDip3N3l65y6zUr7"
+}

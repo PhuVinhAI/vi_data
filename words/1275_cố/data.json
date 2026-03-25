@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:35:43.576Z",
+    "definitions": {
+      "en": "to try, to strive, to make an effort",
+      "es": "intentar, esforzarse, hacer un esfuerzo",
+      "vi": "cố gắng, nỗ lực"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "try",
+      "es": "intentar",
+      "vi": "cố"
+    },
+    "example": {
+      "en": "I will try my best to complete the work.",
+      "es": "Haré todo lo posible para completar el trabajo.",
+      "vi": "Tôi sẽ cố gắng hết sức để hoàn thành công việc."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I will try to finish my homework before going to sleep.",
+    "He always try to help everyone around him.",
+    "She try very hard to pass this exam."
+  ],
+  "updatedAt": "2026-03-03T08:32:12.572Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:20:17.500Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I will try to learn Vietnamese."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "try"
+      },
+      "answer": "cố",
+      "language": "vi",
+      "word": "cố",
+      "sentence": "Tôi sẽ ___ học tiếng Việt."
+    },
+    "updatedAt": "2025-03-12T17:20:17.500Z",
+    "id": "9f62315f-24b2-4492-ab3d-4445bb874508"
+  },
+  "definition": "try",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**cố** = to try, to make an effort. It’s about pushing yourself to do something, even if it’s hard.\n\nIt’s a verb. You put it before another verb to show effort.  \n\nIt often implies effort over time or difficulty. Stronger and more natural version: **cố gắng** (very common).  \n\nOpposite idea: **bỏ cuộc** (give up).",
+  "rank": 1275,
+  "choices": [
+    "cố",
+    "gọi",
+    "chờ"
+  ],
+  "word": "cố",
+  "notes": "cố = to try, to make an effort. It’s about pushing yourself to do something, even if it’s hard.\n\nIt’s a verb. You put it before another verb to show effort.  \n\nIt often implies effort over time or difficulty. Stronger and more natural version: cố gắng (very common).  \n\nOpposite idea: bỏ cuộc (give up).",
+  "exampleSentences": [
+    "Em sẽ cố hoàn thành bài tập trước khi đi ngủ.",
+    "Anh luôn cố để giúp đỡ mọi người xung quanh.",
+    "Chị ấy đã cố rất nhiều để vượt qua kỳ thi này."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:20:17.500Z",
+    "content": {
+      "word": "cố",
+      "language": "vi",
+      "hint": "c__",
+      "answer": "cố",
+      "sentence": "Tôi sẽ ___ học tiếng Việt.",
+      "translation": {
+        "en": "I will try to learn Vietnamese."
+      },
+      "translatedAnswer": {
+        "en": "try"
+      },
+      "choices": [
+        "cố",
+        "chơi",
+        "tìm"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:20:17.500Z",
+    "id": "65d297f0-c1d0-43af-b927-c4c0b673b93d"
+  },
+  "_id": "XidtfCMQWMIuxQ18lPy6"
+}

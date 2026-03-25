@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:19:50.470Z",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi thích ăn ___ vào buổi sáng.",
+      "language": "vi",
+      "word": "bánh",
+      "translatedAnswer": {
+        "en": "bread"
+      },
+      "translation": {
+        "en": "I like to eat bread in the morning."
+      },
+      "answer": "bánh"
+    },
+    "id": "8a9e5d71-9d2e-4862-b5a6-fb2a24eda195",
+    "updatedAt": "2025-03-12T15:19:50.470Z"
+  },
+  "exampleSentencesTranslated": [
+    "Today I made a cake for my mom's birthday.",
+    "Can you help me buy a cake at the shop?",
+    "Every morning, I usually eat some cake with milk."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích ăn bánh vào buổi sáng.",
+      "es": "Me gusta comer pastel por la mañana.",
+      "en": "I like to eat cake in the morning."
+    },
+    "definitions": {
+      "en": "A type of food that is typically sweet and baked, often made with flour, sugar, and other ingredients.",
+      "es": "Un tipo de comida que suele ser dulce y se hornea, a menudo hecha con harina, azúcar y otros ingredientes.",
+      "vi": "Một loại thực phẩm thường ngọt và được nướng, thường được làm từ bột mì, đường và các thành phần khác."
+    },
+    "createdAt": "2025-01-28T12:54:37.979Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "pastel",
+      "vi": "bánh",
+      "en": "cake"
+    }
+  },
+  "definition": "cake",
+  "notes": "Bánh usually means cake, but it’s actually a general word for many flour-based foods. It can be sweet or savory.\n\nIt’s a countable noun, often used with cái or chiếc: một cái bánh, một chiếc bánh. Vietnamese uses bánh + type to be specific: bánh mì (bread), bánh bao (steamed bun), bánh chưng (sticky rice cake), bánh quy (cookies).\n\nSo don’t think only “birthday cake” — think “anything made from flour or dough.”",
+  "updatedAt": "2026-03-03T08:41:58.958Z",
+  "exampleSentences": [
+    "Hôm nay em làm một chiếc bánh cho sinh nhật của mẹ.",
+    "Anh có thể mua giúp chị một cái bánh ở tiệm được không?",
+    "Mỗi sáng, em thường ăn một ít bánh với sữa."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:19:50.470Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "bread"
+      },
+      "translation": {
+        "en": "I want to buy bread at the market."
+      },
+      "hint": "b___",
+      "answer": "bánh",
+      "choices": [
+        "bánh",
+        "trái cây",
+        "thịt"
+      ],
+      "sentence": "Tôi muốn mua ___ ở chợ.",
+      "language": "vi",
+      "word": "bánh"
+    },
+    "createdAt": "2025-03-12T15:19:50.470Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "9dc2e01a-adf5-439d-a5d8-3053dec5dd20",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Bánh** usually means *cake*, but it’s actually a general word for many flour-based foods. It can be sweet or savory.\n\nIt’s a **countable noun**, often used with **cái** or **chiếc**: *một cái bánh*, *một chiếc bánh*. Vietnamese uses *bánh + type* to be specific: *bánh mì* (bread), *bánh bao* (steamed bun), *bánh chưng* (sticky rice cake), *bánh quy* (cookies).\n\nSo don’t think only “birthday cake” — think “anything made from flour or dough.”",
+  "rank": 1366,
+  "choices": [
+    "bánh",
+    "cơm",
+    "chè"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "bánh",
+  "_id": "c8C4BHReBGwrfvh2AG5o"
+}

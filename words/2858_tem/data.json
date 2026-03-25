@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need to buy a new stamp."
+      },
+      "translatedAnswer": {
+        "en": "stamp"
+      },
+      "language": "vi",
+      "word": "tem",
+      "sentence": "Tôi cần mua một ___ mới.",
+      "answer": "tem"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "4711a9b8-ec29-4121-9645-1e610cb7e394",
+    "createdAt": "2025-03-12T13:03:33.412Z",
+    "updatedAt": "2025-03-12T13:03:33.412Z"
+  },
+  "updatedAt": "2026-03-03T18:05:23.526Z",
+  "exampleSentencesTranslated": [
+    "I bought a new stamp to put on the postcard to send to my friend.",
+    "I need one more stamp to send this letter abroad.",
+    "She collects stamp from many different countries in her collection."
+  ],
+  "notes_md": "**tem** = stamp, usually a postage stamp you stick on a letter.\n\nIt’s a noun. You’ll hear **một con tem** or **một cái tem** (both are natural; *con* is very common for small thin objects).  \nCommon pairings: **tem thư** (postage stamp), **tem chống giả** (anti-fake sticker), **tem xe** (vehicle sticker/registration tag).  \n\nIt can also mean a small sticker label in general, not just for mail. Don’t confuse it with **nhãn** (label/brand label) — *tem* is usually smaller and something you stick on.",
+  "choices": [
+    "tem",
+    "bút",
+    "giấy"
+  ],
+  "notes": "tem = stamp, usually a postage stamp you stick on a letter.\n\nIt’s a noun. You’ll hear một con tem or một cái tem (both are natural; con is very common for small thin objects).  \nCommon pairings: tem thư (postage stamp), tem chống giả (anti-fake sticker), tem xe (vehicle sticker/registration tag).  \n\nIt can also mean a small sticker label in general, not just for mail. Don’t confuse it with nhãn (label/brand label) — tem is usually smaller and something you stick on.",
+  "word": "tem",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "bìa",
+        "tem",
+        "giấy"
+      ],
+      "translation": {
+        "en": "I need a stamp to send the letter."
+      },
+      "hint": "t__m",
+      "word": "tem",
+      "translatedAnswer": {
+        "en": "stamp"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ để gửi thư.",
+      "answer": "tem"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "fdf9bf76-94ce-42d4-a479-7b34b14445d4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:03:33.412Z",
+    "updatedAt": "2025-03-12T13:03:33.412Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh mua một cái tem mới để dán lên bưu thiếp gửi cho bạn.",
+    "Em cần thêm một tem nữa để gửi thư này ra nước ngoài.",
+    "Chị có sưu tập tem từ nhiều quốc gia khác nhau trong bộ sưu tập của mình."
+  ],
+  "rank": 2858,
+  "definition": "stamp",
+  "flashcard": {
+    "example": {
+      "en": "I put a stamp on the letter.",
+      "vi": "Tôi đã dán tem lên bức thư.",
+      "es": "Puse un sello en la carta."
+    },
+    "translations": {
+      "es": "sello",
+      "en": "stamp",
+      "vi": "tem"
+    },
+    "createdAt": "2025-01-28T10:45:55.691Z",
+    "definitions": {
+      "es": "Un pequeño trozo de papel que se compra y se pega a una carta o paquete para mostrar que se ha pagado el franqueo.",
+      "vi": "Một mảnh giấy nhỏ được mua và dán lên thư hoặc gói hàng để cho thấy rằng phí bưu chính đã được thanh toán.",
+      "en": "A small piece of paper that is bought and stuck onto a letter or package to show that postage has been paid."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "3pKWWZEoI0r8ZuESJxgC"
+}

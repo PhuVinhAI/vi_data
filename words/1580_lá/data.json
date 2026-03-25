@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:05:25.127Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:46:07.101Z",
+    "id": "5d5848bb-c749-4c5c-8252-30155b7ef672",
+    "content": {
+      "translatedAnswer": {
+        "en": "leaves"
+      },
+      "language": "vi",
+      "sentence": "Cây có ___ xanh tươi.",
+      "word": "lá",
+      "choices": [
+        "cành",
+        "lá",
+        "hoa"
+      ],
+      "translation": {
+        "en": "The tree has green leaves."
+      },
+      "answer": "lá",
+      "hint": "l__"
+    },
+    "updatedAt": "2025-03-12T14:46:07.101Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "lá",
+  "rank": 1580,
+  "exampleSentencesTranslated": [
+    "Every morning, I usually look at the green leaf in front of the house.",
+    "She picked up a fallen leaf on the sidewalk while walking.",
+    "I like to draw a picture of a leaf in my notebook during art class."
+  ],
+  "notes": "lá = leaf (the flat green part of a plant).\n\nIt’s a noun. For counting, use chiếc or cái: một chiếc lá, hai cái lá (chiếc sounds a bit more natural for single leaves).  \n\nVery common in compound nouns: lá cây (plant leaf), lá thư (letter), lá cờ (flag), lá bài (playing card). Here, lá gives the idea of something thin and flat.  \n\nIt can also mean a card in games, which is just an extended idea of a thin, flat “leaf.”",
+  "choices": [
+    "hoa",
+    "cành",
+    "lá"
+  ],
+  "notes_md": "**lá** = leaf (the flat green part of a plant).\n\nIt’s a noun. For counting, use **chiếc** or **cái**: *một chiếc lá*, *hai cái lá* (chiếc sounds a bit more natural for single leaves).  \n\nVery common in compound nouns: **lá cây** (plant leaf), **lá thư** (letter), **lá cờ** (flag), **lá bài** (playing card). Here, *lá* gives the idea of something thin and flat.  \n\nIt can also mean a **card** in games, which is just an extended idea of a thin, flat “leaf.”",
+  "exampleSentences": [
+    "Mỗi sáng, anh thường ngắm nhìn những chiếc lá xanh trước nhà.",
+    "Chị nhặt một chiếc lá rơi trên vỉa hè khi đi dạo.",
+    "Em thích vẽ hình chiếc lá vào vở trong giờ mỹ thuật."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:20:18.682Z",
+    "definitions": {
+      "en": "A flat, typically green part of a plant that is attached to a stem or branch.",
+      "vi": "Một phần phẳng, thường có màu xanh, của một cây được gắn vào thân hoặc cành.",
+      "es": "Una parte plana, típicamente verde, de una planta que está unida a un tallo o rama."
+    },
+    "example": {
+      "vi": "Cái lá rơi xuống đất.",
+      "en": "The leaf fell to the ground.",
+      "es": "La hoja cayó al suelo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "hoja",
+      "en": "leaf",
+      "vi": "lá"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "leaf",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "b62bd1e6-d2de-4b66-a60a-8d2e332e066f",
+    "createdAt": "2025-03-12T14:46:07.101Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "leaves"
+      },
+      "sentence": "Cây có ___ xanh tươi.",
+      "translation": {
+        "en": "The tree has green leaves."
+      },
+      "answer": "lá",
+      "choices": [],
+      "word": "lá"
+    },
+    "updatedAt": "2025-03-12T14:46:07.101Z"
+  },
+  "_id": "TIUQU6GvFvDa4tBfq9P9"
+}

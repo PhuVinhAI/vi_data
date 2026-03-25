@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:20:04.145Z",
+    "createdAt": "2025-03-12T13:20:04.145Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "cách mạng",
+      "language": "vi",
+      "sentence": "Sự kiện ___ đã thay đổi lịch sử.",
+      "choices": [
+        "cách mạng",
+        "biến động",
+        "thay đổi"
+      ],
+      "hint": "c___n",
+      "answer": "cách mạng",
+      "translation": {
+        "en": "The revolution event changed history."
+      },
+      "translatedAnswer": {
+        "en": "revolution"
+      }
+    },
+    "id": "959d169d-8447-49b6-bbaf-a1cf1d084ddf",
+    "type": "multiChoiceQuiz"
+  },
+  "rank": 2201,
+  "choices": [
+    "cách mạng",
+    "khởi nghĩa",
+    "phát triển"
+  ],
+  "notes_md": "**cách mạng** = revolution. It usually means a big political or social change that replaces an old system.\n\nIt’s a **noun**, and you normally say **“cuộc cách mạng”** when counting it.  \n\nIt can also mean a major transformation in technology, culture, or thinking — not just politics.  \nClose idea: **nổi dậy** (uprising), but *nổi dậy* focuses more on the act of rebelling, while *cách mạng* is the whole deep change.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "cách mạng",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "99e043d5-8a95-4121-8c1b-8f3a17d8bef8",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Cuộc sống cần có ___ để tiến bộ.",
+      "word": "cách mạng",
+      "translatedAnswer": {
+        "en": "revolution"
+      },
+      "translation": {
+        "en": "Life needs a revolution to progress."
+      },
+      "answer": "cách mạng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:20:04.145Z",
+    "updatedAt": "2025-03-12T13:20:04.145Z"
+  },
+  "exampleSentencesTranslated": [
+    "Have you read about a big revolution in Vietnamese history?",
+    "Thanks to the technology revolution, our lives have changed a lot.",
+    "She thinks that revolution can bring many new opportunities for the country."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "The August Revolution changed the history of Vietnam.",
+      "vi": "Cách mạng tháng Tám đã thay đổi lịch sử Việt Nam.",
+      "es": "La Revolución de Agosto cambió la historia de Vietnam."
+    },
+    "definitions": {
+      "en": "A significant and often violent change in political power or organizational structures.",
+      "es": "Un cambio significativo y a menudo violento en el poder político o las estructuras organizativas.",
+      "vi": "Một sự thay đổi quan trọng và thường bạo lực trong quyền lực chính trị hoặc cấu trúc tổ chức."
+    },
+    "createdAt": "2025-01-28T11:00:26.150Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cách mạng",
+      "es": "revolución",
+      "en": "revolution"
+    }
+  },
+  "definition": "revolution",
+  "notes": "cách mạng = revolution. It usually means a big political or social change that replaces an old system.\n\nIt’s a noun, and you normally say “cuộc cách mạng” when counting it.  \n\nIt can also mean a major transformation in technology, culture, or thinking — not just politics.  \nClose idea: nổi dậy (uprising), but nổi dậy focuses more on the act of rebelling, while cách mạng is the whole deep change.",
+  "exampleSentences": [
+    "Anh đã đọc về một cuộc cách mạng lớn trong lịch sử Việt Nam chưa?",
+    "Nhờ cách mạng công nghệ, cuộc sống của chúng ta thay đổi rất nhiều.",
+    "Chị nghĩ rằng cách mạng có thể mang lại nhiều cơ hội mới cho đất nước."
+  ],
+  "updatedAt": "2026-03-03T10:11:02.927Z",
+  "_id": "8LMPNTlnNkNYlNf5Gxcj"
+}

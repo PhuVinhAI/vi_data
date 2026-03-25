@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "If you have any question, just ask me.",
+    "She has already prepared a question for tomorrow's interview.",
+    "The teacher asked each student to come up with a question about the lesson."
+  ],
+  "rank": 1776,
+  "word": "câu hỏi",
+  "multiChoiceQuiz": {
+    "content": {
+      "word": "câu hỏi",
+      "choices": [
+        "câu trả lời",
+        "câu hỏi",
+        "câu chuyện"
+      ],
+      "hint": "c___ h____",
+      "translation": {
+        "en": "Do you have any questions?"
+      },
+      "answer": "câu hỏi",
+      "sentence": "Bạn có ___ nào không?",
+      "translatedAnswer": {
+        "en": "questions"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:26:02.300Z",
+    "id": "be413ff3-a388-4eb3-b2dc-d71878fb7184",
+    "createdAt": "2025-03-12T14:26:02.300Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:26:17.343Z",
+  "choices": [
+    "câu hỏi",
+    "câu trả lời",
+    "bài tập"
+  ],
+  "notes": "câu hỏi means “question” — something you ask when you want information.  \n\nIt’s a countable noun: một câu hỏi, hai câu hỏi. The classifier is câu (used for sentences and questions).  \n\nCommon verbs with it are đặt (to pose), hỏi (to ask), and trả lời (to answer). The opposite idea is câu trả lời (answer).  \n\nStructure: đặt / hỏi / trả lời + câu hỏi (đặt câu hỏi)",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "question",
+      "vi": "câu hỏi",
+      "es": "pregunta"
+    },
+    "createdAt": "2025-01-28T13:56:05.349Z",
+    "definitions": {
+      "vi": "Một câu được diễn đạt để thu thập thông tin.",
+      "en": "A sentence worded or expressed so as to elicit information.",
+      "es": "Una oración formulada o expresada para obtener información."
+    },
+    "example": {
+      "es": "Esta pregunta es muy difícil.",
+      "vi": "Câu hỏi này rất khó.",
+      "en": "This question is very difficult."
+    }
+  },
+  "exampleSentences": [
+    "Nếu em có bất kỳ câu hỏi nào, cứ hỏi anh nhé.",
+    "Chị đã chuẩn bị sẵn câu hỏi cho buổi phỏng vấn ngày mai.",
+    "Thầy giáo yêu cầu mỗi học sinh đặt một câu hỏi về bài học."
+  ],
+  "notes_md": "**câu hỏi** means “question” — something you ask when you want information.  \n\nIt’s a countable noun: *một câu hỏi, hai câu hỏi*. The classifier is **câu** (used for sentences and questions).  \n\nCommon verbs with it are **đặt** (to pose), **hỏi** (to ask), and **trả lời** (to answer). The opposite idea is **câu trả lời** (answer).  \n\n`Structure: đặt / hỏi / trả lời + câu hỏi` (đặt câu hỏi)",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "6ade3d27-cf2e-4801-8db0-70e793df80b5",
+    "createdAt": "2025-03-12T14:26:02.300Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "questions"
+      },
+      "sentence": "Bạn có ___ nào không?",
+      "choices": [],
+      "word": "câu hỏi",
+      "translation": {
+        "en": "Do you have any questions?"
+      },
+      "answer": "câu hỏi"
+    },
+    "updatedAt": "2025-03-12T14:26:02.300Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "question",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "ObQx55RFs44B3ANGKgsR"
+}

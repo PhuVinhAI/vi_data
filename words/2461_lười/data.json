@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:16:10.824Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:16:10.824Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "lazy"
+      },
+      "translation": {
+        "en": "I feel lazy and don't want to do anything."
+      },
+      "hint": "l__i",
+      "answer": "lười",
+      "choices": [
+        "mệt",
+        "lười",
+        "chán"
+      ],
+      "sentence": "Tôi cảm thấy ___ không muốn làm gì.",
+      "language": "vi",
+      "word": "lười"
+    },
+    "id": "69a32e71-b8c9-4fa9-a5c5-7463ceeccaf9"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "choices": [
+    "lười",
+    "vui",
+    "buồn"
+  ],
+  "rank": 2461,
+  "notes_md": "**lười** = lazy; not wanting to do something because it feels like too much effort.\n\nIt’s an adjective, used to describe a person’s attitude toward actions (work, studying, cleaning, etc.). Very often followed by a verb to say what someone is too lazy to do.  \n\nYou can also say **lười biếng** for a slightly stronger or more judgmental “lazy.”  \nOpposite: **chăm chỉ** (hardworking) — a useful contrast to remember.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "lười",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:16:10.824Z",
+    "id": "b99e3fd8-ae51-47cf-86f8-1f79c6e79836",
+    "content": {
+      "word": "lười",
+      "sentence": "Hôm nay tôi rất ___ để học.",
+      "language": "vi",
+      "choices": [],
+      "answer": "lười",
+      "translation": {
+        "en": "Today I am very lazy to study."
+      },
+      "translatedAnswer": {
+        "en": "lazy"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:16:10.824Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "Today I feel very lazy so I don't want to do anything.",
+    "He is often lazy to get up early on the weekend.",
+    "You shouldn't be lazy if you want good results at work."
+  ],
+  "definition": "lazy",
+  "flashcard": {
+    "example": {
+      "es": "Soy muy perezoso por la mañana.",
+      "vi": "Tôi rất lười biếng vào buổi sáng.",
+      "en": "I am very lazy in the morning."
+    },
+    "definitions": {
+      "es": "Reacio a trabajar o usar energía; perezoso.",
+      "vi": "Không muốn làm việc hoặc sử dụng năng lượng; lười biếng.",
+      "en": "Unwilling to work or use energy; lazy."
+    },
+    "createdAt": "2025-01-28T12:50:42.445Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "lazy",
+      "vi": "lười",
+      "es": "perezoso"
+    }
+  },
+  "notes": "lười = lazy; not wanting to do something because it feels like too much effort.\n\nIt’s an adjective, used to describe a person’s attitude toward actions (work, studying, cleaning, etc.). Very often followed by a verb to say what someone is too lazy to do.  \n\nYou can also say lười biếng for a slightly stronger or more judgmental “lazy.”  \nOpposite: chăm chỉ (hardworking) — a useful contrast to remember.",
+  "exampleSentences": [
+    "Hôm nay em cảm thấy rất lười nên không muốn làm gì cả.",
+    "Anh ấy thường lười dậy sớm vào cuối tuần.",
+    "Chị không nên lười nếu muốn đạt kết quả tốt trong công việc."
+  ],
+  "updatedAt": "2026-03-03T10:37:53.801Z",
+  "_id": "bGaSYB42cClD2sCAh16T"
+}

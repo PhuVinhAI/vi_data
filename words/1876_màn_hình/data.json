@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể chỉnh độ sáng của màn hình giúp em được không?",
+    "Mỗi khi em mở máy tính, màn hình sẽ tự động sáng lên.",
+    "Chị thích xem phim trên màn hình lớn ở rạp chiếu phim."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "màn cửa",
+    "màn hình",
+    "màn đêm"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:41:09.841Z",
+    "updatedAt": "2025-03-12T15:41:09.841Z",
+    "content": {
+      "word": "màn hình",
+      "translation": {
+        "en": "I look at the screen of the computer."
+      },
+      "language": "vi",
+      "choices": [],
+      "sentence": "Tôi nhìn vào ___ của máy tính.",
+      "translatedAnswer": {
+        "en": "screen"
+      },
+      "answer": "màn hình"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "8b17fddd-979f-43ea-aa7e-08ed09ef7772"
+  },
+  "rank": 1876,
+  "notes": "màn hình = screen (phone, computer, TV, etc.). It’s the flat surface where you see images or information.\n\nIt’s a noun. Use the classifier cái → cái màn hình. Common pairings: màn hình điện thoại, màn hình máy tính, màn hình tivi, and verbs like bật/tắt màn hình, chạm vào màn hình, vỡ màn hình.\n\nLiterally, màn = curtain and hình = image, so think “image curtain.”  \nSometimes people just say màn in tech talk, but màn hình is the normal full form.",
+  "definition": "screen",
+  "notes_md": "**màn hình** = screen (phone, computer, TV, etc.). It’s the flat surface where you see images or information.\n\nIt’s a noun. Use the classifier **cái** → *cái màn hình*. Common pairings: **màn hình điện thoại, màn hình máy tính, màn hình tivi**, and verbs like **bật/tắt màn hình, chạm vào màn hình, vỡ màn hình**.\n\nLiterally, **màn** = curtain and **hình** = image, so think “image curtain.”  \nSometimes people just say **màn** in tech talk, but **màn hình** is the normal full form.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "6fc5d020-532f-4819-bb2e-b94c6998768f",
+    "content": {
+      "sentence": "Tôi thấy ___ rất rõ.",
+      "choices": [
+        "màn hình",
+        "điện thoại",
+        "bảng điều khiển"
+      ],
+      "hint": "m___n",
+      "translatedAnswer": {
+        "en": "screen"
+      },
+      "answer": "màn hình",
+      "translation": {
+        "en": "I see the screen very clearly."
+      },
+      "word": "màn hình",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:41:09.841Z",
+    "createdAt": "2025-03-12T15:41:09.841Z"
+  },
+  "updatedAt": "2026-03-03T09:36:32.614Z",
+  "word": "màn hình",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:14:34.311Z",
+    "definitions": {
+      "en": "A flat surface on which images and data are displayed.",
+      "es": "Una superficie plana en la que se muestran imágenes y datos.",
+      "vi": "Một bề mặt phẳng trên đó hình ảnh và dữ liệu được hiển thị."
+    },
+    "example": {
+      "es": "La pantalla de la computadora es muy grande.",
+      "en": "The computer screen is very large.",
+      "vi": "Màn hình của máy tính rất lớn."
+    },
+    "translations": {
+      "en": "screen",
+      "es": "pantalla",
+      "vi": "màn hình"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you adjust the brightness of the screen for me?",
+    "Every time I turn on the computer, the screen lights up automatically.",
+    "She likes to watch movies on a big screen at the cinema."
+  ],
+  "_id": "hQ60BaTSUhecNFJKq6zj"
+}

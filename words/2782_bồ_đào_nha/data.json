@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "76b16da9-3bcf-4f80-b5d3-894883aa5f7c",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi muốn đi ___ vào mùa hè.",
+      "answer": "bồ đào nha",
+      "translation": {
+        "en": "I want to go to Portugal in the summer."
+      },
+      "choices": [],
+      "word": "bồ đào nha",
+      "translatedAnswer": {
+        "en": "Portugal"
+      },
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:12:00.242Z",
+    "updatedAt": "2025-03-12T13:12:00.242Z"
+  },
+  "updatedAt": "2026-03-03T17:30:01.132Z",
+  "exampleSentencesTranslated": [
+    "I want to travel to Portugal this summer with you.",
+    "Her friend is studying Portugal language to prepare for the trip.",
+    "The famous food of Portugal is very attractive and delicious."
+  ],
+  "notes_md": "**Bồ Đào Nha** means **Portugal**, the country in Europe.\n\nIt’s a proper noun, so you capitalize it: **Bồ Đào Nha**. You can say **nước Bồ Đào Nha** when you want to be clear you mean the country. It often goes with verbs like *đi*, *đến*, *ở*, *từ*.\n\n\nRelated word: **tiếng Bồ Đào Nha** = Portuguese (the language).",
+  "word": "bồ đào nha",
+  "choices": [
+    "bồ đào nha",
+    "tây ban nha",
+    "ý"
+  ],
+  "notes": "Bồ Đào Nha means Portugal, the country in Europe.\n\nIt’s a proper noun, so you capitalize it: Bồ Đào Nha. You can say nước Bồ Đào Nha when you want to be clear you mean the country. It often goes with verbs like đi, đến, ở, từ.\n\nRelated word: tiếng Bồ Đào Nha = Portuguese (the language).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Anh muốn đi du lịch bồ đào nha vào mùa hè này với em.",
+    "Bạn của chị đang học tiếng bồ đào nha để chuẩn bị cho chuyến đi.",
+    "Món ăn nổi tiếng của bồ đào nha rất hấp dẫn và ngon miệng."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "5d9445b5-4106-40eb-a5d9-8ff1a428adfe",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "I like the food in Portugal."
+      },
+      "choices": [
+        "bồ đào nha",
+        "nhật bản",
+        "hàn quốc"
+      ],
+      "hint": "b___ n___",
+      "translatedAnswer": {
+        "en": "Portugal"
+      },
+      "language": "vi",
+      "word": "bồ đào nha",
+      "sentence": "Tôi thích các món ăn ở ___.",
+      "answer": "bồ đào nha"
+    },
+    "createdAt": "2025-03-12T13:12:00.242Z",
+    "updatedAt": "2025-03-12T13:12:00.242Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:53:12.249Z",
+    "definitions": {
+      "es": "Un tipo de fruta que es dulce y jugosa, típicamente con una piel peluda.",
+      "en": "A type of fruit that is sweet and juicy, typically with a fuzzy skin.",
+      "vi": "Một loại trái cây ngọt và mọng nước, thường có vỏ lông."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "es": "Me gusta comer duraznos en verano.",
+      "vi": "Tôi thích ăn bồ đào nha vào mùa hè.",
+      "en": "I like to eat peaches in the summer."
+    },
+    "translations": {
+      "es": "durazno",
+      "vi": "bồ đào",
+      "en": "peach"
+    }
+  },
+  "rank": 2782,
+  "definition": "Portugal",
+  "_id": "5uZXhHGejiZOHVEnenyP"
+}

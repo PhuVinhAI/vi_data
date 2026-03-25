@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:02:52.838Z",
+    "updatedAt": "2025-03-12T15:02:52.838Z",
+    "content": {
+      "translation": {
+        "en": "This product has a reasonable price."
+      },
+      "translatedAnswer": {
+        "en": "price"
+      },
+      "choices": [
+        "giá",
+        "chi phí",
+        "giá trị"
+      ],
+      "answer": "giá",
+      "hint": "g___",
+      "word": "giá",
+      "language": "vi",
+      "sentence": "Sản phẩm này có ___ hợp lý."
+    },
+    "id": "7040651b-6b4d-44ba-9aa4-54b7e4ca8cb8"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "giá",
+  "notes": "giá = price, how much something costs. It’s a noun.\n\nYou often see it in phrases like giá tiền (price in money), mức giá (price level), and giá cả (prices in general). To ask about cost, just use giá + của + item.\n\nVery common opposite idea: miễn phí (free).  \n\nAnother common meaning: giá = a rack or shelf (like giá sách = bookshelf), so context tells you if it’s “price” or “rack.”",
+  "exampleSentences": [
+    "Anh có thể cho em biết giá của chiếc áo này không?",
+    "Giá hôm nay của rau ngoài chợ cao hơn hôm qua nhiều.",
+    "Chị thường so sánh giá trước khi mua bất cứ thứ gì."
+  ],
+  "choices": [
+    "giờ",
+    "giá",
+    "gạo"
+  ],
+  "rank": 703,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**giá** = price, how much something costs. It’s a noun.\n\nYou often see it in phrases like **giá tiền** (price in money), **mức giá** (price level), and **giá cả** (prices in general). To ask about cost, just use *giá + của + item*.\n\nVery common opposite idea: **miễn phí** (free).  \n\nAnother common meaning: **giá** = a rack or shelf (like *giá sách* = bookshelf), so context tells you if it’s “price” or “rack.”",
+  "definition": "price",
+  "exampleSentencesTranslated": [
+    "Can you tell me the price of this shirt?",
+    "The price of vegetables at the market today is much higher than yesterday.",
+    "She usually compares the price before buying anything."
+  ],
+  "updatedAt": "2026-03-03T07:31:56.129Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "a79502d0-cfce-4681-bd54-b0a39bdfd4eb",
+    "content": {
+      "answer": "giá",
+      "word": "giá",
+      "language": "vi",
+      "sentence": "Cái này có ___ cao không?",
+      "translation": {
+        "en": "Does this have a high price?"
+      },
+      "translatedAnswer": {
+        "en": "price"
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T15:02:52.838Z",
+    "createdAt": "2025-03-12T15:02:52.838Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "en": "This price is very high.",
+      "es": "Este precio es muy alto.",
+      "vi": "Cái giá này rất cao."
+    },
+    "translations": {
+      "en": "price",
+      "es": "precio",
+      "vi": "giá"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "The amount of money expected, required, or given in payment for something.",
+      "es": "La cantidad de dinero esperada, requerida o dada como pago por algo.",
+      "vi": "Số tiền được mong đợi, yêu cầu hoặc đưa ra để thanh toán cho một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:35:27.177Z"
+  },
+  "_id": "Xfq5tzMAp1MdwllebzKK"
+}

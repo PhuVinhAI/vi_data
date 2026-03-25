@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "content",
+  "word": "nội dung",
+  "rank": 558,
+  "exampleSentences": [
+    "Anh đã đọc hết nội dung của cuốn sách này chưa?",
+    "Chị muốn biết nội dung của buổi họp ngày mai là gì.",
+    "Em thấy nội dung của bộ phim này rất hấp dẫn và ý nghĩa."
+  ],
+  "choices": [
+    "nội dung",
+    "kết thúc",
+    "hình ảnh"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "id": "ccc0db79-f3d2-4e55-8a3a-bb0f30a9c090",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:58:41.491Z",
+    "content": {
+      "hint": "n___g",
+      "choices": [
+        "nội dung",
+        "thông tin",
+        "kết quả"
+      ],
+      "translation": {
+        "en": "This document talks about the content of the lesson."
+      },
+      "answer": "nội dung",
+      "translatedAnswer": {
+        "en": "content"
+      },
+      "word": "nội dung",
+      "sentence": "Tài liệu này nói về ___ của bài học.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:58:41.491Z"
+  },
+  "notes_md": "**nội dung** = content, what’s inside in terms of information or ideas (not the physical thing).\n\nIt’s an uncountable noun. You often see it with **của** to show “content of” something.  \n\nCommon pairings: **nội dung bài học, nội dung phim, nội dung email, nội dung chính**.  \nStrong contrast to remember: **nội dung** (content) vs **hình thức** (form/appearance).",
+  "exampleSentencesTranslated": [
+    "Have you read all the content of this book?",
+    "I want to know what the content of tomorrow's meeting is.",
+    "I think the content of this movie is very interesting and meaningful."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "The material or subject matter contained in something.",
+      "vi": "Tài liệu hoặc chủ đề có trong một cái gì đó.",
+      "es": "El material o tema contenido en algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "The content of the lesson is very interesting.",
+      "vi": "Nội dung của bài học rất thú vị.",
+      "es": "El contenido de la lección es muy interesante."
+    },
+    "createdAt": "2025-01-28T11:36:35.303Z",
+    "translations": {
+      "en": "content",
+      "es": "contenido",
+      "vi": "nội dung"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "cf00e750-4bb7-4e23-8103-4142ebe3e7b1",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This document talks about the content of the lesson."
+      },
+      "answer": "nội dung",
+      "choices": [],
+      "language": "vi",
+      "word": "nội dung",
+      "sentence": "Tài liệu này nói về ___ của bài học.",
+      "translatedAnswer": {
+        "en": "content"
+      }
+    },
+    "createdAt": "2025-03-12T13:58:41.491Z",
+    "updatedAt": "2025-03-12T13:58:41.491Z"
+  },
+  "notes": "nội dung = content, what’s inside in terms of information or ideas (not the physical thing).\n\nIt’s an uncountable noun. You often see it with của to show “content of” something.  \n\nCommon pairings: nội dung bài học, nội dung phim, nội dung email, nội dung chính.  \nStrong contrast to remember: nội dung (content) vs hình thức (form/appearance).",
+  "updatedAt": "2026-03-03T07:17:58.451Z",
+  "_id": "IWUzSSE1LbK1vU58uEok"
+}

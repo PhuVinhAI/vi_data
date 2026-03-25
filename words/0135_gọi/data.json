@@ -1,0 +1,98 @@
+{
+  "flashcard": {
+    "definitions": {
+      "vi": "gọi hoặc triệu tập ai đó",
+      "en": "to call or to summon someone",
+      "es": "llamar o convocar a alguien"
+    },
+    "createdAt": "2025-01-28T12:05:00.610Z",
+    "example": {
+      "en": "I call you to come over.",
+      "vi": "Tôi gọi bạn đến chơi.",
+      "es": "Te llamo para que vengas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "call",
+      "vi": "gọi",
+      "es": "llamar"
+    }
+  },
+  "exampleSentences": [
+    "Khi em cần giúp đỡ, em sẽ gọi anh ngay lập tức.",
+    "Chị đã quên gọi mẹ trước khi đi làm sáng nay.",
+    "Nếu có vấn đề, anh cứ gọi cho tôi bất cứ lúc nào."
+  ],
+  "notes_md": "**gọi** = to call someone, usually by phone. It can also mean to call out to someone or to name something.\n\nYou use it with a person directly: gọi ai (call someone), or gọi cho ai (call to/for someone). You can also use it for names: gọi + tên (call someone’s name) and gọi là + noun (be called / named).\n\nIt’s often used with phone-related words like điện thoại, số, or lại (call back).  \n\nSynonym to remember: **điện thoại (cho ai)** = to phone (more specific to phone calls).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:28:53.234Z",
+    "id": "e1ca27f5-7c34-4ccb-8bd7-5852cf595a65",
+    "content": {
+      "word": "gọi",
+      "answer": "gọi",
+      "translation": {
+        "en": "Do you have a call for me?"
+      },
+      "sentence": "Bạn có ___ cho tôi không?",
+      "translatedAnswer": {
+        "en": "a call"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:28:53.234Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "call",
+  "word": "gọi",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:28:53.234Z",
+    "id": "353ca645-8adb-43a3-97c4-b7fa82914455",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bạn có ___ cho tôi không?",
+      "translatedAnswer": {
+        "en": "a call"
+      },
+      "language": "vi",
+      "word": "gọi",
+      "choices": [
+        "đến",
+        "gọi",
+        "chạy"
+      ],
+      "hint": "g___",
+      "answer": "gọi",
+      "translation": {
+        "en": "Do you have a call for me?"
+      }
+    },
+    "updatedAt": "2025-03-12T14:28:53.234Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "When I need help, I will call you immediately.",
+    "She forgot to call her mom before going to work this morning.",
+    "If there is a problem, just call me anytime."
+  ],
+  "rank": 135,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:33:58.681Z",
+  "choices": [
+    "gửi",
+    "gọi",
+    "gặp"
+  ],
+  "notes": "gọi = to call someone, usually by phone. It can also mean to call out to someone or to name something.\n\nYou use it with a person directly: gọi ai (call someone), or gọi cho ai (call to/for someone). You can also use it for names: gọi + tên (call someone’s name) and gọi là + noun (be called / named).\n\nIt’s often used with phone-related words like điện thoại, số, or lại (call back).  \n\nSynonym to remember: điện thoại (cho ai) = to phone (more specific to phone calls).",
+  "_id": "PJEU7EBcR5bsF5nykPi0"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 1251,
+  "exampleSentencesTranslated": [
+    "It is raining heavily today, therefore I did not go to work.",
+    "I studied very hard, therefore I got a high score.",
+    "She has a cold, therefore she has to stay home and rest."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Mọi người đều thích món này, ___ tôi cũng vậy.",
+      "translatedAnswer": {
+        "en": "so"
+      },
+      "language": "vi",
+      "hint": "v___n",
+      "answer": "vậy nên",
+      "translation": {
+        "en": "Everyone likes this dish, so I do too."
+      },
+      "word": "vậy nên",
+      "choices": [
+        "hơn nữa",
+        "vậy nên",
+        "mặc dù"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:25:36.953Z",
+    "type": "multiChoiceQuiz",
+    "id": "2dc86750-57f7-4cfa-8f16-ff1bf74bb1eb",
+    "createdAt": "2025-03-12T14:25:36.953Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "vậy nên",
+  "updatedAt": "2026-03-03T08:29:13.677Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "vì vậy",
+    "vậy nên",
+    "cho nên"
+  ],
+  "notes": "vậy nên = therefore / so / that’s why. It links a cause to a result.\n\nIt’s a connector between two clauses: reason first, then result. Slightly more emphatic than just nên.\n\nClose synonyms: vì vậy, do đó (a bit more formal), nên (shorter, more common).",
+  "flashcard": {
+    "example": {
+      "es": "Está lloviendo, así que me quedo en casa.",
+      "en": "It's raining, so I'm staying home.",
+      "vi": "Trời mưa, vậy nên tôi ở nhà."
+    },
+    "createdAt": "2025-01-28T12:01:26.418Z",
+    "definitions": {
+      "en": "therefore; so; for that reason",
+      "vi": "vì vậy; do đó; vì lý do đó",
+      "es": "por lo tanto; así que; por esa razón"
+    },
+    "translations": {
+      "es": "por lo tanto; así que",
+      "en": "therefore; so",
+      "vi": "vậy nên"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Hôm nay trời mưa lớn, vậy nên anh không đi làm.",
+    "Em đã học rất chăm chỉ, vậy nên em đã đạt điểm cao.",
+    "Chị bị cảm lạnh, vậy nên chị phải ở nhà nghỉ ngơi."
+  ],
+  "notes_md": "**vậy nên** = therefore / so / that’s why. It links a cause to a result.\n\nIt’s a connector between two clauses: reason first, then result. Slightly more emphatic than just **nên**.\n\n\nClose synonyms: **vì vậy**, **do đó** (a bit more formal), **nên** (shorter, more common).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "1d5c7cad-a193-4510-854e-5470b563cea7",
+    "createdAt": "2025-03-12T14:25:36.953Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "vậy nên",
+      "answer": "vậy nên",
+      "translation": {
+        "en": "I am very busy, so I cannot come."
+      },
+      "sentence": "Tôi rất bận, ___ tôi không thể đến.",
+      "translatedAnswer": {
+        "en": "so"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:25:36.953Z"
+  },
+  "definition": "therefore",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "OYFdb1MOW5Lz9pYIs3of"
+}

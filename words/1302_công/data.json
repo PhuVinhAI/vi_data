@@ -1,0 +1,99 @@
+{
+  "definition": "labor",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T17:22:29.227Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d60c41fa-e187-4ab4-bece-27c7b58d74ee",
+    "content": {
+      "hint": "c___",
+      "translation": {
+        "en": "People work hard to have success."
+      },
+      "translatedAnswer": {
+        "en": "success"
+      },
+      "language": "vi",
+      "choices": [
+        "công",
+        "nghỉ",
+        "tích"
+      ],
+      "answer": "công",
+      "word": "công",
+      "sentence": "Người ta làm việc chăm chỉ để có ___."
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T17:22:29.227Z"
+  },
+  "rank": 1302,
+  "notes_md": "**Công** usually means **labor/work effort** — the time and energy someone puts into doing a job. It’s often counted in units like *giờ công* (work hour) or *ngày công* (work day), and used in phrases like *tiền công* (wages) and *công sức* (effort).  \n\nIt’s a noun, so it often follows numbers or quantity words (một ngày công, nhiều công). Don’t confuse it with *công việc* (a job/task itself) — *công* focuses more on the effort or labor behind it.  \n\nIt can also mean **merit/credit for an achievement**, as in *công lao* (contribution, merit).  \n\nMemory tip: *công* = the effort behind the work, not the task itself.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "công",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T17:22:29.227Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Người ta làm việc chăm chỉ để có ___.",
+      "translation": {
+        "en": "People work hard to have success."
+      },
+      "translatedAnswer": {
+        "en": "success"
+      },
+      "choices": [],
+      "language": "vi",
+      "answer": "công",
+      "word": "công"
+    },
+    "id": "ba036dfa-5f77-43d5-97af-23ae08489d4c",
+    "createdAt": "2025-03-12T17:22:29.227Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "Công usually means labor/work effort — the time and energy someone puts into doing a job. It’s often counted in units like giờ công (work hour) or ngày công (work day), and used in phrases like tiền công (wages) and công sức (effort).  \n\nIt’s a noun, so it often follows numbers or quantity words (một ngày công, nhiều công). Don’t confuse it with công việc (a job/task itself) — công focuses more on the effort or labor behind it.  \n\nIt can also mean merit/credit for an achievement, as in công lao (contribution, merit).  \n\nMemory tip: công = the effort behind the work, not the task itself.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "He receives money for each hour of labor at the factory.",
+    "Your labor in this project is very important and highly valued.",
+    "We need to distribute the labor equally so everyone feels it is fair."
+  ],
+  "updatedAt": "2026-03-03T08:35:18.751Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Công việc hoặc nghề nghiệp; một nhiệm vụ hoặc bổn phận.",
+      "en": "Work or job; a task or duty.",
+      "es": "Trabajo o empleo; una tarea o deber."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:43:35.434Z",
+    "translations": {
+      "vi": "công",
+      "en": "work",
+      "es": "trabajo"
+    },
+    "example": {
+      "es": "Mi trabajo es muy interesante.",
+      "en": "My job is very interesting.",
+      "vi": "Công việc của tôi rất thú vị."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "công",
+    "động",
+    "việc"
+  ],
+  "exampleSentences": [
+    "Anh ấy nhận được tiền cho mỗi giờ công làm việc ở nhà máy.",
+    "Công của chị trong dự án này rất quan trọng và được đánh giá cao.",
+    "Chúng ta cần chia đều công để mọi người đều cảm thấy công bằng."
+  ],
+  "_id": "pPIyYth1XV6Tbichb1lh"
+}

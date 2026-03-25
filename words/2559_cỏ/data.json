@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "He often sits on the grass to read books in the afternoon.",
+    "The front yard of my house has a lot of green grass in the summer.",
+    "She likes to walk barefoot on the grass when it is cool."
+  ],
+  "updatedAt": "2026-03-04T08:50:17.596Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "cỏ",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:34:17.573Z",
+    "definitions": {
+      "vi": "Một loại cây phổ biến có lá hẹp, mọc ở cánh đồng và vườn.",
+      "es": "Una planta común con hojas estrechas que crece en campos y jardines.",
+      "en": "A common plant with narrow leaves that grows in fields and gardens."
+    },
+    "example": {
+      "en": "The grass is green and grows everywhere.",
+      "es": "La hierba es verde y crece por todas partes.",
+      "vi": "Cỏ xanh tươi mọc khắp nơi."
+    },
+    "translations": {
+      "vi": "cỏ",
+      "es": "hierba",
+      "en": "grass"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T16:02:31.993Z",
+    "createdAt": "2025-03-12T16:02:31.993Z",
+    "id": "9ad03897-4ffb-4870-922c-990f232adcda",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "We sit on the grass."
+      },
+      "word": "cỏ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "grass"
+      },
+      "answer": "cỏ",
+      "sentence": "Chúng tôi ngồi trên ___.",
+      "choices": [
+        "đất",
+        "cỏ",
+        "bãi"
+      ],
+      "hint": "c__"
+    }
+  },
+  "notes_md": "**cỏ** = grass. The green plant that covers the ground in fields, parks, lawns.\n\nIt’s an uncountable noun, so you usually don’t use a classifier. To talk about areas or groups, use words like **bãi cỏ** (grassy area/lawn) or **bụi cỏ** (clump of grass).\n\nCommon pairings: **cỏ xanh** (green grass), **cắt cỏ** (cut the grass), **mọc cỏ** (grass grows), **cỏ dại** (weeds/wild grass).\n\nRelated word: **cỏ cây** = plants/vegetation in general (a bit broader than just grass).",
+  "notes": "cỏ = grass. The green plant that covers the ground in fields, parks, lawns.\n\nIt’s an uncountable noun, so you usually don’t use a classifier. To talk about areas or groups, use words like bãi cỏ (grassy area/lawn) or bụi cỏ (clump of grass).\n\nCommon pairings: cỏ xanh (green grass), cắt cỏ (cut the grass), mọc cỏ (grass grows), cỏ dại (weeds/wild grass).\n\nRelated word: cỏ cây = plants/vegetation in general (a bit broader than just grass).",
+  "definition": "grass",
+  "rank": 2559,
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "sentence": "Cây này mọc trên ___.",
+      "translatedAnswer": {
+        "en": "grass"
+      },
+      "answer": "cỏ",
+      "language": "vi",
+      "translation": {
+        "en": "This tree grows on grass."
+      },
+      "word": "cỏ"
+    },
+    "id": "803845ca-4479-4168-b1a3-92233ffed1f8",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:02:31.993Z",
+    "updatedAt": "2025-03-12T16:02:31.993Z"
+  },
+  "choices": [
+    "cỏ",
+    "lá",
+    "hoa"
+  ],
+  "exampleSentences": [
+    "Anh thường ngồi trên cỏ để đọc sách vào buổi chiều.",
+    "Sân trước nhà em có rất nhiều cỏ xanh vào mùa hè.",
+    "Chị thích đi chân trần trên cỏ khi trời mát."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "mmZZJ8ZA2wGjV7fKSlH7"
+}

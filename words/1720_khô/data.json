@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "edfb7f5a-92bc-499e-a3a7-2c2ee139882b",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "dry"
+      },
+      "word": "khô",
+      "sentence": "Thịt gà đã ___.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "The chicken is dry."
+      },
+      "answer": "khô"
+    },
+    "createdAt": "2025-03-12T13:59:32.862Z",
+    "updatedAt": "2025-03-12T13:59:32.862Z"
+  },
+  "notes": "Khô means dry — not wet, no water or moisture. It describes things like clothes, weather, skin, food, or land.\n\nAs an adjective, it comes after the noun: da khô, mùa khô, không khí khô. It can also describe taste and texture (not juicy, no sauce).\n\nYou’ll often see it with verbs like làm khô (make something dry) or khô đi (become dry). Opposite: ướt (wet) — easy memory pair: khô ↔ ướt.\n\nIt can also mean emotionally “dry” or “boring” (like khô khan = dry, not expressive).",
+  "updatedAt": "2026-03-03T09:20:07.157Z",
+  "notes_md": "**Khô** means *dry* — not wet, no water or moisture. It describes things like clothes, weather, skin, food, or land.\n\nAs an adjective, it comes after the noun: *da khô*, *mùa khô*, *không khí khô*. It can also describe taste and texture (not juicy, no sauce).\n\nYou’ll often see it with verbs like **làm khô** (make something dry) or **khô đi** (become dry). Opposite: **ướt** (wet) — easy memory pair: *khô ↔ ướt*.\n\nIt can also mean emotionally “dry” or “boring” (like *khô khan* = dry, not expressive).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:59:32.862Z",
+    "createdAt": "2025-03-12T13:59:32.862Z",
+    "content": {
+      "choices": [
+        "ẩm",
+        "mát",
+        "khô"
+      ],
+      "hint": "k___",
+      "translation": {
+        "en": "This summer the weather is very dry."
+      },
+      "answer": "khô",
+      "translatedAnswer": {
+        "en": "dry"
+      },
+      "language": "vi",
+      "sentence": "Mùa hè này trời rất ___.",
+      "word": "khô"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "79c6714b-51c7-4435-9beb-2a763cd23b98",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "You should bring a raincoat because today it is not very dry.",
+    "I like eating dry fish with rice in the evening.",
+    "After washing, she hangs the clothes outside to get dry."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "Tener poca o ninguna humedad; no mojado.",
+      "vi": "Có ít hoặc không có độ ẩm; không ướt.",
+      "en": "Having little or no moisture; not wet."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "seco",
+      "vi": "khô",
+      "en": "dry"
+    },
+    "example": {
+      "vi": "Mùa hè này, thời tiết rất khô.",
+      "es": "Este verano, el clima está muy seco.",
+      "en": "This summer, the weather is very dry."
+    },
+    "createdAt": "2025-01-28T11:37:32.131Z"
+  },
+  "word": "khô",
+  "rank": 1720,
+  "exampleSentences": [
+    "Anh nên mang theo áo mưa vì hôm nay trời không khô lắm.",
+    "Em thích ăn cá khô với cơm vào buổi tối.",
+    "Sau khi giặt xong, chị phơi quần áo ngoài trời cho khô."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "dry",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "mặn",
+    "ướt",
+    "khô"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "IgehKoS58vh2lzbwCTFR"
+}

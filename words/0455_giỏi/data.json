@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh ấy rất giỏi tiếng Anh nên thường giúp bạn bè học.",
+    "Chị giỏi nấu ăn và thường làm nhiều món ngon cho gia đình.",
+    "Em muốn giỏi toán để có thể thi vào trường đại học tốt."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:02:51.717Z",
+    "updatedAt": "2025-03-12T13:02:51.717Z",
+    "id": "dc1e5a70-bdf4-43b4-82f7-7c1a7db638b4",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "g___i",
+      "word": "giỏi",
+      "translatedAnswer": {
+        "en": "good"
+      },
+      "language": "vi",
+      "choices": [
+        "kém",
+        "giỏi",
+        "bình thường"
+      ],
+      "translation": {
+        "en": "He is very good at sports."
+      },
+      "answer": "giỏi",
+      "sentence": "Anh ấy rất ___ trong thể thao."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Ella es muy buena en matemáticas.",
+      "vi": "Cô ấy rất giỏi toán.",
+      "en": "She is very good at math."
+    },
+    "translations": {
+      "vi": "giỏi",
+      "en": "good, skilled",
+      "es": "bueno, hábil"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "có kỹ năng hoặc thành thạo trong một lĩnh vực cụ thể",
+      "en": "skilled or proficient in a particular area",
+      "es": "habilidoso o competente en un área particular"
+    },
+    "createdAt": "2025-01-28T10:45:21.500Z"
+  },
+  "definition": "good at",
+  "rank": 455,
+  "word": "giỏi",
+  "choices": [
+    "giỏi",
+    "chậm",
+    "đẹp"
+  ],
+  "notes": "Giỏi means good at or skilled at something. It describes a person’s ability.\n\nIt’s an adjective and usually comes after the subject: ai đó giỏi…  \n\nUse it for skills, subjects, sports, jobs, or specific tasks.  \nStronger than just “khá” (quite good); opposite idea is dở or kém.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He is very good at English so he often helps his friends study.",
+    "She is good at cooking and often makes many delicious dishes for her family.",
+    "I want to be good at math so I can apply to a good university."
+  ],
+  "notes_md": "**Giỏi** means *good at* or *skilled at* something. It describes a person’s ability.\n\nIt’s an adjective and usually comes after the subject: *ai đó giỏi…*  \n\nUse it for skills, subjects, sports, jobs, or specific tasks.  \nStronger than just “khá” (quite good); opposite idea is **dở** or **kém**.",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Cô ấy rất ___ trong môn toán.",
+      "answer": "giỏi",
+      "translation": {
+        "en": "She is very good at math."
+      },
+      "choices": [],
+      "word": "giỏi",
+      "translatedAnswer": {
+        "en": "good"
+      },
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "56764245-ffd9-4562-8023-7a7d044f48dd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:02:51.717Z",
+    "updatedAt": "2025-03-12T13:02:51.717Z"
+  },
+  "updatedAt": "2026-03-03T07:07:51.959Z",
+  "_id": "3iXf0TEiOXIOZLEEd6sW"
+}

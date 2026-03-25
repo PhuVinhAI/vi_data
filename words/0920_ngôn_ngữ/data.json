@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T13:23:00.031Z",
+    "definitions": {
+      "vi": "Hệ thống giao tiếp được sử dụng bởi một cộng đồng hoặc quốc gia cụ thể.",
+      "en": "A system of communication used by a particular community or country.",
+      "es": "Un sistema de comunicación utilizado por una comunidad o país en particular."
+    },
+    "example": {
+      "en": "Language is an important tool for communication.",
+      "es": "El lenguaje es una herramienta importante para la comunicación.",
+      "vi": "Ngôn ngữ là công cụ giao tiếp quan trọng."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "language",
+      "es": "lenguaje",
+      "vi": "ngôn ngữ"
+    }
+  },
+  "word": "ngôn ngữ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T07:54:03.673Z",
+  "exampleSentencesTranslated": [
+    "I am learning a new language to travel abroad.",
+    "I think that language is very important in daily communication.",
+    "She likes listening to music in many different languages."
+  ],
+  "notes_md": "**ngôn ngữ** = language (a system people use to speak, write, and communicate).\n\nIt’s a **noun**. You can say *một ngôn ngữ, hai ngôn ngữ* — no special classifier needed.  \nThis word sounds a bit formal; in daily talk, people often use **tiếng** + country/language name (like *tiếng Anh*) instead of *ngôn ngữ Anh*.  \nCommon pairings: *ngôn ngữ cơ thể* (body language), *ngôn ngữ lập trình* (programming language), *học ngôn ngữ* (study languages).  \n\nMemory tip: think of **ngôn** = speech/words → anything about systems of words.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:50:35.197Z",
+    "updatedAt": "2025-03-12T15:50:35.197Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "languages"
+      },
+      "answer": "ngôn ngữ",
+      "hint": "n___ g___",
+      "choices": [
+        "ngôn ngữ",
+        "địa lý",
+        "khoa học"
+      ],
+      "sentence": "Tôi thích học ___ khác nhau.",
+      "language": "vi",
+      "translation": {
+        "en": "I like learning different languages."
+      },
+      "word": "ngôn ngữ"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "2d5dd492-40bf-4414-a09e-a1f0ed3f5580"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 920,
+  "definition": "language",
+  "notes": "ngôn ngữ = language (a system people use to speak, write, and communicate).\n\nIt’s a noun. You can say một ngôn ngữ, hai ngôn ngữ — no special classifier needed.  \nThis word sounds a bit formal; in daily talk, people often use tiếng + country/language name (like tiếng Anh) instead of ngôn ngữ Anh.  \nCommon pairings: ngôn ngữ cơ thể (body language), ngôn ngữ lập trình (programming language), học ngôn ngữ (study languages).  \n\nMemory tip: think of ngôn = speech/words → anything about systems of words.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em đang học một ngôn ngữ mới để đi du lịch nước ngoài.",
+    "Anh thấy rằng ngôn ngữ rất quan trọng trong giao tiếp hàng ngày.",
+    "Chị thích nghe nhạc bằng nhiều ngôn ngữ khác nhau."
+  ],
+  "choices": [
+    "ngôn ngữ",
+    "văn hóa",
+    "trường học"
+  ],
+  "fillBlankQuiz": {
+    "id": "e21daa1a-eaf4-474b-a7b9-4da90159abd5",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I learn a new language every day."
+      },
+      "word": "ngôn ngữ",
+      "choices": [],
+      "sentence": "Tôi học ___ mới mỗi ngày.",
+      "translatedAnswer": {
+        "en": "language"
+      },
+      "answer": "ngôn ngữ"
+    },
+    "updatedAt": "2025-03-12T15:50:35.197Z",
+    "createdAt": "2025-03-12T15:50:35.197Z"
+  },
+  "_id": "jkhwiYxv2wSvPkoLC8Sr"
+}

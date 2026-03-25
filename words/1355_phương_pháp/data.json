@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:40:46.033Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "a3b630c3-8b77-4b25-9c78-ead4845241d0",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:55:51.299Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Do you have a method to study?"
+      },
+      "answer": "phương pháp",
+      "translatedAnswer": {
+        "en": "method"
+      },
+      "word": "phương pháp",
+      "sentence": "Bạn có ___ học không?",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:55:51.299Z"
+  },
+  "notes": "Phương pháp means method — a way of doing something in an organized or systematic way. It’s more structured and serious than just cách (way).\n\nIt’s a countable noun: một phương pháp, nhiều phương pháp. Often used with verbs like áp dụng (apply), sử dụng (use), tìm (find), phát triển (develop).\n\nCommon pairings: phương pháp học, phương pháp giảng dạy, phương pháp nghiên cứu, phương pháp điều trị.\n\nClose synonyms: cách (more general, casual), biện pháp (more like a measure/solution, often for problems).",
+  "exampleSentencesTranslated": [
+    "I am looking for a more effective method to learn English.",
+    "She has tried many different methods to lose weight.",
+    "The teacher explained the method to solve this math problem very clearly."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A way of doing something, especially a systematic way.",
+      "es": "Una forma de hacer algo, especialmente de manera sistemática.",
+      "vi": "Một cách làm điều gì đó, đặc biệt là một cách có hệ thống."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:33:39.827Z",
+    "example": {
+      "vi": "Chúng ta cần tìm một phương pháp hiệu quả để giải quyết vấn đề này.",
+      "es": "Necesitamos encontrar un método efectivo para resolver este problema.",
+      "en": "We need to find an effective method to solve this problem."
+    },
+    "translations": {
+      "es": "método",
+      "vi": "phương pháp",
+      "en": "method"
+    }
+  },
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:55:51.299Z",
+    "content": {
+      "hint": "p___p",
+      "choices": [
+        "kỹ thuật",
+        "phương pháp",
+        "thủ thuật"
+      ],
+      "answer": "phương pháp",
+      "translation": {
+        "en": "Do you have a method to study?"
+      },
+      "translatedAnswer": {
+        "en": "method"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ học không?",
+      "word": "phương pháp"
+    },
+    "updatedAt": "2025-03-12T13:55:51.299Z",
+    "type": "multiChoiceQuiz",
+    "id": "6c24e847-b5b5-42bb-970b-3f6ba2ee5c86",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Phương pháp** means *method* — a way of doing something in an organized or systematic way. It’s more structured and serious than just *cách* (way).\n\nIt’s a countable noun: *một phương pháp, nhiều phương pháp*. Often used with verbs like *áp dụng* (apply), *sử dụng* (use), *tìm* (find), *phát triển* (develop).\n\nCommon pairings: *phương pháp học*, *phương pháp giảng dạy*, *phương pháp nghiên cứu*, *phương pháp điều trị*.\n\nClose synonyms: *cách* (more general, casual), *biện pháp* (more like a measure/solution, often for problems).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "phương pháp",
+    "kết quả",
+    "bài tập"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đang tìm một phương pháp học tiếng Anh hiệu quả hơn.",
+    "Chị ấy đã thử nhiều phương pháp khác nhau để giảm cân.",
+    "Thầy giáo giải thích phương pháp giải bài toán này rất dễ hiểu."
+  ],
+  "rank": 1355,
+  "word": "phương pháp",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "method",
+  "_id": "HiCJYz25myGtyzYpARqx"
+}

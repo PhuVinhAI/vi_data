@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:36:29.921Z",
+  "exampleSentencesTranslated": [
+    "I recognized your voice as soon as you called.",
+    "She has a very warm and pleasant voice.",
+    "The teacher's voice makes students pay more attention in class."
+  ],
+  "rank": 1315,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "c471a0ac-eea7-4a7b-ac58-3d41e9f4543f",
+    "createdAt": "2025-03-12T14:26:13.761Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:26:13.761Z",
+    "content": {
+      "word": "giọng",
+      "choices": [
+        "giọng",
+        "lời",
+        "âm thanh"
+      ],
+      "translation": {
+        "en": "He speaks in a high voice."
+      },
+      "answer": "giọng",
+      "hint": "g___n",
+      "translatedAnswer": {
+        "en": "voice"
+      },
+      "language": "vi",
+      "sentence": "Anh ấy nói với ___ cao."
+    }
+  },
+  "word": "giọng",
+  "notes": "Giọng means voice — the sound someone makes when they speak or sing. It can also mean accent or tone of voice.\n\nIt’s a noun: một giọng, những giọng (you usually don’t need a classifier).  \nVery common pairings: giọng nói (speaking voice), giọng hát (singing voice), giọng Bắc/Nam (northern/southern accent), giọng cao/thấp (high/low voice).  \nYou’ll also hear verbs with it: đổi giọng (change tone), hạ giọng (lower your voice), lên giọng (raise your voice / speak sharply).  \n\nClose idea: tiếng (sound) — but giọng is specifically about a person’s voice or accent.",
+  "choices": [
+    "giọng",
+    "giày",
+    "giấy"
+  ],
+  "notes_md": "**Giọng** means **voice** — the sound someone makes when they speak or sing. It can also mean **accent** or **tone of voice**.\n\nIt’s a noun: *một giọng*, *những giọng* (you usually don’t need a classifier).  \nVery common pairings: **giọng nói** (speaking voice), **giọng hát** (singing voice), **giọng Bắc/Nam** (northern/southern accent), **giọng cao/thấp** (high/low voice).  \nYou’ll also hear verbs with it: **đổi giọng** (change tone), **hạ giọng** (lower your voice), **lên giọng** (raise your voice / speak sharply).  \n\nClose idea: **tiếng** (sound) — but *giọng* is specifically about a person’s voice or accent.",
+  "exampleSentences": [
+    "Anh nhận ra giọng của em ngay khi em gọi điện.",
+    "Chị ấy có giọng rất ấm áp và dễ nghe.",
+    "Giọng của thầy giáo khiến học sinh chú ý hơn trong lớp học."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "voz",
+      "en": "voice",
+      "vi": "giọng"
+    },
+    "definitions": {
+      "es": "Un sonido o tono particular de la voz.",
+      "vi": "Một âm thanh hoặc tông giọng đặc trưng.",
+      "en": "A particular sound or tone of voice."
+    },
+    "createdAt": "2025-01-28T12:02:15.602Z",
+    "example": {
+      "vi": "Cô ấy có một giọng hát rất hay.",
+      "en": "She has a very beautiful singing voice.",
+      "es": "Ella tiene una voz de canto muy hermosa."
+    }
+  },
+  "definition": "voice",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:26:13.761Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "voice"
+      },
+      "language": "vi",
+      "sentence": "Cô ấy có ___ rất đặc biệt.",
+      "choices": [],
+      "word": "giọng",
+      "translation": {
+        "en": "She has a very special voice."
+      },
+      "answer": "giọng"
+    },
+    "type": "fillBlankQuiz",
+    "id": "9a705cbb-f8f5-4e6b-97f2-409858a9208f",
+    "createdAt": "2025-03-12T14:26:13.761Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "OgaslGN84TPKE928yZZL"
+}

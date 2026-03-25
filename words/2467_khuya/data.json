@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T10:38:32.082Z",
+  "exampleSentences": [
+    "Anh thường uống một tách trà vào khuya trước khi đi ngủ.",
+    "Chị hay xem phim vào khuya khi mọi người đã ngủ hết.",
+    "Em không nên ra ngoài khuya vì trời rất lạnh."
+  ],
+  "notes": "Khuya means late at night, usually after 10–11pm, when it’s already very dark and quiet. It’s about the time, not the feeling.\n\nYou’ll often see it after time words like vào, đến, or alone at the end of a sentence (khuya rồi = it’s late).  \n\nIt’s close to đêm (night), but khuya focuses on the late part of the night. Opposite idea: sớm (early).",
+  "definition": "late at night",
+  "flashcard": {
+    "example": {
+      "en": "I usually go to bed late.",
+      "vi": "Tôi thường đi ngủ khuya.",
+      "es": "Normalmente me acuesto tarde."
+    },
+    "definitions": {
+      "es": "Tarde en la noche o en las primeras horas de la mañana.",
+      "vi": "Muộn vào ban đêm hoặc vào những giờ đầu của buổi sáng.",
+      "en": "Late at night or in the early hours of the morning."
+    },
+    "createdAt": "2025-01-28T11:11:03.811Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "tarde",
+      "vi": "khuya",
+      "en": "late"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:31:10.166Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:31:10.166Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "late"
+      },
+      "translation": {
+        "en": "I usually go to bed late."
+      },
+      "answer": "khuya",
+      "choices": [],
+      "sentence": "Tôi thường đi ngủ ___.",
+      "language": "vi",
+      "word": "khuya"
+    },
+    "id": "496ac617-e660-4119-b851-a80202e9fecb"
+  },
+  "exampleSentencesTranslated": [
+    "He usually drinks a cup of tea late at night before going to bed.",
+    "She often watches movies late at night when everyone is asleep.",
+    "You should not go out late at night because it is very cold."
+  ],
+  "word": "khuya",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Khuya** means *late at night*, usually after 10–11pm, when it’s already very dark and quiet. It’s about the **time**, not the feeling.\n\nYou’ll often see it after time words like **vào**, **đến**, or alone at the end of a sentence (**khuya rồi** = it’s late).  \n\nIt’s close to **đêm** (night), but **khuya** focuses on the *late part* of the night. Opposite idea: **sớm** (early).",
+  "choices": [
+    "trưa",
+    "sáng",
+    "khuya"
+  ],
+  "rank": 2467,
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "97967555-6a8b-46ed-83ae-652b26fab8b6",
+    "content": {
+      "word": "khuya",
+      "language": "vi",
+      "sentence": "Tôi thường đi ngủ ___.",
+      "choices": [
+        "sớm",
+        "khuya",
+        "đúng giờ"
+      ],
+      "hint": "k___a",
+      "answer": "khuya",
+      "translation": {
+        "en": "I usually go to bed late."
+      },
+      "translatedAnswer": {
+        "en": "late"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:31:10.166Z",
+    "updatedAt": "2025-03-12T13:31:10.166Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "BEqwltKdJ579egcaV4n7"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một mức độ hoặc điểm khởi đầu.",
+      "es": "Un nivel o punto de entrada o comienzo.",
+      "en": "A level or point of entry or beginning."
+    },
+    "createdAt": "2025-01-28T13:31:53.278Z",
+    "example": {
+      "es": "He alcanzado un nuevo umbral en mi carrera.",
+      "en": "I have reached a new threshold in my career.",
+      "vi": "Tôi đã đạt đến ngưỡng mới trong sự nghiệp."
+    },
+    "translations": {
+      "es": "umbral",
+      "en": "threshold",
+      "vi": "ngưỡng"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "ngưỡng",
+  "updatedAt": "2026-03-03T10:38:10.291Z",
+  "exampleSentencesTranslated": [
+    "When I reach the threshold of tiredness, I should rest a bit.",
+    "If the revenue passes this threshold, the company will reward employees.",
+    "I feel like I am at an important threshold of my career."
+  ],
+  "notes_md": "**ngưỡng** = threshold, a limit point where something starts to change (physically or metaphorically).  \n\nIt’s a noun. You often see it with verbs like **đạt đến**, **vượt qua**, **chạm**, **ở mức** + ngưỡng. It can talk about numbers (money, temperature, pain level) or abstract things (career, emotions, development).  \n\n\nClose idea: **giới hạn** (limit) — but *ngưỡng* feels like a specific point you cross, while *giới hạn* is more like a boundary you shouldn’t pass.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:59:42.632Z",
+    "updatedAt": "2025-03-12T15:59:42.632Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I have passed this threshold."
+      },
+      "word": "ngưỡng",
+      "translatedAnswer": {
+        "en": "threshold"
+      },
+      "answer": "ngưỡng",
+      "hint": "n____g",
+      "sentence": "Tôi đã vượt qua ___ này.",
+      "choices": [
+        "giới hạn",
+        "ngưỡng",
+        "tầm nhìn"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "e9e77c01-c4bc-4a9f-a40d-357e5edffa73"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 2464,
+  "definition": "threshold",
+  "notes": "ngưỡng = threshold, a limit point where something starts to change (physically or metaphorically).  \n\nIt’s a noun. You often see it with verbs like đạt đến, vượt qua, chạm, ở mức + ngưỡng. It can talk about numbers (money, temperature, pain level) or abstract things (career, emotions, development).  \n\nClose idea: giới hạn (limit) — but ngưỡng feels like a specific point you cross, while giới hạn is more like a boundary you shouldn’t pass.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Khi em đạt đến ngưỡng mệt mỏi, em nên nghỉ ngơi một chút.",
+    "Nếu doanh thu vượt qua ngưỡng này, công ty sẽ có thưởng cho nhân viên.",
+    "Anh cảm thấy mình đang ở ngưỡng quan trọng của sự nghiệp."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I have passed this threshold."
+      },
+      "word": "ngưỡng",
+      "choices": [],
+      "sentence": "Tôi đã vượt qua ___ này.",
+      "translatedAnswer": {
+        "en": "threshold"
+      },
+      "answer": "ngưỡng"
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a5b1115a-8848-4975-b52c-dc00ca25f460",
+    "createdAt": "2025-03-12T15:59:42.632Z",
+    "updatedAt": "2025-03-12T15:59:42.632Z"
+  },
+  "choices": [
+    "ngưỡng",
+    "cửa",
+    "bậc"
+  ],
+  "_id": "lwjjup1TQgnMhmpluOzn"
+}

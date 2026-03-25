@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Nếu em kiên trì học mỗi ngày, kết quả sẽ tốt hơn.",
+    "Chị ấy rất kiên trì khi theo đuổi mục tiêu của mình.",
+    "Anh cần kiên trì để vượt qua những khó khăn trong công việc."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "c8728ae7-0de1-4375-86c2-7a1aa60cdc70",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "You need persistence to study well."
+      },
+      "choices": [
+        "kiên trì",
+        "nhanh chóng",
+        "kiên nhẫn"
+      ],
+      "hint": "k____i",
+      "word": "kiên trì",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "persistence"
+      },
+      "sentence": "Bạn cần ___ để học tốt.",
+      "answer": "kiên trì"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:04:52.300Z",
+    "updatedAt": "2025-03-12T13:04:52.300Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T10:46:42.639Z",
+    "definitions": {
+      "es": "La cualidad de seguir intentando alcanzar un objetivo particular a pesar de las dificultades.",
+      "en": "The quality of continuing to try to achieve a particular aim despite difficulties.",
+      "vi": "Tính chất của việc tiếp tục cố gắng đạt được một mục tiêu cụ thể mặc dù gặp khó khăn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "You need to be persistent to achieve your goals.",
+      "vi": "Bạn cần kiên trì để đạt được mục tiêu.",
+      "es": "Necesitas ser persistente para alcanzar tus metas."
+    },
+    "translations": {
+      "es": "persistente",
+      "vi": "kiên trì",
+      "en": "persistent"
+    }
+  },
+  "definition": "persistent",
+  "rank": 2358,
+  "word": "kiên trì",
+  "notes": "Kiên trì = persistent, not giving up even when something is hard or slow.\n\nIt’s an adjective, used to describe a person’s personality or attitude. It often talks about long-term effort toward a goal.\n\nCommon pairings: kiên trì học tập, kiên trì luyện tập, kiên trì theo đuổi mục tiêu.  \n\nClose synonym: bền bỉ (a bit more about endurance over time). Opposite: bỏ cuộc (to give up).",
+  "choices": [
+    "kiên trì",
+    "dễ dàng",
+    "nhanh chóng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "If you are persistent in studying every day, the results will be better.",
+    "She is very persistent when pursuing her goals.",
+    "You need to be persistent to overcome difficulties at work."
+  ],
+  "notes_md": "**Kiên trì** = persistent, not giving up even when something is hard or slow.\n\nIt’s an adjective, used to describe a person’s personality or attitude. It often talks about long-term effort toward a goal.\n\nCommon pairings: *kiên trì học tập, kiên trì luyện tập, kiên trì theo đuổi mục tiêu*.  \n\nClose synonym: *bền bỉ* (a bit more about endurance over time). Opposite: *bỏ cuộc* (to give up).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "You need persistence to succeed."
+      },
+      "translatedAnswer": {
+        "en": "persistence"
+      },
+      "language": "vi",
+      "word": "kiên trì",
+      "sentence": "Bạn cần ___ để thành công.",
+      "answer": "kiên trì"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "703a1f42-a10f-410d-a17d-85e981dddcac",
+    "createdAt": "2025-03-12T13:04:52.300Z",
+    "updatedAt": "2025-03-12T13:04:52.300Z"
+  },
+  "updatedAt": "2026-03-03T10:27:45.464Z",
+  "_id": "4Lvcj7Ge073PCmL9Sq27"
+}

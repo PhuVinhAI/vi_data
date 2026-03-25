@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "ứng dụng",
+    "phần mềm",
+    "trò chơi"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Do you want to try this application?"
+      },
+      "choices": [
+        "ứng dụng",
+        "phần mềm",
+        "trang web"
+      ],
+      "answer": "ứng dụng",
+      "translatedAnswer": {
+        "en": "application"
+      },
+      "sentence": "Bạn có muốn thử ___ này không?",
+      "hint": "ứng d___",
+      "word": "ứng dụng"
+    },
+    "updatedAt": "2025-03-12T16:34:12.536Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:34:12.536Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "313dc8a8-324a-4d69-a5e3-b58c8bc6623f"
+  },
+  "exampleSentences": [
+    "Em đã tải một ứng dụng mới để học tiếng Anh.",
+    "Anh có thể giới thiệu cho chị một ứng dụng hữu ích không?",
+    "Mỗi ngày, chị thường dùng ứng dụng để kiểm tra thời tiết."
+  ],
+  "updatedAt": "2026-03-03T07:40:44.253Z",
+  "word": "ứng dụng",
+  "exampleSentencesTranslated": [
+    "I downloaded a new application to learn English.",
+    "Can you recommend a useful application to me?",
+    "Every day, I usually use an application to check the weather."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:05:33.777Z",
+    "translations": {
+      "es": "aplicación",
+      "en": "application",
+      "vi": "ứng dụng"
+    },
+    "definitions": {
+      "vi": "Một chương trình phần mềm được thiết kế để thực hiện một nhiệm vụ cụ thể.",
+      "en": "A software program designed to perform a specific task.",
+      "es": "Un programa de software diseñado para realizar una tarea específica."
+    },
+    "example": {
+      "vi": "Tôi đã tải ứng dụng mới về điện thoại.",
+      "en": "I downloaded a new application on my phone.",
+      "es": "Descargué una nueva aplicación en mi teléfono."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Ứng dụng usually means an app on your phone or computer. It can also mean an application in a more general or practical sense.\n\nIt’s a noun. You can count it: một ứng dụng, hai ứng dụng. Often used with verbs like tải, cài đặt, dùng, mở, xóa + ứng dụng.\n\nIt also means “practical use” in phrases like ứng dụng trong... (application in something).  \n\nClose words: app (casual, same meaning for phone apps), phần mềm (software — broader than just apps).",
+  "notes_md": "**Ứng dụng** usually means an *app* on your phone or computer. It can also mean an *application* in a more general or practical sense.\n\nIt’s a noun. You can count it: *một ứng dụng, hai ứng dụng*. Often used with verbs like **tải**, **cài đặt**, **dùng**, **mở**, **xóa** + ứng dụng.\n\nIt also means “practical use” in phrases like **ứng dụng trong...** (application in something).  \n\nClose words: **app** (casual, same meaning for phone apps), **phần mềm** (software — broader than just apps).",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:34:12.536Z",
+    "id": "a5905700-6016-464a-9c49-3e4ccdb1807b",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ứng dụng",
+      "sentence": "Tôi đã tải về một ___ mới.",
+      "answer": "ứng dụng",
+      "translation": {
+        "en": "I downloaded a new application."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "application"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:34:12.536Z"
+  },
+  "definition": "application",
+  "rank": 790,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vFvLdYdmpdRddzBbbKoV"
+}

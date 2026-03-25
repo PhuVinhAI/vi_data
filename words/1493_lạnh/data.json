@@ -1,0 +1,99 @@
+{
+  "notes": "lạnh = cold (low temperature). It describes weather, food/drinks, objects, or your body.\n\nAs an adjective, it usually comes after linking verbs like trời, cảm thấy, thấy (trời lạnh, cảm thấy lạnh). It can also describe things directly: nước lạnh, tay lạnh.\n\nIt can also mean emotionally cold or distant (lạnh lùng = cold, unfriendly).\n\nOpposite: nóng (hot).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "Today the weather is very cold so I have to wear a warm jacket.",
+    "I do not like to drink cold coffee in the morning.",
+    "Winter in the North is often very cold and windy."
+  ],
+  "updatedAt": "2026-03-03T08:55:38.651Z",
+  "choices": [
+    "nóng",
+    "lạnh",
+    "mát"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "vi": "Hôm nay trời lạnh quá.",
+      "en": "It's very cold today.",
+      "es": "Hoy hace mucho frío."
+    },
+    "translations": {
+      "vi": "lạnh",
+      "en": "cold",
+      "es": "frío"
+    },
+    "createdAt": "2025-01-28T13:47:29.835Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Tener una temperatura baja; no cálido.",
+      "en": "Having a low temperature; not warm.",
+      "vi": "Có nhiệt độ thấp; không ấm."
+    }
+  },
+  "exampleSentences": [
+    "Hôm nay trời rất lạnh nên em phải mặc áo ấm.",
+    "Anh không thích uống cà phê lạnh vào buổi sáng.",
+    "Mùa đông ở miền Bắc thường rất lạnh và có nhiều gió."
+  ],
+  "definition": "cold",
+  "multiChoiceQuiz": {
+    "id": "f40fee6f-af96-4639-a21f-4255c3393e77",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:15:38.461Z",
+    "updatedAt": "2025-03-12T16:15:38.461Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Nước này rất ___.",
+      "translation": {
+        "en": "This water is very cold."
+      },
+      "translatedAnswer": {
+        "en": "cold"
+      },
+      "hint": "l___",
+      "word": "lạnh",
+      "answer": "lạnh",
+      "language": "vi",
+      "choices": [
+        "ấm",
+        "lạnh",
+        "nóng"
+      ]
+    }
+  },
+  "rank": 1493,
+  "notes_md": "**lạnh** = cold (low temperature). It describes weather, food/drinks, objects, or your body.\n\nAs an adjective, it usually comes after linking verbs like *trời*, *cảm thấy*, *thấy* (trời lạnh, cảm thấy lạnh). It can also describe things directly: *nước lạnh*, *tay lạnh*.\n\nIt can also mean emotionally cold or distant (lạnh lùng = cold, unfriendly).\n\nOpposite: **nóng** (hot).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "lạnh",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Thời tiết hôm nay rất ___.",
+      "answer": "lạnh",
+      "language": "vi",
+      "word": "lạnh",
+      "choices": [],
+      "translation": {
+        "en": "The weather today is very cold."
+      },
+      "translatedAnswer": {
+        "en": "cold"
+      }
+    },
+    "updatedAt": "2025-03-12T16:15:38.461Z",
+    "createdAt": "2025-03-12T16:15:38.461Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "a1efda35-664c-446a-88ad-61d7db2e1d8f"
+  },
+  "_id": "qYOIA7UDAdMXh1JDziJP"
+}

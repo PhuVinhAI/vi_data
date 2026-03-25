@@ -1,0 +1,99 @@
+{
+  "rank": 666,
+  "exampleSentences": [
+    "Bố của anh ấy làm việc ở một công ty lớn trong thành phố.",
+    "Tối nay em sẽ nấu món ăn mà bố thích nhất.",
+    "Cuối tuần này cả nhà chúng ta sẽ đi dã ngoại cùng bố."
+  ],
+  "word": "bố",
+  "definition": "father",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bố",
+    "mẹ",
+    "chị"
+  ],
+  "updatedAt": "2026-03-03T07:28:26.628Z",
+  "notes": "Bố means father or dad. It’s what you call or refer to your male parent in a normal, everyday way.\n\nIt’s a noun. You usually don’t need a classifier when talking about your own dad; just say bố + của + person when you specify whose father.  \n\nIn the South, people often say ba instead of bố — same meaning, just regional.  \n\nIt’s warm and neutral, not overly formal like phụ thân.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:38:45.329Z",
+    "content": {
+      "sentence": "Tôi gọi ___ của tôi.",
+      "word": "bố",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "father"
+      },
+      "translation": {
+        "en": "I call my father."
+      },
+      "answer": "bố",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:38:45.329Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2f9d7858-7ad6-4ee4-ac86-fed5205e3c49",
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "Father; dad.",
+      "es": "Padre; papá.",
+      "vi": "Cha; bố."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "papá",
+      "vi": "bố",
+      "en": "dad"
+    },
+    "createdAt": "2025-01-28T13:23:42.638Z",
+    "example": {
+      "en": "My dad is a very good person.",
+      "es": "Mi papá es una persona muy buena.",
+      "vi": "Bố tôi là một người rất tốt."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "His father works at a big company in the city.",
+    "Tonight I will cook the dish that father likes the most.",
+    "This weekend our whole family will go on a picnic with father."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "Who is your father?"
+      },
+      "answer": "bố",
+      "hint": "b__",
+      "choices": [
+        "mẹ",
+        "bố",
+        "anh"
+      ],
+      "sentence": "Ai là ___ của bạn?",
+      "word": "bố",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "father"
+      }
+    },
+    "createdAt": "2025-03-12T13:38:45.329Z",
+    "updatedAt": "2025-03-12T13:38:45.329Z",
+    "id": "2d385588-1ab4-43e8-a14a-de72fb63b687",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**Bố** means *father* or *dad*. It’s what you call or refer to your male parent in a normal, everyday way.\n\nIt’s a noun. You usually don’t need a classifier when talking about your own dad; just say **bố + của + person** when you specify whose father.  \n\n\nIn the South, people often say **ba** instead of **bố** — same meaning, just regional.  \n\nIt’s warm and neutral, not overly formal like *phụ thân*.",
+  "_id": "DB3MhZszWVqDvT6HgMqF"
+}

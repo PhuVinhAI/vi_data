@@ -1,0 +1,99 @@
+{
+  "definition": "subject",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:19:45.222Z",
+    "updatedAt": "2025-03-12T14:19:45.222Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "subject"
+      },
+      "answer": "bộ môn",
+      "translation": {
+        "en": "I like to learn a new subject."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "bộ môn",
+      "sentence": "Tôi thích học ___ mới."
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "d54dd275-cfdd-47d1-ba79-c43882ba34ec"
+  },
+  "exampleSentencesTranslated": [
+    "He really likes studying the subject at university.",
+    "She wants to sign up for another subject next semester.",
+    "I chose the subject because I find it interesting and useful."
+  ],
+  "notes": "Bộ môn usually means a subject or field of study (at school or university). It’s used for academic subjects, sports, or specialized fields.\n\nIt’s a countable noun: một bộ môn, các bộ môn. Common pairings: bộ môn + học thuật / thể thao / nghệ thuật.\n\nIn universities, bộ môn can also mean a small academic department inside a faculty (like a specialized unit).\n\nClose to môn học, but bộ môn often sounds more formal or specialized.",
+  "updatedAt": "2026-03-03T10:33:44.718Z",
+  "choices": [
+    "bộ môn",
+    "môn học",
+    "khoa học"
+  ],
+  "notes_md": "**Bộ môn** usually means a subject or field of study (at school or university). It’s used for academic subjects, sports, or specialized fields.\n\nIt’s a countable noun: *một bộ môn, các bộ môn*. Common pairings: **bộ môn + học thuật / thể thao / nghệ thuật**.\n\nIn universities, **bộ môn** can also mean a small academic department inside a faculty (like a specialized unit).\n\nClose to **môn học**, but *bộ môn* often sounds more formal or specialized.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "bộ môn",
+  "multiChoiceQuiz": {
+    "content": {
+      "choices": [
+        "bộ môn",
+        "môn học",
+        "chuyên đề"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "This subject is interesting."
+      },
+      "sentence": "Môn học này là ___ thú vị.",
+      "hint": "b___n",
+      "word": "bộ môn",
+      "answer": "bộ môn",
+      "translatedAnswer": {
+        "en": "subject"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "7991b2ed-c6e0-4d58-a46d-067929ff2225",
+    "createdAt": "2025-03-12T14:19:45.222Z",
+    "updatedAt": "2025-03-12T14:19:45.222Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:56:03.581Z",
+    "translations": {
+      "en": "discipline",
+      "vi": "bộ môn",
+      "es": "disciplina"
+    },
+    "definitions": {
+      "en": "A specific branch or category of study or activity.",
+      "es": "Una rama o categoría específica de estudio o actividad.",
+      "vi": "Một nhánh hoặc loại cụ thể của nghiên cứu hoặc hoạt động."
+    },
+    "example": {
+      "en": "This sport is my favorite discipline.",
+      "es": "Este deporte es mi disciplina favorita.",
+      "vi": "Môn thể thao này là bộ môn yêu thích của tôi."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh rất thích học bộ môn tiếng Anh ở trường đại học.",
+    "Chị muốn đăng ký thêm một bộ môn thể thao vào học kỳ tới.",
+    "Em chọn bộ môn toán vì em thấy nó thú vị và hữu ích."
+  ],
+  "rank": 2421,
+  "_id": "N2TTJL2ZCbdMissvXVrG"
+}

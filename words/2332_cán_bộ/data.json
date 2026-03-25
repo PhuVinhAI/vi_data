@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh trai em làm việc như một cán bộ ở ủy ban phường.",
+    "Sáng nay, chị gặp một cán bộ đến kiểm tra giấy tờ nhà.",
+    "Cán bộ thường giúp đỡ người dân giải quyết các thủ tục hành chính."
+  ],
+  "rank": 2332,
+  "word": "cán bộ",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "government official",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "giáo viên",
+    "cán bộ",
+    "bác sĩ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:25:21.174Z",
+  "fillBlankQuiz": {
+    "id": "51183c6c-b0c6-4469-aa1e-9a1b38590ac4",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:55:10.608Z",
+    "content": {
+      "choices": [],
+      "answer": "cán bộ",
+      "translation": {
+        "en": "He is a good official."
+      },
+      "translatedAnswer": {
+        "en": "official"
+      },
+      "language": "vi",
+      "sentence": "Ông ấy là một ___ giỏi.",
+      "word": "cán bộ"
+    },
+    "updatedAt": "2025-03-12T13:55:10.608Z"
+  },
+  "notes": "Cán bộ means a government official or state officer. It usually refers to someone working in a government office or for the Communist Party.\n\nIt’s a countable noun: một cán bộ, hai cán bộ (no change in plural form). Common pairings: cán bộ nhà nước (state official), cán bộ cấp cao (high-ranking official), cán bộ công an (police officer in official role).\n\nCompared to công chức (civil servant), cán bộ often sounds a bit broader or more political, not just administrative staff. It often implies someone with authority or responsibility in the system.",
+  "exampleSentencesTranslated": [
+    "My older brother works as a government official at the ward committee.",
+    "This morning, I met a government official who came to check the house documents.",
+    "A government official often helps people solve administrative procedures."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:32:57.998Z",
+    "example": {
+      "vi": "Cán bộ nhà nước cần phải làm việc chăm chỉ.",
+      "es": "Los funcionarios del gobierno necesitan trabajar duro.",
+      "en": "The government officials need to work hard."
+    },
+    "translations": {
+      "en": "government official",
+      "es": "funcionario del gobierno",
+      "vi": "cán bộ"
+    },
+    "definitions": {
+      "vi": "Một cán bộ hoặc nhân viên của chính phủ.",
+      "es": "Un funcionario o miembro del personal del gobierno.",
+      "en": "A government official or staff member."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes_md": "**Cán bộ** means a government official or state officer. It usually refers to someone working in a government office or for the Communist Party.\n\nIt’s a countable noun: *một cán bộ, hai cán bộ* (no change in plural form). Common pairings: *cán bộ nhà nước* (state official), *cán bộ cấp cao* (high-ranking official), *cán bộ công an* (police officer in official role).\n\nCompared to **công chức** (civil servant), *cán bộ* often sounds a bit broader or more political, not just administrative staff. It often implies someone with authority or responsibility in the system.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "a6ecbb03-2baa-4c90-92b1-749f93e51ee2",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:55:10.608Z",
+    "createdAt": "2025-03-12T13:55:10.608Z",
+    "content": {
+      "hint": "c___ bộ",
+      "choices": [
+        "cán bộ",
+        "nhân viên",
+        "quản lý"
+      ],
+      "translation": {
+        "en": "She is an official in the company."
+      },
+      "answer": "cán bộ",
+      "translatedAnswer": {
+        "en": "official"
+      },
+      "word": "cán bộ",
+      "sentence": "Cô ấy là một ___ trong công ty.",
+      "language": "vi"
+    }
+  },
+  "_id": "HVEtKFwa9wNSNLWoE2jv"
+}

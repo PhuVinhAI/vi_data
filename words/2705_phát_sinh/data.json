@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "phát sinh",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:38:43.541Z",
+    "id": "8d0f9b80-457c-4435-82be-1ee677cdeff3",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:38:43.541Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "arise"
+      },
+      "translation": {
+        "en": "Costs will arise during the working process."
+      },
+      "answer": "phát sinh",
+      "hint": "p___h s___n",
+      "choices": [
+        "tăng lên",
+        "phát sinh",
+        "giảm xuống"
+      ],
+      "sentence": "Chi phí sẽ ___ trong quá trình làm việc.",
+      "language": "vi",
+      "word": "phát sinh"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**phát sinh** = to arise, come up, happen unexpectedly (often about problems, costs, situations).\n\nIt’s usually used for things that were not planned: problems, expenses, conflicts, questions. It sounds a bit formal and is common in work or official contexts.\n\n\nClose synonyms: **xảy ra** (happen – more general), **nảy sinh** (arise – often for ideas or feelings).",
+  "rank": 2705,
+  "choices": [
+    "phát sinh",
+    "phát biểu",
+    "phát triển"
+  ],
+  "notes": "phát sinh = to arise, come up, happen unexpectedly (often about problems, costs, situations).\n\nIt’s usually used for things that were not planned: problems, expenses, conflicts, questions. It sounds a bit formal and is common in work or official contexts.\n\nClose synonyms: xảy ra (happen – more general), nảy sinh (arise – often for ideas or feelings).",
+  "updatedAt": "2026-03-03T11:37:59.520Z",
+  "exampleSentences": [
+    "Nếu có vấn đề phát sinh, anh sẽ gọi cho em ngay.",
+    "Công việc mới này có thể phát sinh nhiều thử thách bất ngờ.",
+    "Trong quá trình làm việc nhóm, một số ý kiến khác nhau đã phát sinh."
+  ],
+  "exampleSentencesTranslated": [
+    "If any problems arise, I will call you right away.",
+    "This new job can arise many unexpected challenges.",
+    "During the group work process, some different opinions arise."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "phát sinh",
+      "sentence": "Chi phí sẽ ___ trong quá trình làm việc.",
+      "language": "vi",
+      "translation": {
+        "en": "Costs will arise during the working process."
+      },
+      "translatedAnswer": {
+        "en": "arise"
+      },
+      "answer": "phát sinh"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:38:43.541Z",
+    "id": "6c1803a5-112c-4de5-abc1-308d31595136",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:38:43.541Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "To arise or occur, especially in relation to costs or issues.",
+      "vi": "Phát sinh có nghĩa là xảy ra hoặc xuất hiện, đặc biệt liên quan đến chi phí hoặc vấn đề.",
+      "es": "Surgir o ocurrir, especialmente en relación con costos o problemas."
+    },
+    "example": {
+      "en": "The costs that arise during production are unavoidable.",
+      "es": "Los costos que surgen durante la producción son inevitables.",
+      "vi": "Chi phí phát sinh trong quá trình sản xuất là điều không thể tránh khỏi."
+    },
+    "translations": {
+      "en": "to arise",
+      "es": "surgir",
+      "vi": "phát sinh"
+    },
+    "createdAt": "2025-01-28T13:12:35.144Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "arise",
+  "_id": "gwOcTiLw4gltZJcbHuEl"
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chảy",
+    "đóng",
+    "đẩy"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "chảy",
+  "exampleSentences": [
+    "Nước trong con suối này luôn chảy rất nhanh vào mùa mưa.",
+    "Em thấy máu chảy ra từ vết thương nhỏ trên tay.",
+    "Anh mở vòi nước cho nước chảy vào ly giúp chị nhé."
+  ],
+  "rank": 1958,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "to flow",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:37:43.988Z",
+    "content": {
+      "answer": "chảy",
+      "translation": {
+        "en": "Water flows from the faucet."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Nước ___ từ vòi.",
+      "word": "chảy",
+      "translatedAnswer": {
+        "en": "flows"
+      }
+    },
+    "createdAt": "2025-03-12T13:37:43.988Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "ef984778-e036-4362-98c4-a6974f0d82c4"
+  },
+  "notes": "chảy = to flow, to run (for liquids). It’s used for water, blood, sweat, tears—anything liquid moving from one place to another.\n\nIt often goes with natural liquids: chảy máu (bleed), chảy nước mắt (tears flow), chảy nước mũi (runny nose). You can also use it for melting substances like ice or wax when they turn liquid and move.\n\nFor a strong contrast, chảy (flow) vs. đọng (stay still, pool).",
+  "updatedAt": "2026-03-03T09:45:19.359Z",
+  "notes_md": "**chảy** = to flow, to run (for liquids). It’s used for water, blood, sweat, tears—anything liquid moving from one place to another.\n\nIt often goes with natural liquids: *chảy máu* (bleed), *chảy nước mắt* (tears flow), *chảy nước mũi* (runny nose). You can also use it for melting substances like ice or wax when they turn liquid and move.\n\n\nFor a strong contrast, **chảy** (flow) vs. **đọng** (stay still, pool).",
+  "multiChoiceQuiz": {
+    "id": "04ad16aa-d1a1-4401-83b7-0890378ab67c",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Nước ___ từ vòi.",
+      "word": "chảy",
+      "translatedAnswer": {
+        "en": "flows"
+      },
+      "translation": {
+        "en": "Water flows from the faucet."
+      },
+      "answer": "chảy",
+      "choices": [
+        "chảy",
+        "bịt",
+        "ngưng"
+      ],
+      "hint": "c___"
+    },
+    "createdAt": "2025-03-12T13:37:43.988Z",
+    "updatedAt": "2025-03-12T13:37:43.988Z"
+  },
+  "exampleSentencesTranslated": [
+    "The water in this stream always begins to flow very fast in the rainy season.",
+    "I see blood start to flow out from the small wound on my hand.",
+    "Please turn on the tap for the water to flow into the glass."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "chảy",
+      "es": "fluir",
+      "en": "to flow"
+    },
+    "createdAt": "2025-01-28T11:17:03.731Z",
+    "example": {
+      "es": "El agua fluye desde la montaña.",
+      "vi": "Nước chảy từ trên núi xuống.",
+      "en": "Water flows down from the mountain."
+    },
+    "definitions": {
+      "en": "To flow or run, typically referring to liquids.",
+      "vi": "Chảy hoặc chạy, thường chỉ về chất lỏng.",
+      "es": "Fluir o correr, típicamente refiriéndose a líquidos."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "CyVceILnUEZGvTSqmnaI"
+}

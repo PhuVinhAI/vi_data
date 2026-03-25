@@ -1,0 +1,98 @@
+{
+  "choices": [
+    "thiết kế",
+    "xây dựng",
+    "sửa chữa"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "design",
+  "word": "thiết kế",
+  "exampleSentences": [
+    "Anh muốn thuê người chuyên nghiệp để thiết kế ngôi nhà mới của mình.",
+    "Chị đang học một khóa về thiết kế đồ họa trên máy tính.",
+    "Em thích công việc liên quan đến thiết kế thời trang vì rất sáng tạo."
+  ],
+  "rank": 642,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:42:10.235Z",
+    "createdAt": "2025-03-12T13:42:10.235Z",
+    "content": {
+      "language": "vi",
+      "word": "thiết kế",
+      "sentence": "Anh ấy học ___ nội thất.",
+      "translatedAnswer": {
+        "en": "design"
+      },
+      "translation": {
+        "en": "He studies interior design."
+      },
+      "answer": "thiết kế",
+      "hint": "th___k",
+      "choices": [
+        "thiết kế",
+        "nghệ thuật",
+        "kiến trúc"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "a59ee18e-e660-494e-8162-abb11ecf6dfa"
+  },
+  "notes_md": "**Thiết kế** means *to design* — to plan and create how something looks or works (a house, app, logo, product).\n\nIt’s both a **verb** and a **noun**. As a verb, it’s followed directly by the thing you design.  \n\nAs a noun, it means “a design,” often with **một thiết kế** or **bản thiết kế** (blueprint/technical plan).  \nRelated word: **nhà thiết kế** = designer.  \n\nClose idea: **lên kế hoạch** (make a plan) — but that’s about planning in general, not the visual/technical creation like *thiết kế*.",
+  "exampleSentencesTranslated": [
+    "I want to hire a professional to design my new house.",
+    "I am taking a course about graphic design on the computer.",
+    "I like jobs related to fashion design because they are very creative."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I am designing a new house.",
+      "vi": "Tôi đang thiết kế một ngôi nhà mới.",
+      "es": "Estoy diseñando una nueva casa."
+    },
+    "createdAt": "2025-01-28T11:20:46.828Z",
+    "translations": {
+      "en": "design",
+      "es": "diseño",
+      "vi": "thiết kế"
+    },
+    "definitions": {
+      "es": "El proceso de crear un plan o dibujo para algo.",
+      "vi": "Quá trình tạo ra một kế hoạch hoặc bản vẽ cho một cái gì đó.",
+      "en": "The process of creating a plan or drawing for something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:42:10.235Z",
+    "createdAt": "2025-03-12T13:42:10.235Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "design"
+      },
+      "sentence": "Cô ấy yêu ___ đồ họa.",
+      "word": "thiết kế",
+      "language": "vi",
+      "answer": "thiết kế",
+      "translation": {
+        "en": "She loves graphic design."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "23114951-ddbe-429b-8497-1ac217f31809",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Thiết kế means to design — to plan and create how something looks or works (a house, app, logo, product).\n\nIt’s both a verb and a noun. As a verb, it’s followed directly by the thing you design.  \n\nAs a noun, it means “a design,” often with một thiết kế or bản thiết kế (blueprint/technical plan).  \nRelated word: nhà thiết kế = designer.  \n\nClose idea: lên kế hoạch (make a plan) — but that’s about planning in general, not the visual/technical creation like thiết kế.",
+  "updatedAt": "2026-03-03T07:26:03.498Z",
+  "_id": "E31Vc0slcBP0E5mMU7fz"
+}

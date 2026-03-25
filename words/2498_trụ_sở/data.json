@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "Can you show me the way to the headquarters of the company?",
+    "The new headquarters of the university is built near the city center.",
+    "She went to the headquarters of this bank to open a savings account."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "3b8e2390-a355-497b-8ae0-ef8f628759c4",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:18:58.241Z",
+    "content": {
+      "word": "trụ sở",
+      "language": "vi",
+      "sentence": "Công ty có ___ tại Hà Nội.",
+      "choices": [],
+      "answer": "trụ sở",
+      "translation": {
+        "en": "The company has its headquarters in Hanoi."
+      },
+      "translatedAnswer": {
+        "en": "headquarters"
+      }
+    },
+    "updatedAt": "2025-03-12T15:18:58.241Z"
+  },
+  "definition": "headquarters",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:53:48.365Z",
+    "translations": {
+      "en": "headquarters",
+      "vi": "trụ sở",
+      "es": "sede"
+    },
+    "example": {
+      "es": "La sede de la empresa está ubicada en el centro de la ciudad.",
+      "vi": "Trụ sở của công ty nằm ở trung tâm thành phố.",
+      "en": "The company's headquarters is located in the city center."
+    },
+    "definitions": {
+      "en": "The main office or center of operations of an organization.",
+      "vi": "Văn phòng chính hoặc trung tâm hoạt động của một tổ chức.",
+      "es": "La oficina principal o centro de operaciones de una organización."
+    }
+  },
+  "notes": "Trụ sở means headquarters — the main office of a company or organization. It’s the central place where the leaders and main departments work.\n\nIt’s a noun. You’ll often hear trụ sở chính (main headquarters) and đặt tại/đặt ở + location to say where it’s located.  \n\nIt’s usually used with organizations: trụ sở của + company/organization.  \n\nDon’t confuse it with văn phòng (office, can be any branch) or chi nhánh (branch). Trụ sở is the main base.",
+  "updatedAt": "2026-03-03T10:41:54.089Z",
+  "exampleSentences": [
+    "Anh có thể chỉ cho em đường đến trụ sở của công ty không?",
+    "Trụ sở mới của trường đại học được xây dựng gần trung tâm thành phố.",
+    "Chị đã đến trụ sở của ngân hàng này để mở tài khoản tiết kiệm."
+  ],
+  "multiChoiceQuiz": {
+    "id": "ebe64f4a-4031-4ce8-883e-3238c1cbf815",
+    "content": {
+      "choices": [
+        "trụ sở",
+        "chi nhánh",
+        "văn phòng"
+      ],
+      "language": "vi",
+      "sentence": "Công ty có ___ tại Hà Nội.",
+      "word": "trụ sở",
+      "translatedAnswer": {
+        "en": "headquarters"
+      },
+      "translation": {
+        "en": "The company has its headquarters in Hanoi."
+      },
+      "hint": "t___",
+      "answer": "trụ sở"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:18:58.241Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:18:58.241Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Trụ sở** means *headquarters* — the main office of a company or organization. It’s the central place where the leaders and main departments work.\n\nIt’s a noun. You’ll often hear **trụ sở chính** (main headquarters) and **đặt tại/đặt ở + location** to say where it’s located.  \n\nIt’s usually used with organizations: **trụ sở của + company/organization**.  \n\nDon’t confuse it with **văn phòng** (office, can be any branch) or **chi nhánh** (branch). *Trụ sở* is the main base.",
+  "choices": [
+    "trụ sở",
+    "biệt thự",
+    "cửa hàng"
+  ],
+  "rank": 2498,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "trụ sở",
+  "_id": "bwH1JHemmByWaTltRUDI"
+}

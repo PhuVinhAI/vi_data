@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "phép",
+      "es": "permiso",
+      "en": "permission"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:57:27.947Z",
+    "definitions": {
+      "en": "A formal consent or authorization.",
+      "es": "Un consentimiento o autorización formal.",
+      "vi": "Một sự đồng ý hoặc ủy quyền chính thức."
+    },
+    "example": {
+      "en": "She asked for permission from the teacher to take a day off.",
+      "vi": "Cô ấy đã xin phép thầy giáo để nghỉ học.",
+      "es": "Ella pidió permiso al profesor para faltar a clase."
+    }
+  },
+  "definition": "permission",
+  "fillBlankQuiz": {
+    "id": "96381b8c-e498-4a7f-9be2-1689f6ce3cac",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:22:40.870Z",
+    "content": {
+      "answer": "phép",
+      "translation": {
+        "en": "I need a permit to work."
+      },
+      "translatedAnswer": {
+        "en": "permit"
+      },
+      "word": "phép",
+      "sentence": "Tôi cần một ___ để làm việc.",
+      "language": "vi",
+      "choices": []
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:22:40.870Z"
+  },
+  "exampleSentencesTranslated": [
+    "You need to ask for permission before leaving the classroom.",
+    "He does not have permission so he cannot enter this area.",
+    "Can you give me permission to use the computer?"
+  ],
+  "updatedAt": "2026-03-03T08:46:57.639Z",
+  "exampleSentences": [
+    "Em cần xin phép trước khi rời khỏi phòng học.",
+    "Anh ấy không có phép nên không thể vào khu vực này.",
+    "Chị có thể cho em phép để sử dụng máy tính không?"
+  ],
+  "notes": "phép means permission — the right to do something.  \n\nIt’s usually used in fixed phrases: xin phép (ask for permission), cho phép (give permission), được phép (be allowed).  \n\nIt’s not normally counted when it means permission, but in other meanings you can count it, like một phép toán (a math operation) or một phép màu (a miracle).  \nYou’ll also see it in set phrases like phép lịch sự (politeness, “good manners”).",
+  "notes_md": "**phép** means *permission* — the right to do something.  \n\nIt’s usually used in fixed phrases: **xin phép** (ask for permission), **cho phép** (give permission), **được phép** (be allowed).  \n\nIt’s not normally counted when it means permission, but in other meanings you can count it, like **một phép toán** (a math operation) or **một phép màu** (a miracle).  \nYou’ll also see it in set phrases like **phép lịch sự** (politeness, “good manners”).",
+  "rank": 1412,
+  "choices": [
+    "phép",
+    "bài",
+    "việc"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "6236152c-f43c-4ce1-910a-707c41568420",
+    "content": {
+      "sentence": "Tôi cần một ___ để làm việc.",
+      "language": "vi",
+      "word": "phép",
+      "choices": [
+        "phép",
+        "phéps",
+        "PHÉP"
+      ],
+      "answer": "phép",
+      "hint": "p___p",
+      "translatedAnswer": {
+        "en": "permit"
+      },
+      "translation": {
+        "en": "I need a permit to work."
+      }
+    },
+    "createdAt": "2025-03-12T15:22:40.870Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T15:22:40.870Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "phép",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "d5hejGnp4WJO3XSoy5cK"
+}

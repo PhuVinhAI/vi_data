@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có một giờ làm việc cố định mỗi ngày từ 8 giờ sáng.",
+    "Chị muốn chọn một chỗ ngồi cố định trong lớp học này.",
+    "Lịch họp của em đã được đặt cố định vào thứ Hai hàng tuần."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "cố định",
+    "tạm thời",
+    "thoải mái"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T15:44:19.181Z",
+    "updatedAt": "2025-03-12T15:44:19.181Z",
+    "content": {
+      "choices": [],
+      "sentence": "Giá cả là ___ trong hợp đồng.",
+      "translatedAnswer": {
+        "en": "fixed"
+      },
+      "answer": "cố định",
+      "language": "vi",
+      "word": "cố định",
+      "translation": {
+        "en": "The price is fixed in the contract."
+      }
+    },
+    "id": "7725be12-8751-4e9d-86b4-64ee0848de5e",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "rank": 2514,
+  "notes": "cố định means fixed, not changing, set in one place or time. It describes something stable, not moving or not changing regularly.\n\nAs an adjective, it goes before a noun and describes time, position, price, rules, etc. It often talks about things that stay the same instead of being flexible.\n\nIt’s also used as a verb meaning to fix/secure something so it doesn’t move (physically or abstractly, like fixing a price).\n\nClose opposites: linh hoạt (flexible), thay đổi (change).",
+  "definition": "fixed",
+  "notes_md": "**cố định** means *fixed, not changing, set in one place or time*. It describes something stable, not moving or not changing regularly.\n\nAs an **adjective**, it goes before a noun and describes time, position, price, rules, etc. It often talks about things that stay the same instead of being flexible.\n\nIt’s also used as a **verb** meaning *to fix/secure something so it doesn’t move* (physically or abstractly, like fixing a price).\n\n\nClose opposites: **linh hoạt** (flexible), **thay đổi** (change).",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:44:19.181Z",
+    "updatedAt": "2025-03-12T15:44:19.181Z",
+    "content": {
+      "translation": {
+        "en": "The price is fixed in the contract."
+      },
+      "word": "cố định",
+      "language": "vi",
+      "sentence": "Giá cả là ___ trong hợp đồng.",
+      "choices": [
+        "cố định",
+        "biến động",
+        "thay đổi"
+      ],
+      "hint": "c___n",
+      "translatedAnswer": {
+        "en": "fixed"
+      },
+      "answer": "cố định"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "e6d4c59d-9540-4b52-ac05-b340a473a32c"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:43:35.046Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "fixed",
+      "es": "fijo",
+      "vi": "cố định"
+    },
+    "definitions": {
+      "en": "Fixed or set in place; not subject to change.",
+      "es": "Fijo o establecido en su lugar; no sujeto a cambios.",
+      "vi": "Được đặt cố định; không thay đổi."
+    },
+    "createdAt": "2025-01-28T13:16:57.914Z",
+    "example": {
+      "en": "The price of this product has been fixed.",
+      "es": "El precio de este producto ha sido fijado.",
+      "vi": "Giá cả của sản phẩm này đã được cố định."
+    }
+  },
+  "word": "cố định",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He has a fixed working hour every day starting at 8 a.m.",
+    "She wants to choose a fixed seat in this class.",
+    "My meeting schedule is fixed on Mondays every week."
+  ],
+  "_id": "iDl30NcimBrxzdK9jAcK"
+}

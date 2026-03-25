@@ -1,0 +1,99 @@
+{
+  "rank": 680,
+  "definition": "shop",
+  "flashcard": {
+    "createdAt": "2025-01-28T10:53:26.084Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một nhà hàng hoặc quán ăn nhỏ.",
+      "en": "A small restaurant or eatery.",
+      "es": "Un pequeño restaurante o comedor."
+    },
+    "example": {
+      "vi": "Tôi thích ăn ở quán này.",
+      "en": "I like to eat at this restaurant.",
+      "es": "Me gusta comer en este restaurante."
+    },
+    "translations": {
+      "vi": "quán",
+      "en": "restaurant",
+      "es": "restaurante"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:12:08.898Z",
+    "updatedAt": "2025-03-12T13:12:08.898Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "q___n",
+      "word": "quán",
+      "translatedAnswer": {
+        "en": "restaurant"
+      },
+      "language": "vi",
+      "choices": [
+        "quán",
+        "cửa hàng",
+        "siêu thị"
+      ],
+      "translation": {
+        "en": "I like to go to the restaurant for dinner."
+      },
+      "answer": "quán",
+      "sentence": "Tôi thích đến ___ ăn tối."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "8d09bba5-d89c-4c33-b482-0963d87fa4d3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh hay đi ăn sáng ở quán gần nhà mỗi ngày.",
+    "Chị sẽ gặp bạn ở quán lúc bảy giờ tối nay nhé.",
+    "Em thích uống cà phê ở quán nhỏ trên phố này."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes": "quán = a small shop, café, or casual place to eat or drink. It usually feels local and informal.\n\nIt’s a noun. You can say một quán (one shop), and it often combines with another noun to show the type of place.  \n\nCompared to cửa hàng (more general “store/shop” for selling goods), quán is more about food, drinks, or simple services.  \nIn the South, people also say tiệm for small shops, which feels similar in size and vibe.",
+  "choices": [
+    "nhà",
+    "quán",
+    "bàn"
+  ],
+  "word": "quán",
+  "notes_md": "**quán** = a small shop, café, or casual place to eat or drink. It usually feels local and informal.\n\nIt’s a noun. You can say *một quán* (one shop), and it often combines with another noun to show the type of place.  \n\nCompared to **cửa hàng** (more general “store/shop” for selling goods), *quán* is more about food, drinks, or simple services.  \nIn the South, people also say **tiệm** for small shops, which feels similar in size and vibe.",
+  "exampleSentencesTranslated": [
+    "He often has breakfast at the shop near his house every day.",
+    "She will meet her friend at the shop at seven o'clock tonight.",
+    "I like drinking coffee at the small shop on this street."
+  ],
+  "updatedAt": "2026-03-03T07:29:47.969Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "43b903a0-6ae7-4e8c-95c3-8aaa39974f2b",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "quán",
+      "sentence": "Tôi thích đến ___ ăn tối.",
+      "translatedAnswer": {
+        "en": "restaurant"
+      },
+      "language": "vi",
+      "word": "quán",
+      "choices": [],
+      "translation": {
+        "en": "I like to go to the restaurant for dinner."
+      }
+    },
+    "createdAt": "2025-03-12T13:12:08.898Z",
+    "updatedAt": "2025-03-12T13:12:08.898Z"
+  },
+  "_id": "5wiifWFiMMUmbHYgfELp"
+}

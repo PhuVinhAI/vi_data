@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This scenery is really beautiful."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "đẹp đẽ",
+      "sentence": "Cảnh vật này thật ___.",
+      "translatedAnswer": {
+        "en": "beautiful"
+      },
+      "answer": "đẹp đẽ"
+    },
+    "id": "7a5f1a6d-d69d-4968-953c-e22a0fa921f7",
+    "createdAt": "2025-03-12T14:09:50.317Z",
+    "updatedAt": "2025-03-12T14:09:50.317Z"
+  },
+  "definition": "beautiful",
+  "choices": [
+    "đẹp đẽ",
+    "hạnh phúc",
+    "bận rộn"
+  ],
+  "updatedAt": "2026-03-03T11:28:54.337Z",
+  "exampleSentencesTranslated": [
+    "I think this city is really beautiful at night.",
+    "She wore a very beautiful dress at the party yesterday.",
+    "I want to have a small but beautiful house by the river."
+  ],
+  "notes": "đẹp đẽ means beautiful, pretty, nice-looking. It’s a stronger, softer version of đẹp.\n\nIt describes things that look visually pleasing: people, clothes, places, scenes, writing, even gestures. It often sounds a bit more expressive or emotional than just đẹp.\n\nIt usually comes after the noun: một nơi đẹp đẽ, and can go with degree words like rất, thật, quá.  \n\nMemory tip: đẹp = beautiful, đẹp đẽ = beautifully beautiful (adds extra feeling).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**đẹp đẽ** means beautiful, pretty, nice-looking. It’s a stronger, softer version of **đẹp**.\n\nIt describes things that look visually pleasing: people, clothes, places, scenes, writing, even gestures. It often sounds a bit more expressive or emotional than just *đẹp*.\n\nIt usually comes after the noun: *một nơi đẹp đẽ*, and can go with degree words like *rất, thật, quá*.  \n\nMemory tip: **đẹp** = beautiful, **đẹp đẽ** = beautifully beautiful (adds extra feeling).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đẹp đẽ",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:09:50.317Z",
+    "createdAt": "2025-03-12T14:09:50.317Z",
+    "id": "321c3583-d25e-4173-a783-ea4789433edd",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "đẹp đẽ",
+      "translatedAnswer": {
+        "en": "beautiful"
+      },
+      "language": "vi",
+      "choices": [
+        "xinh đẹp",
+        "đẹp đẽ",
+        "tuyệt vời"
+      ],
+      "translation": {
+        "en": "This scenery is really beautiful."
+      },
+      "sentence": "Cảnh vật này thật ___.",
+      "hint": "đ___ đ__",
+      "word": "đẹp đẽ"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Cảnh vật ở đây thật đẹp đẽ.",
+      "es": "El paisaje aquí es realmente hermoso.",
+      "en": "The scenery here is really beautiful."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "beautiful",
+      "vi": "đẹp",
+      "es": "hermoso"
+    },
+    "definitions": {
+      "en": "Beautiful; pleasing to the senses or mind.",
+      "vi": "Đẹp; dễ chịu cho các giác quan hoặc tâm trí.",
+      "es": "Hermoso; agradable a los sentidos o a la mente."
+    },
+    "createdAt": "2025-01-28T11:47:04.557Z"
+  },
+  "exampleSentences": [
+    "Anh thấy thành phố này thật đẹp đẽ vào buổi tối.",
+    "Chị ấy mặc một chiếc váy rất đẹp đẽ trong bữa tiệc hôm qua.",
+    "Em muốn có một ngôi nhà nhỏ nhưng đẹp đẽ bên bờ sông."
+  ],
+  "rank": 2617,
+  "_id": "KpVvxvX2FXcWJ9oegYMe"
+}

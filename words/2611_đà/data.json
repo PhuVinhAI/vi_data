@@ -1,0 +1,99 @@
+{
+  "definition": "momentum",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "40575c45-e07d-481e-b6aa-0ec60f09222d",
+    "createdAt": "2025-03-12T14:32:44.249Z",
+    "updatedAt": "2025-03-12T14:32:44.249Z",
+    "content": {
+      "sentence": "Cá ___ bơi rất nhanh.",
+      "translatedAnswer": {
+        "en": "fast"
+      },
+      "language": "vi",
+      "word": "đà",
+      "choices": [],
+      "translation": {
+        "en": "The fish swims very fast."
+      },
+      "answer": "đà"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nếu mất đà khi chạy, em sẽ khó hoàn thành cuộc đua.",
+    "Anh lấy đà trước khi nhảy qua bức tường cao.",
+    "Công việc đang có đà phát triển rất tốt trong tháng này."
+  ],
+  "notes_md": "**đà** = momentum — the forward energy that keeps something moving or growing. It can be physical (like before jumping) or abstract (progress, success).\n\nIt’s a noun and usually uncountable; you don’t use classifiers with it. Very common pairings: **lấy đà** (build momentum), **mất đà** (lose momentum), **giữ đà** (keep momentum), **theo đà** (following the momentum/trend).\n\n`Structure: lấy đà + V` (lấy đà nhảy)  \n`Structure: theo đà + N/V` (theo đà phát triển)\n\nClose idea: **động lực** = motivation (inside drive), while **đà** is the movement already happening.",
+  "flashcard": {
+    "translations": {
+      "vi": "đà",
+      "en": "momentum",
+      "es": "impulso"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "The horse runs with more momentum.",
+      "vi": "Con ngựa chạy với đà nhanh hơn.",
+      "es": "El caballo corre con más impulso."
+    },
+    "definitions": {
+      "es": "La fuerza o velocidad del movimiento; impulso.",
+      "en": "The force or speed of movement; momentum.",
+      "vi": "Lực hoặc tốc độ của chuyển động; đà."
+    },
+    "createdAt": "2025-01-28T12:08:25.213Z"
+  },
+  "notes": "đà = momentum — the forward energy that keeps something moving or growing. It can be physical (like before jumping) or abstract (progress, success).\n\nIt’s a noun and usually uncountable; you don’t use classifiers with it. Very common pairings: lấy đà (build momentum), mất đà (lose momentum), giữ đà (keep momentum), theo đà (following the momentum/trend).\n\nStructure: lấy đà + V (lấy đà nhảy)  \nStructure: theo đà + N/V (theo đà phát triển)\n\nClose idea: động lực = motivation (inside drive), while đà is the movement already happening.",
+  "choices": [
+    "đà",
+    "đá",
+    "đã"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:28:25.048Z",
+  "exampleSentencesTranslated": [
+    "If you lose momentum while running, it will be hard to finish the race.",
+    "He gained momentum before jumping over the high wall.",
+    "The work has momentum for very good development this month."
+  ],
+  "rank": 2611,
+  "word": "đà",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "3e9188a8-3681-4be2-8831-cb942cb6d5f6",
+    "createdAt": "2025-03-12T14:32:44.249Z",
+    "updatedAt": "2025-03-12T14:32:44.249Z",
+    "content": {
+      "hint": "d__",
+      "answer": "đà",
+      "translation": {
+        "en": "The fish swims very fast."
+      },
+      "word": "đà",
+      "choices": [
+        "bơi",
+        "đà",
+        "nhanh"
+      ],
+      "sentence": "Cá ___ bơi rất nhanh.",
+      "translatedAnswer": {
+        "en": "fast"
+      },
+      "language": "vi"
+    }
+  },
+  "_id": "QMZrOpoC5sMkur96sQtJ"
+}

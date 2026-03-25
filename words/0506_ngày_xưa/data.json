@@ -1,0 +1,98 @@
+{
+  "choices": [
+    "ngày xưa",
+    "bây giờ",
+    "ngày mai"
+  ],
+  "updatedAt": "2026-03-03T07:12:49.479Z",
+  "notes": "Ngày xưa means “once upon a time” or “back then.” It talks about the past, often long ago, sometimes with a nostalgic or story-telling feeling.\n\nIt usually comes at the beginning of a sentence to set the time.  \n\nIt’s very close to hồi xưa (more casual). The opposite idea is bây giờ (now). It can be used for real memories or fairy-tale style stories.",
+  "exampleSentencesTranslated": [
+    "Grandma often tells me stories that start with once upon a time before bed.",
+    "Once upon a time, I used to live in a small village near the river.",
+    "She really enjoys listening to fairy tales that begin with once upon a time."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:14:39.348Z",
+    "createdAt": "2025-03-12T14:14:39.348Z",
+    "id": "bfd6f46c-365a-4e74-a6ec-2d748b449a27",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "This story happened long ago."
+      },
+      "sentence": "Chuyện này xảy ra ___.",
+      "word": "ngày xưa",
+      "answer": "ngày xưa",
+      "translatedAnswer": {
+        "en": "long ago"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "definition": "once upon a time",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ngày xưa",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chuyện này xảy ra ___.",
+      "hint": "ngày x___",
+      "word": "ngày xưa",
+      "language": "vi",
+      "choices": [
+        "hôm qua",
+        "ngày xưa",
+        "tuần trước"
+      ],
+      "translation": {
+        "en": "This story happened long ago."
+      },
+      "answer": "ngày xưa",
+      "translatedAnswer": {
+        "en": "long ago"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "4342cb3e-d89b-444f-a51f-0abb97410edb",
+    "createdAt": "2025-03-12T14:14:39.348Z",
+    "updatedAt": "2025-03-12T14:14:39.348Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Ngày xưa** means “once upon a time” or “back then.” It talks about the past, often long ago, sometimes with a nostalgic or story-telling feeling.\n\nIt usually comes at the beginning of a sentence to set the time.  \n\nIt’s very close to **hồi xưa** (more casual). The opposite idea is **bây giờ** (now). It can be used for real memories or fairy-tale style stories.",
+  "exampleSentences": [
+    "Bà thường kể cho em nghe những câu chuyện ngày xưa trước khi ngủ.",
+    "Ngày xưa, anh từng sống ở một ngôi làng nhỏ gần bờ sông.",
+    "Chị rất thích nghe truyện cổ tích bắt đầu bằng ngày xưa."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "In the old days, I used to play in the park.",
+      "vi": "Ngày xưa, tôi thường chơi ở công viên.",
+      "es": "En los viejos tiempos, solía jugar en el parque."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:14:19.650Z",
+    "definitions": {
+      "vi": "Một cụm từ có nghĩa là 'trong quá khứ' hoặc 'rất lâu trước đây'.",
+      "es": "Una frase que significa 'en el pasado' o 'hace mucho tiempo'.",
+      "en": "A phrase meaning 'in the past' or 'long ago'."
+    },
+    "translations": {
+      "es": "hace mucho tiempo",
+      "vi": "ngày xưa",
+      "en": "long ago"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 506,
+  "_id": "LklDQQE3t9nBi2Plg1IQ"
+}

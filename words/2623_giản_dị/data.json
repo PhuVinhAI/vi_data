@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Ella lleva un atuendo sencillo pero se ve muy hermosa.",
+      "vi": "Cô ấy mặc một bộ đồ giản dị nhưng rất đẹp.",
+      "en": "She wears a simple outfit but it looks very beautiful."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "simple",
+      "vi": "giản dị",
+      "es": "sencillo"
+    },
+    "definitions": {
+      "en": "Simple and unpretentious; not elaborate or complicated.",
+      "vi": "Đơn giản và không cầu kỳ; không phức tạp.",
+      "es": "Sencillo y sin pretensiones; no elaborado ni complicado."
+    },
+    "createdAt": "2025-01-28T11:43:59.973Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Phong cách sống của anh ấy rất giản dị và chân thật.",
+    "Gia đình em thích tổ chức bữa cơm giản dị vào cuối tuần.",
+    "Chị ấy chọn một chiếc váy giản dị cho buổi họp mặt bạn bè."
+  ],
+  "rank": 2623,
+  "definition": "simple",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:06:15.911Z",
+    "createdAt": "2025-03-12T14:06:15.911Z",
+    "id": "36aba848-c4cd-4410-908c-a827e290d74d",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "simple"
+      },
+      "answer": "giản dị",
+      "translation": {
+        "en": "Her style is very simple."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "giản dị",
+      "sentence": "Phong cách của cô ấy rất ___."
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "Giản dị means simple in a modest, not flashy way. It’s about being plain, natural, and not trying to show off.\n\nIt’s an adjective, used to describe people, lifestyle, clothes, speech, or personality. It often suggests honesty and warmth, not just a simple appearance.\n\nIt’s close to mộc mạc (rustic, plain) and sometimes đơn giản, but đơn giản is more neutral. The opposite is cầu kỳ (fussy, elaborate) or sang trọng (luxurious).",
+  "exampleSentencesTranslated": [
+    "His lifestyle is very simple and sincere.",
+    "My family likes to have a simple meal on the weekend.",
+    "She chose a simple dress for the friends' gathering."
+  ],
+  "updatedAt": "2026-03-03T11:29:31.519Z",
+  "choices": [
+    "giản dị",
+    "hiện đại",
+    "phức tạp"
+  ],
+  "notes_md": "**Giản dị** means *simple* in a modest, not flashy way. It’s about being plain, natural, and not trying to show off.\n\nIt’s an adjective, used to describe people, lifestyle, clothes, speech, or personality. It often suggests honesty and warmth, not just a simple appearance.\n\nIt’s close to **mộc mạc** (rustic, plain) and sometimes **đơn giản**, but *đơn giản* is more neutral. The opposite is **cầu kỳ** (fussy, elaborate) or **sang trọng** (luxurious).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "giản dị",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "simple"
+      },
+      "answer": "giản dị",
+      "translation": {
+        "en": "Her style is very simple."
+      },
+      "language": "vi",
+      "choices": [
+        "sang trọng",
+        "giản dị",
+        "phức tạp"
+      ],
+      "word": "giản dị",
+      "hint": "g___n",
+      "sentence": "Phong cách của cô ấy rất ___."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "91bcdb23-0657-43d2-948f-63f69bfe357a",
+    "createdAt": "2025-03-12T14:06:15.911Z",
+    "updatedAt": "2025-03-12T14:06:15.911Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "KEZPKElriVcqDdxdU47M"
+}

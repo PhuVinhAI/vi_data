@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "chú trọng",
+    "giới thiệu",
+    "thảo luận"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:52:48.474Z",
+    "createdAt": "2025-03-12T15:52:48.474Z",
+    "id": "5c8ae6bd-8afe-45f2-9b83-88dd1b31c04a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We focus on studying."
+      },
+      "word": "chú trọng",
+      "translatedAnswer": {
+        "en": "focus"
+      },
+      "answer": "chú trọng",
+      "sentence": "Chúng tôi ___ vào việc học.",
+      "choices": []
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Công ty này luôn chú trọng đến chất lượng sản phẩm.",
+    "Anh cần chú trọng hơn vào việc học tiếng Anh mỗi ngày.",
+    "Giáo viên dặn học sinh phải chú trọng sức khỏe của mình."
+  ],
+  "definition": "focus on",
+  "notes": "Chú trọng = to focus on, to pay special attention to something important. It’s about giving priority or serious consideration.\n\nIt’s a verb, often used for long-term goals, quality, health, education, skills, strategy.  \nYou usually pair it with vào or đến + noun/verb phrase.\n\nClose synonyms: tập trung vào (more about concentrating), coi trọng (more about valuing).",
+  "rank": 2943,
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:52:48.474Z",
+    "createdAt": "2025-03-12T15:52:48.474Z",
+    "id": "0bfdb62d-9126-4f7e-aafb-3c34f825c2dd",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "Students focus on Mathematics."
+      },
+      "word": "chú trọng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "focus"
+      },
+      "answer": "chú trọng",
+      "sentence": "Học sinh ___ vào môn Toán.",
+      "choices": [
+        "quan tâm",
+        "chú trọng",
+        "thích thú"
+      ],
+      "hint": "c___ trọng"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Chú trọng** = to focus on, to pay special attention to something important. It’s about giving priority or serious consideration.\n\nIt’s a verb, often used for long-term goals, quality, health, education, skills, strategy.  \nYou usually pair it with **vào** or **đến** + noun/verb phrase.\n\n\nClose synonyms: **tập trung vào** (more about concentrating), **coi trọng** (more about valuing).",
+  "exampleSentencesTranslated": [
+    "This company always focus on product quality.",
+    "You need to focus on studying English every day.",
+    "The teacher told students to focus on their health."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chú trọng",
+      "en": "to focus",
+      "es": "enfocar"
+    },
+    "definitions": {
+      "vi": "Nhấn mạnh hoặc chú ý đến điều gì đó.",
+      "es": "Enfatizar o prestar atención a algo.",
+      "en": "To emphasize or pay attention to something."
+    },
+    "createdAt": "2025-01-28T13:25:04.314Z",
+    "example": {
+      "vi": "Chúng ta cần chú trọng đến sức khỏe.",
+      "en": "We need to focus on health.",
+      "es": "Necesitamos centrarnos en la salud."
+    }
+  },
+  "word": "chú trọng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T18:15:01.923Z",
+  "_id": "kIEPxG3vjDlDNxX4cOKP"
+}

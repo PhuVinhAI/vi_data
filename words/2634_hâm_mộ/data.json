@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "admire",
+      "es": "admirar",
+      "vi": "hâm mộ"
+    },
+    "definitions": {
+      "en": "To admire or have a strong liking for someone or something.",
+      "es": "Admirar o tener una fuerte inclinación por alguien o algo.",
+      "vi": "Ngưỡng mộ hoặc có sự thích thú mạnh mẽ đối với ai đó hoặc điều gì đó."
+    },
+    "createdAt": "2025-01-28T11:40:49.567Z",
+    "example": {
+      "es": "Admiro mucho a este cantante.",
+      "vi": "Tôi hâm mộ ca sĩ này rất nhiều.",
+      "en": "I admire this singer a lot."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh rất hâm mộ ca sĩ đó vì giọng hát tuyệt vời của cô ấy.",
+    "Em luôn hâm mộ những người chăm chỉ và không bao giờ bỏ cuộc.",
+    "Chị hâm mộ đội bóng này vì họ chơi rất đoàn kết."
+  ],
+  "rank": 2634,
+  "definition": "admire",
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "admire"
+      },
+      "answer": "hâm mộ",
+      "word": "hâm mộ",
+      "sentence": "Tôi rất ___ ca sĩ này.",
+      "translation": {
+        "en": "I really admire this singer."
+      },
+      "choices": [],
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "bc8d20ba-c3e6-4e38-88f7-942f473314b8",
+    "createdAt": "2025-03-12T14:02:57.683Z",
+    "updatedAt": "2025-03-12T14:02:57.683Z"
+  },
+  "notes": "hâm mộ = to admire or be a fan of someone/something. It’s about really liking and respecting them.\n\nIt’s a verb, so you use it directly before the person or thing you admire.  \n\nIt’s often used for celebrities, athletes, public figures, or anyone you look up to.  \nClose synonym: ngưỡng mộ (stronger, more respectful). Opposite idea: ghét (hate).",
+  "exampleSentencesTranslated": [
+    "I really admire that singer because of her wonderful voice.",
+    "I always admire people who work hard and never give up.",
+    "I admire this football team because they play very united."
+  ],
+  "choices": [
+    "hâm mộ",
+    "bắt đầu",
+    "giúp đỡ"
+  ],
+  "updatedAt": "2026-03-03T11:30:33.959Z",
+  "notes_md": "**hâm mộ** = to admire or be a fan of someone/something. It’s about really liking and respecting them.\n\nIt’s a **verb**, so you use it directly before the person or thing you admire.  \n\nIt’s often used for celebrities, athletes, public figures, or anyone you look up to.  \nClose synonym: **ngưỡng mộ** (stronger, more respectful). Opposite idea: **ghét** (hate).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "hâm mộ",
+      "translatedAnswer": {
+        "en": "admire"
+      },
+      "sentence": "Tôi ___ đội bóng này.",
+      "word": "hâm mộ",
+      "hint": "h___ m___",
+      "language": "vi",
+      "choices": [
+        "yêu thích",
+        "hâm mộ",
+        "ghét bỏ"
+      ],
+      "translation": {
+        "en": "I admire this football team."
+      }
+    },
+    "id": "7a48f0b0-09ca-4fcf-b1f0-dda0b2e41e45",
+    "createdAt": "2025-03-12T14:02:57.683Z",
+    "updatedAt": "2025-03-12T14:02:57.683Z"
+  },
+  "word": "hâm mộ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "JPyxbUwWWeQn6EUJhlbJ"
+}

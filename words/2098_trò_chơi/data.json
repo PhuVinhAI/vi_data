@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "We will play an interesting game.",
+      "es": "Vamos a jugar un juego interesante.",
+      "vi": "Chúng ta sẽ chơi một trò chơi thú vị."
+    },
+    "translations": {
+      "en": "game",
+      "es": "juego",
+      "vi": "trò chơi"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A structured activity or competition, often for entertainment.",
+      "es": "Una actividad o competencia estructurada, a menudo para entretenimiento.",
+      "vi": "Một hoạt động hoặc cuộc thi có cấu trúc, thường để giải trí."
+    },
+    "createdAt": "2025-01-28T12:36:55.087Z"
+  },
+  "fillBlankQuiz": {
+    "id": "fec9f152-c502-43d7-ab2a-32650949449c",
+    "createdAt": "2025-03-12T15:04:33.831Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "game"
+      },
+      "translation": {
+        "en": "We are playing a new game."
+      },
+      "sentence": "Chúng tôi chơi ___ mới.",
+      "answer": "trò chơi",
+      "word": "trò chơi",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:04:33.831Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:59:58.525Z",
+  "exampleSentencesTranslated": [
+    "This weekend, I want to invite you to play a new game.",
+    "I already lost this game—can you give me a tip?",
+    "Can you recommend a fun game for me?"
+  ],
+  "definition": "game",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**trò chơi** = game (something you play for fun, competition, or learning).\n\nIt’s a countable noun. Use the classifier **trò**: *một trò chơi, hai trò chơi*. Often used with verbs like **chơi trò chơi**, **tham gia trò chơi**, **tạo trò chơi**.\n\nIt can mean physical games, board games, video games, or even classroom activities. For video games specifically, people also say **game** (borrowed from English), but **trò chơi** is more general.\n\nRelated word: **trò** = “game/trick” (shorter, more casual in some contexts).",
+  "rank": 2098,
+  "choices": [
+    "trò chơi",
+    "bài hát",
+    "câu chuyện"
+  ],
+  "notes": "trò chơi = game (something you play for fun, competition, or learning).\n\nIt’s a countable noun. Use the classifier trò: một trò chơi, hai trò chơi. Often used with verbs like chơi trò chơi, tham gia trò chơi, tạo trò chơi.\n\nIt can mean physical games, board games, video games, or even classroom activities. For video games specifically, people also say game (borrowed from English), but trò chơi is more general.\n\nRelated word: trò = “game/trick” (shorter, more casual in some contexts).",
+  "exampleSentences": [
+    "Cuối tuần này, anh muốn rủ em chơi một trò chơi mới.",
+    "Em thua trò chơi này rồi, anh chỉ em mẹo được không?",
+    "Chị có thể giới thiệu cho em một trò chơi thú vị không?"
+  ],
+  "word": "trò chơi",
+  "multiChoiceQuiz": {
+    "id": "65578a36-79ca-48fa-928a-dd6794994449",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:04:33.831Z",
+    "updatedAt": "2025-03-12T15:04:33.831Z",
+    "content": {
+      "sentence": "Chúng tôi có ___ thú vị.",
+      "hint": "tr__ c__i",
+      "answer": "trò chơi",
+      "language": "vi",
+      "word": "trò chơi",
+      "translatedAnswer": {
+        "en": "game"
+      },
+      "choices": [
+        "trò chơi",
+        "cuộc thi",
+        "hành động"
+      ],
+      "translation": {
+        "en": "We have an interesting game."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "Y3D7auY9cJYOEskXJY3D"
+}

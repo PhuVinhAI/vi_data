@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "release",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b88a7ef0-e0aa-4b39-8c35-bb07573ecd14",
+    "createdAt": "2025-03-12T14:45:10.259Z",
+    "updatedAt": "2025-03-12T14:45:10.259Z",
+    "content": {
+      "choices": [],
+      "word": "xả",
+      "translation": {
+        "en": "We need to discharge wastewater."
+      },
+      "answer": "xả",
+      "sentence": "Chúng ta cần ___ nước thải.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "discharge"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes_md": "**xả** = to release or let something out. It’s used for physically letting out water, gas, trash, etc., and also for releasing feelings or pressure.\n\nIt’s a verb: **xả + object** — you always “release” something.  \n\nIt can also mean to vent or blow off steam emotionally. For stress, a close synonym is **giải tỏa** (more neutral/softer).\n\nYou’ll also see it in fixed phrases like **xả lũ** (release floodwater) and **xả hàng** (clear out stock at a big discount).",
+  "exampleSentences": [
+    "Anh ấy phải xả nước trong bồn sau khi sửa chữa.",
+    "Chị thường đi dạo để xả căng thẳng sau giờ làm việc.",
+    "Em nhớ xả rác đúng nơi quy định khi ra ngoài nhé."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "They release water into the pond.",
+      "vi": "Họ xả nước vào ao.",
+      "es": "Ellos sueltan agua en el estanque."
+    },
+    "createdAt": "2025-01-28T12:19:19.639Z",
+    "definitions": {
+      "vi": "Giải phóng hoặc để ra ngoài một cái gì đó, thường đề cập đến nước hoặc áp lực.",
+      "en": "To release or let out something, often referring to water or pressure.",
+      "es": "Liberar o dejar salir algo, a menudo refiriéndose al agua o a la presión."
+    },
+    "translations": {
+      "vi": "xả",
+      "en": "release",
+      "es": "soltar"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "xả = to release or let something out. It’s used for physically letting out water, gas, trash, etc., and also for releasing feelings or pressure.\n\nIt’s a verb: xả + object — you always “release” something.  \n\nIt can also mean to vent or blow off steam emotionally. For stress, a close synonym is giải tỏa (more neutral/softer).\n\nYou’ll also see it in fixed phrases like xả lũ (release floodwater) and xả hàng (clear out stock at a big discount).",
+  "choices": [
+    "xả",
+    "giặt",
+    "vắt"
+  ],
+  "updatedAt": "2026-03-03T09:37:28.502Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:45:10.259Z",
+    "id": "1527fe5d-0ead-41e8-83d0-650ce12cb80c",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We need to discharge wastewater."
+      },
+      "answer": "xả",
+      "hint": "x__",
+      "word": "xả",
+      "choices": [
+        "xả",
+        "thu",
+        "chứa"
+      ],
+      "translatedAnswer": {
+        "en": "discharge"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ nước thải."
+    },
+    "updatedAt": "2025-03-12T14:45:10.259Z"
+  },
+  "word": "xả",
+  "rank": 1885,
+  "exampleSentencesTranslated": [
+    "He has to release the water in the tank after repairing.",
+    "She often takes a walk to release stress after work.",
+    "Remember to release trash in the right place when going out."
+  ],
+  "_id": "T5dZNvRXK7KPZ2DHl20S"
+}

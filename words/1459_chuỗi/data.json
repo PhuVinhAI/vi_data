@@ -1,0 +1,99 @@
+{
+  "word": "chuỗi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "chuỗi",
+    "chuối",
+    "chuộc"
+  ],
+  "rank": 1459,
+  "notes_md": "**Chuỗi** means a *sequence* or *series* of things that are connected or happen in order. Think of links in a chain, one after another.\n\nIt’s a noun. You usually say **một chuỗi + noun** for “a series of…” and it often combines directly with another noun to form fixed phrases like business or technical terms.\n\nIt’s used for events, actions, stores, supply chains, numbers, sounds—anything that comes in order and is connected.\n\nClose synonym: **dãy** (more like a row/line, often physical or visual), while **chuỗi** feels more about connection and sequence over time or logic.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:28:55.005Z",
+    "type": "multiChoiceQuiz",
+    "id": "1a7bd5b9-ffb9-4cfb-9454-a921257d83f3",
+    "content": {
+      "hint": "c____",
+      "answer": "chuỗi",
+      "translatedAnswer": {
+        "en": "chain"
+      },
+      "translation": {
+        "en": "I need a new chain."
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ mới.",
+      "word": "chuỗi",
+      "choices": [
+        "dây",
+        "chuỗi",
+        "sợi"
+      ]
+    },
+    "createdAt": "2025-03-12T13:28:55.005Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh đang học một chuỗi các từ vựng mới mỗi ngày.",
+    "Chị đã hoàn thành chuỗi bài tập thể dục buổi sáng hôm nay.",
+    "Em muốn tìm hiểu về chuỗi sự kiện diễn ra trong năm nay."
+  ],
+  "updatedAt": "2026-03-03T08:51:45.374Z",
+  "notes": "Chuỗi means a sequence or series of things that are connected or happen in order. Think of links in a chain, one after another.\n\nIt’s a noun. You usually say một chuỗi + noun for “a series of…” and it often combines directly with another noun to form fixed phrases like business or technical terms.\n\nIt’s used for events, actions, stores, supply chains, numbers, sounds—anything that comes in order and is connected.\n\nClose synonym: dãy (more like a row/line, often physical or visual), while chuỗi feels more about connection and sequence over time or logic.",
+  "definition": "sequence",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã mua một chuỗi hạt đẹp.",
+      "es": "Compré una hermosa cadena de cuentas.",
+      "en": "I bought a beautiful string of beads."
+    },
+    "definitions": {
+      "vi": "Một chuỗi các mục hoặc yếu tố được kết nối.",
+      "es": "Una serie de elementos o artículos conectados.",
+      "en": "A series of connected items or elements."
+    },
+    "createdAt": "2025-01-28T11:08:54.966Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "cadena",
+      "vi": "chuỗi",
+      "en": "chain"
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "e0dd78d6-d57a-41bd-993e-1d8d6ac136b8",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:28:55.005Z",
+    "content": {
+      "answer": "chuỗi",
+      "translatedAnswer": {
+        "en": "chain"
+      },
+      "translation": {
+        "en": "I need a new chain."
+      },
+      "sentence": "Tôi cần một ___ mới.",
+      "language": "vi",
+      "word": "chuỗi",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:28:55.005Z"
+  },
+  "exampleSentencesTranslated": [
+    "I am learning a sequence of new vocabulary words every day.",
+    "She completed the sequence of morning exercises today.",
+    "I want to learn about the sequence of events happening this year."
+  ],
+  "_id": "AdYiNCuHF2rzHacSZurM"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cảm thấy khỏe mạnh sau khi tập thể dục.",
+      "es": "Me siento saludable después de hacer ejercicio.",
+      "en": "I feel healthy after exercising."
+    },
+    "definitions": {
+      "en": "In good health; physically strong.",
+      "es": "En buena salud; físicamente fuerte.",
+      "vi": "Trong tình trạng sức khỏe tốt; mạnh mẽ về thể chất."
+    },
+    "createdAt": "2025-01-28T12:54:17.386Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "healthy",
+      "vi": "khỏe mạnh",
+      "es": "saludable"
+    }
+  },
+  "definition": "healthy",
+  "exampleSentencesTranslated": [
+    "I always try to eat many vegetables to keep my body healthy.",
+    "She exercises every day to feel more healthy.",
+    "I think sleeping enough will help me be healthy."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:19:24.232Z",
+    "content": {
+      "translation": {
+        "en": "Children need to eat healthily."
+      },
+      "translatedAnswer": {
+        "en": "healthily"
+      },
+      "answer": "khỏe mạnh",
+      "choices": [],
+      "word": "khỏe mạnh",
+      "language": "vi",
+      "sentence": "Trẻ em cần ăn uống ___."
+    },
+    "id": "2381fa69-9a9a-45c2-b4cd-db1ce7ccf231",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:19:24.232Z"
+  },
+  "exampleSentences": [
+    "Anh luôn cố gắng ăn nhiều rau củ để giữ cơ thể khỏe mạnh.",
+    "Chị tập thể dục mỗi ngày để cảm thấy khỏe mạnh hơn.",
+    "Em nghĩ ngủ đủ giấc sẽ giúp mình khỏe mạnh."
+  ],
+  "updatedAt": "2026-03-03T09:46:49.127Z",
+  "notes": "khỏe mạnh means healthy or in good physical condition. It’s about your body being strong and not sick.\n\nIt’s an adjective, so it usually describes a person, body part, or lifestyle (cơ thể khỏe mạnh, em bé khỏe mạnh). You can also use it after “trở nên” or “giữ” to talk about becoming or staying healthy.\n\nIt focuses more on physical health than emotions. For mental well-being, people often say khỏe mạnh về tinh thần.\n\nRelated words: khỏe (healthy, but more general) and opposite ốm / yếu (sick / weak).",
+  "rank": 1971,
+  "choices": [
+    "khỏe mạnh",
+    "mệt mỏi",
+    "vui vẻ"
+  ],
+  "notes_md": "**khỏe mạnh** means *healthy* or *in good physical condition*. It’s about your body being strong and not sick.\n\nIt’s an adjective, so it usually describes a person, body part, or lifestyle (cơ thể khỏe mạnh, em bé khỏe mạnh). You can also use it after “trở nên” or “giữ” to talk about becoming or staying healthy.\n\nIt focuses more on physical health than emotions. For mental well-being, people often say **khỏe mạnh về tinh thần**.\n\nRelated words: **khỏe** (healthy, but more general) and opposite **ốm / yếu** (sick / weak).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "k____n",
+      "answer": "khỏe mạnh",
+      "translatedAnswer": {
+        "en": "healthily"
+      },
+      "translation": {
+        "en": "We need to live healthily to be well."
+      },
+      "sentence": "Chúng ta cần sống ___ để khỏe.",
+      "language": "vi",
+      "word": "khỏe mạnh",
+      "choices": [
+        "khỏe mạnh",
+        "bình thường",
+        "khó khăn"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:19:24.232Z",
+    "id": "5b2f7b85-0cab-41d6-981b-ec36e019895b",
+    "updatedAt": "2025-03-12T15:19:24.232Z"
+  },
+  "word": "khỏe mạnh",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "c1tVzm9N31pfYi6fcW83"
+}

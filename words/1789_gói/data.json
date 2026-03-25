@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Compré un paquete de galletas.",
+      "en": "I bought a pack of cookies.",
+      "vi": "Tôi đã mua một gói bánh quy."
+    },
+    "definitions": {
+      "es": "Un paquete o un bulto, a menudo utilizado para alimentos o artículos.",
+      "en": "A package or a bundle, often used for food or items.",
+      "vi": "Một gói hoặc một bọc, thường được sử dụng cho thực phẩm hoặc đồ vật."
+    },
+    "createdAt": "2025-01-28T13:14:18.706Z",
+    "translations": {
+      "vi": "gói",
+      "es": "paquete",
+      "en": "pack"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "gói",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T09:27:30.899Z",
+  "exampleSentencesTranslated": [
+    "I just received a package from the post office this morning.",
+    "Can you help me open this package?",
+    "Every time she goes to the supermarket, mom usually buys a package of noodles for the whole family."
+  ],
+  "notes_md": "**gói** = a package / a pack (something wrapped or bundled together). It’s a countable noun: *một gói, hai gói* — used for small packaged things like snacks, spices, tissues.\n\nIt often pairs with things that are wrapped or sold together: *gói quà, gói hàng, gói dịch vụ* (service package/plan).\n\nAs a verb, **gói** means “to wrap” or “to pack” (especially by folding or wrapping neatly).  \n\nClose word: **bọc** (to wrap/cover) — but *gói* feels more like wrapping something into a neat bundle.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:40:47.409Z",
+    "updatedAt": "2025-03-12T15:40:47.409Z",
+    "content": {
+      "translation": {
+        "en": "I bought a package of cake."
+      },
+      "word": "gói",
+      "language": "vi",
+      "choices": [
+        "gói",
+        "hộp",
+        "bịch"
+      ],
+      "sentence": "Tôi đã mua một ___ bánh.",
+      "hint": "g__",
+      "translatedAnswer": {
+        "en": "package"
+      },
+      "answer": "gói"
+    },
+    "id": "4e406902-a7a9-429a-8b59-33f67541b2f7",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1789,
+  "definition": "package",
+  "notes": "gói = a package / a pack (something wrapped or bundled together). It’s a countable noun: một gói, hai gói — used for small packaged things like snacks, spices, tissues.\n\nIt often pairs with things that are wrapped or sold together: gói quà, gói hàng, gói dịch vụ (service package/plan).\n\nAs a verb, gói means “to wrap” or “to pack” (especially by folding or wrapping neatly).  \n\nClose word: bọc (to wrap/cover) — but gói feels more like wrapping something into a neat bundle.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh vừa nhận được một gói từ bưu điện sáng nay.",
+    "Chị có thể giúp em mở gói này được không?",
+    "Mỗi khi đi siêu thị, mẹ thường mua một gói mì cho cả nhà."
+  ],
+  "choices": [
+    "hộp",
+    "gói",
+    "bánh"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:40:47.409Z",
+    "createdAt": "2025-03-12T15:40:47.409Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "4bb5af14-4307-4ea4-b27c-e527c7a6d7fd",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi đã mua một ___ bánh.",
+      "translatedAnswer": {
+        "en": "package"
+      },
+      "answer": "gói",
+      "language": "vi",
+      "word": "gói",
+      "translation": {
+        "en": "I bought a package of cake."
+      }
+    }
+  },
+  "_id": "hMG6NomOif2IqDhntpa4"
+}

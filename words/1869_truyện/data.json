@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "6b63e6f3-1f0d-4f32-a704-e7a73f415cd7",
+    "createdAt": "2025-03-12T16:31:01.637Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "answer": "truyện",
+      "translation": {
+        "en": "I like reading stories in the evening."
+      },
+      "translatedAnswer": {
+        "en": "stories"
+      },
+      "language": "vi",
+      "word": "truyện",
+      "sentence": "Tôi thích đọc ___ vào buổi tối."
+    },
+    "updatedAt": "2025-03-12T16:31:01.637Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "story",
+  "rank": 1869,
+  "notes_md": "**truyện** = story. It can be something written (book, comic) or something told out loud.\n\nIt’s a noun. Use classifiers like **một cuốn truyện** (a story book/comic) or **một câu chuyện** (a story, usually spoken or one specific story).  \n**truyện** often refers to fiction; **câu chuyện** feels more like a specific tale or real-life story.  \nCommon pairings: **đọc truyện** (read stories), **kể truyện** (tell a story), **truyện tranh** (comic), **truyện cổ tích** (fairy tale).",
+  "flashcard": {
+    "example": {
+      "vi": "Tôi thích đọc truyện trước khi đi ngủ.",
+      "es": "Me gusta leer cuentos antes de dormir.",
+      "en": "I like to read stories before going to bed."
+    },
+    "definitions": {
+      "es": "Una narrativa, ya sea verdadera o ficticia, diseñada para interesar, divertir o instruir al lector o oyente.",
+      "en": "A narrative, either true or fictitious, designed to interest, amuse, or instruct the reader or listener.",
+      "vi": "Một câu chuyện, có thể là thật hoặc hư cấu, được thiết kế để thu hút, giải trí hoặc dạy dỗ người đọc hoặc người nghe."
+    },
+    "translations": {
+      "en": "story",
+      "es": "cuento",
+      "vi": "truyện"
+    },
+    "createdAt": "2025-01-28T14:02:04.126Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "truyện = story. It can be something written (book, comic) or something told out loud.\n\nIt’s a noun. Use classifiers like một cuốn truyện (a story book/comic) or một câu chuyện (a story, usually spoken or one specific story).  \ntruyện often refers to fiction; câu chuyện feels more like a specific tale or real-life story.  \nCommon pairings: đọc truyện (read stories), kể truyện (tell a story), truyện tranh (comic), truyện cổ tích (fairy tale).",
+  "word": "truyện",
+  "exampleSentencesTranslated": [
+    "I really like listening to grandma tell a story before going to bed.",
+    "I bought a new story book for my niece last weekend.",
+    "She often reads a story to relax after stressful working hours."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "truyện",
+    "bài hát",
+    "thơ"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "truyện",
+      "hint": "t___n",
+      "sentence": "Tôi thích đọc ___ vào buổi tối.",
+      "translatedAnswer": {
+        "en": "stories"
+      },
+      "translation": {
+        "en": "I like reading stories in the evening."
+      },
+      "answer": "truyện",
+      "choices": [
+        "truyện",
+        "tiểu thuyết",
+        "bài thơ"
+      ],
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:31:01.637Z",
+    "id": "02703b66-8a15-4c43-bca0-9e851db70fbd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:31:01.637Z"
+  },
+  "exampleSentences": [
+    "Em rất thích nghe bà kể truyện trước khi đi ngủ.",
+    "Anh mua một cuốn truyện mới cho cháu vào cuối tuần trước.",
+    "Chị thường đọc truyện để thư giãn sau giờ làm việc căng thẳng."
+  ],
+  "updatedAt": "2026-03-03T09:35:49.446Z",
+  "_id": "uIZQ0WPGUhIdJMVe0Yvu"
+}

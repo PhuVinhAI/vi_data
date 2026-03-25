@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "plan"
+      },
+      "word": "dự",
+      "sentence": "Tôi sẽ ___ kế hoạch cho chuyến đi.",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I will plan for the trip."
+      },
+      "answer": "dự"
+    },
+    "createdAt": "2025-03-12T13:39:21.710Z",
+    "updatedAt": "2025-03-12T13:39:21.710Z",
+    "id": "50ee29aa-8b4c-4359-bfe4-33ae5a10fe47",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "dự = to attend (an event). It’s used for formal or organized events like meetings, ceremonies, classes, competitions.\n\nIt’s a verb and goes directly before the event — no preposition needed.  \n\nIt sounds more formal than just “go.” You use it for official things, not casual hangouts.\n\nClose synonym: tham dự (a bit more formal/complete, but very similar meaning).",
+  "updatedAt": "2026-03-03T10:34:39.601Z",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:39:21.710Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "plan"
+      },
+      "sentence": "Tôi sẽ ___ kế hoạch cho chuyến đi.",
+      "word": "dự",
+      "language": "vi",
+      "choices": [
+        "dự",
+        "dựs",
+        "DỰ"
+      ],
+      "hint": "d___ự",
+      "translation": {
+        "en": "I will plan for the trip."
+      },
+      "answer": "dự"
+    },
+    "updatedAt": "2025-03-12T13:39:21.710Z",
+    "type": "multiChoiceQuiz",
+    "id": "70d02be5-88b3-4b1a-9719-ffa05a918f26",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "notes_md": "**dự** = to attend (an event). It’s used for formal or organized events like meetings, ceremonies, classes, competitions.\n\nIt’s a verb and goes directly before the event — no preposition needed.  \n\nIt sounds more formal than just “go.” You use it for official things, not casual hangouts.\n\nClose synonym: **tham dự** (a bit more formal/complete, but very similar meaning).",
+  "exampleSentencesTranslated": [
+    "I will attend the meeting tomorrow morning with the manager.",
+    "Do you want to attend Lan's birthday party this weekend?",
+    "Next week I will attend the opening ceremony at school with friends."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "predict",
+      "es": "predecir",
+      "vi": "dự"
+    },
+    "createdAt": "2025-01-28T11:18:24.209Z",
+    "example": {
+      "en": "I predict that the weather will be nice this weekend.",
+      "es": "Predigo que el clima será agradable este fin de semana.",
+      "vi": "Tôi dự đoán thời tiết sẽ đẹp vào cuối tuần."
+    },
+    "definitions": {
+      "es": "predecir o anticipar algo",
+      "vi": "dự đoán hoặc dự kiến điều gì đó",
+      "en": "to predict or to anticipate something"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "dự",
+  "rank": 2431,
+  "exampleSentences": [
+    "Anh sẽ dự buổi họp vào sáng mai với trưởng phòng.",
+    "Chị có muốn dự tiệc sinh nhật của Lan vào cuối tuần này không?",
+    "Tuần sau em dự lễ khai giảng ở trường cùng bạn bè."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "attend",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "dự",
+    "dụ",
+    "giữ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "DFGJSejGMocMvp4ohv40"
+}

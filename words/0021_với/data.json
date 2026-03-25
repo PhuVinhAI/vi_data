@@ -1,0 +1,104 @@
+{
+  "word": "với",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:19:20.748Z",
+    "createdAt": "2025-03-12T14:19:20.748Z",
+    "id": "65b2d4d8-b60b-4967-858d-20b7d50d5e56",
+    "content": {
+      "answer": "với",
+      "translatedAnswer": {
+        "en": "with"
+      },
+      "language": "vi",
+      "choices": [
+        "cùng",
+        "với",
+        "đối với"
+      ],
+      "translation": {
+        "en": "I go with her."
+      },
+      "sentence": "Tôi đi ___ bạn ấy.",
+      "word": "với",
+      "hint": "v___"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**với** usually means **“with”** — together with someone or something. It connects two people or things in the same action.\n\nIt comes **before** the noun/pronoun it connects.  \n\nIt can also mean **“and”** when listing things in a more spoken, natural way (cơm với cá).  \n\nMemory tip: if English uses “with,” Vietnamese often uses **với**.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "với usually means “with” — together with someone or something. It connects two people or things in the same action.\n\nIt comes before the noun/pronoun it connects.  \n\nIt can also mean “and” when listing things in a more spoken, natural way (cơm với cá).  \n\nMemory tip: if English uses “with,” Vietnamese often uses với.",
+  "exampleSentencesTranslated": [
+    "He plays ball with me.",
+    "She drinks tea with him.",
+    "I eat rice with my family."
+  ],
+  "updatedAt": "2026-03-03T06:05:07.973Z",
+  "choices": [
+    "cùng",
+    "cho",
+    "với"
+  ],
+  "definition": "with",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:19:20.748Z",
+    "createdAt": "2025-03-12T14:19:20.748Z",
+    "id": "68ce3b74-7ad5-4ca3-b0be-725419c44a4f",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "with"
+      },
+      "answer": "với",
+      "word": "với",
+      "sentence": "Tôi đi ___ bạn ấy.",
+      "translation": {
+        "en": "I go with her."
+      },
+      "choices": [],
+      "language": "vi"
+    }
+  },
+  "sentenceBreakdowns": [
+    "Anh (he) + chơi (plays) + bóng (ball) + với (with) + em (me)",
+    "Chị (she) + uống (drinks) + trà (tea) + với (with) + anh ấy (him)",
+    "Em (I) + ăn (eat) + cơm (rice) + với (with) + gia đình (family)"
+  ],
+  "rank": 21,
+  "exampleSentences": [
+    "Anh chơi bóng với em.",
+    "Chị uống trà với anh ấy.",
+    "Em ăn cơm với gia đình."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đi với bạn.",
+      "es": "Voy contigo.",
+      "en": "I am going with you."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:54:43.193Z",
+    "translations": {
+      "en": "with",
+      "vi": "với",
+      "es": "con"
+    },
+    "definitions": {
+      "vi": "Một giới từ được sử dụng để chỉ sự đồng hành hoặc liên kết.",
+      "es": "Una preposición utilizada para indicar compañía o asociación.",
+      "en": "A preposition used to indicate companionship or association."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Ms0t6wuTTql7efyqNzNL"
+}

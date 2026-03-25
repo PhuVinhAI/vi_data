@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I need to check the data before submitting the report.",
+      "vi": "Tôi cần kiểm tra dữ liệu trước khi gửi báo cáo.",
+      "es": "Necesito verificar los datos antes de enviar el informe."
+    },
+    "translations": {
+      "vi": "dữ liệu",
+      "en": "data",
+      "es": "datos"
+    },
+    "createdAt": "2025-01-28T10:43:48.799Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Thông tin được lưu trữ hoặc xử lý bởi máy tính.",
+      "en": "Information that is stored or processed by a computer.",
+      "es": "Información que se almacena o procesa en una computadora."
+    }
+  },
+  "rank": 862,
+  "definition": "data",
+  "exampleSentences": [
+    "Anh cần kiểm tra lại dữ liệu trước khi gửi báo cáo cho sếp.",
+    "Chị có thể chia sẻ dữ liệu này với nhóm không?",
+    "Em lưu tất cả dữ liệu quan trọng vào máy tính của mình."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "e497acca-eafc-4006-837b-373778c0e0cc",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Họ đã thu thập ___ từ nhiều nguồn.",
+      "answer": "dữ liệu",
+      "translation": {
+        "en": "They have collected data from many sources."
+      },
+      "choices": [
+        "thông tin",
+        "dữ liệu",
+        "tài liệu"
+      ],
+      "word": "dữ liệu",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "data"
+      },
+      "hint": "d___"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T13:00:48.896Z",
+    "updatedAt": "2025-03-12T13:00:48.896Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "dữ liệu",
+  "notes": "dữ liệu = data (raw facts or information, especially for computers, reports, research).\n\nIt’s an uncountable noun, so usually no plural form; you say một lượng dữ liệu, bộ dữ liệu, nguồn dữ liệu when you need to specify amount or type.  \nVery common with verbs like thu thập (collect), xử lý (process), phân tích (analyze), lưu trữ (store), nhập (input).  \nOften used in tech, business, research, and with phrases like dữ liệu cá nhân (personal data).  \nClose to thông tin (information), but dữ liệu feels more technical and raw.",
+  "choices": [
+    "dữ liệu",
+    "kết quả",
+    "bài tập"
+  ],
+  "notes_md": "**dữ liệu** = data (raw facts or information, especially for computers, reports, research).\n\nIt’s an uncountable noun, so usually no plural form; you say *một lượng dữ liệu*, *bộ dữ liệu*, *nguồn dữ liệu* when you need to specify amount or type.  \nVery common with verbs like *thu thập* (collect), *xử lý* (process), *phân tích* (analyze), *lưu trữ* (store), *nhập* (input).  \nOften used in tech, business, research, and with phrases like *dữ liệu cá nhân* (personal data).  \nClose to **thông tin** (information), but *dữ liệu* feels more technical and raw.",
+  "exampleSentencesTranslated": [
+    "I need to check the data before sending the report to my boss.",
+    "Can you share this data with the team?",
+    "I save all important data on my computer."
+  ],
+  "updatedAt": "2026-03-03T07:48:19.383Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:00:48.896Z",
+    "updatedAt": "2025-03-12T13:00:48.896Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "89d6cd37-6f17-4613-b482-f1baf3db509f",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "dữ liệu",
+      "sentence": "Chúng ta cần kiểm tra ___ này.",
+      "word": "dữ liệu",
+      "translatedAnswer": {
+        "en": "data"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We need to check this data."
+      },
+      "choices": []
+    }
+  },
+  "_id": "3A6jLxa04rGMcZtQR5tB"
+}

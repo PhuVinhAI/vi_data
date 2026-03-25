@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "en": "We need to emphasize cooperation within the team.",
+      "es": "Necesitamos enfatizar la cooperación dentro del equipo.",
+      "vi": "Chúng ta cần đề cao sự hợp tác trong nhóm."
+    },
+    "translations": {
+      "en": "to emphasize",
+      "es": "enfatizar",
+      "vi": "đề cao"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "To emphasize or highlight something.",
+      "es": "Enfatizar o resaltar algo.",
+      "vi": "Nhấn mạnh hoặc làm nổi bật điều gì đó."
+    },
+    "createdAt": "2025-01-28T12:40:58.403Z"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:08:05.515Z",
+    "updatedAt": "2025-03-12T15:08:05.515Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "emphasize"
+      },
+      "translation": {
+        "en": "We need to emphasize health."
+      },
+      "sentence": "Chúng ta cần ___ sức khỏe.",
+      "language": "vi",
+      "word": "đề cao",
+      "answer": "đề cao"
+    },
+    "id": "1d814e25-cf62-4ff2-9e7b-37b180c3e5d5"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T18:00:06.138Z",
+  "exampleSentencesTranslated": [
+    "The company always tries to emphasize teamwork among employees.",
+    "The teacher often tries to emphasize the importance of learning foreign languages.",
+    "Her parents always try to emphasize honesty in the family."
+  ],
+  "definition": "to emphasize",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Đề cao** means *to emphasize* or *to highly value* something. It’s about giving something importance or respect in words or attitude.\n\nIt’s a verb, usually followed by a noun: values, qualities, attitudes, principles (like teamwork, honesty, responsibility). It often appears in formal or serious contexts — school, work, family values.\n\n\nClose to **nhấn mạnh** (emphasize) and **coi trọng** (value). Opposite idea: **xem nhẹ** (to downplay, take lightly).",
+  "rank": 2814,
+  "choices": [
+    "đề cao",
+    "giảm giá",
+    "thay đổi"
+  ],
+  "notes": "Đề cao means to emphasize or to highly value something. It’s about giving something importance or respect in words or attitude.\n\nIt’s a verb, usually followed by a noun: values, qualities, attitudes, principles (like teamwork, honesty, responsibility). It often appears in formal or serious contexts — school, work, family values.\n\nClose to nhấn mạnh (emphasize) and coi trọng (value). Opposite idea: xem nhẹ (to downplay, take lightly).",
+  "exampleSentences": [
+    "Công ty luôn đề cao tinh thần làm việc nhóm giữa các nhân viên.",
+    "Thầy giáo thường đề cao tầm quan trọng của việc học ngoại ngữ.",
+    "Ba mẹ chị ấy thường đề cao sự trung thực trong gia đình."
+  ],
+  "word": "đề cao",
+  "multiChoiceQuiz": {
+    "id": "e23bac82-760a-427b-9fe0-739de382a175",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:08:05.515Z",
+    "updatedAt": "2025-03-12T15:08:05.515Z",
+    "content": {
+      "sentence": "Chúng ta cần ___ sức khỏe.",
+      "hint": "đ___ cao",
+      "answer": "đề cao",
+      "language": "vi",
+      "word": "đề cao",
+      "translatedAnswer": {
+        "en": "emphasize"
+      },
+      "choices": [
+        "đề cao",
+        "giảm nhẹ",
+        "bỏ qua"
+      ],
+      "translation": {
+        "en": "We need to emphasize health."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "Z4rpBrHUo5dOKFhwBOXH"
+}

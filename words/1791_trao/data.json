@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:14:18.155Z",
+    "id": "26925d3e-7d7f-41c6-ad25-9037067ae89f",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:14:18.155Z",
+    "content": {
+      "answer": "trao",
+      "translation": {
+        "en": "I will give this gift to you."
+      },
+      "translatedAnswer": {
+        "en": "give"
+      },
+      "word": "trao",
+      "sentence": "Tôi sẽ ___ món quà này cho bạn.",
+      "language": "vi",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I will give this gift to you on your birthday.",
+    "The teacher will give the award to the best student in the class.",
+    "Parents always give valuable advice to their children."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "give",
+      "es": "dar",
+      "vi": "trao"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:55:12.869Z",
+    "definitions": {
+      "en": "to give or hand over something to someone",
+      "vi": "đưa hoặc chuyển giao một cái gì đó cho ai đó",
+      "es": "dar o entregar algo a alguien"
+    },
+    "example": {
+      "en": "I will give a gift to you.",
+      "vi": "Tôi sẽ trao quà cho bạn.",
+      "es": "Voy a darte un regalo."
+    }
+  },
+  "definition": "give",
+  "notes": "trao = to give or hand something to someone, often in a slightly formal or serious way. It’s used when you officially present, award, or pass something.\n\nYou’ll often see it with things like giải thưởng (award), quyền lực (power), nhiệm vụ (task), cơ hội (opportunity). It feels more formal than cho (neutral “give”) and less emotional than tặng (give as a gift).\n\nVery common in fixed phrases like trao đổi = exchange (ideas, information).",
+  "updatedAt": "2026-03-03T09:27:40.593Z",
+  "exampleSentences": [
+    "Anh sẽ trao món quà này cho em vào ngày sinh nhật.",
+    "Cô giáo trao phần thưởng cho học sinh xuất sắc nhất lớp.",
+    "Bố mẹ luôn trao lời khuyên quý giá cho con cái của mình."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:14:18.155Z",
+    "type": "multiChoiceQuiz",
+    "id": "00f56b8b-b80d-4c81-8958-494b03d694a6",
+    "content": {
+      "hint": "t___",
+      "answer": "trao",
+      "translatedAnswer": {
+        "en": "share"
+      },
+      "translation": {
+        "en": "I want to share my experience."
+      },
+      "sentence": "Tôi muốn ___ lại kinh nghiệm của mình.",
+      "language": "vi",
+      "word": "trao",
+      "choices": [
+        "tặng",
+        "trao",
+        "cho"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:14:18.155Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**trao** = to give or hand something to someone, often in a slightly formal or serious way. It’s used when you officially present, award, or pass something.\n\nYou’ll often see it with things like **giải thưởng** (award), **quyền lực** (power), **nhiệm vụ** (task), **cơ hội** (opportunity). It feels more formal than **cho** (neutral “give”) and less emotional than **tặng** (give as a gift).\n\n\nVery common in fixed phrases like **trao đổi** = exchange (ideas, information).",
+  "rank": 1791,
+  "choices": [
+    "trao",
+    "giữ",
+    "nhận"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "trao",
+  "_id": "6gpnyudbYOXBeIe6RmPC"
+}

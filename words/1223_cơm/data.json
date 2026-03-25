@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I eat rice every day."
+      },
+      "choices": [],
+      "word": "cơm",
+      "translatedAnswer": {
+        "en": "rice"
+      },
+      "language": "vi",
+      "sentence": "Tôi ăn ___ mỗi ngày.",
+      "answer": "cơm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "985054c5-b252-4033-9fab-3dcf19adb02d",
+    "createdAt": "2025-03-12T13:00:23.434Z",
+    "updatedAt": "2025-03-12T13:00:23.434Z"
+  },
+  "updatedAt": "2026-03-03T08:26:20.176Z",
+  "exampleSentencesTranslated": [
+    "I ate rice with chicken for lunch today.",
+    "Do you want more rice when eating at the restaurant?",
+    "Mom usually cooks rice for the whole family every evening."
+  ],
+  "notes_md": "**cơm** = cooked rice. It also often means a whole meal (since rice is the base of the meal).\n\nCount with **bát cơm** (bowl of rice), **đĩa cơm** (plate of rice). Don’t confuse with **gạo** = uncooked/raw rice.\n\nVery common in set phrases: **ăn cơm** = have a meal (not just eat rice).",
+  "word": "cơm",
+  "choices": [
+    "cháo",
+    "phở",
+    "cơm"
+  ],
+  "notes": "cơm = cooked rice. It also often means a whole meal (since rice is the base of the meal).\n\nCount with bát cơm (bowl of rice), đĩa cơm (plate of rice). Don’t confuse with gạo = uncooked/raw rice.\n\nVery common in set phrases: ăn cơm = have a meal (not just eat rice).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentences": [
+    "Em ăn cơm với thịt gà vào buổi trưa nay.",
+    "Anh có muốn thêm cơm khi đi ăn nhà hàng không?",
+    "Mẹ thường nấu cơm cho cả gia đình mỗi tối."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T13:00:23.434Z",
+    "updatedAt": "2025-03-12T13:00:23.434Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c__m",
+      "word": "cơm",
+      "translatedAnswer": {
+        "en": "rice"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "Does this dish have rice?"
+      },
+      "choices": [
+        "bánh",
+        "cơm",
+        "thịt"
+      ],
+      "answer": "cơm",
+      "sentence": "Món ăn này có ___ không?"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "8b0b41f4-4f7a-415c-8ddb-46d21d6f5608"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Me gusta comer arroz con pescado.",
+      "vi": "Tôi thích ăn cơm với cá.",
+      "en": "I like to eat rice with fish."
+    },
+    "translations": {
+      "es": "arroz",
+      "en": "rice",
+      "vi": "cơm"
+    },
+    "createdAt": "2025-01-28T10:43:26.229Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Un alimento básico hecho de granos cocidos, típicamente arroz.",
+      "vi": "Một loại thực phẩm chính làm từ hạt đã nấu chín, thường là gạo.",
+      "en": "A staple food made from cooked grains, typically rice."
+    }
+  },
+  "rank": 1223,
+  "definition": "rice",
+  "_id": "2zx6jKwTkGPXUTUffpRD"
+}

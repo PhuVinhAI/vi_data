@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "example": {
+      "es": "Pertenezco a la familia Nguyen.",
+      "en": "I belong to the Nguyen clan.",
+      "vi": "Tôi thuộc tông họ Nguyễn."
+    },
+    "translations": {
+      "es": "clan",
+      "en": "clan",
+      "vi": "tông"
+    },
+    "createdAt": "2025-01-28T10:33:45.694Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một dòng họ hoặc tộc, thường chỉ một nhóm gia đình.",
+      "en": "A clan or lineage, often referring to a family group.",
+      "es": "Un clan o linaje, a menudo refiriéndose a un grupo familiar."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2706,
+  "definition": "color tone",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị thích chọn quần áo có cùng tông để nhìn hài hòa hơn.",
+    "Em thấy phòng khách này dùng tông sáng nên rất dễ chịu.",
+    "Anh muốn sơn phòng ngủ với tông xanh để cảm thấy thư giãn."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "780f15c3-47ac-4927-b006-f1629428514f",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "tông",
+      "sentence": "Gia đình tôi có ___ riêng.",
+      "translatedAnswer": {
+        "en": "lineage"
+      },
+      "language": "vi",
+      "word": "tông",
+      "hint": "t__g",
+      "translation": {
+        "en": "My family has its own lineage."
+      },
+      "choices": [
+        "tông",
+        "họ",
+        "ngành"
+      ]
+    },
+    "createdAt": "2025-03-12T12:48:22.031Z",
+    "updatedAt": "2025-03-12T12:48:22.031Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tông",
+  "choices": [
+    "tông",
+    "bàn",
+    "ghế"
+  ],
+  "notes": "tông = tone, shade, overall color feeling. It’s about the general color vibe, not one exact color.\n\nIt’s a noun. You’ll usually hear tông màu (color tone), and phrases like cùng tông (matching tones), lệch tông (clashing), tông sáng / tông trầm (light / dark tone). No classifier needed in normal use.\n\nIt can also mean musical key in music (tông cao, tông thấp), but in daily life it’s most often about colors and design.\n\nStrong memory link: think “tone” in English — same idea, just Vietnamese spelling.",
+  "notes_md": "**tông** = tone, shade, overall color feeling. It’s about the general color vibe, not one exact color.\n\nIt’s a noun. You’ll usually hear **tông màu** (color tone), and phrases like **cùng tông** (matching tones), **lệch tông** (clashing), **tông sáng / tông trầm** (light / dark tone). No classifier needed in normal use.\n\nIt can also mean **musical key** in music (tông cao, tông thấp), but in daily life it’s most often about colors and design.\n\nStrong memory link: think “tone” in English — same idea, just Vietnamese spelling.",
+  "exampleSentencesTranslated": [
+    "She likes to choose clothes with the same color tone to look more harmonious.",
+    "I think this living room uses a light color tone so it's very comfortable.",
+    "He wants to paint the bedroom with a blue color tone to feel relaxed."
+  ],
+  "updatedAt": "2026-03-03T11:38:04.914Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:48:22.031Z",
+    "updatedAt": "2025-03-12T12:48:22.031Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "c259c4e2-c7ad-4b08-8079-ceae52884907",
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "tông",
+      "translatedAnswer": {
+        "en": "lineage"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "My family has its own lineage."
+      },
+      "choices": [],
+      "answer": "tông",
+      "sentence": "Gia đình tôi có ___ riêng."
+    }
+  },
+  "_id": "0FbE3jBXXqUV4UOKUUom"
+}

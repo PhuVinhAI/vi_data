@@ -1,0 +1,101 @@
+{
+  "updatedAt": "2026-03-03T06:08:21.657Z",
+  "exampleSentences": [
+    "Anh ấy mua mọi cuốn sách.",
+    "Chị ấy nấu mọi món ăn.",
+    "Em dọn mọi đồ chơi."
+  ],
+  "notes": "mọi means every or all in a general sense. It talks about the whole group, not just some.\n\nIt goes before a noun and usually doesn’t need a classifier.  \n\nVery common pairings: mọi người (everyone), mọi thứ (everything), mọi ngày (every day), mọi lúc (at all times).  \n\nIt’s close to tất cả, but mọi comes directly before the noun, while tất cả often needs extra structure (like tất cả các...).",
+  "definition": "every",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:29:43.014Z",
+    "translations": {
+      "en": "every; all"
+    },
+    "example": {
+      "en": "Everyone likes to eat ice cream in the summer.",
+      "vi": "Mọi người đều thích ăn kem vào mùa hè."
+    },
+    "definitions": {
+      "en": "A word used to refer to all individuals or things in a group or category.",
+      "vi": "Từ dùng để chỉ tất cả các đối tượng trong một nhóm hoặc phạm vi."
+    },
+    "word": "mọi"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:26:59.905Z",
+    "id": "d166cc2d-3773-465d-b3fb-812dbfe96b44",
+    "content": {
+      "answer": "mọi",
+      "translatedAnswer": {
+        "en": "every"
+      },
+      "translation": {
+        "en": "I love every bit of this."
+      },
+      "language": "vi",
+      "sentence": "Tôi yêu ___ điều này.",
+      "word": "mọi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:26:59.905Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "He buys every book.",
+    "She cooks every dish.",
+    "I clean every toy."
+  ],
+  "word": "mọi",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**mọi** means **every** or **all** in a general sense. It talks about the whole group, not just some.\n\nIt goes **before a noun** and usually doesn’t need a classifier.  \n\nVery common pairings: **mọi người** (everyone), **mọi thứ** (everything), **mọi ngày** (every day), **mọi lúc** (at all times).  \n\nIt’s close to **tất cả**, but *mọi* comes directly before the noun, while *tất cả* often needs extra structure (like *tất cả các...*).",
+  "sentenceBreakdowns": [
+    "Anh ấy (he) + mua (buys) + mọi (every) + cuốn sách (book)",
+    "Chị ấy (she) + nấu (cooks) + mọi (every) + món ăn (dish)",
+    "Em (I) + dọn (clean) + mọi (every) + đồ chơi (toy)"
+  ],
+  "choices": [
+    "mỗi",
+    "mời",
+    "mọi"
+  ],
+  "rank": 52,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:26:59.905Z",
+    "id": "6003a160-0337-4f52-a5a1-ff5b5c1a1d81",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:26:59.905Z",
+    "content": {
+      "choices": [
+        "mỗi",
+        "tất cả",
+        "mọi"
+      ],
+      "sentence": "Anh ấy thích ___ món ăn.",
+      "language": "vi",
+      "word": "mọi",
+      "translatedAnswer": {
+        "en": "every"
+      },
+      "translation": {
+        "en": "He likes every dish."
+      },
+      "answer": "mọi",
+      "hint": "m___"
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "_id": "eHHpAkgUtQ0JZgbHVR0r"
+}

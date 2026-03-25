@@ -1,0 +1,99 @@
+{
+  "word": "hỏng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**hỏng** = broken, not working properly. You use it for machines, devices, vehicles, things that stop functioning.\n\nIt describes the condition of something, often with **bị** in front: *bị hỏng* (passive feeling).  \n\nIt can also mean “spoiled” for food, or “ruined” for plans/situations.  \nClose synonym: **hư** (very common in the South).  \nCompare with **vỡ** = physically cracked/shattered (like glass), not just “not working.”",
+  "rank": 2016,
+  "choices": [
+    "mới",
+    "hỏng",
+    "sạch"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:23:58.390Z",
+    "content": {
+      "translation": {
+        "en": "This car is broken now."
+      },
+      "translatedAnswer": {
+        "en": "broken"
+      },
+      "answer": "hỏng",
+      "hint": "h___",
+      "choices": [
+        "mới",
+        "hỏng",
+        "cũ"
+      ],
+      "word": "hỏng",
+      "sentence": "Chiếc xe này bị ___ rồi.",
+      "language": "vi"
+    },
+    "id": "cbe1ebc0-731b-4033-92c0-791f9e745e91",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:23:58.390Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:51:27.578Z",
+  "exampleSentences": [
+    "Chiếc điện thoại của anh bị hỏng nên anh không thể gọi được.",
+    "Máy giặt nhà em bị hỏng nên em phải giặt quần áo bằng tay.",
+    "Nếu xe đạp của chị bị hỏng, chị muốn sửa nó ở đâu?"
+  ],
+  "notes": "hỏng = broken, not working properly. You use it for machines, devices, vehicles, things that stop functioning.\n\nIt describes the condition of something, often with bị in front: bị hỏng (passive feeling).  \n\nIt can also mean “spoiled” for food, or “ruined” for plans/situations.  \nClose synonym: hư (very common in the South).  \nCompare with vỡ = physically cracked/shattered (like glass), not just “not working.”",
+  "flashcard": {
+    "definitions": {
+      "es": "Dañado o que no funciona correctamente.",
+      "vi": "Bị hư hỏng hoặc không hoạt động đúng cách.",
+      "en": "Damaged or not functioning properly."
+    },
+    "example": {
+      "es": "Mi teléfono está roto.",
+      "vi": "Chiếc điện thoại của tôi bị hỏng.",
+      "en": "My phone is broken."
+    },
+    "translations": {
+      "en": "broken",
+      "es": "roto",
+      "vi": "hỏng"
+    },
+    "createdAt": "2025-01-28T12:58:44.466Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "broken",
+  "exampleSentencesTranslated": [
+    "My phone is broken so I can't make a call.",
+    "My washing machine is broken so I have to wash clothes by hand.",
+    "If your bicycle is broken, where do you want to fix it?"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:23:58.390Z",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:23:58.390Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "sentence": "Chiếc điện thoại này đã ___.",
+      "language": "vi",
+      "word": "hỏng",
+      "translatedAnswer": {
+        "en": "broken"
+      },
+      "translation": {
+        "en": "This phone is broken."
+      },
+      "answer": "hỏng"
+    },
+    "id": "b7fc83d5-1a47-4d28-a49d-387e4dae173a"
+  },
+  "_id": "dSXv4PukGA7OqN8ZhJIl"
+}

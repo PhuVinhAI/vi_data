@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "wave",
+      "vi": "sóng",
+      "es": "ola"
+    },
+    "definitions": {
+      "vi": "Sóng là một sự rối loạn di chuyển qua không gian và vật chất, chuyển giao năng lượng từ nơi này sang nơi khác.",
+      "es": "Una ola es una perturbación que viaja a través del espacio y la materia, transfiriendo energía de un lugar a otro.",
+      "en": "A wave is a disturbance that travels through space and matter, transferring energy from one place to another."
+    },
+    "createdAt": "2025-01-28T11:59:27.887Z",
+    "example": {
+      "en": "The sea waves are very big today.",
+      "vi": "Sóng biển rất lớn hôm nay.",
+      "es": "Las olas del mar son muy grandes hoy."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh thích ngắm sóng biển vào mỗi buổi sáng sớm.",
+    "Khi trời gió lớn, sóng trên hồ trở nên mạnh hơn.",
+    "Em nghe thấy tiếng sóng vỗ vào bờ rất dễ chịu."
+  ],
+  "rank": 1619,
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:23:44.437Z",
+    "createdAt": "2025-03-12T14:23:44.437Z",
+    "id": "d771032e-056c-404d-adeb-7afc13785def",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "sóng",
+      "sentence": "Biển có ___ lớn vào mùa hè.",
+      "translation": {
+        "en": "The sea has big waves in summer."
+      },
+      "choices": [],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "waves"
+      },
+      "answer": "sóng"
+    }
+  },
+  "definition": "wave",
+  "choices": [
+    "sóng",
+    "biển",
+    "gió"
+  ],
+  "updatedAt": "2026-03-03T09:09:16.047Z",
+  "exampleSentencesTranslated": [
+    "I like watching the wave at the beach every early morning.",
+    "When it is windy, the wave on the lake becomes stronger.",
+    "I hear the sound of the wave hitting the shore and it is very pleasant."
+  ],
+  "notes": "Sóng means wave, usually water moving on the sea, river, or lake.  \n\nIt’s a noun. For physical waves, you often hear con sóng; for a more abstract “wave” (trend/movement), use làn sóng.  \n\nIt also means signal, like sóng điện thoại or sóng wifi (radio waves).  \n\nCommon pairings: sóng biển (sea waves), sóng gió (literally waves and wind, often meaning trouble or hardship), làn sóng mới (a new wave/trend).  \n\nClose memory link: làn sóng = wave of something (like a trend), not just water.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Sóng** means *wave*, usually water moving on the sea, river, or lake.  \n\nIt’s a noun. For physical waves, you often hear **con sóng**; for a more abstract “wave” (trend/movement), use **làn sóng**.  \n\nIt also means *signal*, like **sóng điện thoại** or **sóng wifi** (radio waves).  \n\nCommon pairings: **sóng biển** (sea waves), **sóng gió** (literally waves and wind, often meaning trouble or hardship), **làn sóng mới** (a new wave/trend).  \n\nClose memory link: **làn sóng** = wave of something (like a trend), not just water.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:23:44.437Z",
+    "createdAt": "2025-03-12T14:23:44.437Z",
+    "id": "36cff5ea-2ff1-4a12-82cf-57d2ebdea7bf",
+    "content": {
+      "answer": "sóng",
+      "translatedAnswer": {
+        "en": "waves"
+      },
+      "language": "vi",
+      "choices": [
+        "gió",
+        "sóng",
+        "mây"
+      ],
+      "translation": {
+        "en": "The sea has big waves in summer."
+      },
+      "sentence": "Biển có ___ lớn vào mùa hè.",
+      "hint": "s___g",
+      "word": "sóng"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "sóng",
+  "_id": "NqUoeAayjxZl9QN9t7m0"
+}

@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "es": "Difundir rumores o chismes.",
+      "vi": "Lan truyền tin đồn hoặc chuyện phiếm.",
+      "en": "To spread rumors or gossip."
+    },
+    "createdAt": "2025-01-28T12:15:07.900Z",
+    "example": {
+      "vi": "Họ đồn rằng sẽ có một bữa tiệc lớn vào cuối tuần.",
+      "en": "They say that there will be a big party this weekend.",
+      "es": "Dicen que habrá una gran fiesta este fin de semana."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "rumor",
+      "vi": "đồn",
+      "es": "rumor"
+    }
+  },
+  "exampleSentences": [
+    "Anh vừa đến đồn để báo mất ví của mình.",
+    "Chị có thể dẫn em đến đồn gần nhất được không?",
+    "Bạn em làm việc tại một đồn trong thành phố."
+  ],
+  "notes_md": "**đồn** usually means a police station, often short for **đồn công an**. It’s a noun.\n\nYou can say **một đồn (công an)**; no classifier needed. Common pairings: **đồn công an** (police station), **đồn biên phòng** (border post), **bị đưa về đồn**, **lên đồn**.\n\nVery common second meaning: **đồn** (verb) = to spread a rumor. From this you get **lời đồn** (a rumor).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "06aac6a0-5ac0-49ac-8722-4e732a14ce20",
+    "createdAt": "2025-03-12T14:39:44.823Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I heard a rumor about that story."
+      },
+      "answer": "đồn",
+      "choices": [],
+      "word": "đồn",
+      "translatedAnswer": {
+        "en": "rumor"
+      },
+      "language": "vi",
+      "sentence": "Tôi nghe ___ về câu chuyện đó."
+    },
+    "updatedAt": "2025-03-12T14:39:44.823Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "police station",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 2758,
+  "exampleSentencesTranslated": [
+    "I just went to the police station to report my lost wallet.",
+    "Can you take me to the nearest police station?",
+    "My friend works at a police station in the city."
+  ],
+  "word": "đồn",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:39:44.823Z",
+    "id": "9ab4d121-d8c5-468e-822d-aeb3bffc958d",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "d___",
+      "translation": {
+        "en": "The locals here often spread many rumors."
+      },
+      "answer": "đồn",
+      "word": "đồn",
+      "choices": [
+        "đồn",
+        "tin",
+        "chuyện"
+      ],
+      "translatedAnswer": {
+        "en": "rumor"
+      },
+      "language": "vi",
+      "sentence": "Người dân ở đây thường ___ nhiều chuyện."
+    },
+    "updatedAt": "2025-03-12T14:39:44.823Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T12:07:25.938Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "đồn",
+    "bến",
+    "cửa"
+  ],
+  "notes": "đồn usually means a police station, often short for đồn công an. It’s a noun.\n\nYou can say một đồn (công an); no classifier needed. Common pairings: đồn công an (police station), đồn biên phòng (border post), bị đưa về đồn, lên đồn.\n\nVery common second meaning: đồn (verb) = to spread a rumor. From this you get lời đồn (a rumor).",
+  "_id": "RsguhXpB1LbHeEg3cqzn"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Tiếp thu** means to absorb or take in knowledge, ideas, or information. It’s about how well you mentally “receive” and understand something.\n\nIt’s a verb, usually used with things like kiến thức (knowledge), ý kiến (opinions), thông tin (information), kinh nghiệm (experience).  \n\nIt can also mean physically absorb (like light or nutrients), but that’s less common in daily use.  \nClose synonym: **hấp thụ** (more physical, scientific); **học hỏi** feels more active—like you’re actively seeking to learn.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "tiếp thu",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "t___u",
+      "word": "tiếp thu",
+      "sentence": "Học sinh cần ___ kiến thức mới.",
+      "translation": {
+        "en": "Students need to absorb new knowledge."
+      },
+      "language": "vi",
+      "choices": [
+        "tiếp thu",
+        "học hỏi",
+        "tiến bộ"
+      ],
+      "translatedAnswer": {
+        "en": "absorb"
+      },
+      "answer": "tiếp thu"
+    },
+    "id": "02d368ea-26b1-4720-97e0-36d4dbb44016",
+    "createdAt": "2025-03-12T14:19:38.576Z",
+    "updatedAt": "2025-03-12T14:19:38.576Z"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "absorb"
+      },
+      "answer": "tiếp thu",
+      "word": "tiếp thu",
+      "sentence": "Học sinh cần ___ kiến thức mới.",
+      "translation": {
+        "en": "Students need to absorb new knowledge."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "id": "baea3147-8af9-4afd-a674-e997eae66e1e",
+    "createdAt": "2025-03-12T14:19:38.576Z",
+    "updatedAt": "2025-03-12T14:19:38.576Z"
+  },
+  "definition": "absorb (knowledge or information)",
+  "updatedAt": "2026-03-03T11:27:23.427Z",
+  "choices": [
+    "tiếp thu",
+    "tham gia",
+    "giới thiệu"
+  ],
+  "exampleSentencesTranslated": [
+    "She always tries to absorb from her colleagues at work.",
+    "I feel I absorb very quickly when learning English with the new teacher.",
+    "He has to absorb a lot of new knowledge to complete this project."
+  ],
+  "notes": "Tiếp thu means to absorb or take in knowledge, ideas, or information. It’s about how well you mentally “receive” and understand something.\n\nIt’s a verb, usually used with things like kiến thức (knowledge), ý kiến (opinions), thông tin (information), kinh nghiệm (experience).  \n\nIt can also mean physically absorb (like light or nutrients), but that’s less common in daily use.  \nClose synonym: hấp thụ (more physical, scientific); học hỏi feels more active—like you’re actively seeking to learn.",
+  "rank": 2601,
+  "flashcard": {
+    "createdAt": "2025-01-28T11:55:58.864Z",
+    "definitions": {
+      "es": "Absorber o asimilar información o conocimiento.",
+      "vi": "Tiếp nhận hoặc hấp thụ thông tin hoặc kiến thức.",
+      "en": "To absorb or take in information or knowledge."
+    },
+    "translations": {
+      "en": "absorb",
+      "es": "asimilar",
+      "vi": "tiếp thu"
+    },
+    "example": {
+      "es": "Los estudiantes necesitan asimilar nuevos conocimientos rápidamente.",
+      "vi": "Học sinh cần tiếp thu kiến thức mới một cách nhanh chóng.",
+      "en": "Students need to absorb new knowledge quickly."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị luôn cố gắng tiếp thu ý kiến của đồng nghiệp trong công việc.",
+    "Em thấy mình tiếp thu rất nhanh khi học tiếng Anh với giáo viên mới.",
+    "Anh phải tiếp thu nhiều kiến thức mới để hoàn thành dự án này."
+  ],
+  "_id": "N2PAYJQ1E8qMxJuHx1l9"
+}

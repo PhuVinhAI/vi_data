@@ -1,0 +1,99 @@
+{
+  "rank": 2454,
+  "exampleSentences": [
+    "Em nhìn thấy con mèo nhỏ dễ thương kìa, nó đang chơi trên cỏ.",
+    "Anh ơi, cái bánh sinh nhật kìa, mọi người đang chuẩn bị bất ngờ cho em.",
+    "Chị xem kìa, trời đang có cầu vồng rất đẹp sau cơn mưa."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "There is a beautiful house over there.",
+      "es": "Allí hay una casa hermosa.",
+      "vi": "Kìa là một ngôi nhà đẹp."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:52:59.858Z",
+    "definitions": {
+      "vi": "Dùng để chỉ một cái gì đó ở xa.",
+      "es": "Se utiliza para indicar algo que está a distancia.",
+      "en": "Used to indicate something that is at a distance."
+    },
+    "translations": {
+      "en": "there",
+      "vi": "kìa",
+      "es": "allí"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "over there"
+      },
+      "answer": "kìa",
+      "translation": {
+        "en": "That is over there."
+      },
+      "choices": [
+        "đó",
+        "kìa",
+        "đằng kia"
+      ],
+      "language": "vi",
+      "hint": "k___",
+      "word": "kìa",
+      "sentence": "Cái đó ___ ở kia."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "9c88016e-3090-45fc-9d22-1c48a038ae66",
+    "createdAt": "2025-03-12T14:16:13.750Z",
+    "updatedAt": "2025-03-12T14:16:13.750Z"
+  },
+  "word": "kìa",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**kìa** means “over there!” and is used to point something out that you and the listener can see. It often has a slightly excited or attention‑calling feeling, like “hey, look!”\n\nIt usually comes at the end of a noun phrase to show distance and draw attention.  \n\nIt’s stronger and more expressive than **kia**, which also means “that over there” but sounds more neutral. Think of **kìa** as pointing with your finger and raising your voice a bit.",
+  "choices": [
+    "khi",
+    "kìa",
+    "kia"
+  ],
+  "updatedAt": "2026-03-03T10:37:14.246Z",
+  "exampleSentencesTranslated": [
+    "Look, the cute little cat is over there, playing on the grass.",
+    "Hey, the birthday cake is over there, everyone is preparing a surprise for you.",
+    "Look over there, there is a beautiful rainbow after the rain."
+  ],
+  "notes": "kìa means “over there!” and is used to point something out that you and the listener can see. It often has a slightly excited or attention‑calling feeling, like “hey, look!”\n\nIt usually comes at the end of a noun phrase to show distance and draw attention.  \n\nIt’s stronger and more expressive than kia, which also means “that over there” but sounds more neutral. Think of kìa as pointing with your finger and raising your voice a bit.",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "kìa",
+      "translatedAnswer": {
+        "en": "over there"
+      },
+      "sentence": "Cái đó ___ ở kia.",
+      "word": "kìa",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "That is over there."
+      }
+    },
+    "id": "c3f0cbe0-148a-4d18-a5a9-e0e8b813e69b",
+    "createdAt": "2025-03-12T14:16:13.750Z",
+    "updatedAt": "2025-03-12T14:16:13.750Z"
+  },
+  "definition": "over there",
+  "_id": "MH4dAzvioByqoE7UGPgB"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I will monitor the progress of the project.",
+      "es": "Voy a seguir el progreso del proyecto.",
+      "vi": "Tôi sẽ theo dõi tiến trình của dự án."
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Observar o hacer un seguimiento de algo a lo largo del tiempo.",
+      "vi": "Quan sát hoặc theo dõi một cái gì đó theo thời gian.",
+      "en": "To observe or keep track of something over time."
+    },
+    "translations": {
+      "vi": "theo dõi",
+      "es": "seguir",
+      "en": "monitor"
+    },
+    "createdAt": "2025-01-28T11:57:09.940Z"
+  },
+  "exampleSentences": [
+    "Bác sĩ sẽ theo dõi sức khỏe của em trong vài ngày tới.",
+    "Chị thường xuyên theo dõi tin tức trên điện thoại mỗi sáng.",
+    "Anh ấy dùng ứng dụng để theo dõi tiến trình học tiếng Anh của mình."
+  ],
+  "rank": 782,
+  "definition": "monitor",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "theo dõi",
+      "translatedAnswer": {
+        "en": "follow"
+      },
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I need to follow the news daily."
+      },
+      "sentence": "Tôi cần ___ tin tức hàng ngày.",
+      "word": "theo dõi"
+    },
+    "type": "fillBlankQuiz",
+    "id": "d65cc9df-2733-4453-b9f7-9127b28e8f5a",
+    "createdAt": "2025-03-12T14:21:00.550Z",
+    "updatedAt": "2025-03-12T14:21:00.550Z"
+  },
+  "notes": "Theo dõi = to monitor, to keep track of something over time. It means watching or observing something regularly to see changes or progress.\n\nIt’s a verb, followed directly by an object: health, news, someone’s activities, progress, a situation. It often implies ongoing attention, not just one quick look.\n\nClose synonym: giám sát (more formal, like “supervise” or “oversee”).",
+  "exampleSentencesTranslated": [
+    "The doctor will monitor your health for the next few days.",
+    "She often monitors the news on her phone every morning.",
+    "He uses an app to monitor his English learning progress."
+  ],
+  "choices": [
+    "theo dõi",
+    "thảo luận",
+    "thực hiện"
+  ],
+  "updatedAt": "2026-03-03T07:40:01.616Z",
+  "notes_md": "**Theo dõi** = to monitor, to keep track of something over time. It means watching or observing something regularly to see changes or progress.\n\nIt’s a verb, followed directly by an object: health, news, someone’s activities, progress, a situation. It often implies ongoing attention, not just one quick look.\n\n\nClose synonym: **giám sát** (more formal, like “supervise” or “oversee”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "theo dõi",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:21:00.550Z",
+    "updatedAt": "2025-03-12T14:21:00.550Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "follow"
+      },
+      "answer": "theo dõi",
+      "translation": {
+        "en": "Do you follow my plan?"
+      },
+      "choices": [
+        "nhận xét",
+        "theo dõi",
+        "hủy bỏ"
+      ],
+      "language": "vi",
+      "hint": "t___i",
+      "word": "theo dõi",
+      "sentence": "Bạn có ___ kế hoạch của tôi không?"
+    },
+    "id": "8e9a42f8-de06-4d04-83bd-81506c62a2e4"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "NGCylGvaDDJdAWdJFjPe"
+}

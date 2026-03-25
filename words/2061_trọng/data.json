@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "definitions": {
+      "en": "Important or significant; to value highly.",
+      "es": "Importante o significativo; valorar altamente.",
+      "vi": "Quan trọng hoặc có ý nghĩa; đánh giá cao."
+    },
+    "createdAt": "2025-01-28T12:48:55.549Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "important",
+      "es": "importante",
+      "vi": "trọng"
+    },
+    "example": {
+      "en": "He values honor very much.",
+      "es": "Él valora mucho el honor.",
+      "vi": "Anh ấy rất trọng danh dự."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He always respect the opinions of elders in the family.",
+    "She thinks that you should respect other people's feelings when talking.",
+    "I learned that you should respect your friends to keep a long-lasting friendship."
+  ],
+  "fillBlankQuiz": {
+    "id": "8164dc3c-2ea4-4073-a234-b745dee3fbd4",
+    "createdAt": "2025-03-12T15:14:16.233Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "This is an important issue."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "important"
+      },
+      "answer": "trọng",
+      "language": "vi",
+      "word": "trọng",
+      "sentence": "Đây là một vấn đề ___."
+    },
+    "updatedAt": "2025-03-12T15:14:16.233Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:56:11.033Z",
+  "definition": "respect",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**trọng** = to respect, to value someone/something (a bit formal on its own).\n\nAs a verb, it’s usually followed directly by a noun, but in real life it often appears in compounds like **tôn trọng** (stronger “respect”) or **coi trọng** (value highly).  \n\nIt has a very formal/literary feel when used alone.  \nVery common related words: **tôn trọng** (respect), opposite: **coi thường** (look down on).  \n\nIt can also mean “heavy/weighty” in Sino-Vietnamese words like **quan trọng** (important = weighty).",
+  "rank": 2061,
+  "choices": [
+    "trọng",
+    "trong",
+    "trống"
+  ],
+  "word": "trọng",
+  "notes": "trọng = to respect, to value someone/something (a bit formal on its own).\n\nAs a verb, it’s usually followed directly by a noun, but in real life it often appears in compounds like tôn trọng (stronger “respect”) or coi trọng (value highly).  \n\nIt has a very formal/literary feel when used alone.  \nVery common related words: tôn trọng (respect), opposite: coi thường (look down on).  \n\nIt can also mean “heavy/weighty” in Sino-Vietnamese words like quan trọng (important = weighty).",
+  "exampleSentences": [
+    "Anh luôn trọng ý kiến của người lớn tuổi trong gia đình.",
+    "Chị nghĩ rằng cần phải trọng cảm xúc của người khác khi nói chuyện.",
+    "Em học được rằng nên trọng bạn bè để giữ tình bạn lâu dài."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "trọng",
+      "hint": "tr___",
+      "word": "trọng",
+      "language": "vi",
+      "sentence": "Vấn đề này rất ___ với chúng ta.",
+      "translation": {
+        "en": "This issue is very important to us."
+      },
+      "translatedAnswer": {
+        "en": "important"
+      },
+      "choices": [
+        "nhẹ",
+        "trọng",
+        "đơn giản"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:14:16.233Z",
+    "createdAt": "2025-03-12T15:14:16.233Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "2c86bffc-1d89-4ce3-b9d7-688827025087"
+  },
+  "_id": "asCn2UimlvA4d0sDYGGt"
+}

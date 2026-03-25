@@ -1,0 +1,99 @@
+{
+  "word": "tớ",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "tớ",
+    "nó",
+    "họ"
+  ],
+  "rank": 1629,
+  "notes_md": "**tớ** = “I” (very casual, friendly). It’s used between close friends, classmates, or people the same age.\n\nIt feels young and equal — not polite or formal. You often hear it paired with **cậu** (“you” in the same friendly style).\n\n\nIn the South, people usually say **mình** or **tui** instead; **tớ** sounds more Northern. Synonym to remember: **mình** (also “I,” but softer and more neutral).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:29:26.915Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "I"
+      },
+      "translation": {
+        "en": "Today I will do the homework."
+      },
+      "hint": "t__",
+      "answer": "tớ",
+      "choices": [
+        "mình",
+        "tớ",
+        "cậu"
+      ],
+      "sentence": "Hôm nay ___ sẽ làm bài tập.",
+      "language": "vi",
+      "word": "tớ"
+    },
+    "id": "51001bca-dbe0-4411-97d2-c0fbff29a701",
+    "updatedAt": "2025-03-12T15:29:26.915Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Tớ vừa mới mua một chiếc áo mới hôm qua.",
+    "Nếu cậu cần giúp đỡ, tớ sẵn sàng giúp bất cứ lúc nào.",
+    "Tớ và Minh thích đi xem phim vào cuối tuần."
+  ],
+  "updatedAt": "2026-03-03T09:10:16.534Z",
+  "notes": "tớ = “I” (very casual, friendly). It’s used between close friends, classmates, or people the same age.\n\nIt feels young and equal — not polite or formal. You often hear it paired with cậu (“you” in the same friendly style).\n\nIn the South, people usually say mình or tui instead; tớ sounds more Northern. Synonym to remember: mình (also “I,” but softer and more neutral).",
+  "definition": "I",
+  "flashcard": {
+    "definitions": {
+      "en": "A casual pronoun used by younger people to refer to themselves, similar to 'I' in English.",
+      "vi": "Một đại từ thân mật được sử dụng bởi những người trẻ tuổi để chỉ bản thân, tương tự như 'tôi' trong tiếng Việt.",
+      "es": "Un pronombre informal utilizado por personas más jóvenes para referirse a sí mismas, similar a 'yo' en español."
+    },
+    "example": {
+      "en": "I like to eat pho.",
+      "vi": "Tớ thích ăn phở.",
+      "es": "Me gusta comer pho."
+    },
+    "translations": {
+      "en": "I",
+      "vi": "Tôi",
+      "es": "Yo"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:04:15.942Z"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:29:26.915Z",
+    "content": {
+      "word": "tớ",
+      "sentence": "Bạn có ___ muốn đi chơi không?",
+      "language": "vi",
+      "choices": [],
+      "answer": "tớ",
+      "translation": {
+        "en": "Do you want to hang out with me?"
+      },
+      "translatedAnswer": {
+        "en": "me"
+      }
+    },
+    "id": "2bf7c681-7392-4d45-84fa-dda663bcd6a0",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:29:26.915Z"
+  },
+  "exampleSentencesTranslated": [
+    "I just bought a new shirt yesterday.",
+    "If you need help, I am ready to help anytime.",
+    "I and Minh like to go to the movies on weekends."
+  ],
+  "_id": "eop9mwxWzP4wdrXeNNVE"
+}

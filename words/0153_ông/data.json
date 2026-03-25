@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "ông",
+      "sentence": "___ ấy là giáo sư nổi tiếng.",
+      "translatedAnswer": {
+        "en": "He"
+      },
+      "language": "vi",
+      "word": "ông",
+      "choices": [],
+      "translation": {
+        "en": "He is a famous professor."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "0d3a3539-125e-423c-8c25-c683087f1e64",
+    "createdAt": "2025-03-12T17:13:59.232Z",
+    "updatedAt": "2025-03-12T17:13:59.232Z"
+  },
+  "updatedAt": "2026-03-03T06:35:49.648Z",
+  "exampleSentencesTranslated": [
+    "My grandfather really likes to tell old stories to his grandchildren.",
+    "Every weekend, I usually go for a walk with my grandfather around the park near our house.",
+    "She gave her grandfather a hand-knitted scarf for his birthday."
+  ],
+  "notes_md": "**ông** usually means **grandfather**. It refers to your father’s or mother’s father.\n\nIt’s a noun, and you don’t usually need a classifier; just say *ông*. For an elderly man in general, you can also use it politely, especially when talking to or about someone older.\n\nIt often pairs with **bà** (grandmother / elderly woman) as **ông bà** = grandparents.  \n\nIt can also mean **husband** in a married couple when paired with **bà** (like “the husband”).",
+  "word": "ông",
+  "notes": "ông usually means grandfather. It refers to your father’s or mother’s father.\n\nIt’s a noun, and you don’t usually need a classifier; just say ông. For an elderly man in general, you can also use it politely, especially when talking to or about someone older.\n\nIt often pairs with bà (grandmother / elderly woman) as ông bà = grandparents.  \n\nIt can also mean husband in a married couple when paired with bà (like “the husband”).",
+  "choices": [
+    "bà",
+    "ông",
+    "cô"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Ông của anh rất thích kể chuyện ngày xưa cho các cháu nghe.",
+    "Mỗi cuối tuần, em thường cùng ông đi dạo quanh công viên gần nhà.",
+    "Chị đã tặng ông một chiếc khăn len tự đan vào dịp sinh nhật."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "answer": "ông",
+      "sentence": "___ ấy là giáo sư nổi tiếng.",
+      "hint": "o___",
+      "translatedAnswer": {
+        "en": "He"
+      },
+      "language": "vi",
+      "word": "ông",
+      "translation": {
+        "en": "He is a famous professor."
+      },
+      "choices": [
+        "ông",
+        "họ",
+        "bé"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "a4728aa4-55bd-49ed-b5fd-51c617514894",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:13:59.232Z",
+    "updatedAt": "2025-03-12T17:13:59.232Z"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Ông tôi rất hiền lành.",
+      "en": "My grandfather is very gentle.",
+      "es": "Mi abuelo es muy amable."
+    },
+    "translations": {
+      "es": "abuelo",
+      "en": "grandfather",
+      "vi": "ông"
+    },
+    "definitions": {
+      "es": "Un término utilizado para referirse a un hombre mayor, a menudo un abuelo o anciano.",
+      "en": "A term used to refer to an older man, often a grandfather or elder.",
+      "vi": "Một thuật ngữ dùng để chỉ một người đàn ông lớn tuổi, thường là ông nội hoặc người lớn tuổi."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:21:41.146Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "grandfather",
+  "rank": 153,
+  "_id": "1h8eEcgibdm9QdEg8nUZ"
+}

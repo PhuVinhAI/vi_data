@@ -1,0 +1,99 @@
+{
+  "definition": "fail (an exam or test)",
+  "flashcard": {
+    "definitions": {
+      "es": "Caer o dejar caer desde una posición más alta.",
+      "vi": "Rơi hoặc để rơi từ một vị trí cao hơn.",
+      "en": "To fall or drop from a higher position."
+    },
+    "example": {
+      "en": "The apple fell to the ground.",
+      "vi": "Quả táo rớt xuống đất.",
+      "es": "La manzana cayó al suelo."
+    },
+    "translations": {
+      "es": "caer",
+      "vi": "rớt",
+      "en": "fall"
+    },
+    "createdAt": "2025-01-28T13:10:19.797Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "He is sad because he fail the English exam last time.",
+    "If you don't study hard, you might fail the Math subject.",
+    "I have fail the driving test once already."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:36:16.269Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:36:16.269Z",
+    "content": {
+      "word": "rớt",
+      "sentence": "Quả táo bị ___ xuống đất.",
+      "language": "vi",
+      "choices": [],
+      "answer": "rớt",
+      "translation": {
+        "en": "The apple fell down to the ground."
+      },
+      "translatedAnswer": {
+        "en": "fell"
+      }
+    },
+    "id": "7e665cb9-e096-485e-a1c0-9bc0b84152c4"
+  },
+  "exampleSentences": [
+    "Anh ấy buồn vì rớt kỳ thi tiếng Anh lần trước.",
+    "Nếu em không học chăm chỉ, em có thể sẽ rớt môn Toán.",
+    "Chị đã từng rớt bài kiểm tra lái xe một lần rồi."
+  ],
+  "updatedAt": "2026-03-03T10:41:02.066Z",
+  "notes": "rớt = to fail (an exam, test, subject). You use it when someone doesn’t pass something academic or a test.\n\nIt often goes with things like kỳ thi, môn, bài kiểm tra, phỏng vấn.  \n\nIn the North, people more often say trượt (same meaning, a bit more standard). In the South, rớt is very common.  \n\nVery common extra meaning: rớt can also mean “to fall/drop” (like something falling down).",
+  "choices": [
+    "rớt",
+    "đậu",
+    "học"
+  ],
+  "rank": 2489,
+  "notes_md": "**rớt** = to fail (an exam, test, subject). You use it when someone doesn’t pass something academic or a test.\n\nIt often goes with things like *kỳ thi, môn, bài kiểm tra, phỏng vấn*.  \n\nIn the North, people more often say **trượt** (same meaning, a bit more standard). In the South, **rớt** is very common.  \n\nVery common extra meaning: **rớt** can also mean “to fall/drop” (like something falling down).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:36:16.269Z",
+    "content": {
+      "translation": {
+        "en": "The ball will fall if you drop it."
+      },
+      "translatedAnswer": {
+        "en": "fall"
+      },
+      "hint": "r___t",
+      "answer": "rớt",
+      "choices": [
+        "đi",
+        "rớt",
+        "nhảy"
+      ],
+      "word": "rớt",
+      "sentence": "Quả bóng sẽ ___ nếu bạn thả.",
+      "language": "vi"
+    },
+    "id": "001882db-0e12-4880-b1c7-413c2fdd5076",
+    "updatedAt": "2025-03-12T15:36:16.269Z"
+  },
+  "word": "rớt",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "gEEZRURQYnS8te2dXMBO"
+}

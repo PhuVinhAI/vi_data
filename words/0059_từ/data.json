@@ -1,0 +1,104 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "66353a28-d86d-4f3c-aee0-eb04a189d44c",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:46:36.167Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "word"
+      },
+      "language": "vi",
+      "sentence": "Tôi đã học ___ mới.",
+      "word": "từ",
+      "choices": [
+        "câu",
+        "từ",
+        "hình"
+      ],
+      "hint": "t__",
+      "translation": {
+        "en": "I learned a new word."
+      },
+      "answer": "từ"
+    },
+    "createdAt": "2025-03-12T13:46:36.167Z"
+  },
+  "notes_md": "**từ** means “word” — a single unit of language with meaning.\n\nIt’s a noun. You can say *một từ*, *hai từ* (no special classifier needed). Very common pairings: *từ mới* (new word), *từ khó* (difficult word), *từ vựng* (vocabulary).\n\nIt can also mean “from” (starting point in time or place), and this is extremely common.\n\n\nThink: **từ = word**, but also **từ = from** — two super high-frequency uses.",
+  "flashcard": {
+    "translations": {
+      "en": "word",
+      "vi": "từ",
+      "es": "palabra"
+    },
+    "createdAt": "2025-01-28T11:25:59.057Z",
+    "example": {
+      "vi": "Tôi học từ mới mỗi ngày.",
+      "es": "Aprendo palabras nuevas todos los días.",
+      "en": "I learn new words every day."
+    },
+    "definitions": {
+      "es": "Una palabra o término utilizado para referirse a algo.",
+      "vi": "Một từ hoặc thuật ngữ được sử dụng để chỉ một cái gì đó.",
+      "en": "A word or term used to refer to something."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I learn a new word.",
+    "He forgets that old word.",
+    "Mom teaches a new word."
+  ],
+  "notes": "từ means “word” — a single unit of language with meaning.\n\nIt’s a noun. You can say một từ, hai từ (no special classifier needed). Very common pairings: từ mới (new word), từ khó (difficult word), từ vựng (vocabulary).\n\nIt can also mean “from” (starting point in time or place), and this is extremely common.\n\nThink: từ = word, but also từ = from — two super high-frequency uses.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:46:36.167Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I need to understand this word."
+      },
+      "answer": "từ",
+      "translatedAnswer": {
+        "en": "word"
+      },
+      "sentence": "Tôi cần hiểu ___ này.",
+      "word": "từ",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:46:36.167Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "7d1cca53-9755-41d5-a556-7ad409b923d4"
+  },
+  "updatedAt": "2026-03-03T06:09:06.141Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "câu",
+    "chữ",
+    "từ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "sentenceBreakdowns": [
+    "Em (I) + học (learn) + một (a) + từ (word) + mới (new)",
+    "Anh (he) + quên (forget) + từ (word) + cũ (old) + đó (that)",
+    "Mẹ (mom) + dạy (teach) + một (a) + từ (word) + mới (new)"
+  ],
+  "definition": "word",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "từ",
+  "exampleSentences": [
+    "Em học một từ mới.",
+    "Anh quên từ cũ đó.",
+    "Mẹ dạy một từ mới."
+  ],
+  "rank": 59,
+  "_id": "FBtVuAPVoXhPD6RmXZzu"
+}

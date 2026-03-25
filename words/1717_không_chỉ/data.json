@@ -1,0 +1,96 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh ấy không chỉ làm việc chăm chỉ mà còn rất thân thiện với mọi người.",
+    "Chị không chỉ thích đọc sách mà còn yêu thích đi du lịch nữa.",
+    "Bữa tiệc này không chỉ đông vui mà còn có rất nhiều món ngon."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "answer": "không chỉ",
+      "translatedAnswer": {
+        "en": "not only"
+      },
+      "choices": [],
+      "sentence": "Cô ấy ___ thích ăn bánh.",
+      "translation": {
+        "en": "She not only likes to eat cake."
+      },
+      "word": "không chỉ",
+      "language": "vi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "b124c7d5-e0ad-4b02-84b3-e5c24b80548d",
+    "createdAt": "2025-03-12T15:42:45.059Z",
+    "updatedAt": "2025-03-12T15:42:45.059Z"
+  },
+  "choices": [
+    "không chỉ",
+    "vẫn còn",
+    "chắc chắn"
+  ],
+  "rank": 1717,
+  "definition": "not only",
+  "notes": "không chỉ = not only. It introduces one idea and adds another stronger or extra one.\n\nIt’s a linking phrase, usually paired with mà còn to mean “not only… but also…”.  \n\nYou can use it before verbs, adjectives, or whole clauses. The second part often gives something surprising, better, or additional.\n\nStrong synonym pattern to remember: không những … mà còn … (same meaning, slightly more formal).",
+  "notes_md": "**không chỉ** = *not only*. It introduces one idea and adds another stronger or extra one.\n\nIt’s a linking phrase, usually paired with **mà còn** to mean “not only… but also…”.  \n\nYou can use it before verbs, adjectives, or whole clauses. The second part often gives something surprising, better, or additional.\n\nStrong synonym pattern to remember: **không những … mà còn …** (same meaning, slightly more formal).",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "id": "b1d0eab4-c5ff-43dd-8992-e1ab6e93be00",
+    "content": {
+      "hint": "k___j",
+      "sentence": "Cô ấy ___ thích ăn bánh.",
+      "choices": [
+        "cũng không",
+        "không chỉ",
+        "có thể"
+      ],
+      "translatedAnswer": {
+        "en": "not only"
+      },
+      "answer": "không chỉ",
+      "language": "vi",
+      "translation": {
+        "en": "She not only likes to eat cake."
+      },
+      "word": "không chỉ"
+    },
+    "updatedAt": "2025-03-12T15:42:45.059Z",
+    "createdAt": "2025-03-12T15:42:45.059Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "không chỉ",
+  "flashcard": {
+    "translations": {
+      "en": "not only",
+      "vi": "không chỉ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A phrase used to indicate that something is more than just one thing.",
+      "vi": "Một cụm từ được sử dụng để chỉ ra rằng một điều gì đó không chỉ là một điều."
+    },
+    "createdAt": "2025-01-28T13:15:43.093Z",
+    "example": {
+      "en": "She is not only smart but also very hardworking.",
+      "vi": "Cô ấy không chỉ thông minh mà còn rất chăm chỉ."
+    }
+  },
+  "updatedAt": "2026-03-03T09:19:47.917Z",
+  "exampleSentencesTranslated": [
+    "He is not only hard-working but also very friendly to everyone.",
+    "She not only likes reading books but also loves traveling.",
+    "This party is not only lively but also has many delicious dishes."
+  ],
+  "_id": "hqG0VDOAfxnNFHmOBFGH"
+}

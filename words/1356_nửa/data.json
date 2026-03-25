@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:51:34.220Z",
+    "updatedAt": "2025-03-12T12:51:34.220Z",
+    "content": {
+      "sentence": "Tôi chỉ cần ___ miếng thôi.",
+      "answer": "nửa",
+      "translation": {
+        "en": "I only need half a piece."
+      },
+      "choices": [
+        "nửa",
+        "một",
+        "ba"
+      ],
+      "word": "nửa",
+      "translatedAnswer": {
+        "en": "half"
+      },
+      "language": "vi",
+      "hint": "n__"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "1085896c-758d-4bcb-b04e-a6e86a9a4e5d",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentences": [
+    "Anh chỉ ăn nửa cái bánh mì vào buổi sáng nay.",
+    "Chị đợi em ở quán cà phê nửa tiếng rồi.",
+    "Em muốn uống nửa ly nước thôi, không cần đầy."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 1356,
+  "definition": "half",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A term used to denote half of something.",
+      "vi": "Một thuật ngữ được sử dụng để chỉ một nửa của một cái gì đó.",
+      "es": "Un término utilizado para denotar la mitad de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:35:47.168Z",
+    "example": {
+      "es": "Comí la mitad del pastel.",
+      "vi": "Tôi đã ăn nửa cái bánh.",
+      "en": "I ate half of the cake."
+    },
+    "translations": {
+      "es": "mitad",
+      "en": "half",
+      "vi": "nửa"
+    }
+  },
+  "choices": [
+    "nửa",
+    "một",
+    "tất"
+  ],
+  "notes": "nửa = half (one of two equal parts). You use it for time, quantity, or parts of things.\n\nIt goes before nouns: nửa + noun (nửa giờ, nửa năm, nửa cái bánh).  \n\nVery common in time expressions: nửa tiếng = half an hour.  \nRelated word: một nửa = one half (a bit more complete/full than just nửa).",
+  "word": "nửa",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I only ate half a loaf of bread this morning.",
+    "I waited for you at the coffee shop for half an hour.",
+    "I want to drink only half a glass of water, not a full one."
+  ],
+  "notes_md": "**nửa** = *half* (one of two equal parts). You use it for time, quantity, or parts of things.\n\nIt goes before nouns: **nửa + noun** (nửa giờ, nửa năm, nửa cái bánh).  \n\nVery common in time expressions: **nửa tiếng** = half an hour.  \nRelated word: **một nửa** = one half (a bit more complete/full than just *nửa*).",
+  "fillBlankQuiz": {
+    "content": {
+      "word": "nửa",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "half"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I eat half a loaf of bread."
+      },
+      "answer": "nửa",
+      "sentence": "Tôi ăn ___ bánh mì."
+    },
+    "type": "fillBlankQuiz",
+    "id": "8f17af46-6ec5-4f97-b436-8e2f09ea9575",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T12:51:34.220Z",
+    "updatedAt": "2025-03-12T12:51:34.220Z"
+  },
+  "updatedAt": "2026-03-03T08:40:49.378Z",
+  "_id": "0eBkWGKBWKbdnoiNzSCX"
+}

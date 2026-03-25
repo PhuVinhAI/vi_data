@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "09aa7bd3-8eeb-4fd6-b302-d8e1f004ee2e",
+    "content": {
+      "translatedAnswer": {
+        "en": "suspect"
+      },
+      "translation": {
+        "en": "I do not suspect this."
+      },
+      "answer": "ngờ",
+      "choices": [],
+      "sentence": "Tôi không ___ điều này.",
+      "language": "vi",
+      "word": "ngờ"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:35:31.424Z",
+    "updatedAt": "2025-03-12T13:35:31.424Z"
+  },
+  "exampleSentencesTranslated": [
+    "I did not doubt that this would happen to me.",
+    "She doubted that he had forgotten the appointment date, so she called to remind him again.",
+    "I doubted she was angry, so I texted to apologize right away."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I didn't expect that you would come.",
+      "es": "No esperaba que vinieras.",
+      "vi": "Tôi không ngờ rằng bạn lại đến."
+    },
+    "definitions": {
+      "en": "to suspect or doubt something",
+      "es": "sospechar o dudar de algo",
+      "vi": "nghi ngờ hoặc nghi vấn điều gì đó"
+    },
+    "createdAt": "2025-01-28T11:14:52.584Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ngờ",
+      "es": "sospechar",
+      "en": "suspect"
+    }
+  },
+  "definition": "doubt",
+  "notes": "ngờ = to doubt or suspect something might be true (but you’re not sure).\n\nIt’s a verb. You usually use it before a whole idea or situation, not just a single noun. Very often used in the negative form không ngờ = “unexpectedly / didn’t expect at all.”\n\nClose to nghi ngờ (stronger, more explicit “to suspect”). Opposite feeling: tin (to believe).",
+  "updatedAt": "2026-03-03T09:35:11.187Z",
+  "exampleSentences": [
+    "Anh không ngờ chuyện này lại xảy ra với mình.",
+    "Chị ngờ anh quên ngày hẹn nên gọi nhắc lại.",
+    "Em ngờ cô ấy giận nên nhắn tin xin lỗi ngay."
+  ],
+  "multiChoiceQuiz": {
+    "id": "d67e711c-30a7-444b-93b0-64e15f7889db",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:31.424Z",
+    "content": {
+      "choices": [
+        "ngờ",
+        "hối",
+        "tin"
+      ],
+      "word": "ngờ",
+      "language": "vi",
+      "sentence": "Tôi không ___ điều này.",
+      "translation": {
+        "en": "I do not suspect this."
+      },
+      "translatedAnswer": {
+        "en": "suspect"
+      },
+      "hint": "n___",
+      "answer": "ngờ"
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:35:31.424Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**ngờ** = to doubt or suspect something might be true (but you’re not sure).\n\nIt’s a verb. You usually use it before a whole idea or situation, not just a single noun. Very often used in the negative form **không ngờ** = “unexpectedly / didn’t expect at all.”\n\n\nClose to **nghi ngờ** (stronger, more explicit “to suspect”). Opposite feeling: **tin** (to believe).",
+  "rank": 1862,
+  "choices": [
+    "ngại",
+    "ngờ",
+    "nghĩ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ngờ",
+  "_id": "CEic80wbknpaCamd4aCU"
+}

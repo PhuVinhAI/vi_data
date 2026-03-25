@@ -1,0 +1,99 @@
+{
+  "definition": "suck",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi thích ___ thuốc lá.",
+      "word": "hút",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I like to smoke cigarettes."
+      },
+      "answer": "hút",
+      "translatedAnswer": {
+        "en": "smoke"
+      }
+    },
+    "id": "c00c38c4-1dbd-413d-9163-8b961a6988da",
+    "createdAt": "2025-03-12T14:22:28.433Z",
+    "updatedAt": "2025-03-12T14:22:28.433Z"
+  },
+  "notes": "hút = to suck something in using your mouth or a device. It’s used for smoking, sucking liquids, or pulling something inward.\n\nYou use hút + object: hút thuốc, hút nước, hút máu, hút bụi. It can be literal (mouth, straw, vacuum) or physical pulling (a machine hút nước).\n\nVery common extended meaning: thu hút = to attract (attention, people, customers).  \n\nDon’t confuse with hít (to inhale/breathe in air or smell); hút usually implies stronger suction or using something.",
+  "exampleSentencesTranslated": [
+    "I feel uncomfortable when someone suck cigarettes near me.",
+    "The little brother uses a straw to suck orange juice in the glass.",
+    "She does not like it when children suck their fingers."
+  ],
+  "updatedAt": "2026-03-03T09:39:14.821Z",
+  "choices": [
+    "hút",
+    "nấu",
+    "bán"
+  ],
+  "notes_md": "**hút** = to suck something in using your mouth or a device. It’s used for smoking, sucking liquids, or pulling something inward.\n\nYou use **hút + object**: hút thuốc, hút nước, hút máu, hút bụi. It can be literal (mouth, straw, vacuum) or physical pulling (a machine hút nước).\n\nVery common extended meaning: **thu hút** = to attract (attention, people, customers).  \n\nDon’t confuse with **hít** (to inhale/breathe in air or smell); *hút* usually implies stronger suction or using something.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hút",
+  "multiChoiceQuiz": {
+    "id": "40433aaa-230e-45be-b064-5e72a35409ea",
+    "content": {
+      "translatedAnswer": {
+        "en": "drink"
+      },
+      "answer": "hút",
+      "hint": "h__t",
+      "word": "hút",
+      "sentence": "Tôi ___ nước trái cây.",
+      "translation": {
+        "en": "I drink juice."
+      },
+      "language": "vi",
+      "choices": [
+        "hút",
+        "uống",
+        "nhấm nháp"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:22:28.433Z",
+    "createdAt": "2025-03-12T14:22:28.433Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "I smoke cigarettes every day.",
+      "vi": "Tôi hút thuốc lá mỗi ngày.",
+      "es": "Fumo cigarrillos todos los días."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:58:24.373Z",
+    "translations": {
+      "es": "fumar",
+      "vi": "hút",
+      "en": "to smoke"
+    },
+    "definitions": {
+      "en": "To draw in or inhale, often used in the context of smoking.",
+      "es": "Atraer o inhalar, a menudo utilizado en el contexto de fumar.",
+      "vi": "Hút vào hoặc hít vào, thường được sử dụng trong ngữ cảnh hút thuốc."
+    }
+  },
+  "exampleSentences": [
+    "Em thấy khó chịu khi ai đó hút thuốc gần mình.",
+    "Anh nhỏ dùng ống để hút nước cam trong cốc.",
+    "Chị ấy không thích khi trẻ con hút ngón tay."
+  ],
+  "rank": 1902,
+  "_id": "Nch45EOOirTXJtStiUnq"
+}

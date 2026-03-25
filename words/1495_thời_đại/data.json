@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "thời đại",
+      "es": "era",
+      "en": "age"
+    },
+    "createdAt": "2025-01-28T11:10:15.041Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A period in history characterized by particular events, developments, or figures.",
+      "vi": "Một khoảng thời gian trong lịch sử được đặc trưng bởi các sự kiện, phát triển hoặc nhân vật cụ thể.",
+      "es": "Un período en la historia caracterizado por eventos, desarrollos o figuras particulares."
+    },
+    "example": {
+      "en": "We are living in the age of technology.",
+      "es": "Estamos viviendo en la era de la tecnología.",
+      "vi": "Chúng ta đang sống trong thời đại công nghệ."
+    }
+  },
+  "definition": "era",
+  "exampleSentencesTranslated": [
+    "We are living in an era of rapidly developing technology.",
+    "He likes to read about different eras in world history.",
+    "Each era has its own challenges and opportunities."
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "cc004e2b-ef26-413e-898d-8be0bb67b0b7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:17.337Z",
+    "content": {
+      "translation": {
+        "en": "We are living in the age of technology."
+      },
+      "translatedAnswer": {
+        "en": "age"
+      },
+      "answer": "thời đại",
+      "choices": [],
+      "word": "thời đại",
+      "sentence": "Chúng ta đang sống trong ___ công nghệ.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:30:17.337Z"
+  },
+  "updatedAt": "2026-03-03T08:55:51.142Z",
+  "exampleSentences": [
+    "Chúng ta đang sống trong một thời đại công nghệ phát triển nhanh chóng.",
+    "Anh thích đọc về các thời đại khác nhau trong lịch sử thế giới.",
+    "Mỗi thời đại đều có những thách thức và cơ hội riêng của nó."
+  ],
+  "notes": "Thời đại means era or age — a long period of time with shared features (history, culture, technology).\n\nIt’s a countable noun: một thời đại, nhiều thời đại. You’ll often see it with descriptive nouns: thời đại + công nghệ / kỹ thuật số / phong kiến. Common patterns are thuộc thời đại…, bước vào thời đại…, sống trong thời đại….\n\nA close synonym is kỷ nguyên (more formal, often bigger or more epic in feeling, like “a new era”).",
+  "notes_md": "**Thời đại** means *era* or *age* — a long period of time with shared features (history, culture, technology).\n\nIt’s a countable noun: **một thời đại**, **nhiều thời đại**. You’ll often see it with descriptive nouns: *thời đại + công nghệ / kỹ thuật số / phong kiến*. Common patterns are **thuộc thời đại…**, **bước vào thời đại…**, **sống trong thời đại…**.\n\nA close synonym is **kỷ nguyên** (more formal, often bigger or more epic in feeling, like “a new era”).",
+  "rank": 1495,
+  "choices": [
+    "thế giới",
+    "thời đại",
+    "lịch sử"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "thế giới",
+        "thời đại",
+        "thế hệ"
+      ],
+      "word": "thời đại",
+      "language": "vi",
+      "sentence": "Chúng ta đang sống trong ___ công nghệ.",
+      "translation": {
+        "en": "We are living in the age of technology."
+      },
+      "translatedAnswer": {
+        "en": "age"
+      },
+      "hint": "th___ đại",
+      "answer": "thời đại"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:30:17.337Z",
+    "id": "79d8666b-c162-4212-92ad-e0c7163a0aa5",
+    "updatedAt": "2025-03-12T13:30:17.337Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "thời đại",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "Ayw3zGIT3yPxydbRAnXq"
+}

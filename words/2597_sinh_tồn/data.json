@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "ad685b76-4d33-4ddd-b3e0-341a64179371",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "s___n",
+      "sentence": "Khi gặp khó khăn, bạn phải ___ để sống.",
+      "choices": [
+        "sinh hoạt",
+        "sinh tồn",
+        "sinh sống"
+      ],
+      "translatedAnswer": {
+        "en": "survive"
+      },
+      "answer": "sinh tồn",
+      "language": "vi",
+      "translation": {
+        "en": "When facing difficulties, you must survive."
+      },
+      "word": "sinh tồn"
+    },
+    "updatedAt": "2025-03-12T15:43:20.919Z",
+    "createdAt": "2025-03-12T15:43:20.919Z"
+  },
+  "notes_md": "**sinh tồn** = to survive, to stay alive in difficult conditions. It focuses on continuing to live despite danger, lack of food, war, disaster, etc.\n\nIt’s a verb, often used with situations like thiên nhiên khắc nghiệt, chiến tranh, tai nạn. Very common collocations: **kỹ năng sinh tồn**, **bản năng sinh tồn**, **đấu tranh sinh tồn**.\n\n\nClose everyday synonym: **sống sót** (more conversational). Opposite idea: **chết**, **tuyệt chủng** (for species).",
+  "exampleSentencesTranslated": [
+    "In the forest, you have to learn how to survive when no one helps.",
+    "He believes that survive skills are very necessary for everyone.",
+    "She reads many books about how to survive to prepare for her trip."
+  ],
+  "word": "sinh tồn",
+  "flashcard": {
+    "example": {
+      "es": "Los humanos necesitan sobrevivir en entornos difíciles.",
+      "en": "Humans need to survive in harsh environments.",
+      "vi": "Con người cần sinh tồn trong môi trường khắc nghiệt."
+    },
+    "createdAt": "2025-01-28T13:16:19.413Z",
+    "definitions": {
+      "en": "To continue to live or exist, especially in spite of danger or hardship.",
+      "es": "Continuar viviendo o existiendo, especialmente a pesar del peligro o la dificultad.",
+      "vi": "Tiếp tục sống hoặc tồn tại, đặc biệt là bất chấp nguy hiểm hoặc khó khăn."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "sinh tồn",
+      "en": "survive",
+      "es": "sobrevivir"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T11:27:01.798Z",
+  "choices": [
+    "sinh tồn",
+    "giải trí",
+    "nghỉ ngơi"
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:43:20.919Z",
+    "createdAt": "2025-03-12T15:43:20.919Z",
+    "id": "32eaadc6-dcc0-498e-a446-82d29309e945",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "When facing difficulties, you must survive."
+      },
+      "word": "sinh tồn",
+      "sentence": "Khi gặp khó khăn, bạn phải ___ để sống.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "survive"
+      },
+      "answer": "sinh tồn"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Trong rừng, em phải học cách sinh tồn khi không có ai giúp đỡ.",
+    "Anh ấy tin rằng kỹ năng sinh tồn rất cần thiết cho mỗi người.",
+    "Chị đọc nhiều sách về sinh tồn để chuẩn bị cho chuyến đi xa."
+  ],
+  "definition": "survive",
+  "notes": "sinh tồn = to survive, to stay alive in difficult conditions. It focuses on continuing to live despite danger, lack of food, war, disaster, etc.\n\nIt’s a verb, often used with situations like thiên nhiên khắc nghiệt, chiến tranh, tai nạn. Very common collocations: kỹ năng sinh tồn, bản năng sinh tồn, đấu tranh sinh tồn.\n\nClose everyday synonym: sống sót (more conversational). Opposite idea: chết, tuyệt chủng (for species).",
+  "rank": 2597,
+  "_id": "i2bojczct17g2CREnqXh"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 1336,
+  "exampleSentencesTranslated": [
+    "The doctor is trying to treat the seriously ill baby.",
+    "He had to go to the hospital to treat the wound on his leg.",
+    "You should take this medicine to treat your cold faster."
+  ],
+  "word": "chữa",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Bác sĩ sẽ ___ bệnh cho tôi.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "heal"
+      },
+      "hint": "c__a",
+      "translation": {
+        "en": "The doctor will heal my illness."
+      },
+      "answer": "chữa",
+      "word": "chữa",
+      "choices": [
+        "khám",
+        "chữa",
+        "tiêm"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:32:48.381Z",
+    "type": "multiChoiceQuiz",
+    "id": "d02114c1-2ced-4cef-9399-923878e45928",
+    "createdAt": "2025-03-12T14:32:48.381Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T08:38:44.479Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "chữa",
+    "giúp",
+    "học"
+  ],
+  "notes": "chữa = to treat or cure (a sickness, injury, or problem in the body). It’s about making someone physically better.\n\nYou use it with illnesses or wounds: chữa bệnh, chữa vết thương.  \nIt often goes with a person using cho: chữa cho + someone.  \n\nFor objects or technical problems, use sửa, not chữa. A more formal/serious version is chữa trị (medical treatment, often long-term).",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "curar",
+      "vi": "chữa",
+      "en": "to treat"
+    },
+    "createdAt": "2025-01-28T12:08:29.477Z",
+    "definitions": {
+      "vi": "Chữa là làm cho khỏi bệnh hoặc điều trị một vết thương.",
+      "en": "To heal or treat an illness or injury.",
+      "es": "Curar o tratar una enfermedad o lesión."
+    },
+    "example": {
+      "es": "Necesito curar a mi gato.",
+      "en": "I need to treat my cat.",
+      "vi": "Tôi cần chữa bệnh cho con mèo."
+    }
+  },
+  "exampleSentences": [
+    "Bác sĩ đang cố gắng chữa cho em bé bị ốm nặng.",
+    "Anh đã phải đến bệnh viện để chữa vết thương ở chân.",
+    "Chị nên uống thuốc này để chữa cảm lạnh nhanh hơn."
+  ],
+  "notes_md": "**chữa** = to treat or cure (a sickness, injury, or problem in the body). It’s about making someone physically better.\n\nYou use it with illnesses or wounds: chữa bệnh, chữa vết thương.  \nIt often goes with a person using **cho**: chữa cho + someone.  \n\nFor objects or technical problems, use **sửa**, not *chữa*. A more formal/serious version is **chữa trị** (medical treatment, often long-term).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:32:48.381Z",
+    "id": "ecad6fd5-13c8-43c6-9f3a-2293c3e859d2",
+    "content": {
+      "choices": [],
+      "word": "chữa",
+      "translation": {
+        "en": "I need to heal the wound."
+      },
+      "answer": "chữa",
+      "translatedAnswer": {
+        "en": "heal"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ vết thương."
+    },
+    "updatedAt": "2025-03-12T14:32:48.381Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "treat",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "QMcZ6KPaTTLO78KuVciZ"
+}

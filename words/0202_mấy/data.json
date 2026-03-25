@@ -1,0 +1,96 @@
+{
+  "rank": 202,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "How many books do you have?",
+      "vi": "Bạn có mấy quyển sách?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:21:17.994Z",
+    "word": "mấy",
+    "definitions": {
+      "en": "A word used to ask about quantity, usually meaning 'how many' or 'how much'.",
+      "vi": "Từ dùng để hỏi về số lượng, thường mang nghĩa là 'bao nhiêu'."
+    },
+    "translations": {
+      "en": "how many; how much"
+    }
+  },
+  "exampleSentences": [
+    "Em có mấy cuốn sách tiếng Anh ở nhà vậy?",
+    "Chị đi làm được mấy năm rồi nhỉ?",
+    "Anh muốn uống mấy ly cà phê sáng nay?"
+  ],
+  "notes_md": "**mấy** = how many? (asking about a small number). It’s used for countable things.\n\nUse it before a classifier + noun.  \n\nIt often suggests “a few” when not really asking, just estimating a small number.  \n\nIt can also mean “what” in questions about age, time, or order (like asking someone’s age or what time it is).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "Do you have a few friends coming over?"
+      },
+      "language": "vi",
+      "choices": [
+        "mấy",
+        "nhiều",
+        "ít"
+      ],
+      "hint": "m__y",
+      "word": "mấy",
+      "sentence": "Bạn có ___ người bạn đến chơi không?",
+      "translatedAnswer": {
+        "en": "few"
+      },
+      "answer": "mấy"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "e762172f-f0e2-470e-9a4f-7b50c2f8c19c",
+    "createdAt": "2025-03-12T14:19:49.091Z",
+    "updatedAt": "2025-03-12T14:19:49.091Z"
+  },
+  "word": "mấy",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "how many",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:19:49.091Z",
+    "createdAt": "2025-03-12T14:19:49.091Z",
+    "id": "acbec221-0d96-4f83-b1d3-16f63758b2f8",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Bạn có ___ người bạn đến chơi không?",
+      "word": "mấy",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "Do you have a few friends coming over?"
+      },
+      "answer": "mấy",
+      "translatedAnswer": {
+        "en": "few"
+      }
+    },
+    "type": "fillBlankQuiz"
+  },
+  "notes": "mấy = how many? (asking about a small number). It’s used for countable things.\n\nUse it before a classifier + noun.  \n\nIt often suggests “a few” when not really asking, just estimating a small number.  \n\nIt can also mean “what” in questions about age, time, or order (like asking someone’s age or what time it is).",
+  "exampleSentencesTranslated": [
+    "How many English books do you have at home?",
+    "How many years have you been working?",
+    "How many cups of coffee do you want this morning?"
+  ],
+  "choices": [
+    "mấy",
+    "mới",
+    "máy"
+  ],
+  "updatedAt": "2026-03-03T06:40:47.579Z",
+  "_id": "N2iLhtrQweY5zmLh6iSi"
+}

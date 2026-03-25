@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f2263897-1a88-4ed0-9029-775b00ce0f69",
+    "content": {
+      "hint": "v___ v___",
+      "answer": "vất vả",
+      "translatedAnswer": {
+        "en": "hardship"
+      },
+      "translation": {
+        "en": "They always see hardship in life."
+      },
+      "sentence": "Họ luôn thấy ___ trong cuộc sống.",
+      "language": "vi",
+      "word": "vất vả",
+      "choices": [
+        "vất vả",
+        "dễ dàng",
+        "thú vị"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:15.302Z",
+    "updatedAt": "2025-03-12T13:35:15.302Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Vất vả** means hard, tiring, exhausting — when something takes a lot of effort and energy. It describes work, tasks, situations, or even a period of life.\n\nIt’s an adjective, so you put it after the noun: *công việc vất vả*, *cuộc sống vất vả*. You can also use it after verbs like *rất / quá / khá* to adjust intensity.\n\nIt often carries an emotional tone — not just physically hard, but mentally draining too.  \n\nClose synonyms: **cực**, **cực khổ** (stronger, more suffering).  \nOpposite idea: **nhàn** (easy, relaxed, not demanding).",
+  "rank": 1433,
+  "choices": [
+    "vất vả",
+    "hạnh phúc",
+    "nhẹ nhàng"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "vất vả",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:35:15.302Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "choices": [],
+      "sentence": "Công việc này rất ___.",
+      "language": "vi",
+      "word": "vất vả",
+      "translatedAnswer": {
+        "en": "hard"
+      },
+      "translation": {
+        "en": "This job is very hard."
+      },
+      "answer": "vất vả"
+    },
+    "id": "5ebee0c6-d75b-4e14-888c-b12851681686",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:35:15.302Z"
+  },
+  "exampleSentencesTranslated": [
+    "His job at the factory is hard work every day.",
+    "After a day of hard work, I just want to rest and watch a movie.",
+    "Mom did hard work raising us to grow up."
+  ],
+  "flashcard": {
+    "example": {
+      "en": "Life in this city is really tough.",
+      "es": "La vida en esta ciudad es realmente dura.",
+      "vi": "Cuộc sống ở thành phố này thật vất vả."
+    },
+    "definitions": {
+      "en": "Difficult and tiring; requiring a lot of effort.",
+      "es": "Difícil y agotador; que requiere mucho esfuerzo.",
+      "vi": "Khó khăn và mệt mỏi; đòi hỏi nhiều nỗ lực."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:14:38.784Z",
+    "translations": {
+      "vi": "vất vả",
+      "es": "duro",
+      "en": "tough"
+    }
+  },
+  "definition": "hard work",
+  "notes": "Vất vả means hard, tiring, exhausting — when something takes a lot of effort and energy. It describes work, tasks, situations, or even a period of life.\n\nIt’s an adjective, so you put it after the noun: công việc vất vả, cuộc sống vất vả. You can also use it after verbs like rất / quá / khá to adjust intensity.\n\nIt often carries an emotional tone — not just physically hard, but mentally draining too.  \n\nClose synonyms: cực, cực khổ (stronger, more suffering).  \nOpposite idea: nhàn (easy, relaxed, not demanding).",
+  "updatedAt": "2026-03-03T08:49:08.487Z",
+  "exampleSentences": [
+    "Công việc của anh ở nhà máy rất vất vả mỗi ngày.",
+    "Sau một ngày vất vả, em chỉ muốn nghỉ ngơi và xem phim.",
+    "Mẹ đã vất vả nuôi dạy chúng tôi trưởng thành."
+  ],
+  "_id": "CBpS9H6s66ImmonaZRPB"
+}

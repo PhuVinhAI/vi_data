@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "createdAt": "2025-01-28T12:40:16.032Z",
+    "definitions": {
+      "en": "A piece of land surrounded by water.",
+      "es": "Una porción de tierra rodeada de agua.",
+      "vi": "Một mảnh đất được bao quanh bởi nước."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "island",
+      "es": "isla",
+      "vi": "đảo"
+    },
+    "example": {
+      "en": "We will visit this island on the weekend.",
+      "es": "Visitaremos esta isla el fin de semana.",
+      "vi": "Chúng ta sẽ đi thăm đảo này vào cuối tuần."
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "d1dc08f0-f4ff-4a67-977a-c0ac64be0a15",
+    "content": {
+      "answer": "đảo",
+      "word": "đảo",
+      "language": "vi",
+      "sentence": "Chúng ta sẽ đi đến ___ vào cuối tuần.",
+      "translation": {
+        "en": "We will go to the island this weekend."
+      },
+      "translatedAnswer": {
+        "en": "island"
+      },
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T15:07:24.381Z",
+    "createdAt": "2025-03-12T15:07:24.381Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:16:00.140Z",
+  "exampleSentencesTranslated": [
+    "I want to travel to an island this summer.",
+    "My family took many beautiful photos on the island of Phu Quoc.",
+    "She likes to eat fresh seafood when she is on the island."
+  ],
+  "definition": "island",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**đảo** = island, a piece of land surrounded by water.  \n\nIt’s a noun; often used with the classifier **hòn** → **hòn đảo** (one island). **Quần đảo** = archipelago (a group of islands).  \n\nVery common second meaning: **đảo** (verb) = to flip, turn over, or stir something (like food in a pan).  \n\nAs a verb, it’s used with objects: đảo cơm, đảo trứng, đảo qua đảo lại.  \n\nThink: *đảo* = either land in the sea 🏝️ or turning things over 🔄.",
+  "rank": 1682,
+  "choices": [
+    "đảo",
+    "núi",
+    "rừng"
+  ],
+  "notes": "đảo = island, a piece of land surrounded by water.  \n\nIt’s a noun; often used with the classifier hòn → hòn đảo (one island). Quần đảo = archipelago (a group of islands).  \n\nVery common second meaning: đảo (verb) = to flip, turn over, or stir something (like food in a pan).  \n\nAs a verb, it’s used with objects: đảo cơm, đảo trứng, đảo qua đảo lại.  \n\nThink: đảo = either land in the sea 🏝️ or turning things over 🔄.",
+  "exampleSentences": [
+    "Anh muốn đi du lịch đến một đảo vào mùa hè này.",
+    "Gia đình em đã chụp nhiều ảnh đẹp trên đảo Phú Quốc.",
+    "Chị ấy thích ăn hải sản tươi sống khi ở trên đảo."
+  ],
+  "word": "đảo",
+  "multiChoiceQuiz": {
+    "id": "5f249bd9-180d-4466-8e0b-abda25c571b3",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:07:24.381Z",
+    "updatedAt": "2025-03-12T15:07:24.381Z",
+    "content": {
+      "hint": "đ___",
+      "answer": "đảo",
+      "word": "đảo",
+      "language": "vi",
+      "sentence": "Chúng ta sẽ đi đến ___ vào cuối tuần.",
+      "translation": {
+        "en": "We will go to the island this weekend."
+      },
+      "translatedAnswer": {
+        "en": "island"
+      },
+      "choices": [
+        "đảo",
+        "biển",
+        "núi"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "YxUjpRbYqvnjydZgdlUf"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "niềm",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:20:46.398Z",
+    "type": "multiChoiceQuiz",
+    "id": "78821646-bb99-4f54-bd24-e2dd76a0be3f",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:20:46.398Z",
+    "content": {
+      "choices": [
+        "niềm",
+        "khó khăn",
+        "nỗi buồn"
+      ],
+      "sentence": "Tôi có ___ vui vẻ mỗi ngày.",
+      "language": "vi",
+      "word": "niềm",
+      "translatedAnswer": {
+        "en": "joy"
+      },
+      "translation": {
+        "en": "I have joy every day."
+      },
+      "hint": "n___m",
+      "answer": "niềm"
+    }
+  },
+  "notes_md": "**Niềm** means *joy* or a positive feeling inside you. It’s a noun, but you rarely use it alone — it usually comes before another abstract noun.\n\nIt’s used to package an emotion into a “unit” of feeling: **niềm vui** (joy), **niềm tin** (belief), **niềm hy vọng** (hope). Think of it like “a sense of” or “a feeling of” in English.\n\nYou don’t count it with numbers; it’s more about emotional weight than quantity. Compared to **vui** (happy, adjective), **niềm vui** turns that feeling into a thing.",
+  "choices": [
+    "niềm",
+    "nhiều",
+    "niên"
+  ],
+  "rank": 589,
+  "notes": "Niềm means joy or a positive feeling inside you. It’s a noun, but you rarely use it alone — it usually comes before another abstract noun.\n\nIt’s used to package an emotion into a “unit” of feeling: niềm vui (joy), niềm tin (belief), niềm hy vọng (hope). Think of it like “a sense of” or “a feeling of” in English.\n\nYou don’t count it with numbers; it’s more about emotional weight than quantity. Compared to vui (happy, adjective), niềm vui turns that feeling into a thing.",
+  "updatedAt": "2026-03-03T07:21:07.629Z",
+  "exampleSentences": [
+    "Anh cảm thấy niềm hạnh phúc khi nhìn thấy gia đình đoàn tụ.",
+    "Mỗi khi nhận được tin tốt, chị luôn chia sẻ niềm vui với bạn bè.",
+    "Sự thành công của em mang lại niềm tự hào cho cả nhà."
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:20:46.398Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "joy"
+      },
+      "translation": {
+        "en": "I feel joy in my work."
+      },
+      "answer": "niềm",
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi cảm thấy ___ trong công việc.",
+      "word": "niềm"
+    },
+    "id": "1f4f23f6-38e8-4201-8756-c1a72bf18be3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:20:46.398Z"
+  },
+  "exampleSentencesTranslated": [
+    "He feels joy when seeing his family reunited.",
+    "Whenever she gets good news, she always shares her joy with friends.",
+    "Your success brings joy to the whole family."
+  ],
+  "definition": "joy",
+  "flashcard": {
+    "createdAt": "2025-01-28T11:01:13.263Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "feeling",
+      "vi": "niềm",
+      "es": "sentimiento"
+    },
+    "example": {
+      "vi": "Tôi luôn giữ niềm tin vào tương lai.",
+      "es": "Siempre mantengo la fe en el futuro.",
+      "en": "I always keep faith in the future."
+    },
+    "definitions": {
+      "es": "Un sentimiento o estado de confianza y optimismo.",
+      "vi": "Một cảm giác hoặc trạng thái của sự tự tin và lạc quan.",
+      "en": "A feeling or state of confidence and optimism."
+    }
+  },
+  "_id": "8UGSmeHzbNTX1at5wRvc"
+}

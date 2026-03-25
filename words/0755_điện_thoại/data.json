@@ -1,0 +1,99 @@
+{
+  "definition": "phone",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "điện thoại",
+      "translation": {
+        "en": "I need a new phone."
+      },
+      "answer": "điện thoại",
+      "translatedAnswer": {
+        "en": "phone"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần một ___ mới."
+    },
+    "updatedAt": "2025-03-12T14:28:43.741Z",
+    "type": "fillBlankQuiz",
+    "id": "92ab7245-a368-41d2-9988-a7fcfc9c086f",
+    "createdAt": "2025-03-12T14:28:43.741Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh có thể cho em mượn điện thoại một lát được không?",
+    "Mỗi buổi sáng, chị thường kiểm tra tin nhắn trên điện thoại.",
+    "Em đã để quên điện thoại ở nhà nên không liên lạc được với bạn."
+  ],
+  "notes_md": "**Điện thoại** = phone (the device). It can also mean a phone call in some contexts, but usually it’s the device.\n\nIt’s a noun. Use the classifier **cái**: *một cái điện thoại*.  \nCommon pairings: **gọi điện thoại** (make a call), **nghe điện thoại** (answer the phone), **số điện thoại** (phone number), **điện thoại di động** (mobile phone).  \n\nYou’ll also hear **smartphone** in casual speech for a modern phone.",
+  "flashcard": {
+    "translations": {
+      "es": "teléfono",
+      "vi": "điện thoại",
+      "en": "phone"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi cần mua một chiếc điện thoại mới.",
+      "en": "I need to buy a new phone.",
+      "es": "Necesito comprar un teléfono nuevo."
+    },
+    "createdAt": "2025-01-28T12:04:51.992Z",
+    "definitions": {
+      "en": "A device used for communication, typically by voice.",
+      "vi": "Một thiết bị được sử dụng để giao tiếp, thường bằng giọng nói.",
+      "es": "Un dispositivo utilizado para la comunicación, generalmente por voz."
+    }
+  },
+  "notes": "Điện thoại = phone (the device). It can also mean a phone call in some contexts, but usually it’s the device.\n\nIt’s a noun. Use the classifier cái: một cái điện thoại.  \nCommon pairings: gọi điện thoại (make a call), nghe điện thoại (answer the phone), số điện thoại (phone number), điện thoại di động (mobile phone).  \n\nYou’ll also hear smartphone in casual speech for a modern phone.",
+  "choices": [
+    "máy tính",
+    "điện thoại",
+    "tivi"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:37:16.472Z",
+  "exampleSentencesTranslated": [
+    "Can you lend me your phone for a moment?",
+    "Every morning, she usually checks messages on her phone.",
+    "I forgot my phone at home so I could not contact my friend."
+  ],
+  "rank": 755,
+  "word": "điện thoại",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:28:43.741Z",
+    "content": {
+      "sentence": "Tôi muốn mua một ___.",
+      "translatedAnswer": {
+        "en": "phone"
+      },
+      "language": "vi",
+      "word": "điện thoại",
+      "choices": [
+        "máy tính",
+        "điện thoại",
+        "bảng vẽ"
+      ],
+      "hint": "đ___ th___",
+      "translation": {
+        "en": "I want to buy a phone."
+      },
+      "answer": "điện thoại"
+    },
+    "id": "be1eebb2-7aaf-41d2-9f79-e56e2301a5f9",
+    "createdAt": "2025-03-12T14:28:43.741Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "PGL8zJev9fyB8yGC5IG0"
+}

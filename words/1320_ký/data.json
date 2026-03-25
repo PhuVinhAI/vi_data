@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "ký",
+    "học",
+    "mua"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "ký",
+  "rank": 1320,
+  "exampleSentences": [
+    "Anh cần ký vào hợp đồng trước khi bắt đầu công việc mới.",
+    "Chị có thể ký tên ở đây giúp em được không?",
+    "Em quên chưa ký vào giấy đăng ký tham gia hoạt động."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "sign",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:47:24.362Z",
+    "createdAt": "2025-03-12T13:47:24.362Z",
+    "content": {
+      "language": "vi",
+      "word": "ký",
+      "sentence": "Tôi cần ___ vào giấy tờ.",
+      "translatedAnswer": {
+        "en": "sign"
+      },
+      "translation": {
+        "en": "I need to sign on the documents."
+      },
+      "answer": "ký",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "eb4cfcb4-eb44-4c2d-8e7e-7c124629f7b7",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "ký = to sign (your name) on something official. You use it for contracts, forms, letters, documents.\n\nCommon combos: ký tên (sign your name), ký hợp đồng (sign a contract), ký giấy tờ (sign papers).  \n\nVery common second meaning: một ký = one kilogram (1 kg), used when talking about weight, especially food.",
+  "updatedAt": "2026-03-03T08:37:03.514Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "0e2694c5-839a-4cb6-ae5e-266539f487aa",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:47:24.362Z",
+    "createdAt": "2025-03-12T13:47:24.362Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "sign"
+      },
+      "language": "vi",
+      "word": "ký",
+      "sentence": "Bạn có muốn ___ vào hợp đồng không?",
+      "hint": "k__",
+      "choices": [
+        "trả",
+        "ký",
+        "nhận"
+      ],
+      "translation": {
+        "en": "Do you want to sign the contract?"
+      },
+      "answer": "ký"
+    }
+  },
+  "notes_md": "**ký** = to sign (your name) on something official. You use it for contracts, forms, letters, documents.\n\nCommon combos: **ký tên** (sign your name), **ký hợp đồng** (sign a contract), **ký giấy tờ** (sign papers).  \n\nVery common second meaning: **một ký** = one kilogram (1 kg), used when talking about weight, especially food.",
+  "exampleSentencesTranslated": [
+    "You need to sign the contract before starting the new job.",
+    "Can you sign your name here for me?",
+    "I forgot to sign the registration form to join the activity."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "sign",
+      "es": "firmar",
+      "vi": "ký"
+    },
+    "example": {
+      "en": "I need to sign this form.",
+      "es": "Necesito firmar este formulario.",
+      "vi": "Tôi cần ký vào đơn này."
+    },
+    "createdAt": "2025-01-28T11:25:48.607Z",
+    "definitions": {
+      "es": "Escribir el nombre en un documento para indicar acuerdo o aprobación.",
+      "vi": "Viết tên của mình trên một tài liệu để chỉ ra sự đồng ý hoặc chấp thuận.",
+      "en": "To write one's name on a document to indicate agreement or approval."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "FFZ05CeHKAhIQsjEZq2V"
+}

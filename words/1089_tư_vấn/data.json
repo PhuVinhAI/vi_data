@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "consultation",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "We need advice from the expert."
+      },
+      "answer": "tư vấn",
+      "word": "tư vấn",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "advice"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi cần ___ từ chuyên gia."
+    },
+    "updatedAt": "2025-03-12T14:49:40.411Z",
+    "type": "fillBlankQuiz",
+    "id": "b57e171e-c72b-4053-a52d-a260a70f938c",
+    "createdAt": "2025-03-12T14:49:40.411Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị muốn đăng ký dịch vụ tư vấn về du học nước ngoài.",
+    "Anh có thể đặt lịch hẹn tư vấn với chuyên gia tài chính không?",
+    "Công ty tổ chức buổi tư vấn miễn phí cho khách hàng mới vào thứ bảy."
+  ],
+  "notes_md": "**tư vấn** = consultation; giving or receiving expert advice.\n\nIt can be a **noun** (the consultation itself) or a **verb** (to advise/consult). As a noun, you often see **buổi tư vấn** (a consultation session), **dịch vụ tư vấn** (consulting service), **chuyên viên tư vấn** (consultant). As a verb, it’s usually about professional advice (education, finance, health, law).\n\n\nClose word: **cố vấn** = advisor (the person), not the act.",
+  "flashcard": {
+    "translations": {
+      "en": "advice",
+      "vi": "tư vấn",
+      "es": "asesoramiento"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I need advice on this project.",
+      "vi": "Tôi cần tư vấn về dự án này.",
+      "es": "Necesito asesoramiento sobre este proyecto."
+    },
+    "createdAt": "2025-01-28T12:23:24.933Z",
+    "definitions": {
+      "vi": "Hành động cung cấp lời khuyên hoặc hướng dẫn.",
+      "en": "The act of providing advice or guidance.",
+      "es": "El acto de proporcionar consejo o orientación."
+    }
+  },
+  "notes": "tư vấn = consultation; giving or receiving expert advice.\n\nIt can be a noun (the consultation itself) or a verb (to advise/consult). As a noun, you often see buổi tư vấn (a consultation session), dịch vụ tư vấn (consulting service), chuyên viên tư vấn (consultant). As a verb, it’s usually about professional advice (education, finance, health, law).\n\nClose word: cố vấn = advisor (the person), not the act.",
+  "choices": [
+    "tư vấn",
+    "giới thiệu",
+    "bảo hiểm"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:12:03.858Z",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "tư vấn",
+      "choices": [
+        "hỗ trợ",
+        "tư vấn",
+        "giúp đỡ"
+      ],
+      "hint": "t___n",
+      "translation": {
+        "en": "We need advice from the expert."
+      },
+      "answer": "tư vấn",
+      "translatedAnswer": {
+        "en": "advice"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi cần ___ từ chuyên gia."
+    },
+    "updatedAt": "2025-03-12T14:49:40.411Z",
+    "createdAt": "2025-03-12T14:49:40.411Z",
+    "id": "18e87b32-5e87-41ff-b514-90ee3d4e1695",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "tư vấn",
+  "exampleSentencesTranslated": [
+    "She wants to register for a consultation about studying abroad.",
+    "Can you schedule a consultation with the financial expert?",
+    "The company is organizing a free consultation for new customers on Saturday."
+  ],
+  "rank": 1089,
+  "_id": "U3dfAXNckAz3OaylYoWm"
+}

@@ -1,0 +1,98 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:09:55.806Z",
+    "translations": {
+      "vi": "duy",
+      "en": "only",
+      "es": "único"
+    },
+    "example": {
+      "es": "Solo hay una forma de hacer esto.",
+      "en": "There is only one way to do this.",
+      "vi": "Chỉ có một duy nhất cách để làm điều này."
+    },
+    "definitions": {
+      "en": "only; unique; sole",
+      "es": "único; exclusivo; solo",
+      "vi": "chỉ; duy nhất"
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "duy means only, but in modern Vietnamese it almost never stands alone. You’ll usually see it in fixed phrases.\n\nMost common is duy nhất = the only / unique, placed before a noun. It emphasizes that there is one and no more.\n\nIn everyday speech, chỉ is much more common for “only.” Think: chỉ = casual everyday “only,” duy nhất = stronger, more formal “one and only.”",
+  "choices": [
+    "duy",
+    "dư",
+    "dụy"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:38:23.630Z",
+    "id": "c6e389df-6e82-4079-ba0a-e43cd04d31db",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi chỉ có ___ cơ hội.",
+      "hint": "d___",
+      "word": "duy",
+      "language": "vi",
+      "translation": {
+        "en": "I only have one chance."
+      },
+      "answer": "duy",
+      "choices": [
+        "một",
+        "duy",
+        "nhiều"
+      ],
+      "translatedAnswer": {
+        "en": "only"
+      }
+    },
+    "updatedAt": "2025-03-12T16:38:23.630Z"
+  },
+  "exampleSentences": [
+    "Anh là người duy nhất biết bí mật này.",
+    "Trong lớp, em duy thích môn Toán nhất.",
+    "Chị duy muốn nghỉ ngơi sau một ngày làm việc dài."
+  ],
+  "updatedAt": "2026-03-03T18:20:59.829Z",
+  "word": "duy",
+  "exampleSentencesTranslated": [
+    "You are the only person who knows this secret.",
+    "In class, I only like Math the most.",
+    "I only want to rest after a long workday."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**duy** means *only*, but in modern Vietnamese it almost never stands alone. You’ll usually see it in fixed phrases.\n\nMost common is **duy nhất** = *the only / unique*, placed before a noun. It emphasizes that there is one and no more.\n\n\nIn everyday speech, **chỉ** is much more common for “only.” Think: **chỉ** = casual everyday “only,” **duy nhất** = stronger, more formal “one and only.”",
+  "rank": 2996,
+  "definition": "only",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "I only have one chance."
+      },
+      "answer": "duy",
+      "translatedAnswer": {
+        "en": "only"
+      },
+      "language": "vi",
+      "word": "duy",
+      "sentence": "Tôi chỉ có ___ cơ hội."
+    },
+    "updatedAt": "2025-03-12T16:38:23.630Z",
+    "createdAt": "2025-03-12T16:38:23.630Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "67ec7931-32c3-460f-86ae-8b5b2fb7ce08"
+  },
+  "_id": "wRZOLQZsjQKqB60qEIaH"
+}

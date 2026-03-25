@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "bài",
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "b__",
+      "answer": "bài",
+      "translatedAnswer": {
+        "en": "lesson"
+      },
+      "translation": {
+        "en": "I am studying this lesson."
+      },
+      "sentence": "Tôi đang học ___ này.",
+      "language": "vi",
+      "word": "bài",
+      "choices": [
+        "bài",
+        "sách",
+        "văn"
+      ]
+    },
+    "createdAt": "2025-03-12T13:23:49.452Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "6386a016-2469-4e82-8a34-1f99d30233c0",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:23:49.452Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 203,
+  "choices": [
+    "bài",
+    "bàn",
+    "bay"
+  ],
+  "notes_md": "**Bài** usually means *lesson* (something you study in class). It’s a noun you can count: *một bài, hai bài*.\n\nIt also means *exercise/homework* (bài tập), *test* (bài kiểm tra), *song* (bài hát), or *article* (bài báo) — same core idea: one complete “piece” of content.\n\nIt often pairs with another word to show type: bài + học / tập / thi / hát / viết.\n\nClose to **bài học** (lesson learned), but **bài** alone is more flexible.",
+  "notes": "Bài usually means lesson (something you study in class). It’s a noun you can count: một bài, hai bài.\n\nIt also means exercise/homework (bài tập), test (bài kiểm tra), song (bài hát), or article (bài báo) — same core idea: one complete “piece” of content.\n\nIt often pairs with another word to show type: bài + học / tập / thi / hát / viết.\n\nClose to bài học (lesson learned), but bài alone is more flexible.",
+  "exampleSentences": [
+    "Anh đã học xong bài hôm nay và chuẩn bị cho buổi kiểm tra.",
+    "Chị có thể giúp em giải thích phần khó trong bài không?",
+    "Em cần làm bài trước khi đến lớp vào sáng mai."
+  ],
+  "updatedAt": "2026-03-03T06:40:52.887Z",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:23:49.452Z",
+    "type": "fillBlankQuiz",
+    "id": "c3675fc2-4c1a-4371-a7ac-3c672397e761",
+    "content": {
+      "sentence": "Tôi đang học ___ này.",
+      "language": "vi",
+      "word": "bài",
+      "choices": [],
+      "answer": "bài",
+      "translatedAnswer": {
+        "en": "lesson"
+      },
+      "translation": {
+        "en": "I am studying this lesson."
+      }
+    },
+    "createdAt": "2025-03-12T13:23:49.452Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I have finished today's lesson and prepared for the test.",
+    "Can you help me explain the difficult part in the lesson?",
+    "I need to do the lesson before coming to class tomorrow morning."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Escribí un poema nuevo.",
+      "vi": "Tôi đã viết một bài thơ mới.",
+      "en": "I wrote a new poem."
+    },
+    "definitions": {
+      "es": "Un artículo, una pieza de escritura o una lección.",
+      "vi": "Một bài viết, một tác phẩm hoặc một bài học.",
+      "en": "An article, a piece of writing, or a lesson."
+    },
+    "createdAt": "2025-01-28T11:04:22.252Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "piece, article, lesson",
+      "es": "pieza, artículo, lección",
+      "vi": "bài, tác phẩm, bài học"
+    }
+  },
+  "definition": "lesson",
+  "_id": "9ZXgmDU71Grm5KEHkiHP"
+}

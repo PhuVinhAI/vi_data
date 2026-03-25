@@ -1,0 +1,101 @@
+{
+  "word": "về",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "I talk about family.",
+    "He asks about work.",
+    "She reads about food."
+  ],
+  "choices": [
+    "với",
+    "từ",
+    "về"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng ta sẽ nói ___ vấn đề này.",
+      "word": "về",
+      "hint": "v___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "about"
+      },
+      "translation": {
+        "en": "We will talk about this issue."
+      },
+      "answer": "về",
+      "choices": [
+        "đến",
+        "về",
+        "từ"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:32:03.159Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:32:03.159Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "fbeba649-d61f-417a-ae90-3f25ebe017ed"
+  },
+  "updatedAt": "2026-03-03T06:05:48.111Z",
+  "exampleSentences": [
+    "Em nói về gia đình.",
+    "Anh hỏi về công việc.",
+    "Chị đọc về món ăn."
+  ],
+  "flashcard": {
+    "createdAt": "2025-05-24T16:36:16.268Z",
+    "word": "về",
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I will go home at six o'clock in the evening.",
+      "vi": "Tôi sẽ về nhà lúc sáu giờ tối."
+    },
+    "definitions": {
+      "vi": "Chỉ sự di chuyển trở lại nơi xuất phát hoặc nơi quen thuộc, thường là nhà.",
+      "en": "To return or go back to a place, often home."
+    },
+    "translations": {
+      "en": "to return; about"
+    }
+  },
+  "notes": "về usually means about / regarding a topic. It’s also a very common verb meaning to return / go back.\n\nAs “about,” it comes after verbs like talk, think, write, worry, learn.  \n\nAs “return,” it often refers to going back home or back to a place.  \n\nYou’ll hear it a lot in daily movement and in conversations about topics, so context tells you which meaning it has.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 28,
+  "fillBlankQuiz": {
+    "id": "c8fc46bb-616c-40f6-a67e-f0d82d84f194",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:32:03.159Z",
+    "content": {
+      "sentence": "Tôi muốn nói ___ chủ đề này.",
+      "word": "về",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I want to talk about this topic."
+      },
+      "answer": "về",
+      "translatedAnswer": {
+        "en": "about"
+      }
+    },
+    "updatedAt": "2025-03-12T16:32:03.159Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "about",
+  "notes_md": "**về** usually means **about / regarding** a topic. It’s also a very common verb meaning **to return / go back**.\n\nAs “about,” it comes after verbs like talk, think, write, worry, learn.  \n\nAs “return,” it often refers to going back home or back to a place.  \n\nYou’ll hear it a lot in daily movement and in conversations about topics, so context tells you which meaning it has.",
+  "sentenceBreakdowns": [
+    "Em (I) + nói (talk) + về (about) + gia đình (family)",
+    "Anh (he) + hỏi (ask) + về (about) + công việc (work)",
+    "Chị (she) + đọc (read) + về (about) + món ăn (food)"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "uVZY2TlsJn0ksIcTk7v7"
+}

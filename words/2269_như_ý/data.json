@@ -1,0 +1,98 @@
+{
+  "flashcard": {
+    "example": {
+      "vi": "Tôi hy vọng mọi thứ sẽ diễn ra như ý.",
+      "en": "I hope everything goes as desired.",
+      "es": "Espero que todo salga como deseo."
+    },
+    "translations": {
+      "es": "como deseo",
+      "en": "as desired",
+      "vi": "như ý"
+    },
+    "definitions": {
+      "es": "Como se desea; de acuerdo con los deseos de uno.",
+      "en": "As desired; according to one's wishes.",
+      "vi": "Theo ý muốn; theo mong muốn của một người."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:38:17.161Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "as desired",
+  "rank": 2269,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh hy vọng công việc mới sẽ mang lại kết quả như ý.",
+    "Chị đã chuẩn bị mọi thứ cho bữa tiệc như ý muốn.",
+    "Nếu mọi chuyện diễn ra như ý, em sẽ rất vui."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Mong ước của tôi là ___.",
+      "answer": "như ý",
+      "translation": {
+        "en": "My wish is as I want."
+      },
+      "choices": [
+        "như ý",
+        "hạnh phúc",
+        "thành công"
+      ],
+      "word": "như ý",
+      "translatedAnswer": {
+        "en": "as I want"
+      },
+      "language": "vi",
+      "hint": "n___ ý"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "c742e7d6-c4d2-4ae1-acf7-1cec010b5be3",
+    "createdAt": "2025-03-12T12:54:14.611Z",
+    "updatedAt": "2025-03-12T12:54:14.611Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "như ý",
+  "notes": "như ý = “as desired” or “the way you want.” It describes something that turns out the way you hoped.\n\nIt’s usually used after verbs like được, không được, làm, diễn ra to comment on the result. Very common in negative form: không như ý (not as hoped).  \n\nYou’ll also see theo như ý + someone to show whose wish it matches.  \n\nClose synonym: vừa ý (satisfactory, pleasing).",
+  "choices": [
+    "như ý",
+    "bất ngờ",
+    "tình cờ"
+  ],
+  "notes_md": "**như ý** = “as desired” or “the way you want.” It describes something that turns out the way you hoped.\n\nIt’s usually used after verbs like *được, không được, làm, diễn ra* to comment on the result. Very common in negative form: **không như ý** (not as hoped).  \n\nYou’ll also see **theo như ý + someone** to show whose wish it matches.  \n\nClose synonym: **vừa ý** (satisfactory, pleasing).",
+  "exampleSentencesTranslated": [
+    "He hopes the new job will bring results as desired.",
+    "She prepared everything for the party as desired.",
+    "If everything goes as desired, I will be very happy."
+  ],
+  "updatedAt": "2026-03-03T10:18:22.316Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "d79f3565-b9f6-45c8-b678-24e3d21b85df",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translation": {
+        "en": "My wish is as I want."
+      },
+      "word": "như ý",
+      "translatedAnswer": {
+        "en": "as I want"
+      },
+      "language": "vi",
+      "sentence": "Mong ước của tôi là ___.",
+      "answer": "như ý"
+    },
+    "createdAt": "2025-03-12T12:54:14.611Z",
+    "updatedAt": "2025-03-12T12:54:14.611Z"
+  },
+  "_id": "1PJ3mXi9AEPRfAntqg5u"
+}

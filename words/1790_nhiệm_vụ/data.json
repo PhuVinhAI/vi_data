@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "9d5b407d-dfeb-4123-962f-710e5527f852",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:53:26.294Z",
+    "updatedAt": "2025-03-12T14:53:26.294Z",
+    "content": {
+      "sentence": "Công việc của tôi là ___.",
+      "word": "nhiệm vụ",
+      "language": "vi",
+      "hint": "n____u",
+      "answer": "nhiệm vụ",
+      "choices": [
+        "nhiệm vụ",
+        "công việc",
+        "dự án"
+      ],
+      "translatedAnswer": {
+        "en": "task"
+      },
+      "translation": {
+        "en": "My job is a task."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "nhiệm vụ = a task, mission, or duty you are responsible for. It often sounds more serious or official than just công việc (work).\n\nIt’s a countable noun: một nhiệm vụ, các nhiệm vụ. Common verbs with it are giao nhiệm vụ (assign a task), hoàn thành nhiệm vụ (complete a task), and thực hiện nhiệm vụ (carry out a task).\n\nYou’ll also see nhiệm vụ của + someone to show responsibility (nhiệm vụ của tôi).  \nClose synonym: trọng trách (heavier responsibility, more serious).",
+  "exampleSentences": [
+    "Anh đã hoàn thành nhiệm vụ được giao trong công việc hôm nay.",
+    "Chị thấy nhiệm vụ này hơi khó nhưng sẽ cố gắng hết sức.",
+    "Mỗi thành viên trong nhóm đều có một nhiệm vụ riêng."
+  ],
+  "word": "nhiệm vụ",
+  "choices": [
+    "nhiệm vụ",
+    "kết quả",
+    "quyết định"
+  ],
+  "rank": 1790,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**nhiệm vụ** = a task, mission, or duty you are responsible for. It often sounds more serious or official than just *công việc* (work).\n\nIt’s a countable noun: *một nhiệm vụ, các nhiệm vụ*. Common verbs with it are **giao nhiệm vụ** (assign a task), **hoàn thành nhiệm vụ** (complete a task), and **thực hiện nhiệm vụ** (carry out a task).\n\nYou’ll also see **nhiệm vụ của + someone** to show responsibility (nhiệm vụ của tôi).  \nClose synonym: **trọng trách** (heavier responsibility, more serious).",
+  "definition": "task",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:53:26.294Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "task"
+      },
+      "translation": {
+        "en": "I need to complete this task."
+      },
+      "sentence": "Tôi cần hoàn thành ___ này.",
+      "answer": "nhiệm vụ",
+      "word": "nhiệm vụ",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:53:26.294Z",
+    "id": "77225687-60b6-4d3a-b30a-bde61f8c83a6"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:27:35.802Z",
+  "exampleSentencesTranslated": [
+    "He completed the assigned task at work today.",
+    "She thinks this task is a bit difficult but will try her best.",
+    "Each member of the team has a separate task."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "task",
+      "es": "tarea",
+      "vi": "nhiệm vụ"
+    },
+    "example": {
+      "en": "My task is to complete the report.",
+      "es": "Mi tarea es completar el informe.",
+      "vi": "Nhiệm vụ của tôi là hoàn thành báo cáo."
+    },
+    "createdAt": "2025-01-28T12:26:47.534Z",
+    "definitions": {
+      "en": "A duty or responsibility assigned to someone.",
+      "es": "Un deber o responsabilidad asignada a alguien.",
+      "vi": "Một nhiệm vụ hoặc trách nhiệm được giao cho ai đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "_id": "UqeRZ7wrjnLMJgh1ov5l"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 801,
+  "exampleSentences": [
+    "Trời mưa lớn thế này, anh nghĩ đi chơi là không thể nào.",
+    "Em đã cố gắng hết sức nhưng việc hoàn thành bài tập đúng hạn là không thể nào.",
+    "Chị ấy nói chuyện suốt đêm nên ngủ sớm là không thể nào."
+  ],
+  "word": "không thể nào",
+  "definition": "impossible",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "không thể nào",
+    "có thể",
+    "nên thử"
+  ],
+  "updatedAt": "2026-03-03T07:41:45.877Z",
+  "notes": "không thể nào = impossible, no way something can happen. It strongly denies ability or possibility.\n\nIt usually goes before a verb to say something cannot be done or cannot happen.  \n\nStronger and more emotional than just không thể.  \nOpposite: có thể (possible).",
+  "fillBlankQuiz": {
+    "id": "56a5b7e6-6850-4dea-9968-6a46a091002c",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Tôi ___ tin điều đó.",
+      "word": "không thể nào",
+      "translatedAnswer": {
+        "en": "cannot believe"
+      },
+      "answer": "không thể nào",
+      "translation": {
+        "en": "I cannot believe that."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:50:39.921Z",
+    "updatedAt": "2025-03-12T13:50:39.921Z"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "It is impossible; cannot be done.",
+      "vi": "Không thể; không thể thực hiện.",
+      "es": "Es imposible; no se puede hacer."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:28:42.655Z",
+    "example": {
+      "en": "I can't possibly finish this assignment in an hour.",
+      "es": "No puedo terminar esta tarea en una hora.",
+      "vi": "Tôi không thể nào hoàn thành bài tập này trong một giờ."
+    },
+    "translations": {
+      "vi": "không thể nào",
+      "es": "no puede ser posible",
+      "en": "cannot possibly"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "It's impossible to go out with this heavy rain.",
+    "I tried my best but finishing the homework on time is impossible.",
+    "She talks all night so sleeping early is impossible."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "39fe80e2-d2e5-4b26-8eb6-bdcb85ca1746",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "cannot happen"
+      },
+      "language": "vi",
+      "sentence": "Điều này ___ xảy ra.",
+      "word": "không thể nào",
+      "choices": [
+        "có thể",
+        "không thể nào",
+        "không đúng"
+      ],
+      "hint": "không t___ n__",
+      "translation": {
+        "en": "This cannot happen."
+      },
+      "answer": "không thể nào"
+    },
+    "createdAt": "2025-03-12T13:50:39.921Z",
+    "updatedAt": "2025-03-12T13:50:39.921Z"
+  },
+  "notes_md": "**không thể nào** = impossible, no way something can happen. It strongly denies ability or possibility.\n\nIt usually goes before a verb to say something cannot be done or cannot happen.  \n\nStronger and more emotional than just **không thể**.  \nOpposite: **có thể** (possible).",
+  "_id": "FzrK7YWrs22xa8wMxXzL"
+}

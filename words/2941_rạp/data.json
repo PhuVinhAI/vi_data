@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:24:30.289Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "rạp",
+      "translatedAnswer": {
+        "en": "cinema"
+      },
+      "translation": {
+        "en": "I like to go to the cinema."
+      },
+      "language": "vi",
+      "sentence": "Tôi thích đi xem phim ở ___ .",
+      "word": "rạp",
+      "choices": []
+    },
+    "id": "fa4adfd8-d416-4a0c-94ce-ca2251676439",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:24:30.289Z"
+  },
+  "exampleSentencesTranslated": [
+    "Do you want to go to the theater to watch a movie with me tonight?",
+    "She usually goes to the theater on weekends to watch plays.",
+    "The theater near my house just opened last week; it is very nice and spacious."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:04:58.696Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "cine",
+      "vi": "rạp",
+      "en": "cinema"
+    },
+    "example": {
+      "es": "Iremos al cine esta noche.",
+      "vi": "Chúng ta sẽ đi xem phim ở rạp tối nay.",
+      "en": "We will go to the cinema tonight."
+    },
+    "definitions": {
+      "en": "A building or place where movies are shown.",
+      "es": "Un edificio o lugar donde se proyectan películas.",
+      "vi": "Một tòa nhà hoặc địa điểm nơi chiếu phim."
+    }
+  },
+  "definition": "theater",
+  "notes": "Rạp = theater, a place where you watch movies or live performances. Most often it means a cinema.\n\nIt’s a noun. You can say một rạp, cái rạp, but people usually specify: rạp phim / rạp chiếu phim (movie theater), rạp hát (theater for plays), rạp xiếc (circus tent).  \n\nCommon verbs with it are đi rạp, ra rạp, vào rạp (Structure: đi / ra / vào + rạp).\n\nClose word: nhà hát = theater building (often more formal, for opera or classical shows).",
+  "updatedAt": "2026-03-03T18:14:47.388Z",
+  "exampleSentences": [
+    "Tối nay anh muốn đi rạp xem phim với em không?",
+    "Chị thường đến rạp vào cuối tuần để xem kịch.",
+    "Rạp gần nhà em mới khai trương tuần trước, rất đẹp và rộng."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:24:30.289Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:24:30.289Z",
+    "content": {
+      "hint": "r___",
+      "answer": "rạp",
+      "translatedAnswer": {
+        "en": "cinema"
+      },
+      "translation": {
+        "en": "I will go to the cinema to see the new movie."
+      },
+      "sentence": "Tôi sẽ đến ___ xem phim mới.",
+      "language": "vi",
+      "word": "rạp",
+      "choices": [
+        "rạp",
+        "nhà hàng",
+        "cửa hàng"
+      ]
+    },
+    "id": "559b0394-b282-4b51-a0d3-44e9f12f66f4"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**Rạp** = theater, a place where you watch movies or live performances. Most often it means a cinema.\n\nIt’s a noun. You can say **một rạp**, **cái rạp**, but people usually specify: **rạp phim / rạp chiếu phim** (movie theater), **rạp hát** (theater for plays), **rạp xiếc** (circus tent).  \n\nCommon verbs with it are **đi rạp**, **ra rạp**, **vào rạp** (Structure: đi / ra / vào + rạp).\n\nClose word: **nhà hát** = theater building (often more formal, for opera or classical shows).",
+  "rank": 2941,
+  "choices": [
+    "rạp",
+    "bãi",
+    "chợ"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "rạp",
+  "_id": "9f1patWvOkHohKUGyt03"
+}

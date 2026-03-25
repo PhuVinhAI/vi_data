@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh thấy cuốn sách này rất có ích cho việc học tiếng Việt.",
+    "Chị nghĩ kỹ năng giao tiếp sẽ có ích trong công việc của em.",
+    "Việc tập thể dục mỗi ngày thật sự có ích cho sức khỏe của chúng ta."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translation": {
+        "en": "This is very useful for me."
+      },
+      "word": "có ích",
+      "language": "vi",
+      "sentence": "Việc này rất ___ cho tôi.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "useful"
+      },
+      "answer": "có ích"
+    },
+    "id": "ae924915-24ba-4efe-982b-ffa7897d6846",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:59:29.651Z",
+    "updatedAt": "2025-03-12T15:59:29.651Z"
+  },
+  "choices": [
+    "có ích",
+    "vui vẻ",
+    "mệt mỏi"
+  ],
+  "rank": 2433,
+  "notes": "có ích = useful, helpful, brings real benefit. It describes something that gives value or helps you in some way.\n\nIt’s an adjective, often used after nouns or with “rất/khá” to add degree. Very commonly followed by cho + noun to say who/what it benefits.\n\nStronger synonym: hữu ích (a bit more formal). Opposite: vô ích (useless).",
+  "definition": "useful",
+  "notes_md": "**có ích** = useful, helpful, brings real benefit. It describes something that gives value or helps you in some way.\n\nIt’s an adjective, often used after nouns or with “rất/khá” to add degree. Very commonly followed by **cho + noun** to say who/what it benefits.\n\n\nStronger synonym: **hữu ích** (a bit more formal). Opposite: **vô ích** (useless).",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "Learning English is very useful for everyone."
+      },
+      "word": "có ích",
+      "hint": "c___h",
+      "sentence": "Học tiếng Anh rất ___ cho mọi người.",
+      "choices": [
+        "có ích",
+        "khó khăn",
+        "vô nghĩa"
+      ],
+      "translatedAnswer": {
+        "en": "useful"
+      },
+      "answer": "có ích"
+    },
+    "id": "b6e155b3-4552-4603-94eb-fcd61ef2f0c0",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:59:29.651Z",
+    "updatedAt": "2025-03-12T15:59:29.651Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:34:57.504Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "có ích",
+  "flashcard": {
+    "translations": {
+      "vi": "có ích",
+      "en": "beneficial",
+      "es": "útil"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:31:40.603Z",
+    "definitions": {
+      "es": "Tener un efecto positivo o ser útil.",
+      "en": "Having a positive effect or being useful.",
+      "vi": "Có tác động tích cực hoặc hữu ích."
+    },
+    "example": {
+      "es": "Estudiar es útil para el futuro.",
+      "en": "Studying is beneficial for the future.",
+      "vi": "Học tập là có ích cho tương lai."
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I think this book is very useful for learning Vietnamese.",
+    "She thinks communication skills will be useful in your job.",
+    "Exercising every day is really useful for our health."
+  ],
+  "_id": "lqoK4rn7D7PcMVh2svBp"
+}

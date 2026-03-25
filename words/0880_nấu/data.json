@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "a35f302f-a41c-4150-82a3-5ca7e70b094c",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:25:51.491Z",
+    "content": {
+      "translation": {
+        "en": "I want to cook this dish."
+      },
+      "translatedAnswer": {
+        "en": "cook"
+      },
+      "answer": "nấu",
+      "choices": [],
+      "word": "nấu",
+      "sentence": "Tôi muốn ___ món ăn này.",
+      "language": "vi"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:25:51.491Z"
+  },
+  "exampleSentencesTranslated": [
+    "She usually cook dinner for the whole family every evening.",
+    "I want to learn how to cook traditional Vietnamese pho.",
+    "He really likes to cook with friends on weekends."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Voy a cocinar arroz para la cena.",
+      "vi": "Tôi sẽ nấu cơm cho bữa tối.",
+      "en": "I will cook rice for dinner."
+    },
+    "definitions": {
+      "vi": "Chuẩn bị thức ăn bằng cách đun nóng.",
+      "es": "Preparar comida calentándola.",
+      "en": "To prepare food by heating it."
+    },
+    "createdAt": "2025-01-28T13:00:41.386Z",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "cook",
+      "es": "cocinar",
+      "vi": "nấu"
+    }
+  },
+  "definition": "cook",
+  "notes": "nấu = to cook (prepare food with heat). It’s used for cooking by boiling, frying, steaming, etc.\n\nUse it with food or dishes: nấu cơm, nấu canh, nấu món gì đó. You can also say nấu ăn = to cook in general.\n\nStrong memory link: nấu (cook with heat) vs làm (make, more general).",
+  "updatedAt": "2026-03-03T07:50:11.318Z",
+  "exampleSentences": [
+    "Chị thường nấu bữa tối cho cả gia đình vào mỗi tối.",
+    "Em muốn học cách nấu món phở truyền thống của Việt Nam.",
+    "Anh ấy rất thích nấu ăn cùng bạn bè vào cuối tuần."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:25:51.491Z",
+    "type": "multiChoiceQuiz",
+    "id": "70ea4767-9f09-437b-98e4-f1d332825108",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:25:51.491Z",
+    "content": {
+      "sentence": "Tôi thích ___ bữa tối mỗi ngày.",
+      "language": "vi",
+      "word": "nấu",
+      "choices": [
+        "nấu",
+        "mua",
+        "ăn"
+      ],
+      "hint": "n__",
+      "answer": "nấu",
+      "translatedAnswer": {
+        "en": "cook"
+      },
+      "translation": {
+        "en": "I like to cook dinner every day."
+      }
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nấu** = to cook (prepare food with heat). It’s used for cooking by boiling, frying, steaming, etc.\n\nUse it with food or dishes: *nấu cơm, nấu canh, nấu món gì đó*. You can also say **nấu ăn** = to cook in general.\n\n\nStrong memory link: **nấu** (cook with heat) vs **làm** (make, more general).",
+  "rank": 880,
+  "choices": [
+    "nấu",
+    "mua",
+    "chơi"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "nấu",
+  "_id": "e61Lykbg5zu9fqJfpxdY"
+}

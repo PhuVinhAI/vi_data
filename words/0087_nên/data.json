@@ -1,0 +1,101 @@
+{
+  "notes": "nên = should. It gives advice or a gentle suggestion, not a strong command.\n\nUse it before a verb to say what is a good idea or the right thing to do. It’s softer than phải (must), so it sounds less strict.\n\nTo say “shouldn’t,” add không before it → không nên. Think of nên as friendly advice, while phải feels more like a rule.",
+  "sentenceBreakdowns": [
+    "Em (you) + nên (should) + uống (drink) + nước (water) + ấm (warm) + mỗi (every) + ngày (day)",
+    "Anh (you) + nên (should) + ăn (eat) + cơm (rice) + với (with) + rau (vegetables)",
+    "Chị (you) + nên (should) + mua (buy) + sữa (milk) + cho (for) + con (child)"
+  ],
+  "choices": [
+    "cần",
+    "phải",
+    "nên"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T06:11:55.506Z",
+  "exampleSentencesTranslated": [
+    "You should drink warm water every day.",
+    "You should eat rice with vegetables.",
+    "You should buy milk for your child."
+  ],
+  "rank": 87,
+  "word": "nên",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:45:33.669Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "should"
+      },
+      "language": "vi",
+      "sentence": "Bạn ___ làm bài tập này.",
+      "translation": {
+        "en": "You should do this homework."
+      },
+      "answer": "nên",
+      "hint": "n___",
+      "word": "nên",
+      "choices": [
+        "nên",
+        "không",
+        "phải"
+      ]
+    },
+    "id": "241f9b33-e6dd-4967-be00-650b5056d52b",
+    "createdAt": "2025-03-12T14:45:33.669Z",
+    "type": "multiChoiceQuiz"
+  },
+  "definition": "should",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:45:33.669Z",
+    "id": "45ad7de2-88e9-4190-b3f5-14c78a88f0c1",
+    "content": {
+      "sentence": "Bạn ___ làm bài tập này.",
+      "translatedAnswer": {
+        "en": "should"
+      },
+      "language": "vi",
+      "word": "nên",
+      "choices": [],
+      "translation": {
+        "en": "You should do this homework."
+      },
+      "answer": "nên"
+    },
+    "updatedAt": "2025-03-12T14:45:33.669Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em nên uống nước ấm mỗi ngày.",
+    "Anh nên ăn cơm với rau.",
+    "Chị nên mua sữa cho con."
+  ],
+  "notes_md": "**nên** = *should*. It gives advice or a gentle suggestion, not a strong command.\n\nUse it before a verb to say what is a good idea or the right thing to do. It’s softer than **phải** (must), so it sounds less strict.\n\n\nTo say “shouldn’t,” add **không** before it → **không nên**. Think of **nên** as friendly advice, while **phải** feels more like a rule.",
+  "flashcard": {
+    "definitions": {
+      "en": "A word used to advise or suggest that someone should do something.",
+      "vi": "Từ dùng để khuyên ai đó làm việc gì đó là tốt hoặc cần thiết."
+    },
+    "createdAt": "2025-05-24T16:22:12.047Z",
+    "example": {
+      "en": "You should drink plenty of water every day.",
+      "vi": "Bạn nên uống nhiều nước mỗi ngày."
+    },
+    "word": "nên",
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "should"
+    }
+  },
+  "_id": "TCAd5XjQT6ar03ECLJ9Z"
+}

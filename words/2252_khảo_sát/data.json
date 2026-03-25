@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**khảo sát** = survey. It can be a **noun** (a survey) or a **verb** (to survey / examine carefully).\n\nAs a noun, you usually say **một cuộc khảo sát**. Common verbs: **làm**, **tiến hành** (to conduct).\n\nAs a verb, it means to study or check something to get information, often for research, business, or planning.\n\n\nClose to **điều tra** (investigate), but *khảo sát* feels more neutral and data-focused, not about crime or trouble.",
+  "definition": "survey",
+  "rank": 2252,
+  "fillBlankQuiz": {
+    "id": "10dc11c8-2a12-4913-bbd4-6327ea488a52",
+    "createdAt": "2025-03-12T16:32:25.560Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "answer": "khảo sát",
+      "translation": {
+        "en": "We conducted a new survey."
+      },
+      "translatedAnswer": {
+        "en": "survey"
+      },
+      "sentence": "Chúng tôi đã thực hiện một ___ mới.",
+      "word": "khảo sát"
+    },
+    "updatedAt": "2025-03-12T16:32:25.560Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "khảo sát = survey. It can be a noun (a survey) or a verb (to survey / examine carefully).\n\nAs a noun, you usually say một cuộc khảo sát. Common verbs: làm, tiến hành (to conduct).\n\nAs a verb, it means to study or check something to get information, often for research, business, or planning.\n\nClose to điều tra (investigate), but khảo sát feels more neutral and data-focused, not about crime or trouble.",
+  "flashcard": {
+    "createdAt": "2025-01-28T14:03:40.033Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Một phương pháp thu thập thông tin từ cá nhân, thường được sử dụng để đánh giá ý kiến hoặc hành vi.",
+      "en": "A method of gathering information from individuals, often used to assess opinions or behaviors.",
+      "es": "Un método para recopilar información de individuos, a menudo utilizado para evaluar opiniones o comportamientos."
+    },
+    "example": {
+      "vi": "Chúng tôi đã thực hiện một khảo sát để hiểu rõ hơn về nhu cầu của khách hàng.",
+      "es": "Realizamos una encuesta para comprender mejor las necesidades de los clientes.",
+      "en": "We conducted a survey to better understand customer needs."
+    },
+    "translations": {
+      "en": "survey",
+      "es": "encuesta",
+      "vi": "khảo sát"
+    }
+  },
+  "updatedAt": "2026-03-03T10:16:25.300Z",
+  "exampleSentences": [
+    "Anh đã làm một khảo sát về thói quen ăn sáng ở trường.",
+    "Chị muốn tham gia khảo sát ý kiến của khách hàng không?",
+    "Em cần hoàn thành khảo sát này trước khi nộp đơn xin việc."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translation": {
+        "en": "We conducted a new survey."
+      },
+      "answer": "khảo sát",
+      "choices": [
+        "khảo sát",
+        "nghiên cứu",
+        "phân tích"
+      ],
+      "translatedAnswer": {
+        "en": "survey"
+      },
+      "language": "vi",
+      "hint": "k___t",
+      "word": "khảo sát",
+      "sentence": "Chúng tôi đã thực hiện một ___ mới."
+    },
+    "updatedAt": "2025-03-12T16:32:25.560Z",
+    "id": "a4bd7ea1-be20-4d19-bd7b-7aa3b713ada9",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:32:25.560Z"
+  },
+  "choices": [
+    "khám phá",
+    "báo cáo",
+    "khảo sát"
+  ],
+  "word": "khảo sát",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He did a survey about breakfast habits at school.",
+    "Do you want to join the customer opinion survey?",
+    "You need to complete this survey before submitting the job application."
+  ],
+  "_id": "uaxdYQ3Uhp5zCgXENRyi"
+}

@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "453ccad1-f78d-4528-b1e6-d99f72b65cba",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:50:23.904Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "language": "vi",
+      "answer": "ra mắt",
+      "translation": {
+        "en": "We will launch the new product."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "launch"
+      },
+      "sentence": "Chúng tôi sẽ ___ sản phẩm mới.",
+      "word": "ra mắt"
+    },
+    "updatedAt": "2025-03-12T16:50:23.904Z"
+  },
+  "rank": 1409,
+  "definition": "launch",
+  "notes_md": "**Ra mắt** = to launch or introduce something to the public for the first time. It’s used when a product, project, movie, book, or person officially appears in front of an audience.\n\nIt’s a verb phrase: **ra** (out) + **mắt** (eyes) → “come out to the public eye.”  \nOften used with things like sản phẩm, phim, ứng dụng, thương hiệu, vai diễn.\n\n\nClose synonym: **giới thiệu** (introduce), but *ra mắt* feels more official and public, like a debut event.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentencesTranslated": [
+    "The company will launch a new product next week.",
+    "This band just launch their first album.",
+    "He was invited to attend his friend's book launch event."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "ra mắt",
+  "choices": [
+    "ra mắt",
+    "trả lời",
+    "bắt đầu"
+  ],
+  "multiChoiceQuiz": {
+    "id": "e7461601-a067-4c9e-ad96-aacc9b0e48dd",
+    "createdAt": "2025-03-12T16:50:23.904Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "They have launched a new movie."
+      },
+      "choices": [
+        "ra mắt",
+        "xuất hiện",
+        "trình diễn"
+      ],
+      "answer": "ra mắt",
+      "translatedAnswer": {
+        "en": "launch"
+      },
+      "sentence": "Họ đã ___ một bộ phim mới.",
+      "hint": "r__ m__",
+      "word": "ra mắt"
+    },
+    "updatedAt": "2025-03-12T16:50:23.904Z",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentences": [
+    "Công ty sẽ ra mắt sản phẩm mới vào tuần sau.",
+    "Nhóm nhạc này vừa ra mắt album đầu tiên của họ.",
+    "Anh được mời đến dự sự kiện ra mắt sách của bạn."
+  ],
+  "updatedAt": "2026-03-03T08:46:37.884Z",
+  "flashcard": {
+    "example": {
+      "vi": "Họ sẽ ra mắt sản phẩm mới vào tuần tới.",
+      "es": "Ellos lanzarán el nuevo producto la próxima semana.",
+      "en": "They will launch the new product next week."
+    },
+    "definitions": {
+      "es": "Lanzar o presentar algo, típicamente un producto o evento.",
+      "en": "To launch or introduce something, typically a product or event.",
+      "vi": "Ra mắt một cái gì đó, thường là sản phẩm hoặc sự kiện."
+    },
+    "translations": {
+      "es": "lanzar",
+      "en": "launch",
+      "vi": "ra mắt"
+    },
+    "createdAt": "2025-01-28T14:20:32.234Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "Ra mắt = to launch or introduce something to the public for the first time. It’s used when a product, project, movie, book, or person officially appears in front of an audience.\n\nIt’s a verb phrase: ra (out) + mắt (eyes) → “come out to the public eye.”  \nOften used with things like sản phẩm, phim, ứng dụng, thương hiệu, vai diễn.\n\nClose synonym: giới thiệu (introduce), but ra mắt feels more official and public, like a debut event.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "z47jTuGmsH8I60ewcpXz"
+}

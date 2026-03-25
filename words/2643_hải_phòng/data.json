@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "hải phòng",
+    "cần thơ",
+    "đà nẵng"
+  ],
+  "rank": 2643,
+  "multiChoiceQuiz": {
+    "id": "00e197e8-0aeb-4cf5-8982-5b197e9001c1",
+    "createdAt": "2025-03-12T15:00:24.323Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "word": "hải phòng",
+      "language": "vi",
+      "answer": "hải phòng",
+      "hint": "h___ p____",
+      "sentence": "Tôi muốn đi ___ vào cuối tuần.",
+      "translation": {
+        "en": "I want to go to Hai Phong this weekend."
+      },
+      "translatedAnswer": {
+        "en": "Hai Phong"
+      },
+      "choices": [
+        "hà nội",
+        "hải phòng",
+        "đà nẵng"
+      ]
+    },
+    "updatedAt": "2025-03-12T15:00:24.323Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hải phòng",
+  "exampleSentences": [
+    "Anh đã từng đến hải phòng vào mùa hè năm ngoái chưa?",
+    "Gia đình em sẽ chuyển đến sống ở hải phòng vào tháng sau.",
+    "Bạn của chị đang học đại học tại hải phòng và rất thích thành phố này."
+  ],
+  "notes": "Hải Phòng is a major port city in northern Vietnam, near Hanoi. It’s one of the biggest cities in the country.\n\nIt’s a proper noun, so you usually use it without a classifier. If you want to be clear or formal, say thành phố Hải Phòng (the city of Hai Phong).  \n\nIt’s often called thành phố Cảng (“the Port City”), which helps you remember it’s famous for its harbor and seafood.",
+  "exampleSentencesTranslated": [
+    "Have you ever been to Hai Phong last summer?",
+    "My family will move to live in Hai Phong next month.",
+    "Her friend is studying at university in Hai Phong and really likes this city."
+  ],
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:00:24.323Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "Hai Phong"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I have been to Hai Phong once."
+      },
+      "sentence": "Tôi đã đến ___ một lần.",
+      "word": "hải phòng",
+      "language": "vi",
+      "answer": "hải phòng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T15:00:24.323Z",
+    "id": "35d01920-69a4-48af-ab4d-6c09b5d76e8b"
+  },
+  "updatedAt": "2026-03-03T11:31:38.807Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:33:20.447Z",
+    "definitions": {
+      "en": "A major port city in northern Vietnam known for its shipping industry.",
+      "es": "Una importante ciudad portuaria en el norte de Vietnam conocida por su industria de transporte marítimo.",
+      "vi": "Một thành phố cảng lớn ở miền Bắc Việt Nam nổi tiếng với ngành vận tải biển."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "Haiphong",
+      "es": "Hải Phòng",
+      "vi": "Hải Phòng"
+    },
+    "example": {
+      "en": "Haiphong is a major port city in northern Vietnam.",
+      "es": "Hải Phòng es una importante ciudad portuaria en el norte de Vietnam.",
+      "vi": "Hải Phòng là một thành phố cảng lớn ở miền Bắc Việt Nam."
+    }
+  },
+  "notes_md": "**Hải Phòng** is a major port city in northern Vietnam, near Hanoi. It’s one of the biggest cities in the country.\n\nIt’s a proper noun, so you usually use it without a classifier. If you want to be clear or formal, say **thành phố Hải Phòng** (the city of Hai Phong).  \n\nIt’s often called **thành phố Cảng** (“the Port City”), which helps you remember it’s famous for its harbor and seafood.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "Hai Phong",
+  "_id": "X8n0p15dQVeEmgpZFCM3"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T17:19:35.012Z",
+    "id": "96d01401-1b44-40a2-9b5a-6f4c0e333ca2",
+    "content": {
+      "choices": [],
+      "word": "mơ",
+      "translation": {
+        "en": "I often dream about the future."
+      },
+      "answer": "mơ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "dream"
+      },
+      "sentence": "Tôi thường ___ về tương lai."
+    },
+    "updatedAt": "2025-03-12T17:19:35.012Z"
+  },
+  "definition": "dream",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "sueño",
+      "vi": "mơ",
+      "en": "dream"
+    },
+    "createdAt": "2025-01-28T12:20:56.868Z",
+    "definitions": {
+      "es": "Experimentar pensamientos, imágenes o emociones durante el sueño.",
+      "en": "To experience thoughts, images, or emotions during sleep.",
+      "vi": "Trải nghiệm những suy nghĩ, hình ảnh hoặc cảm xúc trong khi ngủ."
+    },
+    "example": {
+      "en": "I often dream about distant journeys.",
+      "vi": "Tôi thường mơ về những chuyến đi xa.",
+      "es": "A menudo sueño con viajes lejanos."
+    }
+  },
+  "exampleSentences": [
+    "Đêm qua, em đã có một giấc mơ rất đẹp về gia đình.",
+    "Anh thường mơ về một tương lai hạnh phúc bên người mình yêu.",
+    "Khi còn nhỏ, chị luôn mơ trở thành bác sĩ để giúp đỡ mọi người."
+  ],
+  "notes_md": "**mơ** = to dream (when you’re sleeping). It’s also used for dreaming about the future or something you want.\n\nAs a **verb**, use it with **về** + noun for “dream about” or directly before another verb for ambitions.  \n\nAs a **noun**, it appears in **giấc mơ** (a dream while sleeping).  \n\nClose connection: **mơ ước** (to dream/aspire) and **ước mơ** (a dream/goal) — more about life goals than sleep dreams.",
+  "choices": [
+    "mơ",
+    "mở",
+    "mời"
+  ],
+  "notes": "mơ = to dream (when you’re sleeping). It’s also used for dreaming about the future or something you want.\n\nAs a verb, use it with về + noun for “dream about” or directly before another verb for ambitions.  \n\nAs a noun, it appears in giấc mơ (a dream while sleeping).  \n\nClose connection: mơ ước (to dream/aspire) and ước mơ (a dream/goal) — more about life goals than sleep dreams.",
+  "rank": 1111,
+  "exampleSentencesTranslated": [
+    "Last night, I had a very beautiful dream about my family.",
+    "He often dreams about a happy future with the one he loves.",
+    "When she was young, she always dreamed of becoming a doctor to help people."
+  ],
+  "word": "mơ",
+  "multiChoiceQuiz": {
+    "id": "b25f9457-af6c-47a8-a41c-4ad0a1505d4a",
+    "createdAt": "2025-03-12T17:19:35.012Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T17:19:35.012Z",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "dream"
+      },
+      "sentence": "Cô ấy thích ___ mỗi đêm.",
+      "hint": "m__",
+      "translation": {
+        "en": "She likes to dream every night."
+      },
+      "answer": "mơ",
+      "word": "mơ",
+      "choices": [
+        "mơ",
+        "ca hát",
+        "đọc sách"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T08:14:23.834Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "TTxDyrhlLg6HODhBova4"
+}

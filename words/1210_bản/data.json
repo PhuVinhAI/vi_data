@@ -1,0 +1,99 @@
+{
+  "word": "bản",
+  "choices": [
+    "bản",
+    "bạn",
+    "bàn"
+  ],
+  "notes": "bản = version. It’s used for different forms of the same thing (software version, language version, final version).\n\nIt’s a noun, and also works like a classifier for documents, maps, songs, reports, etc. You’ll often see it in fixed pairs like bản gốc (original), bản sao (copy), bản dịch (translation), bản nháp (draft).\n\nIt’s close to “version” or “copy” in English, depending on context — think “which form of this thing?”",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh đã tải bản mới nhất của phần mềm về máy tính.",
+    "Chị có thể gửi cho em bản tiếng Anh của tài liệu này không?",
+    "Em nên kiểm tra lại bản cuối cùng trước khi nộp cho sếp."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "40d457cc-c026-4501-8967-9fecd6e5c8a9",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi đã đọc ___ sách này.",
+      "answer": "bản",
+      "translation": {
+        "en": "I have read this version of the book."
+      },
+      "choices": [
+        "bản",
+        "phiên bản",
+        "sách"
+      ],
+      "translatedAnswer": {
+        "en": "version"
+      },
+      "language": "vi",
+      "word": "bản",
+      "hint": "b__n"
+    },
+    "createdAt": "2025-03-12T12:52:31.232Z",
+    "updatedAt": "2025-03-12T12:52:31.232Z"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Tôi đã in một bản sao của tài liệu.",
+      "en": "I printed a copy of the document.",
+      "es": "Imprimí una copia del documento."
+    },
+    "translations": {
+      "es": "copia",
+      "vi": "bản",
+      "en": "copy"
+    },
+    "definitions": {
+      "vi": "Một bản sao hoặc phiên bản của cái gì đó.",
+      "en": "A copy or version of something.",
+      "es": "Una copia o versión de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T10:36:39.047Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "version",
+  "rank": 1210,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:52:31.232Z",
+    "updatedAt": "2025-03-12T12:52:31.232Z",
+    "content": {
+      "sentence": "Tôi đã đọc ___ sách này.",
+      "answer": "bản",
+      "choices": [],
+      "translation": {
+        "en": "I have read this version of the book."
+      },
+      "word": "bản",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "version"
+      }
+    },
+    "type": "fillBlankQuiz",
+    "id": "6e41383d-a473-47c9-bbae-c6c77eb7def7",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "updatedAt": "2026-03-03T08:24:43.554Z",
+  "exampleSentencesTranslated": [
+    "I downloaded the newest version of the software to my computer.",
+    "Can you send me the English version of this document?",
+    "You should check the final version before submitting it to the boss."
+  ],
+  "notes_md": "**bản** = version. It’s used for different forms of the same thing (software version, language version, final version).\n\nIt’s a noun, and also works like a classifier for documents, maps, songs, reports, etc. You’ll often see it in fixed pairs like **bản gốc** (original), **bản sao** (copy), **bản dịch** (translation), **bản nháp** (draft).\n\n\nIt’s close to “version” or “copy” in English, depending on context — think “which form of this thing?”",
+  "_id": "0sGHJVTnbCxU8JG62WoC"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể ngồi ở phía cửa sổ nếu muốn.",
+    "Em thấy có một quán cà phê ở phía bên kia đường.",
+    "Chị hãy để túi xách ở phía sau ghế nhé."
+  ],
+  "notes": "phía = side, direction, or part of something (like “the … side” or “toward”). It’s about position in space.\n\nIt’s a noun, but you don’t count it. It usually pairs with location words: phía trước (front), phía sau (back), phía trên (upper side), phía dưới (lower side).\n\nClose to bên (side), but bên feels more concrete and physical; phía feels more directional or spatial.",
+  "word": "phía",
+  "multiChoiceQuiz": {
+    "id": "3e148542-2441-4fd3-b853-023245b8bc41",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:53:49.657Z",
+    "updatedAt": "2025-03-12T14:53:49.657Z",
+    "content": {
+      "answer": "phía",
+      "hint": "p___a",
+      "word": "phía",
+      "language": "vi",
+      "sentence": "Cái bàn ở ___ bên trái.",
+      "translation": {
+        "en": "The table is on the left side."
+      },
+      "translatedAnswer": {
+        "en": "side"
+      },
+      "choices": [
+        "trái",
+        "phía",
+        "phải"
+      ]
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "rank": 545,
+  "choices": [
+    "phía",
+    "giữa",
+    "dưới"
+  ],
+  "definition": "side",
+  "notes_md": "**phía** = side, direction, or part of something (like “the … side” or “toward”). It’s about position in space.\n\nIt’s a noun, but you don’t count it. It usually pairs with location words: *phía trước* (front), *phía sau* (back), *phía trên* (upper side), *phía dưới* (lower side).\n\n\nClose to **bên** (side), but **bên** feels more concrete and physical; **phía** feels more directional or spatial.",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "example": {
+      "en": "I am standing on the left side.",
+      "es": "Estoy de pie en el lado izquierdo.",
+      "vi": "Tôi đứng ở phía bên trái."
+    },
+    "translations": {
+      "en": "side",
+      "es": "lado",
+      "vi": "phía"
+    },
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A side or direction.",
+      "es": "Un lado o dirección.",
+      "vi": "Một bên hoặc hướng."
+    },
+    "createdAt": "2025-01-28T12:27:10.236Z"
+  },
+  "fillBlankQuiz": {
+    "id": "f5093869-b125-44ea-bac9-cecdaf9ad971",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:53:49.657Z",
+    "updatedAt": "2025-03-12T14:53:49.657Z",
+    "content": {
+      "translation": {
+        "en": "The table is on the right side."
+      },
+      "translatedAnswer": {
+        "en": "side"
+      },
+      "choices": [],
+      "word": "phía",
+      "language": "vi",
+      "answer": "phía",
+      "sentence": "Cái bàn ở ___ bên phải."
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:16:47.316Z",
+  "exampleSentencesTranslated": [
+    "You can sit on the window side if you want.",
+    "I see a coffee shop on the other side of the street.",
+    "Please put your bag on the side behind the chair."
+  ],
+  "_id": "V1RMgTxF37tm1bx9z0oi"
+}

@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "answer": "công ty",
+      "sentence": "Họ có một ___ mới.",
+      "hint": "c___y",
+      "word": "công ty",
+      "translatedAnswer": {
+        "en": "company"
+      },
+      "language": "vi",
+      "choices": [
+        "công ty",
+        "doanh nghiệp",
+        "nhà máy"
+      ],
+      "translation": {
+        "en": "They have a new company."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "0557445d-05ab-433d-a835-8caa4923a477",
+    "createdAt": "2025-03-12T13:06:36.325Z",
+    "updatedAt": "2025-03-12T13:06:36.325Z"
+  },
+  "exampleSentences": [
+    "Chị làm việc ở một công ty lớn gần trung tâm thành phố.",
+    "Sáng mai anh phải đến công ty họp với sếp.",
+    "Bạn em vừa mới bắt đầu công việc mới tại công ty này."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "company",
+  "rank": 139,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A business or enterprise that is a legal entity.",
+      "vi": "Một tổ chức kinh doanh hoặc doanh nghiệp có tư cách pháp nhân."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:18:42.908Z",
+    "example": {
+      "vi": "Anh ấy làm việc tại một công ty lớn ở Hà Nội.",
+      "en": "He works at a big company in Hanoi."
+    },
+    "translations": {
+      "en": "company"
+    },
+    "word": "công ty"
+  },
+  "notes": "Công ty means company — a business organization where people work.\n\nIt’s a noun. Use classifiers like một công ty, hai công ty.  \nCommon pairings: công ty lớn/nhỏ, công ty tư nhân, công ty nước ngoài, thành lập công ty, làm cho công ty.  \nA close synonym is doanh nghiệp (a bit more formal, often used in business/legal contexts).",
+  "choices": [
+    "công ty",
+    "trường học",
+    "bệnh viện"
+  ],
+  "word": "công ty",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "She works at a large company near the city center.",
+    "Tomorrow morning I have to go to the company for a meeting with the boss.",
+    "My friend just started a new job at this company."
+  ],
+  "notes_md": "**Công ty** means *company* — a business organization where people work.\n\nIt’s a noun. Use classifiers like **một công ty**, **hai công ty**.  \nCommon pairings: **công ty lớn/nhỏ**, **công ty tư nhân**, **công ty nước ngoài**, **thành lập công ty**, **làm cho công ty**.  \nA close synonym is **doanh nghiệp** (a bit more formal, often used in business/legal contexts).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:06:36.325Z",
+    "updatedAt": "2025-03-12T13:06:36.325Z",
+    "id": "5aa4ca4a-d76b-486f-a628-1c05451533cb",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "công ty",
+      "translatedAnswer": {
+        "en": "company"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We work at this company."
+      },
+      "choices": [],
+      "answer": "công ty",
+      "sentence": "Chúng tôi làm việc tại ___ này."
+    },
+    "type": "fillBlankQuiz"
+  },
+  "updatedAt": "2026-03-03T06:34:19.986Z",
+  "_id": "4nnd31maa9htY3sCnlic"
+}

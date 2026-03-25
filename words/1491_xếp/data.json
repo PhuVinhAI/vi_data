@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T08:55:29.760Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "xếp",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a16fa9c0-9810-4552-9ba5-678284693b41",
+    "createdAt": "2025-03-12T14:37:59.817Z",
+    "updatedAt": "2025-03-12T14:37:59.817Z",
+    "content": {
+      "sentence": "Tôi cần ___ lại đồ đạc.",
+      "translatedAnswer": {
+        "en": "arrange"
+      },
+      "language": "vi",
+      "hint": "x___",
+      "translation": {
+        "en": "I need to arrange the furniture."
+      },
+      "answer": "xếp",
+      "word": "xếp",
+      "choices": [
+        "gói",
+        "xếp",
+        "sắp xếp"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 1491,
+  "exampleSentencesTranslated": [
+    "Can you help me arrange the clothes into the suitcase before we go?",
+    "Please remember to arrange the line neatly when buying tickets at the counter.",
+    "She will arrange the meeting schedule for tomorrow afternoon so everyone can join."
+  ],
+  "notes": "xếp = to arrange or put things in order. It’s used when you organize objects neatly or line people/things up.\n\nYou’ll hear it with physical items: xếp quần áo, xếp sách, xếp bàn ghế — basically putting things into a tidy order. It also works for people in lines: xếp hàng = line up.  \n\nClose synonym: sắp xếp (a bit more formal, often for plans or organizing in general).",
+  "choices": [
+    "xếp",
+    "bạn",
+    "bàn"
+  ],
+  "exampleSentences": [
+    "Em giúp chị xếp quần áo vào vali trước khi đi nhé.",
+    "Anh nhớ xếp hàng ngay ngắn khi mua vé ở quầy.",
+    "Chị xếp lịch họp vào chiều mai để mọi người tham gia."
+  ],
+  "notes_md": "**xếp** = to arrange or put things in order. It’s used when you organize objects neatly or line people/things up.\n\nYou’ll hear it with physical items: *xếp quần áo, xếp sách, xếp bàn ghế* — basically putting things into a tidy order. It also works for people in lines: *xếp hàng* = line up.  \n\n\nClose synonym: **sắp xếp** (a bit more formal, often for plans or organizing in general).",
+  "flashcard": {
+    "translations": {
+      "es": "organizar",
+      "vi": "xếp",
+      "en": "to arrange"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Hãy xếp sách vào kệ.",
+      "en": "Please arrange the books on the shelf.",
+      "es": "Por favor, organiza los libros en la estantería."
+    },
+    "createdAt": "2025-01-28T12:13:42.012Z",
+    "definitions": {
+      "es": "organizar o disponer algo en un orden particular.",
+      "vi": "sắp xếp hoặc tổ chức một cái gì đó theo một thứ tự nhất định.",
+      "en": "to arrange or organize something in a particular order."
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "arrange",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "xếp",
+      "translation": {
+        "en": "I will arrange the books on the shelf."
+      },
+      "answer": "xếp",
+      "sentence": "Tôi sẽ ___ sách trên kệ.",
+      "translatedAnswer": {
+        "en": "arrange"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:37:59.817Z",
+    "createdAt": "2025-03-12T14:37:59.817Z",
+    "id": "116dfeb0-14c1-408c-882e-2cd1e97b3fe2",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "_id": "RQuvjV6YGtXPEOMvpkhl"
+}

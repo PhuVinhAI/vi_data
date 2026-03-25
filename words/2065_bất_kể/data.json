@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:39:13.214Z",
+    "createdAt": "2025-03-12T13:39:13.214Z",
+    "content": {
+      "choices": [
+        "bất cứ",
+        "bất kể",
+        "bất tận"
+      ],
+      "hint": "b___ k___",
+      "translation": {
+        "en": "You will come regardless of the bad weather."
+      },
+      "answer": "bất kể",
+      "translatedAnswer": {
+        "en": "regardless"
+      },
+      "sentence": "Bạn sẽ đến ___ thời tiết xấu.",
+      "word": "bất kể",
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "9fbbabde-8a5f-4d9b-873e-528c849405f3",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**Bất kể** means *no matter* or *regardless of*. It shows that something does not change the result.\n\nIt’s a linking phrase, often placed before a noun or a clause. It highlights that the condition doesn’t affect the action.\n\n\nVery close to **dù / dù cho**, but *bất kể* sounds a bit more neutral and firm.",
+  "exampleSentencesTranslated": [
+    "I will help you no matter what you need and when.",
+    "She always works hard no matter the weather.",
+    "I want to travel no matter how long I have to wait."
+  ],
+  "flashcard": {
+    "translations": {
+      "vi": "bất kể",
+      "es": "sin importar",
+      "en": "no matter"
+    },
+    "createdAt": "2025-01-28T11:18:15.583Z",
+    "example": {
+      "en": "No matter what the weather is like, I will still go outside.",
+      "vi": "Bất kể thời tiết như thế nào, tôi vẫn sẽ đi ra ngoài.",
+      "es": "No importa cómo esté el clima, todavía saldré."
+    },
+    "definitions": {
+      "es": "Sin importar; no importa qué.",
+      "vi": "Không quan tâm đến; bất kể điều gì.",
+      "en": "Regardless of; no matter what."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:39:13.214Z",
+    "content": {
+      "answer": "bất kể",
+      "translation": {
+        "en": "I will do it no matter how difficult."
+      },
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi sẽ làm điều đó ___ khó khăn.",
+      "word": "bất kể",
+      "translatedAnswer": {
+        "en": "no matter"
+      }
+    },
+    "createdAt": "2025-03-12T13:39:13.214Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "42b2abe1-3fee-436b-910a-6e33fcafef18",
+    "type": "fillBlankQuiz"
+  },
+  "notes": "Bất kể means no matter or regardless of. It shows that something does not change the result.\n\nIt’s a linking phrase, often placed before a noun or a clause. It highlights that the condition doesn’t affect the action.\n\nVery close to dù / dù cho, but bất kể sounds a bit more neutral and firm.",
+  "updatedAt": "2026-03-03T09:56:36.852Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "no matter",
+  "word": "bất kể",
+  "exampleSentences": [
+    "Anh sẽ giúp em bất kể em cần gì vào lúc nào.",
+    "Chị ấy luôn làm việc chăm chỉ bất kể thời tiết ra sao.",
+    "Em muốn đi du lịch bất kể phải chờ bao lâu."
+  ],
+  "rank": 2065,
+  "choices": [
+    "bất kể",
+    "nếu như",
+    "mặc dù"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "DCjIP719OHS5hJN6cteE"
+}

@@ -1,0 +1,99 @@
+{
+  "definition": "ripe",
+  "flashcard": {
+    "translations": {
+      "en": "ripe",
+      "es": "maduro",
+      "vi": "chín"
+    },
+    "createdAt": "2025-01-28T10:55:08.782Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Ripe; fully developed or matured.",
+      "es": "Maduro; completamente desarrollado o madurado.",
+      "vi": "Chín; phát triển hoàn toàn hoặc đã trưởng thành."
+    },
+    "example": {
+      "en": "This banana is ripe.",
+      "vi": "Quả chuối này đã chín.",
+      "es": "Esta banana está madura."
+    }
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T17:15:16.500Z",
+    "content": {
+      "translation": {
+        "en": "My phone number ends with the number nine."
+      },
+      "translatedAnswer": {
+        "en": "nine"
+      },
+      "answer": "chín",
+      "choices": [],
+      "word": "chín",
+      "sentence": "Số điện thoại của tôi kết thúc bằng số ___.",
+      "language": "vi"
+    },
+    "id": "8e950b1c-f5f2-452d-9505-dc655d611480",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T17:15:16.500Z"
+  },
+  "exampleSentencesTranslated": [
+    "This mango is already ripe so you can eat it.",
+    "She likes to buy bananas when they are just ripe.",
+    "He sees that the tomatoes in the garden are starting to become ripe."
+  ],
+  "updatedAt": "2026-03-03T10:00:39.081Z",
+  "exampleSentences": [
+    "Quả xoài này đã chín nên em có thể ăn được rồi.",
+    "Chị thích mua chuối khi chúng vừa chín tới.",
+    "Anh thấy cà chua trong vườn bắt đầu chín đỏ."
+  ],
+  "notes": "chín means ripe (for fruit). It describes fruit that is ready to eat.\n\nIt’s an adjective and comes after the noun: trái cây chín, xoài chín. It can also describe food that is fully cooked, not raw.  \n\nBy extension, it can mean mature (physically or mentally).  \n\nSame spelling, different tone meaning: chín also means the number nine, so context is key. Opposite idea for fruit: xanh (unripe, green).",
+  "notes_md": "**chín** means **ripe** (for fruit). It describes fruit that is ready to eat.\n\nIt’s an adjective and comes after the noun: *trái cây chín*, *xoài chín*. It can also describe food that is fully **cooked**, not raw.  \n\nBy extension, it can mean **mature** (physically or mentally).  \n\nSame spelling, different tone meaning: **chín** also means the number **nine**, so context is key. Opposite idea for fruit: *xanh* (unripe, green).",
+  "choices": [
+    "xanh",
+    "chín",
+    "sống"
+  ],
+  "rank": 2104,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T17:15:16.500Z",
+    "content": {
+      "sentence": "Hôm nay là ngày ___.",
+      "language": "vi",
+      "word": "chín",
+      "choices": [
+        "chín",
+        "mười",
+        "tám"
+      ],
+      "answer": "chín",
+      "hint": "c___n",
+      "translatedAnswer": {
+        "en": "ninth"
+      },
+      "translation": {
+        "en": "Today is the ninth."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T17:15:16.500Z",
+    "id": "705a0ddf-0398-47d6-bdc6-0369b6716e12",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "chín",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "6fXYHEorxpit3pVntwL9"
+}

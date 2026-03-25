@@ -1,0 +1,99 @@
+{
+  "definition": "catch",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "bắt",
+      "answer": "bắt",
+      "translation": {
+        "en": "I want to catch the fish."
+      },
+      "sentence": "Tôi muốn ___ con cá.",
+      "translatedAnswer": {
+        "en": "catch"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:30:48.165Z",
+    "createdAt": "2025-03-12T14:30:48.165Z",
+    "id": "8459e4d5-2a38-43ce-93d0-e99a9806ea4a",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bắt** = to catch or grab something. It’s used for physically catching things, but also for catching people (arresting) or signals.\n\nYou use **bắt + object** for grabbing/catching (animals, balls, opportunities). It also means “to arrest” in legal contexts.\n\nVery common meaning: **bắt đầu** = to start/begin.  \n\nAnother useful pattern: **bắt + someone + verb** = to force someone to do something.\n\nStrong memory link: think of “grab and control” — whether it’s a ball, a criminal, a signal, or the start of something.",
+  "exampleSentences": [
+    "Anh có thể bắt quả bóng này giúp em được không?",
+    "Cảnh sát đã bắt tên trộm vào tối qua ở gần công viên.",
+    "Chị ấy rất nhanh nên luôn bắt được con mèo khi nó chạy ra ngoài."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:06:53.831Z",
+    "definitions": {
+      "vi": "bắt giữ hoặc nắm bắt một cái gì đó hoặc ai đó.",
+      "en": "to catch or seize something or someone.",
+      "es": "atrapar o agarrar algo o a alguien."
+    },
+    "example": {
+      "en": "The police caught the thief.",
+      "vi": "Cảnh sát đã bắt kẻ trộm.",
+      "es": "La policía atrapó al ladrón."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bắt",
+      "en": "catch",
+      "es": "atrapar"
+    }
+  },
+  "notes": "bắt = to catch or grab something. It’s used for physically catching things, but also for catching people (arresting) or signals.\n\nYou use bắt + object for grabbing/catching (animals, balls, opportunities). It also means “to arrest” in legal contexts.\n\nVery common meaning: bắt đầu = to start/begin.  \n\nAnother useful pattern: bắt + someone + verb = to force someone to do something.\n\nStrong memory link: think of “grab and control” — whether it’s a ball, a criminal, a signal, or the start of something.",
+  "choices": [
+    "bắt",
+    "đi",
+    "mở"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:34:35.562Z",
+  "exampleSentencesTranslated": [
+    "Can you catch this ball for me?",
+    "The police catch the thief last night near the park.",
+    "She is very fast so she always catch the cat when it runs outside."
+  ],
+  "rank": 728,
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T14:30:48.165Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "catch"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ thời gian.",
+      "hint": "b__t",
+      "answer": "bắt",
+      "translation": {
+        "en": "We need to catch the time."
+      },
+      "word": "bắt",
+      "choices": [
+        "bắt",
+        "điều chỉnh",
+        "tăng tốc"
+      ]
+    },
+    "type": "multiChoiceQuiz",
+    "id": "f46639e6-4e87-4729-a691-a37b5168c20f",
+    "createdAt": "2025-03-12T14:30:48.165Z"
+  },
+  "word": "bắt",
+  "_id": "PtyX6iI3bLmxtTJEtTxO"
+}

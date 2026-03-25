@@ -1,0 +1,99 @@
+{
+  "word": "bố mẹ",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**bố mẹ** = parents (your mother and father together). It’s a fixed pair, used as one unit.\n\nIt’s a plural noun by meaning, but you don’t add anything to mark plural. You can say *bố mẹ của tôi*, *bố mẹ anh ấy*, etc.\n\n\nIn the South, people often say **ba mẹ** instead of *bố mẹ* — same meaning, just different regional word choice.",
+  "rank": 447,
+  "choices": [
+    "bố mẹ",
+    "anh chị",
+    "con cái"
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:19:48.872Z",
+    "type": "multiChoiceQuiz",
+    "id": "847cb446-a79f-4373-92ab-9ed5ea9d4e6e",
+    "createdAt": "2025-03-12T13:19:48.872Z",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "parents"
+      },
+      "translation": {
+        "en": "I met my parents yesterday."
+      },
+      "answer": "bố mẹ",
+      "hint": "b___m",
+      "choices": [
+        "anh chị",
+        "bố mẹ",
+        "bạn bè"
+      ],
+      "sentence": "Tôi đã gặp ___ hôm qua.",
+      "language": "vi",
+      "word": "bố mẹ"
+    }
+  },
+  "updatedAt": "2026-03-03T07:07:04.484Z",
+  "exampleSentences": [
+    "Anh thường gọi điện về nhà để nói chuyện với bố mẹ vào cuối tuần.",
+    "Bố mẹ luôn ủng hộ em khi em gặp khó khăn trong cuộc sống.",
+    "Chị muốn mời bố mẹ đi ăn tối nhân dịp sinh nhật của chị."
+  ],
+  "notes": "bố mẹ = parents (your mother and father together). It’s a fixed pair, used as one unit.\n\nIt’s a plural noun by meaning, but you don’t add anything to mark plural. You can say bố mẹ của tôi, bố mẹ anh ấy, etc.\n\nIn the South, people often say ba mẹ instead of bố mẹ — same meaning, just different regional word choice.",
+  "flashcard": {
+    "translations": {
+      "en": "parents",
+      "es": "padres",
+      "vi": "bố mẹ"
+    },
+    "createdAt": "2025-01-28T11:00:09.325Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "Padres; un término utilizado para referirse a un padre y una madre.",
+      "vi": "Bố mẹ; thuật ngữ dùng để chỉ cha và mẹ của một người.",
+      "en": "Parents; a term used to refer to one's father and mother."
+    },
+    "example": {
+      "en": "My parents love each other very much.",
+      "vi": "Bố mẹ tôi rất yêu thương nhau.",
+      "es": "Mis padres se quieren mucho."
+    }
+  },
+  "definition": "parents",
+  "exampleSentencesTranslated": [
+    "He often calls home to talk to his parents on the weekend.",
+    "Parents always support me when I have difficulties in life.",
+    "She wants to invite her parents to dinner for her birthday."
+  ],
+  "fillBlankQuiz": {
+    "id": "8352f049-3a7b-4e49-a73a-245156bd4497",
+    "content": {
+      "choices": [],
+      "word": "bố mẹ",
+      "sentence": "Tôi yêu ___ của tôi.",
+      "language": "vi",
+      "translation": {
+        "en": "I love my parents."
+      },
+      "translatedAnswer": {
+        "en": "parents"
+      },
+      "answer": "bố mẹ"
+    },
+    "createdAt": "2025-03-12T13:19:48.872Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:19:48.872Z"
+  },
+  "_id": "8IJtOp6VvYqsADucXirh"
+}

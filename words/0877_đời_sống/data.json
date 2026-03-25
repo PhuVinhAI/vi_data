@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Đời sống ở thành phố lớn có nhiều cơ hội nhưng cũng nhiều thách thức.",
+    "Anh luôn cố gắng cân bằng giữa công việc và đời sống cá nhân của mình.",
+    "Chị quan tâm đến đời sống của cộng đồng nơi mình sinh sống."
+  ],
+  "choices": [
+    "đời sống",
+    "cuộc sống",
+    "sinh hoạt"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "flashcard": {
+    "createdAt": "2025-01-28T13:50:31.813Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "vi": "Tình trạng sống; trải nghiệm của cuộc sống.",
+      "en": "The condition of being alive; the experience of living.",
+      "es": "La condición de estar vivo; la experiencia de vivir."
+    },
+    "example": {
+      "es": "La vida en la ciudad es muy ocupada.",
+      "en": "Life in the city is very busy.",
+      "vi": "Đời sống ở thành phố rất bận rộn."
+    },
+    "translations": {
+      "vi": "đời sống",
+      "es": "vida",
+      "en": "life"
+    }
+  },
+  "updatedAt": "2026-03-03T07:49:54.336Z",
+  "exampleSentencesTranslated": [
+    "Life in a big city has many opportunities but also many challenges.",
+    "He always tries to balance his work and his personal life.",
+    "She cares about the life of the community where she lives."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Đời sống means life in the sense of living conditions or daily living — how people live, not “a life” as in one lifetime.\n\nIt’s an uncountable noun. You usually say đời sống + của + someone/something to show whose life it is.  \n\nVery common pairings: đời sống vật chất (material life), đời sống tinh thần (mental/spiritual life), đời sống xã hội (social life).\n\nClose synonym: cuộc sống — both mean “life,” but đời sống often focuses more on conditions or aspects of living, while cuộc sống feels broader and more personal.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T16:19:24.147Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "word": "đời sống",
+      "answer": "đời sống",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "life"
+      },
+      "translation": {
+        "en": "Our life is very interesting."
+      },
+      "sentence": "Cuộc ___ của chúng ta rất thú vị."
+    },
+    "id": "c9e3d5c5-0270-41e9-be82-a94d94c5b7a9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:19:24.147Z"
+  },
+  "word": "đời sống",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 877,
+  "notes_md": "**Đời sống** means *life* in the sense of living conditions or daily living — how people live, not “a life” as in one lifetime.\n\nIt’s an uncountable noun. You usually say **đời sống + của + someone/something** to show whose life it is.  \n\nVery common pairings: **đời sống vật chất** (material life), **đời sống tinh thần** (mental/spiritual life), **đời sống xã hội** (social life).\n\nClose synonym: **cuộc sống** — both mean “life,” but *đời sống* often focuses more on conditions or aspects of living, while *cuộc sống* feels broader and more personal.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Cuộc ___ của chúng ta rất thú vị.",
+      "word": "đời sống",
+      "answer": "đời sống",
+      "language": "vi",
+      "choices": [
+        "cuộc sống",
+        "đời sống",
+        "sự sống"
+      ],
+      "translation": {
+        "en": "Our life is very interesting."
+      },
+      "translatedAnswer": {
+        "en": "life"
+      },
+      "hint": "đ___ng"
+    },
+    "updatedAt": "2025-03-12T16:19:24.147Z",
+    "createdAt": "2025-03-12T16:19:24.147Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "a207ba60-9d93-43eb-9b41-ade59830a2ae"
+  },
+  "definition": "life",
+  "_id": "rLuGe8Wowy9PU9J78TDp"
+}

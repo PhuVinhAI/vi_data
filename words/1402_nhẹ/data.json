@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "en": "light",
+      "es": "ligero",
+      "vi": "nhẹ"
+    },
+    "example": {
+      "en": "This bag is very light.",
+      "es": "Esta bolsa es muy ligera.",
+      "vi": "Cái túi này rất nhẹ."
+    },
+    "definitions": {
+      "en": "Having little weight; not heavy.",
+      "es": "Tener poco peso; no pesado.",
+      "vi": "Có ít trọng lượng; không nặng."
+    },
+    "createdAt": "2025-01-28T12:33:03.978Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "I like to carry a light backpack to school so my shoulders don't get tired.",
+    "This shirt is very light so it is very comfortable to wear in summer.",
+    "After exercising, I feel my body is much more light."
+  ],
+  "updatedAt": "2026-03-03T08:45:56.438Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "60da905f-5d78-4cb0-9844-ff9f4a6849c4",
+    "createdAt": "2025-03-12T15:00:07.705Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "light"
+      },
+      "choices": [],
+      "translation": {
+        "en": "This bag is very light."
+      },
+      "sentence": "Cái túi này rất ___.",
+      "word": "nhẹ",
+      "language": "vi",
+      "answer": "nhẹ"
+    },
+    "updatedAt": "2025-03-12T15:00:07.705Z"
+  },
+  "definition": "light",
+  "notes_md": "**nhẹ** = light (not heavy). It describes weight: đồ vật, cơ thể, balo, túi, etc.\n\nIt also means **gentle/soft** for things like mưa (rain), gió (wind), giọng nói (voice), or **mild** for taste (vị nhẹ). It can describe feelings too: nhẹ lòng = feel relieved.\n\nAs an adjective, it goes after the noun: *bàn nhẹ, mưa nhẹ*.  \n\nOpposite: **nặng** (heavy).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "rank": 1402,
+  "choices": [
+    "nặng",
+    "nhẹ",
+    "rộng"
+  ],
+  "word": "nhẹ",
+  "exampleSentences": [
+    "Em thích mang balo nhẹ khi đi học để đỡ mỏi vai.",
+    "Chiếc áo này rất nhẹ nên mặc mùa hè rất thoải mái.",
+    "Sau khi tập thể dục, anh cảm thấy cơ thể nhẹ hơn nhiều."
+  ],
+  "notes": "nhẹ = light (not heavy). It describes weight: đồ vật, cơ thể, balo, túi, etc.\n\nIt also means gentle/soft for things like mưa (rain), gió (wind), giọng nói (voice), or mild for taste (vị nhẹ). It can describe feelings too: nhẹ lòng = feel relieved.\n\nAs an adjective, it goes after the noun: bàn nhẹ, mưa nhẹ.  \n\nOpposite: nặng (heavy).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:00:07.705Z",
+    "content": {
+      "translation": {
+        "en": "This box is very light."
+      },
+      "translatedAnswer": {
+        "en": "light"
+      },
+      "choices": [
+        "nặng",
+        "nhẹ",
+        "dày"
+      ],
+      "hint": "n___",
+      "answer": "nhẹ",
+      "language": "vi",
+      "word": "nhẹ",
+      "sentence": "Cái hộp này rất ___."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T15:00:07.705Z",
+    "id": "8114d53a-d496-4365-adc3-46e689711851"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "X15eSmmHpAtwlRbDV4Fq"
+}

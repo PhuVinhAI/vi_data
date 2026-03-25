@@ -1,0 +1,99 @@
+{
+  "definition": "for example",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "7eca0bf3-cccf-4e9e-9039-59cf8b179f1e",
+    "createdAt": "2025-03-12T14:49:59.926Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:49:59.926Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "for example"
+      },
+      "language": "vi",
+      "sentence": "Bạn có thể làm ___ như thế này.",
+      "word": "chẳng hạn",
+      "choices": [],
+      "translation": {
+        "en": "You can do it like this, for example."
+      },
+      "answer": "chẳng hạn"
+    }
+  },
+  "notes_md": "**chẳng hạn** = used to introduce an illustration or a specific case to make something clearer. It points to one or a few concrete items from a bigger group.\n\nIt’s a linking phrase, often placed after a general statement, then followed by details. Very often you’ll see it with **như** → **chẳng hạn như**.\n\n\nClose in meaning to **như** when listing things, but **chẳng hạn** sounds more deliberate, like you’re choosing a clear case to explain your point.",
+  "exampleSentences": [
+    "Anh thích ăn trái cây, chẳng hạn như táo hoặc cam.",
+    "Chị muốn học nhiều kỹ năng mới, chẳng hạn vẽ hoặc nấu ăn.",
+    "Có nhiều nơi đẹp ở Việt Nam, chẳng hạn Đà Nẵng và Hội An."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Bạn có thể chọn một số món ăn, chẳng hạn như phở hoặc bún.",
+      "en": "You can choose some dishes, such as pho or bun.",
+      "es": "Puedes elegir algunos platos, como pho o bun."
+    },
+    "createdAt": "2025-01-28T14:16:11.180Z",
+    "definitions": {
+      "es": "por ejemplo; como",
+      "vi": "ví dụ; như",
+      "en": "for example; such as"
+    },
+    "translations": {
+      "es": "por ejemplo",
+      "en": "for example",
+      "vi": "chẳng hạn"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "chẳng hạn = used to introduce an illustration or a specific case to make something clearer. It points to one or a few concrete items from a bigger group.\n\nIt’s a linking phrase, often placed after a general statement, then followed by details. Very often you’ll see it with như → chẳng hạn như.\n\nClose in meaning to như when listing things, but chẳng hạn sounds more deliberate, like you’re choosing a clear case to explain your point.",
+  "choices": [
+    "chẳng hạn",
+    "bởi vì",
+    "tuy nhiên"
+  ],
+  "updatedAt": "2026-03-04T08:53:18.490Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 387,
+  "exampleSentencesTranslated": [
+    "I like to eat fruit, for example apples or oranges.",
+    "I want to learn many new skills, for example drawing or cooking.",
+    "There are many beautiful places in Vietnam, for example Da Nang and Hoi An."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:49:59.926Z",
+    "id": "fe96bffc-386d-4ecc-be63-f28c43fb8bdc",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c___n",
+      "translation": {
+        "en": "You can do it like this, for example."
+      },
+      "answer": "chẳng hạn",
+      "word": "chẳng hạn",
+      "choices": [
+        "chẳng hạn",
+        "ví dụ",
+        "như thế"
+      ],
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "for example"
+      },
+      "sentence": "Bạn có thể làm ___ như thế này."
+    },
+    "updatedAt": "2025-03-12T14:49:59.926Z"
+  },
+  "word": "chẳng hạn",
+  "_id": "U9xeV4oqLUejgFYhNrOr"
+}

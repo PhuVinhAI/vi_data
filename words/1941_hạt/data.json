@@ -1,0 +1,99 @@
+{
+  "word": "hạt",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "She bought a bag of seed to plant in her garden.",
+    "He often eats sunflower seed when watching movies with friends.",
+    "I found a seed in my apple this morning."
+  ],
+  "exampleSentences": [
+    "Chị đã mua một túi hạt để trồng trong vườn nhà.",
+    "Anh thường ăn hạt hướng dương khi xem phim cùng bạn bè.",
+    "Em tìm thấy một hạt trong quả táo của mình sáng nay."
+  ],
+  "updatedAt": "2026-03-03T09:43:33.128Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Trong vườn có nhiều ___.",
+      "word": "hạt",
+      "hint": "h__t",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "seeds"
+      },
+      "choices": [
+        "hạt",
+        "hoa",
+        "cây"
+      ],
+      "answer": "hạt",
+      "translation": {
+        "en": "There are many seeds in the garden."
+      }
+    },
+    "updatedAt": "2025-03-12T16:39:33.415Z",
+    "id": "85da1cd9-a985-4d39-b43e-0d7b1f0a8858",
+    "createdAt": "2025-03-12T16:39:33.415Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "choices": [
+    "hạt",
+    "lá",
+    "cây"
+  ],
+  "notes": "hạt means seed — a small thing that can grow into a plant.  \n\nIt’s a countable noun, and the classifier is also hạt for small, round items. You’ll hear it in common pairs like hạt giống (planting seed), hạt gạo (grain of rice), hạt tiêu (peppercorn), hạt muối (grain of salt).  \n\nIt can also mean tiny particles like hạt mưa (raindrop) or hạt bụi (speck of dust).  \n\nThink of hạt as “a tiny round unit,” especially in food and nature.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:11:19.627Z",
+    "translations": {
+      "es": "semilla",
+      "en": "seed",
+      "vi": "hạt"
+    },
+    "definitions": {
+      "vi": "Một phần nhỏ, cứng của một cây mà từ đó một cây mới có thể phát triển.",
+      "en": "A small, hard part of a plant from which a new plant can grow.",
+      "es": "Una parte pequeña y dura de una planta de la que puede crecer una nueva planta."
+    },
+    "example": {
+      "vi": "Hạt giống cần nước để nảy mầm.",
+      "es": "La semilla necesita agua para germinar.",
+      "en": "The seed needs water to germinate."
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "da8235d3-a0cb-429a-ba5b-def74144a54d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:39:33.415Z",
+    "content": {
+      "word": "hạt",
+      "sentence": "Tôi thích ăn ___ trong bữa sáng.",
+      "choices": [],
+      "translation": {
+        "en": "I like to eat seeds for breakfast."
+      },
+      "answer": "hạt",
+      "translatedAnswer": {
+        "en": "seeds"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:39:33.415Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "seed",
+  "rank": 1941,
+  "notes_md": "**hạt** means **seed** — a small thing that can grow into a plant.  \n\nIt’s a **countable noun**, and the classifier is also **hạt** for small, round items. You’ll hear it in common pairs like *hạt giống* (planting seed), *hạt gạo* (grain of rice), *hạt tiêu* (peppercorn), *hạt muối* (grain of salt).  \n\nIt can also mean tiny particles like *hạt mưa* (raindrop) or *hạt bụi* (speck of dust).  \n\nThink of **hạt** as “a tiny round unit,” especially in food and nature.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "wfJs0PgxzKEI3LYZ58zV"
+}

@@ -1,0 +1,99 @@
+{
+  "notes": "nút = button — a small thing you press on a device, or a small round piece on clothes.  \n\nIt’s a noun. Use the classifier cái: cái nút.  \nCommon pairings: nút áo (shirt button), nút nguồn (power button), nút bấm (push button).  \nWith actions, you usually say bấm/ấn nút.  \n\nIt can also mean a knot (like nút thắt), but “button” is the meaning you’ll meet most often.",
+  "choices": [
+    "nút",
+    "cửa",
+    "màn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T10:29:10.792Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:43:49.677Z",
+    "id": "51206611-588c-49cf-9281-851961945d7b",
+    "content": {
+      "translation": {
+        "en": "You can press this button."
+      },
+      "answer": "nút",
+      "hint": "n__t",
+      "word": "nút",
+      "choices": [
+        "cái",
+        "nút",
+        "đầu"
+      ],
+      "sentence": "Bạn có thể nhấn ___ này.",
+      "translatedAnswer": {
+        "en": "button"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:43:49.677Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "nút",
+  "exampleSentencesTranslated": [
+    "I pressed the wrong button on the remote so the TV turned off.",
+    "Can you help me find the button that fell on the floor?",
+    "When you want to call the staff, just press the button on the table."
+  ],
+  "rank": 2374,
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "button",
+  "fillBlankQuiz": {
+    "id": "1246cc08-b364-4b0c-a08d-39d453d14cbf",
+    "createdAt": "2025-03-12T14:43:49.677Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "button"
+      },
+      "language": "vi",
+      "sentence": "Bạn có thể nhấn ___ này.",
+      "choices": [],
+      "word": "nút",
+      "answer": "nút",
+      "translation": {
+        "en": "You can press this button."
+      }
+    },
+    "updatedAt": "2025-03-12T14:43:49.677Z",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**nút** = *button* — a small thing you press on a device, or a small round piece on clothes.  \n\nIt’s a noun. Use the classifier **cái**: *cái nút*.  \nCommon pairings: **nút áo** (shirt button), **nút nguồn** (power button), **nút bấm** (push button).  \nWith actions, you usually say **bấm/ấn nút**.  \n\nIt can also mean a *knot* (like **nút thắt**), but “button” is the meaning you’ll meet most often.",
+  "exampleSentences": [
+    "Em bấm nhầm nút trên điều khiển nên ti vi tắt.",
+    "Anh giúp chị tìm nút áo bị rơi trên sàn nhé.",
+    "Khi muốn gọi phục vụ, chị chỉ cần ấn nút trên bàn."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "botón",
+      "en": "button",
+      "vi": "nút"
+    },
+    "definitions": {
+      "es": "Un pequeño dispositivo que se puede presionar para operar una máquina o sistema.",
+      "vi": "Một thiết bị nhỏ có thể được nhấn để vận hành một máy móc hoặc hệ thống.",
+      "en": "A small device that can be pressed to operate a machine or system."
+    },
+    "createdAt": "2025-01-28T12:17:57.343Z",
+    "example": {
+      "es": "Presiona este botón para encender la luz.",
+      "en": "Press this button to turn on the light.",
+      "vi": "Hãy nhấn nút này để bật đèn."
+    }
+  },
+  "_id": "SY8WAmtWae6q2ua8H6q8"
+}

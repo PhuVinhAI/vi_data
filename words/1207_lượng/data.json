@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cần kiểm tra lượng nước trong bình trước khi nấu ăn.",
+    "Chị nên giảm lượng đường trong cà phê để tốt cho sức khỏe.",
+    "Em thấy lượng bài tập tuần này nhiều hơn tuần trước."
+  ],
+  "choices": [
+    "lượng",
+    "bàn",
+    "giá"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "amount"
+      },
+      "answer": "lượng",
+      "choices": [],
+      "sentence": "Tôi cần ___ nước uống.",
+      "language": "vi",
+      "translation": {
+        "en": "I need an amount of drinking water."
+      },
+      "word": "lượng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "235fdd47-3af7-47f0-8b63-6d0857957602",
+    "createdAt": "2025-03-12T15:46:07.216Z",
+    "updatedAt": "2025-03-12T15:46:07.216Z"
+  },
+  "rank": 1207,
+  "definition": "quantity",
+  "notes": "Lượng means quantity or amount — how much of something there is (usually uncountable stuff like water, sugar, time, work).\n\nIt’s a noun and often comes before another noun to measure it: lượng + noun.  \n\nIt sounds a bit more formal or written than just saying a number. For countable things, you’ll often hear số lượng (number of) instead — that’s a very useful pair to remember.\n\nThink: lượng = how much, số lượng = how many.",
+  "notes_md": "**Lượng** means *quantity* or *amount* — how much of something there is (usually uncountable stuff like water, sugar, time, work).\n\nIt’s a noun and often comes before another noun to measure it: **lượng + noun**.  \n\nIt sounds a bit more formal or written than just saying a number. For countable things, you’ll often hear **số lượng** (number of) instead — that’s a very useful pair to remember.\n\nThink: **lượng = how much**, **số lượng = how many**.",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:46:07.216Z",
+    "updatedAt": "2025-03-12T15:46:07.216Z",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "I need an amount of drinking water."
+      },
+      "word": "lượng",
+      "hint": "l__n",
+      "choices": [
+        "công suất",
+        "lượng",
+        "khối lượng"
+      ],
+      "sentence": "Tôi cần ___ nước uống.",
+      "translatedAnswer": {
+        "en": "amount"
+      },
+      "answer": "lượng"
+    },
+    "id": "143cdeac-a51e-4f58-9236-12444f397146",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "lượng",
+  "flashcard": {
+    "translations": {
+      "vi": "lượng",
+      "es": "cantidad",
+      "en": "amount"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "I need to measure the amount of water in the bottle.",
+      "es": "Necesito medir la cantidad de agua en la botella.",
+      "vi": "Tôi cần đo lượng nước trong bình."
+    },
+    "definitions": {
+      "es": "Una cantidad o monto de algo.",
+      "en": "A quantity or amount of something.",
+      "vi": "Một số lượng hoặc khối lượng của một cái gì đó."
+    },
+    "createdAt": "2025-01-28T13:18:26.686Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "updatedAt": "2026-03-03T08:24:23.979Z",
+  "exampleSentencesTranslated": [
+    "You need to check the quantity of water in the pot before cooking.",
+    "You should reduce the quantity of sugar in your coffee for your health.",
+    "I think the quantity of homework this week is more than last week."
+  ],
+  "_id": "iVrOv6mbDC9a84XbYorH"
+}

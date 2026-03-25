@@ -1,0 +1,99 @@
+{
+  "word": "bự",
+  "rank": 2991,
+  "exampleSentences": [
+    "Anh vừa mua một cái áo bự hơn cái cũ của mình.",
+    "Con mèo của em ở nhà rất bự và dễ thương.",
+    "Chị muốn ăn một cái bánh bự vào ngày sinh nhật."
+  ],
+  "definition": "big",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "bự",
+    "mới",
+    "dài"
+  ],
+  "notes": "bự = big, large. It’s a casual way to talk about size.\n\nIt’s an adjective, so it comes after the noun and describes physical size (people, animals, objects). You can add words like quá, ghê, thiệt to make it stronger.  \n\nVery close to to and lớn; lớn is more neutral, while bự feels more informal and expressive. Often used for noticeable or impressive size.",
+  "fillBlankQuiz": {
+    "id": "6bd67214-e809-49a9-943d-23044eb8a320",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "sentence": "Cái bàn này rất ___.",
+      "word": "bự",
+      "translatedAnswer": {
+        "en": "big"
+      },
+      "answer": "bự",
+      "translation": {
+        "en": "This table is very big."
+      },
+      "choices": []
+    },
+    "createdAt": "2025-03-12T13:55:22.614Z",
+    "updatedAt": "2025-03-12T13:55:22.614Z"
+  },
+  "updatedAt": "2026-03-03T18:20:18.927Z",
+  "notes_md": "**bự** = big, large. It’s a casual way to talk about size.\n\nIt’s an adjective, so it comes after the noun and describes physical size (people, animals, objects). You can add words like **quá**, **ghê**, **thiệt** to make it stronger.  \n\nVery close to **to** and **lớn**; *lớn* is more neutral, while *bự* feels more informal and expressive. Often used for noticeable or impressive size.",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "ca08151f-6652-431d-b9ea-62b873960e5a",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:55:22.614Z",
+    "createdAt": "2025-03-12T13:55:22.614Z",
+    "content": {
+      "language": "vi",
+      "word": "bự",
+      "sentence": "Con mèo này rất ___.",
+      "translatedAnswer": {
+        "en": "big"
+      },
+      "translation": {
+        "en": "This cat is very big."
+      },
+      "answer": "bự",
+      "hint": "b__",
+      "choices": [
+        "nhỏ",
+        "bự",
+        "dài"
+      ]
+    }
+  },
+  "flashcard": {
+    "definitions": {
+      "es": "Grande en tamaño o extensión.",
+      "vi": "Lớn về kích thước hoặc phạm vi.",
+      "en": "Large in size or extent."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:33:12.126Z",
+    "example": {
+      "en": "This table is very big.",
+      "vi": "Cái bàn này rất bự.",
+      "es": "Esta mesa es muy grande."
+    },
+    "translations": {
+      "vi": "bự",
+      "es": "grande",
+      "en": "big"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He just bought a shirt that is big compared to his old one.",
+    "My cat at home is very big and cute.",
+    "She wants to eat a big cake on her birthday."
+  ],
+  "_id": "HXyFqd9XOi1xbiAhPHXn"
+}

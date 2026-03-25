@@ -1,0 +1,99 @@
+{
+  "definition": "drink socially",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:46:30.958Z",
+    "id": "6e3dcc9a-4f32-4dac-8c43-ffa953272d06",
+    "content": {
+      "translation": {
+        "en": "We will drink at the weekend."
+      },
+      "answer": "nhậu",
+      "choices": [],
+      "word": "nhậu",
+      "translatedAnswer": {
+        "en": "drink"
+      },
+      "language": "vi",
+      "sentence": "Chúng ta sẽ ___ vào cuối tuần."
+    },
+    "updatedAt": "2025-03-12T14:46:30.958Z"
+  },
+  "exampleSentences": [
+    "Cuối tuần này anh em mình đi nhậu ở quán quen nha.",
+    "Chị không thích nhậu nhưng vẫn thường đi cùng bạn bè.",
+    "Sau giờ làm việc, nhiều người thích nhậu để thư giãn."
+  ],
+  "notes_md": "**nhậu** = to drink alcohol socially, usually in a group. It’s not just “drink” — it means eating, chatting, and drinking together for fun.\n\nUsed as a verb: *nhậu với ai* (drink with someone), *đi nhậu* (go out drinking), *nhậu ở đâu* (drink somewhere). It often implies beer, snacks, loud talk, and a relaxed vibe.\n\nStronger than just *uống* (drink). Close to *lai rai* (drink slowly over a long time), but *nhậu* feels more like a social event.\n\nNot formal — don’t use it for serious or professional contexts.",
+  "flashcard": {
+    "createdAt": "2025-01-28T12:20:44.388Z",
+    "definitions": {
+      "es": "Beber alcohol, a menudo en un entorno social.",
+      "vi": "Uống rượu, thường trong một bối cảnh xã hội.",
+      "en": "To drink alcohol, often in a social setting."
+    },
+    "example": {
+      "es": "¿Vamos a beber esta noche?",
+      "vi": "Tối nay chúng ta đi nhậu nhé?",
+      "en": "Are we going to drink tonight?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "beber",
+      "vi": "nhậu",
+      "en": "to drink"
+    }
+  },
+  "notes": "nhậu = to drink alcohol socially, usually in a group. It’s not just “drink” — it means eating, chatting, and drinking together for fun.\n\nUsed as a verb: nhậu với ai (drink with someone), đi nhậu (go out drinking), nhậu ở đâu (drink somewhere). It often implies beer, snacks, loud talk, and a relaxed vibe.\n\nStronger than just uống (drink). Close to lai rai (drink slowly over a long time), but nhậu feels more like a social event.\n\nNot formal — don’t use it for serious or professional contexts.",
+  "choices": [
+    "ăn",
+    "nhảy",
+    "nhậu"
+  ],
+  "updatedAt": "2026-03-03T18:12:57.802Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2924,
+  "exampleSentencesTranslated": [
+    "This weekend, we can drink socially at our usual place.",
+    "She doesn't like to drink socially but still often goes with her friends.",
+    "After work, many people like to drink socially to relax."
+  ],
+  "word": "nhậu",
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T14:46:30.958Z",
+    "id": "0ac28c2d-8eac-487b-8043-c79131e5c066",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "n____",
+      "translation": {
+        "en": "We will drink at the weekend."
+      },
+      "answer": "nhậu",
+      "word": "nhậu",
+      "choices": [
+        "ăn",
+        "nhậu",
+        "đi bộ"
+      ],
+      "sentence": "Chúng ta sẽ ___ vào cuối tuần.",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "drink"
+      }
+    },
+    "updatedAt": "2025-03-12T14:46:30.958Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "_id": "TRsDCSqfYrHWKztyAUdm"
+}

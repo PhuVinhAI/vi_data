@@ -1,0 +1,99 @@
+{
+  "word": "sâu sắc",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**sâu sắc** = deep, profound. It describes something with strong meaning, insight, or emotional/intellectual depth.\n\nIt’s an adjective, used before a noun: *sâu sắc* + noun (ý nghĩa, suy nghĩ, kiến thức, cảm xúc…). It often talks about ideas, personality, understanding, or feelings — not just physical depth.\n\nIt can also describe a person’s thinking style: someone who thinks carefully and sees beyond the surface.\n\nClose synonym: **thâm sâu** (more literary, heavier). Opposite: **nông cạn** (shallow, superficial).",
+  "choices": [
+    "sâu sắc",
+    "vui vẻ",
+    "thành thật"
+  ],
+  "rank": 1691,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:34:07.931Z",
+    "type": "multiChoiceQuiz",
+    "id": "663fb7bc-8fbd-4b04-8618-97724cf38392",
+    "content": {
+      "translation": {
+        "en": "This book is very profound."
+      },
+      "translatedAnswer": {
+        "en": "profound"
+      },
+      "answer": "sâu sắc",
+      "hint": "s___ sắc",
+      "choices": [
+        "sâu sắc",
+        "cạn",
+        "tầm thường"
+      ],
+      "word": "sâu sắc",
+      "sentence": "Cuốn sách này rất ___.",
+      "language": "vi"
+    },
+    "createdAt": "2025-03-12T13:34:07.931Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "updatedAt": "2026-03-03T09:16:59.787Z",
+  "exampleSentences": [
+    "Anh ấy có một hiểu biết sâu sắc về văn hóa Việt Nam.",
+    "Bài thơ này mang ý nghĩa rất sâu sắc đối với em.",
+    "Những lời khuyên sâu sắc của chị đã giúp em vượt qua khó khăn."
+  ],
+  "notes": "sâu sắc = deep, profound. It describes something with strong meaning, insight, or emotional/intellectual depth.\n\nIt’s an adjective, used before a noun: sâu sắc + noun (ý nghĩa, suy nghĩ, kiến thức, cảm xúc…). It often talks about ideas, personality, understanding, or feelings — not just physical depth.\n\nIt can also describe a person’s thinking style: someone who thinks carefully and sees beyond the surface.\n\nClose synonym: thâm sâu (more literary, heavier). Opposite: nông cạn (shallow, superficial).",
+  "definition": "deep",
+  "flashcard": {
+    "translations": {
+      "vi": "sâu sắc",
+      "es": "profundo",
+      "en": "profound"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:13:38.868Z",
+    "definitions": {
+      "vi": "Có sự hiểu biết hoặc nhận thức sâu sắc.",
+      "es": "Tener una profunda comprensión o percepción.",
+      "en": "Having deep insight or understanding."
+    },
+    "example": {
+      "es": "Ella tiene pensamientos profundos sobre la vida.",
+      "vi": "Cô ấy có những suy nghĩ sâu sắc về cuộc sống.",
+      "en": "She has profound thoughts about life."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:34:07.931Z",
+    "type": "fillBlankQuiz",
+    "id": "de2e8f24-a2be-42b5-a924-1b1e7b8b711d",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:34:07.931Z",
+    "content": {
+      "answer": "sâu sắc",
+      "translation": {
+        "en": "This book is very profound."
+      },
+      "translatedAnswer": {
+        "en": "profound"
+      },
+      "word": "sâu sắc",
+      "language": "vi",
+      "sentence": "Cuốn sách này rất ___.",
+      "choices": []
+    }
+  },
+  "exampleSentencesTranslated": [
+    "He has a deep understanding of Vietnamese culture.",
+    "This poem has a very deep meaning to me.",
+    "Your deep advice helped me get through difficulties."
+  ],
+  "_id": "BqL6JvIsJD0fl71HXcCw"
+}

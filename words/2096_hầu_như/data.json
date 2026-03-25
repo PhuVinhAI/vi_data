@@ -1,0 +1,99 @@
+{
+  "rank": 2096,
+  "exampleSentences": [
+    "Chị hầu như đã hoàn thành tất cả công việc vào sáng nay.",
+    "Anh hầu như quên mang chìa khóa khi ra khỏi nhà.",
+    "Em hầu như gặp bạn bè mỗi ngày vào cuối tuần."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:57:30.949Z",
+    "translations": {
+      "en": "almost; nearly",
+      "vi": "hầu như",
+      "es": "casi"
+    },
+    "definitions": {
+      "en": "Almost; nearly; for the most part.",
+      "vi": "Hầu như; gần như; phần lớn.",
+      "es": "Casi; casi todo; en su mayor parte."
+    },
+    "example": {
+      "es": "Casi todos disfrutan comer pho.",
+      "vi": "Hầu như mọi người đều thích ăn phở.",
+      "en": "Almost everyone likes to eat pho."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:21:25.508Z",
+    "createdAt": "2025-03-12T14:21:25.508Z",
+    "id": "257a2d1d-e416-4c3b-b691-27eb2025d4ca",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Chúng ta ___ hoàn thành công việc.",
+      "hint": "h___n",
+      "word": "hầu như",
+      "language": "vi",
+      "choices": [
+        "hầu như",
+        "chắc chắn",
+        "không chắc"
+      ],
+      "translation": {
+        "en": "We have almost completed the work."
+      },
+      "answer": "hầu như",
+      "translatedAnswer": {
+        "en": "almost"
+      }
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "hầu như",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**hầu như** = almost, nearly. It means something is *very close* to happening or being true, but not 100%.\n\nIt usually goes before a verb or adjective to soften the statement.  \n\nVery often used with **không** → **hầu như không** = almost not / barely.  \nClose synonyms: **gần như** (very similar, slightly more neutral).  \nStronger than *ít khi* (rarely), because *hầu như* focuses on degree, not frequency.",
+  "updatedAt": "2026-03-03T09:59:48.492Z",
+  "choices": [
+    "hầu như",
+    "ngay khi",
+    "chỉ cần"
+  ],
+  "exampleSentencesTranslated": [
+    "She almost finished all the work this morning.",
+    "He almost forgot to bring the key when leaving the house.",
+    "I almost meet my friends every day on the weekend."
+  ],
+  "notes": "hầu như = almost, nearly. It means something is very close to happening or being true, but not 100%.\n\nIt usually goes before a verb or adjective to soften the statement.  \n\nVery often used with không → hầu như không = almost not / barely.  \nClose synonyms: gần như (very similar, slightly more neutral).  \nStronger than ít khi (rarely), because hầu như focuses on degree, not frequency.",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:21:25.508Z",
+    "updatedAt": "2025-03-12T14:21:25.508Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi ___ biết điều đó.",
+      "word": "hầu như",
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "I almost know that."
+      },
+      "answer": "hầu như",
+      "translatedAnswer": {
+        "en": "almost"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "0c3ecff8-43d0-4b7e-8b2c-afcfc6309689"
+  },
+  "definition": "almost",
+  "_id": "NUY7XOrazbJNNubatnh2"
+}

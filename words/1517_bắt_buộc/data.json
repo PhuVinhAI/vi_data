@@ -1,0 +1,99 @@
+{
+  "rank": 1517,
+  "exampleSentences": [
+    "Việc đeo khẩu trang khi vào bệnh viện là bắt buộc.",
+    "Anh ấy nói rằng tham gia buổi họp này là bắt buộc cho tất cả mọi người.",
+    "Ở trường đại học, một số môn học là bắt buộc để tốt nghiệp."
+  ],
+  "flashcard": {
+    "translations": {
+      "es": "obligatorio",
+      "vi": "bắt buộc",
+      "en": "mandatory"
+    },
+    "definitions": {
+      "vi": "Cần thiết hoặc bắt buộc.",
+      "es": "Requerido u obligatorio.",
+      "en": "Required or compulsory."
+    },
+    "createdAt": "2025-01-28T11:56:28.762Z",
+    "example": {
+      "en": "Attending this class is mandatory.",
+      "es": "Asistir a esta clase es obligatorio.",
+      "vi": "Việc tham gia lớp học này là bắt buộc."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bắt buộc",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "bắt buộc",
+      "translatedAnswer": {
+        "en": "mandatory"
+      },
+      "sentence": "Việc này là ___ phải làm.",
+      "hint": "b___uộc",
+      "word": "bắt buộc",
+      "language": "vi",
+      "choices": [
+        "cần thiết",
+        "bắt buộc",
+        "không bắt buộc"
+      ],
+      "translation": {
+        "en": "This task is mandatory."
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "id": "ef9af370-78df-4556-bbe2-7a89cf785353",
+    "createdAt": "2025-03-12T14:20:16.406Z",
+    "updatedAt": "2025-03-12T14:20:16.406Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**bắt buộc** = mandatory, required. If something is *bắt buộc*, you must do it — no choice.\n\nIt describes rules, conditions, documents, steps, etc. Often used after “là” to state a requirement.\n\nIt can also mean **to force/compel** someone to do something (stronger feeling).\n\n\nClose synonym: **ép buộc** (more about forcing a person, often stronger/negative tone). Opposite idea: **tự nguyện** (voluntary).",
+  "updatedAt": "2026-03-03T08:58:28.967Z",
+  "choices": [
+    "bắt buộc",
+    "tự nguyện",
+    "cấm đoán"
+  ],
+  "notes": "bắt buộc = mandatory, required. If something is bắt buộc, you must do it — no choice.\n\nIt describes rules, conditions, documents, steps, etc. Often used after “là” to state a requirement.\n\nIt can also mean to force/compel someone to do something (stronger feeling).\n\nClose synonym: ép buộc (more about forcing a person, often stronger/negative tone). Opposite idea: tự nguyện (voluntary).",
+  "exampleSentencesTranslated": [
+    "Wearing a mask when entering the hospital is mandatory.",
+    "He said that attending this meeting is mandatory for everyone.",
+    "At university, some subjects are mandatory to graduate."
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "choices": [],
+      "translation": {
+        "en": "This task is mandatory."
+      },
+      "sentence": "Việc này là ___ phải làm.",
+      "word": "bắt buộc",
+      "answer": "bắt buộc",
+      "translatedAnswer": {
+        "en": "mandatory"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "915ab319-f900-49d7-a2d3-29587b4dacd5",
+    "createdAt": "2025-03-12T14:20:16.406Z",
+    "updatedAt": "2025-03-12T14:20:16.406Z"
+  },
+  "definition": "mandatory",
+  "_id": "NB3cXNUdN9wvjiSnCAl9"
+}

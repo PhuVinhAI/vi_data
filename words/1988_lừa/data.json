@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "lừa",
+    "giúp",
+    "mua"
+  ],
+  "flashcard": {
+    "example": {
+      "en": "She was deceived by a scam.",
+      "es": "Ella fue engañada por una estafa.",
+      "vi": "Cô ấy bị lừa bởi một trò lừa đảo."
+    },
+    "translations": {
+      "es": "engañar",
+      "en": "deceive",
+      "vi": "lừa"
+    },
+    "definitions": {
+      "es": "Engañar o timar a alguien.",
+      "en": "To deceive or trick someone.",
+      "vi": "Lừa dối hoặc lừa gạt ai đó."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:45:20.172Z"
+  },
+  "exampleSentences": [
+    "Anh không nên lừa bạn bè của mình trong bất kỳ tình huống nào.",
+    "Chị phát hiện ra ai đó đã lừa chị trong việc mua điện thoại.",
+    "Em đã rất buồn khi biết mình bị lừa trong trò chơi đó."
+  ],
+  "exampleSentencesTranslated": [
+    "You should not cheat your friends in any situation.",
+    "She found out that someone cheat her when buying a phone.",
+    "I was very sad to know that I was cheat in that game."
+  ],
+  "updatedAt": "2026-03-03T09:48:31.801Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "lừa = to cheat, trick, or deceive someone. It’s used when someone lies or manipulates to get money, benefits, or trust.\n\nYou usually say lừa + ai (the person), and often add what they were tricked into doing.  \n\nStronger versions: lừa gạt, lừa đảo (often about scams or serious fraud).  \n\nVery common second meaning: con lừa = donkey (the animal).",
+  "word": "lừa",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Con ___ chạy nhanh trong công viên.",
+      "translation": {
+        "en": "The donkey runs fast in the park."
+      },
+      "translatedAnswer": {
+        "en": "donkey"
+      },
+      "choices": [],
+      "word": "lừa",
+      "language": "vi",
+      "answer": "lừa"
+    },
+    "updatedAt": "2025-03-12T16:13:22.772Z",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:13:22.772Z",
+    "id": "64cd7b25-df24-4a73-ad90-dd2867f54e53"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1988,
+  "notes_md": "**lừa** = to cheat, trick, or deceive someone. It’s used when someone lies or manipulates to get money, benefits, or trust.\n\nYou usually say **lừa + ai** (the person), and often add what they were tricked into doing.  \n\nStronger versions: **lừa gạt**, **lừa đảo** (often about scams or serious fraud).  \n\nVery common second meaning: **con lừa** = donkey (the animal).",
+  "definition": "cheat",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Con ___ rất thông minh.",
+      "word": "lừa",
+      "choices": [
+        "cừu",
+        "lừa",
+        "ngựa"
+      ],
+      "language": "vi",
+      "answer": "lừa",
+      "hint": "l__a",
+      "translation": {
+        "en": "The donkey is very smart."
+      },
+      "translatedAnswer": {
+        "en": "donkey"
+      }
+    },
+    "updatedAt": "2025-03-12T16:13:22.772Z",
+    "createdAt": "2025-03-12T16:13:22.772Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "7d953583-a5b7-4001-8309-11264df11183"
+  },
+  "_id": "pp4940c0PPlJBr4lYwt0"
+}

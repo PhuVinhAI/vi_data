@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1831,
+  "definition": "recently",
+  "fillBlankQuiz": {
+    "id": "44cd9908-762c-4094-8750-5c6bbd798e11",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:41:37.626Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "just now"
+      },
+      "choices": [],
+      "answer": "vừa qua",
+      "translation": {
+        "en": "We talked just now."
+      },
+      "language": "vi",
+      "word": "vừa qua",
+      "sentence": "Chúng ta đã nói chuyện ___."
+    },
+    "updatedAt": "2025-03-12T16:41:37.626Z"
+  },
+  "notes_md": "**vừa qua** = recently, in the recent past. It talks about something that happened not long ago.\n\nIt often comes after a time word or event to mean “the past/recent ___.”  \n\nIt can also go at the end of a clause to mean “recently.”\n\nClose synonyms: **gần đây**, **mới đây** (all mean “recently,” but *vừa qua* often feels tied to a specific past period or event).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "vừa qua = recently, in the recent past. It talks about something that happened not long ago.\n\nIt often comes after a time word or event to mean “the past/recent ___.”  \n\nIt can also go at the end of a clause to mean “recently.”\n\nClose synonyms: gần đây, mới đây (all mean “recently,” but vừa qua often feels tied to a specific past period or event).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Gần đây hoặc vừa mới.",
+      "es": "Recientemente o hace un momento.",
+      "en": "Recently or just now."
+    },
+    "example": {
+      "vi": "Tôi vừa qua cầu.",
+      "en": "I just crossed the bridge.",
+      "es": "Acabo de cruzar el puente."
+    },
+    "translations": {
+      "en": "just now",
+      "es": "hace un momento",
+      "vi": "vừa qua"
+    },
+    "createdAt": "2025-01-28T14:13:06.662Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "vừa qua",
+  "exampleSentencesTranslated": [
+    "I took an English course recently.",
+    "I heard you moved house recently, was it tiring?",
+    "The company organized a big event recently that was very successful."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "just now"
+      },
+      "answer": "vừa qua",
+      "choices": [
+        "vừa qua",
+        "vừa rồi",
+        "mới đây"
+      ],
+      "translation": {
+        "en": "They came just now and left."
+      },
+      "sentence": "Họ đã đến ___ và rời đi.",
+      "word": "vừa qua",
+      "hint": "v___a"
+    },
+    "updatedAt": "2025-03-12T16:41:37.626Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:41:37.626Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "07362ed9-32b4-4888-8f0f-4ecdac8800e8"
+  },
+  "exampleSentences": [
+    "Anh đã tham gia một khóa học tiếng Anh vừa qua.",
+    "Chị nghe nói em chuyển nhà vừa qua, có mệt không?",
+    "Công ty tổ chức một sự kiện lớn vừa qua rất thành công."
+  ],
+  "updatedAt": "2026-03-03T09:31:52.448Z",
+  "choices": [
+    "vừa qua",
+    "ngày mai",
+    "ngay bây giờ"
+  ],
+  "_id": "x8fxZPZdsHC5hynkDnvP"
+}

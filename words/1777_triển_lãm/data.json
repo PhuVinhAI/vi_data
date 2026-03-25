@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:13:10.868Z",
+    "updatedAt": "2025-03-12T15:13:10.868Z",
+    "content": {
+      "choices": [],
+      "translatedAnswer": {
+        "en": "exhibition"
+      },
+      "translation": {
+        "en": "I want to attend the exhibition."
+      },
+      "sentence": "Tôi muốn tham dự ___ nghệ thuật.",
+      "answer": "triển lãm",
+      "word": "triển lãm",
+      "language": "vi"
+    },
+    "id": "b16ba3e0-86e8-45c0-b0ce-205d4c8d19de"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T09:26:23.700Z",
+  "exampleSentencesTranslated": [
+    "I will go to the art exhibition with my friend this weekend.",
+    "I really like to see the exhibition about new technology in the city center.",
+    "I bought tickets to join the international book exhibition next month."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A public display of works of art or items of interest.",
+      "es": "Una exhibición pública de obras de arte o artículos de interés.",
+      "vi": "Một buổi trưng bày công khai các tác phẩm nghệ thuật hoặc các đồ vật thú vị."
+    },
+    "createdAt": "2025-01-28T12:47:54.071Z",
+    "example": {
+      "en": "I went to see the art exhibition yesterday.",
+      "es": "Fui a ver la exposición de arte ayer.",
+      "vi": "Tôi đã đi xem triển lãm nghệ thuật hôm qua."
+    },
+    "translations": {
+      "en": "exhibition",
+      "es": "exposición",
+      "vi": "triển lãm"
+    }
+  },
+  "notes_md": "**Triển lãm** = exhibition — an event where art, products, photos, or ideas are displayed for people to see.\n\nIt’s a **noun**. You can say *một triển lãm* or *một cuộc triển lãm* (both natural).  \nCommon pairings: *triển lãm nghệ thuật, triển lãm tranh, triển lãm ảnh, triển lãm sách, triển lãm công nghệ*.  \nCommon verbs: *đi triển lãm, tham quan triển lãm, tổ chức triển lãm*.  \n\nClose word: **hội chợ** = fair/expo (more commercial, buying & selling; *triển lãm* focuses more on displaying).",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "exhibition",
+  "choices": [
+    "triển lãm",
+    "hội nghị",
+    "bảo tàng"
+  ],
+  "rank": 1777,
+  "multiChoiceQuiz": {
+    "id": "c3b40bd5-b5a1-4cc1-ad5b-c9e0000baaf9",
+    "createdAt": "2025-03-12T15:13:10.868Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Họ đã tổ chức ___ mới.",
+      "word": "triển lãm",
+      "language": "vi",
+      "answer": "triển lãm",
+      "hint": "t___ lãm",
+      "translatedAnswer": {
+        "en": "exhibition"
+      },
+      "choices": [
+        "triển lãm",
+        "hội chợ",
+        "buổi lễ"
+      ],
+      "translation": {
+        "en": "They organized a new exhibition."
+      }
+    },
+    "updatedAt": "2025-03-12T15:13:10.868Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chị sẽ đi triển lãm nghệ thuật với bạn vào cuối tuần này.",
+    "Anh rất thích xem triển lãm về công nghệ mới ở trung tâm thành phố.",
+    "Em mua vé để tham gia triển lãm sách quốc tế vào tháng tới."
+  ],
+  "notes": "Triển lãm = exhibition — an event where art, products, photos, or ideas are displayed for people to see.\n\nIt’s a noun. You can say một triển lãm or một cuộc triển lãm (both natural).  \nCommon pairings: triển lãm nghệ thuật, triển lãm tranh, triển lãm ảnh, triển lãm sách, triển lãm công nghệ.  \nCommon verbs: đi triển lãm, tham quan triển lãm, tổ chức triển lãm.  \n\nClose word: hội chợ = fair/expo (more commercial, buying & selling; triển lãm focuses more on displaying).",
+  "word": "triển lãm",
+  "_id": "adX0ZUSlznuqO8KYAZI7"
+}

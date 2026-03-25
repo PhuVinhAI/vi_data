@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "es": "lágrimas",
+      "vi": "nước mắt",
+      "en": "tears"
+    },
+    "definitions": {
+      "vi": "Nước mắt; chất lỏng chảy ra từ mắt, đặc biệt khi người ta buồn.",
+      "es": "Lágrimas; el líquido que sale de los ojos, especialmente cuando uno está triste.",
+      "en": "Tears; the liquid that comes from the eyes, especially when one is sad."
+    },
+    "createdAt": "2025-01-28T11:57:42.883Z",
+    "example": {
+      "en": "She shed tears while watching the sad movie.",
+      "es": "Ella derramó lágrimas mientras veía la película triste.",
+      "vi": "Cô ấy rơi nước mắt khi xem bộ phim buồn."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Khi xem phim buồn, chị không thể ngăn được nước mắt.",
+    "Anh lau nước mắt cho em khi em cảm thấy buồn.",
+    "Có lúc hạnh phúc cũng làm mình rơi nước mắt."
+  ],
+  "rank": 2092,
+  "definition": "tears",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "nước mắt",
+      "sentence": "Cô ấy rơi ___ khi nghe tin buồn.",
+      "translation": {
+        "en": "She shed tears when hearing the sad news."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "tears"
+      },
+      "answer": "nước mắt"
+    },
+    "type": "fillBlankQuiz",
+    "id": "caedc1cb-6cfb-46f6-930d-53ecdd2bf49e",
+    "createdAt": "2025-03-12T14:21:39.882Z",
+    "updatedAt": "2025-03-12T14:21:39.882Z"
+  },
+  "exampleSentencesTranslated": [
+    "When watching a sad movie, she can't stop her tears.",
+    "He wipes her tears when she feels sad.",
+    "Sometimes happiness also makes you shed tears."
+  ],
+  "notes": "nước mắt = tears (the liquid from your eyes when you cry). It’s uncountable in general, but you can count drops with giọt nước mắt.\n\nOften used with verbs like rơi, chảy, lau, nuốt (emotion is the focus, not just the liquid).  \n\nCommon phrase: nước mắt cá sấu = crocodile tears (fake crying).  \n\nYou’ll also hear it in emotional expressions, both sad and happy — it’s about strong feelings, not only sadness.",
+  "updatedAt": "2026-03-03T09:59:25.115Z",
+  "choices": [
+    "nước mắt",
+    "nụ cười",
+    "giọng nói"
+  ],
+  "notes_md": "**nước mắt** = tears (the liquid from your eyes when you cry). It’s uncountable in general, but you can count drops with **giọt nước mắt**.\n\nOften used with verbs like **rơi**, **chảy**, **lau**, **nuốt** (emotion is the focus, not just the liquid).  \n\nCommon phrase: **nước mắt cá sấu** = crocodile tears (fake crying).  \n\nYou’ll also hear it in emotional expressions, both sad and happy — it’s about strong feelings, not only sadness.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "nước mắt",
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "She shed tears when hearing the sad news."
+      },
+      "language": "vi",
+      "choices": [
+        "nước mắt",
+        "nụ cười",
+        "niềm vui"
+      ],
+      "hint": "n____t",
+      "word": "nước mắt",
+      "sentence": "Cô ấy rơi ___ khi nghe tin buồn.",
+      "translatedAnswer": {
+        "en": "tears"
+      },
+      "answer": "nước mắt"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "64815825-cc9d-46bf-84be-532931068457",
+    "createdAt": "2025-03-12T14:21:39.882Z",
+    "updatedAt": "2025-03-12T14:21:39.882Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "NX6LJJA9DVMvSJfcmtZC"
+}

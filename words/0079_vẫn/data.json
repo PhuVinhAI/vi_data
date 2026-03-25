@@ -1,0 +1,101 @@
+{
+  "exampleSentencesTranslated": [
+    "I still like milk tea.",
+    "He still eats at home.",
+    "She still watches comedy movies."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "flashcard": {
+    "translations": {
+      "en": "still"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Trời mưa nhưng tôi vẫn đi học.",
+      "en": "It was raining but I still went to school."
+    },
+    "createdAt": "2025-05-24T16:30:48.920Z",
+    "definitions": {
+      "en": "A word used to indicate that an action or state continues despite a change in conditions.",
+      "vi": "Từ dùng để diễn tả một hành động hoặc trạng thái tiếp tục xảy ra dù có điều kiện thay đổi."
+    },
+    "word": "vẫn"
+  },
+  "word": "vẫn",
+  "updatedAt": "2026-03-03T06:11:07.027Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:41:05.871Z",
+    "createdAt": "2025-03-12T15:41:05.871Z",
+    "id": "0ec0c9e3-8a74-4cdf-b3b0-d9a56e601aed",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "still"
+      },
+      "answer": "vẫn",
+      "sentence": "Tôi ___ đi bộ mỗi sáng.",
+      "choices": [
+        "đã",
+        "vẫn",
+        "cũng"
+      ],
+      "hint": "v___",
+      "word": "vẫn",
+      "translation": {
+        "en": "I still walk every morning."
+      },
+      "language": "vi"
+    }
+  },
+  "notes_md": "**vẫn** = *still*. It shows that something continues and has not changed.\n\nIt usually goes before the verb or adjective: **vẫn + verb/adj**. It often implies “even now” or “despite something”.\n\n\nVery common with time contrast words like *nhưng*, *đến giờ*, *mà*. Similar to **còn** in some cases, but *vẫn* focuses more on “no change over time,” while *còn* can suggest “remaining” or comparison.",
+  "sentenceBreakdowns": [
+    "Em (I) + vẫn (still) + thích (like) + trà (tea) + sữa (milk)",
+    "Anh (he) + vẫn (still) + ăn (eat) + cơm (rice/meal) + nhà (home)",
+    "Chị (she) + vẫn (still) + xem (watch) + phim (movie) + hài (comedy)"
+  ],
+  "definition": "still",
+  "notes": "vẫn = still. It shows that something continues and has not changed.\n\nIt usually goes before the verb or adjective: vẫn + verb/adj. It often implies “even now” or “despite something”.\n\nVery common with time contrast words like nhưng, đến giờ, mà. Similar to còn in some cases, but vẫn focuses more on “no change over time,” while còn can suggest “remaining” or comparison.",
+  "rank": 79,
+  "fillBlankQuiz": {
+    "id": "927e2663-49e9-4739-ba5d-b6cd52979983",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "sentence": "Tôi ___ cần giúp đỡ.",
+      "translatedAnswer": {
+        "en": "still"
+      },
+      "answer": "vẫn",
+      "language": "vi",
+      "word": "vẫn",
+      "translation": {
+        "en": "I still need help."
+      }
+    },
+    "updatedAt": "2025-03-12T15:41:05.871Z",
+    "createdAt": "2025-03-12T15:41:05.871Z"
+  },
+  "choices": [
+    "đã",
+    "vẫn",
+    "sẽ"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em vẫn thích trà sữa.",
+    "Anh vẫn ăn cơm nhà.",
+    "Chị vẫn xem phim hài."
+  ],
+  "_id": "hQ0B1SJyP3Yx3jQ71mxq"
+}

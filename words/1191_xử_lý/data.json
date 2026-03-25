@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "Can you help me handle this problem?",
+    "She knows how to handle difficult situations at work.",
+    "When problems happen, you need to stay calm to handle them better."
+  ],
+  "word": "xử lý",
+  "choices": [
+    "xử lý",
+    "giải thích",
+    "thực hiện"
+  ],
+  "updatedAt": "2026-03-03T08:22:33.661Z",
+  "exampleSentences": [
+    "Anh có thể giúp em xử lý vấn đề này không?",
+    "Chị ấy biết cách xử lý các tình huống khó khăn trong công việc.",
+    "Khi gặp sự cố, em cần bình tĩnh để xử lý tốt hơn."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:34:34.824Z",
+    "id": "47c195fd-84be-4b4b-bc9f-05097a9db93e",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "We need to handle this issue."
+      },
+      "answer": "xử lý",
+      "choices": [
+        "giải quyết",
+        "xử lý",
+        "thảo luận"
+      ],
+      "translatedAnswer": {
+        "en": "handle"
+      },
+      "sentence": "Chúng ta cần ___ vấn đề này.",
+      "hint": "x___y",
+      "word": "xử lý"
+    },
+    "updatedAt": "2025-03-12T16:34:34.824Z",
+    "type": "multiChoiceQuiz"
+  },
+  "flashcard": {
+    "example": {
+      "vi": "Tôi cần xử lý vấn đề này ngay lập tức.",
+      "en": "I need to handle this issue immediately.",
+      "es": "Necesito manejar este problema de inmediato."
+    },
+    "definitions": {
+      "es": "Gestionar, tratar o procesar algo.",
+      "en": "To manage, deal with, or process something.",
+      "vi": "Quản lý, xử lý hoặc xử trí một cái gì đó."
+    },
+    "translations": {
+      "en": "handle",
+      "es": "manejar",
+      "vi": "xử lý"
+    },
+    "createdAt": "2025-01-28T14:05:59.059Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "notes": "xử lý = to handle or deal with something. It’s used when you manage a problem, situation, task, or information.\n\nIt’s a verb, followed directly by the thing you’re handling: issues, data, orders, paperwork, mistakes. It can also mean “process” (like processing data or applications).\n\nClose synonym: giải quyết (solve) — but xử lý is broader; you can handle something without fully solving it.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:34:34.824Z",
+    "id": "0962b54f-5066-4061-8c42-e9881a7e2975",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "handle"
+      },
+      "translation": {
+        "en": "We need to handle this issue."
+      },
+      "answer": "xử lý",
+      "choices": [],
+      "sentence": "Chúng ta cần ___ vấn đề này.",
+      "word": "xử lý"
+    },
+    "updatedAt": "2025-03-12T16:34:34.824Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "handle",
+  "rank": 1191,
+  "notes_md": "**xử lý** = to handle or deal with something. It’s used when you manage a problem, situation, task, or information.\n\nIt’s a verb, followed directly by the thing you’re handling: issues, data, orders, paperwork, mistakes. It can also mean “process” (like processing data or applications).\n\nClose synonym: **giải quyết** (solve) — but *xử lý* is broader; you can handle something without fully solving it.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "vY7Z8mXalFP3zoBXWmoZ"
+}

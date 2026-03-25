@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "id": "d676c183-60a2-4dd7-ba48-6e64a17c2f1c",
+    "createdAt": "2025-03-12T16:12:47.936Z",
+    "audioUrl": "multi_choice.mp3",
+    "updatedAt": "2025-03-12T16:12:47.936Z",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Tôi thích uống ___ vào buổi sáng.",
+      "translation": {
+        "en": "I like to drink tea in the morning."
+      },
+      "translatedAnswer": {
+        "en": "tea"
+      },
+      "hint": "tr__",
+      "word": "trà",
+      "answer": "trà",
+      "language": "vi",
+      "choices": [
+        "cà phê",
+        "trà",
+        "nước trái cây"
+      ]
+    }
+  },
+  "definition": "tea",
+  "notes_md": "**trà** means *tea*, the drink made by steeping leaves in hot water. It can be hot or cold.\n\nIt’s an uncountable noun, so you count it with containers: **một tách trà**, **một ly trà**, **một ấm trà**.  \nSuper common pairings: **trà đá** (iced tea), **trà nóng** (hot tea), **trà xanh** (green tea), **trà sữa** (milk tea).  \nUnlike English, Vietnamese doesn’t change the word for plural — context or a number word shows how much.",
+  "rank": 721,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "31c0fb39-0b1d-4cbc-89a4-b80472a828da",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:12:47.936Z",
+    "updatedAt": "2025-03-12T16:12:47.936Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Tôi thích uống ___ vào buổi sáng.",
+      "translation": {
+        "en": "I like to drink tea in the morning."
+      },
+      "translatedAnswer": {
+        "en": "tea"
+      },
+      "answer": "trà",
+      "language": "vi",
+      "word": "trà",
+      "choices": []
+    }
+  },
+  "word": "trà",
+  "notes": "trà means tea, the drink made by steeping leaves in hot water. It can be hot or cold.\n\nIt’s an uncountable noun, so you count it with containers: một tách trà, một ly trà, một ấm trà.  \nSuper common pairings: trà đá (iced tea), trà nóng (hot tea), trà xanh (green tea), trà sữa (milk tea).  \nUnlike English, Vietnamese doesn’t change the word for plural — context or a number word shows how much.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T07:33:47.016Z",
+  "exampleSentencesTranslated": [
+    "This morning I made a pot of tea to start the new day.",
+    "She likes to drink tea with friends on weekend afternoons.",
+    "Whenever I am tired, I often sit by the window and enjoy tea."
+  ],
+  "exampleSentences": [
+    "Sáng nay anh pha một ấm trà nóng để bắt đầu ngày mới.",
+    "Chị thích uống trà với bạn bè vào buổi chiều cuối tuần.",
+    "Mỗi khi mệt mỏi, em thường ngồi bên cửa sổ và thưởng thức trà."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "cà phê",
+    "nước",
+    "trà"
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một loại đồ uống được làm bằng cách ngâm lá trà khô trong nước nóng.",
+      "es": "Una bebida hecha al infusionar hojas de té secas en agua caliente.",
+      "en": "A beverage made by infusing dried tea leaves in hot water."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:44:50.963Z",
+    "translations": {
+      "es": "té",
+      "en": "tea",
+      "vi": "trà"
+    },
+    "example": {
+      "vi": "Tôi thích uống trà vào buổi sáng.",
+      "en": "I like to drink tea in the morning.",
+      "es": "Me gusta beber té por la mañana."
+    }
+  },
+  "_id": "pjUNHRgTqWsKZC0tRskE"
+}

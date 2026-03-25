@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Sáng nay, em đã mua một ký gạo ở chợ về nấu cơm.",
+    "Nhà anh thường dự trữ nhiều gạo để dùng trong cả tuần.",
+    "Chị ơi, mình còn đủ gạo để nấu bữa tối hôm nay không?"
+  ],
+  "updatedAt": "2026-03-03T10:35:11.093Z",
+  "notes": "gạo = uncooked rice (the raw grains before cooking). It’s the basic food used to make cơm (cooked rice).\n\nIt’s an uncountable noun in English, but in Vietnamese you count it with units like một ký gạo (1 kilo of rice) or một bao gạo (a sack of rice).  \nRelated words: hạt gạo (a grain of rice), lúa (rice plant in the field), cơm (cooked rice).  \n\nEasy memory link: gạo → raw, cơm → ready to eat.",
+  "flashcard": {
+    "definitions": {
+      "es": "Un alimento básico hecho de los granos de la planta de arroz.",
+      "vi": "Một loại thực phẩm chính được làm từ hạt của cây lúa.",
+      "en": "A staple food made from the grains of the rice plant."
+    },
+    "example": {
+      "en": "I bought rice to cook.",
+      "vi": "Tôi mua gạo để nấu cơm.",
+      "es": "Compré arroz para cocinar."
+    },
+    "translations": {
+      "en": "rice",
+      "vi": "gạo",
+      "es": "arroz"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:12:10.961Z"
+  },
+  "definition": "uncooked rice",
+  "exampleSentencesTranslated": [
+    "This morning, I bought one kilogram of uncooked rice at the market to cook.",
+    "My family usually stores a lot of uncooked rice to use for the whole week.",
+    "Hey, do we still have enough uncooked rice to cook dinner tonight?"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi mua ___ ở chợ.",
+      "word": "gạo",
+      "translatedAnswer": {
+        "en": "rice"
+      },
+      "translation": {
+        "en": "I buy rice at the market."
+      },
+      "answer": "gạo"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:32:31.286Z",
+    "id": "5df9dacf-f913-45c4-adf8-4b79ff7c4fda",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T13:32:31.286Z"
+  },
+  "word": "gạo",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 2435,
+  "choices": [
+    "gà",
+    "gạo",
+    "cá"
+  ],
+  "notes_md": "**gạo** = uncooked rice (the raw grains before cooking). It’s the basic food used to make **cơm** (cooked rice).\n\nIt’s an uncountable noun in English, but in Vietnamese you count it with units like **một ký gạo** (1 kilo of rice) or **một bao gạo** (a sack of rice).  \nRelated words: **hạt gạo** (a grain of rice), **lúa** (rice plant in the field), **cơm** (cooked rice).  \n\nEasy memory link: **gạo → raw**, **cơm → ready to eat**.",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:32:31.286Z",
+    "content": {
+      "choices": [
+        "cá",
+        "gạo",
+        "thịt"
+      ],
+      "sentence": "Chúng tôi cần mua ___ cho bữa ăn.",
+      "language": "vi",
+      "word": "gạo",
+      "translatedAnswer": {
+        "en": "rice"
+      },
+      "translation": {
+        "en": "We need to buy rice for the meal."
+      },
+      "hint": "g___",
+      "answer": "gạo"
+    },
+    "id": "4d93d13e-b6a2-4310-ba08-a90f461827bb",
+    "updatedAt": "2025-03-12T13:32:31.286Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "BWRPCFFTwwe7ppZp1chq"
+}

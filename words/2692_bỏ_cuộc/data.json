@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "give up",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I will not give up in the competition."
+      },
+      "answer": "bỏ cuộc",
+      "choices": [],
+      "word": "bỏ cuộc",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "give up"
+      },
+      "sentence": "Tôi sẽ không ___ trong cuộc thi."
+    },
+    "updatedAt": "2025-03-12T14:49:45.051Z",
+    "createdAt": "2025-03-12T14:49:45.051Z",
+    "id": "7679de9d-b9e6-4f79-bdda-c02f3e346d92",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Nếu em gặp khó khăn, đừng bỏ cuộc nhé.",
+    "Anh đã từng muốn bỏ cuộc nhưng bạn bè luôn động viên anh.",
+    "Chị nghĩ rằng mình không nên bỏ cuộc khi còn cơ hội."
+  ],
+  "notes_md": "**Bỏ cuộc** means “to give up” or stop trying before you finish. It’s used when someone quits because something is too hard or they lose motivation.\n\nIt’s an intransitive verb phrase, so it usually stands alone without a direct object. You’ll often see it with words about effort, challenges, or goals.\n\n`Structure: bỏ cuộc (trong việc gì) / bỏ cuộc giữa chừng` (bỏ cuộc giữa chừng)\n\nClose synonym: **từ bỏ** (more general, can be about giving up a thing). Stronger word: **đầu hàng** (to surrender). Opposite: **tiếp tục**, **cố gắng**.",
+  "flashcard": {
+    "translations": {
+      "es": "rendirse",
+      "vi": "bỏ cuộc",
+      "en": "give up"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Tôi không muốn bỏ cuộc giữa chừng.",
+      "en": "I don't want to give up halfway.",
+      "es": "No quiero rendirme a mitad de camino."
+    },
+    "definitions": {
+      "es": "Dejar de intentar o abandonar una tarea o meta.",
+      "vi": "Ngừng cố gắng hoặc từ bỏ một nhiệm vụ hoặc mục tiêu.",
+      "en": "To stop trying or to abandon a task or goal."
+    },
+    "createdAt": "2025-01-28T12:23:29.487Z"
+  },
+  "notes": "Bỏ cuộc means “to give up” or stop trying before you finish. It’s used when someone quits because something is too hard or they lose motivation.\n\nIt’s an intransitive verb phrase, so it usually stands alone without a direct object. You’ll often see it with words about effort, challenges, or goals.\n\nStructure: bỏ cuộc (trong việc gì) / bỏ cuộc giữa chừng (bỏ cuộc giữa chừng)\n\nClose synonym: từ bỏ (more general, can be about giving up a thing). Stronger word: đầu hàng (to surrender). Opposite: tiếp tục, cố gắng.",
+  "choices": [
+    "bỏ cuộc",
+    "thành công",
+    "cố gắng"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T11:36:39.762Z",
+  "word": "bỏ cuộc",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Chúng ta không được ___ khi gặp khó khăn.",
+      "translatedAnswer": {
+        "en": "give up"
+      },
+      "language": "vi",
+      "hint": "b___c",
+      "answer": "bỏ cuộc",
+      "translation": {
+        "en": "We must not give up when facing difficulties."
+      },
+      "word": "bỏ cuộc",
+      "choices": [
+        "bỏ cuộc",
+        "tiếp tục",
+        "đứng vững"
+      ]
+    },
+    "updatedAt": "2025-03-12T14:49:45.051Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:49:45.051Z",
+    "id": "e124228f-6783-4941-bcd0-f38da0379d86",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "If you have difficulties, do not give up.",
+    "I used to want to give up but my friends always encouraged me.",
+    "I think that I should not give up when there is still a chance."
+  ],
+  "rank": 2692,
+  "_id": "U4nLm5HYKx5hfbwi4QzP"
+}

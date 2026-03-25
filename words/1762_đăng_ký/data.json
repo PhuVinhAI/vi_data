@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-03-03T09:24:27.917Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 1762,
+  "exampleSentencesTranslated": [
+    "I want to register for a Vietnamese class next month.",
+    "She has registered to join the yoga club near her house.",
+    "You need to register a new account to use this app."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "hint": "đ___ ký",
+      "translation": {
+        "en": "Do you have a registration for this course?"
+      },
+      "answer": "đăng ký",
+      "word": "đăng ký",
+      "choices": [
+        "đăng ký",
+        "thông báo",
+        "hủy bỏ"
+      ],
+      "sentence": "Bạn có ___ khóa học này không?",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "registration"
+      }
+    },
+    "updatedAt": "2025-03-12T14:29:38.911Z",
+    "id": "a15fa978-a37a-41fa-81fa-fa3124e1d066",
+    "createdAt": "2025-03-12T14:29:38.911Z",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "word": "đăng ký",
+  "notes": "đăng ký = to register or sign up for something officially. You use it when you put your name down to join, use, or receive something.\n\nIt’s a verb, often followed by an activity, service, or event.  \n\nYou’ll also hear đăng ký với + organization/place when saying where you register.  \n\nStrong memory link: think “sign up” = đăng ký. The opposite idea is hủy (bỏ) = cancel.",
+  "choices": [
+    "đăng ký",
+    "tìm kiếm",
+    "học tập"
+  ],
+  "exampleSentences": [
+    "Anh muốn đăng ký một lớp học tiếng Việt vào tháng tới.",
+    "Chị đã đăng ký tham gia câu lạc bộ yoga ở gần nhà.",
+    "Em cần đăng ký tài khoản mới để sử dụng ứng dụng này."
+  ],
+  "notes_md": "**đăng ký** = to register or sign up for something officially. You use it when you put your name down to join, use, or receive something.\n\nIt’s a verb, often followed by an activity, service, or event.  \n\nYou’ll also hear **đăng ký với + organization/place** when saying where you register.  \n\nStrong memory link: think “sign up” = đăng ký. The opposite idea is **hủy (bỏ)** = cancel.",
+  "flashcard": {
+    "definitions": {
+      "es": "Inscribirse o matricularse en algo.",
+      "en": "To sign up or enroll in something.",
+      "vi": "Để đăng ký hoặc ghi danh vào một cái gì đó."
+    },
+    "createdAt": "2025-01-28T12:05:43.002Z",
+    "example": {
+      "es": "Quiero inscribirme en este curso.",
+      "vi": "Tôi muốn đăng ký khóa học này.",
+      "en": "I want to register for this course."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "inscribir",
+      "en": "register"
+    }
+  },
+  "definition": "register",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "id": "2e8327da-5ca8-432e-b35e-51bda1aaebb0",
+    "createdAt": "2025-03-12T14:29:38.911Z",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:29:38.911Z",
+    "content": {
+      "answer": "đăng ký",
+      "translation": {
+        "en": "I need to register before participating."
+      },
+      "choices": [],
+      "word": "đăng ký",
+      "translatedAnswer": {
+        "en": "register"
+      },
+      "language": "vi",
+      "sentence": "Tôi cần ___ trước khi tham gia."
+    }
+  },
+  "_id": "PSDAJPXUANMbtDbeEkup"
+}

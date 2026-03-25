@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "v___n",
+      "answer": "vô hình",
+      "translation": {
+        "en": "This table is invisible in the dark."
+      },
+      "word": "vô hình",
+      "choices": [
+        "hữu hình",
+        "vô hình",
+        "mờ nhạt"
+      ],
+      "sentence": "Cái bàn này ___ trong bóng tối.",
+      "translatedAnswer": {
+        "en": "invisible"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:31:40.910Z",
+    "id": "2ebe6c0a-4d4b-41f6-8c4d-827c7baa9ac0",
+    "createdAt": "2025-03-12T14:31:40.910Z",
+    "type": "multiChoiceQuiz"
+  },
+  "word": "vô hình",
+  "rank": 2676,
+  "exampleSentencesTranslated": [
+    "He feels like there is an invisible wall between the two people.",
+    "Sometimes, invisible sadness makes it hard for me to share with anyone.",
+    "She believes that invisible forces help her overcome difficulties."
+  ],
+  "updatedAt": "2026-03-03T11:34:52.389Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "vô hình",
+    "hiện tại",
+    "quan trọng"
+  ],
+  "notes": "Vô hình means invisible — you can’t see it with your eyes. It can also mean something abstract or hard to notice, like feelings or forces.\n\nIt’s an adjective, so it usually comes after the noun: bức tường vô hình, áp lực vô hình. It describes things that exist but aren’t physically seen.\n\nCommon contrast: hữu hình = visible, tangible.  \nYou’ll often see it with abstract nouns like áp lực, rào cản, thế lực, nguy cơ to talk about hidden influence.",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "invisible",
+      "en": "invisible",
+      "vi": "vô hình"
+    },
+    "createdAt": "2025-01-28T12:07:24.848Z",
+    "definitions": {
+      "es": "No se puede ver; no visible.",
+      "en": "Not able to be seen; not visible.",
+      "vi": "Không thể nhìn thấy; không nhìn thấy được."
+    },
+    "example": {
+      "vi": "Ánh sáng vô hình có thể gây ra nhiều tác động.",
+      "en": "Invisible light can have many effects.",
+      "es": "La luz invisible puede tener muchos efectos."
+    }
+  },
+  "notes_md": "**Vô hình** means *invisible* — you can’t see it with your eyes. It can also mean something abstract or hard to notice, like feelings or forces.\n\nIt’s an **adjective**, so it usually comes **after the noun**: *bức tường vô hình, áp lực vô hình*. It describes things that exist but aren’t physically seen.\n\nCommon contrast: **hữu hình** = visible, tangible.  \nYou’ll often see it with abstract nouns like *áp lực, rào cản, thế lực, nguy cơ* to talk about hidden influence.",
+  "exampleSentences": [
+    "Anh cảm thấy như có một bức tường vô hình giữa hai người.",
+    "Nhiều khi nỗi buồn vô hình khiến em khó chia sẻ với ai.",
+    "Chị tin rằng có những sức mạnh vô hình giúp mình vượt qua khó khăn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:31:40.910Z",
+    "id": "63e5f3a6-d29a-4470-85c3-2bccce46c901",
+    "content": {
+      "sentence": "Cái bàn này ___ trong bóng tối.",
+      "translatedAnswer": {
+        "en": "invisible"
+      },
+      "language": "vi",
+      "choices": [],
+      "word": "vô hình",
+      "answer": "vô hình",
+      "translation": {
+        "en": "This table is invisible in the dark."
+      }
+    },
+    "updatedAt": "2025-03-12T14:31:40.910Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "invisible",
+  "_id": "Q7jmrPlC89F51BkrK0Ii"
+}

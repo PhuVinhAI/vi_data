@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Necesito terminar esta tarea antes de la fecha límite.",
+      "vi": "Tôi cần hoàn thành bài tập này trước hạn cuối.",
+      "en": "I need to finish this assignment before the deadline."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "limit",
+      "es": "límite",
+      "vi": "hạn"
+    },
+    "definitions": {
+      "es": "Un límite o restricción, a menudo refiriéndose a una fecha límite.",
+      "vi": "Một giới hạn hoặc sự hạn chế, thường đề cập đến thời hạn.",
+      "en": "A limit or restriction, often referring to a deadline."
+    },
+    "createdAt": "2025-01-28T11:54:01.014Z"
+  },
+  "exampleSentences": [
+    "Anh chỉ rảnh đến hạn chót, nên em gọi sớm nhé.",
+    "Chị nhớ gia hạn thẻ xe trước khi hết hạn nhé.",
+    "Em lo lắng vì chưa làm xong dự án mà hạn đang đến gần."
+  ],
+  "rank": 2044,
+  "definition": "deadline",
+  "fillBlankQuiz": {
+    "id": "1d2f8d62-49fb-48fa-9087-7cb0a656e82e",
+    "content": {
+      "translatedAnswer": {
+        "en": "deadline"
+      },
+      "answer": "hạn",
+      "word": "hạn",
+      "sentence": "Thời gian ___ nộp báo cáo.",
+      "translation": {
+        "en": "The deadline for submitting the report."
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:17:10.903Z",
+    "createdAt": "2025-03-12T14:17:10.903Z"
+  },
+  "notes": "hạn = deadline, time limit. It’s the point in time when something must be finished.\n\nIt’s a noun. You’ll often see it with đến hạn (the deadline arrives), hết hạn (expire), gia hạn (extend a deadline), and trễ hạn (late).  \n\nIt’s also very common for expiration dates (visa, contract, food).  \nClose word: thời hạn = duration/period (length of time), not the final date.",
+  "exampleSentencesTranslated": [
+    "I’m only free until the deadline, so please call early.",
+    "Please remember to renew the parking card before the deadline.",
+    "I am worried because I haven't finished the project and the deadline is approaching."
+  ],
+  "choices": [
+    "hạn",
+    "giấy",
+    "giờ"
+  ],
+  "updatedAt": "2026-03-03T09:54:20.811Z",
+  "notes_md": "**hạn** = deadline, time limit. It’s the point in time when something must be finished.\n\nIt’s a noun. You’ll often see it with **đến hạn** (the deadline arrives), **hết hạn** (expire), **gia hạn** (extend a deadline), and **trễ hạn** (late).  \n\nIt’s also very common for expiration dates (visa, contract, food).  \nClose word: **thời hạn** = duration/period (length of time), not the final date.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "hạn",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "deadline"
+      },
+      "answer": "hạn",
+      "translation": {
+        "en": "The deadline for submitting the report."
+      },
+      "language": "vi",
+      "choices": [
+        "hạn",
+        "khoảng",
+        "thời gian"
+      ],
+      "hint": "h__n",
+      "word": "hạn",
+      "sentence": "Thời gian ___ nộp báo cáo."
+    },
+    "id": "8d3180d0-9463-4b83-a941-c85b2f7394b2",
+    "createdAt": "2025-03-12T14:17:10.903Z",
+    "updatedAt": "2025-03-12T14:17:10.903Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "MUDcBBUrtp5Z0SU3bBFq"
+}

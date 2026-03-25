@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-03-03T09:18:18.281Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T13:06:44.933Z",
+    "updatedAt": "2025-03-12T13:06:44.933Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "bắc",
+      "sentence": "Tôi sống ở ___ Việt Nam.",
+      "translatedAnswer": {
+        "en": "north"
+      },
+      "language": "vi",
+      "word": "bắc",
+      "choices": [],
+      "translation": {
+        "en": "I live in the north of Vietnam."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "89bcb580-e3a8-4d8e-ae1f-e67af918bc44"
+  },
+  "notes_md": "**bắc** = *north* (the direction). It can mean the compass direction or the northern region of a country.\n\nIt’s often used in phrases like *miền Bắc* (the North of Vietnam), *hướng bắc* (north direction), or in compass combos like *Đông Bắc* (northeast). Opposite: **nam** (south) — easy pair to memorize.\n\nWhen talking about Northern Vietnam as a region, **Bắc** is capitalized.",
+  "exampleSentencesTranslated": [
+    "He plans to travel to the north this summer.",
+    "The north of Vietnam is famous for many delicious dishes.",
+    "She has lived in the north of the city for five years."
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "bắc",
+  "choices": [
+    "bắc",
+    "nam",
+    "tây"
+  ],
+  "notes": "bắc = north (the direction). It can mean the compass direction or the northern region of a country.\n\nIt’s often used in phrases like miền Bắc (the North of Vietnam), hướng bắc (north direction), or in compass combos like Đông Bắc (northeast). Opposite: nam (south) — easy pair to memorize.\n\nWhen talking about Northern Vietnam as a region, Bắc is capitalized.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Miền Bắc Việt Nam có nhiều cảnh đẹp.",
+      "en": "The North of Vietnam has many beautiful landscapes.",
+      "es": "El norte de Vietnam tiene muchos paisajes hermosos."
+    },
+    "translations": {
+      "es": "norte",
+      "vi": "bắc",
+      "en": "north"
+    },
+    "createdAt": "2025-01-28T10:48:43.948Z",
+    "definitions": {
+      "vi": "Bắc; một hướng hoặc khu vực.",
+      "en": "North; a direction or region.",
+      "es": "Norte; una dirección o región."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "north",
+  "rank": 1704,
+  "exampleSentences": [
+    "Anh dự định đi du lịch về phía bắc vào mùa hè này.",
+    "Miền bắc Việt Nam nổi tiếng với nhiều món ăn ngon.",
+    "Chị đã sống ở bắc thành phố suốt năm năm qua."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "đông",
+        "tây",
+        "bắc"
+      ],
+      "translation": {
+        "en": "We go north to visit."
+      },
+      "hint": "b__c",
+      "word": "bắc",
+      "translatedAnswer": {
+        "en": "north"
+      },
+      "language": "vi",
+      "sentence": "Chúng tôi đi ___ để tham quan.",
+      "answer": "bắc"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "139af699-b131-4d69-8ab6-d602d647e1ea",
+    "createdAt": "2025-03-12T13:06:44.933Z",
+    "updatedAt": "2025-03-12T13:06:44.933Z"
+  },
+  "_id": "4rN0CMLM1zdDwO6HCJRl"
+}

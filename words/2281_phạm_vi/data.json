@@ -1,0 +1,99 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "p___i",
+      "word": "phạm vi",
+      "translatedAnswer": {
+        "en": "scope"
+      },
+      "language": "vi",
+      "translation": {
+        "en": "We need to define the scope of the project."
+      },
+      "choices": [
+        "quy mô",
+        "phạm vi",
+        "giới hạn"
+      ],
+      "answer": "phạm vi",
+      "sentence": "Chúng ta cần xác định ___ của dự án."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "4f6eccdd-0439-466a-999d-977e880a92ef",
+    "createdAt": "2025-03-12T12:56:49.131Z",
+    "updatedAt": "2025-03-12T12:56:49.131Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em muốn biết phạm vi của dự án này là bao nhiêu.",
+    "Anh đã kiểm tra phạm vi tín hiệu wifi ở văn phòng chưa?",
+    "Chị nên xác định phạm vi công việc trước khi bắt đầu."
+  ],
+  "rank": 2281,
+  "definition": "range",
+  "flashcard": {
+    "example": {
+      "es": "El alcance de este proyecto es muy amplio.",
+      "en": "The scope of this project is very broad.",
+      "vi": "Phạm vi của dự án này rất rộng."
+    },
+    "translations": {
+      "vi": "phạm vi",
+      "en": "scope",
+      "es": "alcance"
+    },
+    "createdAt": "2025-01-28T10:40:04.542Z",
+    "definitions": {
+      "es": "El rango o extensión de algo.",
+      "en": "The range or extent of something.",
+      "vi": "Phạm vi là khoảng không gian hoặc giới hạn của một cái gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "phạm vi",
+    "thời gian",
+    "khoảng cách"
+  ],
+  "notes": "Phạm vi means range, scope, or the limits of something — how far something reaches or what it includes.\n\nIt’s a noun. You’ll often see it with của (phạm vi của + noun) or after words like mở rộng / thu hẹp (expand / narrow the scope). Very common in abstract topics: work, influence, responsibility, signal, research.\n\nIt’s usually uncountable in meaning, but you can say một phạm vi when talking about a specific defined range.\n\nClose synonym: tầm (less formal, often about influence or reach).",
+  "word": "phạm vi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "I want to know the range of this project.",
+    "Have you checked the wifi range in the office yet?",
+    "You should define the range of work before starting."
+  ],
+  "notes_md": "**Phạm vi** means *range, scope, or the limits of something* — how far something reaches or what it includes.\n\nIt’s a noun. You’ll often see it with **của** (phạm vi của + noun) or after words like **mở rộng / thu hẹp** (expand / narrow the scope). Very common in abstract topics: work, influence, responsibility, signal, research.\n\nIt’s usually uncountable in meaning, but you can say **một phạm vi** when talking about a specific defined range.\n\n\nClose synonym: **tầm** (less formal, often about influence or reach).",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:56:49.131Z",
+    "updatedAt": "2025-03-12T12:56:49.131Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "8acb9981-8ed4-49e2-8a12-47a981095a96",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta cần xác định ___ của dự án.",
+      "answer": "phạm vi",
+      "choices": [],
+      "translation": {
+        "en": "We need to define the scope of the project."
+      },
+      "word": "phạm vi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "scope"
+      }
+    }
+  },
+  "updatedAt": "2026-03-03T10:19:38.499Z",
+  "_id": "1yg4sFBpUBU0fuFTwobh"
+}

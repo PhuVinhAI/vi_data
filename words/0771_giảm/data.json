@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:44:46.932Z",
+    "translations": {
+      "es": "disminuir",
+      "vi": "giảm",
+      "en": "decrease"
+    },
+    "definitions": {
+      "es": "Hacer o volverse menos en cantidad, grado o tamaño.",
+      "vi": "Làm cho hoặc trở nên ít hơn về số lượng, mức độ hoặc kích thước.",
+      "en": "To make or become less in amount, degree, or size."
+    },
+    "example": {
+      "en": "The price of this product has decreased.",
+      "vi": "Giá sản phẩm này đã giảm.",
+      "es": "El precio de este producto ha disminuido."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentences": [
+    "Chị nên ăn ít đường để giảm cân nhanh hơn.",
+    "Anh muốn giảm lượng công việc để có nhiều thời gian nghỉ ngơi.",
+    "Giá xăng đã giảm trong tuần này nên em rất vui."
+  ],
+  "rank": 771,
+  "definition": "reduce",
+  "fillBlankQuiz": {
+    "id": "4b20941e-2dc3-4261-91f1-9e1dd9136516",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "giảm",
+      "translatedAnswer": {
+        "en": "decrease"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "The product price will decrease next month."
+      },
+      "sentence": "Giá sản phẩm sẽ ___ vào tháng tới.",
+      "word": "giảm"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T14:07:13.891Z",
+    "createdAt": "2025-03-12T14:07:13.891Z"
+  },
+  "notes": "giảm = to reduce, decrease, or go down. It’s used for numbers, amounts, prices, weight, pain, pressure, etc.\n\nIt’s a verb, so you put it before what is decreasing: giảm + noun (giảm giá, giảm cân, giảm tốc độ). You can also use it for things that change by themselves (nhiệt độ giảm).\n\nVery common opposite: tăng (increase). Think giảm ↔ tăng.\n\nIt can also mean “to lessen” in a more abstract way, like reducing stress, risk, or symptoms.",
+  "exampleSentencesTranslated": [
+    "You should eat less sugar to reduce weight faster.",
+    "I want to reduce my workload to have more time to relax.",
+    "The price of gasoline has reduce this week so I am very happy."
+  ],
+  "choices": [
+    "giảm",
+    "tăng",
+    "giữ"
+  ],
+  "updatedAt": "2026-03-03T07:38:56.314Z",
+  "notes_md": "**giảm** = to reduce, decrease, or go down. It’s used for numbers, amounts, prices, weight, pain, pressure, etc.\n\nIt’s a verb, so you put it before what is decreasing: giảm + noun (giảm giá, giảm cân, giảm tốc độ). You can also use it for things that change by themselves (nhiệt độ giảm).\n\nVery common opposite: **tăng** (increase). Think giảm ↔ tăng.\n\nIt can also mean “to lessen” in a more abstract way, like reducing stress, risk, or symptoms.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:07:13.891Z",
+    "createdAt": "2025-03-12T14:07:13.891Z",
+    "id": "5b2d30ab-b998-4bd8-af24-e03f872326c9",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "The product price will decrease next month."
+      },
+      "language": "vi",
+      "choices": [
+        "tăng",
+        "giảm",
+        "ổn định"
+      ],
+      "word": "giảm",
+      "hint": "g___m",
+      "sentence": "Giá sản phẩm sẽ ___ vào tháng tới.",
+      "translatedAnswer": {
+        "en": "decrease"
+      },
+      "answer": "giảm"
+    }
+  },
+  "word": "giảm",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "KOK4Vc0mLs86nzEFMeRr"
+}

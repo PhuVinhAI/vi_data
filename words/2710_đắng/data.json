@@ -1,0 +1,99 @@
+{
+  "exampleSentencesTranslated": [
+    "I don't like coffee because its taste is very bitter.",
+    "I find this medicine a bit bitter so it's hard to take.",
+    "Do you want to try this bitter chocolate?"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "đắng",
+  "choices": [
+    "chua",
+    "ngọt",
+    "đắng"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:41:16.156Z",
+    "id": "a4e662a3-14c6-4264-ba49-e915c731a5fc",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "d___g",
+      "word": "đắng",
+      "sentence": "Bánh này có vị ___.",
+      "translation": {
+        "en": "This cake has a bitter taste."
+      },
+      "answer": "đắng",
+      "choices": [
+        "ngọt",
+        "đắng",
+        "chua"
+      ],
+      "translatedAnswer": {
+        "en": "bitter"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:41:16.156Z"
+  },
+  "exampleSentences": [
+    "Em không thích cà phê vì vị của nó rất đắng.",
+    "Anh thấy thuốc này hơi đắng nên khó uống.",
+    "Chị muốn thử loại sô-cô-la đắng này không?"
+  ],
+  "updatedAt": "2026-03-03T11:38:29.204Z",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:12:45.252Z",
+    "translations": {
+      "en": "bitter",
+      "es": "amargo",
+      "vi": "đắng"
+    },
+    "definitions": {
+      "es": "Tener un sabor o olor agudo y picante; no dulce.",
+      "en": "Having a sharp, pungent taste or smell; not sweet.",
+      "vi": "Có vị hoặc mùi sắc nét, nồng; không ngọt."
+    },
+    "example": {
+      "es": "Este té es muy amargo.",
+      "en": "This tea is very bitter.",
+      "vi": "Trà này rất đắng."
+    }
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Đắng means bitter, usually for taste (like coffee, beer, some vegetables).  \n\nIt’s an adjective, so it goes after the noun: vị đắng, cà phê đắng, rất đắng. You can soften or strengthen it with words like hơi, khá, rất.  \n\nIt also describes feelings or experiences: kỷ niệm đắng, sự thật đắng → emotionally painful or harsh.  \n\nOpposite: ngọt (sweet). The contrast ngọt – đắng is very common and easy to remember.",
+  "rank": 2710,
+  "definition": "bitter",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "choices": [],
+      "answer": "đắng",
+      "translation": {
+        "en": "This coffee is very bitter."
+      },
+      "translatedAnswer": {
+        "en": "bitter"
+      },
+      "language": "vi",
+      "word": "đắng",
+      "sentence": "Cà phê này rất ___."
+    },
+    "updatedAt": "2025-03-12T16:41:16.156Z",
+    "id": "f0318aec-19bf-46fc-abe5-6eb2550bbfc3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:41:16.156Z"
+  },
+  "notes_md": "**Đắng** means *bitter*, usually for taste (like coffee, beer, some vegetables).  \n\nIt’s an adjective, so it goes after the noun: *vị đắng*, *cà phê đắng*, *rất đắng*. You can soften or strengthen it with words like *hơi*, *khá*, *rất*.  \n\nIt also describes feelings or experiences: *kỷ niệm đắng*, *sự thật đắng* → emotionally painful or harsh.  \n\nOpposite: **ngọt** (sweet). The contrast *ngọt – đắng* is very common and easy to remember.",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "wzpVggtJaOXsUw5Det1S"
+}

@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể chỉ cho em cách dùng máy giặt này không?",
+    "Chị thường dùng điện thoại để nói chuyện với gia đình mỗi tối.",
+    "Khi nấu ăn, em nên dùng ít muối để món ăn tốt cho sức khỏe hơn."
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Tôi dùng điện thoại để gọi cho bạn.",
+      "es": "Uso mi teléfono para llamarte.",
+      "en": "I use my phone to call you."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "usar",
+      "vi": "dùng",
+      "en": "to use"
+    },
+    "definitions": {
+      "vi": "sử dụng; dùng một cái gì đó cho một mục đích.",
+      "es": "usar; emplear algo para un propósito.",
+      "en": "to use; to employ something for a purpose."
+    },
+    "createdAt": "2025-01-28T11:47:08.140Z"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 171,
+  "exampleSentencesTranslated": [
+    "Can you show me how to use this washing machine?",
+    "She often uses her phone to talk with her family every evening.",
+    "When cooking, you should use less salt to make the food healthier."
+  ],
+  "notes": "dùng = to use something for a purpose. It’s the normal, everyday verb for “use.”\n\nYou dùng + object: tools, money, time, medicine, methods, etc. It’s very flexible.  \n\nIt can also mean “take” (medicine) or “consume” in some contexts.  \nSynonym: sử dụng (more formal); in the South, people often say xài (more casual).",
+  "updatedAt": "2026-03-03T06:37:47.938Z",
+  "choices": [
+    "dùng",
+    "đọc",
+    "ngủ"
+  ],
+  "definition": "use",
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi sẽ ___ chiếc xe này.",
+      "word": "dùng",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I will use this car."
+      },
+      "answer": "dùng",
+      "translatedAnswer": {
+        "en": "use"
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "c042143e-7b0a-4b80-a021-a319935d69c9",
+    "createdAt": "2025-03-12T14:09:54.341Z",
+    "updatedAt": "2025-03-12T14:09:54.341Z"
+  },
+  "word": "dùng",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:09:54.341Z",
+    "createdAt": "2025-03-12T14:09:54.341Z",
+    "id": "dcd0560d-0b85-46a1-82c6-5d0540524755",
+    "content": {
+      "translatedAnswer": {
+        "en": "use"
+      },
+      "answer": "dùng",
+      "translation": {
+        "en": "Do you want to use the phone?"
+      },
+      "language": "vi",
+      "choices": [
+        "dùng",
+        "mua",
+        "cho"
+      ],
+      "hint": "d____",
+      "word": "dùng",
+      "sentence": "Bạn có muốn ___ điện thoại không?"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**dùng** = to use something for a purpose. It’s the normal, everyday verb for “use.”\n\nYou dùng + object: tools, money, time, medicine, methods, etc. It’s very flexible.  \n\nIt can also mean “take” (medicine) or “consume” in some contexts.  \nSynonym: **sử dụng** (more formal); in the South, people often say **xài** (more casual).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "KqHXFSsTFeKziO1bFlY0"
+}

@@ -1,0 +1,99 @@
+{
+  "rank": 2041,
+  "exampleSentences": [
+    "Cảnh sát đã tìm thấy một xác gần bờ sông sáng nay.",
+    "Anh nghe nói có một xác được phát hiện ở công viên tối qua.",
+    "Người dân sợ hãi khi nhìn thấy một xác trong khu rừng nhỏ."
+  ],
+  "flashcard": {
+    "definitions": {
+      "es": "El cuerpo físico de un ser vivo, a menudo utilizado para referirse a un cadáver.",
+      "vi": "Cơ thể vật lý của một sinh vật sống, thường được dùng để chỉ một xác chết.",
+      "en": "The physical body of a living being, often used to refer to a dead body."
+    },
+    "translations": {
+      "en": "body",
+      "es": "cuerpo",
+      "vi": "xác"
+    },
+    "createdAt": "2025-01-28T11:48:56.890Z",
+    "example": {
+      "en": "The body of the animal lay on the road.",
+      "es": "El cuerpo del animal yacía en la carretera.",
+      "vi": "Cái xác của con vật nằm trên đường."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "xác",
+        "thực",
+        "rõ"
+      ],
+      "translation": {
+        "en": "I need confirmation to prove this."
+      },
+      "sentence": "Tôi cần ___ minh chứng cho điều này.",
+      "hint": "x__",
+      "word": "xác",
+      "answer": "xác",
+      "translatedAnswer": {
+        "en": "confirmation"
+      }
+    },
+    "id": "250291bc-da7c-420e-a268-64c323674d6b",
+    "createdAt": "2025-03-12T14:11:37.581Z",
+    "updatedAt": "2025-03-12T14:11:37.581Z"
+  },
+  "word": "xác",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**xác** = a dead body, a corpse (human or animal). It’s blunt and a bit harsh.\n\nCount with **cái xác**; more formal/softer is **thi thể** (used in news, hospitals).  \nYou’ll also hear **xác chết** (very direct, emotional).  \n\nIt can also mean the remains of something destroyed: **xác máy bay, xác tàu, xác xe** (wreckage).  \n\nTone matters — *xác* sounds cold or shocking compared to *thi thể*.",
+  "choices": [
+    "xác",
+    "mắt",
+    "sách"
+  ],
+  "updatedAt": "2026-03-03T09:54:05.895Z",
+  "exampleSentencesTranslated": [
+    "The police found a corpse near the riverbank this morning.",
+    "I heard that a corpse was discovered in the park last night.",
+    "People were frightened when they saw a corpse in the small forest."
+  ],
+  "notes": "xác = a dead body, a corpse (human or animal). It’s blunt and a bit harsh.\n\nCount with cái xác; more formal/softer is thi thể (used in news, hospitals).  \nYou’ll also hear xác chết (very direct, emotional).  \n\nIt can also mean the remains of something destroyed: xác máy bay, xác tàu, xác xe (wreckage).  \n\nTone matters — xác sounds cold or shocking compared to thi thể.",
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "xác",
+      "translatedAnswer": {
+        "en": "confirmed"
+      },
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "She confirmed with me."
+      },
+      "sentence": "Cô ấy đã ___ với tôi.",
+      "word": "xác"
+    },
+    "type": "fillBlankQuiz",
+    "id": "f6b26ea3-aa5b-4487-850b-050aa4b7a486",
+    "createdAt": "2025-03-12T14:11:37.581Z",
+    "updatedAt": "2025-03-12T14:11:37.581Z"
+  },
+  "definition": "corpse",
+  "_id": "L61OoDoycrhG7PO0URmq"
+}

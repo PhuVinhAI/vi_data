@@ -1,0 +1,99 @@
+{
+  "word": "chuyển đổi",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**Chuyển đổi** means *to convert* — to change something from one form, system, or state into another. It’s used a lot for money, data, format, energy, jobs, or systems.\n\nIt’s a verb, and it often goes with technical or formal nouns (tiền, dữ liệu, định dạng, hệ thống, năng lượng). It sounds more systematic or planned than just *thay đổi*.\n\n**Structure:** chuyển đổi + A + thành/sang + B (chuyển đổi file sang PDF)\n\nClose words: *biến đổi* (transform, often about form or nature), *thay đổi* (change in general, broader and more casual).",
+  "rank": 986,
+  "choices": [
+    "chuyển đổi",
+    "giới thiệu",
+    "thay đổi"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:35:13.515Z",
+    "id": "ae53742a-f91b-4019-a503-e341dda84a11",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:35:13.515Z",
+    "content": {
+      "sentence": "Cần phải ___ dữ liệu trước khi phân tích.",
+      "language": "vi",
+      "word": "chuyển đổi",
+      "choices": [
+        "biến đổi",
+        "chuyển đổi",
+        "thay đổi"
+      ],
+      "hint": "c____ đổi",
+      "answer": "chuyển đổi",
+      "translatedAnswer": {
+        "en": "change"
+      },
+      "translation": {
+        "en": "Data must be changed before analysis."
+      }
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "updatedAt": "2026-03-03T08:00:55.476Z",
+  "exampleSentences": [
+    "Anh cần chuyển đổi tiền trước khi đi du lịch nước ngoài.",
+    "Em đã phải chuyển đổi tài liệu này sang định dạng PDF.",
+    "Chúng tôi sẽ chuyển đổi dữ liệu sang hệ thống mới tuần sau."
+  ],
+  "notes": "Chuyển đổi means to convert — to change something from one form, system, or state into another. It’s used a lot for money, data, format, energy, jobs, or systems.\n\nIt’s a verb, and it often goes with technical or formal nouns (tiền, dữ liệu, định dạng, hệ thống, năng lượng). It sounds more systematic or planned than just thay đổi.\n\nStructure: chuyển đổi + A + thành/sang + B (chuyển đổi file sang PDF)\n\nClose words: biến đổi (transform, often about form or nature), thay đổi (change in general, broader and more casual).",
+  "flashcard": {
+    "translations": {
+      "en": "convert",
+      "vi": "chuyển đổi",
+      "es": "convertir"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:09:39.910Z",
+    "definitions": {
+      "en": "To change something into a different form or properties.",
+      "vi": "Thay đổi một cái gì đó sang một hình thức hoặc thuộc tính khác.",
+      "es": "Cambiar algo a una forma o propiedades diferentes."
+    },
+    "example": {
+      "vi": "Tôi cần chuyển đổi tiền tệ trước khi đi du lịch.",
+      "es": "Necesito convertir la moneda antes de viajar.",
+      "en": "I need to convert the currency before traveling."
+    }
+  },
+  "definition": "convert",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:35:13.515Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "chuyển đổi",
+      "translation": {
+        "en": "We need to change this method."
+      },
+      "translatedAnswer": {
+        "en": "change"
+      },
+      "word": "chuyển đổi",
+      "sentence": "Chúng ta cần ___ phương pháp này.",
+      "language": "vi",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:35:13.515Z",
+    "id": "40b5a8b9-eab7-487b-8b9a-3a669fc40231"
+  },
+  "exampleSentencesTranslated": [
+    "You need to convert money before traveling abroad.",
+    "I had to convert this document to PDF format.",
+    "We will convert the data to the new system next week."
+  ],
+  "_id": "g3LPylUlV5xyUuvqFT0V"
+}

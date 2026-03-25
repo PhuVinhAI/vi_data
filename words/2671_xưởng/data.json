@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "vi": "xưởng",
+      "es": "fábrica",
+      "en": "factory"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:04:26.165Z",
+    "definitions": {
+      "es": "Un lugar donde se fabrican o ensamblan bienes.",
+      "vi": "Nơi sản xuất hoặc lắp ráp hàng hóa.",
+      "en": "A place where goods are manufactured or assembled."
+    },
+    "example": {
+      "vi": "Tôi làm việc tại xưởng sản xuất.",
+      "es": "Trabajo en la fábrica.",
+      "en": "I work at the factory."
+    }
+  },
+  "definition": "factory",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T15:29:35.012Z",
+    "id": "3f30845b-5b3e-4e84-a229-e2d1c77670b2",
+    "content": {
+      "choices": [],
+      "word": "xưởng",
+      "sentence": "Chúng tôi làm việc ở ___ này.",
+      "language": "vi",
+      "translation": {
+        "en": "We work at this workshop."
+      },
+      "translatedAnswer": {
+        "en": "workshop"
+      },
+      "answer": "xưởng"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:29:35.012Z",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "My older brother works at a large factory near our house.",
+    "Can you take me to visit the factory this weekend?",
+    "At this factory, everyone has to wear a mask while working."
+  ],
+  "exampleSentences": [
+    "Anh trai em làm việc ở một xưởng lớn gần nhà.",
+    "Chị có thể đưa em đi tham quan xưởng vào cuối tuần không?",
+    "Ở xưởng này, mọi người phải đeo khẩu trang khi làm việc."
+  ],
+  "updatedAt": "2026-03-03T11:34:18.547Z",
+  "notes": "xưởng = a factory or workshop, usually a place where things are made or repaired. It often feels smaller or more hands-on than nhà máy (which sounds bigger and more industrial).\n\nIt’s a countable noun: một xưởng, hai xưởng.  \nCommon pairings: xưởng may (garment workshop), xưởng gỗ (wood workshop), xưởng sản xuất (production workshop).  \n\nStrong contrast: xưởng (smaller-scale, practical work) vs nhà máy (large factory, heavy industry).",
+  "rank": 2671,
+  "choices": [
+    "cửa hàng",
+    "xưởng",
+    "bệnh viện"
+  ],
+  "notes_md": "**xưởng** = a factory or workshop, usually a place where things are made or repaired. It often feels smaller or more hands-on than *nhà máy* (which sounds bigger and more industrial).\n\nIt’s a countable noun: *một xưởng, hai xưởng*.  \nCommon pairings: *xưởng may* (garment workshop), *xưởng gỗ* (wood workshop), *xưởng sản xuất* (production workshop).  \n\nStrong contrast: *xưởng* (smaller-scale, practical work) vs *nhà máy* (large factory, heavy industry).",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T15:29:35.012Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:29:35.012Z",
+    "content": {
+      "choices": [
+        "công xưởng",
+        "xưởng",
+        "nhà máy"
+      ],
+      "word": "xưởng",
+      "language": "vi",
+      "sentence": "Chúng tôi làm việc ở ___ này.",
+      "translation": {
+        "en": "We work at this workshop."
+      },
+      "translatedAnswer": {
+        "en": "workshop"
+      },
+      "hint": "x___g",
+      "answer": "xưởng"
+    },
+    "id": "379ee6a4-f01c-43e5-8882-870f16c6ac7c",
+    "type": "multiChoiceQuiz"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "xưởng",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "epLuKYANuWhMmW9fkazT"
+}

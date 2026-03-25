@@ -1,0 +1,96 @@
+{
+  "multiChoiceQuiz": {
+    "id": "20fe79a0-03f6-456a-8cb5-ef6347631adb",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translatedAnswer": {
+        "en": "why"
+      },
+      "sentence": "Mọi người hỏi ___ tôi lại không đến.",
+      "word": "tại sao",
+      "language": "vi",
+      "choices": [
+        "tại sao",
+        "khi nào",
+        "ở đâu"
+      ],
+      "hint": "t___o",
+      "translation": {
+        "en": "Everyone asks why I did not come."
+      },
+      "answer": "tại sao"
+    },
+    "createdAt": "2025-03-12T13:40:13.679Z",
+    "updatedAt": "2025-03-12T13:40:13.679Z"
+  },
+  "notes_md": "**tại sao** means **why** — you use it to ask for a reason.\n\nIt’s a question word, usually at the beginning of a question.  \n\nIn answers, you’ll often hear **vì** (“because”) to explain the reason.  \nIn casual speech, people often shorten it to just **sao?**, which feels more informal and direct.",
+  "exampleSentencesTranslated": [
+    "Can you tell me why you are sad?",
+    "I don’t understand why everyone left so early.",
+    "He wonders why it rained so much today."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A word used to ask about the reason or cause of something.",
+      "vi": "Từ dùng để hỏi về nguyên nhân hoặc lý do của một sự việc."
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "en": "Why are you sad today?",
+      "vi": "Tại sao bạn lại buồn hôm nay?"
+    },
+    "word": "tại sao",
+    "createdAt": "2025-05-24T16:20:12.082Z",
+    "translations": {
+      "en": "why"
+    }
+  },
+  "fillBlankQuiz": {
+    "id": "b84c61b5-1396-4313-bea5-b3e592036b51",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:40:13.679Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "Do you have a reason?"
+      },
+      "answer": "tại sao",
+      "translatedAnswer": {
+        "en": "reason"
+      },
+      "language": "vi",
+      "sentence": "Bạn có ___ không?",
+      "word": "tại sao"
+    },
+    "updatedAt": "2025-03-12T13:40:13.679Z"
+  },
+  "notes": "tại sao means why — you use it to ask for a reason.\n\nIt’s a question word, usually at the beginning of a question.  \n\nIn answers, you’ll often hear vì (“because”) to explain the reason.  \nIn casual speech, people often shorten it to just sao?, which feels more informal and direct.",
+  "updatedAt": "2026-03-03T06:46:22.218Z",
+  "choices": [
+    "khi nào",
+    "tại sao",
+    "ở đâu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "why",
+  "word": "tại sao",
+  "exampleSentences": [
+    "Em có thể nói cho anh biết tại sao em buồn không?",
+    "Chị không hiểu tại sao mọi người lại rời đi sớm như vậy.",
+    "Anh tự hỏi tại sao hôm nay trời lại mưa nhiều đến thế."
+  ],
+  "rank": 255,
+  "_id": "DRxrJW3yHAw5zKplMFTj"
+}

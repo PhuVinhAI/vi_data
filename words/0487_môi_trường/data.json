@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "môi trường",
+    "giáo dục",
+    "sức khỏe"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "environment",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Chúng ta cần bảo vệ môi trường để có không khí trong lành.",
+    "Anh rất quan tâm đến các vấn đề về môi trường trong thành phố.",
+    "Nếu môi trường bị ô nhiễm, sức khỏe của em sẽ bị ảnh hưởng."
+  ],
+  "rank": 487,
+  "word": "môi trường",
+  "flashcard": {
+    "example": {
+      "en": "We need to protect the environment to live healthily.",
+      "es": "Necesitamos proteger el medio ambiente para vivir saludablemente.",
+      "vi": "Chúng ta cần bảo vệ môi trường để sống khỏe mạnh."
+    },
+    "createdAt": "2025-01-28T11:34:12.455Z",
+    "translations": {
+      "en": "environment",
+      "es": "medio ambiente",
+      "vi": "môi trường"
+    },
+    "definitions": {
+      "vi": "Thế giới tự nhiên, bao gồm đất, nước, không khí, thực vật và động vật, nơi con người sinh sống.",
+      "es": "El mundo natural, que incluye la tierra, el agua, el aire, las plantas y los animales, en el que viven las personas.",
+      "en": "The natural world, including the land, water, air, plants, and animals, in which people live."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "We need to protect the environment to have clean air.",
+    "He cares a lot about environment issues in the city.",
+    "If the environment is polluted, your health will be affected."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "4823d7a9-d0fe-4bf5-9097-18b34b063973",
+    "updatedAt": "2025-03-12T13:56:19.050Z",
+    "createdAt": "2025-03-12T13:56:19.050Z",
+    "content": {
+      "translation": {
+        "en": "We need to protect our environment."
+      },
+      "answer": "môi trường",
+      "choices": [
+        "sinh thái",
+        "môi trường",
+        "khí hậu"
+      ],
+      "hint": "m___g",
+      "sentence": "Chúng ta cần bảo vệ ___ của mình.",
+      "word": "môi trường",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "environment"
+      }
+    }
+  },
+  "notes_md": "**Môi trường** means *environment* — the natural world around us (air, water, land), or the surroundings we live or work in.\n\nIt’s a noun. You’ll often see it with verbs like **bảo vệ** (protect), **giữ gìn** (preserve), **cải thiện** (improve), **ô nhiễm** (polluted).  \n\nCommon pairings: **môi trường sống** (living environment), **môi trường làm việc** (work environment), **môi trường tự nhiên** (natural environment).  \n\nIt can also mean a social or working setting, not just nature — similar to “environment” in English.  \n\nRelated word: **thiên nhiên** = nature (more about forests, animals, landscapes; less about human surroundings).",
+  "updatedAt": "2026-03-03T07:10:55.220Z",
+  "notes": "Môi trường means environment — the natural world around us (air, water, land), or the surroundings we live or work in.\n\nIt’s a noun. You’ll often see it with verbs like bảo vệ (protect), giữ gìn (preserve), cải thiện (improve), ô nhiễm (polluted).  \n\nCommon pairings: môi trường sống (living environment), môi trường làm việc (work environment), môi trường tự nhiên (natural environment).  \n\nIt can also mean a social or working setting, not just nature — similar to “environment” in English.  \n\nRelated word: thiên nhiên = nature (more about forests, animals, landscapes; less about human surroundings).",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "e065c39b-7cea-421e-b60e-d2a8d5775c3f",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:56:19.050Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "We need to protect our environment."
+      },
+      "answer": "môi trường",
+      "translatedAnswer": {
+        "en": "environment"
+      },
+      "word": "môi trường",
+      "sentence": "Chúng ta cần bảo vệ ___ của mình.",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T13:56:19.050Z"
+  },
+  "_id": "HtxSEUuC8zZOtHDbtX28"
+}

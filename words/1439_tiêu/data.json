@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T17:17:28.335Z",
+    "content": {
+      "choices": [],
+      "translation": {
+        "en": "I like to eat pepper."
+      },
+      "answer": "tiêu",
+      "translatedAnswer": {
+        "en": "pepper"
+      },
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___.",
+      "word": "tiêu"
+    },
+    "updatedAt": "2025-03-12T17:17:28.335Z",
+    "type": "fillBlankQuiz",
+    "id": "27749756-46f9-4d3a-8885-b65681681442",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "notes": "tiêu = pepper (the spice). It’s usually uncountable, but you can say hạt tiêu (peppercorn) or lọ tiêu (pepper shaker/jar).  \n\nCommon pairings: tiêu đen (black pepper), tiêu trắng (white pepper), tiêu xay (ground pepper).  \n\nIt also very commonly means to spend (money).  \n\nTo remember: think “pepper makes food spicy” and “spending makes money disappear.”",
+  "updatedAt": "2026-03-03T08:49:45.416Z",
+  "notes_md": "**tiêu** = pepper (the spice). It’s usually uncountable, but you can say **hạt tiêu** (peppercorn) or **lọ tiêu** (pepper shaker/jar).  \n\nCommon pairings: **tiêu đen** (black pepper), **tiêu trắng** (white pepper), **tiêu xay** (ground pepper).  \n\nIt also very commonly means **to spend (money)**.  \n\nTo remember: think “pepper makes food spicy” and “spending makes money disappear.”",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "93d09a7e-6bdf-4d8c-8a0f-0a9b4442d7f6",
+    "updatedAt": "2025-03-12T17:17:28.335Z",
+    "content": {
+      "hint": "t___",
+      "choices": [
+        "tiêu",
+        "muối",
+        "đường"
+      ],
+      "translation": {
+        "en": "This dish needs more pepper."
+      },
+      "answer": "tiêu",
+      "translatedAnswer": {
+        "en": "pepper"
+      },
+      "language": "vi",
+      "sentence": "Món ăn này cần thêm ___.",
+      "word": "tiêu"
+    },
+    "createdAt": "2025-03-12T17:17:28.335Z"
+  },
+  "exampleSentencesTranslated": [
+    "I like eating pho with a little pepper on top.",
+    "Can you hand me the pepper on the table?",
+    "Grandma often adds a lot of pepper to braised pork to make it more fragrant."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T11:31:19.777Z",
+    "example": {
+      "es": "Quiero gastar dinero en un coche nuevo.",
+      "vi": "Tôi muốn tiêu tiền vào một chiếc xe mới.",
+      "en": "I want to spend money on a new car."
+    },
+    "translations": {
+      "en": "spend",
+      "vi": "tiêu",
+      "es": "gastar"
+    },
+    "definitions": {
+      "en": "to spend or use up (money, resources, etc.)",
+      "es": "gastar o utilizar (dinero, recursos, etc.)",
+      "vi": "tiêu dùng hoặc sử dụng (tiền, tài nguyên, v.v.)"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "word": "tiêu",
+  "rank": 1439,
+  "exampleSentences": [
+    "Em thích ăn phở với một chút tiêu trên mặt.",
+    "Anh có thể đưa cho chị lọ tiêu ở trên bàn không?",
+    "Bà nội thường cho nhiều tiêu vào món thịt kho để món ăn thơm hơn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "definition": "pepper",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "choices": [
+    "muối",
+    "ớt",
+    "tiêu"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "GqPGCu4OF0RDE3szI8Q3"
+}

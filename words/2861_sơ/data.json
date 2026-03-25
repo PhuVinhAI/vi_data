@@ -1,0 +1,99 @@
+{
+  "fillBlankQuiz": {
+    "id": "928b392a-b679-4195-9394-f156de43caba",
+    "createdAt": "2025-03-12T16:39:52.884Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "brief"
+      },
+      "answer": "sơ",
+      "translation": {
+        "en": "I need this brief information."
+      },
+      "choices": [],
+      "sentence": "Tôi cần ___ thông tin này.",
+      "word": "sơ"
+    },
+    "updatedAt": "2025-03-12T16:39:52.884Z",
+    "type": "fillBlankQuiz"
+  },
+  "rank": 2861,
+  "definition": "preliminary",
+  "notes_md": "**sơ** = preliminary, rough, not detailed. It’s about doing or seeing something in a quick, basic way.\n\nAs an adjective, it describes something unfinished or lacking detail (kế hoạch sơ, bản thảo sơ). It can also act like an adverb after a verb, meaning “briefly” or “roughly.”\n\n\nVery common in fixed pairs like **sơ bộ** (preliminary) and contrasts well with **chi tiết / kỹ** (detailed, careful).",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesTranslated": [
+    "He read the preliminary plan before sending it to the boss.",
+    "She needs to make a preliminary report to prepare for tomorrow's meeting.",
+    "Check the preliminary exercise before submitting it to the teacher."
+  ],
+  "word": "sơ",
+  "choices": [
+    "sơ",
+    "giữa",
+    "cuối"
+  ],
+  "updatedAt": "2026-03-03T18:05:46.343Z",
+  "exampleSentences": [
+    "Anh đã đọc qua sơ bản kế hoạch trước khi gửi cho sếp.",
+    "Chị cần làm sơ báo cáo để chuẩn bị cho buổi họp ngày mai.",
+    "Em hãy kiểm tra sơ bài tập này trước khi nộp cho giáo viên."
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "brief"
+      },
+      "translation": {
+        "en": "I need a brief item."
+      },
+      "answer": "sơ",
+      "choices": [
+        "sơ",
+        "mới",
+        "đẹp"
+      ],
+      "sentence": "Tôi cần một ___ đồ.",
+      "word": "sơ",
+      "hint": "s__"
+    },
+    "updatedAt": "2025-03-12T16:39:52.884Z",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T16:39:52.884Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "d72b3fb3-ff3e-483f-8955-ce43341f0835"
+  },
+  "flashcard": {
+    "example": {
+      "es": "Solo soy un principiante en esta materia.",
+      "en": "I am just a beginner in this subject.",
+      "vi": "Tôi chỉ là một người sơ cấp trong môn học này."
+    },
+    "definitions": {
+      "es": "Un principiante o alguien que no tiene experiencia.",
+      "en": "A beginner or someone who is inexperienced.",
+      "vi": "Một người mới bắt đầu hoặc không có kinh nghiệm."
+    },
+    "translations": {
+      "vi": "sơ",
+      "es": "principiante",
+      "en": "beginner"
+    },
+    "createdAt": "2025-01-28T14:11:40.905Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "sơ = preliminary, rough, not detailed. It’s about doing or seeing something in a quick, basic way.\n\nAs an adjective, it describes something unfinished or lacking detail (kế hoạch sơ, bản thảo sơ). It can also act like an adverb after a verb, meaning “briefly” or “roughly.”\n\nVery common in fixed pairs like sơ bộ (preliminary) and contrasts well with chi tiết / kỹ (detailed, careful).",
+  "_id": "wkPlttfrO2nNQTWrxTFv"
+}

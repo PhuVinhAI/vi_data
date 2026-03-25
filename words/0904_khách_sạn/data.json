@@ -1,0 +1,99 @@
+{
+  "choices": [
+    "khách sạn",
+    "nhà hàng",
+    "siêu thị"
+  ],
+  "rank": 904,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T15:05:06.248Z",
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "translatedAnswer": {
+        "en": "hotel"
+      },
+      "choices": [
+        "nhà hàng",
+        "khách sạn",
+        "căn hộ"
+      ],
+      "translation": {
+        "en": "I booked a hotel in Hanoi."
+      },
+      "sentence": "Tôi đã đặt ___ ở Hà Nội.",
+      "answer": "khách sạn",
+      "hint": "k___n",
+      "word": "khách sạn",
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T15:05:06.248Z",
+    "id": "5e37cdfa-a215-4f85-b827-9c53e697707c"
+  },
+  "notes": "Khách sạn means hotel — a place where you pay to stay overnight.\n\nIt’s a countable noun: một khách sạn, hai khách sạn. Common verbs: ở khách sạn (stay at a hotel), đặt khách sạn / đặt phòng khách sạn (book a hotel), thuê phòng khách sạn (rent a hotel room).\n\nIt often pairs with words like cao cấp (high-end), giá rẻ (cheap), 3 sao / 5 sao (star rating).\n\nDon’t confuse it with nhà nghỉ (usually smaller, simpler, cheaper than a khách sạn).",
+  "exampleSentences": [
+    "Anh đã đặt phòng ở một khách sạn gần bãi biển cho kỳ nghỉ này.",
+    "Chị muốn biết khách sạn này có phục vụ bữa sáng miễn phí không?",
+    "Bạn em đề nghị ở tại khách sạn vì nó rất thuận tiện cho việc di chuyển."
+  ],
+  "word": "khách sạn",
+  "updatedAt": "2026-03-03T07:52:35.710Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "c1bf3f5d-9f11-4d67-990d-1115d4c82b23",
+    "content": {
+      "word": "khách sạn",
+      "language": "vi",
+      "answer": "khách sạn",
+      "sentence": "Tôi đã đặt ___ ở Hà Nội.",
+      "translation": {
+        "en": "I booked a hotel in Hanoi."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "hotel"
+      }
+    },
+    "updatedAt": "2025-03-12T15:05:06.248Z",
+    "createdAt": "2025-03-12T15:05:06.248Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I booked a room at a hotel near the beach for this holiday.",
+    "I want to know if this hotel offers free breakfast.",
+    "My friend suggested staying at a hotel because it is very convenient for traveling."
+  ],
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A place that provides lodging, meals, and other services for travelers.",
+      "es": "Un lugar que ofrece alojamiento, comidas y otros servicios para los viajeros.",
+      "vi": "Nơi cung cấp chỗ ở, bữa ăn và các dịch vụ khác cho du khách."
+    },
+    "createdAt": "2025-01-28T12:37:34.195Z",
+    "example": {
+      "en": "I booked a room at this hotel.",
+      "es": "Reservé una habitación en este hotel.",
+      "vi": "Tôi đã đặt phòng ở khách sạn này."
+    },
+    "translations": {
+      "en": "hotel",
+      "es": "hotel",
+      "vi": "khách sạn"
+    }
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "notes_md": "**Khách sạn** means *hotel* — a place where you pay to stay overnight.\n\nIt’s a countable noun: một khách sạn, hai khách sạn. Common verbs: ở khách sạn (stay at a hotel), đặt khách sạn / đặt phòng khách sạn (book a hotel), thuê phòng khách sạn (rent a hotel room).\n\nIt often pairs with words like cao cấp (high-end), giá rẻ (cheap), 3 sao / 5 sao (star rating).\n\nDon’t confuse it with **nhà nghỉ** (usually smaller, simpler, cheaper than a khách sạn).",
+  "definition": "hotel",
+  "_id": "YH4Ce2AzFwsIKS3SDawD"
+}

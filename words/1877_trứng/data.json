@@ -1,0 +1,99 @@
+{
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "trứng",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "39f0065b-9100-4c9a-af14-89756382d1c2",
+    "content": {
+      "hint": "tr___",
+      "answer": "trứng",
+      "translatedAnswer": {
+        "en": "eggs"
+      },
+      "translation": {
+        "en": "This dish has eggs and vegetables."
+      },
+      "language": "vi",
+      "sentence": "Món ăn này có ___ và rau.",
+      "word": "trứng",
+      "choices": [
+        "thịt",
+        "trứng",
+        "cá"
+      ]
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:31:18.663Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T15:31:18.663Z"
+  },
+  "notes_md": "**trứng** = egg (the food). Usually chicken eggs, unless you specify.\n\nIt’s a countable noun. Use the classifier **quả**: *một quả trứng, hai quả trứng*.  \n\nCommon pairings: **trứng gà** (chicken egg), **trứng vịt** (duck egg), **lòng đỏ** (yolk), **lòng trắng** (egg white).  \n\nIt can also mean “egg” from animals in general (like fish eggs: **trứng cá**).",
+  "rank": 1877,
+  "choices": [
+    "gà",
+    "trứng",
+    "cá"
+  ],
+  "notes": "trứng = egg (the food). Usually chicken eggs, unless you specify.\n\nIt’s a countable noun. Use the classifier quả: một quả trứng, hai quả trứng.  \n\nCommon pairings: trứng gà (chicken egg), trứng vịt (duck egg), lòng đỏ (yolk), lòng trắng (egg white).  \n\nIt can also mean “egg” from animals in general (like fish eggs: trứng cá).",
+  "updatedAt": "2026-03-03T09:36:36.969Z",
+  "exampleSentences": [
+    "Sáng nay anh ăn hai quả trứng với bánh mì.",
+    "Chị có thể mua giùm em một chục trứng ở siêu thị được không?",
+    "Mẹ thường dùng trứng để làm bánh ngọt vào cuối tuần."
+  ],
+  "fillBlankQuiz": {
+    "id": "e4ba4b54-7514-49bd-b906-b98b32243f0b",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:31:18.663Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "eggs"
+      },
+      "translation": {
+        "en": "I like to eat eggs for breakfast."
+      },
+      "answer": "trứng",
+      "choices": [],
+      "sentence": "Tôi thích ăn ___ vào bữa sáng.",
+      "language": "vi",
+      "word": "trứng"
+    },
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T15:31:18.663Z"
+  },
+  "exampleSentencesTranslated": [
+    "This morning I ate two eggs with bread.",
+    "Can you buy me a dozen eggs at the supermarket?",
+    "Mom often uses eggs to make cakes on the weekend."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "An oval or round object laid by a female bird, reptile, fish, or invertebrate, containing a developing embryo.",
+      "es": "Un objeto ovalado o redondo puesto por una ave, reptil, pez o invertebrado hembra, que contiene un embrión en desarrollo.",
+      "vi": "Một vật thể hình oval hoặc tròn được đẻ bởi một con chim, bò sát, cá hoặc động vật không xương sống cái, chứa một phôi đang phát triển."
+    },
+    "example": {
+      "vi": "Tôi thích ăn trứng chiên.",
+      "es": "Me gusta comer huevos fritos.",
+      "en": "I like to eat fried eggs."
+    },
+    "translations": {
+      "es": "huevo",
+      "vi": "trứng",
+      "en": "egg"
+    },
+    "createdAt": "2025-01-28T13:06:16.028Z",
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "egg",
+  "_id": "fBr16USWcfInlnsg9MGG"
+}

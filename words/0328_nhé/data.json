@@ -1,0 +1,99 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "choices": [],
+      "word": "nhé",
+      "translation": {
+        "en": "Can you help me, please?"
+      },
+      "answer": "nhé",
+      "sentence": "Bạn có thể giúp tôi ___ không?",
+      "translatedAnswer": {
+        "en": "please"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T14:36:42.181Z",
+    "createdAt": "2025-03-12T14:36:42.181Z",
+    "id": "9eb4d231-e3d1-4b71-b131-0d7bca2a2cba",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "definition": "okay",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "es": "de acuerdo",
+      "en": "okay",
+      "vi": "nhé"
+    },
+    "createdAt": "2025-01-28T12:12:24.049Z",
+    "definitions": {
+      "en": "A particle used at the end of a sentence to soften a request or suggestion.",
+      "vi": "Một từ được sử dụng ở cuối câu để làm nhẹ yêu cầu hoặc gợi ý.",
+      "es": "Una partícula utilizada al final de una oración para suavizar una solicitud o sugerencia."
+    },
+    "example": {
+      "es": "Por favor, recuerda llamarme, ¿de acuerdo?",
+      "vi": "Hãy nhớ gọi tôi nhé.",
+      "en": "Please remember to call me, okay?"
+    }
+  },
+  "notes_md": "**nhé** is a soft sentence-ending particle, like “okay?”, “yeah?”, or a gentle “please.” It makes your request or suggestion sound friendly and less direct.\n\nIt goes at the **end of a sentence** to ask for agreement or soften what you say. Without it, the sentence can feel more firm or flat.\n\n\nVery close to **nha** — Southern Vietnamese usually says *nha*, Northern usually says *nhé*.",
+  "exampleSentences": [
+    "Anh nhớ gọi cho em tối nay nhé, đừng quên đấy.",
+    "Chúng ta đi ăn phở sau giờ làm việc nhé, chị đồng ý không?",
+    "Em mở cửa sổ giúp anh nhé, trong phòng hơi nóng quá."
+  ],
+  "choices": [
+    "nhé",
+    "nha",
+    "nhỉ"
+  ],
+  "notes": "nhé is a soft sentence-ending particle, like “okay?”, “yeah?”, or a gentle “please.” It makes your request or suggestion sound friendly and less direct.\n\nIt goes at the end of a sentence to ask for agreement or soften what you say. Without it, the sentence can feel more firm or flat.\n\nVery close to nha — Southern Vietnamese usually says nha, Northern usually says nhé.",
+  "word": "nhé",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:36:42.181Z",
+    "id": "526b76b9-c6b4-4e55-b182-686e3764e5dd",
+    "content": {
+      "hint": "n__",
+      "translation": {
+        "en": "Can you help me, please?"
+      },
+      "answer": "nhé",
+      "word": "nhé",
+      "choices": [
+        "không",
+        "được",
+        "nhé"
+      ],
+      "sentence": "Bạn có thể giúp tôi ___ không?",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "please"
+      }
+    },
+    "updatedAt": "2025-03-12T14:36:42.181Z",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "rank": 328,
+  "exampleSentencesTranslated": [
+    "Remember to call me tonight, okay? Don't forget.",
+    "Let's go eat pho after work, okay? Do you agree?",
+    "Open the window for me, okay? It's a bit hot in the room."
+  ],
+  "updatedAt": "2026-03-03T06:55:03.819Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "R44K2eQ70ma7Spo0XpDC"
+}

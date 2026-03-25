@@ -1,0 +1,99 @@
+{
+  "exampleSentences": [
+    "Anh có thể giúp em dùng kích để nâng xe lên không?",
+    "Chị nhớ mang theo kích khi đi xa bằng ô tô nhé.",
+    "Bố dạy em cách sử dụng kích đúng cách khi thay lốp xe."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "d73bc59f-d550-448f-a27d-0c0a7e7765cd",
+    "content": {
+      "translation": {
+        "en": "I need a boost for this project."
+      },
+      "word": "kích",
+      "language": "vi",
+      "sentence": "Tôi cần ___ cho dự án này.",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "boost"
+      },
+      "answer": "kích"
+    },
+    "updatedAt": "2025-03-12T15:50:56.900Z",
+    "createdAt": "2025-03-12T15:50:56.900Z"
+  },
+  "choices": [
+    "kích",
+    "búa",
+    "cờ lê"
+  ],
+  "rank": 2364,
+  "notes": "kích = a jack, the tool used to lift a car or other heavy object.  \n\nIt’s a noun. Use the classifier cái → cái kích.  \n\nCommon pairings: kích ô tô, kích nâng xe, kích thủy lực (hydraulic jack).  \n\nAs a Sino‑Vietnamese root, kích can also mean “to stimulate” or “to provoke,” but you’ll usually see it inside longer words like kích thích (stimulate) or kích động (incite).",
+  "definition": "jack (a tool for lifting a car or heavy object)",
+  "notes_md": "**kích** = a jack, the tool used to lift a car or other heavy object.  \n\nIt’s a noun. Use the classifier **cái** → *cái kích*.  \n\nCommon pairings: **kích ô tô**, **kích nâng xe**, **kích thủy lực** (hydraulic jack).  \n\nAs a Sino‑Vietnamese root, **kích** can also mean “to stimulate” or “to provoke,” but you’ll usually see it inside longer words like **kích thích** (stimulate) or **kích động** (incite).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translation": {
+        "en": "I need a boost for this project."
+      },
+      "word": "kích",
+      "language": "vi",
+      "sentence": "Tôi cần ___ cho dự án này.",
+      "choices": [
+        "kích",
+        "thúc",
+        "đẩy"
+      ],
+      "hint": "k____",
+      "translatedAnswer": {
+        "en": "boost"
+      },
+      "answer": "kích"
+    },
+    "id": "e49ce38f-9a67-4ec7-9673-95fd4e15a66b",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:50:56.900Z",
+    "updatedAt": "2025-03-12T15:50:56.900Z"
+  },
+  "updatedAt": "2026-03-03T10:28:18.785Z",
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "word": "kích",
+  "flashcard": {
+    "definitions": {
+      "vi": "Kích thích hoặc gây ra một phản ứng.",
+      "en": "To stimulate or provoke a response.",
+      "es": "Estimular o provocar una respuesta."
+    },
+    "createdAt": "2025-01-28T13:23:26.645Z",
+    "example": {
+      "en": "She stimulated my curiosity.",
+      "es": "Ella estimuló mi curiosidad.",
+      "vi": "Cô ấy đã kích thích sự tò mò của tôi."
+    },
+    "translations": {
+      "vi": "kích",
+      "es": "estimular",
+      "en": "stimulate"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesTranslated": [
+    "Can you help me use the jack to lift the car?",
+    "Remember to bring the jack when you travel far by car.",
+    "Dad taught me how to use the jack properly when changing a tire."
+  ],
+  "_id": "jlsHZIqc13h45pjsZKgK"
+}

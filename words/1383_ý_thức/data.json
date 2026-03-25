@@ -1,0 +1,99 @@
+{
+  "flashcard": {
+    "translations": {
+      "es": "conciencia",
+      "vi": "ý thức",
+      "en": "awareness"
+    },
+    "definitions": {
+      "vi": "Trạng thái nhận thức và có khả năng suy nghĩ về sự tồn tại, cảm giác, suy nghĩ và môi trường xung quanh của chính mình.",
+      "es": "El estado de ser consciente y capaz de pensar sobre la propia existencia, sensaciones, pensamientos y entorno.",
+      "en": "The state of being aware of and able to think about one's own existence, sensations, thoughts, and surroundings."
+    },
+    "createdAt": "2025-01-28T11:38:14.117Z",
+    "example": {
+      "en": "Everyone needs to have awareness about protecting the environment.",
+      "es": "Todos necesitan tener conciencia sobre la protección del medio ambiente.",
+      "vi": "Mọi người cần có ý thức bảo vệ môi trường."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh cần nâng cao ý thức về việc giữ gìn vệ sinh chung.",
+    "Chị luôn nhắc nhở em về ý thức an toàn khi tham gia giao thông.",
+    "Trong lớp học, ý thức tự giác của học sinh rất quan trọng."
+  ],
+  "rank": 1383,
+  "definition": "awareness",
+  "fillBlankQuiz": {
+    "id": "bb7fcde3-3289-4a91-b1ce-082609da0d06",
+    "content": {
+      "word": "ý thức",
+      "sentence": "Chúng ta cần nâng cao ___ của mình.",
+      "translation": {
+        "en": "We need to raise our awareness."
+      },
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "awareness"
+      },
+      "answer": "ý thức"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:00:15.206Z",
+    "createdAt": "2025-03-12T14:00:15.206Z"
+  },
+  "notes": "Ý thức means awareness — how conscious or mindful someone is about something.\n\nIt’s a noun. You often see it with verbs like có ý thức (to be aware), nâng cao ý thức (raise awareness), or thiếu ý thức (lack awareness).  \n\nIt can also mean consciousness in a medical sense, like mất ý thức = lose consciousness.  \n\nClose to nhận thức (awareness/understanding), but nhận thức is more about intellectual understanding, while ý thức is about being mindful or responsible.",
+  "exampleSentencesTranslated": [
+    "You need to improve your awareness of keeping shared spaces clean.",
+    "She always reminds me about awareness of safety when joining traffic.",
+    "In the classroom, students' self-discipline awareness is very important."
+  ],
+  "choices": [
+    "ý kiến",
+    "ý thức",
+    "ý nghĩa"
+  ],
+  "updatedAt": "2026-03-03T08:43:53.400Z",
+  "notes_md": "**Ý thức** means *awareness* — how conscious or mindful someone is about something.\n\nIt’s a noun. You often see it with verbs like **có ý thức** (to be aware), **nâng cao ý thức** (raise awareness), or **thiếu ý thức** (lack awareness).  \n\n\nIt can also mean *consciousness* in a medical sense, like **mất ý thức** = lose consciousness.  \n\nClose to **nhận thức** (awareness/understanding), but *nhận thức* is more about intellectual understanding, while *ý thức* is about being mindful or responsible.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "word": "ý thức",
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:00:15.206Z",
+    "createdAt": "2025-03-12T14:00:15.206Z",
+    "id": "c2fd81b0-8a97-4a03-a0db-7ddbc7b63970",
+    "content": {
+      "choices": [
+        "trách nhiệm",
+        "ý thức",
+        "khả năng"
+      ],
+      "language": "vi",
+      "translation": {
+        "en": "We need awareness about the environment."
+      },
+      "sentence": "Cần có ___ về môi trường.",
+      "hint": "ý ___",
+      "word": "ý thức",
+      "answer": "ý thức",
+      "translatedAnswer": {
+        "en": "awareness"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "createdAt": "2025-01-27T21:23:43.157Z",
+  "_id": "ImVRn5FSxWNru2DOV8Xz"
+}
