@@ -44,12 +44,12 @@
   "word": "vinh",
   "fillBlankQuiz": {
     "content": {
-      "sentence": "Tôi muốn trở thành ___ trong cuộc sống.",
+      "sentence": "Thành tích này mang lại ___ dự cho gia đình.",
       "translatedAnswer": {
-        "en": "glorious"
+        "en": "honor"
       },
       "translation": {
-        "en": "I want to become glorious in life."
+        "en": "This achievement brings honor to the family."
       },
       "choices": [],
       "word": "vinh",
@@ -76,20 +76,20 @@
     "id": "615a18a8-9591-4fa5-9141-48af731287df",
     "type": "multiChoiceQuiz",
     "content": {
-      "sentence": "Tôi muốn trở thành ___ trong cuộc sống.",
+      "sentence": "Đó là một niềm ___ dự lớn.",
       "word": "vinh",
       "answer": "vinh",
       "language": "vi",
       "choices": [
-        "hạnh",
         "vinh",
-        "đẹp"
+        "hạnh",
+        "vui"
       ],
       "translation": {
-        "en": "I want to become glorious in life."
+        "en": "That is a great honor."
       },
       "translatedAnswer": {
-        "en": "glorious"
+        "en": "honor"
       },
       "hint": "v___"
     },

@@ -7,21 +7,19 @@
   ],
   "flashcard": {
     "translations": {
-      "en": "color",
-      "es": "color",
-      "vi": "màu sắc"
+      "en": "sharp",
+      "vi": "sắc",
+      "es": "afilado"
+    },
+    "definitions": {
+      "vi": "Có một lưỡi dao hoặc chóp nhọn có thể cắt dễ dàng.",
+      "en": "Having an edge or point that is able to cut or pierce something easily.",
+      "es": "Tener un borde o punta que puede cortar o perforar algo fácilmente."
     },
     "example": {
-      "es": "Ella tiene un vestido de un color rojo brillante.",
-      "en": "She has a dress in a bright red color.",
-      "vi": "Cô ấy có một chiếc váy sắc màu đỏ."
-    },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T13:48:28.635Z",
-    "definitions": {
-      "vi": "Chất lượng của việc sáng hoặc sống động về màu sắc.",
-      "es": "La calidad de ser brillante o vívido en color.",
-      "en": "The quality of being bright or vivid in color."
+      "en": "Be careful, this knife is very sharp.",
+      "vi": "Cẩn thận nhé, con dao này rất sắc.",
+      "es": "Ten cuidado, este cuchillo está muy afilado."
     }
   },
   "exampleSentences": [
@@ -52,12 +50,12 @@
       "answer": "sắc",
       "word": "sắc",
       "translatedAnswer": {
-        "en": "color"
+        "en": "sharp"
       },
       "translation": {
-        "en": "The color of the painting is very beautiful."
+        "en": "This knife is very sharp."
       },
-      "sentence": "Màu ___ của bức tranh rất đẹp."
+      "sentence": "Con dao này rất ___."
     },
     "updatedAt": "2025-03-12T16:16:51.132Z"
   },
@@ -86,12 +84,12 @@
       "answer": "sắc",
       "hint": "s__c",
       "translation": {
-        "en": "The color of the painting is very beautiful."
+        "en": "This scissors is very sharp."
       },
       "translatedAnswer": {
-        "en": "color"
+        "en": "sharp"
       },
-      "sentence": "Màu ___ của bức tranh rất đẹp."
+      "sentence": "Cái kéo này rất ___."
     }
   },
   "_id": "qnP43Oxbzj7R5IANmBtl",
