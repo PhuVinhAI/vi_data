@@ -15,14 +15,14 @@
         "nhân",
         "giảng"
       ],
-      "sentence": "Tôi là một ___ chức năng.",
+      "sentence": "Chị ấy là một thành ___ của nhóm.",
       "language": "vi",
       "word": "viên",
       "translatedAnswer": {
-        "en": "functionary"
+        "en": "member"
       },
       "translation": {
-        "en": "I am a functionary."
+        "en": "She is a member of the group."
       },
       "hint": "v___n",
       "answer": "viên"
@@ -61,13 +61,13 @@
     "content": {
       "choices": [],
       "word": "viên",
-      "sentence": "Tôi là một ___ chức năng.",
+      "sentence": "Chị ấy là một thành ___ của nhóm.",
       "language": "vi",
       "translation": {
-        "en": "I am a functionary."
+        "en": "She is a member of the group."
       },
       "translatedAnswer": {
-        "en": "functionary"
+        "en": "member"
       },
       "answer": "viên"
     },
@@ -77,19 +77,19 @@
   },
   "flashcard": {
     "definitions": {
-      "es": "Un objeto pequeño y redondo, a menudo utilizado para referirse a pastillas o caramelos.",
-      "vi": "Một vật nhỏ, hình tròn, thường được dùng để chỉ thuốc hoặc kẹo.",
-      "en": "A small, round object or item, often used to refer to pills or candies."
+      "vi": "Một thành viên của một nhóm hoặc tổ chức.",
+      "en": "A member of a group or organization.",
+      "es": "Un miembro de un grupo u organización."
     },
     "example": {
-      "en": "I bought a candy.",
-      "es": "Compré un caramelo.",
-      "vi": "Tôi đã mua một viên kẹo."
+      "en": "She is a member of the research group.",
+      "vi": "Chị ấy là thành viên của nhóm nghiên cứu.",
+      "es": "Ella es miembro del grupo de investigación."
     },
     "translations": {
-      "en": "pill, candy",
-      "es": "pastilla, caramelo",
-      "vi": "thuốc, kẹo"
+      "vi": "thành viên",
+      "en": "member",
+      "es": "miembro"
     },
     "createdAt": "2025-01-28T11:13:07.962Z",
     "audioUrl": "flashcard.mp3"

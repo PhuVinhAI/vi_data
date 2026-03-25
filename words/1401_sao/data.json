@@ -18,15 +18,15 @@
     "content": {
       "language": "vi",
       "translation": {
-        "en": "The night sky has stars shining brightly."
+        "en": "Why are you sad today?"
       },
       "word": "sao",
       "translatedAnswer": {
-        "en": "stars"
+        "en": "why"
       },
       "answer": "sao",
       "choices": [],
-      "sentence": "Trời đêm có ___ sáng rực."
+      "sentence": "___ anh lại buồn thế?"
     },
     "id": "7ce9492a-e599-418a-a135-1f49376e53b4",
     "audioUrl": "fill_blank.mp3",
@@ -39,22 +39,20 @@
   ],
   "createdAt": "2025-01-27T21:23:43.157Z",
   "flashcard": {
-    "translations": {
-      "vi": "sao",
-      "en": "star",
-      "es": "estrella"
-    },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T13:14:38.162Z",
     "definitions": {
-      "vi": "Một thiên thể có thể nhìn thấy trên bầu trời đêm, thường phát sáng.",
-      "es": "Un cuerpo celeste visible en el cielo nocturno, generalmente brillante.",
-      "en": "A celestial body visible in the night sky, typically shining."
+      "vi": "Dùng để hỏi về lý do hoặc nguyên nhân.",
+      "en": "Used to ask about a reason or cause.",
+      "es": "Se usa para preguntar sobre una razón o causa."
     },
     "example": {
-      "es": "Las estrellas en el cielo son muy hermosas.",
-      "en": "The stars in the sky are very beautiful.",
-      "vi": "Sao trên trời rất đẹp."
+      "en": "Why are you sad?",
+      "vi": "Sao anh lại buồn?",
+      "es": "¿Por qué estás triste?"
+    },
+    "translations": {
+      "vi": "sao",
+      "en": "why",
+      "es": "por qué"
     }
   },
   "word": "sao",
@@ -71,20 +69,20 @@
     "id": "99260c86-e583-443f-91df-1b8cccb298ab",
     "content": {
       "translation": {
-        "en": "There are beautiful stars in the sky."
+        "en": "Why are you happy?"
       },
       "word": "sao",
       "language": "vi",
       "translatedAnswer": {
-        "en": "stars"
+        "en": "why"
       },
       "answer": "sao",
       "choices": [
-        "mặt trăng",
+        "thế nào",
         "sao",
-        "mây"
+        "bao nhiêu"
       ],
-      "sentence": "Trên bầu trời có ___ rất đẹp.",
+      "sentence": "___ em lại vui vậy?",
       "hint": "s__"
     },
     "updatedAt": "2025-03-12T15:41:17.547Z",

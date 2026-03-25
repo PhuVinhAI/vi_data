@@ -30,14 +30,14 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "translation": {
-        "en": "I go outside on the weekend."
+        "en": "I go to visit my grandmother."
       },
       "answer": "ngoại",
       "choices": [],
       "word": "ngoại",
-      "sentence": "Tôi đi ___ vào cuối tuần.",
+      "sentence": "Tôi đi thăm bà ___.",
       "translatedAnswer": {
-        "en": "outside"
+        "en": "grandma"
       },
       "language": "vi"
     },
@@ -61,19 +61,19 @@
     "content": {
       "language": "vi",
       "translatedAnswer": {
-        "en": "outside"
+        "en": "grandmother"
       },
-      "sentence": "Tôi đi ___ vào cuối tuần.",
+      "sentence": "Tôi đi thăm bà ___.",
       "hint": "n___i",
       "translation": {
-        "en": "I go outside on the weekend."
+        "en": "I am visiting my grandmother."
       },
       "answer": "ngoại",
       "word": "ngoại",
       "choices": [
-        "trong",
+        "nội",
         "ngoại",
-        "bên trong"
+        "bác"
       ]
     },
     "updatedAt": "2025-03-12T14:47:56.657Z",

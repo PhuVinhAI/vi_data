@@ -17,16 +17,16 @@
     "id": "53fb2a01-9426-487b-bc53-7e543f8490e3",
     "updatedAt": "2025-03-12T15:06:28.945Z",
     "content": {
-      "sentence": "Tôi thích ___ nhảy múa.",
+      "sentence": "Đừng ___ vào máy tính của tôi.",
       "answer": "động",
       "word": "động",
       "language": "vi",
       "choices": [],
       "translatedAnswer": {
-        "en": "actively"
+        "en": "touch"
       },
       "translation": {
-        "en": "I like to dance actively."
+        "en": "Don't touch my computer."
       }
     },
     "type": "fillBlankQuiz",
@@ -61,17 +61,17 @@
       "answer": "động",
       "word": "động",
       "language": "vi",
-      "sentence": "Họ cần ___ vật lý cho bài học.",
+      "sentence": "Anh đừng ___ vào đồ của tôi.",
       "translation": {
-        "en": "They need physical activity for the lesson."
+        "en": "Don't touch my things."
       },
       "translatedAnswer": {
-        "en": "activity"
+        "en": "touch"
       },
       "choices": [
         "động",
-        "tĩnh",
-        "thụ động"
+        "đọc",
+        "đứng"
       ]
     },
     "updatedAt": "2025-03-12T15:06:28.945Z",
