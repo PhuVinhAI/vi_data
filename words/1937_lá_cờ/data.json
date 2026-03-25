@@ -2,22 +2,20 @@
   "definition": "flag",
   "rank": 1937,
   "flashcard": {
-    "createdAt": "2025-01-28T10:41:48.568Z",
-    "audioUrl": "flashcard.mp3",
     "definitions": {
-      "es": "Un juego que se juega en un tablero de cuadros con piezas que se mueven de maneras específicas.",
-      "vi": "Một trò chơi được chơi trên một bàn cờ có ô vuông với các quân cờ di chuyển theo cách cụ thể.",
-      "en": "A game played on a checkered board with pieces that move in specific ways."
-    },
-    "example": {
-      "es": "Me gusta jugar al ajedrez con mi amigo.",
-      "en": "I like to play chess with my friend.",
-      "vi": "Tôi thích chơi cờ với bạn."
+      "en": "A piece of cloth with colors or patterns used as a symbol of a country or group.",
+      "vi": "Một mảnh vải có màu sắc hoặc hoa văn được sử dụng như một biểu tượng của một quốc gia hoặc nhóm.",
+      "es": "Un pedazo de tela con colores o patrones utilizados como símbolo de un país o grupo."
     },
     "translations": {
-      "vi": "cờ",
-      "en": "chess",
-      "es": "ajedrez"
+      "vi": "lá cờ",
+      "en": "flag",
+      "es": "bandera"
+    },
+    "example": {
+      "en": "The national flag is red with a yellow star.",
+      "vi": "Lá cờ tổ quốc có màu đỏ với một ngôi sao vàng.",
+      "es": "La bandera nacional es roja con una estrella amarilla."
     }
   },
   "exampleSentencesAudioUrls": [
@@ -28,21 +26,21 @@
   "multiChoiceQuiz": {
     "type": "multiChoiceQuiz",
     "content": {
-      "sentence": "Họ chơi ___ ở công viên.",
-      "answer": "cờ",
+      "sentence": "Anh ấy đang kéo ___.",
+      "answer": "lá cờ",
       "translation": {
-        "en": "They play chess in the park."
+        "en": "He is raising the flag."
       },
       "choices": [
-        "bóng",
-        "cờ",
-        "đá"
+        "lá cờ",
+        "bàn",
+        "ghế"
       ],
-      "hint": "c__",
-      "word": "cờ",
+      "hint": "l___c",
+      "word": "lá cờ",
       "language": "vi",
       "translatedAnswer": {
-        "en": "chess"
+        "en": "flag"
       }
     },
     "audioUrl": "multi_choice.mp3",
@@ -83,13 +81,13 @@
         "en": "I like to play chess on the beach."
       },
       "choices": [],
-      "word": "cờ",
+      "word": "lá cờ",
       "translatedAnswer": {
-        "en": "chess"
+        "en": "flag"
       },
       "language": "vi",
-      "sentence": "Tôi thích chơi ___ trên biển.",
-      "answer": "cờ"
+      "sentence": "Họ đang kéo ___ vào buổi sáng.",
+      "answer": "lá cờ"
     },
     "type": "fillBlankQuiz",
     "createdAt": "2025-03-12T12:58:39.053Z",

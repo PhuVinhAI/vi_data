@@ -9,21 +9,16 @@
   "definition": "he",
   "flashcard": {
     "translations": {
-      "en": "grandfather or older man",
-      "es": "abuelo o hombre mayor",
-      "vi": "ông"
+      "en": "he / him (casual Southern)",
+      "vi": "ổng"
     },
-    "createdAt": "2025-01-28T11:12:03.749Z",
-    "audioUrl": "flashcard.mp3",
     "definitions": {
-      "es": "Un término utilizado en vietnamita para referirse a un hombre mayor, a menudo usado como una forma respetuosa de dirigirse a un padre o abuelo.",
-      "vi": "Một thuật ngữ được sử dụng trong tiếng Việt để chỉ một người đàn ông lớn tuổi, thường được dùng như một cách tôn trọng để gọi cha hoặc ông.",
-      "en": "A term used in Vietnamese to refer to an older man, often used as a respectful way to address a father or grandfather."
+      "vi": "Đại từ ngôi thứ ba số ít dùng để chỉ một người đàn ông (phong cách miền Nam).",
+      "en": "Third-person singular pronoun used to refer to a man (Southern style)."
     },
     "example": {
-      "es": "Él es un hombre muy bueno.",
-      "vi": "Ông ấy là người rất tốt.",
-      "en": "He is a very good man."
+      "en": "He just went out.",
+      "vi": "Ổng vừa mới đi ra ngoài rồi."
     }
   },
   "fillBlankQuiz": {
@@ -32,15 +27,15 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "translation": {
-        "en": "He is my uncle."
+        "en": "He just arrived."
       },
       "translatedAnswer": {
-        "en": "uncle"
+        "en": "he"
       },
       "answer": "ổng",
       "choices": [],
       "word": "ổng",
-      "sentence": "Ông ấy là ___ của tôi.",
+      "sentence": "___ vừa mới đến.",
       "language": "vi"
     },
     "id": "1005711b-e67d-4207-9adf-3cbba75e49c7",
@@ -66,26 +61,22 @@
   ],
   "rank": 1934,
   "multiChoiceQuiz": {
-    "updatedAt": "2025-03-12T13:32:21.648Z",
-    "id": "d040a798-b662-474e-b8cc-b9c641745d56",
-    "createdAt": "2025-03-12T13:32:21.648Z",
-    "audioUrl": "multi_choice.mp3",
     "content": {
       "answer": "ổng",
       "hint": "ông",
       "translation": {
-        "en": "I met my uncle yesterday."
+        "en": "I met him yesterday."
       },
       "translatedAnswer": {
-        "en": "uncle"
+        "en": "he"
       },
       "word": "ổng",
       "sentence": "Tôi đã gặp ___ hôm qua.",
       "language": "vi",
       "choices": [
-        "chú",
-        "ông",
-        "ổng"
+        "họ",
+        "ổng",
+        "mình"
       ]
     },
     "type": "multiChoiceQuiz"

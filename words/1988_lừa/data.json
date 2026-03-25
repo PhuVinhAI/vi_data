@@ -45,12 +45,12 @@
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Con ___ chạy nhanh trong công viên.",
+      "sentence": "Anh không nên ___ bạn bè.",
       "translation": {
-        "en": "The donkey runs fast in the park."
+        "en": "You should not cheat your friends."
       },
       "translatedAnswer": {
-        "en": "donkey"
+        "en": "cheat"
       },
       "choices": [],
       "word": "lừa",
@@ -73,21 +73,21 @@
   "multiChoiceQuiz": {
     "type": "multiChoiceQuiz",
     "content": {
-      "sentence": "Con ___ rất thông minh.",
+      "sentence": "Cẩn thận kẻo bị ___.",
       "word": "lừa",
       "choices": [
-        "cừu",
         "lừa",
-        "ngựa"
+        "giúp",
+        "đợi"
       ],
       "language": "vi",
       "answer": "lừa",
-      "hint": "l__a",
+      "hint": "l__",
       "translation": {
-        "en": "The donkey is very smart."
+        "en": "Be careful, or you'll be cheated."
       },
       "translatedAnswer": {
-        "en": "donkey"
+        "en": "cheat"
       }
     },
     "updatedAt": "2025-03-12T16:13:22.772Z",

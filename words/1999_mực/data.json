@@ -11,18 +11,18 @@
     "createdAt": "2025-03-12T15:15:49.004Z",
     "content": {
       "choices": [
-        "tôm",
+        "bút",
         "mực",
-        "cá"
+        "giấy"
       ],
       "word": "mực",
-      "sentence": "Món ăn này có ___ rất ngon.",
+      "sentence": "Máy in vừa mới hết ___.",
       "language": "vi",
       "translation": {
-        "en": "This dish has very delicious squid."
+        "en": "The printer just ran out of ink."
       },
       "translatedAnswer": {
-        "en": "squid"
+        "en": "ink"
       },
       "answer": "mực",
       "hint": "m___"
@@ -48,16 +48,16 @@
     "type": "fillBlankQuiz",
     "id": "93843531-e426-495a-8f18-87912cfb65ee",
     "content": {
-      "sentence": "Tôi thích ăn ___ nướng.",
+      "sentence": "Đừng làm đổ ___ lên bàn.",
       "language": "vi",
       "word": "mực",
       "choices": [],
       "answer": "mực",
       "translatedAnswer": {
-        "en": "squid"
+        "en": "ink"
       },
       "translation": {
-        "en": "I like to eat grilled squid."
+        "en": "Don't spill ink on the table."
       }
     },
     "audioUrl": "fill_blank.mp3",
@@ -70,22 +70,20 @@
   ],
   "definition": "ink",
   "flashcard": {
-    "example": {
-      "vi": "Tôi thích ăn mực nướng.",
-      "es": "Me gusta comer calamares a la parrilla.",
-      "en": "I like to eat grilled squid."
+    "translations": {
+      "en": "ink",
+      "vi": "mực",
+      "es": "tinta"
     },
     "definitions": {
-      "en": "A type of seafood, specifically squid.",
-      "es": "Un tipo de marisco, específicamente calamar.",
-      "vi": "Một loại hải sản, cụ thể là mực."
+      "vi": "Một loại chất lỏng dùng để viết hoặc in.",
+      "en": "A liquid used for writing or printing.",
+      "es": "Un líquido utilizado para escribir o imprimir."
     },
-    "createdAt": "2025-01-28T12:50:25.957Z",
-    "audioUrl": "flashcard.mp3",
-    "translations": {
-      "en": "squid",
-      "es": "calamar",
-      "vi": "mực"
+    "example": {
+      "vi": "Bút của tôi đã hết mực.",
+      "en": "My pen has run out of ink.",
+      "es": "Mi bolígrafo se ha quedado sin tinta."
     }
   },
   "notes": "mực = ink (the liquid used for writing or printing). It’s an uncountable noun, so you usually say mực without numbers; use lọ/chai mực for a bottle of ink.\n\nCommon pairings: mực in (printer ink), mực viết (writing ink), hết mực (run out of ink), đổ mực (spill ink).  \nVery common second meaning: mực = squid (the seafood), totally different meaning but same spelling — context tells you which one.  \nMemory tip: think “ink is dark like squid ink” to link both meanings.",
@@ -97,5 +95,5 @@
   ],
   "_id": "bESqAAIEt8FsvkPaVwAE",
   "level": "A2",
-  "topic": "Food & Drinks"
+  "topic": "School & Education"
 }

@@ -8,22 +8,20 @@
   "notes": "kinh = scripture, a sacred religious text (often Buddhist sutras, sometimes the Bible).\n\nIt’s a noun. You usually count it with cuốn / quyển / bài (cuốn kinh, bài kinh).  \nCommon pairings: đọc kinh (read scripture), tụng kinh (chant), giảng kinh (teach/explain scripture).  \nYou’ll hear specific types like kinh Phật (Buddhist sutra) and Kinh Thánh (the Bible).  \nRelated word: kinh sách = religious books in general (a bit broader than just one scripture).",
   "flashcard": {
     "definitions": {
-      "es": "Gafas o lentes utilizados para corregir la visión.",
-      "vi": "Kính hoặc mắt kính được sử dụng để điều chỉnh thị lực.",
-      "en": "Glasses or spectacles used to correct vision."
-    },
-    "example": {
-      "es": "Necesito comprar unas gafas nuevas.",
-      "vi": "Tôi cần mua một cái kính mới.",
-      "en": "I need to buy a new pair of glasses."
+      "en": "A sacred religious text or scripture.",
+      "vi": "Một văn bản tôn giáo thiêng liêng hoặc kinh thánh.",
+      "es": "Un texto religioso sagrado o escritura."
     },
     "translations": {
-      "vi": "kính",
-      "es": "gafas",
-      "en": "glasses"
+      "vi": "kinh",
+      "en": "scripture",
+      "es": "escritura"
     },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T11:12:25.906Z"
+    "example": {
+      "en": "He is reading the scripture.",
+      "vi": "Anh ấy đang đọc kinh.",
+      "es": "Él está leyendo la escritura."
+    }
   },
   "definition": "scripture",
   "exampleSentencesTranslated": [
@@ -37,13 +35,13 @@
     "content": {
       "choices": [],
       "word": "kinh",
-      "sentence": "Tôi cần mua một đôi ___ mới.",
+      "sentence": "Anh ấy đang tụng ___.",
       "language": "vi",
       "translation": {
-        "en": "I need to buy a new pair of glasses."
+        "en": "He is chanting scriptures."
       },
       "translatedAnswer": {
-        "en": "glasses"
+        "en": "scripture"
       },
       "answer": "kinh"
     },
@@ -74,18 +72,18 @@
       "hint": "k___h",
       "answer": "kinh",
       "translation": {
-        "en": "I need to buy a new pair of glasses."
+        "en": "He is chanting scriptures."
       },
       "translatedAnswer": {
-        "en": "glasses"
+        "en": "scripture"
       },
       "word": "kinh",
-      "sentence": "Tôi cần mua một đôi ___ mới.",
+      "sentence": "Anh ấy đang tụng ___.",
       "language": "vi",
       "choices": [
         "kinh",
-        "kinhs",
-        "KINH"
+        "sách",
+        "vở"
       ]
     },
     "id": "1c52b8f0-0feb-489f-883b-4bdaeeca379f"

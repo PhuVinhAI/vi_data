@@ -11,21 +11,21 @@
     "audioUrl": "multi_choice.mp3",
     "type": "multiChoiceQuiz",
     "content": {
-      "hint": "l__c",
+      "hint": "l__",
       "answer": "lạc",
       "language": "vi",
       "word": "lạc",
-      "sentence": "Món này có vị rất ___.",
+      "sentence": "Tôi bị ___ đường trong thành phố.",
       "translation": {
-        "en": "This dish has a very nutty taste."
+        "en": "I got lost in the city."
       },
       "translatedAnswer": {
-        "en": "nutty"
+        "en": "lost"
       },
       "choices": [
-        "béo",
         "lạc",
-        "ngọt"
+        "tìm",
+        "đến"
       ]
     },
     "updatedAt": "2025-03-12T14:59:46.437Z",
@@ -73,13 +73,13 @@
       "language": "vi",
       "word": "lạc",
       "answer": "lạc",
-      "sentence": "Món này có vị rất ___.",
+      "sentence": "Đứa bé bị ___ trong siêu thị.",
       "translation": {
-        "en": "This dish has a very nutty taste."
+        "en": "The child got lost in the supermarket."
       },
       "choices": [],
       "translatedAnswer": {
-        "en": "nutty"
+        "en": "lost"
       }
     },
     "id": "d7e775a9-d01b-4e70-9c9a-fa66e97e59f2"
