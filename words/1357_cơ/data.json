@@ -9,21 +9,21 @@
   "definition": "muscle",
   "flashcard": {
     "example": {
-      "vi": "Cơ thể của tôi cần nhiều nước.",
-      "es": "Mi cuerpo necesita mucha agua.",
-      "en": "My body needs a lot of water."
+      "en": "I often exercise to strengthen my muscle.",
+      "vi": "Anh thường tập thể dục để tăng sức mạnh cho cơ.",
+      "es": "A menudo hace ejercicio para fortalecer su músculo."
     },
     "definitions": {
-      "es": "La estructura física de una persona o un animal.",
-      "vi": "Cấu trúc vật lý của một người hoặc một con vật.",
-      "en": "The physical structure of a person or an animal."
+      "es": "Tejido compuesto de células que tienen la capacidad de contraerse y producir movimiento.",
+      "vi": "Mô được cấu tạo từ các tế bào có khả năng co giãn và tạo ra chuyển động.",
+      "en": "Tissue composed of cells that have the ability to contract and produce movement."
     },
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T11:12:21.821Z",
     "translations": {
-      "en": "body",
-      "vi": "cơ thể",
-      "es": "cuerpo"
+      "en": "muscle",
+      "vi": "cơ",
+      "es": "músculo"
     }
   },
   "exampleSentencesTranslated": [
@@ -37,13 +37,13 @@
     "content": {
       "answer": "cơ",
       "translation": {
-        "en": "I need a basis to work."
+        "en": "He exercises to develop muscles."
       },
       "translatedAnswer": {
-        "en": "basis"
+        "en": "muscle"
       },
       "word": "cơ",
-      "sentence": "Tôi cần ___ để làm việc.",
+      "sentence": "Anh ấy tập thể dục để phát triển ___ bắp.",
       "language": "vi",
       "choices": []
     },
@@ -69,10 +69,10 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "basis"
+        "en": "muscle"
       },
       "translation": {
-        "en": "I need a basis to work."
+        "en": "He has very firm muscles."
       },
       "hint": "c__",
       "answer": "cơ",
@@ -82,7 +82,7 @@
         "loại"
       ],
       "language": "vi",
-      "sentence": "Tôi cần ___ để làm việc.",
+      "sentence": "Anh ấy có ___ bắp rất săn chắc.",
       "word": "cơ"
     },
     "audioUrl": "multi_choice.mp3",

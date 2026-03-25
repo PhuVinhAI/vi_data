@@ -15,15 +15,15 @@
     "audioUrl": "flashcard.mp3",
     "word": "pháp",
     "definitions": {
-      "vi": "Từ này thường dùng để chỉ nước Pháp hoặc ngôn ngữ Pháp.",
-      "en": "This word commonly refers to France or the French language."
+      "vi": "Từ này thường dùng để chỉ pháp luật hoặc các quy định pháp lý.",
+      "en": "This word commonly refers to law or legal regulations."
     },
     "example": {
-      "en": "I am learning French at school.",
-      "vi": "Tôi đang học tiếng Pháp ở trường."
+      "en": "Everyone must follow the law.",
+      "vi": "Mọi người phải tuân thủ pháp luật."
     },
     "translations": {
-      "en": "France; French (language)"
+      "en": "law"
     }
   },
   "choices": [
@@ -49,16 +49,16 @@
     "id": "68ead3e0-70d0-4fa2-973f-ae42472ce3df",
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Tôi cần ___ để giải quyết vấn đề.",
+      "sentence": "Mọi người phải tuân thủ ___ luật.",
       "choices": [],
       "language": "vi",
       "answer": "pháp",
       "word": "pháp",
       "translation": {
-        "en": "I need a method to solve the problem."
+        "en": "Everyone must comply with the law."
       },
       "translatedAnswer": {
-        "en": "method"
+        "en": "law"
       }
     },
     "updatedAt": "2025-03-12T16:25:04.342Z"
@@ -72,20 +72,20 @@
     "content": {
       "hint": "p___",
       "translation": {
-        "en": "We need a reasonable method."
+        "en": "We must strictly follow the law."
       },
       "translatedAnswer": {
-        "en": "method"
+        "en": "law"
       },
       "language": "vi",
       "choices": [
-        "cách",
+        "công",
         "pháp",
-        "biện pháp"
+        "tội"
       ],
       "answer": "pháp",
       "word": "pháp",
-      "sentence": "Chúng ta cần một ___ hợp lý."
+      "sentence": "Chúng ta phải nghiêm chỉnh chấp hành ___ luật."
     },
     "type": "multiChoiceQuiz"
   },
@@ -94,5 +94,5 @@
   "notes_md": "**pháp** usually means **law** or legal rules, but by itself it’s not used much in daily speech. You’ll mostly see it inside compound words.\n\nCommon combos: **pháp luật** (law), **vi phạm pháp luật** (break the law), **Phật pháp** (Buddhist teachings), **Pháp** (France, capitalized). On its own, it doesn’t take a classifier — it’s more like a building block than a full standalone noun.\n\nClose synonym: **luật** (law) — this one is more natural in everyday speech by itself.",
   "_id": "siICaJVcRFyd2qrGH4iy",
   "level": "A2",
-  "topic": "Places & Locations"
+  "topic": "Crime & Law"
 }

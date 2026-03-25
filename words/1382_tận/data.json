@@ -13,14 +13,14 @@
     "content": {
       "choices": [],
       "translation": {
-        "en": "We need enough time to complete."
+        "en": "He walked as far as 10 kilometers."
       },
       "word": "tận",
       "language": "vi",
       "translatedAnswer": {
-        "en": "enough"
+        "en": "as far as"
       },
-      "sentence": "Chúng ta cần ___ thời gian để hoàn thành.",
+      "sentence": "Anh ấy đã đi bộ ___ 10 cây số.",
       "answer": "tận"
     },
     "type": "fillBlankQuiz"
@@ -32,20 +32,20 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translation": {
-        "en": "The scenery here is truly amazing."
+        "en": "He went all the way to the end of the road."
       },
       "choices": [
-        "mới",
+        "gần",
         "tận",
-        "cũ"
+        "vừa"
       ],
       "language": "vi",
       "translatedAnswer": {
-        "en": "amazing"
+        "en": "all the way"
       },
       "word": "tận",
       "hint": "t___n",
-      "sentence": "Cảnh đẹp ở đây thật ___ vời.",
+      "sentence": "Anh ấy đã đi ___ đến cuối con đường.",
       "answer": "tận"
     },
     "audioUrl": "multi_choice.mp3",
@@ -70,20 +70,20 @@
   ],
   "flashcard": {
     "example": {
-      "vi": "Tôi đã tận dụng mọi cơ hội để học hỏi.",
-      "en": "I have made the most of every opportunity to learn.",
-      "es": "He aprovechado al máximo cada oportunidad para aprender."
+      "vi": "Anh ấy đã đi bộ tận mười cây số.",
+      "en": "He walked as far as ten kilometers.",
+      "es": "Caminó hasta diez kilómetros."
     },
     "translations": {
-      "vi": "toàn bộ; hoàn chỉnh; kỹ lưỡng.",
-      "en": "full; complete; thorough.",
-      "es": "completo; total; exhaustivo."
+      "vi": "đến mức; xa đến; cho đến tận.",
+      "en": "even; as far as; until.",
+      "es": "incluso; tan lejos como; hasta."
     },
     "createdAt": "2025-01-28T10:52:55.048Z",
     "definitions": {
-      "es": "aprovechar al máximo algo; utilizar completamente.",
-      "vi": "sử dụng tối đa một cái gì đó; tận dụng hoàn toàn.",
-      "en": "to make full use of something; to utilize completely."
+      "es": "llegar hasta un punto lejano o extremo.",
+      "vi": "đến tận một điểm xa hoặc cực đoan.",
+      "en": "to reach as far as a distant or extreme point."
     },
     "audioUrl": "flashcard.mp3"
   },
