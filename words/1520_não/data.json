@@ -40,9 +40,9 @@
     "content": {
       "hint": "n__",
       "word": "não",
-      "sentence": "Tôi đau ___ quá.",
+      "sentence": "Đọc sách rất tốt cho ___.",
       "translation": {
-        "en": "I have a headache."
+        "en": "Reading books is very good for the brain."
       },
       "answer": "não",
       "choices": [
@@ -51,7 +51,7 @@
         "mắt"
       ],
       "translatedAnswer": {
-        "en": "headache"
+        "en": "brain"
       },
       "language": "vi"
     },
@@ -79,13 +79,13 @@
     "type": "fillBlankQuiz",
     "content": {
       "word": "não",
-      "sentence": "Tôi đau ___ quá.",
+      "sentence": "Đọc sách rất tốt cho ___.",
       "translatedAnswer": {
-        "en": "headache"
+        "en": "brain"
       },
       "choices": [],
       "translation": {
-        "en": "I have a headache."
+        "en": "Reading books is very good for the brain."
       },
       "answer": "não",
       "language": "vi"

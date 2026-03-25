@@ -70,21 +70,21 @@
   },
   "flashcard": {
     "translations": {
-      "en": "trillion",
-      "es": "billón",
+      "en": "billion",
+      "es": "mil millones / millardo",
       "vi": "tỷ"
     },
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T12:57:52.687Z",
     "definitions": {
-      "es": "Una unidad de medida igual a un millón de millones (10^12).",
-      "vi": "Một đơn vị đo lường bằng một triệu triệu (10^12).",
-      "en": "A unit of measurement equal to one million million (10^12)."
+      "es": "Một tỷ (10^9).",
+      "vi": "Một con số bằng một nghìn triệu (10^9).",
+      "en": "A million million is a trillion, but this is a thousand million (10^9)."
     },
     "example": {
-      "en": "One trillion is one million million.",
-      "vi": "Một tỷ là một triệu triệu.",
-      "es": "Un billón es un millón de millones."
+      "en": "One billion is one thousand million.",
+      "vi": "Một tỷ là một nghìn triệu.",
+      "es": "Un mil millones es một tỷ."
     }
   },
   "definition": "billion",
