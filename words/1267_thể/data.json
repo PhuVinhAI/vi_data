@@ -3,28 +3,28 @@
   "flashcard": {
     "createdAt": "2025-01-28T13:21:41.408Z",
     "definitions": {
-      "vi": "Chỉ khả năng hoặc khả năng xảy ra.",
-      "en": "Indicates ability or possibility.",
-      "es": "Indica habilidad o posibilidad."
+      "vi": "Về cơ thể vật lý, hoặc hình thức, trạng thái của một vật.",
+      "en": "Relating to the physical body, or the form/state of an object.",
+      "es": "Relativo al cuerpo físico, o la forma/estado de un objeto."
     },
     "example": {
-      "en": "I can help you.",
-      "es": "Puedo ayudarte.",
-      "vi": "Tôi có thể giúp bạn không?"
+      "en": "Exercising is good for your body.",
+      "vi": "Tập thể dục rất tốt cho cơ thể.",
+      "es": "Hacer ejercicio là bueno para tu cuerpo."
     },
     "translations": {
-      "vi": "có thể",
-      "es": "puede",
-      "en": "can"
+      "vi": "hình thể",
+      "es": "cuerpo / forma",
+      "en": "body / form"
     },
     "audioUrl": "flashcard.mp3"
   },
   "createdAt": "2025-01-27T21:23:43.157Z",
   "updatedAt": "2026-03-03T08:30:59.566Z",
   "exampleSentencesTranslated": [
-    "I do not have the ability to attend the meeting because I am busy with work.",
-    "I want to test my ability by jogging every morning.",
-    "She always tries to improve her ability to work better."
+    "I want to exercise to improve my physical body.",
+    "The human body needs to be cared for every day.",
+    "This is a very new genre of music for me."
   ],
   "notes_md": "**thể** by itself does *not* mean “ability” in modern Vietnamese. It’s a Sino-Vietnamese root meaning **body, form, type, or physical condition**, and it almost always appears in compounds.\n\nCommon combinations: **cơ thể** (body), **thể thao** (sports), **thể dục** (exercise), **thể loại** (genre/type), **hình thể** (body shape). You usually don’t use *thể* alone in conversation.\n\nIf you want to say “ability,” use **khả năng** (noun) or **có thể** (can/may).  \n\nQuick memory hook: *thể* = physical form/body → think **thể thao** (sports) rather than “ability.”",
   "multiChoiceQuiz": {
@@ -58,7 +58,7 @@
     "northern_3.mp3"
   ],
   "rank": 1267,
-  "definition": "ability",
+  "definition": "form / body",
   "notes": "thể by itself does not mean “ability” in modern Vietnamese. It’s a Sino-Vietnamese root meaning body, form, type, or physical condition, and it almost always appears in compounds.\n\nCommon combinations: cơ thể (body), thể thao (sports), thể dục (exercise), thể loại (genre/type), hình thể (body shape). You usually don’t use thể alone in conversation.\n\nIf you want to say “ability,” use khả năng (noun) or có thể (can/may).  \n\nQuick memory hook: thể = physical form/body → think thể thao (sports) rather than “ability.”",
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
@@ -66,9 +66,9 @@
     "southern_3.mp3"
   ],
   "exampleSentences": [
-    "Anh không có thể đến buổi họp vì bận công việc.",
-    "Em muốn kiểm tra thể của mình bằng cách chạy bộ mỗi sáng.",
-    "Chị ấy luôn cố gắng nâng cao thể để làm việc tốt hơn."
+    "Em muốn tập thể dục để cải thiện hình thể của mình.",
+    "Cơ thể con người cần được chăm sóc mỗi ngày.",
+    "Đây là một thể loại âm nhạc rất mới mẻ đối với em."
   ],
   "choices": [
     "hình",
@@ -97,5 +97,5 @@
   },
   "_id": "jNEsh05Zh8Vxp0tPciaz",
   "level": "B1",
-  "topic": "Body & Health"
+  "topic": "Abstract Concepts"
 }

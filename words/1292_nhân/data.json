@@ -13,19 +13,19 @@
   "flashcard": {
     "createdAt": "2025-01-28T11:42:43.521Z",
     "translations": {
-      "en": "person",
-      "es": "persona",
+      "en": "filling / kernel",
+      "es": "relleno / grano",
       "vi": "nhân"
     },
     "definitions": {
-      "en": "A person who works in a specific job or role.",
-      "es": "Una persona que trabaja en un trabajo o rol específico.",
-      "vi": "Một người làm việc trong một công việc hoặc vai trò cụ thể."
+      "en": "The inside part of something solid, like a cake filling or a nut kernel.",
+      "es": "La parte interior de algo sólido, como el relleno de un pastel o el grano de una nuez.",
+      "vi": "Phần bên trong của một vật thể rắn, như nhân bánh hoặc nhân hạt."
     },
     "example": {
-      "en": "I am an office worker.",
-      "vi": "Tôi là một nhân viên văn phòng.",
-      "es": "Soy un empleado de oficina."
+      "en": "I like mooncakes with green bean filling.",
+      "vi": "Tôi thích bánh trung thu nhân đậu xanh.",
+      "es": "Me gustan los pasteles de luna con relleno de frijol mungo."
     },
     "audioUrl": "flashcard.mp3"
   },
@@ -35,20 +35,20 @@
     "id": "a3c205f8-d2b6-4789-836d-29a0852832fe",
     "content": {
       "translatedAnswer": {
-        "en": "factor"
+        "en": "filling"
       },
       "answer": "nhân",
       "hint": "n___",
       "word": "nhân",
-      "sentence": "Tôi cần ___ để hoàn thành công việc.",
+      "sentence": "Bạn thích bánh trung thu ___ gì?",
       "translation": {
-        "en": "I need a factor to complete the work."
+        "en": "What filling do you like in your mooncake?"
       },
       "language": "vi",
       "choices": [
         "nhân",
-        "hệ số",
-        "phương trình"
+        "vỏ",
+        "lá"
       ]
     },
     "audioUrl": "multi_choice.mp3",
@@ -81,21 +81,21 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "word": "nhân",
-      "sentence": "Tôi cần ___ để hoàn thành công việc.",
+      "sentence": "Cái bánh này có ___ đậu xanh.",
       "translation": {
-        "en": "I need a factor to complete the work."
+        "en": "This cake has green bean filling."
       },
       "language": "vi",
       "choices": [],
       "translatedAnswer": {
-        "en": "factor"
+        "en": "filling"
       },
       "answer": "nhân"
     },
     "id": "e27dff24-b1d1-4f40-8faa-ff8084a3c7cd"
   },
-  "definition": "kernel",
+  "definition": "filling / kernel",
   "_id": "JliQv3hmPoixiQfqOmem",
   "level": "B1",
-  "topic": "Abstract Concepts"
+  "topic": "Food & Drinks"
 }
