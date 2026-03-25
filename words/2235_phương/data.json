@@ -3,16 +3,16 @@
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Chúng ta cần chọn ___ mới.",
+      "sentence": "Tôi không rõ ___ hướng.",
       "word": "phương",
       "language": "vi",
       "translatedAnswer": {
-        "en": "method"
+        "en": "direction"
       },
       "choices": [],
       "answer": "phương",
       "translation": {
-        "en": "We need to choose a new method."
+        "en": "I'm not clear about the direction."
       }
     },
     "updatedAt": "2025-03-12T16:41:24.735Z",
@@ -39,21 +39,21 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "method"
+        "en": "direction"
       },
       "translation": {
-        "en": "Choose a method to proceed."
+        "en": "Which direction is he going?"
       },
       "choices": [
+        "hướng",
         "phương",
-        "cách",
-        "hình thức"
+        "đường"
       ],
       "answer": "phương",
       "language": "vi",
       "word": "phương",
-      "hint": "p____n",
-      "sentence": "Chọn một ___ để tiến hành."
+      "hint": "p___n",
+      "sentence": "Anh ấy đi theo ___ nào?"
     },
     "updatedAt": "2025-03-12T16:41:24.735Z"
   },

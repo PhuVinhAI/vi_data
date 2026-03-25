@@ -32,14 +32,14 @@
     "createdAt": "2025-03-12T13:58:59.069Z",
     "content": {
       "translatedAnswer": {
-        "en": "curtain"
+        "en": "screen"
       },
       "word": "màn",
-      "sentence": "Cửa sổ có ___ che nắng.",
+      "sentence": "Tắt ___ thiết bị khi không dùng.",
       "language": "vi",
       "choices": [],
       "translation": {
-        "en": "The window has a curtain to block the sun."
+        "en": "Turn off the device screen when not in use."
       },
       "answer": "màn"
     }
@@ -51,20 +51,20 @@
     "audioUrl": "multi_choice.mp3",
     "content": {
       "language": "vi",
-      "sentence": "Cửa sổ có ___ che nắng.",
+      "sentence": "Đừng chạm vào ___ hình.",
       "word": "màn",
       "translatedAnswer": {
-        "en": "curtain"
+        "en": "screen"
       },
       "answer": "màn",
       "translation": {
-        "en": "The window has a curtain to block the sun."
+        "en": "Don't touch the screen."
       },
       "hint": "m__n",
       "choices": [
-        "bức tranh",
+        "bàn",
         "màn",
-        "tấm vải"
+        "vải"
       ]
     },
     "createdAt": "2025-03-12T13:58:59.069Z",
@@ -73,20 +73,18 @@
   "notes_md": "**màn** usually means a *screen* (phone, TV, computer). It’s a noun, often used with **cái** → *cái màn*, but more commonly in compounds like **màn hình** (screen/display).\n\nYou’ll hear it in tech phrases: **màn hình cảm ứng** (touchscreen), **màn hình máy tính**, **màn chiếu** (projector screen).\n\nIt also very commonly means a **mosquito net** (the net you hang over a bed to avoid mosquitoes) → *màn ngủ*. Context makes it clear which meaning.\n\nFor screens, **màn hình** is much more natural than just *màn* alone.",
   "flashcard": {
     "definitions": {
-      "en": "A piece of fabric used to cover a window or separate spaces.",
-      "es": "Un trozo de tela utilizado para cubrir una ventana o separar espacios.",
-      "vi": "Một mảnh vải được sử dụng để che cửa sổ hoặc phân chia không gian."
+      "en": "The glass surface of a device that displays images or information.",
+      "vi": "Bề mặt kính của một thiết bị dùng để hiển thị hình ảnh hoặc thông tin.",
+      "es": "La superficie de vidrio de un dispositivo que muestra imágenes o información."
     },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T11:36:54.399Z",
     "example": {
-      "vi": "Cái màn này rất đẹp.",
-      "es": "Esta cortina es muy hermosa.",
-      "en": "This curtain is very beautiful."
+      "vi": "Màn hình điện thoại bị vỡ.",
+      "es": "La pantalla de el teléfono está rota.",
+      "en": "The phone screen is broken."
     },
     "translations": {
-      "en": "curtain",
-      "es": "cortina",
+      "en": "screen",
+      "es": "pantalla",
       "vi": "màn"
     }
   },

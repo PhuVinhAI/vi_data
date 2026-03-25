@@ -13,20 +13,20 @@
     "createdAt": "2025-03-12T13:16:46.233Z",
     "content": {
       "translation": {
-        "en": "The month of June has arrived."
+        "en": "Lower your voice a little."
       },
       "translatedAnswer": {
-        "en": "June"
+        "en": "lower"
       },
       "hint": "h___",
       "answer": "hạ",
       "choices": [
-        "thu",
-        "đông",
+        "lên",
+        "xuống",
         "hạ"
       ],
       "word": "hạ",
-      "sentence": "Tháng ___ đến rồi.",
+      "sentence": "Anh hãy ___ giọng xuống một chút.",
       "language": "vi"
     },
     "type": "multiChoiceQuiz"
@@ -70,13 +70,13 @@
     "content": {
       "choices": [],
       "word": "hạ",
-      "sentence": "Tháng ___ đến rồi.",
+      "sentence": "Cửa hàng đang ___ giá mạnh.",
       "language": "vi",
       "translation": {
-        "en": "The month of June has arrived."
+        "en": "The store is lowering prices significantly."
       },
       "translatedAnswer": {
-        "en": "June"
+        "en": "lowering"
       },
       "answer": "hạ"
     },

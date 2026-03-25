@@ -37,23 +37,21 @@
   "definition": "bucket",
   "rank": 2244,
   "flashcard": {
-    "example": {
-      "es": "Empujé la silla lejos.",
-      "en": "I pushed the chair away.",
-      "vi": "Tôi đã xô đẩy chiếc ghế ra xa."
+    "definitions": {
+      "en": "A container with a handle used for carrying liquids or small items.",
+      "vi": "Một vật đựng có tay cầm dùng để xách chất lỏng hoặc các vật nhỏ.",
+      "es": "Un contenedor con un asa utilizado para transportar líquidos o artículos pequeños."
     },
     "translations": {
-      "es": "empujar",
-      "vi": "xô",
-      "en": "push"
+      "vi": "cái xô",
+      "en": "bucket",
+      "es": "cubo"
     },
-    "createdAt": "2025-01-28T10:44:17.308Z",
-    "definitions": {
-      "es": "Empujar o empujar algo.",
-      "en": "To push or shove something.",
-      "vi": "Đẩy hoặc xô một cái gì đó."
-    },
-    "audioUrl": "flashcard.mp3"
+    "example": {
+      "en": "Please get me a bucket of water.",
+      "vi": "Lấy giúp tôi một xô nước.",
+      "es": "Por favor tráeme một cubo de agua."
+    }
   },
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
