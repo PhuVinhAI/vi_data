@@ -5,19 +5,19 @@
     "southern_3.mp3"
   ],
   "rank": 308,
-  "definition": "character",
+  "definition": "character / personality",
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Cô ấy rất ___ và thông minh.",
+      "sentence": "___ cô ấy rất hiền lành.",
       "word": "tính",
       "language": "vi",
       "translatedAnswer": {
-        "en": "clever"
+        "en": "character"
       },
       "choices": [],
       "translation": {
-        "en": "She is very smart and clever."
+        "en": "Her character is very gentle."
       },
       "answer": "tính"
     },
@@ -70,18 +70,18 @@
     "content": {
       "language": "vi",
       "choices": [
-        "hành",
+        "tâm",
         "tính",
-        "phẩm"
+        "tầm"
       ],
       "answer": "tính",
       "translation": {
-        "en": "We need your character."
+        "en": "Her character is very gentle."
       },
       "translatedAnswer": {
         "en": "character"
       },
-      "sentence": "Chúng ta cần ___ của bạn.",
+      "sentence": "___ cô ấy rất hiền lành.",
       "hint": "t__n",
       "word": "tính"
     },
