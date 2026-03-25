@@ -16,11 +16,11 @@
       "word": "vòng",
       "language": "vi",
       "translatedAnswer": {
-        "en": "ring"
+        "en": "bracelet"
       },
       "choices": [],
       "translation": {
-        "en": "I wear a gold ring."
+        "en": "I wear a gold bracelet."
       }
     }
   },
@@ -37,21 +37,21 @@
       "vi": "Tôi đeo một chiếc vòng tay đẹp."
     },
     "translations": {
-      "en": "ring",
-      "es": "anillo",
+      "en": "ring / bracelet / circle",
+      "es": "anillo / pulsera / círculo",
       "vi": "vòng"
     },
     "audioUrl": "flashcard.mp3",
     "definitions": {
-      "en": "A circular band, typically made of metal or other material, worn as jewelry.",
-      "es": "Una banda circular, típicamente hecha de metal u otro material, usada como joyería.",
-      "vi": "Một vòng tròn, thường được làm bằng kim loại hoặc vật liệu khác, được đeo như trang sức."
+      "en": "A circular band (ring/bracelet) or a circle shape.",
+      "es": "Una banda circular (anillo/pulsera) o una hình dạng vòng tròn.",
+      "vi": "Một vòng tròn, vòng đeo tay hoặc hình dạng vòng."
     },
     "createdAt": "2025-01-28T12:24:33.965Z"
   },
   "notes_md": "**vòng** = circle or round shape. It’s also used for a round/lap in sports or events.\n\nAs a noun, you can count it directly: *một vòng, hai vòng*. It often pairs with words like *vòng tròn* (circle shape), *vòng cổ* (necklace), *vòng tay* (bracelet), *vòng loại* (qualifying round).\n\nIt can describe physical circles or repeated turns in movement or competition.",
   "createdAt": "2025-01-27T21:23:43.157Z",
-  "definition": "circle",
+  "definition": "ring / bracelet / circle",
   "choices": [
     "vòng",
     "bàn",
@@ -64,7 +64,7 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "ring"
+        "en": "bracelet"
       },
       "choices": [
         "vòng",
@@ -72,9 +72,9 @@
         "nhẫn"
       ],
       "translation": {
-        "en": "She has a beautiful ring."
+        "en": "She has a beautiful bracelet."
       },
-      "sentence": "Cô ấy có một ___ đẹp.",
+      "sentence": "Cô ấy có một cái ___ đẹp.",
       "word": "vòng",
       "language": "vi",
       "answer": "vòng",
