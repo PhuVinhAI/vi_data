@@ -6,13 +6,13 @@
     "createdAt": "2025-03-12T13:59:36.805Z",
     "content": {
       "word": "kéo",
-      "sentence": "Tôi cần một cái ___ để cắt giấy.",
+      "sentence": "Em giúp anh ___ cửa ra nhé.",
       "language": "vi",
       "translatedAnswer": {
-        "en": "scissors"
+        "en": "pull"
       },
       "translation": {
-        "en": "I need a pair of scissors to cut paper."
+        "en": "Please help me pull the door open."
       },
       "answer": "kéo",
       "choices": []
@@ -23,20 +23,20 @@
   },
   "flashcard": {
     "definitions": {
-      "es": "Una herramienta utilizada para cortar, que consiste en dos cuchillas que están unidas por un pivote.",
-      "vi": "Một công cụ dùng để cắt, bao gồm hai lưỡi dao được nối với nhau.",
-      "en": "A tool used for cutting, consisting of two blades that are pivoted together."
+      "es": "Tirar de algo hacia uno mismo o hacer que algo se mueva tirando.",
+      "vi": "Kéo cái gì đó về phía mình hoặc làm cho cái gì đó di chuyển bằng cách kéo.",
+      "en": "To pull something toward yourself or make something move by pulling."
     },
     "audioUrl": "flashcard.mp3",
     "translations": {
-      "en": "scissors",
-      "es": "tijeras",
+      "en": "to pull",
+      "es": "tirar / jalar",
       "vi": "kéo"
     },
     "example": {
-      "en": "I need a pair of scissors to cut the paper.",
-      "vi": "Tôi cần một cái kéo để cắt giấy.",
-      "es": "Necesito unas tijeras para cortar el papel."
+      "en": "Can you help me pull the door?",
+      "vi": "Anh có thể giúp tôi kéo cửa không?",
+      "es": "¿Me puedes ayudar a jalar la puerta?"
     },
     "createdAt": "2025-01-28T11:37:36.635Z"
   },
@@ -51,19 +51,19 @@
     "content": {
       "answer": "kéo",
       "translation": {
-        "en": "I use scissors to cut food."
+        "en": "I helped her pull the suitcase."
       },
       "hint": "k___",
       "choices": [
-        "dao",
+        "đẩy",
         "kéo",
-        "thìa"
+        "mở"
       ],
       "language": "vi",
-      "sentence": "Tôi dùng ___ để cắt thực phẩm.",
+      "sentence": "Tôi đã giúp cô ấy ___ vali.",
       "word": "kéo",
       "translatedAnswer": {
-        "en": "scissors"
+        "en": "pull"
       }
     },
     "audioUrl": "multi_choice.mp3",

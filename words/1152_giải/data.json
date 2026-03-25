@@ -10,21 +10,21 @@
     "updatedAt": "2025-03-12T14:55:03.500Z",
     "content": {
       "translation": {
-        "en": "We need a solution for this issue."
+        "en": "I am trying to solve this math problem."
       },
       "translatedAnswer": {
-        "en": "solution"
+        "en": "solve"
       },
       "choices": [
         "giải",
-        "giải thích",
-        "giải pháp"
+        "gửi",
+        "giấu"
       ],
       "word": "giải",
       "language": "vi",
       "answer": "giải",
       "hint": "g___",
-      "sentence": "Chúng ta cần ___ cho vấn đề này."
+      "sentence": "Tôi đang cố ___ bài toán này."
     },
     "type": "multiChoiceQuiz",
     "audioUrl": "multi_choice.mp3",
@@ -76,13 +76,13 @@
       "answer": "giải",
       "language": "vi",
       "word": "giải",
-      "sentence": "Chúng ta cần ___ cho vấn đề này.",
+      "sentence": "Tôi đang cố ___ bài tập này.",
       "translation": {
-        "en": "We need a solution for this issue."
+        "en": "I am trying to solve this exercise."
       },
       "choices": [],
       "translatedAnswer": {
-        "en": "solution"
+        "en": "solve"
       }
     },
     "audioUrl": "fill_blank.mp3",
@@ -97,5 +97,5 @@
   "updatedAt": "2026-03-03T08:18:20.913Z",
   "_id": "VMuz1MFRpA78uMvDcLb4",
   "level": "B1",
-  "topic": "Sports & Games"
+  "topic": "Work & Education"
 }
