@@ -4,15 +4,15 @@
     "audioUrl": "multi_choice.mp3",
     "content": {
       "translatedAnswer": {
-        "en": "time"
+        "en": "at (time)"
       },
       "language": "vi",
       "sentence": "Tôi sẽ đến vào ___ này.",
       "word": "lúc",
       "choices": [
-        "thời gian",
+        "đang",
         "lúc",
-        "khoảng thời gian"
+        "nhưng"
       ],
       "hint": "l__c",
       "answer": "lúc",
@@ -62,7 +62,7 @@
     "createdAt": "2025-01-28T14:17:05.479Z",
     "translations": {
       "vi": "lúc",
-      "en": "time",
+      "en": "at (time)",
       "es": "tiempo"
     },
     "audioUrl": "flashcard.mp3"
@@ -82,7 +82,7 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "translatedAnswer": {
-        "en": "time"
+        "en": "at (time)"
       },
       "language": "vi",
       "sentence": "Tôi sẽ đến vào ___ này.",

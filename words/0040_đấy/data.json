@@ -2,7 +2,7 @@
   "fillBlankQuiz": {
     "content": {
       "translatedAnswer": {
-        "en": "delicious"
+        "en": "indeed / you know"
       },
       "language": "vi",
       "sentence": "Đây là món ăn ___ ngon.",
@@ -30,7 +30,7 @@
     "createdAt": "2025-03-12T13:36:39.647Z",
     "content": {
       "translatedAnswer": {
-        "en": "delicious"
+        "en": "indeed / you know"
       },
       "sentence": "Đây là món ăn ___ ngon.",
       "word": "đấy",
@@ -38,8 +38,8 @@
       "hint": "đ___y",
       "choices": [
         "đấy",
-        "đấys",
-        "ĐẤY"
+        "nhỉ",
+        "thế"
       ],
       "answer": "đấy",
       "translation": {
@@ -54,7 +54,7 @@
   ],
   "flashcard": {
     "translations": {
-      "en": "that",
+      "en": "indeed / you know",
       "es": "ese"
     },
     "example": {
@@ -64,9 +64,9 @@
     },
     "createdAt": "2025-01-28T11:21:02.375Z",
     "definitions": {
-      "en": "A demonstrative particle used to emphasize or indicate something.",
+      "en": "A sentence-ending particle used for emphasis or as a demonstrative.",
       "es": "Una partícula demostrativa utilizada para enfatizar o indicar algo.",
-      "vi": "Một từ chỉ định được sử dụng để nhấn mạnh hoặc chỉ ra điều gì đó."
+      "vi": "Một trợ từ cuối câu dùng để nhấn mạnh hoặc chỉ định."
     },
     "audioUrl": "flashcard.mp3"
   },
@@ -98,8 +98,8 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
-  "definition": "you know",
+  "definition": "indeed / you know",
   "_id": "CYihntlNfeYfeEXKKQ6i",
   "level": "A1",
   "topic": "Pronouns & Demonstratives"
-}
+}
