@@ -6,7 +6,7 @@ corresponding words/<key>/data.json file.
 import json
 import os
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAP_FILE = os.path.join(BASE_DIR, "map_data.json")
 WORDS_DIR = os.path.join(BASE_DIR, "words")
 
