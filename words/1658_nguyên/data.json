@@ -8,22 +8,20 @@
   "notes": "nguyên means whole, entire, intact — not cut, not divided, not changed.  \n\nIt’s an adjective and usually comes after the noun: something is complete in one piece or in its full state. It can also mean “unchanged” when talking about condition or situation.  \n\nVery common in fixed phrases like còn nguyên (still intact) and giữ nguyên (keep the same).  \n\nClose ideas: trọn (whole, complete, often more emotional), toàn (all, entire area/amount). Opposite idea: một phần, nửa.",
   "definition": "whole",
   "flashcard": {
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T14:01:55.323Z",
+    "definitions": {
+      "en": "Whole, entire, or unchanged.",
+      "vi": "Toàn bộ, nguyên vẹn hoặc không thay đổi.",
+      "es": "Entero, intacto o sin cambios."
+    },
     "translations": {
-      "en": "original",
-      "es": "original",
+      "en": "whole / intact",
+      "es": "entero",
       "vi": "nguyên"
     },
     "example": {
-      "es": "Este ingrediente es esencial para el plato.",
-      "vi": "Nguyên liệu này rất quan trọng cho món ăn.",
-      "en": "This ingredient is essential for the dish."
-    },
-    "definitions": {
-      "en": "Original, unaltered, or pure.",
-      "vi": "Nguyên bản, không thay đổi hoặc tinh khiết.",
-      "es": "Original, inalterado o puro."
+      "vi": "Tôi muốn ăn nguyên quả táo.",
+      "en": "I want to eat a whole apple.",
+      "es": "Quiero comer una manzana entera."
     }
   },
   "exampleSentencesTranslated": [
@@ -38,15 +36,15 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "translation": {
-        "en": "I need a basic plan."
+        "en": "The situation is still unchanged."
       },
       "translatedAnswer": {
-        "en": "basic"
+        "en": "unchanged"
       },
       "answer": "nguyên",
       "choices": [],
       "word": "nguyên",
-      "sentence": "Tôi cần một kế hoạch ___.",
+      "sentence": "Mọi thứ vẫn còn y ___.",
       "language": "vi"
     },
     "type": "fillBlankQuiz"
@@ -76,20 +74,20 @@
     "createdAt": "2025-03-12T13:19:09.143Z",
     "content": {
       "translation": {
-        "en": "Our plan is still basic."
+        "en": "Everything is still intact."
       },
       "translatedAnswer": {
-        "en": "basic"
+        "en": "intact"
       },
       "answer": "nguyên",
-      "hint": "g___n",
+      "hint": "n___n",
       "choices": [
         "nguyên",
-        "cần",
-        "mới"
+        "mới",
+        "khác"
       ],
       "word": "nguyên",
-      "sentence": "Kế hoạch của chúng ta còn rất ___.",
+      "sentence": "Mọi thứ vẫn còn y ___.",
       "language": "vi"
     },
     "id": "4eb69646-11fe-4b7d-8cb3-d688babcbe07",

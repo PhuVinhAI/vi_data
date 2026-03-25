@@ -4,26 +4,24 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
-  "notes": "thanh usually means tone — especially the pitch pattern on a syllable in Vietnamese. It’s a noun: you can say một thanh, các thanh, and it often goes with words like dấu, giọng, phát âm. Changing the thanh changes the meaning of a word, so it’s central to pronunciation.\n\nIt can also mean a bar / strip / rod (like a piece of metal or wood), counted as một thanh + vật dài, cứng. This second meaning is physical; the “tone” meaning is about sound.",
+  "notes": "thanh used as a classifier (lượng từ) means a bar, stick, or rod — something long, thin, and usually made of wood, metal, or plastic.\n\nYou use it by saying một thanh + [noun]: một thanh sắt (an iron bar), một thanh gỗ (a piece of wood). It helps describe the physical shape and count of these objects.\n\nIt can also mean 'tone' in music or language (like the pitch patterns in Vietnamese), but as a classifier, it focuses on long, solid objects.",
   "exampleSentences": [
-    "Em đang học cách phát âm đúng từng thanh trong tiếng Việt.",
-    "Mỗi từ trong tiếng Việt có thể thay đổi nghĩa khi đổi thanh.",
-    "Cô giáo giải thích rõ về các loại thanh trong bài học hôm nay."
+    "Anh ấy đang cầm một thanh gỗ lớn.",
+    "Tôi đã mua vài thanh sắt để xây nhà.",
+    "Bé đang chơi với mấy thanh nhựa màu sắc."
   ],
   "flashcard": {
+    "definitions": {
+      "vi": "Một vật dài, thường làm bằng gỗ hoặc kim loại.",
+      "en": "A long, thin object, usually made of wood or metal."
+    },
     "translations": {
-      "en": "clear (sound), tone"
+      "vi": "thanh",
+      "en": "bar / stick / rod"
     },
     "example": {
-      "vi": "Cô ấy có giọng nói rất thanh.",
-      "en": "She has a very clear voice."
-    },
-    "createdAt": "2025-05-24T16:35:37.606Z",
-    "audioUrl": "flashcard.mp3",
-    "word": "thanh",
-    "definitions": {
-      "vi": "Âm thanh cao, trong và nhẹ nhàng; cũng có thể chỉ một loại dấu trong tiếng Việt.",
-      "en": "A clear, high, and gentle sound; can also refer to a tone mark in Vietnamese."
+      "vi": "Anh ấy cầm một thanh gỗ.",
+      "en": "He is holding a wooden stick."
     }
   },
   "createdAt": "2025-01-27T21:23:43.157Z",
@@ -34,11 +32,11 @@
   ],
   "updatedAt": "2026-03-03T09:07:30.784Z",
   "exampleSentencesTranslated": [
-    "I am learning how to pronounce each tone correctly in Vietnamese.",
-    "Each word in Vietnamese can change meaning when the tone changes.",
-    "The teacher explained clearly about the types of tone in today's lesson."
+    "He is holding a large wooden stick.",
+    "I bought some iron bars to build a house.",
+    "The child is playing with colorful plastic sticks."
   ],
-  "notes_md": "**thanh** usually means **tone** — especially the pitch pattern on a syllable in Vietnamese. It’s a **noun**: you can say *một thanh, các thanh*, and it often goes with words like *dấu, giọng, phát âm*. Changing the *thanh* changes the meaning of a word, so it’s central to pronunciation.\n\nIt can also mean a **bar / strip / rod** (like a piece of metal or wood), counted as *một thanh + vật dài, cứng*. This second meaning is physical; the “tone” meaning is about sound.",
+  "notes_md": "**thanh** used as a **classifier** (lượng từ) means a **bar, stick, or rod** — something long, thin, and usually made of wood, metal, or plastic.\n\nYou use it by saying *một thanh + [noun]*: *một thanh sắt* (an iron bar), *một thanh gỗ* (a piece of wood). It helps describe the physical shape and count of these objects.\n\nIt can also mean “tone” in music or language (like the pitch patterns in Vietnamese), but as a classifier, it focuses on long, solid objects.",
   "rank": 1602,
   "multiChoiceQuiz": {
     "createdAt": "2025-03-12T16:27:47.190Z",
@@ -65,7 +63,7 @@
     },
     "updatedAt": "2025-03-12T16:27:47.190Z"
   },
-  "definition": "tone",
+  "definition": "bar / stick / rod",
   "fillBlankQuiz": {
     "id": "2bdc749e-e0b3-4279-b288-43504445ba60",
     "audioUrl": "fill_blank.mp3",

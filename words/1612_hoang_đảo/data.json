@@ -73,21 +73,19 @@
   },
   "flashcard": {
     "definitions": {
-      "es": "Un estado de estar perdido o confundido, a menudo utilizado para describir una sensación de desorientación.",
-      "vi": "Trạng thái bị lạc hoặc bối rối, thường được sử dụng để mô tả cảm giác mất phương hướng.",
-      "en": "A state of being lost or confused, often used to describe a feeling of disorientation."
+      "vi": "Một hòn đảo không có người sinh sống.",
+      "en": "An island with no inhabitants.",
+      "es": "Una isla sin habitantes."
     },
-    "audioUrl": "flashcard.mp3",
-    "example": {
-      "en": "She felt lost when there was no one around.",
-      "vi": "Cô ấy cảm thấy hoang đảo khi không có ai bên cạnh.",
-      "es": "Ella se sintió perdida cuando no había nadie alrededor."
-    },
-    "createdAt": "2025-01-28T11:19:59.331Z",
     "translations": {
-      "en": "lost",
-      "es": "perdido",
-      "vi": "hoang đảo"
+      "vi": "hoang đảo",
+      "en": "desert island",
+      "es": "isla desierta"
+    },
+    "example": {
+      "en": "He was lost on a desert island.",
+      "vi": "Anh ấy bị lạc trên một hoang đảo.",
+      "es": "Él estaba perdido en una isla desierta."
     }
   },
   "exampleSentencesTranslated": [

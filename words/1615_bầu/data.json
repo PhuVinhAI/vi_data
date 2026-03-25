@@ -9,16 +9,16 @@
     "type": "fillBlankQuiz",
     "content": {
       "translation": {
-        "en": "I like to eat squash."
+        "en": "She is in her fifth month of pregnancy."
       },
       "answer": "bầu",
       "choices": [],
       "translatedAnswer": {
-        "en": "squash"
+        "en": "pregnant"
       },
       "language": "vi",
       "word": "bầu",
-      "sentence": "Tôi thích ăn ___."
+      "sentence": "Chị ấy đang mang ___ tháng thứ 5."
     },
     "updatedAt": "2025-03-12T16:39:44.987Z",
     "id": "694143ed-9d87-48b5-ae72-8e3ad346946b",
@@ -34,22 +34,20 @@
     "northern_3.mp3"
   ],
   "flashcard": {
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T14:11:31.860Z",
     "translations": {
       "vi": "bầu",
-      "en": "gourd",
-      "es": "calabaza"
+      "en": "pregnant",
+      "es": "embarazada"
     },
     "definitions": {
-      "vi": "Một loại bí, thường được sử dụng trong nấu ăn.",
-      "en": "A type of gourd or squash, often used in cooking.",
-      "es": "Un tipo de calabaza, a menudo utilizada en la cocina."
+      "vi": "Đang mang thai con.",
+      "en": "Carrying a child in the womb.",
+      "es": "Llevar un hijo en el útero."
     },
     "example": {
-      "es": "Esta calabaza es muy deliciosa.",
-      "en": "This gourd is very delicious.",
-      "vi": "Cái bầu này rất ngon."
+      "en": "She is pregnant.",
+      "vi": "Chị ấy đang bầu.",
+      "es": "Ella está embarazada."
     }
   },
   "multiChoiceQuiz": {
@@ -62,12 +60,12 @@
         "dưa hấu"
       ],
       "translation": {
-        "en": "This dish contains squash."
+        "en": "She is in her fifth month of pregnancy."
       },
       "translatedAnswer": {
-        "en": "squash"
+        "en": "pregnant"
       },
-      "sentence": "Món ăn này có ___.",
+      "sentence": "Chị ấy đang mang ___ tháng thứ 5.",
       "hint": "b___",
       "word": "bầu"
     },
