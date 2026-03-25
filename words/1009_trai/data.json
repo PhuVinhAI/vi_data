@@ -6,12 +6,12 @@
       "choices": [],
       "word": "trai",
       "language": "vi",
-      "sentence": "Tôi muốn ăn một ___.",
+      "sentence": "Anh ấy là một người ___ tốt.",
       "translation": {
-        "en": "I want to eat a fruit."
+        "en": "He is a good boy."
       },
       "translatedAnswer": {
-        "en": "fruit"
+        "en": "boy"
       },
       "answer": "trai"
     },
@@ -29,19 +29,19 @@
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T11:06:09.351Z",
     "translations": {
-      "en": "fruit",
-      "vi": "trái cây",
-      "es": "fruta"
+      "en": "boy / male",
+      "vi": "con trai",
+      "es": "chico / varón"
     },
     "example": {
-      "es": "Esta fruta es muy deliciosa.",
-      "vi": "Cái trai này rất ngon.",
-      "en": "This fruit is very delicious."
+      "es": "Él là một con trai rất ngoan.",
+      "vi": "Anh ấy là một con trai rất ngoan.",
+      "en": "He is a very well-behaved boy."
     },
     "definitions": {
-      "vi": "Một loại trái cây, thường được gọi là 'trái cây' trong tiếng Anh.",
-      "es": "Un tipo de fruta, a menudo referido como 'fruta' en inglés.",
-      "en": "A type of fruit, often referred to as a 'fruit' in English."
+      "vi": "Một cậu bé hoặc nam giới trẻ tuổi.",
+      "es": "Un niño o un hombre joven.",
+      "en": "A boy or young male."
     }
   },
   "notes": "trai means boy or male (young). On its own, it sounds a bit bare; you’ll usually see it in common combinations.\n\nVery often it appears in compounds like con trai (son), bạn trai (boyfriend), or con trai nhỏ (little boy). When counting, use classifiers like đứa or người depending on age and context (đứa con trai, người con trai).\n\nIt contrasts with gái (girl), which helps you remember pairs like trai – gái.  \n\nBe careful: con trai = son, but trai alone doesn’t automatically mean “son.”",
@@ -58,18 +58,18 @@
       "answer": "trai",
       "hint": "tr__",
       "translatedAnswer": {
-        "en": "fruit"
+        "en": "boy"
       },
       "translation": {
-        "en": "I see a fruit on the tree."
+        "en": "He is a good boy."
       },
-      "sentence": "Tôi thấy một ___ ở trên cây.",
+      "sentence": "Anh ấy là một người ___ tốt.",
       "language": "vi",
       "word": "trai",
       "choices": [
-        "cây",
+        "con gái",
         "trai",
-        "lá"
+        "phụ nữ"
       ]
     },
     "audioUrl": "multi_choice.mp3",

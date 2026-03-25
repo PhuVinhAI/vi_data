@@ -6,14 +6,14 @@
     "createdAt": "2025-03-12T13:33:55.768Z",
     "content": {
       "choices": [],
-      "sentence": "Thời tiết hôm nay rất ___.",
+      "sentence": "Đường phố bỗng nhiên rất ___.",
       "language": "vi",
       "word": "đông",
       "translatedAnswer": {
-        "en": "cold"
+        "en": "crowded"
       },
       "translation": {
-        "en": "The weather today is very cold."
+        "en": "The street suddenly becomes very crowded."
       },
       "answer": "đông"
     },
@@ -26,19 +26,19 @@
   ],
   "flashcard": {
     "definitions": {
-      "en": "The season between autumn and spring, characterized by cold weather.",
-      "es": "La estación entre el otoño y la primavera, caracterizada por el clima frío.",
-      "vi": "Mùa giữa thu và xuân, có thời tiết lạnh."
+      "en": "Filled with many people; congested.",
+      "es": "Lleno de mucha gente; congestionado.",
+      "vi": "Có rất nhiều người; đông đúc."
     },
     "example": {
-      "en": "Winter in Vietnam is very cold.",
-      "es": "El invierno en Vietnam es muy frío.",
-      "vi": "Mùa đông ở Việt Nam rất lạnh."
+      "en": "The bus is very crowded today.",
+      "vi": "Xe buýt hôm nay rất đông.",
+      "es": "El autobús está muy lleno hoy."
     },
     "translations": {
       "vi": "đông",
-      "es": "invierno",
-      "en": "winter"
+      "es": "lleno / concurrido",
+      "en": "crowded"
     },
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T11:13:27.133Z"
@@ -55,21 +55,21 @@
     "type": "multiChoiceQuiz",
     "id": "47ad6a09-64d8-4203-97ab-08d8a7c1334b",
     "content": {
-      "sentence": "Mùa này thường rất ___.",
+      "sentence": "Thành phố này rất ___.",
       "language": "vi",
       "word": "đông",
       "choices": [
-        "nóng",
-        "mát",
-        "đông"
+        "rộng",
+        "đông",
+        "vắng"
       ],
       "answer": "đông",
-      "hint": "d___g",
+      "hint": "đ___g",
       "translatedAnswer": {
-        "en": "cold"
+        "en": "crowded"
       },
       "translation": {
-        "en": "This season is usually very cold."
+        "en": "This city is very crowded."
       }
     },
     "audioUrl": "multi_choice.mp3",
