@@ -11,17 +11,17 @@
       "language": "vi",
       "choices": [
         "với lại",
-        "và nữa",
-        "cũng như"
+        "bởi vì",
+        "mặc dù"
       ],
       "translation": {
-        "en": "I will go out with coming home."
+        "en": "I don't want to go, besides I don't have enough money."
       },
       "translatedAnswer": {
-        "en": "with"
+        "en": "besides"
       },
       "hint": "v___ lại",
-      "sentence": "Tôi sẽ đi chơi ___ về nhà."
+      "sentence": "Tôi không muốn đi, ___ tôi không có đủ tiền."
     }
   },
   "definition": "besides",
@@ -44,10 +44,10 @@
       "language": "vi",
       "answer": "với lại",
       "translation": {
-        "en": "I like to eat pho with noodles."
+        "en": "I like to eat phở, and also bun."
       },
       "translatedAnswer": {
-        "en": "with"
+        "en": "and also"
       }
     },
     "updatedAt": "2025-03-12T16:27:58.701Z"

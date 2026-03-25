@@ -51,20 +51,20 @@
     "updatedAt": "2025-03-12T13:49:49.107Z",
     "content": {
       "translation": {
-        "en": "I have been here for years."
+        "en": "Male students need to wear white shirts."
       },
       "answer": "nam",
       "choices": [
-        "tháng",
-        "tuần",
+        "nữ",
+        "bé",
         "nam"
       ],
       "hint": "n__",
       "language": "vi",
-      "sentence": "Tôi đã ở đây ___ năm.",
+      "sentence": "Học sinh ___ cần mặc áo sơ mi trắng.",
       "word": "nam",
       "translatedAnswer": {
-        "en": "years"
+        "en": "male"
       }
     },
     "createdAt": "2025-03-12T13:49:49.107Z",
@@ -78,14 +78,14 @@
   "fillBlankQuiz": {
     "content": {
       "translatedAnswer": {
-        "en": "years"
+        "en": "male"
       },
       "language": "vi",
-      "sentence": "Tôi đã ở đây ___ năm.",
+      "sentence": "Học sinh ___ cần mặc áo sơ mi trắng.",
       "word": "nam",
       "choices": [],
       "translation": {
-        "en": "I have been here for years."
+        "en": "Male students need to wear white shirts."
       },
       "answer": "nam"
     },
@@ -96,6 +96,6 @@
     "audioUrl": "fill_blank.mp3"
   },
   "_id": "FhqNL74LWKA6jmvNTKRT",
-  "level": "A2",
+  "level": "A1",
   "topic": "People & Relationships"
 }
