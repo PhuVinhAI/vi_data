@@ -15,14 +15,14 @@
     "id": "d73bc59f-d550-448f-a27d-0c0a7e7765cd",
     "content": {
       "translation": {
-        "en": "I need a boost for this project."
+        "en": "Use the jack to lift the car."
       },
       "word": "kích",
       "language": "vi",
-      "sentence": "Tôi cần ___ cho dự án này.",
+      "sentence": "Dùng ___ để nâng xe lên.",
       "choices": [],
       "translatedAnswer": {
-        "en": "boost"
+        "en": "jack"
       },
       "answer": "kích"
     },
@@ -45,22 +45,22 @@
   ],
   "multiChoiceQuiz": {
     "content": {
+      "hint": "k___",
+      "translatedAnswer": {
+        "en": "jack"
+      },
+      "answer": "kích",
       "translation": {
-        "en": "I need a boost for this project."
+        "en": "Where is the car jack?"
       },
       "word": "kích",
       "language": "vi",
-      "sentence": "Tôi cần ___ cho dự án này.",
+      "sentence": "Cái ___ ô tô ở đâu?",
       "choices": [
-        "kích",
-        "thúc",
-        "đẩy"
-      ],
-      "hint": "k____",
-      "translatedAnswer": {
-        "en": "boost"
-      },
-      "answer": "kích"
+        "cái kích",
+        "cái búa",
+        "vít"
+      ]
     },
     "id": "e49ce38f-9a67-4ec7-9673-95fd4e15a66b",
     "type": "multiChoiceQuiz",
@@ -73,22 +73,20 @@
   "word": "kích",
   "flashcard": {
     "definitions": {
-      "vi": "Kích thích hoặc gây ra một phản ứng.",
-      "en": "To stimulate or provoke a response.",
-      "es": "Estimular o provocar una respuesta."
+      "en": "A device used to lift a car or other heavy object from the ground.",
+      "vi": "Một thiết bị dùng để nâng ô tô hoặc vật nặng khác khỏi mặt đất.",
+      "es": "Un dispositivo utilizado para levantar un coche o otro objeto pesado del suelo."
     },
-    "createdAt": "2025-01-28T13:23:26.645Z",
     "example": {
-      "en": "She stimulated my curiosity.",
-      "es": "Ella estimuló mi curiosidad.",
-      "vi": "Cô ấy đã kích thích sự tò mò của tôi."
+      "en": "I used a jack to change the tire.",
+      "vi": "Tôi đã dùng kích để thay lốp xe.",
+      "es": "Usé một gato (kích) để thay lốp."
     },
     "translations": {
-      "vi": "kích",
-      "es": "estimular",
-      "en": "stimulate"
-    },
-    "audioUrl": "flashcard.mp3"
+      "vi": "cái kích",
+      "en": "jack",
+      "es": "gato"
+    }
   },
   "exampleSentencesTranslated": [
     "Can you help me use the jack to lift the car?",

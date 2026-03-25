@@ -11,13 +11,13 @@
     "content": {
       "language": "vi",
       "translation": {
-        "en": "I saw an owl on the branch."
+        "en": "He took a strong hit to the shoulder."
       },
       "word": "cú",
       "choices": [],
-      "sentence": "Tôi thấy một ___ trên cành cây.",
+      "sentence": "Anh ấy nhận một ___ mạnh vào vai.",
       "translatedAnswer": {
-        "en": "owl"
+        "en": "hit"
       },
       "answer": "cú"
     },
@@ -44,22 +44,20 @@
   ],
   "word": "cú",
   "flashcard": {
-    "createdAt": "2025-01-28T13:31:30.011Z",
     "definitions": {
-      "es": "Un ave de presa nocturna con ojos grandes y cara plana.",
-      "en": "A nocturnal bird of prey with large eyes and a flat face.",
-      "vi": "Một loài chim săn mồi hoạt động vào ban đêm với đôi mắt lớn và mặt phẳng."
+      "vi": "Một cú va chạm, đòn đánh hoặc tác động đột ngột.",
+      "en": "A hit, blow, or sudden strike (physical or figurative).",
+      "es": "Un golpe, porrazo o impacto súbito (físico o figurativo)."
+    },
+    "translations": {
+      "vi": "cú",
+      "en": "hit / blow",
+      "es": "golpe"
     },
     "example": {
-      "vi": "Con cú đang bay trên bầu trời.",
-      "en": "The owl is flying in the sky.",
-      "es": "El búho está volando en el cielo."
-    },
-    "audioUrl": "flashcard.mp3",
-    "translations": {
-      "en": "owl",
-      "es": "búho",
-      "vi": "cú"
+      "vi": "Anh ấy tung một cú đấm mạnh.",
+      "en": "He threw a powerful punch.",
+      "es": "Él lanzó một golpe mạnh."
     }
   },
   "createdAt": "2025-01-27T21:23:43.157Z",
@@ -72,18 +70,18 @@
   "multiChoiceQuiz": {
     "content": {
       "translatedAnswer": {
-        "en": "owl"
+        "en": "hit"
       },
       "answer": "cú",
-      "sentence": "Tôi thấy một ___ trên cành cây.",
+      "sentence": "Đó là một ___ ghi bàn đẹp.",
       "choices": [
-        "quạ",
         "cú",
-        "chim sẻ"
+        "xe",
+        "chân"
       ],
       "hint": "c__",
       "translation": {
-        "en": "I saw an owl on the branch."
+        "en": "That was a beautiful goal hit (strike)."
       },
       "word": "cú",
       "language": "vi"
