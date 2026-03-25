@@ -3,9 +3,9 @@
   "notes": "em = younger sibling (brother or sister). It can also mean a younger person in general, depending on who’s speaking.\n\nAs a noun, you often specify gender: em trai (younger brother), em gái (younger sister). For counting, use một người em (neutral) or đứa em (more casual, family tone).\n\nIt’s also a very common pronoun: a younger person calls themself em when talking to someone older, and the older person calls the younger one em. \n\nStrong memory link: pairs with anh / chị (older brother / older sister).",
   "rank": 984,
   "choices": [
-    "chị em",
-    "em em",
-    "anh em"
+    "chị",
+    "em",
+    "anh"
   ],
   "fillBlankQuiz": {
     "audioUrl": "fill_blank.mp3",
@@ -15,10 +15,10 @@
       "translatedAnswer": {
         "en": "you"
       },
-      "answer": "em em",
+      "answer": "em",
       "choices": [],
       "sentence": "Tôi thấy ___ ở công viên.",
-      "word": "em em",
+      "word": "em",
       "translation": {
         "en": "I see you at the park."
       },
@@ -33,51 +33,54 @@
     "southern_3.mp3"
   ],
   "exampleSentences": [
-    "Anh luôn giúp em em làm bài tập về nhà mỗi tối.",
-    "Gia đình tôi có hai em em rất dễ thương và ngoan ngoãn.",
-    "Mỗi lần về quê, chị thường mang quà cho em em của mình."
+    "Anh luôn giúp em làm bài tập về nhà mỗi tối.",
+    "Gia đình tôi có hai người em rất dễ thương.",
+    "Mỗi lần về quê, chị thường mang quà cho em của mình."
   ],
   "exampleSentencesTranslated": [
     "He always helps his younger sibling do homework every night.",
-    "My family has two younger sibling who are very cute and well-behaved.",
+    "My family has two younger siblings who are very cute.",
     "Every time she returns to her hometown, she often brings gifts for her younger sibling."
   ],
-  "word": "em em",
+  "word": "em",
   "flashcard": {
     "translations": {
-      "en": "younger siblings"
+      "vi": "em",
+      "en": "younger sibling / pronoun",
+      "es": "hermano menor / pronombre"
     },
     "audioUrl": "flashcard.mp3",
     "example": {
-      "vi": "Hai chị em em rất thân thiết với nhau.",
-      "en": "My younger sisters are very close to each other."
+      "vi": "Em gái của tôi rất thích vẽ tranh.",
+      "en": "My younger sister likes drawing pictures very much.",
+      "es": "Mi hermana menor disfruta mucho dibujando cuadros."
     },
     "definitions": {
-      "vi": "Từ dùng để chỉ những người em gái hoặc em trai, thường được lặp lại để nhấn mạnh số nhiều hoặc sự thân mật.",
-      "en": "A term referring to younger siblings, often repeated for emphasis or affection."
+      "vi": "Em trai hoặc em gái; cũng được dùng làm đại từ xưng hô với người nhỏ tuổi hơn.",
+      "en": "A younger brother or sister; also used as a pronoun for someone younger.",
+      "es": "Un hermano o hermana menor; también se usa como pronombre para alguien más joven."
     },
-    "createdAt": "2025-05-24T16:31:12.615Z",
-    "word": "em em"
+    "createdAt": "2025-05-24T16:31:12.615Z"
   },
   "createdAt": "2025-01-27T21:23:43.157Z",
   "updatedAt": "2026-03-03T08:00:43.677Z",
   "multiChoiceQuiz": {
     "content": {
-      "hint": "e___m",
-      "sentence": "Tôi thích ___ chơi với tôi.",
+      "hint": "e_m",
+      "sentence": "Chào ___, em khỏe không?",
       "choices": [
-        "chị chị",
-        "bạn bạn",
-        "em em"
+        "chị",
+        "anh",
+        "em"
       ],
       "translatedAnswer": {
         "en": "you"
       },
-      "answer": "em em",
+      "answer": "em",
       "language": "vi",
-      "word": "em em",
+      "word": "em",
       "translation": {
-        "en": "I like you to play with me."
+        "en": "Hello you, are you healthy?"
       }
     },
     "type": "multiChoiceQuiz",

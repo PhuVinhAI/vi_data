@@ -4,19 +4,19 @@
     "content": {
       "hint": "p___",
       "translation": {
-        "en": "They want to develop the project."
+        "en": "They want to hand out the gifts."
       },
       "answer": "phát",
       "word": "phát",
       "choices": [
-        "thực",
+        "nhận",
         "phát",
-        "trình"
+        "thêm"
       ],
-      "sentence": "Họ muốn ___ triển khai dự án.",
+      "sentence": "Họ muốn ___ quà cho mọi người.",
       "language": "vi",
       "translatedAnswer": {
-        "en": "develop"
+        "en": "hand out"
       }
     },
     "type": "multiChoiceQuiz",
@@ -46,19 +46,19 @@
   "flashcard": {
     "translations": {
       "vi": "phát",
-      "en": "to speak",
-      "es": "hablar"
+      "en": "to deliver / hand out",
+      "es": "entregar / repartir"
     },
     "audioUrl": "flashcard.mp3",
     "example": {
-      "en": "She speaks very confidently.",
-      "vi": "Cô ấy phát biểu rất tự tin.",
-      "es": "Ella habla con mucha confianza."
+      "en": "He delivers letters to our house.",
+      "vi": "Anh ấy phát thư đến nhà chúng tôi.",
+      "es": "Él entrega cartas a nuestra casa."
     },
     "definitions": {
-      "es": "hablar o expresar algo, a menudo en un contexto formal.",
-      "en": "to speak or express something, often in a formal context.",
-      "vi": "nói hoặc diễn đạt điều gì đó, thường trong bối cảnh trang trọng."
+      "es": "Entregar o repartir algo de forma organizada.",
+      "en": "To deliver or hand out something in an organized way.",
+      "vi": "Giao hoặc phát cái gì đó một cách có tổ chức."
     },
     "createdAt": "2025-01-28T12:17:00.401Z"
   },
@@ -70,23 +70,23 @@
   ],
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
+    "updatedAt": "2025-03-12T14:41:52.505Z",
+    "audioUrl": "fill_blank.mp3",
     "createdAt": "2025-03-12T14:41:52.505Z",
     "id": "6639f0bd-6b73-4878-bd85-d02c5d547848",
     "content": {
       "translatedAnswer": {
-        "en": "develop"
+        "en": "deliver"
       },
       "language": "vi",
-      "sentence": "Chúng ta cần ___ những ý tưởng mới.",
+      "sentence": "Anh sẽ ___ thư vào sáng mai.",
       "choices": [],
       "word": "phát",
       "answer": "phát",
       "translation": {
-        "en": "We need to develop new ideas."
+        "en": "I will deliver the letters tomorrow morning."
       }
-    },
-    "updatedAt": "2025-03-12T14:41:52.505Z",
-    "audioUrl": "fill_blank.mp3"
+    }
   },
   "exampleSentencesAudioUrlsNorthern": [
     "northern_1.mp3",
