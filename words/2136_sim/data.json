@@ -8,22 +8,20 @@
   "notes": "sim = SIM card (the small card that lets your phone connect to a mobile network).\n\nIt’s a noun. You can say một cái sim, but in real life people often just say một sim.  \nCommon pairings: lắp sim (insert a SIM), mua sim, đổi sim, sim 4G/5G, sim chính / sim phụ (main / secondary SIM).  \nYou’ll also hear sim rác = “trash SIM” (unregistered SIM used for spam).  \nVery close word: thẻ sim (same meaning, just more explicit).",
   "flashcard": {
     "definitions": {
-      "es": "Un tipo de fruta que es púrpura y crece en un arbusto, comúnmente encontrado en Vietnam.",
-      "vi": "Một loại trái cây có màu tím và mọc trên một bụi cây, thường thấy ở Việt Nam.",
-      "en": "A type of fruit that is purple and grows on a shrub, commonly found in Vietnam."
-    },
-    "example": {
-      "en": "The sim fruit has a beautiful purple color.",
-      "vi": "Quả sim có màu tím rất đẹp.",
-      "es": "La fruta sim tiene un hermoso color púrpura."
+      "en": "A small card inserted into a mobile phone to identify the user and connect to a network.",
+      "vi": "Một thẻ nhỏ được lắp vào điện thoại di động để nhận dạng người dùng và kết nối với mạng.",
+      "es": "Una pequeña tarjeta que se inserta en un teléfono móvil para identificar al usuario y conectarse a una red."
     },
     "translations": {
-      "es": "fruta sim",
-      "vi": "quả sim",
-      "en": "sim fruit"
+      "vi": "thẻ SIM",
+      "en": "SIM card",
+      "es": "tarjeta SIM"
     },
-    "createdAt": "2025-01-28T11:12:58.308Z",
-    "audioUrl": "flashcard.mp3"
+    "example": {
+      "en": "I need to buy a new SIM card.",
+      "vi": "Tôi cần mua một cái SIM mới.",
+      "es": "Necesito comprar una nueva tarjeta SIM."
+    }
   },
   "definition": "SIM card",
   "exampleSentencesTranslated": [
@@ -34,16 +32,16 @@
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Tôi thích ăn ___ chín.",
+      "sentence": "Anh lắp ___ vào máy giúp em nhé.",
       "language": "vi",
       "word": "sim",
       "choices": [],
       "answer": "sim",
       "translatedAnswer": {
-        "en": "sim"
+        "en": "SIM card"
       },
       "translation": {
-        "en": "I like to eat ripe sim."
+        "en": "Please help me insert the SIM card into the phone."
       }
     },
     "audioUrl": "fill_blank.mp3",
@@ -73,18 +71,18 @@
       "hint": "s__",
       "answer": "sim",
       "translatedAnswer": {
-        "en": "sim"
+        "en": "SIM card"
       },
       "translation": {
-        "en": "I like to eat ripe sim."
+        "en": "I need to buy a new SIM card."
       },
       "language": "vi",
-      "sentence": "Tôi thích ăn ___ chín.",
+      "sentence": "Tôi cần mua một cái ___ mới.",
       "word": "sim",
       "choices": [
-        "mận",
+        "thẻ",
         "sim",
-        "dâu"
+        "pin"
       ]
     },
     "type": "multiChoiceQuiz",

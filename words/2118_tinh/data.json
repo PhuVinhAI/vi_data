@@ -52,22 +52,20 @@
   "notes": "tinh = essence, the core or most refined part of something. On its own, it’s rarely used in conversation; you’ll mostly see it inside compound words.\n\nAs a noun element, it shows up in words like tinh thần (spirit), tinh túy (essence/best part), tinh dầu (essential oil), tinh chất (extract/serum). It gives the idea of something pure, concentrated, or fundamental.\n\nAs an adjective, tinh can mean sharp or perceptive (like sharp eyes or ears), or pure/refined depending on the word it combines with. Think of it as “refined to the core.”",
   "definition": "essence",
   "flashcard": {
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T11:06:28.047Z",
+    "definitions": {
+      "vi": "Phần cốt lõi hoặc tinh túy nhất của một cái gì đó.",
+      "en": "The core or most refined part of something.",
+      "es": "La parte central hoặc más refinada của algo."
+    },
     "translations": {
-      "vi": "tình",
-      "es": "amor",
-      "en": "love"
+      "vi": "tinh",
+      "en": "essence",
+      "es": "esencia"
     },
     "example": {
-      "es": "El amor es lo más maravilloso.",
-      "vi": "Tình yêu là điều tuyệt vời nhất.",
-      "en": "Love is the most wonderful thing."
-    },
-    "definitions": {
-      "es": "Un sentimiento de profundo afecto o apego.",
-      "vi": "Một cảm giác yêu thương sâu sắc hoặc gắn bó.",
-      "en": "A feeling of deep affection or attachment."
+      "en": "This perfume has a very special essence.",
+      "vi": "Loại nước hoa này có một mùi tinh rất đặc biệt.",
+      "es": "Este perfume tiene una esencia muy especial."
     }
   },
   "exampleSentencesTranslated": [
@@ -83,13 +81,13 @@
     "content": {
       "choices": [],
       "word": "tinh",
-      "sentence": "Tôi ___ yêu thích âm nhạc.",
+      "sentence": "Anh ấy đang nghiên cứu ___ dầu sả.",
       "language": "vi",
       "translation": {
-        "en": "I love music."
+        "en": "He is studying lemongrass essential oil."
       },
       "translatedAnswer": {
-        "en": "love"
+        "en": "essence"
       },
       "answer": "tinh"
     },

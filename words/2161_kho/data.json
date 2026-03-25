@@ -15,18 +15,18 @@
       "hint": "k__",
       "answer": "kho",
       "translatedAnswer": {
-        "en": "savory"
+        "en": "warehouse"
       },
       "translation": {
-        "en": "This dish is very savory and delicious."
+        "en": "We need to check the inventory in the warehouse."
       },
-      "sentence": "Món ăn này rất ___ và ngon.",
+      "sentence": "Chúng ta cần kiểm kê hàng trong ___.",
       "language": "vi",
       "word": "kho",
       "choices": [
-        "ngọt",
-        "mặn",
-        "kho"
+        "kho",
+        "bàn",
+        "ghế"
       ]
     },
     "updatedAt": "2025-03-12T15:35:02.899Z"
@@ -56,14 +56,14 @@
     "content": {
       "answer": "kho",
       "translation": {
-        "en": "This dish is very savory and delicious."
+        "en": "Please move these boxes into the warehouse."
       },
       "translatedAnswer": {
-        "en": "savory"
+        "en": "warehouse"
       },
       "word": "kho",
       "language": "vi",
-      "sentence": "Món ăn này rất ___ và ngon.",
+      "sentence": "Vui lòng chuyển các thùng này vào ___.",
       "choices": []
     },
     "audioUrl": "fill_blank.mp3",
@@ -77,22 +77,20 @@
   ],
   "flashcard": {
     "definitions": {
-      "en": "Salty; a term used to describe food that has a high salt content.",
-      "es": "Salado; un término utilizado para describir alimentos que tienen un alto contenido de sal.",
-      "vi": "Mặn; một thuật ngữ được sử dụng để mô tả thực phẩm có hàm lượng muối cao."
-    },
-    "example": {
-      "en": "This dish is very salty.",
-      "vi": "Món ăn này rất kho.",
-      "es": "Este plato es muy salado."
+      "en": "A large building used for storing goods.",
+      "vi": "Một tòa nhà lớn được sử dụng để lưu trữ hàng hóa.",
+      "es": "Un edificio grande utilizado para almacenar mercancías."
     },
     "translations": {
-      "en": "salty",
-      "vi": "kho",
-      "es": "salado"
+      "vi": "cái kho",
+      "en": "warehouse",
+      "es": "almacén"
     },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T13:09:32.171Z"
+    "example": {
+      "en": "All the boxes are in the warehouse.",
+      "vi": "Tất cả các thùng hàng đều nằm trong kho.",
+      "es": "Todas las cajas están en el almacén."
+    }
   },
   "definition": "warehouse",
   "_id": "g0wWt0WOVjLmfih3DZ2T",
