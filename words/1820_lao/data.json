@@ -10,23 +10,21 @@
     "southern_3.mp3"
   ],
   "flashcard": {
-    "createdAt": "2025-01-28T11:46:43.562Z",
     "translations": {
-      "en": "to work hard",
+      "en": "to rush / dash",
       "vi": "lao",
-      "es": "trabajar duro"
+      "es": "abalanzarse"
     },
     "definitions": {
-      "es": "Trabajar duro o laborar intensamente.",
-      "vi": "Làm việc chăm chỉ hoặc lao động một cách mãnh liệt.",
-      "en": "To work hard or labor intensively."
+      "vi": "Di chuyển nhanh chóng và đột ngột về phía trước.",
+      "en": "To move quickly and suddenly forward.",
+      "es": "Moverse rápida y đột ngột về phía trước."
     },
     "example": {
-      "en": "He works very hard and never seems to get tired.",
-      "vi": "Ông ấy làm việc rất chăm chỉ, không biết mệt mỏi.",
-      "es": "Él trabaja muy duro y nunca parece cansarse."
-    },
-    "audioUrl": "flashcard.mp3"
+      "en": "He rushed into the house.",
+      "vi": "Anh ấy lao vào trong nhà.",
+      "es": "Él se abalanzó hacia el interior de la casa."
+    }
   },
   "rank": 1820,
   "exampleSentencesTranslated": [
@@ -45,16 +43,16 @@
   "fillBlankQuiz": {
     "content": {
       "translatedAnswer": {
-        "en": "work hard"
+        "en": "rush"
       },
       "answer": "lao",
       "translation": {
-        "en": "I have to work hard on this."
+        "en": "He rushed outside."
       },
       "choices": [],
       "language": "vi",
       "word": "lao",
-      "sentence": "Tôi phải ___ công việc này."
+      "sentence": "Anh ấy ___ ra ngoài."
     },
     "audioUrl": "fill_blank.mp3",
     "type": "fillBlankQuiz",
@@ -71,9 +69,9 @@
     "content": {
       "answer": "lao",
       "translatedAnswer": {
-        "en": "work hard"
+        "en": "rush"
       },
-      "sentence": "Chúng ta cần phải ___ cho tương lai.",
+      "sentence": "Con mèo ___ vào con chuột.",
       "hint": "l__",
       "word": "lao",
       "language": "vi",
@@ -83,7 +81,7 @@
         "ngồi"
       ],
       "translation": {
-        "en": "We need to work hard for the future."
+        "en": "The cat rushed at the mouse."
       }
     }
   },

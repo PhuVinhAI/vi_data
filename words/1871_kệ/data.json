@@ -23,14 +23,14 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "choices": [],
-      "sentence": "Tôi để sách trên ___.",
+      "sentence": "Cứ ___ đi, đừng lo lắng.",
       "translatedAnswer": {
-        "en": "shelf"
+        "en": "ignore"
       },
       "answer": "kệ",
       "word": "kệ",
       "translation": {
-        "en": "I put the book on the shelf."
+        "en": "Just ignore it, don't worry."
       },
       "language": "vi"
     },
@@ -41,20 +41,15 @@
   "flashcard": {
     "translations": {
       "vi": "kệ",
-      "es": "estantería",
-      "en": "shelf"
+      "en": "ignore / let it be"
     },
-    "audioUrl": "flashcard.mp3",
     "definitions": {
-      "vi": "Một bề mặt phẳng nằm ngang được sử dụng để lưu trữ hoặc trưng bày đồ vật.",
-      "es": "Una superficie horizontal plana utilizada para almacenar o exhibir artículos.",
-      "en": "A flat horizontal surface used for storing or displaying items."
+      "vi": "Không quan tâm hoặc bỏ qua một điều gì đó.",
+      "en": "To not care or ignore something."
     },
-    "createdAt": "2025-01-28T13:15:29.538Z",
     "example": {
-      "es": "Puse los libros en la estantería.",
-      "en": "I put the books on the shelf.",
-      "vi": "Tôi để sách trên kệ."
+      "en": "Just ignore what he says.",
+      "vi": "Cứ kệ những gì anh ta nói."
     }
   },
   "word": "kệ",
@@ -73,19 +68,19 @@
     "id": "100d4518-cbf7-4eb4-97b2-14d899bd9ff9",
     "content": {
       "translatedAnswer": {
-        "en": "shelf"
+        "en": "ignore"
       },
       "answer": "kệ",
       "hint": "k__",
-      "sentence": "Tôi để sách trên ___.",
+      "sentence": "Anh ta nói gì thì cứ ___.",
       "choices": [
-        "bàn",
-        "ghế",
+        "nghe",
+        "hỏi",
         "kệ"
       ],
       "language": "vi",
       "translation": {
-        "en": "I put the book on the shelf."
+        "en": "Whatever he says, just ignore it."
       },
       "word": "kệ"
     }

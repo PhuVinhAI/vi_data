@@ -6,21 +6,21 @@
     "type": "multiChoiceQuiz",
     "content": {
       "translatedAnswer": {
-        "en": "star"
+        "en": "Russia"
       },
       "translation": {
-        "en": "I see a star in the sky."
+        "en": "I want to go to Russia."
       },
-      "hint": "n___a",
+      "hint": "N__",
       "word": "nga",
       "answer": "nga",
       "language": "vi",
       "choices": [
-        "nga",
-        "ngas",
-        "NGA"
+        "Pháp",
+        "Mỹ",
+        "Nga"
       ],
-      "sentence": "Tôi nhìn thấy ___ trên bầu trời."
+      "sentence": "Tôi muốn đi du lịch ___."
     },
     "updatedAt": "2025-03-12T16:14:38.560Z"
   },
@@ -41,15 +41,15 @@
     "content": {
       "choices": [],
       "language": "vi",
-      "answer": "nga",
-      "word": "nga",
+      "answer": "Nga",
+      "word": "Nga",
       "translation": {
-        "en": "I see a star in the sky."
+        "en": "I want to visit Russia."
       },
       "translatedAnswer": {
-        "en": "star"
+        "en": "Russia"
       },
-      "sentence": "Tôi nhìn thấy ___ trên bầu trời."
+      "sentence": "Tôi muốn đi thăm ___."
     }
   },
   "word": "nga",
@@ -71,22 +71,17 @@
     "Chị thích xem phim tài liệu về nga và văn hóa của nước này."
   ],
   "flashcard": {
-    "definitions": {
-      "vi": "Một thuật ngữ dùng để chỉ một người phụ nữ Nga.",
-      "en": "A term used to refer to a Russian woman.",
-      "es": "Un término utilizado para referirse a una mujer rusa."
-    },
-    "createdAt": "2025-01-28T13:46:21.396Z",
-    "audioUrl": "flashcard.mp3",
-    "example": {
-      "en": "She is a very beautiful Russian woman.",
-      "es": "Ella es una mujer rusa muy hermosa.",
-      "vi": "Cô ấy là một người nga rất xinh đẹp."
-    },
     "translations": {
-      "es": "mujer rusa",
-      "en": "Russian woman",
-      "vi": "người Nga"
+      "vi": "Nga",
+      "en": "Russia"
+    },
+    "definitions": {
+      "vi": "Một quốc gia rộng lớn nằm ở cả châu Âu và châu Á.",
+      "en": "A large country located in both Europe and Asia."
+    },
+    "example": {
+      "en": "Russia is the largest country in the world.",
+      "vi": "Nga là quốc gia lớn nhất thế giới."
     }
   },
   "choices": [
