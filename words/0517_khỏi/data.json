@@ -13,21 +13,15 @@
     "updatedAt": "2025-03-12T14:26:59.913Z",
     "content": {
       "hint": "k___i",
-      "translation": {
-        "en": "I need to get rid of this work."
-      },
-      "answer": "khỏi",
-      "word": "khỏi",
-      "choices": [
-        "khỏi",
-        "khỏis",
-        "KHỎI"
-      ],
-      "translatedAnswer": {
-        "en": "rid"
-      },
+      "sentence": "Anh đã ___ phải đi siêu thị.",
       "language": "vi",
-      "sentence": "Tôi cần ___ làm việc này."
+      "translatedAnswer": {
+        "en": "no need to"
+      },
+      "translation": {
+        "en": "He didn't need to go to the supermarket."
+      },
+      "answer": "khỏi"
     },
     "audioUrl": "multi_choice.mp3"
   },
