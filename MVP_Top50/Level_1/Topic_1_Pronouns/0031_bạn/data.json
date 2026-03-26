@@ -1,0 +1,106 @@
+{
+  "updatedAt": "2026-03-03T06:06:10.125Z",
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T12:51:49.120Z",
+    "updatedAt": "2025-03-12T12:51:49.120Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "bạn",
+      "sentence": "Tôi sẽ gặp ___ vào ngày mai.",
+      "word": "bạn",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "you"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I will meet you tomorrow."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "5c5f9933-15f6-491b-8607-d99e25699cdc"
+  },
+  "notes_md": "**bạn** = friend. It also means **you** in a friendly, equal way (same age/status).\n\nAs a noun, it’s countable: *một người bạn*, *hai người bạn*, or just *hai bạn* in casual speech. Common pairings: *bạn thân* (best friend), *bạn học* (classmate), *bạn trai / bạn gái* (boyfriend / girlfriend).\n\nAs a pronoun, **bạn** is neutral and safe when you don’t know the other person’s age. It feels friendly but not too close.\n\nPlural: **các bạn** = you guys / you all. You can also call someone directly with **bạn ơi** to get their attention.",
+  "exampleSentencesTranslated": [
+    "You and I meet a friend.",
+    "You and I call a friend.",
+    "He and I look for a friend."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "bạn",
+  "notes": "bạn = friend. It also means you in a friendly, equal way (same age/status).\n\nAs a noun, it’s countable: một người bạn, hai người bạn, or just hai bạn in casual speech. Common pairings: bạn thân (best friend), bạn học (classmate), bạn trai / bạn gái (boyfriend / girlfriend).\n\nAs a pronoun, bạn is neutral and safe when you don’t know the other person’s age. It feels friendly but not too close.\n\nPlural: các bạn = you guys / you all. You can also call someone directly with bạn ơi to get their attention.",
+  "choices": [
+    "anh",
+    "chị",
+    "bạn"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Bạn có muốn đi chơi không?",
+      "en": "Do you want to hang out, friend?",
+      "es": "¿Quieres salir, amigo?"
+    },
+    "translations": {
+      "es": "amigo",
+      "en": "friend",
+      "vi": "bạn"
+    },
+    "createdAt": "2025-01-28T14:07:20.172Z",
+    "definitions": {
+      "es": "Una persona con la que se tiene un vínculo de afecto mutuo.",
+      "en": "A person with whom one has a bond of mutual affection.",
+      "vi": "Một người mà bạn có mối quan hệ thân thiết."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "definition": "friend",
+  "rank": 31,
+  "exampleSentences": [
+    "Em và anh gặp bạn.",
+    "Chị và em gọi bạn.",
+    "Anh ấy và em tìm bạn."
+  ],
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + và (and) + anh (you male) + gặp (meet) + bạn (friend)",
+    "Chị (you female) + và (and) + em (I) + gọi (call) + bạn (friend)",
+    "Anh ấy (he) + và (and) + em (I) + tìm (look for) + bạn (friend)"
+  ],
+  "multiChoiceQuiz": {
+    "id": "902f43ed-d45b-4d5b-8d99-993eeb0d5f1d",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "hint": "b___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "you"
+      },
+      "word": "bạn",
+      "translation": {
+        "en": "Are you coming to the party?"
+      },
+      "choices": [
+        "bạn",
+        "mình",
+        "họ"
+      ],
+      "answer": "bạn",
+      "sentence": "___ có đến bữa tiệc không?"
+    },
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T12:51:49.120Z",
+    "updatedAt": "2025-03-12T12:51:49.120Z"
+  },
+  "_id": "0iaX8JjE4pnaNCzsQRLc",
+  "level": "A1",
+  "topic": "Pronouns & Titles"
+}

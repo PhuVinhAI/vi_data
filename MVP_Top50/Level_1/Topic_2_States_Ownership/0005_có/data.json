@@ -1,0 +1,107 @@
+{
+  "rank": 5,
+  "definition": "have",
+  "fillBlankQuiz": {
+    "id": "100deff3-1cc3-4b26-9c5a-8717aa1d9929",
+    "createdAt": "2025-03-12T16:50:56.258Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "have"
+      },
+      "choices": [],
+      "translation": {
+        "en": "I have a new book."
+      },
+      "answer": "có",
+      "sentence": "Tôi ___ sách mới.",
+      "word": "có"
+    },
+    "updatedAt": "2025-03-12T16:50:56.258Z",
+    "type": "fillBlankQuiz"
+  },
+  "notes_md": "**có** usually means **“have”**. You use it to say someone possesses or owns something.\n\nIt also means **“there is / there are”** when talking about existence.  \n\nFor negatives, add **không** before it: **không có** = “don’t have / there isn’t.”  \nFor yes–no questions, put **có … không?** around the main verb, or just raise your tone with **có**.  \n\nMemory tip: think of **có** as the opposite of **không có** — “have” vs. “not have / no.”",
+  "sentenceBreakdowns": [
+    "Anh (you) + có (have) + một (a) + con (classifier) + mèo (cat)",
+    "Chị (you) + có (have) + ba (three) + quyển (classifier) + sách (book)",
+    "Em (I) + có (have) + một (a) + cái (classifier) + bút (pen)"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "có",
+  "exampleSentencesTranslated": [
+    "You have a cat.",
+    "You have three books.",
+    "I have a pen."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "là",
+    "ở",
+    "có"
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "hint": "c__",
+      "word": "có",
+      "sentence": "Chúng ta ___ thời gian để học.",
+      "translation": {
+        "en": "We have time to study."
+      },
+      "answer": "có",
+      "choices": [
+        "không",
+        "có",
+        "đã"
+      ],
+      "translatedAnswer": {
+        "en": "have"
+      },
+      "language": "vi"
+    },
+    "updatedAt": "2025-03-12T16:50:56.258Z",
+    "id": "9cb05382-d9aa-4dd0-8f2e-fe31b65e82b8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:50:56.258Z"
+  },
+  "exampleSentences": [
+    "Anh có một con mèo.",
+    "Chị có ba quyển sách.",
+    "Em có một cái bút."
+  ],
+  "updatedAt": "2026-03-03T06:03:22.209Z",
+  "flashcard": {
+    "word": "có",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:37:11.750Z",
+    "translations": {
+      "en": "have; there is/are",
+      "vi": "có",
+      "es": "tener"
+    },
+    "example": {
+      "vi": "Tôi có một người bạn tốt.",
+      "en": "I have a good friend.",
+      "es": ""
+    },
+    "definitions": {
+      "en": "A word used to indicate possession or the existence of something.",
+      "vi": "Từ dùng để chỉ sự sở hữu hoặc sự tồn tại của một điều gì đó.",
+      "es": "tener"
+    }
+  },
+  "notes": "có usually means “have”. You use it to say someone possesses or owns something.\n\nIt also means “there is / there are” when talking about existence.  \n\nFor negatives, add không before it: không có = “don’t have / there isn’t.”  \nFor yes–no questions, put có … không? around the main verb, or just raise your tone with có.  \n\nMemory tip: think of có as the opposite of không có — “have” vs. “not have / no.”",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "_id": "zKm3M7nAlsdRQAD5ISKL",
+  "level": "A1",
+  "topic": "Core Verbs"
+}

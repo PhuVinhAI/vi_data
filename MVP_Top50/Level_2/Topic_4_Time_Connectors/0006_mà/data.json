@@ -1,0 +1,106 @@
+{
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:28:46.925Z",
+    "type": "multiChoiceQuiz",
+    "id": "1917653e-24bf-4c1f-b279-e70d188963c0",
+    "content": {
+      "translatedAnswer": {
+        "en": "but"
+      },
+      "translation": {
+        "en": "I like fish but you like meat."
+      },
+      "hint": "m__",
+      "answer": "mà",
+      "choices": [
+        "và",
+        "mà",
+        "nhưng"
+      ],
+      "sentence": "Tôi thích cá ___ bạn thích thịt.",
+      "language": "vi",
+      "word": "mà"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:28:46.925Z"
+  },
+  "notes_md": "**mà** usually means **“but”** — it connects two ideas that contrast. It’s a simple, very common linker.\n\nIt joins two clauses, like English “but,” without changing word order.  \n\nIt can also soften a correction or remind someone of something, almost like “but hey” or “you know” in tone.\n\nStrong synonym to remember: **nhưng** (more formal “but”); **mà** feels lighter and more conversational.",
+  "rank": 6,
+  "choices": [
+    "và",
+    "mà",
+    "nhưng"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + muốn (want) + nước (water) + mà (but) + anh (you) + muốn (want) + trà (tea)",
+    "Anh (you) + thích (like) + cá (fish) + mà (but) + em (I) + thích (like) + gà (chicken)",
+    "Chị (you) + mua (buy) + bánh (cake) + mà (but) + mẹ (mom) + mua (buy) + sữa (milk)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "mà",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:28:46.925Z",
+    "id": "3ec88e26-74dc-4199-8cf7-58f817e31215",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:28:46.925Z",
+    "content": {
+      "choices": [],
+      "language": "vi",
+      "sentence": "Tôi biết ___ điều đó.",
+      "word": "mà",
+      "translatedAnswer": {
+        "en": "that"
+      },
+      "translation": {
+        "en": "I know that."
+      },
+      "answer": "mà"
+    },
+    "type": "fillBlankQuiz"
+  },
+  "exampleSentencesTranslated": [
+    "I want water but you want tea.",
+    "You like fish but I like chicken.",
+    "You buy cake but mom buys milk."
+  ],
+  "flashcard": {
+    "example": {
+      "es": "Me gusta comer fruta sin azúcar.",
+      "vi": "Tôi thích ăn trái cây mà không có đường.",
+      "en": "I like to eat fruit without sugar."
+    },
+    "definitions": {
+      "en": "a conjunction used to indicate contrast or exception",
+      "es": "una conjunción utilizada para indicar contraste o excepción",
+      "vi": "một liên từ được sử dụng để chỉ sự tương phản hoặc ngoại lệ"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T14:15:35.270Z",
+    "translations": {
+      "en": "but",
+      "es": "pero",
+      "vi": "mà"
+    }
+  },
+  "definition": "but",
+  "notes": "mà usually means “but” — it connects two ideas that contrast. It’s a simple, very common linker.\n\nIt joins two clauses, like English “but,” without changing word order.  \n\nIt can also soften a correction or remind someone of something, almost like “but hey” or “you know” in tone.\n\nStrong synonym to remember: nhưng (more formal “but”); mà feels lighter and more conversational.",
+  "updatedAt": "2026-03-03T06:03:35.892Z",
+  "exampleSentences": [
+    "Em muốn nước mà anh muốn trà.",
+    "Anh thích cá mà em thích gà.",
+    "Chị mua bánh mà mẹ mua sữa."
+  ],
+  "_id": "AbSxtFPprlQWt2fTO8Mw",
+  "level": "A2",
+  "topic": "Conjunctions & Connectors"
+}

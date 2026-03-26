@@ -1,0 +1,107 @@
+{
+  "exampleSentencesTranslated": [
+    "I already ate dinner.",
+    "He already drank orange juice.",
+    "She already watched that movie."
+  ],
+  "updatedAt": "2026-03-03T06:06:57.734Z",
+  "flashcard": {
+    "translations": {
+      "en": "already",
+      "vi": "rồi",
+      "es": "ya"
+    },
+    "example": {
+      "en": "I have eaten already.",
+      "vi": "Tôi ăn cơm rồi.",
+      "es": ""
+    },
+    "word": "rồi",
+    "createdAt": "2025-05-24T16:34:20.777Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A word used to indicate that an action has been completed or has already happened.",
+      "vi": "Từ dùng để chỉ một hành động đã hoàn thành hoặc đã xảy ra.",
+      "es": "ya"
+    }
+  },
+  "choices": [
+    "chưa",
+    "rồi",
+    "đã"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentences": [
+    "Em ăn cơm tối rồi.",
+    "Anh uống nước cam tươi rồi.",
+    "Chị xem phim đó rồi."
+  ],
+  "notes": "rồi usually means “already.” It shows that something is finished or has happened.\n\nPut rồi at the end of a clause to mark completion.  \n\nIt can also mean “then/after that” to show sequence: do this first, rồi do the next thing.\n\nFor negatives, use chưa instead (chưa = not yet), which is the natural opposite in meaning.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "rồi",
+  "sentenceBreakdowns": [
+    "Em (I) + ăn (eat) + cơm tối (dinner) + rồi (already)",
+    "Anh (he) + uống (drink) + nước cam tươi (orange juice) + rồi (already)",
+    "Chị (she) + xem (watch) + phim đó (that movie) + rồi (already)"
+  ],
+  "fillBlankQuiz": {
+    "id": "bfd11deb-9bd8-492b-ad05-fabf41630d91",
+    "createdAt": "2025-03-12T17:22:34.847Z",
+    "audioUrl": "fill_blank.mp3",
+    "updatedAt": "2025-03-12T17:22:34.847Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "rồi",
+      "language": "vi",
+      "word": "rồi",
+      "choices": [],
+      "translation": {
+        "en": "He already ate."
+      },
+      "translatedAnswer": {
+        "en": "already"
+      },
+      "sentence": "Anh ấy ăn cơm ___."
+    }
+  },
+  "definition": "already",
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Anh ấy ăn cơm ___.",
+      "word": "rồi",
+      "choices": [
+        "rồi",
+        "chưa",
+        "nữa"
+      ],
+      "language": "vi",
+      "answer": "rồi",
+      "hint": "r___",
+      "translation": {
+        "en": "He already ate."
+      },
+      "translatedAnswer": {
+        "en": "already"
+      }
+    },
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T17:22:34.847Z",
+    "createdAt": "2025-03-12T17:22:34.847Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "560fb5eb-32dc-4fa5-a31e-8c0268ccb451"
+  },
+  "rank": 38,
+  "notes_md": "**rồi** usually means **“already.”** It shows that something is finished or has happened.\n\nPut **rồi** at the end of a clause to mark completion.  \n\nIt can also mean **“then/after that”** to show sequence: do this first, rồi do the next thing.\n\nFor negatives, use **chưa** instead (chưa = not yet), which is the natural opposite in meaning.",
+  "_id": "qbdBt9VBzybCYy7ANNmX",
+  "level": "A1",
+  "topic": "Time & Tenses"
+}

@@ -1,0 +1,106 @@
+{
+  "updatedAt": "2026-03-03T06:06:16.511Z",
+  "choices": [
+    "những",
+    "mấy",
+    "các"
+  ],
+  "exampleSentencesTranslated": [
+    "The children drink warm milk.",
+    "The men buy fresh fruit.",
+    "The women read new books."
+  ],
+  "notes": "các = “the” for plural nouns, or simply marks that something is plural. It makes a noun clearly more than one.\n\nIt goes before a noun and does not need a classifier. Don’t use it with numbers (not các hai người).\n\nIt often sounds definite or specific, like “the …” in English, not just “some.” Compared to những, các feels more formal and general, while những is more flexible and common in speech.",
+  "sentenceBreakdowns": [
+    "các (the) + con (children) + uống (drink) + sữa (milk) + ấm (warm)",
+    "các (the) + anh (men) + mua (buy) + trái (fruit) + cây (fruit) + tươi (fresh)",
+    "các (the) + chị (women) + đọc (read) + sách (books) + mới (new)"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:08:03.692Z",
+    "updatedAt": "2025-03-12T14:08:03.692Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Tôi đã gặp ___ bạn tôi.",
+      "word": "các",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I met my friends."
+      },
+      "answer": "các",
+      "translatedAnswer": {
+        "en": "friends"
+      }
+    },
+    "id": "021e98c7-15ea-42f8-be68-7bbdfa3f2d38"
+  },
+  "definition": "the",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "các",
+  "multiChoiceQuiz": {
+    "id": "2f3e521b-d896-4880-8edd-4fa4d4c44644",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "answer": "các",
+      "translatedAnswer": {
+        "en": "these"
+      },
+      "sentence": "Tôi có ___ cuốn sách này.",
+      "hint": "c___",
+      "word": "các",
+      "language": "vi",
+      "choices": [
+        "một",
+        "các",
+        "nhiều"
+      ],
+      "translation": {
+        "en": "I have these books."
+      }
+    },
+    "updatedAt": "2025-03-12T14:08:03.692Z",
+    "createdAt": "2025-03-12T14:08:03.692Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**các** = “the” for plural nouns, or simply marks that something is plural. It makes a noun clearly more than one.\n\nIt goes **before a noun** and does not need a classifier. Don’t use it with numbers (not *các hai người*).\n\nIt often sounds definite or specific, like “the …” in English, not just “some.” Compared to **những**, *các* feels more formal and general, while *những* is more flexible and common in speech.",
+  "exampleSentences": [
+    "các con uống sữa ấm.",
+    "các anh mua trái cây tươi.",
+    "các chị đọc sách mới."
+  ],
+  "flashcard": {
+    "definitions": {
+      "en": "A plural marker used to indicate a group or collection.",
+      "es": "Un marcador plural utilizado para indicar un grupo o colección.",
+      "vi": "Một từ chỉ số nhiều dùng để chỉ một nhóm hoặc tập hợp."
+    },
+    "translations": {
+      "vi": "các",
+      "es": "todos, cada, varios",
+      "en": "all, each, various"
+    },
+    "createdAt": "2025-01-28T11:50:59.359Z",
+    "example": {
+      "es": "¿Quieren salir todos?",
+      "vi": "Các bạn có muốn đi chơi không?",
+      "en": "Do you all want to go out?"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 32,
+  "_id": "KRrXJO4Ply4GbYAbSbU2",
+  "level": "A2",
+  "topic": "Numbers & Quantifiers"
+}

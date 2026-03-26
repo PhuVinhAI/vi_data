@@ -1,0 +1,106 @@
+{
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "es": "ir; moverse de un lugar a otro",
+      "vi": "đi; di chuyển từ nơi này đến nơi khác",
+      "en": "to go; to move from one place to another"
+    },
+    "createdAt": "2025-01-28T13:02:04.378Z",
+    "example": {
+      "es": "Voy a la escuela todos los días.",
+      "vi": "Tôi đi học mỗi ngày.",
+      "en": "I go to school every day."
+    },
+    "translations": {
+      "es": "ir",
+      "en": "go",
+      "vi": "đi"
+    }
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "definition": "go",
+  "rank": 33,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Em đi chợ mỗi buổi sáng.",
+    "Anh đi siêu thị mỗi tuần.",
+    "Chị đi công viên chiều nay."
+  ],
+  "multiChoiceQuiz": {
+    "createdAt": "2025-03-12T12:53:35.011Z",
+    "updatedAt": "2025-03-12T12:53:35.011Z",
+    "content": {
+      "word": "đi",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "go"
+      },
+      "hint": "d__",
+      "translation": {
+        "en": "Do you want to go?"
+      },
+      "choices": [
+        "đi",
+        "ở",
+        "đứng"
+      ],
+      "answer": "đi",
+      "sentence": "Bạn có muốn ___ không?"
+    },
+    "type": "multiChoiceQuiz",
+    "id": "1f98ccf3-d027-4f80-aa10-503f938c8242",
+    "audioUrl": "multi_choice.mp3"
+  },
+  "sentenceBreakdowns": [
+    "Em (I) + đi (go) + chợ (market) + mỗi (every) + buổi (period) + sáng (morning)",
+    "Anh (I) + đi (go) + siêu thị (supermarket) + mỗi (every) + tuần (week)",
+    "Chị (I) + đi (go) + công viên (park) + chiều nay (this afternoon)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "word": "đi",
+  "choices": [
+    "đến",
+    "chạy",
+    "đi"
+  ],
+  "notes": "đi = “to go.” It’s the basic verb for moving from one place to another.\n\nUse đi + place for destinations, and đi + activity/work for purpose.  \n\nIt also softens commands or suggestions at the end of a sentence (like “Go on” / “Let’s”).  \nClose opposite for memory: đến = arrive.",
+  "notes_md": "**đi** = “to go.” It’s the basic verb for moving from one place to another.\n\nUse **đi + place** for destinations, and **đi + activity/work** for purpose.  \n\nIt also softens commands or suggestions at the end of a sentence (like “Go on” / “Let’s”).  \nClose opposite for memory: **đến** = arrive.",
+  "exampleSentencesTranslated": [
+    "I go to the market every morning.",
+    "I go to the supermarket every week.",
+    "I go to the park this afternoon."
+  ],
+  "updatedAt": "2026-03-03T06:06:23.048Z",
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Chúng ta nên ___ đến công viên.",
+      "answer": "đi",
+      "choices": [],
+      "translation": {
+        "en": "We should go to the park."
+      },
+      "translatedAnswer": {
+        "en": "go"
+      },
+      "language": "vi",
+      "word": "đi"
+    },
+    "audioUrl": "fill_blank.mp3",
+    "id": "790a16c5-c9ae-4927-865d-c35b0e9117a9",
+    "createdAt": "2025-03-12T12:53:35.011Z",
+    "updatedAt": "2025-03-12T12:53:35.011Z"
+  },
+  "_id": "1DFObPGHyebo77sL1oiH",
+  "level": "A1",
+  "topic": "Core Verbs"
+}

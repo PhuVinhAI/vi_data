@@ -1,0 +1,106 @@
+{
+  "exampleSentences": [
+    "Em thích trái cây như táo.",
+    "Anh mua đồ như sữa.",
+    "Chị ăn món như phở."
+  ],
+  "updatedAt": "2026-03-03T06:05:03.228Z",
+  "notes": "như = “like” or “as.” You use it to compare things or give examples.\n\nIt links two parts of a sentence to show similarity.  \n\nIt can also introduce examples, similar to “such as.” In casual speech, như là is often used the same way (slightly softer, more filler-like).\n\nAnother very common meaning is “as if.”  \n\nThink: giống = similar (more about similarity itself), while như is the connector that makes the comparison.",
+  "definition": "like",
+  "flashcard": {
+    "translations": {
+      "en": "like",
+      "es": "como",
+      "vi": "như"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T12:58:18.744Z",
+    "definitions": {
+      "en": "Used to indicate similarity or comparison.",
+      "es": "Se utiliza para indicar similitud o comparación.",
+      "vi": "Được sử dụng để chỉ sự tương đồng hoặc so sánh."
+    },
+    "example": {
+      "en": "She sings like an angel.",
+      "es": "Ella canta como un ángel.",
+      "vi": "Cô ấy hát như một thiên thần."
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "14a8db63-dad4-46b3-9936-1d92f9d594ef",
+    "createdAt": "2025-03-12T13:29:17.137Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "như",
+      "translatedAnswer": {
+        "en": "like"
+      },
+      "translation": {
+        "en": "She sings like a bird."
+      },
+      "sentence": "Cô ấy hát ___ chim.",
+      "language": "vi",
+      "word": "như",
+      "choices": []
+    },
+    "updatedAt": "2025-03-12T13:29:17.137Z"
+  },
+  "exampleSentencesTranslated": [
+    "I like fruit like apples.",
+    "He buys things like milk.",
+    "She eats dishes like pho."
+  ],
+  "word": "như",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "choices": [
+    "và",
+    "như",
+    "với"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + thích (like) + trái cây (fruit) + như (like) + táo (apples)",
+    "Anh (he) + mua (buys) + đồ (things) + như (like) + sữa (milk)",
+    "Chị (she) + ăn (eats) + món (dishes) + như (like) + phở (pho)"
+  ],
+  "rank": 20,
+  "notes_md": "**như** = “like” or “as.” You use it to compare things or give examples.\n\nIt links two parts of a sentence to show similarity.  \n\nIt can also introduce examples, similar to “such as.” In casual speech, **như là** is often used the same way (slightly softer, more filler-like).\n\nAnother very common meaning is “as if.”  \n\nThink: **giống** = similar (more about similarity itself), while **như** is the connector that makes the comparison.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "id": "7ae59a16-a2be-4f25-8242-db967bceceba",
+    "content": {
+      "choices": [
+        "với",
+        "như",
+        "trong"
+      ],
+      "sentence": "Cô ấy hát ___ chim.",
+      "language": "vi",
+      "word": "như",
+      "translatedAnswer": {
+        "en": "like"
+      },
+      "translation": {
+        "en": "She sings like a bird."
+      },
+      "hint": "n__",
+      "answer": "như"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:29:17.137Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T13:29:17.137Z"
+  },
+  "_id": "AirZP9kIvVvgiE7AUPqT",
+  "level": "A2",
+  "topic": "Comparisons"
+}

@@ -1,0 +1,106 @@
+{
+  "exampleSentencesTranslated": [
+    "The older sister buys two loaves of bread.",
+    "The older sister drinks a glass of iced tea.",
+    "The older sister watches cartoons."
+  ],
+  "notes": "chị = older sister. It’s used for your real older sister, but also as a pronoun for a woman slightly older than you.\n\nIn families, it contrasts with em (younger sibling). To be clear, people often say chị gái (older sister). When counting, use người chị if you need a classifier.\n\nAs a pronoun, chị can mean “I” (if she’s older than the listener) or “you” (if she’s older than you). Think of it as age-based, not just family-based.",
+  "updatedAt": "2026-03-03T06:07:32.362Z",
+  "choices": [
+    "anh",
+    "em",
+    "chị"
+  ],
+  "definition": "older sister",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T14:03:02.540Z",
+    "createdAt": "2025-03-12T14:03:02.540Z",
+    "id": "7986d47e-67dd-4b00-b3f5-7cc9affbbf0f",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "answer": "chị",
+      "translatedAnswer": {
+        "en": "sister"
+      },
+      "sentence": "Tôi gặp ___ ở trường.",
+      "word": "chị",
+      "choices": [],
+      "language": "vi",
+      "translation": {
+        "en": "I met my sister at school."
+      }
+    }
+  },
+  "sentenceBreakdowns": [
+    "chị (older sister) + mua (buy) + hai (two) + cái (classifier) + bánh mì (bread)",
+    "chị (older sister) + uống (drink) + một (one) + ly (glass) + trà đá (iced tea)",
+    "chị (older sister) + xem (watch) + phim hoạt hình (cartoons)"
+  ],
+  "word": "chị",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "choices": [
+        "chị",
+        "bạn",
+        "em"
+      ],
+      "translation": {
+        "en": "I called my sister."
+      },
+      "sentence": "Tôi gọi ___ của tôi.",
+      "hint": "c___",
+      "word": "chị",
+      "answer": "chị",
+      "translatedAnswer": {
+        "en": "sister"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "id": "25ee93e2-ba1f-4323-8092-8776e399c375",
+    "createdAt": "2025-03-12T14:03:02.540Z",
+    "updatedAt": "2025-03-12T14:03:02.540Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "notes_md": "**chị** = older sister. It’s used for your real older sister, but also as a pronoun for a woman slightly older than you.\n\nIn families, it contrasts with **em** (younger sibling). To be clear, people often say **chị gái** (older sister). When counting, use **người chị** if you need a classifier.\n\nAs a pronoun, **chị** can mean “I” (if she’s older than the listener) or “you” (if she’s older than you). Think of it as age-based, not just family-based.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "chị mua hai cái bánh mì.",
+    "chị uống một ly trà đá.",
+    "chị xem phim hoạt hình."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T13:49:15.331Z",
+    "translations": {
+      "es": "hermana",
+      "vi": "chị",
+      "en": "sister"
+    },
+    "definitions": {
+      "vi": "Cách xưng hô với người phụ nữ lớn tuổi hơn mình một chút.",
+      "en": "An informal term used to refer to an older sister or a female friend.",
+      "es": "Un término informal utilizado para referirse a una hermana mayor o a una amiga."
+    },
+    "example": {
+      "en": "My sister is very smart.",
+      "vi": "Chị tôi rất thông minh.",
+      "es": "Mi hermana es muy inteligente."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 44,
+  "_id": "JQ5xeWw0pPgAkKLVNRVe",
+  "level": "A1",
+  "topic": "Pronouns & Titles"
+}

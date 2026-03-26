@@ -1,0 +1,107 @@
+{
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T14:59:17.466Z",
+    "content": {
+      "translation": {
+        "en": "We will meet on the weekend."
+      },
+      "choices": [
+        "sẽ",
+        "có",
+        "không"
+      ],
+      "translatedAnswer": {
+        "en": "will"
+      },
+      "word": "sẽ",
+      "language": "vi",
+      "hint": "s__",
+      "answer": "sẽ",
+      "sentence": "Chúng ta ___ gặp nhau vào cuối tuần."
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "createdAt": "2025-03-12T14:59:17.466Z",
+    "id": "16a0cab1-605c-47ce-8b7d-4390424fa941"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "exampleSentences": [
+    "Anh sẽ mua bánh mì.",
+    "Chị sẽ gọi mẹ tối nay.",
+    "Em sẽ học tiếng Việt."
+  ],
+  "notes": "sẽ means will — it marks future actions or intentions.\n\nIt goes before the verb to show something hasn’t happened yet but is planned, expected, or predicted.  \n\nIt doesn’t change form, and you don’t need to conjugate the verb after it.  \nFor time contrast: đã = past, đang = happening now, sẽ = future — nice three-way memory hook.",
+  "word": "sẽ",
+  "choices": [
+    "đã",
+    "sẽ",
+    "đang"
+  ],
+  "rank": 17,
+  "notes_md": "**sẽ** means *will* — it marks future actions or intentions.\n\nIt goes before the verb to show something hasn’t happened yet but is planned, expected, or predicted.  \n\nIt doesn’t change form, and you don’t need to conjugate the verb after it.  \nFor time contrast: **đã** = past, **đang** = happening now, **sẽ** = future — nice three-way memory hook.",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "definition": "will",
+  "updatedAt": "2026-03-03T06:04:38.905Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "id": "a96fa108-83c4-42c4-9d1e-5110b95a3ba0",
+    "updatedAt": "2025-03-12T14:59:17.466Z",
+    "content": {
+      "sentence": "Tôi ___ đi du lịch vào mùa hè.",
+      "answer": "sẽ",
+      "word": "sẽ",
+      "language": "vi",
+      "choices": [],
+      "translatedAnswer": {
+        "en": "will"
+      },
+      "translation": {
+        "en": "I will travel in the summer."
+      }
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "createdAt": "2025-03-12T14:59:17.466Z"
+  },
+  "sentenceBreakdowns": [
+    "Anh (he) + sẽ (will) + mua (buy) + bánh mì (bread)",
+    "Chị (she) + sẽ (will) + gọi (call) + mẹ (mom) + tối nay (tonight)",
+    "Em (I) + sẽ (will) + học (study) + tiếng Việt (Vietnamese)"
+  ],
+  "exampleSentencesTranslated": [
+    "He will buy bread.",
+    "She will call mom tonight.",
+    "I will study Vietnamese."
+  ],
+  "flashcard": {
+    "translations": {
+      "en": "will",
+      "vi": "sẽ",
+      "es": "futuro"
+    },
+    "example": {
+      "en": "Tomorrow I will go to school.",
+      "vi": "Ngày mai tôi sẽ đi học.",
+      "es": ""
+    },
+    "createdAt": "2025-05-24T16:23:02.554Z",
+    "definitions": {
+      "en": "A word used to indicate an action or event that will happen in the future.",
+      "vi": "Từ dùng để chỉ hành động hoặc sự việc sẽ xảy ra trong tương lai.",
+      "es": "futuro"
+    },
+    "audioUrl": "flashcard.mp3",
+    "word": "sẽ"
+  },
+  "_id": "WkalWrvELdW0DHB0n6ZN",
+  "level": "A1",
+  "topic": "Time & Tenses"
+}

@@ -1,0 +1,107 @@
+{
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes_md": "**của** means “of” and shows possession, like the ’s in English. It links two nouns to show that something belongs to someone or something.\n\n\nThe thing owned comes first, then **của**, then the owner. You can also use **của + pronoun** alone to mean “mine/yours/his…” after a noun. It’s neutral and works in almost all possession situations.",
+  "sentenceBreakdowns": [
+    "Em (I) + giữ (keep) + ảnh (photo) + của (of) + gia đình (family)",
+    "Anh (he) + đọc (read) + sách (book) + của (of) + bé (child)",
+    "Chị (she) + mang (carry) + túi (bag) + của (of) + mẹ (mother)"
+  ],
+  "rank": 11,
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T16:51:57.119Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "b1606631-19a8-477c-883d-3e83ec7f3c32",
+    "content": {
+      "answer": "của",
+      "translation": {
+        "en": "This is my book."
+      },
+      "choices": [],
+      "translatedAnswer": {
+        "en": "my"
+      },
+      "language": "vi",
+      "word": "của",
+      "sentence": "Đây là cuốn sách ___ tôi."
+    },
+    "updatedAt": "2025-03-12T16:51:57.119Z",
+    "type": "fillBlankQuiz"
+  },
+  "definition": "of",
+  "notes": "của means “of” and shows possession, like the ’s in English. It links two nouns to show that something belongs to someone or something.\n\nThe thing owned comes first, then của, then the owner. You can also use của + pronoun alone to mean “mine/yours/his…” after a noun. It’s neutral and works in almost all possession situations.",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "flashcard": {
+    "example": {
+      "vi": "Đây là sách của tôi.",
+      "en": "This is my book.",
+      "es": ""
+    },
+    "definitions": {
+      "en": "A word used to indicate possession or belonging.",
+      "vi": "Từ dùng để chỉ sự sở hữu hoặc thuộc về ai, cái gì.",
+      "es": ""
+    },
+    "translations": {
+      "en": "of; belonging to",
+      "vi": "của",
+      "es": ""
+    },
+    "createdAt": "2025-05-24T16:37:22.497Z",
+    "word": "của",
+    "audioUrl": "flashcard.mp3"
+  },
+  "updatedAt": "2026-03-03T06:04:05.743Z",
+  "exampleSentences": [
+    "Em giữ ảnh của gia đình.",
+    "Anh đọc sách của bé.",
+    "Chị mang túi của mẹ."
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:51:57.119Z",
+    "id": "8cb2cade-e0be-46f4-af8d-37ca67dae495",
+    "type": "multiChoiceQuiz",
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "That is my friend."
+      },
+      "choices": [
+        "của",
+        "và",
+        "là"
+      ],
+      "answer": "của",
+      "translatedAnswer": {
+        "en": "my"
+      },
+      "sentence": "Đó là người bạn ___ tôi.",
+      "hint": "c__",
+      "word": "của"
+    },
+    "updatedAt": "2025-03-12T16:51:57.119Z"
+  },
+  "choices": [
+    "trong",
+    "với",
+    "của"
+  ],
+  "word": "của",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesTranslated": [
+    "I keep the photo of the family.",
+    "He reads the book of the child.",
+    "She carries the bag of her mother."
+  ],
+  "_id": "zfwkXcAS9fcf8txa5NbW",
+  "level": "A1",
+  "topic": "Grammar & Particles"
+}

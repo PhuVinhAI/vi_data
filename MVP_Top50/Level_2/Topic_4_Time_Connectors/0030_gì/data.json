@@ -1,0 +1,106 @@
+{
+  "rank": 30,
+  "exampleSentencesTranslated": [
+    "What do you want to eat tonight?",
+    "What do you need to buy at the market?",
+    "What are you looking for in the bag?"
+  ],
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "id": "6a5078d5-7934-4c4a-8402-80c4f134cf82",
+    "createdAt": "2025-03-12T14:38:17.719Z",
+    "type": "multiChoiceQuiz",
+    "updatedAt": "2025-03-12T14:38:17.719Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "what"
+      },
+      "language": "vi",
+      "sentence": "Bạn muốn biết ___?",
+      "translation": {
+        "en": "Do you want to know what?"
+      },
+      "answer": "gì",
+      "hint": "g__",
+      "word": "gì",
+      "choices": [
+        "ai",
+        "gì",
+        "đâu"
+      ]
+    }
+  },
+  "word": "gì",
+  "updatedAt": "2026-03-03T06:06:04.047Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Anh (you) + muốn (want) + ăn (eat) + gì (what) + tối nay (tonight)",
+    "Chị (you) + cần (need) + mua (buy) + gì (what) + ở chợ (at the market)",
+    "Em (you) + đang (be -ing) + tìm (look for) + gì (what) + trong túi (in the bag)"
+  ],
+  "choices": [
+    "ai",
+    "gì",
+    "đâu"
+  ],
+  "notes": "gì means “what”. You use it to ask about a thing, action, or information you don’t know.\n\nIt usually comes at the end of the question, after the verb.  \n\nYou’ll often hear cái gì for extra clarity or emphasis — it still means “what,” just a bit more explicit.  \n\nIn negative sentences, không … gì means “not … anything” (không nói gì = not say anything).  \n\nIt can also soften or downplay something in phrases like có gì đâu (“it’s nothing / no big deal”).",
+  "flashcard": {
+    "translations": {
+      "es": "qué",
+      "vi": "gì",
+      "en": "what"
+    },
+    "audioUrl": "flashcard.mp3",
+    "example": {
+      "vi": "Bạn đang làm gì?",
+      "en": "What are you doing?",
+      "es": "¿Qué estás haciendo?"
+    },
+    "definitions": {
+      "es": "Se utiliza para pedir información sobre algo.",
+      "vi": "Dùng để hỏi thông tin về một điều gì đó.",
+      "en": "Used to ask for information about something."
+    },
+    "createdAt": "2025-01-28T12:13:57.958Z"
+  },
+  "exampleSentences": [
+    "Anh muốn ăn gì tối nay?",
+    "Chị cần mua gì ở chợ?",
+    "Em đang tìm gì trong túi?"
+  ],
+  "notes_md": "**gì** means **“what”**. You use it to ask about a thing, action, or information you don’t know.\n\nIt usually comes **at the end of the question**, after the verb.  \n\nYou’ll often hear **cái gì** for extra clarity or emphasis — it still means “what,” just a bit more explicit.  \n\nIn negative sentences, **không … gì** means “not … anything” (không nói gì = not say anything).  \n\nIt can also soften or downplay something in phrases like **có gì đâu** (“it’s nothing / no big deal”).",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "word": "gì",
+      "choices": [],
+      "translation": {
+        "en": "What are you doing?"
+      },
+      "answer": "gì",
+      "translatedAnswer": {
+        "en": "what"
+      },
+      "language": "vi",
+      "sentence": "Bạn đang làm ___?"
+    },
+    "updatedAt": "2025-03-12T14:38:17.719Z",
+    "id": "bfd6ee5c-0cc9-41ad-a3e0-cfce6fe0c9df",
+    "createdAt": "2025-03-12T14:38:17.719Z",
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3"
+  },
+  "definition": "what",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "RTnc5FtasKbNAMEIb6Y8",
+  "level": "A1",
+  "topic": "Negation & Questions"
+}

@@ -1,0 +1,106 @@
+{
+  "rank": 48,
+  "exampleSentences": [
+    "Em biết bài hát này.",
+    "Anh biết số điện thoại của chị.",
+    "Chị biết đường đến nhà em."
+  ],
+  "word": "biết",
+  "definition": "know",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + biết (know) + bài hát (song) + này (this)",
+    "Anh (you) + biết (know) + số điện thoại (phone number) + của (of) + chị (her)",
+    "Chị (you) + biết (know) + đường (way) + đến (to) + nhà (house) + em (my)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "choices": [
+    "hiểu",
+    "nhớ",
+    "biết"
+  ],
+  "updatedAt": "2026-03-03T06:07:58.121Z",
+  "notes": "biết = to know (a fact, information, or how to do something). It’s about having knowledge in your head.\n\nUse biết + noun for knowing information, and biết + clause for knowing that something is true. It also means “know how to” with verbs.\n\nVery common contrast: biết (know a fact/skill) vs hiểu (understand deeply). If you’ve learned it or are aware of it, use biết.",
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:52:54.653Z",
+    "content": {
+      "translation": {
+        "en": "I know that very well."
+      },
+      "answer": "biết",
+      "choices": [],
+      "language": "vi",
+      "word": "biết",
+      "sentence": "Tôi ___ điều đó rất rõ.",
+      "translatedAnswer": {
+        "en": "know"
+      }
+    },
+    "createdAt": "2025-03-12T13:52:54.653Z",
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz",
+    "id": "3ba7af92-cb96-4404-a2d6-001d512de936"
+  },
+  "flashcard": {
+    "definitions": {
+      "en": "To have knowledge or awareness of something.",
+      "vi": "Có kiến thức hoặc nhận thức về điều gì đó.",
+      "es": "Tener conocimiento o conciencia de algo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T11:30:44.603Z",
+    "example": {
+      "en": "I know how to cook.",
+      "vi": "Tôi biết cách nấu ăn.",
+      "es": "Sé cómo cocinar."
+    },
+    "translations": {
+      "en": "know",
+      "vi": "biết",
+      "es": "saber"
+    }
+  },
+  "exampleSentencesTranslated": [
+    "I know this song.",
+    "You know her phone number.",
+    "You know the way to my house."
+  ],
+  "multiChoiceQuiz": {
+    "updatedAt": "2025-03-12T13:52:54.653Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "know"
+      },
+      "sentence": "Bạn ___ làm điều này không?",
+      "word": "biết",
+      "language": "vi",
+      "hint": "b____",
+      "choices": [
+        "biết",
+        "hiểu",
+        "nhận"
+      ],
+      "answer": "biết",
+      "translation": {
+        "en": "Do you know how to do this?"
+      }
+    },
+    "createdAt": "2025-03-12T13:52:54.653Z",
+    "audioUrl": "multi_choice.mp3",
+    "id": "cebceff9-9448-4275-956a-f51b8668984c",
+    "type": "multiChoiceQuiz"
+  },
+  "notes_md": "**biết** = to know (a fact, information, or how to do something). It’s about having knowledge in your head.\n\nUse **biết + noun** for knowing information, and **biết + clause** for knowing that something is true. It also means “know how to” with verbs.\n\n\nVery common contrast: **biết** (know a fact/skill) vs **hiểu** (understand deeply). If you’ve learned it or are aware of it, use **biết**.",
+  "_id": "GWszer27ZRZoriSIRut5",
+  "level": "A1",
+  "topic": "Core Verbs"
+}

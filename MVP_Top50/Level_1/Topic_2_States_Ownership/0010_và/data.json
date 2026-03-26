@@ -1,0 +1,106 @@
+{
+  "choices": [
+    "hoặc",
+    "nhưng",
+    "và"
+  ],
+  "updatedAt": "2026-03-03T06:03:58.100Z",
+  "exampleSentencesTranslated": [
+    "He buys apples and bananas.",
+    "She likes coffee and tea.",
+    "I read books and newspapers."
+  ],
+  "notes": "và means “and.” It connects words, phrases, or clauses that are equal in importance.\n\nIt links nouns, verbs, adjectives, or even whole ideas. Word order is simple: put và between the two things you’re joining.\n\nUnlike English, Vietnamese doesn’t need commas before và in most cases. It’s neutral and works in both spoken and written language.",
+  "sentenceBreakdowns": [
+    "Anh (he) + mua (buys) + táo (apples) + và (and) + chuối (bananas)",
+    "Chị (she) + thích (likes) + cà phê (coffee) + và (and) + trà (tea)",
+    "Em (I) + đọc (read) + sách (books) + và (and) + báo (newspapers)"
+  ],
+  "fillBlankQuiz": {
+    "createdAt": "2025-03-12T14:16:34.419Z",
+    "updatedAt": "2025-03-12T14:16:34.419Z",
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "translation": {
+        "en": "I like reading books and newspapers."
+      },
+      "choices": [],
+      "language": "vi",
+      "word": "và",
+      "sentence": "Tôi thích đọc sách ___ báo.",
+      "translatedAnswer": {
+        "en": "and"
+      },
+      "answer": "và"
+    },
+    "type": "fillBlankQuiz",
+    "id": "de6b32ec-eef3-4ef6-b035-b89bca981405"
+  },
+  "definition": "and",
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "translation": {
+        "en": "I like eating pho and bread."
+      },
+      "language": "vi",
+      "choices": [
+        "nhưng",
+        "và",
+        "hoặc"
+      ],
+      "hint": "v___",
+      "word": "và",
+      "sentence": "Tôi thích ăn phở ___ bánh mì.",
+      "translatedAnswer": {
+        "en": "and"
+      },
+      "answer": "và"
+    },
+    "id": "cb643cfc-904d-4249-b074-8ca1f9a93adc",
+    "createdAt": "2025-03-12T14:16:34.419Z",
+    "updatedAt": "2025-03-12T14:16:34.419Z"
+  },
+  "word": "và",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**và** means **“and.”** It connects words, phrases, or clauses that are equal in importance.\n\nIt links nouns, verbs, adjectives, or even whole ideas. Word order is simple: put **và** between the two things you’re joining.\n\n\nUnlike English, Vietnamese doesn’t need commas before **và** in most cases. It’s neutral and works in both spoken and written language.",
+  "exampleSentences": [
+    "Anh mua táo và chuối.",
+    "Chị thích cà phê và trà.",
+    "Em đọc sách và báo."
+  ],
+  "flashcard": {
+    "createdAt": "2025-01-28T12:13:37.670Z",
+    "definitions": {
+      "vi": "và",
+      "es": "y",
+      "en": "and"
+    },
+    "translations": {
+      "en": "and",
+      "vi": "và",
+      "es": "y"
+    },
+    "example": {
+      "en": "I like coffee and tea.",
+      "es": "Me gusta el café y el té.",
+      "vi": "Tôi thích cà phê và trà."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "rank": 10,
+  "_id": "MP01iygM4OFrpy7OXsQa",
+  "level": "A1",
+  "topic": "Conjunctions & Connectors"
+}

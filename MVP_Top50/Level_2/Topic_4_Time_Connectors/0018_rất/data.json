@@ -1,0 +1,107 @@
+{
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "sentence": "Bài hát này ___ hay.",
+      "word": "rất",
+      "hint": "r___",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "very"
+      },
+      "translation": {
+        "en": "This song is very good."
+      },
+      "answer": "rất",
+      "choices": [
+        "rất",
+        "khá",
+        "thật"
+      ]
+    },
+    "updatedAt": "2025-03-12T16:46:34.689Z",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T16:46:34.689Z",
+    "id": "de27acdf-29c9-465e-9f04-4880cee7a71a"
+  },
+  "updatedAt": "2026-03-03T06:04:42.945Z",
+  "exampleSentences": [
+    "Anh ấy nấu cơm rất ngon.",
+    "Chị ấy mua áo rất đẹp.",
+    "Em uống nước này rất nhanh."
+  ],
+  "choices": [
+    "hơi",
+    "rất",
+    "quá"
+  ],
+  "word": "rất",
+  "exampleSentencesTranslated": [
+    "He cooks very delicious rice.",
+    "She buys very beautiful clothes.",
+    "I drink this water very fast."
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes": "Rất means very. It makes an adjective or verb stronger.\n\nIt usually comes before adjectives or descriptive verbs: rất + adj/verb to boost intensity.  \n\nIt’s stronger than hơi (a bit) but more neutral than quá (too/so much).  \nYou don’t use it before nouns directly — it needs something to describe.",
+  "flashcard": {
+    "translations": {
+      "en": "very",
+      "vi": "rất",
+      "es": ""
+    },
+    "example": {
+      "vi": "Tôi rất thích ăn phở.",
+      "en": "I really like eating pho.",
+      "es": ""
+    },
+    "definitions": {
+      "vi": "Từ dùng để nhấn mạnh mức độ cao của tính chất hoặc trạng thái.",
+      "en": "A word used to emphasize a high degree of quality or state; very.",
+      "es": ""
+    },
+    "word": "rất",
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-05-24T16:37:07.045Z"
+  },
+  "notes_md": "**Rất** means **very**. It makes an adjective or verb stronger.\n\nIt usually comes **before adjectives or descriptive verbs**: *rất + adj/verb* to boost intensity.  \n\nIt’s stronger than **hơi** (a bit) but more neutral than **quá** (too/so much).  \nYou don’t use it before nouns directly — it needs something to describe.",
+  "sentenceBreakdowns": [
+    "Anh ấy (he) + nấu (cooks) + cơm (rice) + rất (very) + ngon (delicious)",
+    "Chị ấy (she) + mua (buys) + áo (clothes) + rất (very) + đẹp (beautiful)",
+    "Em (I) + uống (drink) + nước này (this water) + rất (very) + nhanh (fast)"
+  ],
+  "fillBlankQuiz": {
+    "id": "fdca3a07-3bde-44da-8bd4-3a410c601a34",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T16:46:34.689Z",
+    "type": "fillBlankQuiz",
+    "content": {
+      "sentence": "Cô ấy ___ thích đọc sách.",
+      "word": "rất",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "really"
+      },
+      "choices": [],
+      "answer": "rất",
+      "translation": {
+        "en": "She really likes to read books."
+      }
+    },
+    "updatedAt": "2025-03-12T16:46:34.689Z"
+  },
+  "definition": "very",
+  "rank": 18,
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "_id": "yEmLZqwHVDt5kdpa8g4T",
+  "level": "A1",
+  "topic": "Adverbs of Degree"
+}

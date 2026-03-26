@@ -1,0 +1,106 @@
+{
+  "choices": [
+    "kia",
+    "đó",
+    "này"
+  ],
+  "fillBlankQuiz": {
+    "content": {
+      "language": "vi",
+      "translation": {
+        "en": "This is this book."
+      },
+      "word": "này",
+      "answer": "này",
+      "translatedAnswer": {
+        "en": "this"
+      },
+      "choices": [],
+      "sentence": "Đây là cuốn sách ___."
+    },
+    "type": "fillBlankQuiz",
+    "audioUrl": "fill_blank.mp3",
+    "id": "2fa6e903-1dbd-4d0c-afb9-8a0a3e661715",
+    "createdAt": "2025-03-12T15:45:06.961Z",
+    "updatedAt": "2025-03-12T15:45:06.961Z"
+  },
+  "exampleSentences": [
+    "Em thích cái này lắm.",
+    "Anh mua cái này rồi.",
+    "Chị cần cái này ngay."
+  ],
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "notes": "này means “this” — something close to you (in space, time, or context).\n\nIt comes after the noun, not before.  \n\nOften used with classifiers like cái, người, con, quyển depending on the noun.  \nOpposite idea: đó / kia = “that” (farther away).\n\nIt can also be used alone to call someone’s attention (“hey”), and can sound a bit sharp depending on tone.",
+  "definition": "this",
+  "rank": 25,
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "multiChoiceQuiz": {
+    "content": {
+      "translatedAnswer": {
+        "en": "this"
+      },
+      "answer": "này",
+      "sentence": "Tôi muốn ăn món ___.",
+      "choices": [
+        "đó",
+        "này",
+        "kia"
+      ],
+      "hint": "n__",
+      "word": "này",
+      "translation": {
+        "en": "I want to eat this dish."
+      },
+      "language": "vi"
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz",
+    "id": "5963198c-111a-40dd-8719-0e6662f18df3",
+    "createdAt": "2025-03-12T15:45:06.961Z",
+    "updatedAt": "2025-03-12T15:45:06.961Z"
+  },
+  "sentenceBreakdowns": [
+    "Em (I) + thích (like) + cái (thing) + này (this) + lắm (a lot)",
+    "Anh (he) + mua (buy/bought) + cái (thing) + này (this) + rồi (already)",
+    "Chị (she) + cần (need) + cái (thing) + này (this) + ngay (now)"
+  ],
+  "notes_md": "**này** means **“this”** — something close to you (in space, time, or context).\n\nIt comes **after the noun**, not before.  \n\nOften used with classifiers like **cái, người, con, quyển** depending on the noun.  \nOpposite idea: **đó / kia** = “that” (farther away).\n\nIt can also be used alone to call someone’s attention (“hey”), and can sound a bit sharp depending on tone.",
+  "exampleSentencesTranslated": [
+    "I like this a lot.",
+    "He bought this already.",
+    "She needs this now."
+  ],
+  "updatedAt": "2026-03-03T06:05:29.344Z",
+  "word": "này",
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "này",
+      "es": "este",
+      "en": "this"
+    },
+    "example": {
+      "vi": "Cái này rất đẹp.",
+      "es": "Este es muy bonito.",
+      "en": "This one is very beautiful."
+    },
+    "definitions": {
+      "vi": "Từ này được sử dụng để chỉ một cái gì đó gần với người nói.",
+      "es": "Esta palabra se usa para referirse a algo que está cerca del hablante.",
+      "en": "This word is used to refer to something that is close to the speaker."
+    },
+    "createdAt": "2025-01-28T13:17:35.572Z"
+  },
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "_id": "iKZdawDy2fG6wldyY9Lx",
+  "level": "A1",
+  "topic": "Pronouns & Demonstratives"
+}

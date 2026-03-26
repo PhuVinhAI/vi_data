@@ -1,0 +1,106 @@
+{
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "answer": "phải",
+      "translation": {
+        "en": "You must do that."
+      },
+      "translatedAnswer": {
+        "en": "must"
+      },
+      "word": "phải",
+      "language": "vi",
+      "sentence": "Bạn ___ làm điều đó.",
+      "choices": []
+    },
+    "createdAt": "2025-03-12T15:21:55.605Z",
+    "audioUrl": "fill_blank.mp3",
+    "id": "4aac0085-0008-4742-a59b-277dd6b750ce",
+    "updatedAt": "2025-03-12T15:21:55.605Z"
+  },
+  "exampleSentencesTranslated": [
+    "I must read this book.",
+    "I must buy a new shirt.",
+    "I must cook dinner."
+  ],
+  "flashcard": {
+    "definitions": {
+      "vi": "phải; cần phải; nên",
+      "es": "deber; tener que; debería",
+      "en": "must; have to; should"
+    },
+    "example": {
+      "vi": "Bạn phải làm bài tập về nhà.",
+      "es": "Tienes que hacer tu tarea.",
+      "en": "You have to do your homework."
+    },
+    "translations": {
+      "es": "deber; tener que",
+      "vi": "phải",
+      "en": "must; have to"
+    },
+    "audioUrl": "flashcard.mp3",
+    "createdAt": "2025-01-28T13:41:31.876Z"
+  },
+  "definition": "must",
+  "notes": "phải usually means must / have to. It shows obligation, something necessary or required.\n\nIt goes before a verb to say what someone is required to do.  \n\nYou’ll also see không phải = “not” (it’s not / not the right one), which is very common and useful.  \nAnother common pattern: phải… mới… = “have to… then…” (phải làm xong mới nghỉ)\n\nBonus meaning: phải can also mean “right” (opposite of left), like “right side.”",
+  "updatedAt": "2026-03-03T06:04:48.554Z",
+  "exampleSentences": [
+    "Em phải đọc cuốn sách này.",
+    "Anh phải mua cái áo mới.",
+    "Chị phải nấu cơm tối."
+  ],
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "923eb458-a39a-4efd-8a88-bed22ab9fa4f",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:21:55.605Z",
+    "content": {
+      "language": "vi",
+      "sentence": "Bạn ___ làm điều đó.",
+      "word": "phải",
+      "choices": [
+        "không",
+        "được",
+        "phải"
+      ],
+      "hint": "p___",
+      "answer": "phải",
+      "translatedAnswer": {
+        "en": "must"
+      },
+      "translation": {
+        "en": "You must do that."
+      }
+    },
+    "updatedAt": "2025-03-12T15:21:55.605Z"
+  },
+  "exampleSentencesAudioUrlsNorthern": [
+    "northern_1.mp3",
+    "northern_2.mp3",
+    "northern_3.mp3"
+  ],
+  "notes_md": "**phải** usually means **must / have to**. It shows obligation, something necessary or required.\n\nIt goes before a verb to say what someone is required to do.  \n\nYou’ll also see **không phải** = “not” (it’s not / not the right one), which is very common and useful.  \nAnother common pattern: **phải… mới…** = “have to… then…” (phải làm xong mới nghỉ)\n\nBonus meaning: **phải** can also mean “right” (opposite of left), like “right side.”",
+  "rank": 19,
+  "choices": [
+    "nên",
+    "cần",
+    "phải"
+  ],
+  "sentenceBreakdowns": [
+    "Em (I) + phải (must) + đọc (read) + cuốn (classifier for books) + sách (book) + này (this)",
+    "Anh (I) + phải (must) + mua (buy) + cái (classifier) + áo (shirt) + mới (new)",
+    "Chị (I) + phải (must) + nấu (cook) + cơm (rice/meal) + tối (evening/dinner)"
+  ],
+  "createdAt": "2025-01-27T21:23:43.156Z",
+  "exampleSentencesAudioUrls": [
+    "southern_1.mp3",
+    "southern_2.mp3",
+    "southern_3.mp3"
+  ],
+  "word": "phải",
+  "_id": "ctd2ND1mFjuhtajbNU48",
+  "level": "A2",
+  "topic": "Core Verbs"
+}
