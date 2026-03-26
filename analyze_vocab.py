@@ -11,77 +11,70 @@ REPORT_FILE = os.path.join(REPORT_DIR, "report.md")
 def analyze_data():
     all_data = []
     
-    # Kiểm tra thư mục words có tồn tại không
     if not os.path.exists(WORDS_DIR):
         print(f"Lỗi: Không tìm thấy thư mục {WORDS_DIR}")
         return
 
-    # Quét tất cả thư mục con trong words
     for folder in os.listdir(WORDS_DIR):
-        folder_path = os.path.join(WORDS_DIR, folder)
-        if not os.path.isdir(folder_path):
-            continue
-            
-        json_path = os.path.join(folder_path, "data.json")
+        json_path = os.path.join(WORDS_DIR, folder, "data.json")
         if os.path.exists(json_path):
             try:
                 with open(json_path, 'r', encoding='utf-8') as f:
                     content = json.load(f)
-                    rank = content.get('rank')
-                    level = content.get('level', 'N/A')
-                    
-                    if rank is not None:
-                        all_data.append({'rank': rank, 'level': level})
-            except Exception as e:
-                print(f"Lỗi khi đọc tệp {json_path}: {e}")
+                    all_data.append({
+                        'rank': content.get('rank'),
+                        'level': content.get('level', 'N/A'),
+                        'topic': content.get('topic', 'Uncategorized'),
+                        'word': content.get('word', folder)
+                    })
+            except Exception:
+                continue
 
-    # Sắp xếp theo rank
-    all_data.sort(key=lambda x: x['rank'])
+    all_data.sort(key=lambda x: x['rank'] if x['rank'] is not None else 9999)
 
-    # Các ngưỡng phân tích
     thresholds = [50, 100, 250, 500]
-    analysis_results = []
-
-    for t in thresholds:
-        # Lọc các từ có rank <= t
-        group = [d['level'] for d in all_data if d['rank'] <= t]
-        total = len(group)
-        counts = Counter(group)
-        
-        analysis_results.append({
-            'threshold': t,
-            'total': total,
-            'counts': counts
-        })
-
-    # Tạo thư mục report nếu chưa có
+    
+    # Ghi file báo cáo Markdown
     if not os.path.exists(REPORT_DIR):
         os.makedirs(REPORT_DIR)
 
-    # Ghi file báo cáo Markdown
     with open(REPORT_FILE, 'w', encoding='utf-8') as f:
-        f.write("# Báo cáo Phân tích Trình độ Từ vựng Tiếng Việt\n\n")
-        f.write(f"Báo cáo này được tạo dựa trên phân tích dữ liệu từ {len(all_data)} từ vựng.\n\n")
-        
-        # Danh sách các level để hiển thị theo thứ tự
-        target_levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'N/A']
-        
-        for res in analysis_results:
-            f.write(f"## Nhóm {res['threshold']} từ đầu tiên (Rank 1-{res['threshold']})\n")
-            f.write(f"- **Tổng số từ tìm thấy:** {res['total']}\n")
-            
-            for lvl in target_levels:
-                count = res['counts'].get(lvl, 0)
-                # Chỉ hiển thị nếu có dữ liệu hoặc là các bậc cơ bản (để thấy sự thiếu sót)
-                if count > 0 or lvl in ['A1', 'A2', 'B1', 'B2']:
-                    percent = (count / res['total'] * 100) if res['total'] > 0 else 0
-                    f.write(f"  - **{lvl}**: {count} từ ({percent:.1f}%)\n")
-            f.write("\n")
-            
-        f.write("---\n")
-        f.write("*Báo cáo được thực hiện tự động nhằm phục vụ công tác kiểm định dữ liệu theo Thông tư 17/2015/TT-BGDĐT.*")
+        f.write("# Báo cáo Phân tích Dữ liệu Từ vựng Tiếng Việt\n\n")
+        f.write(f"Phân tích tổng hợp từ {len([x for x in all_data if x['rank'] is not None])} từ vựng.\n\n")
 
-    print(f"Báo cáo đã được xuất thành công tại: {REPORT_FILE}")
+        for t in thresholds:
+            group = [d for d in all_data if d['rank'] is not None and d['rank'] <= t]
+            total = len(group)
+            
+            f.write(f"## NHÓM {t} TỪ ĐẦU TIÊN (RANK 1-{t})\n\n")
+            
+            # --- PHÂN TÍCH TRÌNH ĐỘ ---
+            f.write("### 1. Phân bổ Trình độ (CEFR)\n")
+            level_counts = Counter([d['level'] for d in group])
+            for lvl in ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'N/A']:
+                count = level_counts.get(lvl, 0)
+                if count > 0 or lvl in ['A1', 'A2', 'B1']:
+                    percent = (count / total * 100) if total > 0 else 0
+                    f.write(f"- **{lvl}**: {count} từ ({percent:.1f}%)\n")
+            
+            # --- PHÂN TÍCH CHỦ ĐỀ ---
+            f.write("\n### 2. Phân bổ Chủ đề (Top Topics)\n")
+            topic_counts = Counter([d['topic'] for d in group])
+            # Sắp xếp các chủ đề theo số lượng giảm dần
+            sorted_topics = sorted(topic_counts.items(), key=lambda x: x[1], reverse=True)
+            
+            f.write("| Chủ đề | Số lượng | Tỉ lệ |\n")
+            f.write("| :--- | :---: | :---: |\n")
+            for topic, count in sorted_topics:
+                percent = (count / total * 100) if total > 0 else 0
+                f.write(f"| {topic} | {count} | {percent:.1f}% |\n")
+            
+            f.write("\n" + "-"*40 + "\n\n")
+
+        f.write("---\n")
+        f.write("*Báo cáo được thực hiện nhằm tối ưu hóa lộ trình học tập theo chủ đề và trình độ.*")
+
+    print(f"Báo cáo cập nhật đã được xuất tại: {REPORT_FILE}")
 
 if __name__ == "__main__":
     analyze_data()
