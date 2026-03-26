@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động dùng sức mạnh hoặc sự cố gắng để lấy được một vật gì đó hoặc giành lấy chiến thắng.",
+      "en": "To seize; to win; to capture (an award, prize, or power).",
+      "es": "Capturar; ganar; apoderarse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đoạt",
+      "en": "seize",
+      "es": "apoderarse"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đoạt giải nhất.",
+      "en": "Win first prize.",
+      "es": "Ganar el primer premio."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "v7w8x9y0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đoạt",
+      "language": "vi",
+      "sentence": "Anh ấy đã cố gắng ___ vị trí đầu tiên trong cuộc thi.",
+      "choices": [
+        "giành",
+        "đoạt",
+        "chọn"
+      ],
+      "answer": "đoạt",
+      "translation": {
+        "en": "He tried to seize first place in the competition."
+      },
+      "translatedAnswer": {
+        "en": "seize"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "w8x9y0z1-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đoạt",
+      "language": "vi",
+      "sentence": "Đội bóng của em đã ___ cúp vô địch năm nay.",
+      "answer": "đoạt",
+      "translation": {
+        "en": "My team managed to seize the championship cup this year."
+      },
+      "translatedAnswer": {
+        "en": "seize"
+      }
+    }
+  },
   "_id": "UDJzJRKVqodA4SHJyWG5",
   "level": "B2",
   "topic": "Actions & Behaviors"

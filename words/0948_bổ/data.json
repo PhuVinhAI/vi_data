@@ -36,6 +36,68 @@
   ],
   "createdAt": "2025-07-21T11:56:24.713Z",
   "word": "bổ",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ thực phẩm hoặc đồ uống có lợi cho sức khỏe, cung cấp nhiều dinh dưỡng.",
+      "en": "Nutritious; good for health; healthy (relating to food/drink).",
+      "es": "Nutritivo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bổ",
+      "en": "nutritious",
+      "es": "nutritivo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Món ăn bổ dưỡng.",
+      "en": "Nutritious food.",
+      "es": "Comida nutritiva."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "p1q2r3s4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bổ",
+      "language": "vi",
+      "sentence": "Em nên ăn nhiều rau xanh vì chúng rất ___ cho sức khỏe.",
+      "choices": [
+        "bổ",
+        "ngọt",
+        "mặn"
+      ],
+      "answer": "bổ",
+      "translation": {
+        "en": "You should eat a lot of vegetables because they are very nutritious for your health."
+      },
+      "translatedAnswer": {
+        "en": "nutritious"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "q1r3s4t5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bổ",
+      "language": "vi",
+      "sentence": "Chị thường chọn trái cây ___ cho bữa sáng mỗi ngày.",
+      "answer": "bổ",
+      "translation": {
+        "en": "She often chooses nutritious fruits for breakfast every day."
+      },
+      "translatedAnswer": {
+        "en": "nutritious"
+      }
+    }
+  },
   "_id": "xE9jssj6MO6tkQrBg3gR",
   "level": "B1",
   "topic": "Actions & Behaviors"

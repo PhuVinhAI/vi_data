@@ -36,6 +36,68 @@
   ],
   "createdAt": "2025-07-21T11:58:25.410Z",
   "originalFrequency": 0.0097,
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người trực tiếp gây ra một vụ việc xấu, một tội ác hoặc một tai nạn.",
+      "en": "Culprit; the person responsible for a crime or a harmful act.",
+      "es": "Culpable; autor de un delito."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thủ phạm",
+      "en": "culprit",
+      "es": "culpable"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Truy tìm thủ phạm.",
+      "en": "Track down the culprit.",
+      "es": "Rastrear al culpable."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "d5e6f7g8-h9i0-j1k2-l3m4-n5o6p7q8r9s0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "thủ phạm",
+      "language": "vi",
+      "sentence": "Cảnh sát đã tìm ra ___ trong vụ trộm tối qua.",
+      "choices": [
+        "nạn nhân",
+        "thủ phạm",
+        "bằng chứng"
+      ],
+      "answer": "thủ phạm",
+      "translation": {
+        "en": "The police found the culprit in last night's theft."
+      },
+      "translatedAnswer": {
+        "en": "culprit"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "e6f7g8h9-i0j1-k2l3-m4n5-o6p7q8r9s0t1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "thủ phạm",
+      "language": "vi",
+      "sentence": "Sau khi xem camera, mọi người đều biết ai là ___.",
+      "answer": "thủ phạm",
+      "translation": {
+        "en": "After watching the camera, everyone knew who the culprit was."
+      },
+      "translatedAnswer": {
+        "en": "culprit"
+      }
+    }
+  },
   "_id": "FAJldLbSXGrvL0lNLpcj",
   "level": "B2",
   "topic": "Crime & Law"

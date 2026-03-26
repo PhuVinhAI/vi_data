@@ -36,6 +36,68 @@
     "Remember to bring your books when you go to class for English, okay?",
     "She usually meets her friends at the school gate before she goes to class."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm động từ chỉ hành động đi vào trong phòng học để bắt đầu tiết học.",
+      "en": "Go to class; enter the classroom.",
+      "es": "Entrar a clase."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vô lớp",
+      "en": "go to class",
+      "es": "entrar a clase"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nhanh chân vô lớp.",
+      "en": "Hurry to class.",
+      "es": "Date prisa para entrar a clase."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "j5k6l7m8-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vô lớp",
+      "language": "vi",
+      "sentence": "Sáng nay em dậy muộn nên phải chạy nhanh để ___.",
+      "choices": [
+        "vô lớp",
+        "ra ngoài",
+        "về nhà"
+      ],
+      "answer": "vô lớp",
+      "translation": {
+        "en": "This morning I woke up late so I had to run fast to go to class."
+      },
+      "translatedAnswer": {
+        "en": "go to class"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "k6l7m8n9-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vô lớp",
+      "language": "vi",
+      "sentence": "Anh nhớ mang sách vở khi ___ học tiếng Anh nhé.",
+      "answer": "vô lớp",
+      "translation": {
+        "en": "Remember to bring your books when you go to class for English, okay?"
+      },
+      "translatedAnswer": {
+        "en": "go to class"
+      }
+    }
+  },
   "_id": "WgIgbvKig1mY3yGuQz24",
   "level": "A2",
   "topic": "Work & Education"

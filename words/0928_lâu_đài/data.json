@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ công trình kiến trúc lớn, kiên cố, thường là nơi ở của vua chúa hoặc quý tộc.",
+      "en": "Castle; fortress; palace built for royalty or nobility.",
+      "es": "Castillo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lâu đài",
+      "en": "castle",
+      "es": "castillo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Lâu đài cổ.",
+      "en": "Ancient castle.",
+      "es": "Castillo antiguo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f1g2h3i4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lâu đài",
+      "language": "vi",
+      "sentence": "Cuối tuần này, anh muốn cùng em đến thăm một ___ cổ.",
+      "choices": [
+        "lâu đài",
+        "cây cầu",
+        "cửa hàng"
+      ],
+      "answer": "lâu đài",
+      "translation": {
+        "en": "This weekend, I want to visit an old castle with you."
+      },
+      "translatedAnswer": {
+        "en": "castle"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "g1h3i4j5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lâu đài",
+      "language": "vi",
+      "sentence": "Chị từng đọc một câu chuyện về một công chúa sống trong ___.",
+      "answer": "lâu đài",
+      "translation": {
+        "en": "She once read a story about a princess living in a castle."
+      },
+      "translatedAnswer": {
+        "en": "castle"
+      }
+    }
+  },
   "_id": "chk55wXi09PE9GlqELRb",
   "level": "B1",
   "topic": "Places & Locations"

@@ -36,6 +36,68 @@
   "notes_md": "**Chào bác** means “hello” to someone older than your parents (about your parents’ age or older). It’s polite and respectful.\n\n**Bác** is a kinship term for your parent’s older sibling, but in daily life it’s also used for older adults. Vietnamese uses family terms instead of “you,” so picking the right word (bác, cô, chú…) matters.\n\n\nTo sound natural, say it clearly and slightly formally—this is respectful speech, not casual friend talk.",
   "definition": "greet elder",
   "rank": 953,
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm từ dùng để chào hỏi người lớn tuổi hơn cha mẹ mình một cách lịch sự.",
+      "en": "Greet elder (a polite hello to someone older than your parents).",
+      "es": "Saludar a un mayor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chào bác",
+      "en": "greet elder",
+      "es": "saludar al mayor"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cháu chào bác ạ.",
+      "en": "Hello, aunt/uncle (polite).",
+      "es": "Hola, señor/señora (cortés)."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "r1s4t5u6-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chào bác",
+      "language": "vi",
+      "sentence": "Mỗi sáng, em đều ___ hàng xóm khi đi học.",
+      "choices": [
+        "chào bác",
+        "chào bạn",
+        "chào chú"
+      ],
+      "answer": "chào bác",
+      "translation": {
+        "en": "Every morning, I greet the elder neighbor when I go to school."
+      },
+      "translatedAnswer": {
+        "en": "greet the elder"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "s4t5u6v7-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chào bác",
+      "language": "vi",
+      "sentence": "Anh nhớ ___ khi đến nhà họ chơi cùng bạn bè.",
+      "answer": "chào bác",
+      "translation": {
+        "en": "Remember to greet the elder when you visit their house with friends."
+      },
+      "translatedAnswer": {
+        "en": "greet the elder"
+      }
+    }
+  },
   "_id": "y0UbtIvstDqf38QCyEOh",
   "level": "A1",
   "topic": "Greetings & Politeness"

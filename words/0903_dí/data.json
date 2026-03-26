@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "word": "dí",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động đuổi theo sát nút hoặc ấn vật gì đó sát vào bề mặt/người khác với áp lực mạnh.",
+      "en": "To chase closely; to press against someone or something.",
+      "es": "Perseguir de cerca; presionar contra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dí",
+      "en": "chase",
+      "es": "perseguir"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Dí theo con mèo.",
+      "en": "Chasing the cat closely.",
+      "es": "Perseguire al gato de cerca."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m1n2o3p4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dí",
+      "language": "vi",
+      "sentence": "Con mèo thích ___ theo ánh đèn laser trên sàn nhà.",
+      "choices": [
+        "dí",
+        "đi",
+        "dị"
+      ],
+      "answer": "dí",
+      "translation": {
+        "en": "The cat likes to chase the laser light on the floor."
+      },
+      "translatedAnswer": {
+        "en": "chase"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n2o3p4q5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dí",
+      "language": "vi",
+      "sentence": "Em bé cười khi anh trai giả vờ ___ em quanh phòng.",
+      "answer": "dí",
+      "translation": {
+        "en": "The baby laughs when his brother pretends to chase him around the room."
+      },
+      "translatedAnswer": {
+        "en": "chase"
+      }
+    }
+  },
   "_id": "nxaB0lWRLNZs6i4Xxk83",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

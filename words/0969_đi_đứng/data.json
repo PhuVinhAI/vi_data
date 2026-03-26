@@ -36,6 +36,68 @@
   ],
   "addedReason": "common verb phrase",
   "definition": "walking and standing",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ khả năng di chuyển và giữ tư thế của cơ thể nói chung.",
+      "en": "Walking and standing; the ability to move around and maintain posture.",
+      "es": "Caminar y estar de pie; movilidad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đi đứng",
+      "en": "walking and standing",
+      "es": "andar y estar de pie"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Đi đứng cẩn thận.",
+      "en": "Be careful when walking.",
+      "es": "Andar con cuidado."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b3c4d5e6-f7g8-h9i0-j1k2-l3m4n5o6p7q8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "đi đứng",
+      "language": "vi",
+      "sentence": "Mẹ dặn em phải ___ cẩn thận khi sang đường.",
+      "choices": [
+        "đi đứng",
+        "ngồi nghỉ",
+        "chạy nhảy"
+      ],
+      "answer": "đi đứng",
+      "translation": {
+        "en": "Mom told me to be careful when walking and standing when crossing the street."
+      },
+      "translatedAnswer": {
+        "en": "walking and standing"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "c4d5e6f7-g8h9-i0j1-k2l3-m4n5o6p7q8r9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "đi đứng",
+      "language": "vi",
+      "sentence": "Ông nội gặp khó khăn trong việc ___ sau khi bị đau chân.",
+      "answer": "đi đứng",
+      "translation": {
+        "en": "My grandfather has difficulty walking and standing after his leg injury."
+      },
+      "translatedAnswer": {
+        "en": "walking and standing"
+      }
+    }
+  },
   "_id": "NEx1VeYe9xm9Ro0Kaio4",
   "level": "B1",
   "topic": "Actions & Behaviors"

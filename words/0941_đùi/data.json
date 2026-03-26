@@ -36,6 +36,68 @@
   "notes": "đùi = thigh, the upper part of your leg between the hip and the knee.  \n\nIt’s a noun. Use the classifier cái: một cái đùi, hai cái đùi.  \nVery often used for both people and animals, especially food: đùi gà (chicken thigh) is super common.  \nYou’ll also hear bắp đùi (the muscle of the thigh) when talking about exercise or body parts.  \nThink of it as the “upper leg” — opposite idea would be cẳng chân (lower leg).",
   "originalCount": 12,
   "updatedAt": "2026-03-03T07:55:56.823Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ phần chân phía trên, từ hông đến đầu gối của người hoặc động vật.",
+      "en": "Thigh (the upper part of the leg between the hip and the knee).",
+      "es": "Muslo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đùi",
+      "en": "thigh",
+      "es": "muslo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đùi gà dám.",
+      "en": "Chicken thigh.",
+      "es": "Muslo de pollo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "n9o0p1q2-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đùi",
+      "language": "vi",
+      "sentence": "Anh thích ăn gà rán phần ___ hơn phần cánh.",
+      "choices": [
+        "đầu",
+        "đùi",
+        "tay"
+      ],
+      "answer": "đùi",
+      "translation": {
+        "en": "I prefer eating fried chicken thigh over the wing part."
+      },
+      "translatedAnswer": {
+        "en": "thigh"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "o1p2q3r4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đùi",
+      "language": "vi",
+      "sentence": "Em bị muỗi cắn vào ___ khi đi dã ngoại hôm qua.",
+      "answer": "đùi",
+      "translation": {
+        "en": "I got bitten by a mosquito on my thigh during the picnic yesterday."
+      },
+      "translatedAnswer": {
+        "en": "thigh"
+      }
+    }
+  },
   "_id": "COYIOHPK8tifAe4sC0My",
   "level": "B1",
   "topic": "Body & Health"

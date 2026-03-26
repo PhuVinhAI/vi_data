@@ -36,6 +36,68 @@
   ],
   "originalCount": 11,
   "updatedAt": "2026-03-03T08:02:23.315Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ vợ chính thức của nhà vua.",
+      "en": "Queen Consort; wife of a king.",
+      "es": "Reina consorte."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hoàng hậu",
+      "en": "queen consort",
+      "es": "reina"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Vua và hoàng hậu.",
+      "en": "King and queen.",
+      "es": "El rey y la reina."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "x1y2z3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "hoàng hậu",
+      "language": "vi",
+      "sentence": "Ngày xưa, ___ thường sống trong cung điện lớn cùng vua.",
+      "choices": [
+        "hoàng hậu",
+        "công chúa",
+        "hoàng tử"
+      ],
+      "answer": "hoàng hậu",
+      "translation": {
+        "en": "In the past, the queen often lived in a big palace with the king."
+      },
+      "translatedAnswer": {
+        "en": "the queen"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "y2z3a4b5-c6d7-e8f9-g0h1-i2j3k4l5m6n7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "hoàng hậu",
+      "language": "vi",
+      "sentence": "Bé thích nghe chuyện cổ tích về ___ và các công chúa.",
+      "answer": "hoàng hậu",
+      "translation": {
+        "en": "The child likes to hear fairy tales about the queen and the princesses."
+      },
+      "translatedAnswer": {
+        "en": "the queen"
+      }
+    }
+  },
   "_id": "dMFYUXjcRwb1zpdaMM5T",
   "level": "B2",
   "topic": "Fantasy & Fiction"

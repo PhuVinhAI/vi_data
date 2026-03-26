@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ cảm giác một người, một vật hoặc một âm thanh có vẻ đã từng gặp hoặc nghe thấy trước đây nhưng không hoàn toàn chắc chắn.",
+      "en": "Somewhat familiar; vaguely recognizable.",
+      "es": "Algo familiar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "quen quen",
+      "en": "somewhat familiar",
+      "es": "vaga familiaridad"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Gương mặt quen quen.",
+      "en": "A familiar face.",
+      "es": "Una cara familiar."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "l9m0n1o2-p3q4-r5s6-t7u8-v9w0x1y2z3a4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "quen quen",
+      "language": "vi",
+      "sentence": "Khu phố này nhìn ___ nhưng em không nhớ đã đến chưa.",
+      "choices": [
+        "quen quen",
+        "lạ lạ",
+        "vui vui"
+      ],
+      "answer": "quen quen",
+      "translation": {
+        "en": "This neighborhood looks somewhat familiar but I can't remember if I've been here."
+      },
+      "translatedAnswer": {
+        "en": "somewhat familiar"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "m0n1o2p3-q4r5-s6t7-u8v9-w0x1y2z3a4b5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "quen quen",
+      "language": "vi",
+      "sentence": "Anh gặp một người trông ___ ở quán cà phê sáng nay.",
+      "answer": "quen quen",
+      "translation": {
+        "en": "I saw someone who looked somewhat familiar at the coffee shop this morning."
+      },
+      "translatedAnswer": {
+        "en": "somewhat familiar"
+      }
+    }
+  },
   "_id": "t5J6PWZRPV10hatBzqFj",
   "level": "B1",
   "topic": "Thoughts & Opinions"

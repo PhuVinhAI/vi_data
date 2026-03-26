@@ -36,6 +36,68 @@
     "He often posts nonsense on social media.",
     "Mom told me not to believe the nonsense of strangers."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ những lời nói, hành động hoặc ý nghĩ sai trái, thiếu căn cứ hoặc không phù hợp.",
+      "en": "Nonsense; inappropriate; rubbish; wrong (usually regarding speech or actions).",
+      "es": "Tonterías; inapropiado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bậy bạ",
+      "en": "nonsense",
+      "es": "tonterías"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng nói bậy bạ.",
+      "en": "Don't speak nonsense.",
+      "es": "Không nói bậy bạ."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q5r6s7t8-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bậy bạ",
+      "language": "vi",
+      "sentence": "Em đừng nói ___ khi chưa biết rõ sự việc nhé.",
+      "choices": [
+        "bậy bạ",
+        "thật thà",
+        "lịch sự"
+      ],
+      "answer": "bậy bạ",
+      "translation": {
+        "en": "Don’t say nonsense if you don’t know the situation clearly."
+      },
+      "translatedAnswer": {
+        "en": "nonsense"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r6s7t8u9-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bậy bạ",
+      "language": "vi",
+      "sentence": "Anh ấy hay đăng những điều ___ lên mạng xã hội.",
+      "answer": "bậy bạ",
+      "translation": {
+        "en": "He often posts nonsense on social media."
+      },
+      "translatedAnswer": {
+        "en": "nonsense"
+      }
+    }
+  },
   "_id": "A7ORfvzAscMjL81RlJ7V",
   "level": "B1",
   "topic": "Slang & Colloquialisms"

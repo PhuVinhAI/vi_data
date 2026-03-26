@@ -36,6 +36,68 @@
     "When traveling, I always bring a map so I don't get lost."
   ],
   "createdAt": "2025-07-21T12:01:01.892Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ hình vẽ thu nhỏ tương đối chính xác về một khu vực hoặc toàn bộ bề mặt Trái Đất.",
+      "en": "Map; a representation of an area showing physical features.",
+      "es": "Mapa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bản đồ",
+      "en": "map",
+      "es": "mapa"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Tra bản đồ.",
+      "en": "Check the map.",
+      "es": "Consultar el mapa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "v9w0x1y2-z3a4-b5c6-d7e8-f9g0h1i2j3k4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "bản đồ",
+      "language": "vi",
+      "sentence": "Khi đi du lịch, em luôn mang theo ___ để không bị lạc đường.",
+      "choices": [
+        "bản đồ",
+        "lịch trình",
+        "cửa hàng"
+      ],
+      "answer": "bản đồ",
+      "translation": {
+        "en": "When traveling, I always bring a map so I don't get lost."
+      },
+      "translatedAnswer": {
+        "en": "a map"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "w0x1y2z3-a4b5-c6d7-e8f9-g0h1i2j3k4l5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "bản đồ",
+      "language": "vi",
+      "sentence": "Anh có thể cho em mượn ___ để tìm đường đến nhà ga không?",
+      "answer": "bản đồ",
+      "translation": {
+        "en": "Can you lend me a map to find the way to the station?"
+      },
+      "translatedAnswer": {
+        "en": "a map"
+      }
+    }
+  },
   "_id": "wAVlHvpndjtOzL87Awzs",
   "level": "B1",
   "topic": "Travel & Transport"

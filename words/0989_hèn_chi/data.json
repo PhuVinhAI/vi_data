@@ -36,6 +36,68 @@
   ],
   "addedReason": "common expression",
   "definition": "no wonder",
+  "flashcard": {
+    "definitions": {
+      "vi": "Thành ngữ biểu thị sự vỡ lẽ khi nhận ra lý do thực sự của một sự việc vừa xảy ra.",
+      "en": "No wonder; that explains why; so that's why.",
+      "es": "Con razón."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hèn chi",
+      "en": "no wonder",
+      "es": "con razón"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Hèn chi anh vui thế.",
+      "en": "No wonder you're so happy.",
+      "es": "Con razón estás tan feliz."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "p3q4r5s6-t7u8-v9w0-x1y2-z3a4b5c6d7e8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "hèn chi",
+      "language": "vi",
+      "sentence": "Chị bị cảm, ___ chị không đi làm hôm nay.",
+      "choices": [
+        "hèn chi",
+        "vì vậy",
+        "dù sao"
+      ],
+      "answer": "hèn chi",
+      "translation": {
+        "en": "You have a cold, no wonder you didn't go to work today."
+      },
+      "translatedAnswer": {
+        "en": "no wonder"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "q4r5s6t7-u8v9-w0x1-y2z3-a4b5c6d7e8f9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "hèn chi",
+      "language": "vi",
+      "sentence": "Hèn chi hôm nay anh ấy vui như vậy, anh ấy vừa được thăng chức.",
+      "answer": "hèn chi",
+      "translation": {
+        "en": "No wonder he's so happy today, he just got promoted."
+      },
+      "translatedAnswer": {
+        "en": "no wonder"
+      }
+    }
+  },
   "_id": "LUIAR6Wg9nae89umjK9K",
   "level": "B2",
   "topic": "Conversational Phrases"

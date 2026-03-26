@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ kỹ năng chiến đấu, khả năng đánh đấm có được thông qua quá trình luyện tập.",
+      "en": "Martial arts skills; fighting ability gained through training.",
+      "es": "Habilidades de artes marciales."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "võ công",
+      "en": "martial arts skills",
+      "es": "técnicas de combate"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Luyện võ công.",
+      "en": "Practice martial arts.",
+      "es": "Practicar artes marciales."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "x9y0z1a2-b3c4-d5e6-f7g8-h9i0j1k2l3m4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "võ công",
+      "language": "vi",
+      "sentence": "Anh ấy đã luyện tập ___ nhiều năm để bảo vệ bản thân.",
+      "choices": [
+        "võ công",
+        "võ sĩ",
+        "võ thuật"
+      ],
+      "answer": "võ công",
+      "translation": {
+        "en": "He has practiced martial arts skills for many years to protect himself."
+      },
+      "translatedAnswer": {
+        "en": "martial arts skills"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "y0z1a2b3-c4d5-e6f7-g8h9-i0j1k2l3m4n5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "võ công",
+      "language": "vi",
+      "sentence": "Em muốn học ___ để rèn luyện sức khỏe và sự tự tin.",
+      "answer": "võ công",
+      "translation": {
+        "en": "I want to learn martial arts skills to improve my health and confidence."
+      },
+      "translatedAnswer": {
+        "en": "martial arts skills"
+      }
+    }
+  },
   "_id": "lq74MfYumshbbMBbMtiG",
   "level": "B2",
   "topic": "Culture & Traditions"

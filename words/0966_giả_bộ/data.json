@@ -36,6 +36,68 @@
   ],
   "notes_md": "**giả bộ** = to pretend, to fake something on purpose. It’s used when someone acts in a way that isn’t true (emotion, knowledge, attitude).\n\nYou usually put it before a verb or adjective to show the fake action or state.  \n\nIt often suggests the person has a hidden reason (to avoid trouble, get attention, etc.).  \nClose synonym: **giả vờ** (very similar, often interchangeable).",
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động cố ý tỏ ra một thái độ hoặc tình trạng không đúng với thực tế.",
+      "en": "To pretend; to fake; to feign (a feeling, action, or state).",
+      "es": "Fingir; aparentar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "giả bộ",
+      "en": "to pretend",
+      "es": "fingir"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Giả bộ ngủ.",
+      "en": "Pretend to sleep.",
+      "es": "Fingir que duerme."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "z1a2b3c4-d5e6-f7g8-h9i0-j1k2l3m4n5o6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "giả bộ",
+      "language": "vi",
+      "sentence": "Anh ấy thường ___ không biết gì khi gặp rắc rối.",
+      "choices": [
+        "giả vờ",
+        "giả bộ",
+        "thật thà"
+      ],
+      "answer": "giả bộ",
+      "translation": {
+        "en": "He often pretends not to know anything when he gets into trouble."
+      },
+      "translatedAnswer": {
+        "en": "pretends"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "a2b3c4d5-e6f7-g8h9-i0j1-k2l3m4n5o6p7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "giả bộ",
+      "language": "vi",
+      "sentence": "Em chỉ ___ buồn để mọi người chú ý thôi.",
+      "answer": "giả bộ",
+      "translation": {
+        "en": "I only pretend to be sad so people will pay attention."
+      },
+      "translatedAnswer": {
+        "en": "pretend"
+      }
+    }
+  },
   "_id": "mKukA68dGM7dRRAfoljq",
   "level": "B1",
   "topic": "Actions & Behaviors"

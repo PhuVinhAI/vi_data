@@ -36,6 +36,68 @@
   "originalCount": 12,
   "definition": "anyway",
   "rank": 940,
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm từ dùng để kết nối, thể hiện ý kiến bất chấp những gì đã xảy ra trước đó.",
+      "en": "Anyway; in any case; nevertheless.",
+      "es": "De todos modos; de todas formas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dù sao",
+      "en": "anyway",
+      "es": "de todos modos"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Dù sao thì cũng tốt.",
+      "en": "Anyway, it's good.",
+      "es": "De todos modos, es bueno."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "l7m8n9o0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dù sao",
+      "language": "vi",
+      "sentence": "Anh quên mang ô, nhưng ___ anh cũng đi làm được.",
+      "choices": [
+        "dù sao",
+        "vì vậy",
+        "thật ra"
+      ],
+      "answer": "dù sao",
+      "translation": {
+        "en": "I forgot to bring an umbrella, but anyway I still got to work."
+      },
+      "translatedAnswer": {
+        "en": "anyway"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "m8n9o0p1-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dù sao",
+      "language": "vi",
+      "sentence": "Chị không thích món này lắm, nhưng ___ cũng sẽ thử một chút.",
+      "answer": "dù sao",
+      "translation": {
+        "en": "She doesn't really like this dish, but anyway she will try a little."
+      },
+      "translatedAnswer": {
+        "en": "anyway"
+      }
+    }
+  },
   "_id": "yaYBAFAxSxxCBCQuCYMJ",
   "level": "B1",
   "topic": "Conjunctions & Connectors"

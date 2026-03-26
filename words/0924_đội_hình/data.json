@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "createdAt": "2025-07-21T11:54:10.762Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ cách sắp xếp, tổ chức các thành viên trong một đội (thường trong thể thao hoặc quân sự).",
+      "en": "Lineup; formation; arrangement of team members.",
+      "es": "Alineación; formación."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đội hình",
+      "en": "lineup",
+      "es": "alineación"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đội hình chính.",
+      "en": "Main lineup.",
+      "es": "Alineación principal."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b1c2d3e4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đội hình",
+      "language": "vi",
+      "sentence": "Huấn luyện viên vừa công bố ___ ra sân cho trận đấu tối nay.",
+      "choices": [
+        "đội hình",
+        "đội ngũ",
+        "đội trưởng"
+      ],
+      "answer": "đội hình",
+      "translation": {
+        "en": "The coach just announced the lineup for tonight's match."
+      },
+      "translatedAnswer": {
+        "en": "lineup"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "c1d2e3f4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đội hình",
+      "language": "vi",
+      "sentence": "Chúng ta cần thay đổi ___ trước khi giải đấu bắt đầu.",
+      "answer": "đội hình",
+      "translation": {
+        "en": "We need to change the lineup before the tournament starts."
+      },
+      "translatedAnswer": {
+        "en": "lineup"
+      }
+    }
+  },
   "_id": "APSRgxZlStxSlftZlg5D",
   "level": "B2",
   "topic": "Sports & Games"

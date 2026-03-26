@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm động từ chỉ hành động phát âm với âm lượng thấp, vừa đủ nghe hoặc chỉ để một người nghe thấy.",
+      "en": "To speak quietly; to talk in a low voice; to whisper.",
+      "es": "Hablar bajo; susurrar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nói nhỏ",
+      "en": "speak quietly",
+      "es": "hablar bajo"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Nói nhỏ trong thư viện.",
+      "en": "Speak quietly in the library.",
+      "es": "Hablar bajo en la biblioteca."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f7g8h9i0-j1k2-l3m4-n5o6-p7q8r9s0t1u2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "nói nhỏ",
+      "language": "vi",
+      "sentence": "Khi vào thư viện, anh nhớ phải ___ để không làm phiền người khác.",
+      "choices": [
+        "nói to",
+        "nói nhỏ",
+        "nói nhanh"
+      ],
+      "answer": "nói nhỏ",
+      "translation": {
+        "en": "When entering the library, remember to speak quietly so you don't disturb others."
+      },
+      "translatedAnswer": {
+        "en": "speak quietly"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "g8h9i0j1-k2l3-m4n5-o6p7-q8r9s0t1u2v3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "nói nhỏ",
+      "language": "vi",
+      "sentence": "Cô giáo yêu cầu cả lớp ___ trong giờ học.",
+      "answer": "nói nhỏ",
+      "translation": {
+        "en": "The teacher asks the whole class to speak quietly during the lesson."
+      },
+      "translatedAnswer": {
+        "en": "speak quietly"
+      }
+    }
+  },
   "_id": "uPhNzh2D3DIibJPkFbAX",
   "level": "A2",
   "topic": "Conversational Phrases"

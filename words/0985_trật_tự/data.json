@@ -36,6 +36,68 @@
     "hạnh phúc",
     "tự nhiên"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ sự sắp xếp đúng vị trí, đúng quy tắc hoặc sự ổn định, kỷ luật của một nhóm người.",
+      "en": "Order; discipline; properly arranged state.",
+      "es": "Orden; disciplina."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trật tự",
+      "en": "order",
+      "es": "orden"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Giữ trật tự.",
+      "en": "Keep order.",
+      "es": "Mantener el orden."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "n1o2p3q4-r5s6-t7u8-v9w0-x1y2z3a4b5c6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "trật tự",
+      "language": "vi",
+      "sentence": "Làm ơn giữ ___ khi chúng ta đang học trong lớp.",
+      "choices": [
+        "trật tự",
+        "hạnh phúc",
+        "tự nhiên"
+      ],
+      "answer": "trật tự",
+      "translation": {
+        "en": "Please keep order when we are studying in class."
+      },
+      "translatedAnswer": {
+        "en": "order"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "o2p3q4r5-s6t7-u8v9-w0x1-y2z3a4b5c6d7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "trật tự",
+      "language": "vi",
+      "sentence": "Cảnh sát yêu cầu mọi người đứng thành ___ trước cổng trường.",
+      "answer": "trật tự",
+      "translation": {
+        "en": "The police asked everyone to stand in order in front of the school gate."
+      },
+      "translatedAnswer": {
+        "en": "order"
+      }
+    }
+  },
   "_id": "XnWa1OfcYAcuXAKJjnJy",
   "level": "B2",
   "topic": "Society & Culture"

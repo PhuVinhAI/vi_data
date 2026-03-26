@@ -36,6 +36,68 @@
     "cô cậu",
     "bà cô"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ ghép chỉ nhóm thanh thiếu niên hoặc những người trẻ tuổi.",
+      "en": "Young people; youngsters; boys and girls (often used by elders).",
+      "es": "Jóvenes; chicos y chicas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cô cậu",
+      "en": "young person",
+      "es": "joven"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mấy cô cậu thanh niên.",
+      "en": "Those young people.",
+      "es": "Esos jóvenes."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s7t8u9v0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cô cậu",
+      "language": "vi",
+      "sentence": "Anh thấy mấy ___ trong lớp này rất năng động và thân thiện.",
+      "choices": [
+        "cô chú",
+        "cô cậu",
+        "bà cô"
+      ],
+      "answer": "cô cậu",
+      "translation": {
+        "en": "I see the young person in this class is very active and friendly."
+      },
+      "translatedAnswer": {
+        "en": "young person"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t8u9v0w1-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cô cậu",
+      "language": "vi",
+      "sentence": "Các ___ ở khu phố này thường tụ tập chơi bóng đá vào buổi chiều.",
+      "answer": "cô cậu",
+      "translation": {
+        "en": "The young person in this neighborhood often gathers to play football in the afternoon."
+      },
+      "translatedAnswer": {
+        "en": "young person"
+      }
+    }
+  },
   "_id": "82WT2cyVf82Xr9gm5UKy",
   "level": "B1",
   "topic": "Pronouns & Titles"

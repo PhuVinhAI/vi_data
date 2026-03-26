@@ -36,6 +36,68 @@
   ],
   "originalCount": 12,
   "updatedAt": "2026-03-03T07:53:28.127Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ lóng chỉ người đàn ông hào hoa, hoàn hảo về ngoại hình và tính cách.",
+      "en": "Prince charming; handsome and perfect man (popular slang).",
+      "es": "Príncipe azul; hombre perfecto."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "soái ca",
+      "en": "prince charming",
+      "es": "galán"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy là một soái ca.",
+      "en": "He is a prince charming.",
+      "es": "Él es một galán."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u9v0w1x2-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "soái ca",
+      "language": "vi",
+      "sentence": "Nhiều cô gái mơ ước có một ___ bên cạnh mình.",
+      "choices": [
+        "soái ca",
+        "công chúa",
+        "anh hùng"
+      ],
+      "answer": "soái ca",
+      "translation": {
+        "en": "Many girls dream of having a prince charming by their side."
+      },
+      "translatedAnswer": {
+        "en": "prince charming"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v0w1x2y3-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "soái ca",
+      "language": "vi",
+      "sentence": "Anh ấy luôn giúp đỡ mọi người nên ai cũng gọi anh là ___.",
+      "answer": "soái ca",
+      "translation": {
+        "en": "He always helps everyone, so everyone calls him prince charming."
+      },
+      "translatedAnswer": {
+        "en": "prince charming"
+      }
+    }
+  },
   "_id": "1TOmTgKXJ16IleoqXhLs",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

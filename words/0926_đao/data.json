@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ loại vũ khí có lưỡi lớn, sắc, thường có một cạnh sắc và hơi cong.",
+      "en": "Sword; broadsword; saber (usually single-edged and curved).",
+      "es": "Sable; espada ancha."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đao",
+      "en": "sword",
+      "es": "sable"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thanh đao sắc bén.",
+      "en": "A sharp broadsword.",
+      "es": "Một chiếc sable afilado."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "d1e2f3g4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đao",
+      "language": "vi",
+      "sentence": "Anh ấy sưu tầm nhiều loại ___ cổ trong nhà.",
+      "choices": [
+        "kiếm",
+        "đao",
+        "gươm"
+      ],
+      "answer": "đao",
+      "translation": {
+        "en": "He collects many types of ancient sword in his house."
+      },
+      "translatedAnswer": {
+        "en": "sword"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "e1f2g3h4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đao",
+      "language": "vi",
+      "sentence": "Trong phim, nhân vật chính sử dụng một chiếc ___ rất lớn.",
+      "answer": "đao",
+      "translation": {
+        "en": "In the movie, the main character uses a very big sword."
+      },
+      "translatedAnswer": {
+        "en": "sword"
+      }
+    }
+  },
   "_id": "RWhROSoouLU7wQp8WFFr",
   "level": "B2",
   "topic": "Fantasy & Fiction"

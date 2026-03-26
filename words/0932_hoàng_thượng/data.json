@@ -36,6 +36,68 @@
   "definition": "emperor",
   "rank": 932,
   "notes_md": "**Hoàng thượng** means *emperor* — the highest male ruler in a monarchy. It’s more formal and royal than *vua* (king).\n\nIt’s a noun. You can count it with **vị** (vị hoàng thượng), but often it’s used without a classifier in historical or palace contexts. It’s also used as a title of address, usually capitalized: **Hoàng thượng**.\n\nStrong connection: **vua** = king (lower rank), while **hoàng thượng** suggests a bigger empire and higher status.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người đứng đầu cao nhất trong một đế chế hoặc vương quốc.",
+      "en": "Emperor (the highest male ruler in a monarchy).",
+      "es": "Emperador."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hoàng thượng",
+      "en": "emperor",
+      "es": "emperador"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Kính thưa hoàng thượng.",
+      "en": "Your Imperial Majesty.",
+      "es": "Su Majestad Imperial."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "h1i4j5k6-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hoàng thượng",
+      "language": "vi",
+      "sentence": "Ngày mai, ___ sẽ tham dự lễ hội lớn ở cung điện.",
+      "choices": [
+        "hoàng thượng",
+        "công chúa",
+        "thái tử"
+      ],
+      "answer": "hoàng thượng",
+      "translation": {
+        "en": "Tomorrow, the emperor will attend the big festival at the palace."
+      },
+      "translatedAnswer": {
+        "en": "emperor"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "i4j5k6l7-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hoàng thượng",
+      "language": "vi",
+      "sentence": "Trong truyện cổ tích, ___ thường ban thưởng cho người dũng cảm.",
+      "answer": "hoàng thượng",
+      "translation": {
+        "en": "In fairy tales, the emperor often rewards brave people."
+      },
+      "translatedAnswer": {
+        "en": "emperor"
+      }
+    }
+  },
   "_id": "q8UUpWpS2sDP4X75d9LC",
   "level": "B2",
   "topic": "Fantasy & Fiction"

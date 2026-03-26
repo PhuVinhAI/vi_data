@@ -36,6 +36,68 @@
   ],
   "notes_md": "**Siêu nhân** means *superhero* — a person with special powers who saves people or fights evil (like Superman, Spider-Man). It’s a countable noun: **một siêu nhân, hai siêu nhân**; classifier: **một siêu nhân** (người is possible but usually omitted).\n\nIt can also be used jokingly for someone very capable, like “a superhuman” who handles everything easily.  \n\nStrong memory link: **anh hùng** = hero (more general, no superpowers).",
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ những nhân vật có năng lực phi thường, thường cứu thế giới.",
+      "en": "Superhero (character with extraordinary powers).",
+      "es": "Superhéroe."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "siêu nhân",
+      "en": "superhero",
+      "es": "superhéroe"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Phim siêu nhân.",
+      "en": "Superhero movie.",
+      "es": "Película de superhéroes."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y3z4a5b6-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "siêu nhân",
+      "language": "vi",
+      "sentence": "Em trai anh rất thích xem phim về ___ vào cuối tuần.",
+      "choices": [
+        "người máy",
+        "siêu nhân",
+        "cảnh sát"
+      ],
+      "answer": "siêu nhân",
+      "translation": {
+        "en": "My younger brother really likes watching movies about superhero on weekends."
+      },
+      "translatedAnswer": {
+        "en": "superhero"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z4a5b6c7-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "siêu nhân",
+      "language": "vi",
+      "sentence": "Bọn trẻ thường mơ ước trở thành ___ để cứu thế giới.",
+      "answer": "siêu nhân",
+      "translation": {
+        "en": "Children often dream of becoming a superhero to save the world."
+      },
+      "translatedAnswer": {
+        "en": "superhero"
+      }
+    }
+  },
   "_id": "jDLYgZOUtGTHqAN5epzi",
   "level": "B1",
   "topic": "Media & Entertainment"

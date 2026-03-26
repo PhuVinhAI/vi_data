@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "addedReason": "common noun",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ những vụ việc, nhiệm vụ hoặc mục đích cụ thể cần phải giải quyết (thường dùng ở miền Nam).",
+      "en": "Work; business; errands; matters to handle.",
+      "es": "Asuntos; trabajo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "công chuyện",
+      "en": "work / business",
+      "es": "asuntos"
+    },
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "example": {
+      "vi": "Đi làm công chuyện.",
+      "en": "Go handle some business.",
+      "es": "Ir a hacer unos recados."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "r5s6t7u8-v9w0-x1y2-z3a4-b5c6d7e8f9g0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "công chuyện",
+      "language": "vi",
+      "sentence": "Ngày mai anh phải đi làm ___ ở văn phòng từ sáng đến chiều.",
+      "choices": [
+        "công chuyện",
+        "công ty",
+        "công viên"
+      ],
+      "answer": "công chuyện",
+      "translation": {
+        "en": "Tomorrow I have to go to the office for work from morning to evening."
+      },
+      "translatedAnswer": {
+        "en": "work"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "s6t7u8v9-w0x1-y2z3-a4b5-c6d7e8f9g0h1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T14:00:00.000Z",
+    "updatedAt": "2025-03-12T14:00:00.000Z",
+    "content": {
+      "word": "công chuyện",
+      "language": "vi",
+      "sentence": "Chị đang bận ___ nên không thể đi chơi với bạn được.",
+      "answer": "công chuyện",
+      "translation": {
+        "en": "She is busy with work so she cannot hang out with her friend."
+      },
+      "translatedAnswer": {
+        "en": "work"
+      }
+    }
+  },
   "_id": "cS3QeRJsivwuZ74q4V3e",
   "level": "B1",
   "topic": "Daily Life & Objects"
