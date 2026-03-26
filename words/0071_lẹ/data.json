@@ -40,6 +40,58 @@
     "Anh rửa bát đĩa thật lẹ.",
     "Chị ăn cơm trưa rất lẹ."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "quickly / fast (casual)",
+      "vi": "lẹ"
+    },
+    "example": {
+      "vi": "Đi lẹ lên, chúng ta sắp muộn rồi.",
+      "en": "Go quickly, we're about to be late."
+    },
+    "definitions": {
+      "en": "To do something in a very short time; fast.",
+      "vi": "Thực hiện việc gì đó trong thời gian rất ngắn; nhanh chóng."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "chậm",
+        "lẹ",
+        "xấu"
+      ],
+      "word": "lẹ",
+      "language": "vi",
+      "sentence": "Bạn đi ___ lên!",
+      "translation": {
+        "en": "Go quickly!"
+      },
+      "translatedAnswer": {
+        "en": "quickly"
+      },
+      "answer": "lẹ"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "lẹ",
+      "language": "vi",
+      "sentence": "Công nhận anh làm việc ___ thật.",
+      "translation": {
+        "en": "I must admit you work really fast."
+      },
+      "answer": "lẹ",
+      "translatedAnswer": {
+        "en": "fast"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "notes": "Lẹ means quickly or fast. It’s a casual way to talk about doing something in a short time.\n\nIt usually comes after a verb to describe how the action is done.  \n\nIt’s very common in commands like lẹ lên (“hurry up”).  \nIn the North, people usually say nhanh instead; lẹ is more Southern.  \nOpposite: chậm (slow).",
   "_id": "B6x7dXqHWKRBAbg0h9W4",
   "level": "B1",

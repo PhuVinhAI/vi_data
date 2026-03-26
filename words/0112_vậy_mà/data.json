@@ -1,5 +1,57 @@
 {
-  "definition": "even though",
+  "definition": "even though / yet",
+  "flashcard": {
+    "translations": {
+      "en": "even though / yet",
+      "vi": "vậy mà"
+    },
+    "example": {
+      "vi": "Trời nắng, vậy mà anh ấy vẫn mặc áo khoác.",
+      "en": "It's sunny, yet he's still wearing a jacket."
+    },
+    "definitions": {
+      "en": "Used to express surprise or a contrast between expectation and reality.",
+      "vi": "Dùng để biểu thị sự ngạc nhiên hoặc sự tương phản giữa kỳ vọng và thực tế."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "vậy mà",
+        "vì vậy",
+        "cho nên"
+      ],
+      "word": "vậy mà",
+      "language": "vi",
+      "sentence": "Tôi đã nhắc rồi, ___ anh vẫn quên.",
+      "translation": {
+        "en": "I already reminded you, and yet you still forgot."
+      },
+      "translatedAnswer": {
+        "en": "and yet"
+      },
+      "answer": "vậy mà"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "vậy mà",
+      "language": "vi",
+      "sentence": "Hôm nay là chủ nhật, ___ cửa hàng đóng cửa.",
+      "translation": {
+        "en": "Today is Sunday, yet the store is closed."
+      },
+      "answer": "vậy mà",
+      "translatedAnswer": {
+        "en": "yet"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "originalCount": 100,
   "notes_md": "**vậy mà** = *even though / and yet*. It shows surprise or contrast between what you expect and what actually happens.\n\nIt links two clauses, and the second clause often feels unexpected, disappointing, or ironic. The tone usually carries emotion: surprise, frustration, disbelief.\n\n\nClose synonyms: **thế mà** (very similar, often interchangeable), **nhưng** (weaker contrast, less emotional).",
   "source": "frequency_analysis",

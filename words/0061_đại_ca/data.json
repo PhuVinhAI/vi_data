@@ -41,6 +41,58 @@
     "I call the boss on the phone.",
     "She meets the boss at home."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "big boss / big brother (slang)",
+      "vi": "đại ca"
+    },
+    "example": {
+      "vi": "Chào đại ca, em mới tới.",
+      "en": "Hello boss, I've just arrived."
+    },
+    "definitions": {
+      "en": "A slang term for a leader, boss, or elder brother-figure in a group.",
+      "vi": "Từ lóng chỉ người đứng đầu, ông chủ hoặc anh lớn trong một nhóm."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "đại ca",
+        "anh ấy",
+        "người lạ"
+      ],
+      "word": "đại ca",
+      "language": "vi",
+      "sentence": "Em chào ___.",
+      "translation": {
+        "en": "I greet the boss."
+      },
+      "translatedAnswer": {
+        "en": "boss"
+      },
+      "answer": "đại ca"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "đại ca",
+      "language": "vi",
+      "sentence": "___ đi đâu thế?",
+      "translation": {
+        "en": "Where are you going, boss?"
+      },
+      "answer": "đại ca",
+      "translatedAnswer": {
+        "en": "boss"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "_id": "Fw1oZM88lqeUL7i1w657",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

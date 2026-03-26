@@ -36,6 +36,60 @@
   "source": "frequency_analysis",
   "language": "vi",
   "definition": "aunt (mother's younger sister)",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "dì",
+      "choices": [
+        "bác",
+        "dì",
+        "cô"
+      ],
+      "translation": {
+        "en": "I went to visit my aunt in the countryside."
+      },
+      "answer": "dì",
+      "hint": "d_",
+      "translatedAnswer": {
+        "en": "aunt"
+      },
+      "language": "vi",
+      "sentence": "Em đã đi thăm ___ ở quê."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "dì",
+      "sentence": "___ nấu ăn rất ngon.",
+      "translation": {
+        "en": "My aunt cooks very well."
+      },
+      "answer": "Dì",
+      "translatedAnswer": {
+        "en": "Aunt"
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "aunt (mother's younger sister)",
+      "vi": "dì"
+    },
+    "definitions": {
+      "en": "Your mother's younger sister.",
+      "vi": "Em gái của mẹ."
+    },
+    "example": {
+      "en": "My aunt lives in the city.",
+      "vi": "Dì của em sống ở thành phố."
+    }
+  },
   "_id": "fWnHuc3nKxGZU9rZubey",
   "level": "A1",
   "topic": "Family & Relatives"

@@ -12,6 +12,70 @@
   "definition": "big",
   "addedReason": "common adjective",
   "notes": "to = big (in physical size). It describes something large in size, space, or scale.\n\nUse it before a noun: nhà to, xe to. It also describes sound, meaning “loud” (nói to = speak loudly).  \nVery common in daily talk; lớn is a close synonym, but lớn can feel a bit broader or more neutral. Opposite: nhỏ (small).",
+  "multiChoiceQuiz": {
+    "id": "7f8dbff6-e8c0-4c13-8959-a59e847eb7bd",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:35:00.000Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "big/loud"
+      },
+      "translation": {
+        "en": "Speak louder, please."
+      },
+      "hint": "t_",
+      "answer": "to",
+      "choices": [
+        "nhỏ",
+        "to",
+        "ít"
+      ],
+      "language": "vi",
+      "sentence": "Bạn vui lòng nói ___ hơn một chút.",
+      "word": "to"
+    },
+    "updatedAt": "2025-03-12T13:35:00.000Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "to",
+      "en": "big, large, loud",
+      "es": "grande, alto (sonido)"
+    },
+    "createdAt": "2025-01-28T11:15:00.000Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Big in size or loud in volume.",
+      "vi": "To về kích thước hoặc lớn về âm thanh.",
+      "es": "Grande en tamaño o alto en volumen."
+    },
+    "example": {
+      "vi": "Cái nhà này rất to.",
+      "es": "Esta casa là muy grande.",
+      "en": "This house is very big."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:35:00.000Z",
+    "type": "fillBlankQuiz",
+    "id": "6a93501c-0dcc-4d7d-82dc-35e7181c1d41",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:35:00.000Z",
+    "content": {
+      "choices": [],
+      "sentence": "Nhà của anh rất ___.",
+      "language": "vi",
+      "word": "to",
+      "translatedAnswer": {
+        "en": "big"
+      },
+      "translation": {
+        "en": "His house is very big."
+      },
+      "answer": "to"
+    }
+  },
   "exampleSentencesTranslated": [
     "His house is very big and has many rooms.",
     "This dog is bigger than your cat.",
@@ -39,4 +103,4 @@
   "_id": "NMAaseDGd4mcWWeD5Q8N",
   "level": "A1",
   "topic": "Adjectives & Descriptions"
-}
+}

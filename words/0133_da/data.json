@@ -30,6 +30,58 @@
     "You should protect your skin from the sun when going outside.",
     "I notice my skin is drier in the winter."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "skin",
+      "vi": "da"
+    },
+    "example": {
+      "vi": "Chăm sóc da rất quan trọng.",
+      "en": "Skin care is very important."
+    },
+    "definitions": {
+      "en": "The thin layer of tissue forming the natural outer covering of the body of a person or animal.",
+      "vi": "Lớp mô mỏng tạo thành lớp vỏ bọc tự nhiên bên ngoài cơ thể người hoặc động vật."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "da",
+        "mắt",
+        "tay"
+      ],
+      "word": "da",
+      "language": "vi",
+      "sentence": "Bạn phải bảo vệ ___ khỏi ánh nắng.",
+      "translation": {
+        "en": "You must protect your skin from the sun."
+      },
+      "translatedAnswer": {
+        "en": "skin"
+      },
+      "answer": "da"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "da",
+      "language": "vi",
+      "sentence": "___ của em rất đẹp.",
+      "translation": {
+        "en": "Your skin is very beautiful."
+      },
+      "answer": "da",
+      "translatedAnswer": {
+        "en": "skin"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "notes": "Da means skin (the skin on your body). It’s an uncountable noun in daily use, so you just say da, not a number.\n\nCommon pairings: da mặt (facial skin), da tay, chăm sóc da, da khô / da dầu / da nhạy cảm.  \nFor animal skin or leather, da also means hide/leather (like da bò = cow leather).\n\nYou can say làn da when talking about someone’s complexion — it sounds softer and more descriptive.",
   "choices": [
     "da",

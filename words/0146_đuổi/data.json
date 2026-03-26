@@ -36,6 +36,58 @@
     "She does not like to chase children out of the yard when it gets dark.",
     "The kids often chase each other around the playground in the afternoon."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "chase",
+      "vi": "đuổi"
+    },
+    "example": {
+      "vi": "Đừng đuổi theo nó nữa.",
+      "en": "Stop chasing it."
+    },
+    "definitions": {
+      "en": "To run after someone or something in order to catch them.",
+      "vi": "Chạy theo ai đó hoặc cái gì đó để bắt họ."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "đuổi",
+        "chạy",
+        "đến"
+      ],
+      "word": "đuổi",
+      "language": "vi",
+      "sentence": "Bạn đừng ___ theo con chó đó.",
+      "translation": {
+        "en": "Don't chase that dog."
+      },
+      "translatedAnswer": {
+        "en": "chase"
+      },
+      "answer": "đuổi"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "đuổi",
+      "language": "vi",
+      "sentence": "Tôi vừa ___ con mèo ra ngoài.",
+      "translation": {
+        "en": "I just chased the cat out."
+      },
+      "answer": "đuổi",
+      "translatedAnswer": {
+        "en": "chased"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "_id": "f1Zn4Rtybibl5RZi2nzp",
   "level": "B1",
   "topic": "Actions & Behaviors"

@@ -8,21 +8,18 @@
   "notes": "à is a question particle you put at the end of a sentence to check or confirm something. It turns a statement into a soft yes/no question.\n\nYou add it after the full sentence, and your voice rises at the end.  \n\nIt often shows mild surprise, curiosity, or that you’re checking info you just heard. Very similar to hả, but à feels a bit more neutral and gentle.",
   "flashcard": {
     "translations": {
-      "en": "to",
-      "vi": "à",
-      "es": "a"
+      "en": "right? / oh!",
+      "vi": "à"
     },
     "audioUrl": "flashcard.mp3",
     "createdAt": "2025-01-28T11:38:18.354Z",
     "definitions": {
-      "en": "A particle used to seek confirmation or agreement.",
-      "es": "Una partícula utilizada para buscar confirmación o acuerdo.",
-      "vi": "Một hạt được sử dụng để tìm kiếm sự xác nhận hoặc đồng ý."
+      "en": "A particle used at the end of a sentence to seek confirmation or express surprise.",
+      "vi": "Một tiểu từ dùng ở cuối câu để tìm kiếm sự xác nhận hoặc thể hiện sự ngạc nhiên."
     },
     "example": {
-      "vi": "Tôi đi đến trường à.",
-      "es": "Voy a la escuela, ¿verdad?",
-      "en": "I am going to school, right?"
+      "vi": "Anh là sinh viên à?",
+      "en": "You are a student, right?"
     }
   },
   "definition": "question particle",
@@ -32,14 +29,14 @@
     "createdAt": "2025-03-12T13:29:04.749Z",
     "content": {
       "choices": [],
-      "sentence": "Cô ấy nói ___ tôi nghe.",
+      "sentence": "Hôm nay bạn đi làm ___?",
       "language": "vi",
       "word": "à",
       "translatedAnswer": {
-        "en": "to"
+        "en": "right?"
       },
       "translation": {
-        "en": "She said to me."
+        "en": "You are going to work today, right?"
       },
       "answer": "à"
     },
@@ -47,9 +44,9 @@
     "updatedAt": "2025-03-12T13:29:04.749Z"
   },
   "exampleSentencesTranslated": [
-    "Excuse me, what time does this coffee shop open question particle?",
-    "Did you just call me earlier question particle?",
-    "I want to ask, is this your book question particle?"
+    "Excuse me, what time does this coffee shop open?",
+    "Did you just call me earlier?",
+    "I want to ask, is this your book?"
   ],
   "word": "à",
   "createdAt": "2025-01-27T21:23:43.156Z",
@@ -71,19 +68,19 @@
     "content": {
       "choices": [
         "à",
-        "às",
-        "À"
+        "không",
+        "có"
       ],
-      "sentence": "Cô ấy nói ___ tôi nghe.",
+      "sentence": "Anh là người Việt ___?",
       "language": "vi",
       "word": "à",
       "translatedAnswer": {
-        "en": "to"
+        "en": "right?"
       },
       "translation": {
-        "en": "She said to me."
+        "en": "You are Vietnamese, right?"
       },
-      "hint": "à___à",
+      "hint": "à",
       "answer": "à"
     },
     "createdAt": "2025-03-12T13:29:04.749Z",

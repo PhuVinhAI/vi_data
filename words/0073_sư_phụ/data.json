@@ -21,6 +21,58 @@
     "This afternoon he meets the master.",
     "I meet the master every day."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "master / teacher / mentor",
+      "vi": "sư phụ"
+    },
+    "example": {
+      "vi": "Sư phụ dạy em cách võ thuật.",
+      "en": "The master taught me martial arts."
+    },
+    "definitions": {
+      "en": "A respectful title for a master, teacher, or mentor, especially in martial arts or traditional trades.",
+      "vi": "Cách gọi tôn kính đối với người thầy, người dạy bảo, đặc biệt là trong võ thuật hoặc nghề nghiệp truyền thống."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "sư phụ",
+        "học sinh",
+        "người lạ"
+      ],
+      "word": "sư phụ",
+      "language": "vi",
+      "sentence": "Con chào ___ ạ.",
+      "translation": {
+        "en": "I greet you, Master."
+      },
+      "translatedAnswer": {
+        "en": "Master"
+      },
+      "answer": "sư phụ"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "sư phụ",
+      "language": "vi",
+      "sentence": "Hôm nay ___ đi đâu?",
+      "translation": {
+        "en": "Where is the master going today?"
+      },
+      "answer": "sư phụ",
+      "translatedAnswer": {
+        "en": "master"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "word": "sư phụ",
   "exampleSentences": [
     "Sáng nay em chào sư phụ.",

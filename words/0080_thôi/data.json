@@ -36,7 +36,7 @@
       "sentence": "Tôi sẽ dừng lại ___.",
       "language": "vi",
       "translatedAnswer": {
-        "en": "now"
+        "en": "stop"
       },
       "translation": {
         "en": "I will stop now."
@@ -45,8 +45,8 @@
       "hint": "t___i",
       "choices": [
         "thôi",
-        "thôis",
-        "THÔI"
+        "chỉ",
+        "đủ"
       ]
     },
     "updatedAt": "2025-03-12T13:40:54.054Z",
@@ -90,7 +90,7 @@
       },
       "answer": "thôi",
       "translatedAnswer": {
-        "en": "now"
+        "en": "stop"
       },
       "language": "vi",
       "word": "thôi",

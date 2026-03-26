@@ -41,6 +41,58 @@
   "notes": "Lo = to worry / be concerned about something. It’s the everyday verb for feeling anxious about a problem or responsibility.\n\nYou use lo + noun for the thing you’re worried about, or lo cho + someone when you’re worried for someone. It’s also used when you take care of or handle something (because you’re responsible for it).\n\nStructure: lo + việc / chuyện / điều gì; lo cho + ai  \n\nStronger version: lo lắng = feel anxious (more emotional). Opposite feeling: yên tâm (feel at ease).",
   "definition": "worry",
   "rank": 55,
+  "flashcard": {
+    "translations": {
+      "en": "to worry / to be concerned",
+      "vi": "lo / lo lắng"
+    },
+    "example": {
+      "vi": "Đừng lo, mọi chuyện sẽ ổn thôi.",
+      "en": "Don't worry, everything will be fine."
+    },
+    "definitions": {
+      "en": "To feel anxious or concerned about something; to take care of something.",
+      "vi": "Cảm thấy bất an hoặc quan tâm về điều gì đó; lo liệu hoặc giải quyết công việc."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "vui",
+        "lo",
+        "thích"
+      ],
+      "word": "lo",
+      "language": "vi",
+      "sentence": "Đừng ___ quá nhé.",
+      "translation": {
+        "en": "Don't worry too much."
+      },
+      "translatedAnswer": {
+        "en": "worry"
+      },
+      "answer": "lo"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "lo",
+      "language": "vi",
+      "sentence": "Tôi rất ___ cho anh ấy.",
+      "translation": {
+        "en": "I am very worried for him."
+      },
+      "answer": "lo",
+      "translatedAnswer": {
+        "en": "worried"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "_id": "mPdLNEk6r5g0DaHWP3yz",
   "level": "B1",
   "topic": "Emotions & Feelings"

@@ -36,6 +36,60 @@
   ],
   "source": "frequency_analysis",
   "notes_md": "**công chúa** = princess, the daughter of a king or queen.\n\nIt’s a countable noun: *một công chúa, hai công chúa*. In stories, you’ll often see it with words like *hoàng tử* (prince), *vua* (king), *hoàng hậu* (queen), *lâu đài* (castle).\n\nPeople also use **công chúa** playfully for a girl who is treated very gently or a bit spoiled. It can even be a cute nickname from parents to their daughter.\n\nStrong pair: **hoàng tử – công chúa** (prince – princess).",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "công chúa",
+      "choices": [
+        "hoàng tử",
+        "công chúa",
+        "nhà vua"
+      ],
+      "translation": {
+        "en": "The prince saved the princess."
+      },
+      "answer": "công chúa",
+      "hint": "c___ c___",
+      "translatedAnswer": {
+        "en": "princess"
+      },
+      "language": "vi",
+      "sentence": "Hoàng tử đã cứu ___."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "công chúa",
+      "sentence": "___ sống trong lâu đài.",
+      "translation": {
+        "en": "The princess lives in the castle."
+      },
+      "answer": "Công chúa",
+      "translatedAnswer": {
+        "en": "The princess"
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "princess",
+      "vi": "công chúa"
+    },
+    "definitions": {
+      "en": "The daughter of a king or queen.",
+      "vi": "Con gái của vua hoặc hoàng hậu."
+    },
+    "example": {
+      "en": "The princess is wearing a beautiful dress.",
+      "vi": "Công chúa đang mặc một chiếc váy đẹp."
+    }
+  },
   "_id": "NbQpIuv3lKZ9CvWH6OYj",
   "level": "B1",
   "topic": "Fantasy & Fiction"

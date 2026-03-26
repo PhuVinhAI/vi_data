@@ -21,6 +21,42 @@
     "nhưng"
   ],
   "definition": "Due to / Because of",
+  "flashcard": {
+    "translations": {
+      "en": "due to / because of",
+      "vi": "do"
+    },
+    "example": {
+      "vi": "Do trời mưa, chúng tôi không đi chơi được.",
+      "en": "Due to the rain, we couldn't go out."
+    },
+    "definitions": {
+      "en": "Used to explain the cause or reason for something.",
+      "vi": "Dùng để giải thích nguyên nhân hoặc lý do của một việc gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "do",
+        "đang",
+        "nhưng"
+      ],
+      "word": "do",
+      "language": "vi",
+      "sentence": "Học sinh nghỉ học ___ trời mưa to.",
+      "translation": {
+        "en": "Students missed school due to heavy rain."
+      },
+      "translatedAnswer": {
+        "en": "due to"
+      },
+      "answer": "do"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
   "notes_md": "**do** = *due to, because of*. It is a conjunction used to explain the reason or cause of an event.\n\nWhile it can be used like *lý do* (reason), its most common role in daily Vietnamese is as a connector. It’s slightly more formal than *vì*.\n\n\nStructure: **do + noun/phrase + nên + result.**",
   "source": "frequency_analysis",
   "createdAt": "2025-07-21T10:58:28.077Z",

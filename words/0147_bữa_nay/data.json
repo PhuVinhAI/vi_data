@@ -35,6 +35,58 @@
     "What do you want to eat today so I can cook for you?",
     "It is raining today so I cannot go to school."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "today",
+      "vi": "bữa nay"
+    },
+    "example": {
+      "vi": "Bữa nay tôi rất bận.",
+      "en": "Today I am very busy."
+    },
+    "definitions": {
+      "en": "The current day (colloquial, Southern Vietnamese).",
+      "vi": "Ngày hiện tại (khẩu ngữ, tiếng miền Nam)."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "bữa nay",
+        "hôm qua",
+        "năm ngoái"
+      ],
+      "word": "bữa nay",
+      "language": "vi",
+      "sentence": "___ em không có tiền.",
+      "translation": {
+        "en": "Today I have no money."
+      },
+      "translatedAnswer": {
+        "en": "today"
+      },
+      "answer": "bữa nay"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "bữa nay",
+      "language": "vi",
+      "sentence": "___ anh có rảnh không?",
+      "translation": {
+        "en": "Are you free today?"
+      },
+      "answer": "bữa nay",
+      "translatedAnswer": {
+        "en": "today"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "source": "frequency_analysis",
   "_id": "2IMotHL3ueGzzjXwdIPo",
   "level": "A2",

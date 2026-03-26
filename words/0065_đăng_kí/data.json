@@ -41,6 +41,58 @@
   "source": "frequency_analysis",
   "createdAt": "2025-07-21T10:56:53.299Z",
   "definition": "sign up",
+  "flashcard": {
+    "translations": {
+      "en": "to sign up / to register",
+      "vi": "đăng kí / đăng ký"
+    },
+    "example": {
+      "vi": "Tôi muốn đăng kí khóa học này.",
+      "en": "I want to sign up for this course."
+    },
+    "definitions": {
+      "en": "To record one's name officially in order to join or do something.",
+      "vi": "Ghi tên vào một danh sách chính thức để tham gia hoặc thực hiện việc gì đó."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "hủy bỏ",
+        "đăng kí",
+        "thanh toán"
+      ],
+      "word": "đăng kí",
+      "language": "vi",
+      "sentence": "Bạn đã ___ tài khoản chưa?",
+      "translation": {
+        "en": "Have you signed up for an account yet?"
+      },
+      "translatedAnswer": {
+        "en": "signed up"
+      },
+      "answer": "đăng kí"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "đăng kí",
+      "language": "vi",
+      "sentence": "Hãy ___ ngay hôm nay.",
+      "translation": {
+        "en": "Please sign up today."
+      },
+      "answer": "đăng kí",
+      "translatedAnswer": {
+        "en": "sign up"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "_id": "aPecnuzN9kwlAhWkzgLq",
   "level": "A2",
   "topic": "Daily Life & Services"

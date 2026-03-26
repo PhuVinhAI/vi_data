@@ -68,18 +68,18 @@
     "content": {
       "language": "vi",
       "translation": {
-        "en": "This is the food I like."
+        "en": "That is my friend."
       },
       "choices": [
         "của",
-        "về",
-        "cho"
+        "và",
+        "là"
       ],
       "answer": "của",
       "translatedAnswer": {
-        "en": "the food"
+        "en": "my"
       },
-      "sentence": "Đây là đồ ăn ___ tôi thích.",
+      "sentence": "Đó là người bạn ___ tôi.",
       "hint": "c__",
       "word": "của"
     },

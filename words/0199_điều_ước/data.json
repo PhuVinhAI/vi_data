@@ -28,6 +28,70 @@
   "updatedAt": "2026-03-03T06:40:29.151Z",
   "originalCount": 57,
   "notes": "điều ước = a wish, something you hope will happen (often a bit dreamy or emotional).\n\nIt’s a countable noun: một điều ước, hai điều ước, những điều ước.  \nOften used with verbs like có, ước, gửi gắm, thực hiện, or the phrase thành sự thật.\n\nIt usually sounds more hopeful or sentimental than just a plan or goal.  \nClose synonym: mong ước (a bit stronger/more heartfelt).",
+  "multiChoiceQuiz": {
+    "id": "7f8dbff6-e8c0-4c13-8959-a59e847eb7bb",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:25:00.000Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "wish"
+      },
+      "translation": {
+        "en": "If I had a wish, I would wish for everyone to be happy."
+      },
+      "hint": "đ___ ư___",
+      "answer": "điều ước",
+      "choices": [
+        "hy vọng",
+        "điều ước",
+        "kế hoạch"
+      ],
+      "language": "vi",
+      "sentence": "Nếu tôi có một ___, tôi sẽ ước mọi người đều hạnh phúc.",
+      "word": "điều ước"
+    },
+    "updatedAt": "2025-03-12T13:25:00.000Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "điều ước",
+      "es": "deseo",
+      "en": "wish"
+    },
+    "createdAt": "2025-01-28T11:05:00.000Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A wish or something one hopes for deeply.",
+      "vi": "Một mong muốn hoặc điều gì đó mà một người hy vọng sâu sắc.",
+      "es": "Un deseo o algo que se espera profundamente."
+    },
+    "example": {
+      "vi": "Đó là một điều ước đặc biệt.",
+      "es": "Es un deseo especial.",
+      "en": "That is a special wish."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:25:00.000Z",
+    "type": "fillBlankQuiz",
+    "id": "6a93501c-0dcc-4d7d-82dc-35e7181c1d39",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:25:00.000Z",
+    "content": {
+      "choices": [],
+      "sentence": "Nếu tôi có một ___, tôi sẽ ước mọi người đều hạnh phúc.",
+      "language": "vi",
+      "word": "điều ước",
+      "translatedAnswer": {
+        "en": "wish"
+      },
+      "translation": {
+        "en": "If I had a wish, I would wish for everyone to be happy."
+      },
+      "answer": "điều ước"
+    }
+  },
   "exampleSentencesTranslated": [
     "If I had a wish, I would wish to always be healthy.",
     "He blew out the birthday candles and thought about a special wish.",
@@ -39,4 +103,4 @@
   "_id": "DRr9amYOcLeW4xAiitaU",
   "level": "B1",
   "topic": "Emotions & Feelings"
-}
+}

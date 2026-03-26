@@ -35,6 +35,58 @@
     "The prince gave flowers to all the children in the village.",
     "In this movie, the prince has to overcome many challenges to save the kingdom."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "prince",
+      "vi": "hoàng tử"
+    },
+    "example": {
+      "vi": "Hoàng tử cứu công chúa.",
+      "en": "The prince saved the princess."
+    },
+    "definitions": {
+      "en": "The son of a king or queen.",
+      "vi": "Con trai của vua hay hoàng hậu."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "hoàng tử",
+        "nhà vua",
+        "con rồng"
+      ],
+      "word": "hoàng tử",
+      "language": "vi",
+      "sentence": "Chuyện kể về một ___ hào hiệp.",
+      "translation": {
+        "en": "The story tells about a chivalrous prince."
+      },
+      "translatedAnswer": {
+        "en": "prince"
+      },
+      "answer": "hoàng tử"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "hoàng tử",
+      "language": "vi",
+      "sentence": "___ cưới công chúa.",
+      "translation": {
+        "en": "The prince married the princess."
+      },
+      "answer": "hoàng tử",
+      "translatedAnswer": {
+        "en": "prince"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "addedReason": "prince",
   "_id": "laDpu31KIIJPfaQ16wrX",
   "level": "B1",

@@ -8,14 +8,14 @@
   "fillBlankQuiz": {
     "content": {
       "word": "thì",
-      "sentence": "Tôi sẽ đi ___ bạn đi.",
+      "sentence": "Nếu bạn đi ___ mình đi.",
       "translation": {
-        "en": "I will go if you go."
+        "en": "If you go, then I go."
       },
       "language": "vi",
       "choices": [],
       "translatedAnswer": {
-        "en": "if"
+        "en": "then"
       },
       "answer": "thì"
     },
@@ -52,19 +52,19 @@
     "content": {
       "answer": "thì",
       "translatedAnswer": {
-        "en": "you are right"
+        "en": "then"
       },
-      "sentence": "Tôi nghĩ ___ bạn đã đúng.",
+      "sentence": "Nếu trời mưa ___ ở nhà.",
       "hint": "t__",
       "word": "thì",
       "language": "vi",
       "choices": [
         "thì",
-        "cũng",
-        "vì"
+        "là",
+        "cũng"
       ],
       "translation": {
-        "en": "I think you are right."
+        "en": "If it rains, then stay home."
       }
     },
     "type": "multiChoiceQuiz"

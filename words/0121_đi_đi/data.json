@@ -30,6 +30,58 @@
     "southern_3.mp3"
   ],
   "originalFrequency": 0.0821,
+  "flashcard": {
+    "translations": {
+      "en": "go away / just go",
+      "vi": "đi đi"
+    },
+    "example": {
+      "vi": "Tôi không muốn nghe nữa, anh đi đi!",
+      "en": "I don't want to listen anymore, just go away!"
+    },
+    "definitions": {
+      "en": "A command used to tell someone to leave or go away.",
+      "vi": "Câu mệnh lệnh dùng để bảo ai đó rời đi hoặc đi khuất mắt."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "đi đi",
+        "ngồi đi",
+        "đến đi"
+      ],
+      "word": "đi đi",
+      "language": "vi",
+      "sentence": "Thôi, anh không thích thì anh ___.",
+      "translation": {
+        "en": "Fine, if you don't like it, just go away."
+      },
+      "translatedAnswer": {
+        "en": "go away"
+      },
+      "answer": "đi đi"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "đi đi",
+      "language": "vi",
+      "sentence": "Bạn ___ cho tôi nhờ.",
+      "translation": {
+        "en": "Please just go away and leave me alone."
+      },
+      "answer": "đi đi",
+      "translatedAnswer": {
+        "en": "go away"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "choices": [
     "đi đi",
     "ngồi đi",

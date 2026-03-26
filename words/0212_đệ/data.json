@@ -36,7 +36,71 @@
   "notes_md": "In modern conversational Vietnamese (slang), **đệ** refers to a younger male who follows or assists an “older brother” (**đại ca**). It implies a hierarchy of loyalty and protection.\n\nWhile it still means “disciple” in martial arts or academic contexts, its use in Rank 212 at C1 level focuses on this social hierarchy among friends or groups. Common collocations: **đệ ruột** (loyal/close underling), **mấy đứa đệ** (the younger guys/followers).",
   "rank": 212,
   "definition": "underling / junior member",
+  "multiChoiceQuiz": {
+    "id": "8f8dbff6-e8c0-4c13-8959-a59e847eb7bc",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:30:00.000Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "junior assistant/underling"
+      },
+      "translation": {
+        "en": "He has many followers."
+      },
+      "hint": "đ_",
+      "answer": "đệ",
+      "choices": [
+        "đệ",
+        "ba",
+        "con"
+      ],
+      "language": "vi",
+      "sentence": "Anh ấy có rất nhiều ___.",
+      "word": "đệ"
+    },
+    "updatedAt": "2025-03-12T13:30:00.000Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "đệ",
+      "en": "underling, follower, junior",
+      "es": "seguidor, subordinado"
+    },
+    "createdAt": "2025-01-28T11:10:00.000Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A younger male follower or junior member in a specific social group.",
+      "vi": "Một người em trai hoặc thuộc cấp trong một nhóm xã hội cụ thể.",
+      "es": "Un seguidor masculino más joven o miembro junior en un grupo social específico."
+    },
+    "example": {
+      "vi": "Nó là đệ ruột của tôi.",
+      "es": "Él es mi subordinado cercano.",
+      "en": "He is my close junior follower."
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:30:00.000Z",
+    "type": "fillBlankQuiz",
+    "id": "7a93501c-0dcc-4d7d-82dc-35e7181c1d40",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:30:00.000Z",
+    "content": {
+      "choices": [],
+      "sentence": "Anh ấy có rất nhiều ___.",
+      "language": "vi",
+      "word": "đệ",
+      "translatedAnswer": {
+        "en": "followers/underlings"
+      },
+      "translation": {
+        "en": "He has many followers."
+      },
+      "answer": "đệ"
+    }
+  },
   "_id": "s8pwDJisy6yviCKcBkt4",
   "level": "C1",
   "topic": "Slang & Colloquialisms"
-}
+}

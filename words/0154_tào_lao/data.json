@@ -29,6 +29,58 @@
     "I heard those nonsense rumors and found them so funny.",
     "I think these things are just nonsense, you don't need to care about them."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "nonsense / rubbish",
+      "vi": "tào lao"
+    },
+    "example": {
+      "vi": "Đừng tin, nó nói tào lao đó.",
+      "en": "Don't believe it, he's talking nonsense."
+    },
+    "definitions": {
+      "en": "Speaking or acting in a way that is ridiculous, untrue, or makes no sense.",
+      "vi": "Nói hoặc làm những việc vô lý, không đúng sự thật hoặc không có ý nghĩa."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "tào lao",
+        "quan trọng",
+        "hữu ích"
+      ],
+      "word": "tào lao",
+      "language": "vi",
+      "sentence": "Chuyện đó ___ quá, đừng nghe.",
+      "translation": {
+        "en": "That story is so nonsense, don't listen."
+      },
+      "translatedAnswer": {
+        "en": "nonsense"
+      },
+      "answer": "tào lao"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "tào lao",
+      "language": "vi",
+      "sentence": "Đừng nghĩ ___ nữa.",
+      "translation": {
+        "en": "Don't think nonsense anymore."
+      },
+      "answer": "tào lao",
+      "translatedAnswer": {
+        "en": "nonsense"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "source": "frequency_analysis",
   "exampleSentencesAudioUrlsNorthern": [
     "northern_1.mp3",

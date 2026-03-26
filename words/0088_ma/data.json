@@ -24,6 +24,58 @@
     "I am scared of the small ghost.",
     "She meets a strange ghost."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "ghost / spirit",
+      "vi": "ma"
+    },
+    "example": {
+      "vi": "Con ma này thật đáng sợ.",
+      "en": "This ghost is really scary."
+    },
+    "definitions": {
+      "en": "The spirit of a dead person, often believed to haunt the living.",
+      "vi": "Linh hồn của người chết, thường được tin là ám ảnh người sống."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "ma",
+        "mèo",
+        "mưa"
+      ],
+      "word": "ma",
+      "language": "vi",
+      "sentence": "Đứa trẻ rất sợ con ___.",
+      "translation": {
+        "en": "The child is very scared of the ghost."
+      },
+      "translatedAnswer": {
+        "en": "ghost"
+      },
+      "answer": "ma"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "ma",
+      "language": "vi",
+      "sentence": "Phim này có nhiều con ___ quá.",
+      "translation": {
+        "en": "This movie has too many ghosts."
+      },
+      "answer": "ma",
+      "translatedAnswer": {
+        "en": "ghost"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "createdAt": "2025-07-21T10:57:50.841Z",
   "addedReason": "ghost",
   "exampleSentencesAudioUrls": [

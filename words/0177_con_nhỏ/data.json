@@ -31,6 +31,60 @@
   "word": "con nhỏ",
   "originalFrequency": 0.0565,
   "addedReason": "girl (colloquial)",
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "word": "con nhỏ",
+      "choices": [
+        "người lớn",
+        "con nhỏ",
+        "bạn bè"
+      ],
+      "translation": {
+        "en": "Our house has two small children."
+      },
+      "answer": "con nhỏ",
+      "hint": "c___ n___",
+      "translatedAnswer": {
+        "en": "small children"
+      },
+      "language": "vi",
+      "sentence": "Nhà mình có hai ___."
+    },
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "word": "con nhỏ",
+      "sentence": "___ đang chơi ngoài sân.",
+      "translation": {
+        "en": "The child is playing in the yard."
+      },
+      "answer": "Con nhỏ",
+      "translatedAnswer": {
+        "en": "The child"
+      },
+      "language": "vi",
+      "choices": []
+    },
+    "type": "fillBlankQuiz"
+  },
+  "flashcard": {
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "en": "child / little kid",
+      "vi": "con nhỏ"
+    },
+    "definitions": {
+      "en": "A young child or little kid.",
+      "vi": "Một đứa trẻ còn nhỏ tuổi."
+    },
+    "example": {
+      "en": "They have two small children.",
+      "vi": "Họ có hai con nhỏ."
+    }
+  },
   "exampleSentencesAudioUrlsNorthern": [
     "northern_1.mp3",
     "northern_2.mp3",

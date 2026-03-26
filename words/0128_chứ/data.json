@@ -33,21 +33,21 @@
     "createdAt": "2025-03-12T16:35:26.447Z",
     "type": "multiChoiceQuiz",
     "content": {
-      "sentence": "Cô ấy thích ăn ___.",
+      "sentence": "Bạn đi học hôm nay ___?",
       "word": "chứ",
       "hint": "c___",
       "language": "vi",
       "translatedAnswer": {
-        "en": "it"
+        "en": "right?"
       },
       "translation": {
-        "en": "She likes to eat it."
+        "en": "You're going to school today, right?"
       },
       "answer": "chứ",
       "choices": [
-        "cá",
+        "không",
         "chứ",
-        "thịt"
+        "chưa"
       ]
     },
     "updatedAt": "2025-03-12T16:35:26.447Z"
@@ -73,14 +73,14 @@
   "fillBlankQuiz": {
     "content": {
       "word": "chứ",
-      "sentence": "Bạn có biết ___ không?",
+      "sentence": "Anh đồng ý ___?",
       "answer": "chứ",
       "translation": {
-        "en": "Do you know it?"
+        "en": "You agree, right?"
       },
       "choices": [],
       "translatedAnswer": {
-        "en": "it"
+        "en": "right?"
       },
       "language": "vi"
     },

@@ -7,6 +7,58 @@
     "The fierce teacher punishes him.",
     "The fierce mom forbids him."
   ],
+  "flashcard": {
+    "translations": {
+      "en": "fierce / aggressive",
+      "vi": "dữ"
+    },
+    "example": {
+      "vi": "Con chó này rất dữ.",
+      "en": "This dog is very fierce."
+    },
+    "definitions": {
+      "en": "Fierce, aggressive, or mean in behavior or appearance.",
+      "vi": "Hung dữ, hung hăng hoặc khó tính trong hành vi hoặc vẻ bề ngoài."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "content": {
+      "choices": [
+        "dữ",
+        "hiền",
+        "ngoan"
+      ],
+      "word": "dữ",
+      "language": "vi",
+      "sentence": "Đừng lại gần con chó đó, nó ___ lắm.",
+      "translation": {
+        "en": "Don't go near that dog, it's very fierce."
+      },
+      "translatedAnswer": {
+        "en": "fierce"
+      },
+      "answer": "dữ"
+    },
+    "audioUrl": "multi_choice.mp3"
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "content": {
+      "word": "dữ",
+      "language": "vi",
+      "sentence": "Hôm nay cô giáo trông hơi ___.",
+      "translation": {
+        "en": "The teacher looks a bit fierce today."
+      },
+      "answer": "dữ",
+      "translatedAnswer": {
+        "en": "fierce"
+      }
+    },
+    "audioUrl": "fill_blank.mp3"
+  },
   "notes_md": "**dữ** = fierce, aggressive, mean. It describes someone or something that feels scary, strict, or intense.\n\nIt’s an **adjective**, used after the noun: animals (chó dữ), people (người dữ), facial expressions or tone (mặt dữ, giọng dữ). Stronger form: **hung dữ** (very violent). Opposite: **hiền** (gentle, kind).\n\nIn the South, **dữ** is also used at the end of a sentence to mean “very” or “so” (strong feeling).\n\nStructure (Southern): Adj/Verb + dữ! (đẹp dữ!, đông dữ!)",
   "source": "frequency_analysis",
   "addedReason": "fierce/strong",
