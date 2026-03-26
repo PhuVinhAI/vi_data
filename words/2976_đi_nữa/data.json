@@ -5,18 +5,18 @@
       "hint": "đ___a",
       "choices": [
         "đi nữa",
-        "đi chơi",
-        "đi về"
+        "dù sao",
+        "vẫn thế"
       ],
       "translation": {
-        "en": "Do you want to go again?"
+        "en": "I will go, even if it rains."
       },
       "answer": "đi nữa",
       "translatedAnswer": {
-        "en": "go again"
+        "en": "even if"
       },
       "word": "đi nữa",
-      "sentence": "Bạn có muốn ___ không?",
+      "sentence": "Tôi vẫn đi, ___ trời có mưa.",
       "language": "vi"
     },
     "createdAt": "2025-03-12T13:41:49.912Z",
@@ -31,23 +31,21 @@
     "I want to study Vietnamese every day, even if/though I am busy."
   ],
   "flashcard": {
-    "createdAt": "2025-01-28T11:20:31.096Z",
+    "definitions": {
+      "es": "Aun si; no importa qué.",
+      "vi": "Cho dù; ngay cả khi (dùng để nhấn mạnh sự cam kết).",
+      "en": "Even if; no matter what."
+    },
     "example": {
-      "en": "Let's go further to the beach.",
-      "es": "Vamos a ir más lejos a la playa.",
-      "vi": "Chúng ta hãy đi nữa đến bãi biển."
+      "vi": "Tôi vẫn làm, đi nữa có khó khăn.",
+      "es": "Seguiré haciéndolo, incluso si hay dificultades.",
+      "en": "I will still do it, even if there are difficulties."
     },
     "translations": {
-      "en": "go further",
-      "vi": "đi nữa",
-      "es": "ir más lejos"
-    },
-    "definitions": {
-      "es": "ir más lejos; continuar yendo",
-      "vi": "đi tiếp; tiếp tục đi",
-      "en": "to go further; to continue going"
-    },
-    "audioUrl": "flashcard.mp3"
+      "es": "aunque / aun si",
+      "vi": "đi nữa (dù vậy)",
+      "en": "even if / although"
+    }
   },
   "fillBlankQuiz": {
     "id": "efa467b4-2561-4199-97df-b1753ee7afa5",
@@ -57,14 +55,14 @@
     "content": {
       "answer": "đi nữa",
       "translation": {
-        "en": "Do you want to go again?"
+        "en": "He still loves her, even if she is poor."
       },
       "translatedAnswer": {
-        "en": "go again"
+        "en": "even if"
       },
       "language": "vi",
       "word": "đi nữa",
-      "sentence": "Bạn có muốn ___ không?"
+      "sentence": "Anh ấy vẫn yêu cô ấy, ___ cô ấy có nghèo."
     },
     "updatedAt": "2025-03-12T13:41:49.912Z"
   },

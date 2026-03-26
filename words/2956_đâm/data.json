@@ -8,16 +8,16 @@
   "fillBlankQuiz": {
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Cây này sẽ ___ nếu không tưới nước.",
+      "sentence": "Anh ấy bị cành cây ___ vào tay.",
       "choices": [],
       "language": "vi",
       "answer": "đâm",
       "word": "đâm",
       "translation": {
-        "en": "This tree will die if not watered."
+        "en": "He was poked by a tree branch in his hand."
       },
       "translatedAnswer": {
-        "en": "die"
+        "en": "poked / stabbed"
       }
     },
     "updatedAt": "2025-03-12T16:22:12.057Z",
@@ -32,21 +32,21 @@
     "id": "6a91287d-90ca-4291-917b-dfd90b6c6ed5",
     "type": "multiChoiceQuiz",
     "content": {
-      "sentence": "Cây này sẽ ___ nếu không tưới nước.",
+      "sentence": "Đừng lao xe ___ vào tường.",
       "word": "đâm",
       "choices": [
-        "sống",
         "đâm",
-        "héo"
+        "dừng",
+        "đứng"
       ],
       "language": "vi",
       "answer": "đâm",
-      "hint": "d___",
+      "hint": "đ___",
       "translation": {
-        "en": "This tree will die if not watered."
+        "en": "Don't crash the car into the wall."
       },
       "translatedAnswer": {
-        "en": "die"
+        "en": "crash"
       }
     },
     "updatedAt": "2025-03-12T16:22:12.057Z"

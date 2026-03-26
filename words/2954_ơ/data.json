@@ -36,18 +36,18 @@
     "content": {
       "word": "ơ",
       "translation": {
-        "en": "Do you understand this?"
+        "en": "Oh, why are you here?"
       },
       "language": "vi",
-      "sentence": "Bạn có ___ hiểu bài này.",
+      "sentence": "___, sao bạn lại ở đây?",
       "choices": [
         "ơ",
-        "ơs",
-        "Ơ"
+        "ờ",
+        "ồ"
       ],
-      "hint": "ơ___ơ",
+      "hint": "ơ__",
       "translatedAnswer": {
-        "en": "understand"
+        "en": "oh"
       },
       "answer": "ơ"
     }
@@ -80,12 +80,12 @@
       "language": "vi",
       "word": "ơ",
       "translation": {
-        "en": "Do you understand this?"
+        "en": "Oh, I forgot."
       },
       "choices": [],
-      "sentence": "Bạn có ___ hiểu bài này.",
+      "sentence": "___, mình quên mất.",
       "translatedAnswer": {
-        "en": "understand"
+        "en": "oh"
       },
       "answer": "ơ"
     },

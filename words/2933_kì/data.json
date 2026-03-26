@@ -15,13 +15,13 @@
       "choices": [],
       "word": "kì",
       "translation": {
-        "en": "This class is really strange."
+        "en": "Prepare for the final exam period."
       },
       "answer": "kì",
-      "sentence": "Buổi học này thật ___.",
+      "sentence": "Chuẩn bị cho ___ thi cuối năm.",
       "language": "vi",
       "translatedAnswer": {
-        "en": "strange"
+        "en": "period"
       }
     },
     "updatedAt": "2025-03-12T14:27:31.302Z"
@@ -33,22 +33,20 @@
   ],
   "notes_md": "**kì** means a period of time, usually a school term, exam session, or a set phase. Think “term” or “period.”\n\nIt’s a countable noun: *một kì, hai kì*. Very common pairings: *kì thi* (exam period), *kì nghỉ* (holiday break), *học kì* (semester).  \n\nIt often talks about repeated time blocks, especially in school or official schedules.  \n\nWatch the spelling: **kì** (period) vs **kỳ** (strange). Same sound in the South, but different meaning in writing.",
   "flashcard": {
-    "audioUrl": "flashcard.mp3",
-    "translations": {
-      "es": "extraño",
-      "vi": "kì",
-      "en": "strange"
-    },
     "definitions": {
-      "es": "Un suceso inusual o extraño.",
-      "vi": "Một sự việc không bình thường hoặc kỳ lạ.",
-      "en": "An unusual or strange occurrence."
+      "es": "Một período de tiempo o término.",
+      "vi": "Một khoảng thời gian hoặc một giai đoạn (như học kỳ, kỳ thi).",
+      "en": "A period of time or a term."
     },
-    "createdAt": "2025-01-28T12:03:40.450Z",
     "example": {
-      "es": "Hoy es un día extraño.",
-      "en": "Today is a strange day.",
-      "vi": "Hôm nay là một ngày kì lạ."
+      "vi": "Học kì này kết thúc rồi.",
+      "es": "Este semestre ha terminado.",
+      "en": "This semester is over."
+    },
+    "translations": {
+      "es": "período",
+      "vi": "kì (học kì)",
+      "en": "period / term"
     }
   },
   "notes": "kì means a period of time, usually a school term, exam session, or a set phase. Think “term” or “period.”\n\nIt’s a countable noun: một kì, hai kì. Very common pairings: kì thi (exam period), kì nghỉ (holiday break), học kì (semester).  \n\nIt often talks about repeated time blocks, especially in school or official schedules.  \n\nWatch the spelling: kì (period) vs kỳ (strange). Same sound in the South, but different meaning in writing.",
@@ -69,19 +67,19 @@
     "content": {
       "word": "kì",
       "choices": [
-        "đẹp",
-        "thú vị",
-        "kì"
+        "kì",
+        "mùa",
+        "năm"
       ],
       "hint": "k__",
       "translation": {
-        "en": "The performance is really strange."
+        "en": "This semester is very busy."
       },
       "answer": "kì",
-      "sentence": "Buổi biểu diễn thật ___.",
+      "sentence": "Học ___ này rất bận rộn.",
       "language": "vi",
       "translatedAnswer": {
-        "en": "strange"
+        "en": "semester"
       }
     },
     "type": "multiChoiceQuiz",

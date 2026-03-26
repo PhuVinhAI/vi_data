@@ -29,12 +29,12 @@
       "choices": [],
       "word": "hằng",
       "language": "vi",
-      "sentence": "Hôm nay là ngày ___.",
+      "sentence": "Tôi đi bộ ___ ngày.",
       "translation": {
-        "en": "Today is a regular day."
+        "en": "I walk every day."
       },
       "translatedAnswer": {
-        "en": "regular"
+        "en": "every"
       },
       "answer": "hằng"
     }
@@ -64,17 +64,17 @@
     "content": {
       "choices": [
         "hằng",
-        "đặc biệt",
-        "thường"
+        "luôn",
+        "đều"
       ],
-      "sentence": "Hôm nay là ngày ___.",
+      "sentence": "Họ luyện tập ___ ngày.",
       "language": "vi",
       "word": "hằng",
       "translatedAnswer": {
-        "en": "regular"
+        "en": "every"
       },
       "translation": {
-        "en": "Today is a regular day."
+        "en": "They practice every day."
       },
       "answer": "hằng",
       "hint": "h___g"
