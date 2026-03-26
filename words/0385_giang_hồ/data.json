@@ -36,6 +36,68 @@
     "xã hội",
     "gia đình"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Giới xã hội đen, những người sống ngoài vòng pháp luật.",
+      "en": "Underworld; wanderers; street-smart people often outside the law.",
+      "es": "Bajos fondos / mundo criminal."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "giang hồ",
+      "en": "underworld / gangster-like",
+      "es": "bajos fondos"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ta có vẻ ngoài rất giang hồ.",
+      "en": "He has a very gangster-like appearance.",
+      "es": "Tiene una apariencia muy de bajos fondos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "be5f6a7a-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "giang hồ",
+      "language": "vi",
+      "sentence": "Những chuyện trong giới ___ rất phức tạp.",
+      "choices": [
+        "giang hồ",
+        "giảng đường",
+        "gia đình"
+      ],
+      "answer": "giang hồ",
+      "translation": {
+        "en": "Matters in the underworld are very complicated."
+      },
+      "translatedAnswer": {
+        "en": "underworld"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "cf6a7b8b-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "giang hồ",
+      "language": "vi",
+      "sentence": "Đừng dính dáng đến dân ___.",
+      "answer": "giang hồ",
+      "translation": {
+        "en": "Don't get involved with gangsters."
+      },
+      "translatedAnswer": {
+        "en": "gangsters"
+      }
+    }
+  },
   "_id": "XTg7e05m0auoWa11CHfq",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

@@ -36,6 +36,68 @@
   ],
   "originalCount": 25,
   "notes": "ăn trộm means to steal (to take something secretly that isn’t yours). It’s a verb, not a noun — the person is kẻ trộm or tên trộm.\n\nUse it with a direct object: what was stolen, and often của + someone to say whose it was.  \n\nYou can also say đi ăn trộm = go out stealing.  \nClose synonym: ăn cắp (very similar; “ăn cắp” is heard a bit more in the North).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Lấy của người khác một cách lén lút.",
+      "en": "To steal; to take something secretly.",
+      "es": "Robar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ăn trộm",
+      "en": "steal",
+      "es": "robar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy bị bắt vì tội ăn trộm.",
+      "en": "He was arrested for stealing.",
+      "es": "Fue arrestado por robar."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "9d0e1f2a-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn trộm",
+      "language": "vi",
+      "sentence": "Hôm qua nhà hàng xóm bị ___.",
+      "choices": [
+        "ăn trộm",
+        "cháy",
+        "sơn"
+      ],
+      "answer": "ăn trộm",
+      "translation": {
+        "en": "Yesterday the neighbor's house was burglarized."
+      },
+      "translatedAnswer": {
+        "en": "burglarized"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "a1b2c3d4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn trộm",
+      "language": "vi",
+      "sentence": "Đừng bao giờ ___ của người khác.",
+      "answer": "ăn trộm",
+      "translation": {
+        "en": "Never steal from others."
+      },
+      "translatedAnswer": {
+        "en": "steal"
+      }
+    }
+  },
   "_id": "fIZqkwnCyGJIpuOsLy5Q",
   "level": "B1",
   "topic": "Crime & Law"

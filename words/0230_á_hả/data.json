@@ -1,11 +1,70 @@
 {
   "addedReason": "common expression",
-  "exampleSentencesAudioUrlsNorthern": [
-    "northern_1.mp3",
-    "northern_2.mp3",
-    "northern_3.mp3"
-  ],
-  "notes_md": "**á hả** means “really?” or “is that so?” — you’re reacting with surprise, doubt, or checking if something is true.\n\nIt’s a sentence-ending reaction phrase. You repeat or refer to what the other person said, then add **á hả** to show surprise or to confirm.  \n\nIt feels curious, sometimes slightly teasing, depending on tone. Rising intonation = genuine surprise; flatter tone can sound skeptical.\n\nStrong memory link: Southern speakers often say **thiệt hả?**, while Northern speakers more often say **thật à?** (same idea, different regional flavor).",
+  "notes": "á hả means “really?” or “is that so?” — you’re reacting with surprise, doubt, or checking if something is true.\n\nIt’s a sentence-ending reaction phrase. You repeat or refer to what the other person said, then add á hả to show surprise or to confirm.  \n\nIt feels curious, sometimes slightly teasing, depending on tone. Rising intonation = genuine surprise; flatter tone can sound skeptical.\n\nStrong memory link: Southern speakers often say thiệt hả?, while Northern speakers more often say thật à? (same idea, different regional flavor).",
+  "multiChoiceQuiz": {
+    "id": "e0a1b2c3-d4e5-4f6a-b7c8-d9e0f1a2b3c4",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:48:00.000Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "really?"
+      },
+      "translation": {
+        "en": "You don't like chocolate, really?"
+      },
+      "hint": "á h_",
+      "answer": "á hả",
+      "choices": [
+        "vậy hả",
+        "á hả",
+        "ủa"
+      ],
+      "language": "vi",
+      "sentence": "Bạn không thích sô-cô-la ___?",
+      "word": "á hả"
+    },
+    "updatedAt": "2025-03-12T13:48:00.000Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "á hả",
+      "en": "really?, is that so?",
+      "es": "¿en serio?, ¿de verdad?"
+    },
+    "createdAt": "2025-01-28T11:45:00.000Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "A sentence-ending particle to express surprise or check confirmation.",
+      "vi": "Từ dùng cuối câu để biểu lộ sự ngạc nhiên hoặc xác nhận lại.",
+      "es": "Partícula al final de la frase para expresar sorpresa o verificar confirmación."
+    },
+    "example": {
+      "vi": "Anh đi Hàn Quốc á hả?",
+      "en": "You're going to Korea, really?",
+      "es": "¿Vas a Corea, de verdad?"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:48:00.000Z",
+    "type": "fillBlankQuiz",
+    "id": "f1a2b3c4-d5e6-4f7a-b8c9-d0e1f2a3b4c5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:48:00.000Z",
+    "content": {
+      "choices": [],
+      "sentence": "Em vừa mới nghỉ việc ___?",
+      "language": "vi",
+      "word": "á hả",
+      "translatedAnswer": {
+        "en": "really?"
+      },
+      "translation": {
+        "en": "You just quit your job, really?"
+      },
+      "answer": "á hả"
+    }
+  },
   "rank": 230,
   "choices": [
     "á hả",
@@ -28,7 +87,6 @@
   "language": "vi",
   "source": "frequency_analysis",
   "definition": "really",
-  "notes": "á hả means “really?” or “is that so?” — you’re reacting with surprise, doubt, or checking if something is true.\n\nIt’s a sentence-ending reaction phrase. You repeat or refer to what the other person said, then add á hả to show surprise or to confirm.  \n\nIt feels curious, sometimes slightly teasing, depending on tone. Rising intonation = genuine surprise; flatter tone can sound skeptical.\n\nStrong memory link: Southern speakers often say thiệt hả?, while Northern speakers more often say thật à? (same idea, different regional flavor).",
   "updatedAt": "2026-03-03T06:43:44.644Z",
   "exampleSentences": [
     "Em vừa trúng thưởng lớn á hả, chúc mừng em nhé!",
@@ -39,4 +97,4 @@
   "_id": "eaObanUfO98ve1w8CyMa",
   "level": "B2",
   "topic": "Conversational Phrases"
-}
+}

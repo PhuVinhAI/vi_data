@@ -36,6 +36,68 @@
   ],
   "source": "frequency_analysis",
   "notes_md": "**Quý vị** means “ladies and gentlemen” or a very polite “you (all).” It’s a respectful way to address a group, especially in formal settings.\n\nIt’s a pronoun used for the listener(s), not yourself. It sounds formal and respectful, often in speeches, announcements, invitations, or customer service.\n\n\nSimilar feeling to **các bạn** (you guys), but *quý vị* is much more formal and polite.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cách xưng hô trang trọng với một nhóm người.",
+      "en": "A formal way to address a group of people; ladies and gentlemen.",
+      "es": "Estimados señores / damas y caballeros."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "quý vị",
+      "en": "ladies and gentlemen / you (formal)",
+      "es": "estimados / señores"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Kính thưa quý vị đại biểu.",
+      "en": "Distinguished ladies and gentlemen.",
+      "es": "Damas y caballeros distinguidos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a9b9c9d9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quý vị",
+      "language": "vi",
+      "sentence": "Kính thưa ___, chào mừng đến với buổi lễ.",
+      "choices": [
+        "quý vị",
+        "các bạn",
+        "họ"
+      ],
+      "answer": "quý vị",
+      "translation": {
+        "en": "Ladies and gentlemen, welcome to the ceremony."
+      },
+      "translatedAnswer": {
+        "en": "ladies and gentlemen"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b9c9d9e9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quý vị",
+      "language": "vi",
+      "sentence": "Xin ___ vui lòng giữ trật tự.",
+      "answer": "quý vị",
+      "translation": {
+        "en": "Ladies and gentlemen, please remain silent."
+      },
+      "translatedAnswer": {
+        "en": "ladies and gentlemen"
+      }
+    }
+  },
   "_id": "4Y8cvEyhTThwHhBexywn",
   "level": "B1",
   "topic": "Pronouns & Titles"

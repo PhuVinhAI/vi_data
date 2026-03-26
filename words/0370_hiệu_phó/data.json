@@ -36,6 +36,68 @@
   ],
   "addedReason": "school vocabulary",
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Người giúp việc cho hiệu trưởng, quản lý một phần công việc của trường.",
+      "en": "Vice principal; deputy head of a school.",
+      "es": "Subdirector / vicedirector."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hiệu phó",
+      "en": "vice principal",
+      "es": "subdirector"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cô hiệu phó đang phổ biến kế hoạch mới.",
+      "en": "The vice principal is explaining the new plan.",
+      "es": "La subdirectora está explicando el nuevo plan."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "3c4d5e6f-7890-abcd-ef12-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hiệu phó",
+      "language": "vi",
+      "sentence": "Thầy Lan được bổ nhiệm làm ___ của trường.",
+      "choices": [
+        "hiệu phó",
+        "học sinh",
+        "bảo vệ"
+      ],
+      "answer": "hiệu phó",
+      "translation": {
+        "en": "Mr. Lan was appointed as the vice principal of the school."
+      },
+      "translatedAnswer": {
+        "en": "vice principal"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "4d5e6f7a-890a-bcde-f123-4567890abcde",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hiệu phó",
+      "language": "vi",
+      "sentence": "Gặp ___ để nộp hồ sơ xin nghỉ học.",
+      "answer": "hiệu phó",
+      "translation": {
+        "en": "Meet the vice principal to submit the school leave application."
+      },
+      "translatedAnswer": {
+        "en": "vice principal"
+      }
+    }
+  },
   "_id": "CjgcDYTv1JjwEfscQWgw",
   "level": "B2",
   "topic": "Work & Education"

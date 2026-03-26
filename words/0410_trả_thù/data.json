@@ -36,6 +36,68 @@
   ],
   "word": "trả thù",
   "createdAt": "2025-07-21T11:12:11.473Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Làm hại lại người đã làm hại mình để xả giận.",
+      "en": "To take revenge; to retaliate.",
+      "es": "Vengarse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trả thù",
+      "en": "revenge",
+      "es": "venganza"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Trả thù không mang lại hạnh phúc.",
+      "en": "Revenge does not bring happiness.",
+      "es": "La venganza no trae felicidad."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "5f6e7d8c-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trả thù",
+      "language": "vi",
+      "sentence": "Hành động ___ này thật đáng sợ.",
+      "choices": [
+        "trả thù",
+        "tha thứ",
+        "nhẫn nhịn"
+      ],
+      "answer": "trả thù",
+      "translation": {
+        "en": "This act of revenge is scary."
+      },
+      "translatedAnswer": {
+        "en": "revenge"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "6a7b8c9d-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trả thù",
+      "language": "vi",
+      "sentence": "Đừng tìm cách ___.",
+      "answer": "trả thù",
+      "translation": {
+        "en": "Don't seek revenge."
+      },
+      "translatedAnswer": {
+        "en": "revenge"
+      }
+    }
+  },
   "_id": "002LlILZu9kA3WhjSij6",
   "level": "B2",
   "topic": "Crime & Law"

@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Người đứng đầu quản lý một ngôi trường.",
+      "en": "Principal; headmaster/headmistress.",
+      "es": "Director/a de escuela."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hiệu trưởng",
+      "en": "principal",
+      "es": "director"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thầy hiệu trưởng rất nghiêm khắc.",
+      "en": "The principal is very strict.",
+      "es": "El director es muy estricto."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b1c2d3e4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hiệu trưởng",
+      "language": "vi",
+      "sentence": "Hôm nay ___ đi công tác.",
+      "choices": [
+        "hiệu trưởng",
+        "giáo viên",
+        "bảo vệ"
+      ],
+      "answer": "hiệu trưởng",
+      "translation": {
+        "en": "Today the principal is on a business trip."
+      },
+      "translatedAnswer": {
+        "en": "principal"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "c2d3e4f5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hiệu trưởng",
+      "language": "vi",
+      "sentence": "Em muốn gặp thầy ___.",
+      "answer": "hiệu trưởng",
+      "translation": {
+        "en": "I want to see the principal."
+      },
+      "translatedAnswer": {
+        "en": "principal"
+      }
+    }
+  },
   "_id": "nrJq4XjLqmrMXN1VqTON",
   "level": "B1",
   "topic": "Work & Education"

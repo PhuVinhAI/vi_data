@@ -36,6 +36,68 @@
   ],
   "originalFrequency": 0.0247,
   "word": "chìa khóa",
+  "flashcard": {
+    "definitions": {
+      "vi": "Vật dùng để mở hoặc đóng ổ khóa.",
+      "en": "Key; an object used to lock or unlock something.",
+      "es": "Llave."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chìa khóa",
+      "en": "key",
+      "es": "llave"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nhớ mang theo chìa khóa khi ra ngoài.",
+      "en": "Remember to bring the key when going out.",
+      "es": "Recuerda traer la llave cuando salgas."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "9c3d4e5f-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chìa khóa",
+      "language": "vi",
+      "sentence": "Tôi quên ___ trong xe mất rồi.",
+      "choices": [
+        "chìa khóa",
+        "ví tiền",
+        "điện thoại"
+      ],
+      "answer": "chìa khóa",
+      "translation": {
+        "en": "I forgot the key in the car."
+      },
+      "translatedAnswer": {
+        "en": "key"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "ad4e5f6a-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chìa khóa",
+      "language": "vi",
+      "sentence": "Mở cửa bằng ___ này nhé.",
+      "answer": "chìa khóa",
+      "translation": {
+        "en": "Open the door with this key."
+      },
+      "translatedAnswer": {
+        "en": "key"
+      }
+    }
+  },
   "_id": "7xJBjzHc3LT4xnV0zfbi",
   "level": "A2",
   "topic": "Daily Life & Objects"

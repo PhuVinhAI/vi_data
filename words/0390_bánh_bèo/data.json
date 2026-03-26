@@ -36,6 +36,68 @@
   "rank": 390,
   "notes_md": "**bánh bèo** is a small steamed rice cake, usually topped with shrimp powder and eaten with fish sauce. It’s a popular Vietnamese snack or light meal.\n\nIt’s a noun. Use classifiers like **cái** (for one piece) or **đĩa** (for a plate of them). Often goes with **ăn bánh bèo**, **bánh bèo chén**, and **nước mắm**.\n\nVery common slang meaning: **“bánh bèo”** can describe a girl who seems overly girly, weak, or dramatic. It’s informal and can sound teasing or a bit negative depending on tone.",
   "definition": "steamed rice cake",
+  "flashcard": {
+    "definitions": {
+      "vi": "Món bánh làm từ bột gạo, hấp chín, thường ăn với tôm chấy và nước mắm.",
+      "en": "Steamed rice cake; a popular Vietnamese dish made from rice flour.",
+      "es": "Pastel de arroz al vapor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bánh bèo",
+      "en": "steamed rice cake",
+      "es": "pastel de arroz"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bánh bèo ở đây rất nổi tiếng.",
+      "en": "The steamed rice cakes here are very famous.",
+      "es": "Los pasteles de arroz al vapor aquí son muy famosos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "da5f6a9b-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bánh bèo",
+      "language": "vi",
+      "sentence": "Tôi thích ăn ___ chén.",
+      "choices": [
+        "bánh bèo",
+        "bánh mì",
+        "bánh bao"
+      ],
+      "answer": "bánh bèo",
+      "translation": {
+        "en": "I like eating steamed rice cakes in small bowls."
+      },
+      "translatedAnswer": {
+        "en": "steamed rice cake"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "eb6a7b8c-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bánh bèo",
+      "language": "vi",
+      "sentence": "Sáng nay tôi ăn ___.",
+      "answer": "bánh bèo",
+      "translation": {
+        "en": "I had steamed rice cakes this morning."
+      },
+      "translatedAnswer": {
+        "en": "steamed rice cake"
+      }
+    }
+  },
   "_id": "nzEkdt3kNTUz1j4YYXrh",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

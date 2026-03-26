@@ -1,4 +1,61 @@
 {
+  "flashcard": {
+    "definitions": {
+      "en": "An animal that lives in water and breathes with gills.",
+      "es": "Un animal que vive en el agua y respira por branquias.",
+      "vi": "Một loài động vật sống dưới nước và thở bằng mang."
+    },
+    "example": {
+      "en": "I like to eat fish.",
+      "es": "Me gusta comer pescado.",
+      "vi": "Tôi thích ăn cá."
+    },
+    "translations": {
+      "en": "fish",
+      "es": "pez/pescado",
+      "vi": "cá"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Con ___ này bơi rất nhanh.",
+      "hint": "c_",
+      "answer": "cá",
+      "language": "vi",
+      "word": "cá",
+      "translatedAnswer": {
+        "en": "fish"
+      },
+      "choices": [
+        "cá",
+        "chim",
+        "chó"
+      ],
+      "translation": {
+        "en": "This fish swims very fast."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi thích ăn ___ nướng.",
+      "word": "cá",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "fish"
+      },
+      "translation": {
+        "en": "I like to eat grilled fish."
+      },
+      "answer": "cá",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "originalCount": 40,
   "updatedAt": "2026-03-03T06:50:10.101Z",
   "notes_md": "**cá** = fish. It means the animal that lives in water and is also the food.\n\nIt’s a noun. Use the classifier **con** for animals.  \n\nNo plural change: one fish, many fish = still **cá**. Common pairings: **cá biển** (sea fish), **cá nước ngọt** (freshwater fish), **ăn cá** (eat fish), **nuôi cá** (raise fish), **bắt cá** (catch fish).\n\nRelated word: **hải sản** = seafood (broader category, not just fish).",

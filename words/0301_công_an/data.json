@@ -1,6 +1,60 @@
 {
   "language": "vi",
   "createdAt": "2025-07-21T11:06:15.515Z",
+  "flashcard": {
+    "definitions": {
+      "en": "The civil force of a state, responsible for the prevention and detection of crime.",
+      "vi": "Lực lượng dân sự của nhà nước, có nhiệm vụ phòng ngừa và phát hiện tội phạm; công an."
+    },
+    "example": {
+      "en": "Call the police!",
+      "vi": "Gọi công an đi!"
+    },
+    "translations": {
+      "en": "police",
+      "vi": "công an"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "___ đang giữ gìn trật tự.",
+      "hint": "c___ __n",
+      "answer": "công an",
+      "language": "vi",
+      "word": "công an",
+      "translatedAnswer": {
+        "en": "police"
+      },
+      "choices": [
+        "công an",
+        "bác sĩ",
+        "kỹ sư"
+      ],
+      "translation": {
+        "en": "The police are maintaining order."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi thấy chú ___ đứng bên kia đường.",
+      "word": "công an",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "police"
+      },
+      "translation": {
+        "en": "I saw the police officer standing on the other side of the street."
+      },
+      "answer": "công an",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "definition": "police",
   "source": "frequency_analysis",
   "exampleSentencesAudioUrlsNorthern": [

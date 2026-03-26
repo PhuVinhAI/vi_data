@@ -36,6 +36,68 @@
   "notes": "tội nghiệp = “pitiful,” “poor thing,” feeling sympathy for someone. It’s softer and more emotional than đáng thương.\n\nIt’s an adjective, describing a person or animal in a bad or sad situation. You can use it after linking verbs (like là, trông, nhìn) or as a short emotional reaction by itself.\n\nIt often goes with intensifiers like thật or quá to show stronger sympathy.  \n\nSometimes it’s also used playfully to show gentle sympathy toward yourself or someone close, not only serious sadness.",
   "word": "tội nghiệp",
   "createdAt": "2025-07-21T11:09:02.423Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm thấy thương xót cho ai đó gặp hoàn cảnh khó khăn.",
+      "en": "Feeling sympathy or pity for someone in a sad situation.",
+      "es": "Pobre / lamentable / que da pena."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tội nghiệp",
+      "en": "pitiful / poor thing",
+      "es": "pobre / lástima"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Em bé bị lạc đường trông thật tội nghiệp.",
+      "en": "The lost child looks so pitiful.",
+      "es": "El niño perdido parece tan lamentable."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c9d9e9f9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tội nghiệp",
+      "language": "vi",
+      "sentence": "Con mèo bị bỏ rơi trông thật ___.",
+      "choices": [
+        "tội nghiệp",
+        "may mắn",
+        "vui vẻ"
+      ],
+      "answer": "tội nghiệp",
+      "translation": {
+        "en": "The abandoned cat looks so pitiful."
+      },
+      "translatedAnswer": {
+        "en": "pitiful"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d9e9f9a9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tội nghiệp",
+      "language": "vi",
+      "sentence": "___ quá, anh ấy bị mất hết tiền rồi.",
+      "answer": "Tội nghiệp",
+      "translation": {
+        "en": "Poor thing, he lost all his money."
+      },
+      "translatedAnswer": {
+        "en": "poor thing"
+      }
+    }
+  },
   "_id": "5mTcT3nhM2cet2vYRqXX",
   "level": "B1",
   "topic": "Emotions & Feelings"

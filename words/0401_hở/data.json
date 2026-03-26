@@ -36,6 +36,68 @@
   ],
   "rank": 401,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Không khít, để lộ ra khoảng trống hoặc khe hở.",
+      "en": "Open; exposed; having a gap or being unsealed.",
+      "es": "Abierto / expuesto."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hở",
+      "en": "open / exposed",
+      "es": "abierto"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cửa phòng bị hở.",
+      "en": "The room door is open a bit.",
+      "es": "La puerta de la habitación está un poco abierta."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1e9c2d3f-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hở",
+      "language": "vi",
+      "sentence": "Đừng để ___ vết thương.",
+      "choices": [
+        "hở",
+        "kín",
+        "đau"
+      ],
+      "answer": "hở",
+      "translation": {
+        "en": "Don't leave the wound exposed."
+      },
+      "translatedAnswer": {
+        "en": "exposed"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "2f0d3e4a-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hở",
+      "language": "vi",
+      "sentence": "Cái nắp hộp này bị ___.",
+      "answer": "hở",
+      "translation": {
+        "en": "The lid of this box is not closed tight."
+      },
+      "translatedAnswer": {
+        "en": "not closed tight"
+      }
+    }
+  },
   "_id": "Nql9AZB5lboWL1lX8CwA",
   "level": "A2",
   "topic": "Adjectives & Descriptions"

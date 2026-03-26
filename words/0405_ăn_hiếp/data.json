@@ -36,6 +36,68 @@
   "originalFrequency": 0.023,
   "rank": 405,
   "word": "ăn hiếp",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng quyền thế hoặc sức mạnh để bắt nạt người yếu hơn.",
+      "en": "To bully; to pick on someone weaker.",
+      "es": "Intimidar / acosar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ăn hiếp",
+      "en": "bully",
+      "es": "acosar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thầy giáo không cho phép học sinh ăn hiếp nhau.",
+      "en": "The teacher doesn't allow students to bully each other.",
+      "es": "El maestro no permite que các học sinh se acosen entre sí."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "3a1b2c3d-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn hiếp",
+      "language": "vi",
+      "sentence": "Ở trường, tớ chưa bao giờ bị ___.",
+      "choices": [
+        "ăn hiếp",
+        "giúp đỡ",
+        "khen ngợi"
+      ],
+      "answer": "ăn hiếp",
+      "translation": {
+        "en": "At school, I have never been bullied."
+      },
+      "translatedAnswer": {
+        "en": "bullied"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "4b2c3d4e-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn hiếp",
+      "language": "vi",
+      "sentence": "Đừng ___ bạn nhỏ hơn mình.",
+      "answer": "ăn hiếp",
+      "translation": {
+        "en": "Don't bully friends smaller than you."
+      },
+      "translatedAnswer": {
+        "en": "bully"
+      }
+    }
+  },
   "_id": "TTTWgbuC5gkzocRduc69",
   "level": "B1",
   "topic": "Social Interactions"

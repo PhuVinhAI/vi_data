@@ -1,4 +1,76 @@
 {
+  "addedReason": "common phrase",
+  "notes": "không lẽ = could it be…?, is it really possible that…? It shows doubt, surprise, or mild disbelief — you kind of expect the answer to be “no.”\n\nIt’s a question form used before a full clause, often with a questioning tone.  \n\nIt’s very close to chẳng lẽ, but chẳng lẽ sounds a bit stronger and more emotional.  \n\nYou use it when something feels unlikely, unreasonable, or hard to believe.",
+  "multiChoiceQuiz": {
+    "id": "e1b2c3d4-e5f6-4a7b-8c9d-d0e1f2a3b4c5",
+    "type": "multiChoiceQuiz",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:52:00.000Z",
+    "content": {
+      "translatedAnswer": {
+        "en": "could it be"
+      },
+      "translation": {
+        "en": "Could it be you forgot me?"
+      },
+      "hint": "kh___ l_",
+      "answer": "không lẽ",
+      "choices": [
+        "không lẽ",
+        "chắc là",
+        "thật sự"
+      ],
+      "language": "vi",
+      "sentence": "___ anh quên em rồi sao?",
+      "word": "không lẽ"
+    },
+    "updatedAt": "2025-03-12T13:52:00.000Z"
+  },
+  "flashcard": {
+    "translations": {
+      "vi": "không lẽ",
+      "en": "could it be?, is it possible?",
+      "es": "¿acaso...?, ¿es posible...?"
+    },
+    "createdAt": "2025-01-28T11:50:00.000Z",
+    "audioUrl": "flashcard.mp3",
+    "definitions": {
+      "en": "Used to express doubt, surprise or strong disbelief.",
+      "vi": "Dùng để biểu đạt sự nghi ngờ, ngạc nhiên hoặc không tin.",
+      "es": "Usado para expresar duda, sorpresa o una fuerte incredulidad."
+    },
+    "example": {
+      "vi": "Không lẽ cậu ấy lại làm vậy?",
+      "en": "Could it be that he did that?",
+      "es": "¿Acaso él hizo eso?"
+    }
+  },
+  "fillBlankQuiz": {
+    "updatedAt": "2025-03-12T13:52:00.000Z",
+    "type": "fillBlankQuiz",
+    "id": "f2a3b4c5-d6e7-4f8a-b9c0-d1e2f3a4b5c6",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:52:00.000Z",
+    "content": {
+      "choices": [],
+      "sentence": "___ chị không muốn đi cùng em sao?",
+      "language": "vi",
+      "word": "không lẽ",
+      "translatedAnswer": {
+        "en": "could it be"
+      },
+      "translation": {
+        "en": "Could it be that you don't want to go with me?"
+      },
+      "answer": "không lẽ"
+    }
+  },
+  "rank": 236,
+  "choices": [
+    "không lẽ",
+    "chắc chắn",
+    "thật ra"
+  ],
   "createdAt": "2025-07-21T11:03:19.559Z",
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",
@@ -7,27 +79,6 @@
   ],
   "word": "không lẽ",
   "originalFrequency": 0.0415,
-  "addedReason": "common phrase",
-  "exampleSentencesAudioUrlsNorthern": [
-    "northern_1.mp3",
-    "northern_2.mp3",
-    "northern_3.mp3"
-  ],
-  "notes_md": "**không lẽ** = *could it be…?*, *is it really possible that…?* It shows doubt, surprise, or mild disbelief — you kind of expect the answer to be “no.”\n\nIt’s a question form used before a full clause, often with a questioning tone.  \n\nIt’s very close to **chẳng lẽ**, but *chẳng lẽ* sounds a bit stronger and more emotional.  \n\nYou use it when something feels unlikely, unreasonable, or hard to believe.",
-  "rank": 236,
-  "choices": [
-    "không lẽ",
-    "chắc chắn",
-    "thật ra"
-  ],
-  "notes": "không lẽ = could it be…?, is it really possible that…? It shows doubt, surprise, or mild disbelief — you kind of expect the answer to be “no.”\n\nIt’s a question form used before a full clause, often with a questioning tone.  \n\nIt’s very close to chẳng lẽ, but chẳng lẽ sounds a bit stronger and more emotional.  \n\nYou use it when something feels unlikely, unreasonable, or hard to believe.",
-  "updatedAt": "2026-03-03T06:44:17.882Z",
-  "exampleSentences": [
-    "Không lẽ anh quên cuộc hẹn với em tối nay rồi sao?",
-    "Em đã gọi cho chị nhiều lần, không lẽ chị không nghe thấy điện thoại?",
-    "Trời mưa lớn thế này, không lẽ chúng ta vẫn phải đi làm?"
-  ],
-  "originalCount": 47,
   "exampleSentencesTranslated": [
     "Could it be you forgot our appointment tonight?",
     "I called you many times, could it be you didn't hear the phone?",
@@ -36,7 +87,14 @@
   "language": "vi",
   "source": "frequency_analysis",
   "definition": "could it be",
+  "updatedAt": "2026-03-03T06:44:17.882Z",
+  "exampleSentences": [
+    "Không lẽ anh quên cuộc hẹn với em tối nay rồi sao?",
+    "Em đã gọi cho chị nhiều lần, không lẽ chị không nghe thấy điện thoại?",
+    "Trời mưa lớn thế này, không lẽ chúng ta vẫn phải đi làm?"
+  ],
+  "originalCount": 47,
   "_id": "7gzY9NPLct1MkSlvEVqh",
   "level": "B2",
   "topic": "Conversational Phrases"
-}
+}

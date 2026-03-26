@@ -36,6 +36,68 @@
     "bình tĩnh",
     "thân thiện"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Người có hành vi, suy nghĩ lệch lạc so với bình thường.",
+      "en": "Pervert; abnormal person.",
+      "es": "Pervertido/a."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "biến thái",
+      "en": "pervert",
+      "es": "pervertido"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ta thật là đồ biến thái.",
+      "en": "He is such a pervert.",
+      "es": "Él es un pervertido."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e4f5g6h7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "biến thái",
+      "language": "vi",
+      "sentence": "Tại sao anh lại có hành động ___ như vậy?",
+      "choices": [
+        "biến thái",
+        "hào phóng",
+        "vui vẻ"
+      ],
+      "answer": "biến thái",
+      "translation": {
+        "en": "Why do you have such perverted actions?"
+      },
+      "translatedAnswer": {
+        "en": "perverted"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f5g6h7i8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "biến thái",
+      "language": "vi",
+      "sentence": "Kẻ ___ đã bị cảnh sát bắt.",
+      "answer": "biến thái",
+      "translation": {
+        "en": "The pervert was arrested by the police."
+      },
+      "translatedAnswer": {
+        "en": "pervert"
+      }
+    }
+  },
   "_id": "j5uyfmHf04XspuOYXkuL",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

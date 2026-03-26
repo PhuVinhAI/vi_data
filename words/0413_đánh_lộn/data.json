@@ -36,6 +36,68 @@
   "notes_md": "**Đánh lộn** means *to physically fight* (hit, push, use force) with someone. It’s about real physical action, not just arguing.\n\nIt’s a verb and usually goes with **với + someone**.  \n\nIt often happens between kids, classmates, or people who lose their temper.  \nClose synonym: **đánh nhau** (very similar, often interchangeable).  \nNot the same as **cãi nhau** (just arguing with words).",
   "source": "frequency_analysis",
   "addedReason": "fight (slang)",
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động đánh nhau bằng tay chân hoặc hung khí.",
+      "en": "To fight; to engage in a physical brawl.",
+      "es": "Pelearse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đánh lộn",
+      "en": "fight",
+      "es": "pelea"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Học sinh không nên đánh lộn.",
+      "en": "Students should not fight.",
+      "es": "Los estudiantes no deben pelear."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7b8c9d0e-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đánh lộn",
+      "language": "vi",
+      "sentence": "Họ đang ___ ngoài kia.",
+      "choices": [
+        "đánh lộn",
+        "nói chuyện",
+        "đùa giỡn"
+      ],
+      "answer": "đánh lộn",
+      "translation": {
+        "en": "They are fighting out there."
+      },
+      "translatedAnswer": {
+        "en": "fighting"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "8c9d0e1f-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đánh lộn",
+      "language": "vi",
+      "sentence": "Tại sao con lại ___ với bạn?",
+      "answer": "đánh lộn",
+      "translation": {
+        "en": "Why did you fight with your friend?"
+      },
+      "translatedAnswer": {
+        "en": "fight"
+      }
+    }
+  },
   "_id": "F3kMPWeIH3AxNxzO9qVE",
   "level": "B1",
   "topic": "Social Interactions"

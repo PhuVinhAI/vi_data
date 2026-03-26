@@ -28,6 +28,45 @@
     "Chị thích đọc sách, bởi vậy chị thường đến thư viện sau giờ học.",
     "Trời mưa rất to, bởi vậy em mang theo ô khi ra ngoài."
   ],
+  "flashcard": {
+    "example": {
+      "vi": "Trời mưa, bởi vậy tôi ở nhà.",
+      "en": "It's raining, therefore I stay home.",
+      "es": "Está lloviendo, por lo tanto me quedo en casa."
+    },
+    "translations": {
+      "en": "therefore",
+      "vi": "bởi vậy",
+      "es": "por lo tanto"
+    },
+    "definitions": {
+      "en": "For that reason; consequently.",
+      "vi": "Vì lý do đó; kết quả là.",
+      "es": "Por esa razón; en consecuencia."
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "audioUrl": "multi_choice.mp3",
+    "content": {
+      "sentence": "Hôm nay tôi bận, ___ tôi không đi chơi được.",
+      "answer": "bởi vậy",
+      "choices": ["bởi vậy", "càng", "ừ"],
+      "translation": { "en": "I'm busy today, therefore I can't go out." },
+      "language": "vi",
+      "word": "bởi vậy"
+    }
+  },
+  "fillBlankQuiz": {
+    "audioUrl": "fill_blank.mp3",
+    "content": {
+      "sentence": "Trời mưa, ___ tôi mặc áo mưa.",
+      "answer": "bởi vậy",
+      "translation": { "en": "It's raining, so I wear a raincoat." },
+      "language": "vi",
+      "word": "bởi vậy"
+    }
+  },
   "updatedAt": "2026-03-03T06:47:53.947Z",
   "word": "bởi vậy",
   "createdAt": "2025-07-21T11:04:40.655Z",

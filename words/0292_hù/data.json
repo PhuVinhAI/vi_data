@@ -4,6 +4,63 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "en": "To scare someone suddenly, often as a surprise or joke.",
+      "es": "Asustar a alguien de repente, a menudo como una sorpresa o broma.",
+      "vi": "Làm cho ai đó sợ hãi đột ngột, thường là để tạo bất ngờ hoặc trêu đùa."
+    },
+    "example": {
+      "en": "Don't scare me like that!",
+      "es": "¡No me asustes así!",
+      "vi": "Đừng hù tôi như vậy!"
+    },
+    "translations": {
+      "en": "scare",
+      "es": "asustar",
+      "vi": "hù"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Anh ấy thích ___ mọi người.",
+      "hint": "h_",
+      "answer": "hù",
+      "language": "vi",
+      "word": "hù",
+      "translatedAnswer": {
+        "en": "scare"
+      },
+      "choices": [
+        "hù",
+        "ghét",
+        "mắng"
+      ],
+      "translation": {
+        "en": "He likes to scare everyone."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Tôi định ___ chị một chút thôi.",
+      "word": "hù",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "scare"
+      },
+      "translation": {
+        "en": "I only intended to scare you a little bit."
+      },
+      "answer": "hù",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "definition": "scare",
   "source": "frequency_analysis",
   "language": "vi",

@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Lễ kết hôn của hai người.",
+      "en": "Wedding; ceremony and party for a couple getting married.",
+      "es": "Boda / casamiento."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đám cưới",
+      "en": "wedding",
+      "es": "boda"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đám cưới của họ thật linh đình.",
+      "en": "Their wedding was very grand.",
+      "es": "Su boda fue muy grandiosa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "7a1b2c3d-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đám cưới",
+      "language": "vi",
+      "sentence": "Tôi nhận được thiệp mời ___ của anh ấy.",
+      "choices": [
+        "đám cưới",
+        "sinh nhật",
+        "tân gia"
+      ],
+      "answer": "đám cưới",
+      "translation": {
+        "en": "I received his wedding invitation."
+      },
+      "translatedAnswer": {
+        "en": "wedding"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "8b2c3d4e-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đám cưới",
+      "language": "vi",
+      "sentence": "Họ tổ chức ___ tại một nhà hàng lớn.",
+      "answer": "đám cưới",
+      "translation": {
+        "en": "They organized the wedding at a big restaurant."
+      },
+      "translatedAnswer": {
+        "en": "wedding"
+      }
+    }
+  },
   "_id": "X9QGWJ2W4QddIDVtsNvI",
   "level": "A2",
   "topic": "Society & Events"

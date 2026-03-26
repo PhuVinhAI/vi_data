@@ -9,6 +9,60 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "en": "To knock or tap on something; to type on a keyboard.",
+      "vi": "Gõ hoặc gõ nhẹ lên một cái gì đó; gõ trên bàn phím."
+    },
+    "example": {
+      "en": "Remember to knock on the door before entering.",
+      "vi": "Nhớ gõ cửa trước khi vào nhé."
+    },
+    "translations": {
+      "en": "knock, type",
+      "vi": "gõ"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Anh nhớ ___ cửa trước khi vào phòng.",
+      "hint": "g_",
+      "answer": "gõ",
+      "language": "vi",
+      "word": "gõ",
+      "translatedAnswer": {
+        "en": "knock"
+      },
+      "choices": [
+        "gõ",
+        "mở",
+        "đóng"
+      ],
+      "translation": {
+        "en": "Remember to knock on the door before entering the room."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Em đang học ___ máy tính.",
+      "word": "gõ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "type"
+      },
+      "translation": {
+        "en": "I am learning to type on the computer."
+      },
+      "answer": "gõ",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:53:43.015Z",
   "exampleSentencesTranslated": [
     "Remember to knock on the door before entering my room.",

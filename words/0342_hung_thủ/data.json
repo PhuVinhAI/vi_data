@@ -10,6 +10,60 @@
   ],
   "notes_md": "**hung thủ** = the person who committed a crime, especially something serious like murder. It’s basically “the culprit” in a criminal case.\n\nIt’s a noun. You can say **một hung thủ / hai hung thủ** (no special classifier needed in most cases). Common pairings: **truy tìm hung thủ**, **xác định hung thủ**, **hung thủ giết người**.\n\nIt strongly suggests a criminal act, not small mistakes — for minor blame, Vietnamese uses **thủ phạm** (very similar, often interchangeable in crime contexts).",
   "originalFrequency": 0.0283,
+  "flashcard": {
+    "definitions": {
+      "en": "The culprit; the perpetrator of a crime.",
+      "vi": "Người gây ra tội ác; kẻ phạm tội."
+    },
+    "example": {
+      "en": "The police are hunting for the culprit.",
+      "vi": "Cảnh sát đang truy tìm hung thủ."
+    },
+    "translations": {
+      "en": "culprit, perpetrator",
+      "vi": "hung thủ"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Cảnh sát đã bắt được ___ của vụ án.",
+      "hint": "h___ t__",
+      "answer": "hung thủ",
+      "language": "vi",
+      "word": "hung thủ",
+      "translatedAnswer": {
+        "en": "culprit"
+      },
+      "choices": [
+        "hung thủ",
+        "nạn nhân",
+        "nhân chứng"
+      ],
+      "translation": {
+        "en": "The police caught the culprit of the case."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Ai là ___ trong câu chuyện này?",
+      "word": "hung thủ",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "culprit"
+      },
+      "translation": {
+        "en": "Who is the culprit in this story?"
+      },
+      "answer": "hung thủ",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:56:32.997Z",
   "choices": [
     "hung thủ",

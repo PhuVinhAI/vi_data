@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Biến mất hoàn toàn một cách bất ngờ.",
+      "en": "Disappeared; gone.",
+      "es": "Desaparecer."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mất tiêu",
+      "en": "disappeared",
+      "es": "desaparecido"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mới đó mà anh ấy đã biến mất tiêu.",
+      "en": "Just like that, he disappeared.",
+      "es": "En un momento, desapareció."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i8j9k0l1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mất tiêu",
+      "language": "vi",
+      "sentence": "Cuốn sách của tôi ___ rồi.",
+      "choices": [
+        "mất tiêu",
+        "đây này",
+        "mới quá"
+      ],
+      "answer": "mất tiêu",
+      "translation": {
+        "en": "My book is gone."
+      },
+      "translatedAnswer": {
+        "en": "gone"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j9k0l1m2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mất tiêu",
+      "language": "vi",
+      "sentence": "Tiền trong bóp lại ___ rồi.",
+      "answer": "mất tiêu",
+      "translation": {
+        "en": "The money in the wallet is gone again."
+      },
+      "translatedAnswer": {
+        "en": "gone"
+      }
+    }
+  },
   "_id": "BApT7M8HeYKAAQJwsuvP",
   "level": "B1",
   "topic": "Conversational Phrases"

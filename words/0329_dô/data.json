@@ -34,6 +34,60 @@
     "Khi ăn tiệc sinh nhật, cả nhóm cùng nói dô rất vui vẻ."
   ],
   "originalCount": 33,
+  "flashcard": {
+    "definitions": {
+      "en": "Cheers! (Bottoms up).",
+      "vi": "Cheers! (Cạn ly!)."
+    },
+    "example": {
+      "en": "One, two, three, cheers!",
+      "vi": "Một, hai, ba, dô!"
+    },
+    "translations": {
+      "en": "cheers",
+      "vi": "dô"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Một, hai, ba, ___ !",
+      "hint": "d_",
+      "answer": "dô",
+      "language": "vi",
+      "word": "dô",
+      "translatedAnswer": {
+        "en": "cheers"
+      },
+      "choices": [
+        "dô",
+        "uống",
+        "vui"
+      ],
+      "translation": {
+        "en": "One, two, three, cheers!"
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Anh mời em ly này, ___ nào!",
+      "word": "dô",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "cheers"
+      },
+      "translation": {
+        "en": "I offer you this glass, cheers!"
+      },
+      "answer": "dô",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:55:14.610Z",
   "notes": "dô = “cheers!” — what you shout before drinking alcohol together.\n\nIt’s an exclamation, not a verb, so it usually stands alone and is said loudly in a group. Often everyone counts together, then shouts it at the same time.  \n\nYou’ll also see it spelled dzô or zô in casual writing — same sound, just playful spelling. Think of it as the Vietnamese version of “bottoms up!” 🍻",
   "_id": "gUFJN5lbP294GoYXPnc0",

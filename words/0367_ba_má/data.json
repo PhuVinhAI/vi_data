@@ -36,6 +36,68 @@
     "His parents always support him in every decision.",
     "She usually calls her parents every night to ask about their health."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cách gọi thân mật cha và mẹ (phổ biến ở miền Nam).",
+      "en": "Informal way to call father and mother; parents (common in South VN).",
+      "es": "Papás / padres."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ba má",
+      "en": "parents / mom and dad",
+      "es": "padres / papás"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Ba má tôi rất hiền lành.",
+      "en": "My parents are very kind.",
+      "es": "Mis padres son muy amables."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ba má",
+      "language": "vi",
+      "sentence": "Cuối tuần này, tôi sẽ về quê thăm ___.",
+      "choices": [
+        "ba má",
+        "bàn ghế",
+        "bài học"
+      ],
+      "answer": "ba má",
+      "translation": {
+        "en": "This weekend, I will go to my hometown to visit my parents."
+      },
+      "translatedAnswer": {
+        "en": "parents"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "2b3c4d5e-6789-0abc-def1-234567890abc",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ba má",
+      "language": "vi",
+      "sentence": "Tôi phải xin phép ___ trước khi đi chơi.",
+      "answer": "ba má",
+      "translation": {
+        "en": "I have to ask my parents' permission before going out."
+      },
+      "translatedAnswer": {
+        "en": "parents"
+      }
+    }
+  },
   "_id": "8N0dzIlBYj76gq5eHxrz",
   "level": "A1",
   "topic": "Family & Relatives"

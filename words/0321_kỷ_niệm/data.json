@@ -6,6 +6,60 @@
     "Chúng ta nên lưu giữ những kỷ niệm quan trọng trong cuộc sống."
   ],
   "originalCount": 34,
+  "flashcard": {
+    "definitions": {
+      "en": "A memory; an event or thing that represents a memory.",
+      "vi": "Một kỷ niệm; một sự kiện hoặc vật đại diện cho trí nhớ."
+    },
+    "example": {
+      "en": "We have many beautiful memories together.",
+      "vi": "Chúng ta có rất nhiều kỷ niệm đẹp cùng nhau."
+    },
+    "translations": {
+      "en": "memory",
+      "vi": "kỷ niệm"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Anh và em có nhiều ___ đẹp ở trường.",
+      "hint": "k_ n_",
+      "answer": "kỷ niệm",
+      "language": "vi",
+      "word": "kỷ niệm",
+      "translatedAnswer": {
+        "en": "memories"
+      },
+      "choices": [
+        "kỷ niệm",
+        "cuộc sống",
+        "thành phố"
+      ],
+      "translation": {
+        "en": "You and I have many beautiful memories at school."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Đây là ___ vui nhất của tôi.",
+      "word": "kỷ niệm",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "memory"
+      },
+      "translation": {
+        "en": "This is my happiest memory."
+      },
+      "answer": "kỷ niệm",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:54:10.375Z",
   "exampleSentencesTranslated": [
     "You and I have many beautiful memories from university.",

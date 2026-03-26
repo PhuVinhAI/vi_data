@@ -26,6 +26,60 @@
   ],
   "originalFrequency": 0.0291,
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "en": "A Vietnamese pyramidal rice dumpling filled with pork and wood-ear mushrooms.",
+      "vi": "Một loại bánh hình kim tự tháp làm từ bột gạo, nhân thịt và mộc nhĩ."
+    },
+    "example": {
+      "en": "I bought two pork rice dumplings for breakfast.",
+      "vi": "Tôi đã mua hai cái bánh giò để ăn sáng."
+    },
+    "translations": {
+      "en": "pork rice dumpling",
+      "vi": "bánh giò"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Sáng nay tôi ăn một cái ___ nóng.",
+      "hint": "b____ g__",
+      "answer": "bánh giò",
+      "language": "vi",
+      "word": "bánh giò",
+      "translatedAnswer": {
+        "en": "pork rice dumpling"
+      },
+      "choices": [
+        "bánh giò",
+        "bánh bao",
+        "bánh mì"
+      ],
+      "translation": {
+        "en": "This morning I ate a hot pork rice dumpling."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Chị rất thích ăn ___ thắp nóng.",
+      "word": "bánh giò",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "pork rice dumpling"
+      },
+      "translation": {
+        "en": "She really likes to eat hot pork rice dumplings."
+      },
+      "answer": "bánh giò",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:55:57.157Z",
   "rank": 336,
   "notes_md": "**Bánh giò** is a Vietnamese pork rice dumpling, usually eaten for breakfast. It’s made from soft rice flour dough with a pork and wood ear mushroom filling, wrapped in banana leaves and steamed.\n\nIt’s a **countable noun**: use *cái* → *một cái bánh giò, hai cái bánh giò*.  \nCommon pairings: *bánh giò nóng*, *nhân thịt*, *gói bằng lá chuối*.  \nIt’s softer and more jelly-like than **bánh bao** (which is fluffy bread-like), so don’t mix them up.",

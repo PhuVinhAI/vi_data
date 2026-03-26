@@ -8,6 +8,63 @@
   "notes": "Vô dụng means useless — something or someone has no use or no ability to help. It can describe objects, plans, advice, or even how a person feels about themselves.\n\nIt’s an adjective, so it comes after linking verbs like là, trở nên, cảm thấy.  \n\nWhen talking about people, it often expresses frustration or low confidence, not literal lack of value.  \nClose synonyms: vô ích (useless, more about actions or effort), opposite: hữu ích (useful).",
   "word": "vô dụng",
   "rank": 295,
+  "flashcard": {
+    "definitions": {
+      "en": "Not serving a purpose or providing help.",
+      "es": "Que không phục vụ một mục đích hoặc cung cấp sự giúp đỡ.",
+      "vi": "Không có tác dụng hoặc không đem lại ích lợi gì."
+    },
+    "example": {
+      "en": "This tool is useless.",
+      "es": "Esta herramienta là vô dụng.",
+      "vi": "Cái công cụ này thật vô dụng."
+    },
+    "translations": {
+      "en": "useless",
+      "es": "inútil",
+      "vi": "vô dụng"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Cái máy này bây giờ trở nên ___.",
+      "hint": "v_ d___",
+      "answer": "vô dụng",
+      "language": "vi",
+      "word": "vô dụng",
+      "translatedAnswer": {
+        "en": "useless"
+      },
+      "choices": [
+        "vô dụng",
+        "hữu ích",
+        "đắt tiền"
+      ],
+      "translation": {
+        "en": "This machine has now become useless."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Mọi nỗ lực của anh ấy đều ___.",
+      "word": "vô dụng",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "useless"
+      },
+      "translation": {
+        "en": "All his efforts were useless."
+      },
+      "answer": "vô dụng",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "definition": "useless",
   "exampleSentencesAudioUrls": [
     "southern_1.mp3",

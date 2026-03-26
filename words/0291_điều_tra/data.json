@@ -1,4 +1,61 @@
 {
+  "flashcard": {
+    "definitions": {
+      "en": "Formal systematic inquiry or study.",
+      "es": "Investigación o estudio sistemático formal.",
+      "vi": "Cuộc thẩm vấn hoặc nghiên cứu mang tính hệ thống và chính thức."
+    },
+    "example": {
+      "en": "The police investigation is ongoing.",
+      "es": "La investigación policial está en curso.",
+      "vi": "Cuộc điều tra của cảnh sát vẫn đang tiếp diễn."
+    },
+    "translations": {
+      "en": "investigation",
+      "es": "investigación",
+      "vi": "điều tra"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Cảnh sát đang ___ vụ án.",
+      "hint": "đ____ ___a",
+      "answer": "điều tra",
+      "language": "vi",
+      "word": "điều tra",
+      "translatedAnswer": {
+        "en": "investigate"
+      },
+      "choices": [
+        "điều tra",
+        "giải thích",
+        "báo cáo"
+      ],
+      "translation": {
+        "en": "The police are investigating the case."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Cuộc ___ kéo dài ba tháng.",
+      "word": "điều tra",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "investigation"
+      },
+      "translation": {
+        "en": "The investigation lasted three months."
+      },
+      "answer": "điều tra",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "definition": "investigation",
   "originalCount": 39,
   "notes_md": "**điều tra** = investigation; also “to investigate.” It’s used for police, journalists, companies, or any formal fact‑finding process.\n\nAs a **noun**, it’s usually *cuộc điều tra* (one investigation). Common pairings: *mở*, *tiến hành*, *kết thúc điều tra*.\n\nAs a **verb**, it often goes with a topic or case.  \n\nClose synonym: **khảo sát** (survey/research) — but that’s more neutral and less serious than *điều tra*.",

@@ -36,6 +36,68 @@
   ],
   "addedReason": "lottery ticket",
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tờ giấy dùng để dự thưởng trong các đợt mở thưởng may mắn.",
+      "en": "Lottery ticket; a slip used to participate in a luck-based prize draw.",
+      "es": "Boleto de lotería."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vé số",
+      "en": "lottery ticket",
+      "es": "boleto de lotería"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mua vé số để ủng hộ người nghèo.",
+      "en": "Buy lottery tickets to support the poor.",
+      "es": "Compra boletos de lotería para apoyar a los pobres."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "fc7a8b9d-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vé số",
+      "language": "vi",
+      "sentence": "Ông ấy vừa trúng ___ giải độc đắc.",
+      "choices": [
+        "vé số",
+        "vé xe",
+        "vé mời"
+      ],
+      "answer": "vé số",
+      "translation": {
+        "en": "He just won the jackpot lottery."
+      },
+      "translatedAnswer": {
+        "en": "lottery ticket"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "0d8b9c1e-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vé số",
+      "language": "vi",
+      "sentence": "Bạn có hay mua ___ không?",
+      "answer": "vé số",
+      "translation": {
+        "en": "Do you often buy lottery tickets?"
+      },
+      "translatedAnswer": {
+        "en": "lottery ticket"
+      }
+    }
+  },
   "_id": "I9Al5cF1peB4gKxXmvAR",
   "level": "A2",
   "topic": "Daily Life & Objects"

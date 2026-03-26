@@ -29,6 +29,60 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "en": "To steal; to take something without permission.",
+      "vi": "Lấy trộm; lấy đồ vật mà không xin phép."
+    },
+    "example": {
+      "en": "Stealing is a bad action.",
+      "vi": "Ăn cắp là một hành động xấu."
+    },
+    "translations": {
+      "en": "steal",
+      "vi": "ăn cắp"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "Hành động ___ là vi phạm pháp luật.",
+      "hint": "ă_ c__",
+      "answer": "ăn cắp",
+      "language": "vi",
+      "word": "ăn cắp",
+      "translatedAnswer": {
+        "en": "stealing"
+      },
+      "choices": [
+        "ăn cắp",
+        "mua đồ",
+        "tặng quà"
+      ],
+      "translation": {
+        "en": "The act of stealing is a violation of the law."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "Đừng bao giờ ___ đồ của người khác.",
+      "word": "ăn cắp",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "steal"
+      },
+      "translation": {
+        "en": "Never steal other people's things."
+      },
+      "answer": "ăn cắp",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:56:52.612Z",
   "choices": [
     "ăn cắp",

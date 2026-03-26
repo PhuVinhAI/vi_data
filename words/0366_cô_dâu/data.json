@@ -36,6 +36,68 @@
   "originalFrequency": 0.0256,
   "addedReason": "common noun",
   "word": "cô dâu",
+  "flashcard": {
+    "definitions": {
+      "vi": "Người phụ nữ trong ngày lễ kết hôn.",
+      "en": "A woman on her wedding day; bride.",
+      "es": "Novia."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cô dâu",
+      "en": "bride",
+      "es": "novia"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cô dâu trông thật rạng rỡ trong chiếc váy cưới.",
+      "en": "The bride looks radiant in her wedding dress.",
+      "es": "La novia luce radiante en su vestido de novia."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e9f9a9b9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cô dâu",
+      "language": "vi",
+      "sentence": "___ và chú rể đang đứng trước bàn thờ.",
+      "choices": [
+        "cô dâu",
+        "phù dâu",
+        "mẹ chồng"
+      ],
+      "answer": "cô dâu",
+      "translation": {
+        "en": "The bride and groom are standing before the altar."
+      },
+      "translatedAnswer": {
+        "en": "bride"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f9a9b9c9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cô dâu",
+      "language": "vi",
+      "sentence": "___ bước vào lễ đường cùng cha.",
+      "answer": "Cô dâu",
+      "translation": {
+        "en": "The bride entered the chapel with her father."
+      },
+      "translatedAnswer": {
+        "en": "bride"
+      }
+    }
+  },
   "_id": "aURnGXtKW1JHCc5yM8s7",
   "level": "A2",
   "topic": "People & Relationships"

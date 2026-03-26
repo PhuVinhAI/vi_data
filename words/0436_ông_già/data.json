@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Người đàn ông đã lớn tuổi.",
+      "en": "Old man.",
+      "es": "Anciano."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ông già",
+      "en": "old man",
+      "es": "anciano"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Ông già ấy rất hiền lành.",
+      "en": "That old man is very kind.",
+      "es": "Ese anciano es muy amable."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g6h7i8j9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ông già",
+      "language": "vi",
+      "sentence": "Có một ___ đang đi bộ.",
+      "choices": [
+        "ông già",
+        "con nít",
+        "phụ nữ"
+      ],
+      "answer": "ông già",
+      "translation": {
+        "en": "There is an old man walking."
+      },
+      "translatedAnswer": {
+        "en": "old man"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h7i8j9k0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ông già",
+      "language": "vi",
+      "sentence": "Hỏi thăm sức khỏe của ___.",
+      "answer": "ông già",
+      "translation": {
+        "en": "Ask about the old man's health."
+      },
+      "translatedAnswer": {
+        "en": "old man"
+      }
+    }
+  },
   "_id": "5w5XYKLohOHd5HF1AFML",
   "level": "A2",
   "topic": "People & Relationships"

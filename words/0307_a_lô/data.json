@@ -1,5 +1,59 @@
 {
   "originalCount": 36,
+  "flashcard": {
+    "definitions": {
+      "en": "Hello? (used specifically for answering the phone).",
+      "vi": "Xin chào? (dùng riêng khi trả lời điện thoại)."
+    },
+    "example": {
+      "en": "Hello? Is anyone there?",
+      "vi": "A lô? Có ai ở đó không?"
+    },
+    "translations": {
+      "en": "hello (phone)",
+      "vi": "a lô"
+    },
+    "audioUrl": "flashcard.mp3"
+  },
+  "multiChoiceQuiz": {
+    "content": {
+      "sentence": "___, tôi nghe đây.",
+      "hint": "a_ l_",
+      "answer": "a lô",
+      "language": "vi",
+      "word": "a lô",
+      "translatedAnswer": {
+        "en": "hello"
+      },
+      "choices": [
+        "a lô",
+        "tạm biệt",
+        "cảm ơn"
+      ],
+      "translation": {
+        "en": "Hello, I'm listening."
+      }
+    },
+    "audioUrl": "multi_choice.mp3",
+    "type": "multiChoiceQuiz"
+  },
+  "fillBlankQuiz": {
+    "content": {
+      "sentence": "___, cho hỏi ai đấy ạ?",
+      "word": "a lô",
+      "language": "vi",
+      "translatedAnswer": {
+        "en": "hello"
+      },
+      "translation": {
+        "en": "Hello, may I ask who is this?"
+      },
+      "answer": "a lô",
+      "choices": []
+    },
+    "audioUrl": "fill_blank.mp3",
+    "type": "fillBlankQuiz"
+  },
   "updatedAt": "2026-03-03T06:52:20.577Z",
   "source": "frequency_analysis",
   "exampleSentencesTranslated": [
