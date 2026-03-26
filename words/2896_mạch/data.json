@@ -12,13 +12,13 @@
     "content": {
       "language": "vi",
       "translatedAnswer": {
-        "en": "circuit"
+        "en": "pulse"
       },
-      "sentence": "Máy tính này có ___ rất nhanh.",
+      "sentence": "Bác sĩ đang bắt ___ cho tôi.",
       "choices": [],
       "word": "mạch",
       "translation": {
-        "en": "This computer has a fast circuit."
+        "en": "The doctor is checking my pulse."
       },
       "answer": "mạch"
     },
@@ -73,19 +73,19 @@
       "hint": "m___",
       "answer": "mạch",
       "translation": {
-        "en": "This computer has a fast circuit."
+        "en": "I feel my pulse beating fast."
       },
       "word": "mạch",
       "choices": [
         "mạch",
-        "bo mạch",
-        "mạng"
+        "tim",
+        "máu"
       ],
       "translatedAnswer": {
-        "en": "circuit"
+        "en": "pulse"
       },
       "language": "vi",
-      "sentence": "Máy tính này có ___ rất nhanh."
+      "sentence": "Tôi thấy ___ đập rất nhanh."
     },
     "audioUrl": "multi_choice.mp3"
   },

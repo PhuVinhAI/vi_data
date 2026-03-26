@@ -16,19 +16,19 @@
     "updatedAt": "2025-03-12T14:46:50.485Z",
     "content": {
       "translatedAnswer": {
-        "en": "work"
+        "en": "defend"
       },
       "language": "vi",
-      "sentence": "Tôi thích ___ ở nhà.",
+      "sentence": "Đội bóng đang tập trung ___.",
       "word": "thủ",
       "choices": [
         "thủ",
-        "đọc",
-        "ngủ"
+        "công",
+        "chạy"
       ],
       "hint": "t__",
       "translation": {
-        "en": "I like to work at home."
+        "en": "The team is focusing on defending."
       },
       "answer": "thủ"
     },
@@ -51,13 +51,13 @@
     "createdAt": "2025-03-12T14:46:50.485Z",
     "content": {
       "translatedAnswer": {
-        "en": "work"
+        "en": "defend"
       },
       "language": "vi",
-      "sentence": "Tôi đi ___ hàng ngày.",
+      "sentence": "Hãy lo lo mà ___ cho chắc.",
       "answer": "thủ",
       "translation": {
-        "en": "I go to work every day."
+        "en": "Take care to defend solidly."
       },
       "choices": [],
       "word": "thủ"
@@ -77,23 +77,21 @@
   ],
   "notes_md": "**thủ** = to defend, to protect against an attack. It’s most often used in sports, especially football, as a short form of **phòng thủ**.\n\nAs a verb, it usually goes with teams, positions, or areas: **thủ chắc**, **thủ chặt**, **thủ ở vị trí…**. On its own, it sounds sporty and informal; in more general contexts, people prefer **phòng thủ**.\n\nCommon opposite: **tấn công** (attack).  \nYou’ll also see it inside compounds like **thủ môn** (goalkeeper) and **tuyển thủ** (national team player).",
   "flashcard": {
-    "example": {
-      "es": "Él es el líder del grupo.",
-      "en": "He is the leader of the group.",
-      "vi": "Anh ấy là thủ lĩnh của nhóm."
-    },
-    "createdAt": "2025-01-28T12:21:05.589Z",
     "definitions": {
-      "es": "Una persona que lidera o manda un grupo.",
-      "vi": "Một người lãnh đạo hoặc chỉ huy một nhóm.",
-      "en": "A person who leads or commands a group."
+      "es": "Para proteger contra ataque; defender.",
+      "vi": "Để bảo vệ chống lại cuộc tấn công; phòng thủ.",
+      "en": "To protect against attack; defend."
+    },
+    "example": {
+      "vi": "Họ đang cố gắng thủ gôn.",
+      "es": "Están tratando de defender el gol.",
+      "en": "They are trying to defend the goal."
     },
     "translations": {
-      "es": "líder",
-      "vi": "thủ lĩnh",
-      "en": "leader"
-    },
-    "audioUrl": "flashcard.mp3"
+      "es": "defender",
+      "vi": "thủ (phòng thủ)",
+      "en": "defend"
+    }
   },
   "_id": "TUplr8OprOBHfKWAFnh6",
   "level": "B2",

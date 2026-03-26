@@ -15,19 +15,19 @@
     "audioUrl": "multi_choice.mp3",
     "content": {
       "translatedAnswer": {
-        "en": "bait"
+        "en": "poison bait"
       },
       "answer": "bả",
       "hint": "b__",
       "word": "bả",
-      "sentence": "Cá rất thích ___ trong nước.",
+      "sentence": "Ông ấy rải ___ để diệt chuột.",
       "translation": {
-        "en": "Fish really like the bait in the water."
+        "en": "He scattered poison bait to kill rats."
       },
       "choices": [
-        "mồi",
         "bả",
-        "cá"
+        "mồi",
+        "bánh"
       ],
       "language": "vi"
     }
@@ -37,14 +37,14 @@
     "audioUrl": "fill_blank.mp3",
     "content": {
       "word": "bả",
-      "sentence": "Tôi không thấy ___ ở đâu.",
+      "sentence": "Cẩn thận với ___ chuột.",
       "translation": {
-        "en": "I can't see the bait anywhere."
+        "en": "Be careful with the rat poison bait."
       },
       "language": "vi",
       "choices": [],
       "translatedAnswer": {
-        "en": "bait"
+        "en": "poison bait"
       },
       "answer": "bả"
     },
@@ -67,22 +67,20 @@
   ],
   "rank": 2815,
   "flashcard": {
-    "example": {
-      "vi": "Con mèo đang chơi với bả.",
-      "es": "El gato está jugando con el cebo.",
-      "en": "The cat is playing with the bait."
-    },
-    "audioUrl": "flashcard.mp3",
-    "createdAt": "2025-01-28T11:57:38.113Z",
     "definitions": {
-      "en": "A substance used to attract animals, typically for fishing or hunting.",
-      "vi": "Một chất được sử dụng để thu hút động vật, thường là để câu cá hoặc săn bắn.",
-      "es": "Una sustancia utilizada para atraer animales, típicamente para pescar o cazar."
+      "en": "Poison mixed with food used to kill animals or pests.",
+      "vi": "Thuốc độc trộn với thức ăn dùng để diệt động vật hoặc sâu bọ.",
+      "es": "Veneno mezclado con comida usado para matar animales o plagas."
+    },
+    "example": {
+      "vi": "Con chuột đã dính bả.",
+      "es": "El ratón ha tomado el cebo envenenado.",
+      "en": "The rat has taken the poison bait."
     },
     "translations": {
-      "es": "cebo",
+      "es": "cebo envenenado",
       "vi": "bả",
-      "en": "bait"
+      "en": "poison bait"
     }
   },
   "exampleSentencesAudioUrls": [

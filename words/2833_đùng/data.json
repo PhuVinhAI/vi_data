@@ -17,15 +17,15 @@
     "createdAt": "2025-03-12T13:21:12.580Z",
     "content": {
       "translation": {
-        "en": "I will stop going outside."
+        "en": "Suddenly there was a loud boom."
       },
       "translatedAnswer": {
-        "en": "stop"
+        "en": "boom"
       },
       "answer": "đùng",
       "choices": [],
       "word": "đùng",
-      "sentence": "Tôi sẽ ___ đi ra ngoài.",
+      "sentence": "Bỗng nhiên có một tiếng ___ rất lớn.",
       "language": "vi"
     },
     "id": "d423e784-4af3-4c5b-b196-69f8c1e15f37",
@@ -33,22 +33,20 @@
   },
   "flashcard": {
     "definitions": {
-      "es": "Un instrumento musical cilíndrico grande que se toca golpeándolo con palos.",
-      "vi": "Một nhạc cụ hình trụ lớn được chơi bằng cách gõ bằng gậy.",
-      "en": "A large, cylindrical musical instrument that is played by striking with sticks."
+      "es": "Un sonido fuerte y repentino como el de một nổ.",
+      "vi": "Một âm thanh lớn và đột ngột giống như một vụ nổ.",
+      "en": "A loud, sudden sound like that of an explosion."
     },
     "example": {
-      "vi": "Cái đùng này rất lớn.",
-      "es": "Este tambor es muy grande.",
-      "en": "This drum is very big."
+      "vi": "Tiếng sấm nổ đùng một cái.",
+      "es": "El trueno hizo một boom.",
+      "en": "The thunder made a boom."
     },
     "translations": {
-      "en": "drum",
-      "es": "tambor",
+      "en": "boom",
+      "es": "estruendo",
       "vi": "đùng"
-    },
-    "createdAt": "2025-01-28T11:01:40.461Z",
-    "audioUrl": "flashcard.mp3"
+    }
   },
   "definition": "boom",
   "createdAt": "2025-01-27T21:23:43.157Z",
@@ -65,20 +63,20 @@
     "createdAt": "2025-03-12T13:21:12.580Z",
     "content": {
       "word": "đùng",
-      "sentence": "Tôi sẽ ___ đi ra ngoài.",
+      "sentence": "Pháo hoa kêu ___ một tiếng.",
       "language": "vi",
       "choices": [
-        "dừng",
-        "đứng",
-        "đùng"
+        "đùng",
+        "đáng",
+        "đông"
       ],
       "answer": "đùng",
       "hint": "đ__g",
       "translation": {
-        "en": "I will stop going outside."
+        "en": "The fireworks made a boom sound."
       },
       "translatedAnswer": {
-        "en": "stop"
+        "en": "boom"
       }
     },
     "id": "d587ef59-d9fb-4fa6-96bd-bb3d570d2e27"

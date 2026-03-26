@@ -1,14 +1,14 @@
 {
   "updatedAt": "2026-03-03T18:02:15.658Z",
   "exampleSentencesTranslated": [
-    "The king govern the country fairly for forty years.",
-    "I want to learn about how ancient kings govern the people.",
-    "I think that to govern a large group of people you need leadership skills."
+    "The doctor is treating the patient.",
+    "You need to take medicine to treat the cough completely.",
+    "This is a new method to treat terminal illnesses."
   ],
   "exampleSentences": [
-    "Nhà vua đã trị đất nước suốt bốn mươi năm một cách công bằng.",
-    "Em muốn tìm hiểu về cách các vị vua ngày xưa trị nhân dân ra sao.",
-    "Anh nghĩ rằng để trị một nhóm lớn người cần có kỹ năng lãnh đạo."
+    "Bác sĩ đang trị bệnh cho bệnh nhân.",
+    "Bạn cần uống thuốc để trị dứt cơn ho.",
+    "Đây là phương pháp mới để trị bệnh nan y."
   ],
   "choices": [
     "trị",
@@ -53,16 +53,16 @@
     "updatedAt": "2025-03-12T16:22:34.610Z",
     "type": "fillBlankQuiz",
     "content": {
-      "sentence": "Giá ___ của sản phẩm này cao.",
+      "sentence": "Ông ấy đang được điều ___ tại bệnh viện.",
       "answer": "trị",
       "language": "vi",
       "word": "trị",
       "choices": [],
       "translation": {
-        "en": "The value of this product is high."
+        "en": "He is being treated at the hospital."
       },
       "translatedAnswer": {
-        "en": "value"
+        "en": "treated"
       }
     }
   },
@@ -79,20 +79,20 @@
       "language": "vi",
       "choices": [
         "trị",
-        "trịs",
-        "TRỊ"
+        "trí",
+        "tri"
       ],
       "translation": {
-        "en": "The value of this product is high."
+        "en": "This medicine is used to treat headaches."
       },
       "translatedAnswer": {
-        "en": "value"
+        "en": "treat"
       },
       "hint": "t___ị",
-      "sentence": "Giá ___ của sản phẩm này cao."
+      "sentence": "Thuốc này dùng để ___ đau đầu."
     }
   },
-  "definition": "govern",
+  "definition": "treat",
   "notes_md": "**trị** = to govern or rule, usually in a formal, historical, or political sense. It’s about holding power and managing a country or large population.\n\nThis verb often appears in serious or literary contexts, not casual daily talk. It usually goes with big, abstract objects like a nation or the people.  \n\nVery commonly, **trị** appears inside compound words: **cai trị** (rule over), **thống trị** (dominate), **điều trị** (treat an illness), **trừng trị** (punish). Think of it as a Sino-Vietnamese root meaning “to control or handle.”",
   "rank": 2832,
   "_id": "ryeZcFqznpAckDXyov9x",
