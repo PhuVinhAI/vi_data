@@ -36,6 +36,68 @@
   ],
   "addedReason": "gamer",
   "notes": "Game thủ = gamer, someone who plays video games (often seriously or regularly).\n\nIt’s a countable noun: một game thủ, hai game thủ, các game thủ. You can add adjectives before or after: game thủ chuyên nghiệp (pro gamer), game thủ mobile, game thủ Esports. Often used with phrases like cộng đồng game thủ (gaming community).\n\nClose synonym: người chơi game (more neutral, less “hardcore” feeling). “Game thủ” sounds more serious or passionate.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Người chơi trò chơi điện tử một cách say mê hoặc chuyên nghiệp.",
+      "en": "A person who plays video games; gamer.",
+      "es": "Jugador de videojuegos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "game thủ",
+      "en": "gamer",
+      "es": "jugador"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy là một game thủ chuyên nghiệp.",
+      "en": "He is a professional gamer.",
+      "es": "Él es một jugador chuyên nghiệp."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y4z5a6b7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "game thủ",
+      "language": "vi",
+      "sentence": "Anh ấy là một ___ nổi tiếng.",
+      "choices": [
+        "game thủ",
+        "cầu thủ",
+        "người chơi"
+      ],
+      "answer": "game thủ",
+      "translation": {
+        "en": "He is a famous gamer."
+      },
+      "translatedAnswer": {
+        "en": "gamer"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z5a6b7c8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "game thủ",
+      "language": "vi",
+      "sentence": "Nhiều ___ luyện tập hàng giờ mỗi ngày.",
+      "answer": "game thủ",
+      "translation": {
+        "en": "Many gamers practice for hours each day."
+      },
+      "translatedAnswer": {
+        "en": "gamer"
+      }
+    }
+  },
   "_id": "nVFTcQumMurYh89sam3D",
   "level": "B1",
   "topic": "Hobbies & Entertainment"

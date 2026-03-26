@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cảm giác bị giật mình hoặc hoảng hốt bất ngờ.",
+      "en": "Scared stiff; suddenly shocked.",
+      "es": "Susto de muerte."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hết hồn",
+      "en": "scared stiff",
+      "es": "asustado"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy làm tôi hết hồn.",
+      "en": "He scared me stiff.",
+      "es": "Me pegó un susto de muerte."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k0l1m2n3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hết hồn",
+      "language": "vi",
+      "sentence": "Làm tôi ___ luôn.",
+      "choices": [
+        "hết hồn",
+        "vui vẻ",
+        "bất ngờ"
+      ],
+      "answer": "hết hồn",
+      "translation": {
+        "en": "Scared me stiff."
+      },
+      "translatedAnswer": {
+        "en": "scared stiff"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l1m2n3o4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hết hồn",
+      "language": "vi",
+      "sentence": "Tiếng sấm làm em ___.",
+      "answer": "hết hồn",
+      "translation": {
+        "en": "The thunder scared me stiff."
+      },
+      "translatedAnswer": {
+        "en": "scared stiff"
+      }
+    }
+  },
   "_id": "0F5jzdCue3VBy6Npsp4b",
   "level": "B1",
   "topic": "Emotions & Feelings"

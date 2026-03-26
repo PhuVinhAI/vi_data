@@ -36,6 +36,68 @@
   ],
   "notes_md": "**bác sỹ** = doctor, a medical professional who treats sick people.\n\nIt’s a countable noun: một bác sỹ, hai bác sỹ. Often used with verbs like gặp, khám, chữa bệnh, or with specialties like bác sỹ nha khoa (dentist), bác sỹ nhi khoa (pediatrician).\n\nYou’ll often hear it after đi or đến when talking about medical visits.  \n\nSpelling note: **bác sĩ** is the more modern and common spelling; it means exactly the same thing.",
   "originalCount": 19,
+  "flashcard": {
+    "definitions": {
+      "vi": "Người có chuyên môn về y khoa, làm công việc chữa bệnh.",
+      "en": "Medical professional; doctor.",
+      "es": "Médico; doctor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bác sỹ",
+      "en": "doctor",
+      "es": "médico"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bác sỹ đang khám bệnh.",
+      "en": "The doctor is examining the patient.",
+      "es": "El médico está examinando al paciente."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w2x3y4z5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bác sỹ",
+      "language": "vi",
+      "sentence": "Hôm qua tôi đi gặp ___ vì bị cảm.",
+      "choices": [
+        "bác sỹ",
+        "giáo viên",
+        "luật sư"
+      ],
+      "answer": "bác sỹ",
+      "translation": {
+        "en": "Yesterday I went to see the doctor because I had a cold."
+      },
+      "translatedAnswer": {
+        "en": "doctor"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x3y4z5a6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bác sỹ",
+      "language": "vi",
+      "sentence": "___ khuyên tôi nên uống nhiều nước.",
+      "answer": "bác sỹ",
+      "translation": {
+        "en": "The doctor advised me to drink plenty of water."
+      },
+      "translatedAnswer": {
+        "en": "doctor"
+      }
+    }
+  },
   "_id": "Tgj6upadhYyXgOT4oMLF",
   "level": "A2",
   "topic": "Work & Education"

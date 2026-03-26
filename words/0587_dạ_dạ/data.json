@@ -36,6 +36,68 @@
     "He entered the meeting room, met his boss, and greeted politely with yes sir/ma'am.",
     "When grandparents ask questions, grandchildren usually respond with yes sir/ma'am to show respect."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Lời thưa gửi lễ phép, thường dùng để đáp lại lời gọi hoặc dặn dò của người lớn tuổi (phong cách miền Nam).",
+      "en": "Polite response; 'Yes, sir/ma'am'.",
+      "es": "Sí, señor/señora."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dạ dạ",
+      "en": "polite yes",
+      "es": "sí respetuoso"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Con dạ dạ khi mẹ gọi.",
+      "en": "I politely answer 'yes' when mom calls.",
+      "es": "Respondo respetuosamente cuando mamá llama."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u0v1w2x3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dạ dạ",
+      "language": "vi",
+      "sentence": "Con ___ nghe lời mẹ dặn.",
+      "choices": [
+        "dạ dạ",
+        "vâng ạ",
+        "xin lỗi"
+      ],
+      "answer": "dạ dạ",
+      "translation": {
+        "en": "I politely listen to my mother's advice."
+      },
+      "translatedAnswer": {
+        "en": "polite yes"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v1w2x3y4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dạ dạ",
+      "language": "vi",
+      "sentence": "Mỗi khi ông bà hỏi, cháu đều ___.",
+      "answer": "dạ dạ",
+      "translation": {
+        "en": "Every time grandparents ask, the grandchild answers politely."
+      },
+      "translatedAnswer": {
+        "en": "polite yes"
+      }
+    }
+  },
   "_id": "XBVx5zgaL3jEvylK7MSM",
   "level": "A1",
   "topic": "Greetings & Politeness"

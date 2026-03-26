@@ -36,6 +36,68 @@
     "I want to buy a new dress to attend the wedding.",
     "Mom sewed a blue dress for her daughter by herself."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Trang phục của phụ nữ gồm áo liền với váy.",
+      "en": "A dress; one-piece outfit for women.",
+      "es": "Vestido."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đầm",
+      "en": "dress",
+      "es": "vestido"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cô ấy bước ra trong chiếc đầm trắng.",
+      "en": "She stepped out in a white dress.",
+      "es": "Ella salió con un vestido blanco."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e0f1g2h3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đầm",
+      "language": "vi",
+      "sentence": "Cô ấy mặc chiếc ___ màu đỏ.",
+      "choices": [
+        "váy",
+        "đầm",
+        "áo"
+      ],
+      "answer": "đầm",
+      "translation": {
+        "en": "She is wearing a red dress."
+      },
+      "translatedAnswer": {
+        "en": "dress"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f1g2h3i4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đầm",
+      "language": "vi",
+      "sentence": "Mẹ mới mua cho em cái ___ mới.",
+      "answer": "đầm",
+      "translation": {
+        "en": "Mom just bought me a new dress."
+      },
+      "translatedAnswer": {
+        "en": "dress"
+      }
+    }
+  },
   "_id": "8gSyNpYOVvhibLrg1YHm",
   "level": "B1",
   "topic": "Daily Life & Objects"

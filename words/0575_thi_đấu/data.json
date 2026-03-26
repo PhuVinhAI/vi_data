@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "addedReason": "to compete",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tham gia một cuộc thi hoặc trận đấu (thường là thể thao).",
+      "en": "To compete; to take part in a match.",
+      "es": "Competir."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thi đấu",
+      "en": "compete",
+      "es": "competir"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Vận động viên đang thi đấu.",
+      "en": "The athletes are competing.",
+      "es": "Các vận động viên đang thi đấu."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m2n3o4p5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thi đấu",
+      "language": "vi",
+      "sentence": "Đội bóng đang ___.",
+      "choices": [
+        "thi đấu",
+        "giải lao",
+        "luyện tập"
+      ],
+      "answer": "thi đấu",
+      "translation": {
+        "en": "The football team is competing."
+      },
+      "translatedAnswer": {
+        "en": "compete"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n3o4p5q6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thi đấu",
+      "language": "vi",
+      "sentence": "Anh ấy chuẩn bị ___ trận chung kết.",
+      "answer": "thi đấu",
+      "translation": {
+        "en": "He is preparing to compete in the final match."
+      },
+      "translatedAnswer": {
+        "en": "compete"
+      }
+    }
+  },
   "_id": "xmVygr28m0mqVUjugFmh",
   "level": "B1",
   "topic": "Hobbies & Entertainment"

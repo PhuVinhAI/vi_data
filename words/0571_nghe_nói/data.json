@@ -36,6 +36,68 @@
   "notes_md": "**nghe nói** = “hear that…” / “I’ve heard that…”. It’s used when you got information from someone else, not from direct experience.\n\nIt’s a reporting phrase, so it introduces a whole clause after it.  \n\nIt implies second-hand information, a bit uncertain.  \nClose synonym: **nghe bảo** (very similar meaning, often slightly more informal).",
   "definition": "hear",
   "rank": 571,
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để giới thiệu thông tin nhận được từ người khác, không phải từ trải nghiệm trực tiếp.",
+      "en": "Hear that...; I've heard that...",
+      "es": "Dicen que...; oír decir."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nghe nói",
+      "en": "hear",
+      "es": "oír"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi nghe nói anh sắp lấy vợ.",
+      "en": "I heard that you are about to get married.",
+      "es": "Oi decir que vas a casarte."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i8j9k0l1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nghe nói",
+      "language": "vi",
+      "sentence": "Tôi ___ anh sắp đi du lịch.",
+      "choices": [
+        "nghe nói",
+        "xem xét",
+        "thảo luận"
+      ],
+      "answer": "nghe nói",
+      "translation": {
+        "en": "I heard that you are about to travel."
+      },
+      "translatedAnswer": {
+        "en": "hear"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j9k0l1m2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nghe nói",
+      "language": "vi",
+      "sentence": "___ bộ phim này hay lắm.",
+      "answer": "nghe nói",
+      "translation": {
+        "en": "I heard that this movie is very good."
+      },
+      "translatedAnswer": {
+        "en": "hear"
+      }
+    }
+  },
   "_id": "zbLJJcCk5mZynyTs3Gv5",
   "level": "B1",
   "topic": "Social Interactions"

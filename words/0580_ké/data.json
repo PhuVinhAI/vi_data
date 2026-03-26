@@ -36,6 +36,68 @@
     "Can I join in having lunch with the friends today?",
     "Sister, can I join in your ride home?"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động tham gia vào việc gì đó của người khác một cách không chính thức hoặc để được hưởng lợi ích chung.",
+      "en": "To join in; to tag along; to get something from others.",
+      "es": "Aprovecharse; ir de gorra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ké",
+      "en": "join in",
+      "es": "aprovechar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cho mình ké một chút nhé.",
+      "en": "Let me join in for a bit.",
+      "es": "Déjame aprovechar một chút."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o4p5q6r7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ké",
+      "language": "vi",
+      "sentence": "Cho anh ___ đi chơi cùng nhóm nhé!",
+      "choices": [
+        "ké",
+        "kế",
+        "kết"
+      ],
+      "answer": "ké",
+      "translation": {
+        "en": "Let me join in going out with the group!"
+      },
+      "translatedAnswer": {
+        "en": "join in"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p5q6r7s8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ké",
+      "language": "vi",
+      "sentence": "Tôi ___ xe bạn về nhà.",
+      "answer": "ké",
+      "translation": {
+        "en": "I hitched a ride with you home."
+      },
+      "translatedAnswer": {
+        "en": "join in"
+      }
+    }
+  },
   "_id": "4KoY7EcaFPawYMT0VDNx",
   "level": "B1",
   "topic": "Slang & Colloquialisms"

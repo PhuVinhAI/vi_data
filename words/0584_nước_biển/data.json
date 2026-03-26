@@ -36,6 +36,68 @@
   ],
   "originalFrequency": 0.0168,
   "createdAt": "2025-07-21T11:24:53.768Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nước mặn từ biển hoặc đại dương.",
+      "en": "Sea water; salty water from the ocean.",
+      "es": "Agua de mar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nước biển",
+      "en": "sea water",
+      "es": "agua de mar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nước biển ở đây rất xanh.",
+      "en": "The sea water here is very blue.",
+      "es": "El agua de mar aquí es muy azul."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s8t9u0v1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nước biển",
+      "language": "vi",
+      "sentence": "Tắm ___ rất tốt cho sức khỏe.",
+      "choices": [
+        "nước ngọt",
+        "nước biển",
+        "nước mưa"
+      ],
+      "answer": "nước biển",
+      "translation": {
+        "en": "Bathing in sea water is very good for health."
+      },
+      "translatedAnswer": {
+        "en": "sea water"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t9u0v1w2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nước biển",
+      "language": "vi",
+      "sentence": "Độ mặn của ___.",
+      "answer": "nước biển",
+      "translation": {
+        "en": "The salinity of sea water."
+      },
+      "translatedAnswer": {
+        "en": "sea water"
+      }
+    }
+  },
   "_id": "DvNSrI5saUftFGh9TaR6",
   "level": "A2",
   "topic": "Places & Locations"

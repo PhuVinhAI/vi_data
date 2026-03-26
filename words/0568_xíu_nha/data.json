@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Một chút thôi nhé (thường dùng trong văn nói để yêu cầu một cách nhẹ nhàng).",
+      "en": "A little bit, okay?.",
+      "es": "Un poquito, ¿vale?."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "xíu nha",
+      "en": "a little bit",
+      "es": "un poco"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đợi mình một xíu nha.",
+      "en": "Wait for me a little bit.",
+      "es": "Espérame một chút."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g6h7i8j9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xíu nha",
+      "language": "vi",
+      "sentence": "Đợi em ___.",
+      "choices": [
+        "xíu nha",
+        "ngay lập tức",
+        "nhiều quá"
+      ],
+      "answer": "xíu nha",
+      "translation": {
+        "en": "Wait for me a little bit."
+      },
+      "translatedAnswer": {
+        "en": "a little bit"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h7i8j9k0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xíu nha",
+      "language": "vi",
+      "sentence": "Cho mình xin thêm ___.",
+      "answer": "xíu nha",
+      "translation": {
+        "en": "Give me a little bit more."
+      },
+      "translatedAnswer": {
+        "en": "a little bit"
+      }
+    }
+  },
   "_id": "MwwpRr0IA2fwaypEJP4n",
   "level": "A2",
   "topic": "Conversational Phrases"

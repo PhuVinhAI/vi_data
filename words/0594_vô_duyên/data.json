@@ -36,6 +36,68 @@
     "She felt she was tactless when asking that question at the party.",
     "I think his comment was tactless in the meeting today."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Thiếu tế nhị, không có duyên trong cách nói năng hoặc xử sự.",
+      "en": "Tactless; socially awkward; lacking charm.",
+      "es": "Tacto nulo; impertinente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vô duyên",
+      "en": "tactless",
+      "es": "impertinente"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bạn không nên nói chuyện vô duyên như vậy.",
+      "en": "You shouldn't talk so tactlessly like that.",
+      "es": "No deberías hablar tan impertinentemente así."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a6b7c8d9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vô duyên",
+      "language": "vi",
+      "sentence": "Anh ấy nói chuyện rất ___.",
+      "choices": [
+        "vui tính",
+        "vô duyên",
+        "lịch sự"
+      ],
+      "answer": "vô duyên",
+      "translation": {
+        "en": "He talks very tactlessly."
+      },
+      "translatedAnswer": {
+        "en": "tactless"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b7c8d9e0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vô duyên",
+      "language": "vi",
+      "sentence": "Câu đùa đó thật là ___.",
+      "answer": "vô duyên",
+      "translation": {
+        "en": "That joke was really tactless."
+      },
+      "translatedAnswer": {
+        "en": "tactless"
+      }
+    }
+  },
   "_id": "5EuK8apnHVw4K2WhDig0",
   "level": "B1",
   "topic": "Personality & Traits"

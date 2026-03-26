@@ -36,6 +36,68 @@
   "language": "vi",
   "addedReason": "common phrase",
   "notes": "Hổng lẽ means “could it be…?” or “no way…?” It shows surprise, doubt, or mild disbelief.\n\nIt’s a question opener, usually before a full clause. The tone often expects the answer “no.”\n\nVery close to chẳng lẽ (more neutral, used everywhere). Hổng is Southern for không, so hổng lẽ sounds Southern and casual.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để biểu thị sự ngạc nhiên, nghi ngờ hoặc không tin được vào một sự việc nào đó (phong cách miền Nam).",
+      "en": "Could it be...?; No way...?",
+      "es": "¿Acaso...?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hổng lẽ",
+      "en": "could it be",
+      "es": "acaso"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Hổng lẽ anh chưa ăn gì?",
+      "en": "Could it be you haven't eaten anything?",
+      "es": "¿Acaso no has comido nada?."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q6r7s8t9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hổng lẽ",
+      "language": "vi",
+      "sentence": "___ anh không biết hôm nay là sinh nhật mẹ?",
+      "choices": [
+        "hổng lẽ",
+        "chắc chắn",
+        "ngay lập tức"
+      ],
+      "answer": "hổng lẽ",
+      "translation": {
+        "en": "Could it be you don't know today is mom's birthday?"
+      },
+      "translatedAnswer": {
+        "en": "could it be"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r7s8t9u0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hổng lẽ",
+      "language": "vi",
+      "sentence": "___ em lại quên chìa khóa?",
+      "answer": "hổng lẽ",
+      "translation": {
+        "en": "Could it be you forgot the keys again?"
+      },
+      "translatedAnswer": {
+        "en": "could it be"
+      }
+    }
+  },
   "_id": "sXmmQZq7Npa4OLcc4Vxs",
   "level": "B1",
   "topic": "Conversational Phrases"
