@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ chỉ một lượng hạn chế đã được biết hoặc vừa được nhắc đến.",
+      "en": "That much; that many; a limited amount already mentioned.",
+      "es": "Tanto; esa cantidad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bấy nhiêu",
+      "en": "that much",
+      "es": "tanto"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Chỉ có bấy nhiêu thôi.",
+      "en": "There is only that much.",
+      "es": "Solo hay esa cantidad."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u1v2w3x4-y5z6-57a8-b9c0-d1e2f3g4h5i6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "bấy nhiêu",
+      "language": "vi",
+      "sentence": "Anh chỉ cần ___ tiền để mua vé thôi.",
+      "choices": [
+        "bao nhiêu",
+        "bấy nhiêu",
+        "nhiều"
+      ],
+      "answer": "bấy nhiêu",
+      "translation": {
+        "en": "I only need that much money to buy a ticket."
+      },
+      "translatedAnswer": {
+        "en": "that much"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v2w3x4y5-z6a7-58b9-c0d1-e2f3g4h5i6j7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "bấy nhiêu",
+      "language": "vi",
+      "sentence": "Em có ___ thời gian để hoàn thành bài tập thôi.",
+      "answer": "bấy nhiêu",
+      "translation": {
+        "en": "You only have that much time to finish the homework."
+      },
+      "translatedAnswer": {
+        "en": "that much"
+      }
+    }
+  },
   "_id": "vWkGsETxRPpSl4Q8d5No",
   "level": "B2",
   "topic": "Numbers & Quantifiers"

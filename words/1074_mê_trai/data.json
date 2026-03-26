@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm tính từ (tiếng lóng) chỉ việc rất yêu thích hoặc ám ảnh bởi đàn ông đẹp.",
+      "en": "Boy-crazy; a slang term for being obsessed with handsome men.",
+      "es": "Loca por los chicos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mê trai",
+      "en": "boy-crazy",
+      "es": "loca por los chicos"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Cô ấy rất mê trai.",
+      "en": "She is very boy-crazy.",
+      "es": "Ella está loca por các chicos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k1l2m3n4-o5p6-47q8-r9s0-t1u2v3w4x5y6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "mê trai",
+      "language": "vi",
+      "sentence": "Bạn bè thường trêu cô ấy là kẻ ___ vì luôn nhắc đến các nam thần.",
+      "choices": [
+        "mê trai",
+        "mê đọc sách",
+        "mê nấu ăn"
+      ],
+      "answer": "mê trai",
+      "translation": {
+        "en": "Friends often tease her for being boy-crazy because she always mentions handsome male gods."
+      },
+      "translatedAnswer": {
+        "en": "boy-crazy"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l2m3n4o5-p6q7-48r9-s0t1-u2v3w4x5y6z7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "mê trai",
+      "language": "vi",
+      "sentence": "Dù ___ nhưng cô ấy vẫn học tập rất chăm chỉ.",
+      "answer": "mê trai",
+      "translation": {
+        "en": "Despite being boy-crazy, she still studies very hard."
+      },
+      "translatedAnswer": {
+        "en": "boy-crazy"
+      }
+    }
+  },
   "_id": "fHEgjp0uaAfqZJVfDXJx",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

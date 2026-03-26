@@ -36,6 +36,68 @@
   ],
   "rank": 1096,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ miêu tả vẻ ngoài lộng lẫy, đắt tiền và lịch sự.",
+      "en": "Luxurious; elegant; classy; looking expensive and high-end.",
+      "es": "Lujoso; elegante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "sang trọng",
+      "en": "luxurious",
+      "es": "lujoso"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Một bữa tiệc sang trọng.",
+      "en": "A luxurious party.",
+      "es": "Una fiesta lujosa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c9d0e1f2-g3h4-65i6-j7k8-l9m0n1o2p3q4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "sang trọng",
+      "language": "vi",
+      "sentence": "Khách sạn này trông thật ___.",
+      "choices": [
+        "bình dân",
+        "sang trọng",
+        "xấu xí"
+      ],
+      "answer": "sang trọng",
+      "translation": {
+        "en": "This hotel looks really luxurious."
+      },
+      "translatedAnswer": {
+        "en": "luxurious"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d0e1f2g3-h4i5-66j6-k7l8-m9n0o1p2q3r5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "sang trọng",
+      "language": "vi",
+      "sentence": "Cô ấy mặc một chiếc váy rất ___ trong buổi tiệc.",
+      "answer": "sang trọng",
+      "translation": {
+        "en": "She wore a very luxurious dress at the party."
+      },
+      "translatedAnswer": {
+        "en": "luxurious"
+      }
+    }
+  },
   "_id": "IpKBC4wKP8OS9RcSEklx",
   "level": "B2",
   "topic": "Adjectives & Descriptions"

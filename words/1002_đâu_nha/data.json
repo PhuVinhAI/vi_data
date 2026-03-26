@@ -36,6 +36,68 @@
   ],
   "definition": "okay",
   "rank": 1002,
+  "flashcard": {
+    "definitions": {
+      "vi": "Hư từ đặt ở cuối câu để làm nhẹ bớt sắc thái nhắc nhở, cảnh báo hoặc yêu cầu.",
+      "en": "A soft sentence-final particle used for reminders or mild warnings.",
+      "es": "Partícula final suave."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đâu nha",
+      "en": "okay? / mind you",
+      "es": "vale?"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Đừng quên đâu nha.",
+      "en": "Don't forget, okay?",
+      "es": "No te olvides, ¿vale?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "z1a2b3c4-d5e6-f7g8-h9i0-j1k2l3m4n5o6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "đâu nha",
+      "language": "vi",
+      "sentence": "Em đừng quên mang chìa khóa về nhà ___.",
+      "choices": [
+        "đâu nha",
+        "được rồi",
+        "gì vậy"
+      ],
+      "answer": "đâu nha",
+      "translation": {
+        "en": "Don't forget to bring the keys home okay."
+      },
+      "translatedAnswer": {
+        "en": "okay"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "y2z3a4b5-c6d7-e8f9-g0h1-i2j3k4l5m6n7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "đâu nha",
+      "language": "vi",
+      "sentence": "Chị nhớ gọi cho anh khi đến nơi ___.",
+      "answer": "đâu nha",
+      "translation": {
+        "en": "Remember to call me when you arrive okay."
+      },
+      "translatedAnswer": {
+        "en": "okay"
+      }
+    }
+  },
   "_id": "2HnvvWexodKY2TJUEBtf",
   "level": "B1",
   "topic": "Conversational Particles"

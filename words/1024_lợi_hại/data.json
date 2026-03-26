@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "definition": "powerful",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ năng lực hoặc tác động mạnh mẽ, đáng nể phục hoặc đáng sợ.",
+      "en": "Powerful; formidable; impressive in skill or effect.",
+      "es": "Formidable; poderoso."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lợi hại",
+      "en": "powerful / formidable",
+      "es": "formidable"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Đối thủ lợi hại.",
+      "en": "A formidable opponent.",
+      "es": "Un oponente formidable."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "h9i0j1k2-l3m4-n5o6-p7q8-r9s0t1u2v3w4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "lợi hại",
+      "language": "vi",
+      "sentence": "Anh ấy là một đối thủ rất ___ trong cuộc thi này.",
+      "choices": [
+        "lợi hại",
+        "tuyệt vời",
+        "khó khăn"
+      ],
+      "answer": "lợi hại",
+      "translation": {
+        "en": "He is a very powerful opponent in this competition."
+      },
+      "translatedAnswer": {
+        "en": "powerful"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "g0h1i2j3-k4l5-m6n7-o8p9-q0r1s2t3u4v5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "lợi hại",
+      "language": "vi",
+      "sentence": "Công nghệ mới này thật sự ___ và giúp công việc nhanh hơn.",
+      "answer": "lợi hại",
+      "translation": {
+        "en": "This new technology is really powerful and helps the work go faster."
+      },
+      "translatedAnswer": {
+        "en": "powerful"
+      }
+    }
+  },
   "_id": "EwF3SQ3nV3vVZjfTmBL8",
   "level": "B2",
   "topic": "Adjectives & Descriptions"

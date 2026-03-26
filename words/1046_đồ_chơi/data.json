@@ -36,6 +36,68 @@
   ],
   "originalCount": 11,
   "updatedAt": "2026-03-03T08:07:32.925Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ những vật dụng dành cho trẻ em chơi đùa.",
+      "en": "Toy; an object for children to play with.",
+      "es": "Juguete."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đồ chơi",
+      "en": "toy",
+      "es": "juguete"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Mua đồ chơi.",
+      "en": "Buy toys.",
+      "es": "Comprar juguetes."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "v3w4x5y6-z7a8-b9c0-d1e2-f3g4h5i6j7k8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "đồ chơi",
+      "language": "vi",
+      "sentence": "Em bé rất thích món ___ mới mà mẹ vừa mua cho.",
+      "choices": [
+        "đồ chơi",
+        "quần áo",
+        "bánh mì"
+      ],
+      "answer": "đồ chơi",
+      "translation": {
+        "en": "The baby really likes the new toy that mom just bought."
+      },
+      "translatedAnswer": {
+        "en": "toy"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "u4v5w6x7-y8z9-a0b1-c2d3-e4f5g6h7i8j9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "đồ chơi",
+      "language": "vi",
+      "sentence": "Những đứa trẻ đang chơi ___ ngoài sân vào buổi chiều.",
+      "answer": "đồ chơi",
+      "translation": {
+        "en": "The children are playing with a toy in the yard in the afternoon."
+      },
+      "translatedAnswer": {
+        "en": "toy"
+      }
+    }
+  },
   "_id": "2EZWHZKrUzePlLLADxrl",
   "level": "A2",
   "topic": "Daily Life & Objects"

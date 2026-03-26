@@ -36,6 +36,68 @@
   "language": "vi",
   "addedReason": "common verb",
   "notes": "dọn dẹp means “to clean up” or “to tidy up.” It’s about making a place neat by putting things away and cleaning.\n\nIt’s a verb and usually goes with places or things like rooms, houses, desks, or messes. It often suggests a bit of effort, not just a quick wipe.\n\nYou’ll also hear just dọn, which is shorter and very common; dọn dẹp sounds a bit more complete or thorough.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động làm cho nơi nào đó trở nên ngăn nắp, sạch sẽ.",
+      "en": "To clean up; to tidy up.",
+      "es": "Limpiar; ordenar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dọn dẹp",
+      "en": "to clean up",
+      "es": "limpiar"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Dọn dẹp phòng.",
+      "en": "Clean up the room.",
+      "es": "Limpiar la habitación."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "f1g2h3i4-j5k6-l7m8-n9o0-p1q2r3s4t5u6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "dọn dẹp",
+      "language": "vi",
+      "sentence": "Chị thường ___ nhà cửa vào mỗi sáng thứ bảy.",
+      "choices": [
+        "dọn dẹp",
+        "nấu ăn",
+        "đi chợ"
+      ],
+      "answer": "dọn dẹp",
+      "translation": {
+        "en": "She usually clean up the house every Saturday morning."
+      },
+      "translatedAnswer": {
+        "en": "clean up"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "e2f3g4h5-i6j7-k8l9-m0n1-o2p3q4r5s6t7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "dọn dẹp",
+      "language": "vi",
+      "sentence": "Sau bữa tiệc, mọi người cùng nhau ___ để nhà sạch sẽ hơn.",
+      "answer": "dọn dẹp",
+      "translation": {
+        "en": "After the party, everyone clean up together to make the house cleaner."
+      },
+      "translatedAnswer": {
+        "en": "clean up"
+      }
+    }
+  },
   "_id": "oeTSJncoDwAn5DUNhCar",
   "level": "A2",
   "topic": "Daily Life & Chores"

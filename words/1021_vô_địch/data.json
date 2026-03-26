@@ -36,6 +36,68 @@
   "createdAt": "2025-07-21T12:03:48.198Z",
   "notes_md": "**Vô địch** means *champion* — the person or team that wins first place in a competition.  \n\nIt’s a noun: you often say **trở thành vô địch**, **giành (chức) vô địch**, or add the competition after it (vô địch + giải/môn gì). You can also say **nhà vô địch** to mean “the champion” (sounds more complete and natural).  \n\nSometimes it’s used casually like an adjective to praise someone as “the best” at something, even not in sports.  \n\nClose synonym: **quán quân** (more formal, often for contests). Opposite idea: **thua cuộc** (loser).",
   "originalCount": 11,
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người hoặc đội giành giải nhất trong một cuộc thi.",
+      "en": "Champion; winner of a competition.",
+      "es": "Campeón."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vô địch",
+      "en": "champion",
+      "es": "campeón"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Nhà vô địch.",
+      "en": "The champion.",
+      "es": "El campeón."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "l5m6n7o8-p9q0-r1s2-t3u4-v5w6x7y8z9a0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "vô địch",
+      "language": "vi",
+      "sentence": "Đội bóng của anh đã trở thành ___ sau trận chung kết hôm qua.",
+      "choices": [
+        "vô địch",
+        "thua cuộc",
+        "hòa"
+      ],
+      "answer": "vô địch",
+      "translation": {
+        "en": "Your team became the champion after the final match yesterday."
+      },
+      "translatedAnswer": {
+        "en": "the champion"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "k6l7m8n9-o0p1-q2r3-s4t5-u6v7w8x9y0z1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "vô địch",
+      "language": "vi",
+      "sentence": "Nếu chị tập luyện chăm chỉ, chị sẽ có cơ hội ___ giải bơi này.",
+      "answer": "vô địch",
+      "translation": {
+        "en": "If you train hard, you will have a chance to be the champion of this swimming competition."
+      },
+      "translatedAnswer": {
+        "en": "be the champion"
+      }
+    }
+  },
   "_id": "UwyRJO63UedaxBnPLQnB",
   "level": "B2",
   "topic": "Sports & Games"

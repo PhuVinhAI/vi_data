@@ -36,6 +36,68 @@
   "notes_md": "**bày trò** = to make up a trick, prank, or playful scheme. It’s often about doing something mischievous or creating a situation for fun (sometimes to tease someone).\n\nIt’s a verb phrase. The subject is usually a person, and the “trò” is something playful, silly, or annoying. It can be light and funny, or slightly negative if the trick causes trouble.\n\nOften used with words like *trêu*, *nghịch*, *đùa*, or when talking about kids and friends.  \nClose synonym: **giở trò** (more negative, like pulling a bad trick).",
   "originalCount": 10,
   "definition": "play a trick",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm động từ chỉ hành động tạo ra các trò đùa nghịch hoặc tình huống tinh quái.",
+      "en": "Play a trick; to make up a prank or a playful scheme.",
+      "es": "Hacer una broma; idear una travesura."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bày trò",
+      "en": "play a trick",
+      "es": "hacer una broma"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Đừng bày trò nữa.",
+      "en": "Don't play tricks anymore.",
+      "es": "No hagas mạ́ bromas."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a7b8c9d0-e1f2-63g4-h5i6-j7k8l9m0n1o2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "bày trò",
+      "language": "vi",
+      "sentence": "Đừng ___ trêu chọc em gái nữa.",
+      "choices": [
+        "bày trò",
+        "học tập",
+        "giúp đỡ"
+      ],
+      "answer": "bày trò",
+      "translation": {
+        "en": "Don't play tricks on your sister anymore."
+      },
+      "translatedAnswer": {
+        "en": "play tricks"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b8c9d0e1-f2g3-64h5-i6j7-k8l9m0n1o2p3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "bày trò",
+      "language": "vi",
+      "sentence": "Lúc nhỏ, chúng tôi hay ___ để trêu bạn bè.",
+      "answer": "bày trò",
+      "translation": {
+        "en": "When we were young, we used to play tricks to tease friends."
+      },
+      "translatedAnswer": {
+        "en": "play tricks"
+      }
+    }
+  },
   "_id": "Xg52cFaLZUo6eHKnKlOD",
   "level": "B2",
   "topic": "Actions & Behaviors"

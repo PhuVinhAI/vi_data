@@ -36,6 +36,68 @@
   ],
   "rank": 1068,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ trang phục truyền thống của người Việt Nam.",
+      "en": "Ao dai; Vietnamese traditional dress.",
+      "es": "Áo dài; traje tradicional vietnamita."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "áo dài",
+      "en": "ao dai",
+      "es": "áo dài"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Mặc áo dài đỏ.",
+      "en": "Wear a red ao dai.",
+      "es": "Llevar un ao dai rojo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g7h8i9j0-k1l2-43m4-n5o6-p7q8r9s0t1u2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "áo dài",
+      "language": "vi",
+      "sentence": "Phụ nữ Việt Nam thường mặc ___ trong các dịp lễ tết.",
+      "choices": [
+        "áo thun",
+        "áo dài",
+        "quần jean"
+      ],
+      "answer": "áo dài",
+      "translation": {
+        "en": "Vietnamese women often wear ao dai during festivals."
+      },
+      "translatedAnswer": {
+        "en": "ao dai"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h8i9j0k1-l2m3-44n5-o6p7-q8r9s0t1u2v3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "áo dài",
+      "language": "vi",
+      "sentence": "Những nữ sinh trông thật thướt tha trong bộ ___ trắng.",
+      "answer": "áo dài",
+      "translation": {
+        "en": "The schoolgirls look so graceful in their white ao dai."
+      },
+      "translatedAnswer": {
+        "en": "ao dai"
+      }
+    }
+  },
   "_id": "IkZiei8jjddLXVI1rF0K",
   "level": "A2",
   "topic": "Culture & Traditions"

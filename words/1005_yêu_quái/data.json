@@ -36,6 +36,68 @@
     "Bọn trẻ thường sợ yêu quái khi nghe kể chuyện cổ tích."
   ],
   "notes_md": "**Yêu quái** means “monster” — usually a scary, supernatural creature in stories or legends.\n\nIt’s a noun. Use the classifier **con**: *một con yêu quái*, *nhiều con yêu quái*. It often appears in fantasy, fairy tales, or myths, not real life.\n\nClose words: **quái vật** (monster in general, can be sci‑fi or giant animals) and **yêu tinh** (similar, but often smaller or more magical/trickster-like). Think: *yêu quái* feels more dark and evil.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Chủ yếu chỉ những sinh vật siêu nhiên đáng sợ trong truyền thuyết hoặc truyện cổ tích.",
+      "en": "Monster; demon; supernatural creature in folklore.",
+      "es": "Monstruo; demonio."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "yêu quái",
+      "en": "monster / demon",
+      "es": "monstruo"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Con yêu quái.",
+      "en": "A monster.",
+      "es": "Un monstruo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "x3y4z5a6-b7c8-d9e0-f1g2-h3i4j5k6l7m8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "yêu quái",
+      "language": "vi",
+      "sentence": "Tối qua em mơ thấy một ___ xuất hiện trong rừng.",
+      "choices": [
+        "yêu quái",
+        "ma quỷ",
+        "phù thủy"
+      ],
+      "answer": "yêu quái",
+      "translation": {
+        "en": "Last night I dreamed that a monster appeared in the forest."
+      },
+      "translatedAnswer": {
+        "en": "monster"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "w4x5y6z7-a8b9-c0d1-e2f3-g4h5i6j7k8l9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "yêu quái",
+      "language": "vi",
+      "sentence": "Anh từng đọc truyện về một ___ rất mạnh ở vùng núi.",
+      "answer": "yêu quái",
+      "translation": {
+        "en": "I once read a story about a very strong monster in the mountains."
+      },
+      "translatedAnswer": {
+        "en": "monster"
+      }
+    }
+  },
   "_id": "TJ6ME5Xc49yEiqTFIeNJ",
   "level": "B2",
   "topic": "Fantasy & Fiction"

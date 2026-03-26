@@ -36,6 +36,68 @@
   "originalFrequency": 0.0097,
   "source": "frequency_analysis",
   "updatedAt": "2026-03-03T08:08:21.219Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ khả năng ghi nhớ và lưu giữ thông tin của con người.",
+      "en": "Memory; the ability to remember things.",
+      "es": "Memoria."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trí nhớ",
+      "en": "memory",
+      "es": "memoria"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Trí nhớ tốt.",
+      "en": "Good memory.",
+      "es": "Buena memoria."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "p9q0r1s2-t3u4-v5w6-x7y8-z9a0b1c2d3e4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "trí nhớ",
+      "language": "vi",
+      "sentence": "Anh cần luyện tập để cải thiện ___ của mình mỗi ngày.",
+      "choices": [
+        "trí tuệ",
+        "trí nhớ",
+        "trí lực"
+      ],
+      "answer": "trí nhớ",
+      "translation": {
+        "en": "You need to practice to improve your memory every day."
+      },
+      "translatedAnswer": {
+        "en": "memory"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "o0p1q2r3-s4t5-u6v7-w8x9-y0z1a2b3c4d5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "trí nhớ",
+      "language": "vi",
+      "sentence": "Chị thường ghi chú lại để hỗ trợ ___ khi làm việc.",
+      "answer": "trí nhớ",
+      "translation": {
+        "en": "She often takes notes to support her memory at work."
+      },
+      "translatedAnswer": {
+        "en": "memory"
+      }
+    }
+  },
   "_id": "pshbtR8KFYZ5k4Ux0NfE",
   "level": "B2",
   "topic": "Body & Health"

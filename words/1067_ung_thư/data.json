@@ -36,6 +36,68 @@
   "source": "frequency_analysis",
   "createdAt": "2025-07-21T12:08:12.388Z",
   "originalCount": 11,
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ một căn bệnh hiểm nghèo do sự phát triển bất thường của tế bào.",
+      "en": "Cancer; a serious disease caused by abnormal cell growth.",
+      "es": "Cáncer."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ung thư",
+      "en": "cancer",
+      "es": "cáncer"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Bệnh ung thư phổi.",
+      "en": "Lung cancer.",
+      "es": "Cáncer de pulmón."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e5f6a7b8-c9d0-41e2-f3g4-h5i6j7k8l9m0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "ung thư",
+      "language": "vi",
+      "sentence": "Chế độ ăn uống lành mạnh giúp giảm nguy cơ mắc bệnh ___.",
+      "choices": [
+        "cảm cúm",
+        "ung thư",
+        "đau đầu"
+      ],
+      "answer": "ung thư",
+      "translation": {
+        "en": "A healthy diet helps reduce the risk of cancer."
+      },
+      "translatedAnswer": {
+        "en": "cancer"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f6a7b8c9-d0e1-42f3-g4h5-i6j7k8l9m0n1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "ung thư",
+      "language": "vi",
+      "sentence": "Nhiều tổ chức đang nỗ lực gây quỹ để hỗ trợ bệnh nhân ___.",
+      "answer": "ung thư",
+      "translation": {
+        "en": "Many organizations are striving to raise funds to support cancer patients."
+      },
+      "translatedAnswer": {
+        "en": "cancer"
+      }
+    }
+  },
   "_id": "a6KR1RTfekkbg77Huj49",
   "level": "B2",
   "topic": "Medical & Health"

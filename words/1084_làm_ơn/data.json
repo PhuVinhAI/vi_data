@@ -36,6 +36,68 @@
     "Please close the window for me, can you?",
     "Please let me borrow your pen for a moment."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ dùng để đưa ra lời yêu cầu một cách lịch sự.",
+      "en": "Please; used to make a polite request.",
+      "es": "Por favor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "làm ơn",
+      "en": "please",
+      "es": "por favor"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Làm ơn giúp tôi.",
+      "en": "Please help me.",
+      "es": "Por favor, ayúdame."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s9t0u1v2-w3x4-55y6-z7a8-b9c0d1e2f3g4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "làm ơn",
+      "language": "vi",
+      "sentence": "___ cho tôi hỏi đường đến bưu điện.",
+      "choices": [
+        "Cảm ơn",
+        "Làm ơn",
+        "Xin lỗi"
+      ],
+      "answer": "làm ơn",
+      "translation": {
+        "en": "Please let me ask the way to the post office."
+      },
+      "translatedAnswer": {
+        "en": "Please"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t0u1v2w3-x4y5-56z7-0a8b-9c0d1e2f3g4h",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "làm ơn",
+      "language": "vi",
+      "sentence": "Bạn ___ đóng cửa sổ lại giúp mình.",
+      "answer": "làm ơn",
+      "translation": {
+        "en": "Please close the window for me."
+      },
+      "translatedAnswer": {
+        "en": "please"
+      }
+    }
+  },
   "_id": "SRC5xuIzIwbrXSPWKUVX",
   "level": "A2",
   "topic": "Greetings & Politeness"

@@ -36,6 +36,68 @@
     "Bạn của em vừa tỏ tình với crush trong lớp học."
   ],
   "originalCount": 11,
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ việc bày tỏ tình cảm yêu thương với một người khác một cách trực tiếp.",
+      "en": "To confess one's love; to make a romantic declaration.",
+      "es": "Declararse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tỏ tình",
+      "en": "to confess love",
+      "es": "declarar amor"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Tỏ tình với crush.",
+      "en": "Confess love to a crush.",
+      "es": "Declararse a alguien."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "r9s0t1u2-v3w4-x5y6-z7a8-b9c0d1e2f3g4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "tỏ tình",
+      "language": "vi",
+      "sentence": "Anh đã chuẩn bị rất lâu để ___ với em hôm nay.",
+      "choices": [
+        "tỏ tình",
+        "chấp nhận",
+        "chia tay"
+      ],
+      "answer": "tỏ tình",
+      "translation": {
+        "en": "He prepared for a long time to confess love to her today."
+      },
+      "translatedAnswer": {
+        "en": "confess love"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "q0r1s2t3-u4v5-w6x7-y8z9-a0b1c2d3e4f5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "tỏ tình",
+      "language": "vi",
+      "sentence": "Chị lo lắng không biết nên ___ với người ấy vào lúc nào.",
+      "answer": "tỏ tình",
+      "translation": {
+        "en": "She is worried about when she should confess love to him."
+      },
+      "translatedAnswer": {
+        "en": "confess love"
+      }
+    }
+  },
   "_id": "QIzHlHS6BfN5ZZPYWLje",
   "level": "B2",
   "topic": "Emotions & Relationships"

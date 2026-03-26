@@ -36,6 +36,68 @@
   ],
   "rank": 1058,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ con trai của vua, người được chọn để kế vị ngai vàng.",
+      "en": "Crown prince; the heir to the throne.",
+      "es": "Príncipe heredero."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thái tử",
+      "en": "crown prince",
+      "es": "príncipe heredero"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Thái tử kế vị.",
+      "en": "The crown prince succeeds.",
+      "es": "El príncipe heredero sucede."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "n1o2p3q4-r5s6-t7u8-v9w0-x1y2z3a4b5c6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "th thái tử",
+      "language": "vi",
+      "sentence": "___ thường được chuẩn bị để trở thành vua trong tương lai.",
+      "choices": [
+        "thái tử",
+        "công chúa",
+        "hoàng hậu"
+      ],
+      "answer": "thái tử",
+      "translation": {
+        "en": "The crown prince is usually prepared to become king in the future."
+      },
+      "translatedAnswer": {
+        "en": "The crown prince"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "m2n3o4p5-q6r7-s8t9-u0v1-w2x3y4z5a6b7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "thái tử",
+      "language": "vi",
+      "sentence": "Nhiều người dân mong muốn ___ sẽ là một nhà lãnh đạo tốt.",
+      "answer": "thái tử",
+      "translation": {
+        "en": "Many people hope the crown prince will be a good leader."
+      },
+      "translatedAnswer": {
+        "en": "the crown prince"
+      }
+    }
+  },
   "_id": "JcJE0cWf9lSgrRrAjEoq",
   "level": "B2",
   "topic": "Fantasy & Fiction"

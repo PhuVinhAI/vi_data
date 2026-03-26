@@ -36,6 +36,68 @@
   "originalCount": 11,
   "updatedAt": "2026-03-03T08:07:16.717Z",
   "notes": "dư means extra, left over, more than needed. It’s what remains after you’ve used or divided something.\n\nIt usually comes before a noun: you can have dư tiền, dư thời gian, dư đồ ăn. It describes quantity, not quality.\n\nOpposite: thiếu (not enough) — think dư = too much, thiếu = not enough.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ việc còn thừa lại, nhiều hơn mức cần thiết.",
+      "en": "Extra; left over; more than needed.",
+      "es": "Extra; de sobra."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dư",
+      "en": "extra",
+      "es": "extra"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Còn dư tiền.",
+      "en": "Have extra money.",
+      "es": "Tener dinero de sobra."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "x1y2z3a4-b5c6-d7e8-f9g0-h1i2j3k4l5m6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "dư",
+      "language": "vi",
+      "sentence": "Nếu anh có ___ bánh mì, em xin một cái nhé.",
+      "choices": [
+        "dư",
+        "đủ",
+        "hết"
+      ],
+      "answer": "dư",
+      "translation": {
+        "en": "If you have extra bread, can I have one?"
+      },
+      "translatedAnswer": {
+        "en": "extra"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "w2x3y4z5-a6b7-c8d9-e0f1-g2h3i4j5k6l7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "dư",
+      "language": "vi",
+      "sentence": "Sau khi chia đều, vẫn còn ___ ba quả táo.",
+      "answer": "dư",
+      "translation": {
+        "en": "After dividing evenly, there are still three extra apples."
+      },
+      "translatedAnswer": {
+        "en": "extra"
+      }
+    }
+  },
   "_id": "gOLkEg2Vf0bslpObUCgW",
   "level": "B1",
   "topic": "Adjectives & Descriptions"

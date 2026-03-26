@@ -36,6 +36,68 @@
   "rank": 1083,
   "notes_md": "**cho rồi** = give away, give something to someone because you don’t need it anymore. It implies you’re done with it and won’t take it back.\n\nIt’s a verb phrase. You use it when talking about old clothes, furniture, books, or things you don’t use. Often used when cleaning out or getting rid of stuff.\n\n\nClose to **tặng** (give as a gift), but *cho rồi* feels more like clearing things out than giving a nice present.",
   "definition": "give away",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm động từ chỉ hành động cho đi những đồ vật không còn dùng đến.",
+      "en": "Give away; to give something to someone because you don't need it anymore.",
+      "es": "Regalar; dar algo que ya no se necesita."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cho rồi",
+      "en": "give away",
+      "es": "regalar"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Cho rồi chiếc áo cũ.",
+      "en": "Give away the old shirt.",
+      "es": "Regalar la camisa vieja."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q7r8s9t0-u1v2-53w4-x5y6-z7a8b9c0d1e2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "cho rồi",
+      "language": "vi",
+      "sentence": "Nếu em không dùng chiếc áo này nữa thì ___ đi nhé.",
+      "choices": [
+        "cất",
+        "cho rồi",
+        "mượn"
+      ],
+      "answer": "cho rồi",
+      "translation": {
+        "en": "If you don't use this shirt anymore, give it away, okay?"
+      },
+      "translatedAnswer": {
+        "en": "give it away"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r8s9t0u1-v2w3-54x5-y6z7-a8b9c0d1e2f3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "cho rồi",
+      "language": "vi",
+      "sentence": "Đồ cũ không dùng đến thì nên mang đi ___ cho người cần.",
+      "answer": "cho rồi",
+      "translation": {
+        "en": "Old things not in use should be given away to those in need."
+      },
+      "translatedAnswer": {
+        "en": "given away"
+      }
+    }
+  },
   "_id": "na2PY31r9KHUwKBFtBYk",
   "level": "B1",
   "topic": "Conversational Phrases"

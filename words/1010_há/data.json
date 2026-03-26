@@ -36,6 +36,68 @@
   "rank": 1010,
   "definition": "open",
   "notes": "há = to open (your mouth). It’s almost always about the mouth, not doors or boxes.\n\nYou’ll usually see it with miệng → há miệng. It can also stand alone if it’s obvious you’re talking about someone’s mouth.\n\nIt often implies opening wide, sometimes because of surprise, shock, or getting ready to eat.  \nOpposite idea: ngậm (close your mouth).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động mở miệng rộng ra.",
+      "en": "To open (one's mouth) wide.",
+      "es": "Abrir (la boca)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "há",
+      "en": "to open (mouth)",
+      "es": "abrir"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Há miệng.",
+      "en": "Open your mouth.",
+      "es": "Abrir la boca."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "t7u8v9w0-x1y2-z3a4-b5c6-d7e8f9g0h1i2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "há",
+      "language": "vi",
+      "sentence": "Bác sĩ bảo em ___ miệng để kiểm tra cổ họng.",
+      "choices": [
+        "há",
+        "khá",
+        "hà"
+      ],
+      "answer": "há",
+      "translation": {
+        "en": "The doctor told me to open my mouth to check my throat."
+      },
+      "translatedAnswer": {
+        "en": "open"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "s8t9u0v1-w2x3-y4z5-a6b7-c8d9e0f1g2h3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "há",
+      "language": "vi",
+      "sentence": "Khi ăn kem, bé thường ___ miệng thật to vì thích thú.",
+      "answer": "há",
+      "translation": {
+        "en": "When eating ice cream, the child often opens his mouth wide with excitement."
+      },
+      "translatedAnswer": {
+        "en": "opens"
+      }
+    }
+  },
   "_id": "iuYoj2gnfJTsYinyRuAG",
   "level": "B1",
   "topic": "Conversational Particles"

@@ -36,6 +36,68 @@
     "làm việc"
   ],
   "word": "nghỉ việc",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ việc ngừng làm việc tại một cơ quan hoặc công ty.",
+      "en": "To quit a job; to resign.",
+      "es": "Dejar el trabajo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nghỉ việc",
+      "en": "to quit a job",
+      "es": "renunciar"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Nghỉ việc để du lịch.",
+      "en": "Quit job to travel.",
+      "es": "Dejar el trabajo para viajar."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "p1q2r3s4-t5u6-v7w8-x9y0-z1a2b3c4d5e6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "nghỉ việc",
+      "language": "vi",
+      "sentence": "Anh quyết định ___ để tìm một cơ hội mới tốt hơn.",
+      "choices": [
+        "nghỉ phép",
+        "nghỉ việc",
+        "làm việc"
+      ],
+      "answer": "nghỉ việc",
+      "translation": {
+        "en": "He decided to quit a job to look for a better opportunity."
+      },
+      "translatedAnswer": {
+        "en": "quit a job"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "o2p3q4r5-s6t7-u8v9-w0x1-y2z3a4b5c6d7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "nghỉ việc",
+      "language": "vi",
+      "sentence": "Chị ấy đã ___ sau khi làm ở công ty này ba năm.",
+      "answer": "nghỉ việc",
+      "translation": {
+        "en": "She quit a job after working at this company for three years."
+      },
+      "translatedAnswer": {
+        "en": "quit a job"
+      }
+    }
+  },
   "_id": "1CpSoqPhDRj1GtpcBTHW",
   "level": "B1",
   "topic": "Work & Education"

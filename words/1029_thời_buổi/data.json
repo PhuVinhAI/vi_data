@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ tình trạng chung của xã hội ở một thời điểm hiện tại, thường có sắc thái cảm xúc.",
+      "en": "The social situation or times we live in; era.",
+      "es": "Época; tiempos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thời buổi",
+      "en": "modern times / era",
+      "es": "tiempos"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Thời buổi khó khăn.",
+      "en": "Difficult times.",
+      "es": "Tiempos difíciles."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "d3e4f5g6-h7i8-j9k0-l1m2-n3o4p5q6r7s8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "thời buổi",
+      "language": "vi",
+      "sentence": "___ này, ai cũng sử dụng điện thoại thông minh mỗi ngày.",
+      "choices": [
+        "thời gian",
+        "thời buổi",
+        "thời đại"
+      ],
+      "answer": "thời buổi",
+      "translation": {
+        "en": "In modern times, everyone uses a smartphone every day."
+      },
+      "translatedAnswer": {
+        "en": "In modern times"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "c4d5e6f7-g8h9-i0j1-k2l3-m4n5o6p7q8r9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "thời buổi",
+      "language": "vi",
+      "sentence": "Trong ___ công nghệ phát triển nhanh, chúng ta phải học hỏi liên tục.",
+      "answer": "thời buổi",
+      "translation": {
+        "en": "In modern times of rapid technological development, we have to keep learning."
+      },
+      "translatedAnswer": {
+        "en": "modern times"
+      }
+    }
+  },
   "_id": "uo9HEi84dIE9YDXbz3yv",
   "level": "B2",
   "topic": "Society & Culture"

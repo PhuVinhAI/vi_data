@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "addedReason": "common noun",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người phụ nữ đứng đầu một vương quốc.",
+      "en": "Queen; a female monarch who rules a kingdom.",
+      "es": "Reina."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nữ chúa",
+      "en": "queen",
+      "es": "reina"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Nữ chúa trị vì.",
+      "en": "The queen reigns.",
+      "es": "La reina reina."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i9j0k1l2-m3n4-45o6-p7q8-r9s0t1u2v3w4",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "nữ chúa",
+      "language": "vi",
+      "sentence": "Trong truyện cổ tích, ___ thường sống trong lâu đài lộng lẫy.",
+      "choices": [
+        "nữ chúa",
+        "nông dân",
+        "ngư dân"
+      ],
+      "answer": "nữ chúa",
+      "translation": {
+        "en": "In fairy tales, the queen usually lives in a magnificent castle."
+      },
+      "translatedAnswer": {
+        "en": "the queen"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j0k1l2m3-n4o5-46p7-q8r9-s0t1u2v3w4x5",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "nữ chúa",
+      "language": "vi",
+      "sentence": "Mọi người dân đều kính trọng vị ___ nhân hậu này.",
+      "answer": "nữ chúa",
+      "translation": {
+        "en": "All the people respect this kind queen."
+      },
+      "translatedAnswer": {
+        "en": "queen"
+      }
+    }
+  },
   "_id": "h0XReCdhfGBVS3myt1nc",
   "level": "B2",
   "topic": "Fantasy & Fiction"

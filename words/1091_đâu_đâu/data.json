@@ -36,6 +36,68 @@
   ],
   "createdAt": "2025-07-21T12:11:22.648Z",
   "originalFrequency": 0.0088,
+  "flashcard": {
+    "definitions": {
+      "vi": "Từ chỉ sự tồn tại ở khắp mọi nơi.",
+      "en": "Everywhere; all over the place.",
+      "es": "En todas partes; por todos lados."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đâu đâu",
+      "en": "everywhere",
+      "es": "por todas partes"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Nhìn đâu đâu cũng thấy hoa.",
+      "en": "Looking everywhere, I see flowers.",
+      "es": "Mirando por todas partes, veo flores."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y5z6a7b8-c9d0-61e2-f3g4-h5i6j7k8l9m0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "đâu đâu",
+      "language": "vi",
+      "sentence": "Vào mùa xuân, nhìn ___ cũng thấy hoa nở.",
+      "choices": [
+        "đâu đâu",
+        "hôm qua",
+        "bây giờ"
+      ],
+      "answer": "đâu đâu",
+      "translation": {
+        "en": "In spring, looking everywhere, you see flowers blooming."
+      },
+      "translatedAnswer": {
+        "en": "everywhere"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z6a7b8c9-d0e1-62f3-g4h5-i6j7k8l9m0n1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "đâu đâu",
+      "language": "vi",
+      "sentence": "Anh nghe thấy tiếng cười vang lên ___ trong ngôi nhà.",
+      "answer": "đâu đâu",
+      "translation": {
+        "en": "He hears laughter echoing everywhere in the house."
+      },
+      "translatedAnswer": {
+        "en": "everywhere"
+      }
+    }
+  },
   "_id": "EeSnK5aws50l4hANle2c",
   "level": "B1",
   "topic": "Places & Directions"

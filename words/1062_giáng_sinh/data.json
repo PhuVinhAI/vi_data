@@ -36,6 +36,68 @@
   "definition": "Christmas",
   "notes": "giáng sinh = Christmas. It refers to the holiday celebrating the birth of Jesus, usually on December 25.\n\nIt’s a noun. You’ll often hear lễ Giáng Sinh (the Christmas holiday), mùa Giáng Sinh (the Christmas season), or đêm Giáng Sinh (Christmas Eve).  \n\nYou can capitalize it as Giáng Sinh, especially in writing about the holiday formally.  \nA very common synonym is Noel (borrowed from French) — same meaning, just shorter and very natural in speech.",
   "rank": 1062,
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ ngày lễ kỷ niệm sự ra đời của Chúa Giê-su.",
+      "en": "Christmas; the holiday celebrating the birth of Jesus.",
+      "es": "Navidad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "giáng sinh",
+      "en": "Christmas",
+      "es": "Navidad"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Chúc mừng Giáng sinh.",
+      "en": "Merry Christmas.",
+      "es": "Feliz Navidad."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3g4h5i6",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "giáng sinh",
+      "language": "vi",
+      "sentence": "Trẻ em thường nhận được quà vào đêm ___.",
+      "choices": [
+        "giáng sinh",
+        "trung thu",
+        "tết"
+      ],
+      "answer": "giáng sinh",
+      "translation": {
+        "en": "Children usually receive gifts on Christmas Eve."
+      },
+      "translatedAnswer": {
+        "en": "Christmas"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b2c3d4e5-f6a7-48b9-c0d1-e2f3g4h5i6j7",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "giáng sinh",
+      "language": "vi",
+      "sentence": "Cây thông là biểu tượng không thể thiếu trong ngày ___.",
+      "answer": "giáng sinh",
+      "translation": {
+        "en": "The pine tree is an indispensable symbol on Christmas Day."
+      },
+      "translatedAnswer": {
+        "en": "Christmas"
+      }
+    }
+  },
   "_id": "m8O6bLiAFulCGRSnvsIm",
   "level": "A2",
   "topic": "Culture & Traditions"

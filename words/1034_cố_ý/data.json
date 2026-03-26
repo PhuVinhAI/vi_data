@@ -36,6 +36,68 @@
   "language": "vi",
   "source": "frequency_analysis",
   "definition": "on purpose",
+  "flashcard": {
+    "definitions": {
+      "vi": "Trạng từ chỉ việc thực hiện một hành động có mục đích, có chủ tâm.",
+      "en": "On purpose; intentionally; deliberately.",
+      "es": "A propósito."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cố ý",
+      "en": "on purpose",
+      "es": "adrede"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Cố ý bỏ quên.",
+      "en": "Leave on purpose.",
+      "es": "Dejar a propósito."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "b5c6d7e8-f9g0-h1i2-j3k4-l5m6n7o8p9q0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "cố ý",
+      "language": "vi",
+      "sentence": "Anh không ___ làm em buồn đâu, anh chỉ nói thật thôi.",
+      "choices": [
+        "tình cờ",
+        "cố ý",
+        "vô tình"
+      ],
+      "answer": "cố ý",
+      "translation": {
+        "en": "I didn't make you sad on purpose, I was just being honest."
+      },
+      "translatedAnswer": {
+        "en": "on purpose"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "a6b7c8d9-e0f1-g2h3-i4j5-k6l7m8n9o0p1",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "cố ý",
+      "language": "vi",
+      "sentence": "Chị ấy đã ___ để quên ví ở nhà để không phải trả tiền.",
+      "answer": "cố ý",
+      "translation": {
+        "en": "She left her wallet at home on purpose so she wouldn't have to pay."
+      },
+      "translatedAnswer": {
+        "en": "on purpose"
+      }
+    }
+  },
   "_id": "ewbAkSI8oClNRHahjBnT",
   "level": "B2",
   "topic": "Actions & Behaviors"

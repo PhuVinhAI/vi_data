@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Số đếm chỉ đơn vị một tỷ (1,000,000,000).",
+      "en": "Billion; the number 1,000,000,000.",
+      "es": "Mil millones."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tỉ",
+      "en": "billion",
+      "es": "mil millones"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Một tỉ đồng.",
+      "en": "One billion dong.",
+      "es": "Mil millones de dong."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o5p6q7r8-s9t0-51u2-v3w4-x5y6z7a8b9c0",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "tỉ",
+      "language": "vi",
+      "sentence": "Anh ấy vừa trúng số được một ___ đồng.",
+      "choices": [
+        "triệu",
+        "nghìn",
+        "tỉ"
+      ],
+      "answer": "tỉ",
+      "translation": {
+        "en": "He just won the lottery for one billion dong."
+      },
+      "translatedAnswer": {
+        "en": "billion"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p6q7r8s9-t0u1-52v2-w3x4-y5z6a7b8c9d0",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "tỉ",
+      "language": "vi",
+      "sentence": "Dân số thế giới đã vượt qua con số tám ___ người.",
+      "answer": "tỉ",
+      "translation": {
+        "en": "The world population has surpassed eight billion people."
+      },
+      "translatedAnswer": {
+        "en": "billion"
+      }
+    }
+  },
   "_id": "VjWt1kX0qDIC9JumrBR8",
   "level": "B1",
   "topic": "Numbers & Quantifiers"

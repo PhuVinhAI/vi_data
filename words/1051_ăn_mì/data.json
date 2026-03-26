@@ -36,6 +36,68 @@
     "When it’s cold, she likes to eat noodles to feel warmer."
   ],
   "notes": "ăn mì = to eat noodles. It’s a simple everyday verb phrase.\n\năn (eat) + mì (noodles), so you use it just like other food verbs.  \n\nMì can mean instant noodles or wheat noodles in general, depending on context. If you want to be specific, you can add details like mì gói (instant noodles) or mì Ý (pasta).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm động từ chỉ hành động dùng bữa với các loại mì.",
+      "en": "To eat noodles.",
+      "es": "Comer fideos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ăn mì",
+      "en": "eat noodles",
+      "es": "comer fideos"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Ăn mì tôm.",
+      "en": "Eat instant noodles.",
+      "es": "Comer fideos instantáneos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "r7s8t9u0-v1w2-x3y4-z5a6-b7c8d9e0f1g2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "ăn mì",
+      "language": "vi",
+      "sentence": "Buổi sáng, em thường ___ với trứng và rau.",
+      "choices": [
+        "uống nước",
+        "ăn mì",
+        "nấu cơm"
+      ],
+      "answer": "ăn mì",
+      "translation": {
+        "en": "In the morning, I usually eat noodles with eggs and vegetables."
+      },
+      "translatedAnswer": {
+        "en": "eat noodles"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "q8r9s0t1-u2v3-w4x5-y6z7-a8b9c0d1e2f3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "ăn mì",
+      "language": "vi",
+      "sentence": "Khi trời lạnh, chị thích ___ nóng để cảm thấy ấm áp hơn.",
+      "answer": "ăn mì",
+      "translation": {
+        "en": "When it’s cold, she likes to eat noodles to feel warmer."
+      },
+      "translatedAnswer": {
+        "en": "eat noodles"
+      }
+    }
+  },
   "_id": "JiEXPyPcoFuLOVvo12eP",
   "level": "A1",
   "topic": "Food & Drinks"

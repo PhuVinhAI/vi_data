@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tiểu từ tình thái thể hiện sự đồng ý một cách hời hợt hoặc không tập trung.",
+      "en": "A quick, distracted, or dismissive way of saying yes.",
+      "es": "Sí, sí (distraído)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ừ ừ",
+      "en": "yeah yeah",
+      "es": "sí sí"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Trả lời ừ ừ.",
+      "en": "Answering yeah yeah.",
+      "es": "Responder sí sí."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "j7k8l9m0-n1o2-p3q4-r5s6-t7u8v9w0x1y2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "ừ ừ",
+      "language": "vi",
+      "sentence": "Khi chị kể chuyện, em chỉ nói ___ mà không thật sự nghe.",
+      "choices": [
+        "ừ ừ",
+        "vâng vâng",
+        "dạ dạ"
+      ],
+      "answer": "ừ ừ",
+      "translation": {
+        "en": "When she told a story, I just said yeah yeah without really listening."
+      },
+      "translatedAnswer": {
+        "en": "yeah yeah"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "i8j9k0l1-m2n3-o4p5-q6r7-s8t9u0v1w2x3",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "ừ ừ",
+      "language": "vi",
+      "sentence": "Anh hỏi em đã làm bài tập chưa, em chỉ trả lời ___.",
+      "answer": "ừ ừ",
+      "translation": {
+        "en": "I asked if you finished your homework, you just answered yeah yeah."
+      },
+      "translatedAnswer": {
+        "en": "yeah yeah"
+      }
+    }
+  },
   "_id": "LfTzYklSNh9gEQAi7AZ2",
   "level": "A2",
   "topic": "Conversational Phrases"

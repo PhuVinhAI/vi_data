@@ -36,6 +36,68 @@
     "I want to travel with you, however I am busy with work this week.",
     "She agreed to help, however she is not sure if she has time."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Liên từ dùng để đưa ra một hạn chế hoặc nhược điểm nhỏ.",
+      "en": "However; the only thing is; used to introduce a small limitation.",
+      "es": "Sin embargo; lo único es."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "có điều",
+      "en": "however",
+      "es": "sin embargo"
+    },
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "example": {
+      "vi": "Rất đẹp, có điều hơi đắt.",
+      "en": "Very beautiful, however a bit expensive.",
+      "es": "Muy bonito, lo único es que es un poco caro."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c3d4e5f6-a7b8-49c0-d1e2-f3g4h5i6j7k8",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "có điều",
+      "language": "vi",
+      "sentence": "Anh rất thích chiếc xe này, ___ nó hơi đắt.",
+      "choices": [
+        "bởi vì",
+        "có điều",
+        "cho nên"
+      ],
+      "answer": "có điều",
+      "translation": {
+        "en": "I really like this car, however it is a bit expensive."
+      },
+      "translatedAnswer": {
+        "en": "however"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d4e5f6a7-b8c9-40d1-e2f3-g4h5i6j7k8l9",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T15:00:00.000Z",
+    "updatedAt": "2025-03-12T15:00:00.000Z",
+    "content": {
+      "word": "có điều",
+      "language": "vi",
+      "sentence": "Cô ấy rất thông minh, ___ đôi khi hơi bất cẩn.",
+      "answer": "có điều",
+      "translation": {
+        "en": "She is very intelligent, however sometimes a bit careless."
+      },
+      "translatedAnswer": {
+        "en": "however"
+      }
+    }
+  },
   "_id": "nCNVam7Yat2lGsyN0Tay",
   "level": "B2",
   "topic": "Conjunctions & Connectors"
