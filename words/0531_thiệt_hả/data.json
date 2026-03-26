@@ -36,6 +36,68 @@
   "updatedAt": "2026-03-03T07:15:27.583Z",
   "addedReason": "common question",
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để hỏi lại một điều gì đó với sự ngạc nhiên.",
+      "en": "Really?; For real?.",
+      "es": "¿De verdad?."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thiệt hả",
+      "en": "really",
+      "es": "¿en serio?"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Ngày mai nghỉ học, thiệt hả?",
+      "en": "No school tomorrow, really?",
+      "es": "¿Mañana không hay clases, de verdad?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i2j3k4l5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thiệt hả",
+      "language": "vi",
+      "sentence": "Bạn mới mua xe mới à, ___?",
+      "choices": [
+        "thiệt hả",
+        "đúng rồi",
+        "vậy sao"
+      ],
+      "answer": "thiệt hả",
+      "translation": {
+        "en": "You just bought a new car, really?"
+      },
+      "translatedAnswer": {
+        "en": "really"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j3k4l5m6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thiệt hả",
+      "language": "vi",
+      "sentence": "Anh ấy đi du lịch rồi, ___?",
+      "answer": "thiệt hả",
+      "translation": {
+        "en": "He went traveling, really?"
+      },
+      "translatedAnswer": {
+        "en": "really"
+      }
+    }
+  },
   "_id": "HpuN3a0a2UwF0lhknaju",
   "level": "B1",
   "topic": "Conversational Phrases"

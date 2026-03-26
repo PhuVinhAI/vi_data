@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để biểu thị sự ngạc nhiên hoặc không tin vào một điều gì đó.",
+      "en": "Could it be...?; Is it possible that...?",
+      "es": "¿Es posible que...?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chẳng lẽ",
+      "en": "could it be",
+      "es": "¿acaso?"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Chẳng lẽ bấy nhiêu vẫn chưa đủ?",
+      "en": "Could it be that that's still not enough?",
+      "es": "¿Es posible que eso todavía không sea suficiente?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e8f9g0h1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chẳng lẽ",
+      "language": "vi",
+      "sentence": "___ anh ấy lại quên hẹn với mình?",
+      "choices": [
+        "chẳng lẽ",
+        "tuy nhiên",
+        "bởi vì"
+      ],
+      "answer": "chẳng lẽ",
+      "translation": {
+        "en": "Could it be that he forgot the appointment with me?"
+      },
+      "translatedAnswer": {
+        "en": "could it be"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f9g0h1i2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chẳng lẽ",
+      "language": "vi",
+      "sentence": "___ mình lại làm sai bài toán này?",
+      "answer": "chẳng lẽ",
+      "translation": {
+        "en": "Could it be that I got this math problem wrong?"
+      },
+      "translatedAnswer": {
+        "en": "could it be"
+      }
+    }
+  },
   "_id": "mGacMp4hAOBJlCEpLymx",
   "level": "B2",
   "topic": "Conversational Phrases"

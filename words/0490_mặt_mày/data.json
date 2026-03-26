@@ -36,6 +36,68 @@
     "bàn tay",
     "đầu gối"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Khuôn mặt, thường dùng để chỉ sắc thái, biểu cảm.",
+      "en": "Face; countenance.",
+      "es": "Cara; semblante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mặt mày",
+      "en": "face",
+      "es": "cara"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mặt mày cậu ấy sáng sủa.",
+      "en": "His face looks bright.",
+      "es": "Su cara se ve brillante."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o2p3q4r5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mặt mày",
+      "language": "vi",
+      "sentence": "Sao ___ bạn buồn thế?",
+      "choices": [
+        "mặt mày",
+        "tay chân",
+        "đầu óc"
+      ],
+      "answer": "mặt mày",
+      "translation": {
+        "en": "Why does your face look so sad?"
+      },
+      "translatedAnswer": {
+        "en": "face"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p3q4r5s6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mặt mày",
+      "language": "vi",
+      "sentence": "Nhìn ___ anh ấy có vẻ mệt mỏi.",
+      "answer": "mặt mày",
+      "translation": {
+        "en": "His face looks tired."
+      },
+      "translatedAnswer": {
+        "en": "face"
+      }
+    }
+  },
   "_id": "He8SkWiRjKTVC1cKoqbE",
   "level": "B2",
   "topic": "Body & Health"

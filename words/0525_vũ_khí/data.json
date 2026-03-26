@@ -36,6 +36,68 @@
   "word": "vũ khí",
   "createdAt": "2025-07-21T11:19:40.181Z",
   "updatedAt": "2026-03-03T07:14:47.279Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Công cụ dùng để tấn công hoặc phòng thủ.",
+      "en": "Weapon.",
+      "es": "Arma."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vũ khí",
+      "en": "weapon",
+      "es": "arma"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy biết cách sử dụng vũ khí.",
+      "en": "He knows how to use weapon.",
+      "es": "Él sabe cómo usar el arma."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g0h1i2j3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vũ khí",
+      "language": "vi",
+      "sentence": "Cảnh sát đã tìm thấy ___ trong xe.",
+      "choices": [
+        "vũ khí",
+        "quần áo",
+        "đồ chơi"
+      ],
+      "answer": "vũ khí",
+      "translation": {
+        "en": "The police found a weapon in the car."
+      },
+      "translatedAnswer": {
+        "en": "weapon"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h1i2j3k4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vũ khí",
+      "language": "vi",
+      "sentence": "Không được mang ___ vào đây.",
+      "answer": "vũ khí",
+      "translation": {
+        "en": "Do not bring weapons in here."
+      },
+      "translatedAnswer": {
+        "en": "weapons"
+      }
+    }
+  },
   "_id": "htHKeg6TcpM0NHV09fVF",
   "level": "B2",
   "topic": "Society & Culture"

@@ -36,6 +36,68 @@
   ],
   "originalCount": 20,
   "updatedAt": "2026-03-03T07:17:48.434Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Công trình kiến trúc dùng để thờ cúng thần thánh hoặc các vị anh hùng.",
+      "en": "Temple.",
+      "es": "Templo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đền",
+      "en": "temple",
+      "es": "templo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Chúng tôi đi thăm đền Hùng.",
+      "en": "We visited Hung temple.",
+      "es": "Visitamos el templo de Hung."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y8z9a0b1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đền",
+      "language": "vi",
+      "sentence": "Ngôi ___ này rất cổ kính.",
+      "choices": [
+        "nhà thờ",
+        "đền",
+        "chùa"
+      ],
+      "answer": "đền",
+      "translation": {
+        "en": "This temple is very ancient."
+      },
+      "translatedAnswer": {
+        "en": "temple"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z9a0b1c2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đền",
+      "language": "vi",
+      "sentence": "Lễ hội diễn ra tại ___ Đô.",
+      "answer": "đền",
+      "translation": {
+        "en": "The festival takes place at Do temple."
+      },
+      "translatedAnswer": {
+        "en": "temple"
+      }
+    }
+  },
   "_id": "fByq0ZMFzLNCYaDXEx9H",
   "level": "B1",
   "topic": "Actions & Behaviors"

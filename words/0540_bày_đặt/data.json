@@ -36,6 +36,68 @@
   "notes_md": "**bày đặt** = to pretend in an unnecessary or fake way, often to look better, busier, or more dramatic than you really are. It has a slightly annoyed or teasing tone.\n\nIt’s a **verb**, usually followed by another verb or situation someone is faking. You use it when someone is acting extra, overdoing it, or making a show for no good reason.\n\n\nClose vibe: *giả vờ* (pretend) — but *bày đặt* feels more eye-rolling, like “oh please.” Opposite feeling: *thật lòng* (sincere).",
   "originalCount": 20,
   "updatedAt": "2026-03-03T07:16:13.368Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Giả vờ hoặc làm ra vẻ một cách không cần thiết, đôi khi mang nghĩa tiêu cực.",
+      "en": "To pretend; to affect; to act extra.",
+      "es": "Aparentar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bày đặt",
+      "en": "pretend",
+      "es": "aparentar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng bày đặt làm ra vẻ bận rộn.",
+      "en": "Don't pretend to be busy.",
+      "es": "No aparentes estar ocupado."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o8p9q0r1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bày đặt",
+      "language": "vi",
+      "sentence": "Đừng ___ khóc nữa.",
+      "choices": [
+        "bày đặt",
+        "giả vờ",
+        "giúp đỡ"
+      ],
+      "answer": "bày đặt",
+      "translation": {
+        "en": "Don't pretend to cry anymore."
+      },
+      "translatedAnswer": {
+        "en": "pretend"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p9q0r1s2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bày đặt",
+      "language": "vi",
+      "sentence": "Cứ ___ không biết chuyện gì.",
+      "answer": "bày đặt",
+      "translation": {
+        "en": "Keep pretending not to know anything."
+      },
+      "translatedAnswer": {
+        "en": "pretending"
+      }
+    }
+  },
   "_id": "5cVdJYqdAHDT4yVrhZMk",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

@@ -36,6 +36,68 @@
     "hộp"
   ],
   "originalCount": 20,
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để chỉ một tập hợp vật dài cùng loại được buộc lại với nhau.",
+      "en": "Bundle; bunch.",
+      "es": "Mojo; Ramo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bó",
+      "en": "bundle",
+      "es": "ramo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Một bó hoa hồng rất đẹp.",
+      "en": "A very beautiful bunch of roses.",
+      "es": "Un ramo de rosas muy hermoso."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w6x7y8z9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bó",
+      "language": "vi",
+      "sentence": "Mẹ mua một ___ rau.",
+      "choices": [
+        "bó",
+        "gói",
+        "hộp"
+      ],
+      "answer": "bó",
+      "translation": {
+        "en": "Mother bought a bundle of vegetables."
+      },
+      "translatedAnswer": {
+        "en": "bundle"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x7y8z9a0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bó",
+      "language": "vi",
+      "sentence": "Anh mang ___ củi về nhà.",
+      "answer": "bó",
+      "translation": {
+        "en": "He brought a bundle of firewood home."
+      },
+      "translatedAnswer": {
+        "en": "bundle"
+      }
+    }
+  },
   "_id": "mulmwrB6dlZ62k2nwBH4",
   "level": "B1",
   "topic": "Quantifiers & Classifiers"

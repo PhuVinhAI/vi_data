@@ -36,6 +36,68 @@
     "Chị nấu ăn không ngon lắm, được cái chị luôn vui vẻ.",
     "Em chưa có nhiều kinh nghiệm, được cái em học rất nhanh."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để nhấn mạnh một điểm tốt để bù lại một điểm chưa tốt.",
+      "en": "At least; on the bright side.",
+      "es": "A lo menos."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "được cái",
+      "en": "at least",
+      "es": "por lo menos"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Hắn hơi lười nhưng được cái hiền.",
+      "en": "He's a bit lazy but at least he's kind.",
+      "es": "Él es un poco perezoso pero por lo menos es amable."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q0r1s2t3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "được cái",
+      "language": "vi",
+      "sentence": "Anh ấy hơi lười nhưng ___ hiền lành.",
+      "choices": [
+        "được cái",
+        "bởi vì",
+        "tuy nhiên"
+      ],
+      "answer": "được cái",
+      "translation": {
+        "en": "He's a bit lazy but at least he's gentle."
+      },
+      "translatedAnswer": {
+        "en": "at least"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r1s2t3u4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "được cái",
+      "language": "vi",
+      "sentence": "Căn nhà nhỏ nhưng ___ sạch sẽ.",
+      "answer": "được cái",
+      "translation": {
+        "en": "The house is small but at least it's clean."
+      },
+      "translatedAnswer": {
+        "en": "at least"
+      }
+    }
+  },
   "_id": "CCOdnEZ0k4e02nFrwMeO",
   "level": "B2",
   "topic": "Conversational Phrases"

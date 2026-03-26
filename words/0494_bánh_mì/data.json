@@ -36,6 +36,68 @@
   ],
   "rank": 494,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một loại thực phẩm làm từ bột mì nướng.",
+      "en": "Bread; Vietnamese sandwich.",
+      "es": "Pan."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bánh mì",
+      "en": "bread",
+      "es": "pan"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi đang ăn bánh mì.",
+      "en": "I am eating bread.",
+      "es": "Estoy comiendo pan."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q4r5s6t7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bánh mì",
+      "language": "vi",
+      "sentence": "Cho tôi một ổ ___.",
+      "choices": [
+        "bánh mì",
+        "phở",
+        "bún"
+      ],
+      "answer": "bánh mì",
+      "translation": {
+        "en": "Give me a loaf of bread."
+      },
+      "translatedAnswer": {
+        "en": "bread"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r5s6t7u8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bánh mì",
+      "language": "vi",
+      "sentence": "Sáng nay tôi ăn ___.",
+      "answer": "bánh mì",
+      "translation": {
+        "en": "I ate bread this morning."
+      },
+      "translatedAnswer": {
+        "en": "bread"
+      }
+    }
+  },
   "_id": "YGGSaQeHFYM1h68DgxK8",
   "level": "A1",
   "topic": "Food & Drinks"

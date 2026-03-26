@@ -36,6 +36,68 @@
   "source": "frequency_analysis",
   "word": "cấp cứu",
   "updatedAt": "2026-03-03T07:13:41.409Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động cứu giúp khẩn cấp người bị bệnh hoặc bị thương nặng.",
+      "en": "Emergency; first aid; emergency treatment.",
+      "es": "Primeros auxilios; urgencias."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cấp cứu",
+      "en": "emergency",
+      "es": "urgencias"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy đang ở phòng cấp cứu.",
+      "en": "He is in the emergency room.",
+      "es": "Él está trong la sala de urgencias."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a4b5c6d7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cấp cứu",
+      "language": "vi",
+      "sentence": "Xe ___ đang chạy trên đường.",
+      "choices": [
+        "cấp cứu",
+        "buýt",
+        "tải"
+      ],
+      "answer": "cấp cứu",
+      "translation": {
+        "en": "The ambulance is running on the road."
+      },
+      "translatedAnswer": {
+        "en": "ambulance"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b5c6d7e8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cấp cứu",
+      "language": "vi",
+      "sentence": "Hãy gọi số ___ ngay!",
+      "answer": "cấp cứu",
+      "translation": {
+        "en": "Call the emergency number immediately!"
+      },
+      "translatedAnswer": {
+        "en": "emergency"
+      }
+    }
+  },
   "_id": "hpvW2JKxoV3FdIBINNOR",
   "level": "B1",
   "topic": "Medical & Health"

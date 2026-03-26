@@ -36,6 +36,68 @@
     "tự học",
     "tự hào"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động tự kết liễu đời mình.",
+      "en": "Suicide; to commit suicide.",
+      "es": "Suicidio."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tự tử",
+      "en": "suicide",
+      "es": "suicidio"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy đã định tự tử vì quá buồn.",
+      "en": "He intended to commit suicide because of being too sad.",
+      "es": "Él pretendía suicidarse bởi vì estaba muy triste."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a0b1c2d3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tự tử",
+      "language": "vi",
+      "sentence": "Đừng nghĩ đến việc ___.",
+      "choices": [
+        "tự tử",
+        "tự học",
+        "tự hào"
+      ],
+      "answer": "tự tử",
+      "translation": {
+        "en": "Don't think about committing suicide."
+      },
+      "translatedAnswer": {
+        "en": "suicide"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b1c2d3e4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tự tử",
+      "language": "vi",
+      "sentence": "Ngăn chặn các vụ ___ trong thanh niên.",
+      "answer": "tự tử",
+      "translation": {
+        "en": "Preventing suicides among youth."
+      },
+      "translatedAnswer": {
+        "en": "suicide"
+      }
+    }
+  },
   "_id": "I0DgvyJOCbZ8wYKLzXZi",
   "level": "B2",
   "topic": "Crime & Law"

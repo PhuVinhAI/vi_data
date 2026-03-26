@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Đứng thành hàng để chờ đợi theo thứ tự.",
+      "en": "To line up; to queue.",
+      "es": "Hacer fila."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "xếp hàng",
+      "en": "line up",
+      "es": "hacer fila"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mọi người đang xếp hàng mua vé.",
+      "en": "People are lining up to buy tickets.",
+      "es": "La gente está haciendo fila para comprar boletos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w0x1y2z3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xếp hàng",
+      "language": "vi",
+      "sentence": "Chúng tôi phải ___ để mua vé.",
+      "choices": [
+        "xếp hàng",
+        "chạy bộ",
+        "ngồi chờ"
+      ],
+      "answer": "xếp hàng",
+      "translation": {
+        "en": "We have to line up to buy tickets."
+      },
+      "translatedAnswer": {
+        "en": "line up"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x1y2z3a4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xếp hàng",
+      "language": "vi",
+      "sentence": "Học sinh đang ___ vào lớp.",
+      "answer": "xếp hàng",
+      "translation": {
+        "en": "Students are lining up to enter the class."
+      },
+      "translatedAnswer": {
+        "en": "lining up"
+      }
+    }
+  },
   "_id": "nt9HeDvL4V8InioYIIqu",
   "level": "A2",
   "topic": "Daily Life & Services"

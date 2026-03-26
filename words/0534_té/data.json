@@ -36,6 +36,68 @@
   "rank": 534,
   "notes_md": "**té** = to fall down (usually accidentally), especially when walking, running, or losing balance.\n\nIt’s a verb for physical falling, often from slipping or tripping. You’ll often hear it with **bị** (bị té) to show something unfortunate happened.  \n\n\nVery close to **ngã** — *ngã* is more neutral and used everywhere; **té** is very common in the South and sounds more casual.",
   "definition": "fall",
+  "flashcard": {
+    "definitions": {
+      "vi": "Bị ngã do mất thăng bằng hoặc trượt chân.",
+      "en": "To fall; to fall down.",
+      "es": "Caerse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "té",
+      "en": "fall",
+      "es": "caerse"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng chạy nhanh quá, coi chừng té.",
+      "en": "Don't run too fast, watch out for falling.",
+      "es": "No corras demasiado rápido, cuidado con caerte."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k4l5m6n7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "té",
+      "language": "vi",
+      "sentence": "Cẩn thận kẻo bị ___.",
+      "choices": [
+        "té",
+        "hát",
+        "ăn"
+      ],
+      "answer": "té",
+      "translation": {
+        "en": "Be careful or you will fall."
+      },
+      "translatedAnswer": {
+        "en": "fall"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l5m6n7o8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "té",
+      "language": "vi",
+      "sentence": "Thằng bé vừa ___ xong.",
+      "answer": "té",
+      "translation": {
+        "en": "The boy just had a fall."
+      },
+      "translatedAnswer": {
+        "en": "fall"
+      }
+    }
+  },
   "_id": "q8xEUtVX3EI5vuhf3azR",
   "level": "B1",
   "topic": "Actions & Behaviors"

@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Kết quả cuối cùng của một sự việc hoặc một câu chuyện.",
+      "en": "Ending; outcome.",
+      "es": "Desenlace."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "kết cục",
+      "en": "ending",
+      "es": "desenlace"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mọi chuyện có một kết cục tốt đẹp.",
+      "en": "Everything has a good ending.",
+      "es": "Todo tiene un buen desenlace."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s6t7u8v9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kết cục",
+      "language": "vi",
+      "sentence": "Bộ phim có một ___ rất buồn.",
+      "choices": [
+        "kết cục",
+        "khởi đầu",
+        "nội dung"
+      ],
+      "answer": "kết cục",
+      "translation": {
+        "en": "The movie has a very sad ending."
+      },
+      "translatedAnswer": {
+        "en": "ending"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t7u8v9w0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kết cục",
+      "language": "vi",
+      "sentence": "___ của vụ án vẫn còn là bí ẩn.",
+      "answer": "kết cục",
+      "translation": {
+        "en": "The outcome of the case is still a mystery."
+      },
+      "translatedAnswer": {
+        "en": "outcome"
+      }
+    }
+  },
   "_id": "SsMVZXmspw7VY25yDC3V",
   "level": "B2",
   "topic": "Abstract Concepts"

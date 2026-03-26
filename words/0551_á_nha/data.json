@@ -36,6 +36,68 @@
     "ngay mà"
   ],
   "originalFrequency": 0.0177,
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để trêu ghẹo khi phát hiện ra điều gì đó thú vị hoặc bí mật.",
+      "en": "Playful teasing; aha!.",
+      "es": "¡Ajá!."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "á nha",
+      "en": "aha!",
+      "es": "¡vaya!"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bắt gặp rồi á nha.",
+      "en": "Caught you, aha!.",
+      "es": "Te pillé, ¡vaya!."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u4v5w6x7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "á nha",
+      "language": "vi",
+      "sentence": "Lại mua quà cho ai đấy, ___.",
+      "choices": [
+        "á nha",
+        "thật ra",
+        "ngay mà"
+      ],
+      "answer": "á nha",
+      "translation": {
+        "en": "Buying gifts for someone again, aha!."
+      },
+      "translatedAnswer": {
+        "en": "aha!"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v5w6x7y8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "á nha",
+      "language": "vi",
+      "sentence": "Định đi đâu mà ăn mặc đẹp thế, ___.",
+      "answer": "á nha",
+      "translation": {
+        "en": "Where are you going dressed so nicely, aha!."
+      },
+      "translatedAnswer": {
+        "en": "aha!"
+      }
+    }
+  },
   "_id": "hfOcZkGgvx787kBR41pN",
   "level": "A2",
   "topic": "Conversational Particles"

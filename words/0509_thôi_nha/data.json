@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để yêu cầu ai đó dừng việc gì đó lại một cách nhẹ nhàng.",
+      "en": "That's enough, okay?; Stop now.",
+      "es": "Basta, ¿vale?."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thôi nha",
+      "en": "stop now",
+      "es": "ya basta"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng làm phiền anh nữa, thôi nha.",
+      "en": "Don't bother me anymore, okay?",
+      "es": "Không me molestes más, ¿vale?."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y2z3a4b5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thôi nha",
+      "language": "vi",
+      "sentence": "Đừng nghịch nữa, ___.",
+      "choices": [
+        "thôi nha",
+        "đi nha",
+        "ngay nha"
+      ],
+      "answer": "thôi nha",
+      "translation": {
+        "en": "Don't play anymore, okay?"
+      },
+      "translatedAnswer": {
+        "en": "okay"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z3a4b5c6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thôi nha",
+      "language": "vi",
+      "sentence": "Ăn thế đủ rồi, ___.",
+      "answer": "thôi nha",
+      "translation": {
+        "en": "That's enough eating, okay?"
+      },
+      "translatedAnswer": {
+        "en": "okay"
+      }
+    }
+  },
   "_id": "7pHAftj4kESt3wYGNHix",
   "level": "A2",
   "topic": "Conversational Phrases"

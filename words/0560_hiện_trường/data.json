@@ -36,6 +36,68 @@
   ],
   "source": "frequency_analysis",
   "notes_md": "**Hiện trường** = the scene of an event, usually an accident or crime. It’s the actual place where something happened.\n\nIt’s a noun. You can say *một hiện trường*, *nhiều hiện trường*.  \nVery common pairings: *hiện trường vụ tai nạn*, *hiện trường vụ án*, *khám nghiệm hiện trường*, *phong tỏa hiện trường*, *có mặt tại hiện trường*.  \n\nA close synonym is *nơi xảy ra vụ việc*, but **hiện trường** sounds more official and is used a lot in news or police contexts.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nơi xảy ra một sự việc, thông thường là tai nạn hoặc vụ án.",
+      "en": "The scene; the site of an event.",
+      "es": "Escena."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hiện trường",
+      "en": "scene",
+      "es": "escena"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cảnh sát đang bảo vệ hiện trường.",
+      "en": "The police are protecting the scene.",
+      "es": "La policía está bảo vệ la escena."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c2d3e4f5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hiện trường",
+      "language": "vi",
+      "sentence": "Cảnh sát đã đến ___.",
+      "choices": [
+        "hiện trường",
+        "bệnh viện",
+        "nhà ga"
+      ],
+      "answer": "hiện trường",
+      "translation": {
+        "en": "The police arrived at the scene."
+      },
+      "translatedAnswer": {
+        "en": "scene"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d3e4f5g6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hiện trường",
+      "language": "vi",
+      "sentence": "Chụp ảnh ___ vụ tai nạn.",
+      "answer": "hiện trường",
+      "translation": {
+        "en": "Taking photos of the accident scene."
+      },
+      "translatedAnswer": {
+        "en": "scene"
+      }
+    }
+  },
   "_id": "2EyZZ2IEQy3jpOaB7ax5",
   "level": "B2",
   "topic": "Crime & Law"

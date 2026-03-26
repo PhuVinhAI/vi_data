@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Suốt cả ngày, liên tục, thường mang nghĩa phàn nàn.",
+      "en": "All day long; all the time.",
+      "es": "Todo el día; todo el tiempo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tối ngày",
+      "en": "all the time",
+      "es": "todo el tiempo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy cứ xem TV tối ngày.",
+      "en": "He watches TV all the time.",
+      "es": "Él mira televisión todo el día."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u8v9w0x1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tối ngày",
+      "language": "vi",
+      "sentence": "Anh ấy cứ chơi game ___.",
+      "choices": [
+        "tối ngày",
+        "ngày mai",
+        "hồi nãy"
+      ],
+      "answer": "tối ngày",
+      "translation": {
+        "en": "He plays games all day long."
+      },
+      "translatedAnswer": {
+        "en": "all day long"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v9w0x1y2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tối ngày",
+      "language": "vi",
+      "sentence": "Sao con cứ nghịch ngợm ___ thế?",
+      "answer": "tối ngày",
+      "translation": {
+        "en": "Why are you naughty all the time?"
+      },
+      "translatedAnswer": {
+        "en": "all the time"
+      }
+    }
+  },
   "_id": "tA4nmM5SuxSZyK7LEg8k",
   "level": "B1",
   "topic": "Time & Dates"

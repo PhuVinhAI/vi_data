@@ -36,6 +36,68 @@
   ],
   "addedReason": "sweat",
   "notes": "mồ hôi = sweat (the liquid your body makes when you’re hot, nervous, or exercising).\n\nIt’s an uncountable noun, but you can say giọt mồ hôi (a drop of sweat) to count it. Very common verbs are ra mồ hôi and đổ mồ hôi (to sweat), and you’ll hear body parts like mồ hôi tay (sweaty hands).  \n\nMetaphorically, mồ hôi can also suggest hard work and effort, like “blood and sweat” in English.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Chất lỏng do cơ thể tiết ra qua da khi nóng hoặc mệt.",
+      "en": "Sweat.",
+      "es": "Sudor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mồ hôi",
+      "en": "sweat",
+      "es": "sudor"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy đang đổ mồ hôi vì nóng.",
+      "en": "He is sweating because it's hot.",
+      "es": "Él está sudando bởi vì hace calor."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m6n7o8p9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mồ hôi",
+      "language": "vi",
+      "sentence": "Anh ấy đang lau ___.",
+      "choices": [
+        "mồ hôi",
+        "nước mắt",
+        "nước mưa"
+      ],
+      "answer": "mồ hôi",
+      "translation": {
+        "en": "He is wiping his sweat."
+      },
+      "translatedAnswer": {
+        "en": "sweat"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n7o8p9q0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mồ hôi",
+      "language": "vi",
+      "sentence": "Tập thể dục xong sẽ ra nhiều ___.",
+      "answer": "mồ hôi",
+      "translation": {
+        "en": "Sweating a lot after exercising."
+      },
+      "translatedAnswer": {
+        "en": "sweat"
+      }
+    }
+  },
   "_id": "s2YY8D9FtI7xPCNkImHg",
   "level": "B1",
   "topic": "Body & Health"

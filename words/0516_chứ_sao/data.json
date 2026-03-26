@@ -36,6 +36,68 @@
   ],
   "rank": 516,
   "notes_md": "**chứ sao** = “of course,” “obviously,” “why wouldn’t (I/you)?” It shows something is clear or expected.\n\nIt’s a response particle, usually at the end of a statement to emphasize that the answer is obvious. It often carries a slightly playful or confident tone.\n\n\nVery close to **tất nhiên** or **chứ còn gì nữa**, but *chứ sao* feels more casual and a bit sharper.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để khẳng định một điều gì đó là hiển nhiên.",
+      "en": "Of course; obviously.",
+      "es": "Por supuesto."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chứ sao",
+      "en": "of course",
+      "es": "claro que sí"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bạn giúp tôi chứ sao.",
+      "en": "You help me, of course.",
+      "es": "Tú me ayudas, por supuesto."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c6d7e8f9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chứ sao",
+      "language": "vi",
+      "sentence": "Tất nhiên là tôi giúp bạn rồi, ___.",
+      "choices": [
+        "chứ sao",
+        "vậy thôi",
+        "không phải"
+      ],
+      "answer": "chứ sao",
+      "translation": {
+        "en": "Of course I will help you, obviously."
+      },
+      "translatedAnswer": {
+        "en": "obviously"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d7e8f9g0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chứ sao",
+      "language": "vi",
+      "sentence": "Phải làm bài tập thôi, ___.",
+      "answer": "chứ sao",
+      "translation": {
+        "en": "I have to do homework, of course."
+      },
+      "translatedAnswer": {
+        "en": "of course"
+      }
+    }
+  },
   "_id": "dIdY1BdDgTORGog3dCzd",
   "level": "B2",
   "topic": "Conversational Phrases"

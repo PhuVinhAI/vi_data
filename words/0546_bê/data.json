@@ -36,6 +36,68 @@
   "originalFrequency": 0.0177,
   "definition": "calf",
   "addedReason": "legitimate word",
+  "flashcard": {
+    "definitions": {
+      "vi": "Con bò con mới sinh hoặc còn nhỏ.",
+      "en": "Calf.",
+      "es": "Becerro."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bê",
+      "en": "calf",
+      "es": "becerro"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Con bê đang chạy ngoài đồng.",
+      "en": "The calf is running in the field.",
+      "es": "El becerro está corriendo en el campo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s2t3u4v5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bê",
+      "language": "vi",
+      "sentence": "Tôi thấy có con ___ ngoài đồng.",
+      "choices": [
+        "bò",
+        "bê",
+        "cừu"
+      ],
+      "answer": "bê",
+      "translation": {
+        "en": "I saw a calf in the field."
+      },
+      "translatedAnswer": {
+        "en": "calf"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t3u4v5w6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bê",
+      "language": "vi",
+      "sentence": "Nhà tôi mới mua một con ___.",
+      "answer": "bê",
+      "translation": {
+        "en": "My family just bought a calf."
+      },
+      "translatedAnswer": {
+        "en": "calf"
+      }
+    }
+  },
   "_id": "Im0Eh46IPdG6CQqSHZ1l",
   "level": "B1",
   "topic": "Actions & Behaviors"
