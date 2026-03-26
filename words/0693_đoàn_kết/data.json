@@ -36,6 +36,68 @@
   ],
   "originalCount": 16,
   "updatedAt": "2026-03-03T07:30:53.856Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Sự thống nhất và trợ giúp lẫn nhau vì mục tiêu chung.",
+      "en": "Unity; sticking together toward a shared goal.",
+      "es": "Unidad; solidaridad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đoàn kết",
+      "en": "unity",
+      "es": "unidad"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tinh thần đoàn kết là sức mạnh.",
+      "en": "The spirit of unity is strength.",
+      "es": "El espíritu de unidad es fuerza."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g5h6i7j8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đoàn kết",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ để vượt qua khó khăn trong công việc.",
+      "choices": [
+        "đoàn kết",
+        "tự do",
+        "thành công"
+      ],
+      "answer": "đoàn kết",
+      "translation": {
+        "en": "We need unity to overcome difficulties at work."
+      },
+      "translatedAnswer": {
+        "en": "unity"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h6i7j8k9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đoàn kết",
+      "language": "vi",
+      "sentence": "Gia đình em luôn giữ sự ___.",
+      "answer": "đoàn kết",
+      "translation": {
+        "en": "My family always maintains unity."
+      },
+      "translatedAnswer": {
+        "en": "unity"
+      }
+    }
+  },
   "_id": "0YAwgHP5SoN5HR6Y5drW",
   "level": "B2",
   "topic": "Society & Culture"

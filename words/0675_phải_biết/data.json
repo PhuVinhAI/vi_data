@@ -36,6 +36,68 @@
     "Nếu muốn học nấu ăn ngon, em phải biết chọn nguyên liệu tươi."
   ],
   "originalFrequency": 0.0141,
+  "flashcard": {
+    "definitions": {
+      "vi": "Bày tỏ sự cần thiết phải nắm vững hoặc hiểu một kỹ năng, quy tắc hay thông tin nào đó.",
+      "en": "Must know; indicating the necessity of having certain knowledge or skills.",
+      "es": "Debe saber; tener que saber."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "phải biết",
+      "en": "must know",
+      "es": "debe saber"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bạn phải biết cách tự bảo vệ mình.",
+      "en": "You must know how to protect yourself.",
+      "es": "Debes saber cómo protegerte."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w5x6y7z8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "phải biết",
+      "language": "vi",
+      "sentence": "Để làm việc này tốt, anh ___ cách giao tiếp.",
+      "choices": [
+        "phải biết",
+        "có thể",
+        "nên học"
+      ],
+      "answer": "phải biết",
+      "translation": {
+        "en": "To do this job well, you must know how to communicate."
+      },
+      "translatedAnswer": {
+        "en": "must know"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x6y7z8a9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "phải biết",
+      "language": "vi",
+      "sentence": "Mọi người ___ quy tắc an toàn.",
+      "answer": "phải biết",
+      "translation": {
+        "en": "Everyone must know the safety rules."
+      },
+      "translatedAnswer": {
+        "en": "must know"
+      }
+    }
+  },
   "_id": "1Fca5ncmGqnkhonIT755",
   "level": "B1",
   "topic": "Conversational Phrases"

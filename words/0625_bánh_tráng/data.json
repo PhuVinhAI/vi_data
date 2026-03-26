@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "word": "bánh tráng",
+  "flashcard": {
+    "definitions": {
+      "vi": "Loại bánh làm từ bột gạo tráng mỏng, phơi khô, dùng làm gỏi cuốn hoặc nướng.",
+      "en": "Rice paper; thin, round dried sheets made from rice flour.",
+      "es": "Papel de arroz."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bánh tráng",
+      "en": "rice paper",
+      "es": "papel de arroz"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Ăn gỏi cuốn phải có bánh tráng.",
+      "en": "You must have rice paper to eat spring rolls.",
+      "es": "Debes tener papel de arroz để comer gỏi cuốn."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s5t6u7v8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bánh tráng",
+      "language": "vi",
+      "sentence": "Em thích ăn ___ trộn vào cuối tuần.",
+      "choices": [
+        "bánh tráng",
+        "bánh mì",
+        "bánh bao"
+      ],
+      "answer": "bánh tráng",
+      "translation": {
+        "en": "I like eating mixed rice paper on weekends."
+      },
+      "translatedAnswer": {
+        "en": "rice paper"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t6u7v8w9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bánh tráng",
+      "language": "vi",
+      "sentence": "Mua giúp chị một bịch ___ ở chợ nhé.",
+      "answer": "bánh tráng",
+      "translation": {
+        "en": "Buy me a pack of rice paper at the market."
+      },
+      "translatedAnswer": {
+        "en": "rice paper"
+      }
+    }
+  },
   "_id": "oAF7OnaZC8kAt2SF7W02",
   "level": "A2",
   "topic": "Food & Drinks"

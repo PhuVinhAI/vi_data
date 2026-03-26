@@ -36,6 +36,68 @@
   "createdAt": "2025-07-21T11:36:35.831Z",
   "notes_md": "**nhà vệ sinh** = restroom / bathroom. It’s the normal, polite way to say “toilet” in Vietnamese.\n\nIt’s a noun. Use the classifier **cái** → *cái nhà vệ sinh* (one restroom). Often paired with **đi** or **vào** when talking about using it.\n\n\nYou’ll also hear **toilet** (very common in speech) or **phòng vệ sinh** (a bit more formal, like on signs).",
   "definition": "restroom",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nơi dùng để đi vệ sinh, một cách gọi lịch sự thay cho các từ thô tục.",
+      "en": "Restroom; bathroom; toilet (polite way).",
+      "es": "Baño; sanitario; cuarto de baño."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nhà vệ sinh",
+      "en": "restroom",
+      "es": "baño"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nhà vệ sinh nữ ở đằng kia.",
+      "en": "The women's restroom is over there.",
+      "es": "El baño de mujeres está por allá."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a3b4c5d6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nhà vệ sinh",
+      "language": "vi",
+      "sentence": "Anh có biết ___ ở đâu không?",
+      "choices": [
+        "nhà vệ sinh",
+        "phòng ngủ",
+        "nhà bếp"
+      ],
+      "answer": "nhà vệ sinh",
+      "translation": {
+        "en": "Do you know where the restroom is?"
+      },
+      "translatedAnswer": {
+        "en": "restroom"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b4c5d6e7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nhà vệ sinh",
+      "language": "vi",
+      "sentence": "Hãy đi ___ trước khi bắt đầu họp.",
+      "answer": "nhà vệ sinh",
+      "translation": {
+        "en": "Please go to the restroom before starting the meeting."
+      },
+      "translatedAnswer": {
+        "en": "restroom"
+      }
+    }
+  },
   "_id": "aYQwLqBYHBeM6R54mtBB",
   "level": "A1",
   "topic": "Places & Locations"

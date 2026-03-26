@@ -36,6 +36,68 @@
     "When the dog hears the owner, it runs over immediately.",
     "Do you know who the owner of that red car is?"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Người có quyền sở hữu đối với một vật phẩm, tài sản hoặc động vật.",
+      "en": "Owner; a person who owns something.",
+      "es": "Dueño; propietario."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chủ nhân",
+      "en": "owner",
+      "es": "dueño"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đâu là chủ nhân của món đồ này?",
+      "en": "Who is the owner of this item?",
+      "es": "¿Quién es el dueño de este artículo?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s1t2u3v4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chủ nhân",
+      "language": "vi",
+      "sentence": "___ của ngôi nhà này rất thân thiện.",
+      "choices": [
+        "người thuê",
+        "chủ nhân",
+        "khách hàng"
+      ],
+      "answer": "chủ nhân",
+      "translation": {
+        "en": "The owner of this house is very friendly."
+      },
+      "translatedAnswer": {
+        "en": "owner"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t2u3v4w5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chủ nhân",
+      "language": "vi",
+      "sentence": "Chú chó nghe tiếng ___ gọi.",
+      "answer": "chủ nhân",
+      "translation": {
+        "en": "The dog hears the owner calling."
+      },
+      "translatedAnswer": {
+        "en": "owner"
+      }
+    }
+  },
   "_id": "m1WCizpMpA0eGJuOrXYV",
   "level": "B2",
   "topic": "People & Relationships"

@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động khép cánh cửa lại hoặc một cơ sở kinh doanh ngừng hoạt động trong ngày.",
+      "en": "To close the door; to close down (a business).",
+      "es": "Cerrar la puerta; cerrar el negocio."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đóng cửa",
+      "en": "close the door",
+      "es": "cerrar la puerta"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng quên đóng cửa khi ra ngoài.",
+      "en": "Don't forget to close the door when you go out.",
+      "es": "No olvides cerrar la puerta al salir."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i1j2k3l4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đóng cửa",
+      "language": "vi",
+      "sentence": "Trước khi ra khỏi nhà, chị nhớ ___ nhé.",
+      "choices": [
+        "đóng cửa",
+        "mở cửa",
+        "đi ra"
+      ],
+      "answer": "đóng cửa",
+      "translation": {
+        "en": "Before leaving the house, remember to close the door."
+      },
+      "translatedAnswer": {
+        "en": "close the door"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j2k3l4m5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đóng cửa",
+      "language": "vi",
+      "sentence": "Anh có thể giúp em ___ lại không?",
+      "answer": "đóng cửa",
+      "translation": {
+        "en": "Can you help me close the door?"
+      },
+      "translatedAnswer": {
+        "en": "close the door"
+      }
+    }
+  },
   "_id": "5LcxCLKvf7w7PJuFXE5U",
   "level": "A2",
   "topic": "Shopping & Services"

@@ -36,6 +36,68 @@
   ],
   "notes_md": "**Bộ đồ** = an outfit, a set of clothes worn together. It usually means a full set (top + bottom).\n\nIt’s a countable noun: **một bộ đồ, hai bộ đồ**.  \nYou often use it with **mặc** (wear), **thay** (change), **chọn** (choose): mặc bộ đồ, thay bộ đồ.  \n**Bộ** means “set,” and **đồ** means “things/clothes,” so it highlights the idea of matching pieces.  \nMore formal synonym: **trang phục** (used in formal writing or events).",
   "originalCount": 17,
+  "flashcard": {
+    "definitions": {
+      "vi": "Một tập hợp quần áo hoàn chỉnh gồm áo và quần (hoặc váy) mặc cùng nhau.",
+      "en": "Outfit; a set of clothes worn together.",
+      "es": "Conjunto de ropa; atuendo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bộ đồ",
+      "en": "outfit",
+      "es": "atuendo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bộ đồ này rất hợp với bạn.",
+      "en": "This outfit suits you very well.",
+      "es": "Este atuendo te queda muy bien."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e7f8g9h0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bộ đồ",
+      "language": "vi",
+      "sentence": "Sáng nay em chọn một ___ mới để đi làm.",
+      "choices": [
+        "bộ đồ",
+        "giày dép",
+        "áo khoác"
+      ],
+      "answer": "bộ đồ",
+      "translation": {
+        "en": "This morning I chose a new outfit to go to work."
+      },
+      "translatedAnswer": {
+        "en": "outfit"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f8g9h0i1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bộ đồ",
+      "language": "vi",
+      "sentence": "Mẹ thường mua cho em một ___ đẹp.",
+      "answer": "bộ đồ",
+      "translation": {
+        "en": "Mom often buys me a nice outfit."
+      },
+      "translatedAnswer": {
+        "en": "outfit"
+      }
+    }
+  },
   "_id": "S0E3OJs8k87HelUtsMDJ",
   "level": "A2",
   "topic": "Daily Life & Objects"

@@ -36,6 +36,68 @@
   "definition": "you all (derogatory)",
   "source": "frequency_analysis",
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Đại từ dùng để gọi một nhóm người ở ngôi thứ hai, thường mang sắc thái thiếu tôn trọng hoặc kịch tính.",
+      "en": "You all (plural second-person pronoun), often rude, hostile, or superior.",
+      "es": "Vosotros; ustedes (usualmente de forma grosera o dramática)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "các ngươi",
+      "en": "you all",
+      "es": "vosotros"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Các ngươi là ai?",
+      "en": "Who are you all?",
+      "es": "¿Quiénes sois vosotros?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m1n2o3p4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "các ngươi",
+      "language": "vi",
+      "sentence": "___ nghĩ rằng mình có thể thắng anh sao?",
+      "choices": [
+        "các ngươi",
+        "chúng ta",
+        "các bạn"
+      ],
+      "answer": "các ngươi",
+      "translation": {
+        "en": "You all think you can beat me?"
+      },
+      "translatedAnswer": {
+        "en": "you all"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n2o3p4q5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "các ngươi",
+      "language": "vi",
+      "sentence": "Nếu ___ tiếp tục làm vậy, hậu quả sẽ nghiêm trọng.",
+      "answer": "các ngươi",
+      "translation": {
+        "en": "If you all continue to do that, the consequences will be serious."
+      },
+      "translatedAnswer": {
+        "en": "you all"
+      }
+    }
+  },
   "_id": "84bfNIA1oHQlQffqNegN",
   "level": "B2",
   "topic": "Fantasy & Fiction"

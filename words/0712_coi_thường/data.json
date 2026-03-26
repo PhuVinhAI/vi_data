@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Bày tỏ thái độ khinh miệt hoặc đánh giá thấp giá trị, khả năng của người khác.",
+      "en": "To disrespect; to look down on someone or something.",
+      "es": "Despreciar; menospreciar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "coi thường",
+      "en": "disrespect",
+      "es": "despreciar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng coi thường kẻ yếu.",
+      "en": "Don't look down on the weak.",
+      "es": "No desprecies a los débiles."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u7v8w9x0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "coi thường",
+      "language": "vi",
+      "sentence": "Anh không nên ___ ý kiến của người khác trong cuộc họp.",
+      "choices": [
+        "coi thường",
+        "tôn trọng",
+        "khuyến khích"
+      ],
+      "answer": "coi thường",
+      "translation": {
+        "en": "You should not disrespect other people's opinions in the meeting."
+      },
+      "translatedAnswer": {
+        "en": "disrespect"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v8w9x0y1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "coi thường",
+      "language": "vi",
+      "sentence": "Chị buồn vì bị bạn bè ___.",
+      "answer": "coi thường",
+      "translation": {
+        "en": "She's sad because her friends look down on her."
+      },
+      "translatedAnswer": {
+        "en": "look down on"
+      }
+    }
+  },
   "_id": "kzCc5uYEC5WNzQUh7hjp",
   "level": "B2",
   "topic": "Emotions & Feelings"

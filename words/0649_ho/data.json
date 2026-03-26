@@ -36,6 +36,68 @@
   ],
   "updatedAt": "2026-03-03T07:26:42.004Z",
   "notes": "ho = to cough, or a cough. It works as both a verb and a noun.\n\nAs a verb, it often goes with words showing frequency or duration: ho nhiều, ho suốt đêm. As a noun, you’ll hear cơn ho (a coughing fit) or bị ho (to have a cough).\n\nCommon pairings: ho khan (dry cough), ho có đờm (phlegmy cough), ho ra máu (cough up blood).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Phản xạ của cơ thể nhằm tống đẩy các vật lạ hoặc dịch nhầy ra khỏi đường hô hấp.",
+      "en": "Cough; to expel air from the lungs with a sudden sharp sound.",
+      "es": "Tos; toser."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ho",
+      "en": "cough",
+      "es": "tos"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Trời lạnh dễ bị ho.",
+      "en": "Cold weather makes it easy to catch a cough.",
+      "es": "El clima frío hace que sea fácil tos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i1j2k3l4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ho",
+      "language": "vi",
+      "sentence": "Em bị ___ nhiều nên mẹ đưa đi khám.",
+      "choices": [
+        "sốt",
+        "đau",
+        "ho"
+      ],
+      "answer": "ho",
+      "translation": {
+        "en": "I cough a lot so mom took me to the doctor."
+      },
+      "translatedAnswer": {
+        "en": "cough"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j2k3l4m5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ho",
+      "language": "vi",
+      "sentence": "Anh uống thuốc nhưng vẫn còn ___.",
+      "answer": "ho",
+      "translation": {
+        "en": "He took medicine but still coughs."
+      },
+      "translatedAnswer": {
+        "en": "coughs"
+      }
+    }
+  },
   "_id": "8Pxat0L1RKJp7VN90MC9",
   "level": "A2",
   "topic": "Body & Health"

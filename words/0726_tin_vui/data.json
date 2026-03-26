@@ -36,6 +36,68 @@
   "definition": "good news",
   "notes": "tin vui = good news, something positive you’re happy to hear. It’s a noun.\n\nYou usually use it with verbs like nhận, nghe, báo, mang đến + tin vui. No classifier needed in most cases; just say tin vui as a chunk.\n\nIt often appears in situations about work, family, health, exams, or big life updates.\n\nSynonym to remember: tin tốt (more neutral). Opposite: tin buồn (sad news).",
   "rank": 726,
+  "flashcard": {
+    "definitions": {
+      "vi": "Thông tin tốt lành mang lại cảm giác vui vẻ, hạnh phúc.",
+      "en": "Good news; positive information.",
+      "es": "Buenas noticias."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tin vui",
+      "en": "good news",
+      "es": "buenas noticias"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi có một tin vui cho bạn.",
+      "en": "I have some good news for you.",
+      "es": "Tengo una buena noticia para ti."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g9h0i1j2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tin vui",
+      "language": "vi",
+      "sentence": "Anh vừa nhận được ___ từ công ty về việc thăng chức.",
+      "choices": [
+        "tin buồn",
+        "tin vui",
+        "tin cũ"
+      ],
+      "answer": "tin vui",
+      "translation": {
+        "en": "I just received good news from the company about the promotion."
+      },
+      "translatedAnswer": {
+        "en": "good news"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h0i1j2k3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tin vui",
+      "language": "vi",
+      "sentence": "Chị có ___ muốn chia sẻ với cả nhà.",
+      "answer": "tin vui",
+      "translation": {
+        "en": "She has good news to share with everyone."
+      },
+      "translatedAnswer": {
+        "en": "good news"
+      }
+    }
+  },
   "_id": "hwFucQoHj9zhfhPonP2p",
   "level": "A2",
   "topic": "Emotions & Feelings"

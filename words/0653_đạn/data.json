@@ -36,6 +36,68 @@
   "notes": "đạn means bullet — the small metal piece shot from a gun. It’s a countable noun; use the classifier viên → viên đạn.  \n\nOften used with verbs like bắn đạn (shoot), nạp đạn (load), hết đạn (run out of bullets), and trúng đạn (be hit by a bullet).  \n\nIt can also refer more generally to ammunition in context. A related word is đạn dược (ammo, more formal/collective).",
   "source": "frequency_analysis",
   "addedReason": "general vocabulary",
+  "flashcard": {
+    "definitions": {
+      "vi": "Vật đúc bằng kim loại, dùng để bắn từ súng hoặc các loại vũ khí tương tự.",
+      "en": "Bullet; a projectile for firing from a gun.",
+      "es": "Bala; proyectil."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đạn",
+      "en": "bullet",
+      "es": "bala"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Hãy cẩn thận với súng và đạn.",
+      "en": "Be careful with guns and bullets.",
+      "es": "Ten cuidado con las pistolas và las balas."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k3l4m5n6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đạn",
+      "language": "vi",
+      "sentence": "Anh tìm thấy một viên ___ cũ trong rừng.",
+      "choices": [
+        "đạn",
+        "dây",
+        "đèn"
+      ],
+      "answer": "đạn",
+      "translation": {
+        "en": "He found an old bullet in the forest."
+      },
+      "translatedAnswer": {
+        "en": "bullet"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l4m5n6o7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đạn",
+      "language": "vi",
+      "sentence": "Súng đã hết ___ rồi.",
+      "answer": "đạn",
+      "translation": {
+        "en": "The gun has run out of bullets."
+      },
+      "translatedAnswer": {
+        "en": "bullets"
+      }
+    }
+  },
   "_id": "GZmz6wjSw6h5EpnA9dg1",
   "level": "B2",
   "topic": "Crime & Law"

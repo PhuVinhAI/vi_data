@@ -36,6 +36,68 @@
   ],
   "originalCount": 15,
   "updatedAt": "2026-03-03T07:34:01.782Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để bổ sung thêm một ý quan trọng hoặc mạnh mẽ hơn ý trước đó.",
+      "en": "Moreover; furthermore; besides.",
+      "es": "Además; por otra parte."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hơn nữa",
+      "en": "moreover",
+      "es": "además"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Trời mưa, hơn nữa tôi cũng mệt.",
+      "en": "It's raining, moreover, I'm tired too.",
+      "es": "Está lloviendo, además, yo cũng mệt."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e7f8g9h0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hơn nữa",
+      "language": "vi",
+      "sentence": "Anh ấy làm việc chăm chỉ, ___ còn rất thân thiện với mọi người.",
+      "choices": [
+        "hơn nữa",
+        "vì vậy",
+        "ngoài ra"
+      ],
+      "answer": "hơn nữa",
+      "translation": {
+        "en": "He works hard, moreover he is very friendly to everyone."
+      },
+      "translatedAnswer": {
+        "en": "moreover"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f8g9h0i1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hơn nữa",
+      "language": "vi",
+      "sentence": "Em thích món ăn này, ___ nó cũng rất tốt cho sức khỏe.",
+      "answer": "hơn nữa",
+      "translation": {
+        "en": "I like this dish, moreover it's also very healthy."
+      },
+      "translatedAnswer": {
+        "en": "moreover"
+      }
+    }
+  },
   "_id": "1T9RioGwRzpyQ8cHrmqK",
   "level": "B2",
   "topic": "Conjunctions & Connectors"

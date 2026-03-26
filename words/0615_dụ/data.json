@@ -36,6 +36,68 @@
   "originalFrequency": 0.0159,
   "definition": "persuade",
   "addedReason": "to lure/persuade",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng lời nói hoặc vật chất hấp dẫn để lôi cuốn ai đó làm theo ý mình.",
+      "en": "To persuade, coax, or lure someone.",
+      "es": "Persuadir; convencer."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dụ",
+      "en": "persuade",
+      "es": "persuadir"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bé kẹo dụ bạn chơi cùng.",
+      "en": "The child uses candy to coax a friend to play together.",
+      "es": "El niño usa caramelos để persuadir bạn chơi cùng."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k6l7m8n9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dụ",
+      "language": "vi",
+      "sentence": "Anh ấy cố ___ tôi đi xem phim.",
+      "choices": [
+        "dụ",
+        "gửi",
+        "giữ"
+      ],
+      "answer": "dụ",
+      "translation": {
+        "en": "He tried to persuade me to go to the movies."
+      },
+      "translatedAnswer": {
+        "en": "persuade"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l7m8n9o0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dụ",
+      "language": "vi",
+      "sentence": "Đừng để bị ___ bởi những lời đường mật.",
+      "answer": "dụ",
+      "translation": {
+        "en": "Don't be persuaded by sweet words."
+      },
+      "translatedAnswer": {
+        "en": "persuade"
+      }
+    }
+  },
   "_id": "IvMsHEKpkquaSkD7PfzP",
   "level": "B2",
   "topic": "Actions & Behaviors"

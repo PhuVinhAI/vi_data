@@ -36,6 +36,68 @@
     "Chúng ta nên ăn sáng trước khi lên đường đến Đà Lạt.",
     "Gia đình em đã chuẩn bị xong hành lý để lên đường du lịch."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Bắt đầu chuyến đi hoặc khởi hành đi đâu đó.",
+      "en": "To set off; to start a journey or trip.",
+      "es": "Ponerse en camino; salir."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lên đường",
+      "en": "set off",
+      "es": "ponerse en camino"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Chúng tôi chuẩn bị lên đường.",
+      "en": "We are preparing to set off.",
+      "es": "Nos preparamos para salir."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a9b0c1d2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lên đường",
+      "language": "vi",
+      "sentence": "Sáng mai anh sẽ ___ đi công tác.",
+      "choices": [
+        "lên đường",
+        "xuống xe",
+        "về nhà"
+      ],
+      "answer": "lên đường",
+      "translation": {
+        "en": "Tomorrow morning I will set off on a business trip."
+      },
+      "translatedAnswer": {
+        "en": "set off"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b0c1d2e3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lên đường",
+      "language": "vi",
+      "sentence": "Chúng ta hãy sớm ___ nhé.",
+      "answer": "lên đường",
+      "translation": {
+        "en": "Let's set off early."
+      },
+      "translatedAnswer": {
+        "en": "set off"
+      }
+    }
+  },
   "_id": "1hUg7gx871Kdw2ZSQ555",
   "level": "B1",
   "topic": "Travel & Transport"

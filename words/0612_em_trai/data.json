@@ -36,6 +36,68 @@
   "notes_md": "**Em trai** means *younger brother* (a male sibling who is younger than you or another person).  \n\nIt’s a noun: **em** = younger sibling, **trai** = male.  \nYou can count it with **một** (một em trai), but often no classifier is needed in family talk.  \n\nIt’s used to show family roles and age order, which is very important in Vietnamese.  \n\nOpposite idea: **anh trai** = older brother.",
   "rank": 612,
   "definition": "younger brother",
+  "flashcard": {
+    "definitions": {
+      "vi": "Em trai của một người (anh hoặc chị).",
+      "en": "Younger brother; male sibling younger than oneself.",
+      "es": "Hermano menor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "em trai",
+      "en": "younger brother",
+      "es": "hermano menor"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Em trai tôi đang học lớp 5.",
+      "en": "My younger brother is in 5th grade.",
+      "es": "Mi hermano menor está en 5º grado."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i4j5k6l7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "em trai",
+      "language": "vi",
+      "sentence": "___ của anh thích chơi bóng đá.",
+      "choices": [
+        "em trai",
+        "bạn bè",
+        "chị gái"
+      ],
+      "answer": "em trai",
+      "translation": {
+        "en": "His younger brother likes to play football."
+      },
+      "translatedAnswer": {
+        "en": "younger brother"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j5k6l7m8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "em trai",
+      "language": "vi",
+      "sentence": "Chị thường giúp ___ làm bài tập.",
+      "answer": "em trai",
+      "translation": {
+        "en": "She often helps her younger brother with homework."
+      },
+      "translatedAnswer": {
+        "en": "younger brother"
+      }
+    }
+  },
   "_id": "qu8ICzlQdED7JOMTIbSn",
   "level": "A1",
   "topic": "Family & Relatives"

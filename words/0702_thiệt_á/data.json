@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để hỏi lại một cách ngạc nhiên hoặc xác nhận một điều gì đó là đúng sự thật.",
+      "en": "Really?; for real? (used to show surprise or confirmation).",
+      "es": "¿De verdad?; ¿en serio?"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thiệt á",
+      "en": "really",
+      "es": "en serio"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thiệt á hả?",
+      "en": "Really?",
+      "es": "¿En serio?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o1p2q3r4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thiệt á",
+      "language": "vi",
+      "sentence": "___ hả, anh vừa mới thắng giải thưởng lớn à?",
+      "choices": [
+        "thiệt á",
+        "thật ra",
+        "thường mà"
+      ],
+      "answer": "thiệt á",
+      "translation": {
+        "en": "Really? Did you just win a big prize?"
+      },
+      "translatedAnswer": {
+        "en": "really"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p2q3r4s5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thiệt á",
+      "language": "vi",
+      "sentence": "Chị ___ thích món ăn này.",
+      "answer": "thiệt á",
+      "translation": {
+        "en": "I really like this dish."
+      },
+      "translatedAnswer": {
+        "en": "really"
+      }
+    }
+  },
   "_id": "wsxRr6X54Hug46jGwWrg",
   "level": "B1",
   "topic": "Conversational Phrases"

@@ -36,6 +36,68 @@
   ],
   "language": "vi",
   "rank": 705,
+  "flashcard": {
+    "definitions": {
+      "vi": "Hai hay nhiều sự việc xảy ra cùng lúc một cách bất ngờ, không có sự sắp đặt trước.",
+      "en": "Coincidence; things happening at the same time by chance.",
+      "es": "Coincidencia; casualidad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trùng hợp",
+      "en": "coincidence",
+      "es": "coincidencia"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thật là một sự trùng hợp.",
+      "en": "It's such a coincidence.",
+      "es": "Es una coincidencia."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q3r4s5t6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trùng hợp",
+      "language": "vi",
+      "sentence": "Chúng ta mặc áo giống nhau hôm nay, đúng là ___.",
+      "choices": [
+        "trùng hợp",
+        "khác biệt",
+        "ngẫu nhiên"
+      ],
+      "answer": "trùng hợp",
+      "translation": {
+        "en": "We're wearing the same shirt today, what a coincidence."
+      },
+      "translatedAnswer": {
+        "en": "coincidence"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r4s5t6u7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trùng hợp",
+      "language": "vi",
+      "sentence": "Anh gặp em ở đây thật là một ___ thú vị.",
+      "answer": "trùng hợp",
+      "translation": {
+        "en": "Meeting you here is a strange coincidence."
+      },
+      "translatedAnswer": {
+        "en": "coincidence"
+      }
+    }
+  },
   "_id": "Z1Cev04LsySm9utp7iHW",
   "level": "B2",
   "topic": "Thoughts & Opinions"

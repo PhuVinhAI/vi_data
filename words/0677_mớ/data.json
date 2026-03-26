@@ -36,6 +36,68 @@
   ],
   "originalCount": 16,
   "updatedAt": "2026-03-03T07:29:29.391Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Một tập hợp nhiều vật cùng loại để lộn xộn, không thứ tự.",
+      "en": "A bunch, a messy heap or pile of small things.",
+      "es": "Manojo; montón desordenado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mớ",
+      "en": "bunch",
+      "es": "manojo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mẹ mua một mớ rau.",
+      "en": "Mom bought a bunch of vegetables.",
+      "es": "Mamá compró một mớ rau."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y7z8a9b0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mớ",
+      "language": "vi",
+      "sentence": "Chị vừa mua một ___ rau ngoài chợ.",
+      "choices": [
+        "mớ",
+        "nắm",
+        "bó"
+      ],
+      "answer": "mớ",
+      "translation": {
+        "en": "She just bought a bunch of vegetables at the market."
+      },
+      "translatedAnswer": {
+        "en": "bunch"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z8a9b0c1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mớ",
+      "language": "vi",
+      "sentence": "Anh có thể cho em một ___ hoa này không?",
+      "answer": "mớ",
+      "translation": {
+        "en": "Can you give me a bunch of these flowers?"
+      },
+      "translatedAnswer": {
+        "en": "bunch"
+      }
+    }
+  },
   "_id": "2nTniBZkA5qmO1KLACNe",
   "level": "B1",
   "topic": "Quantifiers & Classifiers"

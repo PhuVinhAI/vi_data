@@ -36,6 +36,68 @@
   "definition": "oh my",
   "notes": "Chu choa means “oh my!” or “wow!” — a soft exclamation for surprise, shock, or strong emotion (often positive, sometimes worried).\n\nIt’s an interjection, usually placed at the beginning of a sentence, often followed by a comma. It reacts to something unexpected, impressive, or sudden.\n\nIt feels expressive and a bit dramatic, similar to “ôi” or “trời ơi”, but “chu choa” can sound slightly more playful or emotional.\n\nUse it when your reaction comes first, before the comment itself.",
   "rank": 669,
+  "flashcard": {
+    "definitions": {
+      "vi": "Thán từ dùng để biểu lộ sự ngạc nhiên, thán phục hoặc kinh ngạc trước một điều gì đó.",
+      "en": "Oh my! Wow! An exclamation of surprise or amazement.",
+      "es": "¡Caramba! ¡Vaya!"
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chu choa",
+      "en": "oh my!",
+      "es": "¡vaya!"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Chu choa, cậu mặc bộ này đẹp quá!",
+      "en": "Wow, you look so good in this outfit!",
+      "es": "¡Vaya, te ves tan bien con este atuendo!"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q9r0s1t2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chu choa",
+      "language": "vi",
+      "sentence": "___, món ăn này ngon quá!",
+      "choices": [
+        "ôi trời",
+        "chu choa",
+        "trời ơi"
+      ],
+      "answer": "chu choa",
+      "translation": {
+        "en": "Oh my, this dish is so delicious!"
+      },
+      "translatedAnswer": {
+        "en": "oh my"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r0s1t2u3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chu choa",
+      "language": "vi",
+      "sentence": "___, trời mưa lớn quá!",
+      "answer": "chu choa",
+      "translation": {
+        "en": "Oh my, it's raining so heavily!"
+      },
+      "translatedAnswer": {
+        "en": "oh my"
+      }
+    }
+  },
   "_id": "lThWCweXlPv1vkhvYKiY",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

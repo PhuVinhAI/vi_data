@@ -36,6 +36,68 @@
   ],
   "language": "vi",
   "rank": 646,
+  "flashcard": {
+    "definitions": {
+      "vi": "Môn thể thao thi đấu giữa hai đội, mục tiêu là ném bóng vào rổ của đối phương.",
+      "en": "Basketball; a game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop.",
+      "es": "Baloncesto."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bóng rổ",
+      "en": "basketball",
+      "es": "baloncesto"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy ném bóng rổ rất chính xác.",
+      "en": "He throws the basketball very accurately.",
+      "es": "Él lanza el balón de baloncesto muy con precisión."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g9h0i1j2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bóng rổ",
+      "language": "vi",
+      "sentence": "Cuối tuần này, anh sẽ đi chơi ___ với bạn bè.",
+      "choices": [
+        "bóng rổ",
+        "bóng đá",
+        "bóng chuyền"
+      ],
+      "answer": "bóng rổ",
+      "translation": {
+        "en": "This weekend, I will go play basketball with my friends."
+      },
+      "translatedAnswer": {
+        "en": "basketball"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h0i1j2k3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bóng rổ",
+      "language": "vi",
+      "sentence": "Chị ấy học cách chơi ___ từ khi còn nhỏ.",
+      "answer": "bóng rổ",
+      "translation": {
+        "en": "She learned how to play basketball since she was a child."
+      },
+      "translatedAnswer": {
+        "en": "basketball"
+      }
+    }
+  },
   "_id": "Iu4J6mtjePW7xwgbAkSG",
   "level": "A2",
   "topic": "Hobbies & Entertainment"

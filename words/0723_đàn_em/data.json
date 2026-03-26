@@ -36,6 +36,68 @@
   "definition": "junior",
   "notes": "đàn em = junior; someone younger or lower in rank than you (at school, work, or in a group).\n\nIt’s a noun phrase. No classifier needed in normal use; just say đàn em của tôi / trong nhóm / mới vào. It’s often used from the perspective of someone higher: the older person calls others đàn em.\n\nIt implies a small hierarchy, like senior–junior. Opposite idea: đàn anh (senior, older in rank).\n\nCan be friendly and protective, but sometimes slightly bossy depending on tone.",
   "rank": 723,
+  "flashcard": {
+    "definitions": {
+      "vi": "Người nhỏ tuổi hơn hoặc có cấp bậc, vai vế thấp hơn trong một tập thể.",
+      "en": "Junior; subordinate; someone younger or lower in rank.",
+      "es": "Subordinado; menor en rango."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đàn em",
+      "en": "junior",
+      "es": "subordinado"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đàn em rất nghe lời anh.",
+      "en": "The juniors listen to him very well.",
+      "es": "Los subordinados lo escuchan muy bien."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c5d6e7f8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đàn em",
+      "language": "vi",
+      "sentence": "Anh luôn giúp đỡ ___ mới vào công ty làm việc.",
+      "choices": [
+        "đàn anh",
+        "đàn em",
+        "bạn bè"
+      ],
+      "answer": "đàn em",
+      "translation": {
+        "en": "He always helps the junior who just joined the company."
+      },
+      "translatedAnswer": {
+        "en": "junior"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d6e7f8g9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đàn em",
+      "language": "vi",
+      "sentence": "Chị thường chia sẻ kinh nghiệm cho ___ trong nhóm học.",
+      "answer": "đàn em",
+      "translation": {
+        "en": "She often shares experiences with the juniors in the study group."
+      },
+      "translatedAnswer": {
+        "en": "juniors"
+      }
+    }
+  },
   "_id": "mi4PyRk56QuzGZj8Z8m4",
   "level": "B2",
   "topic": "People & Relationships"

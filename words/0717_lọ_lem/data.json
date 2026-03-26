@@ -36,6 +36,68 @@
   "source": "frequency_analysis",
   "language": "vi",
   "definition": "Cinderella",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nhân vật trong truyện cổ tích, biểu tượng cho người nghèo khó nhưng sau đó gặp may mắn và hạnh phúc.",
+      "en": "Cinderella; a fairy tale character symbolizing a rags-to-riches story.",
+      "es": "Cenicienta; personaje de cuento de hadas."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lọ lem",
+      "en": "Cinderella",
+      "es": "Cenicienta"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cô bé Lọ Lem đã đến dự tiệc.",
+      "en": "Cinderella attended the party.",
+      "es": "Cenicienta asistió a la fiesta."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y1z2a3b4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lọ lem",
+      "language": "vi",
+      "sentence": "Hồi nhỏ, em rất thích nghe truyện về ___ và hoàng tử.",
+      "choices": [
+        "lọ lem",
+        "bạch tuyết",
+        "hoàng tử"
+      ],
+      "answer": "lọ lem",
+      "translation": {
+        "en": "When I was little, I really liked hearing stories about Cinderella and the prince."
+      },
+      "translatedAnswer": {
+        "en": "Cinderella"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z2a3b4c5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lọ lem",
+      "language": "vi",
+      "sentence": "Chị thích xem phim hoạt hình ___.",
+      "answer": "lọ lem",
+      "translation": {
+        "en": "I like watching Cinderella cartoons."
+      },
+      "translatedAnswer": {
+        "en": "Cinderella"
+      }
+    }
+  },
   "_id": "AJF3ti2ecaeGx1owGW2w",
   "level": "B1",
   "topic": "Fantasy & Fiction"

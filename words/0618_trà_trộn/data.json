@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Lẩn vào, lẫn vào một đám đông hoặc một nhóm khác để không bị nhận ra.",
+      "en": "To blend in, mix into, or infiltrate a group.",
+      "es": "Infiltrarse; mezclarse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trà trộn",
+      "en": "blend in",
+      "es": "mezclarse"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Kẻ lạ mặt trà trộn vào đám đông.",
+      "en": "The stranger blended into the crowd.",
+      "es": "El extraño se mezcló entre la multitud."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m8n9o0p1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trà trộn",
+      "language": "vi",
+      "sentence": "Anh ấy cố gắng ___ vào đám đông.",
+      "choices": [
+        "trà trộn",
+        "trốn tránh",
+        "tham gia"
+      ],
+      "answer": "trà trộn",
+      "translation": {
+        "en": "He tried to blend in with the crowd."
+      },
+      "translatedAnswer": {
+        "en": "blend in"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n9o0p1q2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trà trộn",
+      "language": "vi",
+      "sentence": "Những người lạ mặt thường ___ vào buổi tiệc.",
+      "answer": "trà trộn",
+      "translation": {
+        "en": "Strangers often blend in at the party."
+      },
+      "translatedAnswer": {
+        "en": "blend in"
+      }
+    }
+  },
   "_id": "2f1uxksfGCGWp0SOomP6",
   "level": "B2",
   "topic": "Crime & Law"

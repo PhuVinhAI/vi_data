@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "notes_md": "**kí (ký)** = to sign your name on a document. It’s what you do to confirm or agree to something officially.\n\nIt’s a verb, usually used for papers, contracts, forms, letters, receipts.  \n\nVery common pair: **kí tên** (sign your name).  \nRelated noun: **chữ kí** = signature.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Viết tên của mình vào một tài liệu để xác nhận hoặc đồng ý chính thức.",
+      "en": "To sign; to write one's name on a document officially.",
+      "es": "Firmar; poner la firma."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "kí",
+      "en": "to sign",
+      "es": "firmar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Làm ơn hãy kí tên vào đây.",
+      "en": "Please sign your name here.",
+      "es": "Por favor, firme su nombre aquí."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i7j8k9l0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kí",
+      "language": "vi",
+      "sentence": "Anh có thể ___ vào tài liệu này giúp em được không?",
+      "choices": [
+        "kí",
+        "mở",
+        "gửi"
+      ],
+      "answer": "kí",
+      "translation": {
+        "en": "Can you sign this document for me?"
+      },
+      "translatedAnswer": {
+        "en": "sign"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j8k9l0m1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kí",
+      "language": "vi",
+      "sentence": "Em đã quên ___ vào bản hợp đồng này.",
+      "answer": "kí",
+      "translation": {
+        "en": "I forgot to sign this contract."
+      },
+      "translatedAnswer": {
+        "en": "sign"
+      }
+    }
+  },
   "_id": "OImLUT98pajJNKBkvvGA",
   "level": "B1",
   "topic": "Actions & Behaviors"

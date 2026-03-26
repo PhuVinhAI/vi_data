@@ -36,6 +36,68 @@
   "originalCount": 16,
   "updatedAt": "2026-03-03T07:28:59.215Z",
   "notes": "kỳ cục means strange, weird, odd — in a slightly negative or judgmental way. It’s used when something feels off, unusual, or hard to understand.\n\nIt’s an adjective, so it describes people, actions, ideas, behavior, clothes, etc. You can put it after rất / hơi / thật to adjust the strength.\n\nClose to lạ (strange), but kỳ cục sounds more critical. Similar vibe to quái (weird), but quái can feel stronger or more dramatic.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Lạ lùng đến mức khó hiểu hoặc gây cười, thường mang sắc thái không bình thường.",
+      "en": "Strange; weird; odd in a way that is hard to understand or funny.",
+      "es": "Extraño; raro; bizarro."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "kỳ cục",
+      "en": "strange",
+      "es": "extraño"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đó là một ý tưởng kỳ cục.",
+      "en": "That is a strange idea.",
+      "es": "Esa es una idea extraña."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u3v4w5x6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kỳ cục",
+      "language": "vi",
+      "sentence": "Chị không hiểu tại sao anh lại có ý tưởng ___ như vậy.",
+      "choices": [
+        "kỳ cục",
+        "bình thường",
+        "vui vẻ"
+      ],
+      "answer": "kỳ cục",
+      "translation": {
+        "en": "I don't understand why you have such a strange idea."
+      },
+      "translatedAnswer": {
+        "en": "strange"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v4w5x6y7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kỳ cục",
+      "language": "vi",
+      "sentence": "Đừng làm những việc ___ như thế.",
+      "answer": "kỳ cục",
+      "translation": {
+        "en": "Don't do such strange things."
+      },
+      "translatedAnswer": {
+        "en": "strange"
+      }
+    }
+  },
   "_id": "IJKCgpAKCk9vJQpMhzEW",
   "level": "B2",
   "topic": "Personality & Traits"

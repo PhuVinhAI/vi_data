@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cách thức cụ thể để thực hiện một mục tiêu hoặc giành thắng lợi (trong thể thao, quân sự, kinh doanh...).",
+      "en": "Strategy; tactics; planned way to achieve a goal.",
+      "es": "Táctica; estrategia."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chiến thuật",
+      "en": "strategy",
+      "es": "táctica"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đội bóng đã thay đổi chiến thuật.",
+      "en": "The team has changed their strategy.",
+      "es": "El equipo ha cambiado su táctica."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o1p2q3r4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chiến thuật",
+      "language": "vi",
+      "sentence": "Huấn luyện viên đã chọn một ___ mới.",
+      "choices": [
+        "chiến thuật",
+        "kỹ năng",
+        "kế hoạch"
+      ],
+      "answer": "chiến thuật",
+      "translation": {
+        "en": "The coach has chosen a new strategy."
+      },
+      "translatedAnswer": {
+        "en": "strategy"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p2q3r4s5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chiến thuật",
+      "language": "vi",
+      "sentence": "Chúng ta cần ___ đúng đắn để thắng.",
+      "answer": "chiến thuật",
+      "translation": {
+        "en": "We need the right strategy to win."
+      },
+      "translatedAnswer": {
+        "en": "strategy"
+      }
+    }
+  },
   "_id": "oz4wzOlo8zF1eDdCvrlR",
   "level": "B2",
   "topic": "Abstract Concepts"

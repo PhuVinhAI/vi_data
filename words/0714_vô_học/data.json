@@ -36,6 +36,68 @@
     "He does not want others to think he is uneducated in this meeting.",
     "She always tries to learn so she is not considered uneducated."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ người thiếu giáo dục, không có học thức hoặc cư xử thiếu văn hóa, thô lỗ.",
+      "en": "Uneducated; ill-mannered; lacking basic education or culture.",
+      "es": "Inculto; maleducado; grosero."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vô học",
+      "en": "uneducated",
+      "es": "inculto"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ta thật là đồ vô học.",
+      "en": "He is such an uneducated guy.",
+      "es": "Él es un tipo tan inculto."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w9x0y1z2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vô học",
+      "language": "vi",
+      "sentence": "Hành động vô lễ là dấu hiệu của người ___.",
+      "choices": [
+        "vô học",
+        "lễ phép",
+        "chăm chỉ"
+      ],
+      "answer": "vô học",
+      "translation": {
+        "en": "Rude behavior is a sign of an uneducated person."
+      },
+      "translatedAnswer": {
+        "en": "uneducated"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x0y1z2a3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vô học",
+      "language": "vi",
+      "sentence": "Đừng để bị coi là người ___.",
+      "answer": "vô học",
+      "translation": {
+        "en": "Don't be considered an uneducated person."
+      },
+      "translatedAnswer": {
+        "en": "uneducated"
+      }
+    }
+  },
   "_id": "ITHR2OpiOrB89hSVQTFr",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

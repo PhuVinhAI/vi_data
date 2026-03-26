@@ -36,6 +36,68 @@
   "source": "frequency_analysis",
   "language": "vi",
   "definition": "how much",
+  "flashcard": {
+    "definitions": {
+      "vi": "Bày tỏ mức độ cao của cảm xúc, thường dùng trong câu cảm thán để nhấn mạnh sự yêu, nhớ, tiếc nuối...",
+      "en": "How much; so much (used to intensify emotions).",
+      "es": "Cuánto; tanto (usado para intensificar emociones)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "biết mấy",
+      "en": "how much",
+      "es": "cuánto"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Vui biết mấy khi gặp lại bạn.",
+      "en": "How happy I am to see you again.",
+      "es": "Qué feliz estoy de verte de nuevo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c1d2e3f4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "biết mấy",
+      "language": "vi",
+      "sentence": "Anh nhớ em ___ khi em đi xa nhà.",
+      "choices": [
+        "biết mấy",
+        "hết mực",
+        "rất nhiều"
+      ],
+      "answer": "biết mấy",
+      "translation": {
+        "en": "I miss you so much when you are far from home."
+      },
+      "translatedAnswer": {
+        "en": "so much"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d2e3f4g5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "biết mấy",
+      "language": "vi",
+      "sentence": "Chị yêu gia đình này ___.",
+      "answer": "biết mấy",
+      "translation": {
+        "en": "I love this family so much."
+      },
+      "translatedAnswer": {
+        "en": "so much"
+      }
+    }
+  },
   "_id": "8Nb9ROW4PeaXo8E53Zpg",
   "level": "B2",
   "topic": "Emotions & Feelings"

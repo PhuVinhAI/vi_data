@@ -36,6 +36,68 @@
   "createdAt": "2025-07-21T11:28:58.131Z",
   "originalCount": 18,
   "word": "thí sinh",
+  "flashcard": {
+    "definitions": {
+      "vi": "Người dự một cuộc thi hoặc kỳ thi.",
+      "en": "Candidate; person taking an exam or competition.",
+      "es": "Candidato; concursante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thí sinh",
+      "en": "candidate",
+      "es": "candidato"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thí sinh số 01 đã sẵn sàng.",
+      "en": "Candidate number 01 is ready.",
+      "es": "El candidato número 01 está listo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w9x0y1z2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thí sinh",
+      "language": "vi",
+      "sentence": "Các ___ cần mang theo giấy tờ tùy thân.",
+      "choices": [
+        "giám khảo",
+        "thí sinh",
+        "giáo viên"
+      ],
+      "answer": "thí sinh",
+      "translation": {
+        "en": "Candidates need to bring identification documents."
+      },
+      "translatedAnswer": {
+        "en": "candidates"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x0y1z2a3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thí sinh",
+      "language": "vi",
+      "sentence": "Anh là ___ tham gia kỳ thi năm nay.",
+      "answer": "thí sinh",
+      "translation": {
+        "en": "He is a candidate taking the exam this year."
+      },
+      "translatedAnswer": {
+        "en": "candidate"
+      }
+    }
+  },
   "_id": "JdGqZjIq92lFfpmc5fKy",
   "level": "B1",
   "topic": "Work & Education"

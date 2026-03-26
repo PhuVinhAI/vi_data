@@ -36,6 +36,68 @@
   ],
   "originalFrequency": 0.0132,
   "originalCount": 15,
+  "flashcard": {
+    "definitions": {
+      "vi": "Một loại hạt nhỏ thường được rang hoặc dùng trong nấu ăn, còn gọi là lạc ở miền Bắc.",
+      "en": "Peanut; a common nut often roasted or used in cooking.",
+      "es": "Mani; cacahuate."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đậu phộng",
+      "en": "peanut",
+      "es": "maní"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi thích ăn kẹo đậu phộng.",
+      "en": "I like eating peanut candy.",
+      "es": "Me gusta comer dulces de maní."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s5t6u7v8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đậu phộng",
+      "language": "vi",
+      "sentence": "Em thích ăn bánh mì với ___ rang vào buổi sáng.",
+      "choices": [
+        "hạt điều",
+        "đậu phộng",
+        "hạt dưa"
+      ],
+      "answer": "đậu phộng",
+      "translation": {
+        "en": "I like eating bread with roasted peanut in the morning."
+      },
+      "translatedAnswer": {
+        "en": "peanut"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t6u7v8w9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đậu phộng",
+      "language": "vi",
+      "sentence": "Người ta thường rắc ___ lên món gỏi.",
+      "answer": "đậu phộng",
+      "translation": {
+        "en": "People often sprinkle peanuts on the salad."
+      },
+      "translatedAnswer": {
+        "en": "peanuts"
+      }
+    }
+  },
   "_id": "kaROFMY4t4pJS4n8hRs9",
   "level": "A2",
   "topic": "Food & Drinks"

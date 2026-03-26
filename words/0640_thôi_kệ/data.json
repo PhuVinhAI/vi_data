@@ -36,6 +36,68 @@
     "cố gắng",
     "bắt đầu"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Lời nói thể hiện thái độ không quan tâm, mặc kệ hoặc chấp nhận thực tại mà không muốn cố gắng thêm.",
+      "en": "Let it go; whatever; to ignore or stop caring about something.",
+      "es": "Déjalo así; no importa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thôi kệ",
+      "en": "let it go",
+      "es": "déjalo así"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Mất rồi thì thôi kệ đi, đừng buồn nữa.",
+      "en": "It's lost, so let it go, don't be sad anymore.",
+      "es": "Se perdió, así que déjalo así, no estés triste más."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c5d6e7f8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thôi kệ",
+      "language": "vi",
+      "sentence": "Nếu em không thể thay đổi kết quả thì ___ đi.",
+      "choices": [
+        "thôi kệ",
+        "cố gắng",
+        "bắt đầu"
+      ],
+      "answer": "thôi kệ",
+      "translation": {
+        "en": "If you can't change the result, just let it go."
+      },
+      "translatedAnswer": {
+        "en": "let it go"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d6e7f8g9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thôi kệ",
+      "language": "vi",
+      "sentence": "Muộn rồi, không làm được nữa thì ___.",
+      "answer": "thôi kệ",
+      "translation": {
+        "en": "It's late, if you can't do it anymore, just let it go."
+      },
+      "translatedAnswer": {
+        "en": "let it go"
+      }
+    }
+  },
   "_id": "VgfEzLz5n9Jex0q2EQJ1",
   "level": "B1",
   "topic": "Conversational Phrases"

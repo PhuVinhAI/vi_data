@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Thiết bị làm mát không khí trong phòng.",
+      "en": "Air conditioner; device used to cool the air in a room.",
+      "es": "Aire acondicionado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "máy lạnh",
+      "en": "air conditioner",
+      "es": "aire acondicionado"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bật máy lạnh lên cho mát.",
+      "en": "Turn on the air conditioner to be cool.",
+      "es": "Enciende el aire acondicionado để estar fresco."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q3r4s5t6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "máy lạnh",
+      "language": "vi",
+      "sentence": "Anh có thể bật ___ giúp em không?",
+      "choices": [
+        "máy lạnh",
+        "máy giặt",
+        "máy sấy"
+      ],
+      "answer": "máy lạnh",
+      "translation": {
+        "en": "Can you turn on the air conditioner for me?"
+      },
+      "translatedAnswer": {
+        "en": "air conditioner"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r4s5t6u7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "máy lạnh",
+      "language": "vi",
+      "sentence": "Trời nóng quá, hãy đi lắp ___.",
+      "answer": "máy lạnh",
+      "translation": {
+        "en": "It's too hot, let's install an air conditioner."
+      },
+      "translatedAnswer": {
+        "en": "air conditioner"
+      }
+    }
+  },
   "_id": "6ifA0mb7bBS74OQVKLaz",
   "level": "A2",
   "topic": "Daily Life & Objects"

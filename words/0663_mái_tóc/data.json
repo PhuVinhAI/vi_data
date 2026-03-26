@@ -36,6 +36,68 @@
     "làn da",
     "đôi mắt"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Toàn bộ số tóc trên đầu của một người, thường được nhìn nhận như một đặc điểm thẩm mỹ.",
+      "en": "A head of hair; the collective hair on someone's head.",
+      "es": "Cabellera; melena."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mái tóc",
+      "en": "hair",
+      "es": "cabellera"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cô ấy có mái tóc đen rất đẹp.",
+      "en": "She has very beautiful black hair.",
+      "es": "Ella tiene una cabellera negra muy hermosa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o7p8q9r0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mái tóc",
+      "language": "vi",
+      "sentence": "Chị rất thích màu ___ mới của mình.",
+      "choices": [
+        "mái tóc",
+        "làn da",
+        "đôi mắt"
+      ],
+      "answer": "mái tóc",
+      "translation": {
+        "en": "She really likes the color of her new hair."
+      },
+      "translatedAnswer": {
+        "en": "hair"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p8q9r0s1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mái tóc",
+      "language": "vi",
+      "sentence": "Sáng nay anh dành thời gian chải ___.",
+      "answer": "mái tóc",
+      "translation": {
+        "en": "This morning he spent time brushing his hair."
+      },
+      "translatedAnswer": {
+        "en": "hair"
+      }
+    }
+  },
   "_id": "aVaMMUIu0Y0x7pZXjvQY",
   "level": "A2",
   "topic": "Body & Health"

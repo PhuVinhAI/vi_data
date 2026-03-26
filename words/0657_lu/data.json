@@ -36,6 +36,68 @@
     "chum",
     "bình"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Vật dụng bằng sành, gốm, hình tròn, bụng phình to, miệng rộng, dùng để đựng nước hoặc các chất lỏng khác.",
+      "en": "Large ceramic jar used to store water or other liquids.",
+      "es": "Tinaja; jarra grande."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lu",
+      "en": "jar",
+      "es": "tinaja"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nước trong lu rất mát.",
+      "en": "The water in the jar is very cool.",
+      "es": "El agua en la tinaja está muy fresca."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m5n6o7p8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lu",
+      "language": "vi",
+      "sentence": "Bà ngoại thường dùng ___ để đựng nước mưa.",
+      "choices": [
+        "lu",
+        "chum",
+        "bình"
+      ],
+      "answer": "lu",
+      "translation": {
+        "en": "Grandmother usually uses a jar to store rainwater."
+      },
+      "translatedAnswer": {
+        "en": "jar"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n6o7p8q9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lu",
+      "language": "vi",
+      "sentence": "Em nhớ đậy nắp ___ lại nhé.",
+      "answer": "lu",
+      "translation": {
+        "en": "Remember to put the lid on the jar."
+      },
+      "translatedAnswer": {
+        "en": "jar"
+      }
+    }
+  },
   "_id": "ICLAfsW0LJ2ADHqpabKh",
   "level": "B2",
   "topic": "Daily Life & Objects"

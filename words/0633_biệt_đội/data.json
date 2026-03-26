@@ -36,6 +36,68 @@
     "nhóm trưởng"
   ],
   "notes": "Biệt đội means a task force or special squad — a small group formed for a specific mission.  \n\nIt’s a countable noun: một biệt đội, hai biệt đội. It often goes with a purpose after it, like a noun that explains the mission.  \n\nIt feels a bit stronger and more specialized than đội (team). Think focused, trained, mission-based.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Đội quân hoặc nhóm người được tinh tuyển và huấn luyện đặc biệt để thực hiện một nhiệm vụ cụ thể.",
+      "en": "Task force; special squad formed for a specific mission.",
+      "es": "Escuadrón; comando."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "biệt đội",
+      "en": "task force",
+      "es": "escuadrón"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Biệt đội cứu hộ đang làm nhiệm vụ.",
+      "en": "The rescue task force is on duty.",
+      "es": "El escuadrón de rescate está en servicio."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y1z2a3b4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "biệt đội",
+      "language": "vi",
+      "sentence": "Anh ấy là thành viên của ___ cứu hộ.",
+      "choices": [
+        "biệt đội",
+        "đội bóng",
+        "nhóm trưởng"
+      ],
+      "answer": "biệt đội",
+      "translation": {
+        "en": "He is a member of the rescue task force."
+      },
+      "translatedAnswer": {
+        "en": "task force"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z2a3b4c5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "biệt đội",
+      "language": "vi",
+      "sentence": "___ đã làm việc suốt đêm.",
+      "answer": "biệt đội",
+      "translation": {
+        "en": "The task force worked all night."
+      },
+      "translatedAnswer": {
+        "en": "task force"
+      }
+    }
+  },
   "_id": "Oec8UzeuHMnzNETXzk62",
   "level": "B2",
   "topic": "Media & Entertainment"

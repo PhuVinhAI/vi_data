@@ -36,6 +36,68 @@
     "When meeting strangers, I usually feel shy and don't dare to say anything."
   ],
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Thực hiện hành động phát âm thành tiếng để truyền đạt thông tin hoặc ý kiến, thường dùng trong câu phủ định để chỉ sự im lặng.",
+      "en": "To say anything; to say what (depending on context).",
+      "es": "Decir algo; decir qué."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nói gì",
+      "en": "say anything",
+      "es": "decir algo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ấy không nói gì cả.",
+      "en": "He didn't say anything at all.",
+      "es": "Él no dijo nada en absoluto."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e3f4g5h6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nói gì",
+      "language": "vi",
+      "sentence": "Nếu chị không muốn ___ , em sẽ không hỏi nữa.",
+      "choices": [
+        "nói gì",
+        "nghĩ gì",
+        "làm gì"
+      ],
+      "answer": "nói gì",
+      "translation": {
+        "en": "If you don't want to say anything, I won't ask anymore."
+      },
+      "translatedAnswer": {
+        "en": "say anything"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f4g5h6i7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nói gì",
+      "language": "vi",
+      "sentence": "Em thường ngại không dám ___ khi gặp người lạ.",
+      "answer": "nói gì",
+      "translation": {
+        "en": "I'm usually shy and don't dare to say anything when meeting strangers."
+      },
+      "translatedAnswer": {
+        "en": "say anything"
+      }
+    }
+  },
   "_id": "0hxLcTg4ZusEuUm2r1Gs",
   "level": "A2",
   "topic": "Conversational Phrases"

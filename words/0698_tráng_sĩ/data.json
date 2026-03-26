@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Người đàn ông mạnh mẽ và dũng cảm, thường xuất hiện trong truyền thuyết hoặc truyện xưa.",
+      "en": "Heroic warrior; a brave man in legends or history.",
+      "es": "Guerrero heroico; héroe antiguo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tráng sĩ",
+      "en": "heroic warrior",
+      "es": "guerrero heroico"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Một vị tráng sĩ vừa mới xuất hiện.",
+      "en": "A heroic warrior has just appeared.",
+      "es": "Un guerrero heroico acaba de aparecer."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k9l0m1n2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tráng sĩ",
+      "language": "vi",
+      "sentence": "Ngày xưa, ___ thường lên đường để bảo vệ quê hương.",
+      "choices": [
+        "tráng sĩ",
+        "hiệp sĩ",
+        "võ sĩ"
+      ],
+      "answer": "tráng sĩ",
+      "translation": {
+        "en": "In the past, heroic warriors often set off to protect the homeland."
+      },
+      "translatedAnswer": {
+        "en": "heroic warrior"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l0m1n2o3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tráng sĩ",
+      "language": "vi",
+      "sentence": "Em ngưỡng mộ những câu chuyện về ___.",
+      "answer": "tráng sĩ",
+      "translation": {
+        "en": "I admire stories about heroic warriors."
+      },
+      "translatedAnswer": {
+        "en": "heroic warrior"
+      }
+    }
+  },
   "_id": "q6JaotFKJyVHvfZRGXAd",
   "level": "B2",
   "topic": "Fantasy & Fiction"

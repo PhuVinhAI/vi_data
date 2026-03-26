@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Người có nhiệm vụ trông coi, giám sát kỳ thi.",
+      "en": "Proctor; person who supervises an exam.",
+      "es": "Supervisor de exámenes."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "giám thị",
+      "en": "proctor",
+      "es": "supervisor"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Giám thị nhắc nhở thí sinh giữ im lặng.",
+      "en": "The proctor reminds candidates to remain silent.",
+      "es": "El supervisor nhắc nhở thí sinh giữ im lặng."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u7v8w9x0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "giám thị",
+      "language": "vi",
+      "sentence": "___ đã kiểm tra giấy tờ của thí sinh.",
+      "choices": [
+        "giám đốc",
+        "giám thị",
+        "giáo viên"
+      ],
+      "answer": "giám thị",
+      "translation": {
+        "en": "The proctor checked the candidate's documents."
+      },
+      "translatedAnswer": {
+        "en": "proctor"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v8w9x0y1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "giám thị",
+      "language": "vi",
+      "sentence": "Hãy giải thích với ___ ở cổng trường.",
+      "answer": "giám thị",
+      "translation": {
+        "en": "Please explain to the proctor at the school gate."
+      },
+      "translatedAnswer": {
+        "en": "proctor"
+      }
+    }
+  },
   "_id": "aIbdfKlRrQisNwwz1uqT",
   "level": "B1",
   "topic": "Work & Education"
