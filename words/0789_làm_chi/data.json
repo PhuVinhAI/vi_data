@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm từ nghi vấn dùng ở cuối câu để hỏi lý do, mục đích, thường mang sắc thái ngạc nhiên hoặc trách móc (phổ biến ở miền Trung/Nam).",
+      "en": "Why?; What for? (used at the end of a clause, often with an annoyed or surprised tone).",
+      "es": "¿Para qué?; ¿Por qué? (regional)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "làm chi",
+      "en": "why",
+      "es": "¿para qué?"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nói cái đó làm chi?",
+      "en": "Why say that?",
+      "es": "¿Para qué decir eso?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w7x8y9z0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "làm chi",
+      "language": "vi",
+      "sentence": "Em hỏi anh chuyện này ___ khi em đã biết câu trả lời?",
+      "choices": [
+        "làm gì",
+        "làm chi",
+        "làm sao"
+      ],
+      "answer": "làm chi",
+      "translation": {
+        "en": "Why do you ask me this when you already know the answer?"
+      },
+      "translatedAnswer": {
+        "en": "why"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x8y9z0a1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "làm chi",
+      "language": "vi",
+      "sentence": "Chị giận dữ ___ vì chuyện nhỏ như thế này?",
+      "answer": "làm chi",
+      "translation": {
+        "en": "Why are you angry about such a small thing?"
+      },
+      "translatedAnswer": {
+        "en": "why"
+      }
+    }
+  },
   "_id": "lEArFmhJlqRe7lkMzFks",
   "level": "B1",
   "topic": "Conversational Phrases"

@@ -36,6 +36,68 @@
     "Nếu nhà ngươi dám đến gần hơn, ta sẽ cảnh báo ngươi lần cuối.",
     "Nhà ngươi nên suy nghĩ kỹ trước khi quyết định điều gì đó quan trọng."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Đại từ nhân xưng ngôi thứ hai dùng trong văn chương cũ hoặc phim ảnh, mang sắc thái kẻ cả, coi thường hoặc thù địch.",
+      "en": "You (archaic/hostile); thou; a second-person pronoun used to talk down to someone.",
+      "es": "Tú (arcaico o con desprecio); tú (en dramas)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nhà ngươi",
+      "en": "you (archaic)",
+      "es": "tú (dramático)"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nhà ngươi muốn gì ở ta?",
+      "en": "What does thou want from me?",
+      "es": "¿Qué quieres tú de mí?"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s3t4u5v6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nhà ngươi",
+      "language": "vi",
+      "sentence": "___ có biết ai đã lấy quyển sách của anh không?",
+      "choices": [
+        "nhà ngươi",
+        "chúng tôi",
+        "các bạn"
+      ],
+      "answer": "nhà ngươi",
+      "translation": {
+        "en": "Do you [archaic] know who took my book?"
+      },
+      "translatedAnswer": {
+        "en": "You"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t4u5v6w7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nhà ngươi",
+      "language": "vi",
+      "sentence": "Nếu ___ dám đến gần hơn, ta sẽ cảnh báo lần cuối.",
+      "answer": "nhà ngươi",
+      "translation": {
+        "en": "If thou dare come closer, I will warn thee one last time."
+      },
+      "translatedAnswer": {
+        "en": "thou"
+      }
+    }
+  },
   "_id": "J05fF8cel2qaquQPcSHy",
   "level": "B2",
   "topic": "Fantasy & Fiction"

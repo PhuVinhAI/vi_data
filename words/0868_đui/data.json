@@ -36,6 +36,68 @@
   "originalCount": 13,
   "definition": "blind",
   "rank": 868,
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ người hoặc động vật không có khả năng nhìn thấy (mất thị lực).",
+      "en": "Blind; unable to see.",
+      "es": "Ciego."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đui",
+      "en": "blind",
+      "es": "ciego"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đôi mắt bị đui.",
+      "en": "Blind eyes.",
+      "es": "Ojos ciegos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o5p6q7r8-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đui",
+      "language": "vi",
+      "sentence": "Anh ấy bị ___ sau một tai nạn khi còn nhỏ.",
+      "choices": [
+        "điếc",
+        "đui",
+        "câm"
+      ],
+      "answer": "đui",
+      "translation": {
+        "en": "He became blind after an accident when he was young."
+      },
+      "translatedAnswer": {
+        "en": "blind"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p6q7r8s9-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đui",
+      "language": "vi",
+      "sentence": "Một số người ___ vẫn có thể sống rất độc lập.",
+      "answer": "đui",
+      "translation": {
+        "en": "Some blind people can still live very independently."
+      },
+      "translatedAnswer": {
+        "en": "blind"
+      }
+    }
+  },
   "_id": "zpPdLKLqtTxnmErSqU6m",
   "level": "B2",
   "topic": "Body & Health"

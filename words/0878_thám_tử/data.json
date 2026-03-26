@@ -36,6 +36,68 @@
   "notes": "Thám tử means detective — a person who investigates crimes or mysteries.\n\nIt’s a countable noun: một thám tử, hai thám tử. Often used with words like điều tra (investigate) and phá án (solve a case).  \nCommon collocations: thám tử tư (private detective), truyện trinh thám (detective/crime novel).\n\nClose word: điều tra viên = investigator (more official, often police).  \n“Thám tử” feels a bit dramatic or story-like compared to “điều tra viên.”",
   "updatedAt": "2026-03-03T07:49:59.938Z",
   "originalCount": 12,
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người chuyên điều tra, thu thập thông tin để giải quyết các vụ án hoặc bí ẩn.",
+      "en": "Detective; investigator of mysteries/crimes.",
+      "es": "Detective."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thám tử",
+      "en": "detective",
+      "es": "detective"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thám tử lừng danh.",
+      "en": "Famous detective.",
+      "es": "Detective famoso."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y5z6a7b8-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thám tử",
+      "language": "vi",
+      "sentence": "Em thích xem phim có nhân vật ___ thông minh và dũng cảm.",
+      "choices": [
+        "thầy giáo",
+        "bác sĩ",
+        "thám tử"
+      ],
+      "answer": "thám tử",
+      "translation": {
+        "en": "I like watching movies with a smart and brave detective character."
+      },
+      "translatedAnswer": {
+        "en": "detective"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z6a7b8c9-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thám tử",
+      "language": "vi",
+      "sentence": "Anh trai chị muốn trở thành ___ để điều tra các vụ án bí ẩn.",
+      "answer": "thám tử",
+      "translation": {
+        "en": "Her older brother wants to become a detective to investigate mysterious cases."
+      },
+      "translatedAnswer": {
+        "en": "detective"
+      }
+    }
+  },
   "_id": "DgS29BAlt4LDZuqHgZnk",
   "level": "B2",
   "topic": "Media & Entertainment"

@@ -36,6 +36,68 @@
     "quýnh lộn",
     "chạy bộ"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ khẩu ngữ chỉ hành động dùng vũ lực để tấn công nhau do mâu thuẫn.",
+      "en": "To physically fight someone (colloquial); to hit or punch.",
+      "es": "Pelearse; agarrarse a golpes."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "quýnh lộn",
+      "en": "to fight",
+      "es": "pelearse"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng quýnh lộn với bạn bè.",
+      "en": "Don't fight with your friends.",
+      "es": "No te pelees con tus amigos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y9z0a1b2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quýnh lộn",
+      "language": "vi",
+      "sentence": "Nếu có vấn đề, em đừng ___ với bạn mà hãy nói chuyện.",
+      "choices": [
+        "cãi nhau",
+        "quýnh lộn",
+        "chạy bộ"
+      ],
+      "answer": "quýnh lộn",
+      "translation": {
+        "en": "If there is a problem, don't fight with your friend but talk instead."
+      },
+      "translatedAnswer": {
+        "en": "fight"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z0a1b2c3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quýnh lộn",
+      "language": "vi",
+      "sentence": "Hôm qua anh thấy hai người ___ ở ngoài công viên.",
+      "answer": "quýnh lộn",
+      "translation": {
+        "en": "Yesterday I saw two people fighting in the park."
+      },
+      "translatedAnswer": {
+        "en": "fighting"
+      }
+    }
+  },
   "_id": "TBFq8zmBqMDpYyTcw20G",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

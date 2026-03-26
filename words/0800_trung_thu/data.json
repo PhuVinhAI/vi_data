@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "createdAt": "2025-07-21T11:44:03.284Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tết trông trăng, lễ hội truyền thống dành cho trẻ em vào rằm tháng Tám âm lịch với đèn lồng và bánh nướng, bánh dẻo.",
+      "en": "Mid-Autumn Festival; Moon Festival; a traditional children's holiday in Vietnam.",
+      "es": "Festival del Medio Otoño; Festival de la Luna."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "trung thu",
+      "en": "Mid-Autumn Festival",
+      "es": "Festival del Medio Otoño"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Trung thu các em rước đèn.",
+      "en": "On Mid-Autumn Festival, children carry lanterns.",
+      "es": "En el Festival del Medio Otoño, các em rước đèn."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e5f6g7h8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trung thu",
+      "language": "vi",
+      "sentence": "Trẻ em háo hức chờ đợi ___ để rước đèn.",
+      "choices": [
+        "trung thu",
+        "tết nguyên đán",
+        "giáng sinh"
+      ],
+      "answer": "trung thu",
+      "translation": {
+        "en": "Children eagerly wait for the Mid-Autumn Festival to carry lanterns."
+      },
+      "translatedAnswer": {
+        "en": "Mid-Autumn Festival"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f6g7h8i9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "trung thu",
+      "language": "vi",
+      "sentence": "Em rất thích ăn bánh vào dịp ___ cùng gia đình.",
+      "answer": "trung thu",
+      "translation": {
+        "en": "I really like eating cakes during the Mid-Autumn Festival with my family."
+      },
+      "translatedAnswer": {
+        "en": "Mid-Autumn Festival"
+      }
+    }
+  },
   "_id": "CFuC8UZg6r6aAbvLZhDX",
   "level": "A2",
   "topic": "Culture & Traditions"

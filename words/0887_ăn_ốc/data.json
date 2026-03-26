@@ -36,6 +36,68 @@
   ],
   "definition": "eat snails",
   "rank": 887,
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm động từ chỉ việc đi thưởng thức các món ốc (thường ở quán vỉa hè hoặc nhà hàng bình dân).",
+      "en": "Eating snails (a popular social food activity in Vietnam).",
+      "es": "Comer caracoles."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ăn ốc",
+      "en": "eat snails",
+      "es": "comer caracoles"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đi ăn ốc với bạn bè.",
+      "en": "Going out to eat snails with friends.",
+      "es": "Ir a comer caracoles con amigos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e1f2g3h4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn ốc",
+      "language": "vi",
+      "sentence": "Tối nay anh muốn đi ___ với bạn bè ở quán gần nhà.",
+      "choices": [
+        "ăn cá",
+        "ăn ốc",
+        "ăn tôm"
+      ],
+      "answer": "ăn ốc",
+      "translation": {
+        "en": "Tonight I want to eat snails with friends at the place near my house."
+      },
+      "translatedAnswer": {
+        "en": "eat snails"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f2g3h4i5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn ốc",
+      "language": "vi",
+      "sentence": "Chị thường ___ khi trời mưa vì cảm thấy rất ngon và ấm bụng.",
+      "answer": "ăn ốc",
+      "translation": {
+        "en": "She usually eats snails when it rains because she feels it is very delicious and warming."
+      },
+      "translatedAnswer": {
+        "en": "eat snails"
+      }
+    }
+  },
   "_id": "1LneoRXmfjqu2hstc21e",
   "level": "A2",
   "topic": "Food & Drinks"

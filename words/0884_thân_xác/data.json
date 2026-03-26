@@ -36,6 +36,68 @@
   "word": "thân xác",
   "source": "frequency_analysis",
   "createdAt": "2025-07-21T11:51:05.955Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ cơ thể vật lý của con người, thường được nhấn mạnh trong mối quan hệ đối lập với tâm hồn hoặc tinh thần.",
+      "en": "Physical body; flesh (often used in philosophical or serious contexts).",
+      "es": "Cuerpo físico; carne."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thân xác",
+      "en": "body",
+      "es": "cuerpo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thân xác rã rời.",
+      "en": "Exhausted body.",
+      "es": "Cuerpo agotado."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c9d0e1f2-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thân xác",
+      "language": "vi",
+      "sentence": "Sau một ngày làm việc mệt mỏi, ___ anh cảm thấy rất rã rời.",
+      "choices": [
+        "thân xác",
+        "tinh thần",
+        "cảm xúc"
+      ],
+      "answer": "thân xác",
+      "translation": {
+        "en": "After a tiring day at work, his body feels very exhausted."
+      },
+      "translatedAnswer": {
+        "en": "body"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d0e1f2g3-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thân xác",
+      "language": "vi",
+      "sentence": "Thiền giúp em thư giãn cả tâm trí và ___.",
+      "answer": "thân xác",
+      "translation": {
+        "en": "Meditation helps me relax both my mind and body."
+      },
+      "translatedAnswer": {
+        "en": "body"
+      }
+    }
+  },
   "_id": "jNyYrGGnJSLn807by29F",
   "level": "B2",
   "topic": "Abstract Concepts"

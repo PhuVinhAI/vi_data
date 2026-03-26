@@ -36,6 +36,68 @@
   ],
   "updatedAt": "2026-03-03T07:45:20.075Z",
   "notes": "đại gia = a very rich, powerful person, often with a bit of a “big shot” vibe. It’s stronger and flashier than just người giàu (rich person).\n\nIt’s a countable noun: một đại gia, các đại gia. Often followed by a field: đại gia bất động sản, đại gia công nghệ.\n\nIt can imply someone who shows off wealth, not just quietly rich. Stronger word: tỷ phú (billionaire); more neutral: người giàu.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người có rất nhiều tiền, giàu sang và thường có địa vị xã hội lớn.",
+      "en": "Rich person; tycoon; a very wealthy and influential person.",
+      "es": "Magnate; persona rica."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đại gia",
+      "en": "rich person",
+      "es": "magnate"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Vị đại gia bất động sản.",
+      "en": "The real estate tycoon.",
+      "es": "El magnate inmobiliario."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w7x8y9z0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đại gia",
+      "language": "vi",
+      "sentence": "Nhiều người mơ ước trở thành ___ để có cuộc sống sung túc.",
+      "choices": [
+        "đại gia",
+        "doanh nhân",
+        "bác sĩ"
+      ],
+      "answer": "đại gia",
+      "translation": {
+        "en": "Many people dream of becoming a rich person to have a comfortable life."
+      },
+      "translatedAnswer": {
+        "en": "rich person"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x8y9z0a1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đại gia",
+      "language": "vi",
+      "sentence": "Anh ấy nổi tiếng là một ___ trong thành phố này.",
+      "answer": "đại gia",
+      "translation": {
+        "en": "He is famous as a rich person in this city."
+      },
+      "translatedAnswer": {
+        "en": "rich person"
+      }
+    }
+  },
   "_id": "bj1bfRK5n1MZPdZUwakA",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

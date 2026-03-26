@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm danh từ chỉ số lượng một tỷ năm trăm triệu (1.500.000.000), thường dùng để nói về số tiền.",
+      "en": "One and a half billion; 1,500,000,000.",
+      "es": "Mil quinientos millones."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tỷ rưỡi",
+      "en": "one and a half billion",
+      "es": "mil quinientos millones"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Căn nhà này giá tỷ rưỡi.",
+      "en": "This house costs one and a half billion.",
+      "es": "Esta casa cuesta mil quinientos millones."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g7h8i9j0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tỷ rưỡi",
+      "language": "vi",
+      "sentence": "Anh ấy trúng xổ số và nhận được ___ đồng.",
+      "choices": [
+        "tỷ rưỡi",
+        "triệu rưỡi",
+        "nghìn rưỡi"
+      ],
+      "answer": "tỷ rưỡi",
+      "translation": {
+        "en": "He won the lottery and received one and a half billion dong."
+      },
+      "translatedAnswer": {
+        "en": "one and a half billion"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h8i9j0k1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tỷ rưỡi",
+      "language": "vi",
+      "sentence": "Công ty đầu tư ___ vào dự án mới này.",
+      "answer": "tỷ rưỡi",
+      "translation": {
+        "en": "The company invested 1.5 billion in this new project."
+      },
+      "translatedAnswer": {
+        "en": "1.5 billion"
+      }
+    }
+  },
   "_id": "FBRBxr2vAJPu0XwivBcK",
   "level": "B1",
   "topic": "Numbers & Quantifiers"

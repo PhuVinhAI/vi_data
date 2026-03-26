@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ một loại trái cây nhiệt đới có vỏ gai nhọn, mùi nồng đặc trưng và vị béo ngậy; đặc sản miền Tây Việt Nam.",
+      "en": "Durian; a tropical fruit with sharp spines, strong smell, and creamy taste.",
+      "es": "Durian; la fruta del sudeste asiático."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "sầu riêng",
+      "en": "durian",
+      "es": "durian"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi rất thích ăn sầu riêng.",
+      "en": "I really like eating durian.",
+      "es": "Me gusta mucho comer durian."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c3d4e5f6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "sầu riêng",
+      "language": "vi",
+      "sentence": "Mùi của ___ khá mạnh nhưng vị rất đặc biệt.",
+      "choices": [
+        "xoài",
+        "sầu riêng",
+        "mãng cầu"
+      ],
+      "answer": "sầu riêng",
+      "translation": {
+        "en": "The smell of durian is quite strong but the taste is very special."
+      },
+      "translatedAnswer": {
+        "en": "durian"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d4e5f6g7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "sầu riêng",
+      "language": "vi",
+      "sentence": "Anh từng thử ăn ___ ở chợ nổi miền Tây chưa?",
+      "answer": "sầu riêng",
+      "translation": {
+        "en": "Have you ever tried eating durian at a floating market in the West?"
+      },
+      "translatedAnswer": {
+        "en": "durian"
+      }
+    }
+  },
   "_id": "ASzf9aRjm3VmbbW63kFb",
   "level": "A2",
   "topic": "Food & Drinks"

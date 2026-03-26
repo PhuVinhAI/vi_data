@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "addedReason": "common adjective",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ miêu tả trạng thái vất vả, khó nhọc, phải chịu đựng nhiều gian nan trong cuộc sống.",
+      "en": "Hardship; misery; extreme hardship (often long-term struggle).",
+      "es": "Miseria; penalidad."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "cực khổ",
+      "en": "hardship",
+      "es": "miseria"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cuộc sống cực khổ ở quê.",
+      "en": "A hard life in the countryside.",
+      "es": "Una vida difícil en el campo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u5v6w7x8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cực khổ",
+      "language": "vi",
+      "sentence": "Gia đình em phải chịu nhiều ___ để nuôi các con ăn học.",
+      "choices": [
+        "cực khổ",
+        "vui vẻ",
+        "hạnh phúc"
+      ],
+      "answer": "cực khổ",
+      "translation": {
+        "en": "My family had to endure a lot of hardship to raise the children and send them to school."
+      },
+      "translatedAnswer": {
+        "en": "hardship"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v6w7x8y9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "cực khổ",
+      "language": "vi",
+      "sentence": "Anh đã trải qua nhiều ___ khi còn nhỏ ở quê.",
+      "answer": "cực khổ",
+      "translation": {
+        "en": "He went through a lot of hardship as a child in the countryside."
+      },
+      "translatedAnswer": {
+        "en": "hardship"
+      }
+    }
+  },
   "_id": "fJOQJQsvJ1EBeLbyG5oN",
   "level": "B1",
   "topic": "Emotions & Feelings"

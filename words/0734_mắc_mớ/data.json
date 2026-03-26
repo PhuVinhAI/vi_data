@@ -36,6 +36,68 @@
   "definition": "problem",
   "source": "frequency_analysis",
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng để chỉ sự liên quan, dính líu đến một vấn đề hay rắc rối nào đó.",
+      "en": "Involvement; entanglement; having to do with a problem.",
+      "es": "Relación; lío; asunto."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "mắc mớ",
+      "en": "involvement",
+      "es": "relación"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi chẳng mắc mớ gì đến anh.",
+      "en": "I have nothing to do with you.",
+      "es": "No tengo nada que ver contigo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m7n8o9p0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mắc mớ",
+      "language": "vi",
+      "sentence": "Anh không có ___ gì với việc giúp đỡ em đâu.",
+      "choices": [
+        "mắc mớ",
+        "nghi ngờ",
+        "khúc mắc"
+      ],
+      "answer": "mắc mớ",
+      "translation": {
+        "en": "I have no problem with helping you."
+      },
+      "translatedAnswer": {
+        "en": "problem"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n8o9p0q1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "mắc mớ",
+      "language": "vi",
+      "sentence": "Nếu chị có ___ gì thì cứ nói nhé.",
+      "answer": "mắc mớ",
+      "translation": {
+        "en": "If you have any trouble, just say so."
+      },
+      "translatedAnswer": {
+        "en": "trouble"
+      }
+    }
+  },
   "_id": "6f6x7uCzcIJ1sjHhs4Ov",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

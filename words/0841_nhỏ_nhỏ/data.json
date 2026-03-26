@@ -36,6 +36,68 @@
     "dài dài"
   ],
   "originalFrequency": 0.0115,
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ lặp chỉ sự vật có kích thước không lớn, mang sắc thái nhẹ nhàng, xinh xắn hoặc khiêm tốn.",
+      "en": "Small; slightly small; cute/small (implies softness or modesty).",
+      "es": "Pequeñito; algo pequeño."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "nhỏ nhỏ",
+      "en": "slightly small",
+      "es": "pequeñito"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Vài món quà nhỏ nhỏ.",
+      "en": "Some small gifts.",
+      "es": "Algunos regalos pequeñitos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c3d4e5f6-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nhỏ nhỏ",
+      "language": "vi",
+      "sentence": "Chị thích những quán cà phê ___ nằm trong con hẻm yên tĩnh.",
+      "choices": [
+        "nhỏ nhỏ",
+        "to to",
+        "dài dài"
+      ],
+      "answer": "nhỏ nhỏ",
+      "translation": {
+        "en": "She likes small coffee shops located in quiet alleys."
+      },
+      "translatedAnswer": {
+        "en": "small"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d4e5f6g7-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "nhỏ nhỏ",
+      "language": "vi",
+      "sentence": "Anh mua vài món quà ___ để tặng bạn bè.",
+      "answer": "nhỏ nhỏ",
+      "translation": {
+        "en": "I bought some small gifts to give to my friends."
+      },
+      "translatedAnswer": {
+        "en": "small"
+      }
+    }
+  },
   "_id": "N1xMvsjirRhdK3EDe5Ln",
   "level": "A2",
   "topic": "Adjectives & Descriptions"

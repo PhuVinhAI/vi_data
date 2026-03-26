@@ -36,6 +36,68 @@
     "She always dreams of traveling to places that are far away.",
     "My family moved to a countryside area that is far away to work."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ khoảng cách rất xa về địa lý hoặc thời gian, gợi cảm giác hẻo lánh, khó tiếp cận.",
+      "en": "Far away; remote; distant (talking about distance or time).",
+      "es": "Lejano; remoto; distante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "xa xôi",
+      "en": "far away",
+      "es": "lejano"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Vùng quê xa xôi hẻo lánh.",
+      "en": "A far away and remote countryside area.",
+      "es": "Un campo lejano y remoto."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i3j4k5l6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xa xôi",
+      "language": "vi",
+      "sentence": "Anh có người bạn sống ở một thành phố rất ___.",
+      "choices": [
+        "xa xôi",
+        "gần gũi",
+        "thân thiện"
+      ],
+      "answer": "xa xôi",
+      "translation": {
+        "en": "I have a friend who lives in a very far away city."
+      },
+      "translatedAnswer": {
+        "en": "far away"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j4k5l6m7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xa xôi",
+      "language": "vi",
+      "sentence": "Chị luôn mơ ước được đi du lịch đến những nơi ___.",
+      "answer": "xa xôi",
+      "translation": {
+        "en": "I always dream of traveling to far away places."
+      },
+      "translatedAnswer": {
+        "en": "far away"
+      }
+    }
+  },
   "_id": "YmAHvQthH6ahpqJHr4nz",
   "level": "B1",
   "topic": "Adjectives & Descriptions"

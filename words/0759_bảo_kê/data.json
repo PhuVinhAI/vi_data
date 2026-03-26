@@ -36,6 +36,68 @@
   ],
   "language": "vi",
   "rank": 759,
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động đòi tiền hoặc lợi ích từ người khác để đổi lại việc không gây rắc rối hoặc bảo vệ (thường mang tính tội phạm).",
+      "en": "Protection racket; criminal protection; gangster protection.",
+      "es": "Mafio de protección; extorsión."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bảo kê",
+      "en": "protection racket",
+      "es": "protección criminal"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tiền bảo kê rất đắt.",
+      "en": "Protection racket money is very expensive.",
+      "es": "El dinero de extorsión là rất đắt."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "e5f6g7h8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bảo kê",
+      "language": "vi",
+      "sentence": "Anh nghe nói quán cà phê gần đây phải trả tiền ___ mỗi tháng.",
+      "choices": [
+        "bảo kê",
+        "bảo vệ",
+        "giúp đỡ"
+      ],
+      "answer": "bảo kê",
+      "translation": {
+        "en": "I heard that coffee shop nearby has to pay protection money every month."
+      },
+      "translatedAnswer": {
+        "en": "protection money"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "f6g7h8i9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bảo kê",
+      "language": "vi",
+      "sentence": "Một số người thuê ___ để không bị ai bắt nạt.",
+      "answer": "bảo kê",
+      "translation": {
+        "en": "Some people hire protection rackets to avoid being bullied."
+      },
+      "translatedAnswer": {
+        "en": "protection rackets"
+      }
+    }
+  },
   "_id": "K5UDQoecDIB3mN3LRfsG",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

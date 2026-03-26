@@ -36,6 +36,68 @@
   ],
   "originalCount": 13,
   "updatedAt": "2026-03-03T07:44:57.253Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ một kỹ năng, phương pháp hoặc bí quyết đặc biệt, hiệu quả nhất để đạt được mục tiêu.",
+      "en": "Special technique; killer move; secret trick (to win or succeed).",
+      "es": "Técnica secreta; movimiento maestro."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tuyệt chiêu",
+      "en": "secret technique",
+      "es": "técnica secreta"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Dùng tuyệt chiêu để thắng.",
+      "en": "Using a secret technique to win.",
+      "es": "Usar una técnica secreta para ganar."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s3t4u5v6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tuyệt chiêu",
+      "language": "vi",
+      "sentence": "Chị đã học được một ___ mới để nấu ăn ngon hơn.",
+      "choices": [
+        "tuyệt chiêu",
+        "bí mật",
+        "chiêu thức"
+      ],
+      "answer": "tuyệt chiêu",
+      "translation": {
+        "en": "She has learned a new secret technique to cook better."
+      },
+      "translatedAnswer": {
+        "en": "secret technique"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t4u5v6w7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tuyệt chiêu",
+      "language": "vi",
+      "sentence": "Anh ấy luôn dùng ___ của mình khi chơi cờ với bạn bè.",
+      "answer": "tuyệt chiêu",
+      "translation": {
+        "en": "He always uses his secret technique when playing chess with friends."
+      },
+      "translatedAnswer": {
+        "en": "secret technique"
+      }
+    }
+  },
   "_id": "BRUBoUZjEVwA9RmzjVVt",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

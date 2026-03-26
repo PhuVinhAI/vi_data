@@ -36,6 +36,68 @@
     "hô hấp",
     "tiêu hóa"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Hệ thống truyền dẫn tín hiệu trong cơ thể người hoặc trạng thái tinh thần không ổn định.",
+      "en": "Nervous system; nerves; (slang) crazy or mentally unstable.",
+      "es": "Sistema nervioso; nervios; loco."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thần kinh",
+      "en": "nervous system",
+      "es": "sistema nervioso"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Hệ thần kinh điều khiển cơ thể.",
+      "en": "The nervous system controls the body.",
+      "es": "El sistema nervioso controla el cuerpo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s3t4u5v6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thần kinh",
+      "language": "vi",
+      "sentence": "Bác sĩ nói anh nên chăm sóc hệ ___ của mình tốt hơn.",
+      "choices": [
+        "thần kinh",
+        "hô hấp",
+        "tiêu hóa"
+      ],
+      "answer": "thần kinh",
+      "translation": {
+        "en": "The doctor says you should take better care of your nervous system."
+      },
+      "translatedAnswer": {
+        "en": "nervous system"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t4u5v6w7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thần kinh",
+      "language": "vi",
+      "sentence": "Môn sinh học hôm nay học về ___ của con người.",
+      "answer": "thần kinh",
+      "translation": {
+        "en": "In biology class today, we learned about human nerves."
+      },
+      "translatedAnswer": {
+        "en": "nerves"
+      }
+    }
+  },
   "_id": "hIIY2wYcBeuBR1kOrOJY",
   "level": "B2",
   "topic": "Medical & Health"

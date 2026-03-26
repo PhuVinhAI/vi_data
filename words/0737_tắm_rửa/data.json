@@ -36,6 +36,68 @@
   ],
   "originalCount": 15,
   "updatedAt": "2026-03-03T07:35:28.853Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động vệ sinh toàn bộ cơ thể bằng nước để sạch sẽ và sảng khoái.",
+      "en": "To take a shower; to bathe; to wash one's body.",
+      "es": "Bañarse; lavarse."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tắm rửa",
+      "en": "to take a shower",
+      "es": "bañarse"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Hãy tắm rửa trước khi ăn cơm.",
+      "en": "Take a shower before having dinner.",
+      "es": "Báñate antes de cenar."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o9p0q1r2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tắm rửa",
+      "language": "vi",
+      "sentence": "Sau khi đi tập thể dục về, anh thường ___ trước khi ăn tối.",
+      "choices": [
+        "tắm rửa",
+        "nấu ăn",
+        "ngủ trưa"
+      ],
+      "answer": "tắm rửa",
+      "translation": {
+        "en": "After going to exercise, I usually take a shower before dinner."
+      },
+      "translatedAnswer": {
+        "en": "take a shower"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p0q1r2s3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tắm rửa",
+      "language": "vi",
+      "sentence": "Trước khi đi ngủ, chị nhớ ___ sạch sẽ nhé.",
+      "answer": "tắm rửa",
+      "translation": {
+        "en": "Before going to bed, remember to take a shower."
+      },
+      "translatedAnswer": {
+        "en": "take a shower"
+      }
+    }
+  },
   "_id": "cZaKsZ7kvuIPuS6Q99Su",
   "level": "A2",
   "topic": "Daily Life & Objects"

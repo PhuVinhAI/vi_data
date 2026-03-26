@@ -36,6 +36,68 @@
   "notes_md": "**quý khách** = valued customer. It’s a very polite way to say “you” when talking to customers in service or business settings.\n\nIt’s a noun phrase, but it works like a respectful second-person pronoun in announcements, emails, signs, and customer service. You don’t need a classifier with it.\n\nIt sounds more formal than **khách hàng** (customer). Use it when speaking *to* the customer, not when casually talking *about* them.",
   "originalFrequency": 0.0115,
   "originalCount": 13,
+  "flashcard": {
+    "definitions": {
+      "vi": "Cách gọi tôn trọng và lịch sự dành cho khách hàng trong giao tiếp thương mại và dịch vụ.",
+      "en": "Valued customer; esteemed guest (polite way to address customers).",
+      "es": "Estimado cliente."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "quý khách",
+      "en": "valued customer",
+      "es": "estimado cliente"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Xin chào quý khách.",
+      "en": "Greetings, valued customer.",
+      "es": "Saludos, estimado cliente."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y9z0a1b2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quý khách",
+      "language": "vi",
+      "sentence": "Chúng tôi cảm ơn ___ đã tin tưởng và sử dụng dịch vụ.",
+      "choices": [
+        "quý khách",
+        "quý cô",
+        "quý ông"
+      ],
+      "answer": "quý khách",
+      "translation": {
+        "en": "We thank valued customer for trusting and using our service."
+      },
+      "translatedAnswer": {
+        "en": "valued customer"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z0a1b2c3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quý khách",
+      "language": "vi",
+      "sentence": "___ vui lòng đợi trong giây lát, nhân viên sẽ hỗ trợ ngay.",
+      "answer": "Quý khách",
+      "translation": {
+        "en": "Valued customer, please wait a moment, a staff member will assist you shortly."
+      },
+      "translatedAnswer": {
+        "en": "Valued customer"
+      }
+    }
+  },
   "_id": "v9hYfxdfRSNLxzVwQVxx",
   "level": "B1",
   "topic": "Shopping & Services"

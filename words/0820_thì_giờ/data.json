@@ -36,6 +36,68 @@
   ],
   "updatedAt": "2026-03-03T07:43:34.741Z",
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ thời gian nói chung, thường nhấn mạnh vào khoảng thời gian rảnh hoặc thời gian dùng cho một việc cụ thể.",
+      "en": "Time; free time; available time (often implies personal/practical time).",
+      "es": "Tiempo; tiempo libre."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thì giờ",
+      "en": "time",
+      "es": "tiempo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Không có nhiều thì giờ.",
+      "en": "Not having much time.",
+      "es": "No tener mucho tiempo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q1r2s3t4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thì giờ",
+      "language": "vi",
+      "sentence": "Em thường sử dụng ___ rảnh để học tiếng Anh hoặc đọc sách.",
+      "choices": [
+        "thì giờ",
+        "thời tiết",
+        "thời gian"
+      ],
+      "answer": "thì giờ",
+      "translation": {
+        "en": "I often use my free time to study English or read books."
+      },
+      "translatedAnswer": {
+        "en": "time"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r2s3t4u5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thì giờ",
+      "language": "vi",
+      "sentence": "Anh không có nhiều ___ để chuẩn bị cho kỳ thi này.",
+      "answer": "thì giờ",
+      "translation": {
+        "en": "I don't have much time to prepare for this exam."
+      },
+      "translatedAnswer": {
+        "en": "time"
+      }
+    }
+  },
   "_id": "rgqRKASwkPI9trd3Rith",
   "level": "B1",
   "topic": "Time & Dates"

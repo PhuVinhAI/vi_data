@@ -36,6 +36,68 @@
     "dễ thương quá",
     "vui ghê"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Cách nói khẩu ngữ để diễn tả cảm giác sợ hãi, rùng mình hoặc kinh tởm trước một sự việc.",
+      "en": "So scary; really creepy; disgusting (colloquial expression).",
+      "es": "Qué miedo; muy asustado."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ghê á",
+      "en": "so scary",
+      "es": "qué miedo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Phim gì mà ghê á!",
+      "en": "What a scary movie!",
+      "es": "¡Qué película tan aterradora!"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k5l6m7n8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ghê á",
+      "language": "vi",
+      "sentence": "Em coi phim kinh dị tối qua mà ___ luôn!",
+      "choices": [
+        "ghê á",
+        "dễ thương quá",
+        "vui ghê"
+      ],
+      "answer": "ghê á",
+      "translation": {
+        "en": "I watched a horror movie last night and it was so scary!"
+      },
+      "translatedAnswer": {
+        "en": "so scary"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l6m7n8o9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ghê á",
+      "language": "vi",
+      "sentence": "Chị nghe kể về căn nhà hoang kia mà thấy ___.",
+      "answer": "ghê á",
+      "translation": {
+        "en": "I heard stories about that abandoned house and it's so scary."
+      },
+      "translatedAnswer": {
+        "en": "so scary"
+      }
+    }
+  },
   "_id": "Pvg8t7sYmlG7YZDLyZ6w",
   "level": "B2",
   "topic": "Slang & Colloquialisms"

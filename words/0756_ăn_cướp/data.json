@@ -36,6 +36,68 @@
   ],
   "updatedAt": "2026-03-03T07:37:20.233Z",
   "addedReason": "legitimate phrase",
+  "flashcard": {
+    "definitions": {
+      "vi": "Người thực hiện hành vi chiếm đoạt tài sản của người khác bằng vũ lực hoặc đe dọa.",
+      "en": "Robber; a person who steals using force or threat.",
+      "es": "Ladrón; asaltante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ăn cướp",
+      "en": "robber",
+      "es": "ladrón"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng để ăn cướp vào nhà.",
+      "en": "Don't let robbers enter the house.",
+      "es": "No dejes que los ladrones entren en la casa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c3d4e5f6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn cướp",
+      "language": "vi",
+      "sentence": "Anh nghe nói hôm qua ở ngân hàng có một tên ___.",
+      "choices": [
+        "ăn sáng",
+        "ăn cướp",
+        "ăn trưa"
+      ],
+      "answer": "ăn cướp",
+      "translation": {
+        "en": "I heard there was a robber at the bank yesterday."
+      },
+      "translatedAnswer": {
+        "en": "robber"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d4e5f6g7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ăn cướp",
+      "language": "vi",
+      "sentence": "Phải cẩn thận để tránh gặp ___ trên đường vắng.",
+      "answer": "ăn cướp",
+      "translation": {
+        "en": "Be careful to avoid robbers on deserted roads."
+      },
+      "translatedAnswer": {
+        "en": "robbers"
+      }
+    }
+  },
   "_id": "R6AFjTyBSSdG9ly0m8c1",
   "level": "B2",
   "topic": "Crime & Law"

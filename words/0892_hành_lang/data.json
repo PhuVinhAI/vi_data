@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "addedReason": "common vocabulary",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ lối đi dài nối liền các phòng hoặc các khu vực trong một tòa nhà.",
+      "en": "Hallway; corridor.",
+      "es": "Pasillo; corredor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hành lang",
+      "en": "hallway",
+      "es": "pasillo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đi dọc hành lang.",
+      "en": "Walking along the hallway.",
+      "es": "Caminar por el pasillo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g3h4i5j6-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hành lang",
+      "language": "vi",
+      "sentence": "Anh gặp em ở ___ trước lớp học sáng nay.",
+      "choices": [
+        "hành lang",
+        "phòng ngủ",
+        "cửa sổ"
+      ],
+      "answer": "hành lang",
+      "translation": {
+        "en": "I met you in the hallway in front of the classroom this morning."
+      },
+      "translatedAnswer": {
+        "en": "hallway"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h4i5j6k7-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hành lang",
+      "language": "vi",
+      "sentence": "Trẻ em thường chạy chơi trong ___ của trường vào giờ nghỉ.",
+      "answer": "hành lang",
+      "translation": {
+        "en": "Children often play in the hallway of the school during break time."
+      },
+      "translatedAnswer": {
+        "en": "hallway"
+      }
+    }
+  },
   "_id": "zCSienGuUTeaIVnUQQQ2",
   "level": "B1",
   "topic": "Places & Directions"

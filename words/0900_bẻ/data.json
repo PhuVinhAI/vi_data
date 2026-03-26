@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "createdAt": "2025-07-21T11:52:10.747Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động dùng tay uốn cong để làm gãy hoặc chia nhỏ một vật.",
+      "en": "To break something by bending; to snap.",
+      "es": "Romper doblando."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bẻ",
+      "en": "break",
+      "es": "romper"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bẻ đôi bút.",
+      "en": "Breaking the pen in half.",
+      "es": "Romper el bolígrafo por la mitad."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k7l8m9n0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bẻ",
+      "language": "vi",
+      "sentence": "Chị thường ___ bánh mì ra làm hai để chia sẻ với bạn.",
+      "choices": [
+        "bẻ",
+        "bơi",
+        "bán"
+      ],
+      "answer": "bẻ",
+      "translation": {
+        "en": "She often breaks the bread in half to share with her friend."
+      },
+      "translatedAnswer": {
+        "en": "break"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l8m9n0o1-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bẻ",
+      "language": "vi",
+      "sentence": "Em không nên ___ cành cây trong công viên đâu nhé.",
+      "answer": "bẻ",
+      "translation": {
+        "en": "You should not break branches in the park."
+      },
+      "translatedAnswer": {
+        "en": "break"
+      }
+    }
+  },
   "_id": "gNzX1ZsxKqkGzxL9RFEC",
   "level": "B1",
   "topic": "Actions & Behaviors"

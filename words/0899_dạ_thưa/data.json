@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "word": "dạ thưa",
+  "flashcard": {
+    "definitions": {
+      "vi": "Cụm từ lễ phép dùng ở đầu câu để chào hỏi hoặc thưa gửi với người lớn tuổi, người có địa vị cao hơn.",
+      "en": "Respectfully; polite opener used when addressing elders or superiors.",
+      "es": "Respetuosamente (fórmula de cortesía)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dạ thưa",
+      "en": "respectfully",
+      "es": "respetuosamente"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Dạ thưa bố.",
+      "en": "Respectfully (to) father.",
+      "es": "Respetuosamente (al) padre."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i5j6k7l8-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dạ thưa",
+      "language": "vi",
+      "sentence": "___ cô, em đã hoàn thành bài tập về nhà rồi ạ.",
+      "choices": [
+        "dạ thưa",
+        "xin lỗi",
+        "cảm ơn"
+      ],
+      "answer": "dạ thưa",
+      "translation": {
+        "en": "Respectfully teacher, I have finished my homework."
+      },
+      "translatedAnswer": {
+        "en": "respectfully"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j6k7l8m9-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dạ thưa",
+      "language": "vi",
+      "sentence": "___ bác, cháu xin phép vào nhà ạ.",
+      "answer": "dạ thưa",
+      "translation": {
+        "en": "Respectfully uncle, may I come into the house."
+      },
+      "translatedAnswer": {
+        "en": "respectfully"
+      }
+    }
+  },
   "_id": "nQosh92YHYeoyW3b0Fis",
   "level": "A2",
   "topic": "Greetings & Politeness"

@@ -36,6 +36,68 @@
   "definition": "enemy",
   "notes": "địch = enemy, the person or side fighting against you (often in war, sports, or competition).\n\nIt’s a noun. You’ll often hear kẻ địch (more formal, “the enemy”) or just địch in military or competitive contexts. It can be abstract too, like a force or group opposing you.\n\nStrong synonym: kẻ thù (more emotional, personal hatred).  \nOpposite idea: bạn (friend), đồng minh (ally).",
   "rank": 875,
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ đối thủ, người hoặc phe đối lập đang chống lại mình (thường dùng trong chiến tranh, thể thao hoặc tranh đấu).",
+      "en": "Enemy; opponent; the side fighting against you.",
+      "es": "Enemigo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "địch",
+      "en": "enemy",
+      "es": "enemigo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đối đầu với quân địch.",
+      "en": "Facing the enemy forces.",
+      "es": "Enfrentar a las fuerzas enemigas."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u1v2w3x4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "địch",
+      "language": "vi",
+      "sentence": "Anh phải luôn cảnh giác với ___ khi làm nhiệm vụ.",
+      "choices": [
+        "địch",
+        "bạn",
+        "nhà"
+      ],
+      "answer": "địch",
+      "translation": {
+        "en": "You must always be careful with the enemy when on duty."
+      },
+      "translatedAnswer": {
+        "en": "enemy"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v2w3x4y5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "địch",
+      "language": "vi",
+      "sentence": "Chúng ta cần hợp tác để chống lại ___ mạnh.",
+      "answer": "địch",
+      "translation": {
+        "en": "We need to cooperate to fight against a strong enemy."
+      },
+      "translatedAnswer": {
+        "en": "enemy"
+      }
+    }
+  },
   "_id": "kjM7NR9vWlUMMnyfwlOp",
   "level": "B2",
   "topic": "Abstract Concepts"

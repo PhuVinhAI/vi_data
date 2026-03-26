@@ -36,6 +36,68 @@
   "rank": 873,
   "notes": "Đồng chí means comrade — someone in the same political group, party, army unit, or shared cause. It’s strongly linked to socialist/communist contexts in Vietnam.\n\nIt’s a noun for a person. You can say một đồng chí, and it’s often used before a name or title.  \n\nIt sounds formal and ideological; in normal daily life, people usually say bạn instead. A close meaning in military contexts is chiến hữu (comrade-in-arms).",
   "definition": "comrade",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ người cùng chung lý tưởng, tổ chức chính trị hoặc đơn vị quân đội. Thường dùng trong các ngữ cảnh chính trị xã hội tại Việt Nam.",
+      "en": "Comrade; someone in the same political group or sharing a cause.",
+      "es": "Camarada."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đồng chí",
+      "en": "comrade",
+      "es": "camarada"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Chào đồng chí.",
+      "en": "Hello comrade.",
+      "es": "Hola camarada."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s9t0u1v2-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đồng chí",
+      "language": "vi",
+      "sentence": "Anh ấy luôn tin tưởng và hỗ trợ ___ của mình trong công việc.",
+      "choices": [
+        "đồng nghiệp",
+        "đồng chí",
+        "bạn bè"
+      ],
+      "answer": "đồng chí",
+      "translation": {
+        "en": "He always trusts and supports his comrade at work."
+      },
+      "translatedAnswer": {
+        "en": "comrade"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t0u1v2w3-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đồng chí",
+      "language": "vi",
+      "sentence": "Chị vừa gặp một ___ cũ ở buổi họp lớp cuối tuần trước.",
+      "answer": "đồng chí",
+      "translation": {
+        "en": "She just met an old comrade at the class reunion last weekend."
+      },
+      "translatedAnswer": {
+        "en": "comrade"
+      }
+    }
+  },
   "_id": "k7lm2YyhoI472fQaMc7H",
   "level": "B2",
   "topic": "Pronouns & Titles"

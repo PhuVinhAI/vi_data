@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "word": "giải cứu",
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động cứu thoát ai đó hoặc cái gì đó ra khỏi tình trạng nguy hiểm hoặc bế tắc.",
+      "en": "To rescue; to save (from danger or a trapped situation).",
+      "es": "Rescatar; salvar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "giải cứu",
+      "en": "rescue",
+      "es": "rescatar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Giải cứu động vật hoang dã.",
+      "en": "Rescuing wildlife.",
+      "es": "Rescatar la vida silvestre."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a1b2c3d4-b2c3-d4e5-f6g7-h8i9j0k1l2m3",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "giải cứu",
+      "language": "vi",
+      "sentence": "Cảnh sát đã đến kịp thời để ___ những người bị mắc kẹt.",
+      "choices": [
+        "giải cứu",
+        "giải thích",
+        "giải quyết"
+      ],
+      "answer": "giải cứu",
+      "translation": {
+        "en": "The police arrived in time to rescue the people who were trapped."
+      },
+      "translatedAnswer": {
+        "en": "rescue"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b2c3d4e5-c3d4-e5f6-g7h8-i9j0k1l2m3n4",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "giải cứu",
+      "language": "vi",
+      "sentence": "Họ đã làm việc suốt đêm để ___ nạn nhân trong cơn bão.",
+      "answer": "giải cứu",
+      "translation": {
+        "en": "They worked all night to rescue the victims during the storm."
+      },
+      "translatedAnswer": {
+        "en": "rescue"
+      }
+    }
+  },
   "_id": "ojfGPUcNiVQi8tYmRksI",
   "level": "B2",
   "topic": "Actions & Behaviors"

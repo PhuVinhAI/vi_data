@@ -36,6 +36,68 @@
   ],
   "addedReason": "deceive",
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Hành động cố ý làm cho người khác tin vào điều sai trái, thường mang sắc thái phản bội lòng tin.",
+      "en": "To deceive; to trick; to be dishonest with someone.",
+      "es": "Engañar; mentir."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lừa dối",
+      "en": "to deceive",
+      "es": "engañar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng bao giờ lừa dối bạn bè.",
+      "en": "Never deceive your friends.",
+      "es": "Nunca engañes a tus amigos."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q1r2s3t4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lừa dối",
+      "language": "vi",
+      "sentence": "Anh không muốn ___ em về chuyện này đâu.",
+      "choices": [
+        "lừa dối",
+        "tin tưởng",
+        "giận dữ"
+      ],
+      "answer": "lừa dối",
+      "translation": {
+        "en": "I don't want to deceive you about this matter."
+      },
+      "translatedAnswer": {
+        "en": "deceive"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r2s3t4u5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lừa dối",
+      "language": "vi",
+      "sentence": "Nếu ai đó ___ bạn, bạn sẽ cảm thấy thế nào?",
+      "answer": "lừa dối",
+      "translation": {
+        "en": "If someone deceives you, how will you feel?"
+      },
+      "translatedAnswer": {
+        "en": "deceives"
+      }
+    }
+  },
   "_id": "5eTfWOSIYfXjNKs8oagj",
   "level": "B2",
   "topic": "Actions & Behaviors"

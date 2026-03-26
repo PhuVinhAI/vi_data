@@ -36,6 +36,68 @@
     "This shop is dominant in service so it has many customers."
   ],
   "word": "bá đạo",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ lóng chỉ sự vô đối, cực kỳ giỏi hoặc áp đảo hoàn toàn người khác theo cách ấn tượng hoặc hài hước.",
+      "en": "Extremely dominant; so good it overwhelms others; overpowered (slang).",
+      "es": "Extremadamente dominante; invencible."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bá đạo",
+      "en": "dominant",
+      "es": "invencible"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Kỹ năng chơi game rất bá đạo.",
+      "en": "His gaming skills are extremely dominant.",
+      "es": "Sus habilidades de juego son invencibles."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u5v6w7x8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bá đạo",
+      "language": "vi",
+      "sentence": "Đội bóng này thật sự quá ___ ở giải đấu năm nay.",
+      "choices": [
+        "bá đạo",
+        "xuất sắc",
+        "thành công"
+      ],
+      "answer": "bá đạo",
+      "translation": {
+        "en": "This football team is really dominant in the tournament this year."
+      },
+      "translatedAnswer": {
+        "en": "dominant"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v6w7x8y9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bá đạo",
+      "language": "vi",
+      "sentence": "Anh trai em chơi game rất ___, ai cũng phải nể.",
+      "answer": "bá đạo",
+      "translation": {
+        "en": "My older brother is dominant at gaming, everyone respects him."
+      },
+      "translatedAnswer": {
+        "en": "dominant"
+      }
+    }
+  },
   "_id": "wKsPVjRnvkMSDJtXLZH5",
   "level": "C1",
   "topic": "Slang & Colloquialisms"

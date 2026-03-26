@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ những người phụ nữ đẹp, có phép m thuật, sống ở trên trời trong các câu chuyện thần thoại, cổ tích.",
+      "en": "Fairy; celestial maiden (in Vietnamese folklore).",
+      "es": "Hada; doncella celestial."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "tiên nữ",
+      "en": "fairy",
+      "es": "hada"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Một nàng tiên nữ xinh đẹp.",
+      "en": "A beautiful fairy.",
+      "es": "Una hada hermosa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "g7h8i9j0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tiên nữ",
+      "language": "vi",
+      "sentence": "Bé Lan mặc váy trắng hóa trang thành ___ trong lễ hội.",
+      "choices": [
+        "tiên nữ",
+        "công chúa",
+        "nữ thần"
+      ],
+      "answer": "tiên nữ",
+      "translation": {
+        "en": "Little Lan wore a white dress to dress up as a fairy at the festival."
+      },
+      "translatedAnswer": {
+        "en": "fairy"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "h8i9j0k1-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "tiên nữ",
+      "language": "vi",
+      "sentence": "Ngày nhỏ, em thường nghe bà kể chuyện về ___ trên trời.",
+      "answer": "tiên nữ",
+      "translation": {
+        "en": "When I was little, I often heard my grandmother tell stories about a fairy in the sky."
+      },
+      "translatedAnswer": {
+        "en": "fairy"
+      }
+    }
+  },
   "_id": "N0J1hWxXVQIr71thwghb",
   "level": "B1",
   "topic": "Fantasy & Fiction"

@@ -36,6 +36,68 @@
   "notes": "kì cục means weird, strange, odd in a slightly negative or judgmental way. It’s used when something feels unusual in a confusing or uncomfortable way.\n\nIt’s an adjective, so it describes people, actions, behavior, ideas, sounds, etc. You can put it after the noun with là or after verbs like thấy, trông, nghe.\n\nClose synonyms: lạ (strange, more neutral), kỳ quặc (quirkier, stronger). Opposite: bình thường (normal).",
   "addedReason": "weird/strange",
   "definition": "weird",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ chỉ sự khác lạ, không bình thường theo cách khó hiểu hoặc gây khó chịu.",
+      "en": "Weird; strange; odd; unusual in a confusing way.",
+      "es": "Extraño; raro; bizarro."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "kì cục",
+      "en": "weird",
+      "es": "extraño"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Hành động đó thật là kì cục.",
+      "en": "That action is really weird.",
+      "es": "Esa acción es muy extraña."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u5v6w7x8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kì cục",
+      "language": "vi",
+      "sentence": "Anh thấy cách ăn mặc của cậu ấy hôm nay thật ___.",
+      "choices": [
+        "kì cục",
+        "vui vẻ",
+        "bình thường"
+      ],
+      "answer": "kì cục",
+      "translation": {
+        "en": "I think his way of dressing today is really weird."
+      },
+      "translatedAnswer": {
+        "en": "weird"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v6w7x8y9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kì cục",
+      "language": "vi",
+      "sentence": "Mọi người đều cười khi chị kể một câu chuyện ___.",
+      "answer": "kì cục",
+      "translation": {
+        "en": "Everyone laughed when she told a weird story."
+      },
+      "translatedAnswer": {
+        "en": "weird"
+      }
+    }
+  },
   "_id": "K4yJhG9IZQQLGnup52kv",
   "level": "B1",
   "topic": "Personality & Traits"

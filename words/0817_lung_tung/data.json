@@ -36,6 +36,68 @@
     "Nếu bàn làm việc lung tung, anh sẽ khó tìm đồ cần thiết.",
     "Chị cảm thấy khó chịu khi mọi thứ trong nhà bị lung tung."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ miêu tả trạng thái bừa bãi, không ngăn nắp, không có trật tự hoặc phân tán ở nhiều nơi.",
+      "en": "Messy; all over the place; disorganized; cluttered.",
+      "es": "Desordenado; por todas partes."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lung tung",
+      "en": "messy",
+      "es": "desordenado"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Để đồ đạc lung tung.",
+      "en": "Leaving things all over the place.",
+      "es": "Dejar las cosas por todas partes."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o5p6q7r8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lung tung",
+      "language": "vi",
+      "sentence": "Nếu bàn làm việc ___, anh sẽ khó tìm đồ cần thiết.",
+      "choices": [
+        "lung tung",
+        "gọn gàng",
+        "ngăn nắp"
+      ],
+      "answer": "lung tung",
+      "translation": {
+        "en": "If the desk is messy, I will have trouble finding what I need."
+      },
+      "translatedAnswer": {
+        "en": "messy"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p6q7r8s9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lung tung",
+      "language": "vi",
+      "sentence": "Phòng của em hôm nay rất ___ vì chưa dọn dẹp.",
+      "answer": "lung tung",
+      "translation": {
+        "en": "My room is very messy today because I haven't cleaned up."
+      },
+      "translatedAnswer": {
+        "en": "messy"
+      }
+    }
+  },
   "_id": "WfDg10v64bYPgnF9KxfB",
   "level": "B1",
   "topic": "Adjectives & Descriptions"

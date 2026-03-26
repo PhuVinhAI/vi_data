@@ -36,6 +36,68 @@
     "southern_2.mp3",
     "southern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Động từ chỉ hành động dùng sức nặng hoặc áp lực để giữ chặt, ấn xuống một vật hoặc người khác.",
+      "en": "To press down; to squash; to hold back with weight.",
+      "es": "Presionar hacia abajo; aplastar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đè",
+      "en": "press down",
+      "es": "presionar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đừng đè lên tay tôi.",
+      "en": "Don't press down on my hand.",
+      "es": "No presiones sobre mi mano."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y9z0a1b2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đè",
+      "language": "vi",
+      "sentence": "Anh đừng ___ mạnh lên chiếc bánh vì nó sẽ bị vỡ.",
+      "choices": [
+        "đẩy",
+        "đè",
+        "đeo"
+      ],
+      "answer": "đè",
+      "translation": {
+        "en": "Don't press down hard on the cake because it will break."
+      },
+      "translatedAnswer": {
+        "en": "press down"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z0a1b2c3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đè",
+      "language": "vi",
+      "sentence": "Khi em ___ cuốn sách xuống bàn, nó không bị gió thổi bay nữa.",
+      "answer": "đè",
+      "translation": {
+        "en": "When I press down the book on the table, it doesn't get blown away anymore."
+      },
+      "translatedAnswer": {
+        "en": "press down"
+      }
+    }
+  },
   "_id": "qtZpnEQaRCwThBj6DzKz",
   "level": "B1",
   "topic": "Actions & Behaviors"

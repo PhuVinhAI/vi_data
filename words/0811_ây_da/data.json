@@ -36,6 +36,68 @@
   ],
   "rank": 811,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Thán từ dùng để biểu lộ cảm xúc đau đớn đột ngột hoặc ngạc nhiên trước một tình huống bất ngờ.",
+      "en": "Ouch!; Oh! (used to express sudden pain or surprise).",
+      "es": "¡Ay!; ¡Ouch! (expresión de dolor o sorpresa)."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ây da",
+      "en": "ouch",
+      "es": "ay"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Ây da, đau quá!",
+      "en": "Ouch, it hurts so much!",
+      "es": "¡Ay, me duele mucho!"
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k1l2m3n4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ây da",
+      "language": "vi",
+      "sentence": "___, em vừa bị đâm vào bàn khi đi qua.",
+      "choices": [
+        "ây da",
+        "ôi trời",
+        "trời ơi"
+      ],
+      "answer": "ây da",
+      "translation": {
+        "en": "Ouch, I just bumped into the table while walking by."
+      },
+      "translatedAnswer": {
+        "en": "Ouch"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l2m3n4o5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ây da",
+      "language": "vi",
+      "sentence": "Anh nghe thấy tiếng ___ khi chị ấy làm rơi tay xuống đất.",
+      "answer": "ây da",
+      "translation": {
+        "en": "He heard an 'ouch' when she dropped her hand to the ground."
+      },
+      "translatedAnswer": {
+        "en": "ouch"
+      }
+    }
+  },
   "_id": "Lf9k4YH27rzIjlGnlv2A",
   "level": "A2",
   "topic": "Conversational Phrases"

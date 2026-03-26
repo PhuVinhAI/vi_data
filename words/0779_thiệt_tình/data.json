@@ -36,6 +36,68 @@
   "word": "thiệt tình",
   "originalCount": 14,
   "createdAt": "2025-07-21T11:41:38.296Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Thành ngữ thể hiện sự chân thành, thật lòng; hoặc dùng để biểu lộ sự than phiền, ngán ngẩm trước một tình huống.",
+      "en": "Honestly; seriously; for real (shows sincerity or mild frustration).",
+      "es": "Sinceramente; de verdad; en serio."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "thiệt tình",
+      "en": "honestly",
+      "es": "sinceramente"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thiệt tình, chuyện này quá khó.",
+      "en": "Honestly, this matter is too difficult.",
+      "es": "Sinceramente, este asunto es demasiado difícil."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o9p0q1r2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thiệt tình",
+      "language": "vi",
+      "sentence": "___, anh không biết chuyện gì đã xảy ra tối qua.",
+      "choices": [
+        "thiệt tình",
+        "thật ra",
+        "thường xuyên"
+      ],
+      "answer": "thiệt tình",
+      "translation": {
+        "en": "Honestly, I don't know what happened last night."
+      },
+      "translatedAnswer": {
+        "en": "Honestly"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p0q1r2s3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "thiệt tình",
+      "language": "vi",
+      "sentence": "Em ___ không hiểu tại sao mọi người lại giận như vậy.",
+      "answer": "thiệt tình",
+      "translation": {
+        "en": "Honestly, I don't understand why everyone is so angry."
+      },
+      "translatedAnswer": {
+        "en": "honestly"
+      }
+    }
+  },
   "_id": "LU9swTTrtBLgjJR8kCpL",
   "level": "B1",
   "topic": "Conversational Phrases"

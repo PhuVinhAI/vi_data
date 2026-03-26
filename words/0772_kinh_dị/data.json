@@ -36,6 +36,68 @@
     "Chị ấy kể cho em nghe một câu chuyện kinh dị rất rùng rợn."
   ],
   "originalCount": 14,
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ miêu tả những thứ gây sợ hãi, rùng rợn, thường dùng cho thể loại phim hoặc truyện.",
+      "en": "Horror; horrifying; creepy (describes movies, stories, or scenes).",
+      "es": "Terrorífico; de terror."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "kinh dị",
+      "en": "horror",
+      "es": "terrorífico"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Phim kinh dị này rất đáng sợ.",
+      "en": "This horror movie is very scary.",
+      "es": "Esta película de terror là rất đáng sợ."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k5l6m7n8-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kinh dị",
+      "language": "vi",
+      "sentence": "Em không dám xem phim ___ một mình vào ban đêm.",
+      "choices": [
+        "kinh dị",
+        "lãng mạn",
+        "hài hước"
+      ],
+      "answer": "kinh dị",
+      "translation": {
+        "en": "I don't dare to watch horror movies alone at night."
+      },
+      "translatedAnswer": {
+        "en": "horror"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l6m7n8o9-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "kinh dị",
+      "language": "vi",
+      "sentence": "Bạn anh rủ đi xem một bộ phim ___ mới ra mắt.",
+      "answer": "kinh dị",
+      "translation": {
+        "en": "My friend invited me to watch a new horror movie."
+      },
+      "translatedAnswer": {
+        "en": "horror"
+      }
+    }
+  },
   "_id": "7n7Khpg3xTNEl92rD29o",
   "level": "B1",
   "topic": "Media & Entertainment"

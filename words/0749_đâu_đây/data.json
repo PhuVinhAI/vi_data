@@ -36,6 +36,68 @@
     "Chị để điện thoại đâu đây mà giờ tìm không thấy."
   ],
   "updatedAt": "2026-03-03T07:36:43.947Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Trạng từ chỉ một địa điểm ở gần nhưng không xác định rõ vị trí chính xác.",
+      "en": "Around here; somewhere nearby; somewhere in this area.",
+      "es": "Por aquí; en algún lugar cercano."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đâu đây",
+      "en": "around here",
+      "es": "por aquí"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Chìa khóa ở đâu đây thôi.",
+      "en": "The keys are just around here.",
+      "es": "Las llaves están por aquí no más."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w7x8y9z0-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đâu đây",
+      "language": "vi",
+      "sentence": "Có quán cà phê nào ngon ___ không anh?",
+      "choices": [
+        "ở gần",
+        "đâu đây",
+        "gần đây"
+      ],
+      "answer": "đâu đây",
+      "translation": {
+        "en": "Is there any good coffee shop around here?"
+      },
+      "translatedAnswer": {
+        "en": "around here"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x8y9z0a1-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đâu đây",
+      "language": "vi",
+      "sentence": "Em nghĩ chìa khóa của anh nằm ___ trong phòng khách.",
+      "answer": "đâu đây",
+      "translation": {
+        "en": "I think your key is around here in the living room."
+      },
+      "translatedAnswer": {
+        "en": "around here"
+      }
+    }
+  },
   "_id": "xwa24156m90Wo9tFJzqW",
   "level": "B1",
   "topic": "Places & Directions"

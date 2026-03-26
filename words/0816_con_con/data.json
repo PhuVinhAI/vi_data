@@ -36,6 +36,68 @@
   ],
   "language": "vi",
   "notes_md": "**con con** = *tiny, small, or insignificant*. It’s an adjective formed by reduplication.\n\nIt’s often used with objects or tasks to describe them as small and sometimes cute, or to mean that something is a minor detail.\n\nExample: *Một việc con con* (a small/insignificant task), *món quà con con* (a tiny gift).  \n\n**Note:** Don't confuse it with **con non** (baby animal).",
+  "flashcard": {
+    "definitions": {
+      "vi": "Tính từ lặp chỉ những sự vật, hiện tượng nhỏ bé, xinh xắn hoặc không quan trọng, không đáng kể.",
+      "en": "Tiny; small; insignificant; minor (often implies cuteness or triviality).",
+      "es": "Pequeñito; minúsculo; insignificante."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "con con",
+      "en": "tiny",
+      "es": "pequeñito"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Một món quà con con.",
+      "en": "A tiny gift.",
+      "es": "Un regalo pequeñito."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m3n4o5p6-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "con con",
+      "language": "vi",
+      "sentence": "Đừng lo, đây chỉ là một việc ___, em sẽ giúp anh.",
+      "choices": [
+        "khổng lồ",
+        "con con",
+        "người lớn"
+      ],
+      "answer": "con con",
+      "translation": {
+        "en": "Don't worry, this is just a small task, I will help you."
+      },
+      "translatedAnswer": {
+        "en": "small"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n4o5p6q7-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "con con",
+      "language": "vi",
+      "sentence": "Chị ấy thích những món đồ trang trí ___ trên bàn.",
+      "answer": "con con",
+      "translation": {
+        "en": "She likes the tiny decorations on the desk."
+      },
+      "translatedAnswer": {
+        "en": "tiny"
+      }
+    }
+  },
   "_id": "mrtON4zwqngTcTztZwad",
   "level": "B1",
   "topic": "Adjectives & Descriptions"

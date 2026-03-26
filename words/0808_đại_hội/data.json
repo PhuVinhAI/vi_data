@@ -36,6 +36,68 @@
     "northern_2.mp3",
     "northern_3.mp3"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ cuộc họp lớn, trang trọng của một tổ chức, đoàn thể để quyết định những vấn đề quan trọng.",
+      "en": "Congress; convention; a large formal meeting of an organization.",
+      "es": "Congreso; convención."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đại hội",
+      "en": "congress",
+      "es": "congreso"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Đại hội cổ đông thường niên.",
+      "en": "Annual general meeting of shareholders.",
+      "es": "Junta general anual de accionistas."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i9j0k1l2-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đại hội",
+      "language": "vi",
+      "sentence": "Năm nay, anh sẽ tham dự ___ của công ty ở Hà Nội.",
+      "choices": [
+        "đại hội",
+        "hội nghị",
+        "cuộc thi"
+      ],
+      "answer": "đại hội",
+      "translation": {
+        "en": "This year, I will attend the company congress in Hanoi."
+      },
+      "translatedAnswer": {
+        "en": "congress"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j0k1l2m3-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đại hội",
+      "language": "vi",
+      "sentence": "Đại hội lần này có rất nhiều ___ mời quan trọng đến từ các nước khác.",
+      "answer": "khách",
+      "translation": {
+        "en": "This congress has many important guests coming from other countries."
+      },
+      "translatedAnswer": {
+        "en": "guests"
+      }
+    }
+  },
   "_id": "QBWGLCNlZEZBAbZGgftO",
   "level": "B2",
   "topic": "Society & Events"

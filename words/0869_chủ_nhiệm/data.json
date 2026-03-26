@@ -36,6 +36,68 @@
   "updatedAt": "2026-03-03T07:48:56.150Z",
   "addedReason": "common title",
   "source": "frequency_analysis",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ giáo viên chịu trách nhiệm quản lý, điều hành các hoạt động của một lớp học cụ thể.",
+      "en": "Homeroom teacher; teacher in charge of a class.",
+      "es": "Profesor titular; tutor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "chủ nhiệm",
+      "en": "homeroom teacher",
+      "es": "tutor"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Cô chủ nhiệm lớp em.",
+      "en": "My homeroom teacher.",
+      "es": "Mi tutora de clase."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q7r8s9t0-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chủ nhiệm",
+      "language": "vi",
+      "sentence": "___ lớp em rất quan tâm đến học sinh của mình.",
+      "choices": [
+        "giáo viên",
+        "hiệu trưởng",
+        "chủ nhiệm"
+      ],
+      "answer": "chủ nhiệm",
+      "translation": {
+        "en": "My homeroom teacher cares a lot about their students."
+      },
+      "translatedAnswer": {
+        "en": "homeroom teacher"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r8s9t0u1-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "chủ nhiệm",
+      "language": "vi",
+      "sentence": "Sáng nay, ___ thông báo về cuộc họp phụ huynh cuối tuần.",
+      "answer": "chủ nhiệm",
+      "translation": {
+        "en": "This morning, the homeroom teacher announced the parent meeting for the weekend."
+      },
+      "translatedAnswer": {
+        "en": "homeroom teacher"
+      }
+    }
+  },
   "_id": "CyyfdABLiOB71ad2tvBu",
   "level": "B2",
   "topic": "Work & Education"

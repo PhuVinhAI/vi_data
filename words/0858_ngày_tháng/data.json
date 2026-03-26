@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "notes_md": "**ngày tháng** means *dates* (calendar dates) or *time passing over months and years*. It’s about when something happens, not the day of the week.\n\nIt’s a noun phrase made of **ngày** (day) + **tháng** (month), often used together to talk about a specific date or time period.  \nYou usually count them separately: *ngày 5*, *tháng 3*, but together they refer to the full date.  \n\n\nIt can also imply the passing of time in a more emotional sense, like “the days and months going by.”",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ thời gian cụ thể trên lịch (ngày và tháng), hoặc dùng để chỉ thời gian trôi qua nói chung.",
+      "en": "Dates; calendar dates; the passage of time (days and months).",
+      "es": "Fechas; tiempo que pasa."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ngày tháng",
+      "en": "dates",
+      "es": "fechas"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Ghi rõ ngày tháng.",
+      "en": "Writing the dates clearly.",
+      "es": "Escribir las fechas claramente."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "i9j0k1l2-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ngày tháng",
+      "language": "vi",
+      "sentence": "Anh có thể cho em biết ___ của cuộc họp không?",
+      "choices": [
+        "ngày tháng",
+        "giờ phút",
+        "năm sinh"
+      ],
+      "answer": "ngày tháng",
+      "translation": {
+        "en": "Can you tell me the dates of the meeting?"
+      },
+      "translatedAnswer": {
+        "en": "dates"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "j0k1l2m3-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ngày tháng",
+      "language": "vi",
+      "sentence": "Em cần ghi rõ ___ trên tài liệu này để nộp cho sếp.",
+      "answer": "ngày tháng",
+      "translation": {
+        "en": "I need to write the dates clearly on this document to submit to my boss."
+      },
+      "translatedAnswer": {
+        "en": "dates"
+      }
+    }
+  },
   "_id": "K7UbTNazA7yYQ31yLwHR",
   "level": "A2",
   "topic": "Time & Dates"

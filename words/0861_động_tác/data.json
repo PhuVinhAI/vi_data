@@ -36,6 +36,68 @@
   "rank": 861,
   "definition": "movement",
   "notes": "Động tác means a physical movement or action of the body, especially in exercise, sports, or dance. Think “a specific move” rather than movement in general.\n\nIt’s a countable noun: một động tác, hai động tác. Common pairings: động tác thể dục, động tác yoga, động tác võ thuật, động tác tay/chân.\n\nIt often refers to a precise, technical move that needs to be done correctly. Compared to chuyển động (more general “motion”), động tác feels more intentional and controlled.\n\nIt can also mean a small physical gesture (like a hand movement), not just big body movements.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ một cử chỉ hoặc hành động cụ thể của cơ thể, thường thấy trong tập luyện, thể thao hoặc nhảy múa.",
+      "en": "Movement; gesture; a specific physical action of the body.",
+      "es": "Movimiento; gesto físico."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "động tác",
+      "en": "movement",
+      "es": "movimiento"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Thực hiện động tác.",
+      "en": "Performing a movement.",
+      "es": "Realizar un movimiento."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k1l2m3n4-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "động tác",
+      "language": "vi",
+      "sentence": "Huấn luyện viên hướng dẫn em từng ___ trong bài tập thể dục.",
+      "choices": [
+        "động tác",
+        "bài hát",
+        "bài học"
+      ],
+      "answer": "động tác",
+      "translation": {
+        "en": "The coach guides me through each movement in the exercise."
+      },
+      "translatedAnswer": {
+        "en": "movement"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l2m3n4o5-a1b2-c3d4-e5f6-g7h8i9j0k1l2",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "động tác",
+      "language": "vi",
+      "sentence": "Anh cần học đúng ___ để tránh bị chấn thương khi tập gym.",
+      "answer": "động tác",
+      "translation": {
+        "en": "You need to learn the correct movement to avoid injury when working out."
+      },
+      "translatedAnswer": {
+        "en": "movement"
+      }
+    }
+  },
   "_id": "hM8BQeW2joVGOKw8ArQK",
   "level": "B1",
   "topic": "Body & Health"

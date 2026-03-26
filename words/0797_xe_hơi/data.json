@@ -36,6 +36,68 @@
     "xe máy",
     "xe hơi"
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ (thường dùng ở miền Nam) chỉ phương tiện giao thông đường bộ có 4 bánh, chạy bằng động cơ; đồng nghĩa với 'ô tô'.",
+      "en": "Car; automobile; a 4-wheeled motor vehicle.",
+      "es": "Coche; automóvil."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "xe hơi",
+      "en": "car",
+      "es": "coche"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi mua một chiếc xe hơi mới.",
+      "en": "I bought a new car.",
+      "es": "Compré un coche nuevo."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a1b2c3d4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xe hơi",
+      "language": "vi",
+      "sentence": "Gia đình chị mua một chiếc ___ mới vào tuần trước.",
+      "choices": [
+        "xe đạp",
+        "xe máy",
+        "xe hơi"
+      ],
+      "answer": "xe hơi",
+      "translation": {
+        "en": "My family bought a new car last week."
+      },
+      "translatedAnswer": {
+        "en": "car"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b2c3d4e5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "xe hơi",
+      "language": "vi",
+      "sentence": "Anh có thể lái ___ đến đón em sau giờ làm không?",
+      "answer": "xe hơi",
+      "translation": {
+        "en": "Can you drive the car to pick me up after work?"
+      },
+      "translatedAnswer": {
+        "en": "car"
+      }
+    }
+  },
   "_id": "nSwkQ8XIaL5Wv3D7JIwi",
   "level": "A2",
   "topic": "Travel & Transport"

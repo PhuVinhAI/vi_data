@@ -36,6 +36,68 @@
   ],
   "originalFrequency": 0.0124,
   "word": "địa ngục",
+  "flashcard": {
+    "definitions": {
+      "vi": "Danh từ chỉ nơi trừng phạt sau khi chết trong tôn giáo; hoặc dùng để chỉ một hoàn cảnh vô cùng đau khổ, tồi tệ.",
+      "en": "Hell; the place of punishment after death; a horrible/painful situation.",
+      "es": "Infierno; un lugar de castigo o una situación horrible."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "địa ngục",
+      "en": "hell",
+      "es": "infierno"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Sống trong địa ngục trần gian.",
+      "en": "Living in a hell on earth.",
+      "es": "Viviendo en un infierno en la tierra."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q1r2s3t4-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "địa ngục",
+      "language": "vi",
+      "sentence": "Nhiều người tin rằng ___ là nơi trừng phạt sau khi chết.",
+      "choices": [
+        "thiên đường",
+        "địa ngục",
+        "thế giới"
+      ],
+      "answer": "địa ngục",
+      "translation": {
+        "en": "Many people believe that hell is the place of punishment after death."
+      },
+      "translatedAnswer": {
+        "en": "hell"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r2s3t4u5-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "địa ngục",
+      "language": "vi",
+      "sentence": "Anh cảm thấy như mình đang sống trong ___ khi gặp quá nhiều khó khăn.",
+      "answer": "địa ngục",
+      "translation": {
+        "en": "I feel like I am living in hell when facing too many difficulties."
+      },
+      "translatedAnswer": {
+        "en": "hell"
+      }
+    }
+  },
   "_id": "6JEJdoRchYxqIXBi6nom",
   "level": "B2",
   "topic": "Religion & Beliefs"
