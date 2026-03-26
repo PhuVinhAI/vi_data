@@ -1,21 +1,19 @@
 {
   "flashcard": {
+    "definitions": {
+      "vi": "Sắc thái hoặc tông màu chủ đạo của một vật hoặc không gian.",
+      "en": "The dominant shade or color tone of an object or space.",
+      "es": "La sombra dominante o el tono de color de un objeto o espacio."
+    },
     "example": {
-      "es": "Pertenezco a la familia Nguyen.",
-      "en": "I belong to the Nguyen clan.",
-      "vi": "Tôi thuộc tông họ Nguyễn."
+      "vi": "Phòng khách dùng tông màu sáng.",
+      "en": "The living room uses a light color tone.",
+      "es": "La sala de estar usa un tono de color claro."
     },
     "translations": {
-      "es": "clan",
-      "en": "clan",
-      "vi": "tông"
-    },
-    "createdAt": "2025-01-28T10:33:45.694Z",
-    "audioUrl": "flashcard.mp3",
-    "definitions": {
-      "vi": "Một dòng họ hoặc tộc, thường chỉ một nhóm gia đình.",
-      "en": "A clan or lineage, often referring to a family group.",
-      "es": "Un clan o linaje, a menudo refiriéndose a un grupo familiar."
+      "vi": "tông (màu)",
+      "en": "color tone / shade",
+      "es": "tono"
     }
   },
   "exampleSentencesAudioUrls": [
@@ -36,29 +34,24 @@
     "Anh muốn sơn phòng ngủ với tông xanh để cảm thấy thư giãn."
   ],
   "multiChoiceQuiz": {
-    "audioUrl": "multi_choice.mp3",
-    "id": "780f15c3-47ac-4927-b006-f1629428514f",
-    "type": "multiChoiceQuiz",
     "content": {
       "answer": "tông",
-      "sentence": "Gia đình tôi có ___ riêng.",
+      "sentence": "Căn phòng có ___ màu xanh.",
       "translatedAnswer": {
-        "en": "lineage"
+        "en": "tone"
       },
       "language": "vi",
       "word": "tông",
       "hint": "t__g",
       "translation": {
-        "en": "My family has its own lineage."
+        "en": "The room has a blue color tone."
       },
       "choices": [
         "tông",
-        "họ",
-        "ngành"
+        "hình",
+        "kiểu"
       ]
-    },
-    "createdAt": "2025-03-12T12:48:22.031Z",
-    "updatedAt": "2025-03-12T12:48:22.031Z"
+    }
   },
   "createdAt": "2025-01-27T21:23:43.157Z",
   "word": "tông",
@@ -76,23 +69,18 @@
   ],
   "updatedAt": "2026-03-03T11:38:04.914Z",
   "fillBlankQuiz": {
-    "createdAt": "2025-03-12T12:48:22.031Z",
-    "updatedAt": "2025-03-12T12:48:22.031Z",
-    "audioUrl": "fill_blank.mp3",
-    "id": "c259c4e2-c7ad-4b08-8079-ceae52884907",
-    "type": "fillBlankQuiz",
     "content": {
       "word": "tông",
       "translatedAnswer": {
-        "en": "lineage"
+        "en": "tone"
       },
       "language": "vi",
       "translation": {
-        "en": "My family has its own lineage."
+        "en": "Choose matching color tones."
       },
       "choices": [],
       "answer": "tông",
-      "sentence": "Gia đình tôi có ___ riêng."
+      "sentence": "Hãy chọn các ___ màu giống nhau."
     }
   },
   "_id": "0FbE3jBXXqUV4UOKUUom",

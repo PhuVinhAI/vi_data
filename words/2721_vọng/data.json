@@ -19,9 +19,9 @@
     "createdAt": "2025-01-28T13:39:48.626Z",
     "audioUrl": "flashcard.mp3",
     "definitions": {
-      "en": "to long for; to hope for something that may not happen",
-      "es": "anhelar; esperar algo que puede no suceder",
-      "vi": "mong mỏi; hy vọng điều gì đó có thể không xảy ra"
+      "vi": "Hy vọng, mong mỏi hoặc âm thanh phản hồi (tiếng vọng).",
+      "en": "To hope, expect, or a sound that reflects back (echo).",
+      "es": "Esperar, tener esperanza o un sonido que se refleja (eco)."
     }
   },
   "choices": [
@@ -54,16 +54,16 @@
     "type": "fillBlankQuiz",
     "content": {
       "translation": {
-        "en": "I heard an echo from afar."
+        "en": "They put a lot of hope in you."
       },
       "translatedAnswer": {
-        "en": "echo"
+        "en": "hope"
       },
       "choices": [],
       "language": "vi",
       "answer": "vọng",
       "word": "vọng",
-      "sentence": "Tôi nghe thấy tiếng ___ từ xa."
+      "sentence": "Họ đặt nhiều kỳ ___ vào bạn."
     },
     "updatedAt": "2025-03-12T17:22:14.421Z"
   },
@@ -74,21 +74,21 @@
     "audioUrl": "multi_choice.mp3",
     "updatedAt": "2025-03-12T17:22:14.421Z",
     "content": {
-      "sentence": "Tôi nghe thấy tiếng ___ từ xa.",
+      "sentence": "Đừng làm họ thất ___.",
       "word": "vọng",
       "choices": [
         "vọng",
-        "tiếng",
-        "âm"
+        "bại",
+        "lạc"
       ],
       "language": "vi",
       "answer": "vọng",
-      "hint": "v____",
+      "hint": "v___",
       "translation": {
-        "en": "I heard an echo from afar."
+        "en": "Don't disappoint them."
       },
       "translatedAnswer": {
-        "en": "echo"
+        "en": "disappointed"
       }
     },
     "type": "multiChoiceQuiz"

@@ -24,20 +24,20 @@
     "createdAt": "2025-03-12T13:20:15.406Z",
     "content": {
       "word": "dương",
-      "sentence": "Mặt trời ___ lên từ phía đông.",
+      "sentence": "Kết quả xét nghiệm là ___ tính.",
       "language": "vi",
       "choices": [
-        "trăng",
-        "sao",
-        "dương"
+        "dương",
+        "âm",
+        "thật"
       ],
       "hint": "d____g",
       "answer": "dương",
       "translation": {
-        "en": "The sun rises from the east."
+        "en": "The test result is positive."
       },
       "translatedAnswer": {
-        "en": "sun"
+        "en": "positive"
       }
     },
     "type": "multiChoiceQuiz",
@@ -53,22 +53,20 @@
   "definition": "yang",
   "flashcard": {
     "definitions": {
-      "es": "Refiriéndose a la dirección positiva o hacia arriba, a menudo asociada con la luz o el brillo.",
-      "vi": "Chỉ hướng tích cực hoặc hướng lên, thường liên quan đến ánh sáng hoặc sự sáng sủa.",
-      "en": "Referring to the positive or upward direction, often associated with light or brightness."
+      "vi": "Trong thuyết âm dương chỉ phần sáng, tích cực, hoặc chỉ số dương (+) trong toán học/y tế.",
+      "en": "In yin-yang theory refers to the active, bright side, or positive (+) in math/medical.",
+      "es": "En la teoría del yin-yang se refiere al lado activo y brillante, o positivo (+) en matemáticas / medicina."
     },
     "example": {
-      "vi": "Ánh sáng mặt trời chiếu dương lên mặt đất.",
-      "es": "La luz del sol brilla sobre el suelo.",
-      "en": "The sunlight shines down on the ground."
+      "vi": "Kết quả xét nghiệm là dương tính.",
+      "en": "The test result is positive.",
+      "es": "El resultado de la prueba es positivo."
     },
     "translations": {
-      "es": "yang",
-      "vi": "dương",
-      "en": "yang"
-    },
-    "createdAt": "2025-01-28T11:00:39.542Z",
-    "audioUrl": "flashcard.mp3"
+      "vi": "dương (tích cực/dương tính)",
+      "en": "yang / positive",
+      "es": "positivo"
+    }
   },
   "exampleSentencesTranslated": [
     "In Eastern philosophy, yang symbolizes the sun and light.",
@@ -83,13 +81,13 @@
     "content": {
       "choices": [],
       "word": "dương",
-      "sentence": "Mặt trời ___ lên từ phía đông.",
+      "sentence": "Con số này là số ___.",
       "language": "vi",
       "translation": {
-        "en": "The sun rises from the east."
+        "en": "This number is a positive number."
       },
       "translatedAnswer": {
-        "en": "sun"
+        "en": "positive"
       },
       "answer": "dương"
     },
