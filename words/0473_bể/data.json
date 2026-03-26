@@ -36,6 +36,68 @@
     "My goldfish is swimming in the small tank in the corner of the house.",
     "I am cleaning the tank before changing the water for the fish."
   ],
+  "flashcard": {
+    "definitions": {
+      "vi": "Đồ vật dùng để chứa nước.",
+      "en": "Tank; basin.",
+      "es": "Tanque."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bể",
+      "en": "tank",
+      "es": "tanque"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Nhà tôi có một cái bể nước lớn.",
+      "en": "My house has a large water tank.",
+      "es": "Mi casa tiene một gran tanque de agua."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "w2x3y4z5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bể",
+      "language": "vi",
+      "sentence": "Con cá đang bơi trong ___.",
+      "choices": [
+        "bể",
+        "hộp",
+        "chậu"
+      ],
+      "answer": "bể",
+      "translation": {
+        "en": "The fish is swimming in the tank."
+      },
+      "translatedAnswer": {
+        "en": "tank"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "x3y4z5a6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bể",
+      "language": "vi",
+      "sentence": "Cần thau rửa ___ nước định kỳ.",
+      "answer": "bể",
+      "translation": {
+        "en": "The water tank needs regular cleaning."
+      },
+      "translatedAnswer": {
+        "en": "tank"
+      }
+    }
+  },
   "_id": "dwcQxVVfrDj8cDXIbMed",
   "level": "B1",
   "topic": "Daily Life & Objects"

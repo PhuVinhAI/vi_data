@@ -36,6 +36,68 @@
   "source": "frequency_analysis",
   "word": "ga",
   "createdAt": "2025-07-21T11:17:01.528Z",
+  "flashcard": {
+    "definitions": {
+      "vi": "Nơi tàu dừng để đón, trả khách.",
+      "en": "Station; railway station.",
+      "es": "Estación."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "ga",
+      "en": "station",
+      "es": "estación"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Gặp nhau ở ga tàu nhé.",
+      "en": "Let's meet at the train station.",
+      "es": "Nos vemos trong la estación de tren."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "c8d9e0f1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ga",
+      "language": "vi",
+      "sentence": "Tôi đang đứng đợi ở ___.",
+      "choices": [
+        "ga",
+        "nhà",
+        "trường"
+      ],
+      "answer": "ga",
+      "translation": {
+        "en": "I am standing waiting at the station."
+      },
+      "translatedAnswer": {
+        "en": "station"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "d9e0f1g2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "ga",
+      "language": "vi",
+      "sentence": "Nhà ___ rất đông người.",
+      "answer": "ga",
+      "translation": {
+        "en": "The station building is very crowded."
+      },
+      "translatedAnswer": {
+        "en": "station"
+      }
+    }
+  },
   "_id": "j0Q0sp5HitQ2dzuHVPAn",
   "level": "A2",
   "topic": "Places & Locations"

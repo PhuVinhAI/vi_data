@@ -36,6 +36,68 @@
   ],
   "rank": 475,
   "language": "vi",
+  "flashcard": {
+    "definitions": {
+      "vi": "Dùng vũ lực để chiếm giữ người khác trái phép.",
+      "en": "Kidnap; abduct.",
+      "es": "Secuestrar."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bắt cóc",
+      "en": "kidnap",
+      "es": "secuestrar"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Anh ta bị bắt cóc giữa ban ngày.",
+      "en": "He was kidnapped in broad daylight.",
+      "es": "Fue secuestrado a plena luz del día."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "y4z5a6b7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bắt cóc",
+      "language": "vi",
+      "sentence": "Đừng để người lạ ___ bạn nhé.",
+      "choices": [
+        "bắt cóc",
+        "bắt tay",
+        "đón"
+      ],
+      "answer": "bắt cóc",
+      "translation": {
+        "en": "Don't let strangers kidnap you."
+      },
+      "translatedAnswer": {
+        "en": "kidnap"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "z5a6b7c8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bắt cóc",
+      "language": "vi",
+      "sentence": "Vụ ___ gây chấn động dư luận.",
+      "answer": "bắt cóc",
+      "translation": {
+        "en": "The kidnapping case shocked the public."
+      },
+      "translatedAnswer": {
+        "en": "kidnap"
+      }
+    }
+  },
   "_id": "KOipzdV3A9mEW8LopSvg",
   "level": "B2",
   "topic": "Crime & Law"

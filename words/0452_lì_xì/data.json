@@ -36,6 +36,68 @@
     "Em rất vui khi nhận được lì xì đầu năm từ bố mẹ."
   ],
   "originalCount": 23,
+  "flashcard": {
+    "definitions": {
+      "vi": "Tiền mừng tuổi đầu năm mới.",
+      "en": "Lucky money (red envelope).",
+      "es": "Dinero de la suerte."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "lì xì",
+      "en": "lucky money",
+      "es": "dinero de la suerte"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Bé nhận được nhiều tiền lì xì.",
+      "en": "The baby received a lot of lucky money.",
+      "es": "El bebé recibió mucho dinero de la suerte."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "m2n3o4p5-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lì xì",
+      "language": "vi",
+      "sentence": "Năm nay con được ___ bao nhiêu?",
+      "choices": [
+        "lì xì",
+        "mắng",
+        "đọc"
+      ],
+      "answer": "lì xì",
+      "translation": {
+        "en": "How much lucky money did you get this year?"
+      },
+      "translatedAnswer": {
+        "en": "lucky money"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "n3o4p5q6-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "lì xì",
+      "language": "vi",
+      "sentence": "Hết Tết rồi, cất tiền ___ đi.",
+      "answer": "lì xì",
+      "translation": {
+        "en": "Tet is over, put away the lucky money."
+      },
+      "translatedAnswer": {
+        "en": "lucky money"
+      }
+    }
+  },
   "_id": "PgPWI0EYy6dUXYMsQNws",
   "level": "A2",
   "topic": "Culture & Traditions"

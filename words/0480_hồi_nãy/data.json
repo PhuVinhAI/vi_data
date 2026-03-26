@@ -36,6 +36,68 @@
     "northern_3.mp3"
   ],
   "notes_md": "**Hồi nãy** means *a moment ago* or *earlier just now* — something that happened very recently.\n\nIt’s a time expression, usually placed at the beginning or end of a sentence.  \n\nIt talks about the near past, often things that just happened and may still be relevant now.  \n\nVery similar to **lúc nãy** — they’re almost interchangeable in everyday speech.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Xảy ra trước đây một thời gian ngắn.",
+      "en": "A moment ago; just now.",
+      "es": "Hace un momento."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "hồi nãy",
+      "en": "a moment ago",
+      "es": "hace un momento"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Tôi đã ăn cơm hồi nãy.",
+      "en": "I ate a moment ago.",
+      "es": "Comí hace un momento."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "a6b7c8d9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hồi nãy",
+      "language": "vi",
+      "sentence": "Cậu ấy vừa mới đi ___.",
+      "choices": [
+        "hồi nãy",
+        "ngày mai",
+        "năm sau"
+      ],
+      "answer": "hồi nãy",
+      "translation": {
+        "en": "He just left a moment ago."
+      },
+      "translatedAnswer": {
+        "en": "a moment ago"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "b7c8d9e0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "hồi nãy",
+      "language": "vi",
+      "sentence": "___ trời còn nắng mà giờ đã mưa.",
+      "answer": "hồi nãy",
+      "translation": {
+        "en": "It was sunny a moment ago but now it's raining."
+      },
+      "translatedAnswer": {
+        "en": "a moment ago"
+      }
+    }
+  },
   "_id": "JErz9PXfbPuH0YE7UhK6",
   "level": "A2",
   "topic": "Time & Dates"

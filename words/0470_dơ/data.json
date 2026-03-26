@@ -36,6 +36,68 @@
     "Chị không thích ăn ở chỗ mà bàn ghế quá dơ."
   ],
   "notes_md": "**dơ** = dirty, not clean. It’s used for things that have dirt, stains, or are unhygienic.\n\nIt’s an adjective, so it goes after the noun: *tay dơ, quần áo dơ, sàn dơ*. You can also say **bị dơ** to mean “get dirty.”  \n\nStrong opposite: **sạch** (clean).  \n\nIt can also imply “gross” or slightly rude behavior in some contexts, but the main meaning is physical dirt.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Không sạch sẽ; có nhiều vết bẩn.",
+      "en": "Dirty; filthy.",
+      "es": "Sucio."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "dơ",
+      "en": "dirty",
+      "es": "sucio"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Sàn nhà rất dơ.",
+      "en": "The floor is very dirty.",
+      "es": "El suelo está muy sucio."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "u0v1w2x3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dơ",
+      "language": "vi",
+      "sentence": "Mặt bạn bị ___ rồi kìa.",
+      "choices": [
+        "dơ",
+        "sạch",
+        "trắng"
+      ],
+      "answer": "dơ",
+      "translation": {
+        "en": "Your face is dirty."
+      },
+      "translatedAnswer": {
+        "en": "dirty"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "v1w2x3y4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "dơ",
+      "language": "vi",
+      "sentence": "Đừng để quần áo bị ___.",
+      "answer": "dơ",
+      "translation": {
+        "en": "Don't let your clothes get dirty."
+      },
+      "translatedAnswer": {
+        "en": "dirty"
+      }
+    }
+  },
   "_id": "TyJDWgN1QHhRvu6zSpKT",
   "level": "B1",
   "topic": "Adjectives & Descriptions"

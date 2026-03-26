@@ -36,6 +36,68 @@
     "southern_3.mp3"
   ],
   "addedReason": "dyke/embankment",
+  "flashcard": {
+    "definitions": {
+      "vi": "Công trình đắp bằng đất để ngăn nước lụt.",
+      "en": "Dyke; levee.",
+      "es": "Dique."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "đê",
+      "en": "dyke",
+      "es": "dique"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Con đê bảo vệ làng khỏi lũ lụt.",
+      "en": "The dyke protects the village from floods.",
+      "es": "El dique protege al pueblo de las inundaciones."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "o4p5q6r7-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đê",
+      "language": "vi",
+      "sentence": "Đi bộ trên ___ rất mát.",
+      "choices": [
+        "đê",
+        "nhà",
+        "trường"
+      ],
+      "answer": "đê",
+      "translation": {
+        "en": "Walking on the dyke is very cool."
+      },
+      "translatedAnswer": {
+        "en": "dyke"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "p5q6r7s8-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "đê",
+      "language": "vi",
+      "sentence": "Con ___ trải dài theo dòng sông.",
+      "answer": "đê",
+      "translation": {
+        "en": "The dyke stretches along the river."
+      },
+      "translatedAnswer": {
+        "en": "dyke"
+      }
+    }
+  },
   "_id": "xbZlhEdPuKh7jEWWGj80",
   "level": "B1",
   "topic": "Places & Directions"

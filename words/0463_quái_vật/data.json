@@ -36,6 +36,68 @@
   ],
   "language": "vi",
   "rank": 463,
+  "flashcard": {
+    "definitions": {
+      "vi": "Sinh vật kỳ dị và đáng sợ trong truyền thuyết.",
+      "en": "Monster.",
+      "es": "Monstruo."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "quái vật",
+      "en": "monster",
+      "es": "monstruo"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Con quái vật trong phim trông rất thật.",
+      "en": "The monster in the movie looks very real.",
+      "es": "El monstruo de la película parece rất real."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "q6r7s8t9-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quái vật",
+      "language": "vi",
+      "sentence": "Đừng sợ, không có ___ đâu.",
+      "choices": [
+        "quái vật",
+        "thú cưng",
+        "bạn bè"
+      ],
+      "answer": "quái vật",
+      "translation": {
+        "en": "Don't be afraid, there is no monster."
+      },
+      "translatedAnswer": {
+        "en": "monster"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "r7s8t9u0-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "quái vật",
+      "language": "vi",
+      "sentence": "Truyện kể về một con ___ khổng lồ.",
+      "answer": "quái vật",
+      "translation": {
+        "en": "The story tells about a giant monster."
+      },
+      "translatedAnswer": {
+        "en": "monster"
+      }
+    }
+  },
   "_id": "XTmW4oceRyFskZcpp8Zs",
   "level": "B1",
   "topic": "Fantasy & Fiction"

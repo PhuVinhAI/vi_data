@@ -36,6 +36,68 @@
   "createdAt": "2025-07-21T11:14:29.542Z",
   "word": "vòng vòng",
   "originalFrequency": 0.0203,
+  "flashcard": {
+    "definitions": {
+      "vi": "Di chuyển xung quanh một khu vực.",
+      "en": "Around; in circles.",
+      "es": "Alrededor."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "vòng vòng",
+      "en": "around",
+      "es": "alrededor"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Họ cứ đi vòng vòng tìm nhà.",
+      "en": "They kept going around looking for the house.",
+      "es": "Siguieron dando vueltas buscando la casa."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "k0l1m2n3-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vòng vòng",
+      "language": "vi",
+      "sentence": "Anh ấy cứ chạy ___ sân bóng.",
+      "choices": [
+        "vòng vòng",
+        "thẳng tắp",
+        "ngang qua"
+      ],
+      "answer": "vòng vòng",
+      "translation": {
+        "en": "He kept running around the football field."
+      },
+      "translatedAnswer": {
+        "en": "around"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "l1m2n3o4-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "vòng vòng",
+      "language": "vi",
+      "sentence": "Đừng đi ___ nữa, chóng mặt quá.",
+      "answer": "vòng vòng",
+      "translation": {
+        "en": "Don't go around anymore, it's so dizzy."
+      },
+      "translatedAnswer": {
+        "en": "around"
+      }
+    }
+  },
   "_id": "AVX8xObV0lif5egWSp3h",
   "level": "B1",
   "topic": "Places & Directions"

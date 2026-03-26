@@ -36,6 +36,68 @@
     "Can you provide evidence for what you say?"
   ],
   "notes_md": "**Bằng chứng** means *evidence* — proof that something is true or happened.\n\nIt’s a **noun**. You often say *có bằng chứng* (have evidence), *đưa ra bằng chứng* (present evidence), *thiếu bằng chứng* (lack evidence). Usually uncountable in meaning, but you can use classifiers like *một bằng chứng* when talking about one specific piece.\n\nCommon pairings: *bằng chứng rõ ràng* (clear evidence), *bằng chứng thuyết phục* (convincing evidence), *bằng chứng cụ thể* (specific evidence).\n\nClose synonym: **chứng cứ** (more formal, often legal). Think: *bằng chứng* = general proof, *chứng cứ* = courtroom vibe.",
+  "flashcard": {
+    "definitions": {
+      "vi": "Sự việc hoặc vật dùng để chứng minh sự thật.",
+      "en": "Evidence; proof.",
+      "es": "Evidencia."
+    },
+    "audioUrl": "flashcard.mp3",
+    "translations": {
+      "vi": "bằng chứng",
+      "en": "evidence",
+      "es": "evidencia"
+    },
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "example": {
+      "vi": "Không có bằng chứng nào chống lại anh ta.",
+      "en": "There is no evidence against him.",
+      "es": "No hay evidencia contra él."
+    }
+  },
+  "multiChoiceQuiz": {
+    "type": "multiChoiceQuiz",
+    "id": "s8t9u0v1-1234-5678-9012-34567890abcd",
+    "audioUrl": "multi_choice.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bằng chứng",
+      "language": "vi",
+      "sentence": "Bạn có ___ gì không?",
+      "choices": [
+        "bằng chứng",
+        "lời nói",
+        "tiền bạc"
+      ],
+      "answer": "bằng chứng",
+      "translation": {
+        "en": "Do you have any evidence?"
+      },
+      "translatedAnswer": {
+        "en": "evidence"
+      }
+    }
+  },
+  "fillBlankQuiz": {
+    "type": "fillBlankQuiz",
+    "id": "t9u0v1w2-1234-5678-9012-34567890abcd",
+    "audioUrl": "fill_blank.mp3",
+    "createdAt": "2025-03-12T13:00:00.000Z",
+    "updatedAt": "2025-03-12T13:00:00.000Z",
+    "content": {
+      "word": "bằng chứng",
+      "language": "vi",
+      "sentence": "Cảnh sát đang thu thập ___.",
+      "answer": "bằng chứng",
+      "translation": {
+        "en": "The police are gathering evidence."
+      },
+      "translatedAnswer": {
+        "en": "evidence"
+      }
+    }
+  },
   "_id": "3naVy91OkCMhCVGd4qdJ",
   "level": "B2",
   "topic": "Crime & Law"
